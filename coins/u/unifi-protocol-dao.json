@@ -1,0 +1,30 @@
+{
+    "id": "unifi-protocol-dao",
+    "symbol": "unfi",
+    "name": "Unifi Protocol DAO",
+    "platforms": {
+        "ethereum": "0x441761326490cacf7af299725b6292597ee822c2",
+        "binance-smart-chain": "0x728c5bac3c3e370e372fc4671f9ef6916b814d8b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Launchpool",
+        "Polygon Ecosystem",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Unifi Protocol DAO is a group of non-custodial, interoperable multi-chain smart contracts that aims to provide the tools for Decentralized Finance (DeFi) product development."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x441761326490cacf7af299725b6292597ee822c2",
+    "url": "https://unifiprotocol.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x441761326490cACF7aF299725B6292597EE822c2",
+        "https://bscscan.com/token/0x728C5baC3C3e370E372Fc4671f9ef6916b814d8B",
+        "https://ethplorer.io/address/0x441761326490cACF7aF299725B6292597EE822c2"
+    ],
+    "twitter": "unifiprotocol",
+    "telegram": "unifi_protocol"
+}

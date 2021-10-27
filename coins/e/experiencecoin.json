@@ -1,0 +1,22 @@
+{
+    "id": "experiencecoin",
+    "symbol": "epc",
+    "name": "ExperienceCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Experiencecoin is a peer-to-peer Internet currency that enables instant payments to anyone in the world. It is based on the Bitcoin protocol but differs from Bitcoin in that it can be efficiently mined with consumer-grade hardware. Experiencecoin provides faster transaction confirmations (1 minutes on average) and uses a memory-hard, scrypt-based mining proof-of-work algorithm to target the regular computers and GPUs most people already have. The Experiencecoin network is scheduled to produce 21.5 billion currency units over 800 years. One of the aims of Experiencecoin was to provide a mining algorithm that could run at the same time, on the same hardware used to mine Experiencecoins. With the rise of specialized ASICs for Experiencecoin, Experiencecoin continues to satisfy these goals."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://experiencecoin.org/",
+    "explorers": [
+        "http://explorer.epcnodes.com/"
+    ],
+    "twitter": "experiencecoin",
+    "facebook": "experiencecoin",
+    "telegram": "experiencecoin",
+    "reddit": "experiencecoin",
+    "github_org": "experiencecoin"
+}

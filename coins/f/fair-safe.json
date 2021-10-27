@@ -1,0 +1,24 @@
+{
+    "id": "fair-safe",
+    "symbol": "fsafe",
+    "name": "Fair Safe",
+    "platforms": {
+        "binance-smart-chain": "0xee738a9e5fb78c24d26cecd30389ed977c38d0ca"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fair Safe is a deflationary, auto-staking community token.\r\n\r\nOur aim is to create a newbie friendly environment for users who are new to crypto and De-Fi. We are currently on the Binance Smart Chain but will be looking to migrate to a different network solution in the future."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xee738a9e5fb78c24d26cecd30389ed977c38d0ca",
+    "url": "https://fairsafe.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xEE738a9e5FB78c24D26ceCD30389ED977C38D0Ca"
+    ],
+    "twitter": "fairsafebsc",
+    "telegram": "fairsafe",
+    "reddit": "FAIRSAFE/",
+    "github_org": "0xAizen"
+}

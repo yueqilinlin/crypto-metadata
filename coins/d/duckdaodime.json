@@ -1,0 +1,24 @@
+{
+    "id": "duckdaodime",
+    "symbol": "ddim",
+    "name": "DuckDaoDime",
+    "platforms": {
+        "ethereum": "0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20",
+        "binance-smart-chain": "0xc9132c76060f6b319764ea075973a650a1a53bc9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A community governance token"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20",
+    "url": "https://duckdao.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20",
+        "https://ethplorer.io/address/0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20",
+        "https://bscscan.com/token/0xc9132c76060f6b319764ea075973a650a1a53bc9"
+    ],
+    "twitter": "dao_duck"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "babyeth",
+    "symbol": "babyeth",
+    "name": "BabyEth",
+    "platforms": {
+        "binance-smart-chain": "0xaffbf5d4693c93f23c35a08e31439ea53d952351"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$BabyEth proposes an innovative feature in its contract : DIVIDEND YIELD PAID IN ETH With the auto-claim feature, simply hold $BabyEth and you'll receive ETH automatically in your wallet every 60min . Hold Babyeth and get rewarded in ETH on every transaction!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaffbf5d4693c93f23c35a08e31439ea53d952351",
+    "url": "https://thebabyeth.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xaFfbF5D4693C93F23c35a08E31439Ea53d952351"
+    ],
+    "twitter": "BabyEthCoin",
+    "telegram": "realbabyeth"
+}

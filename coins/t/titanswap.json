@@ -1,0 +1,24 @@
+{
+    "id": "titanswap",
+    "symbol": "titan",
+    "name": "TitanSwap",
+    "platforms": {
+        "ethereum": "0x3a8cccb969a61532d1e6005e2ce12c200caece87"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TITAN is a blockchain based decentralized financial center that provides optimal liquidity solutions for different digital asset category by adaptive bonding curve. It not only provides a user-centered decentralized exchange, but also it is an aggregated liquidity pool that supports order smart routing."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x3a8cccb969a61532d1e6005e2ce12c200caece87",
+    "url": "https://titanswap.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x3A8cCCB969a61532d1E6005e2CE12C200caeCe87",
+        "https://ethplorer.io/address/0x3a8cccb969a61532d1e6005e2ce12c200caece87"
+    ],
+    "twitter": "TitanSwaporg",
+    "telegram": "TitanSwap",
+    "github_org": "titanSwap"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "baby-shark-finance",
+    "symbol": "bbs",
+    "name": "Baby-Shark.Finance",
+    "platforms": {
+        "binance-smart-chain": "0x46551803322db7be94074e9773377f8b037e9d0e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Baby-shark.finance is inspired by \"\"Baby Shark\"\" song.\r\nThe BBS project is built based on a multi-platform that contains: AMM DEX, NFT Marketplace, NFT Entertainment, Limited NFT Music Auction, which is governed by the community."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x46551803322db7be94074e9773377f8b037e9d0e",
+    "url": "https://baby-shark.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x46551803322db7be94074e9773377f8b037e9d0e"
+    ],
+    "twitter": "BabyShark_Fi",
+    "telegram": "BabyShark_Fi",
+    "reddit": "BabyShark_Finance/"
+}

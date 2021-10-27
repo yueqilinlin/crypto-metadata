@@ -1,0 +1,31 @@
+{
+    "id": "reef-finance",
+    "symbol": "reef",
+    "name": "Reef Finance",
+    "platforms": {
+        "ethereum": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+        "binance-smart-chain": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
+        "harmony-shard-0": "0x9ab0db833557d95aff98c09b560145ad34e681b8",
+        "sora": "0x0004d3168f737e96b66b72fbb1949a2a23d4ef87182d1e8bf64096f1bb348e0b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Binance Smart Chain Ecosystem",
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+    "url": "https://reef.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+        "https://ethplorer.io/address/0xfe3e6a25e6b192a42a44ecddcd13796471735acf"
+    ],
+    "twitter": "ReefDeFi",
+    "telegram": "reefdefi",
+    "reddit": "ReefDeFi/"
+}

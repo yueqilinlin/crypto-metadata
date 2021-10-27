@@ -1,0 +1,24 @@
+{
+    "id": "beam-vault-nftx",
+    "symbol": "beam",
+    "name": "BEAM Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xcd9b72f6e971026ea8609d2918c7bd02e1653945"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "BEAM Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs).\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcd9b72f6e971026ea8609d2918c7bd02e1653945",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xcd9b72f6e971026ea8609d2918c7bd02e1653945",
+        "https://ethplorer.io/address/0xcd9b72f6e971026ea8609d2918c7bd02e1653945"
+    ],
+    "twitter": "nftx_"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "alaya",
+    "symbol": "atp",
+    "name": "Alaya",
+    "platforms": {},
+    "hashing_algorithm": "Keccak",
+    "categories": [],
+    "description": {
+        "en": "Alaya is a business sandbox and testing field for the next-generation of financial infrastructure of PlatON, a global data asset computing infrastructure with cutting-edge privacy-preserving architecture. While Alaya and PlatON share the almost identical underlying technology, they maintain their respective degrees of openness and independent activities. \r\nAlaya is positioned as a testing ground for innovative technology and distributed finance, and PlatON will focus more on serving financial institutions across the globe and ultimately building up a multi-level business model of finance."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "url": "https://www.alaya.network/",
+    "explorers": [
+        "https://scan.alaya.network/"
+    ],
+    "twitter": "PlatON_Network",
+    "facebook": "PlatONNetwork",
+    "telegram": "PlatONNetwork",
+    "github_org": "AlayaNetwork"
+}

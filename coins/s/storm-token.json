@@ -1,0 +1,25 @@
+{
+    "id": "storm-token",
+    "symbol": "storm",
+    "name": "Storm Token",
+    "platforms": {
+        "avalanche": "0x6afd5a1ea4b793cc1526d6dc7e99a608b356ef7b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem"
+    ],
+    "description": {
+        "en": "StormSwap is an upcoming sustainable decentralized yield farming & yield aggegrator protocol powered by Avalanche \ud83d\udd3a. Our focus is to provide a safe yield farming experience for our investors who are willing to support us on our journey to becoming one of Avalanche best defi protocols available."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6afd5a1ea4b793cc1526d6dc7e99a608b356ef7b",
+    "url": "https://stormswap.finance/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0x6AFD5A1ea4b793CC1526d6Dc7e99A608b356eF7b/token-transfers"
+    ],
+    "twitter": "StormSwap_Fi",
+    "telegram": "StormSwapFinance",
+    "github_org": "Storm224"
+}

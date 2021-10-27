@@ -1,0 +1,26 @@
+{
+    "id": "terra-krw",
+    "symbol": "krt",
+    "name": "TerraKRW",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "KRW Stablecoin",
+        "Terra Ecosystem",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "A price-stable cryptocurrency aimed at mass adoption.\r\nAs its scale grows, we see Terra evolving into a new financial infrastructure for the next generation of decentralized apps."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://terra.money/",
+    "explorers": [
+        "https://finder.terra.money/",
+        "https://hubble.figment.io/terra/chains/columbus-5",
+        "https://terra.stake.id/#/"
+    ],
+    "twitter": "terra_money",
+    "telegram": "terra_announcements",
+    "github_org": "terra-project"
+}

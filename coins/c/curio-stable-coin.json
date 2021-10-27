@@ -1,0 +1,24 @@
+{
+    "id": "curio-stable-coin",
+    "symbol": "csc",
+    "name": "Curio Stable Coin",
+    "platforms": {
+        "ethereum": "0xfdcdfa378818ac358739621ddfa8582e6ac1adcb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfdcdfa378818ac358739621ddfa8582e6ac1adcb",
+    "url": "https://stablecoin.curioinvest.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xfDcdfA378818AC358739621ddFa8582E6ac1aDcB",
+        "https://ethplorer.io/address/0xfdcdfa378818ac358739621ddfa8582e6ac1adcb"
+    ],
+    "twitter": "curio_invest",
+    "telegram": "CurioInvestCommunity",
+    "github_org": "CurioTeam"
+}

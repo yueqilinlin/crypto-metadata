@@ -1,0 +1,23 @@
+{
+    "id": "safeaffinity",
+    "symbol": "affinity",
+    "name": "SafeAffinity",
+    "platforms": {
+        "binance-smart-chain": "0x0cae6c43fe2f43757a767df90cf5054280110f3e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeAffinity is the cornerstone of the SAFE projects. We lump SafeEarn and SafeVault together as reflections. When you receive reflections in SafeEarn and SafeVault you then get reflections pf Safemoon. If we get on SafeEarns whitelist (which is in the works) then holders would receive a stake in EverRise. SafeAffinity has very simple tokenomics of 8% buy fee and a 20% sell fee, the difference in percentages is obviously to reward holding. I hope this gives a good depiction of our project. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0cae6c43fe2f43757a767df90cf5054280110f3e",
+    "url": "https://safeaffinity.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x0cae6c43fe2f43757a767df90cf5054280110f3e"
+    ],
+    "twitter": "SafeAffinity",
+    "reddit": "SafeAffinity/",
+    "github_org": "SafeAffinity"
+}

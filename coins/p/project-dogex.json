@@ -1,0 +1,23 @@
+{
+    "id": "project-dogex",
+    "symbol": "dogex",
+    "name": "Project DogeX",
+    "platforms": {
+        "binance-smart-chain": "0xf57fcab4e5b76fc49917f6ac11eac27e222ca111"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DogeX is possibly the first project that has invented a \u2018first of its kind\u2019 trading mechanism that ensures our chart is always a higher low. With extra features such as a Fuel Stop, and Golden Hour.\r\n\r\nDogeX innovates with a new kind of Buyback function. It sweeps the floor: Whenever the floor is hit, the DogeX Buyback wallet, performs various buy transactions automatically based on the floor\r\nBlockchain: Binance Smart Chain\r\n\r\nThe DogeX is the first of its kind that helps support our floor making it more powerful than just a regular buyback token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf57fcab4e5b76fc49917f6ac11eac27e222ca111",
+    "url": "https://projectdogex.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xf57fcAB4E5B76fc49917f6AC11eac27E222ca111"
+    ],
+    "twitter": "dogexofficial",
+    "telegram": "projectdogex",
+    "github_org": "rockstardotb"
+}

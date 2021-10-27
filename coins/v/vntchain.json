@@ -1,0 +1,25 @@
+{
+    "id": "vntchain",
+    "symbol": "vnt",
+    "name": "VNT Chain",
+    "platforms": {
+        "ethereum": "0x69d2779533a4d2c780639713558b2cc98c46a9b7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "VNT Chain is supported by the world's leading blockchain technology service provider, Yunphant, using the \"consortium chain + crosschain + public chain\" aggregation chain architecture to create a global distributed smart value network, building the connector for data exchange and asset exchange\uff0cand accelerate distributed economy development."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x69d2779533a4d2c780639713558b2cc98c46a9b7",
+    "url": "http://vntchain.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x69d2779533a4d2c780639713558b2cc98c46a9b7",
+        "https://ethplorer.io/address/0x69d2779533a4d2c780639713558b2cc98c46a9b7"
+    ],
+    "twitter": "VNTChainLabs",
+    "telegram": "VNTChainLabs",
+    "reddit": "VNTChain/",
+    "github_org": "vntchain"
+}

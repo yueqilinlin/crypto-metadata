@@ -1,0 +1,23 @@
+{
+    "id": "optionroom-governance-token",
+    "symbol": "court",
+    "name": "OptionRoom Governance Token",
+    "platforms": {
+        "binance-smart-chain": "0xeb804ae530ed9d351374e865c110ed5ce172cea0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OptionRoom is a user governed oracle and forecast protocol built on Polkadot. OptionRoom has the ability to serve as a OaaS \u2014 Oracle as a Service where oracle requests are solved by governance. Oracle requests cost a fee and a solution incentive paid in ROOM, rewarded to request solvers. OptionRoom allows users to create and participate in event derivatives that are pegged to real world outcomes by governance consensus. "
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0xeb804ae530ed9d351374e865c110ed5ce172cea0",
+    "url": "https://www.optionroom.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xEb804aE530Ed9D351374E865c110ed5ce172Cea0"
+    ],
+    "twitter": "option_room",
+    "telegram": "OptionRoom",
+    "github_org": "OptionRoom"
+}

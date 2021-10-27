@@ -1,0 +1,24 @@
+{
+    "id": "moma-protocol",
+    "symbol": "momat",
+    "name": "Moma Protocol",
+    "platforms": {
+        "ethereum": "0x865bb9a28041259b4badafd37799a288aabbfc8c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x865bb9a28041259b4badafd37799a288aabbfc8c",
+    "url": "https://moma.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x865bb9a28041259b4badafd37799a288aabbfc8c",
+        "https://ethplorer.io/address/0x865bb9a28041259b4badafd37799a288aabbfc8c"
+    ],
+    "twitter": "Moma_Finance",
+    "telegram": "Moma_Official",
+    "github_org": "moma-finance"
+}

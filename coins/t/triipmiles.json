@@ -1,0 +1,24 @@
+{
+    "id": "triipmiles",
+    "symbol": "tiim",
+    "name": "TriipMiles",
+    "platforms": {
+        "binance-smart-chain": "0x3da4f9e86deef7c50a8b167493f26e894edcd7d5"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Tourism"
+    ],
+    "description": {
+        "en": "Triip is a blockchain-enabled travel platform allows for direct interactions between service providers and clients. Using a propriety token, Triip Miles or TIIM,  Triip  is a network that enables greater transparency, security and lower cost transactions between those who travel and those who serve them."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x3da4f9e86deef7c50a8b167493f26e894edcd7d5",
+    "url": "https://www.triip.me/",
+    "explorers": [
+        "https://bscscan.com/token/0x3da4f9e86deef7c50a8b167493f26e894edcd7d5"
+    ],
+    "reddit": "triipmiles/",
+    "github_org": "triipme"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "blockstamp",
+    "symbol": "bst",
+    "name": "BlockStamp",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "BlockStamp is a multipurpose Bitcoin blockchain fork designed to promote liberty, transparency, and sovereignty in areas of the digital economy where these fundamental values are most at risk. BlockStamp natively hosts a digital tool for transparently sealing data (timestamping), radically fair online gambling platform, a censorship-proof internet Domain Naming System, and the BST crypto coin."
+    },
+    "country_origin": "PL",
+    "genesis_date": null,
+    "url": "https://blockstamp.info",
+    "explorers": [
+        "https://explorer.blockstamp.info/"
+    ],
+    "twitter": "blockstamp_info",
+    "facebook": "blockstamp.info",
+    "telegram": "Blockstamp",
+    "github_org": "BlockStamp"
+}

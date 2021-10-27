@@ -1,0 +1,22 @@
+{
+    "id": "crunchy-network",
+    "symbol": "crunch",
+    "name": "Crunchy Network",
+    "platforms": {
+        "tezos": "KT1BHCumksALJQJ8q8to2EPigPW6qpyTr7Ng"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CRUNCH is the utility token of crunchy.network. It will aid funding development and will be able to be used to pay for service fees and/or to pay reduced service fees. Additionally some services may require that you hold a certain amount of CRUNCH in your wallet in order to utilize the service."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT1BHCumksALJQJ8q8to2EPigPW6qpyTr7Ng",
+    "url": "https://crunchy.network/",
+    "explorers": [
+        "https://tzkt.io/KT1BHCumksALJQJ8q8to2EPigPW6qpyTr7Ng/operations/"
+    ],
+    "twitter": "CrunchyTez",
+    "telegram": "crunchy_network"
+}

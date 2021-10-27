@@ -1,0 +1,27 @@
+{
+    "id": "unicly-autoglyph-collection",
+    "symbol": "uglyph",
+    "name": "Unicly Autoglyphs Collection",
+    "platforms": {
+        "ethereum": "0xf503bf7a7b0962205668ed041140f4af360304be"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "uTokens",
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "uGLYPH is the first fractionalized Autoglyphs collection on Unicly. Autoglyphs are the first \"on-chain\" generative art on the Ethereum blockchain. They are a completely self-contained mechanism for the creation and ownership of an artwork."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf503bf7a7b0962205668ed041140f4af360304be",
+    "url": "https://www.app.unic.ly/#/utoken-contract/0xf503bf7a7b0962205668ed041140f4af360304be",
+    "explorers": [
+        "https://etherscan.io/token/0xf503bf7a7b0962205668ed041140f4af360304be",
+        "https://ethplorer.io/address/0xf503bf7a7b0962205668ed041140f4af360304be"
+    ],
+    "twitter": "uniclyNFT",
+    "github_org": "uniclyNFT"
+}

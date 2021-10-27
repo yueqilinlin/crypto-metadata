@@ -1,0 +1,24 @@
+{
+    "id": "light-defi",
+    "symbol": "light",
+    "name": "Light Defi",
+    "platforms": {
+        "binance-smart-chain": "0x842668e2b9a73240abf6532dedc89c9c3e050c98"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LIGHT DEFI is an alternative to the financial system based on protocols and technological and industrial options to provide consumers with access to quality energy, based on a clean, reliable and sustainable energy matrix.\r\nDeflationary BEP-20 token that directly finances the construction of photovoltaic solar power plants in Brazil and worldwide. Brazil is one of the countries with the greatest potential for generating renewable energy in the world.\r\n\r\nYou acquire tokens and as a reward you will receive more tokens from the profits earned by the solar power plants."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x842668e2b9a73240abf6532dedc89c9c3e050c98",
+    "url": "https://www.lightdefi.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x842668E2B9A73240aBF6532DEdC89c9c3e050C98"
+    ],
+    "twitter": "Light_DeFi",
+    "telegram": "grupolight",
+    "reddit": "LightGroup",
+    "github_org": "lightdefi"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "velaspad",
+    "symbol": "vlxpad",
+    "name": "VelasPad",
+    "platforms": {
+        "binance-smart-chain": "0xb8e3bb633f7276cc17735d86154e0ad5ec9928c0",
+        "ethereum": "0xb8e3bb633f7276cc17735d86154e0ad5ec9928c0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The First Launchpad on VELAS Blockchain, The fastest AVM Blockchain in the world to date. VLXPAD is a deflationary launchpad token which grants users platform access to exclusive IDO's, Staking Rewards, and much more. VLXPAD is incubated by the highly successful BlueZilla VC."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb8e3bb633f7276cc17735d86154e0ad5ec9928c0",
+    "url": "https://velaspad.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xb8e3bB633F7276cc17735D86154E0ad5ec9928C0",
+        "https://etherscan.io/token/0xb8e3bB633F7276cc17735D86154E0ad5ec9928C0"
+    ],
+    "twitter": "VelasPad",
+    "telegram": "VelasPad"
+}

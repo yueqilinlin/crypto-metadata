@@ -1,0 +1,22 @@
+{
+    "id": "digex",
+    "symbol": "digex",
+    "name": "Digex",
+    "platforms": {
+        "ethereum": "0x763f8b4fb067190e739ed6acb12f40f2f3890840"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DIGEX token is a native token of the Digex.io zero-fee derivatives exchange with built-in strategies and mirror trading."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x763f8b4fb067190e739ed6acb12f40f2f3890840",
+    "url": "https://digex.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x763F8B4fB067190e739Ed6ACB12F40f2F3890840",
+        "https://ethplorer.io/address/0x763f8b4fb067190e739ed6acb12f40f2f3890840"
+    ],
+    "telegram": "digexchat"
+}

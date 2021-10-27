@@ -1,0 +1,29 @@
+{
+    "id": "bifi",
+    "symbol": "bifi",
+    "name": "BiFi",
+    "platforms": {
+        "ethereum": "0x2791bfd60d232150bff86b39b7146c0eaaa2ba81",
+        "fantom": "0xad260f380c9a30b1d60e4548a75010ede630b665"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "BiFi token serves multiple functions on BiFi\u2019s multichain DeFi platform. It can be used as a governance token, used to vote on proposals to enhance or submit proposals for BiFi. It can also be used as a currency to pay for multichain DeFi services on BiFi and used in services on BiFi. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2791bfd60d232150bff86b39b7146c0eaaa2ba81",
+    "url": "https://bifi.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x2791bfd60d232150bff86b39b7146c0eaaa2ba81",
+        "https://ethplorer.io/address/0x2791bfd60d232150bff86b39b7146c0eaaa2ba81"
+    ],
+    "twitter": "BiFi_lending",
+    "telegram": "Bifrost_Global",
+    "reddit": "https://www.reddit.com",
+    "github_org": "bifrost-platform"
+}

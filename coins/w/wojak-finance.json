@@ -1,0 +1,23 @@
+{
+    "id": "wojak-finance",
+    "symbol": "WOJ",
+    "name": "Wojak Finance",
+    "platforms": {
+        "binance-smart-chain": "0x55f96c7005d7c684a65ee653b07b5fe1507c56ab"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The $WOJ token is a charity token, based on the BEP20 standard. Using $WOJ tokens the holders can enjoy multiple benefits within our wojak finance ecosystem, as it may be used as the governance token in the future.\r\nAs it is a deflationary token, the value will gradually increase based on the number of transactions made. Therefore, the more Wojak tokens users hold and donate, the more reward they can expect. In the future, instead of sending funds manually, we plan to automate it, and WOJ Governance will be used for it Our long term goal is to become a completely Decentralized Autonomous Organization through WOJ Governance."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x55f96c7005d7c684a65ee653b07b5fe1507c56ab",
+    "url": "https://woj.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x55f96c7005d7c684a65ee653b07b5fe1507c56ab"
+    ],
+    "twitter": "wojfinance",
+    "telegram": "wojtoken",
+    "github_org": "wojak-finance"
+}

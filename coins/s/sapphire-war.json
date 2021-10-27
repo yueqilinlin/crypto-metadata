@@ -1,0 +1,22 @@
+{
+    "id": "sapphire-war",
+    "symbol": "war",
+    "name": "Sapphire War",
+    "platforms": {
+        "fantom": "0xb063862a72d234730654c0577c188452424cf53c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A multichain DeFi ecosystem #2. Layer 2"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb063862a72d234730654c0577c188452424cf53c",
+    "url": "https://war.sapphiredefi.com/",
+    "explorers": [
+        "https://ftmscan.com/token/0xB063862a72d234730654c0577C188452424CF53c"
+    ],
+    "twitter": "DefiSapphire",
+    "telegram": "DefiSapphire"
+}

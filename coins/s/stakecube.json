@@ -1,0 +1,25 @@
+{
+    "id": "stakecube",
+    "symbol": "scc",
+    "name": "Stakecube",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Cryptocurrency",
+        "Masternodes"
+    ],
+    "description": {
+        "en": "SCC is the all-purpose coin when it comes to staking, masternode hosting, exchange and mining.\r\nThe coin supports various functions in the in-house POS pool with over 20 different coins and various shared masternodes and private masternodes.\r\n1 year POW and POS, then pure POS with a ROI of ~100% p.a.\r\nA coin can hardly offer more usecases.\r\nAgain: MN hosting, Exchange, Mining contracts, Premium Memberships and much more is already or will be available soon!"
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "url": "https://stakecube.net/",
+    "explorers": [
+        "https://www.coinexplorer.net/SCC",
+        "https://scc.ccore.online/",
+        "https://chains.trittium.cc/SCC/blocks"
+    ],
+    "twitter": "stakecube",
+    "telegram": "Stakecube",
+    "github_org": "stakecube"
+}

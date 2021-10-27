@@ -1,0 +1,28 @@
+{
+    "id": "buzzshow",
+    "symbol": "gldy",
+    "name": "Buzzshow",
+    "platforms": {
+        "ethereum": "0x594207c791afd06a8d087d84d99d1da53ccbd45f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "BuzzShow is currently the only fully developed social video network site that adopt blockchain technology to provide a platform that puts the interests of content creators, curators and viewers first. The blockchain uses Goldies as the cryptocurrency that incentivizes creation, sharing and viewing of videos on the BuzzShow platform.  Members of the platform not only earn as content creators, but they also earn when they share and view videos. This is the first fully developed social video network that allows everyone involved to contribute and earn money on the platform as part of its unique proof of contribution mechanism."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x594207c791afd06a8d087d84d99d1da53ccbd45f",
+    "url": "https://www.buzzshow.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x594207c791afd06a8d087d84d99d1da53ccbd45f",
+        "https://ethplorer.io/address/0x594207c791afd06a8d087d84d99d1da53ccbd45f"
+    ],
+    "twitter": "buzzshownetwork",
+    "facebook": "buzzshownetwork",
+    "telegram": "buzzshow",
+    "reddit": "BuzzShow/",
+    "github_org": "organizations"
+}

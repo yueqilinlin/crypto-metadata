@@ -1,0 +1,24 @@
+{
+    "id": "combo-2",
+    "symbol": "comb",
+    "name": "Combo",
+    "platforms": {
+        "ethereum": "0x7c81542ed859a2061538fee22b6544a235b9557d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Combo (COMB) is an aggregation protocol for on-chain derivatives developed based on the Kuchain public chain, which includes an aggregation platform for various protocols such as liquidity mining, synthetic asset issuance, collateral mining protocols and oracle machines, etc. The COMBO project serves to provide a bottom layer of on-chain development, which enables traditional financial assets including legal tender, bulk commodities and stocks to seamlessly chain assets through blockchain technology. Combo is completely decentralized and admission-free, for the purpose of making it easy for all users to participate, and provides a solution channel that leverages traditional financial assets and more diverse and complex transaction strategies."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0x7c81542ed859a2061538fee22b6544a235b9557d",
+    "url": "https://www.comboos.com",
+    "explorers": [
+        "https://etherscan.io/token/0x7C81542ED859A2061538FEE22B6544a235B9557D",
+        "https://ethplorer.io/address/0x7c81542ed859a2061538fee22b6544a235b9557d"
+    ],
+    "twitter": "DefiCombo",
+    "facebook": "DeFiComboGlobal",
+    "telegram": "Combo6688"
+}

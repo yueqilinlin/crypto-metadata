@@ -1,0 +1,22 @@
+{
+    "id": "mg-social",
+    "symbol": "mgs",
+    "name": "MG.Social",
+    "platforms": {
+        "xrp": "rHP4bHzghBdzskqcaPciL5WRGkHosB5zYx"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MG.Social is an ad-free social network that allows creators to earn crypto rewards for their posts. MGS utility tokens are distributed as a daily reward for engagement with the MG.Social platform.\r\n\r\nMG.Social creators can user their MGS tokens to tip creators, create decentralized posts on the MG.Social Public Square(beta) and vote to add additional XRPL tokens to MG.Social (coming soon)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "rHP4bHzghBdzskqcaPciL5WRGkHosB5zYx",
+    "url": "https://mg.social/",
+    "explorers": [
+        "https://bithomp.com/explorer/mgsocial"
+    ],
+    "twitter": "MGSocialNetwork",
+    "github_org": "wobsoriano"
+}

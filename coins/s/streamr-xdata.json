@@ -1,0 +1,30 @@
+{
+    "id": "streamr-xdata",
+    "symbol": "xdata",
+    "name": "Streamr XDATA",
+    "platforms": {
+        "ethereum": "0x0cf0ee63788a0849fe5297f3407f701e122cc023"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Internet of Things (IOT)",
+        "xDAI Ecosystem",
+        "Big Data",
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "Streamr tokenizes streaming data to enable a new way for machines & people to trade it on a decentralised P2P network."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-07-24",
+    "contract_address": "0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+    "url": "https://streamr.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+        "https://ethplorer.io/address/0x0cf0ee63788a0849fe5297f3407f701e122cc023"
+    ],
+    "twitter": "streamr",
+    "telegram": "streamrdata",
+    "reddit": "streamr",
+    "github_org": "streamr-dev"
+}

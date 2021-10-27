@@ -1,0 +1,27 @@
+{
+    "id": "defidollar",
+    "symbol": "dusd",
+    "name": "DefiDollar",
+    "platforms": {
+        "ethereum": "0x5bc25f649fc4e26069ddf4cf4010f9f706c23831"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "USD Stablecoin",
+        "Decentralized Finance (DeFi)",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "DeFiDollar is a stablecoin index backed asset designed to reduce volatility induced risk."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5bc25f649fc4e26069ddf4cf4010f9f706c23831",
+    "url": "https://app.dusd.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x5bc25f649fc4e26069ddf4cf4010f9f706c23831",
+        "https://ethplorer.io/address/0x5bc25f649fc4e26069ddf4cf4010f9f706c23831"
+    ],
+    "twitter": "defidollar",
+    "github_org": "defidollar"
+}

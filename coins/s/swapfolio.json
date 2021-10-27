@@ -1,0 +1,24 @@
+{
+    "id": "swapfolio",
+    "symbol": "swfl",
+    "name": "Swapfolio",
+    "platforms": {
+        "ethereum": "0xba21ef4c9f433ede00badefcc2754b8e74bd538a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SWFL is a utility token for Swapfolio app, a Uniswap portfolio & trading terminal. Swapfolio offers more trading features and staking rewards to all token stakers."
+    },
+    "country_origin": "MY",
+    "genesis_date": null,
+    "contract_address": "0xba21ef4c9f433ede00badefcc2754b8e74bd538a",
+    "url": "https://swapfol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xba21ef4c9f433ede00badefcc2754b8e74bd538a",
+        "https://ethplorer.io/address/0xba21ef4c9f433ede00badefcc2754b8e74bd538a"
+    ],
+    "twitter": "swapfolio_app",
+    "telegram": "swapfolio_app",
+    "reddit": "swapfolio_app/"
+}

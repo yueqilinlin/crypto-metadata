@@ -1,0 +1,23 @@
+{
+    "id": "uranus",
+    "symbol": "urac",
+    "name": "Uranus",
+    "platforms": {
+        "ethereum": "0xff8be4b22cedc440591dcb1e641eb2a0dd9d25a5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Uranus is a ubiquitous sharing platform that aims to be the Airbnb and Uber for computing resources, enabling computing-power services beyond the conventional public clouds. By interconnecting countless computing resource contributors and users, the Uranus project empower redundant resources in the world. Establishing an expandable public blockchain and an innovative distributed-container technology that provides efficient, cost-effective and decentralized computing services for all users."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xff8be4b22cedc440591dcb1e641eb2a0dd9d25a5",
+    "url": "https://www.uranus.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xff8be4b22cedc440591dcb1e641eb2a0dd9d25a5",
+        "https://ethplorer.io/address/0xff8be4b22cedc440591dcb1e641eb2a0dd9d25a5"
+    ],
+    "telegram": "Uraners",
+    "github_org": "UranusBlockStack"
+}

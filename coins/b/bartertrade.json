@@ -1,0 +1,24 @@
+{
+    "id": "bartertrade",
+    "symbol": "bart",
+    "name": "BarterTrade",
+    "platforms": {
+        "ethereum": "0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We aim to provide a social and gamified experience in trading. Multiple features will be added along the way that will make trading a fun and competetive experience while maximizing trader's revenues."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba",
+    "url": "https://bartertrade.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba",
+        "https://ethplorer.io/address/0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba"
+    ],
+    "twitter": "bartertradeio",
+    "telegram": "BarterTradeofficial",
+    "github_org": "BarterTrade"
+}

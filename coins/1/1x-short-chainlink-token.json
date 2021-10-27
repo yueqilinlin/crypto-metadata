@@ -1,0 +1,17 @@
+{
+    "id": "1x-short-chainlink-token",
+    "symbol": "LINKHEDGE",
+    "name": "1X Short Chainlink Token",
+    "platforms": {
+        "ethereum": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "1X Short Chainlink Token (LINKHEDGE) is an ERC20 token which seeks a return that corresponds to -1 times the daily return of Linkchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://ftx.com/tokens/LINKHEDGE",
+    "explorers": []
+}

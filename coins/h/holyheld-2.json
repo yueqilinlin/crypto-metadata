@@ -1,0 +1,28 @@
+{
+    "id": "holyheld-2",
+    "symbol": "move",
+    "name": "Mover",
+    "platforms": {
+        "ethereum": "0x3fa729b4548becbad4eab6ef18413470e6d5324c",
+        "polygon-pos": "0x521cddc0cba84f14c69c1e99249f781aa73ee0bc",
+        "fantom": "0xc055c698f3793577707b3e6979b089f50c314d3a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator"
+    ],
+    "description": {
+        "en": "If DeFi and fintech had a baby. Building an easier way to trade, store, send, and earn interest on your crypto in a simple wallet with a debit card."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3fa729b4548becbad4eab6ef18413470e6d5324c",
+    "url": "https://viamover.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3FA729B4548beCBAd4EaB6EF18413470e6D5324C",
+        "https://ethplorer.io/address/0x3FA729B4548beCBAd4EaB6EF18413470e6D5324C"
+    ],
+    "twitter": "viaMover",
+    "telegram": "viaMover",
+    "github_org": "Holyheld"
+}

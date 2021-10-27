@@ -1,0 +1,22 @@
+{
+    "id": "leopard",
+    "symbol": "leopard",
+    "name": "Leopard",
+    "platforms": {
+        "binance-smart-chain": "0x4efab39b14167da54aebed2094a61aa1fd384056"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Launch Leopard Staking, Expand development team, NFT Implementation, Work on Vaults, List on DAPPradar,"
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0x4efab39b14167da54aebed2094a61aa1fd384056",
+    "url": "https://leopardbsc.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x4efab39b14167da54aebed2094a61aa1fd384056"
+    ],
+    "twitter": "Leopardbsc",
+    "telegram": "leopardbsc"
+}

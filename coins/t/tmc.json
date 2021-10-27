@@ -1,0 +1,24 @@
+{
+    "id": "tmc",
+    "symbol": "tmc",
+    "name": "TMC",
+    "platforms": {
+        "ethereum": "0x1c153badb7e54abcdcb65f0a09fcd6f10de36aa3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The demand and supply of tokens must be free for the growth of the platform based on TMC membership and community. The ecosystem is formed through the use of tokens that are paid and exchanged within the platform and on the exchange. As the size of the TMC ecosystem expands, the value of the token will be stabilized. In addition, payments, exchanges, and transactions within the exchange will become more active."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x1c153badb7e54abcdcb65f0a09fcd6f10de36aa3",
+    "url": "https://tmcfoundation.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x1c153badb7e54abcdcb65f0a09fcd6f10de36aa3",
+        "https://ethplorer.io/address/0x1c153badb7e54abcdcb65f0a09fcd6f10de36aa3"
+    ],
+    "twitter": "TMCOfficial1",
+    "telegram": "tmc_official",
+    "github_org": "TMC-Official"
+}

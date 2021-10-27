@@ -1,0 +1,26 @@
+{
+    "id": "rac",
+    "symbol": "rac",
+    "name": "RAC",
+    "platforms": {
+        "ethereum": "0xc22b30e4cce6b78aaaadae91e44e73593929a3e9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Music",
+        "Entertainment",
+        "Social Money"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc22b30e4cce6b78aaaadae91e44e73593929a3e9",
+    "url": "https://ourzora.com/rac",
+    "explorers": [
+        "https://etherscan.io/token/0xc22b30e4cce6b78aaaadae91e44e73593929a3e9",
+        "https://ethplorer.io/address/0xc22b30e4cce6b78aaaadae91e44e73593929a3e9"
+    ],
+    "twitter": "ourzora"
+}

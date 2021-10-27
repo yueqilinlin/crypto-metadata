@@ -1,0 +1,29 @@
+{
+    "id": "iqeon",
+    "symbol": "iqn",
+    "name": "IQeon",
+    "platforms": {
+        "ethereum": "0x0db8d8b76bc361bacbb72e2c491e06085a97ab31"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment",
+        "Gaming"
+    ],
+    "description": {
+        "en": "IQeon is the first platform where players can earn money thanks to their intelligence and achievements. This will be realized by using the internal currency in the IQeon ecosystem, which at any time can be converted to the crypto currency \u2013 IQeon tokens (IQN) issued based on Ethereum blockchain. IQeon tokens (IQN) can be freely exchanged at existing cryptocurrency exchanges, or transferred to fiat money. "
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x0db8d8b76bc361bacbb72e2c491e06085a97ab31",
+    "url": "https://iqeon.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x0db8d8b76bc361bacbb72e2c491e06085a97ab31",
+        "https://ethplorer.io/address/0x0db8d8b76bc361bacbb72e2c491e06085a97ab31"
+    ],
+    "twitter": "IQeon",
+    "facebook": "iqeon",
+    "telegram": "IQeonICO",
+    "reddit": "IQeon/",
+    "github_org": "iqeon"
+}

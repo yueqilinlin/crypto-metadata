@@ -1,0 +1,24 @@
+{
+    "id": "yu-gi-eth",
+    "symbol": "yge",
+    "name": "Yu-Gi-Eth!",
+    "platforms": {
+        "ethereum": "0x3850b506d082ecc25e14c0ac0e60db06a725b87f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yu-Gi-Eth! is a fan-based anime project that provides reflection tokenomics and NFT minting. Both features will be ultimately combined in a play-to-earn blockchain game."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3850b506d082ecc25e14c0ac0e60db06a725b87f",
+    "url": "https://www.yugieth.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x3850b506d082ecc25e14c0ac0e60db06a725b87f",
+        "https://ethplorer.io/address/0x3850b506d082ecc25e14c0ac0e60db06a725b87f"
+    ],
+    "twitter": "yugieth",
+    "telegram": "https://t.me/yugieth",
+    "reddit": "yugyeth/"
+}

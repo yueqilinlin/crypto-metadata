@@ -1,0 +1,22 @@
+{
+    "id": "pokeball",
+    "symbol": "poke",
+    "name": "Pokeball",
+    "platforms": {
+        "binance-smart-chain": "0xcdad3683335a4a96d2c437dd4513b061e4aec4ff"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0xcdad3683335a4a96d2c437dd4513b061e4aec4ff",
+    "url": "https://pokeball.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xcdad3683335a4a96d2c437dd4513b061e4aec4ff"
+    ],
+    "twitter": "PokeballFinance",
+    "telegram": "pokefi"
+}

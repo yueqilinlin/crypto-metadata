@@ -1,0 +1,20 @@
+{
+    "id": "litecoin-bep2",
+    "symbol": "ltcb",
+    "name": "Litecoin BEP2",
+    "platforms": {
+        "binancecoin": "LTC-F07"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LTC BEP2 aims to provide a token pegged to LTC value for trading on Binance DEX. Litecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Litecoin was an early bitcoin fork, starting in October 2011."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "LTC-F07",
+    "url": "https://www.binance.com/en/blog/347360878904684544/Introducing-BitcoinPegged-Token-on-Binance-Chain",
+    "explorers": [
+        "https://explorer.binance.org/asset/LTC-F07"
+    ]
+}

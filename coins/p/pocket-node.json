@@ -1,0 +1,23 @@
+{
+    "id": "pocket-node",
+    "symbol": "node",
+    "name": "Pocket Node",
+    "platforms": {
+        "ethereum": "0x435d664f72d6f194ef67d63b5f3936650187b131"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pocket Node lets you instantly start masternodes and provides the ability to support crypto networks and easily view masternode status, payout, active time, protocol version and a lot more to closely track the status of your node investment.\r\n\r\nOur design allows a seamless flow of information and setup process to ensure everyone with a mobile and internet connection can run a masternode. Running masternodes allows one to support validations and transactions on blockchain networks in turn of rewards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x435d664f72d6f194ef67d63b5f3936650187b131",
+    "url": "https://www.pocketnode.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x435d664F72D6F194ef67d63B5f3936650187b131",
+        "https://ethplorer.io/address/0x435d664f72d6f194ef67d63b5f3936650187b131"
+    ],
+    "twitter": "pocketnodes",
+    "telegram": "Pocketnode_techsupport"
+}

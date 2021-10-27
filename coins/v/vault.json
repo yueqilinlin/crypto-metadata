@@ -1,0 +1,23 @@
+{
+    "id": "vault",
+    "symbol": "vault",
+    "name": "VAULT",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "VAULT is the platform currency of VAULT.Investments"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://www.vault.investments/",
+    "explorers": [
+        "https://vault-explorer2.vault.investments/"
+    ],
+    "twitter": "VaultInvest",
+    "facebook": "VAULT-Investments-333658787296103",
+    "reddit": "Vaultinvestments/",
+    "github_org": "vault-investments"
+}

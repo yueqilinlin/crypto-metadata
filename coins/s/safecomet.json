@@ -1,0 +1,22 @@
+{
+    "id": "safecomet",
+    "symbol": "safecomet",
+    "name": "SafeComet",
+    "platforms": {
+        "binance-smart-chain": "0xb667bbfe0dcedae1a53555a0e8b0a14eaf0d5231"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeComet is a deflationary BEP-20 protocol, which provides an LP Acquisition algorithm, Static Rewards, Buy Transaction Limiter based on initial Total Supply, and Manual Burn.\r\n\r\nOur Smart Contract collects a 10% fee on every transaction (both buys/sells). The ratio is as follows:\r\n\r\n\u2022 5% is proportionally distributed to all holders, no farming needed. The amount of tokens in your wallet will grow with every transaction, making it a forever-deflationary token.\r\n\u2022 5% is added to the Liquidity pool, which increases the price stability over time, and makes the price floor higher, thus enhancing the token\u2019s usability and protecting your investment."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0xb667bbfe0dcedae1a53555a0e8b0a14eaf0d5231",
+    "url": "https://safecometcrypto.com",
+    "explorers": [
+        "https://bscscan.com/token/0xb667bbfe0dcedae1a53555a0e8b0a14eaf0d5231"
+    ],
+    "twitter": "SafeCometBSC",
+    "telegram": "SafecometAnnouncements"
+}

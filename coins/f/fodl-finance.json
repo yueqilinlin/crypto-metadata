@@ -1,0 +1,24 @@
+{
+    "id": "fodl-finance",
+    "symbol": "fodl",
+    "name": "Fodl Finance",
+    "platforms": {
+        "ethereum": "0x4c2e59d098df7b6cbae0848d66de2f8a4889b9c3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Fodl enables traders to utilize leverage for their trades without paying a funding rate. This leverage is derived from existing DeFi building blocks, such as Compound and Aave.\r\nLaunch App "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4c2e59d098df7b6cbae0848d66de2f8a4889b9c3",
+    "url": "https://beta.fodl.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x4C2e59D098DF7b6cBaE0848d66DE2f8A4889b9C3",
+        "https://ethplorer.io/address/0x4C2e59D098DF7b6cBaE0848d66DE2f8A4889b9C3"
+    ],
+    "twitter": "FODLfi"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "yumyumfarm",
+    "symbol": "yum",
+    "name": "YumYumFarm",
+    "platforms": {
+        "binance-smart-chain": "0xd0939ca16cc60e7088a25fd7caece84c59dfeb92"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YumYumFarm is an NFT marketplace that gives small creators a platform to display/promote their NFTs + Auto generate yield from their wallets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd0939ca16cc60e7088a25fd7caece84c59dfeb92",
+    "url": "https://yumyumfarm.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xd0939ca16cc60e7088a25fd7caece84c59dfeb92"
+    ],
+    "twitter": "yumyumfarm",
+    "telegram": "yumyumfarm",
+    "reddit": "YumYumFarm/"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "t-os",
+    "symbol": "tosc",
+    "name": "T.OS",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "The principle behind T.OS is the establishment of a commercial payment system that utilizes digital currency. This will be the first such system in the history of the world. The solution comprises two coins. The TOS coin, or TOSC, is a regular cryptocurrency coin, which is not used for commerce, but can be exchanged on regular exchanges to any other digital currency. Its value may appreciate or depreciate and that is why it can't be used for commerce."
+    },
+    "country_origin": "JP",
+    "genesis_date": "2017-08-11",
+    "url": "https://www.tosblock.com/",
+    "explorers": [
+        "http://ex.tosblock.com/"
+    ],
+    "twitter": "tosblock_EN",
+    "facebook": "T.OSblock",
+    "github_org": "tos-project"
+}

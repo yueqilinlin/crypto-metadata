@@ -1,0 +1,23 @@
+{
+    "id": "polkapet-world",
+    "symbol": "pets",
+    "name": "PolkaPet World",
+    "platforms": {
+        "ethereum": "0x6afcff9189e8ed3fcc1cffa184feb1276f6a82a5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PolkaPets is a unique NFT concept that encourages participation in the Polkadot ecosystem through partnerships with some of the biggest projects around. Each partner has their very own PolkaPet which they can use to educate and engage owners through special utilities and perks."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6afcff9189e8ed3fcc1cffa184feb1276f6a82a5",
+    "url": "https://polkapet.world/",
+    "explorers": [
+        "https://etherscan.io/token/0x6afcff9189e8ed3fcc1cffa184feb1276f6a82a5",
+        "https://ethplorer.io/address/0x6afcff9189e8ed3fcc1cffa184feb1276f6a82a5"
+    ],
+    "twitter": "polkapets",
+    "telegram": "polkapetworld"
+}

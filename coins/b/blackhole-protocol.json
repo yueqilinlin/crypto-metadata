@@ -1,0 +1,24 @@
+{
+    "id": "blackhole-protocol",
+    "symbol": "black",
+    "name": "BlackHole Protocol",
+    "platforms": {
+        "ethereum": "0xd714d91a169127e11d8fab3665d72e8b7ef9dbe2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An approval-free decentralized & cross-chain burning protocol, innovator of perpetual deflationary blockchain ecosystem."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xd714d91a169127e11d8fab3665d72e8b7ef9dbe2",
+    "url": "https://blackhole.black/",
+    "explorers": [
+        "https://etherscan.io/token/0xd714d91A169127e11D8FAb3665d72E8b7ef9Dbe2",
+        "https://ethplorer.io/address/0xd714d91A169127e11D8FAb3665d72E8b7ef9Dbe2"
+    ],
+    "twitter": "BlackHoleBurn",
+    "telegram": "BlackholeProtocolOfficial",
+    "github_org": "black-hole-finance"
+}

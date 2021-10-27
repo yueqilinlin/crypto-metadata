@@ -1,0 +1,25 @@
+{
+    "id": "lwazi-project",
+    "symbol": "lwazi",
+    "name": "Lwazi Project",
+    "platforms": {
+        "binance-smart-chain": "0x1e6882749471b2491e5592beaac4544be771e68a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Lwazi.io crawls data from multiple different platforms and partners to bring real-time data and news from the crypto-market."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1e6882749471b2491e5592beaac4544be771e68a",
+    "url": "https://lwazi.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x1e6882749471b2491e5592beaac4544be771e68a",
+        "https://ethplorer.io/address/0x2495a57f6f5bfebf381f8dd70b1ad19c1972b1ee",
+        "https://etherscan.io/token/0x2495a57f6f5bfebf381f8dd70b1ad19c1972b1ee"
+    ],
+    "twitter": "lwaziio",
+    "telegram": "lwaziio",
+    "reddit": "lwaziboard/"
+}

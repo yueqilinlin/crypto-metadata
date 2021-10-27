@@ -1,0 +1,22 @@
+{
+    "id": "magic-cake",
+    "symbol": "magiccake",
+    "name": "Magic Cake",
+    "platforms": {
+        "binance-smart-chain": "0x81a2f78f7213a69de2e4c40362cbb2bb851f3f6f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x81a2f78f7213a69de2e4c40362cbb2bb851f3f6f",
+    "url": "https://www.magiccake.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x81a2F78f7213a69De2E4C40362CBB2BB851F3f6F"
+    ],
+    "twitter": "MagicCaketoken",
+    "telegram": "Magiccake_official"
+}

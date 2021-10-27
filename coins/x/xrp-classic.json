@@ -1,0 +1,26 @@
+{
+    "id": "xrp-classic",
+    "symbol": "xrpc",
+    "name": "XRP Classic",
+    "platforms": {
+        "ethereum": "0xd4ca5c2aff1eefb0bea9e9eab16f88db2990c183"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "XRP CLASSIC presents a decentralized accessible blockchain and cryptocurrency infrastructure; it is absolutely open source content management system. XRP CLASSIC is promoting a smart contract platform. "
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "contract_address": "0xd4ca5c2aff1eefb0bea9e9eab16f88db2990c183",
+    "url": "https://xrpclassic.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xd4ca5c2aff1eefb0bea9e9eab16f88db2990c183",
+        "https://ethplorer.io/address/0xd4ca5c2aff1eefb0bea9e9eab16f88db2990c183"
+    ],
+    "twitter": "Xrpclassic_XRPC",
+    "telegram": "Xrpclassic_XRPC",
+    "reddit": "https://www.reddit.com"
+}

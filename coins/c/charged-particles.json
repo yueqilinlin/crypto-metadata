@@ -1,0 +1,29 @@
+{
+    "id": "charged-particles",
+    "symbol": "ionx",
+    "name": "Charged Particles",
+    "platforms": {
+        "ethereum": "0x02d3a27ac3f55d5d91fb0f52759842696a864217"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Collectibles",
+        "Non-Fungible Tokens (NFT)",
+        "Governance"
+    ],
+    "description": {
+        "en": "Charged Particles are non-custodial NFTs that can be \"discharged\" at any time by the owner, collecting the interest from the token. And just like any NFT, they are yours trade, transfer, sell, etc. They can also be burned (melted) to reclaim the underlying DAI + interest in full, destroying the token.\r\n\r\nCharged Particles are minted with an Asset Token (ie. DAI) and accrue interest via an Interest-Token (ie. CHAI) giving the Token a \"Charge\". The amount of interest earned from the token represents the \"Charge\" that the token (Particle) has amassed."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x02d3a27ac3f55d5d91fb0f52759842696a864217",
+    "url": "https://charged.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x02d3a27ac3f55d5d91fb0f52759842696a864217",
+        "https://ethplorer.io/address/0x02d3a27ac3f55d5d91fb0f52759842696a864217"
+    ],
+    "twitter": "DefiNft",
+    "telegram": "chargedparticles",
+    "reddit": "ChargedParticles/",
+    "github_org": "Charged-Particles"
+}

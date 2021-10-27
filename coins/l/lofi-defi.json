@@ -1,0 +1,24 @@
+{
+    "id": "lofi-defi",
+    "symbol": "lofi",
+    "name": "Lofi Defi",
+    "platforms": {
+        "binance-smart-chain": "0x17d8519f57450e2b7e6ae1163e0e448322a8af17"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LOFI is a deflationary static rewards token for use on the LOFI-DEFI platform currently in development which will be a social platform with streaming and NFT elements for use of artists and musicians to connect them with token holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x17d8519f57450e2b7e6ae1163e0e448322a8af17",
+    "url": "https://lofi-defi.com",
+    "explorers": [
+        "https://bscscan.com/token/0x17d8519f57450e2b7e6ae1163e0e448322a8af17"
+    ],
+    "twitter": "lofi_defi",
+    "telegram": "lofi_defi",
+    "reddit": "lofi_defi",
+    "github_org": "LOFIDEFI"
+}

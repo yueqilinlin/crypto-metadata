@@ -1,0 +1,23 @@
+{
+    "id": "imusd",
+    "symbol": "imusd",
+    "name": "imUSD",
+    "platforms": {
+        "ethereum": "0x30647a72dc82d7fbb1123ea74716ab8a317eac19"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "imUSD is a USD interest bearing token that represents the yield accruing to mUSD in the mStable Save contract. It is transferred and can be used as collateral in other DeFi platforms"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x30647a72dc82d7fbb1123ea74716ab8a317eac19",
+    "url": "https://mstable.org",
+    "explorers": [
+        "https://etherscan.io/token/0x30647a72dc82d7fbb1123ea74716ab8a317eac19",
+        "https://ethplorer.io/address/0x30647a72dc82d7fbb1123ea74716ab8a317eac19"
+    ],
+    "twitter": "mstable_",
+    "github_org": "mstable"
+}

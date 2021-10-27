@@ -1,0 +1,24 @@
+{
+    "id": "whalefarm",
+    "symbol": "whalefarm",
+    "name": "WhaleFarm",
+    "platforms": {
+        "binance-smart-chain": "0xd07efbcdd7242212ff67372cdb2c9ddaa0290fae"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Next Generation Staking & Liquidity Platform running on Binance Smart Chain with Automatic Liquidity Acquisition."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd07efbcdd7242212ff67372cdb2c9ddaa0290fae",
+    "url": "https://whalefarm.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xd07efBcDD7242212fF67372cDB2c9DDAa0290fAe"
+    ],
+    "twitter": "WhaleFarm_",
+    "telegram": "whalefarm_official",
+    "reddit": "WhaleFarm_Finance/",
+    "github_org": "WhaleFarm"
+}

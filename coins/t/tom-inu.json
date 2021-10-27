@@ -1,0 +1,23 @@
+{
+    "id": "tom-inu",
+    "symbol": "tinu",
+    "name": "Tom Inu",
+    "platforms": {
+        "ethereum": "0x2d0e64b6bf13660a4c0de42a0b88144a7c10991f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tom Inu is a meme DeFi token with built-in reflect-fee technology. The longer you hold Tom Inu, the more you will be rewarded! A percentage of all fees go to liquidity, which contributes to an ever-increasing price floor. Our fees are automatically distributed among the current holders, so just by holding you earn more tokens from reflection."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x2d0e64b6bf13660a4c0de42a0b88144a7c10991f",
+    "url": "https://tominu.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0x2d0e64b6bf13660a4c0de42a0b88144a7c10991f",
+        "https://ethplorer.io/address/0x2d0e64b6bf13660a4c0de42a0b88144a7c10991f"
+    ],
+    "twitter": "TomInutoken",
+    "telegram": "tominutoken"
+}

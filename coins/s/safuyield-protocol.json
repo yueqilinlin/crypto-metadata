@@ -1,0 +1,24 @@
+{
+    "id": "safuyield-protocol",
+    "symbol": "safuyield",
+    "name": "SafuYield Protocol",
+    "platforms": {
+        "binance-smart-chain": "0xc74cd0042c837ce59210857504ebb0859e06aa22"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SAFUYIELD is a deflationary token, multi chain yield aggregator, governance and staking protocol.\r\n\r\nSAFUYIELD token holders can interact with the SAFUDAO Governance Protocol to propose and cast a vote for the next project to be part of the SAFU.net platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc74cd0042c837ce59210857504ebb0859e06aa22",
+    "url": "https://www.safu.net/safuyield",
+    "explorers": [
+        "https://bscscan.com/token/0xc74cd0042c837ce59210857504ebb0859e06aa22"
+    ],
+    "twitter": "safuyield",
+    "telegram": "safuyield",
+    "reddit": "safuyield",
+    "github_org": "safuyield"
+}

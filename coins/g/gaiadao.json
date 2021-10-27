@@ -1,0 +1,24 @@
+{
+    "id": "gaiadao",
+    "symbol": "gaia",
+    "name": "GaiaDAO",
+    "platforms": {
+        "binance-smart-chain": "0x25be9e26db60b1a3d1f7fa21679385df076af7fb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gaia is a decentralized autonomous organization (DAO) that aims to create an ecosystem of prominent DeFi products on the BSC blockchain while supporting environmental and philanthropic organizations."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x25be9e26db60b1a3d1f7fa21679385df076af7fb",
+    "url": "https://gaiadao.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x25be9e26db60b1a3d1f7fa21679385df076af7fb"
+    ],
+    "twitter": "dao_gaia",
+    "telegram": "gaiadao",
+    "reddit": "GaiaDAO",
+    "github_org": "GaiaDAO"
+}

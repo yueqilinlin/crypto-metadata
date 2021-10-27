@@ -1,0 +1,26 @@
+{
+    "id": "sail",
+    "symbol": "sail",
+    "name": "SAIL",
+    "platforms": {
+        "solana": "6kwTqmdQkJd8qRr9RjSnUX9XJ24RmJRSrU1rsragP97Y"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "6kwTqmdQkJd8qRr9RjSnUX9XJ24RmJRSrU1rsragP97Y",
+    "url": "https://www.solanasail.com",
+    "explorers": [
+        "https://explorer.solana.com/address/6kwTqmdQkJd8qRr9RjSnUX9XJ24RmJRSrU1rsragP97Y",
+        "https://solscan.io/token/6kwTqmdQkJd8qRr9RjSnUX9XJ24RmJRSrU1rsragP97Y"
+    ],
+    "twitter": "SolanaSail",
+    "reddit": "solanasail/",
+    "github_org": "solanasail"
+}

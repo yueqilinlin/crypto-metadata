@@ -1,0 +1,23 @@
+{
+    "id": "gambit",
+    "symbol": "gmt",
+    "name": "Gambit",
+    "platforms": {
+        "binance-smart-chain": "0x99e92123eb77bc8f999316f622e5222498438784"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gambit is a protocol for creating interest-generating stablecoins backed by leverage.\r\nGMT token is the governance token that manages the distribution of the protocol\u2019s fees. \r\nFees are generated on minting gUSD, burning gUSD, opening positions, closing positions and funding rates."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x99e92123eb77bc8f999316f622e5222498438784",
+    "url": "https://gambit.financial/",
+    "explorers": [
+        "https://bscscan.com/token/0x99e92123eB77Bc8f999316f622e5222498438784"
+    ],
+    "twitter": "GambitProtocol",
+    "telegram": "GambitProtocol",
+    "github_org": "xvi10"
+}

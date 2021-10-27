@@ -1,0 +1,23 @@
+{
+    "id": "golden-ratio-coin",
+    "symbol": "goldr",
+    "name": "Golden Ratio Coin",
+    "platforms": {
+        "ethereum": "0xcfe4f03c3afbb9857b29fc706180bf0044900d59"
+    },
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Golden Ratio Holdings is a block chain based real estate marketplace, where buyers & sellers meet to carry out operations involving digital goods & assets with crypto currency transactions. The unique advantage here is an automatic matching of users, basing on artificial intelligence approach. It is a first ever artificial intelligence marketplace in the world, combining traditional and smart contract, block chain, future oriented ideas of connecting people and performing operations by analyzing users preferences."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcfe4f03c3afbb9857b29fc706180bf0044900d59",
+    "url": "https://goldenratioholdings.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xcfE4F03C3AFbB9857b29fC706180Bf0044900D59",
+        "https://ethplorer.io/address/0xcfe4f03c3afbb9857b29fc706180bf0044900d59"
+    ],
+    "twitter": "GoldenRatioHold",
+    "facebook": "GoldenRatioHoldings"
+}

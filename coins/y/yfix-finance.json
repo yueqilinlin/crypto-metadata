@@ -1,0 +1,24 @@
+{
+    "id": "yfix-finance",
+    "symbol": "yfix",
+    "name": "YFIX.finance",
+    "platforms": {
+        "ethereum": "0xa4f779074850d320b5553c9db5fc6a8ab15bd34a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Welcome to the next generation DeFi project that builds on the vision of YFI! The YFIX platform is designed to FIX the problems with other yield farming projects by having dApps on our platform that INCREASE rewards for the average investor with time, while also having a FIXed supply. Join us as we launch on several community favorite exchanges! No more minting is possible, so supply is fixed."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xa4f779074850d320b5553c9db5fc6a8ab15bd34a",
+    "url": "https://yfix.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xa4f779074850d320b5553c9db5fc6a8ab15bd34a",
+        "https://ethplorer.io/address/0xa4f779074850d320b5553c9db5fc6a8ab15bd34a"
+    ],
+    "twitter": "yfix_finance",
+    "telegram": "yfixfinance",
+    "github_org": "yfix-finance"
+}

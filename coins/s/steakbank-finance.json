@@ -1,0 +1,23 @@
+{
+    "id": "steakbank-finance",
+    "symbol": "sbf",
+    "name": "SteakBank Finance",
+    "platforms": {
+        "binance-smart-chain": "0xbb53fcab7a3616c5be33b9c0af612f0462b01734"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SteakBank is a liquid staking platform on Binance Smart Chain where users can earn multiple streams of cashflow. The primary rewards earned from validating will be baked in the liquid token. The liquid token can then be further staked in liquidity pool to be compounded and earn extra yields. Furthermore, SBF token will also be rewarded when users stake their liquid token in SteakBank's liquidity pool."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbb53fcab7a3616c5be33b9c0af612f0462b01734",
+    "url": "https://steakbank.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xbb53fcab7a3616c5be33b9c0af612f0462b01734"
+    ],
+    "twitter": "SteakBank",
+    "telegram": "steakbank_finance",
+    "github_org": "steakbankfinance"
+}

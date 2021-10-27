@@ -1,0 +1,22 @@
+{
+    "id": "brcp-token",
+    "symbol": "brcp",
+    "name": "BRCP Token",
+    "platforms": {
+        "ethereum": "0x73484a262730d1d422610729e828346f9b2ff480"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BRCP is an option for storing your Real in a digital way as it offers the security and agility linked to the Blockchain network and the stability of the national reference fiduciary currency."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0x73484a262730d1d422610729e828346f9b2ff480",
+    "url": "https://brcptoken.com.br/",
+    "explorers": [
+        "https://etherscan.io/token/0x73484a262730d1d422610729e828346f9b2ff480",
+        "https://ethplorer.io/address/0x73484a262730d1d422610729e828346f9b2ff480"
+    ],
+    "facebook": "brcptoken"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "cleanocean",
+    "symbol": "cleanocean",
+    "name": "CleanOcean",
+    "platforms": {
+        "binance-smart-chain": "0x579f11c75eb4e47f5290122e87ca411644adcd97"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A crypto project to raise money and clean the ocean. Our goal is to remove over 90% of floating ocean plastic. \r\nWe give 5% of the transactions to holders and 5% are added to the locked liquidity automatically.\r\nWe built this token on Binance Smart Chain so people can buy CLEANOCEAN with cheaper gas fees compared to other tokens built on the Ethereum network."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x579f11c75eb4e47f5290122e87ca411644adcd97",
+    "url": "https://cleanocean.io",
+    "explorers": [
+        "https://bscscan.com/token/0x579F11C75Eb4e47F5290122e87CA411644aDCD97"
+    ],
+    "twitter": "cleanoceantoken",
+    "facebook": "CleanOcean-101484642117124",
+    "telegram": "cleanocean",
+    "reddit": "CLEANOCEAN/"
+}

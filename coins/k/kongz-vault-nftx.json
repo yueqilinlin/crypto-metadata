@@ -1,0 +1,25 @@
+{
+    "id": "kongz-vault-nftx",
+    "symbol": "kongz",
+    "name": "KONGZ Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0x5a235c0b4cb8d0e80a5c3bf4d2fad5c32e440884"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "KONGZ Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5a235c0b4cb8d0e80a5c3bf4d2fad5c32e440884",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x5A235C0b4cB8d0e80a5c3bF4d2faD5c32E440884",
+        "https://ethplorer.io/address/0x5a235c0b4cb8d0e80a5c3bf4d2fad5c32e440884"
+    ],
+    "twitter": "nftx_"
+}

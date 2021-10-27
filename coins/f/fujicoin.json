@@ -1,0 +1,21 @@
+{
+    "id": "fujicoin",
+    "symbol": "fjc",
+    "name": "Fujicoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt-N",
+    "categories": [],
+    "description": {
+        "en": "FujiCoin is a cryptocurrency that enables instant, near-zero cost payments to anyone in the world. FujiCoin is an open global payment network that is fully decentralized. Mathematics secures the network and empowers individuals to control their own finances."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-06-28",
+    "url": "http://www.fujicoin.org/",
+    "explorers": [
+        "https://chainz.cryptoid.info/fjc/",
+        "http://explorer.fujicoin.org/"
+    ],
+    "twitter": "fujicoin",
+    "reddit": "fujicoin",
+    "github_org": "fujicoin"
+}

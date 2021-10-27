@@ -1,0 +1,23 @@
+{
+    "id": "bakerdao",
+    "symbol": "bkr",
+    "name": "BakerDAO",
+    "platforms": {
+        "binance-smart-chain": "0x6636f7b89f64202208f608deffa71293eef7b466"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A multi-collateral stablecoin borrow system on BSC, allow users to generate BAI by leveraging collateral assets like BNB, BUSD, ETH, BTC and so on."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6636f7b89f64202208f608deffa71293eef7b466",
+    "url": "https://farming.bakerfi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x6636F7B89f64202208f608DEFFa71293EEF7b466"
+    ],
+    "twitter": "dao_baker",
+    "telegram": "bakerdao_en",
+    "github_org": "BakerDAO-Fi"
+}

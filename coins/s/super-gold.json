@@ -1,0 +1,17 @@
+{
+    "id": "super-gold",
+    "symbol": "spg",
+    "name": "Super Gold",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "As a bran-new generation of public blockchain, Super Gold comes up with its own innovation on the basis of absorbing the advantages of the previous public blockchains. NEO has its own unique advantages in solving problems of low scalability, low concurrency, and low transaction feedback of public blockchains and has achieved practical results. In addition, NEO prefers the mining mechanism under the decentralized Proof of Work (PoW) in producing Super Gold cryptocurrency SPG. erefore, Super Gold has creatively launched a double-layer architecture that combines NEO's underlying technology, as its transaction verification, and Ethereum's proof-of-work algorithm Ethash. It separates the synchronization between transaction verification and block pacagking to better solve the low scalability, low concurrency, low transaction feedback and block congestion issues of blockchain. In addition, the smart contract system of Super Gold is more suitable for the current trend of blockchain technology development. e support of cross-chain protocol to cross-chain transactions can help create a more universal, wider applied and more ecologically prosperous and stable public blockchain platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.laspg.com/index.html",
+    "explorers": [
+        "https://block.laspg.com/"
+    ]
+}

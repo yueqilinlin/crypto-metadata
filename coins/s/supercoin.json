@@ -1,0 +1,21 @@
+{
+    "id": "supercoin",
+    "symbol": "super",
+    "name": "SuperCoin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2014-05-24",
+    "url": "https://supercoin.nl/",
+    "explorers": [
+        "https://chainz.cryptoid.info/super/"
+    ],
+    "twitter": "supercoinv2",
+    "telegram": "Supercoingroup",
+    "reddit": "supercoin",
+    "github_org": "thirstygerry"
+}

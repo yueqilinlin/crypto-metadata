@@ -1,0 +1,25 @@
+{
+    "id": "alp-coin",
+    "symbol": "alp",
+    "name": "ALP Coin",
+    "platforms": {
+        "ethereum": "0x37d6e7f287200c740012747d2a79295caed2db35"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ALP Coin holders have corresponding advantages of the whole ecosystem: a bonus, motivation system for exchange users and an advertising and marketing system for BTC-Alpha partners are built on the ALP Coin. Also, ALP Coin holders can get savings on the trading fees, profitable courses on Alpha Paradise, a discount on the listing, increased referral payments, and in 2020 \u2014 additional financial instruments."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x37d6e7f287200c740012747d2a79295caed2db35",
+    "url": "https://btc-alpha.com/en/alp-coin",
+    "explorers": [
+        "https://etherscan.io/token/0x37D6E7F287200C740012747d2A79295cAeD2DB35",
+        "https://ethplorer.io/address/0x37d6e7f287200c740012747d2a79295caed2db35"
+    ],
+    "twitter": "btcalpha",
+    "facebook": "btcalpha",
+    "telegram": "btcalpha",
+    "reddit": "https://www.reddit.com"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "moonretriever",
+    "symbol": "FETCH",
+    "name": "MoonRetriever",
+    "platforms": {
+        "binance-smart-chain": "0x8bfc1c564e4490790dfac641c9a0fecd3f91f584"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8bfc1c564e4490790dfac641c9a0fecd3f91f584",
+    "url": "https://www.moonretriever.com",
+    "explorers": [
+        "https://bscscan.com/token/0x8bfc1c564E4490790DFac641C9a0FecD3f91F584"
+    ],
+    "twitter": "MoonRetrievers",
+    "facebook": "MoonRetriever",
+    "telegram": "MoonRetriever",
+    "reddit": "https://www.reddit.com"
+}

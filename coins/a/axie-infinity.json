@@ -1,0 +1,31 @@
+{
+    "id": "axie-infinity",
+    "symbol": "axs",
+    "name": "Axie Infinity",
+    "platforms": {
+        "ethereum": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+        "binance-smart-chain": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
+        "harmony-shard-0": "0x14a7b318fed66ffdcc80c1517c172c13852865de"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Axie Infinity",
+        "Play To Earn",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "AXS is the governance token for the Axie Infinity game. Token holders will be able to shape and vote for the direction of the game universe. This is unlike traditional games where all decisions are made by the game developers. AXS holders will be able to stake their tokens to earn more AXS and even\u00a0vote for governance proposals."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+    "url": "https://axieinfinity.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+        "https://ethplorer.io/address/0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+        "https://bscscan.com/token/0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0"
+    ],
+    "twitter": "axieinfinity",
+    "telegram": "axieinfinity"
+}

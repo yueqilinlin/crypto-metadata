@@ -1,0 +1,27 @@
+{
+    "id": "kin",
+    "symbol": "kin",
+    "name": "Kin",
+    "platforms": {
+        "solana": "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem",
+        "Communication"
+    ],
+    "description": {
+        "en": "Kin is money for the digital world. It is an open micro-transaction platform used by millions of users across more than 50 consumer applications and services, making Kin the most used cryptocurrency by mainstream consumers. Kin can be sent anywhere in the world, instantly, and for free.\r\n \r\nKin enters circulation via the Kin Rewards Engine, or \"\"KRE\"\", which rewards developers for getting their consumers to use Kin. Today people are using Kin to purchase a variety of digital goods and services and to support content creators.\r\n \r\nThis offers developers a new business model that rewards the adoption of engaging experiences and free exchange of value between users, not harvesting their data and attention. That means users and developers are finally re-aligned, around a new economy in which those who generate value online are the focus, not big-data monopolies."
+    },
+    "country_origin": "CA",
+    "genesis_date": "2017-09-12",
+    "contract_address": "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
+    "url": "https://kin.org",
+    "explorers": [
+        "https://explorer.solana.com/address/kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6"
+    ],
+    "twitter": "kin_ecosystem",
+    "telegram": "TheKinChannel",
+    "reddit": "KinFoundation",
+    "github_org": "kinecosystem"
+}

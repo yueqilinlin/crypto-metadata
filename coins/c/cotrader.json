@@ -1,0 +1,30 @@
+{
+    "id": "cotrader",
+    "symbol": "cot",
+    "name": "CoTrader",
+    "platforms": {
+        "ethereum": "0x5c872500c00565505f3624ab435c222e558e9ff8",
+        "binance-smart-chain": "0x304fc73e86601a61a6c6db5b0eafea587622acdc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "CoTrader is like \"The Uber of hedge funds\", live on mainnet.cotrader.com, is the world's first blockchain investment funds marketplace that's democratizing the $85 trillion global funds industry, as anyone anywhere can create or join an investment fund on the blockchain. Cotraders have proof of funds' past ROI performance, can invest with the best investors, called traders, and can withdraw their funds from any trader at any time. Investors have tremendous incentive to join the platform and compete to earn as much as possible for their cotraders, because this multiplies their own gains."
+    },
+    "country_origin": "KN",
+    "genesis_date": null,
+    "contract_address": "0x5c872500c00565505f3624ab435c222e558e9ff8",
+    "url": "https://cotrader.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x5c872500c00565505f3624ab435c222e558e9ff8",
+        "https://ethplorer.io/address/0x5c872500c00565505f3624ab435c222e558e9ff8",
+        "https://bscscan.com/token/0x304fc73e86601a61a6c6db5b0eafea587622acdc"
+    ],
+    "twitter": "cotrader_com",
+    "facebook": "cotrader",
+    "telegram": "cotrader",
+    "reddit": "cotrader",
+    "github_org": "CoTraderCore"
+}

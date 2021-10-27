@@ -1,0 +1,19 @@
+{
+    "id": "crevacoin",
+    "symbol": "creva",
+    "name": "Crevacoin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [],
+    "description": {
+        "en": "Creva coin is normally used by Creva members in Korea at places like Creva Shopping Mall for payments and purchases. Creva plans to gradually expand its usage to function as an e-money for the convenience of its members."
+    },
+    "country_origin": "",
+    "genesis_date": "2015-04-02",
+    "url": "http://www.crevacoin.com/",
+    "explorers": [
+        "http://chains.crevacoin.com/"
+    ],
+    "twitter": "crevacoin2",
+    "github_org": "crevacoin"
+}

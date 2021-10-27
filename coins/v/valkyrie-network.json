@@ -1,0 +1,23 @@
+{
+    "id": "valkyrie-network",
+    "symbol": "val",
+    "name": "Valkyrie Network",
+    "platforms": {
+        "binance-smart-chain": "0x8e56f77fbd2f58256f8ab81c6bb7eed0959ace04"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Valkyrie Network\r\n\r\nVswap is an automatic token exchange protocol based on Ethereum. It is designed for ease of use, high gas utilization, censorship resistance, and zero draw."
+    },
+    "country_origin": "NO",
+    "genesis_date": null,
+    "contract_address": "0x8e56f77fbd2f58256f8ab81c6bb7eed0959ace04",
+    "url": "https://www.vswap.cc/",
+    "explorers": [
+        "https://bscscan.com/token/0x8e56f77fbd2f58256f8ab81c6bb7eed0959ace04"
+    ],
+    "twitter": "JPVswap",
+    "telegram": "vswapglobal",
+    "github_org": "JPVswap"
+}

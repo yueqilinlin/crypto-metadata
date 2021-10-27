@@ -1,0 +1,21 @@
+{
+    "id": "clams",
+    "symbol": "clam",
+    "name": "Clams",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "Clams were initially distributed to 3,208,032 BTC, LTC and DOGE addresses based on the 12 May 2014 snapshot of these blockchains. Each of these address received 4.60545574 CLAMs. 63,381 addresses have been dug comprising 291,898.39 CLAMs. If all the distributed CLAMs were dug up, the total money supply would be 15,009,015.13. There is no Proof-of-Work stage for Clams and the network is now secured by Proof-of-Stake."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-05-15",
+    "url": "http://www.clamcoin.org/",
+    "explorers": [
+        "http://khashier.com/chain/Clam",
+        "https://clam.tokenview.com/"
+    ],
+    "twitter": "ClamClient",
+    "reddit": "CLAMClient",
+    "github_org": "nochowderforyou"
+}

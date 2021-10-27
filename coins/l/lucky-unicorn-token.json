@@ -1,0 +1,23 @@
+{
+    "id": "lucky-unicorn-token",
+    "symbol": "l99",
+    "name": "Lucky Unicorn Token",
+    "platforms": {
+        "binance-smart-chain": "0x033c90840f27c83b1aa0ffe6db65c954bf6abbdd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Lucky Unicorn is a NFT Gaming & NFT Trading platform where users could hatch eggs into different types of unicorns and use that to participate into multiple minigames. The core mechanism of the project is Play-to-Earn, meaning that players earn L99 while participating in the on-chain games. L99 token can be traded or used to enhance player's unicorn. Lucky Unicorn also utilize the Guild system which players could form or join different guilds to participate in Guild events & activities"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x033c90840f27c83b1aa0ffe6db65c954bf6abbdd",
+    "url": "https://luckyunicorn.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x033c90840f27c83b1aa0ffe6db65c954bf6abbdd"
+    ],
+    "twitter": "LuckyUnicornNFT",
+    "telegram": "LuckyUnicornGlobal",
+    "reddit": "luckyunicorn"
+}

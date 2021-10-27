@@ -1,0 +1,30 @@
+{
+    "id": "prosper",
+    "symbol": "pros",
+    "name": "Prosper",
+    "platforms": {
+        "ethereum": "0x8642a849d0dcb7a15a974794668adcfbe4794b56",
+        "binance-smart-chain": "0xed8c8aa8299c10f067496bb66f8cc7fb338a3405"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Prediction Markets",
+        "Polygon Ecosystem",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "PROSPER is a short-term non-custodial prediction & hedging platform based on the Binance Smart Chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8642a849d0dcb7a15a974794668adcfbe4794b56",
+    "url": "https://prosper.so/",
+    "explorers": [
+        "https://etherscan.io/token/0x8642A849D0dcb7a15a974794668ADcfbe4794B56",
+        "https://ethplorer.io/address/0x8642a849d0dcb7a15a974794668adcfbe4794b56",
+        "https://bscscan.com/token/0xed8c8aa8299c10f067496bb66f8cc7fb338a3405"
+    ],
+    "twitter": "Prosperpredict",
+    "telegram": "prosperfi"
+}

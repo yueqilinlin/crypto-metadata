@@ -1,0 +1,23 @@
+{
+    "id": "dronefly",
+    "symbol": "kdc",
+    "name": "DroneFly",
+    "platforms": {
+        "ethereum": "0x7e00b63483c92975a3be0a71432277935326a618"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Blockchain-based reliable drone flight experience New global drone business platform It\u2019s DRONEFLY."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x7e00b63483c92975a3be0a71432277935326a618",
+    "url": "http://www.dronefly.io",
+    "explorers": [
+        "https://etherscan.io/token/0x7e00b63483c92975a3be0a71432277935326a618",
+        "https://ethplorer.io/address/0x7e00b63483c92975a3be0a71432277935326a618"
+    ],
+    "twitter": "dronefly10",
+    "telegram": "droneflyeng"
+}

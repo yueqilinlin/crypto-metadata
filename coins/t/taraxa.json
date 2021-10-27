@@ -1,0 +1,25 @@
+{
+    "id": "taraxa",
+    "symbol": "tara",
+    "name": "Taraxa",
+    "platforms": {
+        "ethereum": "0xf001937650bb4f62b57521824b2c20f5b91bea05"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Taraxa is a public ledger platform purpose-built for audit logging of informal transactions. \r\n"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xf001937650bb4f62b57521824b2c20f5b91bea05",
+    "url": "https://www.taraxa.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xf001937650bb4f62b57521824b2c20f5b91bea05",
+        "https://ethplorer.io/address/0xf001937650bb4f62b57521824b2c20f5b91bea05"
+    ],
+    "twitter": "taraxa_project",
+    "telegram": "taraxa_project",
+    "reddit": "Taraxa_Project",
+    "github_org": "Taraxa-project"
+}

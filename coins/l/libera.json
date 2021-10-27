@@ -1,0 +1,23 @@
+{
+    "id": "libera",
+    "symbol": "lib",
+    "name": "Libera",
+    "platforms": {
+        "ethereum": "0x0bf6261297198d91d4fa460242c69232146a5703"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Libera allows users or entities to create their own decentralized crypto custodies, which can be adopted by any DEX, CEX or DeFi application. Hodlers of the assets can be elected from the top users of the exchange, or from ones who contributed to its growth. Each custody is connected only to a particular trading platform (CEX, DEX or Dapp), but the platform itself can use several custodies for the same asset."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0bf6261297198d91d4fa460242c69232146a5703",
+    "url": "https://libera.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x0bf6261297198d91d4fa460242c69232146a5703",
+        "https://ethplorer.io/address/0x0bf6261297198d91d4fa460242c69232146a5703"
+    ],
+    "twitter": "Libera_protocol",
+    "telegram": "liberaprotocol"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "tokenplace",
+    "symbol": "tok",
+    "name": "Tokenplace",
+    "platforms": {
+        "ethereum": "0x4fb721ef3bf99e0f2c193847afa296b9257d3c30",
+        "avalanche": "0xae9d2385ff2e2951dd4fa061e74c4d3dedd24347"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tokenplace is a single window into the world of digital assets. We bring pro traders and new users a seamless dashboard for navigating the entire crypto market. Our Beta release lets users connect 30+ exchange accounts via API and trade on them with our unique order-splitting multi-exchange algorithms. The platform is offered at a low subscription cost that pays for itself in a single trade. "
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x4fb721ef3bf99e0f2c193847afa296b9257d3c30",
+    "url": "https://tokenplace.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x4fb721ef3bf99e0f2c193847afa296b9257d3c30",
+        "https://ethplorer.io/address/0x4fb721ef3bf99e0f2c193847afa296b9257d3c30"
+    ],
+    "twitter": "TokenplaceTOK",
+    "facebook": "tokenplace",
+    "telegram": "tokenplace"
+}

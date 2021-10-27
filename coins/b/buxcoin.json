@@ -1,0 +1,23 @@
+{
+    "id": "buxcoin",
+    "symbol": "bux",
+    "name": "BUXCOIN",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Bux provides a seamless experience of sending and receiving money globally, harnessing the power of the blockchain, a decentralized peer-to-peer network. By becoming a part of the fast-growing network of Buxcoins, customers and merchants can transact reliably, securely, instantly and cost-effectively, using our revolutionary and innovative digital coins. "
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "url": "https://www.buxcoins.com/",
+    "explorers": [
+        "https://explorer.buxcoins.com"
+    ],
+    "twitter": "buxcoinsoffical",
+    "facebook": "buxcoinsofficial",
+    "telegram": "Buxcoin_official",
+    "github_org": "NewBux"
+}

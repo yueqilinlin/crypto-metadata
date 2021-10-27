@@ -1,0 +1,25 @@
+{
+    "id": "polaris",
+    "symbol": "polar",
+    "name": "Polaris",
+    "platforms": {
+        "binance-smart-chain": "0x70905594023cb2f37f3103fdc70315ad1601d6ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Polaris is a fairly distributed competitive farming protocol and launchpad platform on Binance Smart Chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x70905594023cb2f37f3103fdc70315ad1601d6ef",
+    "url": "https://app.polarisdefi.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x70905594023cb2f37f3103fdc70315ad1601d6ef"
+    ],
+    "twitter": "polarisdefi",
+    "telegram": "polarisdefi",
+    "github_org": "polarisdefi"
+}

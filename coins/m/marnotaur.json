@@ -1,0 +1,22 @@
+{
+    "id": "marnotaur",
+    "symbol": "taur",
+    "name": "Marnotaur",
+    "platforms": {
+        "binance-smart-chain": "0x19b99162adaab85134e781ac0048c275c31b205a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Marnotaur is a liquidity protocol that allows traders, liquidity providers, farmers and liquidity keepers to multiply their gains on the DeFi market. The protocol is compatible with different blockchains and other protocols and provides access to a list of allowed pools on the most popular decentralized exchanges (Uniswap, SushiSwap, 1inch).\r\nThe Marnotaur platform is created for everyone and this is one of their main advantages. People with large capital who do not want to take great risks can become one of their liquidity providers. Conversely, users who enter the market with low capital can exit with a solid profit.\r\nThe Marnotaur team is building a user-friendly platform with pretty unique features inside - gas & capital efficiency, distribution of liquidation fees, permissionless pools and of course, there is under-collateralized marginal trading.\r\nMarnotaur also offers its users up to 10x leverage, acting not just as an instrument for opening short and long positions but as a loan for farming as well."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x19b99162adaab85134e781ac0048c275c31b205a",
+    "url": "https://marnotaur.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x19b99162adaab85134e781ac0048c275c31b205a"
+    ],
+    "twitter": "marnotaur",
+    "telegram": "marnotaur"
+}

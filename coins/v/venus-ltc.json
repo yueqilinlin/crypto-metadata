@@ -1,0 +1,22 @@
+{
+    "id": "venus-ltc",
+    "symbol": "vltc",
+    "name": "Venus LTC",
+    "platforms": {
+        "binance-smart-chain": "0x57a5297f2cb2c0aac9d554660acd6d385ab50c6b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Venus is an algorithmic money market and synthetic stablecoin decentralized finance protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x57a5297f2cb2c0aac9d554660acd6d385ab50c6b",
+    "url": "https://venus.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x57a5297f2cb2c0aac9d554660acd6d385ab50c6b"
+    ],
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+}

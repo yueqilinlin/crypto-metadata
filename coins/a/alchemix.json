@@ -1,0 +1,28 @@
+{
+    "id": "alchemix",
+    "symbol": "alcx",
+    "name": "Alchemix",
+    "platforms": {
+        "ethereum": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Olympus Pro",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Alchemix token is the governance token for the Alchemix protocol. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+    "url": "https://alchemix.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+        "https://ethplorer.io/address/0xdbdb4d16eda451d0503b854cf79d55697f90c8df"
+    ],
+    "twitter": "alchemixfi",
+    "github_org": "alchemix-finance"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "manchester-city-fan-token",
+    "symbol": "city",
+    "name": "Manchester City Fan Token",
+    "platforms": {
+        "chiliz": "0xf30d150250f5301ef34a0e4a64aafa93f242d87a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fan Token",
+        "Sports"
+    ],
+    "description": {
+        "en": "The Manchester City Fan Token allows CITY fans to have a tokenized share of influence on club decisions, purchased through the consumer facing platform, Socios.com, fans can engage in a wide variety of club decisions for example, choosing a goal celebration song or deciding team bus design, earn rewards and money can't buy experiences. Experiences like... having the opportunity to meet and greet with your favourite players, receiving VIP treatment at the stadium & much much more."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xf30d150250f5301ef34a0e4a64aafa93f242d87a",
+    "url": "https://socios.com",
+    "explorers": [
+        "https://explorer.chiliz.com/tokens/0xf30D150250F5301ef34A0E4a64aaFa93F242d87A/token-transfers"
+    ],
+    "twitter": "socios",
+    "facebook": "sociosdotcom",
+    "telegram": "chiliztrade"
+}

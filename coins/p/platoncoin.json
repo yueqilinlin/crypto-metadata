@@ -1,0 +1,27 @@
+{
+    "id": "platoncoin",
+    "symbol": "pltc",
+    "name": "PlatonCoin",
+    "platforms": {
+        "ethereum": "0x429d83bb0dcb8cdd5311e34680adc8b12070a07f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Platon Finance is the first insured crypto-financial ecosystem based on a Ethereum blockchain, connecting the classic fiat money market with modern digital currencies via its own ERC-20 standard token, PlatonCoin. Thanks to high-security standards by the latest Symantec technologies and the crypto insurance against cyber theft by a Lloyd's syndicate, Platon Finance is bringing a unique blockchain-based solution to the increasing security issues around digital assets. "
+    },
+    "country_origin": "CZ",
+    "genesis_date": null,
+    "contract_address": "0x429d83bb0dcb8cdd5311e34680adc8b12070a07f",
+    "url": "https://platonlife.com",
+    "explorers": [
+        "https://etherscan.io/token/0x429D83Bb0DCB8cdd5311e34680ADC8B12070a07f",
+        "https://ethplorer.io/address/0x429d83bb0dcb8cdd5311e34680adc8b12070a07f"
+    ],
+    "twitter": "platonlife_com",
+    "facebook": "platonfinance",
+    "telegram": "platonlifecom",
+    "github_org": "platonfinance"
+}

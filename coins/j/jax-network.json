@@ -1,0 +1,24 @@
+{
+    "id": "jax-network",
+    "symbol": "wjxn",
+    "name": "Jax.Network",
+    "platforms": {
+        "binance-smart-chain": "0xca1262e77fb25c0a4112cfc9bad3ff54f617f2e6",
+        "ethereum": "0xca1262e77fb25c0a4112cfc9bad3ff54f617f2e6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Jax.Network is anchored to the BTC blockchain that follows the JaxNet protocol and issues scalable, stable, and decentralized JAX coins. We aim at making these coins a universal standard for the quantification of economic value."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xca1262e77fb25c0a4112cfc9bad3ff54f617f2e6",
+    "url": "https://jax.network/",
+    "explorers": [
+        "https://bscscan.com/token/0xca1262e77fb25c0a4112cfc9bad3ff54f617f2e6",
+        "https://etherscan.io/token/0xca1262e77fb25c0a4112cfc9bad3ff54f617f2e6"
+    ],
+    "twitter": "CommunityJax",
+    "telegram": "jax_chat"
+}

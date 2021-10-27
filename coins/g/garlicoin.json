@@ -1,0 +1,20 @@
+{
+    "id": "garlicoin",
+    "symbol": "grlc",
+    "name": "Garlicoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt-N",
+    "categories": [],
+    "description": {
+        "en": "Garlicoin is a new, freshly baked cryptocurrency, born from the shitposts of Reddit. Garlicoin formed on a few simple fundamentals - cheap and fast transactions, low barrier to entry and total focus on the community. These fundamentals have been put into practice, resulting in Garlicoin being a triumphant success: 40 second block times allow for blazingly fast confirmations, our ASIC resistant proof-of-work algorithm means anyone with a GPU can contribute to mining, and many important decisions have been made by the rapidly growing Garlicoin community."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-01-16",
+    "url": "https://garlicoin.io/",
+    "explorers": [
+        "https://garli.co.in/"
+    ],
+    "twitter": "Garliccoin",
+    "reddit": "garlicoin/",
+    "github_org": "GarlicoinOrg"
+}

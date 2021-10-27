@@ -1,0 +1,22 @@
+{
+    "id": "xchain-token",
+    "symbol": "nxct",
+    "name": "XChain Token",
+    "platforms": {
+        "ethereum": "0x41ab75435668919bb507f871dd01e9762c2d173a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NXCT focuses on solving data circulation issues. Devoted to establish an ecosystem of data transactions, the platform allows more companies to discover and re-evaluate the value of data, getting data circulated safely, efficiently, and legally."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x41ab75435668919bb507f871dd01e9762c2d173a",
+    "url": "http://www.nxct.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x41ab75435668919bb507f871dd01e9762c2d173a",
+        "https://ethplorer.io/address/0x41ab75435668919bb507f871dd01e9762c2d173a"
+    ],
+    "twitter": "XChainOfficial"
+}

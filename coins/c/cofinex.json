@@ -1,0 +1,26 @@
+{
+    "id": "cofinex",
+    "symbol": "cnx",
+    "name": "Cofinex",
+    "platforms": {
+        "ethereum": "0xe0b7e882c194881c690924cb46154b8241f9145e"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "\"CoFinex is digital multi asset exchange platform providing maximum security and advanced trading features. CoFinex continues to meet and exceed industry standards by a team of talented professionals.\r\n\r\nCoFinex offers intuitive interface design which enables everyone to start trading without any hassle. Real-time orderbooks, charting tools, trading history, and intuitive order process deliver unique trading experiences.\""
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0xe0b7e882c194881c690924cb46154b8241f9145e",
+    "url": "https://www.cofinex.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xe0b7e882c194881c690924cb46154b8241f9145e",
+        "https://ethplorer.io/address/0xe0b7e882c194881c690924cb46154b8241f9145e"
+    ],
+    "twitter": "CofinexExchange",
+    "facebook": "Cofinex-Exchange-101775701466156",
+    "telegram": "cofinexexchange"
+}

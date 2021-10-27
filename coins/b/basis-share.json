@@ -1,0 +1,29 @@
+{
+    "id": "basis-share",
+    "symbol": "bas",
+    "name": "Basis Share",
+    "platforms": {
+        "ethereum": "0x106538cc16f938776c7c180186975bca23875287",
+        "polygon-pos": "0x83a6da342099835bcaa9c219dd76a5033c837de5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x106538cc16f938776c7c180186975bca23875287",
+    "url": "https://basis.cash/",
+    "explorers": [
+        "https://etherscan.io/token/0x106538CC16F938776c7c180186975BCA23875287",
+        "https://ethplorer.io/address/0x106538CC16F938776c7c180186975BCA23875287"
+    ],
+    "twitter": "BasisCash",
+    "telegram": "basiscash",
+    "github_org": "Basis-Cash"
+}

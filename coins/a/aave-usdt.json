@@ -1,0 +1,26 @@
+{
+    "id": "aave-usdt",
+    "symbol": "ausdt",
+    "name": "Aave USDT",
+    "platforms": {
+        "ethereum": "0x3ed3b47dd13ec9a98b44e6204a523e766b225811"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Aave USDT is an interest bearing token minted upon deposit and burned when redeemed. The aUSDT is pegged 1:1 to the value of the underlying USDT that is deposited in Aave protocol. aUSDT, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aUSDT accrue interest in real time, directly in your wallet!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3ed3b47dd13ec9a98b44e6204a523e766b225811",
+    "url": "https://aave.com/atokens",
+    "explorers": [
+        "https://etherscan.io/token/0x3ed3b47dd13ec9a98b44e6204a523e766b225811",
+        "https://ethplorer.io/address/0x3ed3b47dd13ec9a98b44e6204a523e766b225811"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome"
+}

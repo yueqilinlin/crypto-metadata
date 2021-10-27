@@ -1,0 +1,26 @@
+{
+    "id": "chow-chow-finance",
+    "symbol": "chow",
+    "name": "Chow Chow Finance",
+    "platforms": {
+        "ethereum": "0x925f2c11b99c1a4c46606898ee91ed3d450cfeda",
+        "binance-smart-chain": "0x925f2c11b99c1a4c46606898ee91ed3d450cfeda"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Chow was created to provide frictionless passive income to the holders.  There is a 3% fee for all transactions that is then redistributed proportionally to all holder wallets immediately.  No need for staking, farming or paying high gas fees to collect your rewards. Chow also aims to give back to the real world. We have created a charity wallet that collects rewards along with all other wallets. The rewards will then be donated to a charity after a predetermined period of time, which will then start over for a new charity."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x925f2c11b99c1a4c46606898ee91ed3d450cfeda",
+    "url": "https://chowchow.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x925f2c11b99c1a4c46606898ee91ed3d450cfeda",
+        "https://ethplorer.io/address/0x925f2c11b99c1a4c46606898ee91ed3d450cfeda"
+    ],
+    "twitter": "ChowChowF",
+    "telegram": "chowtoken",
+    "reddit": "chowchowfinance/",
+    "github_org": "ChowChowFinance"
+}

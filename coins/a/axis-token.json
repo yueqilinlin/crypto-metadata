@@ -1,0 +1,22 @@
+{
+    "id": "axis-token",
+    "symbol": "axis",
+    "name": "AXIS Token",
+    "platforms": {
+        "ethereum": "0xf0c5831ec3da15f3696b4dad8b21c7ce2f007f28"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The AXIS Utility token serves as an API access key for the blockchain ecosystem. It also facilitates transactions and access to data, and is used as a vehicle to run applications. For example, if a carrier wants to check on a proof of pickup he needs to access the database/blockchain, and will submit fractions of an AXIS Token to do so. Similarly, a Shipper would submit fractions of a token to validate documents and deliveries."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf0c5831ec3da15f3696b4dad8b21c7ce2f007f28",
+    "url": "https://axistoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xF0c5831EC3Da15f3696B4DAd8B21c7Ce2f007f28",
+        "https://ethplorer.io/address/0xF0c5831EC3Da15f3696B4DAd8B21c7Ce2f007f28"
+    ],
+    "twitter": "LaneAxisNetwork"
+}

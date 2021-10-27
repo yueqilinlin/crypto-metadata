@@ -1,0 +1,23 @@
+{
+    "id": "lithium-2",
+    "symbol": "lithium",
+    "name": "Lithium",
+    "platforms": {
+        "polygon-pos": "0xfe1a200637464fbc9b60bc7aecb9b86c0e1d486e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PolyWantsACracker is a yield farm on Polygon Network. It is Layer 1 in the farming project by Sugandese Tokens."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0xfe1a200637464fbc9b60bc7aecb9b86c0e1d486e",
+    "url": "https://polywantsacracker.farm/",
+    "explorers": [
+        "https://polygonscan.com/token/0xfE1a200637464FBC9B60Bc7AeCb9b86c0E1d486E"
+    ],
+    "twitter": "PolyWantsAFarm",
+    "telegram": "PolyWantsACrackerFarm",
+    "github_org": "LithiumSwapTech"
+}

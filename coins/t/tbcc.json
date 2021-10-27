@@ -1,0 +1,23 @@
+{
+    "id": "tbcc",
+    "symbol": "tbcc",
+    "name": "TBCC",
+    "platforms": {
+        "binance-smart-chain": "0xf29480344d8e21efeab7fde39f8d8299056a7fea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TBCC \u2013 is an eco-system that consists of TBCC token and TBCC Exchange \u2013 the best cryptocurrency exchange with the biggest liquidity pool.\r\n\r\nTBCC token is a utility token that was issued by TBCC development team. It works under the standards of BEP20 blockchain Binance Smart Chain. You can use it for trading and investing in it. TBCC token was made with the purpose of facilitating the adoption, use, and distribution of stablecoins, Open Finance, cryptocurrencies, and DeFi solutions. The transactions of TBCC tokens are fast, cheap, secure and are supported by a huge and professional development team. The market price of the TBCC token is based on the demand, that is why it can't be stable or backed by anything. TBCC token is represented on different exchanges both centralized and decentralized."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0xf29480344d8e21efeab7fde39f8d8299056a7fea",
+    "url": "https://www.tbcc.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xf29480344d8e21efeab7fde39f8d8299056a7fea"
+    ],
+    "twitter": "TBCC_ex",
+    "telegram": "tbcc_exchange_eng",
+    "github_org": "TBCCtoken"
+}

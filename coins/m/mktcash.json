@@ -1,0 +1,20 @@
+{
+    "id": "mktcash",
+    "symbol": "mch",
+    "name": "Mktcash",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [],
+    "description": {
+        "en": "Mktcash is a decentralized, open source, peer-to-peer cryptocurrency with a proof-of-stake consensus and masternodes advanced."
+    },
+    "country_origin": "PE",
+    "genesis_date": null,
+    "url": "https://mktcash.org/",
+    "explorers": [
+        "https://explorer.mktcash.org/"
+    ],
+    "twitter": "MktcashOfficial",
+    "telegram": "Comunidad_Mktcash_Esp",
+    "github_org": "mktcashofficial"
+}

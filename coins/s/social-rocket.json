@@ -1,0 +1,25 @@
+{
+    "id": "social-rocket",
+    "symbol": "rocks",
+    "name": "Social Rocket",
+    "platforms": {
+        "ethereum": "0x0829d2d5cc09d3d341e813c821b0cfae272d9fb2",
+        "binance-smart-chain": "0x0829d2d5cc09d3d341e813c821b0cfae272d9fb2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Social Rocket empowers Twitter & Telegram communities with taylor-made crypto features & blockchain technologies.\r\n"
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x0829d2d5cc09d3d341e813c821b0cfae272d9fb2",
+    "url": "https://social-rocket.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x0829d2d5cc09d3d341e813c821b0cfae272d9fb2",
+        "https://ethplorer.io/address/0x0829d2d5cc09d3d341e813c821b0cfae272d9fb2",
+        "https://bscscan.com/token/0x0829d2d5cc09d3d341e813c821b0cfae272d9fb2"
+    ],
+    "twitter": "social___rocket",
+    "telegram": "social_rocket"
+}

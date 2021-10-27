@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-stellar-token",
+    "symbol": "xlmbear",
+    "name": "3X Short Stellar Token",
+    "platforms": {
+        "ethereum": "0x960efd63ae895f165d874e6cc62501fd0e7dc50a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short Stellar Token (XLMBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of Stellar."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x960efd63ae895f165d874e6cc62501fd0e7dc50a",
+    "url": "https://ftx.com/trade/XLMBEAR/USD",
+    "explorers": [
+        "https://etherscan.io/token/0x960Efd63aE895F165d874E6cc62501fd0e7Dc50a",
+        "https://ethplorer.io/address/0x960efd63ae895f165d874e6cc62501fd0e7dc50a"
+    ]
+}

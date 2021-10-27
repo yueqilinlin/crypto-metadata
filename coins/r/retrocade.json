@@ -1,0 +1,22 @@
+{
+    "id": "retrocade",
+    "symbol": "rc",
+    "name": "RetroCade",
+    "platforms": {
+        "binance-smart-chain": "0xbef5b3a4db9447e8fd1fe6e16d87b591ed220c67"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RetroCade is a reward and play to earn token built on BSC. You collect BUSD rewards for holding. The tokens usecase is for the Play to Earn platform. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbef5b3a4db9447e8fd1fe6e16d87b591ed220c67",
+    "url": "https://www.retrocadep2e.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xbef5b3a4db9447e8fd1fe6e16d87b591ed220c67"
+    ],
+    "twitter": "RetroCadeBSC",
+    "telegram": "RetroCadeBSC"
+}

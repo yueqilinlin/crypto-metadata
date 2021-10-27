@@ -1,0 +1,24 @@
+{
+    "id": "billionhappiness",
+    "symbol": "bhc",
+    "name": "BillionHappiness",
+    "platforms": {
+        "binance-smart-chain": "0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Billion Happiness is a blockchain technology-based apparel company dedicated to providing Happiness through a transparent record of information on quality products our goal is to put authenticity using blockchain eliminating counterfeit items on the market. Users can earn BHC via cashback \"Shop to our store\" and via staking/farming BHC."
+    },
+    "country_origin": "PH",
+    "genesis_date": null,
+    "contract_address": "0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4",
+    "url": "billionhappiness.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4"
+    ],
+    "twitter": "BHC_Happiness",
+    "facebook": "BillionHappiness/",
+    "telegram": "BillionHappinessOfficial",
+    "github_org": "BHCHappiness"
+}

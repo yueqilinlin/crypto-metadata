@@ -1,0 +1,27 @@
+{
+    "id": "super-saiya-jin",
+    "symbol": "ssj",
+    "name": "Super Saiya-jin",
+    "platforms": {
+        "ethereum": "0xb4ae194a0dcf1b4080b164c1d775ee06e0817305"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "The first ever ERC20-ERC1155 hybrid token, SSJ governs the buidlers' Sandbox DFO, an official DFOhub project."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb4ae194a0dcf1b4080b164c1d775ee06e0817305",
+    "url": "https://dapp.dfohub.com/?addr=0xd5F8E370130ebBF6dF7bF742866ff056331Fd73C",
+    "explorers": [
+        "https://etherscan.io/token/0xb4ae194a0dcf1b4080b164c1d775ee06e0817305",
+        "https://ethplorer.io/address/0xb4ae194a0dcf1b4080b164c1d775ee06e0817305"
+    ],
+    "twitter": "dfohub",
+    "telegram": "supersaiyantoken",
+    "reddit": "dfohub/",
+    "github_org": "b-u-i-d-l"
+}

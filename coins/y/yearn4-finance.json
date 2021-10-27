@@ -1,0 +1,25 @@
+{
+    "id": "yearn4-finance",
+    "symbol": "yf4",
+    "name": "Yearn4 Finance",
+    "platforms": {
+        "ethereum": "0x38acefad338b870373fb8c810fe705569e1c7225"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "Yearn4Finance (A superior for everybody to get rich) is a Blockchain innovation organization. Our central goal is to quicken the mass appropriation of advanced resources by connecting conventional and decentralized finance."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x38acefad338b870373fb8c810fe705569e1c7225",
+    "url": "https://yearn4.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x38acefad338b870373fb8c810fe705569e1c7225",
+        "https://ethplorer.io/address/0x38acefad338b870373fb8c810fe705569e1c7225"
+    ],
+    "twitter": "yearn4finance",
+    "github_org": "yearn4"
+}

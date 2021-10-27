@@ -1,0 +1,24 @@
+{
+    "id": "bnb-cash",
+    "symbol": "bnbch",
+    "name": "BNB Cash",
+    "platforms": {
+        "binance-smart-chain": "0x840bcd536d647c3433bf830dbcb8debfa5b71c79"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "In April of 2021, BNB Cash (by BNB Fintech) is founded as a BNB replacement primarily for exchanges who do not have BNB\u2019s presence. Running on the BEP20 platform, BNB Cash is fast, low in transaction fees, and most importantly, secure. With our carefully planned budget, schedule, and benchmarks, we can ensure that the true utility of the token can be unlocked. The team behind BNB Cash proposes a few real-world integrations to kickstart from 2021 following through to 2023. On October 1st, BNB Cash successfully launched with a Market Cap of 3M BUSD and is organically growing as the hours pass by.\r\n\r\nThese projects are our mission to support the primary vision: to be the daily transactional currency of holders. We want our holders to utilize BNB Cash as a replacement of their fiat currency where possible. Our projects will cover:\r\n1. Online presence (P2P marketplace using Crypto as a medium)\r\n2. Point-of-Sale application (to attract merchants to accept the token)\r\n3. Debit Card (to allow users to pay in merchants that do not accept crypto as the card can exchange to the merchant's preferred currency through Visa/Master)\r\n4. Our own wallet (to integrate all of our projects to allow it to be viewed all in one while acting as a usual crypto wallet that support DApps) \r\n\r\nOur projects are not limited to possibilities as the market grows or as our holders\u2019 demand to ensure we are able to cover most aspects to spread utility of token. These projects will propel BNB Cash to be the one of the top utility tokens of the charts!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x840bcd536d647c3433bf830dbcb8debfa5b71c79",
+    "url": "https://bnbfintech.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x840bcd536d647c3433bf830dbcb8debfa5b71c79"
+    ],
+    "twitter": "BNBCashOfficial",
+    "telegram": "BNBCashOfficial",
+    "reddit": "BNBCash/",
+    "github_org": "BNBCash"
+}

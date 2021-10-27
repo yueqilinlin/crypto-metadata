@@ -1,0 +1,26 @@
+{
+    "id": "tangle",
+    "symbol": "tnglv3",
+    "name": "TangleV3",
+    "platforms": {
+        "ethereum": "0xc7827a6ccc51176a986f05ec8572244aece6bf2e",
+        "binance-smart-chain": "0xa536f6459e104666b2c08118f5a835de311d8e47",
+        "avalanche": "0xaf1843657f00f8c048139b7103784fdefc403702",
+        "fantom": "0x2f96f61a027b5101e966ec1ba75b78f353259fb3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tangle is a revolutionary and experimental token that promotes itself by rewarding those who increase Tangle's attractiveness. Tangle will also be used in the upcoming deFi zero-consensus prediction market system Forutsi."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc7827a6ccc51176a986f05ec8572244aece6bf2e",
+    "url": "https://tangl3.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xC7827a6CCc51176A986F05Ec8572244aecE6bf2e",
+        "https://ethplorer.io/address/0xc7827a6ccc51176a986f05ec8572244aece6bf2e"
+    ],
+    "twitter": "TangleCoin",
+    "github_org": "TangleSpider"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "covid-token",
+    "symbol": "covidtoken",
+    "name": "Covid Token",
+    "platforms": {
+        "binance-smart-chain": "0x23c28e9346c82228fb2b62b20b6fe5d75989f5b2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "COVID TOKEN is unique token, which provides help to African people about Coronavirus.\r\n\r\nThere is a 10% fee for each purchase on sale and transfer.\r\nWhat is included in the 10% Fee price is as follows;\r\n1% to the wallet of disinfectant, mask, food and beverage aid to Africa.\r\n4% to Pool wallet\r\n5% Covid Token holders are distributed to the all wallets, investors are increasing their number of CovidTokens day by day"
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0x23c28e9346c82228fb2b62b20b6fe5d75989f5b2",
+    "url": "https://covidcoin.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x23c28e9346c82228fb2b62b20b6fe5d75989f5b2"
+    ],
+    "twitter": "covid_token",
+    "telegram": "covidtokenglobal"
+}

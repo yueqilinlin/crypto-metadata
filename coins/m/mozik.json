@@ -1,0 +1,27 @@
+{
+    "id": "mozik",
+    "symbol": "moz",
+    "name": "Mozik",
+    "platforms": {
+        "ethereum": "0x7bd82b320ebc28d8eb3c4f5fa2af7b14da5b90c3",
+        "binance-smart-chain": "0xe4b22193d68f18f8e8eb3a26f4d64cb6d4573022"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "MOZIK is a decentralized music NFT platform aims to build a healthier and fairer music economy ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7bd82b320ebc28d8eb3c4f5fa2af7b14da5b90c3",
+    "url": "https://www.mozik.cc/",
+    "explorers": [
+        "https://etherscan.io/token/0x7BD82B320EbC28D8EB3C4F5Fa2af7B14dA5b90C3",
+        "https://ethplorer.io/address/0x7BD82B320EbC28D8EB3C4F5Fa2af7B14dA5b90C3"
+    ],
+    "twitter": "MozikMoz",
+    "telegram": "MozikENOfficial",
+    "reddit": "Mozik/"
+}

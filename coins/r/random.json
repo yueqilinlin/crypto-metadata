@@ -1,0 +1,24 @@
+{
+    "id": "random",
+    "symbol": "rndm",
+    "name": "Random",
+    "platforms": {
+        "fantom": "0x49ac072c793fb9523f0688a0d863aadfbfb5d475"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Random is a deflationary token that will serve as the principle currency of Fractal Studios' multi-platform ecosystem. Projects currently in development include Lexicon, a digital trading card game and a random NFT generator & marketplace.\r\n\r\nAll transactions are charged with a 3% fee. 2% go to the distribution wallet and 1% get burned. In a nod to Chaos Theory, the project sets itself apart by dropping an indeterminate amount of RNDM into holders' wallets once a month."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x49ac072c793fb9523f0688a0d863aadfbfb5d475",
+    "url": "https://rndmtoken.com/",
+    "explorers": [
+        "https://ftmscan.com/token/0x49ac072c793fb9523f0688a0d863aadfbfb5d475"
+    ],
+    "twitter": "RndmToken",
+    "facebook": "Lets-Get-Random-102563105352228",
+    "telegram": "RndmToken",
+    "reddit": "RndmToken/"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "yfox-finance",
+    "symbol": "yfox",
+    "name": "YFOX Finance",
+    "platforms": {
+        "ethereum": "0x706cb9e741cbfee00ad5b3f5acc8bd44d1644a74"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Y FOX is an open-source Decentralized  protocol which enables you to easily access FOX DUAL STAKING, FARMING, GOVERNANCE VOTE, LENDING and BORROWING DeFi Services from a simple dashboard"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x706cb9e741cbfee00ad5b3f5acc8bd44d1644a74",
+    "url": "https://yfox.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x706cb9e741cbfee00ad5b3f5acc8bd44d1644a74",
+        "https://ethplorer.io/address/0x706cb9e741cbfee00ad5b3f5acc8bd44d1644a74"
+    ],
+    "twitter": "yfoxfinance",
+    "telegram": "YFOX_Finance",
+    "github_org": "YFOXFINANCE"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "simracer-coin",
+    "symbol": "src",
+    "name": "Simracer Coin",
+    "platforms": {
+        "ethereum": "0x16587cf43f044aba0165ffa00acf412631194e4b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Simracer Coin is a token created for virtual motorsport players, known as sim racers. The token will be used to purchase items in a sim racing assets marketplace and also in a management game, parallel to private league racing."
+    },
+    "country_origin": "PT",
+    "genesis_date": null,
+    "contract_address": "0x16587cf43f044aba0165ffa00acf412631194e4b",
+    "url": "https://simracercoin.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x16587cf43f044aba0165ffa00acf412631194e4b",
+        "https://ethplorer.io/address/0x16587cf43f044aba0165ffa00acf412631194e4b"
+    ],
+    "twitter": "simracercoin",
+    "facebook": "simracercoin",
+    "telegram": "SimracerCoin",
+    "github_org": "SimracerCoin"
+}

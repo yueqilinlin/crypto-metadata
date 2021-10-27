@@ -1,0 +1,21 @@
+{
+    "id": "betller-coin",
+    "symbol": "btllr",
+    "name": "Betller Coin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Betller - the world's leading cryptocurrency P2P betting platform that enable users to predict Bitcoin price and earn unlimited rewards! The platform created with the vision to allow for fraud-free and broker-free betting on financial markets.\r\n\r\nBetller enables people to use their skills to predict the future value of Bitcoin on 5 minutes expiration markets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://betller.io/",
+    "explorers": [
+        "https://explorer.betller.io/"
+    ],
+    "twitter": "BetllerOfficial",
+    "facebook": "betller",
+    "telegram": "betller_general_eng",
+    "github_org": "betller"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "omisego",
+    "symbol": "omg",
+    "name": "OMG Network",
+    "platforms": {
+        "ethereum": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "The OMG Network is the value transfer network for ETH and ERC20 tokens."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-07-06",
+    "contract_address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
+    "url": "https://omg.network/",
+    "explorers": [
+        "https://blockexplorer.mainnet.v1.omg.network/",
+        "https://etherscan.io/token/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+        "https://blockchair.com/ethereum/erc-20/token/0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
+        "https://ethplorer.io/address/0xd26114cd6ee289accf82350c8d8487fedb8a0c07"
+    ],
+    "twitter": "omgnetworkhq",
+    "facebook": "omgnetworkhq",
+    "reddit": "https://www.reddit.com",
+    "github_org": "omgnetwork"
+}

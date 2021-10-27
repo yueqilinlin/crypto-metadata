@@ -1,0 +1,25 @@
+{
+    "id": "poker",
+    "symbol": "poker",
+    "name": "Poker",
+    "platforms": {
+        "binance-smart-chain": "0x82caa54ec9aaf213ff611af63d4b650accff53ae"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x82caa54ec9aaf213ff611af63d4b650accff53ae",
+    "url": "https://www.bakeryswap.org",
+    "explorers": [
+        "https://bscscan.com/token/0x82caa54ec9aaf213ff611af63d4b650accff53ae"
+    ],
+    "twitter": "bakery_swap",
+    "telegram": "bakeryswap"
+}

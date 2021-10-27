@@ -1,0 +1,26 @@
+{
+    "id": "kwikswap-protocol",
+    "symbol": "kwik",
+    "name": "KwikSwap Protocol",
+    "platforms": {
+        "ethereum": "0x286c0936c7eaf6651099ab5dab9ee5a6cb5d229d",
+        "binance-smart-chain": "0x20ba4c166edc1422164df84cd9192fdd8dde122f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kwikswap is a revolutionary Multi Cross Chain Swap Protocol with Layer 2 Scaling powered by Ethereum, Polkadot, Plasm, Reef Chain, BSC & Acala Network. Use Kwikswap for Swapping, Market Creation, Provide Liquidity & Staking"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x286c0936c7eaf6651099ab5dab9ee5a6cb5d229d",
+    "url": "https://home.kwikswap.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x286c0936c7eaf6651099ab5dab9ee5a6cb5d229d",
+        "https://ethplorer.io/address/0x286c0936c7eaf6651099ab5dab9ee5a6cb5d229d"
+    ],
+    "twitter": "kwikswapdex",
+    "telegram": "kwikswap",
+    "reddit": "KwikSwap/",
+    "github_org": "kwikswap"
+}

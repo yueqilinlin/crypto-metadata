@@ -1,0 +1,21 @@
+{
+    "id": "digimoney",
+    "symbol": "dgm",
+    "name": "DigiMoney",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "DigiMoney (DGM) is a new cryptocurrency PoW/PoS that uses X11 hashing algorithm and supports masternodes, instantX and Darksend. The coin was created without ICO with low premine to support future developments. The initial target of DigiMoney is the freelancer market. The freelance market is rising across the world, the word \"freelancer\" is starting to shed negative connotations and moving more and more into independent professionals that are using mobile and technology to create ecosystems of work they enjoy.\r\n \r\nDigimoney\u2019s goal is to create a cryptocurrency to be used for any service and products payments. During the first stage of development our team will focus on freelancer platforms, we will be in contact with many websites around the world to promote and make DigiMoney the main currency for online services payments. DigiMoney will not be limited to freelancer market, our team will be in contact with merchants around the world and promote DigiMoney to be a useful currency used for any kind of payment.\r\n \r\nProject highlights\r\nNo masternodes or staking wallets will be created by DGM team\r\nLow premine 1.5%\r\nFair launch, DGM was announced 1 week before genesis block\r\nNo presale\r\n \r\nFeatures\r\nInstantX is a service that allows for near-instant transactions. Through this system, inputs can be locked to only specific transactions and verified by consensus of the Masternode network.\r\nDarksend is the name of the decentralized mixing implementation that obfuscates and provides a greater degree of privacy/anonymity to the transactions of the DigiMoney network.\r\nMasternode is a server on a decentralized network. It is utilized to complete unique functions in ways ordinary nodes can\u2019t. It can be used for features like instantX and Darksend."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://www.digimoney.online",
+    "explorers": [
+        "http://explorer.digimoney.online"
+    ],
+    "twitter": "DigimoneyCoin",
+    "github_org": "digimoneydgm"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "waves-enterprise",
+    "symbol": "west",
+    "name": "Waves Enterprise",
+    "platforms": {
+        "waves": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Waves Enterprise\u2019s main \u0441omponents are a private blockchain platform and hybrid blockchain solutions, along with a system integrator."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://wavesenterprise.com/",
+    "explorers": [
+        "https://client.wavesenterprise.com/explorer/"
+    ],
+    "twitter": "wvsenterprise",
+    "facebook": "wavesenterpriseEn",
+    "telegram": "wavesenterprisegroup",
+    "github_org": "waves-enterprise"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "aave-bat-v1",
+    "symbol": "abat",
+    "name": "Aave BAT v1",
+    "platforms": {
+        "ethereum": "0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Aave Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Aave BAT is an interest bearing token minted upon deposit and burned when redeemed. The aBAT is pegged 1:1 to the value of the underlying BAT that is deposited in Aave protocol. aBAT, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aBAT accrue interest in real time, directly in your wallet!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00",
+    "url": "https://aave.com/atokens",
+    "explorers": [
+        "https://etherscan.io/token/0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00",
+        "https://ethplorer.io/address/0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome",
+    "reddit": "Aave_Official/"
+}

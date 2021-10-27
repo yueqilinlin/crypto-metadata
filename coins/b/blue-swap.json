@@ -1,0 +1,25 @@
+{
+    "id": "blue-swap",
+    "symbol": "blue",
+    "name": "Blue Swap",
+    "platforms": {
+        "binance-smart-chain": "0x36c0556c2b15aed79f842675ff030782738ef9e8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The most robust yield-farm on Binance Smart Chain."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x36c0556c2b15aed79f842675ff030782738ef9e8",
+    "url": "https://blueswap.finance/",
+    "explorers": [
+        "https://www.bscscan.com/token/0x36c0556c2b15aed79f842675ff030782738ef9e8",
+        "https://bscscan.com/token/0x36c0556c2b15aed79f842675ff030782738ef9e8"
+    ],
+    "twitter": "FinancePalette",
+    "telegram": "blueswapfinance",
+    "reddit": "blueswap/",
+    "github_org": "Palette-Finance"
+}

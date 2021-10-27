@@ -1,0 +1,22 @@
+{
+    "id": "etna-network",
+    "symbol": "etna",
+    "name": "ETNA Network",
+    "platforms": {
+        "binance-smart-chain": "0x51f35073ff7cf54c9e86b7042e59a8cc9709fc46"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ETNA Network (ETNA) is a hybrid DeFI-type project that is set to bridge the gap between decentralized applications and the masses that are being left out due to the complexities in DeFi. \r\n\r\nETNA DeFi technology is a combination of the two largest DeFi-type applications and also gaming, these applications are as follows:\r\n\r\n Lending and borrowing: ETNA offer users a lending and borrowing feature, the first to support the use of Whitelisted NFTs as collateral.\r\n\r\nA hybrid crypto marketplace: A combination of the conventional liquidity DEX protocol and a Broker-Buyer type trading mechanism.\r\n\r\nA gaming/NFT ecosystem that allows the easy integration of conventional games to the blockchain.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x51f35073ff7cf54c9e86b7042e59a8cc9709fc46",
+    "url": "https://etna.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x51f35073ff7cf54c9e86b7042e59a8cc9709fc46"
+    ],
+    "twitter": "EtnaNetwork",
+    "telegram": "EtnaNetwork"
+}

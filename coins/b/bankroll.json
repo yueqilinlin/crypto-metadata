@@ -1,0 +1,23 @@
+{
+    "id": "bankroll",
+    "symbol": "bankr",
+    "name": "BankRoll",
+    "platforms": {
+        "binance-smart-chain": "0x240eb70aafe740f753066a413ddad73b7c72b4e2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BankRoll is the first Escrow Marketplace on the Binance Smart Chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x240eb70aafe740f753066a413ddad73b7c72b4e2",
+    "url": "https://bankroll.holdings/",
+    "explorers": [
+        "https://bscscan.com/token/0x240eb70aafe740f753066a413ddad73b7c72b4e2"
+    ],
+    "twitter": "bankrollbsc",
+    "telegram": "bankrollbsc",
+    "reddit": "bankroll"
+}

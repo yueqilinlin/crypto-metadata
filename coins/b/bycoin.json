@@ -1,0 +1,23 @@
+{
+    "id": "bycoin",
+    "symbol": "byco",
+    "name": "Bycoin",
+    "platforms": {
+        "binance-smart-chain": "0xdbca1fecbd2d3ae9efc48f3e823fede48530551a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bycoin data tokens turn data into data assets. This enables data wallets, data exchanges, and data co-ops by leveraging crypto wallets, exchanges and generate with our algorithm nft tokens."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xdbca1fecbd2d3ae9efc48f3e823fede48530551a",
+    "url": "https://bycoin.digital/",
+    "explorers": [
+        "https://bscscan.com/token/0xdbca1fecbd2d3ae9efc48f3e823fede48530551a"
+    ],
+    "twitter": "bycoinonline",
+    "telegram": "bycoinonline",
+    "github_org": "bycoinonline"
+}

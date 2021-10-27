@@ -1,0 +1,22 @@
+{
+    "id": "bithereum",
+    "symbol": "bth",
+    "name": "Bithereum",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bithereum is a coin that is created via forking the Bitcoin blockchain. BTH will function as a peer-to-peer electronic cash system similar to Bitcoin, however it will fuse with the technological roadmap of Ethereum to create a more technologically advanced version of Bitcoin which is structured around Proof of Stake consensus. \r\n\r\nThe current issues plaguing Bitcoin are the community schism, scalability, proof of work, and the rise of the mining cartel. The deep divide has pitted the once strong community against each other with no common ground on solutions for any of the current/future issues. In addition, the rise of ASICs and the 4 mining pools that dominate 61% of the hashpower create a level of centralization in consensus. Instead of sparring over on-chain and off-chain scaling solutions, Bithereum recognizes the importance of both, and will incorporate all-encompassing solutions.\r\n\r\nProof of Stake will make the network faster, more efficient, cheaper to run, and more secure. It eliminates the need for expensive hardware, mitigates high energy costs, prevents both ASICs/large pools from dominating, and increases the network security from 51% attacks. Issues faced in common PoS protocols are alleviated through Ethereum\u2019s Casper protocol and its slashing conditions. With this implemented into Bithereum, the benefits of this technology will positively affect Bitcoin\u2019s issues and ensure its long term success. \r\n\r\nSince a Casper contract can be created using Ethereum smart contracts, which is not the case with Bitcoin, Bithereum will leverage various opcodes and introduce new opcodes with built in functionality that mimics Casper-like Proof of Stake. More details about our Proof of Stake model can be found here: https://medium.com/bithereum-network/bithereums-proof-of-stake-concept-b06899fa4950\r\n\r\nBithereum essentially creates an outlet for both Bitcoin and Ethereum, allowing BTC to take on its new role as digital gold, and allowing ETH to be used for its true purpose, as fuel for a worldwide computer that can contain a vast ecosystem of dApps on its platform. With the harmonization of Ethereum\u2019s technology and Bitcoin\u2019s vision, Bithereum will bring together the best of the two leading cryptocurrencies to create an unparalleled peer-to-peer digital currency."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://bithereum.network/",
+    "explorers": [
+        "http://explorer.bithereum.network"
+    ],
+    "twitter": "BithereumBTH",
+    "facebook": "BithereumBTH",
+    "telegram": "BithereumNetwork",
+    "reddit": "Bithereum/",
+    "github_org": "BTHPOS"
+}

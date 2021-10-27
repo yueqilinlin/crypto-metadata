@@ -1,0 +1,26 @@
+{
+    "id": "datum",
+    "symbol": "dat",
+    "name": "Datum",
+    "platforms": {
+        "ethereum": "0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Datum is a decentralized and distributed high performance NoSQL database backed by a blockchain ledger. This technology allows anyone to securely and anonymously backup structured data from social networks, wearables, smart homes, and other IoT devices. Datum provides a marketplace where users can share or sell data on their own terms."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-12-09",
+    "contract_address": "0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c",
+    "url": "https://datum.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c",
+        "https://explorer.megatron.datum.org/",
+        "https://ethplorer.io/address/0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c"
+    ],
+    "twitter": "datumnetwork",
+    "facebook": "datumnetwork",
+    "reddit": "datumnetwork",
+    "github_org": "datumnetwork"
+}

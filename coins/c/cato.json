@@ -1,0 +1,25 @@
+{
+    "id": "cato",
+    "symbol": "cato",
+    "name": "CATO",
+    "platforms": {
+        "solana": "5p2zjqCd1WJzAVgcEnjhb9zWDU7b9XVhFhx4usiyN7jB"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "CATO is a decentralized, community-based first cat meme token on Solana. \r\nWe currently have our own version of serum dex which stands apart from all other dex on solana in terms of features we provide to our users. We aim to implement Swaps and Leverage trading on our dex too."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "5p2zjqCd1WJzAVgcEnjhb9zWDU7b9XVhFhx4usiyN7jB",
+    "url": "https://official.catodex.com/",
+    "explorers": [
+        "https://solscan.io/token/5p2zjqCd1WJzAVgcEnjhb9zWDU7b9XVhFhx4usiyN7jB"
+    ],
+    "twitter": "SolanaCATO",
+    "telegram": "SolanaCAT",
+    "github_org": "SOL-CAT"
+}

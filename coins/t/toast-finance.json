@@ -1,0 +1,26 @@
+{
+    "id": "toast-finance",
+    "symbol": "house",
+    "name": "Toast.finance",
+    "platforms": {
+        "ethereum": "0x19810559df63f19cfe88923313250550edadb743"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "Toast.finance is a token based on two that work together - $HOUSE and $AVO, launched with no dev wallets or funds, no presale, no airdrop, no early wallets. 100% owned by the community. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x19810559df63f19cfe88923313250550edadb743",
+    "url": "https://toast.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x19810559df63f19cfe88923313250550edadb743",
+        "https://ethplorer.io/address/0x19810559df63f19cfe88923313250550edadb743"
+    ],
+    "twitter": "toastfinance",
+    "telegram": "toastfinance",
+    "github_org": "Toast-finance"
+}

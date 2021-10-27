@@ -1,0 +1,23 @@
+{
+    "id": "huobi-fil",
+    "symbol": "hfil",
+    "name": "Huobi Fil",
+    "platforms": {
+        "ethereum": "0x9afb950948c2370975fb91a441f36fdc02737cd4",
+        "huobi-token": "0xae3a768f9ab104c69a7cd6041fe16ffa235d1810"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9afb950948c2370975fb91a441f36fdc02737cd4",
+    "url": "https://www.htokens.finance/en-us/",
+    "explorers": [
+        "https://etherscan.io/token/0x9AFb950948c2370975fb91a441F36FDC02737cD4",
+        "https://scan.huobichain.com/token/0xae3a768f9aB104c69A7CD6041fE16fFa235d1810",
+        "https://ethplorer.io/address/0x9AFb950948c2370975fb91a441F36FDC02737cD4"
+    ]
+}

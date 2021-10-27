@@ -1,0 +1,23 @@
+{
+    "id": "dragon-egg",
+    "symbol": "dregg",
+    "name": "Dragon Egg",
+    "platforms": {
+        "avalanche": "0x88c090496125b751b4e3ce4d3fdb8e47dd079c57"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Dragons Lair is our Layer 1 Yield farming token that will give AVAX users exclusive early access to our second layer on the AVAX blockchain, which is the beginning of what will be a large and vibrant cross chain gaming ecosystem. Although initially just a yield farm, Layer 1 will be introducing NFTs(Tiny Dragons), mini games involving those NFTs in tournaments, and ways to collect items to use in our second layer.\r\n\r\nOur Layer 2 will be a text-based MMORPG-style play-to-earn game where players can go on an exciting, Dungeons & Dragons inspired adventure and collect valuable loot and NFTs and build their characters into fearsome monster slayers. There will also be an in-game economy and marketplace where players can trade blockchain items. Our Layer 2 will be releasing on both AVAX and Polygon chains simultaneously and this will only be the beginning!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x88c090496125b751b4e3ce4d3fdb8e47dd079c57",
+    "url": "https://thedragonslair.farm/",
+    "explorers": [
+        "https://avascan.info/blockchain/c/token/0x88c090496125b751B4E3ce4d3FDB8E47DD079c57"
+    ],
+    "twitter": "DRGNCRYPTOGAMIN",
+    "telegram": "thedragonslairfarm",
+    "github_org": "sam-thewise"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "unobtanium-tezos",
+    "symbol": "uno",
+    "name": "Unobtanium Tezos",
+    "platforms": {
+        "tezos": "KT1ErKVqEhG9jxXgUG2KGLW3bNM7zXHX8SDF"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "crossing NFTs and Dapps to make fun and interactive worlds where users can collect, earn, and build new virtual worlds!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT1ErKVqEhG9jxXgUG2KGLW3bNM7zXHX8SDF",
+    "url": "https://tezotop.io",
+    "explorers": [
+        "https://tzkt.io/KT1ErKVqEhG9jxXgUG2KGLW3bNM7zXHX8SDF/operations/"
+    ],
+    "twitter": "gifdotgames",
+    "telegram": "gifgames"
+}

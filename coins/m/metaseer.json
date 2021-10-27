@@ -1,0 +1,24 @@
+{
+    "id": "metaseer",
+    "symbol": "metas",
+    "name": "Metaseer",
+    "platforms": {
+        "binance-smart-chain": "0xfa1e1754bd2896d467930c97d07af799c531cb7d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Metaseer is the worlds 1st Hybrid Options Market that encompasses Innovative Insurance Features and Platform as a Service Ecosystem.\r\n100% Transparency on price feed\r\nInnovative insurance feature\r\nEquitable Risk to Return tradable options\r\nMETASEER is a state of the art hybrid options market which combine the elements of binary and traditional vanilla options with short timeframe analysis through decentralized dynamic price feed.\r\nMETASEER have zero tolerance for price manipulation and therefore Blockchain oracles is utilized for the price feed of all the tradable markets."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xfa1e1754bd2896d467930c97d07af799c531cb7d",
+    "url": "https://metaseer.io/",
+    "explorers": [
+        "https://www.bscscan.com/token/0xfa1e1754bd2896d467930c97d07af799c531cb7d",
+        "https://bscscan.com/token/0xfa1e1754bd2896d467930c97d07af799c531cb7d"
+    ],
+    "twitter": "mseerofficial",
+    "telegram": "MSEERofficial",
+    "github_org": "METASEER"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "multiven",
+    "symbol": "mtcn",
+    "name": "Multicoin",
+    "platforms": {
+        "ethereum": "0xf6117cc92d7247f605f11d4c942f0feda3399cb5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Multiven is tokenising its existing successful business by developing the Multiven Open Marketplace (MOM), the world\u2019s first blockchain-based marketplace for the global $4 Trillion Information Technology products and services Industry that will enable everybody to buy and sell smartphones, computers, routers etc. on a peer-to-peer basis, with no intermediaries, powered solely by smart contracts, with the Multicoin as the global medium-of-exchange."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0xf6117cc92d7247f605f11d4c942f0feda3399cb5",
+    "url": "https://www.multiven.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xf6117cc92d7247f605f11d4c942f0feda3399cb5",
+        "https://ethplorer.io/address/0xf6117cc92d7247f605f11d4c942f0feda3399cb5"
+    ],
+    "twitter": "multivengroup",
+    "facebook": "MultivenGroup",
+    "telegram": "MultivenOfficialGroup",
+    "reddit": "Multiven",
+    "github_org": "Multiven-Group-BV"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "buy-coin-pos",
+    "symbol": "bcp",
+    "name": "BuyCoinPos",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "BCP is designed to allow anonymous ownership and use rights, bcp-coin in the form of a computer can stall (e-wallet) is stored in a personal computer, you can also be stored in third-party trade platform. No matter what kind of form to save, bcp-coin can be traded with people anywhere in the world via the Internet trading platform\r\n\r\nP2P (Peer to Peer) technology features and no central server, \r\ndepending on the user group (peers) exchange of information internet system to ensure that any organization can not manipulate the value of bcp-coin, its value depends on the market's supply and demand.\r\n\r\nThe main objectives of the project are to make the introduction and development of blockchain technologies in the game sector of the economy, as well as assistance in providing services to startup projects using blockchain technologies in their basis."
+    },
+    "country_origin": "KZ",
+    "genesis_date": null,
+    "url": "https://www.buy-coin.me/",
+    "explorers": [
+        "http://31.214.157.178:3031/",
+        "http://144.91.94.73:3031/"
+    ],
+    "twitter": "BcpDev",
+    "telegram": "BCP_Official",
+    "github_org": "buycoin-dev"
+}

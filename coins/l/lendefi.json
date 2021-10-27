@@ -1,0 +1,22 @@
+{
+    "id": "lendefi",
+    "symbol": "ldfi",
+    "name": "Lendefi",
+    "platforms": {
+        "binance-smart-chain": "0x8f1e60d84182db487ac235acc65825e50b5477a1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8f1e60d84182db487ac235acc65825e50b5477a1",
+    "url": "https://lendefi.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x8f1e60d84182db487ac235acc65825e50b5477a1"
+    ],
+    "twitter": "Lendefi_io",
+    "telegram": "Lendefi_io"
+}

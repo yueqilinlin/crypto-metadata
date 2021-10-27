@@ -1,0 +1,23 @@
+{
+    "id": "dogepot",
+    "symbol": "dogepot",
+    "name": "DogePot",
+    "platforms": {
+        "binance-smart-chain": "0xbcd1f4dc8027d8b2c592de24c15a39901da096e5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DogePot awards its holders and backers in $BNB. The more $DOGEPOT you HODL, the more rewards you earn in $BNB."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0xbcd1f4dc8027d8b2c592de24c15a39901da096e5",
+    "url": "https://dogepot.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xbcd1f4dc8027d8b2c592de24c15a39901da096e5"
+    ],
+    "twitter": "dogepot_finance",
+    "telegram": "dogepotchat",
+    "reddit": "DogePotFinance/"
+}

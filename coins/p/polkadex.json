@@ -1,0 +1,27 @@
+{
+    "id": "polkadex",
+    "symbol": "pdex",
+    "name": "Polkadex",
+    "platforms": {
+        "ethereum": "0xf59ae934f6fe444afc309586cc60a84a0f89aaea",
+        "sora": "0x008a99c642c508f4f718598f32fa9ecbeea854e335312fecdbd298b92de26e21"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf59ae934f6fe444afc309586cc60a84a0f89aaea",
+    "url": "https://www.polkadex.trade/",
+    "explorers": [
+        "https://etherscan.io/token/0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
+        "https://ethplorer.io/address/0xF59ae934f6fe444afC309586cC60a84a0F89Aaea"
+    ],
+    "twitter": "polkadex",
+    "telegram": "Polkadex",
+    "github_org": "Polkadex-Substrate"
+}

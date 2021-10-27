@@ -1,0 +1,23 @@
+{
+    "id": "safemoon-swap",
+    "symbol": "sfms",
+    "name": "SafeMoon Swap",
+    "platforms": {
+        "binance-smart-chain": "0x212fe6acbd2083ba0fd7c13bc57100ce8bf52e75"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeMoon Swap ($SFMS) is backed by Liquidity Generation and Autonomous Yield protocol that helps the token holders earn passive income while also enhancing the liquidity of the pool."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x212fe6acbd2083ba0fd7c13bc57100ce8bf52e75",
+    "url": "https://safe-moon.tech/",
+    "explorers": [
+        "https://bscscan.com/token/0x212fe6acbd2083ba0fd7c13bc57100ce8bf52e75"
+    ],
+    "twitter": "SwapSafemoon",
+    "facebook": "safemoon.team",
+    "telegram": "safemoonswaprocket"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "tosdis",
+    "symbol": "dis",
+    "name": "TosDis",
+    "platforms": {
+        "ethereum": "0x220b71671b649c03714da9c621285943f3cbcdc6",
+        "binance-smart-chain": "0x57effde2759b68d86c544e88f7977e3314144859",
+        "fantom": "0x0e121961dd741c9d49c9a04379da944a9d2fac7a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad",
+        "Fantom Ecosystem",
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "The One Stop Defi Interoperable Solution (TosDis) powered with Liquid Staking"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x220b71671b649c03714da9c621285943f3cbcdc6",
+    "url": "https://www.tosdis.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x220b71671b649c03714da9c621285943f3cbcdc6",
+        "https://ethplorer.io/address/0x220b71671b649c03714da9c621285943f3cbcdc6",
+        "https://bscscan.com/token/0x57effde2759b68d86c544e88f7977e3314144859",
+        "https://ftmscan.com/token/0x0e121961DD741C9D49C9A04379da944A9D2FAc7a"
+    ],
+    "twitter": "TosdisFinance",
+    "telegram": "Tosdis",
+    "github_org": "tosdis"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "french-digital-reserve",
+    "symbol": "fdr",
+    "name": "French Digital Reserve",
+    "platforms": {},
+    "hashing_algorithm": "Keccak",
+    "categories": [],
+    "description": {
+        "en": "Born from a community project, FDR is a decentralized currency with a blockchain dedicated to an ecosystem of online services and platforms.\r\n"
+    },
+    "country_origin": "FR",
+    "genesis_date": "2018-08-03",
+    "url": "https://www.fdreserve.com/",
+    "explorers": [
+        "https://explorer.fdreserve.com/"
+    ],
+    "twitter": "FD_Reserve",
+    "facebook": "FrenchDigitalReserve",
+    "telegram": "FDR_Project_EN",
+    "github_org": "fdreserve"
+}

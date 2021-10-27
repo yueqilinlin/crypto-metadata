@@ -1,0 +1,23 @@
+{
+    "id": "risq-protocol",
+    "symbol": "risq",
+    "name": "Risq Protocol",
+    "platforms": {
+        "binance-smart-chain": "0xc2c82622a7cb7159d44cea7e39843a495f2674de"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Speculate or protect your crypto holdings against price dips with on-chain Call and Put options. Build DeFi hedge funds for asset managers, investors, and traders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc2c82622a7cb7159d44cea7e39843a495f2674de",
+    "url": "https://risq.capital/",
+    "explorers": [
+        "https://bscscan.com/token/0xc2c82622a7cb7159d44cea7e39843a495f2674de"
+    ],
+    "twitter": "risqprotocol",
+    "telegram": "risqprotocol",
+    "github_org": "risqprotocol"
+}

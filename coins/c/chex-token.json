@@ -1,0 +1,25 @@
+{
+    "id": "chex-token",
+    "symbol": "chex",
+    "name": "CHEX Token",
+    "platforms": {
+        "eos": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "The CHEX token is the utility token of the Chintai exchange, allowing for earning passive income through smart matching of leasing markets, and various other opportunities as the Chintai ecosystem expands."
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "url": "https://chintai.io/",
+    "explorers": [
+        "https://bloks.io/tokens/CHEX-eos-chexchexchex"
+    ],
+    "twitter": "ChintaiEOS",
+    "telegram": "ChintaiEOS",
+    "reddit": "chintai/",
+    "github_org": "chintai-platform"
+}

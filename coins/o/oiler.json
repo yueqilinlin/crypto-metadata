@@ -1,0 +1,28 @@
+{
+    "id": "oiler",
+    "symbol": "oil",
+    "name": "Oiler",
+    "platforms": {
+        "ethereum": "0x0275e1001e293c46cfe158b3702aade0b99f88a5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Decentralized Exchange Token (DEX)",
+        "Options"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0275e1001e293c46cfe158b3702aade0b99f88a5",
+    "url": "https://www.oiler.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x0275e1001e293c46cfe158b3702aade0b99f88a5",
+        "https://ethplorer.io/address/0x0275e1001e293c46cfe158b3702aade0b99f88a5"
+    ],
+    "twitter": "OilerNetwork",
+    "telegram": "oiler_official",
+    "github_org": "oilernetwork"
+}

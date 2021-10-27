@@ -1,0 +1,25 @@
+{
+    "id": "uwu-vault-nftx",
+    "symbol": "uwu",
+    "name": "UWU Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0x5ce188b44266c7b4bbc67afa3d16b2eb24ed1065"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "UWU Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5ce188b44266c7b4bbc67afa3d16b2eb24ed1065",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x5cE188B44266c7B4bbC67Afa3D16b2eB24eD1065",
+        "https://ethplorer.io/address/0x5ce188b44266c7b4bbc67afa3d16b2eb24ed1065"
+    ],
+    "twitter": "NFTX_",
+    "telegram": "nftxorg"
+}

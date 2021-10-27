@@ -1,0 +1,22 @@
+{
+    "id": "nasdex-token",
+    "symbol": "nsdx",
+    "name": "NASDEX Token",
+    "platforms": {
+        "polygon-pos": "0xe8d17b127ba8b9899a160d9a07b69bca8e08bfc6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NASDEX is a decentralized exchange that offers our users the ability to trade tokenized equities on blockchain via our minting and trading mechanism that mimics the offchain economics of the real world equity price."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe8d17b127ba8b9899a160d9a07b69bca8e08bfc6",
+    "url": "https://www.nasdex.xyz/",
+    "explorers": [
+        "https://polygonscan.com/token/0xe8d17b127ba8b9899a160d9a07b69bca8e08bfc6"
+    ],
+    "twitter": "nasdex_xyz",
+    "telegram": "nasdex_xyz"
+}

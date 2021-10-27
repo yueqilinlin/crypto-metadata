@@ -1,0 +1,26 @@
+{
+    "id": "shiba-bsc",
+    "symbol": "shibsc",
+    "name": "SHIBA BSC",
+    "platforms": {
+        "binance-smart-chain": "0xdf0816cc717216c8b0863af8d4f0fc20bc65d643"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "SHIBSC is a decentralized, community driven, fair launched Meme Token on BSC. It is a decentralized community experiment. At the time of launch, 67% of the tokens has been burnt, and the remaining 33% of the tokens will be provided to the liquidity pool and locked permanently. Everyone has to buy on PancakeSwap, this means devs have no more rights for ownership than anybody else in the world. \r\n\r\nMany events will be launched together with our brother SHIB. In the near future, we will launch Shiba BSC mining and NFT."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdf0816cc717216c8b0863af8d4f0fc20bc65d643",
+    "url": "https://shibsc.com",
+    "explorers": [
+        "https://bscscan.com/token/0xdf0816cc717216c8b0863af8d4f0fc20bc65d643"
+    ],
+    "twitter": "SHIBA__BSC",
+    "telegram": "SHIBSC_Global",
+    "reddit": "Shiba_BSC/",
+    "github_org": "Shiba-bsc"
+}

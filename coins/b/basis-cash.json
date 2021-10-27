@@ -1,0 +1,29 @@
+{
+    "id": "basis-cash",
+    "symbol": "bac",
+    "name": "Basis Cash",
+    "platforms": {
+        "ethereum": "0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "Fairly distributed & censorship resistant stablecoin with an algorithmic central bank"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a",
+    "url": "https://basis.cash/",
+    "explorers": [
+        "https://etherscan.io/token/0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a",
+        "https://ethplorer.io/address/0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a"
+    ],
+    "twitter": "BasisCash",
+    "telegram": "basiscash",
+    "github_org": "Basis-Cash"
+}

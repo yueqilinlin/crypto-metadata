@@ -1,0 +1,30 @@
+{
+    "id": "vempire-ddao",
+    "symbol": "vemp",
+    "name": "vEmpire DDAO",
+    "platforms": {
+        "ethereum": "0xcfeb09c3c5f0f78ad72166d55f9e6e9a60e96eec"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Metaverse",
+        "Yield Aggregator",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "vEmpire DDAO offers DeFi-Esque staking of Metaverse Tokens onto it's platform, these staking pools are incentivised by vEmpire's emissions schedule. Alongside using staked Metaverse tokens to \"Invade\" other protocols, vEmpire also offers Play to Earn games, boosted by our NFT collection."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcfeb09c3c5f0f78ad72166d55f9e6e9a60e96eec",
+    "url": "https://v-empire.digital",
+    "explorers": [
+        "https://etherscan.io/token/0xcfeb09c3c5f0f78ad72166d55f9e6e9a60e96eec",
+        "https://ethplorer.io/address/0xcfeb09c3c5f0f78ad72166d55f9e6e9a60e96eec"
+    ],
+    "twitter": "vEmpiredigital",
+    "telegram": "vEmpirediscussion",
+    "reddit": "vEmpireDDAO/",
+    "github_org": "v-Empire"
+}

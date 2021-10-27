@@ -1,0 +1,24 @@
+{
+    "id": "tutti-frutti-finance",
+    "symbol": "tff",
+    "name": "Tutti Frutti",
+    "platforms": {
+        "binance-smart-chain": "0x2d69c55baecefc6ec815239da0a985747b50db6e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The first low-inflation community distributed yield-farming project on Binance Smart Chain. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2d69c55baecefc6ec815239da0a985747b50db6e",
+    "url": "https://tuttifrutti.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x2d69c55baecefc6ec815239da0a985747b50db6e"
+    ],
+    "twitter": "TuttifruttiFi",
+    "telegram": "TuttifruttiFi",
+    "reddit": "TuttiFruttiFi/",
+    "github_org": "TuttiFruttiFinance"
+}

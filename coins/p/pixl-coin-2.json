@@ -1,0 +1,24 @@
+{
+    "id": "pixl-coin-2",
+    "symbol": "pxlc",
+    "name": "Pixl Coin",
+    "platforms": {
+        "binance-smart-chain": "0x72d2946094e6e57c2fade4964777a9af2b7a51f9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PIXL fuses the world of advertising with the metaverse. In true Web 3.0 fashion, it is a fresh way for advertisers to reach a new and engaged audience. Today, the crypto space is manipulated and flooded with a vast variety of different projects of which a large number are dishonest.\r\n\r\nThrough PIXL\u2019s community and dedication to the values of transparency, honesty and integrity, this is a space for investors to interact with vetted and trusted projects, and for those projects to demonstrate and advertise their true value."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x72d2946094e6e57c2fade4964777a9af2b7a51f9",
+    "url": "https://pixlcoin.io",
+    "explorers": [
+        "https://bscscan.com/token/0x72d2946094e6e57c2fade4964777a9af2b7a51f9"
+    ],
+    "twitter": "PIXLCoin",
+    "telegram": "PixlCoinOfficial",
+    "reddit": "PixlCoin/",
+    "github_org": "pixlcoin"
+}

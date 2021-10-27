@@ -1,0 +1,22 @@
+{
+    "id": "ata-token",
+    "symbol": "ata",
+    "name": "ATA Token",
+    "platforms": {
+        "binance-smart-chain": "0xf30d69c1bf77542cf2649a011d2829cbf88e8e6c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ATA token is an NFT marketplace for sale through its own launchpad.\r\nLiquidity is allocated as 20% donation to various foundations.\r\nAll remaining team wallets are burned or locked."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0xf30d69c1bf77542cf2649a011d2829cbf88e8e6c",
+    "url": "https://atatoken.io",
+    "explorers": [
+        "https://bscscan.com/token/0xf30d69c1bf77542cf2649a011d2829cbf88e8e6c"
+    ],
+    "twitter": "Atatoken",
+    "telegram": "ATA_token"
+}

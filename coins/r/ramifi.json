@@ -1,0 +1,26 @@
+{
+    "id": "ramifi",
+    "symbol": "ram",
+    "name": "Ramifi Protocol",
+    "platforms": {
+        "binance-smart-chain": "0x63290fc683d11ea077aba09596ff7387d49df912"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "Ramifi Protocol is an algorithmically adjusted supply stable coin who's goal is to denominate and fight USD inflation."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x63290fc683d11ea077aba09596ff7387d49df912",
+    "url": "https://ramifi.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x63290fC683d11ea077abA09596Ff7387D49dF912"
+    ],
+    "twitter": "RamifiProtocol",
+    "facebook": "Ramifi-Protocol-102796428303550",
+    "telegram": "ramifiprotocol",
+    "reddit": "RamToken"
+}

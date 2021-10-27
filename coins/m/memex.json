@@ -1,0 +1,23 @@
+{
+    "id": "memex",
+    "symbol": "memex",
+    "name": "MEMEX",
+    "platforms": {
+        "binance-smart-chain": "0xf4a037785b3ae6c70f9ed71fa2084b3589cabd46"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MEMEX is an automated market-making (AMM) decentralized exchange (DEX), Yield Farming, and Staking platform on Binance Smart Chain fully dedicated for hosting MEME themed tokens.\r\n\r\nIt's fast, cheap, and anyone can use it. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf4a037785b3ae6c70f9ed71fa2084b3589cabd46",
+    "url": "https://memex.exchange/",
+    "explorers": [
+        "https://bscscan.com/token/0xf4a037785b3AE6C70F9Ed71fA2084B3589CABd46"
+    ],
+    "twitter": "MEMEX_EXCHANGE",
+    "telegram": "MemexOfficial",
+    "github_org": "MEMEX-EXCHANGE"
+}

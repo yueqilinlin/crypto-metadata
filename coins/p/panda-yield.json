@@ -1,0 +1,31 @@
+{
+    "id": "panda-yield",
+    "symbol": "bboo",
+    "name": "Panda Yield",
+    "platforms": {
+        "binance-smart-chain": "0xd909840613fcb0fadc6ee7e5ecf30cdef4281a68"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens",
+        "Governance",
+        "Binance Smart Chain Ecosystem",
+        "Yield Farming",
+        "Automated Market Maker (AMM)",
+        "Decentralized Finance (DeFi)",
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd909840613fcb0fadc6ee7e5ecf30cdef4281a68",
+    "url": "https://pandayield.com/#/",
+    "explorers": [
+        "https://bscscan.com/token/0xd909840613fcb0fadc6ee7e5ecf30cdef4281a68"
+    ],
+    "twitter": "PandaYield",
+    "telegram": "pandayieldd",
+    "github_org": "pandayield"
+}

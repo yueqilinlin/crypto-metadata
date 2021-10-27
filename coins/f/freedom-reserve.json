@@ -1,0 +1,26 @@
+{
+    "id": "freedom-reserve",
+    "symbol": "fr",
+    "name": "Freedom Reserve",
+    "platforms": {
+        "ethereum": "0xc626e0619ac79afea9281c8eb9b1a9f9d3fab532",
+        "binance-smart-chain": "0xbea7086c99a85d4b5e6a0494c18b037fdd8ee932",
+        "xdai": "0x270DE58F54649608D316fAa795a9941b355A2Bd0/token-transfers"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Freedom Reserve is a project to build an inflation free cryptocurrency for the British Isles"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc626e0619ac79afea9281c8eb9b1a9f9d3fab532",
+    "url": "https://freedomreserv.eth.link",
+    "explorers": [
+        "https://etherscan.io/token/0xc626e0619ac79afea9281c8eb9b1a9f9d3fab532",
+        "https://ethplorer.io/address/0xc626e0619ac79afea9281c8eb9b1a9f9d3fab532",
+        "https://blockscout.com/poa/xdai/tokens/0x270DE58F54649608D316fAa795a9941b355A2Bd0/token-transfers"
+    ],
+    "telegram": "freedomreserve1",
+    "github_org": "Freedom-Reserve"
+}

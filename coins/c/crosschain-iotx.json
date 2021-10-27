@@ -1,0 +1,23 @@
+{
+    "id": "crosschain-iotx",
+    "symbol": "ciotx",
+    "name": "Crosschain IOTX",
+    "platforms": {
+        "polygon-pos": "0x300211def2a644b036a9bdd3e58159bb2074d388",
+        "iotex": "0x99b2b0efb56e62e36960c20cd5ca8ec6abd5557a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crosschain Tokens, such as CIOTX, is a wrapped token that can be bridged to any networks via iotube. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x300211def2a644b036a9bdd3e58159bb2074d388",
+    "url": "https://iotube.org/",
+    "explorers": [
+        "https://polygonscan.com/token/0x300211Def2a644b036A9bdd3e58159bb2074d388"
+    ],
+    "twitter": "iotex_io",
+    "telegram": "IoTeXGroup"
+}

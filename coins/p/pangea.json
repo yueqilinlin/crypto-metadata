@@ -1,0 +1,27 @@
+{
+    "id": "pangea",
+    "symbol": "xpat",
+    "name": "Pangea Arbitration Token (Bitnation)",
+    "platforms": {
+        "ethereum": "0xbb1fa4fdeb3459733bf67ebc6f893003fa976a82"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Legal"
+    ],
+    "description": {
+        "en": "The Pangea Arbitration Token (XPAT) is an ERC20 compatible in-app token for the Pangea Jurisdiction. The XPAT token is a reward for accumulating non-tradable reputation tokens. These are issued when users create a contract, successfully complete a contract, resolve a dispute attached to a contract or build successful communities and smart contracts on the platform."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0xbb1fa4fdeb3459733bf67ebc6f893003fa976a82",
+    "url": "https://bitnation.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xbb1fa4fdeb3459733bf67ebc6f893003fa976a82",
+        "https://ethplorer.io/address/0xbb1fa4fdeb3459733bf67ebc6f893003fa976a82"
+    ],
+    "twitter": "mybitnation",
+    "facebook": "MyBitnation",
+    "telegram": "PangeaBitnation",
+    "github_org": "Bit-Nation"
+}

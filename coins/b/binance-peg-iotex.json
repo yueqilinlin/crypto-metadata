@@ -1,0 +1,25 @@
+{
+    "id": "binance-peg-iotex",
+    "symbol": "iotx",
+    "name": "Binance-Peg IoTeX",
+    "platforms": {
+        "binance-smart-chain": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Internet of Things (IOT)"
+    ],
+    "description": {
+        "en": "Tokens that are wrapped and pegged by Binance on a 1:1 ratio to the corresponding native token. Also supports BEP20 token deposits and withdrawals at Binance.com"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
+    "url": "https://iotex.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x9678e42cebeb63f23197d726b29b1cb20d0064e5"
+    ],
+    "twitter": "iotex_io",
+    "telegram": "IoTeXGroup",
+    "reddit": "https://www.reddit.com"
+}

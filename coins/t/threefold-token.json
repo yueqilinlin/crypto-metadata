@@ -1,0 +1,31 @@
+{
+    "id": "threefold-token",
+    "symbol": "tft",
+    "name": "ThreeFold Token",
+    "platforms": {
+        "binance-smart-chain": "0x8f0fb159380176d324542b3a7933f0c2fd0c2bbf",
+        "stellar": "TFT-GBOVQKJYHXRR3DX6NOX2RRYFRCUMSADGDESTDNBDS6CDVLGVESRTAC47"
+    },
+    "hashing_algorithm": "Blake2b",
+    "categories": [
+        "Infrastructure",
+        "Storage"
+    ],
+    "description": {
+        "en": "What is ThreeFold (TFT)?\r\n\r\nFounded in 2016, ThreeFold is a fully comprehensive peer-to-peer Internet and Cloud stack that enables universal access to a smart contract-based infrastructure. According to its documentation, ThreeFold allows any current or future digital workload including blockchains, IoT networks, oracles, decentralized organizations and applications, to be hosted natively on their tamper-proof and ultra-efficient decentralised infrastructure.\r\n\r\nThreeFold is driven by an open-source community of projects, stack developers, node operators, infrastructure experts and more. They focus on protecting the vision of a truly decentralized Internet infrastructure that is available, accessible and affordable to everyone, everywhere.\r\n\r\nThe ThreeFold Token (TFT) is a utility token that was designed to ensure anyone can participate in exchanging Internet and Cloud resources in the network without intermediaries. It incentivises node operators with monthly income and is used by developers to build and run workloads.\r\n\r\nLearn more about ThreeFold on their [website](https://threefold.io/). \r\n\r\nWho are the founders of ThreeFold?\r\n\r\nKristof de Spiegeleer is a co-founder and CEO at ThreeFold. After completing his masters degree in computer engineering at the university of Gent, de Spiegeleer started building the first data center in Europe with PSI Net in the mid 90s. Followingly, he founded many ventures that brought significant improvements to cloud automation and Internet storage. These were then acquired by Symantec, Verizon, Oracle, TeleNet and more. \r\n\r\nIn 2014, he started meeting other industry experts and co-founders of ThreeFold such as Adnan Fatayerji, Weynand Kuijpers, Owen Kemp and many more. Together, they decided to start from scratch and build the most decentralized Internet and Cloud infrastructure to power the web3 and web4 era. \r\n\r\nWhat makes ThreeFold Unique?\r\n\r\nThreeFold is the first blockchain-enabled infrastructure to start from scratch on the Linux Kernel. Only by doing so could they eliminate unnecessary code and backdoors that impacted efficiency and security in the current Internet and Cloud models. ThreeFold\u2019s state-of-the-art technology enables quantum security and up to 10x energy savings for storage workloads. \r\n\r\nWith solutions highlighted by a game-changing quantum-safe storage system, a next-generation docker container environment and a secure peer-to-peer network, what they created is the most comprehensive, secure and decentralized Internet and cloud infrastructure in the world. They integrated with industry-leading tools and frameworks, and anything that runs on Linux can run on ThreeFold\u2019s operating system. \r\n\r\nMore than just an Internet or Cloud project, ThreeFold represents the substrate for the decentralized Internet and cloud. \r\n\r\n\r\n\r\nHow many ThreeFold Tokens are in circulation?\r\n\r\nTFT listed on Liquid exchange in June 2020 and announced a total and maximum supply of 4,000,000,000 TFT tokens. The current supply and token distribution can be tracked in [ThreeFold Library](https://library.threefold.me/info/tfgrid/#/tokens/token_overview).\r\n\r\nAccording to the documentation, 75% of the total token supply will go towards node operators and the incentivization of the ecosystem. Another 19% of TFT tokens support the continued development of the ThreeFold ecosystem and technology. Lastly, the remaining 6% of the total token supply is allocated to incentivise contributors, founders and team.\r\n\r\nWhere can you buy ThreeFold Tokens?\r\n\r\nTFT is available on several exchanges and Defi platforms today. ThreeFold aims to incentivise its TFT ecosystem growth towards Defi to remain in alignment with the ecosystem\u2019s values and beliefs. The main platform to buy TFT is PancakeSwap.\r\n\r\nOther platforms:\r\n[1inch](https://app.1inch.io/#/56/swap/BNB/TFT)\r\n[Liquid](https://app.liquid.com/exchange/TFTUSDT)\r\n[BTC-Alpha](https://btc-alpha.com/en/trade/TFT_BTC)\r\n\r\nIt is important to consider the fact that investing in cryptocurrency carries risk, just like any other investment."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-04-20",
+    "contract_address": "0x8f0fb159380176d324542b3a7933f0c2fd0c2bbf",
+    "url": "https://threefold.io/",
+    "explorers": [
+        "https://explorer.threefold.io",
+        "https://stellar.expert/explorer/public/asset/TFT-GBOVQKJYHXRR3DX6NOX2RRYFRCUMSADGDESTDNBDS6CDVLGVESRTAC47",
+        "https://bscscan.com/token/0x8f0FB159380176D324542b3a7933F0C2Fd0c2bbf"
+    ],
+    "twitter": "threefold_io",
+    "facebook": "threefold.io",
+    "telegram": "threefoldnews",
+    "reddit": "threefold/",
+    "github_org": "threefoldfoundation"
+}

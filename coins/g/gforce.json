@@ -1,0 +1,23 @@
+{
+    "id": "gforce",
+    "symbol": "gfce",
+    "name": "GFORCE",
+    "platforms": {
+        "binance-smart-chain": "0x5f136383e230f972739fae2e81e7e774afe64c66"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gforce is an innovative token in the Jetfuel.Finance Ecosystem that is revolutionizing the passive yield and staking token landscape built on Binance Smart Chain (BSC). Using the massive Jetfuel liquidity opportunities, GFCE will provide holders \u201cunlimited\u201d staking and liquidity generation with frictionless passive yield."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x5f136383e230f972739fae2e81e7e774afe64c66",
+    "url": "https://jetfuel.finance/gforce",
+    "explorers": [
+        "https://bscscan.com/token/0x5f136383e230f972739fae2e81e7e774afe64c66"
+    ],
+    "twitter": "Jetfuelfinance",
+    "telegram": "jetfuelfinance",
+    "github_org": "jetfuelfinance"
+}

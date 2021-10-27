@@ -1,0 +1,23 @@
+{
+    "id": "gamedao",
+    "symbol": "dao",
+    "name": "GameDAO",
+    "platforms": {
+        "binance-smart-chain": "0x21a807b748423e5c37a914fb4fb40850037dafdd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GameDAO is a NFT encrypted artwork entertainment creation platform"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x21a807b748423e5c37a914fb4fb40850037dafdd",
+    "url": "https://gamedao.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x21a807b748423e5c37a914fb4fb40850037dafdd"
+    ],
+    "twitter": "NFTGameplatform",
+    "telegram": "gamedaoio",
+    "github_org": "gamedaoio"
+}

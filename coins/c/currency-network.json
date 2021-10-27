@@ -1,0 +1,17 @@
+{
+    "id": "currency-network",
+    "symbol": "cnet",
+    "name": "Currency Network",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NET tokens can be used to make real-time offline (POS) transactions via the user's personal wallet, or to speed the popularization of the technology by using offline cryptography online or offline.\r\n\r\nCNET tokens are part of a global system of borderless payments, and we support real-time currency exchange systems for off-line (POS) payments.\r\n\r\nCNET will set up a dedicated channel for each user and CNET wallet, transaction payment through CNET tokens.\r\n\r\nThe digital wallet created by CNET can replace the traditional bank card model, enabling you to make payment transactions in any currency anywhere in the world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://www.cnet.global/",
+    "explorers": [
+        "http://block.cnet.global/"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "usgold",
+    "symbol": "usg",
+    "name": "USGold",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Digital gold-currency fully collateralized 1:1 with American Gold Eagle 1oz coins. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x4000369acfa25c8fe5d17fe3312e30c332bef633",
+    "url": "https://buyusgold.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x4000369acfa25c8fe5d17fe3312e30c332bef633",
+        "https://ethplorer.io/address/0x4000369acfa25c8fe5d17fe3312e30c332bef633"
+    ],
+    "twitter": "USGoldCurrency",
+    "facebook": "USGoldCurrency",
+    "telegram": "USGold_USG",
+    "github_org": "usgoldcurrency"
+}

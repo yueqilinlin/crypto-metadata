@@ -1,0 +1,22 @@
+{
+    "id": "mybitcoin",
+    "symbol": "mybtc",
+    "name": "MyBitcoin",
+    "platforms": {
+        "binance-smart-chain": "0x411aef63f042a62a0e8b61089b185f7ec1636e37"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MyBitcoin is the Next-Generation Bitcoin Auto Earner Protocol project built on Binance Smart Chain (BSC). MyBitcoin brings the most revolutionary mechanism to BSC ecosystem: The first and only Bitcoin reflection token! Simply hold $MYBTC tokens in your wallet and you'll earn free Bitcoin."
+    },
+    "country_origin": "MA",
+    "genesis_date": null,
+    "contract_address": "0x411aef63f042a62a0e8b61089b185f7ec1636e37",
+    "url": "https://my-bitcoin.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x411aef63f042a62a0e8b61089b185f7ec1636e37"
+    ],
+    "twitter": "mybtctoken",
+    "telegram": "mybtcofficial"
+}

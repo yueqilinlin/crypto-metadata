@@ -1,0 +1,23 @@
+{
+    "id": "angle-protocol",
+    "symbol": "angle",
+    "name": "ANGLE",
+    "platforms": {
+        "ethereum": "0x31429d1856ad1377a8a0079410b297e1a9e214c2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ANGLE is the governance token of the Angle Protocol. The Angle Protocol is a decentralized and over-collateralized stablecoin protocol designed to issue in a capital-efficient way stablecoins pegged to multiple assets, starting with a Euro stablecoin.\r\n\r\nThe ANGLE token gives right to participate in governance votes within the Angle DAO. This DAO is responsible for parameters tuning, for protocol upgrades, for deploying new stablecoins and collateral types as well as for handling the yield-strategies on the collateral in the protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x31429d1856ad1377a8a0079410b297e1a9e214c2",
+    "url": "https://www.angle.money",
+    "explorers": [
+        "https://etherscan.io/token/0x31429d1856ad1377a8a0079410b297e1a9e214c2",
+        "https://ethplorer.io/address/0x31429d1856ad1377a8a0079410b297e1a9e214c2"
+    ],
+    "twitter": "AngleProtocol",
+    "github_org": "AngleProtocol"
+}

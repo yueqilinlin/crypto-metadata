@@ -1,0 +1,26 @@
+{
+    "id": "netkoin",
+    "symbol": "ntk",
+    "name": "Netkoin",
+    "platforms": {
+        "ethereum": "0x5d4d57cd06fa7fe99e26fdc481b468f77f05073c"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Retail"
+    ],
+    "description": {
+        "en": "Reinventing the retail business and customer relationship.\r\n\r\nNetkoin (NTK) is an ERC20 token based on the Ethereum blockchain. The NTK token will be used to power Netkoin\u2019s universal rewards system on Netkoin\u2019s location based mobile application and business management platform.\r\n\r\nNetkoin\u2019s location based mobile advertising application aims to make retail shopping relevant and rewarding for customers based on their location. The mobile application will contain numerous features and filters in order to provide the customer with a personalized retail shopping experience, while maintaining the highest level of user\u2019s data security and privacy.\r\n\r\nNetkoin\u2019s business management platform will be utilized by retail stores to enable business owners to manage their stores advertising on the Netkoin mobile application. Businesses can integrate their store\u2019s social media content, providing them with a single place of advertising their businesses content with shoppers. Therefore reducing content marketing management by the retail business marketing team."
+    },
+    "country_origin": "AU",
+    "genesis_date": "2018-04-12",
+    "contract_address": "0x5d4d57cd06fa7fe99e26fdc481b468f77f05073c",
+    "url": "https://www.netkoin.com",
+    "explorers": [
+        "https://etherscan.io/token/0x5d4d57cd06fa7fe99e26fdc481b468f77f05073c",
+        "https://ethplorer.io/address/0x5d4d57cd06fa7fe99e26fdc481b468f77f05073c"
+    ],
+    "twitter": "netkoin",
+    "facebook": "Netkoin",
+    "telegram": "netkoin"
+}

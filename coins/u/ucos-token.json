@@ -1,0 +1,22 @@
+{
+    "id": "ucos-token",
+    "symbol": "ucos",
+    "name": "UCOS Token",
+    "platforms": {
+        "ethereum": "0xd8d887b5611a5b3e90bf764085d9858031d2be67"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "UCOS Token is a Smart Mining & POS Mining cryptocurrency project and is fully open source.\r\nIts a unique smart contract brining Smart mining & POS mining together"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xd8d887b5611a5b3e90bf764085d9858031d2be67",
+    "url": "https://www.ucostoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd8d887b5611a5b3e90bf764085d9858031d2be67",
+        "https://ethplorer.io/address/0xd8d887b5611a5b3e90bf764085d9858031d2be67"
+    ],
+    "github_org": "ucostoken"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "venus-beth",
+    "symbol": "vbeth",
+    "name": "Venus BETH",
+    "platforms": {
+        "binance-smart-chain": "0x972207a639cc1b374b893cc33fa251b55ceb7c07"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Venus is an algorithmic money market and synthetic stablecoin decentralized finance protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x972207a639cc1b374b893cc33fa251b55ceb7c07",
+    "url": "https://venus.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x972207a639cc1b374b893cc33fa251b55ceb7c07"
+    ],
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+}

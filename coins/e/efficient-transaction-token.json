@@ -1,0 +1,21 @@
+{
+    "id": "efficient-transaction-token",
+    "symbol": "ett",
+    "name": "Efficient Transaction Token",
+    "platforms": {
+        "ethereum": "0x1212b68d8555cf0b08f3371b926b3e1148b520f1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BizPay is the world's leading blockchain full asset payment platform, positioned to build a digital currency payment system matching the traditional Internet payment scenario. ETT, as a platform token, can realize the exchange of all ecological applications of BizPay, including: mall, game, DAPP, live broadcast, financial management, mining, social, short video, information, bitcoin transaction, etc. Realize online and offline payment scene transaction pair settlement.\r\n\r\nBizPay is committed to integrating the field of personal finance and the field of mainstream third-party platform payment, and at the same time realizing the functions of sending and receiving storage, wealth management value-added, and consumption payment, etc., to solve all problems related to cryptocurrency and digital currency with a mobile wallet. At present, BizPay has supported more than 10 public chains and more than 100 mainstream tokens, providing one-stop aggregated digital financial solutions for nearly one million users worldwide."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1212b68d8555cf0b08f3371b926b3e1148b520f1",
+    "url": "http://www.51bizpay.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1212b68d8555cf0b08f3371b926b3e1148b520f1",
+        "https://ethplorer.io/address/0x1212b68d8555cf0b08f3371b926b3e1148b520f1"
+    ]
+}

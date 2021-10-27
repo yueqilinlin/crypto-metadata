@@ -1,0 +1,25 @@
+{
+    "id": "king-swap",
+    "symbol": "$king",
+    "name": "King Swap",
+    "platforms": {
+        "ethereum": "0xd2057d71fe3f5b0dc1e3e7722940e1908fc72078"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KingSwap is a Fully Decentralized Finance protocol for Automated Liquidity provision on Ethereum. NFT trade swap, buy & sell. Off-ramp Fiat to cryptocurrency conversions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd2057d71fe3f5b0dc1e3e7722940e1908fc72078",
+    "url": "https://www.kingswap.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xd2057d71fE3F5b0dc1E3e7722940E1908Fc72078",
+        "https://ethplorer.io/address/0xd2057d71fE3F5b0dc1E3e7722940E1908Fc72078"
+    ],
+    "twitter": "Defi_KingSwap",
+    "facebook": "thekingswap",
+    "telegram": "kingswap",
+    "github_org": "KingLuigy"
+}

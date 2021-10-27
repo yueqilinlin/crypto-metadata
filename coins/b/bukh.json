@@ -1,0 +1,24 @@
+{
+    "id": "bukh",
+    "symbol": "bukh",
+    "name": "bUKHI",
+    "platforms": {
+        "ethereum": "0xefe2afb5f2a9ea8ec6d8a57fe88febcfe29db813"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "bUKH is governance token of Shinobi Wallet. Token holders will be shared profit from Shinobi Wallet and can use Shinobi Wallet with lower fee"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xefe2afb5f2a9ea8ec6d8a57fe88febcfe29db813",
+    "url": "https://himegamiprotocol.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xeFe2aFB5f2a9EA8Ec6D8a57FE88fEBCFE29db813",
+        "https://ethplorer.io/address/0xefe2afb5f2a9ea8ec6d8a57fe88febcfe29db813"
+    ],
+    "twitter": "himegami_pro",
+    "telegram": "himegamiprotocol",
+    "github_org": "HimegamiProtocol"
+}

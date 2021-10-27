@@ -1,0 +1,20 @@
+{
+    "id": "bitcoin-bep2",
+    "symbol": "btcb",
+    "name": "Bitcoin BEP2",
+    "platforms": {
+        "binancecoin": "BTCB-1DE"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bitcoin BEP2 (BTCB) is a token that is pegged to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">BTC</a> at a rate of 1 BTCB = 1 BTC, issued on the <a href=\"https://www.coingecko.com/en/coins/binance-coin\">Binance Chain</a> by Binance.\r\nBinance backs each BTCB token with equivalent amount of BTC in a reserve which can be validated with in the following address\r\n\r\nBTC Reserve Address: https://blockchair.com/bitcoin/address/3LYJfcfHPXYJreMsASk2jkn69LWEYKzexb\r\nBTCB Issuance Address: https://explorer.binance.org/asset/BTCB-1DE\r\n\r\nThe objective of issuing BTCB is to bring Bitcoin liquidity to the Binance Chain so users are able to trade Binance Chain issued tokens against Bitcoin, especially on the <a href=\"https://www.coingecko.com/en/exchanges/binance_dex\">Binance DEX</a>."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "BTCB-1DE",
+    "url": "https://www.binance.com/en/blog/347360878904684544/Introducing-BitcoinPegged-Token-on-Binance-Chain",
+    "explorers": [
+        "https://explorer.binance.org/asset/BTCB-1DE"
+    ]
+}

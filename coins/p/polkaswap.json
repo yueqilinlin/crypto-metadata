@@ -1,0 +1,27 @@
+{
+    "id": "polkaswap",
+    "symbol": "pswap",
+    "name": "Polkaswap",
+    "platforms": {
+        "ethereum": "0x519c1001d550c0a1dae7d1fc220f7d14c2a521bb",
+        "sora": "0x0200050000000000000000000000000000000000000000000000000000000000"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Polkaswap is a next-generation, cross-chain liquidity aggregator DEX protocol for swapping tokens based on the Polkadot (and Kusama) network(s), parachains, and other connected blockchains . \r\n\r\nThrough the development of bridge technologies, Polkaswap can also enables the trading of Ethereum-based tokens and tokens from other blockchains  For example, the development of the Bitcoin bridge is near completion and Bitcoin will soon be tradable on Polkaswap. This trading is done seamlessly, at high speed and low fees, while exchanging assets in a non-custodial manner on the SORA network. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x519c1001d550c0a1dae7d1fc220f7d14c2a521bb",
+    "url": "https://polkaswap.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x519C1001D550C0a1DaE7d1fC220f7d14c2A521BB",
+        "https://ethplorer.io/address/0x519c1001d550c0a1dae7d1fc220f7d14c2a521bb",
+        "https://sorascan.com/sora-mainnet"
+    ],
+    "twitter": "polkaswap",
+    "telegram": "polkaswap",
+    "reddit": "Polkaswap/",
+    "github_org": "sora-xor"
+}

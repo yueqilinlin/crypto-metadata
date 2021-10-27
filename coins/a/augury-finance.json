@@ -1,0 +1,25 @@
+{
+    "id": "augury-finance",
+    "symbol": "omen",
+    "name": "Augury Finance",
+    "platforms": {
+        "polygon-pos": "0x76e63a3e7ba1e2e61d3da86a87479f983de89a7e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Augury Finance is a DeFi platform that offers a Triple Yield Advantage (Weekly Dividends, Airmail and Staking). Additionally, new projects can get started through the Augury Finance Cauldron. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x76e63a3e7ba1e2e61d3da86a87479f983de89a7e",
+    "url": "https://augury.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x76e63a3e7ba1e2e61d3da86a87479f983de89a7e"
+    ],
+    "twitter": "auguryfinance",
+    "telegram": "auguryfinance",
+    "github_org": "augury-finance"
+}

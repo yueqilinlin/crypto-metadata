@@ -1,0 +1,29 @@
+{
+    "id": "based-money",
+    "symbol": "$based",
+    "name": "Based Money",
+    "platforms": {
+        "ethereum": "0x68a118ef45063051eac49c7e647ce5ace48a68a5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "The BASED Protocol is a DeFi game of chicken designed to shake out weak hands and yield the highest gains for those who understand the rules.\r\n\r\nThe $BASED token combines a simplified version of Ampleforth\u2019s economic policy with YFI\u2019s distribution mechanism.\r\n\r\nThe result is a post-modern economic game that continually resets. The barrier of entry is fair and balanced for all participants.\r\n\r\nThe only rule of BASED is that no one can change the rules. There are no owners, and because the private keys have been burned, the contracts cannot be changed. This makes an exit scam impossible."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x68a118ef45063051eac49c7e647ce5ace48a68a5",
+    "url": "https://based.money/",
+    "explorers": [
+        "https://etherscan.io/token/0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
+        "https://ethplorer.io/address/0x68a118ef45063051eac49c7e647ce5ace48a68a5"
+    ],
+    "twitter": "BasedProtocol",
+    "telegram": "basedmoney",
+    "github_org": "cryptoghoulz"
+}

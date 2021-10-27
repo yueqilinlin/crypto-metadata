@@ -1,0 +1,23 @@
+{
+    "id": "monfter",
+    "symbol": "mon",
+    "name": "Monfter",
+    "platforms": {
+        "ethereum": "0xcacc19c5ca77e06d6578decac80408cc036e0499"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2018-01-05",
+    "contract_address": "0xcacc19c5ca77e06d6578decac80408cc036e0499",
+    "url": "https://monfter.com/#/",
+    "explorers": [
+        "https://etherscan.io/token/0xcacc19c5ca77e06d6578decac80408cc036e0499",
+        "https://ethplorer.io/address/0xcacc19c5ca77e06d6578decac80408cc036e0499"
+    ],
+    "twitter": "monftercom",
+    "telegram": "Monftercom"
+}

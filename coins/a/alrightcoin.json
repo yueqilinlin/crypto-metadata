@@ -1,0 +1,23 @@
+{
+    "id": "alrightcoin",
+    "symbol": "alc",
+    "name": "AlrightCoin",
+    "platforms": {
+        "ethereum": "0x95d82ba91256db995c80bed690d0a779191af62b"
+    },
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Alright Coin is a platform that enhances modern lifestyle, online payments, shopping and exchange. Empowering global e- commerce application and services."
+    },
+    "country_origin": "TH",
+    "genesis_date": null,
+    "contract_address": "0x95d82ba91256db995c80bed690d0a779191af62b",
+    "url": "https://alrightcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x95d82ba91256db995c80bed690d0a779191af62b",
+        "https://ethplorer.io/address/0x95d82ba91256db995c80bed690d0a779191af62b"
+    ]
+}

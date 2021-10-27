@@ -1,0 +1,28 @@
+{
+    "id": "dollars",
+    "symbol": "usdx",
+    "name": "Dollars",
+    "platforms": {
+        "ethereum": "0x2f6081e3552b1c86ce4479b80062a1dda8ef23e3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "The stablecoin in Dollar Protocol, a better elastic money powered by dollars and seigniorage shares"
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0x2f6081e3552b1c86ce4479b80062a1dda8ef23e3",
+    "url": "https://www.dollarprotocol.com",
+    "explorers": [
+        "https://etherscan.io/token/0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3",
+        "https://ethplorer.io/address/0x2f6081e3552b1c86ce4479b80062a1dda8ef23e3"
+    ],
+    "twitter": "DollarProtocol",
+    "telegram": "dollarprotocol",
+    "reddit": "DollarProtocol/",
+    "github_org": "dollar-protocol"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "oneperl",
+    "symbol": "oneperl",
+    "name": "onePERL",
+    "platforms": {
+        "ethereum": "0xd9a24485e71b9148e0fd51f0162072099df0db67"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "onePERL is PERL.eco's governance token with stable value.\r\nIt is used across PERL.eco ecosystem, eg. staking for rewards, trading of tokenized carbon credits, used as collateral under PerlinX UMA rewards program for creation of synthetic assets, etc.\r\nhttps://medium.com/perlin-network/introducing-oneperl-fb25acd7c4d2\r\n\r\nPERL.eco, the Planetary Ecosystem Registration Ledger will use blockchain technologies for real-world ecological assets through tokenizing carbon credits and biodiversity, NFTs and decentralised (DeFi) rewards.\r\nPERL.eco focuses on tokenization and achieving broader adoption of ecological-related assets like tokenized carbon assets, genomic biodiversity and more.\r\nPERL allows token holders to play a critical role in determining the incentive system, building a wide base of stakeholders, and facilitating economic value flow in the network. PERL holders get to vote on this fee model and distribution, as well as other important decisions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd9a24485e71b9148e0fd51f0162072099df0db67",
+    "url": "https://www.perl.eco/",
+    "explorers": [
+        "https://etherscan.io/token/0xd9a24485e71b9148e0fd51f0162072099df0db67",
+        "https://ethplorer.io/address/0xd9a24485e71b9148e0fd51f0162072099df0db67"
+    ],
+    "twitter": "PERL_eco",
+    "telegram": "PerlinNetworkChat",
+    "reddit": "perlin",
+    "github_org": "perlin-network"
+}

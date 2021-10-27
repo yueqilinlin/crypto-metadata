@@ -1,0 +1,23 @@
+{
+    "id": "vaultz",
+    "symbol": "vaultz",
+    "name": "Vaultz",
+    "platforms": {
+        "ethereum": "0x861b2456ac1a6ab5fb5c72aa456091f23ddec1cc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Vaultz(VAULTZ) is an Autonomous Yield and Liquidity Generation Protocol."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x861b2456ac1a6ab5fb5c72aa456091f23ddec1cc",
+    "url": "https://vaultz.info",
+    "explorers": [
+        "https://etherscan.io/token/0x861b2456ac1a6ab5fb5c72aa456091f23ddec1cc",
+        "https://ethplorer.io/address/0x861b2456ac1a6ab5fb5c72aa456091f23ddec1cc"
+    ],
+    "twitter": "vaultzinfo",
+    "telegram": "vaultzinfo"
+}

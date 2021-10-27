@@ -1,0 +1,23 @@
+{
+    "id": "laikacoin",
+    "symbol": "laika",
+    "name": "LaikaCoin",
+    "platforms": {
+        "binance-smart-chain": "0x270877fbdadd2e28c7eaf08e528691b95684207e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LaikaCoin has transitioned into a 100% community driven token.\r\n\r\nLaikaCoin is a self-staking token thats had its ownership renounced and given to the community upon its creation. This decentralization allowed Laika to become a 100% community driven project.  it has become a fun social experiment where investors are integrated into a project both from a community and development standpoint.\r\n\r\nReleased into the world a little under 54 years after the passing of Laika the Dog the inspiration behind the coin, on 4/20/2021 on the Binance Smart Chain. The Laika project has built and improved upon by volunteers in the community. Writers, web developers, translators, influencers, graphics designers and more have contributed their talents to help Laika be reborn again, and has grown into community driven success.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x270877fbdadd2e28c7eaf08e528691b95684207e",
+    "url": "https://laikacommunity.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x270877fbdadd2e28c7eaf08e528691b95684207e"
+    ],
+    "twitter": "CommunityLaika",
+    "telegram": "LaikaCommunity",
+    "reddit": "LAiKA_COiN/"
+}

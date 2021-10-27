@@ -1,0 +1,25 @@
+{
+    "id": "help-the-homeless-coin",
+    "symbol": "hth",
+    "name": "Help The Homeless Coin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Charity",
+        "Masternodes"
+    ],
+    "description": {
+        "en": "The team at Help The Homeless Coin is dedicated to supporting and focusing on those that need assistance by aiding charities with boots on the ground."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://hth.world/",
+    "explorers": [
+        "https://chainz.cryptoid.info/hth/",
+        "https://openchains.info/coin/hth/blocks"
+    ],
+    "twitter": "hthcoin",
+    "facebook": "hth.coin.9",
+    "reddit": "HelpTheHomelessCoin/",
+    "github_org": "HTHcoin"
+}

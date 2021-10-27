@@ -1,0 +1,23 @@
+{
+    "id": "etheros",
+    "symbol": "ets",
+    "name": "Etheros",
+    "platforms": {
+        "binance-smart-chain": "0xaef76e2c14365ad2ce78a52fc8c224623c2657b6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ETS is the native token of the Etheros platform. Users (players) obtain or buy specified \"fragments\" of space, places, or things using the ETS token."
+    },
+    "country_origin": "PL",
+    "genesis_date": null,
+    "contract_address": "0xaef76e2c14365ad2ce78a52fc8c224623c2657b6",
+    "url": "https://etheros.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xaef76e2c14365ad2ce78a52fc8c224623c2657b6"
+    ],
+    "twitter": "EtherosIo",
+    "facebook": "etherosio",
+    "telegram": "Etherosio"
+}

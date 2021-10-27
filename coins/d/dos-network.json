@@ -1,0 +1,28 @@
+{
+    "id": "dos-network",
+    "symbol": "dos",
+    "name": "DOS Network",
+    "platforms": {
+        "ethereum": "0x0a913bead80f321e7ac35285ee10d9d922659cb7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Protocol",
+        "Oracle"
+    ],
+    "description": {
+        "en": "DOS Network - A Decentralized Oracle Service supporting multiple heterogeneous blockchains. DOS Network brings real word data, event and computation power to smart contract in a secure, reliable, efficient and scalable way."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x0a913bead80f321e7ac35285ee10d9d922659cb7",
+    "url": "https://dos.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
+        "https://ethplorer.io/address/0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7"
+    ],
+    "twitter": "DosNetwork",
+    "telegram": "dosnetwork_en",
+    "reddit": "DOSNetwork",
+    "github_org": "DOSNetwork"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "haze-finance",
+    "symbol": "haze",
+    "name": "Haze Finance",
+    "platforms": {
+        "binance-smart-chain": "0x78832bd03078fb75a72d72fbf567ba90b6dab317"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Haze Finance is BSC\u2019s first DeFi tokens private transaction protocol with yield capability. HAZE token is the native token to Haze Finance, the total supply of HAZE is 1 million. When staking HAZE tokens on our platform, users can earn a share of the protocol fees earned by Haze Finance. HAZE token is also a governance token that allow the holders to vote on the decisions and directions of the protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x78832bd03078fb75a72d72fbf567ba90b6dab317",
+    "url": "https://hazefinance.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x78832bd03078fb75a72d72fbf567ba90b6dab317"
+    ],
+    "twitter": "hazefinance",
+    "telegram": "hazefinanceofficial",
+    "github_org": "HazeFinance"
+}

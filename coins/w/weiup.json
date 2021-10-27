@@ -1,0 +1,22 @@
+{
+    "id": "weiup",
+    "symbol": "weiup",
+    "name": "WeiUp",
+    "platforms": {
+        "binance-smart-chain": "0xd0f08610b9bb66395b0d2679f749bbe8a12cc0bb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WeiUP is the first and only BSC token that brings together rebasing and automatic staking for ETH rewards. The rebasing or \"elastic supply\" allows the supply to be lowered hourly. Each negative rebase lowers the supply and provides a green candle, causing the chart to always go up, and the supply to constantly decrease. The supply will decrease every hour, causing each holder to lose tokens proportionally, while also  increase the token price to maintain market cap. The ETH rewards are distributed evenly and fairly between all holders, rewarding them for holding. The tokenomics include a tax in order to automatically provide to liquidity pool, marketing wallet, and the ETH rewards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd0f08610b9bb66395b0d2679f749bbe8a12cc0bb",
+    "url": "https://weiup.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xd0f08610b9bb66395b0d2679f749bbe8a12cc0bb"
+    ],
+    "twitter": "WeiUpbsc",
+    "telegram": "Weiup_Official"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "teto-inu",
+    "symbol": "tetoinu",
+    "name": "Teto Inu",
+    "platforms": {
+        "ethereum": "0x09dc17ad20e864f91951789c80785ae1ca024230"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TetoInu is an ERC-20 token named after the fox-squirrel character Teto from popular anime Nausicaa.\r\n\r\nThe token features a reflection mechanic that provides 2% returns on transactions for traders.\r\n\r\nTotal token supply is 1 quadrillion, total tax per transaction (buy & sell) is 10%.\r\n\r\nThe project team intends TetoInu to be the principal token in an eventual ecosystem including NFTs and a P2E game."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x09dc17ad20e864f91951789c80785ae1ca024230",
+    "url": "https://teto-inu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x09dc17ad20e864f91951789c80785ae1ca024230",
+        "https://ethplorer.io/address/0x09dc17ad20e864f91951789c80785ae1ca024230"
+    ],
+    "telegram": "TetoInu"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "paradisefi",
+    "symbol": "eden",
+    "name": "ParadiseFi",
+    "platforms": {
+        "harmony-shard-0": "0xb55106308974cebe299a0f0505435c47b404b9a6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yield Farming Protocol on Harmony"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb55106308974cebe299a0f0505435c47b404b9a6",
+    "url": "https://paradisefi.io/",
+    "explorers": [
+        "https://explorer.harmony.one/address/0xb55106308974cebe299a0f0505435c47b404b9a6"
+    ],
+    "twitter": "Paradisefi_io",
+    "telegram": "ParadiseFi"
+}

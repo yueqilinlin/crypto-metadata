@@ -1,0 +1,23 @@
+{
+    "id": "bitcoin-networks",
+    "symbol": "btcn",
+    "name": "Bitcoin Networks",
+    "platforms": {
+        "binance-smart-chain": "0x646b8470fea7c413dac19f41b5c97328ebf70de4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bitcoin Networks (BTCN) is a digital mineable token based on Proof-Of-Stake consensus. It is decentralized and works on the BEP-20 (Binance Smart Chain) protocol. Binance Smart Chain is one of the best trusted, fastest, and most secure blockchains, which works in parallel with the Binance Chain. The liquidity of the token is locked forever. The team only holds 0.4762% of the total supply. All transactions at this address will be public and will be used for marketing purpose.\r\nTotal of BTCN\r\nThe total supply of Bitcoin Network tokens is 21,000,000 BTCN. This is the same as the total supply of Bitcoins. Of these, 1,000,000 BTCN will be pre-mined. These tokens will be used to provide liquidity on different exchanges as well as for marketing.  \r\nBitcoin Networks Mining\r\nBitcoin Network Token BTCN is a minable token. The mining reward is directly proportional to blocks generated on the Binance Smart Chain. The rewards each holder will receive will depend upon the number of tokens they are holding. Unlike bitcoin mining, where you need to mine the tokens using highly expensive hardware miners, with proof of stake you just need to hold tokens in your wallet and you will receive the mining reward automatically in your wallet."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x646b8470fea7c413dac19f41b5c97328ebf70de4",
+    "url": "https://bitcoinnetworks.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x646b8470fea7c413dac19f41b5c97328ebf70de4"
+    ],
+    "twitter": "OfficialBTCN",
+    "telegram": "BitcoinNetworksofficial",
+    "github_org": "BitcoinNetworksOfficial"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "bitsong",
+    "symbol": "btsg",
+    "name": "BitSong",
+    "platforms": {
+        "ethereum": "0x05079687d35b93538cbd59fe5596380cae9054a9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem",
+        "Music"
+    ],
+    "description": {
+        "en": "BitSong is a distributed (open source) blockchain music ecosystem born in December 2017, to create a decentralized and trustless hub that interconnects the various market players.\r\n\r\nOur mission is to decentralize the music sector by simplifying the bureaucracy as much as possible in order to offer artists a meritocratic, transparent, fast and intermediary-free earning model and users a new way to listen to music and earn money.\r\n\r\nBitSong is not a streaming platform but a real decentralized ecosystem of services and an active community of artists, music providers and fans (listeners) that aims to become the only point of reference within the digital music market.\r\n\r\n\r\n"
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "contract_address": "0x05079687d35b93538cbd59fe5596380cae9054a9",
+    "url": "https://bitsong.io/en",
+    "explorers": [
+        "https://etherscan.io/token/0x05079687d35b93538cbd59fe5596380cae9054a9",
+        "https://ethplorer.io/address/0x05079687d35b93538cbd59fe5596380cae9054a9"
+    ],
+    "twitter": "BitSongOfficial",
+    "facebook": "bitsongofficial",
+    "telegram": "BitSongOfficial",
+    "reddit": "bitsong",
+    "github_org": "bitsongofficial"
+}

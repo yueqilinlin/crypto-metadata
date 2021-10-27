@@ -1,0 +1,25 @@
+{
+    "id": "buypay",
+    "symbol": "wbpc",
+    "name": "BuyPay",
+    "platforms": {
+        "ethereum": "0x85f9a507ef1d8e1bf666243a3b6215ce7ee5c47c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Buypay (WBPC) is used to drive a variety of integrated payment platforms, including in-platform billing, events, and product purchases, such as the actual operating Global B2B Mall. Buypay aims to directly connect ordinary users/business users to franchises, and utilize Blockchain Smart Contract and token economy to provide an easier and faster payment platform.\r\n\r\nBuypay is issued by \u2018G-Com' under G-Com Co., Ltd., a company registered in Korea"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x85f9a507ef1d8e1bf666243a3b6215ce7ee5c47c",
+    "url": "www.wbpc.io",
+    "explorers": [
+        "https://etherscan.io/token/0x85f9a507ef1d8e1bf666243a3b6215ce7ee5c47c",
+        "https://ethplorer.io/address/0x85f9a507ef1d8e1bf666243a3b6215ce7ee5c47c"
+    ],
+    "telegram": "buypayofficial",
+    "github_org": "wbpcofficial"
+}

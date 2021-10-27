@@ -1,0 +1,22 @@
+{
+    "id": "sonar",
+    "symbol": "ping",
+    "name": "Sonar",
+    "platforms": {
+        "binance-smart-chain": "0x5546600f77eda1dcf2e8817ef4d617382e7f71f5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sonar is bringing complete, easy to use tracking and analytics tools for both the Binance Smart Chain and Ethereum networks. With several customizable features, Sonar aims to provide the community a streamlined way to generate data in information for trading analytics."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5546600f77eda1dcf2e8817ef4d617382e7f71f5",
+    "url": "https://www.sonarplatform.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x5546600f77eda1dcf2e8817ef4d617382e7f71f5"
+    ],
+    "twitter": "SonarToken",
+    "reddit": "sonarplatform"
+}

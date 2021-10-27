@@ -1,0 +1,24 @@
+{
+    "id": "yffi-finance",
+    "symbol": "yffi",
+    "name": "yffi finance",
+    "platforms": {
+        "ethereum": "0xcee1d3c3a02267e37e6b373060f79d5d7b9e1669"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcee1d3c3a02267e37e6b373060f79d5d7b9e1669",
+    "url": "https://www.yffi.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xcee1d3c3a02267e37e6b373060f79d5d7b9e1669",
+        "https://ethplorer.io/address/0xcee1d3c3a02267e37e6b373060f79d5d7b9e1669"
+    ],
+    "twitter": "YFFIFinance"
+}

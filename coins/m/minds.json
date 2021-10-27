@@ -1,0 +1,23 @@
+{
+    "id": "minds",
+    "symbol": "minds",
+    "name": "Minds",
+    "platforms": {
+        "ethereum": "0xb26631c6dda06ad89b93c71400d25692de89c068"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb26631c6dda06ad89b93c71400d25692de89c068",
+    "url": "https://www.minds.com/minds/",
+    "explorers": [
+        "https://etherscan.io/token/0xb26631c6dda06ad89b93c71400d25692de89c068",
+        "https://ethplorer.io/address/0xb26631c6dda06ad89b93c71400d25692de89c068"
+    ],
+    "twitter": "minds",
+    "github_org": "Minds"
+}

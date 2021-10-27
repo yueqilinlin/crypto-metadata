@@ -1,0 +1,23 @@
+{
+    "id": "arbinyan",
+    "symbol": "nyan",
+    "name": "ArbiNYAN",
+    "platforms": {
+        "arbitrum-one": "0xed3fb761414da74b74f33e5c5a1f78104b188dfc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Arbitrum Ecosystem"
+    ],
+    "description": {
+        "en": "ArbiNYAN is a fun cat token. The first fair launched token on Arbitrum with 95% of the supply distributed via farming rewards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xed3fb761414da74b74f33e5c5a1f78104b188dfc",
+    "url": "https://arbinyan.com",
+    "explorers": [
+        "https://arbiscan.io/token/0xeD3fB761414DA74b74F33e5c5a1f78104b188DfC"
+    ],
+    "twitter": "arbinyan"
+}

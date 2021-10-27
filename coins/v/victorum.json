@@ -1,0 +1,23 @@
+{
+    "id": "victorum",
+    "symbol": "vcc",
+    "name": "Victorum",
+    "platforms": {
+        "binance-smart-chain": "0x5fc6179fcf814fcd4344ee03376ba717a95992b6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Victorum (VCC) is a cryptocurrency and decentralized financial ecosystem launched on Binance Smart Chain with many utilization features. Victorum Ecosystem using blockchain technology that enables global users to save, earn rewards, invest, withdraw and transfer funds, and pay for goods and services anywhere in the world using one platform."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x5fc6179fcf814fcd4344ee03376ba717a95992b6",
+    "url": "https://victorumcoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x5fc6179fcf814fcd4344ee03376ba717a95992b6"
+    ],
+    "twitter": "victorumcoin",
+    "telegram": "VictorumOfficialChat",
+    "reddit": "victorumofficial/"
+}

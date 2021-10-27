@@ -1,0 +1,22 @@
+{
+    "id": "richcity",
+    "symbol": "rich",
+    "name": "RichCity",
+    "platforms": {
+        "binance-smart-chain": "0xc0994af94fee0361a1e1e1ccf72bce19d5fd86fb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rich City is an upcoming social NFT mobile game.\r\n\r\nThe goal of the game is to collect rare NFT items, purchase real-estate to display your items, chill with other players and sell and trade NFTs to make real money!\r\nThe game is powered by\u00a0$RICH, which will be the sole currency of the game. You can connect your wallet directly to the game to use your coins!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc0994af94fee0361a1e1e1ccf72bce19d5fd86fb",
+    "url": "https://www.richcity.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xc0994af94fee0361a1e1e1ccf72bce19d5fd86fb"
+    ],
+    "twitter": "playRichCity",
+    "telegram": "playrichcity"
+}

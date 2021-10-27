@@ -1,0 +1,26 @@
+{
+    "id": "shield-protocol",
+    "symbol": "shield",
+    "name": "Shield Protocol",
+    "platforms": {
+        "binance-smart-chain": "0x60b3bc37593853c04410c4f07fe4d6748245bf77"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Shield is a Two factor authentication would be on a server-less p2p architecture on top of blockchain where every log would be recorded on to a decentralised ledger for transparency and none of the data that can help in identifying an user would be collected in the application, which would help users in terms of privacy and anonymity and by using blockchain the whole system would be tamper proof."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x60b3bc37593853c04410c4f07fe4d6748245bf77",
+    "url": "https://shieldprotocol.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x60b3bc37593853c04410c4f07fe4d6748245bf77"
+    ],
+    "twitter": "shield2protocol",
+    "telegram": "shield2protocol",
+    "github_org": "shield2protocol"
+}

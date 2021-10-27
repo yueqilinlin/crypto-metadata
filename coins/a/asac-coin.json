@@ -1,0 +1,24 @@
+{
+    "id": "asac-coin",
+    "symbol": "asac",
+    "name": "Asac Coin",
+    "platforms": {
+        "ethereum": "0x6913ccabbc337f0ea7b4109dd8200d61c704d332"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6913ccabbc337f0ea7b4109dd8200d61c704d332",
+    "url": "https://asaccoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6913ccabbc337f0ea7b4109dd8200d61c704d332",
+        "https://ethplorer.io/address/0x6913ccabbc337f0ea7b4109dd8200d61c704d332"
+    ],
+    "twitter": "AsacCoin",
+    "facebook": "acac.coin.3",
+    "telegram": "asaccoin"
+}

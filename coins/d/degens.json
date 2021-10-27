@@ -1,0 +1,24 @@
+{
+    "id": "degens",
+    "symbol": "degens",
+    "name": "Degens",
+    "platforms": {
+        "ethereum": "0xdd039990bd551ce7437d3bf54d155220b7988b71"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Governance token for the Degens.com peer to peer sports betting exchange which has been live on the mainnet since 2017."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xdd039990bd551ce7437d3bf54d155220b7988b71",
+    "url": "https://www.degens.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xDd039990Bd551Ce7437d3bF54d155220B7988B71",
+        "https://ethplorer.io/address/0xdd039990bd551ce7437d3bf54d155220b7988b71"
+    ],
+    "twitter": "degensbet",
+    "telegram": "degensbet",
+    "reddit": "degens/"
+}

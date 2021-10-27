@@ -1,0 +1,23 @@
+{
+    "id": "babypunks",
+    "symbol": "bpunks",
+    "name": "BabyPunks",
+    "platforms": {
+        "ethereum": "0x095648bc80a7d1dd16b85e9b84f07463a20f3536"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BabyPunks - A community oriented token with Punks NFT giveaways."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x095648bc80a7d1dd16b85e9b84f07463a20f3536",
+    "url": "https://babypunks.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x095648BC80a7d1Dd16B85E9B84F07463a20f3536",
+        "https://ethplorer.io/address/0x095648BC80a7d1Dd16B85E9B84F07463a20f3536"
+    ],
+    "twitter": "BabyPunksCoin",
+    "telegram": "babypunksofficial"
+}

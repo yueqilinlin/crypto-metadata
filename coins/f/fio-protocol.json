@@ -1,0 +1,25 @@
+{
+    "id": "fio-protocol",
+    "symbol": "fio",
+    "name": "FIO Protocol",
+    "platforms": {},
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "FIO Protocol is a decentralized usability layer for the entire blockchain ecosystem that is integrated into existing crypto products such as wallets, exchanges and crypto payment processors."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://fioprotocol.io/",
+    "explorers": [
+        "https://fio.bloks.io/",
+        "https://explorer.fioprotocol.io/"
+    ],
+    "twitter": "joinFIO",
+    "facebook": "officialFIO",
+    "telegram": "joinFIO",
+    "reddit": "officialFIO",
+    "github_org": "fioprotocol"
+}

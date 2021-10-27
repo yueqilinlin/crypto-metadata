@@ -1,0 +1,23 @@
+{
+    "id": "cure-token-v2",
+    "symbol": "CURE",
+    "name": "CURE Token V2",
+    "platforms": {
+        "binance-smart-chain": "0x76aecb353abf596bd61ee6bdb07d70787dec4fd6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CURE Token is the first deflationary crypto token built around doing good. By design, this community powered token has exponential price growth benefits for both holders and charities.\r\n\r\nCURE Token, which was developed as a platform to support childhood cancer awareness and research successfully launches the next iteration of the project. This new version took off like a rocket, seeing over a 2 million dollar market cap in the first few hours after launch. New enhancements include a safer contract, better features for potential investors, and a sustainable foundation for exponential growth.\r\n\r\nJacob Beckley, the founder, long-time philanthropist, and innovator said, \u201cCURE Token will change the world, CURE will become the household name alongside Bitcoin, Ethereum, and the like, known as the Token for Good.\u201d Since 2016, Jacob Beckley, has initiated several fundraisers and initiatives around childhood cancer awareness and research. He and his foundation have raised over\u00a0one million dollars\u00a0toward the fight against childhood cancer. CURE Token is the latest initiative in his quest to change the world.\r\n\r\nCURE is much bigger than one cause. While today CURE is designed to support childhood cancer, in the near future, it will extend its global reach to support all foundations and charities supporting  other childhood diseases. The future from that point is extension beyond childhood diseases and cancer to other catastrophic and life threatening diseases."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x76aecb353abf596bd61ee6bdb07d70787dec4fd6",
+    "url": "https://www.curetoken.net",
+    "explorers": [
+        "https://bscscan.com/token/0x76aECB353AbF596BD61EE6BDb07d70787DeC4FD6"
+    ],
+    "twitter": "cure_token",
+    "telegram": "CureTokenV2",
+    "github_org": "JacobWBeckley"
+}

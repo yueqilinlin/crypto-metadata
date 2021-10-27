@@ -1,0 +1,23 @@
+{
+    "id": "lucky-token",
+    "symbol": "lucky",
+    "name": "Lucky Token",
+    "platforms": {
+        "binance-smart-chain": "0xe0d02c755cf7bb93772b8874b4df672a5e88041f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LUCKY is a completely decentralized lottery on the binance smart chain network. 888,888 LUCKY provides a holder with 1 ticket into lotteries which never expires.  There are two drawings whenever funds collected triggers a lottery. A smaller Lucky Draw for 888 BUSD and a larger Jackpot Draw for 88,888 BUSD. The more tickets that a wallet holds the more likely it is to win.\r\n\r\nTransactions in LUCKY are taxed 8% split four ways. 2% each is (i) contributed to jackpot, (ii) burned, (iii) distributed across all holders and (iv) added to liquidity. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe0d02c755cf7bb93772b8874b4df672a5e88041f",
+    "url": "https://luckytokenbsc.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xe0d02C755cf7Bb93772b8874b4df672A5e88041F"
+    ],
+    "twitter": "bsclucky",
+    "telegram": "luckytokenbsc",
+    "github_org": "luckyBSC"
+}

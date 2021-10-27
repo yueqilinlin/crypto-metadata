@@ -1,0 +1,21 @@
+{
+    "id": "dogemoon",
+    "symbol": "dogemoon",
+    "name": "Dogemoon",
+    "platforms": {
+        "binance-smart-chain": "0x18359cf655a444204e46f286edc445c9d30ffc54"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x18359cf655a444204e46f286edc445c9d30ffc54",
+    "url": "https://dogemoon.me/",
+    "explorers": [
+        "https://bscscan.com/token/0x18359cf655a444204e46f286edc445c9d30ffc54"
+    ],
+    "twitter": "DogeMoonMain"
+}

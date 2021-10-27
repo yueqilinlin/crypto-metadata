@@ -1,0 +1,26 @@
+{
+    "id": "ormeus-cash",
+    "symbol": "omc",
+    "name": "Ormeus Cash",
+    "platforms": {
+        "ethereum": "0xd6bd97a26232ba02172ff86b055d5d7be789335b",
+        "binance-smart-chain": "0x5d2f9a9df1ba3c8c00303d0b4c431897ebc6626a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "For years, many dreamed of a cryptocurrency that could be used as an online payment method without the expensive touchpoints experienced in traditional digital payment methods. High costs to consumers and merchants, slow blockchain confirmations, wildly fluctuating currency values \u2013 all of this barred the way from adopting a cryptocurrency as a globally accepted payment method.\r\n\r\nUntil now. Ormeus Cash (OMC) is an asset-backed virtual currency with a stable transactional price \u2013 a new breed of cryptocurrency known as a Transactional Coin. The collateral for the coin is held trustlessly in smart contracts, so users don\u2019t have to rely on third parties to confirm or redeem. OMC has all the features that make Bitcoin so appealing but it doesn\u2019t suffer from the same volatility or protracted transaction times, making it much more usable as a store of value, medium of exchange, and unit of account. Ormeus Cash offers a bright glimpse of a future in which virtual currency becomes the norm for payment rather than the exception."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd6bd97a26232ba02172ff86b055d5d7be789335b",
+    "url": "https://ormeuscash.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd6bd97a26232ba02172ff86b055d5d7be789335b",
+        "https://ethplorer.io/address/0xd6bd97a26232ba02172ff86b055d5d7be789335b"
+    ],
+    "twitter": "ormeusecosystem",
+    "facebook": "ormeusecosystem",
+    "telegram": "OrmeusEcoSystemDAO",
+    "reddit": "OrmeusEcosystem/"
+}

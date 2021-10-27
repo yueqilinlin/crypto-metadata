@@ -1,0 +1,29 @@
+{
+    "id": "the-abyss",
+    "symbol": "abyss",
+    "name": "Abyss",
+    "platforms": {
+        "ethereum": "0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6",
+        "harmony-shard-0": "0xa52d0c7943cc1020a926b23dd1c64fc60b4fadde"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Abyss.Finance provides Decentralized (DeFi) and Centralized (CeFi) Finance solutions for projects in multiple industries.\r\n\r\nAbyss (ABYSS) is the ERC20 token native to the Abyss.Finance ecosystem.\r\n\r\nWithin the Abyss.Finance Ecosystem, Abyss is currently used in the Gaming platform (theabyss.com), the Non-Fungible Token (NFT) Marketplace, and allows members to earn rewards through Staking and setting up Masternodes.\r\n"
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "contract_address": "0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6",
+    "url": "https://abyss.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6",
+        "https://ethplorer.io/address/0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6"
+    ],
+    "twitter": "abyssfinance",
+    "facebook": "abyssfinance",
+    "telegram": "abyssfinance",
+    "reddit": "abyssfinance",
+    "github_org": "abyssfinance"
+}

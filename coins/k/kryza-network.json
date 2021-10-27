@@ -1,0 +1,23 @@
+{
+    "id": "kryza-network",
+    "symbol": "krn",
+    "name": "KRYZA Network",
+    "platforms": {
+        "binance-smart-chain": "0x4e6d79cddec12c229d53b38c11b204bcec118885"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The first decentralized marketplace which simplifies and standardizes data with blockchain technology. KRYZA provides user-friendly, efficient and secure crypto solutions and utilizes blockchain technology."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4e6d79cddec12c229d53b38c11b204bcec118885",
+    "url": "https://www.kryza.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x4e6d79cddec12c229d53b38c11b204bcec118885"
+    ],
+    "twitter": "KryzaToken",
+    "telegram": "kryzacoin",
+    "reddit": "kryzaio/"
+}

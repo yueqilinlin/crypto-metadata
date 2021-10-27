@@ -1,0 +1,25 @@
+{
+    "id": "thingsoperatingsystem",
+    "symbol": "tos",
+    "name": "ThingsOperatingSystem",
+    "platforms": {
+        "ethereum": "0xfb5a551374b656c6e39787b1d3a03feab7f3a98e"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "TOS is a decentralized hierarchical block network technology based on SDAG for the Internet of Things (IoT) industry. This technology has good scalability ,it combines the technologies of blockchain book and the technologies of directed acyclic graph to realize automatic distribution of massive transaction data to hierarchical block network to reduce data redundancy of the entire network block and solve the massive data storage problem of the Internet of Things industry; Users can decide to use free or paid transactions according to the value of the data,which reaches the balance of password economics; the open source and decentralized network protocols reduce the economic barrier to join the smart IoT network protocol (blockchain + IoT), they create a Cross-category, Cross-region smart-connected network protocol ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-07-07",
+    "contract_address": "0xfb5a551374b656c6e39787b1d3a03feab7f3a98e",
+    "url": "http://www.toschain.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xfb5a551374b656c6e39787b1d3a03feab7f3a98e",
+        "https://ethplorer.io/address/0xfb5a551374b656c6e39787b1d3a03feab7f3a98e"
+    ],
+    "twitter": "TOSCommuniy",
+    "facebook": "TOSChain-223477698392972",
+    "telegram": "TOSChainOfficial",
+    "github_org": "TOSIO"
+}

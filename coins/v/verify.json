@@ -1,0 +1,25 @@
+{
+    "id": "verify",
+    "symbol": "cred",
+    "name": "Verify",
+    "platforms": {
+        "ethereum": "0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Verify is a reputation protocol that tracks the transaction history of participants (buyers, sellers) and unlocks benefits for those with good reputation. Reputation is a history of all previous transactions. Every transaction is rated by both parties, and the reputation of each party is updated based on the feedback from the counterparty."
+    },
+    "country_origin": "SG",
+    "genesis_date": "2017-12-05",
+    "contract_address": "0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd",
+    "url": "https://verify.as/",
+    "explorers": [
+        "https://etherscan.io/token/0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd",
+        "https://ethplorer.io/address/0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd"
+    ],
+    "twitter": "verif_yas",
+    "facebook": "verifyas",
+    "reddit": "verifyas",
+    "github_org": "verifyas"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "matic-aave-aave",
+    "symbol": "maaave",
+    "name": "Matic Aave Interest Bearing AAVE",
+    "platforms": {
+        "polygon-pos": "0x823cd4264c1b951c9209ad0deaea9988fe8429bf"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Wrapped-Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x823cd4264c1b951c9209ad0deaea9988fe8429bf",
+    "url": "https://www.aavegotchi.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0x823cd4264c1b951c9209ad0deaea9988fe8429bf"
+    ],
+    "twitter": "aavegotchi",
+    "github_org": "aavegotchi"
+}

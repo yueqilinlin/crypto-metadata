@@ -1,0 +1,26 @@
+{
+    "id": "crow-token",
+    "symbol": "crow",
+    "name": "Crow",
+    "platforms": {
+        "binance-smart-chain": "0xcc2e12a9b5b75360c6fbf23b584c275d52cddb0e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "What is CROW?\r\nCROW is the governance token for CrowFinance. \r\nIn the future, CROW will be used for proposal voting.\r\nCROW holders also receive fees and rewards earned from the protocol.\r\nCrowfinance started with no pre-mine nor pre-sale. CROW is minted linearly starting from 29 January 2021 and will end at the end of 2021 (0.0027813 CROW/block). \r\nTo ensure fair distribution, only vault, farms users and CROW holders are able to mine CROW.\r\nDeflationary Tokenomics: \r\nVault fees are used to perform market buy-backs of CROW.\r\nCROW has also a burning fee for each transaction.\r\nThe fees vary between night and day time:\r\n-\t1% 18.00 \u2013 6.00 GMT\r\n-\t3% 6.00 \u2013 18.00 GMT\r\n \r\nHow to obtain CROW?\r\nYou can purchase CROW on:\r\n-\tPancakeswap: https://exchange.pancakeswap.finance/#/swap?inputCurrency=ETH&outputCurrency=0xcc2E12a9b5b75360c6FBf23B584c275D52cDdb0E\r\n-\t1Inch: \thttps://1inch.exchange/#/BNB/CROW\r\nRemember to set the slippage at 3.1% at least due to the burning fee!\r\n \r\nWhat is Crowfinance?\r\n\r\nCROWFinance is a yield farming aggregator running on the Binance Smart Chain (BSC).\r\nThe team is expecting to release optimized vaults, NFT powered yield farming and a Decentralized Governance System.\r\n \r\nHow to use Binance Smart Chain?\r\nTo access Binance Smart Chain, users can access it through Metamask or Binance Chain Wallet. Users will have to customize their Metamask by key in the following details after choosing custom RPC from the network\u2019s option.\r\n \r\nBinance operates two different chains:\r\n1.\tBinance Chain - BEP 2\r\n2.\tBinance Smart Chain (BSC) - BEP 20\r\nBinance DEX is the primary decentralized app operating on Binance Chain. Most other projects are building on the Binance Smart Chain. The easiest way to convert any assets to its BEP 20 representation is through the Binance exchange. \r\nFor example, after depositing Bitcoin to Binance Exchange, users can choose to withdraw it in the forms of ERC 20 (ETH), BEP 2 (Binance Chain), BEP 20 (BSC), and BTC\u2019s native chain. Choose BEP 20 if you would like to have the asset interact with Crowfinance. \r\n \r\n \r\nAn alternative is through Binance Bridge, where users can swap the assets cross-chain from any L1 chain to BSC. \r\nUsers will need to have BNB to pay for any transaction fee on Binance Smart Chain, similar to how users will need ETH to pay for transaction fees on Ethereum.\r\n \r\nWhat are the fees incurred from using Crowfinance?\r\n Here is an infographic depicting our fees compared to our Competitors\u2019\r\n \r\nhttps://miro.medium.com/max/2400/1*smQVMWJapes7_P5o5BLq3A.png\r\n\r\nWhile looking a our yield farming products keep in mind that:\r\n\u2022\tAPR refers to the simple interest accrued over a 1 year period.\r\n\u2022\tAPY is the compounded version of it. In the vaults that employs Crow Strategy, it is expected to compound 2920 times in a year. \r\nThere are no further fees except from a withdraw fee (0,1-0,5%), all the other fees are charged on the profits. \r\n\u2022\t0.5% of Controller fee for operating cost\r\n\u2022\t1% as the platform fee\r\n\u2022\t3% used to buy back CROW from the market \r\nWhat are Crowfinance\u2019s vaults?\r\nLike Yearn Finance, the vaults help users claim yield farming rewards and sell them for the underlying assets. Vaults benefit users by socializing gas costs, automating the yield generation and rebalancing process, and automatically shifting capital as opportunities arise. End users also do not need to know the underlying protocols involved or DeFi, thus the Vaults represent a passive-investing strategy. It is akin to a crypto hedge fund where the aim is to increase the amount of assets that users deposited.\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcc2e12a9b5b75360c6fbf23b584c275d52cddb0e",
+    "url": "https://www.crowfinance.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xcc2e12a9b5b75360c6fbf23b584c275d52cddb0e"
+    ],
+    "twitter": "crowfinance",
+    "telegram": "CrowFinance",
+    "github_org": "crowfinance"
+}

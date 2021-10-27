@@ -1,0 +1,24 @@
+{
+    "id": "throne",
+    "symbol": "thn",
+    "name": "Throne",
+    "platforms": {
+        "ethereum": "0x2e95cea14dd384429eb3c4331b776c4cfbb6fcd9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Throne is an NFT marketplace for the next generation of creators and collectors. A place where everyday users can discover, collect, and sell their work as digital assets. THN is the utility token of the Throne community, network, and platform.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2e95cea14dd384429eb3c4331b776c4cfbb6fcd9",
+    "url": "https://www.thr.one/",
+    "explorers": [
+        "https://etherscan.io/token/0x2e95cea14dd384429eb3c4331b776c4cfbb6fcd9",
+        "https://ethplorer.io/address/0x2e95cea14dd384429eb3c4331b776c4cfbb6fcd9"
+    ],
+    "twitter": "throneNFT",
+    "telegram": "thronecommunity",
+    "github_org": "ThroneProject"
+}

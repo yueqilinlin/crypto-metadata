@@ -1,0 +1,24 @@
+{
+    "id": "basis-bond",
+    "symbol": "bab",
+    "name": "Basis Bond",
+    "platforms": {
+        "ethereum": "0xc36824905dff2eaaee7ecc09fcc63abc0af5abc5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Basis Bonds are minted by burning Basis Cash (BAC) when the protocol is in a contractionary phase. They can be redeemed at a premium when BAC is at peg."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc36824905dff2eaaee7ecc09fcc63abc0af5abc5",
+    "url": "https://app.basis.cash/",
+    "explorers": [
+        "https://etherscan.io/token/0xc36824905dff2eaaee7ecc09fcc63abc0af5abc5",
+        "https://ethplorer.io/address/0xc36824905dff2eaaee7ecc09fcc63abc0af5abc5"
+    ],
+    "twitter": "BasisCash",
+    "telegram": "basiscash",
+    "github_org": "Basis-Cash"
+}

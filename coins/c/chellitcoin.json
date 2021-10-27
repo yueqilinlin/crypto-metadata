@@ -1,0 +1,23 @@
+{
+    "id": "chellitcoin",
+    "symbol": "chlt",
+    "name": "Chellitcoin",
+    "platforms": {
+        "ethereum": "0x4a9d711100aff9a444a3c40284f70269bb3f0487"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Chellit focuses on different businesses and integrates with different types of services. \r\nThe main purpose of this is to introduce an easier payment solution based on blockchain.\r\nTo tackle the utility problem of cryptocurrencies, Chellit aims to become the standard payment choice to pay a wide range of usage and necessities.\r\nIt will operate as business-focused blockchain technology and will be developed to be utilized for major companies not just for individual usability. \r\nThe whole project will revolutionize the payment sector with solutions tailored to each specific business need that works securely and enables scalability."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4a9d711100aff9a444a3c40284f70269bb3f0487",
+    "url": "https://chellitcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x4a9d711100aff9a444a3c40284f70269bb3f0487",
+        "https://ethplorer.io/address/0x4a9d711100aff9a444a3c40284f70269bb3f0487"
+    ],
+    "telegram": "chellitofficial",
+    "github_org": "chellit-coin"
+}

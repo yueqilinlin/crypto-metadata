@@ -1,0 +1,24 @@
+{
+    "id": "spacetoast",
+    "symbol": "spacetoast",
+    "name": "SpaceToast",
+    "platforms": {
+        "binance-smart-chain": "0x623b3a37e06268e99096a56a8a0c1207a024245d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SPACE TOAST is on a mission to decentralize the way new projects raise capital by easing the process of launching new token projects. SPACE TOAST aims to drive new capital, usage and trade by increasing the attractiveness of the Toast ecosystem as a place for token creators and communities to launch new project tokens. As a Hyper Burn token, SPACE TOAST functions as a deflationary mechanism on the Toast ecosystem. Each time SPACE TOAST is traded, more SPACE TOAST & TOASTz is burned. This creates both incentives and trading opportunities between SPACE TOAST and TOASTz."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x623b3a37e06268e99096a56a8a0c1207a024245d",
+    "url": "https://www.toastfinance.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x623b3a37e06268e99096a56a8a0c1207a024245d"
+    ],
+    "twitter": "toastswap",
+    "telegram": "toastswap",
+    "reddit": "ToastFi/",
+    "github_org": "ToastFinance"
+}

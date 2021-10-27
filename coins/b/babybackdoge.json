@@ -1,0 +1,23 @@
+{
+    "id": "babybackdoge",
+    "symbol": "bbdoge",
+    "name": "BabyBackDOGE",
+    "platforms": {
+        "binance-smart-chain": "0x545c6721314a1064821a8f235a7cef987b4fbc32"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BabyBackDOGE | $BBDOGE | is a hyper deflationary token & whilst also incorporating the buyback protocol approach & token rewards prepare to list on the market."
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0x545c6721314a1064821a8f235a7cef987b4fbc32",
+    "url": "https://www.babybackdoge.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x545c6721314a1064821a8f235a7cef987b4fbc32"
+    ],
+    "twitter": "BabyBackDOGE",
+    "telegram": "BabyBackDOGE_Channel",
+    "github_org": "babybackdoge"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "hesh-fi",
+    "symbol": "hesh",
+    "name": "Hesh.Fi",
+    "platforms": {
+        "binance-smart-chain": "0x70de30c81ddee3a54b5dbdeb7d0ba029e80d34e2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HESH.FI offers a low-fee automated market maker (AMMs) exchange along with yield farming opportunities for users. It runs over Ethereum with the scalability of \u2018layer-2\u2019 platforms. The protocol would also offer social tokens and non-fungible tokens (NFTs) and plans to launch on the Polygon network initially.\r\n\r\nAMMs, for the uninitiated, are smart contract-based DEXs that allow users to trade cryptocurrencies in a wholly permissionless manner via the use of decentralized liquidity pools (as opposed to the traditional market where buyers or sellers could be centralized).\r\nMost AMMs run on a certain blockchain and allow users to trade cryptocurrencies and tokens related to that particular blockchain. This means an Ethereum-based DEX can only facilitate the trading of Ethereum and other ERC20 assets (and not tokens issued on Tron, Solana, or Binance Smart Chain).\r\n\r\nHESH.FI solves just that. Whenever a user requests a trade on the platform, its \u2018nodes\u2019 search different blockchains to fill the order at the lowest slippage possible. This means, for example, that a user wishes to trade ETH/USDT via HESH.FI using the Ethereum network, the protocol would try and find a better trade on a different blockchain (say, Solana) and execute the order.\r\n\r\nAs such, the nodes themselves use Router Protocol\u2019s cross-chain bridges to allow information- and value-transfer between different HESH.FI nodes. For the uninitiated, Router Protocol is building a liquidity super mesh connecting multiple cross chains; currently, the testnet supports Ethereum, Polygon, BSC, HECO, and Avalanche, and soon Algorand, Solana and Terra will be added as well.\r\n\r\nThe nodes are spread across multiple Layer 1 and Layer 2 blockchains and allow HESH.FI to act as a multi-chain DEX, meaning users can conduct their on-chain, permissionless trades seamlessly across several blockchains from a single interface."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x70de30c81ddee3a54b5dbdeb7d0ba029e80d34e2",
+    "url": "https://www.heshfi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x70de30c81ddee3a54b5dbdeb7d0ba029e80d34e2"
+    ],
+    "twitter": "heshfi",
+    "telegram": "HeshfiOfficial"
+}

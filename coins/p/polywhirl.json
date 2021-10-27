@@ -1,0 +1,25 @@
+{
+    "id": "polywhirl",
+    "symbol": "whirl",
+    "name": "PolyWhirl",
+    "platforms": {
+        "polygon-pos": "0xfc5a11d0fe8b5ad23b8a643df5eae60b979ce1bf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PolyWhirl is a completely decentralised platform for making private transactions on Polygon. It will help you preserve your privacy, incase your identity and addresses are linked and exposed. You can transfer all your funds to a new address without exposing your link to previous addresses."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfc5a11d0fe8b5ad23b8a643df5eae60b979ce1bf",
+    "url": "https://polywhirl.cash/",
+    "explorers": [
+        "https://polygonscan.com/token/0xfc5a11d0fe8b5ad23b8a643df5eae60b979ce1bf",
+        "https://etherscan.io/token/0xfc5a11d0fe8b5ad23b8a643df5eae60b979ce1bf",
+        "https://ethplorer.io/address/0xfc5a11d0fe8b5ad23b8a643df5eae60b979ce1bf"
+    ],
+    "twitter": "PolyWhirlHQ",
+    "telegram": "PolyWhirlHQ",
+    "github_org": "polywhirl"
+}

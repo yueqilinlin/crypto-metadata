@@ -1,0 +1,24 @@
+{
+    "id": "wrapped-moon-cats",
+    "symbol": "mcat20",
+    "name": "Wrapped Moon Cats",
+    "platforms": {
+        "ethereum": "0xf961a1fa7c781ecd23689fe1d0b7f3b6cbb2f972"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Wrapped MoonCats Rescue is an unofficial ERC721 wrapping of the MoonCats Rescue contract"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf961a1fa7c781ecd23689fe1d0b7f3b6cbb2f972",
+    "url": "https://mooncatrescue.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xf961a1fa7c781ecd23689fe1d0b7f3b6cbb2f972",
+        "https://ethplorer.io/address/0xf961a1fa7c781ecd23689fe1d0b7f3b6cbb2f972"
+    ]
+}

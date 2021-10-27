@@ -1,0 +1,22 @@
+{
+    "id": "medacoin",
+    "symbol": "meda",
+    "name": "Medacoin",
+    "platforms": {
+        "binance-smart-chain": "0x9130990dd16ed8be8be63e46cad305c2c339dac9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$MEDA is a new cryptocurrency that gives videogame users the ability to manage their virtual in-game goods! Not only will the token be the native currency of the Medabots NFT Marketplace, there are many other use cases as listed below: \r\n\r\n1: Purchase in-game items and physical Medabots merchandise\r\n\r\n2: Use to enter live tournaments and earn tokens. Ability to use Medacoin tokens to enter wager matches!\r\n\r\n3: Mint your own Medapart NFTs! \r\n\r\n4: Earn coins by referring friends\r\n\r\n5: The same MEDACOIN tokens can be used in/transferred to all future games\r\n\r\nMEDABOTS (single & multiplayer) will be launching on iOS & Android in Q4 2021. In 2022 Medabots will then launch on Nintendo Switch, PlayStation 5, Xbox Series X, and PC. The team even has plans in the future to create Medabots action figures and a movie(s)!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9130990dd16ed8be8be63e46cad305c2c339dac9",
+    "url": "https://www.medabots.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x9130990dd16ed8be8be63e46cad305c2c339dac9"
+    ],
+    "twitter": "MedabotsWorld",
+    "telegram": "MedabotsOfficialChannel"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "venus-reward-token",
+    "symbol": "vrt",
+    "name": "Venus Reward Token",
+    "platforms": {
+        "binance-smart-chain": "0x5f84ce30dc3cf7909101c69086c50de191895883"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Venus Reward Token is a mechanism created to become an additional mining distribution to suppliers and borrowers of Venus Protocol.\r\n\r\nVenus (XVS) token will continue to exist as a governance token for the protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5f84ce30dc3cf7909101c69086c50de191895883",
+    "url": "https://venus.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x5f84ce30dc3cf7909101c69086c50de191895883"
+    ],
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol",
+    "github_org": "VenusProtocol"
+}

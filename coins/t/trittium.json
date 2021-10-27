@@ -1,0 +1,22 @@
+{
+    "id": "trittium",
+    "symbol": "trtt",
+    "name": "Trittium",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency",
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Trittium will be a currency that will give access to a wide range of IT services,\r\nfrom software licenses to the purchases of VPS, servers with pre-installed\r\nmasternodes and vouchers for other services related to IT. The platform also\r\noffers a block explorer service for DECENOMY coins."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://trittium.cc/",
+    "explorers": [
+        "https://explorer.trittium.cc/"
+    ],
+    "twitter": "Nodestrtt",
+    "github_org": "Trittium"
+}

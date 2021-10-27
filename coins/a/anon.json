@@ -1,0 +1,23 @@
+{
+    "id": "anon",
+    "symbol": "anon",
+    "name": "ANON",
+    "platforms": {},
+    "hashing_algorithm": "Equihash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "A zkSNARKS privacy coin with masternode capabilities"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://anoncrypto.io/",
+    "explorers": [
+        "https://explorer.anoncrypto.io/insight/"
+    ],
+    "twitter": "ANON_WeAreANON",
+    "telegram": "ANONFork",
+    "reddit": "AnonymousBitcoin/",
+    "github_org": "anonymousbitcoin"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "potato",
+    "symbol": "potato",
+    "name": "Potato",
+    "platforms": {
+        "solana": "GEYrotdkRitGUK5UMv3aMttEhVAZLhRJMcG82zKYsaWB"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Potato coin is a dex build on solana , all fees go towards buying back potatos and burning them. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "GEYrotdkRitGUK5UMv3aMttEhVAZLhRJMcG82zKYsaWB",
+    "url": "https://potatocoinspl.com/",
+    "explorers": [
+        "https://solscan.io/token/GEYrotdkRitGUK5UMv3aMttEhVAZLhRJMcG82zKYsaWB"
+    ],
+    "twitter": "PotatoCoinSPL",
+    "telegram": "PotatoCoinSPLChat",
+    "github_org": "potatocoinspl"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "ticket2lambo",
+    "symbol": "t2l",
+    "name": "Ticket2Lambo",
+    "platforms": {
+        "ethereum": "0xbe5d345d05dd62828ed61519ef9f7af76f092248"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ticket2Lambo.io a brand new Ethereum based lottery Project on the blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbe5d345d05dd62828ed61519ef9f7af76f092248",
+    "url": "https://www.ticket2lambo.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xBe5D345d05dD62828ed61519eF9F7aF76F092248",
+        "https://ethplorer.io/address/0xBe5D345d05dD62828ed61519eF9F7aF76F092248"
+    ],
+    "twitter": "Ticket2L",
+    "telegram": "ticket2lambo"
+}

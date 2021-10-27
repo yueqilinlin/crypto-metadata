@@ -1,0 +1,22 @@
+{
+    "id": "pandora-protocol",
+    "symbol": "pndr",
+    "name": "Pandora Protocol",
+    "platforms": {
+        "binance-smart-chain": "0x6c1efbed2f57dd486ec091dffd08ee5235a570b1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Real-world Assets backed #NFT protocol"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6c1efbed2f57dd486ec091dffd08ee5235a570b1",
+    "url": "https://pandora.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x6c1eFbEd2F57dd486Ec091dFfd08eE5235A570b1"
+    ],
+    "twitter": "PandoraProtocol",
+    "telegram": "PandoraProtocol"
+}

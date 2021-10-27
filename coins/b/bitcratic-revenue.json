@@ -1,0 +1,24 @@
+{
+    "id": "bitcratic-revenue",
+    "symbol": "bctr",
+    "name": "Bitcratic Revenue",
+    "platforms": {
+        "ethereum": "0x579353231f3540b218239774422962c64a3693e7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bitcratic is 1.5 year old Decentralized Exchange All transactions are done through Smart contract on Ethereum Blockchain, Bitcratic use off-chain orderbook with on-chain settlement. More than 200 Tokens are traded here\r\nTo gain Traders and Trading acticities we launched BCTR Token, Primary Objective of BCTR token is to raise quick funds for Providing Liquidity and to perform Marketing activities for USDT-ETH Pair and BCTR-ETH Trading pair\r\n\r\nBCTR Token is representing a Revenue Share of 50% of all Fees Collected by Bitcratic in following trading pair through Trading fees"
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x579353231f3540b218239774422962c64a3693e7",
+    "url": "https://www.bitcratic.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x579353231f3540b218239774422962c64a3693e7",
+        "https://ethplorer.io/address/0x579353231f3540b218239774422962c64a3693e7"
+    ],
+    "twitter": "bitcratic",
+    "telegram": "Bitcratic",
+    "github_org": "Bitcratic"
+}

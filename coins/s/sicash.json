@@ -1,0 +1,22 @@
+{
+    "id": "sicash",
+    "symbol": "sic",
+    "name": "SICash",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "SICash is a decentralised blockchain project built on Bitcoin's UTXO model, with support for Ethereum Virtual Machine based smart contracts, and secured by a proof of stake consensus model. It achieves this through the revolutionary Account Abstraction Layer which allows the EVM to communicate with SICash's Bitcoin-like UTXO blockchain."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://www.sicash.network/",
+    "explorers": [
+        "https://explorer.sicash.network/"
+    ],
+    "twitter": "sicashofficial",
+    "facebook": "SiCashProject",
+    "telegram": "SiCash",
+    "reddit": "https://www.reddit.com",
+    "github_org": "SIProjects"
+}

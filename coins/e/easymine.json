@@ -1,0 +1,23 @@
+{
+    "id": "easymine",
+    "symbol": "emt",
+    "name": "easyMine",
+    "platforms": {
+        "ethereum": "0x9501bfc48897dceeadf73113ef635d2ff7ee4b97"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "easyMINE is a complete, self-contained software platform for cryptocurrency mining. It is designed to make the entire process of setting up and managing your own mine as intuitive and straightforward as possible. Whether you\u2019re a complete cryptocoin newbie or a seasoned blockchain veteran, you will appreciate the ease of use, control, and convenience easyMINE offers."
+    },
+    "country_origin": "PL",
+    "genesis_date": null,
+    "contract_address": "0x9501bfc48897dceeadf73113ef635d2ff7ee4b97",
+    "url": "https://easymine.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9501bfc48897dceeadf73113ef635d2ff7ee4b97",
+        "https://ethplorer.io/address/0x9501bfc48897dceeadf73113ef635d2ff7ee4b97"
+    ],
+    "twitter": "easymineio",
+    "facebook": "Easymine.io"
+}

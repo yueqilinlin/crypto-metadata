@@ -1,0 +1,25 @@
+{
+    "id": "projectmars",
+    "symbol": "mars",
+    "name": "ProjectMars",
+    "platforms": {
+        "fantom": "0xbe41772587872a92184873d55b09c6bb6f59f895"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fantom Ecosystem"
+    ],
+    "description": {
+        "en": "The first token utilizing Black Hole Algorithm on Fantom network"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xbe41772587872a92184873d55b09c6bb6f59f895",
+    "url": "https://www.projectmars.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0xbe41772587872a92184873d55b09c6bb6f59f895"
+    ],
+    "twitter": "ProjectMarsFTM",
+    "telegram": "projectmars_ftm",
+    "github_org": "dapprock"
+}

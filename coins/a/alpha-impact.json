@@ -1,0 +1,23 @@
+{
+    "id": "alpha-impact",
+    "symbol": "impact",
+    "name": "Alpha Impact",
+    "platforms": {
+        "ethereum": "0xfac3f6391c86004289a186ae0198180fcb4d49ab"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crypto copy-trading platform Alpha Impact removes the stress from crypto trading."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xfac3f6391c86004289a186ae0198180fcb4d49ab",
+    "url": "https://alphaimpact.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0xfac3f6391c86004289a186ae0198180fcb4d49ab",
+        "https://ethplorer.io/address/0xfac3f6391c86004289a186ae0198180fcb4d49ab"
+    ],
+    "twitter": "AlphaImpact_fi",
+    "telegram": "alphaimpact_fi"
+}

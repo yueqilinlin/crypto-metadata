@@ -1,0 +1,23 @@
+{
+    "id": "chain-flowers",
+    "symbol": "cflo",
+    "name": "Chain Flowers",
+    "platforms": {
+        "ethereum": "0x8994c21d588106ba289e014331a1d74491894cee"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A NFT Marketplace for flower arrangement gifts, art, sculptures, and crafts from around the world with social and environmental responsibility."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x8994c21d588106ba289e014331a1d74491894cee",
+    "url": "https://chainflowers.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x8994c21d588106ba289e014331a1d74491894cee",
+        "https://ethplorer.io/address/0x8994c21d588106ba289e014331a1d74491894cee"
+    ],
+    "twitter": "CFLO_Official",
+    "telegram": "chainflowers_official"
+}

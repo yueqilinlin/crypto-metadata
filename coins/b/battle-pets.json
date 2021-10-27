@@ -1,0 +1,25 @@
+{
+    "id": "battle-pets",
+    "symbol": "pet",
+    "name": "Battle Pets",
+    "platforms": {
+        "binance-smart-chain": "0x4d4e595d643dc61ea7fcbf12e4b1aaa39f9975b8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "\"Battle Pets\" is a blockchain game about adorable pets running on Binance Smart Chain. Each pet is an NFT(Non-fungible Token) that can be collected, nourished, and armed with weapons to battle with other pets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4d4e595d643dc61ea7fcbf12e4b1aaa39f9975b8",
+    "url": "https://www.battlepets.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x4d4e595d643dc61ea7fcbf12e4b1aaa39f9975b8"
+    ],
+    "twitter": "battle_pets",
+    "telegram": "battle_pets"
+}

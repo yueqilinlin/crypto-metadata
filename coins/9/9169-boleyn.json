@@ -1,0 +1,27 @@
+{
+    "id": "9169-boleyn",
+    "symbol": "realtoken-s-9169-boleyn-st-detroit-mi",
+    "name": "RealT Token - 9169 Boleyn St, Detroit, MI, 48224",
+    "platforms": {
+        "ethereum": "0x806690b7a093d2cf6419a515abedb7f28595bc5e",
+        "xdai": "0x806690b7a093d2cf6419a515abedb7f28595bc5e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x806690b7a093d2cf6419a515abedb7f28595bc5e",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x806690B7a093d2Cf6419a515ABEdb7f28595bc5E",
+        "https://ethplorer.io/address/0x806690b7a093d2cf6419a515abedb7f28595bc5e"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

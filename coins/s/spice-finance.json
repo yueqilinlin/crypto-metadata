@@ -1,0 +1,26 @@
+{
+    "id": "spice-finance",
+    "symbol": "spice",
+    "name": "SPICE",
+    "platforms": {
+        "ethereum": "0x1fdab294eda5112b7d066ed8f2e4e562d5bcc664"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset Manager"
+    ],
+    "description": {
+        "en": "SPICE is a governance token that gives governance control over SCIFI, the Galactic Council and the Galactic Treasury to holders of the SPICE token. SPICE will always be represented in SCIFI with a fixed allocation of 2.5%."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x1fdab294eda5112b7d066ed8f2e4e562d5bcc664",
+    "url": "https://scifi.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x1fdab294eda5112b7d066ed8f2e4e562d5bcc664",
+        "https://ethplorer.io/address/0x1fdab294eda5112b7d066ed8f2e4e562d5bcc664"
+    ],
+    "twitter": "sci_finance",
+    "telegram": "scifinance",
+    "github_org": "spicedao"
+}

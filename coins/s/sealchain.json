@@ -1,0 +1,23 @@
+{
+    "id": "sealchain",
+    "symbol": "seal",
+    "name": "Sealchain",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.sealchain.io/",
+    "explorers": [
+        "https://explorer.sealchain.io/",
+        "https://etherscan.io/token/0x07bf5f95851ef2b2996f192569e406a6fea2a95a",
+        "https://ethplorer.io/address/0x07bf5f95851ef2b2996f192569e406a6fea2a95a"
+    ],
+    "twitter": "Sealchain_io",
+    "facebook": "Sealchain.io",
+    "telegram": "SealchainOfficial",
+    "github_org": "sealchain-project"
+}

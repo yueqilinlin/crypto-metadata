@@ -1,0 +1,23 @@
+{
+    "id": "honeyfarm-finance",
+    "symbol": "honey",
+    "name": "HoneyFarm Finance",
+    "platforms": {
+        "binance-smart-chain": "0xfa363022816abf82f18a9c2809dcd2bb393f6ac5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HoneyFarm Finance is a layered delegated yield farming project with deflationary tokenomics of a maximum supply"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xfa363022816abf82f18a9c2809dcd2bb393f6ac5",
+    "url": "https://honeyfarm.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xFa363022816aBf82f18a9C2809dCd2BB393F6AC5"
+    ],
+    "twitter": "HoneyFarmFi",
+    "telegram": "HoneyFarmChat",
+    "github_org": "HoneyFarmFi"
+}

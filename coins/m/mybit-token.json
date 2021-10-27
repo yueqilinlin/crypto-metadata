@@ -1,0 +1,26 @@
+{
+    "id": "mybit-token",
+    "symbol": "myb",
+    "name": "MyBit Token",
+    "platforms": {
+        "ethereum": "0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MyBit makes it simple for anyone to design, test, develop, and maintain decentralised wealth management applications on Ethereum."
+    },
+    "country_origin": "CH",
+    "genesis_date": "2017-06-27",
+    "contract_address": "0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc",
+    "url": "https://mybit.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc",
+        "https://ethplorer.io/address/0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc"
+    ],
+    "twitter": "MyBit_DApp",
+    "facebook": "MyBitDApp",
+    "telegram": "mybitio",
+    "reddit": "MyBitToken/",
+    "github_org": "MyBitFoundation"
+}

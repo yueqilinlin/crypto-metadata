@@ -1,0 +1,24 @@
+{
+    "id": "polyient-games-unity",
+    "symbol": "pgu",
+    "name": "Polyient Games Unity",
+    "platforms": {
+        "ethereum": "0x98c36c0e953463bd5146c8783ce081ce1d187acf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Polyient Games Ecosystem is changing the way gamers and investors interact with non-fungible tokens (NFTs)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x98c36c0e953463bd5146c8783ce081ce1d187acf",
+    "url": "https://www.polyient.games/",
+    "explorers": [
+        "https://etherscan.io/token/0x98c36c0e953463bd5146c8783ce081ce1d187acf",
+        "https://ethplorer.io/address/0x98c36c0e953463bd5146c8783ce081ce1d187acf"
+    ],
+    "twitter": "polyientgames",
+    "telegram": "polyientgames_official",
+    "github_org": "polyient"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "bonsai-vault-nftx",
+    "symbol": "bonsai",
+    "name": "BONSAI Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xf0fe1a87abf12099b77352bdcc10f5a87067b290"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "BONSAI Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf0fe1a87abf12099b77352bdcc10f5a87067b290",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xf0fE1A87aBf12099b77352BdCc10F5A87067b290",
+        "https://ethplorer.io/address/0xf0fe1a87abf12099b77352bdcc10f5a87067b290"
+    ],
+    "twitter": "nftx_"
+}

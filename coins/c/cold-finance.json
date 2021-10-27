@@ -1,0 +1,22 @@
+{
+    "id": "cold-finance",
+    "symbol": "cold",
+    "name": "Cold Finance",
+    "platforms": {
+        "binance-smart-chain": "0x9a6fda69fa9859b169ef17b600ce81c59cf16f01"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9a6fda69fa9859b169ef17b600ce81c59cf16f01",
+    "url": "https://coldfinance.io",
+    "explorers": [
+        "https://bscscan.com/token/0x9a6fda69fa9859b169ef17b600ce81c59cf16f01"
+    ],
+    "twitter": "ColdFinanceBSC",
+    "telegram": "coldfinanceofficial"
+}

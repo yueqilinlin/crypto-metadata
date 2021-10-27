@@ -1,0 +1,23 @@
+{
+    "id": "at-finance",
+    "symbol": "at",
+    "name": "AT Finance",
+    "platforms": {
+        "binance-smart-chain": "0x87eba250a34e7486eab140d89e2eb5d8d113ea2d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AT Finance is a technology that is developed on Binance Smart Chain(BSC) which has devised several innovative platform for the community which are fully decentralised such as IDO launchpad, farming, rebase token and liquidity aggregator protocol.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x87eba250a34e7486eab140d89e2eb5d8d113ea2d",
+    "url": "https://at.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x87eba250a34e7486eab140d89e2eb5d8d113ea2d"
+    ],
+    "twitter": "ATFinance_",
+    "telegram": "at_finance",
+    "github_org": "ATFinance"
+}

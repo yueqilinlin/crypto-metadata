@@ -1,0 +1,24 @@
+{
+    "id": "bumo",
+    "symbol": "bu",
+    "name": "BUMO",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "BUMO is a next-generation commercial-grade public Blockchain for ubiquitous and trusted value transfer, which is aimed to build a decentralized application ecosystem featured with extensive digital trust, free-flowing value and public-sharing apps.\r\n\r\nAs the next-generation, commercially viable, underlying public Blockchain, BUMO will build Ubiquitous Trust Network for value circulation. We present you a distributed ecosystem of business, which is featured by extensive digital trust, freely transferred assets and public-sharing applications.\r\n\r\nTechnical advantages:\r\n\r\n(1) Innovative consensus algorithm for two-layer multiple chains.\r\n\r\n(2) Two-layer Polymorphic Architecture for Multi-child Blockchain.\r\n\r\n(3) Inter-Chain for Routing Value across Blockchains.\r\n\r\n(4) Developer-friendly Smart Contract.\r\n\r\nBUMO is a basic public Blockchain for institution/enterprise use which is technically mature. Its main net was published in May, 2018."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "url": "https://www.bumo.io/",
+    "explorers": [
+        "https://explorer.bumo.io/"
+    ],
+    "twitter": "BUMOproject",
+    "facebook": "BUMOblockchain",
+    "telegram": "bumo666",
+    "reddit": "BUMO/",
+    "github_org": "bumoproject"
+}

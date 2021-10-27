@@ -1,0 +1,23 @@
+{
+    "id": "mint-club",
+    "symbol": "mint",
+    "name": "Mint Club",
+    "platforms": {
+        "binance-smart-chain": "0x1f3af095cda17d63cad238358837321e95fc5915"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A smart token building platform WITHOUT the need for coding or providing liquidity on the Binance Smart Chain."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x1f3af095cda17d63cad238358837321e95fc5915",
+    "url": "https://mint.club/",
+    "explorers": [
+        "https://bscscan.com/token/0x1f3Af095CDa17d63cad238358837321e95FC5915"
+    ],
+    "twitter": "MintClubPro",
+    "telegram": "mint_club",
+    "github_org": "Steemhunt"
+}

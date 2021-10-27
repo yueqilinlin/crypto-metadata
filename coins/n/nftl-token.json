@@ -1,0 +1,25 @@
+{
+    "id": "nftl-token",
+    "symbol": "nftl",
+    "name": "NFTL Token",
+    "platforms": {
+        "binance-smart-chain": "0xe5904e9816b309d3ed4d061c922f5aa8f3b24c92"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "NFT Fantasy League"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe5904e9816b309d3ed4d061c922f5aa8f3b24c92",
+    "url": "https://cybertime.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xe5904e9816b309d3ed4d061c922f5aa8f3b24c92"
+    ],
+    "twitter": "cybertime_eth",
+    "telegram": "cybertime_eth",
+    "github_org": "cybertime-eth"
+}

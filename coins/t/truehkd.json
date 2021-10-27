@@ -1,0 +1,27 @@
+{
+    "id": "truehkd",
+    "symbol": "thkd",
+    "name": "TrueHKD",
+    "platforms": {
+        "ethereum": "0x0000852600ceb001e08e00bc008be620d60031f2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "The leading stablecoin backed by the Hong Kong dollar.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0000852600ceb001e08e00bc008be620d60031f2",
+    "url": "https://www.trusttoken.com/truehkd",
+    "explorers": [
+        "https://etherscan.io/token/0x0000852600ceb001e08e00bc008be620d60031f2",
+        "https://explorer.binance.org/asset/THKDB-888",
+        "https://ethplorer.io/address/0x0000852600ceb001e08e00bc008be620d60031f2"
+    ],
+    "twitter": "TrustToken",
+    "reddit": "TrustToken/",
+    "github_org": "trusttoken"
+}

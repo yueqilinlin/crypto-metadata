@@ -1,0 +1,23 @@
+{
+    "id": "klend",
+    "symbol": "klt",
+    "name": "KLend",
+    "platforms": {
+        "binance-smart-chain": "0xf95995d642c652e9a7d124d546a7bdf297c6d0fb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KLend aim to be the best on-chain lending platform, build distributed financial ecology, KLend is first DAO based  decentralized lending protocol outside ETH, we use the over-collateralized mortgage lending model inspired by Compound coupled with the EPS style liquidity mining model empowers the capital utilization of DEFI-Ecology. And we have been actively laying out the plan of landing a decentralized crypto spot contract platform in the very near future"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf95995d642c652e9a7d124d546a7bdf297c6d0fb",
+    "url": "https://klend.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xf95995d642c652e9a7D124d546A7bDF297c6d0fB"
+    ],
+    "twitter": "oklend4",
+    "telegram": "klendfinance",
+    "github_org": "klend-lab"
+}

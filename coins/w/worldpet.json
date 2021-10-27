@@ -1,0 +1,21 @@
+{
+    "id": "worldpet",
+    "symbol": "wpt",
+    "name": "WORLDPET",
+    "platforms": {
+        "ethereum": "0xe04491d64eaa464ec8fdf53c7a4c92bf5b2278cd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WorldPet built the private block chain, main net, which is made by improving the Ethereum, connect all pet services using that, and uses WorldPet token(ERC20) as the key currency. WorldPet develops and supports semi-centralized open source(application) with which users can safely transact in the platform using WorldPet\u2019s business mechanism which converts the existing centralized electronic currency to\r\ndistributed crypto currency."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe04491d64eaa464ec8fdf53c7a4c92bf5b2278cd",
+    "url": "http://www.worldpet.global/",
+    "explorers": [
+        "https://etherscan.io/token/0xe04491D64Eaa464Ec8Fdf53c7a4C92BF5B2278Cd",
+        "https://ethplorer.io/address/0xe04491D64Eaa464Ec8Fdf53c7a4C92BF5B2278Cd"
+    ]
+}

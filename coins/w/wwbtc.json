@@ -1,0 +1,22 @@
+{
+    "id": "wwbtc",
+    "symbol": "wwbtc",
+    "name": "wWBTC",
+    "platforms": {
+        "tezos": "KT18FP5RCTW7MBWDMZFWJLDUHS5MEJMAGDSZ_19"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT18FP5RCTW7MBWDMZFWJLDUHS5MEJMAGDSZ_19",
+    "url": "https://www.benderlabs.io/",
+    "explorers": [
+        "https://tzkt.io/KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ/operations/"
+    ],
+    "twitter": "BenderLabs",
+    "telegram": "benderlabs"
+}

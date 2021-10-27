@@ -1,0 +1,26 @@
+{
+    "id": "hyper-speed-network",
+    "symbol": "hsn",
+    "name": "Hyper Speed Network",
+    "platforms": {
+        "ethereum": "0x365542df3c8c9d096c5f0de24a0d8cf33c19c8fd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "5G ecological application public chain based on MEC, distributed storage and network data security"
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0x365542df3c8c9d096c5f0de24a0d8cf33c19c8fd",
+    "url": "https://www.hsn.link/",
+    "explorers": [
+        "https://etherscan.io/token/0x365542df3c8c9d096c5f0de24a0d8cf33c19c8fd",
+        "https://ethplorer.io/address/0x365542df3c8c9d096c5f0de24a0d8cf33c19c8fd"
+    ],
+    "twitter": "HSpeedNetwork",
+    "telegram": "Hyper_Speed_Network_5G",
+    "github_org": "hyperspeednetwork"
+}

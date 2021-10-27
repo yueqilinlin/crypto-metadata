@@ -1,0 +1,26 @@
+{
+    "id": "klondike-btc",
+    "symbol": "kbtc",
+    "name": "Klondike BTC",
+    "platforms": {
+        "ethereum": "0xe6c3502997f97f9bde34cb165fbce191065e068f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe6c3502997f97f9bde34cb165fbce191065e068f",
+    "url": "https://klondike.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xE6C3502997f97F9BDe34CB165fBce191065E068f",
+        "https://ethplorer.io/address/0xe6c3502997f97f9bde34cb165fbce191065e068f"
+    ],
+    "twitter": "KlondikeFinance",
+    "telegram": "klondike_discussion"
+}

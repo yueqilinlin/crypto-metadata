@@ -1,0 +1,29 @@
+{
+    "id": "ac-exchange-token",
+    "symbol": "acxt",
+    "name": "ACDX Exchange Token",
+    "platforms": {
+        "ethereum": "0x7be00ed6796b21656732e8f739fc1b8f1c53da0d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "ACXT is the exchange governance token of ACDX, a next-generation cryptocurrency derivatives exchange"
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x7be00ed6796b21656732e8f739fc1b8f1c53da0d",
+    "url": "https://www.acdx.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x7be00ed6796b21656732e8f739fc1b8f1c53da0d",
+        "https://ethplorer.io/address/0x7be00ed6796b21656732e8f739fc1b8f1c53da0d"
+    ],
+    "twitter": "acdx_io",
+    "facebook": "acdxio",
+    "telegram": "ACDX_announcement",
+    "reddit": "acdx/",
+    "github_org": "acdxio"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "radium",
+    "symbol": "val",
+    "name": "Validity",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "Radium is a Proof-of-Stake cryptocurrency that serves as the base blockchain for SmartChain Core which expands the utility of Radium far beyond that of a standard coin, with features such as identity-address linkage, proof-of-existence, file checksum verification and validation, and decentralized elections and voting. All of these features exist in a 100% distributed data-layer within the Radium blockchain."
+    },
+    "country_origin": "US",
+    "genesis_date": "2015-05-25",
+    "url": "https://validitytech.com/",
+    "explorers": [
+        "https://chainz.cryptoid.info/val/"
+    ],
+    "twitter": "ValidityTech",
+    "facebook": "ValidityTechnology",
+    "telegram": "RadiumOfficial",
+    "reddit": "https://www.reddit.comRadiumCore/",
+    "github_org": "RadiumCore"
+}

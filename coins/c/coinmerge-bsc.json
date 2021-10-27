@@ -1,0 +1,22 @@
+{
+    "id": "coinmerge-bsc",
+    "symbol": "cmerge",
+    "name": "CoinMerge (BSC)",
+    "platforms": {
+        "binance-smart-chain": "0x8d3e3a57c5f140b5f9feb0d43d37a347ee01c851"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CoinMerge is the revolutionary new token and platform that not only rewards holders in Ethereum just for holding, but is also building and expanding on a platform that combines all of the best charts and data from sites like DexTools with all of the Community chat features offered by programs like Telegram, into a single, seamless, easy to use platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8d3e3a57c5f140b5f9feb0d43d37a347ee01c851",
+    "url": "https://www.coinmerge.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x8d3e3a57c5f140b5f9feb0d43d37a347ee01c851"
+    ],
+    "twitter": "coinmerge",
+    "telegram": "CoinMergeMain"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "fme",
+    "symbol": "fme",
+    "name": "FME",
+    "platforms": {
+        "ethereum": "0x947938339bf61c84669e303bc39c794d65a525d0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FME claims to be a blockchain-based wallet system. It claims to address two key cryptocurrency issues \u2013 cumbersome transactional processes and slow transfers, while retaining the advantages of anonymity and convenience of transfers. The project claims that through FME system, users can withdraw, utilise or make purchases with cryptocurrencies in real time globally via its virtual bank and card feature. It also claims to facilitate worldwide cross-border transactions.\r\n\r\nFME claims to feature a multi-cryptocurrency wallet, virtual bank account/card and cryptocurrency swap backend system."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x947938339bf61c84669e303bc39c794d65a525d0",
+    "url": "http://whitepaper.fmetoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x947938339bf61c84669e303bc39c794d65a525d0",
+        "https://ethplorer.io/address/0x947938339bf61c84669e303bc39c794d65a525d0"
+    ]
+}

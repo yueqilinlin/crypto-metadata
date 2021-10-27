@@ -1,0 +1,22 @@
+{
+    "id": "dinopark",
+    "symbol": "dinop",
+    "name": "DinoPark",
+    "platforms": {
+        "binance-smart-chain": "0xea90dc6f64d18771ca1dac8098526a9082265b42"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DINOP is a token for use on DINO platform.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xea90dc6f64d18771ca1dac8098526a9082265b42",
+    "url": "https://www.dinopark.fun/",
+    "explorers": [
+        "https://bscscan.com/token/0xea90dc6f64d18771ca1dac8098526a9082265b42"
+    ],
+    "twitter": "dinoparkio",
+    "telegram": "dinoparkio"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "millimeter",
+    "symbol": "mm",
+    "name": "Millimeter",
+    "platforms": {
+        "ethereum": "0xc3c221fe28c33814c28c822b631fd76047ef1a63"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Millimeter project is a launched based on MakersMarket, a blockchain-based industrial design trading platform. Through the platform, designers, creators, and users are directly matched, thereby eliminating excessive brokerage fees, while allowing users to experience exchanges between different industries, innovation of new technologies, and unique products."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xc3c221fe28c33814c28c822b631fd76047ef1a63",
+    "url": "http://mmeter.kr/",
+    "explorers": [
+        "https://etherscan.io/token/0xC3c221fE28c33814c28c822b631fd76047eF1a63",
+        "https://ethplorer.io/address/0xC3c221fE28c33814c28c822b631fd76047eF1a63"
+    ],
+    "telegram": "makersmarket",
+    "github_org": "idnd-youngmin"
+}

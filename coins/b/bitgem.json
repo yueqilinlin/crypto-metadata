@@ -1,0 +1,20 @@
+{
+    "id": "bitgem",
+    "symbol": "xbtg",
+    "name": "Bitgem",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Bitgem is one of the first cryptocurrencies, founded in May 2013. Only about 30,000 of them exist. While most coins are simple clones, Bitgem was designed to add an extra function. The Bitgem wallet can generate four different types of trading gems."
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "url": "http://bitgem.rocks/",
+    "explorers": [
+        "http://btg.altcoinwarz.com/"
+    ],
+    "github_org": "Crypto-Currency"
+}

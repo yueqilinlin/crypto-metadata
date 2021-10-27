@@ -1,0 +1,24 @@
+{
+    "id": "pups-vault-nftx",
+    "symbol": "pups",
+    "name": "PUPS Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xd53998c536fc8b59b38aa0b49dbd8170d5ebf4c2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "PUPS Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd53998c536fc8b59b38aa0b49dbd8170d5ebf4c2",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xd53998C536fc8B59b38aa0b49DBd8170d5Ebf4c2",
+        "https://ethplorer.io/address/0xd53998c536fc8b59b38aa0b49dbd8170d5ebf4c2"
+    ],
+    "twitter": "nftx_"
+}

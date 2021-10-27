@@ -1,0 +1,24 @@
+{
+    "id": "plgnet",
+    "symbol": "plug",
+    "name": "PL^Gnet",
+    "platforms": {
+        "ethereum": "0x47da5456bc2e1ce391b645ce80f2e97192e4976a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PL^Gnet enables creation of synthetic assets from multiple chains, which can leverage DeFi in one network, using a simple UX from your existing trusted provider. \r\n\r\nPL^Gnet aims to solve the problems identified by:\r\n\u2022 Introducing a new solution to enable deeper liquidity pools for assets from different chains \r\n\u2022 Leveraging existing compliance onboarding processes to create shareable attestations, in order to enhance compliance in DeFi for developers and traditional finance providers \r\n\u2022 Reduce complexity for assets to exist in the same smart contract network while enhancing existing multi-chain approaches. \r\n\u2022 Provide a safer environment for new users to access DeFi products (such as borrowing and lending platforms and derivatives exchanges) without taking on the risks of self-custody \r\n\u2022 Enable exchanges, staking providers and custodians to offer DeFi connectivity and leverage assets \u201cat rest\u201d in a novel way "
+    },
+    "country_origin": "NZ",
+    "genesis_date": null,
+    "contract_address": "0x47da5456bc2e1ce391b645ce80f2e97192e4976a",
+    "url": "https://plugdefi.io/",
+    "explorers": [
+        "https://etherscan.io/address/0x47da5456bc2e1ce391b645ce80f2e97192e4976a",
+        "https://etherscan.io/token/0x47da5456bc2e1ce391b645ce80f2e97192e4976a",
+        "https://ethplorer.io/address/0x47da5456bc2e1ce391b645ce80f2e97192e4976a"
+    ],
+    "twitter": "plug_net",
+    "telegram": "plug_net1"
+}

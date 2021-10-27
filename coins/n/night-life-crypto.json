@@ -1,0 +1,26 @@
+{
+    "id": "night-life-crypto",
+    "symbol": "nlife",
+    "name": "Night Life Crypto",
+    "platforms": {
+        "binance-smart-chain": "0x86cbbedca621ae78a421a40365081caafda24296",
+        "ethereum": "0x1951ab088141e69a3713a351b0d55ba3acda192c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NLIFE is a self-sustaining, all-on-chain gaming platform with zero fees for each game transaction, where users are able to stake liquidity. The NLIFE Gaming Platform brings several technical and strategic \"\"firsts\u201d to the online and blockchain gaming industry. NLIFE achieved these by harnessing the unique properties of Turtle Network in combination with the liquidity options on Pancakeswap.\r\n\r\nOur second layer solution, Turtle Network, allows us to provide users with instant confirmation times for bets and results, as well as allow zero fees for each game transaction. This remarkable distinguishing feature simulating real life gaming experiences. Users start by purchasing tokens on Pancakeswap and sending them to their gaming wallet.\r\n\r\nIn the backend, BSC NLIFE tokens will be converted to tokens on Turtle Network and users are ready to play. When withdrawing tokens to your BSC wallet, gas fees are paid in NLIFE instead of BNB. This feature simplifies transactions so that the user does not have hold BNB for withdrawals.\r\n\r\nLastly, the user's gaming wallet is non-custodial, meaning the user owns the seed phrase to their wallet, allowing the user to have full control, as well as the the only one who can access the wallet."
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "contract_address": "0x86cbbedca621ae78a421a40365081caafda24296",
+    "url": "https://nightlifecrypto.com",
+    "explorers": [
+        "https://bscscan.com/token/0x86cbBEDCa621Ae78a421A40365081cAafDA24296",
+        "https://etherscan.io/token/0x1951ab088141e69a3713a351b0d55ba3acda192c"
+    ],
+    "twitter": "nightlifecrypto",
+    "facebook": "nightlifecrypto",
+    "telegram": "nightlifecrypto",
+    "reddit": "NightLifeCrypto"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "paytomat",
+    "symbol": "pti",
+    "name": "Paytomat",
+    "platforms": {
+        "eos": null
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Paytomat is a blockchain-based payment processing system created to help merchants, consumers and crypto core teams to find each other and create real life traction for cryptocurrencies as emerging method of everyday payments. Built as a decentralized autonomous organization and decentralized franchise, Paytomat features two unique loyalty programs based on the PTM coin, incentivizing merchants to accept payments in crypto, and PTX token, incentivizing end customers to pay with crypto. For the purposes of the token sale we will use token called PTI based on EOS blockchain.\r\n\r\nPaytomat is a set of blockchain software solutions, already used by more than several hundreds Merchants to accept crypto in cafes, restaurants, beauty salons etc. Our product integrates into existing point-of-sale systems or offers a standalone solution without the need to purchase additional hardware. We hedge the risks, increase speed and streamline payments in multiple cryptocurrencies.\r\n\r\nFor the \u0421ustomer, it\u2019s as easy as scanning a QR code with our own or any other compatible crypto wallet, and pay in one of the 15+ cryptocurrencies currently supported by Paytomat. For the Merchant, the enrollment is free and is done either via their POS (updating the software) or installing the Merchant App provided by Paytomat.\r\n\r\nThe in-house developed proprietary system is now being migrated to EOS and includes \u201cPaytomat Core\u201d in the form of an EOS smart contract and services responsible for keeping Merchant accounts and balances, Merchant interfaces (Merchant Web Panel, Merchant App, POS integrations and e-commerce plugins) and consumer apps (non-custodial cryptocurrency wallets)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://paytomat.com/",
+    "explorers": [
+        "https://eospark.com/token/pti/ptitokenhome",
+        "https://eosflare.io/token/ptitokenhome/PTI",
+        "https://bloks.io/tokens/PTI-eos-ptitokenhome"
+    ],
+    "twitter": "paytomat",
+    "facebook": "paytomat",
+    "telegram": "paytomat",
+    "github_org": "paytomat"
+}

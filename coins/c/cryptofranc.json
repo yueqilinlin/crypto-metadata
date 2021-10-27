@@ -1,0 +1,23 @@
+{
+    "id": "cryptofranc",
+    "symbol": "xchf",
+    "name": "CryptoFranc",
+    "platforms": {
+        "ethereum": "0xb4272071ecadd69d933adcd19ca99fe80664fc08"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CryptoFranc (XCHF) is an ERC-20 stablecoin issued by Swiss Crypto Tokens AG, representing a Swiss Franc denominated bond.\r\n\r\nAll XCHF are fully backed by physical CHF bank notes which are audited  by Grant Thornton Bank Audit Ltd on a monthly basis.\r\n\r\nCurrently, 12\u2019030\u2019000 XCHF tokens are in circulation."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb4272071ecadd69d933adcd19ca99fe80664fc08",
+    "url": "https://www.swisscryptotokens.ch/",
+    "explorers": [
+        "https://etherscan.io/token/0xb4272071ecadd69d933adcd19ca99fe80664fc08",
+        "https://ethplorer.io/address/0xb4272071ecadd69d933adcd19ca99fe80664fc08"
+    ],
+    "twitter": "SwissTokens",
+    "facebook": "swisscryptotokens"
+}

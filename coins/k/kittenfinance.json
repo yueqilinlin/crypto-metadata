@@ -1,0 +1,22 @@
+{
+    "id": "kittenfinance",
+    "symbol": "kif",
+    "name": "KittenFinance",
+    "platforms": {
+        "ethereum": "0x177ba0cac51bfc7ea24bad39d81dcefd59d74faa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x177ba0cac51bfc7ea24bad39d81dcefd59d74faa",
+    "url": "https://www.kitten.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x177ba0cac51bfc7ea24bad39d81dcefd59d74faa",
+        "https://ethplorer.io/address/0x177ba0cac51bfc7ea24bad39d81dcefd59d74faa"
+    ],
+    "twitter": "KittenFinance"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "flourish-coin",
+    "symbol": "flrs",
+    "name": "Flourish Coin",
+    "platforms": {
+        "binance-smart-chain": "0x43fffb14db56bfd6432e7acaadff697121861f96"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Flourish is a Token with unique, advanced tokenomics. While being deflationary and yield generating, it also features a buy-back mechanism with integrated burn, so you never have to see a red-selling streak again while the value of your tokens constantly rise! Adding to all this is an integrated fee for their donation pool, which will be solely used for charity with 100% transparency! Techrate audited Flourish token before Presale, this was to ensure safety for their community, prevent a rug-type scenario and set the fundamentals for organic growth throughout the future."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x43fffb14db56bfd6432e7acaadff697121861f96",
+    "url": "https://flourish-coin.com",
+    "explorers": [
+        "https://bscscan.com/token/0x43fffb14db56bfd6432e7acaadff697121861f96"
+    ],
+    "twitter": "flourishcoin",
+    "telegram": "flourishcoin",
+    "reddit": "FlourishCoin/",
+    "github_org": "meteor83"
+}

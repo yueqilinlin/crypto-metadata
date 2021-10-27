@@ -1,0 +1,23 @@
+{
+    "id": "wallet-swap",
+    "symbol": "wswap",
+    "name": "Wallet Swap",
+    "platforms": {
+        "binance-smart-chain": "0xc72cc401122dbdc812ec88a2150aad5a39467401"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WalletSwap is a decentralised Binance Smartchain & Ethereum based Web3 Mobile Wallet. The app works with several crypto tokens and blockchain wallets. It enables users to store, send and receive Smart Chain & Ethereum based tokens on the go. \r\nThese functions are designed with a focus on user experience, providing a full suite of features for naive and seasoned enthusiasts. \r\nWalletSwap offers a seamless user experience. As we believe that ease of use is vital in the adoption of cryptocurrencies, the highly intuitive and user-friendly mobile application for accessing the blockchain. \r\n\r\nWSWAP Token & Usecase\r\nWSWAP will be the preferred token in our ecosystem. As the preferred token we plan to use the WSWAP Token for staking, governance, paying transaction fees and gaining eligibility in WalletSwap launch pool. Let\u2019s understand them in details. \r\n\r\nStaking \r\nUsers will be able to stake WSWAP directly from your WalletSwap app and the rewards will be added back to their wallet on harvesting. \r\n\r\nGovernance \r\nWSWAP token holders will influence decisions concerning the project such as proposing or deciding on new feature, proposals and even changing the governance system itself \r\n\r\nMiniting NFTs \r\nWalletSwap provides an easy way to store and access all your crypto collectibles with peace of mind and security.\r\nWalletSwap will allow WSWAP holders to upload and list digital artworks in the WalletSwap NFT marketplace. \r\n\r\nLaunchPool Eligibility \r\nWalletSwap Launchpad will be a full- service launchpad for new block chain projects who want to benefit from the security and trust lessness that smart contracts can provide.\r\nWSWAP token holders will be eligible to participate in WalletSwap launch polls."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0xc72cc401122dbdc812ec88a2150aad5a39467401",
+    "url": "https://wswap.site/",
+    "explorers": [
+        "https://bscscan.com/token/0xc72cc401122dbdc812ec88a2150aad5a39467401"
+    ],
+    "twitter": "WalletSwap",
+    "telegram": "WalletSwap",
+    "github_org": "Wswap"
+}

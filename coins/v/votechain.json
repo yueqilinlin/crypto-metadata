@@ -1,0 +1,22 @@
+{
+    "id": "votechain",
+    "symbol": "vbsc",
+    "name": "Votechain",
+    "platforms": {
+        "binance-smart-chain": "0xa3294a571b4526310332a6602a3dec110125af61"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Votechain 's secure digital ballot box represents a cost-effective and smart solution to the problems inherent in today\u2019s voting procedures. VoteChain\u2019s core value is Shard Chain technology. Sharding will break down status information from VBSC tokens into \u2018shard\u2019 to convert into NFT-token votes."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa3294a571b4526310332a6602a3dec110125af61",
+    "url": "http://votechain.live/",
+    "explorers": [
+        "https://bscscan.com/token/0xa3294a571b4526310332a6602a3dec110125af61"
+    ],
+    "twitter": "Votechain_VBSC",
+    "telegram": "Votechainvbsc"
+}

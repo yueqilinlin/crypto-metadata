@@ -1,0 +1,25 @@
+{
+    "id": "solarite",
+    "symbol": "solarite",
+    "name": "Solarite",
+    "platforms": {
+        "ethereum": "0x930ed81ad809603baf727117385d01f04354612e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x930ed81ad809603baf727117385d01f04354612e",
+    "url": "https://pylon.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x930ed81ad809603baf727117385d01f04354612e",
+        "https://ethplorer.io/address/0x930ed81ad809603baf727117385d01f04354612e"
+    ],
+    "twitter": "SolaritePylon",
+    "telegram": "pylonfinance"
+}

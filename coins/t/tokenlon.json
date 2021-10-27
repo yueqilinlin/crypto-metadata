@@ -1,0 +1,25 @@
+{
+    "id": "tokenlon",
+    "symbol": "lon",
+    "name": "Tokenlon",
+    "platforms": {
+        "ethereum": "0x0000000000095413afc295d19edeb1ad7b71c952"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "LON is a utility token issued by the Tokenlon DEX, used to align all ecosystem stakeholders and incentivize participation and expansion of the ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0000000000095413afc295d19edeb1ad7b71c952",
+    "url": "https://tokenlon.im/",
+    "explorers": [
+        "https://etherscan.io/token/0x0000000000095413afc295d19edeb1ad7b71c952",
+        "https://ethplorer.io/address/0x0000000000095413afc295d19edeb1ad7b71c952"
+    ],
+    "twitter": "tokenlon"
+}

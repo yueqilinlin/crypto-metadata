@@ -1,0 +1,23 @@
+{
+    "id": "fate-token",
+    "symbol": "fate",
+    "name": "Fate Token",
+    "platforms": {
+        "binance-smart-chain": "0x7bf18db86ea31000a5290249362c6dbe9fb06608"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fate Token is the currency and utility tool of F.A.T.E. (Financial Assets & Tokenized Ecosystem). "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7bf18db86ea31000a5290249362c6dbe9fb06608",
+    "url": "https://fatecosystem.com",
+    "explorers": [
+        "https://bscscan.com/token/0x7bf18db86ea31000a5290249362c6dbe9fb06608"
+    ],
+    "twitter": "fate_token",
+    "telegram": "fatetoken",
+    "reddit": "FatCake/"
+}

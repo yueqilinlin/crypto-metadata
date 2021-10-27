@@ -1,0 +1,22 @@
+{
+    "id": "fantom-oasis",
+    "symbol": "ftmo",
+    "name": "Fantom Oasis",
+    "platforms": {
+        "fantom": "0x9bd0611610a0f5133e4dd1bfdd71c5479ee77f37"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FTMO is a project launchpad designed to jump-start the nascent Fantom ecosystem by providing both a means for innovative project developers and investors to connect. The platform will support and incubate fledgling products powered by Fantom\u2019s bleeding-edge efficiency and speed.\r\nFTMO is not simply a launchpad for projects on Fantom: it is a launchpad for the broader Fantom ecosystem as a whole. It is the mission of FTMO to bring the critical mass of users necessary for Fantom to stand on its own, with a robust developer community and a deep well of products and opportunities from which investors and developers alike can draw."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9bd0611610a0f5133e4dd1bfdd71c5479ee77f37",
+    "url": "https://oasislaunch.me/",
+    "explorers": [
+        "https://ftmscan.com/token/0x9bd0611610a0f5133e4dd1bfdd71c5479ee77f37"
+    ],
+    "twitter": "fantom_oasis",
+    "telegram": "fantom_oasis"
+}

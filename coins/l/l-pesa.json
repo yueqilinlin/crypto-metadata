@@ -1,0 +1,30 @@
+{
+    "id": "l-pesa",
+    "symbol": "lpk",
+    "name": "Kripton",
+    "platforms": {
+        "ethereum": "0x2cc71c048a804da930e28e93f3211dc03c702995",
+        "binance-smart-chain": "0x9b71b5511998e0798625b8fa74e86d8192de78c1",
+        "polygon-pos": "0x9b71b5511998e0798625b8fa74e86d8192de78c1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "L-Pesa is a financial technology platform providing new financial tools to consumers and small business in Africa and Asia. We allow people to create opportunities for themselves and their families. Borrowers on the L-Pesa platform use funds to start or grow a business, pay for education or otherwise support their ambition in life. Using a dedicated token on the blockchain means that all investors can benefit from the capital gain caused by the network effect. The coins are finite in supply, and as L-Pesa expands people can pay back their loans with the coins. People will also be able to use to LPK buy goods and services.\r\n\r\nL-Pesa Microfinance is a fintech startup poised to take advantage of the fast-growing need for financial services in the developing world. The company has validated its operating model over the past 24 months and has built sophisticated technology, automating most of the operation. Its primary barrier to growth at this point is its ability to fund user acquisition and loans. The loss ratio on loans runs below 10% while return on loans is approximately 25%.\r\n\r\nThe idea for L-Pesa was incubated for a decade, and the business was launched at the time four important market forces converged to allow scaling:\r\n\r\nBig Data, Artificial Intelligence & Blockchain\r\nAlternative Credit Data\r\nMobile Technology\r\nBiometric Identity\r\nL-Pesa has harnessed these market forces and built technology and a proprietary credit scoring model that allows it to quickly scale microlending in developing countries while keeping loss ratios below 10%. The solution is highly automated, allowing a small back office team to support high volume loan origination. All loans are serviced by L-Pesa."
+    },
+    "country_origin": "GI",
+    "genesis_date": null,
+    "contract_address": "0x2cc71c048a804da930e28e93f3211dc03c702995",
+    "url": "http://kriptonlpk.com ",
+    "explorers": [
+        "https://etherscan.io/token/0x2cc71c048a804da930e28e93f3211dc03c702995",
+        "https://bscscan.com/token/0x9b71b5511998e0798625b8fa74e86d8192de78c1",
+        "https://polygonscan.com/token/0x9b71b5511998e0798625b8fa74e86d8192de78c1",
+        "https://ethplorer.io/address/0x2cc71c048a804da930e28e93f3211dc03c702995"
+    ],
+    "twitter": "Lpkripton",
+    "facebook": "lpesaico",
+    "telegram": "KriptonLPK",
+    "reddit": "KriptonLpk/",
+    "github_org": "lpkripton"
+}

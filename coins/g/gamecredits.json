@@ -1,0 +1,31 @@
+{
+    "id": "gamecredits",
+    "symbol": "game",
+    "name": "GameCredits",
+    "platforms": {
+        "ethereum": "0x63f88a2298a5c4aee3c216aa6d926b184a4b2437",
+        "polygon-pos": "0x8d1566569d5b695d44a9a234540f68d393cdc40d"
+    },
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Software",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "The GAME Credits platform is a decentralized suite of unique tools that turns any game into a blockchain game. The platform seamlessly plugs into any online game via GAME Credits easy to use RESTful API suite and robust SDK. Offering an all-in-one solution, the GAME Credits platform delivers the following features to every online game in the world: GAME Foundry, GAME Rewards, GAME Tournament, and GAME Exchange."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-02-18",
+    "contract_address": "0x63f88a2298a5c4aee3c216aa6d926b184a4b2437",
+    "url": "https://gamecredits.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x63f88a2298a5c4aee3c216aa6d926b184a4b2437",
+        "https://ethplorer.io/address/0x63f88a2298a5c4aee3c216aa6d926b184a4b2437",
+        "https://polygonscan.com/token/0x63f88a2298a5c4aee3c216aa6d926b184a4b2437}"
+    ],
+    "twitter": "gamecredits",
+    "telegram": "gamecreditsglobal",
+    "reddit": "https://www.reddit.com",
+    "github_org": "gamecredits-project"
+}

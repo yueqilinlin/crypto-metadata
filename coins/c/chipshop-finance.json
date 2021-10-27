@@ -1,0 +1,23 @@
+{
+    "id": "chipshop-finance",
+    "symbol": "chips",
+    "name": "ChipShop Finance",
+    "platforms": {
+        "binance-smart-chain": "0x7a4feb21b86281f7d345dede500c9c51881b948b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CHIPS are the main tokens of the Chipshop Finance Protocol, pegged to BETH on Binance Smart Chain. Chipshop Finance is an experimental regional economy and one of the first algorithmic coins on the Binance Smart Chain (BSC)."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x7a4feb21b86281f7d345dede500c9c51881b948b",
+    "url": "https://chipshop.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x7a4feb21b86281f7d345dede500c9c51881b948b"
+    ],
+    "twitter": "ChipshopFinance",
+    "telegram": "chipshopfinance",
+    "github_org": "HeadChip"
+}

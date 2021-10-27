@@ -1,0 +1,23 @@
+{
+    "id": "phifi-finance",
+    "symbol": "phifiv2",
+    "name": "PhiFi Finance",
+    "platforms": {
+        "binance-smart-chain": "0x97e8987885c4bb46e883fa1a9d5eb060b155448f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Philanthropy Finance (PhiFi) is born from the necessity to create a healthier and balanced type of financial ecosystem. One where the profits are shared among its participants in a fair way; where the profits also are used to improve the world we live in.\r\n- rewards holders in pegged BTC\r\n- own community DEX\r\n- Mobile App\r\n- NFT charity marketplace\r\n- DeFi Platform\r\n- Donations (child) charities & adoption\r\n- NFT charity marketplace & charity token (also for Bridge)\r\n- Charity Bridge\r\n- Constant development of new features related to market sentiment"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x97e8987885c4bb46e883fa1a9d5eb060b155448f",
+    "url": "https://www.philanthropy-finance.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x97e8987885c4bb46e883fa1a9d5eb060b155448f"
+    ],
+    "twitter": "PhilanthropyFi",
+    "telegram": "Philanthropy_Finance",
+    "github_org": "phifinance"
+}

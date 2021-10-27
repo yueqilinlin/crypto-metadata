@@ -1,0 +1,23 @@
+{
+    "id": "trinity-network-credit",
+    "symbol": "tnc",
+    "name": "Trinity Network Credit",
+    "platforms": {
+        "neo": "08e8c4400f1af2c20c28e0018f29535eb85d15b6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Trinity acts as a lightning network for NEO in order to achieve real-time payments, low transaction fees, scalability, and privacy protection for NEO assets. Using state channel technology, Trinity will significantly increase blockchain throughput for NEP-5 token transfers."
+    },
+    "country_origin": "CN",
+    "genesis_date": "2018-01-11",
+    "contract_address": "08e8c4400f1af2c20c28e0018f29535eb85d15b6",
+    "url": "https://trinity.tech/",
+    "explorers": [
+        "https://neotracker.io/asset/08e8c4400f1af2c20c28e0018f29535eb85d15b6"
+    ],
+    "twitter": "TrinityProtocol",
+    "telegram": "TrinityStateChannels",
+    "github_org": "trinity-project"
+}

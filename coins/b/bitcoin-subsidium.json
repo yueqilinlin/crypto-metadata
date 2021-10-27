@@ -1,0 +1,21 @@
+{
+    "id": "bitcoin-subsidium",
+    "symbol": "xbtx",
+    "name": "Bitcoin Subsidium",
+    "platforms": {},
+    "hashing_algorithm": "x16r",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "BitcoinSubsidium (XBTX) is a complementary coin to TELOS and also part of the Transcendence Blockchain OpenSource project.\r\n\r\nUnlike TELOS which uses POS and Masternodes, XBTX uses POW and ASIC-resistant. Its effective to be mined only using CPU power."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "url": "https://bitcoin-subsidium.org/",
+    "explorers": [
+        "https://explorer.bitcoin-subsidium.org/"
+    ],
+    "twitter": "teloscoin",
+    "facebook": "Transcendence-Blockchain-480087789118201"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "arteon",
+    "symbol": "arteon",
+    "name": "Arteon",
+    "platforms": {
+        "ethereum": "0x897abf83f0c44b86cb67ec56c006c00d56659517"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The ARTEON token is an ERC20 that burns 0.001% of the amount sent from wallet A to wallet B with every transaction. As a result, with every act involving ARTEON, a small part of the total supply is burned.\r\n\r\nIn addition, Arteon wants to develop a staking and mining system that will use Arteon Graphic Cards (ERC-721 NFT's) to allow participants to generate a passive income.\r\n\r\nDue to our future plans to develop this system, ARTEON will be constantly minted but at the same time ARTEON will be burned by the transactions, and therefore there is a constantly fluctuating total and circulating supply.\r\n"
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x897abf83f0c44b86cb67ec56c006c00d56659517",
+    "url": "https://arteon.org",
+    "explorers": [
+        "https://etherscan.io/token/0x897abf83f0c44b86cb67ec56c006c00d56659517",
+        "https://ethplorer.io/address/0x897abf83f0c44b86cb67ec56c006c00d56659517"
+    ],
+    "twitter": "ArteonToken",
+    "telegram": "ARTEONDEFI"
+}

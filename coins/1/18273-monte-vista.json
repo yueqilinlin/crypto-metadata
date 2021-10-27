@@ -1,0 +1,27 @@
+{
+    "id": "18273-monte-vista",
+    "symbol": "realtoken-s-18273-monte-vista-st-detroit-mi",
+    "name": "RealT Token - 18273 Monte Vista St, Detroit, MI 48221",
+    "platforms": {
+        "ethereum": "0x9856c5ca15a4ac9c65aac090c38a9f39eb3b5eec",
+        "xdai": "0x9856c5ca15a4ac9c65aac090c38a9f39eb3b5eec"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9856c5ca15a4ac9c65aac090c38a9f39eb3b5eec",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x9856C5CA15A4Ac9C65AAC090c38a9f39EB3b5eeC",
+        "https://ethplorer.io/address/0x9856c5ca15a4ac9c65aac090c38a9f39eb3b5eec"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

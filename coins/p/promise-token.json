@@ -1,0 +1,23 @@
+{
+    "id": "promise-token",
+    "symbol": "promise",
+    "name": "Promise Token",
+    "platforms": {
+        "binance-smart-chain": "0xcbccf14b051947bdcd1e20b77015208a1ad5ea25"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Promise is the world's first BEP20 token based on trust. Our token guarantees a continuously increasing price because everyone who holds the token makes a promise to hold it for at least 15 days.\r\n\r\nThe Promise lottery is a decentralised Web3.0 lottery with built-in partner system and coordinator fees to strengthen the Promise ecosystem by automatically adding liquidity and burning tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcbccf14b051947bdcd1e20b77015208a1ad5ea25",
+    "url": "https://www.promisetoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xcbccf14b051947bdcd1e20b77015208a1ad5ea25"
+    ],
+    "twitter": "HODLPromise",
+    "telegram": "promisetokencommunity",
+    "reddit": "PROMISEToken/"
+}

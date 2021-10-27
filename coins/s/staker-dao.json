@@ -1,0 +1,25 @@
+{
+    "id": "staker-dao",
+    "symbol": "stkr",
+    "name": "Staker DAO",
+    "platforms": {
+        "ethereum": "0x89dcff5fd892f2bfc8b75dba12804b651f769579",
+        "tezos": "KT1AEfeckNbdEYwaMKkytBwPJPycz7jdSGea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x89dcff5fd892f2bfc8b75dba12804b651f769579",
+    "url": "https://www.stakerdao.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x89dcff5fd892f2bfc8b75dba12804b651f769579",
+        "https://ethplorer.io/address/0x89dcff5fd892f2bfc8b75dba12804b651f769579"
+    ],
+    "twitter": "stakerdao",
+    "telegram": "stakercommunity",
+    "github_org": "StakerDAO"
+}

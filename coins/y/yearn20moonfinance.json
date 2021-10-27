@@ -1,0 +1,26 @@
+{
+    "id": "yearn20moonfinance",
+    "symbol": "ymf20",
+    "name": "Yearn20Moon.Finance",
+    "platforms": {
+        "ethereum": "0x16be21c08eb27953273608629e4397556c561d26"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "Yearn20Moon Finance is a community project which empowers content creators by giving them the opportunity to interact with their audience in a permission less, private, and direct manner. No restrictions, no censorship (apart from ones required by law).\r\n\r\nThis token will contain the features of multiple DeFi protocols as well as farming and staking.\r\n\r\nCore Features are:\r\n\r\n- Derivatives utilize and execute DeFi derivatives instantly with full transparency across your open trade positions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x16be21c08eb27953273608629e4397556c561d26",
+    "url": "https://yearn20moon.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x16be21c08eb27953273608629e4397556c561d26",
+        "https://ethplorer.io/address/0x16be21c08eb27953273608629e4397556c561d26"
+    ],
+    "twitter": "ymoonfinance",
+    "telegram": "yearnmoon_finance",
+    "github_org": "Yearn20Moon"
+}

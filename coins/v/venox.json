@@ -1,0 +1,25 @@
+{
+    "id": "venox",
+    "symbol": "vnx",
+    "name": "Venox",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Cryptocurrency",
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Venox is a Proof of Stake Cryptocurrency [coin], based on the Zerocoin blockchain technology. It is a coin created by the community for the community.  It\u2019s primary goal is leading mobile application, staking development, privacy, and passive income through masternodes. "
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "url": "https://www.venox.info/",
+    "explorers": [
+        "http://explorer.venox.info/"
+    ],
+    "twitter": "VENOX_VNX",
+    "facebook": "VENOXCOIN",
+    "telegram": "VENOX",
+    "reddit": "Venox/",
+    "github_org": "venox-team"
+}

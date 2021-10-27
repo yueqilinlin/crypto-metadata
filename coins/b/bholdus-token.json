@@ -1,0 +1,23 @@
+{
+    "id": "bholdus-token",
+    "symbol": "bho",
+    "name": "Bholdus Token",
+    "platforms": {
+        "binance-smart-chain": "0x8717e80eff08f53a45b4a925009957e14860a8a8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bholdus is a multi-chain platform dedicated to decentralized financial (DeFi) applications and non-fungible tokens (NFTs). Through Bholdus, Crypto projects such as gamefi & metaverse related businesses may utilize tokenization to convert their valuable assets into NFTs and asset-based tokens as proof of creditworthiness for an unlimited access to different financial services in crypto space."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8717e80eff08f53a45b4a925009957e14860a8a8",
+    "url": "https://bholdus.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8717e80EfF08F53A45b4A925009957E14860A8a8"
+    ],
+    "twitter": "bholdus",
+    "telegram": "Bholdus_ENcommunity",
+    "github_org": "Bholdus"
+}

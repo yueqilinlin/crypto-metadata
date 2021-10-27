@@ -1,0 +1,23 @@
+{
+    "id": "shibawallet",
+    "symbol": "shwa",
+    "name": "ShibaWallet",
+    "platforms": {
+        "binance-smart-chain": "0x4a2940263acfd179dbc1c6b69a3392671accaf5b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Metaverse NFTs Wallet,Non-custodial entirely.\r\nStore all your NFTs and meme coins in a unified, secure single wallet. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4a2940263acfd179dbc1c6b69a3392671accaf5b",
+    "url": "https://shibawallet.pro/",
+    "explorers": [
+        "https://bscscan.com/token/0x4a2940263acfd179dbc1c6b69a3392671accaf5b"
+    ],
+    "twitter": "ShibaWalletPro",
+    "telegram": "ShibaWalletPro",
+    "github_org": "shibawallet"
+}

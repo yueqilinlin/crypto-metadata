@@ -1,0 +1,28 @@
+{
+    "id": "mossland",
+    "symbol": "moc",
+    "name": "Mossland",
+    "platforms": {
+        "ethereum": "0x865ec58b06bf6305b886793aa20a2da31d034e68"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Augmented Reality"
+    ],
+    "description": {
+        "en": "\u201cMossland\u201d is a location-based AR mobile game based on real estate. Users can identify real properties in vicinity, acquire and trade them in the game. Virtual properties in the game can be tradable and liquified through cryptocurrency exchange, so users will put time and effort to increase the value of their properties."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x865ec58b06bf6305b886793aa20a2da31d034e68",
+    "url": "http://moss.land/",
+    "explorers": [
+        "https://etherscan.io/token/0x865ec58b06bf6305b886793aa20a2da31d034e68",
+        "https://ethplorer.io/address/0x865ec58b06bf6305b886793aa20a2da31d034e68"
+    ],
+    "twitter": "TheMossland",
+    "facebook": "TheMossland",
+    "telegram": "mossland",
+    "reddit": "Mossland/",
+    "github_org": "realityreflection"
+}

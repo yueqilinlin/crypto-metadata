@@ -1,0 +1,26 @@
+{
+    "id": "kava-lend",
+    "symbol": "HARD",
+    "name": "Kava Lend",
+    "platforms": {
+        "kava": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Launchpool",
+        "Cosmos Ecosystem",
+        "Lending/Borrowing",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://kava.io/lend",
+    "explorers": [
+        "https://www.mintscan.io/kava"
+    ],
+    "twitter": "hard_protocol",
+    "telegram": "hard_protocol"
+}

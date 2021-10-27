@@ -1,0 +1,23 @@
+{
+    "id": "syndex",
+    "symbol": "synd",
+    "name": "SynDEX",
+    "platforms": {
+        "binance-smart-chain": "0xe2fd51755e84d01d865e869f284ae03c995f8f2c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SynDEX protocol is a decentralized crypto volatility index with an elastic supply. It is designed to systematically and automatically track the market performance of the components constituting the SynDEX Index by neutralizing market capitalization dominance and measuring real-time volatility.\r\n\r\nThe SynDEX Index tracks the growth and adoption of the 10 key crypto assets that are selected on the basis of market trends, permeation, liquidity, and cross-asset interdependency."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xe2fd51755e84d01d865e869f284ae03c995f8f2c",
+    "url": "https://www.syndex.codes/",
+    "explorers": [
+        "https://bscscan.com/token/0xe2fd51755e84d01d865e869f284ae03c995f8f2c"
+    ],
+    "twitter": "SyndexP",
+    "telegram": "syndexprotocol",
+    "github_org": "syndexprotocol"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "solberry",
+    "symbol": "solberry",
+    "name": "SolBerry",
+    "platforms": {
+        "solana": "EWS2ATMt5fQk89NWLJYNRmGaNoji8MhFZkUB4DiWCCcz"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SOLBERRY is a DEX project which is built on Solana and fork of SERUM DEX. Our aim is to build a SuperFast Dex for Solana Blockchain Community members .We are consistently working on our DEX GUI and project for making it Simple and Fast.  We aim to implement Swaps and Leverage trading on our dex too. SolBerry project also working on NFT  Token which we will airdrop Solberry holder . In future Solberry will work on price tracking tools for Solana Projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "EWS2ATMt5fQk89NWLJYNRmGaNoji8MhFZkUB4DiWCCcz",
+    "url": "https://solberry.tech/",
+    "explorers": [
+        "https://solscan.io/token/EWS2ATMt5fQk89NWLJYNRmGaNoji8MhFZkUB4DiWCCcz"
+    ],
+    "twitter": "BerrySol",
+    "telegram": "solberry_tg",
+    "github_org": "SolBerryDev"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "bitcomine",
+    "symbol": "bme",
+    "name": "BitcoMine",
+    "platforms": {
+        "binance-smart-chain": "0xbcba01f7d6cc0a950464a4b98ba8358c4f6b69a0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We are delighted to be the first project which adopts the fully automated multi rewarding mechanisms, such as BTC daily rewarding model, the $BME rewarding model, and our BitcoCycle model, the seasonal investment program to reward our community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbcba01f7d6cc0a950464a4b98ba8358c4f6b69a0",
+    "url": "https://bitcominetoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xbcba01f7d6cc0a950464a4b98ba8358c4f6b69a0"
+    ],
+    "twitter": "bitcominetoken",
+    "telegram": "bitcominetoken"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "gamefi-token",
+    "symbol": "gfi",
+    "name": "GameFi Token",
+    "platforms": {
+        "binance-smart-chain": "0xdd6c6c114db071efe0bab6051268227ce64c3ffe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GameFi Protocol is the first GameFi mining pool protocol, aiming to build the first global Gamefi aggregation platform, and its governance token is GFI. The holders of this token spontaneously form GFP-DAO. Conduct community governance of GameFi Protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdd6c6c114db071efe0bab6051268227ce64c3ffe",
+    "url": "https://gamefi.ai/",
+    "explorers": [
+        "https://bscscan.com/token/0xdd6c6c114db071efe0bab6051268227ce64c3ffe"
+    ],
+    "twitter": "GamefiProtocol",
+    "telegram": "GamefiProtocol",
+    "github_org": "gamefiProtocol"
+}

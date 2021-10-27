@@ -1,0 +1,26 @@
+{
+    "id": "bezant",
+    "symbol": "bznt",
+    "name": "Bezant",
+    "platforms": {
+        "ethereum": "0xe1aee98495365fc179699c1bb3e761fa716bee62"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "The Bezant Blockchain is a Service platform providing Content developers and eCommerce merchants a disruptive way to sell to customers.\r\nAllow anyone to setup their own Content or Commerce store and send/receive payments from anywhere in the world using local payment methods.\r\nThe BZNT token will serve as the native cryptocurrency and medium of exchange within the Bezant platform which will eliminate expensive Store fees (30%) and provides instant P2P payments to merchants."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xe1aee98495365fc179699c1bb3e761fa716bee62",
+    "url": "https://bezant.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xe1aee98495365fc179699c1bb3e761fa716bee62",
+        "https://ethplorer.io/address/0xe1aee98495365fc179699c1bb3e761fa716bee62"
+    ],
+    "twitter": "bezant_io",
+    "facebook": "bezantofficial",
+    "telegram": "bezant_official"
+}

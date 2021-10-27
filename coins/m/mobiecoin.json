@@ -1,0 +1,26 @@
+{
+    "id": "mobiecoin",
+    "symbol": "mbx",
+    "name": "MobieCoin",
+    "platforms": {
+        "stellar": "0x71ba91dc68c6a206db0a6a92b4b1de3f9271432d",
+        "binance-smart-chain": "0x064c8e55aa484adbd58ca2d43343ef50137473b7",
+        "ethereum": "0x71ba91dc68c6a206db0a6a92b4b1de3f9271432d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Universal Payments & Rewards Ecosystem"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x71ba91dc68c6a206db0a6a92b4b1de3f9271432d",
+    "url": "http://mobie.io",
+    "explorers": [
+        "https://stellarchain.io/address/GD5ASA7ODHQ2PNI7EXJF2XPEWQDLYNJ4KGIVPE4E5CSQZJ4O7EMJNPPL"
+    ],
+    "twitter": "Mobie_Pay",
+    "facebook": "MobiePay",
+    "telegram": "mobiepaycommunity",
+    "reddit": "MobiePay/"
+}

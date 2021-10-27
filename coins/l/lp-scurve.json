@@ -1,0 +1,26 @@
+{
+    "id": "lp-scurve",
+    "symbol": "sCurve",
+    "name": "LP-sCurve",
+    "platforms": {
+        "ethereum": "0xc25a3a3b969415c80451098fa907ec722572917f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "USD Stablecoin",
+        "LP Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc25a3a3b969415c80451098fa907ec722572917f",
+    "url": "https://www.curve.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0xC25a3A3b969415c80451098fa907EC722572917F",
+        "https://ethplorer.io/address/0xc25a3a3b969415c80451098fa907ec722572917f"
+    ],
+    "github_org": "curvefi"
+}

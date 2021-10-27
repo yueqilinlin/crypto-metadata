@@ -1,0 +1,20 @@
+{
+    "id": "earnscoin",
+    "symbol": "ern",
+    "name": "Earnscoin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "Earnscoin (ERN) is a digital crypto currency based on blockchain technology for masternode passive income, earnings and cross-border payments. \r\n\r\nEarnscoin utilizes a Proof of Stake (PoS) consensus system algorithm, allowing all owners of ERN to participate in earning block rewards while securing the network with full node wallets in a decentralized system, as well as to run Masternode to have passive income of Earnscoin. ERN affords financial freedom from bureaucratic regulators by implementing decentralized governance , user anonymity and transaction speed on the ERNs network"
+    },
+    "country_origin": "LU",
+    "genesis_date": null,
+    "url": "https://earnscoin.com/",
+    "explorers": [
+        "https://explorer.earnscoin.com/"
+    ],
+    "twitter": "earnscoin",
+    "telegram": "earnscoin",
+    "github_org": "earnscoin"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "bitcoin-lightning",
+    "symbol": "bltg",
+    "name": "Block-Logic",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Block-Logic Technology Group (Block-Logic) was established in June 2018 as a reinvention of the Bitcoin Lightning project formed in late 2017. \r\n\r\nOur mission is to bring the benefits of Blockchain and decentralised services to Consumers and Small to Medium Enterprises. We will transform these technologies from catchphrases to a usable set of services that will add incredible value to our customers. By developing a decentralised Eco-system, Block-Logic will bring to market products that are easy to access, use and migrate to in addition to simple to administer. These products and services will extend the use of Blockchain in ways consumers are not able to today.\r\n\r\nBlock-Logic is building the next generation Peer-to-Peer Intelligent Data Platform. This Ecosystem will be backed by the following core services:\r\n\r\nBlock-Protect: A method that allows consumers and businesses to store and retrieve their digital files in a safe, secure, encrypted manner. This platform will be extended to provide business with permanent and immutable copy of their data for record keeping which can comply with strict business requirement around data retention.\r\n\r\nBlock-Pay: A method that allows businesses and individuals to pay for goods with our native token (BLTG).\r\n\r\nBlock-Purchase: A method for business to sell goods online with the ability to accept fiat/cryptocurrency for the payment of goods.\r\n\r\nAll services will be made accessible through industry standard Application Programming Interfaces (API), enabling the integration between not only products developed by Block-Logic but also partners and 3rd party developers"
+    },
+    "country_origin": "",
+    "genesis_date": "2018-10-20",
+    "url": "https://block-logic.com/",
+    "explorers": [
+        "http://explorer.block-logic.com/"
+    ],
+    "twitter": "BlockLogicTech",
+    "facebook": "BlockLogicTechnology",
+    "telegram": "BlockLogic_BLTG",
+    "github_org": "Block-Logic-Technology-Group"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "owl",
+    "symbol": "owl",
+    "name": "OWL",
+    "platforms": {
+        "ethereum": "0x1a5f9352af8af974bfc03399e3767df6370d82e4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OWL is an ERC20 token that can only be created by locking GNO. OWL can be used to pay the equivalent of 1 USD in fees or contributions toward liquidity on Gnosis platforms and protocols."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1a5f9352af8af974bfc03399e3767df6370d82e4",
+    "url": "https://owl.gnosis.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x1a5f9352af8af974bfc03399e3767df6370d82e4",
+        "https://ethplorer.io/address/0x1a5f9352af8af974bfc03399e3767df6370d82e4"
+    ],
+    "twitter": "gnosisPM",
+    "facebook": "Gnosis.pm",
+    "reddit": "gnosisPM/"
+}

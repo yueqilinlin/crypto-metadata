@@ -1,0 +1,30 @@
+{
+    "id": "superfarm",
+    "symbol": "super",
+    "name": "SuperFarm",
+    "platforms": {
+        "ethereum": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+        "binance-smart-chain": "0x51ba0b044d96c3abfca52b64d733603ccc4f0d4d",
+        "polygon-pos": "0xa1428174f516f527fafdd146b883bb4428682737"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Collectibles",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "SuperFarm is a cross-chain DeFi protocol that allows users to deploy crypto and NFT farms with no code required !"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+    "url": "http://superfarm.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+        "https://ethplorer.io/address/0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+        "https://polygonscan.com/token/0xa1428174f516f527fafdd146b883bb4428682737"
+    ],
+    "twitter": "SuperFarmDao",
+    "telegram": "SuperFarmDAO"
+}

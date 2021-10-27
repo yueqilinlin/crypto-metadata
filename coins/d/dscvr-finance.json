@@ -1,0 +1,24 @@
+{
+    "id": "dscvr-finance",
+    "symbol": "dscvr",
+    "name": "DSCVR.Finance",
+    "platforms": {
+        "ethereum": "0x3ee6e46f52c475c52040b934745501f2a0cea252"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "A Decentralized Auction platform & Token Database. http://DSCVR.Finance will be the first stop when looking for information on upcoming raises or newly listed tokens."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x3ee6e46f52c475c52040b934745501f2a0cea252",
+    "url": "https://dscvr.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x3ee6e46f52c475c52040b934745501f2a0cea252",
+        "https://ethplorer.io/address/0x3ee6e46f52c475c52040b934745501f2a0cea252"
+    ],
+    "telegram": "DSCVRFinance"
+}

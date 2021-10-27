@@ -1,0 +1,23 @@
+{
+    "id": "turkiye-basketbol-federasyonu-token",
+    "symbol": "tbft",
+    "name": "Turkiye Basketbol Federasyonu Token",
+    "platforms": {
+        "Bitcichain": "0xa3225ae74e9a92f8deef5b857100b31259b998db"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fan Token",
+        "Sports"
+    ],
+    "description": {
+        "en": "Turkish Basketball Federation ( TBF ) is an autonomous sports federation that was established in Istanbul in 1959 and organizes basketball organizations in Turkey . It is a member of FIBA and ULEB . The current president of the federation is Hidayet T\u00fcrko\u011flu .\r\n\r\nThe Turkish Basketball Federation organizes three men's basketball leagues and two women's basketball leagues. In addition, TBF organizes men's and women's league championships, the Turkish Cup and the presidential cup every year."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa3225ae74e9a92f8deef5b857100b31259b998db",
+    "url": "https://www.bitci.com/",
+    "explorers": [
+        "https://bitciexp.bitcichain.com/tokens/0xa3225ae74E9a92f8deEf5b857100B31259B998db/token_transfers"
+    ]
+}

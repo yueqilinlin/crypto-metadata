@@ -1,0 +1,23 @@
+{
+    "id": "marshmellowdefi",
+    "symbol": "mash",
+    "name": "MarshmallowDeFi",
+    "platforms": {
+        "binance-smart-chain": "0x787732f27d18495494cea3792ed7946bbcff8db2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MarshmallowDeFi (MASH) is the next generation of Automated Market Making (AMM) decentralized exchange with a deflationary governance token model. We are your go-to yield farm running on Binance Smart Chain and Pancakeswap exchange, with lots of other features that let you earn tokens. As with the current wave of second-generation yield farms, the aim is to create a perpetual deflation token, the MASH, with a continual burn mechanism in order to field an environment that can sustain long-term gains with consistently high APR for greater earnings."
+    },
+    "country_origin": "CZ",
+    "genesis_date": null,
+    "contract_address": "0x787732f27d18495494cea3792ed7946bbcff8db2",
+    "url": "https://marshmallowdefi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x787732f27d18495494cea3792ed7946bbcff8db2"
+    ],
+    "twitter": "SwapMarshmallow",
+    "telegram": "MarshmallowDeFi",
+    "github_org": "MarshmallowSwap"
+}

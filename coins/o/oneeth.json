@@ -1,0 +1,24 @@
+{
+    "id": "oneeth",
+    "symbol": "oneeth",
+    "name": "oneETH",
+    "platforms": {
+        "ethereum": "0xec0d77a58528a218cbf41fa6e1585c8d7a085868"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "oneETH is a stablecoin for the Ethereum community. You must buy wETH to mint oneETH. You can use oneETH to buy or sell goods and services, pay expenses and taxes, or to create USD exposure in DeFi (decentralized finance) applications.\r\n\r\noneETH provides the hard peg of USDC/USDT without sacrificing decentralization nor giving up on driving Ethereum scarcity.\r\n\r\noneETH keeps its value at $1, is purely on-chain, and accrues an Ethereum treasury.\r\n\r\nTypically, when you want to make a trade and get out of Ethereum to \u2018get stable\u2019, you need to trade Ethereum into a stablecoin. Now you\u2019re in an either/or scenario. Whether USDT, USDC, DAI, these other stablecoins capture value for themselves and do not drive the value of your Bitcoin hodlings. Remember, you just sold it to get stable.\r\n\r\nEnter ICHI. With ICHI, you mint oneETH with wETH.  In the process, you grow n Ethereum treasury that YOU govern and control."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xec0d77a58528a218cbf41fa6e1585c8d7a085868",
+    "url": "https://www.ichi.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xEc0d77a58528a218cBf41Fa6E1585c8D7A085868",
+        "https://ethplorer.io/address/0xEc0d77a58528a218cBf41Fa6E1585c8D7A085868"
+    ],
+    "twitter": "ichifarm",
+    "telegram": "ichifarm",
+    "github_org": "ichifarm"
+}

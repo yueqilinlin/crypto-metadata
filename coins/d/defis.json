@@ -1,0 +1,22 @@
+{
+    "id": "defis",
+    "symbol": "xgm",
+    "name": "Defis",
+    "platforms": {},
+    "hashing_algorithm": "Equihash",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "A next generation Decentralized Financial System. Defis is built on top of the cryptographic primitives. Owners of different cryptocurrencies can earn interest, borrow, exchange, and create custom cryptocurrencies on Defis all in a completely decentralized and anonymous manner."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://defisystem.io",
+    "explorers": [
+        "https://explorer.defisystem.io"
+    ],
+    "twitter": "defisystem",
+    "telegram": "grimmw",
+    "github_org": "freenetcoder"
+}

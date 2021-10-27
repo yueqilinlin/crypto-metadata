@@ -1,0 +1,22 @@
+{
+    "id": "shiba-moon",
+    "symbol": "shibm",
+    "name": "Shiba Moon",
+    "platforms": {
+        "binance-smart-chain": "0x954be3e377661a2b01841e487ca294c4204dbb79"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x954be3e377661a2b01841e487ca294c4204dbb79",
+    "url": "https://www.shibamoon.co/",
+    "explorers": [
+        "https://bscscan.com/token/0x954be3e377661a2b01841e487ca294c4204dbb79"
+    ],
+    "twitter": "HqShibaMoon",
+    "telegram": "shibamoonbsc"
+}

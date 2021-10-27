@@ -1,0 +1,25 @@
+{
+    "id": "change",
+    "symbol": "cag",
+    "name": "Change",
+    "platforms": {
+        "ethereum": "0x7d4b8cce0591c9044a22ee543533b72e976e36c3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Change is a rapidly growing FinTech providing everyone in Europe access to exciting investments. Thousands of people from 31 EU countries trust Change to build their financial future and have traded over 85+ million euros.\r\n\r\nCAG token will be used to purchase services through Change. Currently, users can order a debit card using CAG through our customer support team."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-09-09",
+    "contract_address": "0x7d4b8cce0591c9044a22ee543533b72e976e36c3",
+    "url": "https://www.changeinvest.com",
+    "explorers": [
+        "https://etherscan.io/token/0x7d4b8cce0591c9044a22ee543533b72e976e36c3",
+        "https://ethplorer.io/address/0x7d4b8cce0591c9044a22ee543533b72e976e36c3"
+    ],
+    "twitter": "changefinance",
+    "facebook": "changeinvest",
+    "telegram": "ChangeBank",
+    "github_org": "ChangeFinance"
+}

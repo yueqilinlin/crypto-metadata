@@ -1,0 +1,26 @@
+{
+    "id": "knit-finance",
+    "symbol": "kft",
+    "name": "Knit Finance",
+    "platforms": {
+        "ethereum": "0xef53462838000184f35f7d991452e5f25110b207",
+        "binance-smart-chain": "0x1b41a1ba7722e6431b1a782327dbe466fe1ee9f9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xef53462838000184f35f7d991452e5f25110b207",
+    "url": "https://knit.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xEF53462838000184F35f7D991452e5f25110b207",
+        "https://ethplorer.io/address/0xEF53462838000184F35f7D991452e5f25110b207"
+    ],
+    "twitter": "knitfinance",
+    "facebook": "knitfinance",
+    "telegram": "knitfinance",
+    "github_org": "KnitFinance"
+}

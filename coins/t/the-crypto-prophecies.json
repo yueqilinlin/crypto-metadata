@@ -1,0 +1,27 @@
+{
+    "id": "the-crypto-prophecies",
+    "symbol": "tcp",
+    "name": "The Crypto Prophecies",
+    "platforms": {
+        "ethereum": "0x06576eb3b212d605b797dc15523d9dc9f4f66db4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "The Crypto Prophecies is a decentralised peer-to-peer price prediction game that has NFT characters and magic items. A wager based game where players go head-to-head and battle it out over the candles, predicting how each one will close.\r\n\r\nTCP is the native token that is used for: * Wager in all game modes * Purchasing of characters and items * Payment of the Kingdom fee * Daily prize pool for rewards * Leaderboard prizes * Access to time limited events * Platform governance and voting"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x06576eb3b212d605b797dc15523d9dc9f4f66db4",
+    "url": "https://www.thecryptoprophecies.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x06576eB3B212d605B797dC15523d9Dc9F4F66DB4",
+        "https://ethplorer.io/address/0x06576eB3B212d605B797dC15523d9Dc9F4F66DB4"
+    ],
+    "twitter": "crypto_prophets",
+    "telegram": "cryptoprophecies",
+    "github_org": "quazard-gaming"
+}

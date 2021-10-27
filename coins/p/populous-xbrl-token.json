@@ -1,0 +1,27 @@
+{
+    "id": "populous-xbrl-token",
+    "symbol": "pxt",
+    "name": "Populous XBRL Token",
+    "platforms": {
+        "ethereum": "0xc14830e53aa344e8c14603a91229a0b925b0b262"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "The PopDeFi is a trade finance, lending and borrowing protocol designed to bridge the gap between crypto and real world assets."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xc14830e53aa344e8c14603a91229a0b925b0b262",
+    "url": "https://bi.populous.world/ ",
+    "explorers": [
+        "https://etherscan.io/token/0xc14830e53aa344e8c14603a91229a0b925b0b262",
+        "https://ethplorer.io/address/0xc14830e53aa344e8c14603a91229a0b925b0b262"
+    ],
+    "twitter": "BitPopulous",
+    "facebook": "populousworld",
+    "telegram": "PopulousXP",
+    "github_org": "bitpopulous"
+}

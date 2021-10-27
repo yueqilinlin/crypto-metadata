@@ -1,0 +1,33 @@
+{
+    "id": "uma",
+    "symbol": "uma",
+    "name": "UMA",
+    "platforms": {
+        "ethereum": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+        "avalanche": "0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339",
+        "sora": "0x00e40bcd6ee5363d3abbb4603273aa2f6bb89e29323729e884a8ef9c991fe73e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Synthetic Issuer",
+        "Derivatives",
+        "Governance",
+        "Decentralized Finance (DeFi)",
+        "Business Services",
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "UMA is a decentralized financial contracts platform built to enable Universal Market Access.\r\n\r\nUMA builds infrastructure for \u201cpriceless\u201d financial contracts: DeFi contracts that minimize oracle usage, avoiding many of the security and scalability issues that have plagued decentralized finance. The first contracts built with UMA are priceless synthetic tokens: ERC20 tokens that can track anything while minimizing the need for on-chain price data.\r\n\r\nThe UMA project token powers the system in two ways:\r\n\r\nGovernance: UMA token holders govern what types of contracts can access the system, which asset types are supported, and key system parameters and upgrades.\r\n\r\nPrice requests: the priceless methodology minimizes on-chain price requests but doesn\u2019t eliminate them \u2014 when contract interactions are disputed, UMA token holders fulfill price requests via the Data Verification Mechanism, or DVM.\r\n\r\nUMA tokens enable the holder to participate in community governance and resolve contract disputes through the DVM. The tokens are not an investment opportunity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+    "url": "https://umaproject.org",
+    "explorers": [
+        "https://etherscan.io/token/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+        "https://ethplorer.io/address/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828"
+    ],
+    "twitter": "UMAprotocol",
+    "github_org": "UMAprotocol"
+}

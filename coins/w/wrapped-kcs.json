@@ -1,0 +1,20 @@
+{
+    "id": "wrapped-kcs",
+    "symbol": "wkcs",
+    "name": "Wrapped KCS",
+    "platforms": {
+        "kucoin-community-chain": "0x4446fc4eb47f2f6586f9faab68b3498f86c07521"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wrapped Kucoin Token is the KRC-20 wrapped version of the Kucoin Token (KCS) used in Kucoin Community Chain (KCC)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4446fc4eb47f2f6586f9faab68b3498f86c07521",
+    "url": "https://kcc.io/",
+    "explorers": [
+        "https://explorer.kcc.io/en/token/0x4446fc4eb47f2f6586f9faab68b3498f86c07521"
+    ]
+}

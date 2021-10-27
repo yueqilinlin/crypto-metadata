@@ -1,0 +1,24 @@
+{
+    "id": "farmland-protocol",
+    "symbol": "far",
+    "name": "Farmland Protocol",
+    "platforms": {
+        "ethereum": "0xaae3cf9968d26925bdb73ce3864e0084a20f4687"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Farmland Protocol is founded by a group of blockchain and DeFi experts, with years of experience in finance, derivatives, dApp development and decentralized organization management. The team used to work in top-tier blockchain companies and start-ups, and are graduates of famous universities from all over the world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaae3cf9968d26925bdb73ce3864e0084a20f4687",
+    "url": "https://www.farmland.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xAaE3Cf9968D26925BDb73cE3864e0084a20f4687",
+        "https://ethplorer.io/address/0xAaE3Cf9968D26925BDb73cE3864e0084a20f4687"
+    ],
+    "twitter": "FarmlandFi",
+    "telegram": "farmlandfi",
+    "github_org": "farmland-finance"
+}

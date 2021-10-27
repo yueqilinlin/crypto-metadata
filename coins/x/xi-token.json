@@ -1,0 +1,23 @@
+{
+    "id": "xi-token",
+    "symbol": "xi",
+    "name": "Xi Token",
+    "platforms": {
+        "ethereum": "0x295b42684f90c77da7ea46336001010f2791ec8c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The XI Protocol implements a Decentralized Supercomputer through Cascade Computing for Eventually Correct Metaoracles. By implementing sequential anti-sybil and computing\r\nphases with XI staking and oracle commit-reveal schema, the architecture outsources multi-agent distributed consensus.\r\n\r\nApplications of the XI Protocol include utility for purchasing time on satellite advertising and utility as rewards for solutions to open mathematical problems. The XI Protocol intends to establish an interplanetary decentralized platform for providing financial incentives to outsourced forecasting of the truth and participate in new economic models for questions and answers."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x295b42684f90c77da7ea46336001010f2791ec8c",
+    "url": "https://xiprotocol.io",
+    "explorers": [
+        "https://etherscan.io/token/0x295b42684f90c77da7ea46336001010f2791ec8c",
+        "https://ethplorer.io/address/0x295b42684f90c77da7ea46336001010f2791ec8c"
+    ],
+    "twitter": "geometricenergy",
+    "telegram": "SpaceGreeks"
+}

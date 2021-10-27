@@ -1,0 +1,24 @@
+{
+    "id": "duo",
+    "symbol": "duo",
+    "name": "DUO Network",
+    "platforms": {
+        "ethereum": "0x56e0b2c7694e6e10391e870774daa45cf6583486"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DUO a dual-class token structure that, combined with smart contract governed rules and market arbitrage mechanism, provides principal-guaranteed fixed incomes and leveraged capital gains for holders of each class, respectively.\r\n\r\nClass A Token also known as the Income Token, continuously accumulates interests based on its original net value at last Reset event. It will also receive token payments at each Reset event.\r\nClass B Token also known as the Leverage Token, entitles leveraged participation of the underlying digital assets.\r\nThe Custodian smart contract performs multiple tasks that facilitate key mechanism of the system, including: creation and redemption of DUO tokens, safekeeping the underlying digital assets (e.g. ETH), calculation of tokens\u2019 net values, and execution of Reset events."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x56e0b2c7694e6e10391e870774daa45cf6583486",
+    "url": "https://duo.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x56e0b2c7694e6e10391e870774daa45cf6583486",
+        "https://ethplorer.io/address/0x56e0b2c7694e6e10391e870774daa45cf6583486"
+    ],
+    "twitter": "duo_network",
+    "telegram": "duonetwork",
+    "github_org": "FinBook"
+}

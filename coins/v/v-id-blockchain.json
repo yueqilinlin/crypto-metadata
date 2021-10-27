@@ -1,0 +1,34 @@
+{
+    "id": "v-id-blockchain",
+    "symbol": "vidt",
+    "name": "VIDT Datalink",
+    "platforms": {
+        "ethereum": "0xfef4185594457050cc9c23980d301908fe057bb1",
+        "binance-smart-chain": "0x3f515f0a8e93f2e2f891ceeb3db4e62e202d7110"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Artificial Intelligence",
+        "Binance Smart Chain Ecosystem",
+        "Play To Earn",
+        "Gaming",
+        "Non-Fungible Tokens (NFT)",
+        "Business Services"
+    ],
+    "description": {
+        "en": "Introducing VIDT Datalink: A hybrid data validation platform using several blockchains & already in use by numerous integrators like IBM, V-ID, LTO Network, Procentec & Navarik"
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0xfef4185594457050cc9c23980d301908fe057bb1",
+    "url": "https://vidt-datalink.com",
+    "explorers": [
+        "https://etherscan.io/token/0xfeF4185594457050cC9c23980d301908FE057Bb1",
+        "https://ethplorer.io/address/0xfef4185594457050cc9c23980d301908fe057bb1",
+        "https://explorer.binance.org/asset/VIDT-F53"
+    ],
+    "twitter": "VIDT_Datalink",
+    "telegram": "vidtoken",
+    "reddit": "vidt/",
+    "github_org": "V-ID"
+}

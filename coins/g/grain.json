@@ -1,0 +1,23 @@
+{
+    "id": "grain",
+    "symbol": "grain",
+    "name": "Grain Token",
+    "platforms": {
+        "binance-smart-chain": "0x3965e8778e555608af5b1956f6ffb1f0003fc3d0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GRAIN is the 2nd token of United Farmers Finance UFF. GRAIN is there to back up UFF. GRAIN is part of our Circulating Pools, where you can stake UFF to earn GRAIN.\r\n\r\nUnited Farmers is an entire ecosystem with yield farming and automated market-making (AMM) for the BSC network. We introduce Yield Farm, Staking Pools, Decentralized Exchange (DEX) and Info Service. The solid and secure foundation with our own UFF token as our center service. United Farmers is built by a dedicated professional team. We will be committed to the growth and success of the ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3965e8778e555608af5b1956f6ffb1f0003fc3d0",
+    "url": "https://www.unitedfarmers.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x3965E8778e555608aF5B1956f6fFb1F0003Fc3d0"
+    ],
+    "twitter": "UnitedFarmersF",
+    "telegram": "united_farmers_defi",
+    "github_org": "united-farmers-finance"
+}

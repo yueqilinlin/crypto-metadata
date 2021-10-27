@@ -1,0 +1,27 @@
+{
+    "id": "crypto20",
+    "symbol": "c20",
+    "name": "CRYPTO20",
+    "platforms": {
+        "ethereum": "0x26e75307fc0c021472feb8f727839531f112f317"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "CRYPTO20 is an autonomous crypto-only index fund that tracks the top 20 cryptocurrencies in the same way the S&P500 tracks the top 500 US company stocks. C20 is the fund\u2019s token, and represents an investor\u2019s share in the fund. Token-holders are able to liquidate the C20 token for their share of the underlying assets via the smart contract."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x26e75307fc0c021472feb8f727839531f112f317",
+    "url": "https://crypto20.com/en/",
+    "explorers": [
+        "https://etherscan.io/token/0x26e75307fc0c021472feb8f727839531f112f317",
+        "https://ethplorer.io/address/0x26e75307fc0c021472feb8f727839531f112f317"
+    ],
+    "twitter": "CRYPTOtwenty",
+    "facebook": "cryptotwenty",
+    "telegram": "crypto20",
+    "github_org": "cryptotwenty"
+}

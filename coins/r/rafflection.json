@@ -1,0 +1,23 @@
+{
+    "id": "rafflection",
+    "symbol": "raff",
+    "name": "Rafflection",
+    "platforms": {
+        "binance-smart-chain": "0x683b98716c1bde0d7de9362ec304e7f81a6c68ab"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rafflection is a self-deflating, automatic yield and liquidity injecting protocol with a new way of rewarding holders. It has an 8% tax on every transaction, 4% is rewarded to holders, 2% split in half, half sold for BNB and together with the other half injected into the liquidity and the last 2% is sent to the Raffle contract. \r\n\r\nThe new way of rewarding the holders is a Raffle mechanism that is decentralized and every 4 hours (down from 8 initially and community driven) choses a random address and rewards them 50% of their balance (with some limitations from whales) automatically and without needing to press participate or claim. We think that people who invest in this kind of DeFi projects are big on risks and this just satisfies their risk management. \r\n\r\nWe already have a beta version of a dashboard where you can see the raffle statistics http://app.rafflection.net/ which was the first thing on the roadmap and now will continue developing a gaming ecosystem around Rafflection where you would be able to gamble your RAFF."
+    },
+    "country_origin": "RO",
+    "genesis_date": null,
+    "contract_address": "0x683b98716c1bde0d7de9362ec304e7f81a6c68ab",
+    "url": "https://rafflection.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x683b98716c1bde0d7de9362ec304e7f81a6c68ab"
+    ],
+    "twitter": "rafflection",
+    "reddit": "Rafflection/",
+    "github_org": "rafflection"
+}

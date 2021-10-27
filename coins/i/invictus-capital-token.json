@@ -1,0 +1,24 @@
+{
+    "id": "invictus-capital-token",
+    "symbol": "icap",
+    "name": "Invictus Capital Token",
+    "platforms": {
+        "ethereum": "0xd83c569268930fadad4cde6d0cb64450fef32b65"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The ICAP token is a disinflationary rewards token paid to investors on the Invictus Capital platform who opt to stake their investment fund tokens for pre-determined periods of time. The token derives its value from a share of management and performance fees from the suite of funds that are allocated to the buy-and-burn of ICAP tokens from secondary markets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd83c569268930fadad4cde6d0cb64450fef32b65",
+    "url": "https://invictuscapital.com/en/icap",
+    "explorers": [
+        "https://etherscan.io/token/0xd83C569268930fadAd4cdE6D0cB64450fef32b65",
+        "https://ethplorer.io/address/0xd83c569268930fadad4cde6d0cb64450fef32b65"
+    ],
+    "twitter": "ic_invictus",
+    "telegram": "invictus_capital",
+    "reddit": "InvictusCapital/"
+}

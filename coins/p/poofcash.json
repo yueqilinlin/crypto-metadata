@@ -1,0 +1,23 @@
+{
+    "id": "poofcash",
+    "symbol": "poof",
+    "name": "PoofCash",
+    "platforms": {
+        "celo": "0x00400fcbf0816bebb94654259de7273f4a05c762"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Poof.cash is a fully decentralized privacy protocol for Celo."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x00400fcbf0816bebb94654259de7273f4a05c762",
+    "url": "https://www.poof.cash/",
+    "explorers": [
+        "https://explorer.celo.org/tokens/0x00400FcbF0816bebB94654259de7273f4A05c762/token-transfers"
+    ],
+    "twitter": "Poofcash",
+    "reddit": "poofcash/",
+    "github_org": "poofcash"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "gya",
+    "symbol": "gya",
+    "name": "GYA",
+    "platforms": {
+        "binance-smart-chain": "0x9458784486fb00c2d1a8740d5579207c42dbd602"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GYA is the second token of our ecosystem, which is the inflationary one, created with the purpose of being the main token for our farms. In a near future, lot of features are to be implemented and partnerships with different projects to be in place."
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0x9458784486fb00c2d1a8740d5579207c42dbd602",
+    "url": "https://farm.magikarp.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x9458784486fb00c2d1a8740d5579207c42dbd602"
+    ],
+    "twitter": "MagikarpFinance",
+    "telegram": "MagikarpFinance"
+}

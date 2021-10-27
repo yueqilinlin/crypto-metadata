@@ -1,0 +1,28 @@
+{
+    "id": "power-index-pool-token",
+    "symbol": "pipt",
+    "name": "Power Index Pool Token",
+    "platforms": {
+        "ethereum": "0x26607ac599266b21d13c7acf7942c7701a8b699c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "DeFi Index",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x26607ac599266b21d13c7acf7942c7701a8b699c",
+    "url": "https://powerindex.io/#/",
+    "explorers": [
+        "https://etherscan.io/token/0x26607aC599266b21d13c7aCF7942c7701a8b699c",
+        "https://ethplorer.io/address/0x26607ac599266b21d13c7acf7942c7701a8b699c"
+    ],
+    "twitter": "powerpoolcvp",
+    "telegram": "powerpoolcvp"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "merit-circle",
+    "symbol": "mc",
+    "name": "Merit Circle",
+    "platforms": {
+        "ethereum": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Metaverse",
+        "Play To Earn",
+        "Gaming",
+        "Governance"
+    ],
+    "description": {
+        "en": "Merit Circle is a decentralized autonomous organization that empowers individuals with the opportunity to earn through play and to develop their skills via a meritocratic education system. This is done using our platform, which hosts scholarship opportunities, educational opportunities and everything a person could need on their journey towards being an earning gamer in the metaverse. All while keeping a strong focus on our companies vision; Build the metaverse by empowering people to be a part of it."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
+    "url": "https://www.meritcircle.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6",
+        "https://ethplorer.io/address/0x949d48eca67b17269629c7194f4b727d4ef9e5d6"
+    ],
+    "twitter": "MeritCircle_IO",
+    "telegram": "meritcircle",
+    "github_org": "Merit-Circle"
+}

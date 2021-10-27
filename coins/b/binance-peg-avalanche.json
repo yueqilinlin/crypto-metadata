@@ -1,0 +1,22 @@
+{
+    "id": "binance-peg-avalanche",
+    "symbol": "avax",
+    "name": "Binance-Peg Avalanche",
+    "platforms": {
+        "binance-smart-chain": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tokens that are wrapped and pegged by Binance on a 1:1 ratio to the corresponding native token. Also supports BEP20 token deposits and withdrawals at Binance.com"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
+    "url": "https://www.avax.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x1CE0c2827e2eF14D5C4f29a091d735A204794041"
+    ],
+    "twitter": "avalancheavax",
+    "reddit": "Avax"
+}

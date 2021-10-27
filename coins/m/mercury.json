@@ -1,0 +1,20 @@
+{
+    "id": "mercury",
+    "symbol": "mer",
+    "name": "Mercury",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mercury is a public token used as fuel to link the private Jupiter blockchain to the public Waves blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.darcr.us/",
+    "explorers": [
+        "http://www.wavesgo.com/"
+    ],
+    "twitter": "mercurytoken",
+    "facebook": "darcrus",
+    "github_org": "SigwoTechnologies"
+}

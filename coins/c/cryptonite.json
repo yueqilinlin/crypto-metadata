@@ -1,0 +1,22 @@
+{
+    "id": "cryptonite",
+    "symbol": "CRT",
+    "name": "Cryptonite",
+    "platforms": {
+        "binance-smart-chain": "0x6904b1c25c91fbd9431621fbe495d7c49fcd171f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cryptonite is a Gaming and NFT trading platform on the binance smart chain. The project's aim is to allow gamers to earn tokens by playing the game and allow users to trade NFT's."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6904b1c25c91fbd9431621fbe495d7c49fcd171f",
+    "url": "https://www.cryptoniterelief.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x6904b1c25c91fBD9431621fbE495d7c49FCD171F"
+    ],
+    "twitter": "CRYPTONITE_CRT",
+    "telegram": "CryptoniteToken"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "talken",
+    "symbol": "talk",
+    "name": "Talken",
+    "platforms": {
+        "ethereum": "0xcaabcaa4ca42e1d86de1a201c818639def0ba7a7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Talken is a multi-chain decentralized NFT wallet supported by one of the largest Korean communities. It is the preferred option for K-Pop celebrities, KOL, artists, and influencers to mint, auction, store, and trade NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcaabcaa4ca42e1d86de1a201c818639def0ba7a7",
+    "url": "https://talken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xCAabCaA4ca42e1d86dE1a201c818639def0ba7A7",
+        "https://ethplorer.io/address/0xCAabCaA4ca42e1d86dE1a201c818639def0ba7A7"
+    ],
+    "twitter": "Talken_",
+    "telegram": "talken_global"
+}

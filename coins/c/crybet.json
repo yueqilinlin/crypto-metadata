@@ -1,0 +1,25 @@
+{
+    "id": "crybet",
+    "symbol": "cbt",
+    "name": "CryBet",
+    "platforms": {
+        "ethereum": "0xaf5f584d79701d5bdc9ca045e66ae130b67a68ad"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "SE",
+    "genesis_date": null,
+    "contract_address": "0xaf5f584d79701d5bdc9ca045e66ae130b67a68ad",
+    "url": "http://crybet.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xaf5f584d79701d5bdc9ca045e66ae130b67a68ad",
+        "https://ethplorer.io/address/0xaf5f584d79701d5bdc9ca045e66ae130b67a68ad"
+    ],
+    "twitter": "cry_bet",
+    "telegram": "crybet"
+}

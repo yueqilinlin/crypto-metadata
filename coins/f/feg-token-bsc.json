@@ -1,0 +1,25 @@
+{
+    "id": "feg-token-bsc",
+    "symbol": "feg",
+    "name": "FEG Token BSC",
+    "platforms": {
+        "binance-smart-chain": "0xacfc95585d80ab62f67a14c566c1b7a49fe91167",
+        "harmony-shard-0": "0xc7eaaa7fc41fa4d814192979f267d80cb48fb760"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FEG Token is redesigning the way decentralized finance (DeFi) is structured. FEG Token is focused on reshaping and evolving how DeFi works completely while delivering the most robust ecosystem ever designed for DeFi's much-needed advancements."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xacfc95585d80ab62f67a14c566c1b7a49fe91167",
+    "url": "https://fegtoken.com/",
+    "explorers": [
+        "https://www.bscscan.com/token/0xacfc95585d80ab62f67a14c566c1b7a49fe91167",
+        "https://bscscan.com/token/0xacfc95585d80ab62f67a14c566c1b7a49fe91167"
+    ],
+    "twitter": "FEGtoken",
+    "telegram": "fegchat",
+    "reddit": "https://www.reddit.com"
+}

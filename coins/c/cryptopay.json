@@ -1,0 +1,25 @@
+{
+    "id": "cryptopay",
+    "symbol": "cpay",
+    "name": "Cryptopay",
+    "platforms": {
+        "ethereum": "0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cryptopay is an online Bitcoin Wallet which offers greater functionality than simpler services for buying and selling bitcoins. You can use this page to learn more about Cryptopay\u2019s features."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-11-29",
+    "contract_address": "0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e",
+    "url": "https://cryptopay.me/",
+    "explorers": [
+        "https://etherscan.io/token/0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e",
+        "https://ethplorer.io/address/0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e"
+    ],
+    "twitter": "cryptopay",
+    "facebook": "cryptopayme",
+    "reddit": "Cryptopay",
+    "github_org": "cryptopay-dev"
+}

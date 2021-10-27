@@ -1,0 +1,23 @@
+{
+    "id": "stellar-invictus",
+    "symbol": "tryon",
+    "name": "Stellar Invictus",
+    "platforms": {
+        "binance-smart-chain": "0x050f65bef6bd15de57462cf75d06bafeb2a59118"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Stellar Invictus is a 4X Sci-Fi MMO heavily inspired by games like Stellaris and Galactic Civilizations 3 in which players can play in massive matches with up to 75 other players simultaneously!\r\n\r\nStellar Invictus lets players expand their territory, forge alliances and fight in wars to become the most powerful. The game\u2019s main goal will  teach players about crypto-currencies by incorporating an economy built around the TRYON token. This token can be mined in the game itself and allows players to get to know crypto without having to invest any real-world currency!"
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x050f65bef6bd15de57462cf75d06bafeb2a59118",
+    "url": "https://www.stellar-invictus.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x050f65bef6bd15de57462cf75d06bafeb2a59118"
+    ],
+    "twitter": "StellarInvictus",
+    "telegram": "stellarinvictus",
+    "github_org": "venarius"
+}

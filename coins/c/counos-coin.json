@@ -1,0 +1,22 @@
+{
+    "id": "counos-coin",
+    "symbol": "cca",
+    "name": "Counos Coin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Counos Platform is an online peer-to-peer platform with a wide variety of financial services which meets sophisticated online financial demands of Counos users."
+    },
+    "country_origin": "CH",
+    "genesis_date": "2018-03-01",
+    "url": "https://counos.io/",
+    "explorers": [
+        "http://blockex.csc.counos.org/"
+    ],
+    "twitter": "counoscoin",
+    "facebook": "CounosPlatform",
+    "telegram": "csccryptocurrency",
+    "reddit": "https://www.reddit.com",
+    "github_org": "counos"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "skyward-finance",
+    "symbol": "skyward",
+    "name": "Skyward Finance",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Near Protocol Ecosystem"
+    ],
+    "description": {
+        "en": "Skyward Finance is a fully permissionless open sourced launchpad that allows Projects to launch their tokens without any liquidity with the best price discovery mechanism that\u2019s resistant to bots and sybil attacks.\r\nSkyward Finance\u2019s mission is to enable fair token distribution and price discovery for projects built on NEAR Protocol.\r\nSkyward Finance\u2019s goal is to provide mechanisms for initial price discovery and token distribution through a streaming time-based auctions that are accessible to the general public in a decentralized way, while being resistant to front-running, price manipulations, and sybil attacks. Skyward Finance will issue a token that allows the community to become the part of the platform and get the corresponding part of the revenue."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "2kVvcvq6AmSELxg6Nucc5MojFjY7HRJ2aGxhbVAdrfAh",
+    "url": "https://skyward.finance/",
+    "explorers": [
+        "https://explorer.near.org/accounts/token.skyward.near"
+    ],
+    "twitter": "skywardfinance",
+    "telegram": "skywardfinance",
+    "github_org": "skyward-finance"
+}

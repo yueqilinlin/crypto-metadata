@@ -1,0 +1,23 @@
+{
+    "id": "strains",
+    "symbol": "sfn",
+    "name": "Strains",
+    "platforms": {
+        "binance-smart-chain": "0xdca8a5bb74ec9536d13511c51f6a68821bf6a1a6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Helping you track the lifecycle and taxonomy of CBD"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdca8a5bb74ec9536d13511c51f6a68821bf6a1a6",
+    "url": "https://strains.finance/",
+    "explorers": [
+        "https://www.bscscan.com/token/0xdca8a5bb74ec9536d13511c51f6a68821bf6a1a6",
+        "https://bscscan.com/token/0xdca8a5bb74ec9536d13511c51f6a68821bf6a1a6"
+    ],
+    "twitter": "strainsfinance",
+    "telegram": "strainsfinance"
+}

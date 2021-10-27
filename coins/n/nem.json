@@ -1,0 +1,23 @@
+{
+    "id": "nem",
+    "symbol": "xem",
+    "name": "NEM",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Importance",
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "NEM is a highly versatile crypto solution which seeks to adhere to a host of mainstream industry requirements. It is written in Java and JavaScript with 100% original source code. NEM has a stated goal of a wide distribution model and has introduced new features in blockchain technology in its proof-of-importance (POI) algorithm. NEM also features an integrated P2P secure and encrypted messaging system, multisignature accounts and an Eigentrust++ reputation system.\r\n\r\nEssentially, NEM is designed as a financial blockchain solution and can be used for payment, clearing and settlement in a private environment which is highly controlled. This means that NEM meets several of the regulatory requirements and guidelines in the financial industry. This allows it to be used to settle (change of ownership) any asset via the blockchain. Mijin which is a private chain of NEM has gained popularity and companies such as Hitachi have already embraced it.\r\n\r\nWhy NEM?\r\nMany banks around the world have come to accept the importance of blockchain technology. In fact, a good number of banks in the U.S, India and Japan have already started using the technology. Because banks generally employ the smart contract concept, NEM\u2019s platform which is asset-friendly can be used to settle any asset. In settling assets, speed, security, and reliability are very important to a mainstream institution which is what this crypto offers. NEM addresses these issues by repackaging its blockchain into a private chain and presenting it as Mijin.\r\n\r\nNEM crypto is also applicable in the technology world. Unlike <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> and <a href=\"https://www.coingecko.com/en/coins/dogecoin\">Dogecoin</a> which use mining to increase the number of coins, XEM uses something called \u2018harvesting\u2019. In this process, blocks are generated and a person is rewarded for work contributed using transaction fees. Every block has a certain number of transactions which attract an unknown amount of fees. This keeps the participants incentivized to continue harvesting. For a blockchain user to be allowed to harvest, one must go through a forging mechanism process called Proof-of-Importance (POI).\r\n\r\nPOI is the algorithm used in NEM to time stamp transactions. A NEM user's importance is determined by how many coins they have and the number of transactions made to and from their wallet. POI uses the NCDawareRank network centrality measure, the topology of the transaction graph, as well as a number of other relevant signals to achieve consensus. POI is different from other initiatives which use a fee-sharing model that does not take into consideration one's overall support of the network. In proof-of-stake systems a person needs to have large numbers of coins to form a block, but in NEM transactions volume and trust become factors. This was designed to encourage users of NEM to not simply hold XEM but instead actively carry out transactions.\r\n\r\nTo be eligible for entering the importance calculation, an account must have at least 10,000 vested XEM. All accounts owning more than 10,000 vested XEM have a non-zero importance score. With a supply of 8,999,999,999 XEM, the theoretical maximum number of accounts with non-zero importance is 899,999. In practice, the number of actual accounts with non-zero importance is not expected to approach the theoretical max due to inequalities in held XEM and also the temporal costs associated with vesting. If NEM becomes very popular, a threshold of 10,000 vested XEM could be undesirable. If necessary, this number could be updated in the future via a hard fork, which is the same procedure for adjusting transaction fees and other parameters related to harvesting."
+    },
+    "country_origin": "",
+    "genesis_date": "2015-03-31",
+    "url": "https://nem.io/",
+    "explorers": [
+        "http://chain.nem.ninja/"
+    ],
+    "twitter": "nemofficial",
+    "facebook": "ourNEM",
+    "reddit": "nem",
+    "github_org": "nemtech"
+}

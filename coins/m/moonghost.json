@@ -1,0 +1,22 @@
+{
+    "id": "moonghost",
+    "symbol": "moonghost",
+    "name": "MoonGhost",
+    "platforms": {
+        "binance-smart-chain": "0xf818d092beaf21beafe6acdd8230bd5f7b861d9c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MOONGHOST is a unique project that actually let's you earn BNB while holding on to this token. It was build with a unique system that protects all the holders from whale manipulation and pump and dump schemes by not only giving out some moonghost to every holder but also redistributing BNB to every moonghost holder."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xf818d092beaf21beafe6acdd8230bd5f7b861d9c",
+    "url": "https://moonghost.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xf818d092beaf21beafe6acdd8230bd5f7b861d9c"
+    ],
+    "twitter": "MoonGhostBSC",
+    "telegram": "moonghostchat"
+}

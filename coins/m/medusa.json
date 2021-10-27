@@ -1,0 +1,22 @@
+{
+    "id": "medusa",
+    "symbol": "dusa",
+    "name": "Medusa",
+    "platforms": {
+        "binance-smart-chain": "0x376ba3ffac2643555731349fae9fc8ca28e2c9a2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MEDUSA ($DUSA) sends rewards to Holders and Liquidity Providers instantly with every transaction."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x376ba3ffac2643555731349fae9fc8ca28e2c9a2",
+    "url": "https://www.olympusyield.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x376ba3ffac2643555731349fae9fc8ca28e2c9a2"
+    ],
+    "twitter": "OlympusYieldBSC",
+    "telegram": "olympusyieldbsc"
+}

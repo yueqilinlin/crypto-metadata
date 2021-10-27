@@ -1,0 +1,23 @@
+{
+    "id": "tetra-pay",
+    "symbol": "tpay",
+    "name": "Tetra Pay",
+    "platforms": {
+        "binance-smart-chain": "0x1c9257e55318eb9b472ed45ef5c55ccd941538f0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tetra Pay is a block chain based marketplace, where buyers and sellers meet to carry out operations involving digital goods and assets with crypto currency transactions. The unique advantage here is an automatic matching of users, basing on straight AI approach It is a first ever artificial intelligence marketplace in the world, combining traditional and smart contract, block chain, future oriented ideas of connecting people and performing operations by analyzing users preferences."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x1c9257e55318eb9b472ed45ef5c55ccd941538f0",
+    "url": "https://tpaytoken.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x1c9257e55318eb9b472ed45ef5c55ccd941538f0"
+    ],
+    "twitter": "TpayToken",
+    "telegram": "tpay_token",
+    "github_org": "tetrapayus"
+}

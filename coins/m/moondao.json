@@ -1,0 +1,22 @@
+{
+    "id": "moondao",
+    "symbol": "mndao",
+    "name": "MoonDAO",
+    "platforms": {
+        "binance-smart-chain": "0x069b2619eb24367a46fda638bd1b88aa4dad7879"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MoonDAO is a hyper-deflationary token the implements RFI+LIQ tokenomics, built upon the Binance Smart Chain"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x069b2619eb24367a46fda638bd1b88aa4dad7879",
+    "url": "https://moondao.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x069b2619eb24367a46fda638bd1b88aa4dad7879"
+    ],
+    "twitter": "Moon_Dao_",
+    "telegram": "moon_dao"
+}

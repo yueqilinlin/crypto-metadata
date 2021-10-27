@@ -1,0 +1,23 @@
+{
+    "id": "araplanet",
+    "symbol": "arap",
+    "name": "AraPlanet",
+    "platforms": {
+        "binance-smart-chain": "0xa49e44976c236beb51a1f818d49b9b9759ed97b1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Invest in ARA to invest in our PLANET"
+    },
+    "country_origin": "IT",
+    "genesis_date": null,
+    "contract_address": "0xa49e44976c236beb51a1f818d49b9b9759ed97b1",
+    "url": "http://www.araplanet.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xa49e44976c236beb51a1f818d49b9b9759ed97b1"
+    ],
+    "twitter": "ara_planet",
+    "telegram": "AraPlanet",
+    "reddit": "AraPlanet/"
+}

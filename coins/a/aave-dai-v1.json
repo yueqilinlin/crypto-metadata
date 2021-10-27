@@ -1,0 +1,30 @@
+{
+    "id": "aave-dai-v1",
+    "symbol": "adai",
+    "name": "Aave DAI v1",
+    "platforms": {
+        "ethereum": "0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Aave Tokens",
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Aave DAI is an interest bearing token minted upon deposit and burned when redeemed. The aDAI is pegged 1:1 to the value of the underlying DAI that is deposited in Aave protocol. aDAI, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aDAI accrue interest in real time, directly in your wallet!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d",
+    "url": "https://aave.com/atokens",
+    "explorers": [
+        "https://etherscan.io/token/0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
+        "https://ethplorer.io/address/0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome",
+    "reddit": "Aave_Official/",
+    "github_org": "aave"
+}

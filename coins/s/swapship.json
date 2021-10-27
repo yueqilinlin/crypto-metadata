@@ -1,0 +1,26 @@
+{
+    "id": "swapship",
+    "symbol": "swsh",
+    "name": "SwapShip",
+    "platforms": {
+        "ethereum": "0x3ac2ab91ddf57e2385089202ca221c360ced0062"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "The third ERC20 contract and the first farming contract in the RTC ecosystem. By staking various SushiSwap and Uniswap LP tokens you farm SWSH tokens at a very low rate and receive RTC token drops at a high rate of 10,000 times your SWSH crops.\r\n\r\nOn October 10 the top 32 SWSH holders will receive an exclusive airdrop of a very special, existing token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3ac2ab91ddf57e2385089202ca221c360ced0062",
+    "url": "https://www.swapship.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x3ac2AB91dDF57e2385089202Ca221C360CED0062",
+        "https://ethplorer.io/address/0x3ac2ab91ddf57e2385089202ca221c360ced0062"
+    ],
+    "twitter": "SwapShip",
+    "telegram": "swapship",
+    "github_org": "veravoss"
+}

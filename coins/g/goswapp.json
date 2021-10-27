@@ -1,0 +1,22 @@
+{
+    "id": "goswapp",
+    "symbol": "gofi",
+    "name": "GoSwapp",
+    "platforms": {
+        "binance-smart-chain": "0x6b8227a0e18bd35a10849601db194b24aab2c8ea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GoSwapp is the first defi app to bring the Uniswap trading experience to mobile phones. GoSwapp gives users the ability to track the performance of their favorite tokens and manage their trades from anywhere in the world.\r\nExplore the newly listed Uniswap tokens and and track the token metrics, price graphs, and transactions in an easy to understand and useful UI interface."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x6b8227a0e18bd35a10849601db194b24aab2c8ea",
+    "url": "https://goswapp.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x6b8227a0e18bd35a10849601db194b24aab2c8ea"
+    ],
+    "twitter": "Go_Swapp",
+    "telegram": "GoSwapp"
+}

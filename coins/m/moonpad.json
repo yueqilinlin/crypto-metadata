@@ -1,0 +1,24 @@
+{
+    "id": "moonpad",
+    "symbol": "mpad",
+    "name": "Moonpad",
+    "platforms": {
+        "binance-smart-chain": "0x14fc2486df22772e95335746ba08350e8db2656a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Moonpad is the best decentralized IDO platform for the Binance Smart Chain Network. Moonpad will empower crypto projects with the ability to distribute tokens and increase liquidity."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x14fc2486df22772e95335746ba08350e8db2656a",
+    "url": "https://moonpad.app",
+    "explorers": [
+        "https://bscscan.com/token/0x14fc2486df22772e95335746ba08350e8db2656a"
+    ],
+    "twitter": "Moonpad_OA",
+    "facebook": "moonpad.official",
+    "telegram": "MoonpadBscCommunity",
+    "reddit": "Moonpad/"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "matic-aave-tusd",
+    "symbol": "matusd",
+    "name": "Matic Aave interest bearing TUSD",
+    "platforms": {
+        "polygon-pos": "0xf4b8888427b00d7caf21654408b7cba2ecf4ebd9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Wrapped-Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf4b8888427b00d7caf21654408b7cba2ecf4ebd9",
+    "url": "https://www.aavegotchi.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0xf4b8888427b00d7caf21654408b7cba2ecf4ebd9"
+    ],
+    "twitter": "aavegotchi",
+    "github_org": "aavegotchi"
+}

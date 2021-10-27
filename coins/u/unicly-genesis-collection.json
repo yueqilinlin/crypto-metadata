@@ -1,0 +1,25 @@
+{
+    "id": "unicly-genesis-collection",
+    "symbol": "uunicly",
+    "name": "Unicly Genesis Collection",
+    "platforms": {
+        "ethereum": "0x3d9233f15bb93c78a4f07b5c5f7a018630217cb3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "uTokens",
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "The Genesis Unicly NFT Collection by 0xLeia. This is the first uToken collection on Unicly containing pre-launch Unicly NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3d9233f15bb93c78a4f07b5c5f7a018630217cb3",
+    "url": "https://www.app.unic.ly/#/utoken-contract/0x3d9233f15bb93c78a4f07b5c5f7a018630217cb3",
+    "explorers": [
+        "https://etherscan.io/token/0x3d9233f15bb93c78a4f07b5c5f7a018630217cb3",
+        "https://ethplorer.io/address/0x3d9233f15bb93c78a4f07b5c5f7a018630217cb3"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "klondike-finance-v2",
+    "symbol": "klonx",
+    "name": "Klondike Finance v2",
+    "platforms": {
+        "ethereum": "0xbf15797bb5e47f6fb094a4abdb2cfc43f77179ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbf15797bb5e47f6fb094a4abdb2cfc43f77179ef",
+    "url": "https://klondike.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xbf15797bb5e47f6fb094a4abdb2cfc43f77179ef",
+        "https://ethplorer.io/address/0xbf15797bb5e47f6fb094a4abdb2cfc43f77179ef"
+    ],
+    "twitter": "KlondikeFinance",
+    "telegram": "klondike_discussion"
+}

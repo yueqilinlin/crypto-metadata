@@ -1,0 +1,28 @@
+{
+    "id": "shipchain",
+    "symbol": "ship",
+    "name": "ShipChain",
+    "platforms": {
+        "ethereum": "0xe25b0bba01dc5630312b6a21927e578061a13f55"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "The ShipChain platform is based on a simple, yet powerful solution called \"Track and Trace.\"\r\n\r\nOur ecosystem will encompass all methods of freight, and will include an open API architecture that can integrate with existing freight management software.\r\n\r\nThe ShipChain platform unifies shipment tracking on the Ethereum blockchain, using a sidechain to track individual encrypted geographic waypoints across each smart contract. With this system, the meaning of each cryptographic waypoint is only accessible for interpretation by the parties involved in the shipment itself. This gives shippers more visibility across their supply chain, and allows carriers to communicate with ease. \r\n\r\nInformation about loads, geo waypoints, and other basic information is recorded and publicly validated within the sidechain. On the shipment's delivery and confirmation, the contract is completed and stored on the main blockchain."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xe25b0bba01dc5630312b6a21927e578061a13f55",
+    "url": "https://www.shipchain.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xe25b0bba01dc5630312b6a21927e578061a13f55",
+        "https://ethplorer.io/address/0xe25b0bba01dc5630312b6a21927e578061a13f55"
+    ],
+    "twitter": "shipchain",
+    "facebook": "shipchain",
+    "telegram": "ShipChain_Announcements",
+    "reddit": "shipchain/",
+    "github_org": "shipchain"
+}

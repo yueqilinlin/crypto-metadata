@@ -1,0 +1,24 @@
+{
+    "id": "solpad-finance",
+    "symbol": "solpad",
+    "name": "Solpad Finance",
+    "platforms": {
+        "solana": "GfJ3Vq2eSTYf1hJP6kKLE9RT6u7jF9gNszJhZwo5VPZp"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "SOLPAD is the first Multichain IDO platform for Solana. Enabling projects to raise capital on a decentralized platform, based on Solana."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "GfJ3Vq2eSTYf1hJP6kKLE9RT6u7jF9gNszJhZwo5VPZp",
+    "url": "https://www.solpad.finance/",
+    "explorers": [
+        "https://explorer.solana.com/address/GfJ3Vq2eSTYf1hJP6kKLE9RT6u7jF9gNszJhZwo5VPZp"
+    ],
+    "twitter": "financesolpad",
+    "telegram": "solpadfinance_chat"
+}

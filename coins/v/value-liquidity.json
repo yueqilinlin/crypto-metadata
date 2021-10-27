@@ -1,0 +1,30 @@
+{
+    "id": "value-liquidity",
+    "symbol": "value",
+    "name": "Value DeFi",
+    "platforms": {
+        "ethereum": "0x49e833337ece7afe375e44f4e3e8481029218e5c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Automated Market Maker (AMM)",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Yield Aggregator",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "The Value DeFi platform is a suite of products that aim to bring fairness, true value, and innovation to Decentralized Finance. Their flagship products include vSwap, an automated market-maker built on Ethereum and Binance Smart Chain that allows anyone to create trading pools with flexible ratio pairs, add liquidity, and earn trading fees, and vSafe, state-of-the-art multi-strategy yield-optimizers that allow unprecedented composability and flexibility of LP assets to maximize returns."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x49e833337ece7afe375e44f4e3e8481029218e5c",
+    "url": "https://valuedefi.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x49e833337ece7afe375e44f4e3e8481029218e5c",
+        "https://ethplorer.io/address/0x49e833337ece7afe375e44f4e3e8481029218e5c"
+    ],
+    "twitter": "value_defi",
+    "telegram": "ValueDeFi"
+}

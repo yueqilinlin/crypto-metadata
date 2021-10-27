@@ -1,0 +1,22 @@
+{
+    "id": "megacoin",
+    "symbol": "mec",
+    "name": "Megacoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Megacoin altcoin is a new decentralized cryptocurrency created by Kimoto. Megacoin seems to be based of from New Zealand and it appears that it is not affiliated with the Kimdotcom's MegaUpload. \r\n\r\nMegacoin is the first coin to adopt the Kimoto Gravity Well which was created by Kimoto himself. The Kimoto Gravity Well is a difficulty adjustment formula that helps to adapt the coin's mining difficulty against the flucuation of mining power. This adaption is needed to alleviate against profit switching mining pools which would cause a sudden change of hashrate which also causes a sudden change in mining difficulty.\r\n\r\nDue to the effectiveness of the Kimoto Gravity Well, many other altcoins are inspired to create new difficulty adjustment formula or rather just adopt the algorithm into the codebase.\r\n\r\nAs of the current design, there will only ever be 42 million Megacoins created. "
+    },
+    "country_origin": "",
+    "genesis_date": "2013-06-01",
+    "url": "https://www.megacoin.eu/",
+    "explorers": [
+        "https://chainz.cryptoid.info/mec/#"
+    ],
+    "twitter": "megacoin_mec",
+    "facebook": "megacoin.world",
+    "telegram": "Megacoin_MEC",
+    "reddit": "megacoin/",
+    "github_org": "megacoin"
+}

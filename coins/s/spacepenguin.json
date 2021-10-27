@@ -1,0 +1,23 @@
+{
+    "id": "spacepenguin",
+    "symbol": "pngn",
+    "name": "SpacePenguin",
+    "platforms": {
+        "ethereum": "0x469a8ea7683c27d31cd9b0de769151d8a8b66c5a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$SpacePenguin is a deflationary token which generates yield in a frictionless manner and donates a small part of every transaction directly to a charity."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x469a8ea7683c27d31cd9b0de769151d8a8b66c5a",
+    "url": "http://spacepenguin.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0x469a8ea7683c27d31cd9b0de769151d8a8b66c5a",
+        "https://ethplorer.io/address/0x469a8ea7683c27d31cd9b0de769151d8a8b66c5a"
+    ],
+    "twitter": "SpacePNGN",
+    "telegram": "spacepenguinfinance"
+}

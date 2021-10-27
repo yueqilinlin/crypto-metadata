@@ -1,0 +1,23 @@
+{
+    "id": "adora-token",
+    "symbol": "ara",
+    "name": "Adora Token",
+    "platforms": {
+        "ethereum": "0x9ac5c63ddcb93612e316ab31dfc8192bc8961988"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Adora is a group of projects that run and connect with businesses and services around the world. The main goal is to incentivize the usability of digital currencies into everyday life as well as enhance the core functionality of Adora Coin (ARA), which is designed for usability and speed."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9ac5c63ddcb93612e316ab31dfc8192bc8961988",
+    "url": "https://adora.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x9ac5c63ddcb93612e316ab31dfc8192bc8961988",
+        "https://ethplorer.io/address/0x9ac5c63ddcb93612e316ab31dfc8192bc8961988"
+    ],
+    "twitter": "adoraFinance",
+    "telegram": "AdoraCommunitygroup"
+}

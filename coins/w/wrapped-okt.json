@@ -1,0 +1,20 @@
+{
+    "id": "wrapped-okt",
+    "symbol": "wokt",
+    "name": "Wrapped OKT",
+    "platforms": {
+        "okex-chain": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+    "url": "https://www.okex.com/okexchain",
+    "explorers": [
+        "https://www.oklink.com/okexchain/address/0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15"
+    ]
+}

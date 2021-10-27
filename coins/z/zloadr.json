@@ -1,0 +1,25 @@
+{
+    "id": "zloadr",
+    "symbol": "zdr",
+    "name": "Zloadr",
+    "platforms": {
+        "ethereum": "0xbdfa65533074b0b23ebc18c7190be79fa74b30c2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Zloadr is a viral news and media publishing platform built for creators; that amplifies news worthy content with the help of influencers and bounty hunters."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xbdfa65533074b0b23ebc18c7190be79fa74b30c2",
+    "url": "http://www.zloadr.com",
+    "explorers": [
+        "https://etherscan.io/token/0xbdfa65533074b0b23ebc18c7190be79fa74b30c2",
+        "https://ethplorer.io/address/0xbdfa65533074b0b23ebc18c7190be79fa74b30c2"
+    ],
+    "twitter": "zloadr",
+    "facebook": "zloadrmedia",
+    "telegram": "Zloadr",
+    "github_org": "ZloadrPlatform"
+}

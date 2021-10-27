@@ -1,0 +1,24 @@
+{
+    "id": "hashnet-biteco",
+    "symbol": "hnb",
+    "name": "HashNet BitEco",
+    "platforms": {
+        "ethereum": "0x9c197c4b58527faaab67cb35e3145166b23d242e"
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [],
+    "description": {
+        "en": "HNB is building a decentralized blockchain network where individuals and enterprises can exchange products and services with trust and security. The dual-token system of HNB and HGS, combined with the hybrid consensus algorithm of DPOS and Algorand provides the infrastructure for a stable and robust ecosystem."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x9c197c4b58527faaab67cb35e3145166b23d242e",
+    "url": "https://hnb.eco/",
+    "explorers": [
+        "https://etherscan.io/token/0x9c197c4b58527faaab67cb35e3145166b23d242e",
+        "https://ethplorer.io/address/0x9c197c4b58527faaab67cb35e3145166b23d242e"
+    ],
+    "twitter": "HNB_ECO",
+    "telegram": "HNB_ECO",
+    "github_org": "HNB-ECO"
+}

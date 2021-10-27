@@ -1,0 +1,23 @@
+{
+    "id": "ubiquity",
+    "symbol": "ubq",
+    "name": "Ubiquity",
+    "platforms": {
+        "ethereum": "0x4e38d89362f7e5db0096ce44ebd021c3962aa9a0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "UBQ is the Ubiquity DAO governance token. It is a perpetually inflationary ERC20 token that may be minted by all products within the Ubiquity ecosystem with two main goals which is to drive adoption and to enhance the functionality of the product itself. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4e38d89362f7e5db0096ce44ebd021c3962aa9a0",
+    "url": "https://ubq.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x4e38d89362f7e5db0096ce44ebd021c3962aa9a0",
+        "https://ethplorer.io/address/0x4e38d89362f7e5db0096ce44ebd021c3962aa9a0"
+    ],
+    "twitter": "UbiquityDAO",
+    "telegram": "UbiquityDAO_Announce"
+}

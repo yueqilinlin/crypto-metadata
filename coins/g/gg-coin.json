@@ -1,0 +1,25 @@
+{
+    "id": "gg-coin",
+    "symbol": "ggc",
+    "name": "Global Game Coin",
+    "platforms": {
+        "ethereum": "0x7f969c4d388ca0ae39a4fddb1a6f89878ca2fbf8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "Fully licensed, government-regulated, global and national online lotteries with draw transparency based on Ethereum Smart Contracts."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x7f969c4d388ca0ae39a4fddb1a6f89878ca2fbf8",
+    "url": "https://ggc.gg.international",
+    "explorers": [
+        "https://etherscan.io/token/0x7f969c4d388ca0ae39a4fddb1a6f89878ca2fbf8",
+        "https://ethplorer.io/address/0x7f969c4d388ca0ae39a4fddb1a6f89878ca2fbf8"
+    ],
+    "twitter": "GlobalGameWorld",
+    "facebook": "GG-World-110788540316839"
+}

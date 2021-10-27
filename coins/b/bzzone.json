@@ -1,0 +1,23 @@
+{
+    "id": "bzzone",
+    "symbol": "bzzone",
+    "name": "Bzzone",
+    "platforms": {
+        "binance-smart-chain": "0x47fa20ba81333ba507d687913baf7c89432182a1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pangolinswap platform is a cross-chain aggregation platform that integrates NFT, DEX, and Mining."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x47fa20ba81333ba507d687913baf7c89432182a1",
+    "url": "http://pangolinswap.net/",
+    "explorers": [
+        "https://www.bscscan.com/token/0x47fa20ba81333ba507d687913baf7c89432182a1",
+        "https://bscscan.com/token/0x47fa20ba81333ba507d687913baf7c89432182a1"
+    ],
+    "twitter": "Bzzoneswap",
+    "telegram": "Bzzoneswap"
+}

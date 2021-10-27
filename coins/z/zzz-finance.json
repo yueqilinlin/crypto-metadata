@@ -1,0 +1,25 @@
+{
+    "id": "zzz-finance",
+    "symbol": "zzz",
+    "name": "zzz.finance",
+    "platforms": {
+        "ethereum": "0xc75f15ada581219c95485c578e124df3985e4ce0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "ZZZ is a counter to the a YFI clone OWO. ZZZ aims to be what OWO fails to be."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xc75f15ada581219c95485c578e124df3985e4ce0",
+    "url": "https://zzz.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xc75f15ada581219c95485c578e124df3985e4ce0",
+        "https://ethplorer.io/address/0xc75f15ada581219c95485c578e124df3985e4ce0"
+    ],
+    "twitter": "zzzfinance",
+    "telegram": "zzzfinance"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "neonic-finance",
+    "symbol": "neon",
+    "name": "Neonic Finance",
+    "platforms": {
+        "binance-smart-chain": "0x94026f0227ce0c9611e8a228f114f9f19cc3fa87"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Neonic combines the best developer experience with an obsessive focus on yield farming performance.\r\nDriven by the community, for the community."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x94026f0227ce0c9611e8a228f114f9f19cc3fa87",
+    "url": "https://neonic.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x94026f0227ce0c9611e8a228f114f9f19cc3fa87"
+    ],
+    "twitter": "neonic_finance",
+    "telegram": "neonic_finance",
+    "github_org": "neonic-finance"
+}

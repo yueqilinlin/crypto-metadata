@@ -1,0 +1,23 @@
+{
+    "id": "pulse-token",
+    "symbol": "pulse",
+    "name": "Pulse Token",
+    "platforms": {
+        "ethereum": "0x52a047ee205701895ee06a375492490ec9c597ce"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pulse Token ( PULSE ) is an ERC-20 token meant to provide its holders with control over the governance, and thus future, of Pulse Markets, an open source, community driven prediction market platform that is built on NEAR Protocol and utilizes Flux Protocol's Data Oracle for market resolution.\r\n\r\nIn addition to governance control, $PULSE empowers users through a unique alignment of incentives for market creation and liquidity provision for prediction markets launched on Pulse's decentralized application.\r\n\r\nThe $PULSE token finds utility throughout markets created on pulse markets by allowing users to leverage the token as collateral for placing bets and liquidity provisioning."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x52a047ee205701895ee06a375492490ec9c597ce",
+    "url": "https://pulsemarket.eth.link/",
+    "explorers": [
+        "https://etherscan.io/token/0x52a047ee205701895ee06a375492490ec9c597ce",
+        "https://ethplorer.io/address/0x52a047ee205701895ee06a375492490ec9c597ce"
+    ],
+    "twitter": "pulsemarkets",
+    "telegram": "pulsemarkets"
+}

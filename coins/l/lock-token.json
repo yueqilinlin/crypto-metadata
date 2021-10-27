@@ -1,0 +1,23 @@
+{
+    "id": "lock-token",
+    "symbol": "lock",
+    "name": "LOCK Token",
+    "platforms": {
+        "ethereum": "0xb9464ef80880c5aea54c7324c0b8dd6ca6d05a90"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SherLOCK Security is a decentralized liquidity custody, audit group, token sale organizing service, dapp incubator and secure launchpad for new projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb9464ef80880c5aea54c7324c0b8dd6ca6d05a90",
+    "url": "https://sherlocksecurity.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xb9464ef80880c5aea54c7324c0b8dd6ca6d05a90",
+        "https://ethplorer.io/address/0xb9464ef80880c5aea54c7324c0b8dd6ca6d05a90"
+    ],
+    "twitter": "SherLOCKSecured",
+    "telegram": "SherLOCKSecurity"
+}

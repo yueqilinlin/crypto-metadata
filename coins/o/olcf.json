@@ -1,0 +1,25 @@
+{
+    "id": "olcf",
+    "symbol": "olcf",
+    "name": "OLCF",
+    "platforms": {
+        "ethereum": "0xeeaa34af95b034bada4baf565063132c765b1fa5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "payment utility token for OLPORTAL ECOSYSTEM such as IME APP( 350000 of active users)  google market and apple store for buy and sell servises, adwerisment, send P to P, and many others. Wil be integrated in IME wallet no later then 12.2020. IME is a well modified fork of telegram with own Wallet were possibly will be integrated TON also."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0xeeaa34af95b034bada4baf565063132c765b1fa5",
+    "url": "https://olportal.ai/",
+    "explorers": [
+        "https://etherscan.io/token/0xeeaa34af95b034bada4baf565063132c765b1fa5",
+        "https://ethplorer.io/address/0xeeaa34af95b034bada4baf565063132c765b1fa5"
+    ],
+    "twitter": "olportal",
+    "facebook": "OLPortal23",
+    "telegram": "olportal_ai",
+    "github_org": "imemessenger"
+}

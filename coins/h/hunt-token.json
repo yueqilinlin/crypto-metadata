@@ -1,0 +1,27 @@
+{
+    "id": "hunt-token",
+    "symbol": "hunt",
+    "name": "HUNT",
+    "platforms": {
+        "ethereum": "0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "HUNT is a gamified lifestyle DApp network for digital nomads all around the world. It aims to create a DApp world that empowers people to utilise the gamified blockchain and cryptocurrency mechanism. Currently, there are five DApps on the platform with over 200,000 users from 150+ countries all around the world.\r\n\r\nMint Club (https://mint.club/) - No-code/no-LP-required token building platform\r\nNeverlose.money (https://neverlose.money/) - Gamified HODL Protocol for Long-term investors\r\nNomadtask (https://nomadtask.com/) - On-demand task marketplace\r\nSteemhunt (https://steemhunt.com/) - Daily ranking community for cool new products\r\nLOL Hunt (https://lol.hunt.town/) - Daily top chart for funny Youtube clips"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5",
+    "url": "https://token.hunt.town/",
+    "explorers": [
+        "https://etherscan.io/token/0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5",
+        "https://ethplorer.io/address/0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5"
+    ],
+    "twitter": "steemhunt",
+    "telegram": "steemhunt",
+    "reddit": "steemhunt",
+    "github_org": "Steemhunt"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "mainfinex",
+    "symbol": "XVX",
+    "name": "Mainfinex",
+    "platforms": {
+        "ethereum": "0x903dfbc9bac585fedae3c2e327913abfd022e2e0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MAINFINEX ($XVX) was released on the basis of Ethereum platform and fully comply with ERC20* standard.\r\n\r\nSupport of this standard guarantees the compatibility of the token with third-party services (wallets, exchanges, listings, etc.), and provides easy integration."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x903dfbc9bac585fedae3c2e327913abfd022e2e0",
+    "url": "https://mainfinex.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x903dfbc9bac585fedae3c2e327913abfd022e2e0",
+        "https://ethplorer.io/address/0x903dfbc9bac585fedae3c2e327913abfd022e2e0"
+    ],
+    "twitter": "mainfinex_xvx"
+}

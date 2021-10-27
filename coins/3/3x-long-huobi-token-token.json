@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-huobi-token-token",
+    "symbol": "htbull",
+    "name": "3X Long Huobi Token Token",
+    "platforms": {
+        "ethereum": "0x0d5e2681d2aadc91f7da4146740180a2190f0c79"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Huobi Token Token (HTBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Huobi Token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0d5e2681d2aadc91f7da4146740180a2190f0c79",
+    "url": "https://ftx.com/tokens/HTBULL",
+    "explorers": [
+        "https://etherscan.io/token/0x0D5E2681D2AaDC91F7DA4146740180A2190f0c79",
+        "https://ethplorer.io/address/0x0d5e2681d2aadc91f7da4146740180a2190f0c79"
+    ]
+}

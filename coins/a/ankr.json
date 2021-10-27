@@ -1,0 +1,34 @@
+{
+    "id": "ankr",
+    "symbol": "ankr",
+    "name": "Ankr",
+    "platforms": {
+        "ethereum": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+        "binance-smart-chain": "0xf307910a4c7bbc79691fd374889b36d8531b08e3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem",
+        "Eth 2.0 Staking",
+        "Celo Ecosystem",
+        "xDAI Ecosystem",
+        "Polygon Ecosystem",
+        "Polkadot Ecosystem",
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "Ankr strives to build a resource efficient blockchain framework that truly enables Distributed Cloud Computing (DCC) and provides user-friendly infrastucture for business applications. There are indeed existing cloud solutions, but Ankr is the first one to leverage both blockchain and trusted hardware.\r\n\r\nTechnology Overview\r\nAnkr provides a computation-resource-efficient blockchain and an integrated data feed system leveraging both cryptographic primitives and trusted hardware \r\n\r\nProof of Useful Work\r\nThe Proof of Useful Work (PoUW) consensus enables a self-sustainable blockchain framework. Instead of wasting electricity and computing power on hashes like Bitcoin does, PoUW uses these resources towards useful work tasks provided by enterprises and consumers. The protocol runs on SGX-enabled CPUs with remote attestation to ensure security and confidentiality. The novel PoUW approach unlocks the massive potential of idle computing power around the world by providing enough incentives: in this scheme, every computation contributor gets compensated, and some will get the extra reward for generating the blocks. In the future, this mining scheme can promote Universal Basic Income (UBI). \r\n\r\nPlasma Sidechains\r\nThe Multi-chain Plasma implementation allows different applications to handle application-specific smart contracts on individual side chains, preventing transactions from overloading the PoUW-based main chain.\r\n\r\nNative Oracle Service\r\nNative Oracle Service (NOS) provides authenticated data feed by leveraging both cryptographic primitives and the trusted execution environment (TEE). Through a standardized API to port data from existing websites, NOS enables simple real-world business adoption"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+    "url": "https://stakefi.ankr.com",
+    "explorers": [
+        "https://etherscan.io/token/0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+        "https://ethplorer.io/address/0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+        "https://www.bscscan.com/token/0xf307910a4c7bbc79691fd374889b36d8531b08e3"
+    ],
+    "twitter": "ankr",
+    "telegram": "ankrnetwork",
+    "github_org": "Ankr-network"
+}

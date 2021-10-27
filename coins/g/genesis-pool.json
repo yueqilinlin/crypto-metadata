@@ -1,0 +1,25 @@
+{
+    "id": "genesis-pool",
+    "symbol": "gpool",
+    "name": "Genesis Pool",
+    "platforms": {
+        "ethereum": "0x797de1dc0b9faf5e25c1f7efe8df9599138fa09d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad"
+    ],
+    "description": {
+        "en": "Genesis Pool (GPool) is a decentralized cross-chain launchpad that enables projects to raise capital in a permissionless and interoperable environment from its community of investors.\r\nGPool will work with projects from an early stage, helping them to navigate the path to their initial DEX offering (IDO), allowing them to raise capital in a secure and safe environment."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x797de1dc0b9faf5e25c1f7efe8df9599138fa09d",
+    "url": "https://gpool.app/",
+    "explorers": [
+        "https://etherscan.io/token/0x797de1dc0b9faf5e25c1f7efe8df9599138fa09d",
+        "https://ethplorer.io/address/0x797de1dc0b9faf5e25c1f7efe8df9599138fa09d"
+    ],
+    "twitter": "gpoolofficial",
+    "telegram": "gpoolofficial"
+}

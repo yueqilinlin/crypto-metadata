@@ -1,0 +1,23 @@
+{
+    "id": "effort-economy",
+    "symbol": "efft",
+    "name": "Effort Economy",
+    "platforms": {
+        "binance-smart-chain": "0x144e72b405530ad82a5e6833ef1bb73d0bd2a216"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Effort Economy network enables apps and brands to give out Effort Tokens inside their apps through APIs that connect the apps to the Effort Economy backend. The Effort Economy network also uses an Earnings Processing system that receives the effort data from apps and brands and processes the Effort Token earnings of the app users.\r\n\r\nApps and brands can seamlessly integrate with the Effort Economy using an easy-to-install app interface icon that lets users view the actions they can perform to earn Effort Tokens as well as their earnings.\r\nThis one-tap global solution lets apps participate in the Effort Economy without disturbing the source code and core functionalities of their apps."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x144e72b405530ad82a5e6833ef1bb73d0bd2a216",
+    "url": "https://efforteconomy.io",
+    "explorers": [
+        "https://bscscan.com/token/0x144e72b405530ad82a5e6833ef1bb73d0bd2a216"
+    ],
+    "twitter": "EffortEconomy",
+    "telegram": "EffortEconomy",
+    "github_org": "EffortEconomy"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "8ball-finance",
+    "symbol": "8ball",
+    "name": "8Ball Finance",
+    "platforms": {
+        "polygon-pos": "0xa88b4ce79c5814fb7df5cc53a46bdf8e485168f9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Deflationary yield farm & AMM aggregator"
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0xa88b4ce79c5814fb7df5cc53a46bdf8e485168f9",
+    "url": "https://8ballfinance.io/",
+    "explorers": [
+        "https://polygonscan.com/token/0xa88b4ce79c5814fb7df5cc53a46bdf8e485168f9"
+    ],
+    "twitter": "8BallFi",
+    "telegram": "ateballfinance",
+    "github_org": "8ballfinance"
+}

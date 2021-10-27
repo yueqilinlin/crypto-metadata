@@ -1,0 +1,25 @@
+{
+    "id": "gather",
+    "symbol": "gth",
+    "name": "Gather",
+    "platforms": {
+        "ethereum": "0xc3771d47e2ab5a519e2917e61e23078d0c05ed7f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gather is a platform that allows publishers to monetize without ads, provides businesses & developers to access cheap and reliable processing power.\r\n\r\nGather Online (Layer 0) allows web & mobile developers to monetize from their users processing power.\r\nGather Network (Layer1) is the protocol layer, a hybrid proof of work and proof of stake blockchain, where stakeholders are incentivized to maintain transparency and security.\r\nGather Cloud (Layer 2) provides affordable processing power to enterprises and developers.\r\nGather Enterprise provides consultancy services and tooling for developers, businesses and crypto networks."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0xc3771d47e2ab5a519e2917e61e23078d0c05ed7f",
+    "url": "https://www.gather.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xc3771d47E2Ab5A519E2917E61e23078d0C05Ed7f",
+        "https://ethplorer.io/address/0xc3771d47E2Ab5A519E2917E61e23078d0C05Ed7f"
+    ],
+    "twitter": "Gather_Network",
+    "facebook": "GthNetwork",
+    "telegram": "GatherNetwork",
+    "reddit": "GatherNetwork/"
+}

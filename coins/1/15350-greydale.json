@@ -1,0 +1,26 @@
+{
+    "id": "15350-greydale",
+    "symbol": "realtoken-s-15350-greydale-st-detroit-mi",
+    "name": "RealT Token - 15350 Greydale St, Detroit, MI 48223",
+    "platforms": {
+        "xdai": "0xda47bd33e8f5d17bb81b8752784bfb46c1c44b2a",
+        "ethereum": "0xda47bd33e8f5d17bb81b8752784bfb46c1c44b2a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xda47bd33e8f5d17bb81b8752784bfb46c1c44b2a",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://blockscout.com/xdai/mainnet/tokens/0xdA47bD33e8f5d17Bb81b8752784bfb46C1c44B2A/token-transfers"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

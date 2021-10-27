@@ -1,0 +1,26 @@
+{
+    "id": "swampy",
+    "symbol": "swamp",
+    "name": "Swampy",
+    "platforms": {
+        "binance-smart-chain": "0xc5a49b4cbe004b6fd55b30ba1de6ac360ff9765d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Swampy is a governance token native to the Swamp.finance ecosystem. It's a yield optimiser hosted on Binance Smart Chain. Swampy token\u2019s utility is for participation in voting on SwampDAO proposals where holders can vote on new vaults additions and changes to tokenomics."
+    },
+    "country_origin": "SI",
+    "genesis_date": null,
+    "contract_address": "0xc5a49b4cbe004b6fd55b30ba1de6ac360ff9765d",
+    "url": "https://swamp.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xc5a49b4cbe004b6fd55b30ba1de6ac360ff9765d"
+    ],
+    "twitter": "SwampFinance",
+    "telegram": "swampfinance",
+    "github_org": "swamp-finance"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "baby-lion",
+    "symbol": "bln",
+    "name": "Baby Lion",
+    "platforms": {
+        "binance-smart-chain": "0x9134be3c6ebcc49c3bfdbdba15390aac47cc2bfa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Baby Lion is a flexible charity token with a system of raising funds for various charitable foundations from all over the world without requesting monetary donations. For every transaction, tax rewards holders and donates big sums to charities.\r\n\r\nBaby Lion is developing the first \"\"Play, Earn and Help Racing Game\"\" which is integrated with Blockchain Technology. A percentage of profits in the game will be used for charity."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x9134be3c6ebcc49c3bfdbdba15390aac47cc2bfa",
+    "url": "http://babylionroar.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x9134BE3c6EBCc49C3bfdbDba15390AAc47cc2BfA"
+    ],
+    "twitter": "TheBabyLionCoin",
+    "telegram": "babylioncoin",
+    "github_org": "BabyLionRoar"
+}

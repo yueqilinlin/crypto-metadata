@@ -1,0 +1,22 @@
+{
+    "id": "casper-network",
+    "symbol": "cspr",
+    "name": "Casper Network",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "The Casper Network is the first live proof-of-stake blockchain built off the Casper CBC specification. Casper is designed to accelerate enterprise and developer adoption of blockchain technology today and evolve to meet user needs in the future."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://casper.network/",
+    "explorers": [
+        "https://casperstats.io/"
+    ],
+    "twitter": "Casper_Network",
+    "telegram": "casperblockchain",
+    "github_org": "casper-ecosystem"
+}

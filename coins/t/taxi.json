@@ -1,0 +1,22 @@
+{
+    "id": "taxi",
+    "symbol": "taxi",
+    "name": "Taxi",
+    "platforms": {
+        "binance-smart-chain": "0xb08560ac3832f680d09b33cf3d8982bd78afcba8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Taxi.finance is a decentralized eco-system running on Binance Smart Chain, with an infrastructure that give the platform the ability to eliminate token\u2019s inflation. On top of that are tons of features help you earn and win tokens. Swap, Stake, NFT Hunt, NFT Betting, Games and Repeat."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0xb08560ac3832f680d09b33cf3d8982bd78afcba8",
+    "url": "https://taxi.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xb08560ac3832f680d09b33cf3d8982bd78afcba8"
+    ],
+    "twitter": "FinanceTaxi",
+    "telegram": "taxi_finance_chat"
+}

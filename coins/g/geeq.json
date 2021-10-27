@@ -1,0 +1,25 @@
+{
+    "id": "geeq",
+    "symbol": "GEEQ",
+    "name": "GEEQ",
+    "platforms": {
+        "ethereum": "0x6b9f031d718dded0d681c20cb754f97b3bb81b78"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Internet of Things (IOT)"
+    ],
+    "description": {
+        "en": "Geeq is a multi-blockchain platform secured by our Proof of Honesty protocol (PoH), safe enough for your most valuable data, cheap enough for IoT, and flexible enough for any use."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x6b9f031d718dded0d681c20cb754f97b3bb81b78",
+    "url": "https://geeq.io",
+    "explorers": [
+        "https://etherscan.io/token/0x6b9f031d718dded0d681c20cb754f97b3bb81b78",
+        "https://ethplorer.io/address/0x6b9f031d718dded0d681c20cb754f97b3bb81b78"
+    ],
+    "twitter": "GeeqOfficial",
+    "telegram": "GeeqOfficial"
+}

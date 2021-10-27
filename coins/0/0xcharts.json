@@ -1,0 +1,22 @@
+{
+    "id": "0xcharts",
+    "symbol": "0xc",
+    "name": "0xCharts",
+    "platforms": {
+        "binance-smart-chain": "0x86dd49963fe91f0e5bc95d171ff27ea996c0890c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The next evolution for real-time charts and portfolio tracking."
+    },
+    "country_origin": "CO",
+    "genesis_date": null,
+    "contract_address": "0x86dd49963fe91f0e5bc95d171ff27ea996c0890c",
+    "url": "https://0xcharts.io",
+    "explorers": [
+        "https://bscscan.com/token/0x86dd49963fe91f0e5bc95d171ff27ea996c0890c"
+    ],
+    "twitter": "0Charts",
+    "telegram": "OxCharts"
+}

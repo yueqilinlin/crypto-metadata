@@ -1,0 +1,24 @@
+{
+    "id": "aave-polygon-weth",
+    "symbol": "amWETH",
+    "name": "Aave Polygon WETH",
+    "platforms": {
+        "polygon-pos": "0x28424507fefb6f7f8e9d3860f56504e4e5f5f390"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x28424507fefb6f7f8e9d3860f56504e4e5f5f390",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0x28424507fefb6f7f8E9D3860F56504E4e5f5f390"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome"
+}

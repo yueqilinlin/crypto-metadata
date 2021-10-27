@@ -1,0 +1,24 @@
+{
+    "id": "bitzyon",
+    "symbol": "ZYON",
+    "name": "BitZyon",
+    "platforms": {
+        "binance-smart-chain": "0x153f02be2679d6e3ff7fd54ccd641afbadbc6557"
+    },
+    "hashing_algorithm": "X13",
+    "categories": [],
+    "description": {
+        "en": "BitZyon (ZYON) is a decentralized cryptocurrency aimed mainly at meeting economic and financial concerns, enabling the generation of income, and use in the business world, such as e-commerce."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0x153f02be2679d6e3ff7fd54ccd641afbadbc6557",
+    "url": "https://bitzyon.com",
+    "explorers": [
+        "https://bscscan.com/token/0x153f02be2679d6e3ff7fd54ccd641afbadbc6557"
+    ],
+    "twitter": "BitZyon1",
+    "facebook": "bitzyonPT",
+    "telegram": "BitzyonPT",
+    "github_org": "BitZyon-Official"
+}

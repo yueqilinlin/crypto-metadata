@@ -1,0 +1,24 @@
+{
+    "id": "aave-rai",
+    "symbol": "arai",
+    "name": "Aave RAI",
+    "platforms": {
+        "ethereum": "0xc9bc48c72154ef3e5425641a3c747242112a46af"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc9bc48c72154ef3e5425641a3c747242112a46af",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xc9BC48c72154ef3e5425641a3c747242112a46AF",
+        "https://ethplorer.io/address/0xc9BC48c72154ef3e5425641a3c747242112a46AF"
+    ],
+    "twitter": "aaveaave"
+}

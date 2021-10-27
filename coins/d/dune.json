@@ -1,0 +1,20 @@
+{
+    "id": "dune",
+    "symbol": "dun",
+    "name": "Dune",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dune Network is a novel platform for distributed applications over a blockchain. It started with its own genesis block on June 24, 2019, but uses an extended version of Tezos, open-source software as a basis to create a new platform with a focus on the easy development of distributed applications, thanks to multiple programming languages and communication technologies with other blockchains. Dune provides an entire ecosystem of dApps, features, and tools. In addition, it offers business and technical support to help entrepreneurs innovate and scale up via the network, whilst facilitating the integration of established companies on to its platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://dune.network",
+    "explorers": [
+        "https://dunscan.io/"
+    ],
+    "twitter": "dune_network",
+    "telegram": "dune_network",
+    "reddit": "dune_network"
+}

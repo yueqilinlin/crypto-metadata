@@ -1,0 +1,27 @@
+{
+    "id": "oasis-city",
+    "symbol": "osc",
+    "name": "Oasis City",
+    "platforms": {
+        "ethereum": "0x24700a297960e8477ce3ca6c58b70a7af3410398"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Virtual Reality"
+    ],
+    "description": {
+        "en": "Oasis City is a revolutionary VR-interlinked cryptocurrency ecosystem platform which will enable the realization of a fully-integrated virtual marketplace."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x24700a297960e8477ce3ca6c58b70a7af3410398",
+    "url": "https://www.oasiscity.io/en/",
+    "explorers": [
+        "https://etherscan.io/token/0x24700a297960e8477ce3ca6c58b70a7af3410398",
+        "https://ethplorer.io/address/0x24700a297960e8477ce3ca6c58b70a7af3410398"
+    ],
+    "twitter": "oasiscity_io",
+    "facebook": "oasiscity.official",
+    "telegram": "oasiscity_global",
+    "github_org": "oasiscityproject"
+}

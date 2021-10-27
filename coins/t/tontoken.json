@@ -1,0 +1,23 @@
+{
+    "id": "tontoken",
+    "symbol": "ton",
+    "name": "TONToken",
+    "platforms": {
+        "ethereum": "0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a",
+    "url": "https://toncommunity.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a",
+        "https://ethplorer.io/address/0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a"
+    ],
+    "telegram": "ton_en",
+    "github_org": "ton-blockchain"
+}

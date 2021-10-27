@@ -1,0 +1,21 @@
+{
+    "id": "mooncoin",
+    "symbol": "moon",
+    "name": "Mooncoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "For every millimetre of distance between Earth and Moon, there will be one Mooncoin. There is no premine for this coin."
+    },
+    "country_origin": "",
+    "genesis_date": "2013-12-30",
+    "url": "https://mooncoin.eco/",
+    "explorers": [
+        "http://cryptoguru.tk/Faucet/index.php?Currency=MOON",
+        "https://chainz.cryptoid.info/moon/"
+    ],
+    "twitter": "mooncoinitalia",
+    "reddit": "MoonCoin",
+    "github_org": "mooncoincore"
+}

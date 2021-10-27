@@ -1,0 +1,25 @@
+{
+    "id": "trustusd",
+    "symbol": "trusd",
+    "name": "TrustUSD",
+    "platforms": {
+        "ethereum": "0xdd436a0dce9244b36599ae7b22f0373b4e33992d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A true token only becomes a currency once it\u2019s used by markets as a store of value and means of exchange. TrustUSD is a stable asset protected against inflation and market volatiltiy while also serving the world\u2019s underbanked."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xdd436a0dce9244b36599ae7b22f0373b4e33992d",
+    "url": "https://unitedtrust.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xDD436a0Dce9244B36599AE7b22f0373b4e33992d",
+        "https://ethplorer.io/address/0xdd436a0dce9244b36599ae7b22f0373b4e33992d"
+    ],
+    "twitter": "TrustUSD",
+    "telegram": "trustusd",
+    "reddit": "https://www.reddit.com",
+    "github_org": "UnitedTrust"
+}

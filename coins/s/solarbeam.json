@@ -1,0 +1,23 @@
+{
+    "id": "solarbeam",
+    "symbol": "solar",
+    "name": "Solarbeam",
+    "platforms": {
+        "moonriver": "0x6bd193ee6d2104f14f94e2ca6efefae561a4334b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Solarbeam is a DEX on Moonriver, it harnesses the power of the Moonriver Parachain that is built on Kusama to provide a safe and seamless DEX experience for all users."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6bd193ee6d2104f14f94e2ca6efefae561a4334b",
+    "url": "https://solarbeam.io/",
+    "explorers": [
+        "https://blockscout.moonriver.moonbeam.network/tokens/0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B/token-transfers"
+    ],
+    "twitter": "solarbeamio",
+    "telegram": "solarbeamio",
+    "github_org": "solarbeamio"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "transmute",
+    "symbol": "XPb",
+    "name": "Transmute",
+    "platforms": {
+        "ethereum": "0xbc81bf5b3173bccdbe62dba5f5b695522ad63559",
+        "polygon-pos": "0xb272b6d99858b0efb079946942006727fe105201"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Transmute Protocol is trustless on-chain alchemy on Ethereum."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xbc81bf5b3173bccdbe62dba5f5b695522ad63559",
+    "url": "https://transmute.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0xbC81BF5B3173BCCDBE62dba5f5b695522aD63559",
+        "https://ethplorer.io/address/0xbC81BF5B3173BCCDBE62dba5f5b695522aD63559",
+        "https://polygonscan.com/token/0xb272b6d99858b0efb079946942006727fe105201"
+    ],
+    "twitter": "TransmuteFi",
+    "telegram": "transmuteprotocol"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "governor-dao",
+    "symbol": "gdao",
+    "name": "Governor DAO",
+    "platforms": {
+        "ethereum": "0x515d7e9d75e2b76db60f8a051cd890eba23286bc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Governance"
+    ],
+    "description": {
+        "en": "Governor is a DAO that seeks to offer Governance-as-a-Service to new DAOs in order to ensure active and fair governance on day zero. GDAO is the governance token that grants voting rights and represents ownership of the project treasury"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x515d7e9d75e2b76db60f8a051cd890eba23286bc",
+    "url": "https://governordao.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x515d7e9d75e2b76db60f8a051cd890eba23286bc",
+        "https://ethplorer.io/address/0x515d7e9d75e2b76db60f8a051cd890eba23286bc"
+    ],
+    "twitter": "Governor_DAO",
+    "telegram": "GovernorProject",
+    "github_org": "zhhuffman"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "deonex-token",
+    "symbol": "don",
+    "name": "DEONEX Token",
+    "platforms": {
+        "tron": "TSDWY8PLtqHyLYMB4rdgbjyuuS3HvHJinB"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A TRC-20 Crypto token for a modern economy with faster, secure and easy payments."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "TSDWY8PLtqHyLYMB4rdgbjyuuS3HvHJinB",
+    "url": "https://www.deonexcoin.net/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TSDWY8PLtqHyLYMB4rdgbjyuuS3HvHJinB"
+    ],
+    "twitter": "deonexcoin",
+    "facebook": "deonexcoin"
+}

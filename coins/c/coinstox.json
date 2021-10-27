@@ -1,0 +1,25 @@
+{
+    "id": "coinstox",
+    "symbol": "csx",
+    "name": "Coinstox",
+    "platforms": {
+        "ethereum": "0x3aadc3bce49724ce299fd9f3850211211c399c8c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Coinstox is the crowdfunding platform that leverages blockchain technology to connect businesses looking to raise capital, with investors looking for small investments."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0x3aadc3bce49724ce299fd9f3850211211c399c8c",
+    "url": "https://coinstox.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3aadc3BCe49724ce299fD9F3850211211c399C8c",
+        "https://ethplorer.io/address/0x3aadc3bce49724ce299fd9f3850211211c399c8c"
+    ],
+    "twitter": "the_coinstox",
+    "facebook": "Coinstoxio-102560158301307",
+    "telegram": "coinstox_community",
+    "reddit": "coinstox/"
+}

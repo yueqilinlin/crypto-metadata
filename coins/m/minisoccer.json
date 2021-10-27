@@ -1,0 +1,22 @@
+{
+    "id": "minisoccer",
+    "symbol": "minisoccer",
+    "name": "Minisoccer",
+    "platforms": {
+        "binance-smart-chain": "0x1bb2ddf857afc8cca364ff091462d607f1f37e9f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Minisoccer is a bridge between CryptoVerse and soccer. Connecting soccer and the crypto community through a series of competitions, bets, and prizes."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1bb2ddf857afc8cca364ff091462d607f1f37e9f",
+    "url": "https://minisoccertoken.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x1bb2ddf857afc8cca364ff091462d607f1f37e9f"
+    ],
+    "twitter": "MiniSoccerBsc",
+    "telegram": "MiniSoccerOfficial"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "schnoodle",
+    "symbol": "snood",
+    "name": "Schnoodle",
+    "platforms": {
+        "ethereum": "0xd45740ab9ec920bedbd9bab2e863519e59731941"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "Schnoodle is a fully decentralized, fair launched DeFi token owned entirely by its community.\r\nDesigned and expertly coded from the ground up, Schnoodle bridges all of the key trends that define the crypto space in 2021, including DeFi, meme coins, NFTs, and yield farming.\r\nWith oracle-based governance and multisig protection, Schnoodle will be the first of its kind to become a true DAO.\r\nSchnoodle's key features also include an eleemosynary fund, 4% hodler instant rewards, upgradeability, staking, farming, and NFT rewards."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0xd45740ab9ec920bedbd9bab2e863519e59731941",
+    "url": "https://schnoodle.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xd45740ab9ec920bedbd9bab2e863519e59731941",
+        "https://ethplorer.io/address/0xd45740ab9ec920bedbd9bab2e863519e59731941"
+    ],
+    "twitter": "SchnoodleDeFi",
+    "telegram": "SchnoodleDeFi",
+    "github_org": "schnoodledefi"
+}

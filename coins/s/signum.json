@@ -1,0 +1,28 @@
+{
+    "id": "signum",
+    "symbol": "signa",
+    "name": "Signum",
+    "platforms": {
+        "binance-smart-chain": "0x7b0e7e40ee4672599f7095d1ddd730b0805195ba"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7b0e7e40ee4672599f7095d1ddd730b0805195ba",
+    "url": "https://signum.network/",
+    "explorers": [
+        "https://explorer.signum.network/",
+        "https://explore.signumcoin.ro/",
+        "https://bscscan.com/token/0x7b0e7e40ee4672599f7095d1ddd730b0805195ba"
+    ],
+    "twitter": "signum_official",
+    "facebook": "BurstAlliance",
+    "reddit": "Signum/",
+    "github_org": "signum-network"
+}

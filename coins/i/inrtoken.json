@@ -1,0 +1,23 @@
+{
+    "id": "inrtoken",
+    "symbol": "inrt",
+    "name": "INRToken",
+    "platforms": {
+        "tron": "TVnRbEPaMKZzFm1JSBvDSmCXcWJVHzXGG5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The vision behind starting the INRToken.io and INRT as a new currency token is that we want to serve the medical and healthcare industry with this taken. People who are hospitalized or need emergency care anywhere in the world can pay using this currency so that there is no delay in getting healthcare.\r\n\r\nSimilarly, we believe that this currency will enable the transaction in the real estate industry where low level workers may not have regular bank accounts available with them."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TVnRbEPaMKZzFm1JSBvDSmCXcWJVHzXGG5",
+    "url": "https://inrtoken.io/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TVnRbEPaMKZzFm1JSBvDSmCXcWJVHzXGG5"
+    ],
+    "twitter": "InrToken",
+    "facebook": "INR-TOKEN-102543958031808",
+    "telegram": "INRTOKENC"
+}

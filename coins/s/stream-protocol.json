@@ -1,0 +1,23 @@
+{
+    "id": "stream-protocol",
+    "symbol": "stpl",
+    "name": "Stream Protocol",
+    "platforms": {
+        "ethereum": "0x9b5c2be869a19e84bdbcb1386dad83a2ec8dae82"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Reasonable content revenue distribution system"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x9b5c2be869a19e84bdbcb1386dad83a2ec8dae82",
+    "url": "https://www.streamprotocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9b5C2BE869a19e84BDBcb1386dAD83a2ec8DAe82",
+        "https://ethplorer.io/address/0x9b5C2BE869a19e84BDBcb1386dAD83a2ec8DAe82"
+    ],
+    "twitter": "streamprotocol",
+    "telegram": "stream_protocol"
+}

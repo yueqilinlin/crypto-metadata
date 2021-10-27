@@ -1,0 +1,26 @@
+{
+    "id": "moonswap",
+    "symbol": "moon",
+    "name": "MoonSwap",
+    "platforms": {
+        "ethereum": "0x68a3637ba6e75c0f66b61a42639c4e9fcd3d4824"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x68a3637ba6e75c0f66b61a42639c4e9fcd3d4824",
+    "url": "https://moonswap.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x68a3637ba6e75c0f66b61a42639c4e9fcd3d4824",
+        "https://ethplorer.io/address/0x68a3637ba6e75c0f66b61a42639c4e9fcd3d4824"
+    ],
+    "twitter": "imMoonSwap",
+    "telegram": "moonswap",
+    "github_org": "moon-migration"
+}

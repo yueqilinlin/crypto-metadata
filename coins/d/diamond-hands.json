@@ -1,0 +1,22 @@
+{
+    "id": "diamond-hands",
+    "symbol": "dhands",
+    "name": "Diamond Hands",
+    "platforms": {
+        "binance-smart-chain": "0x4552eafb35ec3aaca13b60c1edd593a61c021e37"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Next Generation Deflationary Token with Auto-Staking Rewards."
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "contract_address": "0x4552eafb35ec3aaca13b60c1edd593a61c021e37",
+    "url": "https://diamondhands.monster/",
+    "explorers": [
+        "https://bscscan.com/token/0x4552eafb35ec3aaca13b60c1edd593a61c021e37"
+    ],
+    "twitter": "DiamondHandsOfc",
+    "telegram": "DiamondHandsOfficial"
+}

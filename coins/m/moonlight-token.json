@@ -1,0 +1,23 @@
+{
+    "id": "moonlight-token",
+    "symbol": "moonlight",
+    "name": "Moonlight Token",
+    "platforms": {
+        "binance-smart-chain": "0xb1ced2e320e3f4c8e3511b1dc59203303493f382"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Moonlight is a token on the Binance Smart Chain (BSC). \r\n\r\nWe provide a comprehensive set of tools & alerts for BSC. We released our first product one month ago (Poocoin Promoted Alerts - PPA), and many other tools are on their way. \r\n\r\nMoonlight is a utility token: holding tokens is necessary to have access to our tools. This holding mechanism creates loyal Moonlight investors and helps reduce price volatility. "
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0xb1ced2e320e3f4c8e3511b1dc59203303493f382",
+    "url": "https://moonlighttoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xb1ced2e320e3f4c8e3511b1dc59203303493f382"
+    ],
+    "twitter": "moonlight_bsc",
+    "telegram": "moonlight_bsc",
+    "reddit": "Moonlight_BSC/"
+}

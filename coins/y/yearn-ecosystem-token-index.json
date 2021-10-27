@@ -1,0 +1,29 @@
+{
+    "id": "yearn-ecosystem-token-index",
+    "symbol": "yeti",
+    "name": "Yearn Ecosystem Token Index",
+    "platforms": {
+        "ethereum": "0xb4bebd34f6daafd808f73de0d10235a92fbb6c3d",
+        "avalanche": "0x488f73cddda1de3664775ffd91623637383d6404"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "DeFi Index",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb4bebd34f6daafd808f73de0d10235a92fbb6c3d",
+    "url": "https://powerindex.io/#/",
+    "explorers": [
+        "https://etherscan.io/token/0xb4bebD34f6DaaFd808f73De0d10235a92Fbb6c3D",
+        "https://ethplorer.io/address/0xb4bebd34f6daafd808f73de0d10235a92fbb6c3d"
+    ],
+    "twitter": "powerpoolcvp",
+    "telegram": "powerpoolcvp",
+    "github_org": "powerpool-finance"
+}

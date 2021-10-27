@@ -1,0 +1,24 @@
+{
+    "id": "starwire",
+    "symbol": "str",
+    "name": "Starwire",
+    "platforms": {
+        "ethereum": "0x11c1a6b3ed6bb362954b29d3183cfa97a0c806aa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Starwire is a global entertainment-focused monetary network that stores economic and creative energy. Using machine learning, blockchain technology, and smart contracts to provide a transparent way for any creative contributor of a digital asset to secure their IP and get paid every time money moves. The STR is a governance token that will allow the Starwire community to vote on proposals to fund creative projects, participate in Liquidity mining and qualify for Starwire perks. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x11c1a6b3ed6bb362954b29d3183cfa97a0c806aa",
+    "url": "https://www.starwire.io",
+    "explorers": [
+        "https://etherscan.io/token/0x11C1a6B3Ed6Bb362954b29d3183cfA97A0c806Aa",
+        "https://ethplorer.io/address/0x11C1a6B3Ed6Bb362954b29d3183cfA97A0c806Aa"
+    ],
+    "twitter": "starwireio",
+    "telegram": "starwire",
+    "github_org": "starwire"
+}

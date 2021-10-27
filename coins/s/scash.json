@@ -1,0 +1,23 @@
+{
+    "id": "scash",
+    "symbol": "scash",
+    "name": "sCASH",
+    "platforms": {
+        "huobi-token": "0xb6ccfa7ef3a295932536e0988cffd85228cb177c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Algorithmic Stablecoin Metaverse on HECO Chain, integrated with crosschain assets transform, long tail asset lending and NFT-GameFi applications."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0xb6ccfa7ef3a295932536e0988cffd85228cb177c",
+    "url": "https://www.supernova.cash/",
+    "explorers": [
+        "https://hecoinfo.com/token/0xb6ccFA7Ef3a295932536E0988CffD85228cB177c"
+    ],
+    "twitter": "Supernova_cash",
+    "telegram": "supernova_cash",
+    "github_org": "supernova-cash"
+}

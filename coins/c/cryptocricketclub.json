@@ -1,0 +1,26 @@
+{
+    "id": "cryptocricketclub",
+    "symbol": "3cs",
+    "name": "CryptoCricketClub",
+    "platforms": {
+        "ethereum": "0x4f56221252d117f35e2f6ab937a3f77cad38934d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "Crypto cricket Club will be the native token of our blockchain based escrow betting and fantasy game platform dedicated to the sports of cricket."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x4f56221252d117f35e2f6ab937a3f77cad38934d",
+    "url": "http://www.cryptocricketclub.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x4f56221252d117f35E2f6Ab937A3F77CAd38934D",
+        "https://ethplorer.io/address/0x4f56221252d117f35E2f6Ab937A3F77CAd38934D"
+    ],
+    "twitter": "cryptocricket_c",
+    "telegram": "cryptocricketclub_official",
+    "github_org": "cryptocricketclub"
+}

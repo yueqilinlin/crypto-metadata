@@ -1,0 +1,22 @@
+{
+    "id": "cakeup",
+    "symbol": "CakeUp",
+    "name": "CakeUp",
+    "platforms": {
+        "binance-smart-chain": "0x709018c03f5abe17485c1ef9c7b0ff19079af24a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CakeUp is the the newest wave of rebasing tokens on BSC. Holders of CakeUp are rewarded with Bep20 pegged CAKE. The rebasing mechanic allows the chart to always appear bullish with a constant wave of green candles. Leading to the price per token constantly increasing and the supply decreasing. Eventually causing the price to be pegged."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x709018c03f5abe17485c1ef9c7b0ff19079af24a",
+    "url": "https://cakeup.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x709018c03f5abe17485c1ef9c7b0ff19079af24a"
+    ],
+    "twitter": "CakeUPBSC",
+    "telegram": "cakeupbsc"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "thetimeschaincoin",
+    "symbol": "ttc",
+    "name": "TheTimesChainCoin",
+    "platforms": {
+        "ethereum": "0xaff4abdc75f07387401ba9bc0f75ebe4c734b4c9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TTC eco system is based on a blockchain and transparently and securely stores the acquisition, use, and transaction details of the assets. It also provides a blockchain, and integrates various digital settlement systems used in off-line It is aimed to equip an infinite \"settlement\" system."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaff4abdc75f07387401ba9bc0f75ebe4c734b4c9",
+    "url": "http://thetimeschaincoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xaff4abdc75f07387401ba9bc0f75ebe4c734b4c9",
+        "https://ethplorer.io/address/0xaff4abdc75f07387401ba9bc0f75ebe4c734b4c9"
+    ],
+    "telegram": "ttcservice"
+}

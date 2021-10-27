@@ -1,0 +1,25 @@
+{
+    "id": "bavala",
+    "symbol": "bva",
+    "name": "Bavala",
+    "platforms": {
+        "ethereum": "0x10d88d7495ca381df1391229bdb82d015b9ad17d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Bavala is an asset-backed instant swap exchange that shares all proceeds with stakers of the BVA token.\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x10d88d7495ca381df1391229bdb82d015b9ad17d",
+    "url": "https://www.bavala.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x10d88d7495ca381df1391229bdb82d015b9ad17d",
+        "https://ethplorer.io/address/0x10d88d7495ca381df1391229bdb82d015b9ad17d"
+    ],
+    "twitter": "bavalaofficial",
+    "telegram": "BAVALAOFFICIAL"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "shiba-cosmos",
+    "symbol": "shibco",
+    "name": "Shiba Cosmos",
+    "platforms": {
+        "ethereum": "0xc5c43ad81e6c76eaa1f2dd92cb6a11ff6b6d09ea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shiba Cosmos, is the token which will offset an exploration to discover the cosmos of Shiba's. As a collective and community, we want to discover and outline the true path and the Shiba to lead and dictate the holy grail of the Shiba Cosmos. We are everything and nothing at the same time, we are the Shiba Cosmos, and we will win."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc5c43ad81e6c76eaa1f2dd92cb6a11ff6b6d09ea",
+    "url": "https://shiba-cosmos.tech",
+    "explorers": [
+        "https://etherscan.io/token/0xc5c43ad81e6c76eaa1f2dd92cb6a11ff6b6d09ea",
+        "https://ethplorer.io/address/0xc5c43ad81e6c76eaa1f2dd92cb6a11ff6b6d09ea"
+    ],
+    "twitter": "CosmosShiba",
+    "telegram": "ShibaCosmo"
+}

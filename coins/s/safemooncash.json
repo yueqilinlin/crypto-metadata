@@ -1,0 +1,24 @@
+{
+    "id": "safemooncash",
+    "symbol": "safemooncash",
+    "name": "SafeMoonCash",
+    "platforms": {
+        "binance-smart-chain": "0xf017e2773e4ee0590c81d79ccbcf1b2de1d22877"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf017e2773e4ee0590c81d79ccbcf1b2de1d22877",
+    "url": "https://safemooncash.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xf017e2773e4ee0590c81d79ccbcf1b2de1d22877"
+    ],
+    "twitter": "safemooncash",
+    "telegram": "safemooncash",
+    "reddit": "https://www.reddit.com",
+    "github_org": "safemooncash"
+}

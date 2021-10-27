@@ -1,0 +1,25 @@
+{
+    "id": "fnd-otto-heldringstraat-31d",
+    "symbol": "fnd1066xt31d",
+    "name": "FND Ottho Heldringstraat 31D",
+    "platforms": {
+        "ethereum": "0x00873432f09143556cc156d3cf971e4c8f68dace"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FND Stablecoin part of the Fundum Capital Economy. Holders of the stablecoin will recieve monthly return on investment from rental income received from the tokenised real estate properties. ROI paid in FND Tokens. "
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x00873432f09143556cc156d3cf971e4c8f68dace",
+    "url": "https://fundum.capital",
+    "explorers": [
+        "https://etherscan.io/token/0x00873432f09143556cc156d3cf971e4c8f68dace",
+        "https://ethplorer.io/address/0x00873432f09143556cc156d3cf971e4c8f68dace"
+    ],
+    "twitter": "FundumCapital",
+    "facebook": "Fundum.Capital",
+    "telegram": "fundumcapital",
+    "reddit": "FundumCapital"
+}

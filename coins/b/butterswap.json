@@ -1,0 +1,23 @@
+{
+    "id": "butterswap",
+    "symbol": "butter",
+    "name": "ButterSwap",
+    "platforms": {
+        "huobi-token": "0xbf84214ea409a369774321727595f218889ed943"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The leading AMM and yield farm on Heco Chain. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbf84214ea409a369774321727595f218889ed943",
+    "url": "https://www.butterswap.me/",
+    "explorers": [
+        "https://hecoinfo.com/token/0xbf84214ea409a369774321727595f218889ed943"
+    ],
+    "twitter": "butterswap",
+    "telegram": "butterswap0",
+    "github_org": "butter-swap"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "landorc",
+    "symbol": "lorc",
+    "name": "LandOrc",
+    "platforms": {
+        "ethereum": "0x148958884544a8ad7c4895e6ffe2723932e0523a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x148958884544a8ad7c4895e6ffe2723932e0523a",
+    "url": "https://landorc.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x148958884544a8ad7c4895e6ffe2723932e0523a",
+        "https://ethplorer.io/address/0x148958884544a8ad7c4895e6ffe2723932e0523a"
+    ],
+    "twitter": "LandOrc1",
+    "telegram": "landorc",
+    "github_org": "LandOrc"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "dynamite-token",
+    "symbol": "dynmt",
+    "name": "Dynamite Token",
+    "platforms": {
+        "ethereum": "0x3b7f247f21bf3a07088c2d3423f64233d4b069f7",
+        "binance-smart-chain": "0xb1ce906c610004e27e74415aa9bcc90e46366f90"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cryptocurrency",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "DYNAMITE is a deflationary currency.Initially, there were 900,000 DYNMTs.Whenever a DYNMT is transferred, 2% of the transaction will be destroyed"
+    },
+    "country_origin": "ZZ",
+    "genesis_date": null,
+    "contract_address": "0x3b7f247f21bf3a07088c2d3423f64233d4b069f7",
+    "url": "https://www.dynft.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3b7f247f21bf3a07088c2d3423f64233d4b069f7",
+        "https://ethplorer.io/address/0x3b7f247f21bf3a07088c2d3423f64233d4b069f7"
+    ],
+    "twitter": "ddynmt",
+    "telegram": "DYNMT",
+    "github_org": "DynamiteToken"
+}

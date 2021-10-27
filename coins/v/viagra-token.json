@@ -1,0 +1,22 @@
+{
+    "id": "viagra-token",
+    "symbol": "viagra",
+    "name": "Viagra Token",
+    "platforms": {
+        "binance-smart-chain": "0x9628542656482ddee1989b04133f02a799eb0936"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Viagra Token is a community owned coin that provides donations to Men\u2019s Health charities all over the world, while rewarding holders with our deflationary, automatic LP distributing tokenomics."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x9628542656482ddee1989b04133f02a799eb0936",
+    "url": "https://viagratokenbsc.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x9628542656482ddee1989b04133f02a799eb0936"
+    ],
+    "twitter": "viagratoken",
+    "telegram": "getviagra"
+}

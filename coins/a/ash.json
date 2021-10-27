@@ -1,0 +1,23 @@
+{
+    "id": "ash",
+    "symbol": "ash",
+    "name": "ASH",
+    "platforms": {
+        "ethereum": "0x64d91f12ece7362f91a6f8e7940cd55f05060b92"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Burn.art allows you to burn NFTs for ASH, created by Murat PAK."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x64d91f12ece7362f91a6f8e7940cd55f05060b92",
+    "url": "https://burn.art/",
+    "explorers": [
+        "https://etherscan.io/token/0x64d91f12ece7362f91a6f8e7940cd55f05060b92",
+        "https://ethplorer.io/address/0x64d91f12ece7362f91a6f8e7940cd55f05060b92"
+    ]
+}

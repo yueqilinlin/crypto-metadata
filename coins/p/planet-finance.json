@@ -1,0 +1,25 @@
+{
+    "id": "planet-finance",
+    "symbol": "aqua",
+    "name": "Planet Finance",
+    "platforms": {
+        "binance-smart-chain": "0x72b7d61e8fc8cf971960dd9cfa59b8c829d91991"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Planet Finance is a complete decentralized financial ecosystem governed by AQUA. Planet Finance consists of multiple planets. Each planet is its own app with a focus. The Blue Planet is super-optimized stablecoin yields. The Red Planet is a super-optimized yield aggregator for blue-chip cryptos. The Green Planet is an incentivized lending & borrowing protocol. With more planets to come..."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x72b7d61e8fc8cf971960dd9cfa59b8c829d91991",
+    "url": "https://planetfinance.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x72b7d61e8fc8cf971960dd9cfa59b8c829d91991"
+    ],
+    "twitter": "planet_finance",
+    "telegram": "planet_finance",
+    "github_org": "planetfinance"
+}

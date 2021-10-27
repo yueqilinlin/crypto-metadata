@@ -1,0 +1,22 @@
+{
+    "id": "echo-tech-coin",
+    "symbol": "ecot",
+    "name": "Echo Tech Coin",
+    "platforms": {
+        "binance-smart-chain": "0x7cfffc84b2ae51bbcb6fdf90bed564a1543598c1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Create a decentralized network that monitors the supply of non-renewable energy to companies and institutions and monitors the illegal consumption that occurs.  Sensors can be set up to monitor the consumption of these companies.  The network can track this data and enter it directly into a smart contract.  The smart contract can be set up to implement fines or issue warnings for these facilities and also alerts will be issued to cities exposed to potential pollution due to corporate misuse.\r\n\r\n\r\n   Working on finding natural alternatives to non-renewable energy with the same efficiency."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7cfffc84b2ae51bbcb6fdf90bed564a1543598c1",
+    "url": "https://ecotechcoin.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x7cfffc84b2ae51bbcb6fdf90bed564a1543598c1"
+    ],
+    "twitter": "ECHOTECHCOIN",
+    "telegram": "Echotechcoin"
+}

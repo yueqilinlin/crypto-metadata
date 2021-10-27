@@ -1,0 +1,24 @@
+{
+    "id": "dfnorm-vault-nftx",
+    "symbol": "dfnorm",
+    "name": "DFNORM Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0x1ee01654665303a5dd2744e30b576941880e3a73"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "DFNORM Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs).\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1ee01654665303a5dd2744e30b576941880e3a73",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x1ee01654665303a5dd2744e30b576941880e3a73",
+        "https://ethplorer.io/address/0x1ee01654665303a5dd2744e30b576941880e3a73"
+    ],
+    "twitter": "nftx_"
+}

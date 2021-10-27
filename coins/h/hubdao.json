@@ -1,0 +1,24 @@
+{
+    "id": "hubdao",
+    "symbol": "hd",
+    "name": "HubDao",
+    "platforms": {
+        "ethereum": "0x6ce654ac973d326f89f0685e7459542641410ed9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HubDAO proposes a solution to aggregate lending, which can aggregate the lending liquidity of Compound,\r\nAAVE and other DEFI applications. HubDAO also runs its own lending platform, lending zone, to provide users\r\nwith more personalized services. In addition, users who provide liquidity to HubDAO can also participate in\r\nfarming and receive additional rewards. But most importantly, HubDAO adopts the organizational mode of DAO\r\n(decentralized autonomous organization) to best optimize for democratic governance.\r\nHubDAO is aiming to build a Decentralized Financial Autonomous Organization ecosystem. The Hub refers to\r\nthe hub of the \"\"hub and spoke (H&S) system,\"\" which is like the central point at which various spokes on a bike\r\nwheel converge.\r\nThe DAO (decentralized autonomous organization) is quite different from the common company organization,\r\nwhich is often a centralized management that makes decisions based on the opinions and the votes of the top\r\nleaders of the company. Thus, in order to decentralize the decision-making of the DAO, the operation and\r\ndevelopment of overall governance depends on the distribution of the votes to enable a complete direct democratic\r\ngovernance system. However, the problem is that the efficiency is low and it is difficult to count everyone\u2019s votes.\r\nThe Blockchain technology makes this DAO vision possible, as the voting system on the chain is efficient.\r\nIndividuals can show different voting weights by holding onto different numbers of tokens.\r\nHence, HubDAO is a decentralized ecosystem in which the volunteers participate in the management by using\r\nthe blockchain technology to build a community operation and autonomous decentralized financial ecosystem\r\nbased on direct democratic governance. HubDAO improves the external scalability of the original decentralized\r\nfinance system by combining various external platforms, financial services and hub and spoke (H & S) system."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6ce654ac973d326f89f0685e7459542641410ed9",
+    "url": "https://hubdao.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x6ce654ac973d326f89f0685e7459542641410ed9",
+        "https://ethplorer.io/address/0x6ce654ac973d326f89f0685e7459542641410ed9"
+    ],
+    "twitter": "hub_dao",
+    "telegram": "hub_DAO_Community",
+    "github_org": "hub-dao"
+}

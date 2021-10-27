@@ -1,0 +1,22 @@
+{
+    "id": "litedoge",
+    "symbol": "ldoge",
+    "name": "LiteDoge",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "LiteDoge is a lite version of dogecoin with zero premine. The first 29 blocks has a reward of 1000 LiteDoge. Blocks 30-999 gives out 1 million LiteDoge as reward. The mining reward subsequently halves every 1000 blocks. The scrypt Proof-of-Work stage ended at block 8000 at which point the Proof-of-Stake phase kicks in. "
+    },
+    "country_origin": "US",
+    "genesis_date": "2015-03-16",
+    "url": "http://litedogeofficial.org",
+    "explorers": [
+        "https://explorer.ldoge-wow.com/"
+    ],
+    "twitter": "Litedoge2018",
+    "facebook": "litedoge",
+    "telegram": "ldoge",
+    "reddit": "https://www.reddit.comhttps://reddit.com/r/litedoge",
+    "github_org": "vashshawn"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "tama-finance",
+    "symbol": "tama",
+    "name": "Tama Finance",
+    "platforms": {
+        "binance-smart-chain": "0x0f1c6791a8b8d764c78dd54f0a151ec4d3a0c090"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tamarin is a new token launching on BSC, inspired by Safemoon, aiming to improve on the model in 3 key ways: safety, charity, and sustainability."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0f1c6791a8b8d764c78dd54f0a151ec4d3a0c090",
+    "url": "https://tama.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x0f1c6791a8b8d764c78dd54f0a151ec4d3a0c090"
+    ],
+    "twitter": "TamarinToken",
+    "telegram": "tamafinance"
+}

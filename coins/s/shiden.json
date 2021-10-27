@@ -1,0 +1,20 @@
+{
+    "id": "shiden",
+    "symbol": "sdn",
+    "name": "Shiden Network",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shiden Network is a multi-chain decentralized application layer on Kusama Network. Kusama Relaychain does not support smart contract functionality by design - Kusama Network needs a smart contract layer. This is where Shiden Network comes in. Shiden supports Ethereum Virtual Machine, WebAssembly, and Layer2 solutions from day one. The platform supports various applications like DeFi, NFTs and more."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://shiden.astar.network/",
+    "explorers": [
+        "https://shiden.subscan.io/"
+    ],
+    "twitter": "ShidenNetwork",
+    "telegram": "PlasmOfficial",
+    "github_org": "PlasmNetwork"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "squirrel-finance",
+    "symbol": "nuts",
+    "name": "Squirrel Finance",
+    "platforms": {
+        "binance-smart-chain": "0x8893d5fa71389673c5c4b9b3cb4ee1ba71207556"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Insurance",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Ecosystem to empower simple & secure DeFi."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8893d5fa71389673c5c4b9b3cb4ee1ba71207556",
+    "url": "https://squirrel.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x8893d5fa71389673c5c4b9b3cb4ee1ba71207556"
+    ],
+    "twitter": "SquirrelDefi",
+    "telegram": "SquirrelDefi"
+}

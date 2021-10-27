@@ -1,0 +1,22 @@
+{
+    "id": "alien-worlds-bsc",
+    "symbol": "tlm",
+    "name": "Alien Worlds (BSC)",
+    "platforms": {
+        "binance-smart-chain": "0x2222227e22102fe3322098e4cbfe18cfebd57c95"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Alien Worlds is a DeFi NFT metaverse where you can collect and play with unique digital items.\r\n\r\nIt is the 19th project on Binance Launchpad, for more information, please refer to <a href=\"https://www.binance.com/en/support/announcement/8d10c09ef69e4287ba01d8840178fcfd\">Binance Announcement Post</a>."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2222227e22102fe3322098e4cbfe18cfebd57c95",
+    "url": "https://alienworlds.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x2222227e22102fe3322098e4cbfe18cfebd57c95"
+    ],
+    "twitter": "alienworlds",
+    "telegram": "AlienWorldsOffical"
+}

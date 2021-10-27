@@ -1,0 +1,27 @@
+{
+    "id": "polinate",
+    "symbol": "poli",
+    "name": "Polinate",
+    "platforms": {
+        "ethereum": "0xa1a36d3537bbe375cc9694795f663ddc8d516db9",
+        "polygon-pos": "0x6fb54ffe60386ac33b722be13d2549dd87bf63af"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Polinate is a next generation crowdfunding platform designed to discover, launch and empower creatives globally in a permissionless way.\r\n\r\nWe give creators their break to get funded by connecting creative projects, investors, fans and patrons.\r\n\r\nWe are building the backbone of a new global creator economy. It doesn't matter where you are from, social status, banked or unbanked. If you add value, you benefit."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa1a36d3537bbe375cc9694795f663ddc8d516db9",
+    "url": "https://www.polinate.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa1a36d3537bbe375cc9694795f663ddc8d516db9",
+        "https://ethplorer.io/address/0xa1a36d3537bbe375cc9694795f663ddc8d516db9",
+        "https://polygonscan.com/token/0x6fb54Ffe60386aC33b722be13d2549dd87BF63AF"
+    ],
+    "twitter": "polinate_io",
+    "telegram": "polinate"
+}

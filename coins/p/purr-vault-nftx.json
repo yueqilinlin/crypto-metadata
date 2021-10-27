@@ -1,0 +1,25 @@
+{
+    "id": "purr-vault-nftx",
+    "symbol": "purr",
+    "name": "PURR Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xe581f272706581f9dcc362df3c7934e99192c492"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe581f272706581f9dcc362df3c7934e99192c492",
+    "url": "purrnelopescountryclub.com",
+    "explorers": [
+        "https://etherscan.io/token/0xE581F272706581F9Dcc362dF3C7934E99192c492",
+        "https://ethplorer.io/address/0xe581f272706581f9dcc362df3c7934e99192c492"
+    ],
+    "twitter": "PurrnelopesCC"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "matrix-ai-network",
+    "symbol": "man",
+    "name": "Matrix AI Network",
+    "platforms": {
+        "ethereum": "0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Artificial Intelligence"
+    ],
+    "description": {
+        "en": "MATRIX AI Network (MAN) is a global open-source, public, intelligent blockchain-based distributed computing platform and operating system that combines artificial intelligence (AI) and blockchain. MATRIX was created to make blockchains faster, more flexible, more secure, and more intelligent.\r\n\r\nBesides boasting an impressive 50.000 transactions per second, there are a couple of features which makes Matrix AI Network stand out from its competitors.\r\nMatrix adopts a Hybrid PoS + PoW consensus mechanism instead of the traditional Hash computations. The mechanism makes use of value-added computation through the use of the Markov Chain Monte Carlo (MCMC) computations. This computation set is to be used as the Proof-of-Work protocol. This allows the mining process to not only generate MAN tokens but to also be used to power real-world applications. Currently being used in collaboration with Beijing cancer Research hospital to improve speed and accuracy of a cancer diagnosis.\r\n\r\nWhile the project seems ambitious with the integration of a working AI in so many areas, the AI-part is already done. Matrix now only has to deliver a working blockchain solution. MATRIX will be launching several community activities after its testnet launch, including a Bug Bounty Program and a Dapp competition, as well as introducing the MATRIX Blockchain Browser and Online Wallet Prototype. Details and instructions will be shared over the coming weeks. Full manner is set to launch December 2018. The MATRIX mining machine is set to launch for sale end of the year 2018."
+    },
+    "country_origin": "CN",
+    "genesis_date": "2018-01-17",
+    "contract_address": "0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d",
+    "url": "https://www.matrix.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d",
+        "https://ethplorer.io/address/0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d",
+        "https://tom.matrix.io"
+    ],
+    "twitter": "matrixainetwork",
+    "facebook": "MATRIXAINetworks",
+    "telegram": "matrixainetwork",
+    "reddit": "MatrixAINetwork/",
+    "github_org": "MatrixAINetwork"
+}

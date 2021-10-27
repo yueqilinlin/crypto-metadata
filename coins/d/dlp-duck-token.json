@@ -1,0 +1,27 @@
+{
+    "id": "dlp-duck-token",
+    "symbol": "duck",
+    "name": "DLP Duck Token",
+    "platforms": {
+        "ethereum": "0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f",
+        "binance-smart-chain": "0x5d186e28934c6b0ff5fc2fece15d1f34f78cbd87"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad"
+    ],
+    "description": {
+        "en": "The Duck Liquidity Pool is a DuckDAO DeFi Market Maker protocol that will provide an opportunity for yield farmers to take advantage of the new opportunities with real skin in the game. At the very core of the DLP is the \u201cOne-Sided Token Burn\u201d (Unilateral burn) which is counterintuitive at first, because it burns 50% of the earned rewards."
+    },
+    "country_origin": "PA",
+    "genesis_date": null,
+    "contract_address": "0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f",
+    "url": "https://duckdao.io",
+    "explorers": [
+        "https://etherscan.io/token/0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f",
+        "https://ethplorer.io/address/0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f",
+        "https://bscscan.com/token/0x5d186e28934c6b0ff5fc2fece15d1f34f78cbd87"
+    ],
+    "twitter": "dao_duck",
+    "telegram": "duckliquiditypool"
+}

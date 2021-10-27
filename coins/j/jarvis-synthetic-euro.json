@@ -1,0 +1,28 @@
+{
+    "id": "jarvis-synthetic-euro",
+    "symbol": "jeur",
+    "name": "Jarvis Synthetic Euro",
+    "platforms": {
+        "ethereum": "0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b",
+        "polygon-pos": "0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "EUR Stablecoin",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "jEUR is a multi-collateralized synthetic token tracking the price of Euro. It is built on the top of UMA and Chainlink."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b",
+    "url": "https://jarvis.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b",
+        "https://ethplorer.io/address/0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b",
+        "https://polygonscan.com/token/0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c"
+    ],
+    "twitter": "Jarvis_Network",
+    "telegram": "jarvisnetwork"
+}

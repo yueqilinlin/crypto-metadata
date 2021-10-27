@@ -1,0 +1,24 @@
+{
+    "id": "xkncb",
+    "symbol": "xkncb",
+    "name": "xKNCb",
+    "platforms": {
+        "ethereum": "0x06890d4c65a4cb75be73d7ccb4a8ee7962819e81"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Wrapper for the KyberDAO staking process; mandate to maximize rebates to reserves"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x06890d4c65a4cb75be73d7ccb4a8ee7962819e81",
+    "url": "https://xtoken.market",
+    "explorers": [
+        "https://etherscan.io/token/0x06890D4c65A4cB75be73D7CCb4a8ee7962819E81",
+        "https://ethplorer.io/address/0x06890d4c65a4cb75be73d7ccb4a8ee7962819e81"
+    ],
+    "github_org": "xtokenmarket"
+}

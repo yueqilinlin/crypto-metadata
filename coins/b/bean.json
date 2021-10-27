@@ -1,0 +1,23 @@
+{
+    "id": "bean",
+    "symbol": "bean",
+    "name": "Bean",
+    "platforms": {
+        "ethereum": "0xdc59ac4fefa32293a95889dc396682858d52e5db"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The practicality of using Decentralized Finance is limited by the lack of a decentralized, collateral-free stablecoin. Borrowing rates on USD stablecoins remain excessively high, even as supply increases rapidly. Supply cannot meet demand due to collateral requirements.\r\n\r\nBeanstalk uses credit instead of collateral to create a decentralized, liquid, blockchain-native asset, which is stable relative to the value of a non-blockchain-native asset.\r\n\r\nBeanstalk creates protocol-native financial incentives to encourage participation in peg maintenance and governance without requiring any action from everyday Bean users."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdc59ac4fefa32293a95889dc396682858d52e5db",
+    "url": "https://bean.money/",
+    "explorers": [
+        "https://etherscan.io/token/0xdc59ac4fefa32293a95889dc396682858d52e5db",
+        "https://ethplorer.io/address/0xdc59ac4fefa32293a95889dc396682858d52e5db"
+    ],
+    "twitter": "BeanstalkFarms",
+    "github_org": "BeanstalkFarms"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "moonday-finance",
+    "symbol": "Moonday",
+    "name": "Moonday Finance",
+    "platforms": {
+        "ethereum": "0x1ad606adde97c0c28bd6ac85554176bc55783c01"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"moonday.finance (MOONDAY) is a low supply deflationary token. there has only been 1969 ever created and 1% is burned per transaction. The theory is to create a token that deflates over time to test if deflationary tokens get value based upon burns over time. \r\n\r\n"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x1ad606adde97c0c28bd6ac85554176bc55783c01",
+    "url": "https://moondayfinance.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1ad606adde97c0c28bd6ac85554176bc55783c01",
+        "https://ethplorer.io/address/0x1ad606adde97c0c28bd6ac85554176bc55783c01"
+    ],
+    "twitter": "moondayfinance",
+    "telegram": "officialmoondayfinance"
+}

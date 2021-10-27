@@ -1,0 +1,25 @@
+{
+    "id": "spiritswap",
+    "symbol": "spirit",
+    "name": "SpiritSwap",
+    "platforms": {
+        "fantom": "0x5cc61a78f164885776aa610fb0fe1257df78e59b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Fantom Ecosystem",
+        "Automated Market Maker (AMM)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "SpiritSwap token is the exchange token of the SpiritSwap DEX, a decentralized exchange using the constant product\u00a0automated market maker\u00a0(amm) model on the Fantom network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5cc61a78f164885776aa610fb0fe1257df78e59b",
+    "url": "https://www.spiritswap.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0x5cc61a78f164885776aa610fb0fe1257df78e59b"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "reeth",
+    "symbol": "reeth",
+    "name": "Reeth",
+    "platforms": {
+        "ethereum": "0xe804964c296e9fb666fbe67767838c1ff9ab3209"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rebasing Ethereum token whose supply increases when the price is above target and supply decreases when the price is below target."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe804964c296e9fb666fbe67767838c1ff9ab3209",
+    "url": "https://www.stabilize.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xe804964c296e9fb666fbe67767838c1ff9ab3209",
+        "https://ethplorer.io/address/0xe804964c296e9fb666fbe67767838c1ff9ab3209"
+    ],
+    "twitter": "StabilizePro",
+    "telegram": "stabilizeprotocol"
+}

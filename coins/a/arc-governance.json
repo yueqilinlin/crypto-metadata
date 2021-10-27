@@ -1,0 +1,27 @@
+{
+    "id": "arc-governance",
+    "symbol": "arcx",
+    "name": "ARC Governance",
+    "platforms": {
+        "ethereum": "0x1321f1f1aa541a56c31682c57b80ecfccd9bb288"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Non-Fungible Tokens (NFT)",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1321f1f1aa541a56c31682c57b80ecfccd9bb288",
+    "url": "https://arcx.money/",
+    "explorers": [
+        "https://etherscan.io/token/0x1321f1f1aa541a56c31682c57b80ecfccd9bb288",
+        "https://ethplorer.io/address/0x1321f1f1aa541a56c31682c57b80ecfccd9bb288"
+    ],
+    "twitter": "arcxmoney"
+}

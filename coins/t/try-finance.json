@@ -1,0 +1,24 @@
+{
+    "id": "try-finance",
+    "symbol": "try",
+    "name": "Try.Finance",
+    "platforms": {
+        "ethereum": "0xc12ecee46ed65d970ee5c899fcc7ae133aff9b03"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TRY.finance is a deflationary governance DEFI token which provides exceptional rewards to active users via Smart Contract protocols, while seamlessly incorporating transactional lotto pool rewards with buyback features and anti dump mechanics. TRY token is designed to be sustainable and maximize its value by being truly deflationary and encouraging users to be active by offering exceptional rewards. Every reward TRY token distributes is never detrimental to the overall supply, this means that the growth of TRY token will never be hindered in any way."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc12ecee46ed65d970ee5c899fcc7ae133aff9b03",
+    "url": "https://try.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xc12ecee46ed65d970ee5c899fcc7ae133aff9b03",
+        "https://ethplorer.io/address/0xc12ecee46ed65d970ee5c899fcc7ae133aff9b03"
+    ],
+    "twitter": "try_finance",
+    "telegram": "TRY_official",
+    "github_org": "try_finance"
+}

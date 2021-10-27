@@ -1,0 +1,20 @@
+{
+    "id": "simple-masternode-coin",
+    "symbol": "smnc",
+    "name": "Simple Masternode Coin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [],
+    "description": {
+        "en": "Simple Masternode Coin (SMNC) is a cryptocurrency blockchain, with an embedded Proof of Stake (POS) and Masternode (MN) functions.\r\nUsers can contribute to the network in two separate ways.\r\nProof of Stake: 10% of every block reward goes to the stake holders of the project. Individuals that stake will receive a portion of the POS rewards.\r\nMasternodes: 90% of every bock reward goes to Masternode holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://smnccoin.com/",
+    "explorers": [
+        "http://explorer.smnccoin.com"
+    ],
+    "twitter": "smnccoin",
+    "telegram": "smnccoin",
+    "github_org": "smnccoin"
+}

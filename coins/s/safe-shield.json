@@ -1,0 +1,24 @@
+{
+    "id": "safe-shield",
+    "symbol": "sfshld",
+    "name": "Safe Shield",
+    "platforms": {
+        "ethereum": "0x11a605d7e12b64d713e93c487277d819a1d14b99"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Safe Shield ($SFSHLD) was created by a group of developers with over 15 years of combined experience on both frontend and backend technologies; they've worked on big software projects, including OnePlus firmware and Hulu mobile app! Their objective is to make the crypto space a bit safer for everyone by helping newcomers -and experienced traders- avoid scams. Safe Shield Token will be used to unlock additional features within the Safe Solidity Ecosystem, such as breakdowns of validation results and holder analysis on their contract scanner. Their ultimate goal: to create a world free of rugs!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x11a605d7e12b64d713e93c487277d819a1d14b99",
+    "url": "https://safesolidity.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x11a605d7e12b64d713e93c487277d819a1d14b99",
+        "https://ethplorer.io/address/0x11a605d7e12b64d713e93c487277d819a1d14b99"
+    ],
+    "twitter": "SafeSolidity",
+    "telegram": "safeshieldtoken",
+    "github_org": "Safe-Solidity"
+}

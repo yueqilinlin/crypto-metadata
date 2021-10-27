@@ -1,0 +1,26 @@
+{
+    "id": "tronipay",
+    "symbol": "trp",
+    "name": "Tronipay",
+    "platforms": {
+        "ethereum": "0x9b1e1fc958b83e801d1342f9f9ba7da3a55ba1ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Tronipay (TRP) is already a reality and was created through the technology Ethereum ERC20, which brings us scalability and security, and reaches the market with the proposal to revolutionize the means of liquidity, granting owners exclusive benefits, including the discount on purchase of the card, lower rate for purchases and withdrawals and a global acceptance since its flag is UnionPay, in addition to better service and greater efficiency and speed in the shipments to the users."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0x9b1e1fc958b83e801d1342f9f9ba7da3a55ba1ef",
+    "url": "https://www.tronipaycard.com",
+    "explorers": [
+        "https://etherscan.io/token/0x9b1e1fc958b83e801d1342f9f9ba7da3a55ba1ef",
+        "https://ethplorer.io/address/0x9b1e1fc958b83e801d1342f9f9ba7da3a55ba1ef"
+    ],
+    "twitter": "tronipay",
+    "facebook": "tronipay",
+    "telegram": "tronipaycard"
+}

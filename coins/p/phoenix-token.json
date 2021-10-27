@@ -1,0 +1,29 @@
+{
+    "id": "phoenix-token",
+    "symbol": "phx",
+    "name": "Phoenix Token",
+    "platforms": {
+        "ethereum": "0xaec65404ddc3af3c897ad89571d5772c1a695f22",
+        "binance-smart-chain": "0xac86e5f9ba48d680516df50c72928c2ec50f3025",
+        "polygon-pos": "0x9c6bfedc14b5c23e3900889436edca7805170f01",
+        "wanchain": "0xf17c59bf0f6326da7a8cc2ce417e4f53a26707bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Phoenix Finance is a DeFi platform specialised in crypto financial derivatives. Besides mining and staking opportunities, our users can trade both options and decentralised leveraged tokens.\r\n\r\nOptions are traded using a pooled assets mechanism that allows for premiums to be shared and risks diversified. Decentralised leveraged tokens provide stable leverage, simplicity and do away with the usual difficulties associated with trading on margin."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaec65404ddc3af3c897ad89571d5772c1a695f22",
+    "url": "https://www.phx.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xAeC65404DdC3af3C897AD89571d5772C1A695F22",
+        "https://ethplorer.io/address/0xAeC65404DdC3af3C897AD89571d5772C1A695F22",
+        "https://bscscan.com/token/0xac86e5f9ba48d680516df50c72928c2ec50f3025",
+        "https://www.wanscan.org/token/0xf17c59bf0f6326da7a8cc2ce417e4f53a26707bd"
+    ],
+    "twitter": "Phoenix__PHX",
+    "telegram": "Phoenix_Finance",
+    "github_org": "Phoenix-Finance"
+}

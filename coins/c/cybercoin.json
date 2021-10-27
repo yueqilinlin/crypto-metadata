@@ -1,0 +1,23 @@
+{
+    "id": "cybercoin",
+    "symbol": "CBR",
+    "name": "Cybercoin",
+    "platforms": {
+        "ethereum": "0x4ba012f6e411a1be55b98e9e62c3a4ceb16ec88b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The CYBERCOIN is a series of projects including but not limited to a social network, digital advertising network and blockchain dApp platform which will utilize CYBERCOIN, an ERC20 deflationary and staking token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4ba012f6e411a1be55b98e9e62c3a4ceb16ec88b",
+    "url": "https://www.cybercoin.site/",
+    "explorers": [
+        "https://etherscan.io/token/0x4ba012f6e411a1be55b98e9e62c3a4ceb16ec88b",
+        "https://ethplorer.io/address/0x4ba012f6e411a1be55b98e9e62c3a4ceb16ec88b"
+    ],
+    "twitter": "_cybercoin",
+    "telegram": "cybercoinchat"
+}

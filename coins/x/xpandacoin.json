@@ -1,0 +1,21 @@
+{
+    "id": "xpandacoin",
+    "symbol": "xpc",
+    "name": "XPandaCoin",
+    "platforms": {
+        "binance-smart-chain": "0xd5bd23477f92dfd36a3d86f353a57d083b427e88"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd5bd23477f92dfd36a3d86f353a57d083b427e88",
+    "url": "https://www.xpandagame.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xD5BD23477f92Dfd36a3D86f353a57D083b427e88"
+    ],
+    "github_org": "xpandatech"
+}

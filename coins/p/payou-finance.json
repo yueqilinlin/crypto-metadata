@@ -1,0 +1,24 @@
+{
+    "id": "payou-finance",
+    "symbol": "payou",
+    "name": "Payou Finance",
+    "platforms": {
+        "ethereum": "0xcb2fa15f4ea7c55bf6ef9456a662412b137043e9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PAYOU.FINANCE is the first DEX protocol that unlocks the full potential of decentralized derivatives and borderless in DeFi "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcb2fa15f4ea7c55bf6ef9456a662412b137043e9",
+    "url": "https://www.payou.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xcb2fa15f4ea7c55bf6ef9456a662412b137043e9",
+        "https://ethplorer.io/address/0xcb2fa15f4ea7c55bf6ef9456a662412b137043e9"
+    ],
+    "twitter": "payoufinance",
+    "telegram": "PayouFinance",
+    "github_org": "payoufinance"
+}

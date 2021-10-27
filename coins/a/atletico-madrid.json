@@ -1,0 +1,24 @@
+{
+    "id": "atletico-madrid",
+    "symbol": "atm",
+    "name": "Atletico Madrid Fan Token",
+    "platforms": {
+        "chiliz": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fan Token",
+        "Sports"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.atleticodemadrid.com/",
+    "explorers": [
+        "https://explorer.chiliz.com/address/0x87f0600b13cf4ef14b0b98956c6317d80b45ef5f"
+    ],
+    "twitter": "Atleti",
+    "facebook": "AtleticodeMadrid"
+}

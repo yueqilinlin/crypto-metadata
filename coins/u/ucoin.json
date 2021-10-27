@@ -1,0 +1,20 @@
+{
+    "id": "ucoin",
+    "symbol": "u",
+    "name": "Ucoin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": null,
+    "genesis_date": "2015-01-30",
+    "url": "http://ucoin.name/",
+    "explorers": [
+        "http://ucoin.explorer.ssdpool.com:9124/"
+    ],
+    "twitter": "ucointeam",
+    "reddit": "ucointeam",
+    "github_org": "ucointeam"
+}

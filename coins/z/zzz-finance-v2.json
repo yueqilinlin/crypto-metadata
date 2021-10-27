@@ -1,0 +1,26 @@
+{
+    "id": "zzz-finance-v2",
+    "symbol": "zzzv2",
+    "name": "zzz.finance v2",
+    "platforms": {
+        "ethereum": "0x93ed140172ff226dad1f7f3650489b8daa07ae7f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x93ed140172ff226dad1f7f3650489b8daa07ae7f",
+    "url": "https://zzz.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x93ed140172ff226dad1f7f3650489b8daa07ae7f",
+        "https://ethplorer.io/address/0x93ed140172ff226dad1f7f3650489b8daa07ae7f"
+    ],
+    "twitter": "zzzfinance",
+    "telegram": "zzzfinance",
+    "github_org": "ZZZ-Finance"
+}

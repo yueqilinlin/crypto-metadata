@@ -1,0 +1,23 @@
+{
+    "id": "foobee",
+    "symbol": "fbe",
+    "name": "Foobee",
+    "platforms": {
+        "polygon-pos": "0x6f0dcc6597c86a2fde9795f634f621f947ca125c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Foobee is the world\u2019s first dating and social meetup integrated crypto ecosystem. We allow users to earn our native Foobee Tokens based on how they connect with others on the platform. With Foobee you are always in control, building your own networks within the greater community! Combined into a single intuitive interface, Foobee redefines and gamifies the dating and social app experience, by using tokens to motivate users to engage within the Foobee ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6f0dcc6597c86a2fde9795f634f621f947ca125c",
+    "url": "https://www.foobee.io/",
+    "explorers": [
+        "https://polygonscan.com/token/0x6f0dCC6597C86A2FdE9795F634f621f947CA125c"
+    ],
+    "twitter": "foobeeapp",
+    "telegram": "FoobeeToken",
+    "github_org": "FoobeeToken"
+}

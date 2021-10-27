@@ -1,0 +1,27 @@
+{
+    "id": "vidya",
+    "symbol": "vidya",
+    "name": "Vidya",
+    "platforms": {
+        "ethereum": "0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30",
+    "url": "https://team3d.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30",
+        "https://ethplorer.io/address/0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30"
+    ],
+    "twitter": "team3d_official",
+    "telegram": "Team3D_Official"
+}

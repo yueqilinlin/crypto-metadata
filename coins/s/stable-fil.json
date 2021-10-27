@@ -1,0 +1,24 @@
+{
+    "id": "stable-fil",
+    "symbol": "onefil",
+    "name": "Stable FIL",
+    "platforms": {
+        "ethereum": "0x6d82017e55b1d24c53c7b33bbb770a86f2ca229d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "oneFIL provides a stable way for providers and consumers to exchange web3 storage services while also opening up a new yield generation for FIL and renFIL holders. With the creation of oneFIL, ICHI joins Protocol Labs, ConsenSys, and Ren Protocol in building an ecosystem of decentralized storage offerings leveraging renFIL on the Ethereum Mainnet. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6d82017e55b1d24c53c7b33bbb770a86f2ca229d",
+    "url": "https://app.ichi.org/treasury",
+    "explorers": [
+        "https://etherscan.io/token/0x6d82017e55b1D24C53c7B33BbB770A86f2ca229D",
+        "https://ethplorer.io/address/0x6d82017e55b1d24c53c7b33bbb770a86f2ca229d"
+    ],
+    "twitter": "ichifarm",
+    "telegram": "ichifarm",
+    "github_org": "ichifarm"
+}

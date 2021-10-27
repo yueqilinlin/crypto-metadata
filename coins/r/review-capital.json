@@ -1,0 +1,23 @@
+{
+    "id": "review-capital",
+    "symbol": "recap",
+    "name": "Review Capital",
+    "platforms": {
+        "zilliqa": "zil12drvflckms6874ffuujcdxj75raavl4yfn4ssc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Review Capital focuses on building decentralized news portal built on Zilliqa blockchain. It runs on censorship-resistant mechanism on IPFS and gets integrated with ZRC-2 token called RECAP. News articles on this platform are published, validated and circulated without any central authority. Even the advertisement placement goes through decentralized community decision. This will mimic the traditional news industry into complete end-to-end blockchain system.\r\n\r\nAnyone can submit news and track it in smart contract regarding publication, trust score and earnings. Anyone can become a validator and participates in news publication process in decentralized way with IPFS. Community will set up standards based on voting to validate all news with governance portal. Anyone can submit advertisements of any kind. Validators participate in selection and approval of advertisements similar to news articles. Smart Contract distributes the rewards to eligible participants."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "zil12drvflckms6874ffuujcdxj75raavl4yfn4ssc",
+    "url": "https://www.reviewcapital.org/",
+    "explorers": [
+        "https://viewblock.io/zilliqa/address/zil12drvflckms6874ffuujcdxj75raavl4yfn4ssc"
+    ],
+    "twitter": "RECAP_Token",
+    "telegram": "RECAPCommunity",
+    "github_org": "Review-Capital-Blockchain-Ecosystem"
+}

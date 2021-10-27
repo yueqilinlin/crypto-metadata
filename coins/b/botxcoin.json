@@ -1,0 +1,27 @@
+{
+    "id": "botxcoin",
+    "symbol": "botx",
+    "name": "BOTXCOIN",
+    "platforms": {
+        "ethereum": "0xef19f4e48830093ce5bc8b3ff7f903a0ae3e9fa1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Artificial Intelligence"
+    ],
+    "description": {
+        "en": "botXcoin is a future token for financial freedom that provide a functional token for using our profitable trading robot in all cryptocurrency exchange all over the world. The goal of this project is to utilize trading robot (BOTX App) and build a multi cryptocurrency trading exchange (BOTXPRO)."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xef19f4e48830093ce5bc8b3ff7f903a0ae3e9fa1",
+    "url": "http://botxcoin.com",
+    "explorers": [
+        "https://etherscan.io/token/0xEF19F4E48830093Ce5bC8b3Ff7f903A0AE3E9Fa1",
+        "https://ethplorer.io/address/0xEF19F4E48830093Ce5bC8b3Ff7f903A0AE3E9Fa1"
+    ],
+    "twitter": "botxofficial",
+    "facebook": "botxcoinofficial",
+    "telegram": "botxcoin",
+    "github_org": "botxcoin"
+}

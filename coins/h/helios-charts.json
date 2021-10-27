@@ -1,0 +1,22 @@
+{
+    "id": "helios-charts",
+    "symbol": "$sol",
+    "name": "Helios Charts",
+    "platforms": {
+        "binance-smart-chain": "0xa36d5e816a6e72c99a5b53dcaf964af500436d3e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Helios Charts is a BEP-20 Utility Token launched on 04/08/2021 on the Binance Smart Chain by a team in the United States and Europe. It was designed to provide chart analytics for ERC-20/BEP-20 tokens, as well as decentralized limit trading. The token runs on a proprietary method called Adaptive Tokenomics that taxes each transaction on Buys/Sells and returns a dividend Paid in $SOL tokens to its holders. \r\n\r\nSOL relies on the following principles: \r\n- Utility token: 25% of the revenue made from advertising, partnerships as well as services will be used to buy $SOL and burn.\r\n- Adaptive Tokenomics: a crucial factor to carefully safeguarding the growth of the token as the taxe rates on Buys and Sells are separate values, which are modified depending on the trading volume. \r\n- Dividends Paid in $SOL token: 33% of the total tax rate on buys/sells is paid as dividend to its holders. Example: If the tax rate is 10%, 3% goes to the holders.\r\n- Automated Buyback: 33% of the total tax rate on buys/sells is collected and used to buy back $SOL at times where volume is low, this helps to encourage stability, which is supported already by its utility.\r\n\r\n$SOL's value proposition lies in its constant research of achieving good User Experience (UX). Realizing the importance of providing a seamless experience, we have focused on development improvements to display the data in the most accurate manner. For instance, we have noticed the implications of displaying the Marketcap in a way that truly reflects what is on Etherscan/Bscscan, without things like that, most holders' buying decisions are impacted. \r\n\r\nMoreover, it will:\r\n- Check for unsafe projects thanks to their partner Hoodrat (becomes Ratify), by using their AI-based Risk Assessment Tool\r\n- Provide price bots and real-time chart analyzers directly on Telegram\r\n- Enables limit swaps directly on the website to not miss a thing"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xa36d5e816a6e72c99a5b53dcaf964af500436d3e",
+    "url": "https://helioscharts.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xa36d5e816a6e72c99a5b53dcaf964af500436d3e"
+    ],
+    "twitter": "HeliosCharts",
+    "telegram": "helioscharts"
+}

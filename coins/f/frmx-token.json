@@ -1,0 +1,25 @@
+{
+    "id": "frmx-token",
+    "symbol": "frmx",
+    "name": "FRMx Token",
+    "platforms": {
+        "ethereum": "0xf6832ea221ebfdc2363729721a146e6745354b14",
+        "binance-smart-chain": "0x8523518001ad5d24b2a04e8729743c0643a316c0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FRMx it is imbued with many valuable utilities, and it grants its holders governance over the FRMx and FRM staking regimes. This means that FRMx holders will inform, shape and vote on the structure of upcoming FRM and FRMx staking rounds."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf6832ea221ebfdc2363729721a146e6745354b14",
+    "url": "https://ferrum.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xf6832ea221ebfdc2363729721a146e6745354b14",
+        "https://ethplorer.io/address/0xf6832ea221ebfdc2363729721a146e6745354b14",
+        "https://bscscan.com/token/0x8523518001ad5d24b2a04e8729743c0643a316c0"
+    ],
+    "twitter": "FerrumNetwork",
+    "telegram": "ferrum_network"
+}

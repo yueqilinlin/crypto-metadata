@@ -1,0 +1,25 @@
+{
+    "id": "litegold",
+    "symbol": "ltg",
+    "name": "LiteGold",
+    "platforms": {
+        "ethereum": "0xb4c9abc8a74bd2e0e0b7ac5ece30792e65d86c59"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "LiteGold is creating a decentralized infrastructure in which parties do not need to trust each other.\r\n\r\nThe protocol uses blockchain technology to ensure the transparency and addressability of transactions, smart contracts and oracles to ensure the control of implementation of the main stages of the roadmap by the project. The LiteGold solution also includes mechanism for DAO creation and a platform that allows projects to raise funds via Token Sales without initial costs or special technical knowledge."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xb4c9abc8a74bd2e0e0b7ac5ece30792e65d86c59",
+    "url": "https://litegold.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xb4c9abc8a74bd2e0e0b7ac5ece30792e65d86c59",
+        "https://ethplorer.io/address/0xb4c9abc8a74bd2e0e0b7ac5ece30792e65d86c59"
+    ],
+    "twitter": "LiteGoldio",
+    "github_org": "litegoldio"
+}

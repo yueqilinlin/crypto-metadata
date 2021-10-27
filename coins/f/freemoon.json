@@ -1,0 +1,23 @@
+{
+    "id": "freemoon",
+    "symbol": "freemoon",
+    "name": "Freemoon",
+    "platforms": {
+        "binance-smart-chain": "0x31f0bc450c12eb62b4c617d4c876f7a66470fcb3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x31f0bc450c12eb62b4c617d4c876f7a66470fcb3",
+    "url": "https://freemoon.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x31f0bc450c12eb62b4c617d4c876f7a66470fcb3"
+    ],
+    "twitter": "FREEMOONCOIN",
+    "telegram": "freemoon_finance",
+    "reddit": "https://www.reddit.com"
+}

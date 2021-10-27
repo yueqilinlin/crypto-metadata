@@ -1,0 +1,23 @@
+{
+    "id": "pridetoken",
+    "symbol": "prdetkn",
+    "name": "PrideToken",
+    "platforms": {
+        "binance-smart-chain": "0x2da99d367d504099322444ce0b23b5462c5b81c8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PrideToken (launched during pride month) aims to raise funds for LGBTQI+ Mental Health charities, while also rewarding holders through tokenomics."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x2da99d367d504099322444ce0b23b5462c5b81c8",
+    "url": "https://www.pridetoken.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x2da99d367d504099322444cE0b23B5462C5B81c8"
+    ],
+    "twitter": "pride_token",
+    "telegram": "PrideCharityToken",
+    "github_org": "moochiilotto"
+}

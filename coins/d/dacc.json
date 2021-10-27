@@ -1,0 +1,26 @@
+{
+    "id": "dacc",
+    "symbol": "dacc",
+    "name": "DACC",
+    "platforms": {
+        "ethereum": "0xf8c595d070d104377f58715ce2e6c93e49a87f3c"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "DACC \u2013 Decentralized Accessible Content \u2013 is the first public chain that revolutionize online content and media identity and access management (IAM) worldwide.\r\n\r\nAs an interactive platform, DAC, through the innovative use of blockchain technology, allows creators to control and protect their content, while also giving them a secure and efficient way of selling it globally.\r\n \r\nThe DAC Platform consists of two separate components: DAC Tokens and DAC Power.\r\nThe most innovative and interesting component of the DAC platform may be the DAC Power system, a reward system for those that contribute to the community; DAC Tokens are the native cryptocurrency of the platform. These tokens will be distributed to those who contribute to the quality and maintenance of the platform and they be exchanged on any crypto market."
+    },
+    "country_origin": "CN",
+    "genesis_date": "2018-07-14",
+    "contract_address": "0xf8c595d070d104377f58715ce2e6c93e49a87f3c",
+    "url": "http://dacc.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xf8c595d070d104377f58715ce2e6c93e49a87f3c",
+        "https://ethplorer.io/address/0xf8c595d070d104377f58715ce2e6c93e49a87f3c"
+    ],
+    "twitter": "DACCblockchain",
+    "facebook": "DACCblockchain",
+    "telegram": "dacc_official_group_english"
+}

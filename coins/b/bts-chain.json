@@ -1,0 +1,22 @@
+{
+    "id": "bts-chain",
+    "symbol": "btsc",
+    "name": "BTS Chain",
+    "platforms": {
+        "binance-smart-chain": "0x18e596bcefdd0ff9dc8c50d0b9d329ea770d5ef1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "In summary, BTSc is an entertainment-specialized Metaverse platform that is user-led on the Blockchain basis. We want to get out of the simple business of Cryptocurrency and systematize the entire culture and arts industry on the basis of this blockchain and build its ecosystem. And we will distribute the value of content through the NFT market to implement these platforms sustainably. NFT distribution is the surest way to safely protect copyrights. Also, Metaverse and NFT are not separate businesses. It means building an NFT service that can be implemented on Metaverse. BTSc Metaverse will become a completely independent entertainment platform by integrating NFT."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x18e596bcefdd0ff9dc8c50d0b9d329ea770d5ef1",
+    "url": "https://www.btschain.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x18e596bcefdd0ff9dc8c50d0b9d329ea770d5ef1"
+    ],
+    "twitter": "Btschain_",
+    "telegram": "btschainofficial"
+}

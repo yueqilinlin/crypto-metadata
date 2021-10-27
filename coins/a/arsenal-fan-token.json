@@ -1,0 +1,25 @@
+{
+    "id": "arsenal-fan-token",
+    "symbol": "AFC",
+    "name": "Arsenal Fan Token",
+    "platforms": {
+        "chiliz": "0x09f9f796a05d94a302cf7ec4d19fa889575ff188"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fan Token"
+    ],
+    "description": {
+        "en": "The official Fan Token of Arsenal FC."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x09f9f796a05d94a302cf7ec4d19fa889575ff188",
+    "url": "https://socios.com",
+    "explorers": [
+        "https://explorer.chiliz.com/address/0x09F9f796A05d94A302cF7EC4d19fa889575FF188/transactions"
+    ],
+    "twitter": "chiliz",
+    "telegram": "chiliztrade",
+    "reddit": "chiliz"
+}

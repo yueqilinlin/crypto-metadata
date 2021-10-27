@@ -1,0 +1,25 @@
+{
+    "id": "port-finance",
+    "symbol": "port",
+    "name": "Port Finance",
+    "platforms": {
+        "solana": "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "Port Finance is a money-market, non-custodial liquidity protocol on Solana. They aim to provide a comprehensive suite of lending products, including variable-rate lending, fixed-rate lending, and interest rate swap."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y",
+    "url": "https://port.finance/",
+    "explorers": [
+        "https://solscan.io/token/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y"
+    ],
+    "twitter": "port_finance",
+    "telegram": "port_finance",
+    "github_org": "port-finance"
+}

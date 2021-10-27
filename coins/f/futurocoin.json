@@ -1,0 +1,21 @@
+{
+    "id": "futurocoin",
+    "symbol": "fto",
+    "name": "FuturoCoin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [],
+    "description": {
+        "en": "FuturoCoin is a cryptocurrency which combines proven solutions with innovative technology. FuturoCoin\u2019s code is extended version of Dash's code. Thanks to that, we have access to new solutions and upgrades, created by Dash society and our team.\r\n\r\nFuturoCoin (FTO) was created in response to market demand for cryptocurrency which would allow retailers to accept payments from buyers safely and immediately. This goal was achieved using two mutually complementing tiers of nodes. The first tier, ordinary nodes, is responsible for maintaining proper functioning of the entire decentralized blockchain network. The second tier, or masternodes, is responsible for the specific functionalities introduced by FuturoCoin. It provides, in particular, immediate execution of all transactions (InstantSend) with simultaneous protection against double spending. In addition, FuturoCoin developers, who know about scalability issues occurring in other cryptocurrencies, have used the second tier of nodes to maintain a minimum and fixed transaction fee. FuturoCoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network.\r\nFuturoCoin is now mainly used by over 2 mln community of clients of FutureNet network. \r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://futurocoin.com/",
+    "explorers": [
+        "https://explorer.futurocoin.com/insight/"
+    ],
+    "twitter": "FuturoCoinFTO",
+    "facebook": "FuturoCoin",
+    "telegram": "FuturoCoinOfficial",
+    "github_org": "futuro-coin"
+}

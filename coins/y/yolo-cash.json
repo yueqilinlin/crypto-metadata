@@ -1,0 +1,27 @@
+{
+    "id": "yolo-cash",
+    "symbol": "ylc",
+    "name": "YOLOCash",
+    "platforms": {
+        "ethereum": "0x21d5678a62dfe63a47062469ebb2fac2817d8832"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "YOLO CASH (YLC) Token is a unique cryptocurrency project driven by a global collaborative community with no private business agenda backing it. Known as the new kind of concept to tokenized franchising. By using YOLo Cash token, you can get discounts and easy process for franchising. It will  also elevate the process of payment because of YOLO Mobile App."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x21d5678a62dfe63a47062469ebb2fac2817d8832",
+    "url": "https://www.yolocash.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x21d5678a62dfe63a47062469ebb2fac2817d8832",
+        "https://ethplorer.io/address/0x21d5678a62dfe63a47062469ebb2fac2817d8832"
+    ],
+    "twitter": "YoloWorldorg",
+    "facebook": "YoloWorldio",
+    "telegram": "YOLO_World",
+    "github_org": "YOLOCASH"
+}

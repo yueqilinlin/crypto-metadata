@@ -1,0 +1,24 @@
+{
+    "id": "beer-token",
+    "symbol": "beer",
+    "name": "Beer Token",
+    "platforms": {
+        "binance-smart-chain": "0xd5a0dad4e6f399cdc346ff04fd90ec0b511fcef9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Beer Token (BEER) aim to produce a platform that will help grow small businesses around the globe as well as enable users to become more financially free and have fun while doing so because saving money on drinks means more financial freedom to spend money on the necessary things in life. \r\n\r\nThe pandemic has crippled the hospitality industry and people are eager to get out have a good time, while still gaining momentum towards financial freedom and comfort.\r\n\r\nWith Beer Token every party, consumer or business that participates profits from each transaction made by every other Beer Token user making it mutually beneficial to support for everyone involved. Beer Token's tokenomics benefit the entire community by means of non-custodial auto-staking & redistribution incentives, all which are geared toward compound interest for both businesses & consumers."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xd5a0dad4e6f399cdc346ff04fd90ec0b511fcef9",
+    "url": "https://beertoken.co/",
+    "explorers": [
+        "https://bscscan.com/token/0xd5a0dad4e6f399cdc346ff04fd90ec0b511fcef9"
+    ],
+    "twitter": "token_beer",
+    "telegram": "tokenbeer",
+    "reddit": "BeerTokenOfficial/",
+    "github_org": "BeerTokenOfficial"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "babypenguin",
+    "symbol": "bpeng",
+    "name": "BabyPenguin",
+    "platforms": {
+        "ethereum": "0xbe46985ee59830e18c02dfa143000dba7ac967dd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "This Pudgy Penguin is one of 8,888 sliding around on the freezing Ethereum blockchain. The Penguin is an official member of the Pudgy Penguins community found in the freezing cold, arctic region of the metaverse.\r\n\r\nBy holding $bPENG, you are automatically entered in a draw to have an oppourtunity to win a Pudgy Penguins NFT! \r\n\r\nAnytime the marketing wallet is over the floor price of Pudgy Penguins, a random one will be bought and given away to a holder."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbe46985ee59830e18c02dfa143000dba7ac967dd",
+    "url": "https://www.babypenguins.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xbe46985ee59830e18c02dfa143000dba7ac967dd",
+        "https://ethplorer.io/address/0xbe46985ee59830e18c02dfa143000dba7ac967dd"
+    ],
+    "twitter": "babypenguinserc",
+    "telegram": "BabyPenguinERC"
+}

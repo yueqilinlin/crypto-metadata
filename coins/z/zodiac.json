@@ -1,0 +1,21 @@
+{
+    "id": "zodiac",
+    "symbol": "zdc",
+    "name": "Zodiac",
+    "platforms": {
+        "ethereum": "0x1cf402135d7bd27dc9d21c03ae2d8375bc43e9ec"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1cf402135d7bd27dc9d21c03ae2d8375bc43e9ec",
+    "url": "https://www.zodiac.io/e",
+    "explorers": [
+        "https://etherscan.io/token/0x1cf402135d7bd27dc9d21c03ae2d8375bc43e9ec",
+        "https://ethplorer.io/address/0x1cf402135d7bd27dc9d21c03ae2d8375bc43e9ec"
+    ]
+}

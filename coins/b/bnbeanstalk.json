@@ -1,0 +1,22 @@
+{
+    "id": "bnbeanstalk",
+    "symbol": "beans",
+    "name": "BNBeanstalk",
+    "platforms": {
+        "binance-smart-chain": "0x40be8529226de4507b19f5d88e52e511bef22e9a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "As investors, we are continuously scammed each and every day by people wanting to take our hard-earned money. Like you, we are tired and frustrated at the prevalence of this and we wanted to do something about it. We are also exhausted of investing into degen projects, only to be greeted with constant price fluctuation due to bots ruining a project!\r\n\r\n$BEANS aims to change the way BSC projects are launched going forwards and before you ask, no, this isn\u2019t another launchpad that is months off being even in BETA! \r\n\r\nWe will be launching our very own third-party doxxing service, where we will be storing the sensitive information of developers and verifying their real-life identities for the peace of mind of their investors. This will be done in NFT format. This information will remain sensitive unless anything malicious happens to the project, for example a rug-pull. If this was to happen, we would then release the key that unlocks the NFT, thus exposing the developer\u2019s real-life identities."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x40be8529226de4507b19f5d88e52e511bef22e9a",
+    "url": "http://bnbeanstalk.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x40be8529226de4507b19f5d88e52e511bef22e9a"
+    ],
+    "twitter": "BNBeanStalk",
+    "telegram": "UnnamedBSC"
+}

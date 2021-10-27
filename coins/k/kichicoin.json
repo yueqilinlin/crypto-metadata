@@ -1,0 +1,23 @@
+{
+    "id": "kichicoin",
+    "symbol": "kich",
+    "name": "KichiCoin",
+    "platforms": {
+        "binance-smart-chain": "0x7153431234b9a6d1fa53cd057d5a1aac00c85c7f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KichiCoin ($KICH) is a revolutionary De-Fi community-driven utility token that provides safe, secure, hassle-free transactions for everyone, along with a weekly lottery system utilizing Chainlink VRF that brings joy to our holders. Kichi aims to create interactive games on the BSC network and NFT Platform for the education sector. KICHI (\u5409) COIN\u2019s concept was born to unite the community together to achieve common goals that reward everyone involved. Doxxed Team. 3 Audits Completed. Coinsbit listing soon. The level of transparency is going to define how crypto projects should be introduced in the vast 'Cryptoverse'! Our initial utilities are a lottery & charity token with plans to incorporate into gaming and NFT."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x7153431234b9a6d1fa53cd057d5a1aac00c85c7f",
+    "url": "https://www.kichicoin.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x7153431234b9a6d1fa53cd057d5a1aac00c85c7f"
+    ],
+    "twitter": "KichiCoin",
+    "reddit": "KichiCoinToken/",
+    "github_org": "yoshiko2000"
+}

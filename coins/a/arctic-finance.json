@@ -1,0 +1,22 @@
+{
+    "id": "arctic-finance",
+    "symbol": "aurora",
+    "name": "Arctic Finance",
+    "platforms": {
+        "avalanche": "0xa9d633a1ac5aa995c5e4f7d915ade1be565a97e8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Arctic Finance - A hybrid Yield Optimizer on Avalanche, offering yield farming and compounding! Earn $AURORA by staking your LP tokens or single-asset staking $AURORA and stables, automatic compounder coming soon."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa9d633a1ac5aa995c5e4f7d915ade1be565a97e8",
+    "url": "https://www.arcticfinance.io/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0xA9D633A1ac5Aa995C5e4F7d915ADe1Be565A97e8/token-transfers"
+    ],
+    "twitter": "arcticfi",
+    "telegram": "ArcticFi"
+}

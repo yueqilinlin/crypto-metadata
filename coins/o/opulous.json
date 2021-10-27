@@ -1,0 +1,26 @@
+{
+    "id": "opulous",
+    "symbol": "opul",
+    "name": "Opulous",
+    "platforms": {
+        "ethereum": "0x80d55c03180349fff4a229102f62328220a96444",
+        "binance-smart-chain": "0x686318000d982bc8dcc1cdcf8ffd22322f0960ed",
+        "algorand": "287867876"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Opulous brings NFTs and DeFi to the music industry, changing how musicians access the funding they need and providing a launchpad for the first music copyright-backed NFTs and Crypto Loans."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x80d55c03180349fff4a229102f62328220a96444",
+    "url": "https://opulous.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x80d55c03180349fff4a229102f62328220a96444",
+        "https://ethplorer.io/address/0x80d55c03180349fff4a229102f62328220a96444",
+        "https://bscscan.com/token/0x686318000d982bc8dcc1cdcf8ffd22322f0960ed"
+    ],
+    "twitter": "opulousapp",
+    "telegram": "opulousapp"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "taodao",
+    "symbol": "tao",
+    "name": "TaoDAO",
+    "platforms": {
+        "binance-smart-chain": "0x7065dda3f8ec5f6c155648bdee4420c0525d93c6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gen 2 Algorithmic Floating Stablecoin"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7065dda3f8ec5f6c155648bdee4420c0525d93c6",
+    "url": "https://TaoDAO.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x7065DdA3f8Ec5F6C155648BdeE4420c0525D93C6"
+    ],
+    "twitter": "taodao_finance",
+    "telegram": "TaoDAO_Finance",
+    "github_org": "Taoist-DAO"
+}

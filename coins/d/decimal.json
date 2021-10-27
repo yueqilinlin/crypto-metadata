@@ -1,0 +1,20 @@
+{
+    "id": "decimal",
+    "symbol": "del",
+    "name": "Decimal",
+    "platforms": {},
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [],
+    "description": {
+        "en": "Decimal is a simple token constructor with momental liqudity. We also have NFT and SFT system with unique storage system of the object inside the token. We launched DeFi swap system. Soon we launch smart contract system. "
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "url": "https://decimalchain.com/",
+    "explorers": [
+        "https://explorer.decimalchain.com/"
+    ],
+    "twitter": "DecimalChain",
+    "telegram": "decimal_en",
+    "github_org": "decimalteam"
+}

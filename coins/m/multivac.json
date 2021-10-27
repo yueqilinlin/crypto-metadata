@@ -1,0 +1,27 @@
+{
+    "id": "multivac",
+    "symbol": "mtv",
+    "name": "MultiVAC",
+    "platforms": {
+        "ethereum": "0x6226e00bcac68b0fe55583b90a1d727c14fab77f",
+        "binance-smart-chain": "0x8aa688ab789d1848d131c65d98ceaa8875d97ef1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "What is MultiVAC ?\r\nMultiVAC is the next-generation public blockchain platform designed for large-scale and complicated decentralized applications\r\n\r\nHigh-Throughput\r\nWith the same node scale, MultiVAC can achieve two orders of magnitude credibility and over 10000 times TPS as bitcoin, which will fully meets the needs of large-scale applications.\r\n\r\nFlexible Computation\r\nMultiVAC separates transactions and smart contracts/computation and provides an optional slide of CAP for DApps to make their own infrastructure of performance and decentralization level.\r\n\r\nInfinite Expansion\r\nThere will be an economic model and an efficient free market in which Nodes can benefit from bookkeeping, computing and saving, leading to obvious increasing and network effect."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6226e00bcac68b0fe55583b90a1d727c14fab77f",
+    "url": "https://www.mtv.ac",
+    "explorers": [
+        "https://e.mtv.ac/",
+        "https://etherscan.io/token/0x6226e00bCAc68b0Fe55583B90A1d727C14fAB77f",
+        "https://bscscan.com/token/0x8aa688ab789d1848d131c65d98ceaa8875d97ef1",
+        "https://ethplorer.io/address/0x6226e00bcac68b0fe55583b90a1d727c14fab77f"
+    ],
+    "twitter": "MultiVAC_Global",
+    "reddit": "MultiVAC_official/",
+    "github_org": "multivactech"
+}

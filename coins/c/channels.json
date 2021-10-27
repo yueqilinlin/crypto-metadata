@@ -1,0 +1,27 @@
+{
+    "id": "channels",
+    "symbol": "can",
+    "name": "Channels",
+    "platforms": {
+        "huobi-token": "0xd5f9bdc2e6c8ee0484a6293ce7fa97d96a5e1012",
+        "binance-smart-chain": "0xde9a73272bc2f28189ce3c243e36fafda2485212"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "HECO Chain Ecosystem"
+    ],
+    "description": {
+        "en": "The first cross-chain lending + SmartVault protocol focusing on H series assets.\r\n0 security accidents, multi-chain innovative DeFi lending protocol"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xd5f9bdc2e6c8ee0484a6293ce7fa97d96a5e1012",
+    "url": "https://app.channels.finance/",
+    "explorers": [
+        "https://hecoinfo.com/token/0xd5F9bdc2e6c8EE0484a6293ce7FA97d96a5e1012"
+    ],
+    "twitter": "ChannelsFinance",
+    "telegram": "ChannelsEN",
+    "github_org": "ChannelsFinance"
+}

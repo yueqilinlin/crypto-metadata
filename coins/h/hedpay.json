@@ -1,0 +1,27 @@
+{
+    "id": "hedpay",
+    "symbol": "hdp.\u0444",
+    "name": "HEdpAY",
+    "platforms": {
+        "ethereum": "0xc4d5545392f5fc57eba3af8981815669bb7e2a48"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "HEdpAY to bridge the gap between traditional e-banks and crypto finance using innovative blockchain technologies, to become the future banking solution offering a complete spectrum of banking and financial services."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xc4d5545392f5fc57eba3af8981815669bb7e2a48",
+    "url": "https://hedpay.com",
+    "explorers": [
+        "https://etherscan.io/token/0xc4d5545392f5fc57eba3af8981815669bb7e2a48",
+        "https://ethplorer.io/address/0xc4d5545392f5fc57eba3af8981815669bb7e2a48"
+    ],
+    "twitter": "MyHEdpAY",
+    "facebook": "hedpay",
+    "telegram": "HEdpAY",
+    "reddit": "HEdpAY/"
+}

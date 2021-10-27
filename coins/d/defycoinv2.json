@@ -1,0 +1,22 @@
+{
+    "id": "defycoinv2",
+    "symbol": "defy",
+    "name": "DefyCoinV2",
+    "platforms": {
+        "binance-smart-chain": "0x0acbb2c3d3826b82b17c09e2dfa605b5279e0c63"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DEFY V2 is the first deflationary farming project which fully safeguards farmers from Impermanent Loss using innovative ILP protection feature. Using RFI model to burn coins during every transactions, it rewards the holders and the farmers without increasing the token supply.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0acbb2c3d3826b82b17c09e2dfa605b5279e0c63",
+    "url": "https://v2.defy.farm/",
+    "explorers": [
+        "https://bscscan.com/token/0x0acbb2c3d3826b82b17c09e2dfa605b5279e0c63"
+    ],
+    "twitter": "DefyFarmV2",
+    "telegram": "defy_farm_V2"
+}

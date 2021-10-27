@@ -1,0 +1,23 @@
+{
+    "id": "tom-finance",
+    "symbol": "tom",
+    "name": "TOM Finance",
+    "platforms": {
+        "ethereum": "0xf7970499814654cd13cb7b6e7634a12a7a8a9abc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TOM Finance is automated market making (AMM) decentralized exchange (DEX) that is built on the Ethereum blockchain with the purpose of enhancing liquidity for ERC-20 gold stable coins on decentralized exchanges\r\n\r\nTOM is the native utility token that is used for:\r\n\r\n* Governance of the platform through staking and voting\r\n* Earning 0.05% of trading fees earned on the TOM protocol"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xf7970499814654cd13cb7b6e7634a12a7a8a9abc",
+    "url": "https://tom.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xf7970499814654cd13cb7b6e7634a12a7a8a9abc",
+        "https://ethplorer.io/address/0xf7970499814654cd13cb7b6e7634a12a7a8a9abc"
+    ],
+    "telegram": "defitom",
+    "github_org": "TomFinance"
+}

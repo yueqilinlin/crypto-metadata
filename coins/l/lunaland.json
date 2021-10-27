@@ -1,0 +1,24 @@
+{
+    "id": "lunaland",
+    "symbol": "lln",
+    "name": "LunaLand",
+    "platforms": {
+        "binance-smart-chain": "0x2a354f59ed1dd485129891e718865eb55ebdb8b3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LunaLand (LLN) is a decentralized hyper deflationary peer-to-peer digital currency.\r\n\r\nA vibrant community-driven token that rewards long-term holders through game-changing reward features.\r\n\r\nLunaLand, a store of value providing real-world inflation protection and offering no-buy / transfer tax, with auto liquidity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2a354f59ed1dd485129891e718865eb55ebdb8b3",
+    "url": "https://www.lunaland.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x2a354f59ed1dd485129891e718865eb55ebdb8b3"
+    ],
+    "twitter": "IoLunaland",
+    "telegram": "lunalanddotio",
+    "reddit": "Lunaland/",
+    "github_org": "lunalandofficial"
+}

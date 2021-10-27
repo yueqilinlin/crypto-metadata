@@ -1,0 +1,22 @@
+{
+    "id": "pchain",
+    "symbol": "pi",
+    "name": "Plian",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Plian (Previously PCHAIN) is setting out to take what they have learned through developing enterprise subchains for applications in a wide variety of fields and focus it into a highly scalable, multichain smart contract platform and decentralized finance (DeFi) toolset that satisfies all the requirements of public and enterprise DeFi while also simplifying integration. This strategy will be accomplished by developing tools for simplifying smart contract and DApp deployment, adding on-chain oracles as well as creating novel technologies for adding programmable liquidity to further simplify integrating with Plian.\r\n\r\nAs part of this new vision, Plian will be developing a familiar suite of tools that make testing, launching, and maintaining complex smart contracts simple with tools like Truffle and Waffle, while also releasing smart data and oracle mechanisms that increase the complexity of what is possible with smart contracts. Plian will also sponsor a community governed Decentralised Swap, Pizzap, to open the platform to cross-blockchain liquidity.\r\n\r\nThis tool suite and platform will transform Plian into a massively scalable, interoperable, Solidity programmable, and near-instant blockchain for public and enterprise DeFi needs."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "url": "https://plian.org/",
+    "explorers": [
+        "https://piscan.pchain.org/",
+        "https://monitor.pchain.org/"
+    ],
+    "twitter": "plian_org",
+    "telegram": "pchain_org "
+}

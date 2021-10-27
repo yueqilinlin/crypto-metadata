@@ -1,0 +1,24 @@
+{
+    "id": "realm",
+    "symbol": "realm",
+    "name": "Realm",
+    "platforms": {
+        "ethereum": "0x464fdb8affc9bac185a7393fd4298137866dcfb8",
+        "binance-smart-chain": "0x464fdb8affc9bac185a7393fd4298137866dcfb8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A community driven open-source project to create personalised metaverses."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x464fdb8affc9bac185a7393fd4298137866dcfb8",
+    "url": "https://www.realm.art/",
+    "explorers": [
+        "https://etherscan.io/token/0x464fdb8affc9bac185a7393fd4298137866dcfb8",
+        "https://ethplorer.io/address/0x464fdb8affc9bac185a7393fd4298137866dcfb8"
+    ],
+    "twitter": "enter_realm",
+    "telegram": "Enter_Realm"
+}

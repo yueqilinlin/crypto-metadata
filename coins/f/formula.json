@@ -1,0 +1,21 @@
+{
+    "id": "formula",
+    "symbol": "fml",
+    "name": "FormulA",
+    "platforms": {
+        "ethereum": "0xde522a2778e4554707e6a8df36a4871ce9967bb5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FormulA is a blockchain project aiming to build a reliable Internet of Asset (IoA) which can be deployed to register and exchange the value of real assets. We provides a universal solution for asset digitalization and reforms the status quo of the entire asset market. Besides that FormulA also empowers financial institutions to increase their efficiency while decreasing potential cost and risk."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xde522a2778e4554707e6a8df36a4871ce9967bb5",
+    "url": "http://fml-x.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xde522a2778e4554707e6a8df36a4871ce9967bb5",
+        "https://ethplorer.io/address/0xde522a2778e4554707e6a8df36a4871ce9967bb5"
+    ]
+}

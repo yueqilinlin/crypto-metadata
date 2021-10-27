@@ -1,0 +1,26 @@
+{
+    "id": "ethbox-token",
+    "symbol": "ebox",
+    "name": "Ethbox Token",
+    "platforms": {
+        "ethereum": "0x33840024177a7daca3468912363bed8b425015c5",
+        "harmony-shard-0": "0x4328588aae1108fbd36e5cdb57c8128dcf7a6d9a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ethbox provides a unique solution to a problem in cryptocurrency trading that is as devastating as it is widespread. Accidentally sending funds to a mistyped or mistaken recipient address has already been the cause for hundreds of millions, if not billions, of financial damage. Harnessing the cryptographically unbreakable safety of the underlying Ethereum blockchain, ethbox provides a smart contract based digital escrow service to completely alleviate any risk of loss while sending cryptocurrency."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x33840024177a7daca3468912363bed8b425015c5",
+    "url": "https://www.ethbox.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x33840024177a7daca3468912363bed8b425015c5",
+        "https://ethplorer.io/address/0x33840024177a7daca3468912363bed8b425015c5"
+    ],
+    "twitter": "ethbox_official",
+    "facebook": "Ethbox-163318048851696",
+    "telegram": "ethbox_official",
+    "github_org": "ethbox-official"
+}

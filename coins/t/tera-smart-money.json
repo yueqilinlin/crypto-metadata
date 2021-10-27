@@ -1,0 +1,21 @@
+{
+    "id": "tera-smart-money",
+    "symbol": "tera",
+    "name": "TERA",
+    "platforms": {},
+    "hashing_algorithm": "SHA-3",
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Tera is a decentralized application platform. This is akin to an operating system. Tera consists of a repository of programs and data storage integrated into the Internet. The mechanism for publishing programs and data on this platform is free from censorship. The circulatory system is the blockchain."
+    },
+    "country_origin": "RU",
+    "genesis_date": "2018-07-01",
+    "url": "https://terafoundation.org",
+    "explorers": [
+        "https://terafoundation.org/explorer.html"
+    ],
+    "twitter": "terafoundation",
+    "telegram": "terafoundation"
+}

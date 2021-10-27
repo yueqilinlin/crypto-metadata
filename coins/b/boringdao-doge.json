@@ -1,0 +1,27 @@
+{
+    "id": "boringdao-doge",
+    "symbol": "odoge",
+    "name": "BoringDAO DOGE",
+    "platforms": {
+        "ethereum": "0x9c306a78b1a904e83115c05ac67c1ef07c653651"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x9c306a78b1a904e83115c05ac67c1ef07c653651",
+    "url": "https://www.boringdao.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x9c306a78b1a904e83115c05ac67c1ef07c653651",
+        "https://ethplorer.io/address/0x9c306a78b1a904e83115c05ac67c1ef07c653651"
+    ],
+    "twitter": "TheBoringDAO",
+    "telegram": "boringDAO",
+    "github_org": "BoringDAO"
+}

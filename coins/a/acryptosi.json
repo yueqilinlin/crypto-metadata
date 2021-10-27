@@ -1,0 +1,27 @@
+{
+    "id": "acryptosi",
+    "symbol": "acsi",
+    "name": "ACryptoSI",
+    "platforms": {
+        "binance-smart-chain": "0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389",
+    "url": "https://app.acsi.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389"
+    ],
+    "twitter": "acryptosdao",
+    "telegram": "acryptos9",
+    "reddit": "ACryptoS/"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "scoobi-doge",
+    "symbol": "scoobi",
+    "name": "Scoobi Doge",
+    "platforms": {
+        "ethereum": "0x06a87f6afec4a739c367bef69eefe383d27106bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x06a87f6afec4a739c367bef69eefe383d27106bd",
+    "url": "https://scoobi.space/",
+    "explorers": [
+        "https://etherscan.io/token/0x06a87f6afec4a739c367bef69eefe383d27106bd",
+        "https://ethplorer.io/address/0x06a87f6afec4a739c367bef69eefe383d27106bd"
+    ],
+    "twitter": "scoobidoge",
+    "telegram": "scoobidoge",
+    "reddit": "ScoobiDoge/",
+    "github_org": "Scoobi-doge"
+}

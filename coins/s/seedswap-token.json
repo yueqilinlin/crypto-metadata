@@ -1,0 +1,22 @@
+{
+    "id": "seedswap-token",
+    "symbol": "seed",
+    "name": "SeedSwap Token",
+    "platforms": {
+        "fantom": "0x12e62ceca188e4bc266d3844781c619638eccf29"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Our smart contracts are based on Pantherswap with few minor adjustments. Among migrated features are: Anti Whale mechanism, various ways of burning the supply with taxes and fees. No migrator code is in any of smart contracts."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x12e62ceca188e4bc266d3844781c619638eccf29",
+    "url": "https://thegreenhouse.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0x12e62ceca188e4bc266d3844781c619638eccf29"
+    ],
+    "twitter": "ThegreenhouseF",
+    "telegram": "thegreenhousefinance"
+}

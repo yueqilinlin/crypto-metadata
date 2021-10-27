@@ -1,0 +1,24 @@
+{
+    "id": "dragon-fortune",
+    "symbol": "dragonfortune",
+    "name": "Dragon Fortune",
+    "platforms": {
+        "binance-smart-chain": "0x605f3a70de083e1eec7fdc1dff6c03d69bfad9ac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x605f3a70de083e1eec7fdc1dff6c03d69bfad9ac",
+    "url": "https://www.dragonfortune.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x605f3a70de083e1eec7fdc1dff6c03d69bfad9ac"
+    ],
+    "twitter": "Dragontokenup",
+    "telegram": "DRAGON_MAR",
+    "reddit": "DragonFortune/",
+    "github_org": "vic203020"
+}

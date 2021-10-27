@@ -1,0 +1,24 @@
+{
+    "id": "aave-amm-uniaaveweth",
+    "symbol": "aammuniaaveweth",
+    "name": "Aave AMM UniAAVEWETH",
+    "platforms": {
+        "ethereum": "0xe59d2ff6995a926a574390824a657eed36801e55"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe59d2ff6995a926a574390824a657eed36801e55",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe59d2FF6995a926A574390824a657eEd36801E55",
+        "https://ethplorer.io/address/0xe59d2FF6995a926A574390824a657eEd36801E55"
+    ],
+    "twitter": "aaveaave"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "shiba-link",
+    "symbol": "slink",
+    "name": "ShibaLink",
+    "platforms": {
+        "ethereum": "0x3de7148c41e3b3233f3310e794f68d8e70ca69af"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shiba Link is a decentralized accelerator and swapping platform, connecting early stage Ethereum and Cardano innovators with our community of donors."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3de7148c41e3b3233f3310e794f68d8e70ca69af",
+    "url": "https://www.shibalink.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3de7148c41e3b3233f3310e794f68d8e70ca69af",
+        "https://ethplorer.io/address/0x3de7148c41e3b3233f3310e794f68d8e70ca69af"
+    ],
+    "twitter": "ShibaLinkToken",
+    "telegram": "ShibaLink",
+    "github_org": "ShibaLink"
+}

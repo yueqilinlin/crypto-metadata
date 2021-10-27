@@ -1,0 +1,24 @@
+{
+    "id": "basic",
+    "symbol": "basic",
+    "name": "BASIC",
+    "platforms": {
+        "ethereum": "0xf25c91c87e0b1fd9b4064af0f427157aab0193a7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Founded in March of 2019, Basic is a crypto finance platform where businesses and consumers can access finance services for crypto assets like bitcoin and ethereum. We are based in Singapore with teams in Singapore, Switzerland and South Korea."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf25c91c87e0b1fd9b4064af0f427157aab0193a7",
+    "url": "https://basic.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xf25c91c87e0b1fd9b4064af0f427157aab0193a7",
+        "https://ethplorer.io/address/0xf25c91c87e0b1fd9b4064af0f427157aab0193a7"
+    ],
+    "twitter": "thebasicfinance",
+    "facebook": "Basic.finance.platform",
+    "telegram": "thebasic"
+}

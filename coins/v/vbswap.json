@@ -1,0 +1,23 @@
+{
+    "id": "vbswap",
+    "symbol": "vbswap",
+    "name": "vBSWAP",
+    "platforms": {
+        "binance-smart-chain": "0x4f0ed527e8a95ecaa132af214dfd41f30b361600"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "vBSWAP is Binance Smart Chain token used as incentive for Value DeFi BSC ecosystem users. Part of fees (decided by vGovernance) from Value DeFi BSC ecosystem are used to buyback and burn vBSWAP. Max supply of vBSWAP is 100000 and it will be distributed over period of 108 weeks with emission reduction by 10% every 4 weeks (eg. first four weeks total of 10600 vBSWAP tokens will be distributed to farmers, next four weeks 9540, etc\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4f0ed527e8a95ecaa132af214dfd41f30b361600",
+    "url": "https://bsc.valuedefi.io",
+    "explorers": [
+        "https://bscscan.com/token/0x4f0ed527e8A95ecAA132Af214dFd41F30b361600"
+    ],
+    "twitter": "value_defi",
+    "telegram": "ValueDeFi",
+    "github_org": "valuedefi"
+}

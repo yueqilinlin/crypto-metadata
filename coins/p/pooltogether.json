@@ -1,0 +1,30 @@
+{
+    "id": "pooltogether",
+    "symbol": "pool",
+    "name": "PoolTogether",
+    "platforms": {
+        "ethereum": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+        "polygon-pos": "0x25788a1a171ec66da6502f9975a15b609ff54cf6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "xDAI Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+    "url": "https://pooltogether.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+        "https://ethplorer.io/address/0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+        "https://polygonscan.com/token/0x25788a1a171ec66da6502f9975a15b609ff54cf6"
+    ],
+    "twitter": "PoolTogether_",
+    "reddit": "PoolTogether/"
+}

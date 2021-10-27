@@ -1,0 +1,28 @@
+{
+    "id": "terra-luna",
+    "symbol": "luna",
+    "name": "Terra",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem",
+        "Terra Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Terra is a decentralized financial payment network that rebuilds the traditional payment stack on the blockchain. Luna is the reserve currency of the Terra platform. It has three core functions: i) mine Terra transactions through staking, ii) ensure the price stability of Terra stablecoins and iii) provide incentives for the platform\u2019s blockchain validators."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://terra.money",
+    "explorers": [
+        "https://finder.terra.money/",
+        "https://polygonscan.com/token/0x24834bbec7e39ef42f4a75eaf8e5b6486d3f0e57",
+        "https://terra.stake.id/",
+        "https://hubble.figment.io/terra/chains/columbus-5"
+    ],
+    "twitter": "terra_money",
+    "telegram": "TerraLunaChat",
+    "reddit": "terraluna/",
+    "github_org": "terra-project"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "filecoin",
+    "symbol": "fil",
+    "name": "Filecoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure",
+        "Storage"
+    ],
+    "description": {
+        "en": "The Filecoin network achieves staggering economies of scale by allowing anyone worldwide to participate as storage providers. It also makes storage resemble a commodity or utility by decoupling hard-drive space from additional services. On this robust global market the price of storage will be driven by supply and demand, not corporate pricing departments, and miners will compete on factors like reputation for reliability as well as price."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://filecoin.io/",
+    "explorers": [
+        "https://filfox.info/en",
+        "https://filscan.io/#/tipset/chain",
+        "https://hecoinfo.com/token/0xae3a768f9ab104c69a7cd6041fe16ffa235d1810"
+    ],
+    "twitter": "Filecoin",
+    "github_org": "filecoin-project"
+}

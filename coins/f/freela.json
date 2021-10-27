@@ -1,0 +1,24 @@
+{
+    "id": "freela",
+    "symbol": "frel",
+    "name": "Freela",
+    "platforms": {
+        "ethereum": "0x29ceddcf0da3c1d8068a7dfbd0fb06c2e438ff70",
+        "binance-smart-chain": "0xfd5af95c12446b60d23e16a4ea95690ce942e5dc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Freela is a first of its kind Defi powered and self governing DAO designed to act as a decentralised broad platform for freelancing transactions. It provides a platform for both B2B (Business to Business) and P2P (Peer to Peer) commission free transactions with its intuitive user interface matching skilled freelancers for the job postings worldwide. It brings in a unique innovative model with professional mediation and thus ensuring a win win transaction between the employer and employee, ensuring best quality work for the employer and best remuneration for the employee."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x29ceddcf0da3c1d8068a7dfbd0fb06c2e438ff70",
+    "url": "https://thefreela.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x29ceddcf0da3c1d8068a7dfbd0fb06c2e438ff70",
+        "https://ethplorer.io/address/0x29ceddcf0da3c1d8068a7dfbd0fb06c2e438ff70"
+    ],
+    "twitter": "Freela_official",
+    "telegram": "FreelaOfficial"
+}

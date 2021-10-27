@@ -1,0 +1,23 @@
+{
+    "id": "hyper-finance",
+    "symbol": "hyfi",
+    "name": "Hyper Finance",
+    "platforms": {
+        "binance-smart-chain": "0x9a319b959e33369c5eaa494a770117ee3e585318"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hyper Finance( http://HyFi.pro) is a decentralized aggregate mining platform based on the \u200cBinance\u200c Smart Chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9a319b959e33369c5eaa494a770117ee3e585318",
+    "url": "https://hyfi.pro/",
+    "explorers": [
+        "https://bscscan.com/token/0x9a319b959e33369c5eaa494a770117ee3e585318"
+    ],
+    "twitter": "hyper_finance",
+    "telegram": "HyFi_Global",
+    "github_org": "HyperFinance"
+}

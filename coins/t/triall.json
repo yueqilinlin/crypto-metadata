@@ -1,0 +1,24 @@
+{
+    "id": "triall",
+    "symbol": "trl",
+    "name": "Triall",
+    "platforms": {
+        "ethereum": "0x58f9102bf53cf186682bd9a281d3cd3c616eec41"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Triall brings web 3.0 technology to clinical trials\u2014medical research studies that test whether new medicines are safe and effective for humans. Clinical trial processes are notoriously costly and inefficient. They take many years, and involve increasing amounts of systems and data. The result is a lack of oversight, and uncertainty the integrity and authenticity of collected research data. It all drives the costs and reduces safety and reliability in the development of new medicines.\r\n\r\nSince early 2018, Triall has been working with clinical trial professionals to target these issues. Triall has developed software solutions that are integrated with blockchain technology. These solutions make clinical trials tamper-resistant, and enable secure integrations between the many isolated systems and parties involved in clinical trials. Hence, they promise to shape the world\u2019s first digital ecosystem for clinical trials.\r\n\r\nTriall\u2019s blockchain functionalities and ecosystem approach are unique in the 200-billion-dollar clinical trial industry. The project directly answers to growing calls for system interoperability and data traceability as voiced by regulators such as the FDA and EMA, and by a growing body of clinical trial professionals around the world. The project introduces a two-token system that functions as the ecosystem\u2019s primary means of payment, while also facilitating community engagement, governance, and token lock-up incentives."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x58f9102bf53cf186682bd9a281d3cd3c616eec41",
+    "url": "https://www.triall.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x58f9102bf53cf186682bd9a281d3cd3c616eec41",
+        "https://ethplorer.io/address/0x58f9102bf53cf186682bd9a281d3cd3c616eec41"
+    ],
+    "twitter": "triallofficial",
+    "telegram": "triallcommunity",
+    "reddit": "TriallEcosystem/"
+}

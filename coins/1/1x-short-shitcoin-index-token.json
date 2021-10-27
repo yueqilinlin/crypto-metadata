@@ -1,0 +1,23 @@
+{
+    "id": "1x-short-shitcoin-index-token",
+    "symbol": "hedgeshit",
+    "name": "1X Short Shitcoin Index Token",
+    "platforms": {
+        "ethereum": "0x1d9cd2180fd4e9771fca28681034d02390b14e4c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Leveraged Token"
+    ],
+    "description": {
+        "en": "1X Short Shitcoin Index Token (HEDGESHIT) is an ERC20 token which seeks a return that corresponds to -1 times the daily return of Shitcoin Index."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1d9cd2180fd4e9771fca28681034d02390b14e4c",
+    "url": "https://ftx.com/tokens/HEDGESHIT",
+    "explorers": [
+        "https://etherscan.io/token/0x1d9cd2180fd4e9771fca28681034d02390b14e4c",
+        "https://ethplorer.io/address/0x1d9cd2180fd4e9771fca28681034d02390b14e4c"
+    ]
+}

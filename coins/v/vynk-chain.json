@@ -1,0 +1,26 @@
+{
+    "id": "vynk-chain",
+    "symbol": "vync",
+    "name": "VYNK Chain",
+    "platforms": {
+        "ethereum": "0xee1ae38be4ce0074c4a4a8dc821cc784778f378c",
+        "binance-smart-chain": "0xee1ae38be4ce0074c4a4a8dc821cc784778f378c",
+        "tron": "TEWg25TRbTg3ao1vGQzhmsDZeyFqXja738"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "VYNK CHAIN is the world's first Defi and Utility token from VynkPay which is a leading crypto payments application and a gateway to blockchain apps. As a global community, VYNK CHAIN is stretched across 40+ countries and the number of investors are increasing by leaps and bounds, and Now!! It\u2019s your time to jump on the VYNK CHAIN bandwagon and Get your VYNC token. the first cryptocurrency that comes with ready made merchant acceptance.Get everything in a breeze with VYNC token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xee1ae38be4ce0074c4a4a8dc821cc784778f378c",
+    "url": "https://vynkchain.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xee1ae38be4ce0074c4a4a8dc821cc784778f378c",
+        "https://ethplorer.io/address/0xee1ae38be4ce0074c4a4a8dc821cc784778f378c"
+    ],
+    "twitter": "vynkchain",
+    "telegram": "VynkChainCommunity",
+    "github_org": "vynkchain"
+}

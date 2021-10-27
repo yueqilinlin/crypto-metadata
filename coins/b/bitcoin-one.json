@@ -1,0 +1,28 @@
+{
+    "id": "bitcoin-one",
+    "symbol": "btcone",
+    "name": "BitCoin One",
+    "platforms": {
+        "ethereum": "0x87f5e8c3425218837f3cb67db941af0c01323e56"
+    },
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Other"
+    ],
+    "description": {
+        "en": "BitCoin ONE is a community driven project Decentralized meaning no state or company is controlling it, the Ecosystem is based on people helping out in marketing, support & development. \r\n\r\nWe are developing projects with a use case, that be Wallets and Mobile Crypto APP.\r\nWe have a good set of core values.\r\nWe even have a pool with 2 million BTCONE / 2 million B1P\r\nallocated for charity projects. This is to be distributed to 40 different projects around the globe.\r\n"
+    },
+    "country_origin": "BS",
+    "genesis_date": null,
+    "contract_address": "0x87f5e8c3425218837f3cb67db941af0c01323e56",
+    "url": "https://www.bitcoinone.io/",
+    "explorers": [
+        "http://blockexplorer.bitcoinone.io",
+        "https://etherscan.io/token/0x87f5e8c3425218837f3cb67db941af0c01323e56",
+        "https://ethplorer.io/address/0x87f5e8c3425218837f3cb67db941af0c01323e56"
+    ],
+    "twitter": "THEBITCOINONE",
+    "facebook": "bitcoinone.io",
+    "telegram": "TheBitCoinONE",
+    "github_org": "BitCoinONE1"
+}

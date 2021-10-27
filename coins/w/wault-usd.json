@@ -1,0 +1,26 @@
+{
+    "id": "wault-usd",
+    "symbol": "wusd",
+    "name": "Wault USD",
+    "platforms": {
+        "binance-smart-chain": "0x3ff997eaea488a082fb7efc8e6b9951990d0c3ab"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "USD Stablecoin",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "Wault Commerce-Backed Stablecoin"
+    },
+    "country_origin": "BG",
+    "genesis_date": null,
+    "contract_address": "0x3ff997eaea488a082fb7efc8e6b9951990d0c3ab",
+    "url": "https://wault.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x3ff997eaea488a082fb7efc8e6b9951990d0c3ab"
+    ],
+    "twitter": "Wault_Finance",
+    "telegram": "WaultFinance",
+    "github_org": "WaultFinance"
+}

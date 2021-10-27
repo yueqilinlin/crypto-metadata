@@ -1,0 +1,22 @@
+{
+    "id": "thefutbolcoin",
+    "symbol": "tfc",
+    "name": "TheFutbolCoin",
+    "platforms": {
+        "stellar": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TheFutbolCoin is a token that monetizes attention to football and enables a digital economy around the sport benefiting all participants."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "url": "https://thefutbolcoin.io/",
+    "explorers": [
+        "https://stellar.expert/explorer/public/asset/TFC-GDS3XDJAA4VY6MJYASIGSIMPHZ7AQNZ54RKLWT7MWCOU5YKYEVCNLVS3-1?order=desc"
+    ],
+    "twitter": "TheFutbolApp",
+    "facebook": "thefutbolapp",
+    "telegram": "tfc_official"
+}

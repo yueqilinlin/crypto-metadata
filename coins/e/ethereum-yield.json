@@ -1,0 +1,24 @@
+{
+    "id": "ethereum-yield",
+    "symbol": "ethy",
+    "name": "Ethereum Yield",
+    "platforms": {
+        "ethereum": "0xd1afbccc9a2c2187ea544363b986ea0ab6ef08b5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Users are incentivised to stake Uniswap liquidity provider tokens. Fees from these tokens are farmed. A percentage of these fees goes toward the autonomous strategies like liquidating LP tokens, and performing an (`ETH-ETHY`) buy back (increasing the price). Any purchased ETHY tokens will be distributed to stakers/farmers\r\n\r\nETHY implements a strong deflationary force on each token. Every time an ETHY token is transferred, a small fee is taken, which is returned to the farmers. This mechanism incentivises holding and farming.\r\n\r\nETHY holders will be able to vote on proposals\u2013 so long as they have staked liquidity in the pools. The community will decide everything from developer fees and site design to the exact farming options available."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd1afbccc9a2c2187ea544363b986ea0ab6ef08b5",
+    "url": "https://ethereumyield.farm/",
+    "explorers": [
+        "https://etherscan.io/token/0xd1AFBCCC9A2c2187ea544363B986EA0AB6EF08B5",
+        "https://ethplorer.io/address/0xd1AFBCCC9A2c2187ea544363B986EA0AB6EF08B5"
+    ],
+    "twitter": "EthereumYield",
+    "telegram": "ethereumyieldfarms",
+    "github_org": "ethereumyieldfarm"
+}

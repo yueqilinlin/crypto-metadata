@@ -1,0 +1,22 @@
+{
+    "id": "drunkdoge",
+    "symbol": "drunk",
+    "name": "DrunkDoge",
+    "platforms": {
+        "binance-smart-chain": "0x0cf1a8f47da44ad29865aa584813fa99d5129598"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DrunkDoge is a community focused token, fighting back against scams and rugs. DrunkDoge employs state-of-the-art tokenomics including Anti-whale, Anti-bot, Anti-snipe and Anti-dump mechanics to protect our alcohol supply."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x0cf1a8f47da44ad29865aa584813fa99d5129598",
+    "url": "https://drunkdoge.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x0cf1a8f47da44ad29865aa584813fa99d5129598"
+    ],
+    "twitter": "DrunkDogeBSC",
+    "telegram": "DrunkDogeBSC"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "silverstonks",
+    "symbol": "sstx",
+    "name": "Silver Stonks",
+    "platforms": {
+        "binance-smart-chain": "0x5396734569e26101677eb39c89413f7fa7d8006f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Silver Stonks is a company powered by its own token, SSTX, created to make it easier for a wider demographic to protect and diversify their assets. The Silver Stonks ecosystem allows our holders to buy physical silver on our online store, gain memberships to access exclusive educational content on our platform and benefit from our services that allow traditional businesses to adopt a token economy.\r\n\r\nOur mission is (i) To make purchasing silver more approachable to a new generation of investors. (ii) To grow our token\u2019s utility centered around an ecosystem of services. (iii) To educate people about the benefits of diversifying their assets, particularly in silver and\r\ncryptocurrencies."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x5396734569e26101677eb39c89413f7fa7d8006f",
+    "url": "https://www.silverstonks.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x5396734569e26101677eb39c89413f7fa7d8006f"
+    ],
+    "twitter": "SilverStonks",
+    "telegram": "SilverStonksEN",
+    "reddit": "SilverStonks/",
+    "github_org": "Silverstonks"
+}

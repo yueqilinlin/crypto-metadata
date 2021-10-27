@@ -1,0 +1,23 @@
+{
+    "id": "bitshark",
+    "symbol": "btshk",
+    "name": "Bitshark",
+    "platforms": {
+        "tron": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "url": "https://bitshark.com.br/",
+    "explorers": [
+        "https://tronscan.org/#/token/1003536"
+    ],
+    "twitter": "bitsharkcoin",
+    "facebook": "coinbitshark",
+    "telegram": "bitsharkcoin",
+    "github_org": "bitsharkcoin"
+}

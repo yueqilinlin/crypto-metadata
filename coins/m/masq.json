@@ -1,0 +1,26 @@
+{
+    "id": "masq",
+    "symbol": "masq",
+    "name": "MASQ",
+    "platforms": {
+        "ethereum": "0x06f3c323f0238c72bf35011071f2b5b7f43a054c",
+        "tomochain": "0xea478716a70dc086707e23de17965acb5c7b7840"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MASQ is a community-driven project aimed at solving the problem of internet censorship by repressive regimes.\r\n\r\nThe MASQ team is addressing this by building the next evolution of VPN and Tor technology.\r\n\r\nThe MASQ Node open Source solution address a growing Real World set of issues through a unique approach combining:\r\n\r\n- Rust Programming\r\n\r\n- Blockchain application\r\n\r\n- Network encryption\r\n\r\n- OS Agnostic Software design\r\n\r\n- Self-healing autonomous network structures (mesh-networks)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x06f3c323f0238c72bf35011071f2b5b7f43a054c",
+    "url": "https://masq.ai",
+    "explorers": [
+        "https://etherscan.io/token/0x06f3c323f0238c72bf35011071f2b5b7f43a054c",
+        "https://ethplorer.io/address/0x06f3c323f0238c72bf35011071f2b5b7f43a054c",
+        "https://scan.tomochain.com/tokens/0xea478716a70dc086707e23de17965acb5c7b7840"
+    ],
+    "twitter": "MASQ_ai",
+    "telegram": "MASQ_ai",
+    "github_org": "MASQ-Project"
+}

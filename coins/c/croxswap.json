@@ -1,0 +1,24 @@
+{
+    "id": "croxswap",
+    "symbol": "crox",
+    "name": "CroxSwap",
+    "platforms": {
+        "binance-smart-chain": "0x2c094f5a7d1146bb93850f629501eb749f6ed491"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CroxSwap is a a fully Decentralized cross-chain bridge with AMM and Yield farming that runs on Binance smart chain network."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x2c094f5a7d1146bb93850f629501eb749f6ed491",
+    "url": "https://croxswap.com",
+    "explorers": [
+        "https://bscscan.com/token/0x2c094f5a7d1146bb93850f629501eb749f6ed491"
+    ],
+    "twitter": "croxswap",
+    "telegram": "croxswap",
+    "reddit": "croxswap",
+    "github_org": "croxswap"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "premiumblock",
+    "symbol": "prb",
+    "name": "PremiumBlock",
+    "platforms": {
+        "binance-smart-chain": "0x59ff585aa42939853e2587b07ee8f94017584a88",
+        "nuls": "NULSd6HgoPMKmQY7qnyBqANwr1LjuWjchZXW6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Premium Block is a multi-chain platform that allows users to create a pool and disperse cryptocurrencies within the pool addresses. Premium Block offers built-in features like DEX, farming, flash loan arbitrage, and governance ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x59ff585aa42939853e2587b07ee8f94017584a88",
+    "url": "https://premiumblock.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x59ff585aa42939853e2587b07ee8f94017584a88"
+    ],
+    "twitter": "PremiumBlock",
+    "telegram": "premiumblock",
+    "github_org": "premiumblock"
+}

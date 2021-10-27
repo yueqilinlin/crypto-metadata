@@ -1,0 +1,23 @@
+{
+    "id": "polypup",
+    "symbol": "pup",
+    "name": "PolyPup",
+    "platforms": {
+        "polygon-pos": "0xcfe2cf35d2bdde84967e67d00ad74237e234ce59"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PolyPup Finance is a new DeFi project on Polygon featuring a deflationary token model with a maximum supply of 31,000 PUP tokens."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0xcfe2cf35d2bdde84967e67d00ad74237e234ce59",
+    "url": "https://polypup.finance",
+    "explorers": [
+        "https://polygonscan.com/token/0xcfe2cf35d2bdde84967e67d00ad74237e234ce59"
+    ],
+    "twitter": "PolyPup1",
+    "telegram": "PolyPupFarm",
+    "github_org": "PolyPup-Farm"
+}

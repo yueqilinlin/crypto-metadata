@@ -1,0 +1,23 @@
+{
+    "id": "satisfinance",
+    "symbol": "sat",
+    "name": "SatisFinance",
+    "platforms": {
+        "binance-smart-chain": "0x8fda94079913cb921d065ed9c004afb43e1f900e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SatisFinance is 4th generation deflationary yield farming project with its unique SBB protocol on BSC"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x8fda94079913cb921d065ed9c004afb43e1f900e",
+    "url": "https://satis.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x8fda94079913CB921D065Ed9c004Afb43e1f900e"
+    ],
+    "twitter": "FinanceSatis",
+    "telegram": "satisfiChat",
+    "github_org": "RenovJ"
+}

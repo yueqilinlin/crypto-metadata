@@ -1,0 +1,34 @@
+{
+    "id": "republic-protocol",
+    "symbol": "ren",
+    "name": "REN",
+    "platforms": {
+        "ethereum": "0x408e41876cccdc0f92210600ef50372656052a38",
+        "harmony-shard-0": "0x451e129b6045b6e4f48e7247388f21163f7743b7",
+        "sora": "0x00e8a7823b8207e4cab2e46cd10b54d1be6b82c284037b6ee76afd52c0dceba6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem",
+        "Polygon Ecosystem",
+        "Polkadot Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Ren is an open protocol that enables the movement of value between blockchains. Ren's core product, RenVM, is focused on bringing interoperability to decentralized finance (DeFi). Ren was founded in 2017 and is headquartered in Singapore."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x408e41876cccdc0f92210600ef50372656052a38",
+    "url": "http://renproject.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x408e41876cccdc0f92210600ef50372656052a38",
+        "https://ethplorer.io/search/0x408e41876cccdc0f92210600ef50372656052a38",
+        "https://ethplorer.io/address/0x408e41876cccdc0f92210600ef50372656052a38"
+    ],
+    "twitter": "renprotocol",
+    "telegram": "renproject",
+    "reddit": "republicprotocol/",
+    "github_org": "renproject"
+}

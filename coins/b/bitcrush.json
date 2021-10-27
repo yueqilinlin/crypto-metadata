@@ -1,0 +1,26 @@
+{
+    "id": "bitcrush",
+    "symbol": "crush",
+    "name": "Bitcrush",
+    "platforms": {
+        "binance-smart-chain": "0x0ef0626736c2d484a792508e99949736d0af807e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem",
+        "Gaming"
+    ],
+    "description": {
+        "en": "Bitcrush is a hybrid system of provably fair and decentralized games that utilize Defi protocols. We are not a casino with crypto payments, but instead a Defi protocol using casino games as our first use case.  Bitcrush Arcade introduces a decentralized live wallet to act as an escrow for players who are comfortable with provably fair games and slots, but still like to engage seamlessly with Defi protocols. Additionally, every game developed by Bitcrush Arcade will offer a provably fair version that connects to a live wallet, as well as a decentralized version of the game to allow players the exact functionality they prefer. The live wallet will allow us to launch 3rd party games like slots using native BSC tokens and keep you connected to all the Dapps you interact with on a daily basis."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0ef0626736c2d484a792508e99949736d0af807e",
+    "url": "https://www.bitcrush.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x0Ef0626736c2d484A792508e99949736D0AF807e"
+    ],
+    "twitter": "bitcrusharcade",
+    "telegram": "Bcarcadechat",
+    "github_org": "bitcrusharcade"
+}

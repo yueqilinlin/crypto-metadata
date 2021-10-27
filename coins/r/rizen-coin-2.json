@@ -1,0 +1,23 @@
+{
+    "id": "rizen-coin-2",
+    "symbol": "rzn",
+    "name": "Rizen Coin",
+    "platforms": {
+        "binance-smart-chain": "0xc4a75e25d04719a9c7d348065a6819f3d5ea4a01"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rizencoin is the native token of the Rizen ecosystem, and a community centric project on BSC combining proof of stake, proof of liquidity and proof of transaction. Rizen as the first experimental community-driven DeFi project with unique staking and supply mechanism. Rizen gives you lifetime passive reward from staking which can anytime and instantly be withdrawn. The more transactions happen the more reward you will get from staking.\r\n\r\nRizen supply is reduced by burning 1% fee from unstaking, and the 1% fee (from withdrawal of staking rewards, buy/sell, and transfers) is instantly distributed to stakers."
+    },
+    "country_origin": "TN",
+    "genesis_date": null,
+    "contract_address": "0xc4a75e25d04719a9c7d348065a6819f3d5ea4a01",
+    "url": "https://rizencoin.com",
+    "explorers": [
+        "https://bscscan.com/token/0xc4a75e25d04719a9c7d348065a6819f3d5ea4a01"
+    ],
+    "twitter": "coinrizen",
+    "telegram": "coinrizen",
+    "github_org": "Rizencoin"
+}

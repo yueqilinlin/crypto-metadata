@@ -1,0 +1,28 @@
+{
+    "id": "cheesecakeswap",
+    "symbol": "ccake",
+    "name": "CheesecakeSwap",
+    "platforms": {
+        "binance-smart-chain": "0xc7091aa18598b87588e37501b6ce865263cd67ce",
+        "polygon-pos": "0xbc2597d3f1f9565100582cde02e3712d03b8b0f6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "AMM and Yield Farm Platform Governance Token"
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0xc7091aa18598b87588e37501b6ce865263cd67ce",
+    "url": "https://cheesecakeswap.com",
+    "explorers": [
+        "https://bscscan.com/token/0xc7091aa18598b87588e37501b6ce865263cd67ce"
+    ],
+    "twitter": "cheesecakeswap",
+    "telegram": "cheesecakeswap",
+    "github_org": "cheesecakeswap"
+}

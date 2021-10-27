@@ -1,0 +1,24 @@
+{
+    "id": "ethereumvault",
+    "symbol": "evault",
+    "name": "EthereumVault",
+    "platforms": {
+        "ethereum": "0x1d15a70f1c8c2a9938ba8036f5a46021146d8c15"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EthereumVault is a first in class auto USDC reflectionary token. eVAULT\u2019s vision is to reward holders in USDC for simply holding, and auto delivering your dividends directly to your wallet.\r\nThere is a 12% tax on all transactions. 6% is allocated to holder as passive $USDC income, and 6% will be used to cover project operations."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x1d15a70f1c8c2a9938ba8036f5a46021146d8c15",
+    "url": "https://ethereumvault.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x1d15a70f1c8c2a9938ba8036f5a46021146d8c15",
+        "https://ethplorer.io/address/0x1d15a70f1c8c2a9938ba8036f5a46021146d8c15"
+    ],
+    "twitter": "ethereum_vault",
+    "telegram": "evaultfinance",
+    "github_org": "evaulttoken"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "defipulse-index",
+    "symbol": "dpi",
+    "name": "DeFiPulse Index",
+    "platforms": {
+        "ethereum": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
+        "polygon-pos": "0x85955046df4668e1dd369d2de9f3aeb98dd2a369"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "DeFi Index",
+        "Structured Products",
+        "TokenSets",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "A basket created by DeFiPulse of the top DeFi tokens by market cap. The DPI Set is rebalanced monthly to realign to its market cap weighted index. Buy into the top DeFi tokens by buying the DeFiPulse Index Set."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
+    "url": "https://www.indexcoop.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+        "https://ethplorer.io/address/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b"
+    ],
+    "twitter": "SetProtocol",
+    "github_org": "SetProtocol"
+}

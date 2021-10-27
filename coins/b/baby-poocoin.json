@@ -1,0 +1,23 @@
+{
+    "id": "baby-poocoin",
+    "symbol": "babypoo",
+    "name": "Baby Poocoin",
+    "platforms": {
+        "binance-smart-chain": "0x38895e0b3e7cd13c45bd4e93af5a402604b762e3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Our Doxxed developer has partnered with Monkey Shanti, the most renowned coder in Defi, to bring you the most promising project of the Year. Marketed by Blockchain Pros, the hype is real. Earn rewards in PooCoin tokens, help children in need, and join us to have fun in our tight and cheerful community. "
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x38895e0b3e7cd13c45bd4e93af5a402604b762e3",
+    "url": "https://www.babypoo.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x38895e0b3e7cd13c45bd4e93af5a402604b762e3"
+    ],
+    "twitter": "babypootoken",
+    "telegram": "OfficialBabyPooCoin",
+    "github_org": "monkey-shanti"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "finxflo",
+    "symbol": "fxf",
+    "name": "Finxflo",
+    "platforms": {
+        "ethereum": "0x8a40c222996f9f3431f63bf80244c36822060f12",
+        "tron": "TSNr126nQ8HKfXREqrqkBnxoQNHS5qJLg5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The aggregation of the world\u2019s biggest and most liquid exchanges."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x8a40c222996f9f3431f63bf80244c36822060f12",
+    "url": "https://www.finxflo.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8a40c222996f9F3431f63Bf80244C36822060f12",
+        "https://ethplorer.io/address/0x8a40c222996f9f3431f63bf80244c36822060f12"
+    ],
+    "twitter": "finxflo",
+    "telegram": "Finxflo_Community"
+}

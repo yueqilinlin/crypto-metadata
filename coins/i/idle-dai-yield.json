@@ -1,0 +1,21 @@
+{
+    "id": "idle-dai-yield",
+    "symbol": "idleDAIYield",
+    "name": "IdleDAI (Best Yield)",
+    "platforms": {
+        "ethereum": "0x3fe7940616e5bc47b0775a0dccf6237893353bb4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3fe7940616e5bc47b0775a0dccf6237893353bb4",
+    "url": "https://idle.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x3fe7940616e5bc47b0775a0dccf6237893353bb4",
+        "https://ethplorer.io/address/0x3fe7940616e5bc47b0775a0dccf6237893353bb4"
+    ]
+}

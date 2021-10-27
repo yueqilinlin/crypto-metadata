@@ -1,0 +1,24 @@
+{
+    "id": "raptor-finance",
+    "symbol": "raptr",
+    "name": "Raptor Finance",
+    "platforms": {
+        "binance-smart-chain": "0xf9a3fda781c94942760860fc731c24301c83830a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Raptor finance is a decentralized, financial ecosystem designed by holders for holders.  Our mission is to heal planet earth and stop climate change by allowing our holders to stake their tokens to generate yield for themselves and ecological projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf9a3fda781c94942760860fc731c24301c83830a",
+    "url": "https://raptr.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xf9a3fda781c94942760860fc731c24301c83830a"
+    ],
+    "twitter": "raptor_token",
+    "telegram": "PhilosoRaptorToken",
+    "reddit": "RaptorToken/",
+    "github_org": "ygboucherk"
+}

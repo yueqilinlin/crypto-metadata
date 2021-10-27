@@ -1,0 +1,25 @@
+{
+    "id": "xmark",
+    "symbol": "xmark",
+    "name": "xMARK",
+    "platforms": {
+        "binance-smart-chain": "0x26a5dfab467d4f58fb266648cae769503cec9580",
+        "polygon-pos": "0xf153eff70dc0bf3b085134928daeea248d9b30d0",
+        "ethereum": "0x36b679bd64ed73dbfd88909cdcb892cb66bd4cbb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Benchmark Protocol's xMARK token is issued similarly to a LP token in exchange for staking MARK tokens in the Standard, Benchmark Protocol's single asset staking model.  xMARK is similar to a receipt in that you can exchange it back at anytime for the underlying MARK tokens.  \r\n\r\nAs MARK is a rebase token, the assets underlying the xMARK token will be affected by rebase; however, the number of xMARK tokens you own while staking, will never rebase. The exchange rate of xMARK to MARK tokens therefore will be dynamic"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x26a5dfab467d4f58fb266648cae769503cec9580",
+    "url": "https://benchmarkprotocol.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x26a5dfab467d4f58fb266648cae769503cec9580"
+    ],
+    "twitter": "benchmark_defi",
+    "telegram": "benchmark_protocol",
+    "github_org": "benchmarkprotocol"
+}

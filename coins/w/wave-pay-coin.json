@@ -1,0 +1,23 @@
+{
+    "id": "wave-pay-coin",
+    "symbol": "wpc",
+    "name": "Wave Pay Coin",
+    "platforms": {
+        "tomochain": "0xb21a31c61aa548b35c343f8168ee005475ee6501"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wave pay coin(WPC) is a utility token on TOMO chain based cryptocurrency token. basically used for online gaming rewards and online shopping , online services others incentives. In future used many more platform like NFT, Defi projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb21a31c61aa548b35c343f8168ee005475ee6501",
+    "url": "https://wavepaycoin.com/",
+    "explorers": [
+        "https://scan.tomochain.com/tokens/0xb21a31c61aa548b35c343f8168ee005475ee6501"
+    ],
+    "twitter": "wavepaycoin",
+    "telegram": "wavepaycoin",
+    "github_org": "tomochain"
+}

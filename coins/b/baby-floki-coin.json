@@ -1,0 +1,22 @@
+{
+    "id": "baby-floki-coin",
+    "symbol": "BABYFLOKICOIN",
+    "name": "Baby Floki Coin",
+    "platforms": {
+        "binance-smart-chain": "0x808fac147a9c02723d0be300ac4753eaf93c0e1f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Baby Floki Coin is Elon Musk\u2019s very own shiba inu and he\u2019s on a mission to become the first puppy to go to the moon! He\u2019s built to reward you by sending 5% of every transaction made to your wallet. This little guy loves space exploration- simply hold, and watch your $BabyFlokiCoin go to the moon!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x808fac147a9c02723d0be300ac4753eaf93c0e1f",
+    "url": "https://www.babyflokicoin.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x808fac147a9c02723d0be300ac4753eaf93c0e1f"
+    ],
+    "twitter": "xBabyFlokiCoin",
+    "telegram": "OfficialBabyFlokiCoin"
+}

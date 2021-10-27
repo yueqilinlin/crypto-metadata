@@ -1,0 +1,23 @@
+{
+    "id": "ethereum-eagle-project",
+    "symbol": "egl",
+    "name": "Ethereum Gas Limit",
+    "platforms": {
+        "ethereum": "0x1e83916ea2ef2d7a6064775662e163b2d4c330a7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Ethereum Eagle project (EGL) is a community led effort focused on solving the misalignment of incentives and lack of transparency between the Ethereum community and miners in a way that maximizes value for all stakeholders. At present, miners solely decide gas limits and block sizes for the protocol, while Ethereum users, who are impacted by these decisions, have no voice. EGL introduces an on-chain coordination token \u201cEGL\u201d that allows the entire ETH ecosystem to vote on Ethereum\u2019s gas limit and incentivizes Ethereum miners to follow the consensus gas limit, as decided by the community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1e83916ea2ef2d7a6064775662e163b2d4c330a7",
+    "url": "https://egl.vote/",
+    "explorers": [
+        "https://etherscan.io/token/0x1e83916Ea2EF2D7a6064775662E163b2D4C330a7",
+        "https://ethplorer.io/address/0x1e83916Ea2EF2D7a6064775662E163b2D4C330a7"
+    ],
+    "twitter": "ETH_EGL",
+    "github_org": "eglvote"
+}

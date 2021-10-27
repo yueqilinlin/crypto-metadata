@@ -1,0 +1,26 @@
+{
+    "id": "unicly-formula-revv-collection",
+    "symbol": "urevv",
+    "name": "Unicly Formula REVV Collection",
+    "platforms": {
+        "ethereum": "0x72b19558b05706708b612fbbe86b71446eafc002"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "uTokens",
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x72b19558b05706708b612fbbe86b71446eafc002",
+    "url": "https://www.app.unic.ly/#/utoken-contract/0x72b19558b05706708b612fbbe86b71446eafc002",
+    "explorers": [
+        "https://etherscan.io/token/0x72b19558b05706708b612fbbe86b71446eafc002",
+        "https://ethplorer.io/address/0x72b19558b05706708b612fbbe86b71446eafc002"
+    ],
+    "twitter": "revv_u"
+}

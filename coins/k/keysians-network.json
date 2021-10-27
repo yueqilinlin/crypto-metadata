@@ -1,0 +1,25 @@
+{
+    "id": "keysians-network",
+    "symbol": "ken",
+    "name": "Keysians Network",
+    "platforms": {
+        "ethereum": "0x6a7ef4998eb9d0f706238756949f311a59e05745"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6a7ef4998eb9d0f706238756949f311a59e05745",
+    "url": "https://keysians.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6a7ef4998eb9d0f706238756949f311a59e05745",
+        "https://ethplorer.io/address/0x6a7ef4998eb9d0f706238756949f311a59e05745"
+    ],
+    "twitter": "keysians",
+    "telegram": "keysians"
+}

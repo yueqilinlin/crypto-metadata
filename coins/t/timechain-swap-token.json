@@ -1,0 +1,26 @@
+{
+    "id": "timechain-swap-token",
+    "symbol": "tcs",
+    "name": "Timechain Swap Token",
+    "platforms": {
+        "fantom": "0xfbfae0dd49882e503982f8eb4b8b1e464eca0b91"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Fantom Ecosystem",
+        "Automated Market Maker (AMM)"
+    ],
+    "description": {
+        "en": "TimechainSwap (TCS) is a multi-chain Decentralized Exchange (DEX) aggregator. It is built as an Automated Market Maker (AMM) on Fantom (FTM) network and expanding to Binance Smart Chain and the Ethereum Network next. FTM and BSC are chosen as priority for their low fees and fast transaction speed to extract the best price through the available (DEX) liquidity pools."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfbfae0dd49882e503982f8eb4b8b1e464eca0b91",
+    "url": "https://timechain.com",
+    "explorers": [
+        "https://ftmscan.com/token/0xfbfae0dd49882e503982f8eb4b8b1e464eca0b91"
+    ],
+    "twitter": "timechainapp",
+    "telegram": "TimechainOfficial"
+}

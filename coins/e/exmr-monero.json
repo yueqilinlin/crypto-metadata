@@ -1,0 +1,25 @@
+{
+    "id": "exmr-monero",
+    "symbol": "exmr",
+    "name": "EXMR FDN",
+    "platforms": {
+        "ethereum": "0x331fa6c97c64e47475164b9fc8143b533c5ef529"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "EXMR is the official token of GetCryptoPayments\u00ae gateway, and its main function of this payment gateway will be to integrate a wide universe of currencies and tokens through a competition, with the acquisition of Ethereum Monero for that purpose. The online merchants and the local store can receive payments on most cryptocurrencies, safely and quickly with a low rate. This payment gateway will allow retailers worldwide to accept payments in Ethereum Monero, <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>, <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>, <a href=\"https://www.coingecko.com/en/coins/litecoin\">Litecoin</a>, and altcoins. There will be no fees for payments made in EXMR."
+    },
+    "country_origin": "US",
+    "genesis_date": "2017-10-13",
+    "contract_address": "0x331fa6c97c64e47475164b9fc8143b533c5ef529",
+    "url": "https://exmr.foundation/",
+    "explorers": [
+        "https://etherscan.io/token/0x331fA6C97c64e47475164b9fC8143b533c5eF529",
+        "https://ethplorer.io/address/0x331fa6c97c64e47475164b9fc8143b533c5ef529"
+    ],
+    "twitter": "eXMRCoin",
+    "facebook": "exmrcoin",
+    "reddit": "exmr/",
+    "github_org": "eXMRcoin"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "internet-of-energy-network",
+    "symbol": "ioen",
+    "name": "Internet of Energy Network",
+    "platforms": {
+        "ethereum": "0x1e4e46b7bf03ece908c88ff7cc4975560010893a",
+        "polygon-pos": "0xd0e9c8f5fae381459cf07ec506c1d2896e8b5df6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$IOEN is an interconnected system of virtual microgrids that facilitates transactions within & between local energy ecosystems on Holochain\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1e4e46b7bf03ece908c88ff7cc4975560010893a",
+    "url": "https://www.ioen.tech/",
+    "explorers": [
+        "https://etherscan.io/token/0x1e4E46b7BF03ECE908c88FF7cC4975560010893A",
+        "https://ethplorer.io/address/0x1e4e46b7bf03ece908c88ff7cc4975560010893a"
+    ],
+    "twitter": "IOEN_tech",
+    "telegram": "IOEN_global"
+}

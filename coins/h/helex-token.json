@@ -1,0 +1,26 @@
+{
+    "id": "helex-token",
+    "symbol": "hlx",
+    "name": "Helex",
+    "platforms": {
+        "ethereum": "0x8f8e787989bc652eea01a6c88a19f0f379bdf4fd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Helex Token. Connecting Blockchain to the Real World.\r\n\r\nHelex is built inside the Ethereum Network."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x8f8e787989bc652eea01a6c88a19f0f379bdf4fd",
+    "url": "https://helex.world/",
+    "explorers": [
+        "https://etherscan.io/token/0x8F8e787989BC652eeA01A6C88a19f0f379BDF4FD",
+        "https://ethplorer.io/address/0x8f8e787989bc652eea01a6c88a19f0f379bdf4fd"
+    ],
+    "twitter": "helexcorp",
+    "facebook": "helexcorp",
+    "telegram": "helextoken"
+}

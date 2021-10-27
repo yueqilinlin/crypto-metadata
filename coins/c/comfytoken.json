@@ -1,0 +1,24 @@
+{
+    "id": "comfytoken",
+    "symbol": "comfy",
+    "name": "ComfyToken",
+    "platforms": {
+        "binance-smart-chain": "0xc737b44cb0aa18815a1f6918eb338dee7e7e6bd7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ComfyToken is a project aimed at providing a frictionless platform where things get done in the most effortless (and comfy) manner. Everything is automatic and simple for any individual -- new to crypto or not -- to understand the token at a glance. Aside from reflection and DeFi mechanics, we aim to take ComfyToken to the next level with additions such as ComfyNFT (Mint & Exchange), ComfyDashboard (Charts & Stats)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc737b44cb0aa18815a1f6918eb338dee7e7e6bd7",
+    "url": "https://www.comfytoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xc737b44cb0aa18815a1f6918eb338dee7e7e6bd7"
+    ],
+    "twitter": "comfytoken",
+    "telegram": "comfytokenchat",
+    "reddit": "comfytoken",
+    "github_org": "comfytoken"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "coinbene-token",
+    "symbol": "coni",
+    "name": "Coinbene Token",
+    "platforms": {
+        "ethereum": "0x695db6508d66bf111d8d96adaffc5356b7f4581f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "CoinBene Token (the \"Coni\") is a crypto-token developed by the CoinBene exchange. It has a strict total volume of 1 billion, which will be created and never increased. Coni will run on the Ethereum blockchain with ERC 20.\r\n\r\nValue of Coni\r\n\r\n1. 40% of Profit-sharing: 40% of the net profit of the platform is used to reward Coni holders in 8th of each month such as the first reward time is July 8th and so on. Based on developing of CoinBene, the monthly rewards will be replaced by weekly rewards.\r\n\r\n2. Exclusive Discounts of Trade Fee: Coni holders will be expected to enjoy the exclusive discounts of trade fee, the more holding amount, the bigger discounts, with 70% off in maximum.\r\n\r\n3. Guarantee Deposit: Every new project needs to deposit a number of Coni tokens based on market value to a listing guarantee with 10 months reserved period. The guarantee deposit will be refunded in 1st of each month and the proportion of refunds is 10% of the guarantee deposit until all of them.\r\n\r\n4. Listing vote: As platform develops, CoinBene will adopt 'Voting to listing' model.\r\n\r\n5. Global Partner: With the acceleration of globalization, CoinBene will select global partners. In addition to other requirements, the partner is expected to deposit a number of Coni tokens based on market value to a cooperating guarantee.\r\n\r\n6. Public Blockchain: CoinBene will release Coni public blockchain, meanwhile, the global business process will be managed on blockchain and the application of Coni will extend in the future."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x695db6508d66bf111d8d96adaffc5356b7f4581f",
+    "url": "https://www.coinbene.com/#/coni",
+    "explorers": [
+        "https://etherscan.io/token/0x695db6508d66bf111d8d96adaffc5356b7f4581f",
+        "https://ethplorer.io/address/0x695db6508d66bf111d8d96adaffc5356b7f4581f"
+    ]
+}

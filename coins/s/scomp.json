@@ -1,0 +1,25 @@
+{
+    "id": "scomp",
+    "symbol": "scomp",
+    "name": "sCOMP",
+    "platforms": {
+        "ethereum": "0xeb029507d3e043dd6c87f2917c4e82b902c35618"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synths",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Tracks the price of Compound (COMP) through price feeds supplied by an oracle"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeb029507d3e043dd6c87f2917c4e82b902c35618",
+    "url": "https://synthetix.exchange/#/synths",
+    "explorers": [
+        "https://etherscan.io/token/0xEb029507d3e043DD6C87F2917C4E82B902c35618",
+        "https://ethplorer.io/address/0xEb029507d3e043DD6C87F2917C4E82B902c35618"
+    ],
+    "twitter": "synthetix_io"
+}

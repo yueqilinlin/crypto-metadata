@@ -1,0 +1,22 @@
+{
+    "id": "humancoin-2",
+    "symbol": "hmnc",
+    "name": "HumanCoin",
+    "platforms": {
+        "ethereum": "0x77e31d674a46d356b2e65892bde7758bb26238ca"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HumanCoin is a cryptocurrency that has been issued in the amount of 46 million tokens. This number is final and will only decrease. This figure corresponds to the approximate number of people who are being enslaved in one form or the other around the world.\r\n\r\nWe want to certify manufactures and enterprises that do not use child and/or slave labor.Acquiring a certificate is also a good marketing  move for the business owner. For example, fashion brand Zara suffered huge losses when it was revealed that their factories used child labor. The certification process is simple: our employees go to the site, check the plant and, if there is no use of child or slave labor, give a positive verdict. \r\nIn order to bring certification costs down for the business owners, we will carry out verification for free, but those enterprises that have acquired certification, must redeem our tokens in proportion to the number of their hired employees. For example, a company employs 5 people, then the business owner uses our tokens to purchase a sum that is equivalent to the amount of 1$ per employee.  If 100 thousand people are employed, then this is the amount that is redeemed monthly in our tokens by this company on any trading platform. As the last step, the coins are sent to us - this way we provide constant liquidity of our cryptocurrency.\r\n\r\nThis money will be used to free people. In addition, this will allow us to have a more comprehensive aftercare for those who has been rescued: professional trainings and opportunities to start a new and dignified life. "
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0x77e31d674a46d356b2e65892bde7758bb26238ca",
+    "url": "https://www.human-coin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x77e31d674a46d356b2e65892bde7758bb26238ca",
+        "https://ethplorer.io/address/0x77e31d674a46d356b2e65892bde7758bb26238ca"
+    ],
+    "github_org": "HumanCoin-Alternative"
+}

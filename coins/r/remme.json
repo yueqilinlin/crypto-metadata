@@ -1,0 +1,30 @@
+{
+    "id": "remme",
+    "symbol": "rem",
+    "name": "Remme",
+    "platforms": {
+        "ethereum": "0x83984d6142934bb535793a82adb0a46ef0f66b6d"
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "\"Remme is an ecosystem of Identity and Access Management products with a digital key at its heart. Founded in 2015, Remme is building the decentralized Public Key Infrastructure protocol and PKI-enabled apps to address the challenges of Web 3.0.\r\n\r\nRemme Protocol aims to become the next-generation blockchain-based PKI alternative. It is open-source and customizable to suit business needs. Remme Protocol provides a basis for establishing self-sovereign and authority-issued identities, with a host of use cases.\r\n\r\nRemme Auth is a 2-click authentication solution that allows users to securely access a website without passwords. Instead, the solution uses Web Cryptography API and blockchain technology.\r\n\r\nWith the Protocol being built on EOSIO codebase, REMChain is an independent blockchain fueled by the REM token. REM is an ERC-20 token on Ethereum with the permanent possibility to swap it to REMChain native tokens in both directions.\""
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x83984d6142934bb535793a82adb0a46ef0f66b6d",
+    "url": "https://remme.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x83984d6142934bb535793a82adb0a46ef0f66b6d",
+        "https://testchain.remme.io/",
+        "https://ethplorer.io/address/0x83984d6142934bb535793a82adb0a46ef0f66b6d",
+        "https://remchain.remme.io/"
+    ],
+    "twitter": "remme_io",
+    "facebook": "remme.io",
+    "telegram": "remme",
+    "reddit": "remme/",
+    "github_org": "Remmeauth"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "unipump",
+    "symbol": "UPP",
+    "name": "Unipump",
+    "platforms": {
+        "ethereum": "0xce25b4271cc4d937a7d9bf75b2068a7892b9961d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An open system for creating incentivized uniswap trading groups between untrusted parties"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xce25b4271cc4d937a7d9bf75b2068a7892b9961d",
+    "url": "https://unipump.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xce25b4271cc4d937a7d9bf75b2068a7892b9961d",
+        "https://ethplorer.io/address/0xce25b4271cc4d937a7d9bf75b2068a7892b9961d"
+    ],
+    "twitter": "unipumper",
+    "telegram": "unipumps"
+}

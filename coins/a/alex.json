@@ -1,0 +1,24 @@
+{
+    "id": "alex",
+    "symbol": "alex",
+    "name": "Alex",
+    "platforms": {
+        "ethereum": "0x8ba6dcc667d3ff64c1a2123ce72ff5f0199e5315"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Social Money"
+    ],
+    "description": {
+        "en": "ALEX is the social money of Alex Masmej"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8ba6dcc667d3ff64c1a2123ce72ff5f0199e5315",
+    "url": "https://app.tryroll.com/rewards/ALEX",
+    "explorers": [
+        "https://etherscan.io/token/0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315",
+        "https://ethplorer.io/address/0x8ba6dcc667d3ff64c1a2123ce72ff5f0199e5315"
+    ],
+    "twitter": "AlexMasmej"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "conflux-token",
+    "symbol": "cfx",
+    "name": "Conflux",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Conflux enables creators, communities, and markets to connect across borders and protocols\r\n\r\nConflux is a high throughput first layer consensus blockchain that utilizes a unique Tree-Graph consensus algorithm. This enables the parallel processing of blocks and transactions for increased throughput and scalability.\r\n\r\nAs the only regulatory compliant, public, and permissionless blockchain in China, Conflux provides a unique advantage for projects building and expanding into Asia, connecting decentralized economies to strengthen the global DeFi ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://confluxnetwork.org/",
+    "explorers": [
+        "https://www.confluxscan.io/",
+        "https://bscscan.com/token/0x045c4324039da91c52c55df5d785385aab073dcf"
+    ],
+    "twitter": "Conflux_Network",
+    "telegram": "Conflux_English",
+    "reddit": "Conflux_Network/",
+    "github_org": "Conflux-Chain"
+}

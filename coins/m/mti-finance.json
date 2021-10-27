@@ -1,0 +1,22 @@
+{
+    "id": "mti-finance",
+    "symbol": "mti",
+    "name": "MTI Finance",
+    "platforms": {
+        "ethereum": "0x86d3f38edaf7e7959e5d8e6aea5ad3187b78c346"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x86d3f38edaf7e7959e5d8e6aea5ad3187b78c346",
+    "url": "https://mti.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x86d3f38edaf7e7959e5d8e6aea5ad3187b78c346",
+        "https://ethplorer.io/address/0x86d3f38edaf7e7959e5d8e6aea5ad3187b78c346"
+    ],
+    "telegram": "mtifinance"
+}

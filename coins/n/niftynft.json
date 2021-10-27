@@ -1,0 +1,23 @@
+{
+    "id": "niftynft",
+    "symbol": "nifty",
+    "name": "NiftyNFT",
+    "platforms": {
+        "ethereum": "0xd953a0308617c79ecad8d5eab88a6561fd8a084d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Maximize the true value of your NFTs through the Nifty Marketplace.\r\nMake and sell your NFTs on Nifty, similar to other marketplaces like Rarible. The difference? We automatically lock some #ETH value."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd953a0308617c79ecad8d5eab88a6561fd8a084d",
+    "url": "https://niftynft.live/",
+    "explorers": [
+        "https://etherscan.io/token/0xd953a0308617c79ecad8d5eab88a6561fd8a084d",
+        "https://ethplorer.io/address/0xd953a0308617c79ecad8d5eab88a6561fd8a084d"
+    ],
+    "twitter": "nft_nifty",
+    "telegram": "NiftyNFT"
+}

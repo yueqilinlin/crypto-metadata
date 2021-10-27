@@ -1,0 +1,22 @@
+{
+    "id": "represent",
+    "symbol": "rpt",
+    "name": "Represent",
+    "platforms": {
+        "binance-smart-chain": "0x6e9a01f93ff2634f3296c536738dd593b10c524f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Represent is the ultimate Governance protocol allowing for three different applications of voting. \r\n\r\nGeographical: This allows users within a certain geographical area to create geographical proposals, questions, and vote.\r\n\r\nOrganizational: Any corporation, organization, union, or entity can simply submit a list of registered users and they can then put forth questions to vote on \r\n\r\nCrypto DAO based. Similiar to how Ferrum offers a white label staking service, we offer a white label DAO service."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6e9a01f93ff2634f3296c536738dd593b10c524f",
+    "url": "https://www.representdao.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x6e9a01f93ff2634f3296c536738dd593b10c524f"
+    ],
+    "twitter": "representdao",
+    "telegram": "EMPOWERING_YOU"
+}

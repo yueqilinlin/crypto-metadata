@@ -1,0 +1,28 @@
+{
+    "id": "mimo-parallel-governance-token",
+    "symbol": "mimo",
+    "name": "MIMO Parallel Governance Token",
+    "platforms": {
+        "ethereum": "0x90b831fa3bebf58e9744a14d638e25b4ee06f9bc",
+        "polygon-pos": "0xadac33f543267c4d59a8c299cf804c303bc3e4ac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MIMO is the Governance Token of PAR Token"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x90b831fa3bebf58e9744a14d638e25b4ee06f9bc",
+    "url": "https://mimo.capital/",
+    "explorers": [
+        "https://etherscan.io/token/0x90b831fa3bebf58e9744a14d638e25b4ee06f9bc",
+        "https://ethplorer.io/address/0x90b831fa3bebf58e9744a14d638e25b4ee06f9bc",
+        "https://polygonscan.com/token/0xADAC33f543267c4D59a8c299cF804c303BC3e4aC"
+    ],
+    "twitter": "mimodefi",
+    "facebook": "mimodefi",
+    "telegram": "mimodefi",
+    "reddit": "mimodefi/",
+    "github_org": "mimo-capital"
+}

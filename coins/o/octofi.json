@@ -1,0 +1,31 @@
+{
+    "id": "octofi",
+    "symbol": "octo",
+    "name": "OctoFi",
+    "platforms": {
+        "ethereum": "0x7240ac91f01233baaf8b064248e80feaa5912ba3",
+        "fantom": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Decentralized Exchange Token (DEX)",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "OctoFi gives you cash back when you transact with trusted DeFi and NFT marketplaces, across multiple blockchains, through our all-in-one dApp or browser-plugin Wallet."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7240ac91f01233baaf8b064248e80feaa5912ba3",
+    "url": "https://octo.fi ",
+    "explorers": [
+        "https://etherscan.io/token/0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
+        "https://ethplorer.io/address/0x7240ac91f01233baaf8b064248e80feaa5912ba3"
+    ],
+    "twitter": "octofinance",
+    "telegram": "OctoFi",
+    "github_org": "octofi"
+}

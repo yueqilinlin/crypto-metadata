@@ -1,0 +1,24 @@
+{
+    "id": "autoshark",
+    "symbol": "jaws",
+    "name": "AutoShark",
+    "platforms": {
+        "binance-smart-chain": "0xdd97ab35e3c0820215bc85a395e13671d84ccba2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AutoShark is the number #1 yield optimizer for Automatic Liquidity AMMs on Binance Smart Chain."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0xdd97ab35e3c0820215bc85a395e13671d84ccba2",
+    "url": "https://autoshark.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xdD97AB35e3C0820215bc85a395e13671d84CCBa2"
+    ],
+    "twitter": "AutoSharkFin",
+    "telegram": "AutoSharkFinance",
+    "reddit": "autosharkofficial/",
+    "github_org": "autoshark-finance"
+}

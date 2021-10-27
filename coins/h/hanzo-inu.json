@@ -1,0 +1,23 @@
+{
+    "id": "hanzo-inu",
+    "symbol": "hnzo",
+    "name": "Hanzo Inu",
+    "platforms": {
+        "ethereum": "0x239dc02a28a0774738463e06245544a72745d5c5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hanzo Inu ($HNZO) is a peer-to peer cryptocurrency with built-in Automated Rewards Farming (ARF) technology. Just hold $HNZO in your wallet, and earn passive income."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x239dc02a28a0774738463e06245544a72745d5c5",
+    "url": "https://hanzoinu.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x239dc02a28a0774738463e06245544a72745d5c5",
+        "https://ethplorer.io/address/0x239dc02a28a0774738463e06245544a72745d5c5"
+    ],
+    "twitter": "hanzoinutoken",
+    "telegram": "hanzoInu"
+}

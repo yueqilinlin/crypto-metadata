@@ -1,0 +1,21 @@
+{
+    "id": "usdtez",
+    "symbol": "usdtz",
+    "name": "USDtez",
+    "platforms": {
+        "tezos": "KT1LN4LPSqTMS7Sd2CJw4bbDGRkMv2t68Fy9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "USDtez is a USDC-pegged Tezos stablecoin issued by the Tezos Stable Technologies Ltd\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT1LN4LPSqTMS7Sd2CJw4bbDGRkMv2t68Fy9",
+    "url": "https://usdtz.com",
+    "explorers": [],
+    "twitter": "usdtz",
+    "telegram": "USDtezos",
+    "reddit": "USDTZ/"
+}

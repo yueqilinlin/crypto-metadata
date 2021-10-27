@@ -1,0 +1,22 @@
+{
+    "id": "rise",
+    "symbol": "rise",
+    "name": "Rise",
+    "platforms": {},
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [],
+    "description": {
+        "en": "RISE offers a platform for Decentralized Applications (DAPPs), powered by a community driven Delegated Proof of Stake (DPoS) blockchain.\r\n\r\nApplications built on RISE will be both distributed and decentralized, as a copy of the blockchain will reside on multiple nodes and if one node fails the network can still operate. Each DAPP created with RISE development tools will run on RISE sidechain technology connecting to the mainchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://rise.vision",
+    "explorers": [
+        "http://explorer.rise.vision/"
+    ],
+    "twitter": "RiseVisionTeam",
+    "facebook": "risevisionteam",
+    "telegram": "risevisionofficial",
+    "reddit": "RiseVision/",
+    "github_org": "RiseVision"
+}

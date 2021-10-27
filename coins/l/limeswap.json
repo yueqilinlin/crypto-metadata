@@ -1,0 +1,25 @@
+{
+    "id": "limeswap",
+    "symbol": "lime",
+    "name": "LimeSwap",
+    "platforms": {
+        "binance-smart-chain": "0xbbabf1636b7ab0069a8f7ce76b4afbee2f1e2f2c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "LimeSwap is a decentralized exchange running on Binance Smart Chain and Pancake swap exchange, with extra features that let you earn and win tokens.\r\n\r\nWe are a decentralized team of passionate Software Developers, Digital Marketers, Management Consultants, and Crypto & Traditional investors excited about Automated Market Maker platforms (AMM) and the potential to be realized with DeFi future applications.\r\n\r\nOur final goal is creating a NFTs Market via using $LIME to exchange and to be listed on Major Exchanges.\r\n\r\nLimeSwap is a reliable next-generation yield farm on the Binance Smart chain with unique features\r\n-Unique Burning Mechanisms\r\n-Lottery\r\n-Team focused on BUIDLing and delivering value.\r\n-Security: Timelock, Migration Code removed, Audits\r\n-Proper incentives to hodlers and early investors."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbbabf1636b7ab0069a8f7ce76b4afbee2f1e2f2c",
+    "url": "https://limeswap.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xBBabF1636b7ab0069a8F7ce76b4AFbee2F1e2F2c"
+    ],
+    "twitter": "limeswapio",
+    "telegram": "lime_swap",
+    "github_org": "limeswapio"
+}

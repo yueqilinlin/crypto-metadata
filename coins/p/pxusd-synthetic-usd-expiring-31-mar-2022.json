@@ -1,0 +1,27 @@
+{
+    "id": "pxusd-synthetic-usd-expiring-31-mar-2022",
+    "symbol": "pxusd-mar2022",
+    "name": "pxUSD Synthetic USD Expiring 31 Mar 2022",
+    "platforms": {
+        "ethereum": "0x4b606e9eb2228c70f44453afe5a73e1fea258ce1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4b606e9eb2228c70f44453afe5a73e1fea258ce1",
+    "url": "https://app.perlinx.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x4B606e9Eb2228c70f44453AFe5a73e1FeA258Ce1",
+        "https://ethplorer.io/address/0x4B606e9Eb2228c70f44453AFe5a73e1FeA258Ce1"
+    ],
+    "twitter": "PerlinNetwork",
+    "telegram": "PerlinNetworkChat",
+    "reddit": "https://www.reddit.com",
+    "github_org": "perlin-network"
+}

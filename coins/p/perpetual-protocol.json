@@ -1,0 +1,31 @@
+{
+    "id": "perpetual-protocol",
+    "symbol": "perp",
+    "name": "Perpetual Protocol",
+    "platforms": {
+        "ethereum": "0xbc396689893d065f41bc2c6ecbee5e0085233447"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem",
+        "Derivatives",
+        "Perpetuals",
+        "Automated Market Maker (AMM)",
+        "Exchange-based Tokens",
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+    "url": "https://perp.exchange/",
+    "explorers": [
+        "https://etherscan.io/token/0xbc396689893d065f41bc2c6ecbee5e0085233447",
+        "https://ethplorer.io/address/0xbc396689893d065f41bc2c6ecbee5e0085233447"
+    ],
+    "twitter": "perpprotocol",
+    "telegram": "perpetualprotocol"
+}

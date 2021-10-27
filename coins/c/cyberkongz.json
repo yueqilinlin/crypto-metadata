@@ -1,0 +1,27 @@
+{
+    "id": "cyberkongz",
+    "symbol": "kongz20",
+    "name": "CYBERKONGZ",
+    "platforms": {
+        "ethereum": "0x9d59eba4deaee09466ba9d4073bf912bc72982b0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "KONGZ20 is a tokenized derivative of the CyberKongz NFT collection. It enables anyone to trade NFTs from the collection in a permissionless way with instant liquidity on https://nft20.io/ routed via UniSwap. Every 100 KONGZ20 tokens represent an underlying CyberKongz NFT, minted upon deposit in the pool on https://nft20.io/ and burned upon withdrawal from the pool."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9d59eba4deaee09466ba9d4073bf912bc72982b0",
+    "url": "https://nft20.io/asset/0x9d59eba4deaee09466ba9d4073bf912bc72982b0",
+    "explorers": [
+        "https://etherscan.io/token/0x9d59eba4deaee09466ba9d4073bf912bc72982b0",
+        "https://ethplorer.io/address/0x9d59eba4deaee09466ba9d4073bf912bc72982b0"
+    ],
+    "twitter": "NiftyMuseum",
+    "telegram": "nft20",
+    "github_org": "verynifty"
+}

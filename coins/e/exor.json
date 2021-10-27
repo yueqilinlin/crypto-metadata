@@ -1,0 +1,21 @@
+{
+    "id": "exor",
+    "symbol": "exor",
+    "name": "EXOR",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "Exor is an open source, decentralized blockchain-based cryptocurrency using the PoS consensus mechanism. Earn, store, and transact digital currency virtually instantaneously with Exors simple to use desktop wallet."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://exor.io/",
+    "explorers": [
+        "https://explorer.exor.io/"
+    ],
+    "twitter": "ExorOfficial",
+    "facebook": "ExorOfficial",
+    "telegram": "ExorOfficialSupport",
+    "github_org": "team-exor"
+}

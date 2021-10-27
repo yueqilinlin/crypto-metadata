@@ -1,0 +1,23 @@
+{
+    "id": "summit-defi",
+    "symbol": "summit",
+    "name": "Summit DeFi",
+    "platforms": {
+        "fantom": "0x8f9bccb6dd999148da1808ac290f2274b13d7994"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Summit DeFi is a liquidity farm which ads a gamified element to Yield - such that you can risk that yield to multiply it in a luck based game represented by totems.  For example - at the Oasis tier there are two totems, meaning  you have a 50/50 chance of winning against those who have backed the other totem.\r\n\r\nThe money deposited into Summit Finance is pass-through staked into farms to build yield which is returned to users in an \"\"Expedition\"\" at the end of every week (also in a risk based game).    The value we add is these two elements - adding a bit of fun to the regular farm and providing yield back through the pass through mechanism. .  "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8f9bccb6dd999148da1808ac290f2274b13d7994",
+    "url": "https://summitdefi.com/",
+    "explorers": [
+        "https://ftmscan.com/token/0x8F9bCCB6Dd999148Da1808aC290F2274b13D7994"
+    ],
+    "twitter": "Summitdefi",
+    "telegram": "summitdefi",
+    "github_org": "summit-defi"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "bitenium-token",
+    "symbol": "bt",
+    "name": "Bitenium Token",
+    "platforms": {
+        "ethereum": "0x997507cc49fbf0cd6ce5e1ee543218556fafdebc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bitenium is the new AI Cryptocurrency Exchange. It allows to automate trading and take emotion out of the equation. Use expert tools without coding skills. "
+    },
+    "country_origin": "TH",
+    "genesis_date": null,
+    "contract_address": "0x997507cc49fbf0cd6ce5e1ee543218556fafdebc",
+    "url": "https://www.bitenium.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x997507cc49fbf0cd6ce5e1ee543218556fafdebc",
+        "https://ethplorer.io/address/0x997507cc49fbf0cd6ce5e1ee543218556fafdebc"
+    ],
+    "twitter": "biteniumExchang",
+    "facebook": "Bitenium",
+    "telegram": "BiteniumEnglish"
+}

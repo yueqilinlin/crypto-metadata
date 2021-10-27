@@ -1,0 +1,24 @@
+{
+    "id": "olyseum",
+    "symbol": "oly",
+    "name": "Olyseum",
+    "platforms": {
+        "ethereum": "0x6595b8fd9c920c81500dca94e53cdc712513fb1f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The social platform that brings fans and stars closer together, delivering next-level fan engagement & rewarding participation."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6595b8fd9c920c81500dca94e53cdc712513fb1f",
+    "url": "https://olyseum.com/index",
+    "explorers": [
+        "https://etherscan.io/token/0x6595b8fd9c920c81500dca94e53cdc712513fb1f",
+        "https://ethplorer.io/address/0x6595b8fd9c920c81500dca94e53cdc712513fb1f"
+    ],
+    "twitter": "olyseum",
+    "telegram": "olyseum",
+    "github_org": "olyseum"
+}

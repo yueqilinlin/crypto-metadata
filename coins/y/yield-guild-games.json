@@ -1,0 +1,30 @@
+{
+    "id": "yield-guild-games",
+    "symbol": "ygg",
+    "name": "Yield Guild Games",
+    "platforms": {
+        "ethereum": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+        "harmony-shard-0": "0x63cf309500d8be0b9fdb8f1fb66c821236c0438c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Metaverse",
+        "Collectibles",
+        "Play To Earn",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "Yield Guild Games (YGG) is a decentralized autonomous organization (DAO) for investing in non fungible tokens (NFTs) used in virtual worlds and blockchain-based games. The organisation\u2019s mission is to create the biggest virtual world economy, optimizing its community-owned assets for maximum utility and sharing its profits with its token holders."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+    "url": "https://yieldguild.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+        "https://ethplorer.io/address/0x25f8087ead173b73d6e8b84329989a8eea16cf73"
+    ],
+    "twitter": "YieldGuild",
+    "telegram": "yieldguildgames"
+}

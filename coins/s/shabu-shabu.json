@@ -1,0 +1,25 @@
+{
+    "id": "shabu-shabu",
+    "symbol": "kobe",
+    "name": "Shabu Shabu",
+    "platforms": {
+        "ethereum": "0xcb4e8cafeda995da5cedfda5205bd5664a12b848",
+        "sora": "0x008146909618facff9642fc591925ef91f10263c250cbae5db504b8b0955435a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kobe is a yield farming token, where there is fair distribution of all of our tokens.  Our yield farming have concluded and the Circulating Supply, Total Supply as well as Max Supply is 54,000,000 KOBE.  All token have been minted and distributed to community members that participated in our yield farming. Products on the roadmap includes Governance, Dex, Lending & Borrowing Platform in 2021"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xcb4e8cafeda995da5cedfda5205bd5664a12b848",
+    "url": "https://shabushabu.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xCb4e8CafEDa995da5cEdfda5205BD5664a12b848",
+        "https://ethplorer.io/address/0xcb4e8cafeda995da5cedfda5205bd5664a12b848"
+    ],
+    "twitter": "shabufinance",
+    "telegram": "shabushabufinance",
+    "github_org": "ironminter"
+}

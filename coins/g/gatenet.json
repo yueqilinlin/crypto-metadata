@@ -1,0 +1,23 @@
+{
+    "id": "gatenet",
+    "symbol": "gate",
+    "name": "GATENet",
+    "platforms": {
+        "ethereum": "0x9d7630adf7ab0b0cb00af747db76864df0ec82e4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GATENet Is A GSX Group Initiative And Has A Vision To Build On-Chain Financial Market, Settlement And Registry Solutions To Reduce Costs And Increase Efficiencies For Issuers, Investors And Market Participants Everywhere. GATE Tokens Will Be Used By GATENet For GATENet Fees, Staking, Burning And Governance."
+    },
+    "country_origin": "GI",
+    "genesis_date": null,
+    "contract_address": "0x9d7630adf7ab0b0cb00af747db76864df0ec82e4",
+    "url": "https://gatetoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9d7630adf7ab0b0cb00af747db76864df0ec82e4",
+        "https://ethplorer.io/address/0x9d7630adf7ab0b0cb00af747db76864df0ec82e4"
+    ],
+    "telegram": "GSXGATECommunity",
+    "github_org": "GateNet-IO"
+}

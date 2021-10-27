@@ -1,0 +1,24 @@
+{
+    "id": "rusd",
+    "symbol": "rusd",
+    "name": "rUSD",
+    "platforms": {
+        "binance-smart-chain": "0x07663837218a003e66310a01596af4bf4e44623d",
+        "polygon-pos": "0xfc40a4f89b410a1b855b5e205064a38fc29f5eb5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "rUSD is an over-collateralized stable coin minted from staked assets that are simultaneously earning staking rewards on the RAMP platform. Maximize capital efficiency on staked digital assets."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x07663837218a003e66310a01596af4bf4e44623d",
+    "url": "https://appv2.rampdefi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x07663837218a003e66310a01596af4bf4e44623d"
+    ],
+    "twitter": "RampDefi",
+    "telegram": "rampdefiofficial",
+    "github_org": "RAMP-DEFI"
+}

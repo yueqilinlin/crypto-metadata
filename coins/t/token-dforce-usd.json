@@ -1,0 +1,24 @@
+{
+    "id": "token-dforce-usd",
+    "symbol": "usx",
+    "name": "Token dForce USD",
+    "platforms": {
+        "binance-smart-chain": "0xb5102cee1528ce2c760893034a4603663495fd72",
+        "arbitrum-one": "0xcd14c3a2ba27819b352aae73414a26e2b366dc50"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Synthetic Stablecoin"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb5102cee1528ce2c760893034a4603663495fd72",
+    "url": "https://dforce.network/",
+    "explorers": [
+        "https://bscscan.com/token/0xB5102CeE1528Ce2C760893034A4603663495fD72"
+    ],
+    "twitter": "dForcenet",
+    "telegram": "dforcenet",
+    "github_org": "dforce-network"
+}

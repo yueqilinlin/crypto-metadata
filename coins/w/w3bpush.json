@@ -1,0 +1,23 @@
+{
+    "id": "w3bpush",
+    "symbol": "w3b",
+    "name": "W3bPUSH",
+    "platforms": {
+        "ethereum": "0x777ba4d2393ea77893322743c7d817efef872204"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "W3bPush is a blockchain based notification service for all your cApps and dApps. W3bPush allows users to receive notifications with different content i.e. text, images and videos. We provide notifications for both cApps and dApps, which are completely customizable as per the user\u2019s need. Simply select the App you want notifications for and we ensure real-time delivery of 100% notifications directly to W3bPush App (Android & iOS)."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x777ba4d2393ea77893322743c7d817efef872204",
+    "url": "https://www.w3bpush.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x777ba4d2393ea77893322743c7d817efef872204",
+        "https://ethplorer.io/address/0x777ba4d2393ea77893322743c7d817efef872204"
+    ],
+    "twitter": "w3bpush",
+    "telegram": "W3bPush"
+}

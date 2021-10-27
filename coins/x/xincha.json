@@ -1,0 +1,23 @@
+{
+    "id": "xincha",
+    "symbol": "xINCHa",
+    "name": "xINCHa",
+    "platforms": {
+        "ethereum": "0x8f6a193c8b3c949e1046f1547c3a3f0836944e4b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wrapper for the 1Inch staking process; Buchanan Mandate"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x8f6a193c8b3c949e1046f1547c3a3f0836944e4b",
+    "url": "https://xtoken.market",
+    "explorers": [
+        "https://etherscan.io/token/0x8F6A193C8B3c949E1046f1547C3A3f0836944E4b",
+        "https://ethplorer.io/address/0x8F6A193C8B3c949E1046f1547C3A3f0836944E4b"
+    ],
+    "twitter": "xtokenmarket",
+    "github_org": "xtokenmarket"
+}

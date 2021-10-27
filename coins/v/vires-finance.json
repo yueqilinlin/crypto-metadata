@@ -1,0 +1,23 @@
+{
+    "id": "vires-finance",
+    "symbol": "vires",
+    "name": "Vires Finance",
+    "platforms": {
+        "waves": "DSbbhLsSTeDg5Lsiufk2Aneh3DjVqJuPr2M9uU1gwy5p"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Vires.finance is a decentralised non-custodial liquidity protocol based on Waves blockchain, where users, wallets and dapps can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to take a loan in an overcollateralized manner.\r\n\r\nVires.finance utilises common pool-based mechanics where all the funds deposited participate in interest-bearing activities equally. The greater the demand for borrowing an asset is, the greater APY lenders get in return. \r\n\r\nUsers can lend and borrow the following tokens: WAVES, USDN, USDT, ETH, USDC, EURN and BTC."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "DSbbhLsSTeDg5Lsiufk2Aneh3DjVqJuPr2M9uU1gwy5p",
+    "url": "https://vires.finance/",
+    "explorers": [
+        "https://wavesexplorer.com/assets/DSbbhLsSTeDg5Lsiufk2Aneh3DjVqJuPr2M9uU1gwy5p"
+    ],
+    "twitter": "viresfinance",
+    "telegram": "vf_announcements",
+    "github_org": "viresfinance"
+}

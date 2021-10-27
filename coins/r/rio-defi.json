@@ -1,0 +1,26 @@
+{
+    "id": "rio-defi",
+    "symbol": "rfuel",
+    "name": "RioDeFi",
+    "platforms": {
+        "ethereum": "0xaf9f549774ecedbd0966c52f250acc548d3f36e5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaf9f549774ecedbd0966c52f250acc548d3f36e5",
+    "url": "https://riodefi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xaf9f549774ecedbd0966c52f250acc548d3f36e5",
+        "https://ethplorer.io/address/0xaf9f549774ecedbd0966c52f250acc548d3f36e5"
+    ],
+    "twitter": "riodefiofficial",
+    "facebook": "riodefiofficial",
+    "telegram": "riodefiofficial"
+}

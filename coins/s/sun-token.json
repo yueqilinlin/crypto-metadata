@@ -1,0 +1,22 @@
+{
+    "id": "sun-token",
+    "symbol": "sun",
+    "name": "Sun Token",
+    "platforms": {
+        "tron": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The SUN.io platform is TRON's first one-stop platform that supports stablecoin swap, token mining and self-governance. After the redenomination, the new SUN token, as a multifunctional governance token on the SUN platform (similar to the CRV token of Curve DAO and the EPS token of Ellipsis), will grant token holders various rights and benefits such as the voting and governance right in the community, value capture, staking rewards, etc.."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S",
+    "url": "https://sun.io/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S"
+    ],
+    "twitter": "defi_sunio",
+    "telegram": "SunIO_Defi"
+}

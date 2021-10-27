@@ -1,0 +1,22 @@
+{
+    "id": "mobile-crypto-pay-coin",
+    "symbol": "mcpc",
+    "name": "Mobile Crypto Pay Coin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Easily trade with crypto everything you want"
+    },
+    "country_origin": "HR",
+    "genesis_date": null,
+    "url": "http://www.mobilepaycoin.com/ ",
+    "explorers": [
+        "https://explorer.mobilepaycoin.com/"
+    ],
+    "twitter": "CryptoMcpc",
+    "facebook": "MCPC-HQ-329227731250017",
+    "github_org": "MCPCDev"
+}

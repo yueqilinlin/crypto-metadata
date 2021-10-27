@@ -1,0 +1,24 @@
+{
+    "id": "adventure-token",
+    "symbol": "twa",
+    "name": "Adventure Token",
+    "platforms": {
+        "ethereum": "0xa2ef2757d2ed560c9e3758d1946d7bcccbd5a7fe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WHAT IS ADVENTURE TOKEN?\r\nTWA Adventure Token is a deflationary community token. \r\n\r\nEvery time Adventure Token is purchased, sold or transferred between wallets one percent of the total transaction value is burnt, meaning that with every trade Adventure Token becomes scarcer. Trading attracts liquidity, which in-turn attracts further trading. Liquidity grows and the supply of Adventure Token decreases with every trade.\r\n\r\nHolding Adventure Token also gives you the opportunity to earn further rewards in the Adventure Luna Fund."
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0xa2ef2757d2ed560c9e3758d1946d7bcccbd5a7fe",
+    "url": "https://www.adventuretoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa2ef2757d2ed560c9e3758d1946d7bcccbd5a7fe",
+        "https://ethplorer.io/address/0xa2ef2757d2ed560c9e3758d1946d7bcccbd5a7fe"
+    ],
+    "twitter": "Adventure_Token",
+    "telegram": "AdventureToken",
+    "github_org": "AdrianWoodward"
+}

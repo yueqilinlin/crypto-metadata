@@ -1,0 +1,24 @@
+{
+    "id": "q8e20-token",
+    "symbol": "q8e20",
+    "name": "Q8E20 Token",
+    "platforms": {
+        "ethereum": "0xa31f7a32db329f270a0e6b59558823e64d8ef0a6"
+    },
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "Buy & Sell Cryptocurrencies using Visa or Mastercard, KNET or Bank Transfer!\r\n\r\nWe offer the Best Rates Worldwide!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa31f7a32db329f270a0e6b59558823e64d8ef0a6",
+    "url": "http://q8ecoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa31f7a32Db329F270A0E6b59558823e64D8eF0A6",
+        "https://ethplorer.io/address/0xa31f7a32db329f270a0e6b59558823e64d8ef0a6"
+    ],
+    "twitter": "q8ecoin"
+}

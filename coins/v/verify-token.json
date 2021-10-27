@@ -1,0 +1,23 @@
+{
+    "id": "verify-token",
+    "symbol": "vfy",
+    "name": "Verify Token",
+    "platforms": {
+        "binance-smart-chain": "0x8ab03c1a8e094d6cb9f064a75fd0eff74acf6ccb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Verify \u2013 Bringing transparency and accountability to the cryptocurrency sector via our cloud-based platform, Verify Lens\r\n\r\nVerify Token is the native currency of the Verify platform, that says its goals is to \u2018make cryptocurrency safe and accessible to all by collating data for greater transparency\u2019.\r\n \r\nThe Verify project revolves around the vision to \u2018be the pioneer of digital identity and provide innovative value-added solutions in data storage and financial security\u2019.\r\n \r\nThe team behind the Verify platform say that there are critical use cases for the data and technology, which aims to prevent the incidence and prevalence of investment scams and frauds.\r\n\r\nVerify Lens is an all-in-one investor data analysis tool, where areas including contract security, transaction history, wallet tracking, and social media analytics are accumulated.\r\n \r\nBy aggregating data across multiple sources and platforms, Verify Lens aims to spread greater cryptocurrency investing knowledge for informed decision-making. It also aims to provide clinical evidence of any warning signs or triggers in order to ensure the security of investors\u2019 portfolios.\r\n \r\nBy using both off-chain and on-chain data metrics, Verify Lens will utilise a comprehensive analytics algorithm in order to provide a \u201cVerify\u2019d\u201d rating: an objective rating to guide users on the Verify platform on the safety of investment for tracked crypto-tokens and projects.\r\n\r\nGiven ongoing concerns related to security, transparency and integrity within the blockchain space, Verify (VFY) combines investment security, blockchain education and philanthropy into a single project. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8ab03c1a8e094d6cb9f064a75fd0eff74acf6ccb",
+    "url": "https://verifytoken.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x8ab03c1a8e094d6cb9f064a75fd0eff74acf6ccb"
+    ],
+    "twitter": "Ver1fyToken",
+    "telegram": "VerifyOfficial",
+    "reddit": "VerifyToken/"
+}

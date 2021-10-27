@@ -1,0 +1,25 @@
+{
+    "id": "payperex",
+    "symbol": "pax",
+    "name": "PayperEx",
+    "platforms": {
+        "ethereum": "0xc1d204d77861def49b6e769347a883b15ec397ff",
+        "binance-smart-chain": "0xe96753e09ff9f97c65aac27ac76b92f4d4d2f5e5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The PayperEx network is going to decentralize the share market by creating an alternative trading network using blockchain technology. PayperEx\u2019s goal is to give people from all over the world a fair, easy and affordable chance to enjoy the benefits of the share market by buying 'Paypers'. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc1d204d77861def49b6e769347a883b15ec397ff",
+    "url": "https://payperex.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xc1D204d77861dEf49b6E769347a883B15EC397Ff",
+        "https://ethplorer.io/address/0xc1d204d77861def49b6e769347a883b15ec397ff",
+        "https://bscscan.com/token/0xe96753e09ff9f97c65aac27ac76b92f4d4d2f5e5"
+    ],
+    "twitter": "PayperExnet",
+    "facebook": "payperexnet"
+}

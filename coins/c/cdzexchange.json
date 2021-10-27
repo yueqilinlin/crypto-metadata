@@ -1,0 +1,23 @@
+{
+    "id": "cdzexchange",
+    "symbol": "cdz",
+    "name": "CDzExchange",
+    "platforms": {
+        "binance-smart-chain": "0x17acc21da1cd31d273c3f54b7d5dd556c8715b79"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cross-chain Crypto Derivatives Exchange"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x17acc21da1cd31d273c3f54b7d5dd556c8715b79",
+    "url": "https://cdz.exchange/",
+    "explorers": [
+        "https://bscscan.com/token/0x17acc21da1cd31d273c3f54b7d5dd556c8715b79"
+    ],
+    "twitter": "CDzExchange",
+    "telegram": "cdzann",
+    "github_org": "CDzExchange"
+}

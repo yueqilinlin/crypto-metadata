@@ -1,0 +1,22 @@
+{
+    "id": "trustercoin",
+    "symbol": "tsc",
+    "name": "TrusterCoin",
+    "platforms": {
+        "binance-smart-chain": "0xa2a26349448ddafae34949a6cc2cecf78c0497ac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TrusterCoin is a utility token for use on tokenization platforms at a time when business people face one of the greatest challenges in history. The platform will allow the creation of new tokenization tokenization of small, medium to large companies through blockchain technology."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0xa2a26349448ddafae34949a6cc2cecf78c0497ac",
+    "url": "https://trustercoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xA2a26349448ddAfAe34949a6Cc2cEcF78c0497aC"
+    ],
+    "telegram": "trustercoinoficial",
+    "github_org": "trustercoin"
+}

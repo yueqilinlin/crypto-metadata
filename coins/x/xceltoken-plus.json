@@ -1,0 +1,27 @@
+{
+    "id": "xceltoken-plus",
+    "symbol": "xlab",
+    "name": "XCELTOKEN PLUS",
+    "platforms": {
+        "ethereum": "0x8c4e7f814d40f8929f9112c5d09016f923d34472"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Tourism"
+    ],
+    "description": {
+        "en": "XCELToken Plus (XLAB) is an ERC20 token on the Ethereum Blockchain platform. XCELToken Plus is a versatile token created to build, engage and foster large crypto community within the hospitality, retail and gaming industries."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x8c4e7f814d40f8929f9112c5d09016f923d34472",
+    "url": "https://www.xceltrip.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8c4e7f814d40f8929f9112c5d09016f923d34472",
+        "https://ethplorer.io/address/0x8c4e7f814d40f8929f9112c5d09016f923d34472"
+    ],
+    "twitter": "xceltoken",
+    "facebook": "XcelToken",
+    "telegram": "XcelToken",
+    "github_org": "xceltripofficial"
+}

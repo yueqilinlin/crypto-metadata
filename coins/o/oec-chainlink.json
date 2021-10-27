@@ -1,0 +1,20 @@
+{
+    "id": "oec-chainlink",
+    "symbol": "linkk",
+    "name": "OEC Chainlink",
+    "platforms": {
+        "okex-chain": "0xbeb67de6cc5af652b2d9b0235750ed70f5a2cb0d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbeb67de6cc5af652b2d9b0235750ed70f5a2cb0d",
+    "url": "https://www.okex.com/okexchain",
+    "explorers": [
+        "https://www.oklink.com/okexchain/tokenAddr/0xbeb67de6cc5af652b2d9b0235750ed70f5a2cb0d"
+    ]
+}

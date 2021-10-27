@@ -1,0 +1,24 @@
+{
+    "id": "auroratoken",
+    "symbol": "aurora",
+    "name": "AuroraToken",
+    "platforms": {
+        "polygon-pos": "0x0c8c8ae8bc3a69dc8482c01ceacfb588bb516b01"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yield farming on the BSC | Polygon Network."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x0c8c8ae8bc3a69dc8482c01ceacfb588bb516b01",
+    "url": "https://www.blackswap.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x0c8c8ae8bc3a69dc8482c01ceacfb588bb516b01"
+    ],
+    "twitter": "FinancePalette",
+    "telegram": "blueswapfinance",
+    "reddit": "blueswap/",
+    "github_org": "Palette-Finance"
+}

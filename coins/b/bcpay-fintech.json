@@ -1,0 +1,22 @@
+{
+    "id": "bcpay-fintech",
+    "symbol": "bcpay",
+    "name": "BCPAY FinTech",
+    "platforms": {
+        "binance-smart-chain": "0x21f1ce0fcf1e9e39f8e79b7762801e8096d9f6cd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x21f1ce0fcf1e9e39f8e79b7762801e8096d9f6cd",
+    "url": "https://bitcashpay.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x21f1ce0fcf1e9e39f8e79b7762801e8096d9f6cd"
+    ],
+    "twitter": "Bitcashpay1",
+    "telegram": "BitcashpayOfficialgroup"
+}

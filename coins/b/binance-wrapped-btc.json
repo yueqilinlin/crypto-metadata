@@ -1,0 +1,21 @@
+{
+    "id": "binance-wrapped-btc",
+    "symbol": "bbtc",
+    "name": "Binance Wrapped BTC",
+    "platforms": {
+        "ethereum": "0x9be89d2a4cd102d8fecc6bf9da793be995c22541"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9be89d2a4cd102d8fecc6bf9da793be995c22541",
+    "url": "https;//www.binance.com",
+    "explorers": [
+        "https://etherscan.io/token/0x9be89d2a4cd102d8fecc6bf9da793be995c22541",
+        "https://ethplorer.io/address/0x9be89d2a4cd102d8fecc6bf9da793be995c22541"
+    ]
+}

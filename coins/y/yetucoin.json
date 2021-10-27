@@ -1,0 +1,23 @@
+{
+    "id": "yetucoin",
+    "symbol": "yetu",
+    "name": "Yetucoin",
+    "platforms": {
+        "binance-smart-chain": "0x6652048fa5e66ed63a0225ffd7c82e106b0aa18b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YetuSwap is a Pan-African decentralized exchange based on the Binance Smart Chain. It uses automated market-making (AMM), which allows assets to be traded in a permissionless and automated way by using liquidity pools than a traditional market of buyers and sellers. In the liquidity pools, liquidity providers add funds to the available pools.\r\n\r\nYetuSwap has its own governance asset, the YETU token, which users can use to vote on different platform proposals and protocol changes. And we plan to incentivize the liquidity providers with yield farming. \r\n\r\nOur community will be able also to stake and create NFTs on YetuSwap.\r\n\r\nYetucoin is the governance token of the decentralized exchange Yetuswap, built on the Binance Smart Chain network. Yetucoin is a BEP-20 Standard token."
+    },
+    "country_origin": "AO",
+    "genesis_date": null,
+    "contract_address": "0x6652048fa5e66ed63a0225ffd7c82e106b0aa18b",
+    "url": "https://yetubit.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x6652048fa5e66ed63a0225ffd7c82e106b0aa18b"
+    ],
+    "twitter": "yetuswap",
+    "reddit": "YetuSwap/",
+    "github_org": "Mussassa"
+}

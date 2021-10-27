@@ -1,0 +1,25 @@
+{
+    "id": "wab-network",
+    "symbol": "baw",
+    "name": "BAW Network",
+    "platforms": {
+        "binancecoin": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "BAW provides an answer to the question of scalabiity facing several blockchains. The TPS mark for BAW is expected to peak at 100 million compared with a maximum of 30 for Ethereum at present.\r\n\r\nOne other looming threat to blockchains is the introduction of ASIC mining that leads to high output within a short time. This makes it possible for a blockchain takeover to be possible for platforms that rely on mining. The threat of Quantum computing is also real as this provides an easy-hack into existing blockchains."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://baw.network/",
+    "explorers": [
+        "https://explorer.binance.org/asset/BAW-DFB"
+    ],
+    "twitter": "BAWnetwork",
+    "telegram": "BAWgroup",
+    "reddit": "BAWnetwork/",
+    "github_org": "WABnetwork"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "epochtoken",
+    "symbol": "eph",
+    "name": "EpochToken",
+    "platforms": {
+        "tron": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EPOCH TOKEN is a cryptocurrency that uses decantralized ,tronchain infrastructure designed to be integrated with Technology. Epochtoken aims to create an ecosystem that solves and simplifies some important problems in supply chain management, considering that developing and globalizing technology affects human populations of all ages and masses."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://epochtoken.io",
+    "explorers": [
+        "https://tronscan.org/#/token/1004025"
+    ],
+    "twitter": "epochtoken",
+    "telegram": "epochtoken",
+    "github_org": "Epoch-Token"
+}

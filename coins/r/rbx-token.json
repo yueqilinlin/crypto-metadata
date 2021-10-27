@@ -1,0 +1,27 @@
+{
+    "id": "rbx-token",
+    "symbol": "rbx",
+    "name": "RBX Token",
+    "platforms": {
+        "ethereum": "0x8254e26e453eb5abd29b3c37ac9e8da32e5d3299",
+        "binance-smart-chain": "0xace3574b8b054e074473a9bd002e5dc6dd3dff1b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A cornerstone of the Carbon ecosystem of products, the RBX token is used for general utility purposes across our multi-token staking platform, cross-chain DEX, leveraged liquidity pools, token launchpads, escrow tools, our decentralized fiat \r\non/off ramp, and more.\r\n\r\nHolding RBX entitles you to rewards from the revenue generated across each and every product, special voting rights, exclusive seniority-based privileges, and the ability to directly burn your tokens into Ether through the use of our RBX Converter"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8254e26e453eb5abd29b3c37ac9e8da32e5d3299",
+    "url": "https://rbx.ae/",
+    "explorers": [
+        "https://etherscan.io/token/0x8254e26e453eb5abd29b3c37ac9e8da32e5d3299",
+        "https://ethplorer.io/address/0x8254e26e453eb5abd29b3c37ac9e8da32e5d3299",
+        "https://bscscan.com/token/0xaCE3574B8b054E074473a9Bd002e5dC6dd3dfF1B"
+    ],
+    "twitter": "RBXtoken",
+    "telegram": "rbxtoken",
+    "reddit": "RBXToken/",
+    "github_org": "RBX-Carbon"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "wiki-token",
+    "symbol": "wiki",
+    "name": "Wiki Token",
+    "platforms": {
+        "ethereum": "0x66bad545596fb17a0b4ebdc003a85def10e8f6ae"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bitcoinwiki.org project was created by an anonymous decentralized team of crypto enthusiasts.\r\nOur mission is to bring unbiased and trusted knowledge to crypto communities all over the world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x66bad545596fb17a0b4ebdc003a85def10e8f6ae",
+    "url": "https://wikitoken.bitcoinwiki.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x66bad545596fb17a0b4ebdc003a85def10e8f6ae",
+        "https://etherscan.io/token/0x66bad545596fb17a0b4ebdc003a85def10e8f6ae",
+        "https://ethplorer.io/address/0x66bad545596fb17a0b4ebdc003a85def10e8f6ae"
+    ],
+    "twitter": "wiki_token",
+    "telegram": "wikitoken_eng",
+    "reddit": "WikiToken/"
+}

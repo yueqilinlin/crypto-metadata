@@ -1,0 +1,25 @@
+{
+    "id": "eltcoin",
+    "symbol": "eltcoin",
+    "name": "Eltcoin",
+    "platforms": {
+        "ethereum": "0x44197a4c44d6a059297caf6be4f7e172bd56caaf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ethereum Limited Total Coin (ELTCOIN) Is a brand new ERC20 compatible token on the Ethereum network. \r\n\r\nThe ELTCOIN mission is individual sovereignty accessible to all, built on crypto. For some time crypto technology has been open to those who have reason to use it. We have seen p2p trustless networks, made up from decentralised nodes; we observe the mutual benefits freedom from trust affords us, this is foundational.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": "2017-10-09",
+    "contract_address": "0x44197a4c44d6a059297caf6be4f7e172bd56caaf",
+    "url": "https://www.eltcoin.tech/",
+    "explorers": [
+        "https://etherscan.io/token/0x44197a4c44d6a059297caf6be4f7e172bd56caaf",
+        "https://ethplorer.io/address/0x44197a4c44d6a059297caf6be4f7e172bd56caaf"
+    ],
+    "twitter": "officialELTCOIN",
+    "telegram": "ELTCOIN",
+    "reddit": "eLTCoin/",
+    "github_org": "ELTCOIN"
+}

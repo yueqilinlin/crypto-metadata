@@ -1,0 +1,23 @@
+{
+    "id": "cheeseswap",
+    "symbol": "chs",
+    "name": "CheeseSwap",
+    "platforms": {
+        "binance-smart-chain": "0xadd8a06fd58761a5047426e160b2b88ad3b9d464"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CheeseSwap is a decentralized binance smart chain token swap exchange. Cheese stake token staking returns daily 2.5%."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xadd8a06fd58761a5047426e160b2b88ad3b9d464",
+    "url": "https://cheeseswap.app/",
+    "explorers": [
+        "https://bscscan.com/token/0xadd8a06fd58761a5047426e160b2b88ad3b9d464"
+    ],
+    "twitter": "cheeseswapbsc",
+    "telegram": "cheesemakerfarm",
+    "github_org": "cheeseswapbsc"
+}

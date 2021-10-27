@@ -1,0 +1,27 @@
+{
+    "id": "pumapay",
+    "symbol": "pma",
+    "name": "PumaPay",
+    "platforms": {
+        "ethereum": "0x846c66cf71c43f80403b51fe3906b3599d63336f",
+        "binance-smart-chain": "0x43a167b15a6f24913a8b4d35488b36ac15d39200"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PumaPay is the first DeFi payment protocol to facilitate subscription payments and other advanced billing models. It democratizes payments by providing a solution that is permissionless, frictionless, free and open for all.   \r\n\r\nIt is known for introducing recurring billing to blockchain via its pioneered technology, the PullPayment Protocol. This tech inverses the direction of crypto transactions to enable a \u201cpull\u201d rather than \u201cpush\u201d mechanism. This allows merchants to accept payments by pulling funds from customers\u2019 wallets according to predefined terms. \r\n\r\nPumaPay currently facilitates crypto payments for high-risk industry giants in Adult Entertainment, Gaming & more. The solution offers a set of tools that enable smooth crypto transactions between merchants and individuals. This includes a business console, native mobile app, and fiat settlement layer. \r\n\r\nAll transactions on the protocol are supported by its native token, PMA. An ERC20 token, it is the powerhouse behind PumaPay. \r\n\r\nThe solution is free and enables speedy transaction processing."
+    },
+    "country_origin": "GI",
+    "genesis_date": null,
+    "contract_address": "0x846c66cf71c43f80403b51fe3906b3599d63336f",
+    "url": "https://pumapay.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x846c66cf71c43f80403b51fe3906b3599d63336f",
+        "https://ethplorer.io/address/0x846c66cf71c43f80403b51fe3906b3599d63336f"
+    ],
+    "twitter": "PumaPay",
+    "facebook": "PumaPay",
+    "telegram": "PumaPay",
+    "reddit": "PumaPay/",
+    "github_org": "pumapayio"
+}

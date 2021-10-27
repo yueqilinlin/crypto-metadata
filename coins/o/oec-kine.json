@@ -1,0 +1,20 @@
+{
+    "id": "oec-kine",
+    "symbol": "kinek",
+    "name": "OEC KINE",
+    "platforms": {
+        "okex-chain": "0xc05760d75e7f5ad428a906674ce7c7c82d003d01"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc05760d75e7f5ad428a906674ce7c7c82d003d01",
+    "url": "https://www.okex.com/okexchain",
+    "explorers": [
+        "https://www.oklink.com/okexchain/tokenAddr/0xc05760d75e7f5ad428a906674ce7c7c82d003d01"
+    ]
+}

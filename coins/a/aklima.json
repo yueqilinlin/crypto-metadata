@@ -1,0 +1,23 @@
+{
+    "id": "aklima",
+    "symbol": "aklima",
+    "name": "AlphaKlima",
+    "platforms": {
+        "ethereum": "0x6b4d5e9ec2acea23d4110f4803da99e25443c5df",
+        "polygon-pos": "0xeb935614447185eeea0abc756ff2ddc99fbb9047"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A carbon-backed digital currency and algorithmic climate protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6b4d5e9ec2acea23d4110f4803da99e25443c5df",
+    "url": "https://klimadao.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x6b4d5e9ec2acea23d4110f4803da99e25443c5df",
+        "https://ethplorer.io/address/0x6b4d5e9ec2acea23d4110f4803da99e25443c5df"
+    ],
+    "twitter": "KlimaDAO"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "saturnbeam",
+    "symbol": "sat",
+    "name": "SaturnBeam",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Saturnbeam is the first yield optimizer on Moonriver."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2e17c0466895e0a4e3d8cea64f093339fa1ba279",
+    "url": "https://saturnbeam.finance",
+    "explorers": [
+        "https://blockscout.moonriver.moonbeam.network/tokens/0x2e17c0466895e0a4e3D8CEA64F093339fA1ba279/token-transfers"
+    ],
+    "twitter": "SaturnbeamFi",
+    "telegram": "saturnbeamfi",
+    "github_org": "SaturnFinance"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "salvation-finance",
+    "symbol": "slvn",
+    "name": "Salvation Finance",
+    "platforms": {
+        "binance-smart-chain": "0x8fd95df18d6c39088e8ec03208a3fe27d5fccd83"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "IE",
+    "genesis_date": null,
+    "contract_address": "0x8fd95df18d6c39088e8ec03208a3fe27d5fccd83",
+    "url": "https://salvation.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x8fd95df18d6c39088e8ec03208a3fe27d5fccd83"
+    ],
+    "twitter": "Salvationpad",
+    "telegram": "SalvationPad"
+}

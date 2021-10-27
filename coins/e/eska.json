@@ -1,0 +1,19 @@
+{
+    "id": "eska",
+    "symbol": "esk",
+    "name": "Eska",
+    "platforms": {},
+    "hashing_algorithm": "X15",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "ESKA is a cryptocurrency, with a masternode feature. Masternodes are servers established by the community, that get rewarded for their contribution to the network on every block. This unique feature allows users to build passive income, while also making the ESKA network stronger."
+    },
+    "country_origin": "PA",
+    "genesis_date": null,
+    "explorers": [
+        "https://explorer.decenomy.net/ESK/blocks"
+    ],
+    "github_org": "EskaCoin"
+}

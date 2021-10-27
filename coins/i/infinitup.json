@@ -1,0 +1,25 @@
+{
+    "id": "infinitup",
+    "symbol": "iup",
+    "name": "InfinitUp",
+    "platforms": {
+        "binance-smart-chain": "0xc6f26e6df5f44c0ccd939581987c09b866cdbd1a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "InfinitUp ($IUP) is a R&R token (Rewards & Rebase) with a guaranteed price floor and BNB distributed as dividends directly into our holders wallets. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc6f26e6df5f44c0ccd939581987c09b866cdbd1a",
+    "url": "https://infinitup.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xc6f26e6df5f44C0Ccd939581987C09b866cDBd1A"
+    ],
+    "twitter": "infinituptoken",
+    "telegram": "infinitup",
+    "github_org": "InfinitUP"
+}

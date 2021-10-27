@@ -1,0 +1,23 @@
+{
+    "id": "novax-coin",
+    "symbol": "nvx",
+    "name": "Novax Coin",
+    "platforms": {
+        "tron": "TUbzQMXMRgH1vDJShnL6ik4wzPRTWPt4KW"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NovaxCoin is a peer-to-peer crypto currency that enables instant, near-zero cost payments to anyone in the world. NovaxCoin is an open source, global payment network that is decentralized.\r\n\r\nWith the Novax 12 month contract, users can win awards by securing it with Superlock."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "TUbzQMXMRgH1vDJShnL6ik4wzPRTWPt4KW",
+    "url": "https://novaxcoin.com/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TUbzQMXMRgH1vDJShnL6ik4wzPRTWPt4KW"
+    ],
+    "twitter": "novaxcoin",
+    "telegram": "novaxcoin",
+    "github_org": "novaxdeveloper"
+}

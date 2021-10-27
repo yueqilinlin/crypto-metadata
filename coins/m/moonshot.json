@@ -1,0 +1,24 @@
+{
+    "id": "moonshot",
+    "symbol": "moonshot",
+    "name": "Moonshot",
+    "platforms": {
+        "binance-smart-chain": "0xd27d3f7f329d93d897612e413f207a4dbe8bf799"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Moonshot is a community driven token based on the popular deflationary model. A deflationary, self-regenerating, and automatic liquidity providing protocol that pays out static rewards to holders. As our burn address is in the list of holders, the total supply of moonshot is forever decreasing.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd27d3f7f329d93d897612e413f207a4dbe8bf799",
+    "url": "http://project-moonshot.me/",
+    "explorers": [
+        "https://bscscan.com/token/0xd27d3f7f329d93d897612e413f207a4dbe8bf799"
+    ],
+    "twitter": "RS25Moonshot",
+    "telegram": "MoonShotChat",
+    "reddit": "https://www.reddit.com",
+    "github_org": ""
+}

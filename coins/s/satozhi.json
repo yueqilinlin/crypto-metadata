@@ -1,0 +1,23 @@
+{
+    "id": "satozhi",
+    "symbol": "satoz",
+    "name": "Satozhi",
+    "platforms": {
+        "binance-smart-chain": "0xf4341fa52669cea0c1836095529a7e9b04b8b88d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SATOZHI (SATOZ) Was formed using a technical protocol similar to Bitcoin (BTC) which was created according to Satoshi Nakamoto's proposal.\r\nIf in Bitcoin (BTC) we are familiar with the Proof-of-Work (PoW) protocol then at Satozhi (SATOZ) a better protocol is made, known as Proof-of-Burn (PoB).\r\n\r\nHow does the Proof-of-Burn (PoB) protocol work?\r\nSatozhi (SATOZ) is the first token in the world to use this new protocol. \r\nThis protocol uses the logic of burning the token supply in the block chain, and then creating a new token in the pool every 10 minutes.\r\n\r\nHow many prize will you get from burning SATOZ?\r\nthe user will get a prize every 10 minutes. The prize distributed is 50 SATOZ, this calculation is obtained from the personal percentage that users burn up to the total inventory that has been burned. The bigger the user burns, the bigger the portion the user gets from a total of 50 SATOZ / 10 minutes."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf4341fa52669cea0c1836095529a7e9b04b8b88d",
+    "url": "https://satozhi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xf4341fA52669cea0c1836095529A7E9B04b8b88D"
+    ],
+    "twitter": "satozhiofficial",
+    "telegram": "satozhitoken",
+    "github_org": "satozhi"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "pig-finance",
+    "symbol": "pig",
+    "name": "Pig Finance",
+    "platforms": {
+        "binance-smart-chain": "0x8850d2c68c632e3b258e612abaa8fada7e6958e5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PIG is a high-yield frictionless farming token. There is a 5% tax on every transaction: 3% is locked in liquidity 2% is distributed to PIG holders proportional to the amount of PIG held.\r\nEnjoy easy farming without the complications of pairing assets for liquidity and risks of impermanent losses.\r\n\r\nPIG has been stealth launched. 100% of PIG supply was seeded as liquidity. That means no presale and no allocation to team members. Liquidity is locked in Pancakeswap and the ownership of the contract has been transferred to the burn address. No team allocation at launch means that PIG is 100% community led.50% of the supply has been sent to the Black Hole at launch . Because it is so massive, it will absorb a significant amount of the 2% tax distribution, resulting in exponential hyperdeflation."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8850d2c68c632e3b258e612abaa8fada7e6958e5",
+    "url": "https://pigtoken.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x8850d2c68c632e3b258e612abaa8fada7e6958e5"
+    ],
+    "twitter": "Pig_Finance",
+    "telegram": "PigTokenBSC"
+}

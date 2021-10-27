@@ -1,0 +1,23 @@
+{
+    "id": "life-token",
+    "symbol": "ltn",
+    "name": "Life Token",
+    "platforms": {
+        "binance-smart-chain": "0x36f66d61db3497f7fdba22efd2a251753a95d0e2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Life Token is a charity orientated token on the Binance Smart Chain. Our aim is to aid Suicide Prevention charities all over the world, to help save lives.\r\n\r\nLife Token has renowned tokenomics:\r\n\r\n- 5% fee from all transactions is put aside and donated to suicide prevention charities bi-weekly. \r\n- 1% fee is burnt ) \r\n- 4% is redistributed to all the holders "
+    },
+    "country_origin": "IE",
+    "genesis_date": null,
+    "contract_address": "0x36f66d61db3497f7fdba22efd2a251753a95d0e2",
+    "url": "https://www.thelifetoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x36f66d61db3497f7fdba22efd2a251753a95d0e2"
+    ],
+    "twitter": "the_life_token",
+    "telegram": "LifeTokenTG",
+    "reddit": "thelifetoken/"
+}

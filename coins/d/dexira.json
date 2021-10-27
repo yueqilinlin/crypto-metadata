@@ -1,0 +1,24 @@
+{
+    "id": "dexira",
+    "symbol": "dex",
+    "name": "dexIRA",
+    "platforms": {
+        "binance-smart-chain": "0x147e07976e1ae78287c33aafaab87760d32e50a5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "dexIRA provides fully automated multi-currency dividend rewards, advanced buyback protocols and tokenomics that promote long term holding and wealth generation. \r\n\r\nThe platform is based on the synergy of two concepts: DEX (decentralized exchanges) and IRAs (Individual Retirement Accounts). Borrowing from the long-term investment idea behind a traditional IRA, dexIRA investors can grow their holdings commission-free similar to tax-free IRA contributions. This allows members to increase their stake in the reward pool over time without sacrificing initial capital. \r\n\r\nAfter a one-year holding period, investors can sell their DEX holdings tax-free and penalty-free. However, similar to the age restrictions on a traditional IRA, if holders choose to sell early, they're penalized."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x147e07976e1ae78287c33aafaab87760d32e50a5",
+    "url": "https://www.dexira.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x147e07976e1ae78287c33aafaab87760d32e50a5"
+    ],
+    "twitter": "dexiratoken",
+    "telegram": "dexira",
+    "reddit": "dexIRAtoken/",
+    "github_org": "dexira"
+}

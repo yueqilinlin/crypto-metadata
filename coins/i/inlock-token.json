@@ -1,0 +1,25 @@
+{
+    "id": "inlock-token",
+    "symbol": "ilk",
+    "name": "INLOCK",
+    "platforms": {
+        "ethereum": "0xf784682c82526e245f50975190ef0fff4e4fc077"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "INLOCK is a blockchain-based lending platform that enables customers to use their cryptocurrencies as collateral for a stablecoin loan.\r\n\r\nUnique features include:\r\nHigh interest rate Savings Account\r\nIn-platform swap function, exchange your crypto without transferring it from your savings account\r\nUse Binance Smart Chain to avoid ETH fees when transferring your funds\r\nTiered Bonus rewards for holding ILK tokens\r\nBorrow on exceptional LTV values ~60%\r\nPioneer program referral rewards"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf784682c82526e245f50975190ef0fff4e4fc077",
+    "url": "https://inlock.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xf784682c82526e245f50975190ef0fff4e4fc077",
+        "https://ethplorer.io/address/0xf784682c82526e245f50975190ef0fff4e4fc077"
+    ],
+    "twitter": "inlock_token",
+    "telegram": "inlock",
+    "reddit": "INLOCK/",
+    "github_org": "IncomeLocker"
+}

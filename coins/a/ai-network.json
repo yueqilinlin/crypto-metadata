@@ -1,0 +1,26 @@
+{
+    "id": "ai-network",
+    "symbol": "ain",
+    "name": "AI Network",
+    "platforms": {
+        "ethereum": "0x3a810ff7211b40c4fa76205a14efe161615d0385"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AI Network is a blockchain-based, cloud computing network for an open, interoperable ecosystem of AI solutions. No single entity owns AI solutions on the network, but there're contributors, such as computing resource providers and contributors of the source code, who maintain and develop the solutions and get rewards via AIN token. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3a810ff7211b40c4fa76205a14efe161615d0385",
+    "url": "https://www.ainetwork.ai/",
+    "explorers": [
+        "https://etherscan.io/token/0x3A810ff7211b40c4fA76205a14efe161615d0385",
+        "https://ethplorer.io/address/0x3A810ff7211b40c4fA76205a14efe161615d0385"
+    ],
+    "twitter": "ainetwork_ai",
+    "facebook": "ainetworkofficial",
+    "telegram": "ainetwork_kr",
+    "reddit": "ainetwork",
+    "github_org": "ainblockchain"
+}

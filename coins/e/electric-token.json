@@ -1,0 +1,26 @@
+{
+    "id": "electric-token",
+    "symbol": "etr",
+    "name": "Electric Token",
+    "platforms": {
+        "ethereum": "0x71e5fb8793b5a2fb0c4918930180f8b36500cbb8"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Energy"
+    ],
+    "description": {
+        "en": "Electric token is a utility token with real use case and it's value will originate from the actual demand in the energy field. On top of that the whole ecosystem behind Electric token is designed in such a way that the company profits in Brazil are directed into backing the token."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0x71e5fb8793b5a2fb0c4918930180f8b36500cbb8",
+    "url": "https://www.electric-token.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x71e5fb8793b5a2fb0c4918930180f8b36500cbb8",
+        "https://ethplorer.io/address/0x71e5fb8793b5a2fb0c4918930180f8b36500cbb8"
+    ],
+    "twitter": "Electric_token",
+    "facebook": "Electric.token",
+    "telegram": "ETRtoken"
+}

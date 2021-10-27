@@ -1,0 +1,26 @@
+{
+    "id": "coinspaid",
+    "symbol": "cpd",
+    "name": "CoinsPaid",
+    "platforms": {
+        "ethereum": "0x9b31bb425d8263fa1b8b9d090b83cf0c31665355",
+        "binance-smart-chain": "0x2406dce4da5ab125a18295f4fb9fd36a0f7879a2",
+        "polygon-pos": "token/0x1ce4a2c355f0dcc24e32a9af19f1836d6f4f98ae"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CoinsPaid is an organisation providing \u0441ryptocurrency payment services, we enable businesses to operate worldwide, decrease costs, reach new markets by empowering companies with reliable cryptocurrency processing methods. We support over 50 cryptocurrencies and counting."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9b31bb425d8263fa1b8b9d090b83cf0c31665355",
+    "url": "https://coinspaid.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x9b31bb425d8263fa1b8b9d090b83cf0c31665355",
+        "https://ethplorer.io/address/0x9b31bb425d8263fa1b8b9d090b83cf0c31665355"
+    ],
+    "twitter": "coinspaid",
+    "telegram": "CoinsPaid_Chat",
+    "reddit": "CoinsPaid/"
+}

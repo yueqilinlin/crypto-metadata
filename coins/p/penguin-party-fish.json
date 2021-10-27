@@ -1,0 +1,24 @@
+{
+    "id": "penguin-party-fish",
+    "symbol": "fish",
+    "name": "Penguin Party Fish",
+    "platforms": {
+        "ethereum": "0x30bcd71b8d21fe830e493b30e90befba29de9114"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fish is a social currency that will: Function as a reward mechanism to reward our delegators the right to vote in how Penguin Party will actually vote on-chain. Function as a reward mechanism for software contributions to Penguin Party."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x30bcd71b8d21fe830e493b30e90befba29de9114",
+    "url": "https://penguinswap.eth.link/#/swap",
+    "explorers": [
+        "https://etherscan.io/token/0x30bcd71b8d21fe830e493b30e90befba29de9114",
+        "https://ethplorer.io/address/0x30bcd71b8d21fe830e493b30e90befba29de9114"
+    ],
+    "twitter": "PenguinpartyE",
+    "telegram": "penguinpartyfish",
+    "github_org": "penguinparty-eth"
+}

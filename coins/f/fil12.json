@@ -1,0 +1,22 @@
+{
+    "id": "fil12",
+    "symbol": "fil12",
+    "name": "FIL12",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Storage"
+    ],
+    "description": {
+        "en": "Filecoin is an incentive layer on IPFS and a a decentralized storage market built on IPFS based on the token incentive model.FIL12 is the 12 months future contract of filecoin. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://filecoin.io/",
+    "explorers": [
+        "https://filfox.info/en",
+        "https://filscan.io/#/tipset/chain"
+    ],
+    "twitter": "Filecoin",
+    "github_org": "filecoin-project"
+}

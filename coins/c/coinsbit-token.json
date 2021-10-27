@@ -1,0 +1,26 @@
+{
+    "id": "coinsbit-token",
+    "symbol": "cnb",
+    "name": "Coinsbit Token",
+    "platforms": {
+        "ethereum": "0xc538143202f3b11382d8606aae90a96b042a19db"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc538143202f3b11382d8606aae90a96b042a19db",
+    "url": "https://coinsbit.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xC538143202f3b11382D8606aae90a96b042a19DB",
+        "https://ethplorer.io/address/0xc538143202f3b11382d8606aae90a96b042a19db"
+    ],
+    "twitter": "c0insbit",
+    "facebook": "coinsbit.io.cr",
+    "telegram": "coinsbit_chat"
+}

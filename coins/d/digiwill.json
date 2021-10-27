@@ -1,0 +1,25 @@
+{
+    "id": "digiwill",
+    "symbol": "dgw",
+    "name": "Digiwill",
+    "platforms": {
+        "ethereum": "0x87b87a7583d8d8f15b58bdd290318386ac8ee174"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Digiwills is a service based on a smart contract that aims to ensure that your digital assets are not lost or fall into the wrong hands. Thanks to the blockchain technology, with this innovative service it will be possible to safely leave all your digital assets.\r\n\r\nSuch as: Access to Cryptographic Portfolios, Exchange, bank accounts, emails and passwords of your social networks and everything that only you have access to.\r\n\r\nWith this service we can leave everything in order for our families to enjoy our digital assets."
+    },
+    "country_origin": "DO",
+    "genesis_date": null,
+    "contract_address": "0x87b87a7583d8d8f15b58bdd290318386ac8ee174",
+    "url": "https://digiwills.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x87b87a7583d8d8f15b58bdd290318386ac8ee174",
+        "https://ethplorer.io/address/0x87b87a7583d8d8f15b58bdd290318386ac8ee174"
+    ],
+    "twitter": "digiwills_io",
+    "facebook": "Digiwills-647817352324479",
+    "telegram": "digiwills",
+    "github_org": "Digiwills"
+}

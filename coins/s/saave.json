@@ -1,0 +1,22 @@
+{
+    "id": "saave",
+    "symbol": "saave",
+    "name": "sAAVE",
+    "platforms": {
+        "ethereum": "0xd2df355c19471c8bd7d8a3aa27ff4e26a21b4076"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Synthetic Aave by Synthetix,\r\n\r\nTracks the price of Aave through price feeds supplied by an oracle."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd2df355c19471c8bd7d8a3aa27ff4e26a21b4076",
+    "url": "https://www.synthetix.io",
+    "explorers": [
+        "https://etherscan.io/token/0xd2dF355C19471c8bd7D8A3aa27Ff4e26A21b4076",
+        "https://ethplorer.io/address/0xd2df355c19471c8bd7d8a3aa27ff4e26a21b4076"
+    ],
+    "twitter": "synthetix_io"
+}

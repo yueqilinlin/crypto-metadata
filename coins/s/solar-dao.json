@@ -1,0 +1,27 @@
+{
+    "id": "solar-dao",
+    "symbol": "sdao",
+    "name": "Solar DAO",
+    "platforms": {
+        "ethereum": "0x646cec6ee42d258336165cbbd5deb4af14f0f476"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Energy"
+    ],
+    "description": {
+        "en": "Reduce risks and costs while surpassing technical barriers of investing in PV solar plants across the globe. Own solar assets freely, safely, and anonymously.\r\n\r\n"
+    },
+    "country_origin": "IL",
+    "genesis_date": null,
+    "contract_address": "0x646cec6ee42d258336165cbbd5deb4af14f0f476",
+    "url": "http://solardao.me/",
+    "explorers": [
+        "https://etherscan.io/token/0x646cec6ee42d258336165cbbd5deb4af14f0f476",
+        "https://ethplorer.io/address/0x646cec6ee42d258336165cbbd5deb4af14f0f476"
+    ],
+    "twitter": "SolarDAO",
+    "facebook": "solar.dao",
+    "telegram": "solardao",
+    "github_org": "Solar-DAO"
+}

@@ -1,0 +1,38 @@
+{
+    "id": "dai",
+    "symbol": "dai",
+    "name": "Dai",
+    "platforms": {
+        "ethereum": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "binance-smart-chain": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+        "avalanche": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+        "polygon-pos": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "harmony-shard-0": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
+        "arbitrum-one": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+        "moonriver": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
+        "sora": "0x0200060000000000000000000000000000000000000000000000000000000000",
+        "optimistic-ethereum": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "USD Stablecoin",
+        "Decentralized Finance (DeFi)",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "MakerDAO has launched Multi-collateral DAI (MCD). This token refers to the new DAI that is collaterized by multiple assets.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "url": "https://makerdao.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f",
+        "https://ethplorer.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
+        "https://blockchair.com/ethereum/erc-20/token/0x6b175474e89094c44da98b954eedeac495271d0f",
+        "https://polygonscan.com/token/0x6b175474e89094c44da98b954eedeac495271d0f}",
+        "https://arbiscan.io/token/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+    ],
+    "twitter": "MakerDAO",
+    "reddit": "MakerDAO"
+}

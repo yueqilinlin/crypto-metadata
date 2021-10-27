@@ -1,0 +1,22 @@
+{
+    "id": "piplcoin",
+    "symbol": "pipl",
+    "name": "PiplCoin",
+    "platforms": {
+        "ethereum": "0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The mission of PiplCoin is to provide high grade liquidity for a blockchain based project called PiplShare. PiplShare is a blockchain based job-board ecosystem, where employers and candidates can realize their potential. Every single user profile is unique and exposed to constant estimation-validation process.\r\nTransactions between PiplShare users are supported with PiplCoin, dedicated deflationary cryptocurrency with a high tendency to growth."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-08-22",
+    "contract_address": "0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4",
+    "url": "https://piplcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4",
+        "https://ethplorer.io/address/0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4"
+    ],
+    "twitter": "PiplCoin"
+}

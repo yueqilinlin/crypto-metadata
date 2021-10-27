@@ -1,0 +1,24 @@
+{
+    "id": "meo-tools",
+    "symbol": "meo",
+    "name": "Meo.tools",
+    "platforms": {
+        "binance-smart-chain": "0x7dff85eeb321957a429fa220ec2664774240b766"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Meo.tools ($MEO) is the ultimate combination between MetaMask, PooCoin, PancakeSwap, and Alert tool. We aim to provide an all-in-one crypto ecosystem, the next tracking dashboard generation.\r\n\r\nThe tokenomics have been designed to provide both stability and reward holders while sustaining the ecosystem development and growth."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7dff85eeb321957a429fa220ec2664774240b766",
+    "url": "https://meo.tools/",
+    "explorers": [
+        "https://bscscan.com/token/0x7dff85eeb321957a429fa220ec2664774240b766"
+    ],
+    "twitter": "MeoTools",
+    "telegram": "meo_tools",
+    "reddit": "MeoTools/",
+    "github_org": "MeoTools"
+}

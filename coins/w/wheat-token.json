@@ -1,0 +1,23 @@
+{
+    "id": "wheat-token",
+    "symbol": "wheat",
+    "name": "Wheat Token",
+    "platforms": {
+        "binance-smart-chain": "0x3ab63309f85df5d4c3351ff8eacb87980e05da4e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WHEAT is the token used to incentivize the products of the GrowthDeFi ecosystem. In exchange, a large portion of the revenues are directed towards buybacking and burning it, the ultimate goal is to make WHEAT deflationary."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x3ab63309f85df5d4c3351ff8eacb87980e05da4e",
+    "url": "https://wheat.growthdefi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x3ab63309F85df5D4c3351ff8EACb87980E05Da4E"
+    ],
+    "twitter": "GrowthDefi",
+    "telegram": "growthdefi",
+    "github_org": "GrowthDeFi"
+}

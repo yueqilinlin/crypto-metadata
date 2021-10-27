@@ -1,0 +1,19 @@
+{
+    "id": "mnpostree",
+    "symbol": "mptc",
+    "name": "MNPoSTree",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "MNPoSTree is a cryptocurrency investment platform. We look beyond the traditional Masternode + PoS mechanism.\r\n\r\nIn MNPoSTree platform, we combine Masternode Sharing Service with Non-Custodial Proof-of-Stake System from DeFi coins as Validator node"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://progress.mnpostree.com/mnpostreecoin.php",
+    "explorers": [
+        "https://explorer.mnpostree.com/"
+    ],
+    "twitter": "mnpostree",
+    "github_org": "mnpostree"
+}

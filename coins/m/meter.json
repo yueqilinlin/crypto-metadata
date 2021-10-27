@@ -1,0 +1,24 @@
+{
+    "id": "meter",
+    "symbol": "mtrg",
+    "name": "Meter Governance",
+    "platforms": {
+        "ethereum": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MTRG is the governance token of the Meter system. Meter is the most decentralized and fastest Ethereum sidechain network with a native metastable gas currency. MTRG is used to validate transactions via HotStuff Style Proof of Stake consensus and participate in the governance of the Meter network. MTR is the gas token for the Meter network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.meter.io/",
+    "explorers": [
+        "https://scan.meter.io/"
+    ],
+    "twitter": "Meter_IO",
+    "facebook": "MeterFoundation",
+    "telegram": "Meter_IO",
+    "reddit": "Meter_io/",
+    "github_org": "meterio"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "wechain-coin",
+    "symbol": "wxtc",
+    "name": "WeChain Coin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "The WeChain Coin founders will pass Project Control to the chain of users through Voting Processes. Everyone who has a WXTC stock that represents 0.1% or more of the total WeChain Coins already mined will be entitled to vote and usage campaign insertion of Investment Fund. To learn more see Whitepaper."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "url": "https://wechaincoin.info/",
+    "explorers": [
+        "http://explorer.wechaincoin.info/"
+    ],
+    "twitter": "WechainC",
+    "facebook": "wechaincoin",
+    "telegram": "wechaincoin",
+    "github_org": "wechaincoin"
+}

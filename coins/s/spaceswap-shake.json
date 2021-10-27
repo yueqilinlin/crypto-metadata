@@ -1,0 +1,26 @@
+{
+    "id": "spaceswap-shake",
+    "symbol": "shake",
+    "name": "Spaceswap SHAKE",
+    "platforms": {
+        "ethereum": "0x6006fc2a849fedaba8330ce36f5133de01f96189",
+        "binance-smart-chain": "0xba8a6ef5f15ed18e7184f44a775060a6bf91d8d0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6006fc2a849fedaba8330ce36f5133de01f96189",
+    "url": "https://spaceswap.app",
+    "explorers": [
+        "https://etherscan.io/token/0x6006FC2a849fEdABa8330ce36F5133DE01F96189",
+        "https://ethplorer.io/address/0x6006fc2a849fedaba8330ce36f5133de01f96189",
+        "https://bscscan.com/token/0xba8a6ef5f15ed18e7184f44a775060a6bf91d8d0"
+    ],
+    "twitter": "spaceswapdefi",
+    "telegram": "spaceswap",
+    "github_org": "spaceswap"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "waultswap",
+    "symbol": "wex",
+    "name": "WaultSwap",
+    "platforms": {
+        "binance-smart-chain": "0xa9c41a46a6b3531d28d5c32f6633dd2ff05dfb90"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens",
+        "Decentralized Finance (DeFi)",
+        "Binance Smart Chain Ecosystem",
+        "Yield Farming",
+        "Automated Market Maker (AMM)",
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "WaultSwap is decentralised AMM exchange on Binance Smart chain with additional features where people can earn yield."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa9c41a46a6b3531d28d5c32f6633dd2ff05dfb90",
+    "url": "https://wault.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xa9c41a46a6b3531d28d5c32f6633dd2ff05dfb90"
+    ],
+    "twitter": "Wault_Finance",
+    "telegram": "WaultFinance",
+    "github_org": "WaultFinance"
+}

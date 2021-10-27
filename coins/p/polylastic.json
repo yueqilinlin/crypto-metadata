@@ -1,0 +1,26 @@
+{
+    "id": "polylastic",
+    "symbol": "polx",
+    "name": "Polylastic",
+    "platforms": {
+        "binance-smart-chain": "0xbe510da084e084e3c27b20d79c135dc841135c7f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "The Polylastic (POLX) Aggregator is a purposefully staked, curated basket of assets that tracks and represents the synthetic asset space and the future of money\u2014ranging from EFi (Elastic Finance) to perpetual swaps. The direct-staking of the POLX token is used to signal community support that is designed to identify and exploit opportunities in these burgeoning markets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbe510da084e084e3c27b20d79c135dc841135c7f",
+    "url": "https://polylastic.io",
+    "explorers": [
+        "https://bscscan.com/token/0xbe510da084E084e3C27b20D79C135Dc841135c7F#balances"
+    ],
+    "twitter": "polylastic",
+    "telegram": "polylastic",
+    "github_org": "polylastic"
+}

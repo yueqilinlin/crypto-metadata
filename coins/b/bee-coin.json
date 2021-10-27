@@ -1,0 +1,26 @@
+{
+    "id": "bee-coin",
+    "symbol": "bee",
+    "name": "BEE Coin",
+    "platforms": {
+        "ethereum": "0x1763ad73694d4d64fb71732b068e32ac72a345b1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "BEEX Coin (Symbol: BEE) is a native cryptocurrency issued by BEEX. The total circulation of BEE is 100 million, there is no reservation and additional issue, and 100% BEE will be produced through trading mining. BEEX will buyback BEE and burned it weekly with platform fees and activity income, to a total of 21 million BEE. BEE holders will receive a series of platform benefits such as discount handling fees and subscriptions in the future."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x1763ad73694d4d64fb71732b068e32ac72a345b1",
+    "url": "https://www.beex.one/",
+    "explorers": [
+        "https://etherscan.io/token/0x1763ad73694d4d64fb71732b068e32ac72a345b1",
+        "https://ethplorer.io/address/0x1763ad73694d4d64fb71732b068e32ac72a345b1"
+    ],
+    "twitter": "beexofficial",
+    "facebook": "BEEX.oneofficial",
+    "telegram": "BEEXoneEN"
+}

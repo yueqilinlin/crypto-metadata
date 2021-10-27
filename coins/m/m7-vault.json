@@ -1,0 +1,23 @@
+{
+    "id": "m7-vault",
+    "symbol": "vault",
+    "name": "M7 Vault",
+    "platforms": {
+        "binance-smart-chain": "0x838bcbe35da6aee1bfd4c48d994e0133b25465df"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "This platform will be a one-stop-shop for investors looking for safe and effective Dividend Yield Tokens. Using our vault system users are able to stake Capital Asset Tokens and compound their holdings, not by cannibalizing the Capital Asset Tokens themselves, but by using the dividends they generate to buy back and increase holdings. By pooling together funds from multiple investors, it will multiply the buying power and create a positive feedback loop of value for the pool."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x838bcbe35da6aee1bfd4c48d994e0133b25465df",
+    "url": "https://m7capital.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x838bcbE35da6AEe1bFd4C48D994e0133b25465DF"
+    ],
+    "twitter": "M7Platform",
+    "telegram": "M7Capital",
+    "reddit": "M7CIP/"
+}

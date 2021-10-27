@@ -1,0 +1,20 @@
+{
+    "id": "pakcoin",
+    "symbol": "pak",
+    "name": "Pakcoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Pakistan Coin (Pakcoin) is crypto currency for Pakistani people. A currency for the people by the people."
+    },
+    "country_origin": "",
+    "genesis_date": "2015-06-06",
+    "url": "http://www.pakcoin.io",
+    "explorers": [
+        "https://chainz.cryptoid.info/pak/"
+    ],
+    "twitter": "pakcoinofficial",
+    "facebook": "pakcoinofficial",
+    "github_org": "Pakcoin-project"
+}

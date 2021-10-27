@@ -1,0 +1,24 @@
+{
+    "id": "fractal",
+    "symbol": "fcl",
+    "name": "Fractal",
+    "platforms": {
+        "ethereum": "0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fractal is an open source zero-margin protocol that defines a basic standard to exchange user information in a fair and open way ensuring a high-quality version of the free internet."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3",
+    "url": "https://protocol.fractal.id/",
+    "explorers": [
+        "https://etherscan.io/token/0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3",
+        "https://ethplorer.io/address/0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3"
+    ],
+    "twitter": "fractalprtcl",
+    "telegram": "fractal_protocol",
+    "github_org": "trustfractal"
+}

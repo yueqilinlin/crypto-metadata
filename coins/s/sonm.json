@@ -1,0 +1,27 @@
+{
+    "id": "sonm",
+    "symbol": "snm",
+    "name": "SONM",
+    "platforms": {
+        "ethereum": "0x46d0dac0926fa16707042cadc23f1eb4141fe86b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Storage"
+    ],
+    "description": {
+        "en": "SONM is a global operating system that is also a decentralized worldwide fog supercomputer. With SONM, users have access to general-purpose computing services of a cloud-like nature, including IaaS and PaaS, all of which have fog computing as the backend. Hosts around the world can contribute computing power as part of the SONM marketplace. The leaders of SONM are co-founder Sergey Ponomarev and CTO Igor Lebedev. SONM uses the agile development framework with a self-organizing cross-functional team. \r\n\r\nThe Product Management Board defines the market needs to confirm that products meet business requirements. These include Node (Core), Smart Contracts, Wallet (Client), and Distributed Entity and Integration. Each of these teams has multiple developers, including a lead. Other teams include the Product & Analytics and QA teams.SONM always makes customer satisfaction its top priority. SONM studies the rental resource market to figure out exactly what customers need, delivering the advantages like scalability already mentioned. Additionally, customers will benefit from the Infrastructure-as-a-Service platform that supports all types of hardware resources, making it possible to find the exact resource you need. With SONM, consumers can instantly release and grow resources within the computing fog. In addition, security is always maintained regarding the supplier\u2019s reputation. For added security, SONM is working toward hardware-enforced security, as well. Finally, consumers benefit from high market liquidity in purchasing resources and the ability to scale out their application.\r\n\r\n<a href=\"https://www.coingecko.com/en/ico/sonm\">SONM\u2019s ICO</a> was held on June 15, 2017 and successfully raised $42,000,000. Paolo Tasca, a digital economist and blockchain expert, joined the SONM Advisory Board. Tasca is the Executive Director of the Centre for Blockchain Technologies at University College London, as well as a blockchain consultant to the United Nations and EU Parliament, and the co-editor of \u201cBanking Beyond Banks and Money: A Guide to Banking Services in the Twenty-First Century.\u201d\""
+    },
+    "country_origin": "RU",
+    "genesis_date": "2017-06-15",
+    "contract_address": "0x46d0dac0926fa16707042cadc23f1eb4141fe86b",
+    "url": "https://sonm.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x46d0dac0926fa16707042cadc23f1eb4141fe86b",
+        "https://ethplorer.io/address/0x46d0dac0926fa16707042cadc23f1eb4141fe86b"
+    ],
+    "twitter": "sonmdevelopment",
+    "telegram": "sonm_eng",
+    "reddit": "SONM",
+    "github_org": "sonm-io"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "wrapped-ncg",
+    "symbol": "wncg",
+    "name": "Wrapped NCG",
+    "platforms": {
+        "ethereum": "0xf203ca1769ca8e9e8fe1da9d147db68b6c919817"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gaming"
+    ],
+    "description": {
+        "en": "Nine Chronicles is an open source, decentralized RPG network powered by the community. As a fully decentralized game, there are no servers, and every player is a node with full access to the code and data of Nine Chronicles."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf203ca1769ca8e9e8fe1da9d147db68b6c919817",
+    "url": "https://nine-chronicles.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xf203ca1769ca8e9e8fe1da9d147db68b6c919817",
+        "https://ethplorer.io/address/0xf203ca1769ca8e9e8fe1da9d147db68b6c919817"
+    ],
+    "twitter": "NineChronicles",
+    "github_org": ""
+}

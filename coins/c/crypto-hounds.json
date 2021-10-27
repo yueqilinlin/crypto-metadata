@@ -1,0 +1,23 @@
+{
+    "id": "crypto-hounds",
+    "symbol": "cth",
+    "name": "Crypto Hounds",
+    "platforms": {
+        "binance-smart-chain": "0xb7148ae5745f4753673511b1315d6089e64d83d1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cryptohounds is a bonus fighting game that combines upgrading and breeding, creating a farm of dog warriors for combat.\r\nCryptohounds are operated on the Binance Smart Chain Network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb7148ae5745f4753673511b1315d6089e64d83d1",
+    "url": "https://cryptohounds.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xb7148ae5745f4753673511b1315d6089e64d83d1"
+    ],
+    "twitter": "cryptohounds_",
+    "telegram": "CryptohoundsBSC",
+    "github_org": "judasle7"
+}

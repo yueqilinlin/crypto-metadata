@@ -1,0 +1,24 @@
+{
+    "id": "makiswap",
+    "symbol": "maki",
+    "name": "MakiSwap",
+    "platforms": {
+        "huobi-token": "0x5fad6fbba4bba686ba9b8052cf0bd51699f38b93"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "HECO Chain Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5fad6fbba4bba686ba9b8052cf0bd51699f38b93",
+    "url": "https://makiswap.com/",
+    "explorers": [
+        "https://hecoinfo.com/token/0x5fad6fbba4bba686ba9b8052cf0bd51699f38b93"
+    ],
+    "twitter": "makiswap",
+    "telegram": "makiswap"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "colossuscoinxt",
+    "symbol": "colx",
+    "name": "ColossusXT",
+    "platforms": {
+        "binance-smart-chain": "0xf8acf86194443dcde55fc5b9e448e183c290d8cb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Colossuscoin is a decentralized, open-source peer-to-peer (P2P) Internet currency that enables fast instant payments to anyone in the world with almost no fees."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf8acf86194443dcde55fc5b9e448e183c290d8cb",
+    "url": "https://colossusxt.io/",
+    "explorers": [
+        "https://chainz.cryptoid.info/colx/",
+        "https://bscscan.com/token/0xF8aCF86194443DCde55fc5B9e448e183c290D8Cb"
+    ],
+    "twitter": "ColossusCoinXT",
+    "facebook": "Colossuscoin",
+    "telegram": "colossuscoin",
+    "reddit": "ColossuscoinX",
+    "github_org": "ColossusCoinXT"
+}

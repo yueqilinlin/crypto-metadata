@@ -1,0 +1,24 @@
+{
+    "id": "annex",
+    "symbol": "ann",
+    "name": "Annex Finance",
+    "platforms": {
+        "binance-smart-chain": "0x98936bde1cf1bff1e7a8012cee5e2583851f2067"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Annex Finance is a lending/borrowing platform for cryptocurrencies,  the project's goal is to bridge the traditional lending platform for BSC, ETH, and Poly network bringing the network closer to each other, we will release BSC first, then eth and poly to follow after\r\n\r\nAnnex Finance will also be providing DEX swap allowing users to create LP and liquidity itself to mint high apy returns and increase ANN price/volume while allowing users to borrow and supply assets through smart contracts, on top of lending/borrowing, we will also be offering NFT marketplace as well as IDO auction, basically a one stop shop defi platform for multichain network"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x98936bde1cf1bff1e7a8012cee5e2583851f2067",
+    "url": "https://www.annex.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x98936bde1cf1bff1e7a8012cee5e2583851f2067"
+    ],
+    "twitter": "AnnexFinance",
+    "telegram": "Annex_finance_group",
+    "reddit": "AnnexFinance/",
+    "github_org": "annexfinance"
+}

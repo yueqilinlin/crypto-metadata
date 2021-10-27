@@ -1,0 +1,22 @@
+{
+    "id": "space-cat",
+    "symbol": "spacecat",
+    "name": "Space Cat",
+    "platforms": {
+        "binance-smart-chain": "0x7e82b5a7af1916a97fa656b2a38c070e79143ff9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The first meme token with dividend yield paid in Filcoin"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x7e82b5a7af1916a97fa656b2a38c070e79143ff9",
+    "url": "http://spacexcat.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x7E82B5a7aF1916A97fA656B2A38C070e79143fF9"
+    ],
+    "twitter": "Cats_SpaceX",
+    "telegram": "cat_spacex"
+}

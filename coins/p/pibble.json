@@ -1,0 +1,26 @@
+{
+    "id": "pibble",
+    "symbol": "pib",
+    "name": "Pibble",
+    "platforms": {
+        "ethereum": "0x1864ce27e9f7517047933caae530674e8c70b8a7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "This is where Pibble comes in. Pibble is a Blockchain based image Cryptocurrency! It is a monetized Image Ecosystem that brings image creators and consumers together, so as to compensate them for the work they create, use and enjoy."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x1864ce27e9f7517047933caae530674e8c70b8a7",
+    "url": "http://pibble.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x1864ce27e9f7517047933caae530674e8c70b8a7",
+        "https://ethplorer.io/address/0x1864ce27e9f7517047933caae530674e8c70b8a7"
+    ],
+    "twitter": "pibbleio",
+    "facebook": "pibbleio",
+    "telegram": "pibbleio_eng",
+    "reddit": "Pibbleio",
+    "github_org": "Pibble-io"
+}

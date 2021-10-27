@@ -1,0 +1,27 @@
+{
+    "id": "public-index-network",
+    "symbol": "pin",
+    "name": "Public Index Network",
+    "platforms": {
+        "ethereum": "0xc1f976b91217e240885536af8b63bc8b5269a9be",
+        "binance-smart-chain": "0x3b79a28264fc52c7b4cea90558aa0b162f7faf57"
+    },
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "PIN is a proof-of-work cryptocurrency designed to index web3 metadata. PIN also exists as a wrapped token on Ethereum, Binance Smart Chain, and Polygon.\r\n\r\nUsers and developers can \"pin\" metadata, permanently and immutably storing it on the network for public use. Pins can then be retrieved and read by any PIN-based application. When combined with its supporting metadata library, the Open Index Protocol (\"OIP\"), PIN provides a new standard for publishing, indexing, and monetizing any digital content.\r\n\r\nA robust development community is actively using PIN to create and index immutable links that will help to serve as the infrastructure for web3."
+    },
+    "country_origin": "",
+    "genesis_date": "2013-06-17",
+    "contract_address": "0xc1f976b91217e240885536af8b63bc8b5269a9be",
+    "url": "https://publicindex.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xc1f976B91217E240885536aF8b63bc8b5269a9BE",
+        "https://ethplorer.io/address/0xc1f976B91217E240885536aF8b63bc8b5269a9BE",
+        "https://bscscan.com/token/0x3b79a28264fc52c7b4cea90558aa0b162f7faf57"
+    ],
+    "twitter": "pinblockchain",
+    "facebook": "floblockchain",
+    "telegram": "publicindexnetwork",
+    "reddit": "FLOblockchain"
+}

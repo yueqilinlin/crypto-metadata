@@ -1,0 +1,22 @@
+{
+    "id": "safedot",
+    "symbol": "sdot",
+    "name": "SafeDot",
+    "platforms": {
+        "binance-smart-chain": "0x11fe673b2ffb233c94ee7294b7e59417933ee4a2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A Deflationary Token built for Binance smart Chain, Buyback and burn in place. Safedot has a locked LP, RFI rewards system, industry standard security and best-in-the-market tokenomics system. Simply HODL and reap the rewards."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x11fe673b2ffb233c94ee7294b7e59417933ee4a2",
+    "url": "http://safedot.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x11fe673b2ffb233c94ee7294b7e59417933ee4a2"
+    ],
+    "twitter": "safedot1",
+    "telegram": "safeDotofficial"
+}

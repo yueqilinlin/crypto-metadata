@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-pax-gold-token",
+    "symbol": "paxgbear",
+    "name": "3X Short PAX Gold Token",
+    "platforms": {
+        "ethereum": "0x3c4a46f0c075a7f191a7459bb51eb1f81ac36f8a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short PAX Gold Token (PAXGBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of PAX Gold."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3c4a46f0c075a7f191a7459bb51eb1f81ac36f8a",
+    "url": "https://ftx.com/tokens/PAXGBEAR",
+    "explorers": [
+        "https://etherscan.io/token/0x3C4a46F0C075A7F191A7459bb51EB1f81ac36F8A",
+        "https://ethplorer.io/address/0x3c4a46f0c075a7f191a7459bb51eb1f81ac36f8a"
+    ]
+}

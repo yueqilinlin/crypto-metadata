@@ -1,0 +1,30 @@
+{
+    "id": "mt-pelerin-shares",
+    "symbol": "mps",
+    "name": "Mt Pelerin Shares",
+    "platforms": {
+        "ethereum": "0x96c645d3d3706f793ef52c19bbace441900ed47d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Polygon Ecosystem",
+        "xDAI Ecosystem"
+    ],
+    "description": {
+        "en": "MPS tokens are the tokenized shares of Mt Pelerin Group SA, a Swiss fintech company specialized in asset tokenization. One MPS token provides direct ownership of one share of the company with voting and dividend rights."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x96c645d3d3706f793ef52c19bbace441900ed47d",
+    "url": "https://www.mtpelerin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x96c645d3d3706f793ef52c19bbace441900ed47d",
+        "https://ethplorer.io/address/0x96c645d3d3706f793ef52c19bbace441900ed47d"
+    ],
+    "twitter": "mtpelerin",
+    "facebook": "mtpelerin",
+    "telegram": "mtpelerinchat",
+    "reddit": "MtPelerin/",
+    "github_org": "MtPelerin"
+}

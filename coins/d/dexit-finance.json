@@ -1,0 +1,23 @@
+{
+    "id": "dexit-finance",
+    "symbol": "dxt",
+    "name": "Dexit Finance",
+    "platforms": {
+        "binance-smart-chain": "0x2b2ff80c489dad868318a19fd6f258889a026da5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DEXIT is bringing the fastest, most secure DEX to multiple high-performance blockchains. DEXIT is currently Researching on Ethereum and Binance Smart Chain, with Polkadot and others to follow."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2b2ff80c489dad868318a19fd6f258889a026da5",
+    "url": "https://dexit.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x2b2ff80c489dad868318a19fd6f258889a026da5"
+    ],
+    "twitter": "dexitfinance",
+    "telegram": "dexit_finance_official",
+    "github_org": "Dexit-Finance"
+}

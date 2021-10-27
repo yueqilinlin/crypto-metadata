@@ -1,0 +1,25 @@
+{
+    "id": "frosted-cake",
+    "symbol": "FROSTEDCAKE",
+    "name": "Frosted Cake",
+    "platforms": {
+        "binance-smart-chain": "0x94ba29d58d419bd798b282476db3dd9d97ba8c23"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Frosted Cake is a deflationary passive income token, strategically developed for long term Investments, pushing Smart Contract Capabilities to its fullest potential. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x94ba29d58d419bd798b282476db3dd9d97ba8c23",
+    "url": "https://frostedcaketoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x358286b9573e76d44a78948341e2ab5f69cfac3a",
+        "https://ethplorer.io/address/0x358286b9573e76d44a78948341e2ab5f69cfac3a",
+        "https://bscscan.com/token/0x94ba29d58D419BD798B282476db3Dd9d97BA8C23"
+    ],
+    "twitter": "frostedcakebsc",
+    "telegram": "frostedcaketoken",
+    "github_org": "ToshiroCake"
+}

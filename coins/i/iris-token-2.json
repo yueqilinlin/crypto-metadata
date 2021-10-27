@@ -1,0 +1,23 @@
+{
+    "id": "iris-token-2",
+    "symbol": "iris",
+    "name": "Iris Token",
+    "platforms": {
+        "polygon-pos": "0xdab35042e63e93cc8556c9bae482e5415b5ac4b1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hermes Finance is the Olympus of Defi. Our friendly community is building a decentralized and proactive platform at the forefront of modern day finance."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdab35042e63e93cc8556c9bae482e5415b5ac4b1",
+    "url": "https://www.hermesdefi.io/",
+    "explorers": [
+        "https://polygonscan.com/token/0xdab35042e63e93cc8556c9bae482e5415b5ac4b1"
+    ],
+    "twitter": "hermesdefi",
+    "telegram": "hermesdefinance",
+    "github_org": "Hermes-defi"
+}

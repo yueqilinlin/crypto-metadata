@@ -1,0 +1,25 @@
+{
+    "id": "mini",
+    "symbol": "mini",
+    "name": "Mini",
+    "platforms": {
+        "ethereum": "0x4d953cf077c0c95ba090226e59a18fcf97db44ec"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Miniswap is to enable a concerned network of DeFi ecosystems. MiniSwap provides a decentralized platform for exercising financial products. "
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x4d953cf077c0c95ba090226e59a18fcf97db44ec",
+    "url": "https://www.miniswap.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x4d953cf077c0c95ba090226e59a18fcf97db44ec",
+        "https://ethplorer.io/address/0x4d953cf077c0c95ba090226e59a18fcf97db44ec"
+    ],
+    "twitter": "Mini_Swap",
+    "telegram": "MiniSwapCommunity",
+    "reddit": "https://www.reddit.com",
+    "github_org": "MiniswapOrg"
+}

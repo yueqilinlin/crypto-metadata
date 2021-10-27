@@ -1,0 +1,25 @@
+{
+    "id": "nokencoin",
+    "symbol": "nokn",
+    "name": "Nokencoin",
+    "platforms": {
+        "waves": ""
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Nokencoin (NOKN) is used in the Nokenchain ecosystem to obtain cheaper products and services, access special tokens and as an indicator of the evolution of tokenization. Nokenchain allows you to tokenize, without computer knowledge, everything you want (projects, individuals, objects, companies, ...) and to earn passive income in cryptocurrencies. It also does research and development (virtual masternodes, market and social studies, technology studies, ...)."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "url": "https://nokenchain.net",
+    "explorers": [
+        "https://wavesexplorer.com/tx/KYGtzFRaUfKtaKGGz2FfbZDoimw3GNY2SKVwyHEsY7M",
+        "https://dev.pywaves.org/assets/KYGtzFRaUfKtaKGGz2FfbZDoimw3GNY2SKVwyHEsY7M"
+    ],
+    "twitter": "nokenchain",
+    "facebook": "nokenchain",
+    "telegram": "Nokenchain"
+}

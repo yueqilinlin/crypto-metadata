@@ -1,0 +1,24 @@
+{
+    "id": "sheeshmoon",
+    "symbol": "smoo",
+    "name": "SheeshMoon",
+    "platforms": {
+        "binance-smart-chain": "0x3b44e6d655226e79b3d2ac510c11b2637a9f50dd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SheeshMoon is a community-driven DeFi token on Binance Smart Chain (BSC) that builds long-term compounding value for holders through passive rewards, liquidity pool funding, and token burns. You can farm more tokens simply by holding SheeshMoon token in your wallet. The protocol ensures that there will always be a healthy liquid market in addition to a price floor.\r\n\r\nSheeshMoon is essentially a fusion of crypto and TikTok culture and builds the community with this theme in mind. It works by taking a 10% fee on every transaction. That fee is broken up into multiple parts. First, 4% of each transaction fee is distributed to all other current SheeshMoon holders. You will receive more yields with the more SheeshMoon tokens that you hold. Next, the protocol automatically converts 3% of the transaction into $BNB. These Binance coins will be placed in the PancakeSwap liquidity pool and paired with the remaining 3% of SheeshMoon tokens to create liquidity for traders. As a result, holders are rewarded by constantly receiving \"\"airdrops\"\" and the market remains stable."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x3b44e6d655226e79b3d2ac510c11b2637a9f50dd",
+    "url": "https://sheeshmoon.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x3b44e6d655226e79b3d2ac510c11b2637a9f50dd"
+    ],
+    "twitter": "SheeshMoonBSC",
+    "telegram": "SheeshMoonToken",
+    "reddit": "SheeshMoon/",
+    "github_org": "sheeshmoon"
+}

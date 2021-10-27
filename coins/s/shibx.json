@@ -1,0 +1,23 @@
+{
+    "id": "shibx",
+    "symbol": "$ShibX",
+    "name": "ShibX",
+    "platforms": {
+        "binance-smart-chain": "0xaa357b0f167923efc1d6978a868f81866ca6e98c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SHIBX is about to take over the chain! With 6% $SHIB rewards and cutting-edge rebase mechanics we are here to stay. This is your chance to become part of something great and moon together with us!\r\n\r\nRebasing aka Elastic-Supply Tokens are known for their FOMO increasing charts. By adjusting the global token supply all dips will be destroyed!\r\n\r\nSHIBX rewards holders with SHIBA INU automatically every hour. This will be send to your\r\nBEP-20 Wallet. Just add the $SHIB address to check your rewards!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaa357b0f167923efc1d6978a868f81866ca6e98c",
+    "url": "https://shibxbsc.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xaA357b0F167923Efc1D6978a868f81866cA6E98c"
+    ],
+    "twitter": "ShibXOfficial",
+    "telegram": "shib_x",
+    "github_org": "Shibax"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "pivx-lite",
+    "symbol": "pivxl",
+    "name": "Pivx Lite",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Pivx Lite exists with the sole aim of becoming one of the most widely utilized privacy-based coins in the market segment. The stated mission of Pivx Lite is to be an open source, scalable, cryptocurrency that places user privacy above all else.  In short, we endeavor to make it impossible for a third party to figure out through chain analysis who the sender and receiver are and the amount of coins transferred in any block. We accomplish this task utilizing masternodes, coin mixing, shielded addresses with zk-SNARK cryptography, Tails OS and TOR."
+    },
+    "country_origin": "UA",
+    "genesis_date": null,
+    "url": "https://www.pivxlite.com/",
+    "explorers": [
+        "http://51.79.86.43/"
+    ],
+    "twitter": "PivxLite",
+    "github_org": "PivxLiteDev"
+}

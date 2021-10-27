@@ -1,0 +1,24 @@
+{
+    "id": "aave-amm-uniwbtcweth",
+    "symbol": "aammuniwbtcweth",
+    "name": "Aave AMM UniWBTCWETH",
+    "platforms": {
+        "ethereum": "0xc58f53a8adff2fb4eb16ed56635772075e2ee123"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc58f53a8adff2fb4eb16ed56635772075e2ee123",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xc58F53A8adff2fB4eb16ED56635772075E2EE123",
+        "https://ethplorer.io/address/0xc58F53A8adff2fB4eb16ED56635772075E2EE123"
+    ],
+    "twitter": "aaveaave"
+}

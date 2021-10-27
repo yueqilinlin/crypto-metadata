@@ -1,0 +1,22 @@
+{
+    "id": "justmoney",
+    "symbol": "jm",
+    "name": "JustMoney",
+    "platforms": {
+        "tron": "TT8VkSkW6igkiRsV5WiJgLrsbVwY5bLLjA"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "JustMoney - is a community driven deflationary token on Tron Network where holders earn passive income on every transaction and where selling is discouraged by higher taxation."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TT8VkSkW6igkiRsV5WiJgLrsbVwY5bLLjA",
+    "url": "https://justmoney.io/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TT8VkSkW6igkiRsV5WiJgLrsbVwY5bLLjA"
+    ],
+    "twitter": "JustMoneyTRX",
+    "telegram": "JustMoneyTRX"
+}

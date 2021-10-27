@@ -1,0 +1,25 @@
+{
+    "id": "macaronswap",
+    "symbol": "mcrn",
+    "name": "MacaronSwap",
+    "platforms": {
+        "binance-smart-chain": "0xacb2d47827c9813ae26de80965845d80935afd0b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Decentralized Cross-Chain Exchange & Farming Platform MacaronSwap uses an automated market maker (AMM) model. That means that while you can trade digital assets on the platform, there isn\u2019t an order book where you\u2019re matched with someone else. Instead, you trade against a liquidity pool. Those pools are filled with other users\u2019 funds. They deposit them into the pool, receiving liquidity provider (or LP) tokens in return. They can use those tokens to reclaim their share, plus a portion of the trading fees."
+    },
+    "country_origin": "AT",
+    "genesis_date": null,
+    "contract_address": "0xacb2d47827c9813ae26de80965845d80935afd0b",
+    "url": "https://macaronswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xacb2d47827c9813ae26de80965845d80935afd0b"
+    ],
+    "twitter": "macaronswap",
+    "telegram": "macaronswap",
+    "reddit": "macaronswap/"
+}

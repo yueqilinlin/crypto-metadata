@@ -1,0 +1,22 @@
+{
+    "id": "encocoinplus",
+    "symbol": "epg",
+    "name": "Encocoinplus",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Encocoin is a blockchain project initiative and an attempt by the Encocoin Foundation to create a new international trade(import and exports) financial instrument and payment system instead of the manual paper based cumbersome bank guarantee, letters of credits and real estates holding documents currently in practice."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://encocoin.net/",
+    "explorers": [
+        "https://epgexplorer.encocoin.net/"
+    ],
+    "twitter": "EncocoinE",
+    "facebook": "encocoin",
+    "github_org": "Encocoin"
+}

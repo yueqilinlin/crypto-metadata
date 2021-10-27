@@ -1,0 +1,23 @@
+{
+    "id": "versoview",
+    "symbol": "vvt",
+    "name": "VersoView",
+    "platforms": {
+        "ethereum": "0x755be920943ea95e39ee2dc437b268917b580d6e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x755be920943ea95e39ee2dc437b268917b580d6e",
+    "url": "https://versoview.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x755be920943ea95e39ee2dc437b268917b580d6e",
+        "https://ethplorer.io/address/0x755be920943ea95e39ee2dc437b268917b580d6e"
+    ],
+    "twitter": "VersoView",
+    "telegram": "versoview"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "echo-token",
+    "symbol": "echo",
+    "name": "Echo Token",
+    "platforms": {
+        "ethereum": "0x171706b7d113c68f2cc68a6ce63b1dbdcdf7b233"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Echo is a decentralized social platform that empowers crypto enthusiasts to explore, engage and earn rewards around reliable blockchain projects, while creating a safe space to connect with like-minded members and teams. \r\n\r\nEcho is crypto\u2019s community of practice. Investors can explore vetted projects that undergo a strict selection process, are validated by the community on-chain, and aggregates up-to-date information about the project in one place. Investors are incentivized to engage and earn for every contribution they make to crypto projects and the larger ecosystem, validated on-chain to create a safer crypto community. \r\n\r\nEcho is powered by a sustainable 'Proof of Community' protocol, bringing about web3-native social \u2013 incentivization for genuine engagement, validation of member investment in a project for associated content posting, and the ability to form a genuine crypto identity based on your portfolio, continued contribution, and philanthropic support, all create a permissionless social ecosystem of transparent trust \u2013 a blockchain-powered tight knit community.  \r\n\r\nEcho\u2019s contribute-to-earn mechanism is powered by its utility token, and overall platform governance and listed project support are coordinated and executed via the Echo DAO and its associated governance token. \r\n\r\nThis CoinGecko page is for the charity token which was launched in April that provides 3% of all transactions to charity. Echo has already donated 20 ETH to the India COVID Crypto Relief Fund and the Leukemia and Lymphoma Society."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x171706b7d113c68f2cc68a6ce63b1dbdcdf7b233",
+    "url": "https://www.echo-token.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x171706B7D113c68f2cc68a6CE63b1dbDcdF7B233",
+        "https://ethplorer.io/address/0x171706B7D113c68f2cc68a6CE63b1dbDcdF7B233"
+    ],
+    "twitter": "echodapp",
+    "telegram": "echodapp",
+    "github_org": "ECHO-TOKEN"
+}

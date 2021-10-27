@@ -1,0 +1,21 @@
+{
+    "id": "credit",
+    "symbol": "credit",
+    "name": "TerraCredit",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Credit is a Crytpocurrency that aims to be a decentralized Digital payment solution to the worlds unbanked adult population, which is an estimated $50,000,000,000,000.00 (Fifty Trillion Dollars) Market."
+    },
+    "country_origin": "ZA",
+    "genesis_date": null,
+    "url": "https://terra-credit.com",
+    "explorers": [
+        "https://explorer.terra-credit.com/"
+    ],
+    "twitter": "terracredit",
+    "facebook": "terrabitofficial",
+    "telegram": "terracredit",
+    "github_org": "CREDIT-2-0"
+}

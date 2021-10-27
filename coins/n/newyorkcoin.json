@@ -1,0 +1,25 @@
+{
+    "id": "newyorkcoin",
+    "symbol": "nyc",
+    "name": "NewYorkCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Retail"
+    ],
+    "description": {
+        "en": "The Original Lightning-Fast, NO FEE Payments Crypto Since 2014. Zero transaction fees, 30-second block confirmations, energy-efficient merge mining. "
+    },
+    "country_origin": "US",
+    "genesis_date": "2014-03-06",
+    "url": "https://newyorkcoin.net",
+    "explorers": [
+        "https://chainz.cryptoid.info/nyc/",
+        "https://prohashing.com/explorer/NewYorkcoin/"
+    ],
+    "twitter": "newyorkcoinnyc",
+    "facebook": "NewYorkCoinCommunity",
+    "telegram": "NewYorkCoinNYC",
+    "reddit": "https://www.reddit.com//r/newyorkcoin/",
+    "github_org": "NewYorkCoinNYC"
+}

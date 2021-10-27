@@ -1,0 +1,26 @@
+{
+    "id": "11078-longview",
+    "symbol": "realtoken-s-11078-longview-st-detroit-mi",
+    "name": "RealT Token - 11078 Longview St, Detroit, MI 48213",
+    "platforms": {
+        "xdai": "0xd5fc0c4c4c5ff316e1e91494d963ff1d52ba25ff",
+        "ethereum": "0xd5fc0c4c4c5ff316e1e91494d963ff1d52ba25ff"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd5fc0c4c4c5ff316e1e91494d963ff1d52ba25ff",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://blockscout.com/xdai/mainnet/tokens/0xD5Fc0C4C4C5ff316e1E91494d963Ff1D52Ba25fF/token-transfers"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

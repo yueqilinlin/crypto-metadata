@@ -1,0 +1,19 @@
+{
+    "id": "bitcoin-ultra",
+    "symbol": "btcu",
+    "name": "BitcoinUltra",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": null,
+    "genesis_date": "2016-01-23",
+    "explorers": [
+        "http://explorerbtcu.silverdice.us:3001/"
+    ],
+    "twitter": "BitcoinUltraDev",
+    "reddit": "BitcoinUltra",
+    "github_org": "Cryptix23"
+}

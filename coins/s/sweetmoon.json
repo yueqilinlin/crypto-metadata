@@ -1,0 +1,22 @@
+{
+    "id": "sweetmoon",
+    "symbol": "$weeties",
+    "name": "Sweetmoon",
+    "platforms": {
+        "binance-smart-chain": "0x2718dd0d92db43e273b92d1eecd0af0422f70808"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SweetmoonBSC is filling a gap in the webcam market by developing an APP that will connect you with your favourite webcam models via a custom built API, while remaining anonymous."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2718dd0d92db43e273b92d1eecd0af0422f70808",
+    "url": "https://sweetmoon.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x2718dd0d92db43e273b92d1eecd0af0422f70808"
+    ],
+    "twitter": "SweetmoonBSC",
+    "telegram": "SweetmoonBSC"
+}

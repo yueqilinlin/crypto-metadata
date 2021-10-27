@@ -1,0 +1,23 @@
+{
+    "id": "toad-network",
+    "symbol": "toad",
+    "name": "TOAD.Network",
+    "platforms": {
+        "binance-smart-chain": "0x463e737d8f740395abf44f7aac2d9531d8d539e9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TOAD.Network is committed to creating the safest and most decentralized farming community on the Binance Smart Chain (BSC). Stake your TOAD tokens to earn passive income by providing liquidity and helping others traders acquire TOAD. LP tokens are traditionally held by the project team to be sold at a later date. Unlike other projects, TOAD's team donated all of their LP tokens to the LP farm where users can farm more liquidity. We believe this to be the fairest way to structure a yield farm."
+    },
+    "country_origin": "UA",
+    "genesis_date": null,
+    "contract_address": "0x463e737d8f740395abf44f7aac2d9531d8d539e9",
+    "url": "https://toad.network",
+    "explorers": [
+        "https://bscscan.com/token/0x463E737D8F740395ABf44f7aac2D9531D8D539E9"
+    ],
+    "twitter": "ToadNetwork",
+    "telegram": "toadnetwork",
+    "github_org": "ToadNetwork"
+}

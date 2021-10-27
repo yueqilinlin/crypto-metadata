@@ -1,0 +1,23 @@
+{
+    "id": "unii-finance",
+    "symbol": "unii",
+    "name": "UNII Finance",
+    "platforms": {
+        "ethereum": "0x825130aa1beef07bdf4f389705321816d05b0d0f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Unii.finance official indicates that users holding UNII tokens will be able to form a sub-community to participate in UNI governance."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x825130aa1beef07bdf4f389705321816d05b0d0f",
+    "url": "https://unii.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x825130aa1beef07bdf4f389705321816d05b0d0f",
+        "https://ethplorer.io/address/0x825130aa1beef07bdf4f389705321816d05b0d0f"
+    ],
+    "twitter": "FinanceUnii",
+    "telegram": "uniifinance"
+}

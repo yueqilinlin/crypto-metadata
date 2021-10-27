@@ -1,0 +1,23 @@
+{
+    "id": "freedom",
+    "symbol": "fdm",
+    "name": "Freedom",
+    "platforms": {
+        "binance-smart-chain": "0xa74af19fc5f5996f34e8e2cb224a7a5c6c8d65b3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Freedom is a decentralized and community driven project.\r\nThe libertarian foundation is responsible for community formation, joint management, collective summary and implementation of resolutions. At first, it was planned and operated by a group of geek technology enthusiasts, and there was no so-called shareholder founder."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa74af19fc5f5996f34e8e2cb224a7a5c6c8d65b3",
+    "url": "https://www.fdmblock.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xa74af19fc5f5996f34e8e2cb224a7a5c6c8d65b3"
+    ],
+    "twitter": "freedom_chain",
+    "telegram": "Freedom_chainEN",
+    "github_org": "FreedomChain"
+}

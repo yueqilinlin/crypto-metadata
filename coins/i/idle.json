@@ -1,0 +1,29 @@
+{
+    "id": "idle",
+    "symbol": "idle",
+    "name": "IDLE",
+    "platforms": {
+        "ethereum": "0x875773784af8135ea0ef43b5a374aad105c5d39e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "IDLE is the Governance Token of Idle Protocol. It allows community participants to vote on-chain proposals and drive the protocol\u2019s future developments."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x875773784af8135ea0ef43b5a374aad105c5d39e",
+    "url": "https://idle.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x875773784af8135ea0ef43b5a374aad105c5d39e",
+        "https://ethplorer.io/address/0x875773784af8135ea0ef43b5a374aad105c5d39e"
+    ],
+    "twitter": "idlefinance",
+    "telegram": "idlefinance",
+    "github_org": "Idle-Labs"
+}

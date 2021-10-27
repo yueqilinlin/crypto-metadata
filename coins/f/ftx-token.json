@@ -1,0 +1,32 @@
+{
+    "id": "ftx-token",
+    "symbol": "ftt",
+    "name": "FTX Token",
+    "platforms": {
+        "ethereum": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+        "solana": "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3",
+        "sora": "0x00019977e20516b9f7112cd8cfef1a5be2e5344d2ef1aa5bc92bbb503e81146e",
+        "tomochain": "0x33fa3c0c714638f12339f85dae89c42042a2d9af"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "FTT is FTX's exchange token. Holders get a fraction of exchange fees, a fraction of the liquidation insurance fund, and can use the token as collateral and to get tighter OTC spreads on FTX."
+    },
+    "country_origin": "AG",
+    "genesis_date": null,
+    "contract_address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+    "url": "https://ftx.com",
+    "explorers": [
+        "https://etherscan.io/token/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+        "https://ethplorer.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+        "https://blockchair.com/ethereum/erc-20/token/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+        "https://scan.tomochain.com/tokens/0x33fa3c0c714638f12339f85dae89c42042a2d9af",
+        "https://solscan.io/token/AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"
+    ],
+    "twitter": "FTX_official",
+    "telegram": "FTX_Official"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "ref-finance",
+    "symbol": "ref",
+    "name": "Ref Finance",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Built on top of the cutting-edge protocol NEAR, Ref Finance is the gateway into the NEAR ecosystem through its AMM DEX, which provides liquidity and swapping features. In addition, Ref utilizes the trustless Rainbow Bridge, which seamlessly bridges Ethereum-based assets over to NEAR, and vice versa, allowing for an array of DeFi users to access lower fees and faster transaction speeds.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://ref.finance/",
+    "explorers": [
+        "https://explorer.near.org/accounts/token.v2.ref-finance.near"
+    ],
+    "twitter": "finance_ref",
+    "telegram": "ref_finance",
+    "github_org": "ref-finance"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "cardstarter",
+    "symbol": "cards",
+    "name": "Cardstarter",
+    "platforms": {
+        "ethereum": "0x3d6f0dea3ac3c607b3998e6ce14b6350721752d9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad"
+    ],
+    "description": {
+        "en": "The first insured project accelerator and launchpad for Cardano"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3d6f0dea3ac3c607b3998e6ce14b6350721752d9",
+    "url": "https://www.cardstarter.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3d6f0dea3ac3c607b3998e6ce14b6350721752d9",
+        "https://ethplorer.io/address/0x3d6f0dea3ac3c607b3998e6ce14b6350721752d9"
+    ],
+    "twitter": "CardStarter",
+    "telegram": "Cardstarter"
+}

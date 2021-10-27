@@ -1,0 +1,19 @@
+{
+    "id": "futurescoin",
+    "symbol": "fc",
+    "name": "FuturesCoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FuturesCoin platform is presented in two components, a web-version and a mobile application, operating concurrently. The main task in the development of both components of the platform is to provide users with a simple and intuitive way of dealing with cryptocurrencies without investing in the cryptocurrencies themselves. By the time of writing this description (April 2018), a feature to accept \u201cbets\u201d on either devaluation or rise in the cryptocurrency exchange rate using the mobile application has been implemented, which represents an analogue of CFD in the derivatives market."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://futurescoin.io",
+    "explorers": [],
+    "twitter": "FuturesCoin",
+    "facebook": "FuturesCoin.io",
+    "telegram": "Futures_Coin",
+    "github_org": "FuturesCoin"
+}

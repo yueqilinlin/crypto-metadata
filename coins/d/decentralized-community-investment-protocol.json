@@ -1,0 +1,23 @@
+{
+    "id": "decentralized-community-investment-protocol",
+    "symbol": "dcip",
+    "name": "Decentralized Community Investment Protocol",
+    "platforms": {
+        "binance-smart-chain": "0x308fc5cdd559be5cb62b08a26a4699bbef4a888f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DCIP is the first, fully community led investment platform. The token holders fully decide the investments and the sell offs. Rewards will be distributed in BNB or BUSD. Losses are fully tied to the fund itself and won't be reflected on the tokenholders "
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x308fc5cdd559be5cb62b08a26a4699bbef4a888f",
+    "url": "https://dcip.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x308fc5cdd559be5cb62b08a26a4699bbef4a888f"
+    ],
+    "twitter": "dcip_finance",
+    "telegram": "DCIPfinance",
+    "github_org": "DCIP-Finance"
+}

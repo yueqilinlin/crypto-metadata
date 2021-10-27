@@ -1,0 +1,23 @@
+{
+    "id": "token-play",
+    "symbol": "tp3",
+    "name": "Token Play",
+    "platforms": {
+        "ethereum": "0x9f76ff3336597feab30f5a66a053ae4a4a7ebe13"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Token Play is the new generation of payment system with its own marketplace called \"\"barrybarries\"\". It allows people to easily buy and sell their products on the platform without any worriying. The platform has it's escrew system to protect both the seller and the buyer. Token Play uses proof of delivery system.\r\nBarrybarries application is availabe both for iOS and Android. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9f76ff3336597feab30f5a66a053ae4a4a7ebe13",
+    "url": "http://tokenplay.co.kr/",
+    "explorers": [
+        "https://etherscan.io/token/0x9F76Ff3336597FeAB30f5A66a053ae4A4a7eBe13",
+        "https://ethplorer.io/address/0x9F76Ff3336597FeAB30f5A66a053ae4A4a7eBe13"
+    ],
+    "twitter": "tokenplay3",
+    "telegram": "TP3Pay"
+}

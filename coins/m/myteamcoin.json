@@ -1,0 +1,25 @@
+{
+    "id": "myteamcoin",
+    "symbol": "myc",
+    "name": "Myteamcoin",
+    "platforms": {
+        "ethereum": "0xb8323cfafb0e6cc60ce332f1181d56e91ba0d8ba",
+        "binance-smart-chain": "0x6180d382913e0585062336e5fd5e85cec5ac6c78"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "(MYC) Myteamcoin Project is a digital ecosystem that provides the advantages of new generation technologies to the world of sports and esports with its (DLT) based products."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0xb8323cfafb0e6cc60ce332f1181d56e91ba0d8ba",
+    "url": "https://myteamcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xb8323CfAFb0E6CC60ce332f1181D56e91BA0D8BA",
+        "https://ethplorer.io/address/0xb8323CfAFb0E6CC60ce332f1181D56e91BA0D8BA"
+    ],
+    "twitter": "myteamchain",
+    "facebook": "myteamcoinreal",
+    "telegram": "myteamcoin"
+}

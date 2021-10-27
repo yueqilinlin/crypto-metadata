@@ -1,0 +1,23 @@
+{
+    "id": "answer-governance",
+    "symbol": "agov",
+    "name": "Answer Governance",
+    "platforms": {
+        "klay-token": "0x588c62ed9aa7367d7cd9c2a9aaac77e44fe8221b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AGOV is an investment platform that allows anyone to easily invest and trade by tokenizing real food assets based on blockchain with DeFi tokens mined through AGOV Finance. Food asset markets such as wine and whiskey can reliably generate high returns, but due to the structure of the market, private participation was almost impossible as investments were only possible with large funds. ANSWER Governance platform tokenizes these assets on a blockchain basis, providing individuals with opportunities to participate and trade in food material investments. Assets are transparently managed based on tokens, and now any participant of the ANSWER Governance platform can earn high returns by investing in small amounts in tokenized assets. In addition, AGOV is an official partner of Klaytn, and can supply liquidity in the AGOV-KLAY and AGOV-HINT pairs on Klay Swap, and through AGOV Finance, you can mine ERC-20 and then swap to Klaytn."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x588c62ed9aa7367d7cd9c2a9aaac77e44fe8221b",
+    "url": "https://agov.finance/",
+    "explorers": [
+        "https://scope.klaytn.com/token/0x588c62ed9aa7367d7cd9c2a9aaac77e44fe8221b?tabId=tokenTransfer"
+    ],
+    "twitter": "agov_finance",
+    "telegram": "ANSWER_GOVERNANCE",
+    "github_org": "answerswap"
+}

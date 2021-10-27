@@ -1,0 +1,27 @@
+{
+    "id": "bamboo-defi",
+    "symbol": "bamboo",
+    "name": "BambooDeFi",
+    "platforms": {
+        "ethereum": "0xf56842af3b56fd72d17cb103f92d027bba912e89",
+        "binance-smart-chain": "0x198abb2d13faa2e52e577d59209b5c23c20cd6b3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BambooDefi is a decentralized exchange used to trade, store and \"grow\" cryptocurrencies. It offers YieldFarming, Staking, Voting system, Liquidity pools, Raindrops, and regular Bamboo tokens burnings. All liquidity (LP) providers are rewarded even after withdrawing liquidity! "
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0xf56842af3b56fd72d17cb103f92d027bba912e89",
+    "url": "https://www.bamboodefi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xf56842Af3B56Fd72d17cB103f92d027bBa912e89",
+        "https://ethplorer.io/address/0xf56842Af3B56Fd72d17cB103f92d027bBa912e89",
+        "https://bscscan.com/token/0x198abb2d13faa2e52e577d59209b5c23c20cd6b3"
+    ],
+    "twitter": "bamboodefi",
+    "telegram": "BambooDeFi",
+    "reddit": "bambooDeFi",
+    "github_org": "bamboo-defi"
+}

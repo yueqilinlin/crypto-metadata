@@ -1,0 +1,28 @@
+{
+    "id": "eos",
+    "symbol": "eos",
+    "name": "EOS",
+    "platforms": {
+        "eos": ""
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "What Is EOS?\r\nEOS has always been one of the most hype over ICO and now a smart contract platform. When it was announced by founder <a href=\"https://www.linkedin.com/in/daniel-larimer-0a367089/\">Dan Larimer</a> in New York City in May 2017, a giant jumbotron advertisement could be seen glowing over Times Square. In the first 5 days of their <a href=\"https://www.coingecko.com/en/ico/eos\">ICO token sale</a>, EOS raised an unprecedented $185 million in ETH \u2014 all without having any kind of product or service yet.\r\n\r\nEOS claims to be \u201cthe most powerful infrastructure for decentralized applications.\u201d Basically, EOS is (or, rather, will be) a blockchain technology much like <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>. They plan to create their own blockchain with a long list of impressive features. Some are even calling EOS the \u201cEthereum killer.\u201d But along with all the hype and excitement about EOS, there\u2019s also a large amount of skepticism coming from the crypto community.\r\n\r\nThe EOS Vision\r\nEOS has big plans. It will be a software that will act as a decentralized operating system. Developers can then build applications on the EOS software. It will be highly scalable, flexible, and usable. The most notable feature that everyone is getting excited about is horizontal scalability \u2014 what this means is the EOS blockchain will be able to allow parallel execution of smart contracts and simultaneous processing of transactions. This could be a real game changer.\r\n\r\nEOS will incorporate the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake\">delegated proof-of-stake (DPoS)</a> consensus protocol, created by founder Dan Larimer himself. This system is less centralized, uses far less energy, and is incredibly fast \u2014 as in, up to millions-of-transactions-per-second fast. Furthermore, there will be no user fees on the EOS blockchain. This would also set them apart from the competition and could help them gain more widespread adoption of their platform.\r\n\r\nEOS also wants to put a blockchain constitution in place to secure user rights and enable dispute resolution. As explained in their technical whitepaper: \"The EOS.IO software is designed from experience with proven concepts and best practices, and represents fundamental advancements in blockchain technology. The software is part of a holistic blueprint for a globally scalable blockchain society in which decentralized applications can be easily deployed and governed.\"\r\n\r\nTokens that are issued on top of the EOS platform includes <a href=\"https://www.coingecko.com/en/coins/everipedia\">Everipedia</a>, <a href=\"https://www.coingecko.com/en/coins/horuspay\">HorusPay</a>, <a href=\"https://www.coingecko.com/admin/coins/meetone\">Meet One</a>, and more."
+    },
+    "country_origin": "US",
+    "genesis_date": "2017-07-01",
+    "url": "https://eos.io/",
+    "explorers": [
+        "https://bloks.io/",
+        "https://eospark.com/",
+        "https://eosflare.io/",
+        "https://eosauthority.com/"
+    ],
+    "twitter": "block_one_",
+    "facebook": "eosblockchain",
+    "reddit": "eos",
+    "github_org": "EOSIO"
+}

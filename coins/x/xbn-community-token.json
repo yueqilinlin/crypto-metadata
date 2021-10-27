@@ -1,0 +1,23 @@
+{
+    "id": "xbn-community-token",
+    "symbol": "xbc",
+    "name": "XBN Community Token",
+    "platforms": {
+        "binance-smart-chain": "0x0321394309cad7e0e424650844c3ab3b659315d3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XBC is a community driven, fair launched DeFi project built on Binance Smart Chain #BSC. Three functions occur during each trade: Reflection, LP Acquisition, & Burn.\r\n\r\nXBC brings the most revolutionary mechanism to BSC ecosystem: Earn $BNB just by holding $XBC token."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x0321394309cad7e0e424650844c3ab3b659315d3",
+    "url": "https://xbc.xbn.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x0321394309CaD7E0E424650844c3AB3b659315d3"
+    ],
+    "twitter": "elasticbitcoin",
+    "telegram": "XBXforeveryone",
+    "github_org": "ElasticBTC-XBT"
+}

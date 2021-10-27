@@ -1,0 +1,31 @@
+{
+    "id": "kleros",
+    "symbol": "pnk",
+    "name": "Kleros",
+    "platforms": {
+        "ethereum": "0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Prediction Markets",
+        "Polygon Ecosystem",
+        "xDAI Ecosystem"
+    ],
+    "description": {
+        "en": "Kleros is a blockchain Dispute Resolution Layer that provides fast, secure and affordable arbitration for virtually everything.\r\n\r\nKleros uses blockchain and crowdsourced specialists to adjudicate disputes in a fast, secure and affordable way. Kleros connects users who need to solve disputes with jurors who have the right skills to solve them. Crowdsourcing taps into a global pool of jurors. Blockchain technology guarantees evidence integrity, transparency in jury selection and incentives for honest rulings"
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d",
+    "url": "https://kleros.io",
+    "explorers": [
+        "https://etherscan.io/token/0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d",
+        "https://ethplorer.io/search/0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d",
+        "https://ethplorer.io/address/0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d"
+    ],
+    "twitter": "kleros_io",
+    "facebook": "kleros.io",
+    "telegram": "kleros",
+    "reddit": "Kleros/",
+    "github_org": "kleros"
+}

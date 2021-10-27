@@ -1,0 +1,23 @@
+{
+    "id": "investel",
+    "symbol": "investel",
+    "name": "Investel",
+    "platforms": {
+        "binance-smart-chain": "0xb3ceb24a344fc90289f0255169c3ef65e643f137"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "INVESTELLY comes with a proposal that unifies various financial services in a decentralized way, providing the parties (Clients, Analysts and Holders) with payment of rewards and fees. \r\n\r\nINVESTELLY also uses Bep-20 smart contract technology to solve problems with payment systems and run its decentralized social network.\r\n\r\nPlatform users can buy and sell content on our social network using INVESTELLY"
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0xb3ceb24a344fc90289f0255169c3ef65e643f137",
+    "url": "https://investelly.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xb3ceb24a344fc90289f0255169c3ef65e643f137"
+    ],
+    "twitter": "investelly",
+    "telegram": "InvestellyCommunityGlobal",
+    "github_org": "investelly"
+}

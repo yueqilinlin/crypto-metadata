@@ -1,0 +1,20 @@
+{
+    "id": "ixcoin",
+    "symbol": "ixc",
+    "name": "Ixcoin",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": "iXcoin is one of the first Bitcoin clone created on 7 May 2011 just a few weeks after <a href=\"http://www.coingecko.com/coins/namecoin\">Namecoin</a>. iXcoin will reach maturity about 18 years before Bitcoin. By\r\nmid-2013, the number of iXcoin and Bitcoin will reach parity for a brief moment. iXcoin switched to merged mining with Bitcoin in 2012 and this helped increase the total hashrate of both currencies and make it more secure to 51% attack. Merged mining allows Bitcoin miners to mine multiple coins at the same time."
+    },
+    "country_origin": "",
+    "genesis_date": "2011-05-07",
+    "url": "http://www.ixcoin.co/",
+    "explorers": [
+        "http://darkgamex.ch:2751/chain/IXCoin"
+    ],
+    "twitter": "Ixcoin",
+    "reddit": "ixcoin/",
+    "github_org": "ixcoin"
+}

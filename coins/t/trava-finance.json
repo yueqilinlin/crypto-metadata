@@ -1,0 +1,28 @@
+{
+    "id": "trava-finance",
+    "symbol": "trava",
+    "name": "Trava Finance",
+    "platforms": {
+        "binance-smart-chain": "0x0391be54e72f7e001f6bbc331777710b4f2999ef",
+        "fantom": "0x477a9d5df9beda06f6b021136a2efe7be242fcc9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "TRAVA is the world\u2019s first decentralized marketplace for cross-chain lending. While existing approaches provide only one or a few lending pools with their  own parameters such as borrow/supply interest rate, liquidation threshold, Loan-to-Value ratio, or a limited list of exchangeable cryptocurrencies, TRAVA offers a  flexible mechanism in which users can create and manage their own lending pools to start a lending business. TRAVA also offers the credit score function based on  financial data on-chain analysis as a useful tool that reduces risk and increases profits for all users. "
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0x0391be54e72f7e001f6bbc331777710b4f2999ef",
+    "url": "https://trava.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x0391bE54E72F7e001f6BBc331777710b4f2999Ef"
+    ],
+    "twitter": "trava_finance",
+    "telegram": "trava_finance",
+    "reddit": "TravaFinance/",
+    "github_org": "TravaFinance"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "songcoin",
+    "symbol": "song",
+    "name": "SongCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Song coin is the new application specific Altcoin bringing some exciting innovative investment products to the Music industry. In the meantime please feel free to download the Wallet and start mining your own Songcoins. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://www.songcoin.org/",
+    "explorers": [
+        "https://prohashing.com/explorer/Songcoin/"
+    ],
+    "twitter": "Songcoin_SONG",
+    "facebook": "songcoin.org",
+    "github_org": "Songcoin"
+}

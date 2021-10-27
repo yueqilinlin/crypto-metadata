@@ -1,0 +1,25 @@
+{
+    "id": "rally-2",
+    "symbol": "rly",
+    "name": "Rally",
+    "platforms": {
+        "ethereum": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming",
+        "Social Money"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
+    "url": "https://rally.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
+        "https://ethplorer.io/address/0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b"
+    ],
+    "twitter": "rally_io"
+}

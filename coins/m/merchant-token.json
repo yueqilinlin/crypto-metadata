@@ -1,0 +1,25 @@
+{
+    "id": "merchant-token",
+    "symbol": "mto",
+    "name": "Merchant Token",
+    "platforms": {
+        "ethereum": "0xe66b3aa360bb78468c00bebe163630269db3324f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The token that supports the MTO DeFi Payment Protocol that enables point-of-sale terminals to operate on blockchains and brings consumer protection to crypto payments."
+    },
+    "country_origin": "SE",
+    "genesis_date": null,
+    "contract_address": "0xe66b3aa360bb78468c00bebe163630269db3324f",
+    "url": "https://merchanttoken.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xe66b3aa360bb78468c00bebe163630269db3324f",
+        "https://ethplorer.io/address/0xe66b3aa360bb78468c00bebe163630269db3324f"
+    ],
+    "twitter": "merchant_token",
+    "telegram": "merchant_token_ico",
+    "reddit": "MerchantToken/",
+    "github_org": "hipspay"
+}

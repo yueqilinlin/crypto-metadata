@@ -1,0 +1,21 @@
+{
+    "id": "limitless-vip",
+    "symbol": "vip",
+    "name": "Limitless VIP",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Limitless - VIP proudly leverages a PIVX source code base to combine a mixture of Masternode and Proof of stake governance without the need for proof of work miners. Not only does this make TittieCoin much more environmentally friendly than its proof of work cousins, it also means that TittieCoin has jumped the transition curve in relation to user and transaction security. TittieCoin is an independent currency, meaning it is not governed by the same structure as Ethereum ERC20 tokens that suffer at the mercy of the ETH price or the misfortune of smart contract misconfiguration or hackers of linked tokens dumping the price."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://tittiecoin.com/",
+    "explorers": [
+        "https://explorer.limitlessvip.co.za/"
+    ],
+    "twitter": "LimitlessVIP_",
+    "facebook": "limitlessvip.co.za",
+    "telegram": "Limitless_vip_official",
+    "github_org": "Limitless-VIP"
+}

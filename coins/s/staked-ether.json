@@ -1,0 +1,28 @@
+{
+    "id": "staked-ether",
+    "symbol": "steth",
+    "name": "Lido Staked Ether",
+    "platforms": {
+        "ethereum": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Eth 2.0 Staking",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Lido Staked Ether (stETH) is a token that represents your staked ether in Lido, combining the value of initial deposit and staking rewards. stETH tokens are minted upon deposit and burned when redeemed. stETH token balances are pegged 1:1 to the ethers that are staked by Lido and the token\u2019s balances are updated daily to reflect earnings and rewards. stETH tokens can be used as one would use ether, allowing you to earn ETH 2.0 staking rewards whilst benefiting from e.g. yields across decentralised finance products."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "url": "https://www.lido.fi",
+    "explorers": [
+        "https://etherscan.io/token/0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+        "https://ethplorer.io/address/0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
+    ],
+    "twitter": "lidofinance",
+    "telegram": "lidofinance",
+    "reddit": "lidofinance/",
+    "github_org": "lidofinance"
+}

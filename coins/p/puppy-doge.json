@@ -1,0 +1,22 @@
+{
+    "id": "puppy-doge",
+    "symbol": "puppy",
+    "name": "Puppy Doge",
+    "platforms": {
+        "binance-smart-chain": "0x19983df692be8fa81c60fd27d6fc91e8928fa97a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Puppy Doge is a reflections-driven token on Binance Smart Chain. Every transaction on the Puppy Doge network is taxed, with 15% of the value being converted in BNB and then distributed out to holders proportional to the amount of PUPPY they own.\r\n\r\nPuppy Doge is designed to be an accessible way for users to store their funds and earn dividends without having to manually make complex decisions. In many ways, this is similar to mining and staking a token, but it is all handled automatically through Puppy Doge's smart contract so that the average user can access these functions with more ease.\r\n\r\nPuppy Doge also features a built-in \"\"Earnings Manager\"\" which allows users to track how much BNB they have earned from holding Puppy Doge, as well as statistics to help users understand potential future earnings."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x19983df692be8fa81c60fd27d6fc91e8928fa97a",
+    "url": "https://www.puppydoge.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x19983df692be8fa81c60fd27d6fc91e8928fa97a"
+    ],
+    "twitter": "PuppyDoge_BSC",
+    "telegram": "PuppyDogeFinance"
+}

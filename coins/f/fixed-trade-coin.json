@@ -1,0 +1,21 @@
+{
+    "id": "fixed-trade-coin",
+    "symbol": "fxtc",
+    "name": "Fixed Trade Coin",
+    "platforms": {},
+    "hashing_algorithm": "Multiple Algorithms",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "SK",
+    "genesis_date": null,
+    "url": "https://fixedtradecoin.org/",
+    "explorers": [
+        "http://explorer.fixedtradecoin.org/"
+    ],
+    "twitter": "FxTCoin",
+    "github_org": "fxtc"
+}

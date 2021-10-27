@@ -1,0 +1,23 @@
+{
+    "id": "admonkey",
+    "symbol": "admonkey",
+    "name": "AdMonkey",
+    "platforms": {
+        "binance-smart-chain": "0x9eeb03bbdef40980e16e6f4332f486d991d11b84"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AdMonkey is a cutting edge, intuitive crypto ad serving platform backed by a BSC token, yielding rewards for holders from the platforms revenue. New and existing projects can launch CPC ad campaigns on the platform, with up to 14% of revenue being put back to the BSC contract, where it is used for BNB rewards for holders."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x9eeb03bbdef40980e16e6f4332f486d991d11b84",
+    "url": "https://admonkey.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x9eeb03bbdef40980e16e6f4332f486d991d11b84"
+    ],
+    "twitter": "admonkeytoken",
+    "telegram": "admonkeytoken",
+    "reddit": "admonkey"
+}

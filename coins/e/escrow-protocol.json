@@ -1,0 +1,22 @@
+{
+    "id": "escrow-protocol",
+    "symbol": "escrow",
+    "name": "Escrow Protocol",
+    "platforms": {
+        "polygon-pos": "0xcf6baa0ede177f446da2aa111a594e6fcee89669"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Escrow Protocol is a decentralized web3 accelerator and crowdfunding platform which gives investors extended control over their invested funds. Funding is released based on the projects\u2019 successful completion of Milestones. In addition, Escrow held funds are allocated to Yield-Farming protocols, maximizing value appreciation through interest gains while waiting for pay-out on future funding targets. \r\n\r\nA DAO trust fund that combines traditional crowdfunding with Blockchain technology and easy-to-engage, self-executing smart contracts. Start-up projects looking for funding will be able to set Roadmap Milestones and Timelines according to their actual capacity and realistic performance targets.\r\n\r\nEscrow Protocol\u2019s incremental funding system allows for ICO funding to be managed post-raise with milestone-based micropayments and unprecedented investor oversight."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcf6baa0ede177f446da2aa111a594e6fcee89669",
+    "url": "https://escrowprotocol.app/",
+    "explorers": [
+        "https://polygonscan.com/token/0xcf6baa0ede177f446da2aa111a594e6fcee89669"
+    ],
+    "twitter": "escrowProtocol",
+    "telegram": "Escrow_Protocol_Chat"
+}

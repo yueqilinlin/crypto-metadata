@@ -1,0 +1,26 @@
+{
+    "id": "aave-enj",
+    "symbol": "aenj",
+    "name": "Aave ENJ",
+    "platforms": {
+        "ethereum": "0xac6df26a590f08dcc95d5a4705ae8abbc88509ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Aave ENJ is an interest bearing token minted upon deposit and burned when redeemed. The aENJ is pegged 1:1 to the value of the underlying ENJ that is deposited in Aave protocol. aENJ, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aENJ accrue interest in real time, directly in your wallet!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xac6df26a590f08dcc95d5a4705ae8abbc88509ef",
+    "url": "https://aave.com/atokens",
+    "explorers": [
+        "https://etherscan.io/token/0xac6df26a590f08dcc95d5a4705ae8abbc88509ef",
+        "https://ethplorer.io/address/0xac6df26a590f08dcc95d5a4705ae8abbc88509ef"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome"
+}

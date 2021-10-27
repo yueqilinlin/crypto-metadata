@@ -1,0 +1,23 @@
+{
+    "id": "passive-income-bot",
+    "symbol": "pib",
+    "name": "Passive Income Bot",
+    "platforms": {
+        "ethereum": "0x1baffbc23f2246040cce12f7a140c38c5dc73e46"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Automated trading bot, that utilizes precise trading algorithm along with AI and market sentiment, to conduct trades automatically and yield high percentage returns."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1baffbc23f2246040cce12f7a140c38c5dc73e46",
+    "url": "https://pib.tools/",
+    "explorers": [
+        "https://etherscan.io/token/0x1baffbc23f2246040cce12f7a140c38c5dc73e46",
+        "https://ethplorer.io/address/0x1baffbc23f2246040cce12f7a140c38c5dc73e46"
+    ],
+    "twitter": "pi_bot1",
+    "telegram": "pibtools"
+}

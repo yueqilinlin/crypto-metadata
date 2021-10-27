@@ -1,0 +1,26 @@
+{
+    "id": "fx-coin",
+    "symbol": "fx",
+    "name": "Function X",
+    "platforms": {
+        "ethereum": "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "The f(x) ecosystem is fully decentralized. It\u2019s designed and built to run autonomously in perpetuity without the reliance or supervision of any individual or organization. To support this autonomous structure, f(x) Coin which is the underlying \u2018currency\u2019 within the f(x) ecosystem has to be decentralized in terms of its distribution, allocation, control, circulation and the way it\u2019s being generated.\r\n\r\n"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057",
+    "url": "https://functionx.io/#/",
+    "explorers": [
+        "https://explorer.functionx.io/",
+        "https://etherscan.io/token/0x8c15ef5b4b21951d50e53e4fbda8298ffad25057",
+        "https://ethplorer.io/address/0x8c15ef5b4b21951d50e53e4fbda8298ffad25057"
+    ],
+    "twitter": "functionx_io",
+    "facebook": "functionx.io",
+    "telegram": "functionx",
+    "github_org": "functionx"
+}

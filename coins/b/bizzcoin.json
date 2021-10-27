@@ -1,0 +1,22 @@
+{
+    "id": "bizzcoin",
+    "symbol": "bizz",
+    "name": "BIZZCOIN",
+    "platforms": {
+        "ethereum": "0x7a8ca2f815a260660158a38c34ca321a3605ecfe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BizzCoin will serve as a global currency, which will be acceptable on all BizzCoin platforms, and it will empower people to use a single currency for diverse payments as well as trading."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7a8ca2f815a260660158a38c34ca321a3605ecfe",
+    "url": "https://bizzcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7a8ca2f815a260660158a38c34ca321a3605ecfe",
+        "https://ethplorer.io/address/0x7a8ca2f815a260660158a38c34ca321a3605ecfe"
+    ],
+    "facebook": "BizzCoinOfficial"
+}

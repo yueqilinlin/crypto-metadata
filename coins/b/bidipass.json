@@ -1,0 +1,26 @@
+{
+    "id": "bidipass",
+    "symbol": "bdp",
+    "name": "BidiPass",
+    "platforms": {
+        "ethereum": "0x593114f03a0a575aece9ed675e52ed68d2172b8c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "BidiKey is a new digital identity authentication platform that is secure, accessible and inexpensive to implement and use. It is applicable to authenticate people and it uses the smartphone as a personal security token. \r\nThe cryptography that Bidipass applies solves all the problems associated to the authentication of people, identity theft, digital theft and validation of operations as it is a highly secure environment that has the same legal validity as a digital signature."
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0x593114f03a0a575aece9ed675e52ed68d2172b8c",
+    "url": "https://bidipass.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x593114f03a0a575aece9ed675e52ed68d2172b8c",
+        "https://ethplorer.io/address/0x593114f03a0a575aece9ed675e52ed68d2172b8c"
+    ],
+    "twitter": "bidipass",
+    "facebook": "bidipass",
+    "github_org": "BidiPassCompany"
+}

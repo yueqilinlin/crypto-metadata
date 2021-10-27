@@ -1,0 +1,23 @@
+{
+    "id": "bolt-true-dollar",
+    "symbol": "btd",
+    "name": "Bolt Dollar",
+    "platforms": {
+        "binance-smart-chain": "0xd1102332a213e21faf78b69c03572031f3552c33",
+        "fantom": "0x4792c1ecb969b036eb51330c63bd27899a13d84e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The superior algorithmic stablecoin on Binance Smart Chain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd1102332a213e21faf78b69c03572031f3552c33",
+    "url": "https://boltdollar.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xd1102332a213e21faf78b69c03572031f3552c33"
+    ],
+    "twitter": "bolt_dollar",
+    "telegram": "boltdollar"
+}

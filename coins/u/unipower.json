@@ -1,0 +1,25 @@
+{
+    "id": "unipower",
+    "symbol": "power",
+    "name": "UniPower",
+    "platforms": {
+        "ethereum": "0xf2f9a7e93f845b3ce154efbeb64fb9346fcce509",
+        "polygon-pos": "0x00d5149cdf7cec8725bf50073c51c4fa58ecca12"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "UniPower, a complete liquidity-based DeFi token, where 100% of the entire supply was sent to Uniswap DEX. No more tokens can ever be minted, and so is now solely powered by Uniswap."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf2f9a7e93f845b3ce154efbeb64fb9346fcce509",
+    "url": "https://unipower.network",
+    "explorers": [
+        "https://etherscan.io/token/0xF2f9A7e93f845b3ce154EfbeB64fB9346FCCE509",
+        "https://ethplorer.io/address/0xF2f9A7e93f845b3ce154EfbeB64fB9346FCCE509",
+        "https://polygonscan.com/token/0x00d5149cdf7cec8725bf50073c51c4fa58ecca12"
+    ],
+    "twitter": "unipowertoken",
+    "telegram": "unipower"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "peach",
+    "symbol": "peach",
+    "name": "Peach",
+    "platforms": {
+        "binance-smart-chain": "0x5ced26185f82b07e1516d0b013c54ccbd252a4ad"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Peaches is a marketplace for NSFW NFTs on Binance with a provision to wrap and unwrap your ERC721 NFTs over to Binance Smart Chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5ced26185f82b07e1516d0b013c54ccbd252a4ad",
+    "url": "https://peaches.art/",
+    "explorers": [
+        "https://bscscan.com/token/0x5ced26185f82b07e1516d0b013c54ccbd252a4ad"
+    ],
+    "twitter": "peachesnft",
+    "telegram": "PeachesNFTs"
+}

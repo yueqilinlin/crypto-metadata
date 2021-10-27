@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-leo-token",
+    "symbol": "leobull",
+    "name": "3X Long LEO Token",
+    "platforms": {
+        "ethereum": "0xc2685307ef2b8842fbf3def432408c46bd0420fd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long LEO Token (LEOBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of LEO."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc2685307ef2b8842fbf3def432408c46bd0420fd",
+    "url": "https://ftx.com/tokens/LEOBULL",
+    "explorers": [
+        "https://etherscan.io/token/0xc2685307ef2b8842fbf3def432408c46bd0420fd",
+        "https://ethplorer.io/address/0xc2685307ef2b8842fbf3def432408c46bd0420fd"
+    ]
+}

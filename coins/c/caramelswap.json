@@ -1,0 +1,22 @@
+{
+    "id": "caramelswap",
+    "symbol": "mel",
+    "name": "CaramelSwap",
+    "platforms": {
+        "binance-smart-chain": "0x7d5bc7796fd62a9a27421198fc3c349b96cdd9dc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hold $MEL to access the best pools. This new modality of Farm allows the biggest incentives to have bigger gains"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7d5bc7796fd62a9a27421198fc3c349b96cdd9dc",
+    "url": "https://caramelswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x7d5bc7796fd62a9a27421198fc3c349b96cdd9dc"
+    ],
+    "twitter": "caramel_finance",
+    "telegram": "CaramelFinance"
+}

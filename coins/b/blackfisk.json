@@ -1,0 +1,24 @@
+{
+    "id": "blackfisk",
+    "symbol": "blfi",
+    "name": "BlackFisk",
+    "platforms": {
+        "ethereum": "0x417ffdbc285dd2c4dc00937798ab901634137caa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BL\u00c4CKFISK is the first software to allow co-creating pools for front-run, arbitrage and flash loans."
+    },
+    "country_origin": "SE",
+    "genesis_date": null,
+    "contract_address": "0x417ffdbc285dd2c4dc00937798ab901634137caa",
+    "url": "https://blackfisk.ai/",
+    "explorers": [
+        "https://etherscan.io/token/0x417ffdbc285dd2c4dc00937798ab901634137caa",
+        "https://ethplorer.io/address/0x417ffdbc285dd2c4dc00937798ab901634137caa"
+    ],
+    "twitter": "blackfisk_ai",
+    "telegram": "blackfiskchat",
+    "github_org": "blackfisk-ai"
+}

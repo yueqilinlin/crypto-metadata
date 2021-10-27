@@ -1,0 +1,22 @@
+{
+    "id": "hempcoin-thc",
+    "symbol": "thc",
+    "name": "Hempcoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "HempCoin was among the first 30 currencies developed in 2014 and is a highly focused digital currency for the Agriculture/Farming Industry and Marijuana/Hemp Industry, built on the source of , its use includes the Marijuana dispensaries and the entire Agriculture/Farming trade business."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://hempcoin.org",
+    "explorers": [
+        "https://thc.explorer.dexstats.info/"
+    ],
+    "twitter": "thehempcoin",
+    "reddit": "thehempcoin",
+    "github_org": "hempcoin-project"
+}

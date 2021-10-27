@@ -1,0 +1,22 @@
+{
+    "id": "dkargo",
+    "symbol": "dka",
+    "name": "dKargo",
+    "platforms": {
+        "ethereum": "0x5dc60c4d5e75d22588fa17ffeb90a63e535efce0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "dKargo uses blockchain technology to solve trust issues among participants scattered in the logistics industry\r\nand establishing an efficient logistics network based on cooperation that was previously unimaginable."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5dc60c4d5e75d22588fa17ffeb90a63e535efce0",
+    "url": "https://dkargo.io/main_en.html",
+    "explorers": [
+        "https://etherscan.io/token/0x5dc60C4D5e75D22588FA17fFEB90A63E535efCE0",
+        "https://ethplorer.io/address/0x5dc60C4D5e75D22588FA17fFEB90A63E535efCE0"
+    ],
+    "telegram": "dKargo_Official_KR"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "waxe",
+    "symbol": "waxe",
+    "name": "WAXE",
+    "platforms": {
+        "ethereum": "0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd",
+    "url": "https://wax.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd",
+        "https://ethplorer.io/address/0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd"
+    ],
+    "twitter": "WAX_io",
+    "telegram": "wax_io",
+    "github_org": "worldwide-asset-exchange"
+}

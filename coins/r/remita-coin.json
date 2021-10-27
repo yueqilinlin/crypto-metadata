@@ -1,0 +1,20 @@
+{
+    "id": "remita-coin",
+    "symbol": "remit",
+    "name": "Remita Coin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "Remitacoin is a digital asset based on direct ledger technology (blockchain) that implements easy, seamless, instant, and secure borderless financial transactions for holiday makers to make vacation bookings using the Remitacoin branded preloaded debit card."
+    },
+    "country_origin": "LU",
+    "genesis_date": null,
+    "url": "https://remitacoin.com/",
+    "explorers": [
+        "https://explorer.remitacoin.com/"
+    ],
+    "twitter": "coinremita",
+    "telegram": "remitacoin",
+    "github_org": "Remitacoin"
+}

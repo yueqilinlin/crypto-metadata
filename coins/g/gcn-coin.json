@@ -1,0 +1,23 @@
+{
+    "id": "gcn-coin",
+    "symbol": "gcn",
+    "name": "GCN Coin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "IE",
+    "genesis_date": "2014-03-23",
+    "url": "https://gcn.zone/",
+    "explorers": [
+        "http://www.gcnchain.com/chain/GCoin",
+        "http://gcnblock.com"
+    ],
+    "twitter": "GCNcoin",
+    "facebook": "gcncoin",
+    "telegram": "GCNcoin",
+    "reddit": "GCNCoin/",
+    "github_org": "GregGeoghegan"
+}

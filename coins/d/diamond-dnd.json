@@ -1,0 +1,27 @@
+{
+    "id": "diamond-dnd",
+    "symbol": "dnd",
+    "name": "Diamond DND",
+    "platforms": {
+        "binance-smart-chain": "0x34ea3f7162e6f6ed16bd171267ec180fd5c848da"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x34ea3f7162e6f6ed16bd171267ec180fd5c848da",
+    "url": "https://diamonddnd.com/",
+    "explorers": [
+        "https://www.bscscan.com/token/0x34ea3f7162e6f6ed16bd171267ec180fd5c848da",
+        "https://bscscan.com/token/0x34ea3f7162e6f6ed16bd171267ec180fd5c848da"
+    ],
+    "twitter": "dnd_diamond",
+    "telegram": "diamonddnd",
+    "reddit": "DiamondDND/",
+    "github_org": "DiamondDND"
+}

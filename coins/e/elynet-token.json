@@ -1,0 +1,23 @@
+{
+    "id": "elynet-token",
+    "symbol": "elyx",
+    "name": "Elynet Token",
+    "platforms": {
+        "ethereum": "0x881a7e25d44591c467a37da96adf3c3705e7251b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ELYNET: the world\u2019s first SIM-less blockchain telecom network provider"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x881a7e25d44591c467a37da96adf3c3705e7251b",
+    "url": "http://elynet.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x881a7E25D44591C467a37Da96adf3c3705E7251b",
+        "https://ethplorer.io/address/0x881a7E25D44591C467a37Da96adf3c3705E7251b"
+    ],
+    "twitter": "elynetofficial",
+    "telegram": "elynetofficial_ko"
+}

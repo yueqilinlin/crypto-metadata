@@ -1,0 +1,25 @@
+{
+    "id": "yearn-finance-bit2",
+    "symbol": "yfb2",
+    "name": "Yearn Finance Bit2",
+    "platforms": {
+        "ethereum": "0x59e7b5db9be0bdd26fa048d39e01fee456ab674e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "Yearn Finance Bit2 (YFB2) is the YFBT governance token designed to maximize earnings within yfbit.finance. To maximize yields, staking (depositing) action is required. \r\n\r\nYFB2 Staking rewards: YFB2 governance token reward."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x59e7b5db9be0bdd26fa048d39e01fee456ab674e",
+    "url": "https://yfbit.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x59e7b5db9be0bdd26fa048d39e01fee456ab674e",
+        "https://ethplorer.io/address/0x59e7b5db9be0bdd26fa048d39e01fee456ab674e"
+    ],
+    "twitter": "yf_bit",
+    "telegram": "yearfinancebit"
+}

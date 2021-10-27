@@ -1,0 +1,25 @@
+{
+    "id": "dogecash",
+    "symbol": "dogec",
+    "name": "DogeCash",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Cryptocurrency",
+        "Masternodes"
+    ],
+    "description": {
+        "en": "DogeCash (DOGEC) is a transparent, community-governed cryptocurrency aimed at preserving what makes DogeCoin unique while offering an alternative way to get involved. This is done through the creation of DogeNodes, utilization of Proof of Stake, and active governance.\r\n\r\n\r\n"
+    },
+    "country_origin": "US",
+    "genesis_date": "2018-10-01",
+    "url": "https://dogecash.org/",
+    "explorers": [
+        "https://explorer.dogec.io/",
+        "https://chain.review/explorer/dogecash"
+    ],
+    "twitter": "dogecashcoin",
+    "facebook": "dogecashcoin",
+    "telegram": "dogecashcoin",
+    "github_org": "dogecash"
+}

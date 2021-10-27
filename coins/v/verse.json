@@ -1,0 +1,24 @@
+{
+    "id": "verse",
+    "symbol": "verse",
+    "name": "Verse",
+    "platforms": {
+        "ethereum": "0xe18841d7a75866688e291703bde66c3378bd74a3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Verse is the native utility and reward token of Aidicraft, Aidi Finance's proprietory NFT marketplace. Aidicraft allows users to create, mint, display , buy and Sell NFTs. \r\n\r\nVerse is designed to reward active platform users and incentivize active participation. 20% of VERSE\u2019s supply is allocated to support rewarding for AidiCraft platform users."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe18841d7a75866688e291703bde66c3378bd74a3",
+    "url": "https://www.aidiverse.com",
+    "explorers": [
+        "https://etherscan.io/token/0xe18841d7a75866688e291703bde66c3378bd74a3",
+        "https://ethplorer.io/address/0xe18841d7a75866688e291703bde66c3378bd74a3"
+    ],
+    "twitter": "AidiVerse",
+    "telegram": "versetoken",
+    "github_org": "AidiFinance"
+}

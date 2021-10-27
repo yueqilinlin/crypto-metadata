@@ -1,0 +1,22 @@
+{
+    "id": "harmonypad",
+    "symbol": "hpad",
+    "name": "HarmonyPad",
+    "platforms": {
+        "binance-smart-chain": "0x7009bd9a1369e74457cdac84191ca83f33e89217"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Deflationary Launchpad For Harmony"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7009bd9a1369e74457cdac84191ca83f33e89217",
+    "url": "https://www.harmonypad.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x7009bd9a1369e74457cdac84191ca83f33e89217"
+    ],
+    "twitter": "Harmony_Pad",
+    "telegram": "HarmonyPad"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dust-token",
+    "symbol": "dust",
+    "name": "DUST Token",
+    "platforms": {
+        "ethereum": "0xbca3c97837a39099ec3082df97e28ce91be14472"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "DUST is the official currency of the Mutant Universe. It can be earned by contributions to the Mutant cause and used for mining new mutants, as a payment method in NFT marketplaces or games."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xbca3c97837a39099ec3082df97e28ce91be14472",
+    "url": "https://dust-token.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xbca3c97837a39099ec3082df97e28ce91be14472",
+        "https://ethplorer.io/address/0xbca3c97837a39099ec3082df97e28ce91be14472"
+    ],
+    "twitter": "DustToken",
+    "github_org": "icinsight"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "hom-token",
+    "symbol": "homt",
+    "name": "HOM Token",
+    "platforms": {
+        "ethereum": "0xef7a985e4ff9b5dccd6eddf58577486887288711"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Real Estate"
+    ],
+    "description": {
+        "en": "HOMT aims to provide a centralized market place for Student\u2019s Rental Accommodation Industry, a one-stop solution using blockchain, AI, Big Data and Smart contracts thereby un leasing the unexplored potential of nearly 6.23 million students studying in USA, NA & Europe between 2020-2023 translating into 900 million Euro opportunity."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xef7a985e4ff9b5dccd6eddf58577486887288711",
+    "url": "https://homt.net/",
+    "explorers": [
+        "https://etherscan.io/token/0xeF7A985E4FF9B5DcCD6eDdF58577486887288711",
+        "https://ethplorer.io/address/0xeF7A985E4FF9B5DcCD6eDdF58577486887288711"
+    ],
+    "twitter": "homtoken",
+    "facebook": "homtoken",
+    "github_org": "HOMToken"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "bull-coin",
+    "symbol": "bull",
+    "name": "Bull Coin",
+    "platforms": {
+        "binance-smart-chain": "0xf483af09917ba63f1e274056978036d266eb56e6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "It is used to automatically provide liquidity on BSC, Ethereum, Polkadot, Tron and other public chains\r\n\r\nBull Finance protocol, a simple equation, provides convenient liquidity for tens of millions of users and hundreds of applications.\r\n\r\nBull Finance enables developers, liquidity providers and traders to participate in an open, fair and transparent financial market"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xf483af09917ba63f1e274056978036d266eb56e6",
+    "url": "https://bullcoin.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xf483af09917ba63f1e274056978036d266eb56e6"
+    ],
+    "twitter": "bullcoinfinance",
+    "telegram": "bull_official"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "shield-token-2",
+    "symbol": "shield",
+    "name": "ShieldToken",
+    "platforms": {
+        "binance-smart-chain": "0x6884ae24deb7e8fa80dc9d0d56c91d78a250e9b1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The SHIELD Token protocol is designed for Holders by putting aside 8% of each transaction and adding them to a BNB pool. Each holder can withdraw from the pool once a day according to his share of shield tokens*. Furthermore, 6% of each transaction goes into LP and 2% of each SHIELD transaction gets reflected to all holders. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6884ae24deb7e8fa80dc9d0d56c91d78a250e9b1",
+    "url": "https://shieldtoken.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x6884ae24deb7e8fa80dc9d0d56c91d78a250e9b1"
+    ],
+    "twitter": "shieldtokenhq",
+    "telegram": "shieldtoken_official",
+    "reddit": "Shieldtoken_official/"
+}

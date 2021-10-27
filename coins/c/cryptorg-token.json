@@ -1,0 +1,26 @@
+{
+    "id": "cryptorg-token",
+    "symbol": "ctg",
+    "name": "Cryptorg Token",
+    "platforms": {
+        "ethereum": "0xc760721eb65aa6b0a634df6a008887c48813ff63"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Automated Digital Currency Trading\r\n\r\nThe service is designed to automate trade on various cryptocurrency exchanges. User-friendly interface for creating and configuring trading bots. Service is available 24/7/365. Customize notifications via Telegram, group chat and many other buns."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0xc760721eb65aa6b0a634df6a008887c48813ff63",
+    "url": "https://cryptorg.net/",
+    "explorers": [
+        "https://etherscan.io/token/0xc760721eb65aa6b0a634df6a008887c48813ff63",
+        "https://ethplorer.io/address/0xc760721eb65aa6b0a634df6a008887c48813ff63"
+    ],
+    "twitter": "Cryptorg_trade",
+    "telegram": "cryptorg_rus",
+    "github_org": "cryptorg-io"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "liquid-lottery-rtc",
+    "symbol": "liqlo",
+    "name": "Liquid Lottery RTC",
+    "platforms": {
+        "ethereum": "0x59ad6061a0be82155e7acce9f0c37bf59f9c1e3c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LIQLO is the gem of the RTC ecosystem. RTC-ETH liquidity providers enter a lottery each day to potentially win 1 LIQLO + 1 RTC."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x59ad6061a0be82155e7acce9f0c37bf59f9c1e3c",
+    "url": "https://swapship.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x59AD6061A0be82155E7aCcE9F0C37Bf59F9c1e3C",
+        "https://ethplorer.io/address/0x59ad6061a0be82155e7acce9f0c37bf59f9c1e3c"
+    ],
+    "twitter": "verkavoss",
+    "telegram": "ReadThisContract"
+}

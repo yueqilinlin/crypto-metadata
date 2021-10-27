@@ -1,0 +1,26 @@
+{
+    "id": "usdq",
+    "symbol": "usdq",
+    "name": "USDQ",
+    "platforms": {
+        "ethereum": "0x4954db6391f4feb5468b6b943d4935353596aec9"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "USDQ is a decentralized stable coin, which is backed by bitcoin and pegged to the dollar, so 1 USDQ = $1 USD."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4954db6391f4feb5468b6b943d4935353596aec9",
+    "url": "https://usdq.platinum.fund/",
+    "explorers": [
+        "https://etherscan.io/token/0x4954db6391f4feb5468b6b943d4935353596aec9",
+        "https://ethplorer.io/address/0x4954db6391f4feb5468b6b943d4935353596aec9"
+    ],
+    "twitter": "platinumqdao",
+    "telegram": "platinumfund",
+    "github_org": "Platinumengineering"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "aeryus",
+    "symbol": "aer",
+    "name": "Aeryus",
+    "platforms": {
+        "ethereum": "0xac4d22e40bf0b8ef4750a99ed4e935b99a42685e"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Retail"
+    ],
+    "description": {
+        "en": "Aeryus is the first complete, non-fungible blockchain transactional network, for all digital currencies. A fully integrated ecosystem from easy-to-use smartphone app to merchant-friendly PoS terminals. Peer to peer, B2B, B2C and C2C. Aeryus. Discover. Disrupt. Decentralize."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xac4d22e40bf0b8ef4750a99ed4e935b99a42685e",
+    "url": "https://aeryus.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xac4d22e40bf0b8ef4750a99ed4e935b99a42685e",
+        "https://ethplorer.io/address/0xac4d22e40bf0b8ef4750a99ed4e935b99a42685e"
+    ],
+    "twitter": "Aeryus_one",
+    "facebook": "AeryusOne",
+    "telegram": "Aeryus1",
+    "github_org": "AeryusIO"
+}

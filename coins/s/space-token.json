@@ -1,0 +1,23 @@
+{
+    "id": "space-token",
+    "symbol": "space",
+    "name": "Space Token",
+    "platforms": {
+        "binance-smart-chain": "0xe486a69e432fdc29622bf00315f6b34c99b45e80"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeFi yield farming aggregator and optimizer"
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0xe486a69e432fdc29622bf00315f6b34c99b45e80",
+    "url": "https://aperocket.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xe486a69e432fdc29622bf00315f6b34c99b45e80"
+    ],
+    "twitter": "ApeRocketFi",
+    "telegram": "ApeRocket",
+    "github_org": "ApeRocket-Labs"
+}

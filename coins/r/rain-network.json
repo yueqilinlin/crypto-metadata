@@ -1,0 +1,26 @@
+{
+    "id": "rain-network",
+    "symbol": "rain",
+    "name": "RAIN Network",
+    "platforms": {
+        "ethereum": "0x61cdb66e56fad942a7b5ce3f419ffe9375e31075"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "RAIN Network is a Decentralized Autonomous Rewards Platform with built in Proof of Stake (PoS) functionality in its smart contract, charging a 1% tax on all transfers which is distributed proportionately to all stakers."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x61cdb66e56fad942a7b5ce3f419ffe9375e31075",
+    "url": "https://rainnetwork.online/",
+    "explorers": [
+        "https://etherscan.io/token/0x61cdb66e56fad942a7b5ce3f419ffe9375e31075",
+        "https://ethplorer.io/address/0x61cdb66e56fad942a7b5ce3f419ffe9375e31075"
+    ],
+    "twitter": "rainnetworketh",
+    "telegram": "rainnetworketh",
+    "github_org": "rainnetwork"
+}

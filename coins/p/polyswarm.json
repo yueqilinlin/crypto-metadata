@@ -1,0 +1,29 @@
+{
+    "id": "polyswarm",
+    "symbol": "nct",
+    "name": "PolySwarm",
+    "platforms": {
+        "ethereum": "0x9e46a38f5daabe8683e10793b06749eef7d733d1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services",
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x9e46a38f5daabe8683e10793b06749eef7d733d1",
+    "url": "https://polyswarm.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9e46a38f5daabe8683e10793b06749eef7d733d1",
+        "https://ethplorer.io/address/0x9e46a38f5daabe8683e10793b06749eef7d733d1"
+    ],
+    "twitter": "polyswarm",
+    "facebook": "PolySwarm",
+    "telegram": "polyswarm",
+    "reddit": "PolySwarm",
+    "github_org": "polyswarm"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "dfinance",
+    "symbol": "xfi",
+    "name": "Dfinance",
+    "platforms": {
+        "ethereum": "0xe4e822c0d5b329e8bb637972467d2e313824efa0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem"
+    ],
+    "description": {
+        "en": "Dfinance is described to be a layer-2, Cosmos based network that enables financial professionals to easily prototype their ideas into DeFi instruments using no-code tools. It is described that the Dfinance network is being developed by the Wings Foundation which also created the WINGS DAO."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0xe4e822c0d5b329e8bb637972467d2e313824efa0",
+    "url": "https://dfinance.co",
+    "explorers": [
+        "https://etherscan.io/token/0xe4e822c0d5b329e8bb637972467d2e313824efa0",
+        "https://ethplorer.io/address/0xe4e822c0d5b329e8bb637972467d2e313824efa0"
+    ],
+    "twitter": "dfinance_co",
+    "telegram": "dfinance_co",
+    "github_org": "dfinance"
+}

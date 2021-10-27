@@ -1,0 +1,24 @@
+{
+    "id": "bchain",
+    "symbol": "bchain",
+    "name": "bChain",
+    "platforms": {
+        "binance-smart-chain": "0x3e96f79a607d0d2199976c292f9cdf73991a3439"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index"
+    ],
+    "description": {
+        "en": "A hyper-focused index containing native assets of market-leading chains and high-cap protocols."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3e96f79a607d0d2199976c292f9cdf73991a3439",
+    "url": "https://bundledao.org/funds/bCHAIN",
+    "explorers": [
+        "https://bscscan.com/token/0x3e96f79a607d0d2199976c292f9cdf73991a3439"
+    ],
+    "twitter": "bundledao",
+    "github_org": "bundle-dao"
+}

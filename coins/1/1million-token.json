@@ -1,0 +1,30 @@
+{
+    "id": "1million-token",
+    "symbol": "1mt",
+    "name": "1Million Token",
+    "platforms": {
+        "ethereum": "0xf0bc1ae4ef7ffb126a8347d06ac6f8add770e1ce",
+        "binance-smart-chain": "0x8d67448d4f6231abc070a42a8905084b79e09136"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Gambling",
+        "Number"
+    ],
+    "description": {
+        "en": "1Milliontoken is an ERC-20 token that has a limited supply of 1 Million Tokens.\r\nIt can be used as a utility token to pay for advertising services and can be traded\r\non decentralized and centralized exchanges. Since May 2019, you can gamble\r\nwith it in slots, dice, and roulette on crypto/gambling websites."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0xf0bc1ae4ef7ffb126a8347d06ac6f8add770e1ce",
+    "url": "https://www.1milliontoken.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xf0bc1ae4ef7ffb126a8347d06ac6f8add770e1ce",
+        "https://ethplorer.io/address/0xf0bc1ae4ef7ffb126a8347d06ac6f8add770e1ce",
+        "https://bscscan.com/token/0x8d67448d4f6231abc070a42a8905084b79e09136"
+    ],
+    "twitter": "1MillionTokens",
+    "facebook": "1Million-Token-2178070185856826",
+    "telegram": "MillionToken",
+    "github_org": "1Milliontoken"
+}

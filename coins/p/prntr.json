@@ -1,0 +1,23 @@
+{
+    "id": "prntr",
+    "symbol": "prntr",
+    "name": "PRNTR",
+    "platforms": {
+        "binance-smart-chain": "0x016c8da9d916905a00ef26a2e7dc2ee67b6020cf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PRNTR is the share token of the paprprintr.finance protocol which offers first algorithmic stablecoin with an elastic supply and burn.\r\n\r\nIt's main purpose is to retribute PRNTR holders who will be staking in the printing room with the newly minted PAPR. More or less PAPR will be minted by the algorithm.\r\n\r\nThis token works alongside with 2 other tokens (PAPR/INK) that help regulating the total supply of PAPR by printing in consideration of the demand."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x016c8da9d916905a00ef26a2e7dc2ee67b6020cf",
+    "url": "https://paprprintr.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x016c8dA9D916905a00eF26a2e7dC2EE67B6020cF"
+    ],
+    "twitter": "paprprintr",
+    "telegram": "paprprintr",
+    "reddit": "PaprprintrFinance/"
+}

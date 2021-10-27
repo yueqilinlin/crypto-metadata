@@ -1,0 +1,29 @@
+{
+    "id": "changenow",
+    "symbol": "now",
+    "name": "ChangeNOW",
+    "platforms": {
+        "ethereum": "0xe9a95d175a5f4c9369f3b74222402eb1b837693b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "NOW is the native digital asset introduced by an exchange platform to serve as an internal currency on NOW products. At this moment, NOW is used as a means of payment for ChangeNOW\u2019s Asset Listing Campaign and the platform\u2019s own stakeable token.\r\n\r\nOn April 25, 2019, NOW got listed on IDEX and is now available for trading. On April 30th, 2019 NOW was listed on Binance DEX. On April 23, 2019, 50% of the NOW Token emission was burnt on the Ethereum Blockchain and released on the Binance Mainnet. ERC-20 NOW Tokens are available for exchanging to Binance Chain NOW Tokens free of charge on the ChangeNOW website. On September 30, 2020, NOW liquidity was added to Uniswap."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0xe9a95d175a5f4c9369f3b74222402eb1b837693b",
+    "url": "https://changenow.io/",
+    "explorers": [
+        "https://explorer.binance.org/asset/NOW-E68",
+        "https://etherscan.io/token/0xe9a95d175a5f4c9369f3b74222402eb1b837693b",
+        "https://ethplorer.io/address/0xe9a95d175a5f4c9369f3b74222402eb1b837693b"
+    ],
+    "twitter": "ChangeNOW_io",
+    "facebook": "ChangeNOW.io",
+    "telegram": "CNAnnouncements",
+    "reddit": "ChangeNOW_io/",
+    "github_org": "ChangeNow-io"
+}

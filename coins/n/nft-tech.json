@@ -1,0 +1,23 @@
+{
+    "id": "nft-tech",
+    "symbol": "nftt",
+    "name": "NFT Tech",
+    "platforms": {
+        "ethereum": "0x5fa2e9ba5757504b3d6e8f6da03cc40d4ce19499"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Create, collect, and trade digital collectibles alongside fellow NFT enthusiasts"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5fa2e9ba5757504b3d6e8f6da03cc40d4ce19499",
+    "url": "https://nft.tech/",
+    "explorers": [
+        "https://etherscan.io/token/0x5fA2E9Ba5757504B3d6e8f6da03cc40d4ce19499",
+        "https://ethplorer.io/address/0x5fa2e9ba5757504b3d6e8f6da03cc40d4ce19499"
+    ],
+    "twitter": "TechNFTT",
+    "telegram": "nfttech"
+}

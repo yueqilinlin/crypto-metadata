@@ -1,0 +1,22 @@
+{
+    "id": "blockchain-exchange-alliance",
+    "symbol": "bxa",
+    "name": "Blockchain Exchange Alliance",
+    "platforms": {
+        "ethereum": "0x98d8d146e644171cd47ff8588987b7bdeef72a87"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "As a technology-oriented digital financial institution, BXA places huge emphasis on regulatory compliance and plans to leverage our global network of cryptocurrency exchanges as a pivot. Our existing infrastructure, such as fiat-to-crypto currency gateways, intimate knowledge of financial regulations and massive userbase, enables BXA to break through the high technical threshold, create fiat-to-crypto trading platforms with deep liquidity and offer a wealth of digital financial services (such as cryptocurrency trading, real-time payment network, security token offering and circulation, and other financial derivatives). Our vision is to establish a smart economy with efficient value transfer."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x98d8d146e644171cd47ff8588987b7bdeef72a87",
+    "url": "https://www.bxa.com",
+    "explorers": [
+        "https://etherscan.io/token/0x98d8d146e644171cd47ff8588987b7bdeef72a87",
+        "https://ethplorer.io/address/0x98d8d146e644171cd47ff8588987b7bdeef72a87"
+    ],
+    "telegram": "bxaannouncements"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "earth-token",
+    "symbol": "earth",
+    "name": "Earth Token",
+    "platforms": {
+        "binance-smart-chain": "0x65b050dea610ec5b70c170d078c03937b01b9c76"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EARTH brings the best of frictionless deflationary yield protocols and combines them with instant, block-by-block rewards through staking and yield farming with the promise to offer the most competitive rewards (APYs) possible without token inflation since it has a fixed supply.\r\n3% transaction tax goes to holders, stakers and a development fund, which is used for spreading further awareness. Funds grows with every transaction, and provides us a simple way to create an ever increasing pool of funds that will go towards expanding the $EARTH brand.\r\nEARTH mechanics differ from most staking protocols with the reward pool that provides farming rewards with guaranteed token rewards on every single block whether an $EARTH transaction occurred on the current BSC block or not.\r\nEvery member in our community deserves a sustainable high yield!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x65b050dea610ec5b70c170d078c03937b01b9c76",
+    "url": "https://earthtoken.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x65b050dea610ec5b70c170d078c03937b01b9c76"
+    ],
+    "twitter": "theearthtoken",
+    "telegram": "earthtokennetwork"
+}

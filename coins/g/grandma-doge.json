@@ -1,0 +1,22 @@
+{
+    "id": "grandma-doge",
+    "symbol": "gdoge",
+    "name": "Grandma Doge",
+    "platforms": {
+        "binance-smart-chain": "0x624ef4e11a393b9843579db37b24322b64f83fb9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The founding mother of the Doge family is here!\r\nGrandma Doge loves giving back (auto buy-back) and will make sure every member of the family eats. "
+    },
+    "country_origin": "BE",
+    "genesis_date": null,
+    "contract_address": "0x624ef4e11a393b9843579db37b24322b64f83fb9",
+    "url": "https://grandmadoge.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x624eF4e11a393B9843579db37b24322b64F83fb9"
+    ],
+    "twitter": "gdogetoken",
+    "telegram": "grandmadogecoin"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "dctdao",
+    "symbol": "dctd",
+    "name": "DCTDAO",
+    "platforms": {
+        "ethereum": "0xb566e883555aebf5b1db211070b530ab00a4b18a",
+        "avalanche": "0x8db2dbdfb50480fe79f6576deaa4f6e68dcbfb15"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem"
+    ],
+    "description": {
+        "en": "Gas-less, Quantum Resistant DEX, with Para-chain tech based on Polkadot"
+    },
+    "country_origin": "MH",
+    "genesis_date": null,
+    "contract_address": "0xb566e883555aebf5b1db211070b530ab00a4b18a",
+    "url": "https://dctdao.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xb566e883555aebf5b1db211070b530ab00a4b18a",
+        "https://ethplorer.io/address/0xb566e883555aebf5b1db211070b530ab00a4b18a",
+        "https://cchain.explorer.avax.network/tokens/0x8Db2dBdFB50480FE79F6576deAA4f6E68DcBfb15/token-transfers"
+    ],
+    "twitter": "dctdao",
+    "telegram": "dctdao",
+    "github_org": "DCTDAO"
+}

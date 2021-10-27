@@ -1,0 +1,25 @@
+{
+    "id": "grafenocoin-2",
+    "symbol": "gfnc",
+    "name": "GrafenoCoin",
+    "platforms": {
+        "tron": "",
+        "binance-smart-chain": "0xa47d87704d8fde73a19eab2a2343947ae8537b02"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "GrafenoCoin, GFNC token, created to encourage research on Brazilian Graphene."
+    },
+    "country_origin": "BR",
+    "genesis_date": "2020-05-06",
+    "url": "https://grafenocoin.com",
+    "explorers": [
+        "https://tronscan.io/#/token/1002992"
+    ],
+    "twitter": "GrafenoCoin",
+    "telegram": "grafenogfnc",
+    "github_org": "elbernn"
+}

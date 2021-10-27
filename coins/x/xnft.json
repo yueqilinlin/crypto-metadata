@@ -1,0 +1,22 @@
+{
+    "id": "xnft",
+    "symbol": "xnft",
+    "name": "xNFT Protocol",
+    "platforms": {
+        "huobi-token": "0xe5944b50df84001a36c7de0d5cb4da7ab21407d2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Aggregator Protocol of NFT ecosystem, which is a decentralized, cross-chain network designed to create, mint & blind box exchange NFT. Build on a flexible NFT oracle computation & cross-chain communication framework that can also decentralize the way projects raise capital."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe5944b50df84001a36c7de0d5cb4da7ab21407d2",
+    "url": "https://xnft.net/",
+    "explorers": [
+        "https://hecoinfo.com/token/0xE5944B50DF84001a36c7DE0d5Cb4da7ab21407D2"
+    ],
+    "twitter": "xNFT_Protocol",
+    "telegram": "xNFT_Global"
+}

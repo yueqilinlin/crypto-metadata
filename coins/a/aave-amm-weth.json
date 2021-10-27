@@ -1,0 +1,24 @@
+{
+    "id": "aave-amm-weth",
+    "symbol": "aAmmWETH",
+    "name": "Aave AMM WETH",
+    "platforms": {
+        "ethereum": "0xf9fb4ad91812b704ba883b11d2b576e890a6730a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf9fb4ad91812b704ba883b11d2b576e890a6730a",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xf9Fb4AD91812b704Ba883B11d2B576E890a6730A",
+        "https://ethplorer.io/address/0xf9Fb4AD91812b704Ba883B11d2B576E890a6730A"
+    ],
+    "twitter": "aaveaave"
+}

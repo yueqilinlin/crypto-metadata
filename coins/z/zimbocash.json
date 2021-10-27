@@ -1,0 +1,22 @@
+{
+    "id": "zimbocash",
+    "symbol": "zash",
+    "name": "ZIMBOCASH",
+    "platforms": {
+        "tron": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ZIMBOCASH is a decentralised currency for Zimbabwe."
+    },
+    "country_origin": "ZW",
+    "genesis_date": null,
+    "url": "https://www.zimbo.cash",
+    "explorers": [
+        "https://tronscan.io/#/token/1002984"
+    ],
+    "twitter": "zimbocash",
+    "facebook": "zimbocash1",
+    "telegram": "zimbocash"
+}

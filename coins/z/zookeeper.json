@@ -1,0 +1,24 @@
+{
+    "id": "zookeeper",
+    "symbol": "zoo",
+    "name": "ZooKeeper",
+    "platforms": {
+        "wanchain": "0x6e11655d6ab3781c6613db8cb1bc3dee9a7e111f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Zookeeper will provide a dual farming experience while embracing the popular crypto trend of NFTs. The project will complement another existing Wanchain Dapp: Wanswap (www.wanswap.finance); thus greatly augmenting liquidity. However, Zookeeper will have its own utility token ($ZOO) distributed as farming rewards to Wanswap Liquidity Providers (LPs), who stake their WSLP (Wan Swap Liquidity Provider tokens).\r\n\r\nAll this makes ZooKeeper a unique gamified yield farming Dapp with profit potential and gaming fun.\r\n\r\nFeatures : DUALFARMING In Zookeeper, the notion of dual farming is introduced which allows the user to farm zoo tokens and wasp tokens (on selected pools) due to the partnership with WanSwap. OPTIONAL LOCK FARMING ZooKeeper offers users the possibility of increasing yield farming rewards by using the optional lock period function available for each pool. The longer the period chosen, the more rewards will be given. ATTACH NFT BOOST CARDS Extra NFT boost cards are available on ZooKeeper. This unique ability in the crypto market will allow each user to both reduce the locktime and increase rewards. NFT TRADING All NFTs have a possibility to be used or sold in the market section. Selling NFT\u2019s can be done in several cryptocurrencies available on ZooKeeper. GOVERNANCE ZooKeeper Community will have access to a voting system that will be reviewed by the ZooKeeper team before implementation. BURN MECHANIC ZooKeeper has integrated different burning mechanics on its platform to reduce the max supply of ZOO Token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6e11655d6ab3781c6613db8cb1bc3dee9a7e111f",
+    "url": "https://www.zookeeper.finance/",
+    "explorers": [
+        "https://www.wanscan.org/token/0x6e11655d6ab3781c6613db8cb1bc3dee9a7e111f"
+    ],
+    "twitter": "ZooFarming",
+    "telegram": "ZooFarming",
+    "reddit": "ZooFarming/",
+    "github_org": "zooFarming"
+}

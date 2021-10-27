@@ -1,0 +1,19 @@
+{
+    "id": "gpu-coin",
+    "symbol": "gpu",
+    "name": "GPU Coin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "GPU Coin is a PoS-based cryptocurrency."
+    },
+    "country_origin": "",
+    "genesis_date": "2016-11-20",
+    "url": "http://gpucoin.usedgpus.com/",
+    "explorers": [
+        "https://poswallet.com/blockChain/gpu/"
+    ],
+    "twitter": "GPU_coin",
+    "github_org": "white92d15b7"
+}

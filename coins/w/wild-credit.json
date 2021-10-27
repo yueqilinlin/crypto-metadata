@@ -1,0 +1,24 @@
+{
+    "id": "wild-credit",
+    "symbol": "wild",
+    "name": "Wild Credit",
+    "platforms": {
+        "ethereum": "0x08a75dbc7167714ceac1a8e43a8d643a4edd625a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wild is a permissionless lending protocol featuring isolated lending pairs.\r\nLenders supply assets into any of the lending pairs to earn interest. Borrowers pay interest to borrow while collateralizing their loans. The protocol earns an interest rate spread."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x08a75dbc7167714ceac1a8e43a8d643a4edd625a",
+    "url": "https://wild.credit/",
+    "explorers": [
+        "https://etherscan.io/token/0x08a75dbc7167714ceac1a8e43a8d643a4edd625a",
+        "https://ethplorer.io/address/0x08a75dbc7167714ceac1a8e43a8d643a4edd625a"
+    ],
+    "twitter": "WildCredit",
+    "telegram": "WildCredit",
+    "github_org": "WildCredit"
+}

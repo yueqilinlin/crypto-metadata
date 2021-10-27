@@ -1,0 +1,22 @@
+{
+    "id": "pea-farm",
+    "symbol": "pea",
+    "name": "Pea Farm",
+    "platforms": {
+        "binance-smart-chain": "0xaeb9864bfb718818904e9c70e4ab4e52b50b6481"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PEA Farm is an online DeFi Game ecosystem, which combines the capital investment from profitable activities in the game. PEA Farm was initially launched on TRON blockchain and now migrated to Binance Smart Chain to expand their ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaeb9864bfb718818904e9c70e4ab4e52b50b6481",
+    "url": "https://pea.farm/",
+    "explorers": [
+        "https://bscscan.com/token/0xaeb9864bfb718818904e9c70e4ab4e52b50b6481"
+    ],
+    "twitter": "PEAFARM3",
+    "telegram": "peafarm"
+}

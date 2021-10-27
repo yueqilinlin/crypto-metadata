@@ -1,0 +1,27 @@
+{
+    "id": "memecoin",
+    "symbol": "mem",
+    "name": "Memecoin",
+    "platforms": {
+        "ethereum": "0x42dbbd5ae373fea2fc320f62d44c058522bb3758",
+        "polygon-pos": "0x42dbbd5ae373fea2fc320f62d44c058522bb3758"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Memecoin is the official token for Meme.com and our underlying asset layers. \r\n\r\nMeme is a Memetic Asset Protocol that lives on our website. (https://meme.com/) Memetic assets are financial instruments in the form of ERC-20 smart contracts known as \u201cmTokens\u201d representing any particular meme. These mTokens are purchased, swapped and traded on our platforms Meme Markets. Memecoin can be swapped for any mToken (e.g. mDoge, mPepe, mWojak) on a token bonding curve. \r\n\r\nMarkets can be discovered and created by anyone with Memecoin. Use Memecoin to build your portfolio and sponsor your favorite memes. Create a market around the next trend you perceive is going to flourish. Earn rewards in the form of tokens and NFTs for supporting the best performing memes and trends. \r\n\r\nMeme.com creates the ability to quantify all information and their network effects in a trustless way. This is done using several different data streams including our NFT layer MarbleCards. (https://marble.cards/) \r\n\r\nWelcome to a new asset class in blockchain, an open market for and around content where anyone can get exposure to things they believe in!"
+    },
+    "country_origin": "GI",
+    "genesis_date": null,
+    "contract_address": "0x42dbbd5ae373fea2fc320f62d44c058522bb3758",
+    "url": "https://meme.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x42dbbd5ae373fea2fc320f62d44c058522bb3758",
+        "https://polygonscan.com/token/0x42dbbd5ae373fea2fc320f62d44c058522bb3758",
+        "https://ethplorer.io/address/0x42dbbd5ae373fea2fc320f62d44c058522bb3758"
+    ],
+    "twitter": "MemeExplorers",
+    "telegram": "MemeExplorers",
+    "reddit": "MemeExplorers/",
+    "github_org": "AtteqCom"
+}

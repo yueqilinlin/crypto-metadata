@@ -1,0 +1,24 @@
+{
+    "id": "tkn-token",
+    "symbol": "tknt",
+    "name": "TKN Token",
+    "platforms": {
+        "ethereum": "0xbce7bd79558dda90b261506768f265c5543a9f90"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TKNT is a new concept project, which mixes Bet-Mining and DeFi slightly, so that fixed mining can be carried out through platform games. It builds a system that can realize game participation and in-application payment in all DApps based on ERC20, and combines various financial services."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbce7bd79558dda90b261506768f265c5543a9f90",
+    "url": "https://www.tkn.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xbce7bd79558dda90b261506768f265c5543a9f90",
+        "https://ethplorer.io/address/0xbce7bd79558dda90b261506768f265c5543a9f90"
+    ],
+    "twitter": "tkntfoundation",
+    "telegram": "tknt_official",
+    "github_org": "tkntoken"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "money-printer-go-brrr-set",
+    "symbol": "brrr",
+    "name": "Money Printer Go Brrr Set",
+    "platforms": {
+        "ethereum": "0x8abf3a95862619a55fa00cb3e4eedbe113ff468c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "TokenSets"
+    ],
+    "description": {
+        "en": "BRRR goes the money printer"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8abf3a95862619a55fa00cb3e4eedbe113ff468c",
+    "url": "https://www.tokensets.com/set/brrr",
+    "explorers": [
+        "https://etherscan.io/token/0x8abf3a95862619A55fA00CB3e4eeDBe113ff468C",
+        "https://ethplorer.io/address/0x8abf3a95862619a55fa00cb3e4eedbe113ff468c"
+    ],
+    "twitter": "SetProtocol",
+    "github_org": "SetProtocol"
+}

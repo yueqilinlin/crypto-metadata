@@ -1,0 +1,26 @@
+{
+    "id": "ideachain",
+    "symbol": "ich",
+    "name": "IdeaChain",
+    "platforms": {
+        "ethereum": "0xf8483e2d6560585c02d46bf7b3186bf154a96166"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "CH It is a digital currency to support inventors and preserve their rights with smart and innovative solutions ."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0xf8483e2d6560585c02d46bf7b3186bf154a96166",
+    "url": "https://ideachaincoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xf8483E2d6560585C02D46bF7B3186Bf154a96166",
+        "https://ethplorer.io/address/0xf8483E2d6560585C02D46bF7B3186Bf154a96166"
+    ],
+    "twitter": "ideachaincoin1",
+    "facebook": "ideachaincoin",
+    "telegram": "ideachaincoinchat"
+}

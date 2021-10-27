@@ -1,0 +1,21 @@
+{
+    "id": "nantrade",
+    "symbol": "nan",
+    "name": "NanTrade",
+    "platforms": {
+        "ethereum": "0xb393cd041afc1aca4c380c663793fe2c7b8a0212"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NAN Trade & Bot is a cryptocurrency arbitrage service based on an Auto arbitrage BOT Algorithm that allows anyone who is unfamiliar with coin trading to reliably and automatically trade with just a few clicks. It is an essential solution for anyone who wants to make a stable profit without losing."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb393cd041afc1aca4c380c663793fe2c7b8a0212",
+    "url": "http://nantrading.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xb393cd041afc1aca4c380c663793fe2c7b8a0212",
+        "https://ethplorer.io/address/0xb393cd041afc1aca4c380c663793fe2c7b8a0212"
+    ]
+}

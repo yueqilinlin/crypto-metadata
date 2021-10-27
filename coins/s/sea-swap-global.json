@@ -1,0 +1,22 @@
+{
+    "id": "sea-swap-global",
+    "symbol": "ssg",
+    "name": "Sea Swap Global",
+    "platforms": {
+        "tron": "TC5ByDAWHwMoq9wJ83nbtwxdAnmn3i8rXy"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sea Swap Global a DeFi platform one-stop Dex protocol facilitates the exchange and trading of cross-chain DeFi tokens on different networks. low charge and fast speed."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TC5ByDAWHwMoq9wJ83nbtwxdAnmn3i8rXy",
+    "url": "https://www.seaswap.co/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TC5ByDAWHwMoq9wJ83nbtwxdAnmn3i8rXy"
+    ],
+    "twitter": "seaswapco",
+    "telegram": "seaswapssg"
+}

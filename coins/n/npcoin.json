@@ -1,0 +1,24 @@
+{
+    "id": "npcoin",
+    "symbol": "npc",
+    "name": "NPCoin",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Retail"
+    ],
+    "description": {
+        "en": "NPCoin (NPC) is a combination kaizen idea of Bitcoin, Ethereum, Litecoin, and Peercoin. NPC is created to be the best utility coin for daily usage, especially for Asean Regions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://npcoin.info/",
+    "explorers": [
+        "http://npcoinpool.com:3838/",
+        "https://npcoinexplorer.info/"
+    ],
+    "twitter": "npcoin1",
+    "facebook": "npcoin.international",
+    "telegram": "npcoin_official",
+    "github_org": "npcoincoreteam"
+}

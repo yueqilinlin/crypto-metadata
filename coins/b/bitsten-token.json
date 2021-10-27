@@ -1,0 +1,26 @@
+{
+    "id": "bitsten-token",
+    "symbol": "bst",
+    "name": "Bitsten Token",
+    "platforms": {
+        "ethereum": "0xd4f6f9ae14399fd5eb8dfc7725f0094a1a7f5d80"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Bitsten Token, created to support the Bitsten Exchange project, and will be the largest exchange in Indonesia and Asia in the future, we use a very small fee and share the profit of the company to the token holder as a reward, for its contribution to transaction in Bitsten."
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0xd4f6f9ae14399fd5eb8dfc7725f0094a1a7f5d80",
+    "url": "https://bitsten.com",
+    "explorers": [
+        "https://etherscan.io/token/0xd4f6f9ae14399fd5eb8dfc7725f0094a1a7f5d80",
+        "https://ethplorer.io/address/0xd4f6f9ae14399fd5eb8dfc7725f0094a1a7f5d80"
+    ],
+    "twitter": "BitstenToken",
+    "telegram": "bitsten_official"
+}

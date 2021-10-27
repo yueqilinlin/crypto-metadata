@@ -1,0 +1,24 @@
+{
+    "id": "xsgd",
+    "symbol": "xsgd",
+    "name": "XSGD",
+    "platforms": {
+        "ethereum": "0x70e8de73ce538da2beed35d14187f6959a8eca96"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XSGD is the world's first Travel Rule compliant stablecoin - backed by the Singapore-Dollar. XSGD is part of the StraitsX stablecoin initiative for SEA by Xfers."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
+    "url": "https://xfers.com/sg/stablecoin",
+    "explorers": [
+        "https://etherscan.io/token/0x70e8de73ce538da2beed35d14187f6959a8eca96",
+        "https://ethplorer.io/address/0x70e8de73ce538da2beed35d14187f6959a8eca96"
+    ],
+    "twitter": "xfers",
+    "facebook": "Xfers",
+    "github_org": "Xfers"
+}

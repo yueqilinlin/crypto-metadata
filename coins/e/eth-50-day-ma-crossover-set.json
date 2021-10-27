@@ -1,0 +1,26 @@
+{
+    "id": "eth-50-day-ma-crossover-set",
+    "symbol": "eth50smaco",
+    "name": "ETH 50 Day MA Crossover Set",
+    "platforms": {
+        "ethereum": "0xa360f2af3f957906468c0fd7526391aed08ae3db"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "TokenSets"
+    ],
+    "description": {
+        "en": "The ETH 50 Day Moving Average Crossover Set attempts to capitalize on medium term price trends and accumulate ETH. ETH50SMACO automatically triggers rebalances when the price of ETH crosses the 50 Day Simple Moving Average (50 SMA) indicating a trend reversal"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa360f2af3f957906468c0fd7526391aed08ae3db",
+    "url": "https://www.tokensets.com/set/eth50smaco",
+    "explorers": [
+        "https://etherscan.io/token/0xa360F2aF3F957906468c0FD7526391AeD08aE3DB",
+        "https://ethplorer.io/address/0xa360f2af3f957906468c0fd7526391aed08ae3db"
+    ],
+    "twitter": "SetProtocol",
+    "github_org": "SetProtocol"
+}

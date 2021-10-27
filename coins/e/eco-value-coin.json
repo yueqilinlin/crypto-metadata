@@ -1,0 +1,26 @@
+{
+    "id": "eco-value-coin",
+    "symbol": "evc",
+    "name": "Eco Value Coin",
+    "platforms": {
+        "ethereum": "0xaa843f65872a25d6e9552ea0b360fb1d5e333124"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Energy"
+    ],
+    "description": {
+        "en": "Eco Value Coin is a Blockchain based Carbon Credit token. It will allow individuals, businesses and governments to trade and offset carbon emissions. Our mission is to streamline the ability of carbon producers such as factories or airlines to offset carbon in a secure and easily verifiable fashion using blockchain technology. Eco Value Coin streamlines transactions, minimizes fees and improves transfer times, enabling the user full control over a secure, global payment process, and also act as a link between international Eco energy and CO2 emission rights."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0xaa843f65872a25d6e9552ea0b360fb1d5e333124",
+    "url": "https://www.ecovaluecoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xaa843f65872a25d6e9552ea0b360fb1d5e333124",
+        "https://ethplorer.io/address/0xaa843f65872a25d6e9552ea0b360fb1d5e333124"
+    ],
+    "twitter": "ecovaluecoin",
+    "facebook": "ecovaluecoin",
+    "github_org": "ecovalue"
+}

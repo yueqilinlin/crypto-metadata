@@ -1,0 +1,23 @@
+{
+    "id": "cactus-finance",
+    "symbol": "cas",
+    "name": "Cactus Finance",
+    "platforms": {
+        "binance-smart-chain": "0xb1f198ff6e2bcfc42ddd9234974f7025463230f4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CAS works by applying a 1% fee to each transaction and instantly splitting that fee among all holders of the token.\r\n\r\nHolders do not need to stake or wait for fees to be delivered. Fees are awarded by the smart contract and are immediately reflected in the holders balance."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xb1f198ff6e2bcfc42ddd9234974f7025463230f4",
+    "url": "https://www.cactusfinance.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xb1f198ff6e2bcfc42ddd9234974f7025463230f4"
+    ],
+    "twitter": "CactussFinance",
+    "telegram": "cactuschat",
+    "github_org": "Cactusfinance"
+}

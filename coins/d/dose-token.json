@@ -1,0 +1,24 @@
+{
+    "id": "dose-token",
+    "symbol": "dose",
+    "name": "DOSE",
+    "platforms": {
+        "ethereum": "0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DOSE is the token of purchase, utility and action and is at the heart of the OliveX gamified fitness ecosystem. Players will receive DOSE tokens for completing workout based gameplay in Dustland Runner and other experiences. These tokens can be used to unlock items, purchase NFTs and participate in special events and game modes.\r\n\r\nDustland Runner is the world\u2019s first Proof of Workout audio game, where going on runs in the real world progresses the narrative and earns you virtual rewards (NFTs / DOSE tokens) that you can use to upgrade and progress your adventure.\r\n\r\nBuilt by OliveX with assistance from Six to Start, Dustland Runner is designed on top of the successful Zombies, Run! game engine and online platform; best in class for delivering audio running adventures on different devices and tracking players\u2019 fitness goals and progress. Dustland Runner also leverages the strong storytelling experience that Zombies, Run! provides."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515",
+    "url": "https://www.dosetoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515",
+        "https://ethplorer.io/address/0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515"
+    ],
+    "twitter": "DOSEToken",
+    "telegram": "dose_community",
+    "github_org": "olivexbvi"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "bitfresh",
+    "symbol": "bft",
+    "name": "Bitfresh",
+    "platforms": {
+        "binance-smart-chain": "0xa4f93159ce0a4b533b443c74b89967c60a5969f8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bitfresh is a secure and transparent blockchain-based iGaming platform with a community first focus and a unique retro-style design. With Bitfresh you can enjoy non-custodial betting, mining, dividends sharing, and new and innovative features like rankings and player items.\r\n\r\n$BFT is a BEP20-based utility token used for profit sharing and stakeholding. You can use it as an in-game currency for betting, and also to stake it and gain platform profits (dividends)."
+    },
+    "country_origin": "UY",
+    "genesis_date": null,
+    "contract_address": "0xa4f93159ce0a4b533b443c74b89967c60a5969f8",
+    "url": "https://www.bitfresh.win/",
+    "explorers": [
+        "https://bscscan.com/token/0xa4f93159ce0a4b533b443c74b89967c60a5969f8"
+    ],
+    "twitter": "BitFreshWIN",
+    "facebook": "bitfresh.win",
+    "telegram": "bitfresh"
+}

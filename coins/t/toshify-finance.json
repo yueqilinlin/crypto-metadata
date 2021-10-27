@@ -1,0 +1,23 @@
+{
+    "id": "toshify-finance",
+    "symbol": "YFT",
+    "name": "Toshify.finance",
+    "platforms": {
+        "ethereum": "0x9cd39da8f25ec50cf2ee260e464ac23ea23f6bb0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Toshify is your DeFi yield farming plug to farm YFT and harvests other third party protocols. We have been building real DeFi products.\r\n\r\n"
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "contract_address": "0x9cd39da8f25ec50cf2ee260e464ac23ea23f6bb0",
+    "url": "https://toshify.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x9cd39da8f25ec50cf2ee260e464ac23ea23f6bb0",
+        "https://ethplorer.io/address/0x9cd39da8f25ec50cf2ee260e464ac23ea23f6bb0"
+    ],
+    "twitter": "toshifyfinance",
+    "telegram": "toshifyfinance"
+}

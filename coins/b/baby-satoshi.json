@@ -1,0 +1,22 @@
+{
+    "id": "baby-satoshi",
+    "symbol": "sats",
+    "name": "Baby Satoshi",
+    "platforms": {
+        "binance-smart-chain": "0xa1d04a189f8b6d5d64e8fea7c38846ab6fa0f823"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "To earn BTC, you simply have to hold $SATS. The BTC is automatically distributed to your wallets, no need for staking/farming, no need to claim anywhere, just hold your $SATS and you'll earn BTC every hour."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa1d04a189f8b6d5d64e8fea7c38846ab6fa0f823",
+    "url": "https://babysatoshi.app/",
+    "explorers": [
+        "https://bscscan.com/token/0xa1d04a189f8b6d5d64e8fea7c38846ab6fa0f823"
+    ],
+    "twitter": "babysatoshibsc",
+    "telegram": "babysats"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "blockchain-adventurers-guild",
+    "symbol": "bag",
+    "name": "Blockchain Adventurers Guild",
+    "platforms": {
+        "ethereum": "0xf33121a2209609cadc7349acc9c40e41ce21c730"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Blockchain Adventurers Guild (BAG) is the place where adventurers can safely begin their journey into Blockchain, DeFi, and NFTs. BAG members earn real money by participating in quests and earning experience and rewards. Companies and projects that are recruiting for short-term jobs or seeking new users may submit quests that adventurers can take on."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf33121a2209609cadc7349acc9c40e41ce21c730",
+    "url": "https://thisistheway.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xf33121A2209609cAdc7349AcC9c40E41CE21c730",
+        "https://ethplorer.io/address/0xf33121A2209609cAdc7349AcC9c40E41CE21c730"
+    ],
+    "twitter": "bag_dao",
+    "telegram": "bag_dao",
+    "github_org": "thisistheway-finance"
+}

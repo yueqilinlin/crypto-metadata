@@ -1,0 +1,22 @@
+{
+    "id": "pepemoon",
+    "symbol": "pepe",
+    "name": "Pepemoon",
+    "platforms": {
+        "binance-smart-chain": "0xa5ac8f8e90762380cce6c16aba17ed6d2cf75888"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pepemoon is a deflationary token, Pepemoon will be automatically staked just by holding it in your wallet, Pepemoon wont let you down!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa5ac8f8e90762380cce6c16aba17ed6d2cf75888",
+    "url": "https://pepemoon.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xa5ac8f8e90762380cce6c16aba17ed6d2cf75888"
+    ],
+    "twitter": "pepemooncom",
+    "telegram": "Pepemoon"
+}

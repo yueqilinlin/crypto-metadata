@@ -1,0 +1,24 @@
+{
+    "id": "pasta-vault-nftx",
+    "symbol": "pasta",
+    "name": "PASTA Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xea6c27d11ccb9306154f87d47dc1405c37242081"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "PASTA Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs).\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xea6c27d11ccb9306154f87d47dc1405c37242081",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xea6c27d11ccb9306154f87d47dc1405c37242081",
+        "https://ethplorer.io/address/0xea6c27d11ccb9306154f87d47dc1405c37242081"
+    ],
+    "twitter": "nftx_"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "polydoge",
+    "symbol": "polydoge",
+    "name": "PolyDoge",
+    "platforms": {
+        "polygon-pos": "0x8a953cfe442c5e8855cc6c61b1293fa648bae472"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Meme Tokens",
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8a953cfe442c5e8855cc6c61b1293fa648bae472",
+    "url": "https://polydoge.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0x8a953cfe442c5e8855cc6c61b1293fa648bae472"
+    ],
+    "twitter": "polydoge",
+    "telegram": "polydoge"
+}

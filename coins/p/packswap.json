@@ -1,0 +1,24 @@
+{
+    "id": "packswap",
+    "symbol": "pact",
+    "name": "PactSwap",
+    "platforms": {
+        "ethereum": "0x66e7ce35578a37209d01f99f3d2ff271f981f581",
+        "binance-smart-chain": "0x66e7ce35578a37209d01f99f3d2ff271f981f581"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PACT token represents an entire ecosystem designed to unite the crypto community.\r\nPACT users can execute various management functions and\r\nhave privileged access to products and services of the ecosystem, taking an active part in the development of PACT and receiving rewards in return."
+    },
+    "country_origin": "UA",
+    "genesis_date": null,
+    "contract_address": "0x66e7ce35578a37209d01f99f3d2ff271f981f581",
+    "url": "https://pact-token.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x66e7CE35578A37209d01F99F3d2fF271f981F581",
+        "https://ethplorer.io/address/0x66e7CE35578A37209d01F99F3d2fF271f981F581"
+    ],
+    "twitter": "PACT_TOKEN",
+    "telegram": "PACT_token_community"
+}

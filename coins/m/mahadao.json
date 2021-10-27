@@ -1,0 +1,29 @@
+{
+    "id": "mahadao",
+    "symbol": "maha",
+    "name": "MahaDAO",
+    "platforms": {
+        "ethereum": "0xb4d930279552397bba2ee473229f89ec245bc365",
+        "polygon-pos": "0xedd6ca8a4202d4a36611e2fff109648c4863ae19"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "The MahaDAO is a decentralised organisation that aims to revolutionizing money. MahaDAO is a community focused DeFi project empowering billions to create timeless value through the ARTH token, the world's first valuecoin."
+    },
+    "country_origin": "VG",
+    "genesis_date": "2020-12-17",
+    "contract_address": "0xb4d930279552397bba2ee473229f89ec245bc365",
+    "url": "https://mahadao.com",
+    "explorers": [
+        "https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365",
+        "https://ethplorer.io/address/0xb4d930279552397bba2ee473229f89ec245bc365"
+    ],
+    "twitter": "themahadao",
+    "telegram": "mahadao",
+    "reddit": "mahadao",
+    "github_org": "mahadao"
+}

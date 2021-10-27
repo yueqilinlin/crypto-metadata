@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-algorand-token",
+    "symbol": "algobear",
+    "name": "3X Short Algorand Token",
+    "platforms": {
+        "ethereum": "0x057fb10e3fec001a40e6b75d3a30b99e23e54107"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short Algorand Token (ALGOBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of Algorand."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x057fb10e3fec001a40e6b75d3a30b99e23e54107",
+    "url": "https://ftx.com/tokens/ALGOBEAR",
+    "explorers": [
+        "https://etherscan.io/token/0x057fb10e3fec001a40e6b75d3a30b99e23e54107",
+        "https://ethplorer.io/address/0x057fb10e3fec001a40e6b75d3a30b99e23e54107"
+    ]
+}

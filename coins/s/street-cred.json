@@ -1,0 +1,24 @@
+{
+    "id": "street-cred",
+    "symbol": "cred",
+    "name": "Street Cred",
+    "platforms": {
+        "ethereum": "0xed7fa212e100dfb3b13b834233e4b680332a3420"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Street Cred is a token that grants exclusive privileges in the Coin Artist ($COIN) ecosystem. Street Cred can only be earned through providing liquidity in the $COIN-ETH pool or through providing other valuable services and actions on behalf of $COIN and the Coin Artist community. Street Cred can be used to stake for NFTs and redeemed for exclusive perks."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xed7fa212e100dfb3b13b834233e4b680332a3420",
+    "url": "https://coinartist.io",
+    "explorers": [
+        "https://etherscan.io/token/0xED7Fa212E100DFb3b13B834233E4B680332a3420",
+        "https://ethplorer.io/address/0xed7fa212e100dfb3b13b834233e4b680332a3420"
+    ],
+    "twitter": "coin_artist",
+    "telegram": "coincred",
+    "github_org": "coin-artist-project"
+}

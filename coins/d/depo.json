@@ -1,0 +1,23 @@
+{
+    "id": "depo",
+    "symbol": "depo",
+    "name": "Depo",
+    "platforms": {
+        "ethereum": "0xa5def515cfd373d17830e7c1de1639cb3530a112"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Depo is the world's first decentralized multi-market aggregator and the gateway for institutional grade investment in the crypto-sphere. We say this because other aggregators out there only focus on one aspect of the crypto space, but with DePo the entire ecosystem is bridged. You can trade, store and manage your entire portfolio of digital assets. Across multiple platforms and markets such as CEX\u2019s, DEX\u2019s, NFT marketplaces, farms and pools, all from a single interface."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa5def515cfd373d17830e7c1de1639cb3530a112",
+    "url": "https://www.thedepo.io",
+    "explorers": [
+        "https://etherscan.io/token/0xa5def515cfd373d17830e7c1de1639cb3530a112",
+        "https://ethplorer.io/address/0xa5def515cfd373d17830e7c1de1639cb3530a112"
+    ],
+    "twitter": "DePo_io",
+    "telegram": "depo_official_chat"
+}

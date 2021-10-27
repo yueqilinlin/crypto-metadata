@@ -1,0 +1,27 @@
+{
+    "id": "iron-titanium-token",
+    "symbol": "titan",
+    "name": "IRON Titanium Token",
+    "platforms": {
+        "polygon-pos": "0xaaa5b9e6c589642f98a1cda99b9d024b8407285a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Meme Tokens",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "IRON token is a partially collateralised token, soft pegged to the U.S. Dollar, available both on the Polygon network and on the BinanceSmartChain.\r\nThe protocol aims to maintain IRON token\u2019s price stability, in other word the peg, by storing sufficient collateral in the time-locked smart-contracts. This collateral is used for redemptions, helping to maintain price stability. The collateral consists of two tokens. On the Polygon network, USDC and TITAN token, while on the BinanceSmartChain it uses BUSD and STEEL token. The USDC or BUSD token is deposited into the protocol when a user mints IRON token, while the TITAN or STEEL token which is used for minting is burned. When the user redeems IRON tokens, the protocol pays back USDC or BUSD tokens and mints the required amount of TITAN or STEEL token.\r\nThe ratio of USDC or BUSD and TITAN or STEEL token used by the minting and redeeming function is determined by the Target Collateral Ratio and by the Effective Collateral Ratio respectively."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaaa5b9e6c589642f98a1cda99b9d024b8407285a",
+    "url": "https://iron.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A"
+    ],
+    "twitter": "TITANisourDOGE",
+    "telegram": "titanisourdoge",
+    "github_org": "ironfinance"
+}

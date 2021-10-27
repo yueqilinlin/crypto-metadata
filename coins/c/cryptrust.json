@@ -1,0 +1,24 @@
+{
+    "id": "cryptrust",
+    "symbol": "ctrt",
+    "name": "Cryptrust",
+    "platforms": {
+        "ethereum": "0x8606a8f28e1e2fd50b9074d65c01548b1f040b32"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "Cryptrust is a social media based on people trust of Cryptocurrency wallet. Social network is the most important basic measure of the Internet. It conveys the user's daily high frequency interactive behavior. However, at present, all the centralized social networking platforms, such as Facebook, Snapchat, etc., are facing many pain points.\r\n\r\n"
+    },
+    "country_origin": "SG",
+    "genesis_date": "2018-08-31",
+    "contract_address": "0x8606a8f28e1e2fd50b9074d65c01548b1f040b32",
+    "url": "https://cryptrust.io/platform",
+    "explorers": [
+        "https://etherscan.io/token/0x8606a8f28e1e2fd50b9074d65c01548b1f040b32",
+        "https://ethplorer.io/address/0x8606a8f28e1e2fd50b9074d65c01548b1f040b32"
+    ],
+    "twitter": "cryptrustdapp",
+    "telegram": "cryptrusten",
+    "github_org": "cryptrusten"
+}

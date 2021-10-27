@@ -1,0 +1,20 @@
+{
+    "id": "supertx-governance-token",
+    "symbol": "sup",
+    "name": "SuperTx Governance Token",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SUP is the governance token of SuperTx protocol, SuperTx protocol is an AMM protocol built inside MOV, MOV is the DeFi protocol which built on Bytom's high speed sidechain Vapor)"
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "47fcd4d7c22d1d38931a6cd7767156babbd5f05bbbb3f7d3900635b56eb1b67e",
+    "url": "https://supertx.bymov.io/",
+    "explorers": [
+        "https://blockmeta.com/asset/47fcd4d7c22d1d38931a6cd7767156babbd5f05bbbb3f7d3900635b56eb1b67e"
+    ],
+    "twitter": "MOV_Network",
+    "telegram": "sup_community"
+}

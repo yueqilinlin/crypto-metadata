@@ -1,0 +1,23 @@
+{
+    "id": "sumcoin",
+    "symbol": "sum",
+    "name": "Sumcoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Sumcoin is a cryptographic blockchain and the worlds first cryptographic Index which uses a proof-of-work algorithm to unlock coins. Its maximum targeted processing time is only 3 mins with a maximum supply of only 100 M coins. Sumcoin is also Segwit enabled.\r\n\r\n\u2022 Sumcoin is implemented in all General Bytes ATM's worldwide. You need only ask the machines operator for support.\r\n\r\n\u2022 The Index\r\n\u2022 Sumcoin, or the \"\"SUM\"\" of coins means that it tracks all coins in near real time from over 600 different data points. Sumcoin is continuously aggregating and finds what the current top 100 coins are by global market cap. The \"\"SUM\"\" price is generated using an algorithm based on the market fluctuations of the top 100 coins.\r\n\r\n\u2022 Given the speed, security and simplicity being able to hold the \"\"SUM\"\" of the market in only one coin, Sumcoin is for those who want to gain maximum exposure to the crypto space but may only want to hold one coin for simplicity, which can reduce risk factors. As the value is spread across 100 coins, there is a great reduction of volatility to Sumcoin vs any other coin."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://www.sumcoin.org/",
+    "explorers": [
+        "https://sumexplorer.com/"
+    ],
+    "twitter": "sumcoinindex",
+    "facebook": "sumcoinindex",
+    "reddit": "sumcoinindex/",
+    "github_org": "sumcoinlabs"
+}

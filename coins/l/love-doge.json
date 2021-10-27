@@ -1,0 +1,22 @@
+{
+    "id": "love-doge",
+    "symbol": "lovedoge",
+    "name": "Love Doge",
+    "platforms": {
+        "binance-smart-chain": "0x7144e379c827fa71a7ecaa01d00607cbb7eb1b7a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Love Doge is a community project, created by crypto enthusiasts. Its purpose is to reach agreement between DOGE and BTC and achieve high growth.\r\n\r\nLove Doge is created on the Binance Smart Chain, the next evolution of the contract that generates revenue while you sleep. You automatically receive Love Doge tokens just for holding!\r\n\r\nThis mechanism encourages token holders to hold in order to obtain dividends from transactions (buying and selling). The redistribution is based on the percentage (in the contract), the current token balance and the number of holders. The more tokens you hold, the more rewards you receive!\r\n\r\n10% of each transaction is taxed. This is divided into three parts:\r\n\r\n- 6% of tokens are automatically redistributed to holders\r\n\r\n- 2% Permanent Deflation (Tokens are destroyed)\r\n\r\n- 2% Marketing"
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0x7144e379c827fa71a7ecaa01d00607cbb7eb1b7a",
+    "url": "https://lovedoge.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x7144E379C827fA71A7ecAA01d00607cBb7eB1b7A"
+    ],
+    "twitter": "LoveDoge10",
+    "telegram": "LoveDogeEN1"
+}

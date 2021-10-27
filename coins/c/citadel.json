@@ -1,0 +1,22 @@
+{
+    "id": "citadel",
+    "symbol": "ctl",
+    "name": "Citadel",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Citadel is an open-source, decentralized and versatile center-of-finance platform. It will offer scalable, private and cost-effective financial and commercial services to participants ranging from end users to corporate entities, while eliminating the need for any trusted 3rd parties."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://citadelplatform.org",
+    "explorers": [
+        "https://chain.citadelplatform.org"
+    ],
+    "twitter": "platformcitadel",
+    "telegram": "citadelplatform",
+    "github_org": "cntemple"
+}

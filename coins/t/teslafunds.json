@@ -1,0 +1,22 @@
+{
+    "id": "teslafunds",
+    "symbol": "tsf",
+    "name": "Transaction Service Fee",
+    "platforms": {},
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "Teslafunds \u2013 TSF is ethereum based platform that runs applications and blockchain services powered by crowdfunded tokens."
+    },
+    "country_origin": "RS",
+    "genesis_date": null,
+    "url": "https://tsf-network.com/",
+    "explorers": [
+        "https://explorer.tsf-platform.com/"
+    ],
+    "twitter": "TSFblockchain",
+    "telegram": "tsfblockchain",
+    "github_org": "teslafunds"
+}

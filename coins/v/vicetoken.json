@@ -1,0 +1,23 @@
+{
+    "id": "vicetoken",
+    "symbol": "vicex",
+    "name": "ViceToken",
+    "platforms": {
+        "ethereum": "0xdfd5bb6ce8716822b2c9b255560194ca3509bebc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ViceToken token holders benefit through static rewards and also through the automatic Buy-Back process built into the contract. When the Buy-Back function is turned on, the contract automatically buys back and burns tokens after every sell. The goal of this experiment is to see if it is possible to reach 1 billion market capitalization with these unique tokenomics."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdfd5bb6ce8716822b2c9b255560194ca3509bebc",
+    "url": "https://vicetoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xdfd5bb6ce8716822b2c9b255560194ca3509bebc",
+        "https://ethplorer.io/address/0xdfd5bb6ce8716822b2c9b255560194ca3509bebc"
+    ],
+    "twitter": "vicetoken_defi",
+    "telegram": "vicetoken_defi"
+}

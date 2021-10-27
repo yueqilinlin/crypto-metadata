@@ -1,0 +1,23 @@
+{
+    "id": "planetwatch",
+    "symbol": "planets",
+    "name": "PlanetWatch",
+    "platforms": {
+        "algorand": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PlanetWatch decentralizes, incentivizes, and gamifies environmental monitoring. Currently, we build dense air quality sensor networks streaming real-time data to our platform. Validated data earn Planet token rewards and build a global immutable air quality ledger on the Algorand blockchain. Sensing is mining!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://planetwatch.io/",
+    "explorers": [
+        "https://explorer.planetwatch.io/",
+        "https://algoexplorer.io/asset/27165954"
+    ],
+    "twitter": "PlanetWatchsas",
+    "facebook": "PlanetWatch-106206814422901",
+    "telegram": "planetwatch"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "vox-finance",
+    "symbol": "vox",
+    "name": "Vox.Finance",
+    "platforms": {
+        "ethereum": "0x12d102f06da35cc0111eb58017fd2cd28537d0e1",
+        "binance-smart-chain": "0xc227f8eecc481a8e8baa30a4754b109b81c4dfa4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Vox.Finance is an innovative DeFi project created by independent developers that seeks to revolutionize the market by providing a community-led approach."
+    },
+    "country_origin": "SI",
+    "genesis_date": null,
+    "contract_address": "0x12d102f06da35cc0111eb58017fd2cd28537d0e1",
+    "url": "https://vox.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x12D102F06da35cC0111EB58017fd2Cd28537d0e1",
+        "https://ethplorer.io/address/0x12d102f06da35cc0111eb58017fd2cd28537d0e1",
+        "https://bscscan.com/address/0xc227f8eecc481a8e8baa30a4754b109b81c4dfa4"
+    ],
+    "twitter": "RealVoxFinance",
+    "telegram": "VoxFinance"
+}

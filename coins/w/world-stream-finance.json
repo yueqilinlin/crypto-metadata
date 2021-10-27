@@ -1,0 +1,23 @@
+{
+    "id": "world-stream-finance",
+    "symbol": "$tream",
+    "name": "World Stream Finance",
+    "platforms": {
+        "binance-smart-chain": "0x1c2425f50a1e98d5631b223e56760d21bc840c53"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1c2425f50a1e98d5631b223e56760d21bc840c53",
+    "url": "https://www.worldstreamfinance.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x1c2425f50a1e98d5631b223e56760d21bc840c53"
+    ],
+    "twitter": "WStreamFinance",
+    "telegram": "WorldStreamFinance",
+    "reddit": "world_stream_finance/"
+}

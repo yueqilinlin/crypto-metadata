@@ -1,0 +1,25 @@
+{
+    "id": "blockchainpoland",
+    "symbol": "bcp",
+    "name": "BlockchainPoland",
+    "platforms": {
+        "ethereum": "0x72e203a17add19a3099137c9d7015fd3e2b7dba9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "The BCP platform is a place which enables users to invest and use innovative projects through the use of the BCP token."
+    },
+    "country_origin": "PL",
+    "genesis_date": null,
+    "contract_address": "0x72e203a17add19a3099137c9d7015fd3e2b7dba9",
+    "url": "https://www.bcp24.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x72e203a17add19a3099137c9d7015fd3e2b7dba9",
+        "https://ethplorer.io/address/0x72e203a17add19a3099137c9d7015fd3e2b7dba9"
+    ],
+    "twitter": "bcp24pl",
+    "facebook": "BlockchainPoland"
+}

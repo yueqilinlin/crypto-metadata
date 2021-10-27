@@ -1,0 +1,24 @@
+{
+    "id": "balpha",
+    "symbol": "balpha",
+    "name": "bAlpha",
+    "platforms": {
+        "ethereum": "0x7a5ce6abd131ea6b148a022cb76fc180ae3315a6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "bALPHA is the first data token of Big Data Protocol, and can be redeemed for access to the bALPHA collection."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7a5ce6abd131ea6b148a022cb76fc180ae3315a6",
+    "url": "https://bigdataprotocol.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7a5ce6abD131EA6B148a022CB76fc180ae3315A6",
+        "https://ethplorer.io/address/0x7a5ce6abd131ea6b148a022cb76fc180ae3315a6"
+    ],
+    "twitter": "bigdataprotocol",
+    "telegram": "bigdataprotocol",
+    "github_org": "bigdataprotocol"
+}

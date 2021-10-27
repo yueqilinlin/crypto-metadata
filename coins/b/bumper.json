@@ -1,0 +1,25 @@
+{
+    "id": "bumper",
+    "symbol": "bump",
+    "name": "Bumper",
+    "platforms": {
+        "ethereum": "0x785c34312dfa6b74f6f1829f79ade39042222168"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bumper protects the value of your crypto using a radically innovative DeFi protocol. Set the price you want to protect and if the market crashes, your asset will never fall below that price. Importantly, if the market pumps, your asset rises too.\r\n\r\nProtect your crypto price from market drops. To protect your assets simply connect your wallet to the Bumper dApp. Choose the amount and price of the crypto asset you want to protect and it's locked in. No matter where the market heads, the value of your crypto won't drop below the set price.\r\n\r\nEarn a regular yield by staking. Stake your stablecoin (USDC initially) and receive a yield from premiums paid by protection takers, alongside native $Bump token emissions"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x785c34312dfa6b74f6f1829f79ade39042222168",
+    "url": "https://bumper.fi",
+    "explorers": [
+        "https://etherscan.io/token/0x785c34312dfa6b74f6f1829f79ade39042222168",
+        "https://ethplorer.io/address/0x785c34312dfa6b74f6f1829f79ade39042222168"
+    ],
+    "twitter": "bumperfinance",
+    "telegram": "bumperfinance",
+    "reddit": "BumperFinance/",
+    "github_org": "Bumper-Fi"
+}

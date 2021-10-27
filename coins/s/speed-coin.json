@@ -1,0 +1,19 @@
+{
+    "id": "speed-coin",
+    "symbol": "speed",
+    "name": "Speed Coin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "Version 3.0 PoS Coin with fixed rewards of 5 speed coins per block and 1 - 10 minute block times."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "http://speedcryptocoin.com/",
+    "explorers": [
+        "https://speedcryptoblock.com/"
+    ],
+    "twitter": "speedcryptocoin",
+    "github_org": "bastilar"
+}

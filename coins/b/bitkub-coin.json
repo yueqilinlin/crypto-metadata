@@ -1,0 +1,20 @@
+{
+    "id": "bitkub-coin",
+    "symbol": "kub",
+    "name": "Bitkub Coin",
+    "platforms": {},
+    "hashing_algorithm": "Keccak",
+    "categories": [],
+    "description": {
+        "en": "Bitkub Chain aims to lay the foundation of the local Blockchain ecosystem, allowing Decentralized Applications and their assets to function transparently with affordable transaction fees and high-speed confirmation times."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://bitkubchain.com/",
+    "explorers": [
+        "https://bkcscan.com/"
+    ],
+    "twitter": "bitkubchain",
+    "facebook": "bitkubchainofficial",
+    "github_org": "bitkubchain"
+}

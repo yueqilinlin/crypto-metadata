@@ -1,0 +1,27 @@
+{
+    "id": "zynecoin",
+    "symbol": "zyn",
+    "name": "Zynecoin",
+    "platforms": {
+        "ethereum": "0xe65ee7c03bbb3c950cfd4895c24989afa233ef01"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "The Zynecoin team is developing a cryptocurrency (Zynecoin), a blockchain system (Wethio), and an incubation center (Zynecoin Academy). These solutions are focused primarily in Africa and aims to support economic development, drive technological innovation, and improve market standing throughout the continent.\r\n\r\nZynecoin was created with the intention of supporting African startups and humanitarian initiatives. The Zynecoin token will also split mining commissions so that a portion of them will be used to contribute directly to African state treasury funds. The Zynecoin Academy is an incubator that provides direct support to startups.\r\n\r\nThe Zynecoin token is backed by the Ethereum blockchain. However, the Zynecoin team is developing its own dedicated blockchain system, Wethio aims to become the first blockchain built and housed in Africa. It aims to incentivize cooperation among crypto miners and allow anyone to participate in and profit from blockchain mining."
+    },
+    "country_origin": "SZ",
+    "genesis_date": null,
+    "contract_address": "0xe65ee7c03bbb3c950cfd4895c24989afa233ef01",
+    "url": "https://zynecoin.io",
+    "explorers": [
+        "https://etherscan.io/token/0xe65ee7c03bbb3c950cfd4895c24989afa233ef01",
+        "https://ethplorer.io/address/0xe65ee7c03bbb3c950cfd4895c24989afa233ef01"
+    ],
+    "twitter": "zynecoin",
+    "facebook": "zynecoin",
+    "telegram": "zynecoin",
+    "github_org": "zynecoin"
+}

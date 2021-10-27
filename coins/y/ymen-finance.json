@@ -1,0 +1,24 @@
+{
+    "id": "ymen-finance",
+    "symbol": "ymen",
+    "name": "Ymen.Finance",
+    "platforms": {
+        "ethereum": "0xd0c59798f986d333554688cd667033d469c2398e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Governance"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd0c59798f986d333554688cd667033d469c2398e",
+    "url": "https://ymen.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xd0c59798f986d333554688cd667033d469c2398e",
+        "https://ethplorer.io/address/0xd0c59798f986d333554688cd667033d469c2398e"
+    ],
+    "telegram": "ymenfinance"
+}

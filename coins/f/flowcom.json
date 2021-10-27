@@ -1,0 +1,23 @@
+{
+    "id": "flowcom",
+    "symbol": "fig",
+    "name": "FlowCom",
+    "platforms": {
+        "binance-smart-chain": "0x53fdca9a60c911d4e58759b0ae39a2bf2efef5d4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FlowCom sets out to connect the society in various aspects. Such connections cover both the telecommunication (e.g., 5G connections, satellite-based internet connections) and finances (e.g., DeFi, e-commerce). FiG is a native currency of the FlowCom ecosystem, which is purposely designed to be deflationary due to the buy-back-then-burn mechanism of FlowCom."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x53fdca9a60c911d4e58759b0ae39a2bf2efef5d4",
+    "url": "https://flowcom.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x53fdca9a60c911d4e58759b0ae39a2bf2efef5d4"
+    ],
+    "twitter": "FiG_FlowCom",
+    "telegram": "FiG_FlowCom",
+    "github_org": "FlowComOU"
+}

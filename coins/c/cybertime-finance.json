@@ -1,0 +1,23 @@
+{
+    "id": "cybertime-finance",
+    "symbol": "ctf",
+    "name": "CyberTime Finance",
+    "platforms": {
+        "binance-smart-chain": "0x655a46cd88e18a338ece048228a388c25bfda9f3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CyberTime Finance is a whole ecosystem of products on the NFT market. Each Fantasy Teams member can create their own team of crypto artists and their works. Who, in his opinion, will gain the most votes, who will sell their work the most, etc. Anyone who purchases a Fantasy Pass using the native NFTL token can participate."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0x655a46cd88e18a338ece048228a388c25bfda9f3",
+    "url": "https://cybertime.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x655A46cd88e18a338ECE048228a388c25BFdA9f3"
+    ],
+    "twitter": "cybertime_eth",
+    "telegram": "cybertime_eth",
+    "github_org": "cybertime-eth"
+}

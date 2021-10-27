@@ -1,0 +1,24 @@
+{
+    "id": "yfiscurity",
+    "symbol": "yfis",
+    "name": "YFISCURITY",
+    "platforms": {
+        "ethereum": "0x86965a86539e2446f9e72634cefca7983cc21a81"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YFIS and YFIE is an ecosystem of protocols built on Ethereum which aims to simplify user interaction with popular DeFi protocols and maximize the annual percentage yields (APY) of cryptocurrencies deposited into DeFi."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x86965a86539e2446f9e72634cefca7983cc21a81",
+    "url": "https://yfiexchange.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x86965a86539e2446f9e72634cefca7983cc21a81",
+        "https://ethplorer.io/address/0x86965a86539e2446f9e72634cefca7983cc21a81"
+    ],
+    "twitter": "YfiexchangeF",
+    "telegram": "yfiexchange",
+    "github_org": "yfiexchange"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-cardano-token",
+    "symbol": "adabull",
+    "name": "3X Long Cardano Token",
+    "platforms": {
+        "ethereum": "0x43de1145cd22f0a9cc99e51c205e6e81161df6b9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Cardano Token (ADABULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Cardano."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x43de1145cd22f0a9cc99e51c205e6e81161df6b9",
+    "url": "https://ftx.com/tokens/ADABULL",
+    "explorers": [
+        "https://etherscan.io/token/0x43dE1145Cd22f0a9Cc99e51c205e6e81161Df6B9",
+        "https://ethplorer.io/address/0x43de1145cd22f0a9cc99e51c205e6e81161df6b9"
+    ]
+}

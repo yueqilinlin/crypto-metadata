@@ -1,0 +1,23 @@
+{
+    "id": "bela",
+    "symbol": "aqua",
+    "name": "Bela Aqua",
+    "platforms": {
+        "binance-smart-chain": "0x9fb677928dd244befcd0bbebdf6068dd4bef559c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Bela ecosystem presents a DEX charting and Data platform. Our utility token allows anyone globally to earn, liquid passive income using Binance Chain Smart contracts. Hold in your wallet and earn!\r\n\r\nWe\u2019re fully audited by Solidity Finance."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9fb677928dd244befcd0bbebdf6068dd4bef559c",
+    "url": "https://belatoken.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x9fb677928dd244befcd0bbebdf6068dd4bef559c"
+    ],
+    "twitter": "BelaTokenOrg",
+    "telegram": "belatokenorg",
+    "github_org": "BelaOrganisation"
+}

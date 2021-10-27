@@ -1,0 +1,27 @@
+{
+    "id": "matchpool",
+    "symbol": "gup",
+    "name": "Guppy",
+    "platforms": {
+        "ethereum": "0xf7b098298f7c69fc14610bf71d5e02c60792894c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Matchpool is a decentralized matchmaking protocol where it helps people matches with each other. Examples include dating applications, membership clubs, business matching, and so on. The matchpool platforms helps people to manage their community pool. The Guppy token is an ERC20 token on the Ethereum network. \r\n\r\nGuppy tokens, also know as GUP, are used to make payments inside the Matchpool app. Guppy tokens can be purchased or earned on the platform or traded on exchanges.\r\n\r\nMatchpool uses Guppy tokens to incentivise matchmakers to correctly match members together. Guppy can also be used for any other kind of payment between members on the platform. Matchpool\u2019s trusted algorithm rewards members Guppy tokens automatically across the platform for matches.\r\n\r\n"
+    },
+    "country_origin": "IL",
+    "genesis_date": "2017-04-02",
+    "contract_address": "0xf7b098298f7c69fc14610bf71d5e02c60792894c",
+    "url": "https://matchpool.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xf7B098298f7C69Fc14610bf71d5e02c60792894C",
+        "https://ethplorer.io/address/0xf7b098298f7c69fc14610bf71d5e02c60792894c"
+    ],
+    "twitter": "matchpool",
+    "facebook": "matchpoolhq",
+    "reddit": "Matchpool",
+    "github_org": "Matchpool"
+}

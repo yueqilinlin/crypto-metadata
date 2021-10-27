@@ -1,0 +1,27 @@
+{
+    "id": "gobyte",
+    "symbol": "gbx",
+    "name": "GoByte",
+    "platforms": {},
+    "hashing_algorithm": "NeoScrypt",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "GoByte is the fastest, most secure & most affordable Proof-of-Work cryptocurrency in the world. Its network features instantly settled & respendable transactions, 51% attack immunity, optionally private transactions and the first decentralized blockchain governance and self-funding model through incentivized full nodes which enable mass adoption scaling."
+    },
+    "country_origin": "MY",
+    "genesis_date": "2017-11-17",
+    "url": "https://gobyte.network/",
+    "explorers": [
+        "https://explorer.gobyte.network/",
+        "https://blockchain.gobyte.network/",
+        "https://insight.gobyte.network/",
+        "https://masternodes.gobyte.network"
+    ],
+    "twitter": "gobytenetwork",
+    "facebook": "gobytenetwork",
+    "telegram": "gobytenetwork",
+    "reddit": "gobytenetwork/",
+    "github_org": "gobytecoin"
+}

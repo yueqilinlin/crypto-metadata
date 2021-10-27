@@ -1,0 +1,28 @@
+{
+    "id": "denarius",
+    "symbol": "d",
+    "name": "Denarius",
+    "platforms": {
+        "binance-smart-chain": "0xf6b53b4c982b9b7e87af9dc5c66c85117a5df303"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Denarius is a new cryptocurrency based off the original Bitcoin Core by Satoshi Nakamoto. Denarius features many changes, such as Stealth Addresses, Encrypted Messaging, Tribus a new PoW hashing algorithm that is ASIC resistant, and a max of 10,000,000 DNR to be created during the hybrid PoW/PoS lifecycle of 3 years, which then transitions to Proof of Stake entirely after the first 3 years."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-06-14",
+    "url": "https://denarius.io",
+    "explorers": [
+        "https://www.coinexplorer.net/DNR",
+        "https://denarius.pro/",
+        "https://chainz.cryptoid.info/d/"
+    ],
+    "twitter": "denariuscoin",
+    "facebook": "denariuscrypto",
+    "telegram": "denariuscoin",
+    "reddit": "denariuscoin",
+    "github_org": "carsenk"
+}

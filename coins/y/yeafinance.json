@@ -1,0 +1,23 @@
+{
+    "id": "yeafinance",
+    "symbol": "yea",
+    "name": "YeaFinance",
+    "platforms": {
+        "ethereum": "0x40b92fce37cefa03baf7603e7913c1d34dd1a4ec"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x40b92fce37cefa03baf7603e7913c1d34dd1a4ec",
+    "url": "http://yea.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x40b92fCE37CEfA03baf7603e7913C1d34dD1a4EC",
+        "https://ethplorer.io/address/0x40b92fCE37CEfA03baf7603e7913C1d34dD1a4EC"
+    ],
+    "twitter": "YeaFinace",
+    "telegram": "yeafinace"
+}

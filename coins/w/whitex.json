@@ -1,0 +1,24 @@
+{
+    "id": "whitex",
+    "symbol": "whx",
+    "name": "WhiteX",
+    "platforms": {
+        "tron": "TD2dhNc3fm4EaktzfybjsGKTVWhomsEVdJ",
+        "binance-smart-chain": "0x233a010fe3abe7b354941399a3dc09f267ba90e0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WhiteX is a Utility Token providing the best Utility Payment Services in CryptoWorld."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "TD2dhNc3fm4EaktzfybjsGKTVWhomsEVdJ",
+    "url": "https://whitex.tech/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TD2dhNc3fm4EaktzfybjsGKTVWhomsEVdJ",
+        "https://bscscan.com/token/0x233a010fe3abe7b354941399a3dc09f267ba90e0"
+    ],
+    "twitter": "WHITEX63000231",
+    "telegram": "WHITEX01"
+}

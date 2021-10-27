@@ -1,0 +1,23 @@
+{
+    "id": "nadeshiko",
+    "symbol": "ndsk",
+    "name": "Nadeshiko",
+    "platforms": {
+        "binance-smart-chain": "0x568b0d8ac3967d363257c520c9be0f17984e470f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We are a Japanese music production company. We mainly provide music for idols and videos for YouTubers. Deployment of self-developed SNS-type NFT marketplace application.\r\nIn the app, we convert our works into NFT and sell them. It will be developed as a token that can be used within the app.\r\nOnce the app becomes popular, we will develop our own platform so that it can be used more in the field of NFT."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x568b0d8ac3967d363257c520c9be0f17984e470f",
+    "url": "https://nadeshikocoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x568b0d8ac3967d363257c520c9be0f17984e470f"
+    ],
+    "twitter": "Nadeshiko_coin",
+    "telegram": "nadeshikochat",
+    "github_org": "Nadeshikocoin"
+}

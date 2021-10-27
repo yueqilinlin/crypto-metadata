@@ -1,0 +1,28 @@
+{
+    "id": "temco",
+    "symbol": "temco",
+    "name": "TEMCO",
+    "platforms": {
+        "ethereum": "0x2fc246aa66f0da5bb1368f688548ecbbe9bdee5d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "TEMCO is the world's first Bitcoin Smart Contract (RSK) based supply chain data platform. TEMCO connects isolated supply chain data and offers business and consumer services. On the business side, TEMCO provides a Business Intelligence Tool (BI-Tool) to help companies efficiently analyze and gain insights from data on the blockchain. On the consumer side, TEMCO is developing an application where consumers can view transparent supply chain and product data starting from the manufacturer to the final consumer. In addition, TEMCO offers a marketplace where vendors and consumers can directly transact using both fiat and TEMCO tokens."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x2fc246aa66f0da5bb1368f688548ecbbe9bdee5d",
+    "url": "https://www.temco.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x2fc246aa66f0da5bb1368f688548ecbbe9bdee5d",
+        "https://ethplorer.io/address/0x2fc246aa66f0da5bb1368f688548ecbbe9bdee5d"
+    ],
+    "twitter": "TEMCOLABS",
+    "facebook": "TEMCOLABS",
+    "telegram": "TEMCOLABS",
+    "reddit": "temcolabs/",
+    "github_org": "temcolabs"
+}

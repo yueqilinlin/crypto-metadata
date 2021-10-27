@@ -1,0 +1,24 @@
+{
+    "id": "earndefi",
+    "symbol": "edc",
+    "name": "EarnDeFi",
+    "platforms": {
+        "huobi-token": "0x68a0a1fef18dfcc422db8be6f0f486dea1999edc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "HECO Chain Ecosystem"
+    ],
+    "description": {
+        "en": "The EDC (Earn DeFi Coin) platform is a one-stop DEFI protocol that specializes in mining heads and has functions such as gathering reasonable wealth, trading, and cross-chain.\r\nEarn DeFi Coin is the first aggregator on Heco and the only vault project in the first phase of Heco's golden creatos. As the leading vault on Heco, EDC uses strategies to greatly increase the revenue of single token staking and LP reinvestment pool. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x68a0a1fef18dfcc422db8be6f0f486dea1999edc",
+    "url": "https://edc.io/",
+    "explorers": [
+        "https://hecoinfo.com/token/0x68a0a1fef18dfcc422db8be6f0f486dea1999edc"
+    ],
+    "twitter": "EarnDefiCoin",
+    "telegram": "earndefiheco"
+}

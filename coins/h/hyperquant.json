@@ -1,0 +1,28 @@
+{
+    "id": "hyperquant",
+    "symbol": "hqt",
+    "name": "HyperQuant",
+    "platforms": {
+        "ethereum": "0x3e1d5a855ad9d948373ae68e4fe1f094612b1322"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "HyperQuant is a professional platform for automated crypto trading, asset management and dApps creation that is based on the cutting-edge AI, Risk Management, Blockchain technologies and Fast Order Delivery protocol. It is made by professional quant traders who know capital management industry inside-out. All market participants from minor crypto investors to professional capital managers, VCs and hedge-funds will have access to a broad variety of intelligent solutions covering all aspects of crypto investment and crypto trading processes."
+    },
+    "country_origin": "EE",
+    "genesis_date": "2018-07-17",
+    "contract_address": "0x3e1d5a855ad9d948373ae68e4fe1f094612b1322",
+    "url": "https://hyperquant.net/en",
+    "explorers": [
+        "https://etherscan.io/token/0x3e1d5a855ad9d948373ae68e4fe1f094612b1322",
+        "https://ethplorer.io/address/0x3e1d5a855ad9d948373ae68e4fe1f094612b1322"
+    ],
+    "twitter": "hyperquant_net",
+    "facebook": "hyperquant.net",
+    "telegram": "hyperquant",
+    "reddit": "HyperQuant/",
+    "github_org": "hyperquant-platform"
+}

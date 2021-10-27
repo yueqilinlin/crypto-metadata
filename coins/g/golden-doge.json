@@ -1,0 +1,23 @@
+{
+    "id": "golden-doge",
+    "symbol": "gdoge",
+    "name": "Golden Doge",
+    "platforms": {
+        "binance-smart-chain": "0xa53e61578ff54f1ad70186be99332a6e20b6ffa9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Golden Doge (GDOGE) is a community token that has its own golden vault which gets filled with 5% of all the transactions made by GDOGE lovers. Every GDOGE holder will be able to take out BNB from this golden vault every 24 hours as much GDOGE token as they hold. The more love you give to Golden Doge, the more gold you will get!"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xa53e61578ff54f1ad70186be99332a6e20b6ffa9",
+    "url": "https://goldendoge.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xA53E61578fF54f1ad70186Be99332a6e20b6ffa9"
+    ],
+    "twitter": "GoldenDoge11",
+    "telegram": "en_goldendoge",
+    "github_org": "Golden-Doge-Token"
+}

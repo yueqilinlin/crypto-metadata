@@ -1,0 +1,21 @@
+{
+    "id": "bitconnectx-genesis",
+    "symbol": "bccx",
+    "name": "BCCXGenesis",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Artificial Intelligence"
+    ],
+    "description": {
+        "en": "A Free community coin,\r\nsupported exclusively by volunteers in our community."
+    },
+    "country_origin": "",
+    "genesis_date": "2019-07-08",
+    "url": "https://www.bccxgenesis.net/",
+    "explorers": [
+        "https://chainz.cryptoid.info/bccx/#"
+    ],
+    "twitter": "Blockchaincoin3",
+    "github_org": "5erendipity"
+}

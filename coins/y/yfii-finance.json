@@ -1,0 +1,29 @@
+{
+    "id": "yfii-finance",
+    "symbol": "yfii",
+    "name": "DFI.money",
+    "platforms": {
+        "ethereum": "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "YFII is a fork of YFI project with YIP-8 implementation"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83",
+    "url": "https://dfi.money/",
+    "explorers": [
+        "https://etherscan.io/token/0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+        "https://ethplorer.io/address/0xa1d0e215a23d7030842fc67ce582a6afa3ccab83"
+    ],
+    "twitter": "DfiMoney",
+    "telegram": "yfiifinance",
+    "github_org": "yfii"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "launchpool",
+    "symbol": "lpool",
+    "name": "Launchpool",
+    "platforms": {
+        "ethereum": "0x6149c26cd2f7b5ccdb32029af817123f6e37df5b",
+        "binance-smart-chain": "0xcfb24d3c3767364391340a2e6d99c64f1cbd7a3d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad"
+    ],
+    "description": {
+        "en": "Launchpool believe all project stakeholders are as important as each other. Investment funds and communities should work side by side on projects, on the same terms, towards the same goals.\r\n\r\nLaunchpool harnesses their strengths, and aligns their incentives, so that the sum is greater than its constituent parts."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6149c26cd2f7b5ccdb32029af817123f6e37df5b",
+    "url": "https://launchpool.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0x6149c26cd2f7b5ccdb32029af817123f6e37df5b",
+        "https://ethplorer.io/address/0x6149c26cd2f7b5ccdb32029af817123f6e37df5b",
+        "https://bscscan.com/token/0xcfb24d3c3767364391340a2e6d99c64f1cbd7a3d"
+    ],
+    "twitter": "LaunchPoolXYZ",
+    "telegram": "launchpoolxyz",
+    "github_org": "Launchpool"
+}

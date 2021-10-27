@@ -1,0 +1,24 @@
+{
+    "id": "debitcoin",
+    "symbol": "dbtc",
+    "name": "Debitcoin",
+    "platforms": {
+        "ethereum": "0x95408930d6323ac7aa69e6c2cbfe58774d565fa8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A peer-to-peer digital token system. Coins will be earned by contributing in any way. If you are interested in the idea and are willing to volunteer your time in exchange for coins, please contact us. Distributed under the MIT/X11 software license, ref github docs."
+    },
+    "country_origin": "",
+    "genesis_date": "2016-04-27",
+    "contract_address": "0x95408930d6323ac7aa69e6c2cbfe58774d565fa8",
+    "url": "https://debitcoin.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0x95408930d6323Ac7aa69e6C2CBFE58774D565fa8",
+        "https://ethplorer.io/address/0x95408930d6323ac7aa69e6c2cbfe58774d565fa8"
+    ],
+    "twitter": "debitcoinxyz",
+    "reddit": "debitcoin",
+    "github_org": "Debitcoin"
+}

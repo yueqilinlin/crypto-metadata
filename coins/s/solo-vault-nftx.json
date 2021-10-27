@@ -1,0 +1,24 @@
+{
+    "id": "solo-vault-nftx",
+    "symbol": "solo",
+    "name": "SOLO Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0x32fb2a84af5515f77515806ea5addb54c923237d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "SOLO Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x32fb2a84af5515f77515806ea5addb54c923237d",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x32Fb2A84aF5515f77515806EA5aDdB54c923237d",
+        "https://ethplorer.io/address/0x32fb2a84af5515f77515806ea5addb54c923237d"
+    ],
+    "twitter": "NFTX_"
+}

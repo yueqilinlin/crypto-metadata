@@ -1,0 +1,23 @@
+{
+    "id": "tiki-token",
+    "symbol": "tiki",
+    "name": "Tiki Token",
+    "platforms": {
+        "binance-smart-chain": "0x9b76d1b12ff738c113200eb043350022ebf12ff0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TIKI is the next evolution of a yield-generating contract on the Binance Smart Chain (BSC): you get rewarded in BNB instead of tokens. \r\n\r\nThe token contract employs a static rewards system of 15% of every transaction split in two:\r\n\r\n- 10% BNB is redistributed to holders\r\n- 5% is used to fuel the liquidity pool exchange growth\r\n- The contract keeps track in an array of all token holders\r\n- The contract keeps an index into the array for processing\r\n- Every transaction processes a certain number of users, depending on the transaction size (bigger token transfers can process more, since the gas will still be proportionally less than the value of the tokens)\r\n- The token is based on a Dividend-Paying Token Standard, which means all BNB the contract gains will be split equally proportionally to the token holders.\r\n- When a user is processed, the contract checks how many withdrawable dividends they have, and if it is above the minimum threshold for auto-claims, will either automatically claim those dividends for BNB, or automatically buy back tokens for them.\r\n\r\nThis system is fully automated and doesn't add minimal gas fees proportional to value transferred. The number of holders processed through each transaction is dynamic and based on transaction size. Holders will receive dividends from the queue based on their position in the array. It's a fair system, fully automated."
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0x9b76d1b12ff738c113200eb043350022ebf12ff0",
+    "url": "https://www.tikitoken.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x9b76D1B12Ff738c113200EB043350022EBf12Ff0"
+    ],
+    "twitter": "realtikitoken",
+    "telegram": "tikicommunity",
+    "reddit": "tikicommunity/"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "mate",
+    "symbol": "mate",
+    "name": "Mate",
+    "platforms": {
+        "binance-smart-chain": "0x2198b69b36b86f250549d26d69c5957912a34ec2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Mate is a BSC limit order DEX utilising AMMs to guarantee order execution."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2198b69b36b86f250549d26d69c5957912a34ec2",
+    "url": "https://usemate.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x2198b69b36b86f250549d26d69c5957912a34ec2"
+    ],
+    "twitter": "usemate_",
+    "telegram": "usemate"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "carrot-token",
+    "symbol": "carrot",
+    "name": "Carrot Token",
+    "platforms": {
+        "binance-smart-chain": "0xe0e5c579eb4635df3118a05fbf3cf85c7df3a078"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Carrot is created with a sole purpose to allow investors to collect $BNB while holding $CARROT. This business model is relatively new in the market. Allowing Carrot Project to be a potential hit token in the Cryptocurrency World."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xe0e5c579eb4635df3118a05fbf3cf85c7df3a078",
+    "url": "https://carrottoken.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xE0e5c579eb4635Df3118a05FbF3cf85c7df3a078"
+    ],
+    "twitter": "carrot_token",
+    "telegram": "carrot_en",
+    "github_org": "carrottoken"
+}

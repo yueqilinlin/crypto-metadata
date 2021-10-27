@@ -1,0 +1,25 @@
+{
+    "id": "bezop",
+    "symbol": "bez",
+    "name": "Bezop",
+    "platforms": {
+        "ethereum": "0x3839d8ba312751aa0248fed6a8bacb84308e20ed"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bezop is a decentralized peer to peer e-commerce order management and processing system powered by smart contracts, an autonomous buyer-seller protection service and a simple vat collection system all built on a decentralized blockchain network. bezop aims to provide an open source and complete solution for running a successful ecommerce business online. Merchants can participate by selling products and services on their self-hosted e-commerce stores (the Bezop DOM) and broadcast orders to the network. The Bezop market runs on a blockchain with a native erc-20 protocol token (also called \u201cbezop\u201d), which miners earn on the ethereum blockchain by proof of work. Clients spend Bezop in purchasing goods and services on Bezop DOM and other integrated sites offering services and accepting payment in Bezops. "
+    },
+    "country_origin": "GB",
+    "genesis_date": "2017-12-14",
+    "contract_address": "0x3839d8ba312751aa0248fed6a8bacb84308e20ed",
+    "url": "https://bezop.io",
+    "explorers": [
+        "https://etherscan.io/token/0x3839d8ba312751aa0248fed6a8bacb84308e20ed",
+        "https://ethplorer.io/address/0x3839d8ba312751aa0248fed6a8bacb84308e20ed"
+    ],
+    "twitter": "BezopNetwork",
+    "telegram": "bezop",
+    "reddit": "bezop",
+    "github_org": "bezopteam"
+}

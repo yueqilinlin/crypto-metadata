@@ -1,0 +1,21 @@
+{
+    "id": "scholarship-coin",
+    "symbol": "scho",
+    "name": "Scholarship Coin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Scholarship Coin (SCHO) is a decentralized peer-to-peer electronic cryptocurrency that has been created with the ambition to power a scholarship system that will incentivize students based on their academic performance in their recognized institution. "
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "url": "https://scholarshipcoin.org/",
+    "explorers": [
+        "https://explorer.scholarshipcoin.org/"
+    ],
+    "twitter": "CoinScholarship",
+    "telegram": "ScholarshipCoin",
+    "reddit": "Scholarship_Coin/",
+    "github_org": "scholarshipcoin"
+}

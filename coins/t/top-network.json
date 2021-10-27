@@ -1,0 +1,27 @@
+{
+    "id": "top-network",
+    "symbol": "top",
+    "name": "TOP Network",
+    "platforms": {
+        "ethereum": "0xdcd85914b8ae28c1e62f1c488e1d968d5aaffe2b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "TOP Network is a high-performance blockchain with a powerful array of service-level infrastructures, including the world\u2019s first decentralized cloud communication services. TOP aims to build a business-friendly blockchain platform that handles real-word business of any type, size or volume on the blockchain."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xdcd85914b8ae28c1e62f1c488e1d968d5aaffe2b",
+    "url": "https://www.topnetwork.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xdcD85914b8aE28c1E62f1C488E1D968D5aaFfE2b",
+        "https://ethplorer.io/address/0xdcd85914b8ae28c1e62f1c488e1d968d5aaffe2b"
+    ],
+    "twitter": "topnetwork_top",
+    "facebook": "topnetworktop",
+    "telegram": "topnetwork_top",
+    "reddit": "TOP_Network/"
+}

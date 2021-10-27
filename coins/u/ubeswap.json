@@ -1,0 +1,22 @@
+{
+    "id": "ubeswap",
+    "symbol": "ube",
+    "name": "Ubeswap",
+    "platforms": {
+        "celo": "0x00be915b9dcf56a3cbe739d9b9c202ca692409ec"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ubeswap is an automated market maker on the Celo blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x00be915b9dcf56a3cbe739d9b9c202ca692409ec",
+    "url": "https://ubeswap.org",
+    "explorers": [],
+    "twitter": "ubeswap",
+    "facebook": "ubeswap",
+    "reddit": "ubeswap",
+    "github_org": "ubeswap"
+}

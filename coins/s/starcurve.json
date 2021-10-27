@@ -1,0 +1,24 @@
+{
+    "id": "starcurve",
+    "symbol": "xstar",
+    "name": "StarDEX",
+    "platforms": {
+        "ethereum": "0xc0e47007e084eef3ee58eb33d777b3b4ca98622f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Advanced DeFi swap interface including a fair fee distribution system and advanced matching engine. "
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0xc0e47007e084eef3ee58eb33d777b3b4ca98622f",
+    "url": "https://stardex.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xc0e47007e084eef3ee58eb33d777b3b4ca98622f",
+        "https://ethplorer.io/address/0xc0e47007e084eef3ee58eb33d777b3b4ca98622f"
+    ],
+    "twitter": "stardexio",
+    "telegram": "stardexio",
+    "github_org": "stardexio"
+}

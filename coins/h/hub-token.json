@@ -1,0 +1,24 @@
+{
+    "id": "hub-token",
+    "symbol": "hub",
+    "name": "Hub Token",
+    "platforms": {
+        "ethereum": "0xba358b6f5b4c0215650444b8c30d870b55050d2d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Billions of users on the Internet interact with each other every day on messengers, online communities, social networks and peer-to-peer marketplaces, making contact with people they never met let alone trust."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xba358b6f5b4c0215650444b8c30d870b55050d2d",
+    "url": "https://hubtoken.org",
+    "explorers": [
+        "https://etherscan.io/token/0xba358b6f5b4c0215650444b8c30d870b55050d2d",
+        "https://ethplorer.io/address/0xba358b6f5b4c0215650444b8c30d870b55050d2d"
+    ],
+    "twitter": "hubtoken",
+    "telegram": "hubtoken",
+    "github_org": "hubtoken"
+}

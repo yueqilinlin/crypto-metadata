@@ -1,0 +1,23 @@
+{
+    "id": "bridge-finance",
+    "symbol": "bfr",
+    "name": "Bridge Finance",
+    "platforms": {
+        "ethereum": "0x244c5276ea5bb927575417156038d7381b44ab2c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bridge Finance brings Equity Swaps to the world of retail investing allowing users to invest in both stocks and crypto currencies at the same time without selling their assets, but simply unlocking liquidity from them."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x244c5276ea5bb927575417156038d7381b44ab2c",
+    "url": "https://bridgefinance.net",
+    "explorers": [
+        "https://etherscan.io/token/0x244c5276ea5bb927575417156038d7381b44ab2c",
+        "https://ethplorer.io/address/0x244c5276ea5bb927575417156038d7381b44ab2c"
+    ],
+    "twitter": "_bridgefinance",
+    "telegram": "bridgefinance"
+}

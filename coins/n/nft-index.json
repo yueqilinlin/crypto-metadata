@@ -1,0 +1,25 @@
+{
+    "id": "nft-index",
+    "symbol": "nfti",
+    "name": "NFT Index",
+    "platforms": {
+        "ethereum": "0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index"
+    ],
+    "description": {
+        "en": "The NFT Index is a digital asset index designed to track tokens\u2019 performance within the NFT industry. The index is weighted based on the value of each token\u2019s circulating supply. The NFT Index aims to track NFT projects in Decentralized Finance that show a commitment to ongoing maintenance and development."
+    },
+    "country_origin": "UA",
+    "genesis_date": null,
+    "contract_address": "0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c",
+    "url": "https://nftindex.tech/",
+    "explorers": [
+        "https://etherscan.io/token/0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c",
+        "https://ethplorer.io/address/0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c"
+    ],
+    "twitter": "PRO_BLOCKCHAIN",
+    "telegram": "Pro_Blockchain"
+}

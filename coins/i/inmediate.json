@@ -1,0 +1,28 @@
+{
+    "id": "inmediate",
+    "symbol": "dit",
+    "name": "Direct Insurance Token",
+    "platforms": {
+        "ethereum": "0xf14922001a2fb8541a433905437ae954419c2439"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Many Insurers are exploring blockchain and smart contract supported products.\r\nYet an ecosystem is still missing. One that can bring these policies to the market in a convenient, consistent, and coordinated manner.\r\nInmediate fills that gap. We will provide the Insurance industry with that ecosystem where Smart Contract Insurance can be transacted at lightning speed, full clarity, and at much lower costs than ever imagined."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xf14922001a2fb8541a433905437ae954419c2439",
+    "url": "https://inmediate.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xf14922001a2fb8541a433905437ae954419c2439",
+        "https://ethplorer.io/address/0xf14922001a2fb8541a433905437ae954419c2439"
+    ],
+    "twitter": "Inmediatesg",
+    "facebook": "inmediatesg",
+    "telegram": "inmediate",
+    "reddit": "inmediate",
+    "github_org": "Inmediate"
+}

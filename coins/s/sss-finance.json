@@ -1,0 +1,23 @@
+{
+    "id": "sss-finance",
+    "symbol": "SSS",
+    "name": "SSS Finance",
+    "platforms": {
+        "ethereum": "0x8d7db6a562764b437f3248031f886359b4183cc4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"100% owned by the community members.\r\nThere is no team. No lead dev. No dev wallet. No premine.\r\nEverything is decided by members' vote.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8d7db6a562764b437f3248031f886359b4183cc4",
+    "url": "https://sss.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x8d7db6a562764b437f3248031f886359b4183cc4",
+        "https://ethplorer.io/address/0x8d7db6a562764b437f3248031f886359b4183cc4"
+    ],
+    "twitter": "finance_sss",
+    "telegram": "sssfinance"
+}

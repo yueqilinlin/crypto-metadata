@@ -1,0 +1,24 @@
+{
+    "id": "onx-finance",
+    "symbol": "onx",
+    "name": "OnX Finance",
+    "platforms": {
+        "ethereum": "0xe0ad1806fd3e7edf6ff52fdb822432e847411033"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe0ad1806fd3e7edf6ff52fdb822432e847411033",
+    "url": "https://onx.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xe0ad1806fd3e7edf6ff52fdb822432e847411033",
+        "https://ethplorer.io/address/0xe0ad1806fd3e7edf6ff52fdb822432e847411033"
+    ],
+    "twitter": "OnXFinance",
+    "telegram": "OnXFi",
+    "github_org": "OnXFinance"
+}

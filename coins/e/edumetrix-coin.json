@@ -1,0 +1,24 @@
+{
+    "id": "edumetrix-coin",
+    "symbol": "emc",
+    "name": "EduMetrix Coin",
+    "platforms": {
+        "ethereum": "0x0a425122852ed351946a828b348bfdcda51effd8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Founded in November 2017, EduMetrix is a revolutionary decentralized educational platform powered by the blockchain technology. Taking a detour from the rote method of imparting information and knowledge, EduMetrix aims to build the bridge between all the stakeholders in the global education ecosystem. Closing the knowledge gaps by improving accessibility to learning tools and resources in a secure environment offers EduMetrix its distinctive identity when it comes to education in the digital."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0a425122852ed351946a828b348bfdcda51effd8",
+    "url": "https://edumetrix.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x0a425122852ed351946a828b348bfdcda51effd8",
+        "https://ethplorer.io/address/0x0a425122852ed351946a828b348bfdcda51effd8"
+    ],
+    "twitter": "Edumetrix_io",
+    "facebook": "edumetrix.io",
+    "telegram": "Contact_EduMetrix"
+}

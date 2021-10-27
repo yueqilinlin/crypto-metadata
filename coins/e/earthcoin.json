@@ -1,0 +1,21 @@
+{
+    "id": "earthcoin",
+    "symbol": "eac",
+    "name": "Earthcoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Earthcoin is a descendant of Litecoin. Earthcoin uses a 365 day period and its block reward varies in a sine curve with an amplitude of 2,000 over a period of one year (like the Earth moving around the Sun). \r\n\r\nEarthcoin block reward starts at 10,000 coins and adjusts at each block. A maximum of 12,000 coins per block will be reached after about 3 months from launch, then descend gradually to approximately 10,000 coins per block at about 6 months. Then a new minimum of 8,000 coins per block will be reached at about 9 months and this figure goes back up again to 10,000 coins per block after one year. After this, the payout is cut in half."
+    },
+    "country_origin": "",
+    "genesis_date": "2013-12-21",
+    "url": "http://earthcoin.io",
+    "explorers": [
+        "http://earthchain.info/chain/EarthCoin"
+    ],
+    "twitter": "earthcoin_cc",
+    "facebook": "earthcoin.official",
+    "reddit": "earthcoin",
+    "github_org": "earthcoinproject"
+}

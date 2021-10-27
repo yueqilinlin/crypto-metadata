@@ -1,0 +1,25 @@
+{
+    "id": "wrapped-virgin-gen-0-cryptokitties",
+    "symbol": "wvg0",
+    "name": "Wrapped Virgin Gen-0 CryptoKittties",
+    "platforms": {
+        "ethereum": "0x25c7b64a93eb1261e130ec21a3e9918caa38b611"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "Wrapped Virgin Gen 0 (WVG0) is an ERC20 token, backed 1:1 by an ERC721 virgin Generation 0 CryptoKitty."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x25c7b64a93eb1261e130ec21a3e9918caa38b611",
+    "url": "https://www.wrappered.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x25c7b64a93eb1261e130ec21a3e9918caa38b611",
+        "https://ethplorer.io/address/0x25c7b64a93eb1261e130ec21a3e9918caa38b611"
+    ],
+    "twitter": "CryptoKitties"
+}

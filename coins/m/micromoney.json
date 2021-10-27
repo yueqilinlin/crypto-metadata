@@ -1,0 +1,25 @@
+{
+    "id": "micromoney",
+    "symbol": "amm",
+    "name": "MicroMoney",
+    "platforms": {
+        "ethereum": "0x8b1f49491477e0fb46a29fef53f1ea320d13c349"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MicroMoney A.I. platform uses complex algorithms to predict creditworthiness of all customers and in just 15 minutes a borrower can get their very first loan in his/her life just from their smartphone. All customers have an ability to pay less interest and have a higher credit rating, if they use our platform more often . All aggregated Big Data and Credit Histories are stored on the Blockchain. Thousands of existing businesses will get access to millions of new customers which we will bring to the global economy."
+    },
+    "country_origin": "KH",
+    "genesis_date": "2017-09-13",
+    "contract_address": "0x8b1f49491477e0fb46a29fef53f1ea320d13c349",
+    "url": "https://www.micromoney.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x8b1f49491477e0fb46a29fef53f1ea320d13c349",
+        "https://ethplorer.io/address/0x8b1f49491477e0fb46a29fef53f1ea320d13c349"
+    ],
+    "twitter": "MicromoneyIO",
+    "facebook": "micromoneymyanmar",
+    "telegram": "micromoneyico",
+    "github_org": "micro-money"
+}

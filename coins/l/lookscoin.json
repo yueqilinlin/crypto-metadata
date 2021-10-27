@@ -1,0 +1,28 @@
+{
+    "id": "lookscoin",
+    "symbol": "looks",
+    "name": "LooksCoin",
+    "platforms": {
+        "binance-smart-chain": "0x73cba57ad8bc775a5345d9a0de2e90c74621d802"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "LookRev uses blockchain technology, automating the registration, distribution and payment process for creative asset, offering product maker, designer and contributor the modern toolset to make living using their creativity.\r\nLookRev (LOOK) coin is tradable token obtained for contributing creativity and content on the LookRev network, exchangeable for receiving goods and services on the platform.\r\nAfter the beta sale, LookRev development team has focused on developing the platform, and has since then successfully launched its beta product suites and service dashboard. LookRev has a dozen products in its product suite, fast growing user base, gained nearly billions of shopper views. LOOK token is a functional utility token actively used on the platform."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x73cba57ad8bc775a5345d9a0de2e90c74621d802",
+    "url": "https://lookscoin.com/",
+    "explorers": [
+        "https://explorer.bitquery.io/bsc/token/0x73cba57ad8bc775a5345d9a0de2e90c74621d802",
+        "https://bscscan.com/token/0x73cba57ad8bc775a5345d9a0de2e90c74621d802"
+    ],
+    "twitter": "lookscoin",
+    "facebook": "LookRev",
+    "telegram": "lookrevcommunity",
+    "reddit": "lookrev",
+    "github_org": "LookRevTeam"
+}

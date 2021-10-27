@@ -1,0 +1,24 @@
+{
+    "id": "proto-gold-fuel",
+    "symbol": "proto",
+    "name": "Proto Gold Fuel",
+    "platforms": {
+        "binance-smart-chain": "0xb9df47c637d481af168ff5e13d9a4b1e5874b6f8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Proto.Gold is a deflationary, exclusive charitable savings and rewards protocol. Our three synergistic tokens and unique DAO governance ensure both community involvement and security. A central premise of our ecosystem is to provide support for charitable institutions throughout the world and help those less fortunate. Our motto is \"\"By the People, For the People.\"\" In support of our community, our custom-made codebase is thoroughly tested and addresses all of the typical risks associated with current exploits. Further enhancing Proto.Gold\u2019s security, our uncirculating supply is subject to a hard-coded lockup.\r\nIndustry wide, we aim to enhance the security of DeFi."
+    },
+    "country_origin": "DK",
+    "genesis_date": null,
+    "contract_address": "0xb9df47c637d481af168ff5e13d9a4b1e5874b6f8",
+    "url": "https://proto.gold/",
+    "explorers": [
+        "https://bscscan.com/token/0xb9df47c637d481af168ff5e13d9a4b1e5874b6f8"
+    ],
+    "twitter": "Proto_Gold",
+    "telegram": "Proto_Gold",
+    "reddit": "ProtoGold/",
+    "github_org": "Proto-Gold"
+}

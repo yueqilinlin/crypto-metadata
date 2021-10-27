@@ -1,0 +1,23 @@
+{
+    "id": "arbiswap",
+    "symbol": "aswap",
+    "name": "Arbiswap",
+    "platforms": {
+        "ethereum": "0xad0887734461af8c6033068bde4047dbe84074cc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xad0887734461af8c6033068bde4047dbe84074cc",
+    "url": "https://arbiswap.online/",
+    "explorers": [
+        "https://etherscan.io/token/0xad0887734461aF8C6033068bDE4047Dbe84074cc",
+        "https://ethplorer.io/address/0xad0887734461aF8C6033068bDE4047Dbe84074cc"
+    ],
+    "twitter": "Arbiswaponline",
+    "telegram": "arbiswapchannel"
+}

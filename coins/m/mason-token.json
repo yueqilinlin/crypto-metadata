@@ -1,0 +1,24 @@
+{
+    "id": "mason-token",
+    "symbol": "mason",
+    "name": "Mason Token",
+    "platforms": {
+        "ethereum": "0x3d2c03b2504e4e593169fac757788aac9d303a4e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mason is not only a rebase token whose price always goes up, but also a governance token of Masonry ecosystem consisting of staking and Masonry NFT marketplace.\r\nWe split our users into 3 masonic degrees and each user is rewarded based on their masonic degree. There are 3 degrees - Master Mason, Fellowcraft, and Entered Apprentice."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3d2c03b2504e4e593169fac757788aac9d303a4e",
+    "url": "https://masontoken.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x3d2c03b2504e4e593169fac757788aac9d303a4e",
+        "https://ethplorer.io/address/0x3d2c03b2504e4e593169fac757788aac9d303a4e"
+    ],
+    "twitter": "mason_token",
+    "telegram": "masontoken_en",
+    "github_org": "MasonToken"
+}

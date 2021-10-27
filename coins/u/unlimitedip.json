@@ -1,0 +1,24 @@
+{
+    "id": "unlimitedip",
+    "symbol": "uip",
+    "name": "UnlimitedIP",
+    "platforms": {
+        "ethereum": "0x4290563c2d7c255b5eec87f2d3bd10389f991d68"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "UIP (short for UnlimitedIP ) is a recreational copyright intelligent trading platform created by Link Entertainments Technology based on EOS. UnlimitedIP is committed to providing global entertainment IP copyright holders with a very low cost of copyright certificate, copyright certification, copyright registration, copyright trading, online rights protection, content incubation and the one-stop entertainment copyright intellectual service."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-12-26",
+    "contract_address": "0x4290563c2d7c255b5eec87f2d3bd10389f991d68",
+    "url": "http://www.unlimitedip.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4290563c2d7c255b5eec87f2d3bd10389f991d68",
+        "https://ethplorer.io/address/0x4290563c2d7c255b5eec87f2d3bd10389f991d68"
+    ],
+    "twitter": "IPStock_ips",
+    "telegram": "UIPworld",
+    "github_org": "linkentertainments"
+}

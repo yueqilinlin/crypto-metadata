@@ -1,0 +1,24 @@
+{
+    "id": "aurum",
+    "symbol": "aur",
+    "name": "Aurum",
+    "platforms": {
+        "binance-smart-chain": "0x5b6afbd5184638c9c49c485c3de5ed56269ba6cb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Aurum is the gold standard of rewards tokens and BSC security.\r\n\r\nOur powerful tokenomics allows holders to freely choose ANY BSC token to be automatically redistributed as a reward straight to their wallet such as BNB, BUSD, CAKE, SAFEMOON or Binance peg tokens like ETH, XRP and ADA. \r\n\r\nUtility of the token will come in the form of our secure BSC token wallet, with Aurum as the native currency. Holding Aurum will also unlock functions of a cryptocentric security browser that prevents users from being hacked, rugged or scammed whilst browsing and investing within the crypto space."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x5b6afbd5184638c9c49c485c3de5ed56269ba6cb",
+    "url": "https://aurumofficial.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x5b6afbd5184638c9c49c485c3de5ed56269ba6cb"
+    ],
+    "twitter": "AURofficial_",
+    "telegram": "AurOfficial",
+    "reddit": "AURofficial/",
+    "github_org": "aurum-dev"
+}

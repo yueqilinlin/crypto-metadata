@@ -1,0 +1,23 @@
+{
+    "id": "pundi-x-2",
+    "symbol": "pundix",
+    "name": "Pundi X",
+    "platforms": {
+        "ethereum": "0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38",
+    "url": "https://pundix.com",
+    "explorers": [
+        "https://etherscan.io/token/0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38",
+        "https://ethplorer.io/address/0x0FD10b9899882a6f2fcb5c371E17e70FdEe00C38"
+    ],
+    "twitter": "PundiXLabs",
+    "telegram": "Pundix"
+}

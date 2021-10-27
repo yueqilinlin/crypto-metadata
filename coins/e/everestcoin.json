@@ -1,0 +1,23 @@
+{
+    "id": "everestcoin",
+    "symbol": "evcoin",
+    "name": "EverestCoin",
+    "platforms": {
+        "binance-smart-chain": "0x84b7bb9614cf28226d1b0a07499472bc107e3000"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EverestCoin is a Play to Earn Token developed to reward game players with tokens and NFTs. The token took its inspiration from Mount Everest - the tallest surface above water level on earth. \r\n\r\nElements that feature prominently in EverestCoin's technology include NFTs, Gaming activities such as mountain climbing, animal taming and raring, gathering lands and trading/loaning NFTs.\r\n\r\nThe token has built in a unique first-of-its-kind Lottery Concept to encourage buy-wall on its chart and give investors peace of mind that their positions would not lose value because of panic selling. The methodology of the Lottery Concept involves the contract automatically entering any wallet that buys a minimum amount of 0.2 BNB worth of EVCoin tokens into a lottery pool recorded on the contract. At the end of each week, the qualifying addresses that hold a minimum of 50M EVCoin tokens would be entered into a random number picker(off chain), and the winning number is rewarded with the raffle price of $1,000."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x84b7bb9614cf28226d1b0a07499472bc107e3000",
+    "url": "https://EverestCoin.io",
+    "explorers": [
+        "https://bscscan.com/token/0x84b7bb9614cf28226d1b0a07499472bc107e3000"
+    ],
+    "twitter": "CoinEverest",
+    "telegram": "TheEverestCoin",
+    "reddit": "Everestcoin/"
+}

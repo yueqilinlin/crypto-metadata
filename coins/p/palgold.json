@@ -1,0 +1,23 @@
+{
+    "id": "palgold",
+    "symbol": "palg",
+    "name": "PalGold",
+    "platforms": {
+        "tron": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PALG Token is a part of PlayAndLike community. As long as the users stay in the platform, they will earn more PALG Token."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "url": "https://playandlike.com/",
+    "explorers": [
+        "https://tronscan.org/#/token/1003887"
+    ],
+    "twitter": "indiaplayandli1",
+    "facebook": "PALPlayAndLike",
+    "telegram": "playandlikepal",
+    "github_org": "playandlike"
+}

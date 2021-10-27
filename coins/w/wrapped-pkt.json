@@ -1,0 +1,25 @@
+{
+    "id": "wrapped-pkt",
+    "symbol": "wpkt",
+    "name": "Wrapped PKT",
+    "platforms": {
+        "binance-smart-chain": "0x1c25222994531c4ac35e4d94bbf7552c9aa92e32"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"PKT is a new blockchain powered by PacketCrypt, the world\u2019s first bandwidth-hard proof of work (PoW). PKT cloned Bitcoin code and then replaced the PoW with PacketCrypt, which requires bandwidth and encryption, not the high energy computation of Bitcoin and Ethereum PoWs.\r\n\r\nThe PKT Network pays people in PKT Cash every 60 seconds to connect bandwidth and hardware to maintain and scale the network. This community participation aims to keep the network infrastructure decentralized.\r\n\r\nThe purpose of the PKT project is to build a global decentralized ISP powered by the people who are incentivized to connect to the network. This infrastructure powered by the people will also  enable people to get onto the internet without paying a traditional ISP. This is accomplished via mesh networking using cjdns and PKT Network.\r\n\r\n PKT Cash is a community coin: there is no company, no CEO and no VC investment.\r\n\r\nAt the core of PKT is the technology called cjdns which PKT lead dev Caleb James DeLisle launched in 2011. Cjdns enables people who have the internet to be a gateway to the internet for people to get access to the internet without paying a centralized ISP (you can connect P2P through other cjdns gateway nodes).\r\n\r\n(Part of) PHASE 1 of PKT is people monetizing their internet connections (happening now through mining). (Part of) PHASE 2 is gateways being able to provide local internet access to their neighbors via localized mesh networks (worldwide) using cjdns technology.\r\n\r\nPKT also has a Network Steward, which is a wallet addresses elected by POS vote, where 20% of each mined block is paid, and 100% of the funds are granted to the community every 90 days to build open source technology for the network, or else the coins are burned. Over 10% of the mined coin supply has been burned to date.\r\n\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1c25222994531c4ac35e4d94bbf7552c9aa92e32",
+    "url": "https://pkt.cash",
+    "explorers": [
+        "https://bscscan.com/token/0x1c25222994531c4ac35e4d94bbf7552c9aa92e32",
+        "https://explorer.pkt.cash/"
+    ],
+    "twitter": "pkt_cash",
+    "telegram": "pkt_cash",
+    "reddit": "PKTcash/",
+    "github_org": "pkt-cash"
+}

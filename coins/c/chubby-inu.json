@@ -1,0 +1,23 @@
+{
+    "id": "chubby-inu",
+    "symbol": "chinu",
+    "name": "Chubby Inu",
+    "platforms": {
+        "ethereum": "0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Chubby Inu is a new addition to the greater Dogecoin family with an emphasis on community. We want to create an environment where everyone is welcome and nobody misses out on being part of the economic revolution that is the Dogecoin ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x910985ffa7101bf5801dd2e91555c465efd9aab3",
+    "url": "https://chubbyinu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x910985ffa7101bf5801dd2e91555c465efd9aab3",
+        "https://ethplorer.io/address/0x910985ffa7101bf5801dd2e91555c465efd9aab3"
+    ],
+    "twitter": "ChubbyInu2",
+    "telegram": "ChubbyInu"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "pegnet",
+    "symbol": "peg",
+    "name": "PegNet",
+    "platforms": {
+        "factom": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized/DAO, noncustodial, stable coin and crypto token  exchange with fixed fees at $0.001. Already $5bn of asset conversions. Launched v2.0 on August 19th"
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "url": "https://pegnet.org",
+    "explorers": [
+        "https://explorer.pegnetmarketcap.com/"
+    ],
+    "twitter": "getpegnet",
+    "reddit": "PegNet/",
+    "github_org": "pegnet"
+}

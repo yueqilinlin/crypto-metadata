@@ -1,0 +1,28 @@
+{
+    "id": "nolimitcoin",
+    "symbol": "nlc2",
+    "name": "NoLimitCoin",
+    "platforms": {
+        "binance-smart-chain": "0x6519cb1f694ccbcc72417570b364f2d051eefb9d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "Binance Smart Chain Ecosystem",
+        "Gaming",
+        "Sports"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2016-11-11",
+    "contract_address": "0x6519cb1f694ccbcc72417570b364f2d051eefb9d",
+    "url": "http://www.nolimitcoin.org/",
+    "explorers": [
+        "http://nolimitcoin.info/",
+        "https://bscscan.com/token/0x6519cb1F694CcBCc72417570b364F2D051EEfb9d"
+    ],
+    "twitter": "NoLimitCoin",
+    "github_org": "NoLimitCoin"
+}

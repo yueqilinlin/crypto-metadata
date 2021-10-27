@@ -1,0 +1,23 @@
+{
+    "id": "easyswap",
+    "symbol": "eswa",
+    "name": "EasySwap",
+    "platforms": {
+        "ethereum": "0xa0471cdd5c0dc2614535fd7505b17a651a8f0dab"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "EasySwap makes trading seamless and protects your portfolio from the high volatility of crypto markets, shielding it from turbulence and ensuring you remain profitable while still having the time to spend on your family and personal life."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa0471cdd5c0dc2614535fd7505b17a651a8f0dab",
+    "url": "https://easyswap.trade",
+    "explorers": [
+        "https://etherscan.io/token/0xa0471cdd5c0dc2614535fd7505b17a651a8f0dab",
+        "https://ethplorer.io/address/0xa0471cdd5c0dc2614535fd7505b17a651a8f0dab"
+    ]
+}

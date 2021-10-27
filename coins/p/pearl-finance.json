@@ -1,0 +1,22 @@
+{
+    "id": "pearl-finance",
+    "symbol": "pearl",
+    "name": "Pearl Finance",
+    "platforms": {
+        "tron": "TGbu32VEGpS4kDmjrmn5ZZJgUyHQiaweoq"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The First YFI on Tron"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TGbu32VEGpS4kDmjrmn5ZZJgUyHQiaweoq",
+    "url": "https://pearl.finance",
+    "explorers": [
+        "https://tronscan.org/#/token20/TGbu32VEGpS4kDmjrmn5ZZJgUyHQiaweoq"
+    ],
+    "twitter": "TronFi_io",
+    "telegram": "TronFi_io"
+}

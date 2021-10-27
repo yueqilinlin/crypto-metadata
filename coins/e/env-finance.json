@@ -1,0 +1,24 @@
+{
+    "id": "env-finance",
+    "symbol": "env",
+    "name": "ENV Finance",
+    "platforms": {
+        "binance-smart-chain": "0x4d2b1966f347e48b2d247f684d7677854083e4ab"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The environment and finance are two topics that are apparently poles apart. So, it would seem impossible to merge their objectives into one.\r\nEnv finance aims to bring the environment and finance together, by rewarding people for contributing to sustainable projects all around the world. Env finance will verify and propose suitable initiatives with increasing environmental impact, binance smart chain technology will track and publish in real time all the contributions and financial reports of the initiatives. Contributors will be rewarded with env token emission, when a project is financed, and when it is realized."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4d2b1966f347e48b2d247f684d7677854083e4ab",
+    "url": "https://env.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x4D2b1966F347E48B2d247F684d7677854083E4AB"
+    ],
+    "twitter": "env_finance",
+    "facebook": "ENVFinance",
+    "telegram": "env_finance",
+    "github_org": "ENVFinance"
+}

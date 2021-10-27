@@ -1,0 +1,23 @@
+{
+    "id": "infinity-protocol-bsc",
+    "symbol": "infinity",
+    "name": "Infinity Protocol BSC",
+    "platforms": {
+        "binance-smart-chain": "0xf27a589281e1b933e122dfe306ebfd02b061850f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Infinity is the first project to bake in hyper-innovation; that is to say it fosters and can deploy innovative new ideas through embedded mechanisms on an ongoing basis.\r\nPositive-only rebases redistribute Fee On Transfer (FOT) tokens to holders at the end of each dynamic FOT cycle. Liquid Vaults create a hyper-competitive framework where additional deflation can also be governed."
+    },
+    "country_origin": "ZA",
+    "genesis_date": null,
+    "contract_address": "0xf27a589281e1b933e122dfe306ebfd02b061850f",
+    "url": "https://bsc.infinityprotocol.io",
+    "explorers": [
+        "https://bscscan.com/token/0xF27A589281e1B933E122dFe306EbfD02B061850F"
+    ],
+    "twitter": "infinity_proto",
+    "telegram": "infinityprotocol",
+    "github_org": "degen-vc"
+}

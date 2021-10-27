@@ -1,0 +1,23 @@
+{
+    "id": "gerowallet",
+    "symbol": "gero",
+    "name": "GeroWallet",
+    "platforms": {
+        "ethereum": "0x3431f91b3a388115f00c5ba9fdb899851d005fb5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GeroWallet is an all-in-one DeFi app designed to be a powerful instrument for experienced and new users, alike. GeroWallet delivers a redefined UX by focusing on a user-centric design. Our product features a built-in multi-functional toolkit that boasts inter-chain and cross-chain swapping, with liquidity lock features. Wallet capabilities will expand with staking, swapping, and fiat on/off-ramp functions. Complementing this kit, the $GERO token will be implemented as a medium for all in-wallet transaction fees."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3431f91b3a388115f00c5ba9fdb899851d005fb5",
+    "url": "https://gerowallet.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3431F91b3a388115F00C5Ba9FdB899851D005Fb5",
+        "https://ethplorer.io/address/0x3431F91b3a388115F00C5Ba9FdB899851D005Fb5"
+    ],
+    "twitter": "GeroWallet",
+    "telegram": "GeroWallet"
+}

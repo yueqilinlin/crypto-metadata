@@ -1,0 +1,26 @@
+{
+    "id": "metal",
+    "symbol": "mtl",
+    "name": "Metal",
+    "platforms": {
+        "ethereum": "0xf433089366899d83a9f26a773d59ec7ecf30355e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Metal (MTL) is a blockchain project that wants to simplify cryptocurrencies and make them more accessible to the general public. Metal aims to allow users to transfer money instantly around the globe with nothing more than a phone number. Earn rewards every time you spend or make a purchase. Ditch the bank and go digital.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/metal-mtl/\">CoinBureau</a> for the full review of Metal."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xf433089366899d83a9f26a773d59ec7ecf30355e",
+    "url": "https://www.metalpay.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xF433089366899D83a9f26A773D59ec7eCF30355e",
+        "https://ethplorer.io/address/0xf433089366899d83a9f26a773d59ec7ecf30355e"
+    ],
+    "twitter": "metalpaysme",
+    "telegram": "MetalPayCommunity",
+    "reddit": "MetalPay/"
+}

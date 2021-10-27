@@ -1,0 +1,24 @@
+{
+    "id": "soliddefi",
+    "symbol": "solid",
+    "name": "SolidDefi",
+    "platforms": {
+        "ethereum": "0x5011d48d4265b6fb8228600a111b2faa1fda3139"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SolidDefi is a project that is based on the idea of anti-inflation, since there is constant minting of currency among countries, we aim to provide a solution which could catch up with inflation, the first logarithm curve on defi(Solid protocol) is implemented and could be used to stabilize the market while rewarding holders of a token. We aim to revolute the defi space with Solid"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5011d48d4265b6fb8228600a111b2faa1fda3139",
+    "url": "https://www.soliddefi.com",
+    "explorers": [
+        "https://etherscan.io/token/0x5011d48d4265b6fb8228600a111b2faa1fda3139",
+        "https://ethplorer.io/address/0x5011d48d4265b6fb8228600a111b2faa1fda3139"
+    ],
+    "twitter": "soliddefi",
+    "telegram": "soliddefi",
+    "github_org": "SolidDefi"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "bitcoin-instant",
+    "symbol": "bti",
+    "name": "Bitcoin Instant",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "Bitcoin Instant was created witht he vision to enable development of specialized cutting edge <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> applications that could not be safely run on Bitcoin's main chain. Smart property, distributed-immutable exchanges, secure proof of existence/notary web applications. \"Open-source coinmarketcap with realtime data\".\r\n\r\nBitcoin Instant open source, peer to peer software empowers a growing number of international artists, journalists & creators of free speech media."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://www.bitcoinstant.org/",
+    "explorers": [
+        "http://abe.getbitcoininstant.org:2750/chain/Instant"
+    ],
+    "telegram": "bitcoin_instant"
+}

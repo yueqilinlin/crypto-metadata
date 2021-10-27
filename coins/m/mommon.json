@@ -1,0 +1,24 @@
+{
+    "id": "mommon",
+    "symbol": "mmon",
+    "name": "Mammon",
+    "platforms": {
+        "binance-smart-chain": "0xa9f179c99567d6d671c3ac5edf206f5fc647483f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mammon (MMON) based on bsc blockchain to pay trading on coffe industry import and export from Central America El Salvador, Honduras, Guatemala, Costa Rica and Panam\u00e1"
+    },
+    "country_origin": "SV",
+    "genesis_date": null,
+    "contract_address": "0xa9f179c99567d6d671c3ac5edf206f5fc647483f",
+    "url": "https://www.mammon.money/",
+    "explorers": [
+        "https://bscscan.com/token/0xa9f179c99567d6d671c3ac5edf206f5fc647483f"
+    ],
+    "twitter": "Mammon_DeFi",
+    "facebook": "Mammon-DeFi-105290618128505",
+    "telegram": "MammonDiscussion",
+    "github_org": "CoffeIndustry-MMON"
+}

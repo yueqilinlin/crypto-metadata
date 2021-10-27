@@ -1,0 +1,29 @@
+{
+    "id": "localcoinswap",
+    "symbol": "lcs",
+    "name": "LocalCoinSwap",
+    "platforms": {
+        "ethereum": "0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Polkadot Ecosystem",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "LocalCoinSwap is building a P2P cryptocurrency exchange and launching an associated Cryptoshare ICO.\r\n\r\nLocalCoinSwap features a completely decentralized peer-to-peer trading structure. There are no centralized bank accounts, no verification requirements, and no restrictions on trade.\r\n\r\nFurthermore LocalCoinSwap distributes 100% of the sites profits to holders of Cryptoshares on a 1-to-1 basis, through a blockchain-based decentralized dividend application."
+    },
+    "country_origin": "HK",
+    "genesis_date": "2018-03-14",
+    "contract_address": "0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8",
+    "url": "https://www.localcoinswap.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8",
+        "https://ethplorer.io/address/0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8"
+    ],
+    "twitter": "Localcoinswap_",
+    "facebook": "localcoinswap",
+    "telegram": "localcoinswap",
+    "reddit": "Localcoinswap",
+    "github_org": "LocalCoinSwap"
+}

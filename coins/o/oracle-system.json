@@ -1,0 +1,21 @@
+{
+    "id": "oracle-system",
+    "symbol": "orc",
+    "name": "Oracle System",
+    "platforms": {
+        "ethereum": "0x324af2d5353f2dd138e234b359d30d67c64b1b20"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ORC is a token that can be used for transaction fees by using cryptocurrency ATMs. By innovating the existing cash - cryptocurrency deposit ATM technology, ORC's goal is to support P2P financing between users and to implement De-fi based on ATM devices.\r\n\r\nORC has signed an agreement with BTM (Bitcoin-ATM) and plans to install BTM devices in 10 major tourist destinations in Korea and will also be revealing a supporting cryptocurrency OTC application."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x324af2d5353f2dd138e234b359d30d67c64b1b20",
+    "url": "http://www.oraclesystem.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x324af2d5353f2dd138e234b359d30d67c64b1b20",
+        "https://ethplorer.io/address/0x324af2d5353f2dd138e234b359d30d67c64b1b20"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "openbisea",
+    "symbol": "obs",
+    "name": "OpenBiSea",
+    "platforms": {
+        "binance-smart-chain": "0x490dba6180b089d8e36ebb1e56a33f1ae9b96b87"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OpenBiSea NFT marketplace is a smart contract, and iOS, Android and web UI app. It's a simple, step-by-step guided solution to buy, sell and make auctions (smart contract based) for NFT. The main core smart contracts are built on the Binance Smart Chain (BSC), polygon(exMATIC) and have an Ethereum bridge for NFT assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x490dba6180b089d8e36ebb1e56a33f1ae9b96b87",
+    "url": "https://openbisea.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x490DbA6180b089d8E36eBb1E56a33F1aE9B96b87"
+    ],
+    "twitter": "openbisea",
+    "telegram": "openbisea_en",
+    "reddit": "https://www.reddit.com"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "jd-coin",
+    "symbol": "jdc",
+    "name": "JD Coin",
+    "platforms": {
+        "ethereum": "0x2fe39f22eac6d3c1c86dd9d143640ebb94609fce"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We at JD Coin are different. By different, we mean literally. Our philosophy is enshrined in believing that \u2018Small is Good\u2019.\r\n\r\nSmall is good, even in the world of cryptocurrency. When you see the new & upcoming ICOs all announcing large number of coins in exchange for 1 ETH or 1 BTC, you think\u2026 wow a good deal, right? Actually not. All they are doing is to somehow sell these coins to you and disappear.\r\n\r\nOne gets ecstatic, when one gets 10,000 coins for 1 ETH with a circulating supply of 10 Billion coins. One starts dreaming that you will be Millionaire, if you invest 4 ETH and if this coin hits $10. But unfortunately with such a large supply you would be holding these coins maybe till your retirement or even longer and waiting for its appreciation.\r\n\r\nWe, at JD Coin are about to change this notion. We are just bringing in 84 million coins. All the currencies having less tokens in circulation have appreciated so quickly in price, or as they say in crypto world, gone to the moon. We want to support the JD Community. To be exclusive. To give the power in your hands.\r\n\r\nOur suggestion is to look for the circulating supply when you invest in any cryptocurrency. The more diminutive the circulating supply of coins is, the more bigger it is going to look in your wallet in a few months."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2fe39f22eac6d3c1c86dd9d143640ebb94609fce",
+    "url": "https://www.jdcoin.us/",
+    "explorers": [
+        "https://etherscan.io/token/0x2fe39f22eac6d3c1c86dd9d143640ebb94609fce",
+        "https://jdpool.live/explorer/JDC",
+        "https://ethplorer.io/address/0x2fe39f22eac6d3c1c86dd9d143640ebb94609fce"
+    ],
+    "twitter": "JD_COIN",
+    "facebook": "jdcoin.us",
+    "telegram": "jdcoinjdc",
+    "github_org": "kaykriz"
+}

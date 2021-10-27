@@ -1,0 +1,24 @@
+{
+    "id": "aave-amm-usdt",
+    "symbol": "aAmmUSDT",
+    "name": "Aave AMM USDT",
+    "platforms": {
+        "ethereum": "0x17a79792fe6fe5c95dfe95fe3fcee3caf4fe4cb7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x17a79792fe6fe5c95dfe95fe3fcee3caf4fe4cb7",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x17a79792Fe6fE5C95dFE95Fe3fCEE3CAf4fE4Cb7",
+        "https://ethplorer.io/address/0x17a79792fe6fe5c95dfe95fe3fcee3caf4fe4cb7"
+    ],
+    "twitter": "aaveaave"
+}

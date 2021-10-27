@@ -1,0 +1,22 @@
+{
+    "id": "safe-nebula",
+    "symbol": "snb",
+    "name": "Safe Nebula",
+    "platforms": {
+        "binance-smart-chain": "0x5e7fc3844463745fca858f85d6b90d9a03fcbe93"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Safe Nebula developed on the basis of blockchain technology and available on the Binance Smart Chain. Safe Nebula aimed to launch many new features in the near future like the Nebula DeFi platform, Nebula games, and NFT marketplace. Hence, Nebula is going to become a new ecosystem of the digital world"
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0x5e7fc3844463745fca858f85d6b90d9a03fcbe93",
+    "url": "https://safenebula.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x5e7fc3844463745fca858f85d6b90d9a03fcbe93"
+    ],
+    "twitter": "SafeNebulaToken",
+    "telegram": "SNBinfo"
+}

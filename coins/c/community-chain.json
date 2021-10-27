@@ -1,0 +1,21 @@
+{
+    "id": "community-chain",
+    "symbol": "comc",
+    "name": "Community Chain",
+    "platforms": {
+        "ethereum": "0xa5e99ad202bdd71d3518306cf4dd163261981af1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa5e99ad202bdd71d3518306cf4dd163261981af1",
+    "url": "http://www.comc.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa5e99ad202bdd71d3518306cf4dd163261981af1",
+        "https://ethplorer.io/address/0xa5e99ad202bdd71d3518306cf4dd163261981af1"
+    ]
+}

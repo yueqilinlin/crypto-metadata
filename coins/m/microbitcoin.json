@@ -1,0 +1,23 @@
+{
+    "id": "microbitcoin",
+    "symbol": "mbc",
+    "name": "MicroBitcoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Micro Bitcoin (MBC) is a decentralized peer-to-peer (P2P) payment platform for the micro-economy. It is intended to be a means-of-payment coin, created (forked) from the Bitcoin (BTC) blockchain, and is designed to be used as a fast, flexible and acceptable method of payment which can be used between peers and between traditional businesses and their customers."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://microbitcoin.org/",
+    "explorers": [
+        "https://microbitcoinorg.github.io/explorer/"
+    ],
+    "twitter": "microbitcoinorg",
+    "telegram": "microbitcoinorg",
+    "reddit": "microbitcoinorg/",
+    "github_org": "MicroBitcoinOrg"
+}

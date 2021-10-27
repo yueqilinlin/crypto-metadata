@@ -1,0 +1,25 @@
+{
+    "id": "mousecoin",
+    "symbol": "mic3",
+    "name": "MOUSECOIN",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Number",
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Mousecoin (MIC3) was created based on the Bitcoin protocol. Featuring a functional max coin supply, exchange availability, fast transaction times and the ability to earn by staking in your own wallet, Mousecoin (MIC3) is the perfect cryptocurrency for today's crypto enthusiast."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://mousecoin.network/",
+    "explorers": [
+        "http://mic3.blockexplorer.monster/"
+    ],
+    "twitter": "MIC3_Official",
+    "facebook": "MousecoinOfficial",
+    "telegram": "MousecoinOfficial",
+    "reddit": "https://www.reddit.com",
+    "github_org": "trapier21"
+}

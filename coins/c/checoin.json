@@ -1,0 +1,24 @@
+{
+    "id": "checoin",
+    "symbol": "checoin",
+    "name": "CheCoin",
+    "platforms": {
+        "binance-smart-chain": "0x54626300818e5c5b44db0fcf45ba4943ca89a9e2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CheChoin is a reflection token inspired by the legend of Ernest \u201cChe\u201d Chevara. The idea behind the project is to create a token to give back to the people (in this case to the holders). $CheCoin offers an innovative protocol in its contract : Rewards paid in BNB. Thanks to the auto-claim feature, you just have to hold $CheCoin to receive every hour BNB dividends. Hold $CheCoin and get paid on every transaction. "
+    },
+    "country_origin": "BE",
+    "genesis_date": null,
+    "contract_address": "0x54626300818e5c5b44db0fcf45ba4943ca89a9e2",
+    "url": "https://launch.checoin.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x54626300818e5c5b44db0fcf45ba4943ca89a9e2"
+    ],
+    "twitter": "CheCoinOfficial",
+    "telegram": "checointoken",
+    "reddit": "CheCoin_/",
+    "github_org": "thechecoin"
+}

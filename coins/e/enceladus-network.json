@@ -1,0 +1,24 @@
+{
+    "id": "enceladus-network",
+    "symbol": "encx",
+    "name": "Enceladus Network",
+    "platforms": {
+        "ethereum": "0x20211ab9388781532fece6c57347a0004a420f16"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x20211ab9388781532fece6c57347a0004a420f16",
+    "url": "https://www.enceladusnetwork.com",
+    "explorers": [
+        "https://etherscan.io/token/0x20211ab9388781532fece6c57347a0004a420f16",
+        "https://ethplorer.io/address/0x20211ab9388781532fece6c57347a0004a420f16"
+    ],
+    "twitter": "EnceladusNtwork",
+    "telegram": "Enceladus_announcement",
+    "github_org": "enceladus-code"
+}

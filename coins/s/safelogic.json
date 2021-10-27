@@ -1,0 +1,22 @@
+{
+    "id": "safelogic",
+    "symbol": "safelogic",
+    "name": "Safelogic",
+    "platforms": {
+        "binance-smart-chain": "0x7731cc7c8c3802eb3d3575f481e39865c0e92c91"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SAFELOGIC is a carefully autonomated contract that represents a world where all holders earn from every transaction made. It is configured in such a way that as the value is increasing, the liquidity is also increasing while rewarding holders at the same time."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0x7731cc7c8c3802eb3d3575f481e39865c0e92c91",
+    "url": "https://safelogic.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x7731CC7c8c3802eB3D3575F481e39865c0E92C91"
+    ],
+    "twitter": "Safe_logic",
+    "telegram": "safe_logic"
+}

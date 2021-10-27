@@ -1,0 +1,28 @@
+{
+    "id": "kommunitas",
+    "symbol": "kom",
+    "name": "Kommunitas",
+    "platforms": {
+        "polygon-pos": "0xc004e2318722ea2b15499d6375905d75ee5390b8",
+        "binance-smart-chain": "0x471ea49dd8e60e697f4cac262b5fafcc307506e4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Kommunitas platform\u2019s goal is to allow project teams to focus on their project development and building their products, while the community handle the marketing, exposure and initial user base. We are looking for strong team with a unique and innovative vision in the cryptocurrency industry. "
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0xc004e2318722ea2b15499d6375905d75ee5390b8",
+    "url": "https://kommunitas.net/",
+    "explorers": [
+        "https://polygonscan.com/token/0xc004e2318722ea2b15499d6375905d75ee5390b8/",
+        "https://bscscan.com/token/0x471ea49dd8e60e697f4cac262b5fafcc307506e4"
+    ],
+    "twitter": "kommunitas1",
+    "telegram": "Kommunitas",
+    "reddit": "Kommunitas/",
+    "github_org": "Kommunitas-net"
+}

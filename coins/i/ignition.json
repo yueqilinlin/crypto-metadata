@@ -1,0 +1,24 @@
+{
+    "id": "ignition",
+    "symbol": "ic",
+    "name": "Ignition",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Ignition coin is the next generation of store of value on the blockchain"
+    },
+    "country_origin": "US",
+    "genesis_date": "2017-12-18",
+    "url": "https://www.ignitioncoin.org/",
+    "explorers": [
+        "http://explorer.ignitioncoin.org/",
+        "https://chainz.cryptoid.info/ic/"
+    ],
+    "twitter": "ignition_coin",
+    "facebook": "ignitioncoin",
+    "reddit": "ignitioncoin",
+    "github_org": "ignitioncoin"
+}

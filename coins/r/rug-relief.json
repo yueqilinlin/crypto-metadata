@@ -1,0 +1,23 @@
+{
+    "id": "rug-relief",
+    "symbol": "rr",
+    "name": "Rug Relief",
+    "platforms": {
+        "ethereum": "0x20d7089110c29498d17137f5d9656055105041d1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rug Relief is a community-driven charitable token that provides reimbursement to members who have experienced rugs, honeypots, and other elaborate scams. People often blame the retail investor for being naive but we believe scammers are 100% of the problem. Media coverage of rampant scams cause investors to shy away from tokens which hurts community growth. The first charitable cause that benefits our own community of investors."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x20d7089110c29498d17137f5d9656055105041d1",
+    "url": "https://www.rugrelief.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x20d7089110c29498d17137f5d9656055105041d1",
+        "https://ethplorer.io/address/0x20d7089110c29498d17137f5d9656055105041d1"
+    ],
+    "twitter": "rugrelief",
+    "telegram": "RugRelief"
+}

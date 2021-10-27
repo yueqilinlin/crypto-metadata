@@ -1,0 +1,30 @@
+{
+    "id": "unit-protocol-duck",
+    "symbol": "duck",
+    "name": "Unit Protocol New",
+    "platforms": {
+        "ethereum": "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5",
+        "fantom": "0x602a3ad311e66b6f5e567a13016b712aba0625c6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "Unit protocol is a decentralized borrowing protocol that allows using a variety of tokens as collateral"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5",
+    "url": "https://unit.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0x92e187a03b6cd19cb6af293ba17f2745fd2357d5",
+        "https://ethplorer.io/address/0x92e187a03b6cd19cb6af293ba17f2745fd2357d5"
+    ],
+    "twitter": "unitprotocol",
+    "telegram": "unit_en",
+    "github_org": "unitprotocol"
+}

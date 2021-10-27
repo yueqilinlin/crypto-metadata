@@ -1,0 +1,23 @@
+{
+    "id": "thorswap",
+    "symbol": "thor",
+    "name": "THORSwap",
+    "platforms": {
+        "ethereum": "0xa5f2211b9b8170f694421f2046281775e8468044"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Swap Layer 1 assets, earn yield and bond nodes on the leading DEX powered by THORChain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa5f2211b9b8170f694421f2046281775e8468044",
+    "url": " https://thorswap.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xa5f2211B9b8170F694421f2046281775E8468044",
+        "https://ethplorer.io/address/0xa5f2211b9b8170f694421f2046281775e8468044"
+    ],
+    "twitter": "THORSwap",
+    "telegram": "thorswap_ann"
+}

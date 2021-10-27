@@ -1,0 +1,26 @@
+{
+    "id": "wrapped-origin-axie",
+    "symbol": "woa",
+    "name": "Wrapped Origin Axie",
+    "platforms": {
+        "ethereum": "0xec0a0915a7c3443862b678b0d4721c7ab133fdcf"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Axie Infinity",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "Wrapped Origin Axie Token (WOA) is a token that allows users to wrap Origin Axies and trade them like an erc-20 token. You can only wrap Origin Axies from a common class (beast, plant, aquatic). In addition the Axie cannot contain any mystic parts and can\u2019t have been bred more than 2 times. These limitations ensure that the Origin Axies within the pool are all of similar value.\r\n\r\nWOA can be burnt to redeem a random Origin inside the WOA token pool."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xec0a0915a7c3443862b678b0d4721c7ab133fdcf",
+    "url": "https://axieinfinity.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xEC0A0915A7c3443862B678B0d4721C7aB133FDCf",
+        "https://ethplorer.io/address/0xec0a0915a7c3443862b678b0d4721c7ab133fdcf"
+    ],
+    "twitter": "AxieInfinity"
+}

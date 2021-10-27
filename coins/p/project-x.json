@@ -1,0 +1,16 @@
+{
+    "id": "project-x",
+    "symbol": "nanox",
+    "name": "Project-X",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Project-X ( NANOX ) is a decentralized and open-source cryptocurrency that offers both private and transparent transaction types. \r\nProject-X payments are published on a public blockchain, but the sender, recipient, and amount of a transaction remain private. "
+    },
+    "country_origin": null,
+    "genesis_date": "2017-02-26",
+    "explorers": [
+        "http://207.126.164.144:1337/"
+    ]
+}

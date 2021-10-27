@@ -1,0 +1,24 @@
+{
+    "id": "enex",
+    "symbol": "enx",
+    "name": "ENEX",
+    "platforms": {
+        "ethereum": "0xd0d7a9f2021958e51d60d6966b7bbed9d1cb22b5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ENEX is the first DeFi platform powered by Enecuum Network.\r\nTrade, earn, issue and raise at ENEX.SPACE with uncompromising security and extremely low fees.\r\nENEX.SPACE is DeFi platform built on Enecuum blockchain. ENEX.SPACE functioning based on $ENX token. $ENX represents overall liquidity in ENEX.SPACE and can be used to gain profit from trading operations. From the user\u2019s point of view ENEX.SPACE consists of liquidity pools, treasury and Space Station."
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0xd0d7a9f2021958e51d60d6966b7bbed9d1cb22b5",
+    "url": "https://enex.space/",
+    "explorers": [
+        "https://etherscan.io/token/0xd0d7a9f2021958e51d60d6966b7bbed9d1cb22b5",
+        "https://ethplorer.io/address/0xd0d7a9f2021958e51d60d6966b7bbed9d1cb22b5"
+    ],
+    "twitter": "ENEXSPACE",
+    "telegram": "enexspace",
+    "github_org": "TrinityLabDAO"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "sovranocoin",
+    "symbol": "svr",
+    "name": "SovranoCoin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "SovranoCoin (SVR) aims to offer a fast, secure, and stable cryptocurrency/platform for mass adoption."
+    },
+    "country_origin": "RS",
+    "genesis_date": null,
+    "url": "https://sovranocoin.com/",
+    "explorers": [
+        "http://explorer.sovranocoin.com/",
+        "https://cryptogods.net/explorer/sovranocoin/",
+        "https://bchain.info/SVR/"
+    ],
+    "twitter": "SovranoCoin_svr",
+    "facebook": "SovranoCoin",
+    "telegram": "SovranoCoin",
+    "reddit": "https://www.reddit.com",
+    "github_org": "SovranoCoin"
+}

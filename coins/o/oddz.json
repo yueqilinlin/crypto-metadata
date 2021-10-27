@@ -1,0 +1,30 @@
+{
+    "id": "oddz",
+    "symbol": "oddz",
+    "name": "Oddz",
+    "platforms": {
+        "ethereum": "0xcd2828fc4d8e8a0ede91bb38cf64b1a81de65bf6",
+        "binance-smart-chain": "0xcd40f2670cf58720b694968698a5514e924f742d",
+        "polygon-pos": "0x4e830f67ec499e69930867f9017aeb5b3f629c73"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Oddz is the Multi-chain options trading platform on Binance Smart Chain, Polkadot & Ethereum.\r\n\r\nEnabling users to trade customized options with rewards."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0xcd2828fc4d8e8a0ede91bb38cf64b1a81de65bf6",
+    "url": "https://oddz.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6",
+        "https://ethplorer.io/address/0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6",
+        "https://bscscan.com/token/0xcd40f2670cf58720b694968698a5514e924f742d",
+        "https://polygonscan.com/token/0x4e830F67Ec499E69930867f9017AEb5B3f629c73"
+    ],
+    "twitter": "oddz_finance",
+    "telegram": "oddz_finance",
+    "github_org": "oddz-finance"
+}

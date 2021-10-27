@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-stellar-token",
+    "symbol": "xlmbull",
+    "name": "3X Long Stellar Token",
+    "platforms": {
+        "ethereum": "0x3a43a04d80f9881d88080bf9fa8bb720afb6c966"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Stellar Token (XLMBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Stellar."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3a43a04d80f9881d88080bf9fa8bb720afb6c966",
+    "url": "https://ftx.com/trade/XLMBULL/USD",
+    "explorers": [
+        "https://etherscan.io/token/0x3a43a04D80F9881d88080bf9fA8bB720AFb6c966",
+        "https://ethplorer.io/address/0x3a43a04d80f9881d88080bf9fa8bb720afb6c966"
+    ]
+}

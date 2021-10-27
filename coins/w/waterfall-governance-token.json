@@ -1,0 +1,23 @@
+{
+    "id": "waterfall-governance-token",
+    "symbol": "wtf",
+    "name": "Waterfall Governance Token",
+    "platforms": {
+        "binance-smart-chain": "0x2fa0cac2c75efb50382b5091c6494194eacf65b0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Waterfall DeFi is a platform that offers risk diversification through tranching a portfolio of yield generating DeFi assets. Waterfall is one of the first platforms to deliver traditional tranching methodology to DeFi, enabling more conservative DeFi users to safer, fixed, and predictable yields while also providing products for higher risk-tolerant users for greater potential yields.\r\n\r\nAll this is done through the Waterfall Protocol, a yield aggregation logic which redistributes a yield and principal from a selected pool of DeFi Yielding assets according to priority, arranged from highest (Senior Tranche), to the lowest (Junior Tranche). Users in the Senior Tranche receives the distributions first at a predetermined, fixed yield. Junior Tranche users receives the distributions the last, in return receiving a much higher potential variable yield should the portfolio of DeFi assets perform as intended. Through the process of tranching, Waterfall DeFi can offer two layers of diversification (portfolio concentration and prioritization of payments), and creating organic leveraging within a portfolio/product without the need for external funding markets.\r\n\r\nWaterfall is bringing exciting new structured products to the DeFi ecosystem, expanding the offerings across the space and making the market become more efficient through redistributing risk and reward to the right hands."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2fa0cac2c75efb50382b5091c6494194eacf65b0",
+    "url": "https://waterfalldefi.org",
+    "explorers": [
+        "https://bscscan.com/token/0x2fa0cac2c75efb50382b5091c6494194eacf65b0"
+    ],
+    "twitter": "Waterfalldefi",
+    "telegram": "waterfalldefi",
+    "github_org": "WaterfallDefi"
+}

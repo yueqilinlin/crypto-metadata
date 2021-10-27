@@ -1,0 +1,24 @@
+{
+    "id": "sumokoin",
+    "symbol": "sumo",
+    "name": "Sumokoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "Sumokoin (\u30b9\u30e2\u30b3\u30a4\u30f3 in Japanese) is a fork from Monero, one of the most respectable cryptocurrency well-known for security, privacy, untraceability and active development. Starting as an educational project, we found that it would be great to create a new coin with high level of privacy by (1) moving forward right away to Ring Confidential Transactions (RingCT), (2) setting minimum transaction mixins to 12 that would make it high resistance to blockchain analysis attacks."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-04-18",
+    "url": "https://www.sumokoin.org/",
+    "explorers": [
+        "https://explorer.sumokoin.com/"
+    ],
+    "twitter": "sumokoin",
+    "facebook": "sumokoin",
+    "telegram": "sumokoin",
+    "reddit": "sumokoin",
+    "github_org": "sumoprojects"
+}

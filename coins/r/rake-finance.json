@@ -1,0 +1,23 @@
+{
+    "id": "rake-finance",
+    "symbol": "rak",
+    "name": "Rake Finance",
+    "platforms": {
+        "ethereum": "0xa8b0f154a688c22142e361707df64277e0a0be66"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "CZ",
+    "genesis_date": null,
+    "contract_address": "0xa8b0f154a688c22142e361707df64277e0a0be66",
+    "url": "https://rake.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xa8b0f154a688c22142e361707df64277e0a0be66",
+        "https://ethplorer.io/address/0xa8b0f154a688c22142e361707df64277e0a0be66"
+    ],
+    "twitter": "RakeFinance",
+    "telegram": "RakeFinance"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "xeta-reality",
+    "symbol": "xeta",
+    "name": "Xeta Reality",
+    "platforms": {
+        "binance-smart-chain": "0x179960442ece8de9f390011b7f7c9b56c74e4d0a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Xeta is a serverless layer-1 blockchain that provides infinite scalability, high throughput, sub-second confirmation times, and fees at a tenth of a cent. Xeta achieves this by leveraging serverless compute and storage cloud services while innovating incentive structures and extending the Byzantine Fault Tolerance consensus mechanism for scalability."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x179960442ece8de9f390011b7f7c9b56c74e4d0a",
+    "url": "https://xetareality.com",
+    "explorers": [
+        "https://bscscan.com/token/0x179960442ece8de9f390011b7f7c9b56c74e4d0a"
+    ],
+    "twitter": "XetaReality",
+    "telegram": "XetaReality",
+    "reddit": "XetaReality",
+    "github_org": "XetaReality"
+}

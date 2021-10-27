@@ -1,0 +1,25 @@
+{
+    "id": "aquarius-fi",
+    "symbol": "aqu",
+    "name": "Aquarius.Fi",
+    "platforms": {
+        "fantom": "0x0f7adb77b6334b9b5a3c4f78aaa073ea1d915bf6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fantom Ecosystem"
+    ],
+    "description": {
+        "en": "Aquarius.fi is a decentralized borrowing protocol with interest-free loans, high capital efficiency. we expect Aquarius to be the next MakerDao in the Fantom."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0f7adb77b6334b9b5a3c4f78aaa073ea1d915bf6",
+    "url": "https://aquarius.fi/",
+    "explorers": [
+        "https://ftmscan.com/token/0x0f7adb77b6334b9b5a3c4f78aaa073ea1d915bf6"
+    ],
+    "twitter": "Aquarius__Fi",
+    "telegram": "Aquariusfi",
+    "github_org": "AquariusFi"
+}

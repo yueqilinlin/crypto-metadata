@@ -1,0 +1,26 @@
+{
+    "id": "domraider",
+    "symbol": "drt",
+    "name": "DomRaider",
+    "platforms": {
+        "ethereum": "0x9af4f26941677c706cfecf6d3379ff01bb85d5ab"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "DomRaider network is an open-source blockchain dedicated to the decentralization of auctions in real time. It will be transparent, reliable, adaptable and interoperable, without compromising on speed. The DomRaider network is not only aimed to register auctions and bids. It is the core of a complete new auctioning ecosystem aimed to provide an innovative solution for all worldwide auctioning players. Live auctioneers, escrow, appraisal experts, delivery services and online auctions providers will all be able to join the network, provide their services and add value to the blockchain. "
+    },
+    "country_origin": "",
+    "genesis_date": "2017-10-18",
+    "contract_address": "0x9af4f26941677c706cfecf6d3379ff01bb85d5ab",
+    "url": "https://www.domraider.io/en/",
+    "explorers": [
+        "https://etherscan.io/token/0x9af4f26941677c706cfecf6d3379ff01bb85d5ab",
+        "https://ethplorer.io/address/0x9af4f26941677c706cfecf6d3379ff01bb85d5ab"
+    ],
+    "twitter": "domraider",
+    "reddit": "DomRaider",
+    "github_org": "Domraider"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "essentia",
+    "symbol": "ess",
+    "name": "Essentia",
+    "platforms": {
+        "ethereum": "0xfc05987bd2be489accf0f509e44b0145d68240f7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Essentia is a masternoded multi-chained set of protocols connecting centralized and decentralized resources to create new powerful interactions and experiences."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0xfc05987bd2be489accf0f509e44b0145d68240f7",
+    "url": "https://essentia.one/",
+    "explorers": [
+        "https://etherscan.io/token/0xfc05987bd2be489accf0f509e44b0145d68240f7",
+        "https://ethplorer.io/address/0xfc05987bd2be489accf0f509e44b0145d68240f7"
+    ],
+    "twitter": "essentia_one",
+    "facebook": "essentiaone",
+    "telegram": "essentia_one",
+    "reddit": "essentia/"
+}

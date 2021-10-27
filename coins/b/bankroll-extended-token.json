@@ -1,0 +1,21 @@
+{
+    "id": "bankroll-extended-token",
+    "symbol": "bnkrx",
+    "name": "Bankroll Extended Token",
+    "platforms": {
+        "tron": "TKSLNVrDjb7xCiAySZvjXB9SxxVFieZA7C"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bankroll is a premiere decentralized finance network on TRON and Ethereum. It implements a voluntary, sustainable, and permissionless global economic engine. Through a network of financial contracts the platform provides rewards in TRX, ETH, BTT, VLT and BNKR. Bankroll... play to win!!!"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "TKSLNVrDjb7xCiAySZvjXB9SxxVFieZA7C",
+    "url": "https://bankroll.network/",
+    "explorers": [],
+    "twitter": "Bankroll_Status",
+    "telegram": "bankrollnetwork",
+    "github_org": "bankrollnetwork"
+}

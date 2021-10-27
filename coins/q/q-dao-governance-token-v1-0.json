@@ -1,0 +1,29 @@
+{
+    "id": "q-dao-governance-token-v1-0",
+    "symbol": "qdao",
+    "name": "Q DAO Governance token v1.0",
+    "platforms": {
+        "ethereum": "0x3166c570935a7d8554c8f4ea792ff965d2efe1f2",
+        "binance-smart-chain": "0x2bf5b0df27f31388d5b825b39bd752bed6c7f7e9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Q DAO Governance token by Platinum Engineering for USDQ, KRWQ, CNYQ, JPYQ stable coins"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3166c570935a7d8554c8f4ea792ff965d2efe1f2",
+    "url": "https://qdefi.io/en/",
+    "explorers": [
+        "https://etherscan.io/token/0x3166c570935a7d8554c8f4ea792ff965d2efe1f2",
+        "https://ethplorer.io/address/0x3166c570935a7d8554c8f4ea792ff965d2efe1f2",
+        "https://bscscan.com/token/0x2bf5b0df27f31388d5b825b39bd752bed6c7f7e9"
+    ],
+    "twitter": "QDefi",
+    "facebook": "FundPlatinum",
+    "telegram": "QDaoDeFi",
+    "github_org": "platinum-engineering"
+}

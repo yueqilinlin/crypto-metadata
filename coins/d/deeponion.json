@@ -1,0 +1,25 @@
+{
+    "id": "deeponion",
+    "symbol": "onion",
+    "name": "DeepOnion",
+    "platforms": {},
+    "hashing_algorithm": "X13",
+    "categories": [
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "\"DeepOnion (ONION) describes itself as a decentralized, open-source, community-driven cryptocurrency that offers multi-layered privacy and everyday use cases. It uses an x13 hybrid PoW/PoS to secure the network. DeepOnion claims to be one of the earliest cryptos to integrate the Tor network into the DeepOnion wallet, which has reportedly not leaked any IP addresses since its release on 12 July 2017.\r\n\r\nFeatures delivered by the DeepOnion team:\r\n\r\nDeepSend as a base solution for private and untraceable payments without relying on cryptographic encryption.\r\nDeepVault to register and verify digital files with the DeepOnion blockchain.\r\nVoteCentral, a balanced and non-biased voting platform for the community.\r\nWooCommerce, Shopify and OpenCart payment plugins for merchants.\r\nMore info can be found at (https://DeepOnion.org)\""
+    },
+    "country_origin": "",
+    "genesis_date": "2017-07-13",
+    "url": "https://deeponion.org",
+    "explorers": [
+        "https://chainz.cryptoid.info/onion/",
+        "https://prohashing.com/explorer/Deeponion/",
+        "https://explorer.deeponion.org"
+    ],
+    "twitter": "GetDeepOnion",
+    "telegram": "getdeeponion",
+    "reddit": "DeepOnion",
+    "github_org": "deeponion"
+}

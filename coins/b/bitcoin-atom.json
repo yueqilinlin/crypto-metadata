@@ -1,0 +1,21 @@
+{
+    "id": "bitcoin-atom",
+    "symbol": "bca",
+    "name": "Bitcoin Atom",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bitcoin Atom (BCA) brings a truly decentralized way of digital asset exchange \u2013 with on-chain atomic swaps on board. By using built-in hash time-locked contracts (HTLCs) and its own HTLC API, Bitcoin Atom attempts to disrupt the way we exchange cryptocurrencies today, giving independence from intermediaries and any centralized entities."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://bitcoinatom.io/",
+    "explorers": [
+        "https://explorer.bitcoinatom.io/"
+    ],
+    "twitter": "atombitcoin",
+    "facebook": "atombitcoin",
+    "telegram": "bitcoinatom",
+    "github_org": "bitcoin-atom"
+}

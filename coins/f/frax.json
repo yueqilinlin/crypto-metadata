@@ -1,0 +1,42 @@
+{
+    "id": "frax",
+    "symbol": "frax",
+    "name": "Frax",
+    "platforms": {
+        "ethereum": "0x853d955acef822db058eb8505911ed77f175b99e",
+        "binance-smart-chain": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
+        "solana": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+        "avalanche": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64",
+        "polygon-pos": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+        "fantom": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355",
+        "harmony-shard-0": "0xfa7191d292d5633f702b0bd7e3e3bccc0e633200",
+        "arbitrum-one": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+        "moonriver": "0x1a93b23281cc1cde4c4741353f3064709a16197d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "USD Stablecoin",
+        "Polygon Ecosystem",
+        "Avalanche Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Stablecoins",
+        "Seigniorage"
+    ],
+    "description": {
+        "en": "The first fractional-algorithmic stablecoin"
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0x853d955acef822db058eb8505911ed77f175b99e",
+    "url": "https://frax.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x853d955acef822db058eb8505911ed77f175b99e",
+        "https://ethplorer.io/address/0x853d955acef822db058eb8505911ed77f175b99e",
+        "https://polygonscan.com/token/0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
+        "https://bscscan.com/token/0x90C97F71E18723b0Cf0dfa30ee176Ab653E89F40",
+        "https://cchain.explorer.avax.network/tokens/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/token-transfers"
+    ],
+    "twitter": "fraxfinance",
+    "telegram": "fraxfinance",
+    "github_org": "fraxfinance"
+}

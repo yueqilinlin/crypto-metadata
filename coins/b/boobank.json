@@ -1,0 +1,24 @@
+{
+    "id": "boobank",
+    "symbol": "boob",
+    "name": "BooBank",
+    "platforms": {
+        "ethereum": "0xa9c44135b3a87e0688c41cf8c27939a22dd437c9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A Truly Deflationary Yield Farming with Dynamic Emissions and Burns.\r\n\r\nSustainable yield farming aiming to keep supply pegged at 50k."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa9c44135b3a87e0688c41cf8c27939a22dd437c9",
+    "url": "http://BooBanker.org",
+    "explorers": [
+        "https://etherscan.io/token/0xa9c44135b3a87e0688c41cf8c27939a22dd437c9",
+        "https://ethplorer.io/address/0xa9c44135b3a87e0688c41cf8c27939a22dd437c9"
+    ],
+    "twitter": "TheBooBanker",
+    "telegram": "boobankertoken",
+    "github_org": "boobank"
+}

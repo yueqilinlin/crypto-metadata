@@ -1,0 +1,22 @@
+{
+    "id": "memepad",
+    "symbol": "mepad",
+    "name": "MemePad",
+    "platforms": {
+        "binance-smart-chain": "0x9d70a3ee3079a6fa2bb16591414678b7ad91f0b5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0x9d70a3ee3079a6fa2bb16591414678b7ad91f0b5",
+    "url": "https://memepad.co/",
+    "explorers": [
+        "https://bscscan.com/token/0x9d70a3ee3079a6fa2bb16591414678b7ad91f0b5"
+    ],
+    "twitter": "MemePadlaunch",
+    "telegram": "memepadofficial"
+}

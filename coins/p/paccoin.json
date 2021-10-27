@@ -1,0 +1,26 @@
+{
+    "id": "paccoin",
+    "symbol": "pac",
+    "name": "PAC Protocol",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Storage",
+        "Masternodes"
+    ],
+    "description": {
+        "en": "PAC Protocol (PAC), based in the US, aims to provide next-generation blockchain network solutions to solve real-world problems. It claims to be one of the largest truly decentralized masternode networks in the world (source: www.masternodes.online) with nearly over 13,000 active nodes located worldwide. Its network is based on the energy efficient Proof of Stake (PoS) algorithm which greatly reduces its overall carbon footprint.\r\n\r\nFor more information about PAC Global or if you are interested in partnering with the project, please either contact Drew Saunders, Chairman of the Board at drewsaunders@pacglobal.io or David Gokhshtein, CEO at davidg@pacglobal.io or visit @PACcoinOfficial or website at (www.pacglobal.io)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.pacglobal.io/",
+    "explorers": [
+        "http://explorer.pacglobal.io/",
+        "https://pacglobalexplorer.com/"
+    ],
+    "twitter": "PACcoinOfficial",
+    "facebook": "PACGlobalOfficial",
+    "telegram": "Pac_Official",
+    "reddit": "PACGlobalOfficial/",
+    "github_org": "PACGlobalOfficial"
+}

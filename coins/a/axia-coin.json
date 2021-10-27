@@ -1,0 +1,25 @@
+{
+    "id": "axia-coin",
+    "symbol": "axc",
+    "name": "AXIA Coin",
+    "platforms": {
+        "ethereum": "0x37c430c2b5f9ff85e534873c715871818ab1623e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AXIA Coin is an asset-supported global currency, utilizing innovative blockchain and smart contract technology standards to upend traditional financial structures, lower participant costs and advance a more equitable and inclusionary economic model on a global scale. As a network, AXIA integrates multiple complementary applications that will pioneer the pace of the decentralized economy to drive mainstream adoption in improving business processes globally. The currency provides sophisticated solutions that serve as an ideal replacement to the fiat payment system and also improve on existing cryptocurrency models."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x37c430c2b5f9ff85e534873c715871818ab1623e",
+    "url": "https://www.axiacoin.org",
+    "explorers": [
+        "https://etherscan.io/token/0x37c430c2b5f9ff85e534873c715871818ab1623e",
+        "https://ethplorer.io/address/0x37c430c2b5f9ff85e534873c715871818ab1623e"
+    ],
+    "twitter": "AxiaCoin",
+    "facebook": "axianetwork",
+    "telegram": "axiacoinofficial",
+    "reddit": "AXIACoinOfficial/"
+}

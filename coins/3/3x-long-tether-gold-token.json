@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-tether-gold-token",
+    "symbol": "xautbull",
+    "name": "3X Long Tether Gold Token",
+    "platforms": {
+        "ethereum": "0xc9287623832668432099cef2ffdef3ced14f4315"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Tether Gold Token (XAUTBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Tether Gold."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc9287623832668432099cef2ffdef3ced14f4315",
+    "url": "https://ftx.com/tokens/XAUTBULL",
+    "explorers": [
+        "https://etherscan.io/token/0xc9287623832668432099CEF2FfDEF3CeD14f4315",
+        "https://ethplorer.io/address/0xc9287623832668432099cef2ffdef3ced14f4315"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "define",
+    "symbol": "dfa",
+    "name": "DeFine",
+    "platforms": {
+        "ethereum": "0x62959c699a52ec647622c91e79ce73344e4099f5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The core of DeFine is SOCIAL. DeFine aims to build a decentralized NFT-based social network for web 3.0."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x62959c699a52ec647622c91e79ce73344e4099f5",
+    "url": "https://www.define.one/",
+    "explorers": [
+        "https://etherscan.io/token/0x62959c699a52ec647622c91e79ce73344e4099f5",
+        "https://ethplorer.io/address/0x62959c699a52ec647622c91e79ce73344e4099f5"
+    ],
+    "twitter": "DeFinePlatform",
+    "telegram": "DeFinePlatform"
+}

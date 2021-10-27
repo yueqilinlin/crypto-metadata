@@ -1,0 +1,24 @@
+{
+    "id": "compound-maker",
+    "symbol": "cmkr",
+    "name": "cMKR",
+    "platforms": {
+        "ethereum": "0x95b4ef2869ebd94beb4eee400a99824bf5dc325b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x95b4ef2869ebd94beb4eee400a99824bf5dc325b",
+    "url": "https://compound.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x95b4ef2869ebd94beb4eee400a99824bf5dc325b",
+        "https://ethplorer.io/address/0x95b4ef2869ebd94beb4eee400a99824bf5dc325b"
+    ],
+    "twitter": "compoundfinance",
+    "reddit": "Compound/",
+    "github_org": "compound-finance"
+}

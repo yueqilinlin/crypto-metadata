@@ -1,0 +1,32 @@
+{
+    "id": "bondly",
+    "symbol": "bondly",
+    "name": "Bondly",
+    "platforms": {
+        "ethereum": "0x91dfbee3965baaee32784c2d546b7a0c62f268c9",
+        "binance-smart-chain": "0x5d0158a5c3ddf47d4ea4517d8db0d76aa2e87563"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Non-Fungible Tokens (NFT)",
+        "Binance Smart Chain Ecosystem",
+        "Polkadot Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Bringing DeFi to the masses by bridging the gap between decentralized escrow payments and traditional marketplaces."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x91dfbee3965baaee32784c2d546b7a0c62f268c9",
+    "url": "https://www.bondly.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x91dfbee3965baaee32784c2d546b7a0c62f268c9",
+        "https://bscscan.com/token/0x5D0158A5c3ddF47d4Ea4517d8DB0D76aA2e87563",
+        "https://ethplorer.io/address/0x91dfbee3965baaee32784c2d546b7a0c62f268c9"
+    ],
+    "twitter": "BondlyFinance",
+    "telegram": "bondlyfinance",
+    "github_org": "bondly"
+}

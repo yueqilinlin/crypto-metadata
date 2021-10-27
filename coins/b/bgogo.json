@@ -1,0 +1,27 @@
+{
+    "id": "bgogo",
+    "symbol": "bgg",
+    "name": "Bgogo Token",
+    "platforms": {
+        "ethereum": "0xea54c81fe0f72de8e86b6dc78a9271aa3925e3b5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "BGG is the token issued by Bgogo platform which is the proof of stake for the trading infrastructure. The upper limit amount of BGG is 10 billion without additional public offering. BGG will reward active users with trade mining. Also, under the exclusive \u201cself-governance\u201d mode, each supernode has the full discretion to list one cryptocurrency.\r\n\r\nNegative trading fees\r\n50% of total platform token BGG will be used to reward users where users will get trading fees back in the equal amount of BGG. Users will receive 105% high-frequency trading fee return every 30 minutes as a reward.\r\n\r\nBGG Token Buyback\r\nEvery 24 hours, Bgogo will use 100% of the trading commision accumulated to repurchase BGG. The buyback tokens will be sent to a burn address made public.\r\n\r\nHow to obtain BGG?\r\n1. Mining: trading on BGG is considered as mining, i.e. 105% trading fee return.\r\n2. Purchasing: users can obtain BGG by exchanging."
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0xea54c81fe0f72de8e86b6dc78a9271aa3925e3b5",
+    "url": "https://bgogo.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xea54c81fe0f72de8e86b6dc78a9271aa3925e3b5",
+        "https://ethplorer.io/address/0xea54c81fe0f72de8e86b6dc78a9271aa3925e3b5"
+    ],
+    "twitter": "BgogoExchange",
+    "facebook": "BgogoExchange",
+    "telegram": "Bgogo",
+    "reddit": "Bgogo/"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "sheng",
+    "symbol": "sheng",
+    "name": "SHENG",
+    "platforms": {
+        "ethereum": "0x22ef3753e3658e81d5a0d0889ce078178fe66595"
+    },
+    "hashing_algorithm": "Keccak",
+    "categories": [
+        "Healthcare"
+    ],
+    "description": {
+        "en": "World\u2019s 1st B2B4C Lifestyle & Wellness Blockchain Platform"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x22ef3753e3658e81d5a0d0889ce078178fe66595",
+    "url": "https://sheng.global/",
+    "explorers": [
+        "https://etherscan.io/token/0x22ef3753e3658e81d5a0d0889ce078178fe66595",
+        "https://ethplorer.io/address/0x22ef3753e3658e81d5a0d0889ce078178fe66595"
+    ],
+    "twitter": "sheng_global",
+    "facebook": "shengworld",
+    "telegram": "sheng_world",
+    "reddit": "Sheng_Global/",
+    "github_org": "sheng-global"
+}

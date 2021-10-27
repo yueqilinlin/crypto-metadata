@@ -1,0 +1,24 @@
+{
+    "id": "povo-finance",
+    "symbol": "povo",
+    "name": "Povo Finance",
+    "platforms": {
+        "binance-smart-chain": "0x2a2d03a47ae6220312337d1f094badcd1ee948cc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Povo is disrupting Gaming & NFTs EcoSystem. Top of that povo is offering staking & governance."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2a2d03a47ae6220312337d1f094badcd1ee948cc",
+    "url": "https://povo.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x2a2d03a47ae6220312337d1f094badcd1ee948cc"
+    ],
+    "twitter": "povofinance",
+    "telegram": "povofin",
+    "reddit": "povofinance/",
+    "github_org": "Povofinance"
+}

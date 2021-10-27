@@ -1,0 +1,25 @@
+{
+    "id": "morphose",
+    "symbol": "morph",
+    "name": "Morphose",
+    "platforms": {
+        "binance-smart-chain": "0x2b15bc62d1fb46ade4763a3c5ea0917460bb25f1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Morphose is a decentralized, non-custodial privacy protocol built on Binance Smart Chain. It doesn't rely on an off-chain relayer and the entire protocol happens entirely on-chain. It breaks the on-chain link between transactions by using zk-SNARKS technology, offering transactional privacy in the process. While the protocol is usable on BSC and Ethereum at the current moment and also is Polkadot-ready, the token lives on BSC.\r\n\r\nThe solution works by allowing any address to deposit an asset in the contract in pre-defined amounts. The user can then use any address to withdraw the amount with no way to link the withdrawal address to the depositing address. While the amount being deposited and withdrawn from the contract is visible on the blockchain explorer, there is no way to know where the amount was sent or where it came from originally. "
+    },
+    "country_origin": "UA",
+    "genesis_date": null,
+    "contract_address": "0x2b15bc62d1fb46ade4763a3c5ea0917460bb25f1",
+    "url": "https://morphose.cash/",
+    "explorers": [
+        "https://bscscan.com/token/0x2b15bc62d1FB46ADE4763A3c5ea0917460bb25F1"
+    ],
+    "twitter": "morphosecash",
+    "telegram": "morphosecash",
+    "github_org": "morphosecash"
+}

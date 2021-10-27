@@ -1,0 +1,24 @@
+{
+    "id": "blockcdn",
+    "symbol": "bcdn",
+    "name": "BlockCDN",
+    "platforms": {
+        "ethereum": "0x1e797ce986c3cff4472f7d38d5c4aba55dfefe40"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BLOCKCDN is an intelligent CDN node deployment software based on open source Squid and combined with SDK and P2P technology. Based on the smart etereum system, BLOCKCDN not only allows unused broadband users to share idle network devices and upload traffic. The CDN system is distributed with smart etereum contracts that specify CDN mining, smart contract settlement and CDN trading market in one. Based on the smart etereum system, BLOCKCDN not only wants unused broadband users to share idle network devices and upload higher profit traffic without additional enhancements, but to provide cheaper, multi-node, and faster CDN services For websites that need to be accelerated."
+    },
+    "country_origin": "",
+    "genesis_date": "2016-11-09",
+    "contract_address": "0x1e797ce986c3cff4472f7d38d5c4aba55dfefe40",
+    "url": "http://www.blockcdn.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
+        "https://ethplorer.io/address/0x1e797ce986c3cff4472f7d38d5c4aba55dfefe40"
+    ],
+    "twitter": "BlockCDN",
+    "facebook": "blockchaincdn",
+    "github_org": "Blockcdnteam"
+}

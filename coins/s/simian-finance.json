@@ -1,0 +1,24 @@
+{
+    "id": "simian-finance",
+    "symbol": "sifi",
+    "name": "Simian Finance",
+    "platforms": {
+        "ethereum": "0x4afb0aac9b862946837b2444566b8a914d6d0d97"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Simian Finance is a community led RFI token. 5% of every transfer is distributed among holders, generating yield in your wallet.\r\nThe community has developed trustless NFT charity auctions and established a fund to donate regularly to primate related charities.\r\nBurn rate of the token on transfer increases over time."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4afb0aac9b862946837b2444566b8a914d6d0d97",
+    "url": "https://www.simianfinance.org",
+    "explorers": [
+        "https://etherscan.io/token/0x4afb0aac9b862946837b2444566b8a914d6d0d97",
+        "https://ethplorer.io/address/0x4afb0aac9b862946837b2444566b8a914d6d0d97"
+    ],
+    "twitter": "SimianFinance",
+    "telegram": "simianfinance",
+    "github_org": "simian-finance"
+}

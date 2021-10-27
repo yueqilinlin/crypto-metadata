@@ -1,0 +1,26 @@
+{
+    "id": "extradna",
+    "symbol": "xdna",
+    "name": "extraDNA",
+    "platforms": {
+        "ethereum": "0x8e57c27761ebbd381b0f9d09bb92ceb51a358abb",
+        "binance-smart-chain": "0x80dba9c32b7ab5445e482387a5522e24c0ba4c24"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "xHumanity is a new application based on blockchain technology that supports community building and social cross-interaction, peer-to-peer in both online and offline environments, including the most widely used social media platforms."
+    },
+    "country_origin": "RO",
+    "genesis_date": null,
+    "contract_address": "0x8e57c27761ebbd381b0f9d09bb92ceb51a358abb",
+    "url": "https://xhumanity.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x8e57c27761EBBd381b0f9d09Bb92CeB51a358AbB",
+        "https://ethplorer.io/address/0x8e57c27761EBBd381b0f9d09Bb92CeB51a358AbB"
+    ],
+    "twitter": "xHumanity1",
+    "facebook": "xHumanityofficial",
+    "reddit": "xHumanity/",
+    "github_org": "xHumanityRO"
+}

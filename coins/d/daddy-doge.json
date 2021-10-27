@@ -1,0 +1,22 @@
+{
+    "id": "daddy-doge",
+    "symbol": "daddydoge",
+    "name": "Daddy Doge",
+    "platforms": {
+        "binance-smart-chain": "0x7cce94c0b2c8ae7661f02544e62178377fe8cf92"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Daddy Doge is a deflationary token that acts as a store of value on the binance smart chain. Each transaction has a unique tax that distributes tokens to holders, adds liquidity to the pool and increases funds in the marketing wallet."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x7cce94c0b2c8ae7661f02544e62178377fe8cf92",
+    "url": "https://daddydoge.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x7cce94c0b2c8ae7661f02544e62178377fe8cf92"
+    ],
+    "twitter": "daddydogetoken",
+    "telegram": "daddydogetoken"
+}

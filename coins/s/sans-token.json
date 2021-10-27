@@ -1,0 +1,22 @@
+{
+    "id": "sans-token",
+    "symbol": "sans",
+    "name": "Sans Token",
+    "platforms": {
+        "binance-smart-chain": "0x37829950fd06497b0915f4c6a0cf49c19eb3f968"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "At sans.finance, you can join no-loss lotteries, increase your SANS by mining or earn shares from operation fee at decentralized exchange by providing liquidity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x37829950fd06497b0915f4c6a0cf49c19eb3f968",
+    "url": "https://sans.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x37829950fD06497b0915F4C6a0CF49C19EB3f968"
+    ],
+    "twitter": "sansdotfinance",
+    "telegram": "SansdotfinanceAnnouncements"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "2based-finance",
+    "symbol": "2based",
+    "name": "2Based Finance",
+    "platforms": {
+        "ethereum": "0x168e39f96a653ce0a456560687241b0b2936e5ff"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "Gamified Rebasing Token"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x168e39f96a653ce0a456560687241b0b2936e5ff",
+    "url": " https://2based.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x168E39f96A653Ce0A456560687241b0B2936E5Ff",
+        "https://ethplorer.io/address/0x168E39f96A653Ce0A456560687241b0B2936E5Ff"
+    ],
+    "telegram": "two2based"
+}

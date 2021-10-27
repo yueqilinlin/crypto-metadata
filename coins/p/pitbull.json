@@ -1,0 +1,24 @@
+{
+    "id": "pitbull",
+    "symbol": "pit",
+    "name": "Pitbull",
+    "platforms": {
+        "binance-smart-chain": "0xa57ac35ce91ee92caefaa8dc04140c8e232c2e50"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa57ac35ce91ee92caefaa8dc04140c8e232c2e50",
+    "url": "https://pitbull.community/",
+    "explorers": [
+        "https://bscscan.com/token/0xA57ac35CE91Ee92CaEfAA8dc04140C8e232c2E50"
+    ],
+    "twitter": "BscPitbull",
+    "telegram": "Pitbull_BSC",
+    "reddit": "pitbulltoken",
+    "github_org": "pitbullBSC"
+}

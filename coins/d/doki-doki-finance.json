@@ -1,0 +1,29 @@
+{
+    "id": "doki-doki-finance",
+    "symbol": "doki",
+    "name": "Doki Doki",
+    "platforms": {
+        "ethereum": "0x9ceb84f92a0561fa3cc4132ab9c0b76a59787544",
+        "polygon-pos": "0x5c7f7fe4766fe8f0fa9b41e2e4194d939488ff1c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Non-Fungible Tokens (NFT)",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9ceb84f92a0561fa3cc4132ab9c0b76a59787544",
+    "url": "https://dokidoki.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x9cEB84f92A0561fa3Cc4132aB9c0b76A59787544",
+        "https://ethplorer.io/address/0x9ceb84f92a0561fa3cc4132ab9c0b76a59787544",
+        "https://polygonscan.com/token/0x5c7f7fe4766fe8f0fa9b41e2e4194d939488ff1c"
+    ],
+    "twitter": "dokidokifinance",
+    "telegram": "ddnfg"
+}

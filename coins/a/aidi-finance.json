@@ -1,0 +1,23 @@
+{
+    "id": "aidi-finance",
+    "symbol": "aidi",
+    "name": "Aidi Finance",
+    "platforms": {
+        "binance-smart-chain": "0xb358b0e5a8943029e66175830d85198fe6cc93f6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Aidi Finance is a complete ecosystem of cryptoassets and utilities. We are bringing together complete Decentralised Finance solutions and integrating them with Blockchain gaming and NFTs.\r\nAIDI implements automatic reward farming in which 2% of the transaction value for every buy or sell transaction is distributed to the holders.  Aidi Finance ecosystem will have AIDI SWAP - A swap exchange , AIDI PlayFi - Gaming integrations with NFT, AIDI Craft - An NFT platform and AIDI Connect - An app in which the holders can track the growth of the $AIDI Tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb358b0e5a8943029e66175830d85198fe6cc93f6",
+    "url": "https://www.aidiverse.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xb358b0e5a8943029e66175830d85198fe6cc93f6"
+    ],
+    "twitter": "AidiToken",
+    "telegram": "aidi_official",
+    "github_org": "AidiFinance"
+}

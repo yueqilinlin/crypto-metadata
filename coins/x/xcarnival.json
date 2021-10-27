@@ -1,0 +1,23 @@
+{
+    "id": "xcarnival",
+    "symbol": "xcv",
+    "name": "XCarnival",
+    "platforms": {
+        "binance-smart-chain": "0x4be63a9b26ee89b9a3a13fd0aa1d0b2427c135f8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Metaverse Assets Liquidation Aggregator."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4be63a9b26ee89b9a3a13fd0aa1d0b2427c135f8",
+    "url": "https://xcarnival.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0x4be63a9b26EE89b9a3a13fd0aA1D0b2427C135f8"
+    ],
+    "twitter": "XCarnival_Lab",
+    "telegram": "XCarnivalAnnouncements",
+    "github_org": "xcarnival"
+}

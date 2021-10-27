@@ -1,0 +1,22 @@
+{
+    "id": "safespace",
+    "symbol": "safespace",
+    "name": "SafeSpace",
+    "platforms": {
+        "binance-smart-chain": "0xe1db3d1ee5cfe5c6333be96e6421f9bd5b85c987"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Autonomous yield and liquidity generation protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe1db3d1ee5cfe5c6333be96e6421f9bd5b85c987",
+    "url": "https://safespacecrypto.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xe1db3d1ee5cfe5c6333be96e6421f9bd5b85c987"
+    ],
+    "twitter": "safespacecrypto",
+    "telegram": "safespaceproject"
+}

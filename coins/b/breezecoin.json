@@ -1,0 +1,26 @@
+{
+    "id": "breezecoin",
+    "symbol": "brze",
+    "name": "Breezecoin",
+    "platforms": {
+        "ethereum": "0x77c07555af5ffdc946fb47ce15ea68620e4e7170"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Breezecoin has started its history as a cryptocurrency related to real estate assets. In the present, the new and evolved version of BRZE is directly connected to lifestyle, by focusing more on its acceptance fields in real life, and a mobile application meant to improve the style of living in multiple ways."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x77c07555af5ffdc946fb47ce15ea68620e4e7170",
+    "url": "https://www.breezecoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x77c07555af5ffdc946fb47ce15ea68620e4e7170",
+        "https://ethplorer.io/address/0x77c07555af5ffdc946fb47ce15ea68620e4e7170"
+    ],
+    "twitter": "breezecoinio",
+    "facebook": "breezecoin.io",
+    "telegram": "breezecoinofficial",
+    "reddit": "BreezeCoin/",
+    "github_org": "BreezeDeMarUK"
+}

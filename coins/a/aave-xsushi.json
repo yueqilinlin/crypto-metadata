@@ -1,0 +1,24 @@
+{
+    "id": "aave-xsushi",
+    "symbol": "aXSUSHI",
+    "name": "Aave XSUSHI",
+    "platforms": {
+        "ethereum": "0xf256cc7847e919fac9b808cc216cac87ccf2f47a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf256cc7847e919fac9b808cc216cac87ccf2f47a",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xf256cc7847e919fac9b808cc216cac87ccf2f47a",
+        "https://ethplorer.io/address/0xf256cc7847e919fac9b808cc216cac87ccf2f47a"
+    ],
+    "twitter": "aaveaave"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "proverty-eradication-coin",
+    "symbol": "pec",
+    "name": "Poverty Eradication Coin",
+    "platforms": {
+        "ethereum": "0x432bf73443909c33b545efed536a5246c9a722ca"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Charity"
+    ],
+    "description": {
+        "en": "Poverty Eradication Coin (PEC) is a peer to peer decentralized crypto-currency on the blockchain technology, open source, community run & created to improve the lives of the Meager."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x432bf73443909c33b545efed536a5246c9a722ca",
+    "url": "https://povertyeradicationcoin.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x432bf73443909c33b545efed536a5246c9a722ca",
+        "https://ethplorer.io/address/0x432bf73443909c33b545efed536a5246c9a722ca"
+    ],
+    "twitter": "Povertyeracoin",
+    "telegram": "PovertyEradCoin"
+}

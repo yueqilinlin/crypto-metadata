@@ -1,0 +1,22 @@
+{
+    "id": "omotenashicoin",
+    "symbol": "mtns",
+    "name": "OmotenashiCoin",
+    "platforms": {},
+    "hashing_algorithm": "Skein",
+    "categories": [
+        "Software"
+    ],
+    "description": {
+        "en": "The Omotenashi coin is a coin cloned from PIVX coin and is a concept-based cryptocurrency. A feature of the technical elements of this coin is that the number of coins issued as coin reward increases or decreases in a certain period. We believe that this algorithm works to provide a certain amount of coins to coin minors (PoWs), master node (Masternode) builders and coin users. The number of coin issue in coin rewards of other coins currently offered is generally decreasing logic, issuing randomly, and issuing a fixed amount etc . However, the number of Omotenashi coins increases or decreases over a certain period. With the desire to balance the supply and demand of Omotenashi coins within a certain period, we devised an algorithm to repeat this cycle. We associate this algorithm with \u201crespiration\u201d or \u201crepetition\u201d and named it \u201cBeAdem Cycle\u201d."
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "url": "http://www.omotenashicoin.site/",
+    "explorers": [
+        "http://mtns.hashexplorer.net/"
+    ],
+    "twitter": "omotenashicoin",
+    "reddit": "https://www.reddit.com",
+    "github_org": "omotenashicoin-project"
+}

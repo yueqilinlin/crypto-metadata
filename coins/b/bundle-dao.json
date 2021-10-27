@@ -1,0 +1,22 @@
+{
+    "id": "bundle-dao",
+    "symbol": "bdl",
+    "name": "Bundle Dao",
+    "platforms": {
+        "binance-smart-chain": "0x7ff78e1cab9a2710eb6486ecbf3d94d125039364"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bundle DAO is a new Fair launch, BSC native DeFi protocol aiming to redefine passive portfolio management. We\u2019re building a platform that enables users to trade and mint risk-controlled, non-custodial financial indices, with returns auto-compounded and underlying assets fully exposed to various protocols in the DeFi ecosystem. In essence, we\u2019re enabling single-click portfolio generation and management that rivals even highly active strategies, without the fees or hassle of interfacing directly with a variety of complex protocols. We\u2019re taking a unique approach to our launch; instead of collecting private investment or initiating a pre-sale, we\u2019re launching through a fair launch to distribute our native governance token in return for active contribution to the success of Bundle. For more in-depth information on our product and tokenomics, check out our medium articles, or the whitepaper listed in the #resources channel of our discord!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7ff78e1cab9a2710eb6486ecbf3d94d125039364",
+    "url": "https://bundledao.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x7ff78e1cab9a2710eb6486ecbf3d94d125039364"
+    ],
+    "twitter": "bundledao",
+    "github_org": "bundle-dao"
+}

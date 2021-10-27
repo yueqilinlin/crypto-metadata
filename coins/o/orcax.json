@@ -1,0 +1,22 @@
+{
+    "id": "orcax",
+    "symbol": "ox",
+    "name": "OrcaX",
+    "platforms": {
+        "binance-smart-chain": "0x139dd9203c8e46d15b3896814dc9424c5e5559fa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OrcaX is a charity token, 3% of every TX is sent directly to the Binance Charity fund, 2% is redistributed to holders and 3% is burned. We're aiming to be a deflationary token with an actual purpose (donation)."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x139dd9203c8e46d15b3896814dc9424c5e5559fa",
+    "url": "https://orcax.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x139dd9203c8E46d15B3896814Dc9424c5e5559fA"
+    ],
+    "twitter": "OrcaXbsc",
+    "telegram": "OrcaXOfficial"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "wrapped-weth",
+    "symbol": "wweth",
+    "name": "Wrapped WETH",
+    "platforms": {
+        "tezos": "KT18FP5RCTW7MBWDMZFWJLDUHS5MEJMAGDSZ_20"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WRAP is a decentralized bridge between Ethereum and Tezos. Transfer your ERC20 and ERC721 tokens from Ethereum to the Tezos blockchain and get $WRAP tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT18FP5RCTW7MBWDMZFWJLDUHS5MEJMAGDSZ_20",
+    "url": "https://www.benderlabs.io",
+    "explorers": [
+        "https://tzkt.io/KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ/operations/"
+    ],
+    "twitter": "benderlabs_",
+    "telegram": "benderlabs"
+}

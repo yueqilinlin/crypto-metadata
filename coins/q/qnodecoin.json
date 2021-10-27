@@ -1,0 +1,23 @@
+{
+    "id": "qnodecoin",
+    "symbol": "qnc",
+    "name": "QnodeCoin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [
+        "Business Services",
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "QnodeCoin (QNC) is a digital, p2p payment currency alternatively for real life (vendors) use. QNC is built for vendors use and mining only, while we explore for other utility. QnodeCoin has two-tier network with built in incentivized nodes that are decentralized with masternode governance. \r\nIts fast, easy, secure, with near-zero fees, Instant send payments features (SwiftX), and Privacy Send (with Zerocoin Protocol)"
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "url": "https://www.qngnode.cc/",
+    "explorers": [
+        "https://explorer.qngnode.cc"
+    ],
+    "twitter": "qngnodes",
+    "telegram": "qngnodes",
+    "github_org": "quantumnode-group"
+}

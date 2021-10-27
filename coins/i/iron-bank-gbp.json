@@ -1,0 +1,23 @@
+{
+    "id": "iron-bank-gbp",
+    "symbol": "ibgbp",
+    "name": "Iron Bank GBP",
+    "platforms": {
+        "ethereum": "0x69681f8fde45345c3870bcd5eaf4a05a60e7d227"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fixed Forex is the collective name for USD, EUR, ZAR, JPY, CNY, AUD, AED, CAD, INR, and any other forex pairs launched under the Fixed Forex moniker."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x69681f8fde45345c3870bcd5eaf4a05a60e7d227",
+    "url": "https://fixedforex.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x69681f8fde45345C3870BCD5eaf4A05a60E7D227",
+        "https://ethplorer.io/address/0x69681f8fde45345c3870bcd5eaf4a05a60e7d227"
+    ],
+    "twitter": "thekeep3r",
+    "github_org": "keep3r-network"
+}

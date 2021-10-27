@@ -1,0 +1,28 @@
+{
+    "id": "playchip",
+    "symbol": "pla",
+    "name": "PlayChip",
+    "platforms": {
+        "ethereum": "0x0198f46f520f33cd4329bd4be380a25a90536cd5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "The PlayChip is an ERC20 token designed to become the universal gaming token. \r\n\r\nThe PlayChip will serve at the core of an online gaming ecosystem that already consists of seven platforms, with many more to come. The ecosystem supports a user base of over 900,000 people in over 70 different nations, and is on track to turn over a combined US$430m in 2018 alone."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x0198f46f520f33cd4329bd4be380a25a90536cd5",
+    "url": "https://www.playchip.global/",
+    "explorers": [
+        "https://etherscan.io/token/0x0198f46f520f33cd4329bd4be380a25a90536cd5",
+        "https://ethplorer.io/address/0x0198f46f520f33cd4329bd4be380a25a90536cd5"
+    ],
+    "twitter": "teamplayup",
+    "facebook": "playupglobal",
+    "telegram": "PlayChipTokenSale",
+    "reddit": "PlayChip",
+    "github_org": "TeamPlayUp"
+}

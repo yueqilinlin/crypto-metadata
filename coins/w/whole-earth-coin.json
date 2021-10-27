@@ -1,0 +1,25 @@
+{
+    "id": "whole-earth-coin",
+    "symbol": "wec",
+    "name": "Whole Earth Coin",
+    "platforms": {
+        "ethereum": "0xcc1a8bd438bebc4b2a885a34475bb974f2124317"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Whole Earth Foundation was established as a Non-Profit Organization with the goal of democratizing infrastructure management. We aim to accomplish this by making information about the status of the infrastructure more accessible and visible to the general public. By connecting general citizens and infrastructure service providers through an ecosystem of applications powered by the Whole Earth Platform, we plan to equip citizens with information and an incentive to voice their needs to service providers. Service providers can then communicate with their citizens and work on improving the infrastructure they manage."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcc1a8bd438bebc4b2a885a34475bb974f2124317",
+    "url": "https://wholeearthfoundation.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xcc1a8bd438bebc4b2a885a34475bb974f2124317",
+        "https://ethplorer.io/address/0xcc1a8bd438bebc4b2a885a34475bb974f2124317"
+    ],
+    "twitter": "WholeEarthFdn",
+    "facebook": "WholeEarthFoundation",
+    "telegram": "WholeEarthCoin",
+    "reddit": "WholeEarthFoundation/"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "mcn-ventures",
+    "symbol": "mcn",
+    "name": "MCN Ventures",
+    "platforms": {
+        "ethereum": "0xd91e9a0fef7c0fa4ebdaf4d0acf55888949a2a9b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MCN Ventures is a decentralized venture fund combining VC efficiency with tokenomics bootstrapping community and fund growth."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd91e9a0fef7c0fa4ebdaf4d0acf55888949a2a9b",
+    "url": "https://mcn.ventures/",
+    "explorers": [
+        "https://etherscan.io/token/0xd91e9a0fef7c0fa4ebdaf4d0acf55888949a2a9b",
+        "https://ethplorer.io/address/0xd91e9a0fef7c0fa4ebdaf4d0acf55888949a2a9b"
+    ],
+    "twitter": "MCNVentures",
+    "github_org": "MCN-Ventures"
+}

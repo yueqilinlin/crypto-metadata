@@ -1,0 +1,23 @@
+{
+    "id": "quidax",
+    "symbol": "qdx",
+    "name": "Quidax",
+    "platforms": {
+        "binance-smart-chain": "0x9e3a9f1612028eee48f85ca85f8bed2f37d76848"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Quidax aims to be the home of BEP20, giving anyone access to tokens on the Binance Smart Chain (BSC), as well as popular cryptocurrencies."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9e3a9f1612028eee48f85ca85f8bed2f37d76848",
+    "url": "https://www.quidax.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x9e3a9F1612028eeE48F85cA85f8Bed2f37d76848"
+    ],
+    "twitter": "QuidaxGlobal",
+    "facebook": "QuidaxGlobal",
+    "telegram": "QDXToken"
+}

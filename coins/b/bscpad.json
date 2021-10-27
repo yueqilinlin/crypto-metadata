@@ -1,0 +1,23 @@
+{
+    "id": "bscpad",
+    "symbol": "bscpad",
+    "name": "BSCPAD",
+    "platforms": {
+        "binance-smart-chain": "0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad"
+    ],
+    "description": {
+        "en": "BSCPAD is a launchpad platform that benefits all holders of the token and allows for fair launches giving traders of all sizes the opportunity to invest in the best upcoming Binance Smart Chain projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700",
+    "url": "https://bscpad.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700"
+    ],
+    "telegram": "bscpad"
+}

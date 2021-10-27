@@ -1,0 +1,24 @@
+{
+    "id": "stakedzen",
+    "symbol": "stzen",
+    "name": "StakedZEN",
+    "platforms": {
+        "ethereum": "0x31b595e7cfdb624d10a3e7a562ed98c3567e3865"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "StakedZEN ($stZEN) is an ERC-20 token that allows you to access Ethereum-based ecosystem while earning Horizen Node rewards at the same time. stZEN enables the full integration of ZEN, Horizen's native cryptocurrency, into Ethereum's ecosystem of decentralized exchanges, crypto lending services, prediction markets, and other DeFi applications. stZEN is a 1:1 representation of ZEN staked with StakeHound, allowing stZEN holders to automatically receive Horizen node rewards without minimum staking requirements or locking requirements."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x31b595e7cfdb624d10a3e7a562ed98c3567e3865",
+    "url": "https://stakehound.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x31b595e7cfdb624d10a3e7a562ed98c3567e3865",
+        "https://ethplorer.io/address/0x31b595e7cfdb624d10a3e7a562ed98c3567e3865"
+    ],
+    "twitter": "stakedzen",
+    "telegram": "stakehound",
+    "github_org": "stakehound"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "onebtc",
+    "symbol": "onebtc",
+    "name": "oneBTC",
+    "platforms": {
+        "ethereum": "0xc88f47067db2e25851317a2fdae73a22c0777c37"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "oneBTC is a stablecoin for the Bitcoin community. You must buy wBTC to mint oneBTC. You can use oneBTC to buy or sell goods and services, pay expenses and taxes, or to create USD exposure in DeFi (decentralized finance) applications.\r\n\r\noneBTC provides the hard peg of USDC/USDT without sacrificing decentralization nor giving up on driving Bitcoin scarcity.\r\n\r\noneBTC keeps its value at $1, is purely on-chain, and accrues a Bitcoin treasury.\r\n\r\nTypically, when you want to make a trade and get out of Bitcoin to \u2018get stable\u2019, you need to trade Bitcoin into a stablecoin. Now you\u2019re in an either/or scenario. Whether USDT, USDC, DAI, these other stablecoins capture value for themselves and do not drive the value of your Bitcoin hodlings. Remember, you just sold it to get stable.\r\n\r\nEnter ICHI. With ICHI, you mint oneBTC with wBTC.  In the process, you grow a Bitcoin treasury that YOU govern and control."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc88f47067db2e25851317a2fdae73a22c0777c37",
+    "url": "https://www.ichi.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xc88f47067db2e25851317a2fdae73a22c0777c37",
+        "https://ethplorer.io/address/0xc88f47067db2e25851317a2fdae73a22c0777c37"
+    ],
+    "twitter": "ichifarm",
+    "telegram": "ichifarm",
+    "github_org": "ichifarm"
+}

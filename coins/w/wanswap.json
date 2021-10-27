@@ -1,0 +1,28 @@
+{
+    "id": "wanswap",
+    "symbol": "wasp",
+    "name": "WanSwap",
+    "platforms": {
+        "wanchain": "0x8b9f9f4aa70b1b0d586be8adfb19c1ac38e05e9a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Automated Market Maker (AMM)",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "WanSwap is an innovative crosschain automatic market making (AMM) decentralized exchange (DEX) on Wanchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8b9f9f4aa70b1b0d586be8adfb19c1ac38e05e9a",
+    "url": "https://wanswap.finance/",
+    "explorers": [
+        "https://www.wanscan.org/token/0x8b9f9f4aa70b1b0d586be8adfb19c1ac38e05e9a"
+    ],
+    "twitter": "wanswap",
+    "telegram": "wanswap_official",
+    "reddit": "wanswap/",
+    "github_org": "wanswap"
+}

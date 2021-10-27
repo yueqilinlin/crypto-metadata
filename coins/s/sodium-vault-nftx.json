@@ -1,0 +1,25 @@
+{
+    "id": "sodium-vault-nftx",
+    "symbol": "sodium",
+    "name": "SODIUM Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xc443930ecd59e55e42efe976b8a4ba0658f5c50a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "SODIUM Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc443930ecd59e55e42efe976b8a4ba0658f5c50a",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xc443930Ecd59e55e42Efe976B8a4bA0658f5c50a",
+        "https://ethplorer.io/address/0xc443930ecd59e55e42efe976b8a4ba0658f5c50a"
+    ],
+    "twitter": "nftx_"
+}

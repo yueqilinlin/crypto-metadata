@@ -1,0 +1,23 @@
+{
+    "id": "moonpirate",
+    "symbol": "moonpirate",
+    "name": "MoonPirate",
+    "platforms": {
+        "binance-smart-chain": "0xf09b7b6ba6dab7cccc3ae477a174b164c39f4c66"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MoonPirate is the first cryptocoin to partner with a distillery and produce alcoholic beverages, all of which can be tracked on the blockchain via NFTs! MoonPirate Crypto-Rum is the first release and that's just the start!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf09b7b6ba6dab7cccc3ae477a174b164c39f4c66",
+    "url": "https://www.moonpirate.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xf09b7b6ba6dab7cccc3ae477a174b164c39f4c66"
+    ],
+    "twitter": "MoonpirateBSC",
+    "telegram": "MoonPirate",
+    "reddit": "https://www.reddit.com"
+}

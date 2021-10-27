@@ -1,0 +1,22 @@
+{
+    "id": "galactrum",
+    "symbol": "ore",
+    "name": "Galactrum",
+    "platforms": {},
+    "hashing_algorithm": "Lyra2RE",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Galactrum is an experimental new cryptocurrency that is autonomous, resiliant, self-governing and self-funding. Mining Galactrum ORE is ASIC-resistant and favors GPUs. Payments and transfers are backed by secure cryptographic proofs. Galactrum is based on proven technology from Bitcoin and Dash such as blockchain, masternodes, coin mixing and transaction locking."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-11-11",
+    "url": "https://galactrum.org/",
+    "explorers": [
+        "https://explorer.galactrum.org/"
+    ],
+    "twitter": "galactrum",
+    "reddit": "Galactrum",
+    "github_org": "galactrum"
+}

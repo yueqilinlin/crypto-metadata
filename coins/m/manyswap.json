@@ -1,0 +1,21 @@
+{
+    "id": "manyswap",
+    "symbol": "many",
+    "name": "Manyswap",
+    "platforms": {
+        "binance-smart-chain": "0x2dd6c9c5bcd16816226542688788932c6e79a600"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MANYSWAP is a decentralised AMM with affiliate system on revolutionary Binance Smart Chain. ManySwap enables the user to swap tokens and to create a new liquidity pair. By adding to the LP pair users can earn LP token and LP fees. On referring user can earn 0.1% of trading fees. Stake your LP tokens in the farm and earn rewards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2dd6c9c5bcd16816226542688788932c6e79a600",
+    "url": "https://manyswap.io",
+    "explorers": [],
+    "twitter": "ManySwap",
+    "telegram": "ManySwap",
+    "github_org": "manyswap"
+}

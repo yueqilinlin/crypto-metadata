@@ -1,0 +1,26 @@
+{
+    "id": "kesef-finance",
+    "symbol": "ksf",
+    "name": "Kesef Finance",
+    "platforms": {
+        "ethereum": "0x049e119413ab1f1b0fd836e657e3e4ba3ad9cab8",
+        "binance-smart-chain": "0xf056c78ae863b08808c1fe3c0f8a7db2a4fdcf28"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Easiest way to trade, store, send, and earn interest on your crypto in a simple wallet with a debit card. Kesef brings you a suite of tools and services to dive you into the world of Decentralized Finance (DeFi)."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x049e119413ab1f1b0fd836e657e3e4ba3ad9cab8",
+    "url": "https://kesef.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x049e119413ab1f1b0fd836e657e3e4ba3ad9cab8",
+        "https://bscscan.com/token/0xf056c78AE863b08808c1FE3c0f8a7dB2a4FDcf28",
+        "https://ethplorer.io/address/0x049e119413ab1f1b0fd836e657e3e4ba3ad9cab8"
+    ],
+    "twitter": "financekesef",
+    "telegram": "kesef_finance",
+    "github_org": "kesef-finance"
+}

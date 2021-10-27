@@ -1,0 +1,28 @@
+{
+    "id": "synapse-network",
+    "symbol": "snp",
+    "name": "Synapse Network",
+    "platforms": {
+        "ethereum": "0x6911f552842236bd9e8ea8ddbb3fb414e2c5fa9d",
+        "binance-smart-chain": "0x6911f552842236bd9e8ea8ddbb3fb414e2c5fa9d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem"
+    ],
+    "description": {
+        "en": "The Synapse Network is a fully functional solution aimed to bridge the gap between investors and brilliant projects.\r\n\r\nHarnessing the full power of decentralized assets and cross-chain technology, the Synapse ecosystem will let everyone enter the previously extremely elitist world of fundraising, granting the chance to get involved in promising startups since their earliest phases and with minimum capital.\r\n\r\nAlongside the value of this connection, the network also offers it\u2019s full backing, providing funds, connecting with our VCS and aiding our users with our extensive network of tech partners."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6911f552842236bd9e8ea8ddbb3fb414e2c5fa9d",
+    "url": "https://synapse.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x6911f552842236bd9e8ea8ddbb3fb414e2c5fa9d",
+        "https://ethplorer.io/address/0x6911f552842236bd9e8ea8ddbb3fb414e2c5fa9d",
+        "https://bscscan.com/token/0x6911f552842236bd9e8ea8ddbb3fb414e2c5fa9d"
+    ],
+    "twitter": "SynapseNetwork_",
+    "telegram": "Synapse_official",
+    "github_org": "orgs"
+}

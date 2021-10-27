@@ -1,0 +1,26 @@
+{
+    "id": "peacockcoin-eth",
+    "symbol": "pekc",
+    "name": "Peacockcoin (ETH)",
+    "platforms": {
+        "ethereum": "0x398dc1c12a268b657abd0cd88999156228acb91a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "PeacockCoin is a deflationary yield token on the Binance Smart Chain with Multi-dimensional NFT's.\r\nPeacockCoin wants to facilitate influencers, pioneering contemporary, digital, and cryptonative artists's work."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x398dc1c12a268b657abd0cd88999156228acb91a",
+    "url": "https://peacockcoin.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x398dc1c12a268b657abd0cd88999156228acb91a",
+        "https://ethplorer.io/address/0x398dc1c12a268b657abd0cd88999156228acb91a"
+    ],
+    "twitter": "PeacockCoin",
+    "telegram": "peacockcoin",
+    "reddit": "https://www.reddit.com"
+}

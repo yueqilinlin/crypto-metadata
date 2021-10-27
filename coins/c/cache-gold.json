@@ -1,0 +1,25 @@
+{
+    "id": "cache-gold",
+    "symbol": "cgt",
+    "name": "CACHE Gold",
+    "platforms": {
+        "ethereum": "0xf5238462e7235c7b62811567e63dd17d12c2eaa0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CACHE Gold tokens are fully regulated, public, transparent, redeemable tokens backed by gold stored in vaults around the world."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xf5238462e7235c7b62811567e63dd17d12c2eaa0",
+    "url": "https://cache.gold/",
+    "explorers": [
+        "https://etherscan.io/token/0xf5238462e7235c7b62811567e63dd17d12c2eaa0",
+        "https://ethplorer.io/address/0xf5238462e7235c7b62811567e63dd17d12c2eaa0",
+        "https://explorer.cache.gold/"
+    ],
+    "twitter": "cache_gold",
+    "facebook": "CACHEGoldToken",
+    "github_org": "cache-token"
+}

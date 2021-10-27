@@ -1,0 +1,26 @@
+{
+    "id": "defiat",
+    "symbol": "dft",
+    "name": "DeFiat",
+    "platforms": {
+        "ethereum": "0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1",
+    "url": "https://defiat.net/",
+    "explorers": [
+        "https://etherscan.io/token/0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1",
+        "https://ethplorer.io/address/0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1"
+    ],
+    "twitter": "DeFiatOfficial",
+    "telegram": "defiat_crypto",
+    "github_org": "defiat-crypto"
+}

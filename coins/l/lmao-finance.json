@@ -1,0 +1,29 @@
+{
+    "id": "lmao-finance",
+    "symbol": "lmao",
+    "name": "LMAO Finance",
+    "platforms": {
+        "ethereum": "0x69ef45cf64d8360279daa974aabadb42f0683a6c",
+        "binance-smart-chain": "0x189b5b4e6a51cf7c4e344574633cab8b5578d581",
+        "polygon-pos": "0xda6f81c2426131337b0cf73768b94c2004390b0e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$LMAO is a community-driven token, for everyone!\r\n\r\nWe're bringing legitimacy to the memecoin space. We have locked liqudity, a staking mechanism in place to encourage  long term holding, and an NFT marketplace / DEX on the roadmap!\r\n\r\nWe're a community of individuals who act and dream bigger than the average person. Why just shoot for the moon when we can go far beyound that!"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x69ef45cf64d8360279daa974aabadb42f0683a6c",
+    "url": "https://www.lmao.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x69ef45cf64d8360279daa974aabadb42f0683a6c",
+        "https://ethplorer.io/address/0x69ef45cf64d8360279daa974aabadb42f0683a6c",
+        "https://polygonscan.com/token/0xda6f81c2426131337b0cf73768b94c2004390b0e",
+        "https://bscscan.com/token/0x189b5b4e6a51cf7c4e344574633cab8b5578d581"
+    ],
+    "twitter": "lmaofinance",
+    "telegram": "lmaofinance",
+    "reddit": "lmaofinance/",
+    "github_org": "lmaofinance"
+}

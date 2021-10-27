@@ -1,0 +1,23 @@
+{
+    "id": "garudaswap",
+    "symbol": "garuda",
+    "name": "GarudaSwap",
+    "platforms": {
+        "binance-smart-chain": "0x854086dc841e1bfae50cb615bf41f55bf432a90b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GarudaSwap.Finance is a brand new, audited, next generation yield farm on BSC.\r\n\r\nHighlighted features of GarudaSwap are Innovative tokenomics, Anti whale,  Harvest lock-up to prevent token dumping, migrator code removed and 3% referral programme.\r\n\r\nGarudaSwap.finance aim to be long live project, with low initial supply, Automatic Liquidity with 8% reflection tax, and safe to user as audited by Techrate and Certik (processing)."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x854086dc841e1bfae50cb615bf41f55bf432a90b",
+    "url": "https://garudaswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x854086dC841e1bfae50Cb615bF41f55BF432a90b"
+    ],
+    "twitter": "GarudaSwap",
+    "telegram": "garudaswap",
+    "github_org": "garudaswap"
+}

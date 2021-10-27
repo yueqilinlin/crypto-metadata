@@ -1,0 +1,24 @@
+{
+    "id": "aapl",
+    "symbol": "$aapl",
+    "name": "$AAPL",
+    "platforms": {
+        "ethereum": "0x41efc0253ee7ea44400abb5f907fdbfdebc82bec"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Applescash = YFI + Ampleforth, $AAPL is going to be the No.1 elastic stable coin. Just enjoy the dual benefits of yield farming and elastic tokens. The AAPL Protocol is a DeFi invention designing for the Crazy Ones."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x41efc0253ee7ea44400abb5f907fdbfdebc82bec",
+    "url": "https://www.applescash.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x41efc0253ee7ea44400abb5f907fdbfdebc82bec",
+        "https://ethplorer.io/address/0x41efc0253ee7ea44400abb5f907fdbfdebc82bec"
+    ],
+    "twitter": "ApplescashC",
+    "facebook": "applescash",
+    "telegram": "applescash"
+}

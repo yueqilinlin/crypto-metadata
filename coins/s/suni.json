@@ -1,0 +1,25 @@
+{
+    "id": "suni",
+    "symbol": "suni",
+    "name": "SUNI",
+    "platforms": {
+        "ethereum": "0x4a22a69e45ab29f9f7276b0267797474daf1f27c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sustainable community to support projects that benefit our planet."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4a22a69e45ab29f9f7276b0267797474daf1f27c",
+    "url": "https://sunicoin.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x4a22a69e45ab29f9f7276b0267797474daf1f27c",
+        "https://ethplorer.io/address/0x4a22a69e45ab29f9f7276b0267797474daf1f27c"
+    ],
+    "twitter": "sunitoken",
+    "facebook": "sunitoken",
+    "telegram": "sunicoin",
+    "github_org": "Sunicoin"
+}

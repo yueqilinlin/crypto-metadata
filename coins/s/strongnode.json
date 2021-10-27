@@ -1,0 +1,23 @@
+{
+    "id": "strongnode",
+    "symbol": "sne",
+    "name": "StrongNode",
+    "platforms": {
+        "polygon-pos": "0x32934cb16da43fd661116468c1b225fc26cf9a8c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "StrongNode is the future of the Node Infrastructure-as-a-Service model. We are the next generation of edge networking leveraging blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x32934cb16da43fd661116468c1b225fc26cf9a8c",
+    "url": "https://www.strongnode.io/",
+    "explorers": [
+        "https://polygonscan.com/token/0x32934CB16DA43fd661116468c1B225Fc26CF9A8c"
+    ],
+    "twitter": "StrongNodeEdge",
+    "telegram": "strongnodechat",
+    "reddit": "strongnode/"
+}

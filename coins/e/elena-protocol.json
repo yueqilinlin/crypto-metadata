@@ -1,0 +1,24 @@
+{
+    "id": "elena-protocol",
+    "symbol": "elena",
+    "name": "Elena Protocol",
+    "platforms": {
+        "ethereum": "0x6f0f28ceee6ae686ee0f939375674c01b156365a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "USE is a decentralized algorithmic stablecoin. Based on it, a new digital economy market will be built. USE is governed by Elena, supported by Oasis Vault, and adjusted by the PCV protocol."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x6f0f28ceee6ae686ee0f939375674c01b156365a",
+    "url": "https://app.elena.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x6F0f28CeeE6aE686Ee0f939375674C01b156365a",
+        "https://ethplorer.io/address/0x6F0f28CeeE6aE686Ee0f939375674C01b156365a"
+    ],
+    "twitter": "ElenaProtocol",
+    "telegram": "ElenaFinance",
+    "github_org": "elenaprotocol"
+}

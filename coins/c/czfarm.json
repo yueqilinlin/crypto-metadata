@@ -1,0 +1,23 @@
+{
+    "id": "czfarm",
+    "symbol": "czf",
+    "name": "CZFarm",
+    "platforms": {
+        "binance-smart-chain": "0x7c1608c004f20c3520f70b924e2bfef092da0043"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7c1608c004f20c3520f70b924e2bfef092da0043",
+    "url": "https://czodiac.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x7c1608C004F20c3520f70b924E2BfeF092dA0043"
+    ],
+    "twitter": "zodiacs_c",
+    "telegram": "CZodiacofficial",
+    "github_org": "chinese-zodiac"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pluton",
+    "symbol": "plu",
+    "name": "Pluton",
+    "platforms": {
+        "ethereum": "0xd8912c10681d8b21fd3742244f44658dba12264e",
+        "polygon-pos": "0x7dc0cb65ec6019330a6841e9c274f2ee57a6ca6c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Plutons are digital tokens issued to users on the Ethereum blockchain, these are native to the Plutus app. To provide an analogy, these tokens are similar to cash back or frequent flier miles. As a user, you will automatically be rewarded with a 3%* rebate in Plutons for every Bitcoin deposit you make towards a purchase. Plutons can be used within the Plutus app in the same way as Bitcoins. This means that you can use Plutons to charge your contactless balance just as you would with BTC, with the added benefit of zero fees and instant conversions. "
+    },
+    "country_origin": "",
+    "genesis_date": "2016-09-04",
+    "contract_address": "0xd8912c10681d8b21fd3742244f44658dba12264e",
+    "url": "https://plutus.it/",
+    "explorers": [
+        "https://etherscan.io/token/0xD8912C10681D8B21Fd3742244f44658dBA12264E",
+        "https://ethplorer.io/address/0xd8912c10681d8b21fd3742244f44658dba12264e"
+    ],
+    "twitter": "plutus",
+    "facebook": "Plutusit",
+    "reddit": "plutus"
+}

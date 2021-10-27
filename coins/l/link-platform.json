@@ -1,0 +1,25 @@
+{
+    "id": "link-platform",
+    "symbol": "lnk",
+    "name": "Link Platform",
+    "platforms": {
+        "ethereum": "0xe2e6d4be086c6938b53b22144855eef674281639"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Ethereum.link is a growing platform connecting traditional markets and businesses withlast technology and new generation cryptocurrency, smart contracts and the big spectrum of tools Ethereum platform has to offer, we aim to exponentially increase Ethereum integration into small and medium businesses."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-06-29",
+    "contract_address": "0xe2e6d4be086c6938b53b22144855eef674281639",
+    "url": "https://ethereum.link/",
+    "explorers": [
+        "https://etherscan.io/token/0xe2e6d4be086c6938b53b22144855eef674281639",
+        "https://ethplorer.io/address/0xe2e6d4be086c6938b53b22144855eef674281639"
+    ],
+    "twitter": "linkplatform",
+    "github_org": "ethlink"
+}

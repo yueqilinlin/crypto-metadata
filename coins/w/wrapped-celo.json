@@ -1,0 +1,25 @@
+{
+    "id": "wrapped-celo",
+    "symbol": "wcelo",
+    "name": "Wrapped CELO",
+    "platforms": {
+        "ethereum": "0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Wrapped Celo is a 1:1 equivalent of Celo, represented as an ERC-20 on Ethereum."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a",
+    "url": "https://www.wrapped.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a",
+        "https://ethplorer.io/address/0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a"
+    ],
+    "twitter": "wrappedfi",
+    "telegram": "wrappedfi"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "market-arbitrage-coin",
+    "symbol": "marc",
+    "name": "Market Arbitrage Coin",
+    "platforms": {
+        "binance-smart-chain": "0x5a12eb4227f177918b61826e718d239f0786b3a8"
+    },
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Market Arbitrage Coin is a Safe and Simple Way to Earn a Profit From the Cryptocurrency Market."
+    },
+    "country_origin": "AG",
+    "genesis_date": null,
+    "contract_address": "0x5a12eb4227f177918b61826e718d239f0786b3a8",
+    "url": "https://www.marcoin.cc",
+    "explorers": [
+        "http://explorer.marcoin.cc",
+        "https://bscscan.com/token/0x5a12eb4227f177918b61826e718d239f0786b3a8"
+    ],
+    "twitter": "ArbitrageCoin",
+    "github_org": "MarketArbitrageCoin"
+}

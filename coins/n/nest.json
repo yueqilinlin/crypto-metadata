@@ -1,0 +1,28 @@
+{
+    "id": "nest",
+    "symbol": "nest",
+    "name": "Nest Protocol",
+    "platforms": {
+        "ethereum": "0x04abeda201850ac0124161f037efd70c74ddc74c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)",
+        "Oracle"
+    ],
+    "description": {
+        "en": "Nest protocol is a decentralized price fact Oracle protocol network based on Ethereum network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x04abeda201850ac0124161f037efd70c74ddc74c",
+    "url": "https://nestdapp.io/",
+    "explorers": [
+        "https://etherscan.com/token/0x04abeda201850ac0124161f037efd70c74ddc74c",
+        "https://ethplorer.io/address/0x04abeda201850ac0124161f037efd70c74ddc74c",
+        "https://etherscan.io/token/0x04abeda201850ac0124161f037efd70c74ddc74c"
+    ],
+    "twitter": "BruceYang_NEST",
+    "telegram": "nest_chat",
+    "github_org": "NEST-Protocol"
+}

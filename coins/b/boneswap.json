@@ -1,0 +1,23 @@
+{
+    "id": "boneswap",
+    "symbol": "bone",
+    "name": "BoneSwap",
+    "platforms": {
+        "polygon-pos": "0x80244c2441779361f35803b8c711c6c8fc6054a3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bone Swap is a full ecosystem that have yield farming and automated market-making (AMM) for the Polygon network. We introduce Decentralized Exchange (DEX), Yield Farm, Info Service, which is the strong and secure foundation with our own BONE token as the center of our service.\r\nBone Swap is built by a dedicated professional team (1 lead + 3 developers + 1 support). We will committed to the growing and success of the ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x80244c2441779361f35803b8c711c6c8fc6054a3",
+    "url": "https://farm.boneswap.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x80244c2441779361f35803b8c711c6c8fc6054a3"
+    ],
+    "twitter": "boneswapfi",
+    "telegram": "boneswapfi",
+    "github_org": "boneswap"
+}

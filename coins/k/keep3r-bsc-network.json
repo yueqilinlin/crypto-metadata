@@ -1,0 +1,25 @@
+{
+    "id": "keep3r-bsc-network",
+    "symbol": "kp3rb",
+    "name": "Keep3r BSC Network",
+    "platforms": {
+        "binance-smart-chain": "0x5ea29eee799aa7cc379fde5cf370bc24f2ea7c81"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "Keep3r BSC Network is first and only keeper protocol implementation on Binance Smart Chain."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x5ea29eee799aa7cc379fde5cf370bc24f2ea7c81",
+    "url": "https://keep3rb.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x5ea29eee799aa7cc379fde5cf370bc24f2ea7c81"
+    ],
+    "twitter": "kp3rb",
+    "telegram": "keep3rb",
+    "github_org": "keep3rb-network"
+}

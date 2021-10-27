@@ -1,0 +1,28 @@
+{
+    "id": "xeonbit-token",
+    "symbol": "xns",
+    "name": "Xeonbit Token",
+    "platforms": {
+        "ethereum": "0x79c71d3436f39ce382d0f58f1b011d88100b9d91"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "Xeonbit Token (XNS) decentralized trust system through a blockchain based payment gateway. We are creating a decentralized payment and trust solution on the Ethereum blockchain leveraging smart contract technology The payment solution works with our decentralized trust system to empower merchants with quick and smart way to bring their business to the next level. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x79c71d3436f39ce382d0f58f1b011d88100b9d91",
+    "url": "https://xeonbit.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x79c71d3436f39ce382d0f58f1b011d88100b9d91",
+        "https://ethplorer.io/address/0x79c71d3436f39ce382d0f58f1b011d88100b9d91"
+    ],
+    "twitter": "xeonbit",
+    "facebook": "xeonbit",
+    "telegram": "xeonbitgroup",
+    "reddit": "xeonbit/",
+    "github_org": "xeonbit-project"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "bitcoingenx",
+    "symbol": "bgx",
+    "name": "BitcoinGenX",
+    "platforms": {},
+    "hashing_algorithm": "Xevan",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "BitcoinGenX is a Masternode/PoS + zPoS Hybrid cryptocurrency forked from Bitcoin Green so inherits the Green Protocol and customized to include Zerocoin Protocol. Having developed this wallet, we aim to provide innovation and positive change to the world by promoting both eco-friendly and privacy solutions in the blockchain industry. BitcoinGenX (BGX) is truly a 2-in-1 innovative cryptocurrency aiming to change the way cryptocurrencies are perceived and how they can be beneficial to the future for financial institutions. Also, it is extremely beneficial hold BGX as the algorithm is indeed a Proof-of-stake/Masternode algo and means that the only way to mine/mint BGX coins is by holding and staking coins. The alternative route to benefit from rewards is by having enough coins for a masternode collateral. BitcoinGenX cannot be mined by GPU (Graphics Cards) or CPU (Central Processing Unit) as we believe it would be unfair for user\u2019s wealthy in equipment to benefit more than those whom don\u2019t have such tools available. The algorithm our blockchain is built upon simply rewards users depending on wealth and coin holding."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://btcgenx.net/",
+    "explorers": [
+        "http://explorer.btcgenx.net"
+    ],
+    "twitter": "bitcoingenx",
+    "facebook": "bitcoingenx",
+    "telegram": "bitcoingenx",
+    "github_org": "BitcoinGenX"
+}

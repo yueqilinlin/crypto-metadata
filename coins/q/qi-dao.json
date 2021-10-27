@@ -1,0 +1,26 @@
+{
+    "id": "qi-dao",
+    "symbol": "qi",
+    "name": "Qi Dao",
+    "platforms": {
+        "polygon-pos": "0x580a84c73811e1839f75d86d75d88cca0c241ff4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Polygon Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "The Qi token\u2014the governance token of the QiDao Protocol\u2014allows those who hold it to vote on changes to the QiDao Protocol. Anyone, not only Qi holders, can submit proposals for a Qi vote. Qi tokens have to be staked to form xQi in order to vote. \r\n\r\nQi holders will decide in a consensus how to distribute the Treasury funds to pay for various infrastructure needs and services. The funds in the Treasury are revenues from Closing Fees, and other income streams. The governance mechanism is designed to be flexible and upgradeable over time."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4",
+    "url": "https://mai.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x580a84c73811e1839f75d86d75d88cca0c241ff4"
+    ],
+    "twitter": "0xLaoZi",
+    "github_org": "0xlaozi"
+}

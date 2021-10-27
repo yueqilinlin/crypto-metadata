@@ -1,0 +1,20 @@
+{
+    "id": "orbitcoin",
+    "symbol": "orb",
+    "name": "Orbitcoin",
+    "platforms": {},
+    "hashing_algorithm": "NeoScrypt",
+    "categories": [],
+    "description": {
+        "en": "Orbitcoin is a PoW/PoS coin that is the first coin to implement 0% PoS staking. Orbitcoin's goal is to be used on the normal Internet and darknets like I2P/Tor. At the moment, Orbitcoin works with SOCKS over I2P/Tor. Native support for I2P will be in place soon. Orbitcoin is one of the oldest PoW/PoS altcoins that was launched on the 30th of July 2013. Orbitcoin is founded by Ghostlander, a male located somewhere in Europe. "
+    },
+    "country_origin": "",
+    "genesis_date": "2013-07-28",
+    "url": "http://orbitcoin.org/",
+    "explorers": [
+        "http://explorer.orbitcoin.org/"
+    ],
+    "twitter": "OrBitcoinLove",
+    "facebook": "orbitcoin",
+    "github_org": "Orbitcoin"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "ikomp",
+    "symbol": "ikomp",
+    "name": "IKOMP",
+    "platforms": {
+        "ethereum": "0x6a625ddb2e2a2de0257c5129364dd80bb4afa3b9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeFi Yield Farming Project that can mine iKOMP"
+    },
+    "country_origin": "PH",
+    "genesis_date": null,
+    "contract_address": "0x6a625ddb2e2a2de0257c5129364dd80bb4afa3b9",
+    "url": "https://ikomp.app/home.ikomp",
+    "explorers": [
+        "https://etherscan.io/token/0x6a625DDb2e2A2de0257C5129364dd80Bb4AfA3B9",
+        "https://ethplorer.io/address/0x6a625DDb2e2A2de0257C5129364dd80Bb4AfA3B9"
+    ],
+    "twitter": "KOMPASS_Defi",
+    "telegram": "kompassofficial"
+}

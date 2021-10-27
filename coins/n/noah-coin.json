@@ -1,0 +1,29 @@
+{
+    "id": "noah-coin",
+    "symbol": "noahp",
+    "name": "Noah Decentralized State Coin",
+    "platforms": {
+        "ethereum": "0x41b3f18c6384dc9a39c33afeca60d9b8e61eaa9f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Remittance",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "NOAHP is a unique coin that is connected to the ecosystem of the NOAH decentralized state, the only state that pays taxes to its citizens. NOAHP can provide with you a wide range of possibilities, such as participating in the development of the NOAH project, becoming a citizen of a wealthy state, using its anonymous abilities to make transactions, or even stake it in the DeFi liquidity pools.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": "2017-10-20",
+    "contract_address": "0x41b3f18c6384dc9a39c33afeca60d9b8e61eaa9f",
+    "url": "https://noahcoin.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x41b3F18c6384Dc9A39c33AFEcA60d9b8e61eAa9F",
+        "https://ethplorer.io/address/0x41b3F18c6384Dc9A39c33AFEcA60d9b8e61eAa9F"
+    ],
+    "twitter": "NOAHCOIN_Proj",
+    "facebook": "NOAHCOINOfficial",
+    "telegram": "noahproject_community",
+    "reddit": "https://www.reddit.com",
+    "github_org": "NoahFoundation"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "stakedxem",
+    "symbol": "stxem",
+    "name": "stakedXEM",
+    "platforms": {
+        "ethereum": "0x0c63cae5fcc2ca3dde60a35e50362220651ebec8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "stXEM is wrapped ERC-20 version of XEM token, which provides staking rewards of the supernode while remains liquid asset for it's holders."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x0c63cae5fcc2ca3dde60a35e50362220651ebec8",
+    "url": "https://stakehound.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x0c63cae5fcc2ca3dde60a35e50362220651ebec8",
+        "https://ethplorer.io/address/0x0c63cae5fcc2ca3dde60a35e50362220651ebec8"
+    ],
+    "twitter": "stakedTokens",
+    "telegram": "stakehound"
+}

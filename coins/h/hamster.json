@@ -1,0 +1,23 @@
+{
+    "id": "hamster",
+    "symbol": "ham",
+    "name": "Hamster",
+    "platforms": {
+        "binance-smart-chain": "0x679d5b2d94f454c950d683d159b87aa8eae37c9e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hamster Token is a decentralized meme token of the community created on the BSC Network."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x679d5b2d94f454c950d683d159b87aa8eae37c9e",
+    "url": "https://coinhamster.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x679d5b2d94f454c950d683d159b87aa8eae37c9e"
+    ],
+    "twitter": "_hamster_coin",
+    "telegram": "Hamster_Finance",
+    "github_org": "Hamstersfinance"
+}

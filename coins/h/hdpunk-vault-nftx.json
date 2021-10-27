@@ -1,0 +1,24 @@
+{
+    "id": "hdpunk-vault-nftx",
+    "symbol": "hdpunk",
+    "name": "HDPUNK Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0x42b4df7e402a71eae743c6c5410ce3bbb63aef22"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "HDPUNK Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x42b4df7e402a71eae743c6c5410ce3bbb63aef22",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x42B4dF7e402A71EAE743c6C5410CE3BBb63aEf22",
+        "https://ethplorer.io/address/0x42b4df7e402a71eae743c6c5410ce3bbb63aef22"
+    ],
+    "twitter": "nftx_"
+}

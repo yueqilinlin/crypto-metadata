@@ -1,0 +1,25 @@
+{
+    "id": "tomochain",
+    "symbol": "tomo",
+    "name": "TomoChain",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Tomochain is an innovative solution to the scalability problem with the Ethereum blockchain. Tomochain plans to support horizontal scaling via adding more second layer blockchains with good performance integrated with Ethereum for backup and atomic cross-chain transfer.\r\n\r\nTomochain is envisioned to be a network of chains that supports instant confirmation, and near zero transaction fee which will be an ideal solution for decentralized apps, token issuances and token integrations for small and big businesses."
+    },
+    "country_origin": "SG",
+    "genesis_date": "2018-02-28",
+    "contract_address": "0x05d3606d5c81eb9b7b18530995ec9b29da05faba",
+    "url": "https://tomochain.com/",
+    "explorers": [
+        "http://tomoscan.io"
+    ],
+    "twitter": "TomoChainANN",
+    "facebook": "tomochainofficial",
+    "telegram": "tomochain",
+    "reddit": "Tomochain/",
+    "github_org": "tomochain"
+}

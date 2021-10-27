@@ -1,0 +1,30 @@
+{
+    "id": "force-protocol",
+    "symbol": "for",
+    "name": "ForTube",
+    "platforms": {
+        "ethereum": "0x1fcdce58959f536621d76f5b7ffb955baa5a672f",
+        "binance-smart-chain": "0x658a109c5900bc6d2357c87549b651670e5b0539"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Polygon Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "ForTube is the leading global DeFi lending platform launched by The Force Protocol. It is committed to providing decentralized lending services for cryptoasset enthusiasts around the world, supporting most of the world's popular assets. ForTube is based on smart contracts and automated algorithm technology. Users can deposit tokens to earn interest, pledge to borrow tokens and pay interests.  ForTube's interest rate is determined by market supply and demand. Assets are controlled by users. ForTube allows users to deposit and withdraw anytime, borrow and repay anytime globally."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1fcdce58959f536621d76f5b7ffb955baa5a672f",
+    "url": "https://for.tube/home",
+    "explorers": [
+        "https://etherscan.io/token/0x1fcdce58959f536621d76f5b7ffb955baa5a672f",
+        "https://ethplorer.io/address/0x1fcdce58959f536621d76f5b7ffb955baa5a672f",
+        "https://bscscan.com/token/0x658a109c5900bc6d2357c87549b651670e5b0539"
+    ],
+    "twitter": "ForTubeFi",
+    "telegram": "ForTubeFi",
+    "github_org": "theforceprotocolgroup"
+}

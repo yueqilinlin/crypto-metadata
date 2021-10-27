@@ -1,0 +1,27 @@
+{
+    "id": "the-tokenized-bitcoin",
+    "symbol": "imbtc",
+    "name": "The Tokenized Bitcoin",
+    "platforms": {
+        "ethereum": "0x3212b29e33587a00fb1c83346f5dbfa69a458923"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Tokenized BTC",
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "imBTC is an Ethereum token that represents 1:1 the value of bitcoin. Holders can mint, exchange, redeem, and receive the income on imBTC from the Tokenlon platform."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x3212b29e33587a00fb1c83346f5dbfa69a458923",
+    "url": "https://tokenlon.im/imBTC",
+    "explorers": [
+        "https://etherscan.io/token/0x3212b29E33587A00FB1C83346f5dBFA69A458923",
+        "https://ethplorer.io/address/0x3212b29e33587a00fb1c83346f5dbfa69a458923"
+    ],
+    "twitter": "tokenlon",
+    "telegram": "tokenlonDEX"
+}

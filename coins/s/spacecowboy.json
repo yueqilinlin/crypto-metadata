@@ -1,0 +1,26 @@
+{
+    "id": "spacecowboy",
+    "symbol": "scb",
+    "name": "SpaceCowBoy",
+    "platforms": {
+        "binance-smart-chain": "0x0d36cc179019db9a65aa3b85db59e4bb52df0b12"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "SpaceCowBoy is part of OxBull (OXB), SCB is a NFT platform for digital art and asset  related to the theme of sci-fi."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0d36cc179019db9a65aa3b85db59e4bb52df0b12",
+    "url": "https://scb.oxbull.tech/",
+    "explorers": [
+        "https://bscscan.com/token/0xdcAf1Afc07d9e1C057bd5cd144659910C4b91682"
+    ],
+    "twitter": "BSCSpaceCowboy ",
+    "telegram": "BSCSpaceCowBoy"
+}

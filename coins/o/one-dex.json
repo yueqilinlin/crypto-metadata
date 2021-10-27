@@ -1,0 +1,25 @@
+{
+    "id": "one-dex",
+    "symbol": "odex",
+    "name": "One DEX",
+    "platforms": {
+        "ethereum": "0xa960d2ba7000d58773e7fa5754dec3bb40a069d5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "One DEX is a multi-blockchain exchange and decentralized hedging on Ethereum, NEO, EOS and Tron blockchains.\r\nThe main goal of Onedex is to create a dex with high liquidity, high trading speed, user-friendly interface and optimal security"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa960d2ba7000d58773e7fa5754dec3bb40a069d5",
+    "url": "https://onedexproject.com",
+    "explorers": [
+        "https://etherscan.io/token/0xa960d2ba7000d58773e7fa5754dec3bb40a069d5",
+        "https://ethplorer.io/address/0xa960d2ba7000d58773e7fa5754dec3bb40a069d5"
+    ],
+    "twitter": "OneDexProject",
+    "telegram": "odexproject"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "wrapped-wrx",
+    "symbol": "bwrx",
+    "name": "Wrapped WRX",
+    "platforms": {
+        "ethereum": "0xff0a024b66739357c4ed231fb3dbc0c8c22749f5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Wrapped-Tokens"
+    ],
+    "description": {
+        "en": "BWRX is a wrapped WRX token on Ethereum blockchain issued through Binance Token Canal. It is available on Ethereum Chain and is listed on Uniswap for swap (https://info.uniswap.org/#/pools/0x1a4d6a9ed2ca10799eb3fdd7888ba76d5644cdb0)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xff0a024b66739357c4ed231fb3dbc0c8c22749f5",
+    "url": "https://wazirx.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xFF0a024B66739357c4ED231fB3DBC0c8C22749F5",
+        "https://ethplorer.io/address/0xff0a024b66739357c4ed231fb3dbc0c8c22749f5"
+    ],
+    "twitter": "wazirxindia",
+    "telegram": "wazirx",
+    "github_org": "WazirX"
+}

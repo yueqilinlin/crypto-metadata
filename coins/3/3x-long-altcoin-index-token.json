@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-altcoin-index-token",
+    "symbol": "altbull",
+    "name": "3X Long Altcoin Index Token",
+    "platforms": {
+        "ethereum": "0xd829664cdbf3195b2ce76047a65de29e7ed0a9a8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Altcoin Index Token (ALTBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Altcoin Index."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd829664cdbf3195b2ce76047a65de29e7ed0a9a8",
+    "url": "https://ftx.com/tokens/ALTBULL",
+    "explorers": [
+        "https://etherscan.io/token/0xd829664cdbf3195b2ce76047a65de29e7ed0a9a8",
+        "https://ethplorer.io/address/0xd829664cdbf3195b2ce76047a65de29e7ed0a9a8"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bakc-vault-nftx",
+    "symbol": "bakc",
+    "name": "BAKC Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xe632e1ea781df32c60ab11052958744cbfbc439a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "BAKC Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe632e1ea781df32c60ab11052958744cbfbc439a",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xe632e1EA781df32c60AB11052958744CBfBc439A",
+        "https://ethplorer.io/address/0xe632e1ea781df32c60ab11052958744cbfbc439a"
+    ],
+    "twitter": "nftx_"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "eva-coin",
+    "symbol": "eva",
+    "name": "EVA Coin",
+    "platforms": {
+        "ethereum": "0x70126bd012e39038792366c9115bb64407d5cbe1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Electric Vehicles generate smart data for manufacturers. \r\nEVAIO leverages blockchain technology to bring data ownership back to vehicle owners. \r\nOur platform can monetize your vehicle data!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x70126bd012e39038792366c9115bb64407d5cbe1",
+    "url": "https://evaio.info/",
+    "explorers": [
+        "https://etherscan.io/token/0x70126bd012e39038792366c9115bb64407d5cbe1",
+        "https://ethplorer.io/address/0x70126bd012e39038792366c9115bb64407d5cbe1"
+    ],
+    "twitter": "EVAIO_eng",
+    "facebook": "EVAIO.official",
+    "telegram": "evaio_official"
+}

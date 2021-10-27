@@ -1,0 +1,20 @@
+{
+    "id": "aston-villa-fan-token",
+    "symbol": "avl",
+    "name": "Aston Villa Fan Token",
+    "platforms": {
+        "chiliz": "0x27c4b6281f50ec34a5b089bb5d80df557a3dbcf3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The official Fan Token of Aston Villa."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x27c4b6281f50ec34a5b089bb5d80df557a3dbcf3",
+    "url": "https://socios.com",
+    "explorers": [
+        "https://explorer.chiliz.com/tokens/0x27C4b6281F50Ec34a5b089bb5D80df557A3DbCF3/token-transfers"
+    ]
+}

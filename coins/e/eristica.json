@@ -1,0 +1,26 @@
+{
+    "id": "eristica",
+    "symbol": "ert",
+    "name": "Eristica token",
+    "platforms": {
+        "ethereum": "0x92a5b04d0ed5d94d7a193d1d334d3d16996f4e13"
+    },
+    "hashing_algorithm": "Keccak",
+    "categories": [],
+    "description": {
+        "en": "Mobile video platform with 1.5M users. Take a Challenge Become Famous\r\n"
+    },
+    "country_origin": "SG",
+    "genesis_date": "2017-12-07",
+    "contract_address": "0x92a5b04d0ed5d94d7a193d1d334d3d16996f4e13",
+    "url": "https://eristica.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x92A5B04D0ED5D94D7a193d1d334D3D16996f4E13",
+        "https://etherscan.io/token/0x92A5B04D0ED5D94D7a193d1d334D3D16996f4E13",
+        "https://ethplorer.io/address/0x92a5b04d0ed5d94d7a193d1d334d3d16996f4e13"
+    ],
+    "twitter": "eristica",
+    "facebook": "eristica",
+    "telegram": "eristicaofficial",
+    "github_org": "Krishtopa"
+}

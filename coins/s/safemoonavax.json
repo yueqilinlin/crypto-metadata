@@ -1,0 +1,24 @@
+{
+    "id": "safemoonavax",
+    "symbol": "safemoona",
+    "name": "SafemoonAvax",
+    "platforms": {
+        "avalanche": "0x4501e37a79cf953116331a105b3644d07b74c0f8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem"
+    ],
+    "description": {
+        "en": "Safemoonavax, brings you a crypto icon to avalanche! Safemoonavax is the most frictionless yield redistribution token on avalanche! To guarantee investor safety team has time-locked liquidity through a smart contract, and have implemented a provided proof of lock for guarantee. SafemoonAvax bringing over the iconic redistribution system which will directly deposit reflections to your wallet in the native token!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4501e37a79cf953116331a105b3644d07b74c0f8",
+    "url": "https://www.safemoonavax.com/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0x4501e37a79cf953116331a105B3644d07b74C0F8/token-transfers"
+    ],
+    "twitter": "SafeMoon_Avax",
+    "telegram": "SafeMoonAVAX"
+}

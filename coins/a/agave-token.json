@@ -1,0 +1,28 @@
+{
+    "id": "agave-token",
+    "symbol": "agve",
+    "name": "Agave Token",
+    "platforms": {
+        "xdai": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
+        "arbitrum-one": "0x848e0ba28b637e8490d88bae51fa99c87116409b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem"
+    ],
+    "description": {
+        "en": "Agave, a decentralized non-custodial money market protocol where users can participate by borrowing or lending money through the application."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
+    "url": "https://agave.finance/",
+    "explorers": [
+        "https://blockscout.com/poa/xdai/tokens/0x3a97704a1b25F08aa230ae53B352e2e72ef52843/token-transfers",
+        "https://arbiscan.io/token/0x848e0ba28b637e8490d88bae51fa99c87116409b"
+    ],
+    "twitter": "Agave_lending",
+    "telegram": "Agave1Hive",
+    "reddit": "AGVE/",
+    "github_org": "1Hive"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "rezerve",
+    "symbol": "rzrv",
+    "name": "Rezerve",
+    "platforms": {
+        "ethereum": "0xe70b94c2320fb0289db0cac0ccbd60dd8f51ff89"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Vault based token backed by Dai with an ever increasing actual price floor."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe70b94c2320fb0289db0cac0ccbd60dd8f51ff89",
+    "url": "https://rezerveoneth.com/home/",
+    "explorers": [
+        "https://etherscan.io/token/0xE70b94C2320fB0289Db0Cac0cCBD60dd8F51ff89",
+        "https://ethplorer.io/address/0xE70b94C2320fB0289Db0Cac0cCBD60dd8F51ff89"
+    ],
+    "twitter": "_rezerve",
+    "telegram": "RezerveOnChain",
+    "github_org": "RezerveOnEth"
+}

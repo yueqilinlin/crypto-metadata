@@ -1,0 +1,27 @@
+{
+    "id": "maincoin",
+    "symbol": "mnc",
+    "name": "MainCoin",
+    "platforms": {
+        "ethereum": "0x9f0f1be08591ab7d990faf910b38ed5d60e4d5bf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Use MainCoin for instant and private payments on the Internet and in the real world using secure open source software that runs on Ethereum, supported by hundreds of thousands of users around the world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9f0f1be08591ab7d990faf910b38ed5d60e4d5bf",
+    "url": "https://maincoin.money",
+    "explorers": [
+        "https://explorer.maincoin.money/ru/",
+        "https://etherscan.io/token/0x9f0f1be08591ab7d990faf910b38ed5d60e4d5bf",
+        "https://ethplorer.io/address/0x9f0f1be08591ab7d990faf910b38ed5d60e4d5bf"
+    ],
+    "twitter": "mnc_maincoin",
+    "facebook": "maincoin.money",
+    "telegram": "MainCoinChannel",
+    "reddit": "MainCoin/",
+    "github_org": "main-coin"
+}

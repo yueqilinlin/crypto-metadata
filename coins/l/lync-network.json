@@ -1,0 +1,26 @@
+{
+    "id": "lync-network",
+    "symbol": "lync",
+    "name": "LYNC Network",
+    "platforms": {
+        "ethereum": "0x8f87ec6aad3b2a8c44f1298a1af56169b8e574cf"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "First of its kind DeFi cryptocurrency ecosystem designed to offer passive income token rewards powered NFT and board game dApps on the blockchain."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x8f87ec6aad3b2a8c44f1298a1af56169b8e574cf",
+    "url": "https://lync.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x8f87Ec6aAd3B2A8C44f1298A1af56169B8e574cf",
+        "https://ethplorer.io/address/0x8f87ec6aad3b2a8c44f1298a1af56169b8e574cf"
+    ],
+    "twitter": "thelyncnetwork",
+    "telegram": "lyncnetwork",
+    "github_org": "LYNCNetwork"
+}

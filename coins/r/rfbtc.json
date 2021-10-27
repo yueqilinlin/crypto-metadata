@@ -1,0 +1,19 @@
+{
+    "id": "rfbtc",
+    "symbol": "rfbtc",
+    "name": "RFbtc",
+    "platforms": {
+        "ethereum": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RFbtc aims to increase profitability for token holders using RFI's tokenomics based around a 4.2% transaction fee where half is distributed to all token holders automatically and half is sent to a burn address, deflating the total supply. All generated fees that do not get burned go to holders of the token based on what percentage of ownership they have of RFbtc. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://rfbtc.tech/",
+    "explorers": [],
+    "twitter": "rfbtctech",
+    "telegram": "rfbtctech"
+}

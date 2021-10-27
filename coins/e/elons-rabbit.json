@@ -1,0 +1,22 @@
+{
+    "id": "elons-rabbit",
+    "symbol": "erabbit",
+    "name": "ELONs RABBIT",
+    "platforms": {
+        "binance-smart-chain": "0x92a4ebee814afe58741d7f216dc10211d5abc250"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x92a4ebee814afe58741d7f216dc10211d5abc250",
+    "url": "https://elonsrabbit.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x92a4EbEE814AFe58741d7f216dC10211d5aBC250"
+    ],
+    "twitter": "ElonsRabbit",
+    "telegram": "elonsrabbit"
+}

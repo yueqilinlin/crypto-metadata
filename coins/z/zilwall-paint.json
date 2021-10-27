@@ -1,0 +1,22 @@
+{
+    "id": "zilwall-paint",
+    "symbol": "zpaint",
+    "name": "ZilWall Paint",
+    "platforms": {
+        "zilliqa": "zil1qldr63ds7yuspqcf02263y2lctmtqmr039vrht"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cooperative On-Chain Artwork Creation Platform"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "zil1qldr63ds7yuspqcf02263y2lctmtqmr039vrht",
+    "url": "https://zilwall.com/",
+    "explorers": [
+        "https://viewblock.io/zilliqa/address/zil1qldr63ds7yuspqcf02263y2lctmtqmr039vrht?network=mainnet"
+    ],
+    "twitter": "zwall_zpaint",
+    "telegram": "zilwall"
+}

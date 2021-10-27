@@ -1,0 +1,23 @@
+{
+    "id": "ims-wallet",
+    "symbol": "ims",
+    "name": "IMSWallet",
+    "platforms": {
+        "ethereum": "0x3c4030839708a20fd2fb379cf11810dde4888d93"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Single platform for crypto trading and community interactions"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3c4030839708a20fd2fb379cf11810dde4888d93",
+    "url": "https://imswallet.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x3c4030839708a20fd2fb379cf11810dde4888d93",
+        "https://ethplorer.io/address/0x3c4030839708a20fd2fb379cf11810dde4888d93"
+    ],
+    "twitter": "IMSWallet",
+    "telegram": "IMSWALLET"
+}

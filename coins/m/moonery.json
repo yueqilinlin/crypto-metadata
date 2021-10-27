@@ -1,0 +1,25 @@
+{
+    "id": "moonery",
+    "symbol": "mnry",
+    "name": "Moonery",
+    "platforms": {
+        "binance-smart-chain": "0x5baebd214fdae546ce39750b8363e799e2aba21e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MOONERY is a community-driven, no-loss prize game and no-loss pool launchpad built on Binance Smart Chain #BSC. We bring the most revolutionary mechanism to the BSC ecosystem."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x5baebd214fdae546ce39750b8363e799e2aba21e",
+    "url": "https://moonery.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x5baebd214fdae546ce39750b8363e799e2aba21e"
+    ],
+    "twitter": "TheMoonery",
+    "facebook": "themnry",
+    "telegram": "moonery_io",
+    "reddit": "moonery/",
+    "github_org": "moonery-io"
+}

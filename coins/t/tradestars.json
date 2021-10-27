@@ -1,0 +1,27 @@
+{
+    "id": "tradestars",
+    "symbol": "tsx",
+    "name": "TradeStars",
+    "platforms": {
+        "ethereum": "0x734c90044a0ba31b3f2e640c10dc5d3540499bfd",
+        "binance-smart-chain": "0x270388e0ca29cfd7c7e73903d9d933a23d1bab39"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TradeStars is a Fantasy Sports Game powered by blockchain technology. Connects a DeFi \u201ctrading\u201d layer with a DFS \u201cgaming\u201d layer in a play-to-earn model.\r\n\r\nUsers Trade fantasy stocks that represent real-life athlete\u2019s performances, Compete against each other on different types of DFS contests, and Earn monetary and digital rewards.\r\n\r\nTSX is the native utility token that is used for:\r\n - Ingame staking rewards .\r\n - Used for governance votes to determine how product resources are allocated."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x734c90044a0ba31b3f2e640c10dc5d3540499bfd",
+    "url": "https://tradestars.app/",
+    "explorers": [
+        "https://etherscan.io/token/0x734c90044a0ba31b3f2e640c10dc5d3540499bfd",
+        "https://ethplorer.io/address/0x734c90044a0ba31b3f2e640c10dc5d3540499bfd",
+        "https://bscscan.com/address/0x270388e0ca29cfd7c7e73903d9d933a23d1bab39",
+        "https://polygonscan.com/token/0xF11de26883EB2EBF9877a01703DDC1eB619094E6"
+    ],
+    "twitter": "tradestarsOK",
+    "facebook": "TradeStarsOK",
+    "telegram": "tradestarsok"
+}

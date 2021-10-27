@@ -1,0 +1,22 @@
+{
+    "id": "badger-sett-badger",
+    "symbol": "bbadger",
+    "name": "Badger Sett Badger",
+    "platforms": {
+        "ethereum": "0x19d97d8fa813ee2f51ad4b4e04ea08baf4dffc28",
+        "fantom": "0x1f7216fdb338247512ec99715587bb97bbf96eae"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x19d97d8fa813ee2f51ad4b4e04ea08baf4dffc28",
+    "url": "https://app.badger.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x19d97d8fa813ee2f51ad4b4e04ea08baf4dffc28",
+        "https://ethplorer.io/address/0x19d97d8fa813ee2f51ad4b4e04ea08baf4dffc28"
+    ]
+}

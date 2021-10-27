@@ -1,0 +1,22 @@
+{
+    "id": "agronomist",
+    "symbol": "agte",
+    "name": "Agronomist",
+    "platforms": {
+        "solana": "4QV4wzDdy7S1EV6y2r9DkmaDsHeoKz6HUvFLVtAsu6dV"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Powerful DeFi analytics platform for farming, staking and liquidity pools. We provide analytics instruments to analyze different type of pools, check risks and give some recommendation about this. Moreover we create a flexible notification system which react on different events (change price, change apy and more)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "4QV4wzDdy7S1EV6y2r9DkmaDsHeoKz6HUvFLVtAsu6dV",
+    "url": "https://agronomist.tech",
+    "explorers": [
+        "https://solscan.io/token/4QV4wzDdy7S1EV6y2r9DkmaDsHeoKz6HUvFLVtAsu6dV"
+    ],
+    "twitter": "AgronomistTech",
+    "github_org": "agronomist-tech"
+}

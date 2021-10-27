@@ -1,0 +1,25 @@
+{
+    "id": "ringer-vault-nftx",
+    "symbol": "ringer",
+    "name": "RINGER Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0x13edcc775f8895961b81db5c0205889b3afb3a16"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "RINGER Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs).\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x13edcc775f8895961b81db5c0205889b3afb3a16",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x13edcc775f8895961b81db5c0205889b3afb3a16",
+        "https://ethplorer.io/address/0x13edcc775f8895961b81db5c0205889b3afb3a16"
+    ],
+    "twitter": "nftx_"
+}

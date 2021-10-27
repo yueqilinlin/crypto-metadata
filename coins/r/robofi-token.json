@@ -1,0 +1,23 @@
+{
+    "id": "robofi-token",
+    "symbol": "vics",
+    "name": "RoboFi Token",
+    "platforms": {
+        "binance-smart-chain": "0x9bcab88763c33a95e73bc6dcf80fcf27a77090b2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RoboFi is a Defi platform that envisions a marketplace for revolutionary Dao crypto trading bots. Through its IBO (Initial Bot Offering) system, community members can maximize their earnings in an easy, simple, and secure way. We create a safe and transparent environment based on\r\nblockchain technologies that help developers bring crypto trading bot platforms to the market. In addition, individuals will have easy access to these bot applications, thereby generating more earning opportunities. RoboFi ecosystem is fueled by the VICS token."
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0x9bcab88763c33a95e73bc6dcf80fcf27a77090b2",
+    "url": "https://robofi.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x9bcab88763c33a95e73bc6dcf80fcf27a77090b2"
+    ],
+    "twitter": "RobofiV",
+    "telegram": "RoboFi_VICS",
+    "github_org": "robofi-vics"
+}

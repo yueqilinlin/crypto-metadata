@@ -1,0 +1,22 @@
+{
+    "id": "hodooi-com",
+    "symbol": "hod",
+    "name": "HoDooi.com",
+    "platforms": {
+        "binance-smart-chain": "0x19a4866a85c652eb4a2ed44c42e4cb2863a62d51"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Multi-chain NFT Marketplace"
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0x19a4866a85c652eb4a2ed44c42e4cb2863a62d51",
+    "url": "https://hodooi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x19A4866a85c652EB4a2ED44c42e4CB2863a62D51"
+    ],
+    "twitter": "hodooicom",
+    "reddit": "Hodooi/"
+}

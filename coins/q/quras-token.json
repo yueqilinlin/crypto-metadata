@@ -1,0 +1,25 @@
+{
+    "id": "quras-token",
+    "symbol": "xqc",
+    "name": "Quras Token",
+    "platforms": {
+        "ethereum": "0x70da48f4b7e83c386ef983d4cef4e58c2c09d8ac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "QURAS is a genuine secret contract platform that fulfills various privacy protection needs.\r\n\r\nQURAS DApp currently in development will serve as use-case models and promotion for QURAS protocol. This DApp will grant crypto currencies just by taking a walk. You can also get to know and interact with other online users through the application. Furthermore, you can remit crypto currencies via messenger."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x70da48f4b7e83c386ef983d4cef4e58c2c09d8ac",
+    "url": "https://quras.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x70da48f4b7e83c386ef983d4cef4e58c2c09d8ac",
+        "https://ethplorer.io/address/0x70da48f4b7e83c386ef983d4cef4e58c2c09d8ac"
+    ],
+    "twitter": "qurasofficial",
+    "facebook": "QurasOfficial",
+    "telegram": "qurasnewofficial",
+    "github_org": "quras-official"
+}

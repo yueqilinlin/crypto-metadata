@@ -1,0 +1,28 @@
+{
+    "id": "cryptowater",
+    "symbol": "c2o",
+    "name": "CryptoWater",
+    "platforms": {
+        "ethereum": "0x13ca8eb6405cfbe2eae5d00207651002083fbc9d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "CryptoWater is a sustainable water transparency startup project backed by blockchain timestamps. The idea was born in 2017. MVP was released and showcased in march 10th, 2018. Project gained recognition in 2019 and was awarded an international award \"Responsible towards water\" at the annual Bled Water festival held in Bled, Slovenia. Founder is now taking the MVP into a fully functional product in a form of micro scale water bottling facility."
+    },
+    "country_origin": "SI",
+    "genesis_date": null,
+    "contract_address": "0x13ca8eb6405cfbe2eae5d00207651002083fbc9d",
+    "url": "https://cryptowater.si/",
+    "explorers": [
+        "https://etherscan.io/token/0x13ca8eb6405cfbe2eae5d00207651002083fbc9d",
+        "https://ethplorer.io/address/0x13ca8eb6405cfbe2eae5d00207651002083fbc9d"
+    ],
+    "twitter": "CryptowaterSi",
+    "facebook": "CryptoWater.si",
+    "telegram": "CryptoWaterSi",
+    "reddit": "CryptoWater/",
+    "github_org": "cryptowater-si"
+}

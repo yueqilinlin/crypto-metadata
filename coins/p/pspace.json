@@ -1,0 +1,23 @@
+{
+    "id": "pspace",
+    "symbol": "pspace",
+    "name": "pSPACE",
+    "platforms": {
+        "polygon-pos": "0xd016caae879c42cb0d74bb1a265021bf980a7e96"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ApeRocket Finance is a suite of products in Decentralized Finance (DeFi) that provides yield optimization strategies through the Binance Smart Chain, using ApeSwap liquidity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd016caae879c42cb0d74bb1a265021bf980a7e96",
+    "url": "https://polygon.aperocket.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0xd016caae879c42cb0d74bb1a265021bf980a7e96"
+    ],
+    "twitter": "ApeRocketFi",
+    "telegram": "ApeRocket",
+    "github_org": "ApeRocket-Labs"
+}

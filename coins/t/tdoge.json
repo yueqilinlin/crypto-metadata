@@ -1,0 +1,23 @@
+{
+    "id": "tdoge",
+    "symbol": "tdoge",
+    "name": "\u03c4Doge",
+    "platforms": {
+        "binance-smart-chain": "0xe550a593d09fbc8dcd557b5c88cea6946a8b404a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe550a593d09fbc8dcd557b5c88cea6946a8b404a",
+    "url": "https://www.btcst.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xe550a593d09fbc8dcd557b5c88cea6946a8b404a"
+    ],
+    "twitter": "btcst2020",
+    "telegram": "BTCST_Community_EN",
+    "reddit": "BTCStandardHashrate/"
+}

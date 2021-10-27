@@ -1,0 +1,24 @@
+{
+    "id": "bitcoinz",
+    "symbol": "btcz",
+    "name": "BitcoinZ",
+    "platforms": {},
+    "hashing_algorithm": "Equihash",
+    "categories": [
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "BitcoinZ is based on Bitcoin + zkSNARKs and is a decentralized CDD."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-09-09",
+    "url": "https://getbtcz.com/",
+    "explorers": [
+        "https://btczexplorer.blockhub.info/"
+    ],
+    "twitter": "BTCZOfficial",
+    "facebook": "BTCZCommunity",
+    "telegram": "bitcoinzcommunity",
+    "reddit": "BTCZCommunity/",
+    "github_org": "bitcoinz-pod"
+}

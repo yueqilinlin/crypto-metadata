@@ -1,0 +1,24 @@
+{
+    "id": "morph-vault-nftx",
+    "symbol": "morph",
+    "name": "MORPH Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xcc3f1441e84f124a65bc9798a69a5c4cebc20dff"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "MORPH Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcc3f1441e84f124a65bc9798a69a5c4cebc20dff",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xCc3F1441e84f124A65Bc9798A69A5C4cEbC20dFF",
+        "https://ethplorer.io/address/0xcc3f1441e84f124a65bc9798a69a5c4cebc20dff"
+    ],
+    "twitter": "nftx_"
+}

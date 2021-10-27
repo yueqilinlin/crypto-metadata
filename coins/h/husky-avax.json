@@ -1,0 +1,24 @@
+{
+    "id": "husky-avax",
+    "symbol": "husky",
+    "name": "Husky AVAX",
+    "platforms": {
+        "avalanche": "0x65378b697853568da9ff8eab60c13e1ee9f4a654",
+        "binance-smart-chain": "0x52d88a9a2a20a840d7a336d21e427e9ad093deea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "First merchandise token on Avax, bridged now on BSC! Husky Avax is a token that was stealth-launched on May 12th, 2021 and runs on the Avalanche C-Chain. It features locked initial liquidity, a hard-capped supply, has no team allocation, and will have no airdrops. Husky benefits immensely by running on Avalanche, where secure and decentralized transactions are fast, cheap, and environmentally friendly."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x65378b697853568da9ff8eab60c13e1ee9f4a654",
+    "url": "https://www.husky.space/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654/",
+        "https://bscscan.com/token/0x52d88a9a2a20a840d7a336d21e427e9ad093deea"
+    ],
+    "twitter": "AvaxHusky",
+    "telegram": "HuskyAvalanche"
+}

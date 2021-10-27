@@ -1,0 +1,23 @@
+{
+    "id": "buffalo-swap",
+    "symbol": "buff",
+    "name": "Buffalo Swap",
+    "platforms": {
+        "binance-smart-chain": "0x10a49f1fc8c604ea7f1c49bcc6ab2a8e58e77ea5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Buffaloswap provides a fair, sustainable and safe yield farm optimizer for everyone."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x10a49f1fc8c604ea7f1c49bcc6ab2a8e58e77ea5",
+    "url": "https://buffaloswap.org",
+    "explorers": [
+        "https://bscscan.com/token/0x10a49f1fC8C604eA7f1c49bcc6ab2A8E58e77EA5"
+    ],
+    "twitter": "BuffaloswapDex",
+    "telegram": "buffaloswap",
+    "github_org": "buffaloswap"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "swass-finance",
+    "symbol": "swass",
+    "name": "SWASS Finance",
+    "platforms": {
+        "binance-smart-chain": "0xefba8b41e3495ad52258dfe916199dc643f99da2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SWASS is a access token using the same tokenomics started by safemoon. This token is 100% community driven with no contract or liquidity owner. We are all here, working together to make SWASS great."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xefba8b41e3495ad52258dfe916199dc643f99da2",
+    "url": "https://swass.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xEFbA8b41e3495ad52258DFe916199Dc643F99dA2"
+    ],
+    "twitter": "financeswass",
+    "facebook": "SwassFinance-101858228756917",
+    "telegram": "swassfinance",
+    "reddit": "SWASSFinance/",
+    "github_org": "SWASSFinance"
+}

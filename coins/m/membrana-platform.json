@@ -1,0 +1,26 @@
+{
+    "id": "membrana-platform",
+    "symbol": "mbn",
+    "name": "Membrana",
+    "platforms": {
+        "ethereum": "0x4eeea7b48b9c3ac8f70a9c932a8b1e8a5cb624c7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Membrana provides investors and traders with a transparent, decentralized and secure system, which controls the process of concluding and executing a contract up to the point of revenue gained by both parties. \r\n\r\nMembrana believes in community wisdom and see their investors as important contributors to the platform\u2019s development and improvement. Membrana is creating trust, transparent financial world to bring financial freedom to everyone, regardless of their social status. \r\n\r\nMBN TOKEN : \r\nWhat are the value drivers behind the token price of MBN? \r\nThe main value drivers behind MBN is the demand for the uses cases the MBN token offers for token holders. There are two main benefits of having MBN tokens: \r\n\r\n1. Pay less commission \r\nWhen concluding contracts for trust management, users can pay platform commission fee with supported cryptocurrencies or Membrana tokens. When paying with Membrana tokens you receive a discount. \r\n\r\n2. Advanced features for token holders \r\nThere are some paid features available on Membrana platform. User can receive access to those features by not only paying monthly fee, but also by holding certain amount of Membrana tokens on their wallet. For example: external API, ICO pools. "
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0x4eeea7b48b9c3ac8f70a9c932a8b1e8a5cb624c7",
+    "url": "https://mbn.global/",
+    "explorers": [
+        "https://etherscan.io/token/0x4eeea7b48b9c3ac8f70a9c932a8b1e8a5cb624c7",
+        "https://ethplorer.io/address/0x4eeea7b48b9c3ac8f70a9c932a8b1e8a5cb624c7"
+    ],
+    "twitter": "mbn_global",
+    "telegram": "MBNGlobal",
+    "github_org": "MembranaPlatform"
+}

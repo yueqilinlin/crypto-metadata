@@ -1,0 +1,23 @@
+{
+    "id": "paybswap",
+    "symbol": "payb",
+    "name": "Paybswap",
+    "platforms": {
+        "binance-smart-chain": "0x916792fd41855914ba4b71285c8a05b866f0618b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Paybswap is a cross-chain automated market maker on Binance chain. Paybswap is a decentralized application running on the Binance Smart Chain, Polkadot and Ethereum blockchains. The basic trading functionality of PaybSwap comes directly from the pankcakeswap codebase. Liquidity providers are incentivized for providing liquidity to trading pairs with rewards drawn from the fees paid by users swapping between the paired assets. Paybswap also features liquidity farming inspired by related projects such as Sushiswap. PaybSwap takes full advantage of \u2019s cross-chain features in order to power trading between assets from multiple blockchains using the Bridge. Building a cross-chain bridge is to connect Ethereum Chain and Polkadot ecosystem. Bridge: The type of cross-chain transactions presently supported on PaybSwap Bridge is Burn and Mint transactions where the users can \u201cburn\u201d pegged assets from one host chain and \u201cmint\u201d the equivalent amount of pegged assets on another host chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x916792fd41855914ba4b71285c8a05b866f0618b",
+    "url": "https://paybswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x916792fd41855914ba4b71285c8a05b866f0618b"
+    ],
+    "twitter": "paybswap",
+    "telegram": "paybswapfinance",
+    "reddit": "Paybswap/"
+}

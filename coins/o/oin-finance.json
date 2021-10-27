@@ -1,0 +1,26 @@
+{
+    "id": "oin-finance",
+    "symbol": "oin",
+    "name": "OIN Finance",
+    "platforms": {
+        "ethereum": "0x9aeb50f542050172359a0e1a25a9933bc8c01259",
+        "binance-smart-chain": "0x658e64ffcf40d240a43d52ca9342140316ae44fa"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9aeb50f542050172359a0e1a25a9933bc8c01259",
+    "url": "https://oin.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x9aeB50f542050172359A0e1a25a9933Bc8c01259",
+        "https://ethplorer.io/address/0x9aeb50f542050172359a0e1a25a9933bc8c01259"
+    ],
+    "twitter": "FinanceOin",
+    "telegram": "OIN_Finance_Eng"
+}

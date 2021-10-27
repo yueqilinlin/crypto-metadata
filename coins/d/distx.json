@@ -1,0 +1,23 @@
+{
+    "id": "distx",
+    "symbol": "distx",
+    "name": "DistX",
+    "platforms": {
+        "ethereum": "0x4b4701f3f827e1331fb22ff8e2beac24b17eb055"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4b4701f3f827e1331fb22ff8e2beac24b17eb055",
+    "url": "https://www.distx.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4B4701f3f827E1331fb22FF8e2BEaC24b17Eb055",
+        "https://ethplorer.io/address/0x4b4701f3f827e1331fb22ff8e2beac24b17eb055"
+    ],
+    "twitter": "DistXio",
+    "telegram": "distxio"
+}

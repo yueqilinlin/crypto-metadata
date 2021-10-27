@@ -1,0 +1,26 @@
+{
+    "id": "king-arthur",
+    "symbol": "bking",
+    "name": "King Arthur",
+    "platforms": {
+        "ethereum": "0x1ca02dd95f3f1e33da7f5afe15ea866dab07af04"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BKING is a community driven DeFi project built on Ethereum network with simple Allocation & Distribution."
+    },
+    "country_origin": "RO",
+    "genesis_date": null,
+    "contract_address": "0x1ca02dd95f3f1e33da7f5afe15ea866dab07af04",
+    "url": "https://www.kingarthurdefi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1ca02dd95f3f1e33da7f5afe15ea866dab07af04",
+        "https://ethplorer.io/address/0x1ca02dd95f3f1e33da7f5afe15ea866dab07af04"
+    ],
+    "twitter": "bkingdefi",
+    "facebook": "bkingdefi",
+    "telegram": "KingArthurDeFi",
+    "reddit": "bkingdefiofficial/",
+    "github_org": "kingarthurdefi"
+}

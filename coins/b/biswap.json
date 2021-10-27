@@ -1,0 +1,23 @@
+{
+    "id": "biswap",
+    "symbol": "bsw",
+    "name": "Biswap",
+    "platforms": {
+        "binance-smart-chain": "0x965f527d9159dce6288a2219db51fc6eef120dd1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Biswap is the first decentralized exchange platform on the market with a three-type referral system and the lowest platform transaction fees (0.1%). We are a decentralized exchange platform for swapping BEP-20 tokens on the Binance Smart Chain network. This network guarantees superior speed and much lower network transaction cost."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x965f527d9159dce6288a2219db51fc6eef120dd1",
+    "url": "https://biswap.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x965f527d9159dce6288a2219db51fc6eef120dd1"
+    ],
+    "twitter": "Biswap_Dex",
+    "telegram": "biswap",
+    "github_org": "biswap-org"
+}

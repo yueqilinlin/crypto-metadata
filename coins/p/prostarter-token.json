@@ -1,0 +1,25 @@
+{
+    "id": "prostarter-token",
+    "symbol": "prot",
+    "name": "ProStarter",
+    "platforms": {
+        "ethereum": "0x2341dd0a96a0dab62aa1efb93d59ff7f3bdb8932"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Prostarter is a community-centric and transparent DeFi cross-chain platform offering project fundraisings,  NFT Marketplace, token sales, and much more for the Crypto community."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x2341dd0a96a0dab62aa1efb93d59ff7f3bdb8932",
+    "url": "https://www.prostarter.io",
+    "explorers": [
+        "https://etherscan.io/token/0x2341dd0a96a0dab62aa1efb93d59ff7f3bdb8932",
+        "https://ethplorer.io/address/0x2341dd0a96a0dab62aa1efb93d59ff7f3bdb8932"
+    ],
+    "twitter": "ProtOfficial",
+    "facebook": "Prostarter",
+    "telegram": "Prostarter",
+    "github_org": "prostarter-Dev"
+}

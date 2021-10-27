@@ -1,0 +1,24 @@
+{
+    "id": "bstable",
+    "symbol": "bstbl",
+    "name": "bStable",
+    "platforms": {
+        "binance-smart-chain": "0x934c7f600d6ee2fb60cdff61d1b9fc82c6b8c011"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index"
+    ],
+    "description": {
+        "en": "A risk-mitigated stable index of high-cap collateralized and algorithmic stablecoins."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x934c7f600d6ee2fb60cdff61d1b9fc82c6b8c011",
+    "url": "https://bundledao.org/funds/bSTBL",
+    "explorers": [
+        "https://bscscan.com/token/0x934c7f600d6ee2fb60cdff61d1b9fc82c6b8c011"
+    ],
+    "twitter": "bundledao",
+    "github_org": "bundle-dao"
+}

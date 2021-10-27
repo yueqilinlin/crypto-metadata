@@ -1,0 +1,23 @@
+{
+    "id": "blocknotex",
+    "symbol": "bnox",
+    "name": "BlockNoteX",
+    "platforms": {
+        "ethereum": "0x8752bf7ad53d25a4165b9370f2becc22dd8ae838"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BlockNoteX (BNOX) is digital asset with a 100% gold deposit on the Ethereum blockchain, which is regulated within the European Union. The regularly audited gold deposit is stored in 0.9999 fine investment gold. Physically it is stored and insured in Zurich. A 100 BNOX is equal to 1 gram of gold."
+    },
+    "country_origin": "QU",
+    "genesis_date": null,
+    "contract_address": "0x8752bf7ad53d25a4165b9370f2becc22dd8ae838",
+    "url": "https://blocknote.gold/eng/bnox",
+    "explorers": [
+        "https://etherscan.io/token/0x8752bf7ad53d25a4165b9370f2becc22dd8ae838",
+        "https://ethplorer.io/address/0x8752bf7ad53d25a4165b9370f2becc22dd8ae838"
+    ],
+    "twitter": "BnoxOfficial",
+    "github_org": "blockben-official"
+}

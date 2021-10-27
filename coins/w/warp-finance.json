@@ -1,0 +1,28 @@
+{
+    "id": "warp-finance",
+    "symbol": "warp",
+    "name": "Warp Finance",
+    "platforms": {
+        "ethereum": "0xed40834a13129509a89be39a9be9c0e96a0ddd71"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "The Warp Protocol\u2019s primary objective is to create a novel use case for unused Liquidity Provider (LP) tokens by allowing them to be used as collateral for borrowing.\r\nSo far, it wasn\u2019t possible to effectively use your LP tokens and we want to unlock additional benefits of LP tokens for DeFi users. On Uniswap alone, there is currently $3.98 billion locked in LP tokens and our platform allows LPs to increase the capital efficiency of their liquidity or even modify their exposure."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xed40834a13129509a89be39a9be9c0e96a0ddd71",
+    "url": "https://warp.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xed40834a13129509a89be39a9be9c0e96a0ddd71",
+        "https://ethplorer.io/address/0xed40834a13129509a89be39a9be9c0e96a0ddd71"
+    ],
+    "twitter": "warpfinance",
+    "telegram": "warp_official",
+    "reddit": "warpfinance/",
+    "github_org": "warpfinance"
+}

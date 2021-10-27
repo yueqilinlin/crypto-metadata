@@ -1,0 +1,22 @@
+{
+    "id": "pos-coin",
+    "symbol": "pos",
+    "name": "POS Coin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "This is a 800% high yield POS coin"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "http://www.poscoin.community/",
+    "explorers": [
+        "https://www.coinexplorer.net/POS"
+    ],
+    "twitter": "scoin800",
+    "telegram": "ROI_800_POSCOIN",
+    "github_org": "posdevv"
+}

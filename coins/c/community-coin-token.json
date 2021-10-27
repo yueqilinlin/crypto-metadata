@@ -1,0 +1,22 @@
+{
+    "id": "community-coin-token",
+    "symbol": "cmc",
+    "name": "Community Coin",
+    "platforms": {
+        "binance-smart-chain": "0x2881a6bd504e323f70159d032f89374222e40d22"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "With our automatic buyback, CMC holders are automatically rewarded, both with our currency, and for an increase in liquidity thanks to our automatic token burning.\r\n\r\nCMC is a hyperde\ufb02ationary token.\r\nIt rewards investors for holding tokens, while incorporating the buyback approach currently present in the stock market."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2881a6bd504e323f70159d032f89374222e40d22",
+    "url": "https://www.communitycoin.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x2881a6bD504E323f70159d032f89374222E40d22"
+    ],
+    "twitter": "Community_C0in",
+    "telegram": "CommunityCoinOficial"
+}

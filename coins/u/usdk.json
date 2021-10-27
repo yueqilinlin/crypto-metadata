@@ -1,0 +1,27 @@
+{
+    "id": "usdk",
+    "symbol": "usdk",
+    "name": "USDK",
+    "platforms": {
+        "ethereum": "0x1c48f86ae57291f7686349f12601910bd8d470bb",
+        "okex-chain": "0xdcac52e001f5bd413aa6ea83956438f29098166b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "USD Stablecoin",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1c48f86ae57291f7686349f12601910bd8d470bb",
+    "url": "https://www.oklink.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1c48f86ae57291f7686349f12601910bd8d470bb",
+        "https://ethplorer.io/address/0x1c48f86ae57291f7686349f12601910bd8d470bb"
+    ],
+    "twitter": "OKLink",
+    "github_org": "oklink"
+}

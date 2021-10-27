@@ -1,0 +1,24 @@
+{
+    "id": "wrapped-xmr-btse",
+    "symbol": "wxmr",
+    "name": "Wrapped XMR by BTSE",
+    "platforms": {
+        "ethereum": "0x465e07d6028830124be2e4aa551fbe12805db0f5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x465e07d6028830124be2e4aa551fbe12805db0f5",
+    "url": "https://blog.btse.com/introducing-wrapped-monero/",
+    "explorers": [
+        "https://etherscan.io/token/0x465e07d6028830124be2e4aa551fbe12805db0f5",
+        "https://ethplorer.io/address/0x465e07d6028830124be2e4aa551fbe12805db0f5"
+    ],
+    "twitter": "btsecom",
+    "telegram": "btsecom",
+    "reddit": "btsecom/"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "thorncoin",
+    "symbol": "thrn",
+    "name": "Thorncoin",
+    "platforms": {
+        "ethereum": "0x35a735b7d1d811887966656855f870c05fd0a86d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x35a735b7d1d811887966656855f870c05fd0a86d",
+    "url": "https://thorncoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x35a735b7d1d811887966656855f870c05fd0a86d",
+        "https://ethplorer.io/address/0x35a735b7d1d811887966656855f870c05fd0a86d"
+    ],
+    "twitter": "thorncoin",
+    "telegram": "Thorncoin"
+}

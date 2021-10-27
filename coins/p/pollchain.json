@@ -1,0 +1,24 @@
+{
+    "id": "pollchain",
+    "symbol": "poll",
+    "name": "Pollchain",
+    "platforms": {
+        "ethereum": "0x4b0f027d0b694aae2761ed2d426295d4f949f5d0",
+        "tron": "TFZkrMkKawhgH2gLUhL8Q7N5sFY7bxJJyn"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4b0f027d0b694aae2761ed2d426295d4f949f5d0",
+    "url": "https://www.pollchain.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x4b0f027d0b694aae2761ed2d426295d4f949f5d0",
+        "https://ethplorer.io/address/0x4b0f027d0b694aae2761ed2d426295d4f949f5d0"
+    ],
+    "twitter": "pollchain",
+    "telegram": "pollchain"
+}

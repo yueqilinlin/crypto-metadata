@@ -1,0 +1,21 @@
+{
+    "id": "robo-token",
+    "symbol": "robo",
+    "name": "Robo Token",
+    "platforms": {
+        "ethereum": "0x6fc2f1044a3b9bb3e43a43ec8f840843ed753061"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "PA",
+    "genesis_date": null,
+    "contract_address": "0x6fc2f1044a3b9bb3e43a43ec8f840843ed753061",
+    "url": "https://robo.so/",
+    "explorers": [
+        "https://etherscan.io/token/0x6fc2f1044a3b9bb3e43a43ec8f840843ed753061",
+        "https://ethplorer.io/address/0x6fc2f1044a3b9bb3e43a43ec8f840843ed753061"
+    ]
+}

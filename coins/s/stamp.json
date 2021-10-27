@@ -1,0 +1,27 @@
+{
+    "id": "stamp",
+    "symbol": "stamp",
+    "name": "STAMP",
+    "platforms": {
+        "ethereum": "0x43afc9058a3debf37eadf99138e449ce8a480a8a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Communication"
+    ],
+    "description": {
+        "en": "SafePost\u00ae is an end-to-end encrypted messaging platform alternative to traditional emails, that keeps your privacy safe.\r\n\r\nWith SafePost, no more spam, no more doubt about the identity of your interlocutors, no more fraudulent emails, no more phishing emails, no more spyware, no more other malware and no more data transfer & storage duration limit.\r\n\r\nA PATENTED ENERGY-EFFICIENT SYSTEM developed and owned by SafePost allows the encryption of messages and documents exchanged, without requiring the use of a trusted third party.\r\n\r\nSECURE: Your messages and documents are encrypted before being sent to SafePost. They are then stored in a decentralised SafePost database accessible in high availability.\r\n\r\nOPEN SOURCE: SafePost uses open source libraries to encrypt and decrypt your messages and documents: this gives you the guarantee that algorithms we use have no back door.\r\n\r\nYOUR PRIVACY REMAINS SAFE: No ads, no statistics. Your messages and documents remain confidential.\r\n\r\nNO THIRD PARTY, including the SafePost team, can neither decrypt nor read them."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x43afc9058a3debf37eadf99138e449ce8a480a8a",
+    "url": "https://safepost.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x43afc9058a3DeBF37eaDf99138e449cE8a480A8a",
+        "https://ethplorer.io/address/0x43afc9058a3DeBF37eaDf99138e449cE8a480A8a"
+    ],
+    "twitter": "SafepostO",
+    "facebook": "safepostpage",
+    "telegram": "safepostchannel",
+    "github_org": "safepost-project"
+}

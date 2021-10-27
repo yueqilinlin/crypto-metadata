@@ -1,0 +1,23 @@
+{
+    "id": "uraniumx",
+    "symbol": "urx",
+    "name": "UraniumX",
+    "platforms": {},
+    "hashing_algorithm": "Argon2d",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Uranium-X is a rare supply, long term emissions CPU-friendly PoW cryptocurrency, with a max supply of 235,000 coins mined over a period of ~70 years. Modeled after fissile element U-235, the coin is designed to become a rare collectors asset. URX is a pro-nuclear brand and fully open source fork based off Bitcoin core, from an active community of miners and technologists from around the globe. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://urx.zone",
+    "explorers": [
+        "https://explorer.uraniumx.org/",
+        "https://scan.urx.zone"
+    ],
+    "facebook": "URXBTC",
+    "telegram": "uraniumxgroup",
+    "github_org": "UraniumX"
+}

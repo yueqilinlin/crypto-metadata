@@ -1,0 +1,26 @@
+{
+    "id": "intexcoin",
+    "symbol": "intx",
+    "name": "INTEXCOIN",
+    "platforms": {
+        "ethereum": "0x7533d63a2558965472398ef473908e1320520ae2"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Social Money"
+    ],
+    "description": {
+        "en": "The world\u2019s first direct aid project which provides aid\r\nWith IntexcharIty, we reach directly to the needy.\r\nOur Goal; To build a new eco system based on community power, trust and social benefit creation and to ensure Intexcoin is valuable and seen as a reliable currency used all over the world. With this appraisal, in a cumulative increase, we are aiming to provide more and more life support for those in need."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0x7533d63a2558965472398ef473908e1320520ae2",
+    "url": "https://intexcoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x7533D63A2558965472398Ef473908e1320520AE2",
+        "https://ethplorer.io/address/0x7533D63A2558965472398Ef473908e1320520AE2"
+    ],
+    "twitter": "intexcoinorg",
+    "facebook": "intexcon",
+    "telegram": "IntexcoinOfficialGroup"
+}

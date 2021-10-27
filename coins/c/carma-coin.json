@@ -1,0 +1,24 @@
+{
+    "id": "carma-coin",
+    "symbol": "carma",
+    "name": "Carma Coin",
+    "platforms": {
+        "binance-smart-chain": "0x27e89d357957ce332ff442db69f4b476401bbbc5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Carma Coin is a frictionless, high-yield, deflationary BEP-20 token built on the Binance Smart Chain network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x27e89d357957ce332ff442db69f4b476401bbbc5",
+    "url": "https://www.carmacoin.co/",
+    "explorers": [
+        "https://bscscan.com/token/0x27e89d357957ce332ff442db69f4b476401bbbc5"
+    ],
+    "twitter": "carmacoincrypto",
+    "facebook": "CarmaCoin",
+    "telegram": "CarmaCoin",
+    "reddit": "carmacoin/"
+}

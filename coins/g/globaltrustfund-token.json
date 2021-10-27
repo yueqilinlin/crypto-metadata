@@ -1,0 +1,27 @@
+{
+    "id": "globaltrustfund-token",
+    "symbol": "gtf",
+    "name": "GLOBALTRUSTFUND TOKEN",
+    "platforms": {
+        "ethereum": "0x87befc1d367190f2b9cbe9b689e0e5ca658e3b71"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "WHAT IS  GTF TOKEN?\r\nGTF Token aims to disrupt the cryptotrading industry by lowering the barrier to creating algorithmic trading models."
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0x87befc1d367190f2b9cbe9b689e0e5ca658e3b71",
+    "url": "https://www.gtftoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x87befc1d367190f2b9cbe9b689e0e5ca658e3b71",
+        "https://ethplorer.io/address/0x87befc1d367190f2b9cbe9b689e0e5ca658e3b71"
+    ],
+    "twitter": "OFFICIAL_1GTF",
+    "facebook": "gtftoken",
+    "telegram": "OfficialGTFToken",
+    "github_org": "GLOBALTRUSTFUND07"
+}

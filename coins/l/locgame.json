@@ -1,0 +1,26 @@
+{
+    "id": "locgame",
+    "symbol": "locg",
+    "name": "LOCGame",
+    "platforms": {
+        "ethereum": "0x60eb57d085c59932d5faa6c6026268a4386927d0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Legends of Crypto (LOC) is a groundbreaking type of Top Trump Card Game on blockchain where players can collect and win valuable tokens and NFT items. It leverages Decentralized Finance and DAO governance to create a sustainable, enjoyable and fun\r\nplaying game ecosystem. \r\nAdditionally, it aims to deliver learning and educational benefits to players and collectors."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x60eb57d085c59932d5faa6c6026268a4386927d0",
+    "url": "https://locgame.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x60eb57d085c59932d5faa6c6026268a4386927d0",
+        "https://ethplorer.io/address/0x60eb57d085c59932d5faa6c6026268a4386927d0"
+    ],
+    "twitter": "LOCgameio",
+    "telegram": "loc_game",
+    "reddit": "LOCGame/"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "orfano",
+    "symbol": "orfano",
+    "name": "Orfano",
+    "platforms": {
+        "binance-smart-chain": "0xef2ec90e0b8d4cdfdb090989ea1bc663f0d680bf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A unique Rugpull-Proof coin moulded by the community, looking to benefit the lives of orphans in the poorest countries."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xef2ec90e0b8d4cdfdb090989ea1bc663f0d680bf",
+    "url": "https://www.orfano.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xEF2ec90e0b8D4CdFdB090989EA1Bc663F0D680BF"
+    ],
+    "twitter": "orfanoBSC",
+    "telegram": "OrfanoToken",
+    "reddit": "OrfanoBSC",
+    "github_org": "OrfanoBSC"
+}

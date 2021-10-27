@@ -1,0 +1,21 @@
+{
+    "id": "steem-dollars",
+    "symbol": "sbd",
+    "name": "Steem Dollars",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": "Steem Dollars are liquid stable-value currency tokens designed to be pegged to $1 USD. Steem Dollars can be traded with STEEM and transferred to other accounts for commerce or exchange."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://steem.com/",
+    "explorers": [
+        "https://steemdb.io/"
+    ],
+    "twitter": "steemit",
+    "facebook": "steemit",
+    "reddit": "steemit",
+    "github_org": "steemit"
+}

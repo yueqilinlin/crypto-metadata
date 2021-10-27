@@ -1,0 +1,28 @@
+{
+    "id": "loki-network",
+    "symbol": "oxen",
+    "name": "Oxen",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Business Platform",
+        "Masternodes",
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "Oxen combines a cutting-edge privacy and decentralisation software stack with a bold vision for the future of private, anonymous transactions. A community-run network of staked, incentivised Oxen Service Nodes powers the Oxen blockchain and $OXEN privacy token. Lots of revolutionary applications are already using Oxen's Service Node network: Session, a decentralised encrypted messenger, and Lokinet, a powerful next generation onion router."
+    },
+    "country_origin": "AT",
+    "genesis_date": null,
+    "contract_address": "0xd1e2d5085b39b80c9948aeb1b9aa83af6756bcc5",
+    "url": "https://oxen.io",
+    "explorers": [
+        "https://oxen.observer/",
+        "https://etherscan.io/token/0xd1e2d5085b39b80c9948aeb1b9aa83af6756bcc5"
+    ],
+    "twitter": "Oxen_io",
+    "facebook": "LokiNetwork",
+    "telegram": "Oxen_Community",
+    "reddit": "LokiProject",
+    "github_org": "oxen-io"
+}

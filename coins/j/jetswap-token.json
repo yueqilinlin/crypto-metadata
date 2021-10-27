@@ -1,0 +1,22 @@
+{
+    "id": "jetswap-token",
+    "symbol": "wings",
+    "name": "JetSwap Token",
+    "platforms": {
+        "binance-smart-chain": "0x0487b824c8261462f88940f97053e65bdb498446"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yield Farming, AMM, & Lending Ecosystem On #BSC & #Polygon"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0487b824c8261462f88940f97053e65bdb498446",
+    "url": "https://jetswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x0487b824c8261462f88940f97053e65bdb498446"
+    ],
+    "twitter": "Jetfuelfinance",
+    "telegram": "jetfuelfinance"
+}

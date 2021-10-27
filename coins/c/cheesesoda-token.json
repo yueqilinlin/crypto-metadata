@@ -1,0 +1,22 @@
+{
+    "id": "cheesesoda-token",
+    "symbol": "soda",
+    "name": "CheeseSoda Token",
+    "platforms": {
+        "solana": "sodaNXUbtjMvHe9c5Uw7o7VAcVpXPHAvtaRaiPVJQuE"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The low-level governance token for the cheesesoda network DAO on the Solana blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "sodaNXUbtjMvHe9c5Uw7o7VAcVpXPHAvtaRaiPVJQuE",
+    "url": "https://cheesesoda.com",
+    "explorers": [
+        "https://solscan.io/token/sodaNXUbtjMvHe9c5Uw7o7VAcVpXPHAvtaRaiPVJQuE"
+    ],
+    "twitter": "cheesesodantwk",
+    "github_org": "cheesesoda"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "yearn-finance-protocol",
+    "symbol": "yfp",
+    "name": "Yearn Finance Protocol",
+    "platforms": {
+        "ethereum": "0x96d62cdcd1cc49cb6ee99c867cb8812bea86b9fa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yield Farming is the process of putting cryptocurrency tokens to productive use in a decentralized finance (DeFi) market to earn interest. It offers the simplest way to earn reliable yields on your assets.\r\n\r\nYFP will be the governance token of Yearn Finance Protocol.\r\nThe project aims to bring the true value of yield farming finance accessible to all users, regardless of portfolio size.\r\nYearn Finance Protocol is a DeFi yield aggregator and will allow you to farm your YFP tokens by staking your assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x96d62cdcd1cc49cb6ee99c867cb8812bea86b9fa",
+    "url": "https://www.yfprotocol.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x96d62cdcd1cc49cb6ee99c867cb8812bea86b9fa",
+        "https://ethplorer.io/address/0x96d62cdcd1cc49cb6ee99c867cb8812bea86b9fa"
+    ],
+    "twitter": "YFPFinance",
+    "telegram": "yfprotocolann"
+}

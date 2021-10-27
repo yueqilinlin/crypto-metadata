@@ -1,0 +1,26 @@
+{
+    "id": "13606-winthrop",
+    "symbol": "realtoken-s-13606-winthrop-st-detroit-mi",
+    "name": "RealT Token - 13606 Winthrop St, Detroit, MI 48227",
+    "platforms": {
+        "xdai": "0x804f6baa10615c85e4b4a5bc4efe516d9f7a4365",
+        "ethereum": "0x804f6baa10615c85e4b4a5bc4efe516d9f7a4365"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x804f6baa10615c85e4b4a5bc4efe516d9f7a4365",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://blockscout.com/xdai/mainnet/tokens/0x804f6baa10615c85e4b4a5bc4efe516d9f7a4365/token-transfers"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

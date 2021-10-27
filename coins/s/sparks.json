@@ -1,0 +1,24 @@
+{
+    "id": "sparks",
+    "symbol": "spk",
+    "name": "SparksPay",
+    "platforms": {},
+    "hashing_algorithm": "NeoScrypt",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "SparksPay aims to enable a world where anyone can achieve financial independence easily, earning passive income covering life necessities, thus allowing a better, richer and meaningful life; where everyone shares resources, managed not by a few elite, but by automated consensus"
+    },
+    "country_origin": "BE",
+    "genesis_date": "2018-01-23",
+    "url": "http://sparkspay.io/",
+    "explorers": [
+        "http://explorer.sparkspay.io/"
+    ],
+    "twitter": "SparksPayIO",
+    "facebook": "SparksPay.io",
+    "telegram": "SparksCoin",
+    "reddit": "SparksCoin",
+    "github_org": "sparkspay"
+}

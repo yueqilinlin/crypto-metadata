@@ -1,0 +1,23 @@
+{
+    "id": "global-coin-research",
+    "symbol": "gcr",
+    "name": "Global Coin Research",
+    "platforms": {
+        "ethereum": "0x6307b25a665efc992ec1c1bc403c38f3ddd7c661"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Global Coin Research is a social currency (cryptocurrency) for the Global Coin Research community of readers, writers and community members.\r\n\r\nThe end goal for the $GCR token is to create a community whereby writers and contributors in the GCR community are supported directly by the consumers. The core of the community are these attributes: 1) Curious; 2) Entrepreneurial; 3) Supportive; 4) Inclusive; 5)Integrous; 6)Crypto native and crypto explorers"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x6307b25a665efc992ec1c1bc403c38f3ddd7c661",
+    "url": "https://globalcoinresearch.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6307b25a665efc992ec1c1bc403c38f3ddd7c661",
+        "https://ethplorer.io/address/0x6307b25a665efc992ec1c1bc403c38f3ddd7c661"
+    ],
+    "twitter": "globalcoinrsrch",
+    "facebook": "globalcoinresearch"
+}

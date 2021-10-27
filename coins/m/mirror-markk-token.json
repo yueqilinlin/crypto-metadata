@@ -1,0 +1,23 @@
+{
+    "id": "mirror-markk-token",
+    "symbol": "markk",
+    "name": "Mirror mARKK Token",
+    "platforms": {
+        "terra": "terra1qqfx5jph0rsmkur2zgzyqnfucra45rtjae5vh6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "terra1qqfx5jph0rsmkur2zgzyqnfucra45rtjae5vh6",
+    "url": "https://mirror.finance/",
+    "explorers": [
+        "https://finder.terra.money/columbus-5/address/terra1qqfx5jph0rsmkur2zgzyqnfucra45rtjae5vh6"
+    ],
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol",
+    "github_org": "mirror-protocol"
+}

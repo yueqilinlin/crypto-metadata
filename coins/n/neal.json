@@ -1,0 +1,24 @@
+{
+    "id": "neal",
+    "symbol": "neal",
+    "name": "Coineal Token",
+    "platforms": {
+        "ethereum": "0xacce88f5a63a5e65db9aa7303720be16b556e751"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xacce88f5a63a5e65db9aa7303720be16b556e751",
+    "url": "https://www.coineal.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xacce88f5a63a5e65db9aa7303720be16b556e751",
+        "https://ethplorer.io/address/0xacce88f5a63a5e65db9aa7303720be16b556e751"
+    ],
+    "telegram": "coineal"
+}

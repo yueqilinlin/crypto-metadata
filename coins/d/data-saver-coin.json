@@ -1,0 +1,23 @@
+{
+    "id": "data-saver-coin",
+    "symbol": "dsc",
+    "name": "Data Saver Coin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Internet of Things (IOT)"
+    ],
+    "description": {
+        "en": "DataSaver is the cryptocurrency used on the DataSaver app to pay for premium Internet packages. \r\n\r\nThe DataSaver App v2 [current version]\r\n\r\nWhat does the app do? Simply put, the app allows you to import a list of Wi-Fi networks around you into your phone/device so it automatically connects to them without you having to manually enter in the networks info.\r\n\r\nHow does DataSaver get the list of Wi-Fi networks? Our users automatically share any open (non-secure) networks they connect to along with GPS coordinates and other information. Thanks to our community this app has gotten over 75,000 downloads on the Android Play Store and more are joining the community each day.\r\n\r\nStill wondering how you can save mobile data costs using the DataSaver app? If you use the Internet on your phone/device, DataSaver can save you money. You might be on a limited mobile data plan and you may have to pay extra fees for going over your mobile data limit. Start using the DataSaver app to save on your mobile data costs and start saving money!\r\n\r\nWhat the DataSaver app does for you is, it automatically connects your device to one of multiple wireless networks (Wi-Fi) from our database. When it does this, your device is no longer using your data provider's Internet (Data Plan), instead you are using Internet from Wi-Fi networks around you. This will help you save your data plan for when you really need it and avoid overages."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://datasaver.org/",
+    "explorers": [
+        "explorer.datasaver.org"
+    ],
+    "twitter": "DataSaverCoin",
+    "facebook": "Datasavercoin-DSC-100308934136551",
+    "reddit": "sapien/",
+    "github_org": "DataSaverCoin"
+}

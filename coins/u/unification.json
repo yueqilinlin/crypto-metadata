@@ -1,0 +1,25 @@
+{
+    "id": "unification",
+    "symbol": "fund",
+    "name": "Unification",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem",
+        "Business Services"
+    ],
+    "description": {
+        "en": "A Public/Private Blockchain ecosystem that allows deployment of Workchains. Workchains replace \u201cDAPPS\u201d and are operated independently from the Mainchain with a fixed UND price.. This allows predictable cost metrics with unlimited horizontal scalability and 100% interoperability across various Workchains. Block rewards for Mainchain are issued to the top 96 MasterStakers."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "url": "https://www.unification.com",
+    "explorers": [
+        "https://explorer.unification.io/"
+    ],
+    "twitter": "unificationUND",
+    "facebook": "UnificationFoundation",
+    "telegram": "unificationfoundation",
+    "reddit": "https://www.reddit.com",
+    "github_org": "unification-com"
+}

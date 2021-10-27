@@ -1,0 +1,29 @@
+{
+    "id": "pendle",
+    "symbol": "pendle",
+    "name": "Pendle",
+    "platforms": {
+        "ethereum": "0x808507121b80c02388fad14726482e061b8da827"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Olympus Pro",
+        "Automated Market Maker (AMM)",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Pendle is a protocol that enables the tokenization and trading of future yield. With the creation of a novel AMM that supports assets with time decay, Pendle gives users more control over future yield by providing optionality and opportunities for its utilization. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x808507121b80c02388fad14726482e061b8da827",
+    "url": "https://pendle.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x808507121b80c02388fad14726482e061b8da827",
+        "https://ethplorer.io/address/0x808507121b80c02388fad14726482e061b8da827"
+    ],
+    "twitter": "pendle_fi",
+    "telegram": "pendlefinance",
+    "github_org": "pendle-finance"
+}

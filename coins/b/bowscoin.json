@@ -1,0 +1,18 @@
+{
+    "id": "bowscoin",
+    "symbol": "bsc",
+    "name": "BowsCoin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [],
+    "description": {
+        "en": "BowsCoin (BSC) is a decentralized and open-source cryptocurrency that offers both private and transparent transaction types. BowsCoin payments are published on a public blockchain, but the sender, recipient, and amount of a transaction remain private. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "explorers": [
+        "http://bows.network/"
+    ],
+    "twitter": "bowscoin",
+    "github_org": "bowscoin"
+}

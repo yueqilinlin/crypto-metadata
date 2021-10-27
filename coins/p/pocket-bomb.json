@@ -1,0 +1,22 @@
+{
+    "id": "pocket-bomb",
+    "symbol": "pbom",
+    "name": "Pocket Bomb",
+    "platforms": {
+        "binance-smart-chain": "0x3ea50b7ef6a7eaf7e966e2cb72b519c16557497c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pocket Bomb is a deflationary token with a max circulating supply of 777 Million. Each transaction incurs a 4% tax that is distributed in four equal parts: 1% to holders, 1% burned to The Junk Yard, 2% locked liquidity, and 1% as a bonus to liquidity providers. As volume increase, the amount burned increases logarithmically, eventually leading to an exponential decrease in supply. Each transaction automatically rewards holders and increases the token's price floor through liquidity locks. All without staking."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x3ea50b7ef6a7eaf7e966e2cb72b519c16557497c",
+    "url": "https://pbomb.rocketbunny.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x3ea50b7ef6a7eaf7e966e2cb72b519c16557497c"
+    ],
+    "twitter": "RocketBunny2021",
+    "telegram": "RocketBunnyChat"
+}

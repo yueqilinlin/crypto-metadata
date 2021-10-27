@@ -1,0 +1,24 @@
+{
+    "id": "kitty-vault-nftx",
+    "symbol": "kitty",
+    "name": "KITTY Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0x9b9fb226e98c4e90db2830c9aefa9cfcbe3b000a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "KITTY Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9b9fb226e98c4e90db2830c9aefa9cfcbe3b000a",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x9b9fb226e98c4e90db2830c9aefa9cfcbe3b000a",
+        "https://ethplorer.io/address/0x9b9fb226e98c4e90db2830c9aefa9cfcbe3b000a"
+    ],
+    "twitter": "nftx_"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "seos",
+    "symbol": "seos",
+    "name": "sEOS",
+    "platforms": {
+        "ethereum": "0x88c8cf3a212c0369698d13fe98fcb76620389841"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synths",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Synth sEOS by Synthetix\r\nTracks the price of EOS through price feeds supplied by an oracle."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x88c8cf3a212c0369698d13fe98fcb76620389841",
+    "url": "https://www.synthetix.io/tokens/",
+    "explorers": [
+        "https://etherscan.io/token/0x88C8Cf3A212c0369698D13FE98Fcb76620389841",
+        "https://ethplorer.io/address/0x88c8cf3a212c0369698d13fe98fcb76620389841"
+    ],
+    "twitter": "synthetix_Io"
+}

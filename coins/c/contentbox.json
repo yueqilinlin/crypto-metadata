@@ -1,0 +1,25 @@
+{
+    "id": "contentbox",
+    "symbol": "box",
+    "name": "ContentBox",
+    "platforms": {
+        "ethereum": "0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f",
+    "url": "https://contentbox.one/",
+    "explorers": [
+        "https://etherscan.io/token/0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f",
+        "https://ethplorer.io/address/0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f"
+    ],
+    "twitter": "Contentbox_one",
+    "telegram": "BoxCommunity",
+    "reddit": "ContentBoxOfficial/",
+    "github_org": "BOXFoundation"
+}

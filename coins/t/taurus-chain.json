@@ -1,0 +1,22 @@
+{
+    "id": "taurus-chain",
+    "symbol": "trt",
+    "name": "Taurus Chain",
+    "platforms": {
+        "ethereum": "0x32054526df40fbb08b733abe256a8d21de58432d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x32054526df40fbb08b733abe256a8d21de58432d",
+    "url": "http://trt.beer/",
+    "explorers": [
+        "https://etherscan.io/token/0x32054526df40FBB08b733Abe256A8d21De58432D",
+        "https://ethplorer.io/address/0x32054526df40fbb08b733abe256a8d21de58432d"
+    ],
+    "twitter": "TaurusChain_"
+}

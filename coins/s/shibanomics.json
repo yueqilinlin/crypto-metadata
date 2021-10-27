@@ -1,0 +1,22 @@
+{
+    "id": "shibanomics",
+    "symbol": "shibin",
+    "name": "Shibanomics",
+    "platforms": {
+        "binance-smart-chain": "0xe2cbf8572eab769311a8c562b00a14ca55eaa0ea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe2cbf8572eab769311a8c562b00a14ca55eaa0ea",
+    "url": "https://shibanomics.co.uk/",
+    "explorers": [
+        "https://bscscan.com/token/0xe2cbf8572eab769311a8c562b00a14ca55eaa0ea"
+    ],
+    "twitter": "shibanomicsbsc",
+    "telegram": "shibanomics"
+}

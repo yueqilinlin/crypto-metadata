@@ -1,0 +1,25 @@
+{
+    "id": "galatasaray-fan-token",
+    "symbol": "gal",
+    "name": "Galatasaray Fan Token",
+    "platforms": {
+        "chiliz": "0x73f309e94d836bab473b1ebc0103a3dcd7daeaa9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fan Token",
+        "Sports"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x73f309e94d836bab473b1ebc0103a3dcd7daeaa9",
+    "url": "https://www.galatasaray.org/",
+    "explorers": [
+        "https://explorer.chiliz.com/address/0x73F309e94D836bAb473B1EBc0103a3DCd7DAeaa9/transactions"
+    ],
+    "twitter": "GalatasaraySK",
+    "facebook": "Galatasaray"
+}

@@ -1,0 +1,32 @@
+{
+    "id": "alpha-finance",
+    "symbol": "alpha",
+    "name": "Alpha Finance",
+    "platforms": {
+        "ethereum": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+        "binance-smart-chain": "0xa1faa113cbe53436df28ff0aee54275c13b40975"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Launchpool",
+        "Yield Aggregator",
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Alpha Finance Lab is focused on researching and building in the Decentralized Finance (DeFi) space. Alpha Lending, the first product built by Alpha Finance Lab, is a decentralized lending protocol with algorithmically adjusted interest rates built on Binance Smart Chain.\r\n\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+    "url": "https://alphafinance.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa1faa113cbe53436df28ff0aee54275c13b40975",
+        "https://bscscan.com/address/0xa1faa113cbe53436df28ff0aee54275c13b40975",
+        "https://ethplorer.io/address/0xa1faa113cbe53436df28ff0aee54275c13b40975"
+    ],
+    "twitter": "alphafinancelab",
+    "telegram": "AlphaFinanceLab",
+    "github_org": "AlphaFinanceLab"
+}

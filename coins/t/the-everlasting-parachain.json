@@ -1,0 +1,23 @@
+{
+    "id": "the-everlasting-parachain",
+    "symbol": "elp",
+    "name": "The Everlasting Parachain",
+    "platforms": {
+        "binance-smart-chain": "0xe3894cb9e92ca78524fb6a30ff072fa5e533c162"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Cycan Network (CYN) is a decentralized cross-chain asset management platform that provides users with convenient asset management tools and diverse investment strategies to achieve value growth for their digital asset portfolios. Cycan is focused on the DeFi market and will be deployed on Kusama, BSC networks and other public chains.\r\n\r\nThe Everlasting Parachain (ELP) is the canary network of the Cycan Network\uff08Like KSM to DOT\uff09and will be deployed on Kusama\uff0cBSC networks and other public chains. ELP is a decentralized cross-chain asset management platform with the same features as Cycan but for the NFT market.\r\n\r\nEverlasting Cash (ELC) is an anti-inflation algorithmic stablecoin on the Cycan network, which is minted by staking CYN, ELP or both. Due to its anti-inflation characteristics, ELC should be attractive in negative interest environments.\r\n\r\nPhenix test-net is Cycan's test network is being tested on Polkadot\u2019s Rococo test network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe3894cb9e92ca78524fb6a30ff072fa5e533c162",
+    "url": "https://cycan.network/",
+    "explorers": [
+        "https://bscscan.com/token/0xe3894cb9e92ca78524fb6a30ff072fa5e533c162"
+    ],
+    "twitter": "CycanNetwork",
+    "telegram": "CycanNetwork",
+    "github_org": "CycanTech"
+}

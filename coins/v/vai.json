@@ -1,0 +1,29 @@
+{
+    "id": "vai",
+    "symbol": "vai",
+    "name": "Vai",
+    "platforms": {
+        "binance-smart-chain": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "USD Stablecoin",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "VAI is Venus Protocol\u2019s native decentralized stablecoin. It is minted and redeemed directly on the Venus platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
+    "url": "https://venus.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7"
+    ],
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol",
+    "reddit": "https://www.reddit.comr/venusprotocol/",
+    "github_org": "VenusProtocol"
+}

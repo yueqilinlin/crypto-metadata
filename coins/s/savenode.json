@@ -1,0 +1,22 @@
+{
+    "id": "savenode",
+    "symbol": "sno",
+    "name": "SaveNode",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "SaveNode provides users with the ability to invest in multiple digital assets with ease, all through an intuitive and responsive mobile application powered by a state-of-the-art proof-of-stake (POS) mechanism.\r\n\r\nUsing our thoughtfully designed app, you can simply choose the amount you want to invest, dial in an investment profile and the app will help you select the coins to invest in - from a top 4 (BTC, ETH, LTC, BCH) auto-rebalancing index fund, through to altcoins and shared masternodes."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "url": "https://savenode.io/",
+    "explorers": [
+        "https://sno.ccore.online/"
+    ],
+    "twitter": "savenode_io",
+    "facebook": "savenode",
+    "github_org": "savenode"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "mask-token",
+    "symbol": "msk",
+    "name": "Mask Token",
+    "platforms": {
+        "ethereum": "0xfdd7399e22918ba7234f5568cc2ef922489f7ba6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MaskDAO is a community led Decentralized Autonomous Organization (DAO) built off the community of Hashmask NFT holders. Together the DAO will innovate the NFT ecosystem by building an artist focused marketplace, curate new NFT releases, and new tools proposed by its community members and curators.\r\n\r\nMSK will be used to vote on MaskDAO initiatives and treasury management. The governance token can be earned through the initial airdrop to Hashmask holders, and liquidity mining program.  Contributors to MaskDAO can also apply for compensation. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfdd7399e22918ba7234f5568cc2ef922489f7ba6",
+    "url": "http://www.maskdao.art/",
+    "explorers": [
+        "https://etherscan.io/token/0xfdd7399e22918ba7234f5568cc2ef922489f7ba6",
+        "https://ethplorer.io/address/0xfdd7399e22918ba7234f5568cc2ef922489f7ba6"
+    ],
+    "twitter": "mskDAO",
+    "github_org": "MaskDAO"
+}

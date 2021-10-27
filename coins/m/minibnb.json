@@ -1,0 +1,22 @@
+{
+    "id": "minibnb",
+    "symbol": "minibnb",
+    "name": "MiniBNB",
+    "platforms": {
+        "binance-smart-chain": "0xbddfe03f24c09505fb2db5f9df1589dab17ddaae"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Launched on August 14th by a global team, MiniBNB is a redistributive token with a tiered giveaway strategy. MiniBNB holders will be rewarded with redistributions in MiniBNB and have a chance to get BNB in a tiered giveaway. The concept of a Giveaway Wallet is used and includes collecting redistributions in BNB and giving them back to the holders. There will be 15 wallets chosen for a BNB giveaway every week where 5 wallets from each of 3 tiers will be selected. The tiers will be given BNB as follows: the top tier will be given 50% of the Giveaway Wallet, the second tier will be given 30% of the Giveaway Wallet, and the third tier will be given 20% of the Giveaway Wallet. The tiers will be based on MiniBNB token amount standing as seen on BSCscan where Tier 1 will include the top 100 wallets, Tier 2 will include wallets 101-1000, and Tier 3 will include wallets 1001 and beyond. In addition, MiniBNB holders will be given an opportunity to join the MiniBNB club that will offer them exclusive benefits."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbddfe03f24c09505fb2db5f9df1589dab17ddaae",
+    "url": "https://www.minibnb.co/",
+    "explorers": [
+        "https://bscscan.com/token/0xbddfe03f24c09505fb2db5f9df1589dab17ddaae"
+    ],
+    "twitter": "MiniBNBtoken",
+    "telegram": "MiniBNB_token"
+}

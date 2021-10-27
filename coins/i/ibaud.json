@@ -1,0 +1,23 @@
+{
+    "id": "ibaud",
+    "symbol": "ibaud",
+    "name": "Iron Bank AUD",
+    "platforms": {
+        "ethereum": "0xfafdf0c4c1cb09d430bf88c75d88bb46dae09967"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fixed Forex is the collective name for USD, EUR, ZAR, JPY, CNY, AUD, AED, CAD, INR, and any other forex pairs launched under the Fixed Forex moniker."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfafdf0c4c1cb09d430bf88c75d88bb46dae09967",
+    "url": "https://fixedforex.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0xFAFdF0C4c1CB09d430Bf88c75D88BB46DAe09967",
+        "https://ethplorer.io/address/0xfafdf0c4c1cb09d430bf88c75d88bb46dae09967"
+    ],
+    "twitter": "thekeep3r",
+    "github_org": "keep3r-network"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "bitcoin-sb",
+    "symbol": "bsb",
+    "name": "Bitcoin SB",
+    "platforms": {
+        "ethereum": "0xa478a13242b64629bff309125770b69f75bd77cb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bitcoin SB (BSB) is the first smart fork in Bitcoin history! It keeps Satoshi Nakamoto\u2019s vision, it\u2019s based on the powerful Ethereum Network and focuses on offering the best user experience ever.\r\n\r\nBitcoin SB (BSB) brings DeFi, Payment & NFT to the Bitcoin Universe!\r\n\r\nIt\u2019s time for Mass Adoption! What was missing was an easy-to-understand, easy-to-use, and equally well-thought-out Bitcoin for Users and Merchants. Paying or Getting Paid in BSB is going to be child's play!\r\n\r\nThe rarest Bitcoin ever made is born, and everyone is invited to join this new decentralized global economy opened up by Bitcoin SB, and to enjoy BSB the first digital currency that  empowers people real life.\r\n\r\nWe\u2019re not Satoshi. But We Believe in his Vision!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa478a13242b64629bff309125770b69f75bd77cb",
+    "url": "https://bitcoinsb.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xa478a13242b64629bff309125770b69f75bd77cb",
+        "https://ethplorer.io/address/0xa478a13242b64629bff309125770b69f75bd77cb"
+    ],
+    "twitter": "BitcoinSB_BSB",
+    "telegram": "bitcoinsb_bsb"
+}

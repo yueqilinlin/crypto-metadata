@@ -1,0 +1,19 @@
+{
+    "id": "eos-btc",
+    "symbol": "ebtc",
+    "name": "EOS BTC",
+    "platforms": {
+        "eos": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EOS stable coins are the mappings of major blockchain assets on EOS.IO network. Users who hold major blockchain assets are able to swap their assets from original blockchain network to EOS.IO network through gateway service so as to utilize them in DAPPs or decentralized exchanges. EOS stable coins enrich the diversity of EOS ecosystem and offer a convenient way for users from other blockchain network to experience the EOS world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://eosstablecoin.com/",
+    "explorers": [
+        "https://eosflare.io/token/bitpietokens/EBTC"
+    ]
+}

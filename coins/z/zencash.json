@@ -1,0 +1,26 @@
+{
+    "id": "zencash",
+    "symbol": "zen",
+    "name": "Horizen",
+    "platforms": {},
+    "hashing_algorithm": "Equihash",
+    "categories": [
+        "Masternodes",
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "Horizen is an inclusive ecosystem where everyone is empowered and rewarded for their contributions. Horizen\u2019s massively scalable platform enables businesses and developers to quickly and affordably create their own public or private blockchains utilizing the largest node network in the industry. Horizen\u2019s Sidechain SDK provides all necessary components for easy and fast deployment of a fully customizable blockchain.\r\n\r\nHorizen's native cryptocurrency, ZEN, is a mineable PoW coin currently trading on exchanges including Bittrex, Binance, and Changelly. ZEN is integrated on major wallets including Horizen's flagship app, Sphere by Horizen, a multifunctional wallet that serves as an interface with most Horizen products and services."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://horizen.global",
+    "explorers": [
+        "https://explorer.zensystem.io/",
+        "https://zen.tokenview.com/"
+    ],
+    "twitter": "horizenglobal",
+    "facebook": "zencash",
+    "telegram": "horizencommunity",
+    "reddit": "Horizen",
+    "github_org": "HorizenOfficial"
+}

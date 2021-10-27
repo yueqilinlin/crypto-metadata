@@ -1,0 +1,28 @@
+{
+    "id": "kattana",
+    "symbol": "ktn",
+    "name": "Kattana",
+    "platforms": {
+        "ethereum": "0x491e136ff7ff03e6ab097e54734697bb5802fc1c",
+        "binance-smart-chain": "0xdae6c2a48bfaa66b43815c5548b10800919c993e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Kattana is the trading terminal you have been dreaming of, cutting edge trading tools for Cefi AND Defi enviroments for both pro and beginners."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x491e136ff7ff03e6ab097e54734697bb5802fc1c",
+    "url": "https://kattana.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x491e136ff7ff03e6ab097e54734697bb5802fc1c",
+        "https://ethplorer.io/address/0x491e136ff7ff03e6ab097e54734697bb5802fc1c"
+    ],
+    "twitter": "kattanatrade",
+    "facebook": "kattanatrade",
+    "telegram": "kattana_trade",
+    "github_org": "kattana-io"
+}

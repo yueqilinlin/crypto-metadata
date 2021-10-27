@@ -1,0 +1,23 @@
+{
+    "id": "witch-token",
+    "symbol": "witch",
+    "name": "Witch Token",
+    "platforms": {
+        "ethereum": "0xdc524e3c6910257744c1f93cf15e9f472b5bd236"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WITCH is a multi NFT service provider aiming for mass-adoption of NFTs through user-friendly NFT-focused social media, auction and marketplace platforms. \r\n\r\nWITCH is the utility token that is used for:\r\n\r\n* Fees for minting NFTs and participating in auctions on respective platforms.\r\n* Used for staking/farming for NFT-linked DeFi products.\r\n* Used for governance votes to determine ideas for our NFT products."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xdc524e3c6910257744c1f93cf15e9f472b5bd236",
+    "url": "https://www.witchwitch.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xdc524e3c6910257744c1f93cf15e9f472b5bd236",
+        "https://ethplorer.io/address/0xdc524e3c6910257744c1f93cf15e9f472b5bd236"
+    ],
+    "twitter": "witchwitch_sns",
+    "github_org": "SEASONS-CORP"
+}

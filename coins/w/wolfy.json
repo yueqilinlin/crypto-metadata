@@ -1,0 +1,24 @@
+{
+    "id": "wolfy",
+    "symbol": "wolfy",
+    "name": "WOLFY",
+    "platforms": {
+        "ethereum": "0x7dbbcae15d4db168e01673400d7844870cc1e36f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WolfyStreetBets is a Blockchain-Agnostic, DeFi vs CeFi Prediction Market. \r\n\r\nWolfyStreetBets allows users to stake popular assets such as ETH in prediction pair markets and earn lucrative, high-yield rewards in such assets. With both low-risk and high-risk pools, markets are accessible to crypto investors with varied risk profiles and levels of experience.\r\n\r\nBy bridging DeFi with CeFi, WolfyStreetBets enables predictions such as \"\"Will the DeFi Pulse Index out-perform the S&P500 Index in the next 7 days?\""
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x7dbbcae15d4db168e01673400d7844870cc1e36f",
+    "url": "https://wolfystreetbets.com",
+    "explorers": [
+        "https://etherscan.io/token/0x7dbbcae15d4db168e01673400d7844870cc1e36f",
+        "https://ethplorer.io/address/0x7dbbcae15d4db168e01673400d7844870cc1e36f"
+    ],
+    "twitter": "wolfystreetbets",
+    "telegram": "wolfycoin",
+    "github_org": "WolfyStreetBets"
+}

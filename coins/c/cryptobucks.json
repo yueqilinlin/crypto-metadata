@@ -1,0 +1,27 @@
+{
+    "id": "cryptobucks",
+    "symbol": "CBUCKS",
+    "name": "CRYPTOBUCKS",
+    "platforms": {
+        "ethereum": "0x0d2bb9d68dd4451a09ec94c05e20bd395022bd8e"
+    },
+    "hashing_algorithm": "Keccak",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Cryptobucks enables its users to do peer to peer exchange on all the local currencies and other cryptocurrencies. It empowers peer to peer trading and copy trade."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x0d2bb9d68dd4451a09ec94c05e20bd395022bd8e",
+    "url": "https://www.cryptobuckslimited.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x0d2BB9D68dD4451A09ec94C05E20Bd395022bd8e",
+        "https://ethplorer.io/address/0x0d2bb9d68dd4451a09ec94c05e20bd395022bd8e"
+    ],
+    "twitter": "CBUCKSOfficial",
+    "facebook": "CRYPTOBUCKSLimited",
+    "telegram": "cbucksofficial",
+    "github_org": "cbucks"
+}

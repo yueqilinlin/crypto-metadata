@@ -1,0 +1,22 @@
+{
+    "id": "oction",
+    "symbol": "octi",
+    "name": "Oction",
+    "platforms": {
+        "binance-smart-chain": "0x6c1de9907263f0c12261d88b65ca18f31163f29d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The World\u2019s 1st CeDeFi Options Trading Platform Built on the Binance Smart Chain\r\nTrade options through CeDeFi, with no middlemen, no centralized organization, lower fees, more option types and zero data or market manipulation. Oction allows for options trading through a democratic framework on the Blockchain, specifically the Binance Smart Chain.\""
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x6c1de9907263f0c12261d88b65ca18f31163f29d",
+    "url": "https://oction.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x6c1de9907263f0c12261d88b65ca18f31163f29d"
+    ],
+    "twitter": "octionofficial",
+    "telegram": "octionofficial"
+}

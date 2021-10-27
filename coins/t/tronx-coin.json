@@ -1,0 +1,20 @@
+{
+    "id": "tronx-coin",
+    "symbol": "tronx",
+    "name": "TronX coin",
+    "platforms": {
+        "tron": "TA1UcPfy1Tie4SdTKpjwrjdnpBd2WT51Ss"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "TA1UcPfy1Tie4SdTKpjwrjdnpBd2WT51Ss",
+    "url": "http://tronx.online/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TA1UcPfy1Tie4SdTKpjwrjdnpBd2WT51Ss"
+    ]
+}

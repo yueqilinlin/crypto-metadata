@@ -1,0 +1,23 @@
+{
+    "id": "derived",
+    "symbol": "dvdx",
+    "name": "Derived",
+    "platforms": {
+        "binance-smart-chain": "0x4b4135a99775368f349b6f904808b648a9948393"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Derived is a Decentralised Multi-Chain Asset Protocol giving users the access to trade Stocks, Commodities, Forex or Crypto on a single platform with unlimited liquidity and no slippage. Derived brings the power of Smart Contracts to the world of derivatives trading acting as a bridge between traditional and digital financial markets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4b4135a99775368f349b6f904808b648a9948393",
+    "url": "https://derived.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0x4B4135A99775368f349b6f904808B648A9948393"
+    ],
+    "twitter": "DerivedFinance",
+    "telegram": "derivedFi",
+    "github_org": "DerivedFinance"
+}

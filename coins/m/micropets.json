@@ -1,0 +1,24 @@
+{
+    "id": "micropets",
+    "symbol": "pets",
+    "name": "MicroPets",
+    "platforms": {
+        "binance-smart-chain": "0xa77346760341460b42c230ca6d21d4c8e743fa9c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MicroPets is a Binance Smart Chain token that capitalises on the current meme coin and NFT hype. We\u2019ve taken everyone\u2019s favorite memes and packaged them up into adorable pets you can trade or stake.\r\n\r\nThe MicroPets team is comprised of over 30 Defi and marketing experts. The goal? To serve our community and investors, ensuring a fun and engaging environment alongside continuous marketing efforts."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa77346760341460b42c230ca6d21d4c8e743fa9c",
+    "url": "https://micropets.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xa77346760341460b42c230ca6d21d4c8e743fa9c"
+    ],
+    "twitter": "micropetsbsc",
+    "telegram": "MicroPets",
+    "reddit": "micropetsbsc/",
+    "github_org": "Micropetsbsctoken"
+}

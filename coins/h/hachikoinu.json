@@ -1,0 +1,25 @@
+{
+    "id": "hachikoinu",
+    "symbol": "inu",
+    "name": "Hachiko Inu Token",
+    "platforms": {
+        "ethereum": "0xf32aa187d5bc16a2c02a6afb7df1459d0d107574"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hachiko Inu is decentralized ERC-20 Crypto Currency token.\r\n\r\nHachiko Inu is a token based on the famous story of Hachiko. As such, Hachiko Inu token rewards loyalty, which is why 5% of all transactions go to their holders. Such a high percentage is rare, but we want to support the holders of these tokens.\r\n\r\nHachiko Inu is founding token for Hachiko Inu Ecosystem and Hachiko Inu Swap."
+    },
+    "country_origin": "CZ",
+    "genesis_date": null,
+    "contract_address": "0xf32aa187d5bc16a2c02a6afb7df1459d0d107574",
+    "url": "https://app.hachikoinu.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xf32aa187d5bc16a2c02a6afb7df1459d0d107574",
+        "https://ethplorer.io/address/0xf32aa187d5bc16a2c02a6afb7df1459d0d107574"
+    ],
+    "twitter": "HachikoInu1",
+    "facebook": "hachiko.inu.10",
+    "reddit": "Hachiko_Inu/",
+    "github_org": "hachiko-inu"
+}

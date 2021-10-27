@@ -1,0 +1,26 @@
+{
+    "id": "btc-standard-hashrate-token",
+    "symbol": "btcst",
+    "name": "BTC Standard Hashrate Token",
+    "platforms": {
+        "binance-smart-chain": "0x78650b139471520656b9e7aa7a5e9276814a38e9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Launchpool",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Bitcoin Standard Hashrate Token (or BTCST token)\u00a0aims to widen\u00a0up the participation of Bitcoin mining to the open market. Each BTCST represents 0.1 TH/s of Bitcoin mining power and by staking it, holders of the token are entitled to receive daily distributions of Bitcoin mined."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x78650b139471520656b9e7aa7a5e9276814a38e9",
+    "url": "https://www.1-b.tc/",
+    "explorers": [
+        "https://bscscan.com/token/0x78650b139471520656b9e7aa7a5e9276814a38e9"
+    ],
+    "twitter": "btcst2020",
+    "telegram": "BTCST_Community_EN",
+    "github_org": "Standard-Hashrate-Group"
+}

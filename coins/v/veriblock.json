@@ -1,0 +1,20 @@
+{
+    "id": "veriblock",
+    "symbol": "vbk",
+    "name": "VeriBlock",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "VeriBlock and its novel Proof-of-Proof (\u201cPoP\u201d) consensus protocol is the first and only technology in the world to allow any blockchain to inherit Bitcoin\u2019s unprecedented thermodynamic Proof-of-Work security in an entirely Decentralized, Trustless, Transparent, and Permissionless (\u201cDTTP\u201d) manner. Since September of 2018, thousands of PoP miners in over 50 countries have successfully done more than 6,000,000 PoP transactions to Bitcoin, accounting for nearly half of all Bitcoin transactions at peak. Over the past four years, the VeriBlock project has attracted strategic investors, partners, and advisors including Bittrex CEO Bill Shihara, Bloq Co-Founder and Chairman Matthew Roszak, Bloq Co-Founder and Former Bitcoin Core Developer Jeff Garzik, Ethereum and Decentral Co-Founder Anthony Di Iorio, and Fenbushi Capital General Partner Bo Shen."
+    },
+    "country_origin": "KY",
+    "genesis_date": "2019-03-25",
+    "url": "https://www.veriblock.org/",
+    "explorers": [
+        "https://explore.veriblock.org/network-stats"
+    ],
+    "twitter": "veriblock",
+    "reddit": "https://www.reddit.com",
+    "github_org": "VeriBlock"
+}

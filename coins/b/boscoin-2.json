@@ -1,0 +1,22 @@
+{
+    "id": "boscoin-2",
+    "symbol": "bos",
+    "name": "BOScoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BOScoin is a Self-Evolving Cryptocurrency Platform for Trust Contracts. \"Trust Contracts\" will provide a decidable and approachable framework for creating and executing contracts on the blockchain. The \"Congress Network\" is aimed towards creating a more democratic and productive decision making process. And the incentive scheme and issuance plan is aimed towards creating value for the coin while deterring the centralization of power. The Modified Federated Byzantine Agreement algorithm will allow for low latency transactions while being more energy efficient. BOScoin aims to overcome the technical and operational issues inherent in many cryptocurrencies."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://boscoin.io/",
+    "explorers": [
+        "http://www.bosnode.com/"
+    ],
+    "twitter": "boscoinio",
+    "facebook": "boscoinio",
+    "telegram": "OfficialBOScoin",
+    "reddit": "boscoin/",
+    "github_org": "bosnet"
+}

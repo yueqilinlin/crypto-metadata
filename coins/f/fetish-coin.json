@@ -1,0 +1,23 @@
+{
+    "id": "fetish-coin",
+    "symbol": "fetish",
+    "name": "Fetish Coin",
+    "platforms": {
+        "ethereum": "0xefcec6d87e3ce625c90865a49f2b7482963d73fe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xefcec6d87e3ce625c90865a49f2b7482963d73fe",
+    "url": "https://fetishcoin.fetiquette.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xefcec6d87e3ce625c90865a49f2b7482963d73fe",
+        "https://ethplorer.io/address/0xefcec6d87e3ce625c90865a49f2b7482963d73fe"
+    ],
+    "twitter": "fetishcoin",
+    "github_org": "fetishcoinproject"
+}

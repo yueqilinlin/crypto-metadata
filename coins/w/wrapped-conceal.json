@@ -1,0 +1,25 @@
+{
+    "id": "wrapped-conceal",
+    "symbol": "wccx",
+    "name": "Wrapped Conceal",
+    "platforms": {
+        "ethereum": "0x21686f8ce003a95c99acd297e302faacf742f7d4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wrapped Conceal ($wCCX) Provides an untraceable gateway to and from the Ethereum ecosystem from the Conceal Network ecosystem. Wrapped Conceal ($wCCX) is simply an ERC20 token that represents the real Conceal coin $CCX on the Ethereum ecosystem. Having an ERC20 token representation allows Conceal Network to integrate into the Ethereum ecosystem, which includes wallets, dapps, and smart contracts."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x21686f8ce003a95c99acd297e302faacf742f7d4",
+    "url": "https://sale.conceal.cloud/home",
+    "explorers": [
+        "https://etherscan.io/token/0x21686F8ce003a95c99aCd297E302FAACf742F7d4",
+        "https://ethplorer.io/address/0x21686f8ce003a95c99acd297e302faacf742f7d4"
+    ],
+    "twitter": "ConcealNetwork",
+    "telegram": "wrappedconceal",
+    "reddit": "ConcealNetwork/",
+    "github_org": "ConcealNetwork"
+}

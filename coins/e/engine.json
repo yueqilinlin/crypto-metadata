@@ -1,0 +1,22 @@
+{
+    "id": "engine",
+    "symbol": "egcc",
+    "name": "Engine",
+    "platforms": {
+        "ethereum": "0xaf8a215e81faea7c180ce22b72483525121813bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The goal of Engine is to create a set of auto data ecology on the blockchain, through pre-project scale data collection and precipitation, and put the data into products with blockchain as the underlying technology to activate the characteristics of the blockchain and transmit the value of information, thus reaching the user\u2019s pain points and solving existing problems. At the same time, individual users and corporate users are mobilized through the owner\u2019s service and the entire chain of products, urging people and organizations from all walks of life to participate in the joint development of value and rewards.\r\n\r\nAs the first global vehicle full life cycle data sharing platform based on the blockchain, Engine actively carrys forward the integration of informatization and industrialization, and promotes the sustainable development of the autoindustry through the realization of the open and transparent, traceable and queryable automobile life cycle data, to establish a \"vehicle full life cycle database based on VIN code\" as the main line database, provides standardized data services for industry and enterprises, and to create a global car industry data standard."
+    },
+    "country_origin": null,
+    "genesis_date": null,
+    "contract_address": "0xaf8a215e81faea7c180ce22b72483525121813bd",
+    "url": "https://www.egcchain.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xaf8a215e81faea7c180ce22b72483525121813bd",
+        "https://ethplorer.io/address/0xaf8a215e81faea7c180ce22b72483525121813bd"
+    ],
+    "twitter": "enginechainegcc"
+}

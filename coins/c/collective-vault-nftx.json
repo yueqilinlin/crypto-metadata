@@ -1,0 +1,24 @@
+{
+    "id": "collective-vault-nftx",
+    "symbol": "collective",
+    "name": "COLLECTIVE Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xb3b4431f812a74bdfc148d6bddfadecdc63fc083"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "COLLECTIVE Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb3b4431f812a74bdfc148d6bddfadecdc63fc083",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xb3B4431F812A74BdfC148d6bDdfAdEcdC63FC083",
+        "https://ethplorer.io/address/0xb3b4431f812a74bdfc148d6bddfadecdc63fc083"
+    ],
+    "twitter": "nftx_"
+}

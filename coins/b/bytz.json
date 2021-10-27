@@ -1,0 +1,28 @@
+{
+    "id": "bytz",
+    "symbol": "bytz",
+    "name": "BYTZ",
+    "platforms": {
+        "binance-smart-chain": "0x586fc153cf7e9c029d8c30842c4cb6a86f03b816",
+        "ethereum": "0x2aad9dbc82611485a52325923e1187734e951b78"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x586fc153cf7e9c029d8c30842c4cb6a86f03b816",
+    "url": "https://bytz.gg",
+    "explorers": [
+        "http://explorer.bytz.gg/",
+        "https://bscscan.com/token/0x586fc153cf7e9c029d8c30842c4cb6a86f03b816"
+    ],
+    "twitter": "bytzcurrency",
+    "telegram": "bytzcurrency",
+    "reddit": "Slatecurrency",
+    "github_org": "bytzcurrency"
+}

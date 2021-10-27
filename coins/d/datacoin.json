@@ -1,0 +1,21 @@
+{
+    "id": "datacoin",
+    "symbol": "dtc",
+    "name": "Datacoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Datacoin is a platform that can be used by applications such as torrent trackers, encrypted messaging services, \r\nand can be used to store other kinds of small data - all censorship-free.\r\nDevelopers can store torrent files, certificates, computer programs, HTML pages and other kinds of meta-information \r\nin the Datacoin blockchain.\r\nWindows users can use a GUI wallet, Linux users should compile datacoind or Datacoin-QT from source (see instructions). \r\nWallets are in development, and more features are coming soon, but the wallet\u2019s current functionality is similar to other coins."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://www.datacoininfo.org/",
+    "explorers": [
+        "https://chainz.cryptoid.info/dtc/"
+    ],
+    "twitter": "DatacoinX",
+    "facebook": "datacoin.datacoin.3",
+    "reddit": "Datacoin/",
+    "github_org": "gjhiggins"
+}

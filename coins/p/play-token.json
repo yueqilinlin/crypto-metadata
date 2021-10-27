@@ -1,0 +1,25 @@
+{
+    "id": "play-token",
+    "symbol": "play",
+    "name": "PLAY Token",
+    "platforms": {
+        "tron": "TYbSzw3PqBWohc4DdyzFDJMd1hWeNN6FkB"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "PLAY is an in house gaming token and dividend earning token"
+    },
+    "country_origin": "CR",
+    "genesis_date": null,
+    "contract_address": "TYbSzw3PqBWohc4DdyzFDJMd1hWeNN6FkB",
+    "url": "https://playroyal.com/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TYbSzw3PqBWohc4DdyzFDJMd1hWeNN6FkB"
+    ],
+    "twitter": "PlayRoyal_EN",
+    "telegram": "PlayRoyal_EN",
+    "reddit": "PlayRoyal/"
+}

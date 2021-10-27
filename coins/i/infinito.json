@@ -1,0 +1,24 @@
+{
+    "id": "infinito",
+    "symbol": "inft",
+    "name": "Infinito",
+    "platforms": {
+        "ethereum": "0x83d60e7aed59c6829fb251229061a55f35432c4d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Infinito aims to create a perfect blockchain experience for users, applications, and developers through its product Ecosystem:\r\n\r\n- Infinito Wallet for convenient and secure asset management,\r\n- Infinito App Square for seamless access and usage of decentralized applications, \r\n- Infinito Blockchain Platform for easy and efficient development of blockchain applications, and\r\n- InfinitoPAY for safe and fully customizable payments. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x83d60e7aed59c6829fb251229061a55f35432c4d",
+    "url": "https://www.infinito.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x83d60e7aed59c6829fb251229061a55f35432c4d",
+        "https://ethplorer.io/address/0x83d60e7aed59c6829fb251229061a55f35432c4d"
+    ],
+    "twitter": "Infinito_Ltd",
+    "facebook": "InfinitoWallet",
+    "telegram": "infinitowallet"
+}

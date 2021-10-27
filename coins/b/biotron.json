@@ -1,0 +1,23 @@
+{
+    "id": "biotron",
+    "symbol": "btrn",
+    "name": "Biotron",
+    "platforms": {
+        "ethereum": "0x03c780cd554598592b97b7256ddaad759945b125"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Biotron is a fully transparent personal data analytics platform on blockchain."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x03c780cd554598592b97b7256ddaad759945b125",
+    "url": "https://biotron.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x03c780cd554598592b97b7256ddaad759945b125",
+        "https://ethplorer.io/address/0x03c780cd554598592b97b7256ddaad759945b125"
+    ],
+    "twitter": "BiotronI",
+    "reddit": "Biotron/"
+}

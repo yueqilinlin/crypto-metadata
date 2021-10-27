@@ -1,0 +1,26 @@
+{
+    "id": "fire-protocol",
+    "symbol": "fire",
+    "name": "Fire Protocol",
+    "platforms": {
+        "ethereum": "0xf921ae2dac5fa128dc0f6168bf153ea0943d2d43"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "HECO Chain Ecosystem"
+    ],
+    "description": {
+        "en": "The FIRE token is our governance token.  FIRE is used to power our economic incentive mechanisms, to help support community proposals, and to perform voting."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf921ae2dac5fa128dc0f6168bf153ea0943d2d43",
+    "url": "https://fireprotocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xF921ae2DAC5fa128DC0F6168Bf153ea0943d2D43",
+        "https://ethplorer.io/address/0xf921ae2dac5fa128dc0f6168bf153ea0943d2d43"
+    ],
+    "twitter": "FireProtocolOS",
+    "telegram": "fireprotocol"
+}

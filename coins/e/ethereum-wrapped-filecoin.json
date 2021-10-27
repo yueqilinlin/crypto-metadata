@@ -1,0 +1,21 @@
+{
+    "id": "ethereum-wrapped-filecoin",
+    "symbol": "efil",
+    "name": "Ethereum Wrapped Filecoin",
+    "platforms": {
+        "ethereum": "0x4b7ee45f30767f36f06f79b32bf1fca6f726deda"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wrapped Filecoin (EFIL) was created by Gemini to bring Filecoin (FIL) onto the Ethereum Network, and allow it to be used across the decentralized finance (DeFi) ecosystem. All minted EFIL is backed 1:1 by FIL held in Gemini Custody\u00ae, Gemini\u2019s institutional grade storage system. EFIL is minted using an open-source Ethereum smart contract that wraps FIL and converts it into an ERC-20 token. EFIL is converted back in FIL using the same process.\r\n\r\nFIL can be converted to EFIL on Gemini\u2019s Mobile App and website using the wrap function. EFIL can be easily converted back into FIL using the same steps. You can also purchase FIL and immediately wrap it by toggling \u201cWrap Your Filecoin Purchase\u201d before completing your order. EFIL is also available via CoinList."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4b7ee45f30767f36f06f79b32bf1fca6f726deda",
+    "url": "https://www.gemini.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x4B7ee45f30767F36f06F79B32BF1FCa6f726DEda",
+        "https://ethplorer.io/address/0x4B7ee45f30767F36f06F79B32BF1FCa6f726DEda"
+    ]
+}

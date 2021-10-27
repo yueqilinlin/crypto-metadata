@@ -1,0 +1,24 @@
+{
+    "id": "wolves-of-wall-street",
+    "symbol": "wows",
+    "name": "Wolves of Wall Street",
+    "platforms": {
+        "ethereum": "0x672ef7e4fe230b5ca1466c5fdd40588d30fdf90a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A DeFi project expanding the use of Semi Fungible Tokens to enable you to deploy one SFT card as its own mini DAO to trade in Yearn & other DeFi strategies."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x672ef7e4fe230b5ca1466c5fdd40588d30fdf90a",
+    "url": "https://wolvesofwallstreet.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x672EF7E4Fe230B5cA1466C5fDD40588d30FdF90a",
+        "https://ethplorer.io/address/0x672ef7e4fe230b5ca1466c5fdd40588d30fdf90a"
+    ],
+    "twitter": "WolvesWallst",
+    "telegram": "wolveswallstreet",
+    "github_org": "wolvesofwallstreet"
+}

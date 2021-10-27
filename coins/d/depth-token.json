@@ -1,0 +1,28 @@
+{
+    "id": "depth-token",
+    "symbol": "dep",
+    "name": "Depth Token",
+    "platforms": {
+        "huobi-token": "0x48c859531254f25e57d1c1a8e030ef0b1c895c27",
+        "binance-smart-chain": "0x16f99577b259b069a2d1d166e70d349b11b1d325"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "HECO Chain Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Depth is an efficient stablecoin swap protocol, based on the Huobi Ecochain. \r\nAs a trusted stablecoin swap manager, Depth allows stablecoins to swap between HUSD/USDT and other stablecoins in a safe and secure environment, with good depth, low slippage, and low transaction fees. In addition, Depth benifit liquidity providers with the aggregation of transaction fees as well as rewards from other DeFi protocols in a long-term run."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x48c859531254f25e57d1c1a8e030ef0b1c895c27",
+    "url": "https://depth.fi/",
+    "explorers": [
+        "https://hecoinfo.com/token/0x48C859531254F25e57D1C1A8E030Ef0B1c895c27"
+    ],
+    "twitter": "DepthFi",
+    "telegram": "depthglobal",
+    "github_org": "depthfinance"
+}

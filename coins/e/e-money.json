@@ -1,0 +1,29 @@
+{
+    "id": "e-money",
+    "symbol": "ngm",
+    "name": "e-Money",
+    "platforms": {
+        "ethereum": "0xed0d5747a9ab03a75fbfec3228cd55848245b75d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem",
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "e-Money stablecoins are a further stage in the development of collateralized stablecoins, but with some great advantages of their own which truly set them apart.\r\nFirstly, e-Money stablecoins are not prone to the many drawbacks and inherent instability of algorithmic stablecoins. e-Money stablecoins are collateralized in the same currency as which they are issued so the eEUR stablecoin is collateralized in Euros and the eUSD stablecoin is collateralized by US dollars. The simplicity of this system also means that currency-backed stablecoins are highly efficient and liquid."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xed0d5747a9ab03a75fbfec3228cd55848245b75d",
+    "url": "https://e-money.com/",
+    "explorers": [
+        "https://e-money.net/",
+        "https://hubble.figment.io/emoney/chains/emoney-2",
+        "https://etherscan.io/token/0xed0d5747a9ab03a75fbfec3228cd55848245b75d",
+        "https://ethplorer.io/address/0xed0d5747a9ab03a75fbfec3228cd55848245b75d"
+    ],
+    "twitter": "emoney_com",
+    "telegram": "emoney_com",
+    "github_org": "e-money"
+}

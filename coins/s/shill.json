@@ -1,0 +1,23 @@
+{
+    "id": "shill",
+    "symbol": "posh",
+    "name": "Shill",
+    "platforms": {
+        "ethereum": "0x685aea4f02e39e5a5bb7f7117e88db1151f38364"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x685aea4f02e39e5a5bb7f7117e88db1151f38364",
+    "url": "https://shill.win/",
+    "explorers": [
+        "https://etherscan.io/token/0x685aea4F02E39E5a5BB7f7117E88DB1151F38364",
+        "https://ethplorer.io/address/0x685aea4f02e39e5a5bb7f7117e88db1151f38364"
+    ],
+    "twitter": "shillwin",
+    "telegram": "shillWin"
+}

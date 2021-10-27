@@ -1,0 +1,24 @@
+{
+    "id": "grap-finance",
+    "symbol": "grap",
+    "name": "Grap Finance",
+    "platforms": {
+        "ethereum": "0xc8d2ab2a6fdebc25432e54941cb85b55b9f152db"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Grap is a fork of the YAM project. But it came with correct 'rebase' and it fixed some obvious bugs. So it will be less trouble and more fun."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc8d2ab2a6fdebc25432e54941cb85b55b9f152db",
+    "url": "https://grap.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB",
+        "https://ethplorer.io/address/0xc8d2ab2a6fdebc25432e54941cb85b55b9f152db"
+    ],
+    "twitter": "GrapFinance",
+    "telegram": "GrapFinance",
+    "github_org": "GrapFinance"
+}

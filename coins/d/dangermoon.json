@@ -1,0 +1,23 @@
+{
+    "id": "dangermoon",
+    "symbol": "DANGERMOON",
+    "name": "DangerMoon",
+    "platforms": {
+        "binance-smart-chain": "0x90c7e271f8307e64d9a1bd86ef30961e5e1031e7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DangerMoon aims to satisfy both investors and thrill-seekers through a fundamentally hard asset that also disproportionately rewards individual holders.\r\n\r\nDangerMoon transactions have a built-in tax that is collected on all trading activity. Half of these taxes go to the liquidity pool, while the remainder goes to a prize pool. This prize pool continues to accumulate until a payout is triggered, where ALL of the funds in the prize pool go to one lucky HODLer. There's one catch: if you sell a single DANGERMOON, the address it was sold from will no longer be eligible to win payouts. When one of these sellers is selected to win payout, the prize will bounce and be added to the next distribution. Finally, there is a burn address on the contract that will maintain at least a 1% chance of winning any of the payouts, making DangerMoon inherently deflationary. HODLers can also voluntarily burn their own tokens to increase their chances of winning payouts.\r\n\r\nHODLers can also use their tokens for the various applications created by the DangerMoon team."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x90c7e271f8307e64d9a1bd86ef30961e5e1031e7",
+    "url": "https://www.dangermoon.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x90c7e271F8307E64d9A1bd86eF30961e5e1031e7"
+    ],
+    "twitter": "dangermoonio",
+    "telegram": "DangerMoonIO",
+    "github_org": "DangerMoonIO"
+}

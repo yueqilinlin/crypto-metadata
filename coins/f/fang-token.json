@@ -1,0 +1,24 @@
+{
+    "id": "fang-token",
+    "symbol": "fang",
+    "name": "FANG Token",
+    "platforms": {
+        "fantom": "0x49894fcc07233957c35462cfc3418ef0cc26129f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Native token of the FANG dApp. Gamified leverage trading and DeFi on Fantom."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x49894fcc07233957c35462cfc3418ef0cc26129f",
+    "url": "https://fantom.potluckprotocol.com",
+    "explorers": [
+        "https://ftmscan.com/token/0x49894fcc07233957c35462cfc3418ef0cc26129f"
+    ],
+    "twitter": "potluckprotocol",
+    "telegram": "ptlkchats",
+    "reddit": "potluckprotocol",
+    "github_org": "PotluckProtocol"
+}

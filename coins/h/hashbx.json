@@ -1,0 +1,26 @@
+{
+    "id": "hashbx",
+    "symbol": "hbx",
+    "name": "HashBX",
+    "platforms": {
+        "ethereum": "0x6fe355c62c6faf6946ce888ffaba9fd12355ae27"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "HBX project is created for people who are interested in cloud mining using HBX coin to purchase hashing power and other services with HashBX\u2019s partners. HashBX will arrange to have more partners to join with HBX coin in the ecosystem by the concept of eat, shop and travel with MoveX. Whoever hold HBX coin will be able to gain the right of discount of purchase hashing power and products of HashBX\u2019s partners like hotel, resort, restaurant and supermarket etc."
+    },
+    "country_origin": "TH",
+    "genesis_date": null,
+    "contract_address": "0x6fe355c62c6faf6946ce888ffaba9fd12355ae27",
+    "url": "https://hashbx.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x6fe355c62c6faf6946ce888ffaba9fd12355ae27",
+        "https://ethplorer.io/address/0x6fe355c62c6faf6946ce888ffaba9fd12355ae27"
+    ],
+    "twitter": "HashbxThailand",
+    "facebook": "Hashbx.io",
+    "github_org": "hashbx"
+}

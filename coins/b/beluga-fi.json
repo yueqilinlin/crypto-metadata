@@ -1,0 +1,26 @@
+{
+    "id": "beluga-fi",
+    "symbol": "beluga",
+    "name": "Beluga.fi",
+    "platforms": {
+        "binance-smart-chain": "0x181de8c57c4f25eba9fd27757bbd11cc66a55d31",
+        "polygon-pos": "0x47536f17f4ff30e64a96a7555826b8f9e66ec468",
+        "harmony-shard-0": "0x2f20a4022bf71daf47ec43972b6ecf56e0db0609"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Beluga.fi is both an AMM and a yield farming protocol aiming to give users exposure to profitable farming opportunities on the Binance Smart Chain ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x181de8c57c4f25eba9fd27757bbd11cc66a55d31",
+    "url": "https://app.beluga.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0x181dE8C57C4F25eBA9Fd27757BBd11Cc66a55d31",
+        "https://polygonscan.com/token/0x47536f17f4ff30e64a96a7555826b8f9e66ec468"
+    ],
+    "twitter": "beluga_fi",
+    "telegram": "belugaprotocol",
+    "github_org": "belugaprotocol"
+}

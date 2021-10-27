@@ -1,0 +1,24 @@
+{
+    "id": "weld",
+    "symbol": "weld",
+    "name": "Weld",
+    "platforms": {
+        "ethereum": "0xdd2a36ae937bc134ea694d77fc7e2e36f5d86de0",
+        "binance-smart-chain": "0x5b6ebb33eea2d12eefd4a9b2aeaf733231169684"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Weld service plans to issue cards issued by the payment giant Visa, connected to all major cryptocurrency trading platforms and popular wallets, as well as to Apple Pay/Google Pay. It\u2019s assumed that at the time of payment, the bank will transfer the transaction to an overdraft, the Weld service will transfer the corresponding amount in cryptocurrency from the user's wallet to its corporate account on the same exchange.\r\n\r\nThe innovative architecture doesn\u2019t require card top upping, allows to avoid high blockchain fees, and spends cryptocurrencies as easily as fiat money. Residents from developing countries will be able to use such cards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdd2a36ae937bc134ea694d77fc7e2e36f5d86de0",
+    "url": "https://weld.money/",
+    "explorers": [
+        "https://etherscan.io/token/0xdd2a36ae937bc134ea694d77fc7e2e36f5d86de0",
+        "https://ethplorer.io/address/0xdd2a36ae937bc134ea694d77fc7e2e36f5d86de0"
+    ],
+    "twitter": "MoneyWeld",
+    "telegram": "weld_chat"
+}

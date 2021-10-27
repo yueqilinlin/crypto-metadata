@@ -1,0 +1,22 @@
+{
+    "id": "meowswap",
+    "symbol": "meow",
+    "name": "MeowSwap",
+    "platforms": {
+        "binance-smart-chain": "0xe8658b07c555e9604329a6a0a82ff6d9c6f68d2f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MEOW is the next leading decentralized exchange (DEX) on Binance Smart Chain, Polygon and Solana focused on offering premier trading experience. It is managed by a team of experienced individuals who will operate with transparency and fairness which is similar to real world companies."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe8658b07c555e9604329a6a0a82ff6d9c6f68d2f",
+    "url": "https://meowswap.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xe8658b07c555e9604329a6a0a82ff6d9c6f68d2f"
+    ],
+    "twitter": "meowswap",
+    "telegram": "meow_swap"
+}

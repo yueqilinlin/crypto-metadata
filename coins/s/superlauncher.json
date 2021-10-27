@@ -1,0 +1,26 @@
+{
+    "id": "superlauncher",
+    "symbol": "launch",
+    "name": "SuperLauncher",
+    "platforms": {
+        "binance-smart-chain": "0xb5389a679151c4b8621b1098c6e0961a3cfee8d4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "SuperLauncher is a cross-chain launchpad that empowers projects to raise capital with best-in-class features and gives investors access to quality projects in a safe, trusted and decentralised manner. SuperLauncher helps projects conduct token sales, automated listings, and liquidity locks on the Binance Smart Chain.The project will soon be available on Ethereum and Cardano. \r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb5389a679151c4b8621b1098c6e0961a3cfee8d4",
+    "url": "https://superlauncher.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xb5389a679151c4b8621b1098c6e0961a3cfee8d4"
+    ],
+    "twitter": "Super_Launcher",
+    "telegram": "superlauncher",
+    "github_org": "SuperLauncher"
+}

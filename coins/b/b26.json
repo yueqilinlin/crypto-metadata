@@ -1,0 +1,26 @@
+{
+    "id": "b26",
+    "symbol": "b26",
+    "name": "B26",
+    "platforms": {
+        "ethereum": "0x481de76d5ab31e28a33b0ea1c1063adcb5b1769a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "B26 is the first Private Self-Banking services powered by Blockchain technology and based on a new kind of DeFi experience."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x481de76d5ab31e28a33b0ea1c1063adcb5b1769a",
+    "url": "https://b26.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x481de76d5ab31e28a33b0ea1c1063adcb5b1769a",
+        "https://ethplorer.io/address/0x481de76d5ab31e28a33b0ea1c1063adcb5b1769a"
+    ],
+    "twitter": "B26Finance",
+    "telegram": "b26_finance",
+    "github_org": "B26finance"
+}

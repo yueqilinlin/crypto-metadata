@@ -1,0 +1,28 @@
+{
+    "id": "graphlinq-protocol",
+    "symbol": "glq",
+    "name": "GraphLinq Protocol",
+    "platforms": {
+        "ethereum": "0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Business Services",
+        "Infrastructure",
+        "Analytics"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24",
+    "url": "https://graphlinq.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24",
+        "https://ethplorer.io/address/0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24"
+    ],
+    "twitter": "graphlinq_proto",
+    "telegram": "graphlinq"
+}

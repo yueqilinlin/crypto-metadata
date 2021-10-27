@@ -1,0 +1,23 @@
+{
+    "id": "storage-area-network-anywhere",
+    "symbol": "sana",
+    "name": "Storage Area Network Anywhere",
+    "platforms": {
+        "ethereum": "0x87cdc02f0812f08cd50f946793706fad9c265e2d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A point-to-point storage area node network forked upon  @ethswarm"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x87cdc02f0812f08cd50f946793706fad9c265e2d",
+    "url": "https://www.ethsana.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x87cdc02f0812f08cd50f946793706fad9c265e2d",
+        "https://ethplorer.io/address/0x87cdc02f0812f08cd50f946793706fad9c265e2d"
+    ],
+    "twitter": "ethereumsana",
+    "github_org": "ethsana"
+}

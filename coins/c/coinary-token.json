@@ -1,0 +1,23 @@
+{
+    "id": "coinary-token",
+    "symbol": "cyt",
+    "name": "Coinary Token",
+    "platforms": {
+        "binance-smart-chain": "0xd9025e25bb6cf39f8c926a704039d2dd51088063"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Coinary Token is the In-game currency for Dragonary - The Game"
+    },
+    "country_origin": "AR",
+    "genesis_date": null,
+    "contract_address": "0xd9025e25bb6cf39f8c926a704039d2dd51088063",
+    "url": "https://dragonary.com/cyt/",
+    "explorers": [
+        "https://bscscan.com/token/0xd9025e25bb6cf39f8c926a704039d2dd51088063"
+    ],
+    "twitter": "DragonaryGame",
+    "telegram": "dragonaryen",
+    "github_org": "CoinaryCom"
+}

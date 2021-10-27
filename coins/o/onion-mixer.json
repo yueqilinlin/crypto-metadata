@@ -1,0 +1,25 @@
+{
+    "id": "onion-mixer",
+    "symbol": "omt",
+    "name": "Onion Mixer",
+    "platforms": {
+        "binance-smart-chain": "0x943978707717d4d73da6f74312aef59feafe368c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Onion Mixer is the first decentralized protocol for anonymous cross-chain transactions.\r\n\r\nOnion Mixer creates the new \u201canonymous transactions + DeFi\u201d approach that combines CoinJoin and zero-knowledge proof. It supports anonymous token transactions on public chains such as ETH, BSC, HECO, TRC, etc. And by enabling liquidity mining, holding mining, anonymous transaction mining, it allows users to obtain extra revenues while enjoying high-quality anonymous transaction services."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x943978707717d4d73da6f74312aef59feafe368c",
+    "url": "https://onionmixer.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x943978707717D4d73dA6F74312AeF59feaFE368c"
+    ],
+    "twitter": "onionmixer",
+    "telegram": "OnionMixerOfficial",
+    "github_org": "Onion-Mixer"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "babyxrp",
+    "symbol": "bbyxrp",
+    "name": "BabyXrp",
+    "platforms": {
+        "binance-smart-chain": "0x8beabaa4f025d00b4699d56a683758d692d17f20"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BabyXrp is a meme token on BSc chain. BabyXrp rewards the long term holders with XRP every week. The liquidity is locked for long term."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x8beabaa4f025d00b4699d56a683758d692d17f20",
+    "url": "https://www.babyxrp.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x8beAbaa4f025D00B4699d56a683758d692d17F20"
+    ],
+    "twitter": "officialbabyxrp",
+    "telegram": "OfficialBabyXRP",
+    "reddit": "BABYXRP_ARMY"
+}

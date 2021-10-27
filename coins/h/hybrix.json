@@ -1,0 +1,26 @@
+{
+    "id": "hybrix",
+    "symbol": "hy",
+    "name": "Hybrix",
+    "platforms": {
+        "ethereum": "0x9b53e429b0badd98ef7f01f03702986c516a5715"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "The hybrix protocol makes it possible to constructively \"hijack\" ledger systems and use their combined powers to create truly cross-ledger asset transactions, with all the benefits of the underlying ecosystems."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x9b53e429b0badd98ef7f01f03702986c516a5715",
+    "url": "https://hybrix.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9b53e429b0badd98ef7f01f03702986c516a5715",
+        "https://ethplorer.io/address/0x9b53e429b0badd98ef7f01f03702986c516a5715"
+    ],
+    "twitter": "hybrix_io",
+    "telegram": "hybrixgroup",
+    "github_org": "hybrix-io"
+}

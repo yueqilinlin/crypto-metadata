@@ -1,0 +1,20 @@
+{
+    "id": "geysercoin",
+    "symbol": "gsr",
+    "name": "GeyserCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "GeyserCoin is a currency that is not dependent on the present banking system and has its own independent value. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://geysercoin.com/",
+    "explorers": [
+        "http://geysercoin.com:3001/"
+    ],
+    "twitter": "GeyserCoin_Dev",
+    "telegram": "GeyserCoin_Official",
+    "github_org": "geysercoin"
+}

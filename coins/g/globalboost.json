@@ -1,0 +1,23 @@
+{
+    "id": "globalboost",
+    "symbol": "bsty",
+    "name": "GlobalBoost-Y",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "GlobalBoost Coin is a cryptocurrency inspired by a combat wounded veteran as a way to easily crowd-source funding and raise money for wounded soldiers. It is a fork of Litecoin and has a 10% pre-mine. 50% of the pre-mined coins will be distributed to wounded soldiers on a tiered \u201cReach & Release\u201d timescale with a total payout of $100+ million to charity. The other 50% of the pre-mine will be used to develop an advertising platform.\r\n\r\nThere will be 1 billion GlobalBoost coins minted. A new block will be created every 30 seconds with a block reward of 95 coins. This block reward halves every 4 years. "
+    },
+    "country_origin": "",
+    "genesis_date": "2014-04-27",
+    "url": "http://bsty.org",
+    "explorers": [
+        "https://bstyexplorer.globalboost.info",
+        "https://insight.globalboost.info/"
+    ],
+    "twitter": "globalboost",
+    "facebook": "globalboost",
+    "telegram": "GlobalBoost",
+    "reddit": "globalboostcoin/",
+    "github_org": "GlobalBoost"
+}

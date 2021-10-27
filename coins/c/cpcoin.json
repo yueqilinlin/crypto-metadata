@@ -1,0 +1,19 @@
+{
+    "id": "cpcoin",
+    "symbol": "cpc",
+    "name": "CPCoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The CPCoin advances the CryptoPerformance Ecosystem. As the native coin of the CryptoPerformance platform, CPC has multiple use cases: Paying for transaction fees on the CryptoPerformance platform, making in-store payments and many more."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "url": "https://www.cpcoin.io/",
+    "explorers": [
+        "https://explorer.cpcoin.io/blocks"
+    ],
+    "facebook": "CryptoPerformance-113662103448778",
+    "telegram": "CPCoinOfficial"
+}

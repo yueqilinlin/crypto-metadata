@@ -1,0 +1,24 @@
+{
+    "id": "dapp",
+    "symbol": "dapp",
+    "name": "LiquidApps",
+    "platforms": {
+        "eos": "",
+        "ethereum": "0x939b462ee3311f8926c047d2b576c389092b1649"
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [],
+    "description": {
+        "en": "LiquidApps\u2019 mission is to promote the adoption of decentralized applications (dApps) at scale by introducing a new ecosystem that aims to make developing on blockchains substantially easier & more affordable."
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "url": "https://www.liquidapps.io",
+    "explorers": [
+        "https://bloks.io/tokens/DAPP-eos-dappservices",
+        "https://etherscan.io/token/0x939B462ee3311f8926c047D2B576C389092b1649"
+    ],
+    "twitter": "LiquidAppsIO",
+    "telegram": "LiquidAppsOfficial",
+    "github_org": "liquidapps-io"
+}

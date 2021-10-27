@@ -1,0 +1,29 @@
+{
+    "id": "prism-network",
+    "symbol": "prism",
+    "name": "Prism Network",
+    "platforms": {
+        "ethereum": "0xd46df541148932690b81092f600f35208afd4325",
+        "binance-smart-chain": "0x4cf12dd46bab9afc94e049342fd75a9eaff5d096",
+        "polygon-pos": "0xd46df541148932690b81092f600f35208afd4325"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad",
+        "Polygon Ecosystem",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Prism Network is a Universal DeFi servicing hub with its own bridging and cross-chain infrastructure that provides services for projects on Ethereum, Binance Smart Chain, Polygon, TomoChain & xDAI via its cross chain token PRISM."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd46df541148932690b81092f600f35208afd4325",
+    "url": "https://www.prismnetwork.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xd46df541148932690b81092f600f35208afd4325",
+        "https://ethplorer.io/address/0xd46df541148932690b81092f600f35208afd4325",
+        "https://polygonscan.com/token/0xd46df541148932690b81092f600f35208afd4325"
+    ],
+    "twitter": "prismnetwork_io"
+}

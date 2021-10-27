@@ -1,0 +1,24 @@
+{
+    "id": "wasabix",
+    "symbol": "wasabi",
+    "name": "WasabiX",
+    "platforms": {
+        "ethereum": "0x896e145568624a498c5a909187363ae947631503"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wasabi token is the governance token for the Wasabix protocol. Wasabix aims to improve the ALCX protocol by testing new strategies across multiple chains and adding leverage."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x896e145568624a498c5a909187363ae947631503",
+    "url": "https://wasabix.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x896e145568624a498c5a909187363AE947631503",
+        "https://ethplorer.io/address/0x896e145568624a498c5a909187363AE947631503"
+    ],
+    "twitter": "WasabixFinance",
+    "telegram": "wasabiXfinance",
+    "github_org": "wasabi-swap-team"
+}

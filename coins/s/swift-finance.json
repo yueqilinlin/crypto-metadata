@@ -1,0 +1,23 @@
+{
+    "id": "swift-finance",
+    "symbol": "swift",
+    "name": "Swift Finance",
+    "platforms": {
+        "avalanche": "0x0aa4ef05b43700bf4b6e6dc83ea4e9c2cf6af0fa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0aa4ef05b43700bf4b6e6dc83ea4e9c2cf6af0fa",
+    "url": "https://swiftfinance.farm/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0x0Aa4ef05B43700BF4b6E6Dc83eA4e9C2CF6Af0fA/token-transfers"
+    ],
+    "twitter": "SwiftFinanceOff",
+    "telegram": "swiftfinanceavax",
+    "github_org": "PolySwift"
+}

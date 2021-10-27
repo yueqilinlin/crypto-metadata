@@ -1,0 +1,24 @@
+{
+    "id": "eth-limited",
+    "symbol": "eld",
+    "name": "ETH.limiteD",
+    "platforms": {
+        "ethereum": "0xf0c6521b1f8ad9c33a99aaf056f6c6247a3862ba"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ELD is an encryption currency and smart contract that will be created with full compatibility with the ERC20 standard. This complete ETH.LimiteD is implemented as a dAPP, a smart contract within the Ethereum network."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xf0c6521b1f8ad9c33a99aaf056f6c6247a3862ba",
+    "url": "https://eth.limited/",
+    "explorers": [
+        "https://etherscan.io/token/0xf0c6521b1f8ad9c33a99aaf056f6c6247a3862ba",
+        "https://ethplorer.io/address/0xf0c6521b1f8ad9c33a99aaf056f6c6247a3862ba"
+    ],
+    "twitter": "ELD_community",
+    "facebook": "eldcommunity",
+    "telegram": "ELD_Channel"
+}

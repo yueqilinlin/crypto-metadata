@@ -1,0 +1,31 @@
+{
+    "id": "wrapped-ust",
+    "symbol": "ust",
+    "name": "Wrapped UST",
+    "platforms": {
+        "binance-smart-chain": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
+        "solana": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
+        "polygon-pos": "0x692597b009d13c4049a947cab2239b7d6517875f",
+        "harmony-shard-0": "0xb82307ff75f0cd2cfc253ba2621851fd9123a818"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Terra Ecosystem",
+        "USD Stablecoin",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "USD pegged Terra Stablecoin"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
+    "url": "https://terra.money",
+    "explorers": [
+        "https://bscscan.com/token/0x23396cf899ca06c4472205fc903bdb4de249d6fc",
+        "https://polygonscan.com/address/0x692597b009d13c4049a947cab2239b7d6517875f"
+    ],
+    "twitter": "terra_money",
+    "github_org": "terra-project"
+}

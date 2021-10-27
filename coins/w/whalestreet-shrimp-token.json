@@ -1,0 +1,23 @@
+{
+    "id": "whalestreet-shrimp-token",
+    "symbol": "$hrimp",
+    "name": "WhaleStreet $hrimp Token",
+    "platforms": {
+        "ethereum": "0x9077f9e1efe0ea72867ac89046b2a6264cbcaef5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The WhaleStreet DAO strives to ensure that behind every deFi product on WhaleStreet platform, there is an artist who created the NFT to make that product operational. The WS Platform features DeFi Keys (Collectibles) which give the holder power to deploy dApps with zero code, earn a share of the product revenue, and also execute governance proposals. Royalties to artists of the Defi Keys are paid out from the WS Artist Guild, a subset of the WS Treasury. $hrimp is the native token of the WS platform. It is a reward for participants in the ecosystem, is used to bid for and buy DeFi Keys, and functions as a governance token to create and vote on proposals."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9077f9e1efe0ea72867ac89046b2a6264cbcaef5",
+    "url": "https://whalestreet.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0x9077f9e1efe0ea72867ac89046b2a6264cbcaef5",
+        "https://ethplorer.io/address/0x9077f9e1efe0ea72867ac89046b2a6264cbcaef5"
+    ],
+    "twitter": "WhaleStreetoffl",
+    "github_org": "lendroidproject"
+}

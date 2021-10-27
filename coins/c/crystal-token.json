@@ -1,0 +1,25 @@
+{
+    "id": "crystal-token",
+    "symbol": "cyl",
+    "name": "Crystal Token",
+    "platforms": {
+        "ethereum": "0x26cb3641aaa43911f1d4cb2ce544eb652aac7c47"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crystal Token is a cryptocurrency token innovating the field of smart investments with the novel concept of Crystal AI Trading which satisfies the needs of all investors who desire a solid and constant passive income source."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x26cb3641aaa43911f1d4cb2ce544eb652aac7c47",
+    "url": "https://www.crystaltoken.co",
+    "explorers": [
+        "https://etherscan.io/token/0x26CB3641aaA43911f1D4cB2ce544eb652AAc7c47",
+        "https://ethplorer.io/address/0x26cb3641aaa43911f1d4cb2ce544eb652aac7c47"
+    ],
+    "twitter": "crystal_token",
+    "facebook": "CYLToken",
+    "telegram": "crystaltoken_community",
+    "github_org": "CrystalToken"
+}

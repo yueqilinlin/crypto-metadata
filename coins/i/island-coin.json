@@ -1,0 +1,24 @@
+{
+    "id": "island-coin",
+    "symbol": "isle",
+    "name": "Island Coin",
+    "platforms": {
+        "ethereum": "0x1681bcb589b3cfcf0c0616b0ce9b19b240643dc1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Island Coin is a community-based, deflationary coin built on custom code with community redistributions and recurring burn events. When you join the island coin community, you\u2019re adopting a lifestyle. $ISLE has a host of new features that will enable it to weather current market corrections and deliver significant growth. \r\n\r\nFirst and foremost is SAND, a community-first redistribution mechanism that awards holders. SAND captures and pools together 5% of every $ISLE transaction. Whenever the pool reaches a predetermined amount, the SAND redistributes to all holders with over 100M $ISLE with one wallet earning 25% of the pool, 50% going to 100 wallets and the rest of eligible wallets splitting 25%. In true island fashion, we also burn 5% of tokens. Instead of automatically burning, we will burn in weekly intervals on Friday.  "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1681bcb589b3cfcf0c0616b0ce9b19b240643dc1",
+    "url": "https://www.theislandcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1681bcB589b3cFCF0c0616B0cE9b19b240643dc1",
+        "https://ethplorer.io/address/0x1681bcB589b3cFCF0c0616B0cE9b19b240643dc1"
+    ],
+    "twitter": "TheIslandCoin",
+    "telegram": "island_coin_rocks",
+    "reddit": "islandcoin"
+}

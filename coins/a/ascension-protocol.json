@@ -1,0 +1,23 @@
+{
+    "id": "ascension-protocol",
+    "symbol": "ascend",
+    "name": "Ascension Protocol",
+    "platforms": {
+        "binance-smart-chain": "0xf664264e835bc27cbf71da6a6633a6c7b99b9de1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ascension Protocol is aiming to be one of the very first fully decentralized ecosystems that offers risk-reduced opportunities to generate income for it's DAO members.\r\n\r\nThe Ascension DAO allows token holders to propose and vote on streamlined investment strategies to be used with funds generated from the \"\"Ascension Events\"\", which are liquidity pulls voted on by the DAO members. These investment strategies are modular and can achieve a wide variety of goals, including buy/sell plays, arbitrage, and much more."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf664264e835bc27cbf71da6a6633a6c7b99b9de1",
+    "url": "https://ascensionprotocol.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xf664264e835Bc27cBF71Da6a6633A6C7B99B9De1"
+    ],
+    "twitter": "AscendProtocol",
+    "telegram": "AscensionProtocolChat",
+    "github_org": "ascensionprotocol-official"
+}

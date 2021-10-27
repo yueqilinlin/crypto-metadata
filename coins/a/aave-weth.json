@@ -1,0 +1,25 @@
+{
+    "id": "aave-weth",
+    "symbol": "aweth",
+    "name": "Aave WETH",
+    "platforms": {
+        "ethereum": "0x030ba81f1c18d280636f32af80b9aad02cf0854e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x030ba81f1c18d280636f32af80b9aad02cf0854e",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x030bA81f1c18d280636F32af80b9AAd02Cf0854e",
+        "https://ethplorer.io/address/0x030ba81f1c18d280636f32af80b9aad02cf0854e"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome"
+}

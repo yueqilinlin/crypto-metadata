@@ -1,0 +1,28 @@
+{
+    "id": "everycoin",
+    "symbol": "evy",
+    "name": "EveryCoin",
+    "platforms": {
+        "ethereum": "0xeed3ae7b0f8b5b9bb8c035a9941382b1822671cd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "The Aaron Platform is a new financial platform that combines stable coin(TabiPay) with fluid value coin(EveryCoin) to solve the problems of blockchain speed and high variability of cryptocurrency. \r\nWe have redefined financial services and changed the paradigm. \r\nFinancial service will be transformed from a previous strictly graded, exclusively centralized systems to a decentralized, comprehensive and scalable systems."
+    },
+    "country_origin": "TH",
+    "genesis_date": null,
+    "contract_address": "0xeed3ae7b0f8b5b9bb8c035a9941382b1822671cd",
+    "url": "https://www.everycoin.io",
+    "explorers": [
+        "https://etherscan.io/token/0xEEd3aE7b0F8b5B9BB8C035A9941382B1822671CD",
+        "https://ethplorer.io/address/0xeed3ae7b0f8b5b9bb8c035a9941382b1822671cd",
+        "https://etherscan.io/eth/token/0xEEd3aE7b0F8b5B9BB8C035A9941382B1822671CD"
+    ],
+    "twitter": "AaronJin20",
+    "facebook": "aaron.jin.5895",
+    "telegram": "aaron_platform",
+    "github_org": "aaron-platform"
+}

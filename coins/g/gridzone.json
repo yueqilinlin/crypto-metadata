@@ -1,0 +1,28 @@
+{
+    "id": "gridzone",
+    "symbol": "zone",
+    "name": "GridZone.io",
+    "platforms": {
+        "ethereum": "0xc1d9b5a0776d7c8b98b8a838e5a0dd1bc5fdd53c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Metaverse",
+        "Non-Fungible Tokens (NFT)",
+        "Governance"
+    ],
+    "description": {
+        "en": "GridZone is a next-gen art-focused metaverse on Ethereum with unique digital identities, 3D VR world, and interactive 3D NFTs. \r\nGridZone concept revolves around 3D interactive NFTs that provide its owners with the opportunity to earn rewards throughout GridZone metaverse by participating in various GridZone activities, such as 3D and VR gaming, NFT minting, liquidity mining, staking, and many more."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc1d9b5a0776d7c8b98b8a838e5a0dd1bc5fdd53c",
+    "url": "https://gridzone.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xC1D9B5A0776d7C8B98b8A838e5a0DD1Bc5Fdd53C",
+        "https://ethplorer.io/address/0xC1D9B5A0776d7C8B98b8A838e5a0DD1Bc5Fdd53C"
+    ],
+    "twitter": "GridZoneDAO",
+    "telegram": "GridZone",
+    "github_org": "GridZone"
+}

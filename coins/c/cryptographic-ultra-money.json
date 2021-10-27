@@ -1,0 +1,24 @@
+{
+    "id": "cryptographic-ultra-money",
+    "symbol": "cum",
+    "name": "Cryptographic Ultra Money",
+    "platforms": {
+        "ethereum": "0xb00b1e52bdf518ff9d0b16084f4fbe16ba58a0e7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cryptographic Ultra Money (CUM) is an elastic supply token with additional value-adding mechanics. The CUM protocol mathematically guarantees the exponential price increase of CUM tokens, up to $1,000,000, by dynamically adjusting the total supply to meet an increasing peg price. There is a 6% tax on every transaction from which 4% is sent directly to the ETH/CUM LP and another 2% is burned forever. Token Burn and LP Acquisition mechanics are utilized to reward token holders and ensure that CUM remains highly liquid. \r\n\r\nThe protocol utilizes rebasing mechanics centered around a constantly increasing price peg which initially started at $0.000001 and is set to increase in price by 42% every 24 hours until it reaches $1,000,000. The current price (oracle price) in relation to the peg price is the deciding factor in determining what kind of rebase will occur. In case of the current price being below the peg price a negative rebase will occur and the total supply of CUM will contract while the price will increase to match the peg, the opposite is true for a positive rebase."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb00b1e52bdf518ff9d0b16084f4fbe16ba58a0e7",
+    "url": "https://cumtoken.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xb00b1e52bdf518ff9d0b16084f4fbe16ba58a0e7",
+        "https://ethplorer.io/address/0xb00b1e52bdf518ff9d0b16084f4fbe16ba58a0e7"
+    ],
+    "twitter": "CUMfinance",
+    "telegram": "CUMtokenOfficial",
+    "github_org": "CryptographicUltraMoney"
+}

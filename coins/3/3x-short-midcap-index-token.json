@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-midcap-index-token",
+    "symbol": "midbear",
+    "name": "3X Short Midcap Index Token",
+    "platforms": {
+        "ethereum": "0xc82abb524257c8ee4790bfdefb452b2d6a395e21"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short Midcap Index Token (MIDBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of Midcap Index."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc82abb524257c8ee4790bfdefb452b2d6a395e21",
+    "url": "https://ftx.com/tokens/MIDBEAR",
+    "explorers": [
+        "https://etherscan.io/token/0xc82abb524257c8ee4790bfdefb452b2d6a395e21",
+        "https://ethplorer.io/address/0xc82abb524257c8ee4790bfdefb452b2d6a395e21"
+    ]
+}

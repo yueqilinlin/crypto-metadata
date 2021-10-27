@@ -1,0 +1,26 @@
+{
+    "id": "nft-platform-index",
+    "symbol": "NFTP",
+    "name": "NFT Platform Index",
+    "platforms": {
+        "ethereum": "0x68bb81b3f67f7aab5fd1390ecb0b8e1a806f2465"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "NFT Index"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x68bb81b3f67f7aab5fd1390ecb0b8e1a806f2465",
+    "url": "https://indexed.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x68bb81b3f67f7aab5fd1390ecb0b8e1a806f2465",
+        "https://ethplorer.io/address/0x68bb81b3f67f7aab5fd1390ecb0b8e1a806f2465"
+    ],
+    "twitter": "ndxfi",
+    "github_org": "indexed-finance"
+}

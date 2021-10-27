@@ -1,0 +1,24 @@
+{
+    "id": "bank-btc",
+    "symbol": "bankbtc",
+    "name": "Bank BTC",
+    "platforms": {
+        "ethereum": "0x55986c1dcbf2fa1f3402c5df256272621624821f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bank BTC is a decentralized ERC utility token built on Ethereum. It is designed to provide holders with Static Rewards in Bitcoin from every transaction. The token runs on a proprietary method that taxes each transaction on Buys/Sells and returns a 10% Dividend Paid in $WBTC to its holders in a secure vault, which aims to offer scalability, as well as supporting Bitcoin in its growth.\r\n\r\nThis is an ultimate buy & hodl token that provides passive income no matter if the price goes up or down.\r\n\r\nAnti-Bot Measures: Innovative anti-bot technology to prevent sniping bots & front-running bots."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x55986c1dcbf2fa1f3402c5df256272621624821f",
+    "url": "https://bankbtc.app/",
+    "explorers": [
+        "https://etherscan.io/token/0x55986c1dcbf2fa1f3402c5df256272621624821f",
+        "https://ethplorer.io/address/0x55986c1dcbf2fa1f3402c5df256272621624821f"
+    ],
+    "twitter": "BankBTCApp",
+    "telegram": "BankBTCApp",
+    "github_org": "BankBTC"
+}

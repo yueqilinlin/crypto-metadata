@@ -1,0 +1,29 @@
+{
+    "id": "sechain",
+    "symbol": "snn",
+    "name": "SeChain",
+    "platforms": {
+        "ethereum": "0xf5717f5df41ea67ef67dfd3c1d02f9940bcf5d08",
+        "binance-smart-chain": "0xa997e5aaae60987eb0b59a336dce6b158b113100"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "SeChain project is building the future of decentralized services where the service provider & the customers can get the work done in decentralized environment far from centralized companies, so any one need a service like painting house , repairing car , selling used items, providing any pro service like transportations , logistics , supply chain ..etc. can simply own SNN , then it will be used as guarantee of work done , after confirmation of service funds will be release to the service provider , "
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0xf5717f5df41ea67ef67dfd3c1d02f9940bcf5d08",
+    "url": "https://sechain.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xF5717f5DF41eA67Ef67DFD3c1d02F9940bcF5d08",
+        "https://ethplorer.io/address/0xF5717f5DF41eA67Ef67DFD3c1d02F9940bcF5d08",
+        "https://bscscan.com/token/0xa997e5aaae60987eb0b59a336dce6b158b113100"
+    ],
+    "twitter": "sechainsnn",
+    "facebook": "thesechain",
+    "telegram": "SeChain",
+    "github_org": "SeChainSNN"
+}

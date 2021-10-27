@@ -1,0 +1,23 @@
+{
+    "id": "digies-coin",
+    "symbol": "digs",
+    "name": "Digies Coin",
+    "platforms": {
+        "ethereum": "0x7333cbf5b0b843b4129e234f791b0058347f671a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Digies Coin, $DIGS, is a charitable cryptocurrency focused on bringing the issues that our veterans face to the forefront. Our goal is to assist with veteran suicide awareness, spouses who have lost their loved one, and also the physical/ mental adjustment back to civilian life after combat exposure.\r\n\r\nThe unique feature is that the community will have a ranking system built out with the utility, increasing rank due to hold length, amount of DIGS held, and random tasks completed."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x7333cbf5b0b843b4129e234f791b0058347f671a",
+    "url": "https://digiescoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7333cbf5b0b843b4129e234f791b0058347f671a",
+        "https://ethplorer.io/address/0x7333cbf5b0b843b4129e234f791b0058347f671a"
+    ],
+    "twitter": "DigiesCoin",
+    "telegram": "DigiesCoinCom"
+}

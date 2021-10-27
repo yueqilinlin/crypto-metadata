@@ -1,0 +1,24 @@
+{
+    "id": "gravitoken",
+    "symbol": "grv",
+    "name": "Gravitoken",
+    "platforms": {
+        "binance-smart-chain": "0x1337ace33c2b3fc17d85f33dbd0ed73a896148b5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "Gravitoken is an elastic supply token on the Binance Smart Chain. The rebasing mechanism guarantees the price will rise by a minimum of 9.81% every 8 hours. Included in the token's functionality is a 9.81% transaction tax, which is shared between automated liquidity provision, token buyback and burn, and marketing."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1337ace33c2b3fc17d85f33dbd0ed73a896148b5",
+    "url": "https://gravitoken.co.uk/",
+    "explorers": [
+        "https://bscscan.com/token/0x1337ace33c2b3fc17d85f33dbd0ed73a896148b5"
+    ],
+    "twitter": "gravitoken",
+    "telegram": "Gravitoken"
+}

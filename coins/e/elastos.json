@@ -1,0 +1,29 @@
+{
+    "id": "elastos",
+    "symbol": "ela",
+    "name": "Elastos",
+    "platforms": {
+        "huobi-token": "0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "\"Founded by OS expert Rong Chen, Elastos is building the blockchain industry\u2019s most comprehensive and interoperable open source platform. Using a hybrid consensus that combines the secure hashpower of Bitcoin and the democratic ideals of Delegated-Proof-of-Stake, the SmartWeb of Elastos is a suite of software for an entirely decentralized internet. Elastos employs not only blockchain technology, but a peer-to-peer network for communication, decentralized data storage services, and a decentralized ID (DID) system for all digital assets. With sidechains like Ethereum, Elastos is not merely the foundation for securing truly decentralized applications that can scale, it is the foundation for true data ownership. \r\n\r\nelastOS, the flagship product of the Elastos Smartweb, brings the entire decentralized ecosystem into a single App, currently available for Android and in development for both iOS and desktop.\r\n\r\nElastos is also actively searching for both new and existing dApp projects through its Cyber Republic initiative. Cyber Republic possesses a community-governed grant fund designed to help startups and existing businesses explore blockchain. You can read more about Cyber Republic at https://www.cyberrepublic.org."
+    },
+    "country_origin": "CN",
+    "genesis_date": "2017-12-22",
+    "url": "https://elastos.info/",
+    "explorers": [
+        "https://blockchain.elastos.org",
+        "https://explorer.elaeth.io",
+        "https://idchain.elastos.org",
+        "https://hecoinfo.com/token/0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c"
+    ],
+    "twitter": "ElastosInfo",
+    "facebook": "elastosorg",
+    "telegram": "elastosgroup",
+    "reddit": "Elastos/",
+    "github_org": "elastos"
+}

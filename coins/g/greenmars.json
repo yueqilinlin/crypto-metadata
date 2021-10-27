@@ -1,0 +1,23 @@
+{
+    "id": "greenmars",
+    "symbol": "greenmars",
+    "name": "GreenMars",
+    "platforms": {
+        "binance-smart-chain": "0x0709f67254df2d6bbfd4884a5472439b5417615d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$GREENMARS is an upcoming BEP-20 charity-token, which aims to harness the power of crypto-investing into funding environmental and future-oriented research.\r\n\r\nTransaction fees will partially go to environmental NGOs and research labs to power innovation, protect the earth and precipitate our dream of turning the red planet green."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x0709f67254df2d6bbfd4884a5472439b5417615d",
+    "url": "https://greenmars.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x0709f67254df2d6bbfd4884a5472439b5417615d"
+    ],
+    "twitter": "GREENMARSTOKEN",
+    "telegram": "GreenMarsOfficial",
+    "reddit": "GreenMarsToken/"
+}

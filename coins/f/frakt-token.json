@@ -1,0 +1,22 @@
+{
+    "id": "frakt-token",
+    "symbol": "frkt",
+    "name": "FRAKT Token",
+    "platforms": {
+        "solana": "ErGB9xa24Szxbk1M28u2Tx8rKPqzL6BroNkkzk5rG4zj"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Governance and ecosystem token of first generative art project on Solana"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "ErGB9xa24Szxbk1M28u2Tx8rKPqzL6BroNkkzk5rG4zj",
+    "url": "https://frakt.art",
+    "explorers": [
+        "https://solscan.io/token/ErGB9xa24Szxbk1M28u2Tx8rKPqzL6BroNkkzk5rG4zj"
+    ],
+    "twitter": "FraktArt",
+    "github_org": "frakt-solana"
+}

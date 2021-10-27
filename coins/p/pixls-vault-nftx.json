@@ -1,0 +1,24 @@
+{
+    "id": "pixls-vault-nftx",
+    "symbol": "pixls",
+    "name": "PIXLS Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xf8eb56c7e4e3c885c905a19583bf41644d35aa0a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Pixls are inhabitants of a completely digital town that love nothing more than to bounce in place forever. Started out of a love for pixelart, these NFTs have been carefully crafted in the nostalgic style of the video games of the past. These little critters are one big dysfunctional community in a digital world. With their own backstories, traits and personalities they truly are all unique inhabitants of the little town of Pixlton on the blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf8eb56c7e4e3c885c905a19583bf41644d35aa0a",
+    "url": "https://www.getpixls.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xF8EB56C7e4e3c885c905A19583bF41644d35AA0a",
+        "https://ethplorer.io/address/0xf8eb56c7e4e3c885c905a19583bf41644d35aa0a"
+    ],
+    "twitter": "PixlsOfficial"
+}

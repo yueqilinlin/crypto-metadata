@@ -1,0 +1,23 @@
+{
+    "id": "ubu-finance",
+    "symbol": "ubu",
+    "name": "UBU Finance",
+    "platforms": {
+        "binance-smart-chain": "0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "UBU Finance (Universal Binance Union) - is a platform that combines the most advanced DEFI applications on Binance Smart Chain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f",
+    "url": "https://ubu.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f"
+    ],
+    "twitter": "UBUfinance",
+    "telegram": "UBUfinance",
+    "github_org": "ubu-finance-labs"
+}

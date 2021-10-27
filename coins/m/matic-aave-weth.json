@@ -1,0 +1,25 @@
+{
+    "id": "matic-aave-weth",
+    "symbol": "maweth",
+    "name": "Matic Aave Interest Bearing WETH",
+    "platforms": {
+        "polygon-pos": "0x20d3922b4a1a8560e1ac99fba4fade0c849e2142"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Wrapped-Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x20d3922b4a1a8560e1ac99fba4fade0c849e2142",
+    "url": "https://www.aavegotchi.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0x20d3922b4a1a8560e1ac99fba4fade0c849e2142"
+    ],
+    "twitter": "aavegotchi",
+    "github_org": "aavegotchi"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "mercurial",
+    "symbol": "mer",
+    "name": "Mercurial",
+    "platforms": {
+        "solana": "MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "Mercurial is stableswaps on steroids. On top of high efficiency/ low slippage swaps, we introduce dynamic fees and dynamic capital allocations to greatly improve profit potential for LPs, and liquidity depth for users.\r\n\r\nTwo major innovations:\r\n- Dynamic fees: where fees are increased in periods of high volatility to increase LP profit and lowered in periods of low volatility to increase trading incentives\r\n- Dynamic capital allocation: where we deploy assets in the pools to yield generating opportunities across the Solana ecosystem. \r\n\r\nMercurial aims to become the \u201cone stop shop\u201d for stable liquidity, helping to improve diversity and liquidity for stables on Solana, which is a major part of the DeFi use cases."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K",
+    "url": "https://www.mercurial.finance/",
+    "explorers": [
+        "https://explorer.solana.com/address/MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K",
+        "https://solscan.io/token/MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K"
+    ],
+    "twitter": "MercurialFi",
+    "telegram": "MercurialFi"
+}

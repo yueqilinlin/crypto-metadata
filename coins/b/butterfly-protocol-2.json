@@ -1,0 +1,26 @@
+{
+    "id": "butterfly-protocol-2",
+    "symbol": "bfly",
+    "name": "Butterfly Protocol",
+    "platforms": {
+        "ethereum": "0xf680429328caaacabee69b7a9fdb21a71419c063"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Butterfly Protocol aim to create a decentralized autonomous organization (DAO) that will replace the DNS system and change the economics of domain ownership. Only by incubating a DAO Registrar with its own tokens can we create a lasting self sustaining economy that can replace ICANN. This ability to remove people and governments from the central control of the Internet is paramount to create a lasting uncensored internet."
+    },
+    "country_origin": "KN",
+    "genesis_date": null,
+    "contract_address": "0xf680429328caaacabee69b7a9fdb21a71419c063",
+    "url": "https://www.butterflyprotocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xf680429328caaaCabee69b7A9FdB21a71419c063",
+        "https://ethplorer.io/address/0xf680429328caaaCabee69b7A9FdB21a71419c063"
+    ],
+    "twitter": "butterflyproto",
+    "telegram": "butterflyprotocol",
+    "github_org": "ButterflyProtocol"
+}

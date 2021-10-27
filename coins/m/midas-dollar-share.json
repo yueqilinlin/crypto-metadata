@@ -1,0 +1,23 @@
+{
+    "id": "midas-dollar-share",
+    "symbol": "mds",
+    "name": "Midas Dollar Share",
+    "platforms": {
+        "binance-smart-chain": "0x242e46490397acca94ed930f2c4edf16250237fa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Midas Dollar Protocol is an algorithmic stablecoin protocol inspired by Basis, with multi-tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x242e46490397acca94ed930f2c4edf16250237fa",
+    "url": "https://midasdollar.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0x242E46490397ACCa94ED930F2C4EdF16250237fa"
+    ],
+    "twitter": "MidasDollar",
+    "telegram": "midasprotocolglobal",
+    "github_org": "MidasCore"
+}

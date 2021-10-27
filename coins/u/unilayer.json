@@ -1,0 +1,31 @@
+{
+    "id": "unilayer",
+    "symbol": "layer",
+    "name": "UniLayer",
+    "platforms": {
+        "ethereum": "0x0ff6ffcfda92c53f615a4a75d982f399c989366b",
+        "binance-smart-chain": "0xc2c23a86def9e9f5972a633b3d25f7ecbfa5e575",
+        "harmony-shard-0": "0xe88699ad32d5a610987a3ba8519c06289549cca7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Business Services",
+        "Non-Fungible Tokens (NFT)",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "UniLayer is a new generation decentralised trading platform built on top of Uniswap that enables key features for professional-level trading with its LAYER utility token, focusing on automated swaps and liquidity management, flash staking, charts and analytics, live order books, and a lot more."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0ff6ffcfda92c53f615a4a75d982f399c989366b",
+    "url": "https://unilayer.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x0fF6ffcFDa92c53F615a4A75D982f399C989366b",
+        "https://ethplorer.io/address/0x0ff6ffcfda92c53f615a4a75d982f399c989366b"
+    ],
+    "twitter": "unilayer_",
+    "telegram": "Unilayer"
+}

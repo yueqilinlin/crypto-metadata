@@ -1,0 +1,29 @@
+{
+    "id": "coreto",
+    "symbol": "cor",
+    "name": "Coreto",
+    "platforms": {
+        "ethereum": "0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835",
+        "binance-smart-chain": "0xa4b6573c9ae09d81e4d1360e6402b81f52557098",
+        "polygon-pos": "0x4fdce518fe527439fe76883e6b51a1c522b61b7c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Coreto is a reputation-based social platform that bridges the interaction between projects, retail Investors, traders & much more, all based on a comprehensive trust system.\r\n\r\nEssentially, it\u2019s a platform that utilizes both blockchain technology and a unique trust and performance algorithm in order for users to rely on when it comes to determining the performance and trustworthiness of content creators.\r\n\r\nCoreto\u2019s vision is to unite the blockchain communities. By using the cumulative opinion of experienced community members, people will have a better understanding of what and how blockchain projects are aiming to achieve, helping them make better-informed investment decisions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835",
+    "url": "https://coreto.io",
+    "explorers": [
+        "https://etherscan.io/token/0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835",
+        "https://ethplorer.io/address/0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835",
+        "https://polygonscan.com/token/0x4fdce518fe527439fe76883e6b51a1c522b61b7c",
+        "https://bscscan.com/token/0xA4b6573c9AE09d81e4D1360e6402B81F52557098"
+    ],
+    "twitter": "Coretoio",
+    "telegram": "Coreto"
+}

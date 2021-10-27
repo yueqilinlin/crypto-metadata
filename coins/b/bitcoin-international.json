@@ -1,0 +1,22 @@
+{
+    "id": "bitcoin-international",
+    "symbol": "btci",
+    "name": "Bitcoin International",
+    "platforms": {
+        "binance-smart-chain": "0x79f8e9862c5240f316fabf31e5406e497d65484d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BITCOIN INTERNATIONAL is a non-inflationary Stake , Farm ,DeFi and NFT ecosystem aiming to provide yield generating investments strategies to long-term BTCI holders"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x79f8e9862c5240f316fabf31e5406e497d65484d",
+    "url": "https://btci.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x79f8e9862c5240f316fabf31e5406e497d65484d"
+    ],
+    "twitter": "btc_btci",
+    "telegram": "btc_btci"
+}

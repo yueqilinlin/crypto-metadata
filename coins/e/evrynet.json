@@ -1,0 +1,24 @@
+{
+    "id": "evrynet",
+    "symbol": "evry",
+    "name": "Evrynet",
+    "platforms": {
+        "ethereum": "0xd7dcd9b99787c619b4d57979521258d1a7267ad7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Evrynet is creating a CeDeFi platform that allows other financial services applications to be built on. The chain uses Tendermint consensus and focuses on creating a high-speed, interoperable, secure and regulator-friendly chain. The project is regionally focused on Southeast Asia which has over 435m unbanked/underbanked population and will look at ways to address the gap in financial services through launching several dApps in the future. The first dApp we\u2019re launching is a decentralized exchange called Evry.Finance which will look to bring institutional liquidity and CeFi assets into DeFi. Together with EvryHub (interoperability product), Evry.Finance will evolve to be next generation CeDeFi interexchange that can process transactions at high speed. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd7dcd9b99787c619b4d57979521258d1a7267ad7",
+    "url": "https://evrynet.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xd7dcd9b99787c619b4d57979521258d1a7267ad7",
+        "https://ethplorer.io/address/0xd7dcd9b99787c619b4d57979521258d1a7267ad7"
+    ],
+    "twitter": "evrynetwork",
+    "telegram": "evrynet",
+    "github_org": "Evrynet"
+}

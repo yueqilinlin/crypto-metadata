@@ -1,0 +1,23 @@
+{
+    "id": "polyshield",
+    "symbol": "shi3ld",
+    "name": "PolyShield",
+    "platforms": {
+        "polygon-pos": "0xf239e69ce434c7fb408b05a0da416b14917d934e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SHI3LD is the native token of the PolyShield.Finance ecosystem. SHI3LD is an inflationary token with an initial supply of 1,000 (Only 1,000 SHI3LD tokens were initially minted for farm generation purposes). The PolyShield Masterchef smart contract is programmed to start minting SHI3LD on the predetermined genesis block."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf239e69ce434c7fb408b05a0da416b14917d934e",
+    "url": "https://polyshield.finance/#/home",
+    "explorers": [
+        "https://polygonscan.com/token/0xf239e69ce434c7fb408b05a0da416b14917d934e"
+    ],
+    "twitter": "TeamPolyshield",
+    "telegram": "polyshield",
+    "github_org": "polyshield-finance"
+}

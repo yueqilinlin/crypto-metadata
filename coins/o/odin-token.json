@@ -1,0 +1,24 @@
+{
+    "id": "odin-token",
+    "symbol": "odin",
+    "name": "OdinBrowser",
+    "platforms": {
+        "ethereum": "0x57c8d5d5b87a1580fdaf996cef674bb0d7f14c98"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ODIN Token is the original asset on the ODIN chain, and its value origin is that it can conveniently represent and measure the digitalized economic activity on the ODIN chain.\r\n\r\nMaking use of the blockchain technology and the smart contract to elaborately create the ODIN advertising public blockchain will effectively solve the current weaknesses of the Internet advertising industry and create more business opportunities.\r\n\r\nThe ODIN ecological public blockchain integrates the blockchain technology and the advertising publishing smart contract . Community developers rely on the open interface to participate in the development of the browser and advertisers put on advertisements independently. Browser users can contribute the reading behaviors of advertisements to get incentives so as to achieve the decentralized advertising and the value-oriented advertising browsing, which lets the benign value delivery be formed between the ecological participants and promotes multiple parties\u2019 participation, cooperation, mutual benefits and win-win."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x57c8d5d5b87a1580fdaf996cef674bb0d7f14c98",
+    "url": "https://www.odinlink.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x57c8d5d5b87a1580fdaf996cef674bb0d7f14c98",
+        "https://ethplorer.io/address/0x57c8d5d5b87a1580fdaf996cef674bb0d7f14c98"
+    ],
+    "twitter": "ChainOdin",
+    "telegram": "OdinChain_tokencandy_group_en",
+    "github_org": "odinlink"
+}

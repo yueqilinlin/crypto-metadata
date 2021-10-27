@@ -1,0 +1,24 @@
+{
+    "id": "crypto-candy",
+    "symbol": "candy",
+    "name": "Crypto Candy",
+    "platforms": {
+        "ethereum": "0x540d3087b21f31f9a810385c94627a067cfd0b08"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\u2018Candy\u2019 is a crypto that accurately and transparently compensates for individual contributions of community members for childcare."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x540d3087b21f31f9a810385c94627a067cfd0b08",
+    "url": "https://crypto-candy.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x540d3087b21f31f9a810385c94627a067cfd0b08",
+        "https://ethplorer.io/address/0x540d3087b21f31f9a810385c94627a067cfd0b08"
+    ],
+    "twitter": "cryptocandy19",
+    "telegram": "CRYPTOCANDY_EN",
+    "github_org": "BabyFriends-Dev"
+}

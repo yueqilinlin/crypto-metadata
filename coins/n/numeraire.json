@@ -1,0 +1,27 @@
+{
+    "id": "numeraire",
+    "symbol": "nmr",
+    "name": "Numeraire",
+    "platforms": {
+        "ethereum": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "A new kind of hedge fund built by a network of data scientists."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-06-20",
+    "contract_address": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671",
+    "url": "https://erasure.world/",
+    "explorers": [
+        "https://etherscan.io/token/0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
+        "https://ethplorer.io/address/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671"
+    ],
+    "twitter": "numerai",
+    "reddit": "numerai",
+    "github_org": "erasureprotocol"
+}

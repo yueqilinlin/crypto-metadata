@@ -1,0 +1,22 @@
+{
+    "id": "bitcoin-confidential",
+    "symbol": "bc",
+    "name": "Bitcoin Confidential",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "Bitcoin Confidential is a new coin focused on confidentiality/privacy that will be Proof of Stake, using Ring Confidential Signatures and based on the latest Bitcoin codebase for compatibility."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://bitcoinconfidential.cc/",
+    "explorers": [
+        "https://explorer.bitcoinconfidential.cc/overview"
+    ],
+    "twitter": "btconfidential",
+    "telegram": "bitcoinconf",
+    "github_org": "Bitcoin-Confidential"
+}

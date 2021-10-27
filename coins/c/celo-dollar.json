@@ -1,0 +1,29 @@
+{
+    "id": "celo-dollar",
+    "symbol": "cusd",
+    "name": "Celo Dollar",
+    "platforms": {
+        "celo": "0x765de816845861e75a25fca122bb6898b8b1282a"
+    },
+    "hashing_algorithm": "Keccak",
+    "categories": [
+        "Celo Ecosystem",
+        "USD Stablecoin",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "Celo Dollars (cUSD) are a stable asset that follows the US Dollar. With cUSD you can share money faster, cheaper, and more easily on your mobile phone. cUSD is on the Celo blockchain and is ERC 20 compatible."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x765de816845861e75a25fca122bb6898b8b1282a",
+    "url": "https://celo.org/",
+    "explorers": [
+        "https://explorer.celo.org/tokens/0x765DE816845861e75A25fCA122bb6898B8B1282a/token-transfers"
+    ],
+    "twitter": "@CeloOrg",
+    "facebook": "celohq",
+    "telegram": "celohq",
+    "reddit": "celo/",
+    "github_org": "celo-org"
+}

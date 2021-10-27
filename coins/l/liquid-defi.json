@@ -1,0 +1,23 @@
+{
+    "id": "liquid-defi",
+    "symbol": "liq",
+    "name": "Liquid DeFi",
+    "platforms": {
+        "ethereum": "0x72ca0501427bb8f089c1c4f767cb17d017e803a9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Automated Liquidity Generating Operation (ALGO)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x72ca0501427bb8f089c1c4f767cb17d017e803a9",
+    "url": "https://liquidefi.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x72ca0501427bb8f089c1c4f767cb17d017e803a9",
+        "https://ethplorer.io/address/0x72ca0501427bb8f089c1c4f767cb17d017e803a9"
+    ],
+    "twitter": "TokenLiquid",
+    "telegram": "LIQofficial"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "sky-shiba",
+    "symbol": "sky",
+    "name": "Sky Shiba",
+    "platforms": {
+        "binance-smart-chain": "0x44a6ef91a0f2cb7a0dc589a47aeeab11f56074ce"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Here at Sky Shiba we have focused into delivering 2 Features in our contract.\r\n\r\nRocket Fuel Buy Back\r\nWe will have a Rocket Fuel release function that can be activated, using a percentage of the fuel to inject into the chart and lock it away permanently!\r\n\r\nFuel Frenzy!\r\nRocket Fuel will be rapid released at certain periods, buy taxes go to 0% for 1 full hour and sell tax will be 30%!\r\n\r\nWith an experienced team! Come and join us to the Sky!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x44a6ef91a0f2cb7a0dc589a47aeeab11f56074ce",
+    "url": "http://skytoken.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x44a6ef91a0f2cb7a0dc589a47aeeab11f56074ce"
+    ],
+    "twitter": "SKY__BSC",
+    "telegram": "SKY_SHIBA",
+    "reddit": "sky_bsc/"
+}

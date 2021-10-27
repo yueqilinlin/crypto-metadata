@@ -1,0 +1,26 @@
+{
+    "id": "coffeecoin",
+    "symbol": "cof",
+    "name": "CoffeeCoin",
+    "platforms": {
+        "waves": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Blockchain Efficiency For The Specialty Coffee Trade"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://coffeecoin.io",
+    "explorers": [
+        "https://wavesexplorer.com/tx/AcrRM9STdBu5PNiFveTCbRFTS8tADhKcsbC2KBp8A4tx"
+    ],
+    "twitter": "javanomad",
+    "facebook": "coffeecoinico",
+    "telegram": "CoffeeCoin_Official",
+    "reddit": "coffeecoinproject/",
+    "github_org": "wavesplatform"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "hopr",
+    "symbol": "hopr",
+    "name": "HOPR",
+    "platforms": {
+        "ethereum": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem",
+        "Protocol",
+        "Governance",
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "HOPR provides essential and compliant network-level metadata privacy for everyone. HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
+    "url": "https://hoprnet.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
+        "https://ethplorer.io/address/0xf5581dfefd8fb0e4aec526be659cfab1f8c781da"
+    ],
+    "twitter": "hoprnet",
+    "telegram": "hoprnet",
+    "reddit": "HOPR/",
+    "github_org": "hoprnet"
+}

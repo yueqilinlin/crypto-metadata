@@ -1,0 +1,24 @@
+{
+    "id": "slimcoin",
+    "symbol": "slm",
+    "name": "Slimcoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Slimcoin is a novel and experimental cryptocurrency created in 2014. It is the first known coin that uses the Proof of Burn mechanism to generate blocks. Additionally, it uses Proof of Work and Proof of Stake, making it the first and unique coin with three different block generation mechanisms."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://slimco.in/",
+    "explorers": [
+        "https://chainz.cryptoid.info/slm/"
+    ],
+    "twitter": "slimcoin_club",
+    "facebook": "slimcoin.community",
+    "telegram": "SlimcoinGroup",
+    "reddit": "slimcoin/",
+    "github_org": "slimcoin-project"
+}

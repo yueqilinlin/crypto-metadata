@@ -1,0 +1,26 @@
+{
+    "id": "roul-token",
+    "symbol": "roul",
+    "name": "Roul Token",
+    "platforms": {
+        "binance-smart-chain": "0x712661a1976992a8f8c82fe74ba4e81a82de1f32"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "ROUL is a JACKPOT deflationary token that is fully powered by an automated redistribution mechanism within the blockchain. Every 4 hours you have a chance to win the JACKPOT. A random winner is selected using a custom algorithm based on Solidity Blockhash.  Every transaction has a 10% fee, 5% for jackpot redistributions, 1% is burned, 1% for liquidity pool acquisition, and 3% for operations fees centered around growing the project.\r\n\r\nROUL is the native token for ROUL TOKEN and is used for and will be used for:\r\n\u2022\t4 hour redistribution lottery jackpot, 6 per day total\r\n\u2022\tDaily redistribution lottery jackpot\r\n\u2022\tWeekly redistribution lottery jackpot\r\n\u2022\tRoulette Defi aims to provide an ecosystem centered around a investment based rewards mechanism.  Web3 and dapp development design has commenced to bring additional ROUL powered products.\r\n\r\nAs of launch, 85% of the initial liquidity provided has been locked until the year 2100. This is to ensure that there are no rug-pulls and the investment is as safe as possible.  The team has tried to perform audits as soon as possible to gain the trust of the community.  A large portion of the community has claimed their winnings publicly showing that there are real life winners from the Jackpots!  The testimonials can be found on the official ROUL website.\r\n\r\nHow many ROUL tokens are there in circulation?\r\nROUL Token launched on Binance Smart Chain main-net on April 11, 2021, with approximately 77 million ROUL tokens minted for the single time. Every transaction has a 1% burn fee which constantly decreases the supply of the token, therefore, pushing the price upwards over time.  Additionally, a 1% transaction fee is allocated for additional liquidity pool acquisition."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x712661a1976992a8f8c82fe74ba4e81a82de1f32",
+    "url": "https://www.roultoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x712661a1976992a8f8c82fe74ba4e81a82de1f32"
+    ],
+    "twitter": "roultoken",
+    "telegram": "roulettedefi",
+    "reddit": "https://www.reddit.com",
+    "github_org": "roultoken"
+}

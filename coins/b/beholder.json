@@ -1,0 +1,24 @@
+{
+    "id": "beholder",
+    "symbol": "eye",
+    "name": "Behodler",
+    "platforms": {
+        "ethereum": "0x155ff1a85f440ee0a382ea949f24ce4e0b751c65"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Behodler is an efficient, low gas, single sided AMM with a universal liquidity token powered by MEV capturing tokenomics.\r\nWhile offering lower impermanent loss than traditional AMMs, Behodler shines as a wholesaler of yield strategies typically found on layer 2: for half the gas of a trade on Uniswap, you can zap into and out of your favourite mainnet yield farms.\r\n\r\nEye is the deflationary governance token for Behodler. While most governance tokens are for little more than voting, Behodler burns EYE every chance it gets to glean the truth that comes from requiring participants stake skin in the game."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x155ff1a85f440ee0a382ea949f24ce4e0b751c65",
+    "url": "https://behodler.io",
+    "explorers": [
+        "https://etherscan.io/token/0x155ff1A85F440EE0A382eA949f24CE4E0b751c65",
+        "https://ethplorer.io/address/0x155ff1a85f440ee0a382ea949f24ce4e0b751c65"
+    ],
+    "twitter": "BehodlerAMM",
+    "telegram": "BehodlerOfficial",
+    "github_org": "Behodler"
+}

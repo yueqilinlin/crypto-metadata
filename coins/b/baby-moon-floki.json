@@ -1,0 +1,22 @@
+{
+    "id": "baby-moon-floki",
+    "symbol": "floki",
+    "name": "Baby Moon Floki",
+    "platforms": {
+        "binance-smart-chain": "0x54e87ed5a096f09d9665fd114002bddfc2084a7f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Baby Moon Floki is a hyper-deflationary token that has a smart exchange system built into the ecosystem. Baby Moon Floki automatically sends rewards directly to your wallet by simply holding it."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x54e87ed5a096f09d9665fd114002bddfc2084a7f",
+    "url": "https://babymoonfloki.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x54e87ed5a096f09d9665fd114002bddfc2084a7f"
+    ],
+    "twitter": "babymoonfloki",
+    "telegram": "BMFloki"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "the-chad-token",
+    "symbol": "chad",
+    "name": "The Chad Token",
+    "platforms": {
+        "binance-smart-chain": "0xea8eacce22bbb89709482c0100e75e7ab90f53f4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Meme Token about masculinity and with a future Lamborghini Urus giveaway. "
+    },
+    "country_origin": "AR",
+    "genesis_date": null,
+    "contract_address": "0xea8eacce22bbb89709482c0100e75e7ab90f53f4",
+    "url": "https://www.thechadtoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xea8eacce22bbb89709482c0100e75e7ab90f53f4"
+    ],
+    "twitter": "TheChadToken",
+    "telegram": "TheChadToken"
+}

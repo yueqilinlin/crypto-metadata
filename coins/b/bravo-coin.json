@@ -1,0 +1,24 @@
+{
+    "id": "bravo-coin",
+    "symbol": "bravo",
+    "name": "BravoCoin",
+    "platforms": {},
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Tourism"
+    ],
+    "description": {
+        "en": "BravoCoin is a blockchain-based consumer review platform for iOS/Android where users earn cryptocurrency for reviewing restaurants, hotels, service providers, movies, video games, coins, exchanges, dApps & more!"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://bravocoin.com/",
+    "explorers": [
+        "https://explorer.bravocoin.com"
+    ],
+    "twitter": "BravoCoin",
+    "facebook": "BravoCoinApp",
+    "telegram": "bravo_coin",
+    "reddit": "bravo_coin/",
+    "github_org": "bravo-project"
+}

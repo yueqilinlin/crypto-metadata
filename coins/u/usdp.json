@@ -1,0 +1,27 @@
+{
+    "id": "usdp",
+    "symbol": "usdp",
+    "name": "USDP Stablecoin",
+    "platforms": {
+        "ethereum": "0x1456688345527be1f37e9e627da0837d6f08c925"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "USD Stablecoin",
+        "Yield Farming",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1456688345527be1f37e9e627da0837d6f08c925",
+    "url": "https://unit.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0x1456688345527bE1f37E9e627DA0837D6f08C925",
+        "https://ethplorer.io/address/0x1456688345527be1f37e9e627da0837d6f08c925"
+    ],
+    "telegram": "unit_en",
+    "github_org": "unitprotocol"
+}

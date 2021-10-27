@@ -1,0 +1,24 @@
+{
+    "id": "loser-coin",
+    "symbol": "lowb",
+    "name": "Loser Coin",
+    "platforms": {
+        "binance-smart-chain": "0x843d4a358471547f51534e3e51fae91cb4dc3f28",
+        "polygon-pos": "0x1c0a798b5a5273a9e54028eb1524fd337b24145f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Losercoin (ticker symbol: $LOWB) is a project initiated by two poor guys from China, one is a father of two kids from a village, the other one is a coder living a miserable life by working 60 hours a week .\r\n\r\nTwo founders first heard about Bitcoin in 2017, and had lost a ton of money by trading cryptocurrencies. They started this project as an open journey and were fully prepared to lose everything.\r\n\r\nLosercoin was publicly launched on April 21, 2021 (No Initial Coin Offering), and two founders have added their whole life savings into the liquidity pool. It is guaranteed that the project team will not pump the price of $LOWB due to lack of capital, and no rug pull."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x843d4a358471547f51534e3e51fae91cb4dc3f28",
+    "url": "https://losercoin.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x843d4a358471547f51534e3e51fae91cb4dc3f28",
+        "https://polygonscan.com/token/0x1c0a798b5a5273a9e54028eb1524fd337b24145f"
+    ],
+    "twitter": "loser_coin",
+    "telegram": "loser_coin"
+}

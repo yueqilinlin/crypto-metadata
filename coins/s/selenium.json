@@ -1,0 +1,26 @@
+{
+    "id": "selenium",
+    "symbol": "slc",
+    "name": "Selenium",
+    "platforms": {
+        "ethereum": "0x2ac22ebc138ff127566f68db600addad7df38d38"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Healthcare"
+    ],
+    "description": {
+        "en": "Selenium Coin simplifies the documentation processes in the healthcare sector to coordinate and exchange data better to benefit different stakeholders, including patients, doctors, hospitals and others."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2ac22ebc138ff127566f68db600addad7df38d38",
+    "url": "http://myselenium.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x2ac22ebc138ff127566f68db600addad7df38d38",
+        "https://ethplorer.io/address/0x2ac22ebc138ff127566f68db600addad7df38d38"
+    ],
+    "twitter": "SeleniumSlc",
+    "facebook": "Selenium.io",
+    "telegram": "Selenium"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "fluity",
+    "symbol": "flty",
+    "name": "Fluity",
+    "platforms": {
+        "binance-smart-chain": "0x83b325dba77d55644619a4ff29d42ee4487bcf31"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "fluity.finance is a decentralized borrowing protocol with interest-free loans, high capital efficiency, and censorship-resistant stablecoins on BSC."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x83b325dba77d55644619a4ff29d42ee4487bcf31",
+    "url": "https://fluity.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x83b325dbA77d55644619a4Ff29D42EE4487BCf31"
+    ],
+    "twitter": "FluityFinance",
+    "telegram": "fluity"
+}

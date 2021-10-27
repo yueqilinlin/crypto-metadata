@@ -1,0 +1,22 @@
+{
+    "id": "muskswap",
+    "symbol": "musk",
+    "name": "MuskSwap",
+    "platforms": {
+        "binance-smart-chain": "0xcd657182a749554fc8487757612f02226355269d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$MUSK is the native token of MuskSwap platform, which is a decentralized exchange allowing users to swap BEP-20 tokens. participating in liquidity pools & earn fee; and farming $MUSK by staking $MUSK or staking LP tokens. MuskSwap focuses on the strengths of decentralization. It secures personal ownership and anonymity in transactions, and contributes to make a closed ecosystem for cryptocurrencies, which are full of shortcomings in the current platforms. MuskSwap is built on Binance Smart Chain, which is the most modern protocol which can magically boost the speed of transactions and, at the same time, the other features are extremely versatile. Moreover, BSC transaction cost is much cheaper than another popular protocol \u2013 Ethereum network.\r\n\r\nMuskSwap.io allows for all the following: \u00a7 Trade/Swap BEP20 tokens via MuskSwap \u00a7 Provide liquidity to the exchange and earn fees \u00a7 Stake your LP (liquidity provider) tokens to earn MUSK token \u00a7 Stake MUSK to earn more MUSK Join the community to support ElonMusk Joining MuskSwap community, the members have the place to share their thoughts and update the latest actions of this billionaire."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcd657182a749554fc8487757612f02226355269d",
+    "url": "https://muskswap.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xcD657182A749554fc8487757612F02226355269d"
+    ],
+    "twitter": "MUSKSWAPCHANNEL",
+    "telegram": "muskswap_community"
+}

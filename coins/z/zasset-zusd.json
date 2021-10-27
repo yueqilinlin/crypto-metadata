@@ -1,0 +1,29 @@
+{
+    "id": "zasset-zusd",
+    "symbol": "zusd",
+    "name": "Zasset zUSD",
+    "platforms": {
+        "binance-smart-chain": "0xf0186490b18cb74619816cfc7feb51cdbe4ae7b9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "USD Stablecoin",
+        "Decentralized Finance (DeFi)",
+        "Stablecoins",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "A defi platform facilitating the creation of on-chain synthetic assets representing the real economy."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf0186490b18cb74619816cfc7feb51cdbe4ae7b9",
+    "url": "https://horizonprotocol.com",
+    "explorers": [
+        "https://bscscan.com/token/0xf0186490b18cb74619816cfc7feb51cdbe4ae7b9"
+    ],
+    "twitter": "HorizonProtocol",
+    "telegram": "HorizonProtocol",
+    "reddit": "HorizonProtocol/",
+    "github_org": "orgs"
+}

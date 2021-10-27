@@ -1,0 +1,25 @@
+{
+    "id": "the-node",
+    "symbol": "the",
+    "name": "THENODE",
+    "platforms": {
+        "ethereum": "0xb4a677b0e363c3815d46326954a4e4d2b1ace357"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "The Node improves the problems of existing mining methods by combining Ethereum chain and Master Node chain via THENODE DUAL CORE. Coins mined through node operation can be used in incubating investments and own Dapps,\r\nand the amount of circulation increased due to mining is controlled by market logic by burning of used coins via incubating investments. "
+    },
+    "country_origin": "AT",
+    "genesis_date": null,
+    "contract_address": "0xb4a677b0e363c3815d46326954a4e4d2b1ace357",
+    "url": "https://the-node.foundation/",
+    "explorers": [
+        "https://etherscan.io/token/0xb4a677b0e363c3815d46326954a4e4d2b1ace357",
+        "https://ethplorer.io/address/0xb4a677b0e363c3815d46326954a4e4d2b1ace357"
+    ],
+    "telegram": "thenode_global",
+    "github_org": "thenode-foundation"
+}

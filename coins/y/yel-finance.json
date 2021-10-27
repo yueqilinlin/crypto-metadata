@@ -1,0 +1,28 @@
+{
+    "id": "yel-finance",
+    "symbol": "yel",
+    "name": "Yel.Finance",
+    "platforms": {
+        "ethereum": "0x7815bda662050d84718b988735218cffd32f75ea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yield Enhancement Labs (YEL) is a multi-chain yield enhancement protocol who\u2019s core mission is to help projects gain liquidity across multiple chains while building self-sustainable token economics with constant and organic buy-pressure for YEL token. YEL plans to accomplish this by the incentivization of investors and simplification of the research process for best APRs.\r\n\r\nYEL aggregates multiple projects across several networks and presents them in a simple format for liquidity provision and staking opportunities. This allows investors to easily choose the most interesting APRs, evaluate project risks and review project details within minutes.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7815bda662050d84718b988735218cffd32f75ea",
+    "url": "https://yel.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x7815bda662050d84718b988735218cffd32f75ea",
+        "https://bscscan.com/token/0xd3b71117e6c1558c1553305b44988cd944e97300",
+        "https://ftmscan.com/token/0xd3b71117e6c1558c1553305b44988cd944e97300",
+        "https://polygonscan.com/token/0xd3b71117e6c1558c1553305b44988cd944e97300",
+        "https://ethplorer.io/address/0x7815bda662050d84718b988735218cffd32f75ea"
+    ],
+    "twitter": "yel_finance",
+    "telegram": "yelfinance",
+    "reddit": "Yel_Finance/",
+    "github_org": "YieldEnhancementLabs"
+}

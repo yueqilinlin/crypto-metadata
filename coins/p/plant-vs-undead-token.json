@@ -1,0 +1,25 @@
+{
+    "id": "plant-vs-undead-token",
+    "symbol": "pvu",
+    "name": "Plant vs Undead Token",
+    "platforms": {
+        "binance-smart-chain": "0x31471e0791fcdbe82fbf4c44943255e923f1b794"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Play To Earn"
+    ],
+    "description": {
+        "en": "Plant vs Undead (PVU) is a multiplayer tower defense game, where your plants are also your real asset. The goal is to combine the phenomenal Plants vs Zombies with new blockchain technology \u2013 NFTs. "
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0x31471e0791fcdbe82fbf4c44943255e923f1b794",
+    "url": "https://plantvsundead.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x31471e0791fcdbe82fbf4c44943255e923f1b794"
+    ],
+    "twitter": "vs_nft",
+    "telegram": "plantvsundead",
+    "github_org": "plantvsundead"
+}

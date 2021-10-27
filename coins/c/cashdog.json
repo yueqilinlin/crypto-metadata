@@ -1,0 +1,23 @@
+{
+    "id": "cashdog",
+    "symbol": "cashdog",
+    "name": "CashDog",
+    "platforms": {
+        "binance-smart-chain": "0x494a2f5395ac213622762e4ef4d44661758ca639"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CashDog is a Charity Focused DeFi Token with Automatic Liquidity Generation and Token Redistribution on each trade.\r\n\r\nA percentage of every trade goes to help a Selected Dog Charity Organisation. Each month our community votes to select the Charity. \r\n\r\nAll donations are public and can be verified."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x494a2f5395ac213622762e4ef4d44661758ca639",
+    "url": "https://www.cashdog.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x494a2f5395ac213622762e4ef4d44661758ca639"
+    ],
+    "twitter": "CashDogOfficial",
+    "telegram": "cashdogchat",
+    "github_org": "CashDogToken"
+}

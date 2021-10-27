@@ -1,0 +1,31 @@
+{
+    "id": "cook",
+    "symbol": "cook",
+    "name": "Cook",
+    "platforms": {
+        "ethereum": "0xff75ced57419bcaebe5f05254983b013b0646ef5",
+        "binance-smart-chain": "0x965b0df5bda0e7a0649324d78f03d5f7f2de086a",
+        "huobi-token": "0x74189862b069e2be5f7c8e6ff08ea8e1b1948519"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Cook Protocol establishes a transparent and flexible asset management platform suited to diverse investors and asset management service providers alike. Investors can monitor a manager\u2019s fund allocations without worrying about fund security or foul play. At the same time, fund managers can leverage Cook Protocol to gain access to investors and carry out virtually any investment strategy without having to open source the strategy."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xff75ced57419bcaebe5f05254983b013b0646ef5",
+    "url": "https://www.cook.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xff75ced57419bcaebe5f05254983b013b0646ef5",
+        "https://ethplorer.io/address/0xff75ced57419bcaebe5f05254983b013b0646ef5",
+        "https://hecoinfo.com/token/0x74189862b069e2be5f7c8e6ff08ea8e1b1948519",
+        "https://bscscan.com/token/0x965b0df5bda0e7a0649324d78f03d5f7f2de086a"
+    ],
+    "twitter": "cook_finance",
+    "telegram": "cook_english",
+    "reddit": "CookProtocol/",
+    "github_org": "CookFinance"
+}

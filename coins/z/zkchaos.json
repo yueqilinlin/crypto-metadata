@@ -1,0 +1,24 @@
+{
+    "id": "zkchaos",
+    "symbol": "chaos",
+    "name": "ZKCHAOS",
+    "platforms": {
+        "ethereum": "0xb53de031602cd825febe9f2eedf962cd8cc3805d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ZKCHAOS is a layer2-based anonymous transaction protocol, and a fair game platform, which is built to enhance privacy for all kinds of cryptocurrency. It uses smart contracts and ZKPLONK to obfuscate transactions so that on-chain observers can\u2019t correlate the deposit and withdrawal."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb53de031602cd825febe9f2eedf962cd8cc3805d",
+    "url": "https://zkchaos.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xb53de031602cd825febe9f2eedf962cd8cc3805d",
+        "https://ethplorer.io/address/0xb53de031602cd825febe9f2eedf962cd8cc3805d"
+    ],
+    "twitter": "zkchaos2020",
+    "telegram": "zkchaos",
+    "github_org": "zkchaos"
+}

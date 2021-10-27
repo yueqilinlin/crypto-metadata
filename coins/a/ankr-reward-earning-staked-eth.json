@@ -1,0 +1,25 @@
+{
+    "id": "ankr-reward-earning-staked-eth",
+    "symbol": "aethb",
+    "name": "Ankr Reward-Earning Staked ETH",
+    "platforms": {
+        "ethereum": "0xd01ef7c0a5d8c432fc2d1a85c66cf2327362e5c6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "aETHb is a Reward-Earning Staked ETH token from Ankr StakeFi. Ankr StakeFi is a platform providing an easy multi-chain staking experience through liquid staking and pooled staking solutions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd01ef7c0a5d8c432fc2d1a85c66cf2327362e5c6",
+    "url": "https://stakefi.ankr.com",
+    "explorers": [
+        "https://etherscan.io/token/0xd01ef7c0a5d8c432fc2d1a85c66cf2327362e5c6",
+        "https://ethplorer.io/address/0xd01ef7c0a5d8c432fc2d1a85c66cf2327362e5c6"
+    ],
+    "twitter": "ankr",
+    "telegram": "ankrnetwork",
+    "reddit": "Ankrofficial/",
+    "github_org": "Ankr-network"
+}

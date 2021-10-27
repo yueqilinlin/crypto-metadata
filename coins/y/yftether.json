@@ -1,0 +1,24 @@
+{
+    "id": "yftether",
+    "symbol": "yfte",
+    "name": "YFTether",
+    "platforms": {
+        "ethereum": "0x94f31ac896c9823d81cf9c2c93feceed4923218f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YFTether is distinct and succinct as it expands the utilisation of blockchain from elementary value transfer to further complex financial use cases."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x94f31ac896c9823d81cf9c2c93feceed4923218f",
+    "url": "https://yftether.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x94f31ac896c9823d81cf9c2c93feceed4923218f",
+        "https://ethplorer.io/address/0x94f31ac896c9823d81cf9c2c93feceed4923218f"
+    ],
+    "twitter": "yftether",
+    "telegram": "YfTether",
+    "github_org": "yftether"
+}

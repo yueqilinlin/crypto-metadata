@@ -1,0 +1,23 @@
+{
+    "id": "prometeus",
+    "symbol": "prom",
+    "name": "Prometeus",
+    "platforms": {
+        "ethereum": "0xfc82bb4ba86045af6f327323a46e80412b91b27d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Prometeus Network is a secure and decentralized ecosystem designed to solve real-world problems in data brokerage, created for the Influencer Marketing, Medical and Insurance data market industries. Prometeus Network is developed by Prometeus Labs. A company existing out of data scientists and entrepreneurs who have been working for more than 15 years on machine learning, business development and marketing."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
+    "url": "https://prometeus.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xfc82bb4ba86045af6f327323a46e80412b91b27d",
+        "https://ethplorer.io/address/0xfc82bb4ba86045af6f327323a46e80412b91b27d"
+    ],
+    "twitter": "prometeusnet",
+    "telegram": "promnetwork"
+}

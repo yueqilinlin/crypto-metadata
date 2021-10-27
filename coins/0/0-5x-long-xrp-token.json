@@ -1,0 +1,19 @@
+{
+    "id": "0-5x-long-xrp-token",
+    "symbol": "xrphalf",
+    "name": "0.5X Long XRP Token",
+    "platforms": {
+        "ethereum": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Leveraged Token"
+    ],
+    "description": {
+        "en": "0.5X Long XRP Token (XRPHALF) is an ERC20 token which seeks a return that corresponds to 0.5 times the daily return of XRP."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://ftx.com/tokens/XRPHALF",
+    "explorers": []
+}

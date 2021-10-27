@@ -1,0 +1,18 @@
+{
+    "id": "greencoin",
+    "symbol": "gre",
+    "name": "Greencoin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "GreenCoin is an open-source clone of BlackCoin with a key award modification. Half of the staking award goes to a single, known address listed below. "
+    },
+    "country_origin": "",
+    "genesis_date": "2016-01-04",
+    "url": "http://www.grcoin.com/",
+    "explorers": [],
+    "twitter": "GoGreenCoin",
+    "reddit": "GreenCoin",
+    "github_org": "PandaWalz"
+}

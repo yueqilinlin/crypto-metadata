@@ -1,0 +1,23 @@
+{
+    "id": "tesla-inu",
+    "symbol": "tesinu",
+    "name": "Tesla Inu",
+    "platforms": {
+        "ethereum": "0xff69e48af1174da7f15d0c771861c33d3f19ed8a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Developed for lovers of environment, and the community, Tesla Inu redistributes 2% of every transaction between holders wallets, including the burn wallet. This rewards holders with free tokens, and reduces token supply. "
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0xff69e48af1174da7f15d0c771861c33d3f19ed8a",
+    "url": "https://teslainu.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xff69e48af1174da7f15d0c771861c33d3f19ed8a",
+        "https://ethplorer.io/address/0xff69e48af1174da7f15d0c771861c33d3f19ed8a"
+    ],
+    "twitter": "TTesinu",
+    "telegram": "teslainuofficial"
+}

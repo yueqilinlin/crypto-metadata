@@ -1,0 +1,26 @@
+{
+    "id": "faithcoin",
+    "symbol": "faith",
+    "name": "FaithCoin",
+    "platforms": {
+        "ethereum": "0xe531642e9bb5d027e9c20e03284287b97919a9a5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FaithCoin is the first and only secure Ethereum token embedded with prayer and bible verses. Words of God written in a token smart contract. This token is built from the ground-up to facilitate payments, donations, transfers and trading without sacrificing your security. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe531642e9bb5d027e9c20e03284287b97919a9a5",
+    "url": "https://myfaithcoin.info/",
+    "explorers": [
+        "https://etherscan.io/token/0xe531642e9bb5d027e9c20e03284287b97919a9a5",
+        "https://ethplorer.io/address/0xe531642e9bb5d027e9c20e03284287b97919a9a5"
+    ],
+    "twitter": "MyFaithCoin",
+    "facebook": "myfaithcoin",
+    "telegram": "FaithCoin",
+    "reddit": "myfaithcoin/",
+    "github_org": "MyFaithCoin"
+}

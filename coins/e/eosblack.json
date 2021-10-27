@@ -1,0 +1,23 @@
+{
+    "id": "eosblack",
+    "symbol": "black",
+    "name": "eosBLACK",
+    "platforms": {
+        "eos": null
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "eosBLACK is a multiverse that contributes to the expansion of EOSIO DApps through a collaborative platform called \u2018Crypto Factory\u2019. It is expected to play a pivotal role in establishing EOSIO as the Android of blockchain.\r\n\r\nThrough EOSIO, eosBLACK aims to overcome the structural limitations that have impeded the growth of existing blockchains, including:\r\n\r\n\u00b7 Hard fork due to bifurcation of consensus and governance\r\n\u00b7 Consensus algorithm that is not suitable for large-scale transactions\r\n\u00b7 Burden of DApp building costs assumed by developers\r\n\u00b7 Entry barriers other than development, due to a lack of understanding about coin economy\r\n\u00b7 Emergence of regulations related to ICOs\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": "2018-06-09",
+    "url": "https://eosblack.io/",
+    "explorers": [
+        "https://bloks.io/account/eosblackteam",
+        "https://eospark.com/MainNet/account/eosblackteam"
+    ],
+    "twitter": "EOSBLACK_IO",
+    "facebook": "eosBLACKTeam",
+    "telegram": "eosBLACK_English"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "sil-finance",
+    "symbol": "sil",
+    "name": "SIL Finance Token V2",
+    "platforms": {
+        "binance-smart-chain": "0x133bb423d9248a336d2b3086b8f44a7dbff3a13c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SIL.Finance (Sister in Law) is a crypto project that is introducing a smart contract-based pairing engine that will provide two additional revenue streams for liquidity providers. This will effectively bring an end to impermanent losses. Through the use of a single-sided exposure LP vault, it will eliminate the need for users to deposit two coins to provide liquidity. The platform will look to optimize pain points and improve the overall efficiency for DeFi users\u2019 financial needs. The project will act as a strategic financial tool allowing individuals to participate in arbitrage in the DeFi market. It will allow users to utilize the speculative benefits of its financial derivatives and allow users to better diversify planning, investment and financial management. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x133bb423d9248a336d2b3086b8f44a7dbff3a13c",
+    "url": "https://sil.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x133Bb423d9248a336D2b3086b8F44A7DbFF3a13C"
+    ],
+    "twitter": "Sil_Finance",
+    "telegram": "sil_finance",
+    "github_org": "sil-finance"
+}

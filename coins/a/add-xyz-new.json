@@ -1,0 +1,27 @@
+{
+    "id": "add-xyz-new",
+    "symbol": "add",
+    "name": "Add.xyz (NEW)",
+    "platforms": {
+        "ethereum": "0x635d081fd8f6670135d8a3640e2cf78220787d56"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Business Services",
+        "Business Platform"
+    ],
+    "description": {
+        "en": "ADD.xyz is a full-stack DeFi aggregator, plugging in multiple products and DeFi applications into one single platform, focusing on User Experience, Design, Privacy and Anonymity.\r\n\r\nPreviously known as PlutusDeFi, ADD.xyz started its journey with a vision of bringing all DeFi services under the single roof. ADD's lending platform is already live with integrations from Aave, Fulcrum, Compound, and dydx. \r\n\r\nADD.xyz's lending product 'Lend & Earn' allows its customers to select the best DeFi lending protocols in a simple 3-step process. Their lending portfolio along with the interest earned will be displayed in an easy to monitor and understand interface.\r\n\r\nKey features of the product include:\r\n\r\n1. Aggregates industry's leading Lending protocols for better diversification and crypto income\r\n2. Simple user experience and easy to use user interface without any extra download.\r\n3. Best available interest rates in the market"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x635d081fd8f6670135d8a3640e2cf78220787d56",
+    "url": "https://Add.xyz",
+    "explorers": [
+        "https://etherscan.io/token/0x635d081fd8f6670135d8a3640e2cf78220787d56",
+        "https://ethplorer.io/address/0x635d081fd8f6670135d8a3640e2cf78220787d56"
+    ],
+    "twitter": "adddotxyz",
+    "telegram": "ADDXyzpublic"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "nhbtc",
+    "symbol": "nhbtc",
+    "name": "nHBTC",
+    "platforms": {
+        "ethereum": "0x1f832091faf289ed4f50fe7418cfbd2611225d46"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "the ticker (NHBTC) is wrong, it should be N0001\r\n\r\nI made the initial listing request, so it my bad. Sorry for the troubles! "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1f832091faf289ed4f50fe7418cfbd2611225d46",
+    "url": "https://nestprotocol.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x1f832091faf289ed4f50fe7418cfbd2611225d46",
+        "https://ethplorer.io/address/0x1f832091faf289ed4f50fe7418cfbd2611225d46"
+    ],
+    "twitter": "nest_protocol",
+    "telegram": "nest_chat",
+    "github_org": "NEST-Protocol"
+}

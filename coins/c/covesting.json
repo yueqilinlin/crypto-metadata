@@ -1,0 +1,27 @@
+{
+    "id": "covesting",
+    "symbol": "cov",
+    "name": "Covesting",
+    "platforms": {
+        "ethereum": "0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7",
+        "binance-smart-chain": "0x0f237db17aa4e6de062e6f052bd9c805789b01c3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Covesting is a Blockchain based peer-to-peer asset management platform. Investors can easily browse through dozens of trading strategies, provided by professional crypto currency traders and subscribe to the ones matching their goals. Thanks to technology-based solutions and smart-contracts, Covesting platform allows its users to replicate trading activity of a chosen Model directly into their segregated account at Covesting. "
+    },
+    "country_origin": "GI",
+    "genesis_date": "2017-10-15",
+    "contract_address": "0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7",
+    "url": "https://covesting.io",
+    "explorers": [
+        "https://etherscan.io/token/0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7",
+        "https://ethplorer.io/address/0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7"
+    ],
+    "twitter": "covesting",
+    "facebook": "covesting",
+    "telegram": "covesting",
+    "reddit": "Covesting/",
+    "github_org": "covesting"
+}

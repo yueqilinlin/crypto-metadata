@@ -1,0 +1,30 @@
+{
+    "id": "hackenai",
+    "symbol": "hai",
+    "name": "Hacken Token",
+    "platforms": {
+        "binance-smart-chain": "0xaa9e582e5751d703f85912903bacaddfed26484c",
+        "ethereum": "0x05fb86775fd5c16290f1e838f5caaa7342bd9a63",
+        "vechain": "0xacc280010b2ee0efc770bce34774376656d8ce14"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Hacken Token (HAI) is a cybersecurity coin underlying the rapidly growing Hacken Foundation.\r\nHacken Foundation is a fully fledged organization that unites cybersecurity products and companies developing secure Web 3.0 infrastructure.\r\n\r\nHacken Foundation is trusted by both crypto industry leaders (Vechain, Ava Labs, FTX, and 300+ other entities) and traditional IT and product companies (Namecheap, AirAsia) while being an official partner of the government of Ukraine.\r\n\r\nNative token HAI serves as a utility for hundreds of different B2C, B2B, and B2G cybersecurity products and gives birth to new cybersecurity start-ups like HAPI.one (HAPI), Disbalancer (DDOS), and many more. \r\n\r\nHAI token may be referred to as the index of crypto industry cybersecurity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaa9e582e5751d703f85912903bacaddfed26484c",
+    "url": "https://hackenfoundation.com",
+    "explorers": [
+        "https://explore.vechain.org/accounts/0xacc280010b2ee0efc770bce34774376656d8ce14",
+        "https://vechainthorscan.com/account/0xacc280010b2ee0efc770bce34774376656d8ce14",
+        "https://explorer.vtho.net/#/accounts/0xacc280010b2ee0efc770bce34774376656d8ce14",
+        "https://etherscan.io/token/0x05fb86775fd5c16290f1e838f5caaa7342bd9a63",
+        "https://bscscan.com/token/0xaa9e582e5751d703f85912903bacaddfed26484c"
+    ],
+    "twitter": "hackenclub",
+    "telegram": "hackenclub"
+}

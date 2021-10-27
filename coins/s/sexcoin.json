@@ -1,0 +1,21 @@
+{
+    "id": "sexcoin",
+    "symbol": "sxc",
+    "name": "Sexcoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Sexcoin is the payment transaction system of the future for the adult industry via Android and PC wallets. Sexcoin is aiming to be a drop in replacement for current payment processing systems. With Sexcoin you can avoid the unfair fees and discrimination faced when dealing with tradition models and institutions. We are here for you!"
+    },
+    "country_origin": "",
+    "genesis_date": "2013-05-28",
+    "url": "http://sexcoin.info/",
+    "explorers": [
+        "http://be.sexcoin.info/chain/Sexcoin/",
+        "https://chainz.cryptoid.info/sxc/"
+    ],
+    "twitter": "SexcoinTeam",
+    "reddit": "Sexcoin",
+    "github_org": "sexcoin-project"
+}

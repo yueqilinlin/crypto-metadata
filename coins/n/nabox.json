@@ -1,0 +1,23 @@
+{
+    "id": "nabox",
+    "symbol": "nabox",
+    "name": "Nabox",
+    "platforms": {
+        "ethereum": "0x630bc7dd0abfc2d196289ce09db947dd2cafae7c",
+        "binance-smart-chain": "0x755f34709e369d37c6fa52808ae84a32007d1155"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cross-Chain DeFi Wallet with Decentralized Identifier built for Web 3.0"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x630bc7dd0abfc2d196289ce09db947dd2cafae7c",
+    "url": "https://nabox.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x630bc7dd0abfc2d196289ce09db947dd2cafae7c",
+        "https://ethplorer.io/address/0x630bc7dd0abfc2d196289ce09db947dd2cafae7c"
+    ],
+    "twitter": "naboxwallet"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "tornadocore",
+    "symbol": "tcore",
+    "name": "Tornado Core",
+    "platforms": {
+        "ethereum": "0x7a3d5d49d64e57dbd6fbb21df7202bd3ee7a2253",
+        "binance-smart-chain": "0x40318becc7106364d6c41981956423a7058b7455 "
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tornado is a decentralized finance protocol forked from CORE backed by a deflationary token with a governance feature. TCORE is the token that users can use to yield farm and stake."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x7a3d5d49d64e57dbd6fbb21df7202bd3ee7a2253",
+    "url": "https://tornado.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x7a3d5d49d64e57dbd6fbb21df7202bd3ee7a2253",
+        "https://ethplorer.io/address/0x7a3d5d49d64e57dbd6fbb21df7202bd3ee7a2253"
+    ],
+    "twitter": "tornadofinance",
+    "telegram": "tornadofinance2",
+    "github_org": "tornadofinance"
+}

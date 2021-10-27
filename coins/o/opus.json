@@ -1,0 +1,26 @@
+{
+    "id": "opus",
+    "symbol": "opt",
+    "name": "Opus",
+    "platforms": {
+        "ethereum": "0x4355fc160f74328f9b383df2ec589bb3dfd82ba0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The music industry is broken. Streaming platforms such as Spotify, Deezer , and Apple Music take up to 80% of artist\u2019s revenue, and while larger artists can accept it, small artists are often unable to make a living from music streaming.\r\n\r\n"
+    },
+    "country_origin": "AE",
+    "genesis_date": "2017-07-15",
+    "contract_address": "0x4355fc160f74328f9b383df2ec589bb3dfd82ba0",
+    "url": "http://opus-foundation.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0",
+        "https://ethplorer.io/address/0x4355fc160f74328f9b383df2ec589bb3dfd82ba0"
+    ],
+    "twitter": "opusfoundation",
+    "facebook": "opusfoundation",
+    "telegram": "opusfoundation",
+    "reddit": "opusfoundation",
+    "github_org": "Opus-foundation"
+}

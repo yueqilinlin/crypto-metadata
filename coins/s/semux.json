@@ -1,0 +1,23 @@
+{
+    "id": "semux",
+    "symbol": "sem",
+    "name": "Semux",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Other"
+    ],
+    "description": {
+        "en": "Semux is an experimental high-performance blockchain platform that powers decentralized application. It's written purely in Java and powered by Semux BFT consensus algorithm."
+    },
+    "country_origin": "ZZ",
+    "genesis_date": "2018-01-20",
+    "url": "https://www.semux.org",
+    "explorers": [
+        "https://semux.info/explorer"
+    ],
+    "twitter": "semuxproject",
+    "telegram": "semux_announcements",
+    "reddit": "Semux/",
+    "github_org": "semuxproject"
+}

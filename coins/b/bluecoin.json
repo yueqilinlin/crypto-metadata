@@ -1,0 +1,21 @@
+{
+    "id": "bluecoin",
+    "symbol": "blu",
+    "name": "Bluecoin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [],
+    "description": {
+        "en": "BlueCoin is an X11 / Proof of Stake hybrid digital currency with an initial Proof of Work mining distribution period lasting 50,000 Blocks. After the initial mining distribution period is over, the network will transition into a PoS algorithm which will reward balance holders on the network a 5% annual interest. \r\n"
+    },
+    "country_origin": "",
+    "genesis_date": "2014-04-23",
+    "url": "http://bluecoin.info/",
+    "explorers": [
+        "http://blockexperts.com/blu"
+    ],
+    "twitter": "BlueCoin_info",
+    "facebook": "bluecoin.info",
+    "reddit": "BlueCoins/",
+    "github_org": "bluecoiner"
+}

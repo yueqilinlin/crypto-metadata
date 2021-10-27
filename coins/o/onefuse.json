@@ -1,0 +1,24 @@
+{
+    "id": "onefuse",
+    "symbol": "onefuse",
+    "name": "oneFUSE",
+    "platforms": {
+        "ethereum": "0xbbce03b2e7f53cadca93251ca4c928af01db6404"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An ICHI built stablecoin backed by FUSE and USDC, oneFUSE is the amalgamation of the FUSE community's Decentralized Monetary Authority (DMA). Through ICHI's smart contract platform audited by Quantstamp and Solidified, oneFUSE was created as a governance and stable token that enables day-to-day mobile crypto payments."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbbce03b2e7f53cadca93251ca4c928af01db6404",
+    "url": "https://app.ichi.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xBbcE03B2E7f53caDCA93251CA4c928aF01Db6404",
+        "https://ethplorer.io/address/0xBbcE03B2E7f53caDCA93251CA4c928aF01Db6404"
+    ],
+    "twitter": "ichifarm",
+    "telegram": "ichifarm",
+    "github_org": "ichifarm"
+}

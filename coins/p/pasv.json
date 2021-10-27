@@ -1,0 +1,23 @@
+{
+    "id": "pasv",
+    "symbol": "pasv",
+    "name": "PASV",
+    "platforms": {
+        "ethereum": "0x1cea6313400ddbcb503c23f5a4facd3014f29872"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PASV will be a true Governance Token which allows community to vote on proposals or delegate your vote to proxy 3rd parties. We will have something similar to UniSwap and we are about 90% from being completed. We will use this to kickstart any potential projects the community wants to present. This voting proposal interface will be on our website as well as the mobile app. /// Passive Income Token Ecosystem ($PASV) is an RFI/Governance community driven ecosystem. This is the first fully compliant, fractional, tokenized ownership of businesses, technologies or assets powered by blockchain. As a community we will vote, authorize, and fund each and every opportunity together with the purpose of establishing passive monthly income for Passive Token holders. $PASV Token is transforming fractional ownership as we know it."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1cea6313400ddbcb503c23f5a4facd3014f29872",
+    "url": "https://passivetoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x1cea6313400ddbcb503c23f5a4facd3014f29872",
+        "https://ethplorer.io/address/0x1cea6313400ddbcb503c23f5a4facd3014f29872"
+    ],
+    "twitter": "pasvtoken",
+    "telegram": "pasvtoken"
+}

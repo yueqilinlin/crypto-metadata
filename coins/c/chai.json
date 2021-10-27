@@ -1,0 +1,22 @@
+{
+    "id": "chai",
+    "symbol": "chai",
+    "name": "Chai",
+    "platforms": {
+        "ethereum": "0x06af07097c9eeb7fd685c692751d5c66db49c215"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Accrue interest on your Dai by turning it into Chai."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x06af07097c9eeb7fd685c692751d5c66db49c215",
+    "url": "https://chai.money/",
+    "explorers": [
+        "https://etherscan.io/token/0x06af07097c9eeb7fd685c692751d5c66db49c215",
+        "https://ethplorer.io/address/0x06af07097c9eeb7fd685c692751d5c66db49c215"
+    ],
+    "github_org": "dapphub"
+}

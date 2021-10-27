@@ -1,0 +1,26 @@
+{
+    "id": "swarm",
+    "symbol": "swm",
+    "name": "Swarm Network",
+    "platforms": {
+        "ethereum": "0x3505f494c3f0fed0b594e01fa41dd3967645ca39"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Swarm is the blockchain for private equity. We bring high-return alternative asset classes to everyone and use AI to continuously improve investments."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-10-19",
+    "contract_address": "0x3505f494c3f0fed0b594e01fa41dd3967645ca39",
+    "url": "https://www.swarmnetwork.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x3505f494c3f0fed0b594e01fa41dd3967645ca39",
+        "https://ethplorer.io/address/0x3505f494c3f0fed0b594e01fa41dd3967645ca39"
+    ],
+    "twitter": "SWARM",
+    "facebook": "swarmalliance",
+    "telegram": "swarmfund",
+    "reddit": "swarm",
+    "github_org": "swarmfund"
+}

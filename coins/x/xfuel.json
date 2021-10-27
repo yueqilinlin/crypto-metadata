@@ -1,0 +1,22 @@
+{
+    "id": "xfuel",
+    "symbol": "xfuel",
+    "name": "XFUEL",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XFUEL\u2122 is our development token and the first token on the XTRABYTES\u2122 blockchain. As such, it serves as a way to fund XTRABYTES\u2122, encourage project participation and serve as a proof of concept for the PoSign consensus algorithm by running on a lite version of PoSign which doesn't require miners to secure the chain. As a monetary incentive, XFUEL\u2122 enables the project to pay participants for their time and efforts. Without XFUEL\u2122, it would have been impossible to start and build out the XTRABYTES\u2122 project. XTRABYTES\u2122 did not conduct an ICO, meaning there was no ICO funding available to compensate project contributors. Development would have been incremental at best.\r\n\r\nIt differs to XBY as XBY is the native currency and the protocol coin for the XTRABYTES\u2122 platform. XBY has been completely distributed and can not be mined or staked. As with any other cryptocurrency, XBY can be used to purchase goods and services. In addition, XBY is required to secure STATIC nodes on the XTRABYTES\u2122 network. The total supply of XBY is 650 million, its circulating supply is dynamic and will consist of those XBY coins not locked into STATIC nodes."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "url": "https://xtrabytes.global/xfuel",
+    "explorers": [
+        "https://xtrabytes.global/explorer/xfuel"
+    ],
+    "twitter": "xtrabytes",
+    "facebook": "XTRABYTESOfficial",
+    "telegram": "official_xtrabytes",
+    "reddit": "xtrabytes/",
+    "github_org": "XTRABYTES"
+}

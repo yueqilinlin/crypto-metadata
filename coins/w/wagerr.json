@@ -1,0 +1,32 @@
+{
+    "id": "wagerr",
+    "symbol": "wgr",
+    "name": "Wagerr",
+    "platforms": {
+        "ethereum": "0xc237868a9c5729bdf3173dddacaa336a0a5bb6e0",
+        "binance-smart-chain": "0xdbf8265b1d5244a13424f13977723acf5395eab2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gambling",
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Wagerr uses distributed blockchain technology to execute betting contracts. It escrows stakes, verifies results, and pays out winners. By eliminating central authorities, Wagerr solves the most pernicious problems in the industry. Reducing corruption and risk results in predictable operation. You can bet on Wagerr."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc237868a9c5729bdf3173dddacaa336a0a5bb6e0",
+    "url": "https://www.wagerr.com/",
+    "explorers": [
+        "https://explorer.wagerr.com/#/",
+        "https://chainz.cryptoid.info/wgr/",
+        "https://wgr.tokenview.com/",
+        "https://etherscan.io/token/0xc237868a9c5729bdf3173dddacaa336a0a5bb6e0",
+        "https://ethplorer.io/address/0xc237868a9c5729bdf3173dddacaa336a0a5bb6e0"
+    ],
+    "twitter": "wagerrx",
+    "telegram": "wagerrcoin",
+    "reddit": "Wagerr/",
+    "github_org": "wagerr"
+}

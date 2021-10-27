@@ -1,0 +1,25 @@
+{
+    "id": "moss-carbon-credit",
+    "symbol": "mco2",
+    "name": "Moss Carbon Credit",
+    "platforms": {
+        "ethereum": "0xfc98e825a2264d890f9a1e68ed50e1526abccacd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfc98e825a2264d890f9a1e68ed50e1526abccacd",
+    "url": "https://moss.earth/",
+    "explorers": [
+        "https://etherscan.io/token/0xfc98e825a2264d890f9a1e68ed50e1526abccacd",
+        "https://ethplorer.io/address/0xfc98e825a2264d890f9a1e68ed50e1526abccacd"
+    ],
+    "twitter": "moss_earth",
+    "telegram": "MCO2TokenChat"
+}

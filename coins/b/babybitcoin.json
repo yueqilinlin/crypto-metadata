@@ -1,0 +1,22 @@
+{
+    "id": "babybitcoin",
+    "symbol": "babybitc",
+    "name": "BabyBitcoin",
+    "platforms": {
+        "binance-smart-chain": "0xdeb9e5d630cea02cf83258aaf5bad933f7a43ae7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Earn Coins & help the community!\r\nBaby Bitcoin has learned a few tricks and lessons from her father, Bitcoin. Birthed by fans of the Bitcoin community. Baby Bitcoin seeks to impress her father by showing her new improved transaction speeds & adorableness. Simply Love and watch your baby Bitcoin grow."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xdeb9e5d630cea02cf83258aaf5bad933f7a43ae7",
+    "url": "https://babybitcoin.app/",
+    "explorers": [
+        "https://bscscan.com/token/0xDeb9e5D630CEa02cf83258aAf5bAD933F7a43AE7"
+    ],
+    "twitter": "babybitc_bsc",
+    "telegram": "baby_bitcoin"
+}

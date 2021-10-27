@@ -1,0 +1,23 @@
+{
+    "id": "deepspace-token",
+    "symbol": "dxo",
+    "name": "DeepSpace Token",
+    "platforms": {
+        "ethereum": "0x528b3e98c63ce21c6f680b713918e0f89dfae555"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeepSpace is a metaverse project built on Unreal Engine"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x528b3e98c63ce21c6f680b713918e0f89dfae555",
+    "url": "https://deepspacemetaverse.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x528b3e98c63ce21c6f680b713918e0f89dfae555",
+        "https://ethplorer.io/address/0x528b3e98c63ce21c6f680b713918e0f89dfae555"
+    ],
+    "twitter": "deepspacetoken",
+    "telegram": "deepspace_token"
+}

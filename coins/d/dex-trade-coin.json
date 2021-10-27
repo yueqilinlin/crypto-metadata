@@ -1,0 +1,24 @@
+{
+    "id": "dex-trade-coin",
+    "symbol": "dxc",
+    "name": "Dex-Trade Coin",
+    "platforms": {
+        "ethereum": "0xb0e99627bc29adef1178f16117bf495351e81997"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DXC is not just a coin, it is a backbone payment unit of the Dex-Trade ecosystem. This makes its rate stable with growth dynamics\r\n\r\nThe task of the Dex-Trade Coin is to link all the services and services of the crypto platform into a single financial and economic model. In other words. DXC is a measure of the value (or usefulness) of all exchange services for an end user - a trader or investor.\r\n\r\nIn most cases, the functionality of exchange tokens is to reduce trading commissions and provide additional privileges for token holders."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xb0e99627bc29adef1178f16117bf495351e81997",
+    "url": "https://dex-trade.com/dxc",
+    "explorers": [
+        "https://etherscan.io/token/0xb0e99627bc29adef1178f16117bf495351e81997",
+        "https://ethplorer.io/address/0xb0e99627bc29adef1178f16117bf495351e81997"
+    ],
+    "twitter": "dextrade_",
+    "facebook": "DexTradeExchange",
+    "telegram": "Dex_Trade"
+}

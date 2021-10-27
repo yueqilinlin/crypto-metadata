@@ -1,0 +1,27 @@
+{
+    "id": "moneynet",
+    "symbol": "mnc",
+    "name": "Moneynet",
+    "platforms": {
+        "ethereum": "0xbac7a1798350cdf2dbfe0c210c2c9861223f4b31"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Communication"
+    ],
+    "description": {
+        "en": "MNC, issued by Money Net(www.moneynet.co.kr), was created to provide cryptocurrency rewards in proportion to the amount of content that it receives. The block chain-based rewards system is aimed at promoting quality information, free communication, and an ecosystem that can share revenue according to contribution to community growth."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xbac7a1798350cdf2dbfe0c210c2c9861223f4b31",
+    "url": "https://moneynet.io",
+    "explorers": [
+        "https://etherscan.io/token/0xbac7a1798350cdf2dbfe0c210c2c9861223f4b31",
+        "https://ethplorer.io/address/0xbac7a1798350cdf2dbfe0c210c2c9861223f4b31"
+    ],
+    "twitter": "gotmoneynet",
+    "facebook": "mncio",
+    "telegram": "mncio_official",
+    "github_org": "gotmoneynet"
+}

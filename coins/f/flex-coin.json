@@ -1,0 +1,28 @@
+{
+    "id": "flex-coin",
+    "symbol": "flex",
+    "name": "FLEX Coin",
+    "platforms": {
+        "ethereum": "0xfcf8eda095e37a41e002e266daad7efc1579bc0a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfcf8eda095e37a41e002e266daad7efc1579bc0a",
+    "url": "https://coinflex.com/flex/",
+    "explorers": [
+        "https://explorer.bitcoin.com/bch/tx/fb1813fd1a53c1bed61f15c0479cc5315501e6da6a4d06da9d8122c1a4fabb6c",
+        "https://simpleledger.info/#token/fb1813fd1a53c1bed61f15c0479cc5315501e6da6a4d06da9d8122c1a4fabb6c",
+        "https://etherscan.io/token/0xfcf8eda095e37a41e002e266daad7efc1579bc0a",
+        "https://ethplorer.io/address/0xfcf8eda095e37a41e002e266daad7efc1579bc0a"
+    ],
+    "twitter": "CoinFLEXdotcom",
+    "telegram": "coinflex_EN"
+}

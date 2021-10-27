@@ -1,0 +1,24 @@
+{
+    "id": "shinechain",
+    "symbol": "she",
+    "name": "ShineChain",
+    "platforms": {
+        "ethereum": "0x9064c91e51d7021a85ad96817e1432abf6624470"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "In an era of blockchain transformation, ShineChain's mission is to change the business model of the global insurance industry through technological innovation, to create a global blockchain mutual assistance ecological model, and to enable more people to enjoy their rights to a safe and healthy life. Our vision is for the 7.3 billion people worldwide to be insured through SHE, regardless of income disparity.\r\n\r\nShineChain plans to issue the digital asset SHE (Shine Coin), as the basic currency for the entire block chain mutual assistance ecosystem. The existence of SHE enables all transactions, value transferal, and information delivery be carried out at the same time and be controlled by smart contract. Different parties (including users, investors, and managers) need to possess different numbers of SHEs, and this demand will stimulate the healthy flow and circulation of SHEs. SHEs are interchangeable, can be circulated, and will be locked in when used for mutual assistance. The user holding SHE in the circulating pool can trade or pay on the secondary market. The user holding SHE in the locked in pool can enjoy expected security interest in the system but cannot circulate SHE on the secondary market."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-02-04",
+    "contract_address": "0x9064c91e51d7021a85ad96817e1432abf6624470",
+    "url": "https://www.shinechain.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x9064c91e51d7021A85AD96817e1432aBf6624470",
+        "https://ethplorer.io/address/0x9064c91e51d7021a85ad96817e1432abf6624470"
+    ],
+    "twitter": "_shinechain",
+    "telegram": "shinechainofficial",
+    "github_org": "ShineChain"
+}

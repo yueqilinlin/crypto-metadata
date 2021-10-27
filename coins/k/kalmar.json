@@ -1,0 +1,26 @@
+{
+    "id": "kalmar",
+    "symbol": "kalm",
+    "name": "Kalmar",
+    "platforms": {
+        "binance-smart-chain": "0x4ba0057f784858a48fe351445c672ff2a3d43515"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4ba0057f784858a48fe351445c672ff2a3d43515",
+    "url": "https://kalmar.io/#",
+    "explorers": [
+        "https://bscscan.com/token/0x4BA0057f784858a48fe351445C672FF2a3d43515"
+    ],
+    "twitter": "kalmar_io",
+    "telegram": "kalmar_io"
+}

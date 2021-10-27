@@ -1,0 +1,25 @@
+{
+    "id": "coshi-inu",
+    "symbol": "coshi",
+    "name": "CoShi Inu",
+    "platforms": {
+        "ethereum": "0x668c50b1c7f46effbe3f242687071d7908aab00a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "CoShi Inu is an Ethereum based MEME token. Inspired by Shiba Inu & Doge."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x668c50b1c7f46effbe3f242687071d7908aab00a",
+    "url": "https://corgishiba.dog",
+    "explorers": [
+        "https://etherscan.io/token/0x668c50b1c7f46effbe3f242687071d7908aab00a",
+        "https://ethplorer.io/address/0x668c50b1c7f46effbe3f242687071d7908aab00a"
+    ],
+    "twitter": "shibacorgidog",
+    "telegram": "corgishibadog"
+}

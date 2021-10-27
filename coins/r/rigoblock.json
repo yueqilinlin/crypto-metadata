@@ -1,0 +1,28 @@
+{
+    "id": "rigoblock",
+    "symbol": "grg",
+    "name": "RigoBlock",
+    "platforms": {
+        "ethereum": "0x4fbb350052bca5417566f188eb2ebce5b19bc964"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "\"RigoBlock exists to reinvent the asset management industry, making it possible for anyone, anywhere, to set up and manage decentralized token pools which combine the powers of transparency, control, flexibility and governance. \r\nBy virtue of its modular architecture, developers can build their own distributed asset management platforms atop of the RigoBlock protocol and leverage the unique technology made available by RigoBlock protocol and the Rigo Token (\u2018GRG\u2019) incentives mechanism. \r\nThrough the creation of a revolutionary Proof-of-Performance incentive algorithm, RigoBlock removes the need for antiquated management fees to facilitate a new generation of asset management - one built around trust, transparency and simplicity.\r\n\""
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x4fbb350052bca5417566f188eb2ebce5b19bc964",
+    "url": "https://rigoblock.com",
+    "explorers": [
+        "https://etherscan.io/token/0x4fbb350052bca5417566f188eb2ebce5b19bc964",
+        "https://ethplorer.io/address/0x4fbb350052bca5417566f188eb2ebce5b19bc964"
+    ],
+    "twitter": "RigoBlock",
+    "facebook": "RigoBlockProtocol",
+    "telegram": "rigoblockprotocol",
+    "reddit": "rigoblock/",
+    "github_org": "rigoblock"
+}

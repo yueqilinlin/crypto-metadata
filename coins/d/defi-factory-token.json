@@ -1,0 +1,26 @@
+{
+    "id": "defi-factory-token",
+    "symbol": "deft",
+    "name": "DeFi Factory Token",
+    "platforms": {
+        "ethereum": "0xdef1fac7bf08f173d286bbbdcbeeade695129840",
+        "binance-smart-chain": "0xdef1fac7bf08f173d286bbbdcbeeade695129840",
+        "polygon-pos": "0xdef1fac7bf08f173d286bbbdcbeeade695129840"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A modular design token launching cross-chain on Ethereum, Binance, Polygon networks. NoBot Tech bot protected trades, 2-Level Referral Marketing Program and flexible tax system are the key features."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xdef1fac7bf08f173d286bbbdcbeeade695129840",
+    "url": "https://defifactory.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xdef1fac7bf08f173d286bbbdcbeeade695129840",
+        "https://ethplorer.io/address/0xdef1fac7bf08f173d286bbbdcbeeade695129840"
+    ],
+    "twitter": "defifactory",
+    "telegram": "defifactorybot",
+    "github_org": "DefiFactoryToken"
+}

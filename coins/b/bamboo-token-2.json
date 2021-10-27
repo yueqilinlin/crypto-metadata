@@ -1,0 +1,27 @@
+{
+    "id": "bamboo-token-2",
+    "symbol": "bamboo",
+    "name": "Bamboo Token",
+    "platforms": {
+        "avalanche": "0x9a928d7dcd8d7e5cb6860b7768ec2d87b8934267"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem"
+    ],
+    "description": {
+        "en": "PandaSwap brings yield farming and decentralized exchanges to the masses at an affordable rate with Avalanche"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9a928d7dcd8d7e5cb6860b7768ec2d87b8934267",
+    "url": "https://app.pandaswap.exchange/",
+    "explorers": [
+        "https://avascan.info/blockchain/c/token/0x9a928D7dcD8D7E5Cb6860B7768eC2D87B8934267",
+        "https://cchain.explorer.avax.network/tokens/0x9a928D7dcD8D7E5Cb6860B7768eC2D87B8934267/token-transfers"
+    ],
+    "twitter": "Pandaswapex",
+    "telegram": "pandaswapex",
+    "reddit": "pandaswap/",
+    "github_org": "Pandaswapdex"
+}

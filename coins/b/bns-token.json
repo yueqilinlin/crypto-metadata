@@ -1,0 +1,25 @@
+{
+    "id": "bns-token",
+    "symbol": "bns",
+    "name": "BNS Token",
+    "platforms": {
+        "ethereum": "0x695106ad73f506f9d0a9650a78019a93149ae07c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x695106ad73f506f9d0a9650a78019a93149ae07c",
+    "url": "https://bitbns.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x695106ad73f506f9d0a9650a78019a93149ae07c",
+        "https://ethplorer.io/address/0x695106ad73f506f9d0a9650a78019a93149ae07c"
+    ],
+    "twitter": "bitbns",
+    "facebook": "bitbns",
+    "telegram": "Bitbns",
+    "reddit": "Bitbns/"
+}

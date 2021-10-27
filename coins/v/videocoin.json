@@ -1,0 +1,30 @@
+{
+    "id": "videocoin",
+    "symbol": "vid",
+    "name": "VideoCoin",
+    "platforms": {
+        "ethereum": "0x2c9023bbc572ff8dc1228c7858a280046ea8c9e5",
+        "fantom": "0x922d641a426dcffaef11680e5358f34d97d112e1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "The VideoCoin ecosystem delivers innovative services on the blockchain that reimagine the future of video. A community of VID token holders powers our global network, opening the door to new application experiences for a video-centric world. From livestreamed e-commerce to video NFTs and beyond, VideoCoin\u2019s advanced technology solutions empower application developers worldwide."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x2c9023bbc572ff8dc1228c7858a280046ea8c9e5",
+    "url": "https://videocoin.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x2c9023bbc572ff8dc1228c7858a280046ea8c9e5",
+        "https://ethplorer.io/address/0x2c9023bbc572ff8dc1228c7858a280046ea8c9e5"
+    ],
+    "twitter": "videocoinhq",
+    "facebook": "videocoin",
+    "telegram": "videocoin",
+    "reddit": "VideoCoin",
+    "github_org": "videocoin"
+}

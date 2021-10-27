@@ -1,0 +1,20 @@
+{
+    "id": "freeriver",
+    "symbol": "free",
+    "name": "FreeRiver",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FreeRiver - MoonRiver's most advanced DEX and Trading Tools Platform"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x63f2adf5f76f00d48fe2cbef19000af13bb8de82",
+    "url": "https://freeriver.exchange/",
+    "explorers": [
+        "https://blockscout.moonriver.moonbeam.network/tokens/0x63f2adf5f76f00d48fe2cbef19000af13bb8de82/token-transfers"
+    ],
+    "twitter": "FreeRiverX",
+    "telegram": "freeriverx"
+}

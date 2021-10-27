@@ -1,0 +1,25 @@
+{
+    "id": "uptoken",
+    "symbol": "up",
+    "name": "UpToken",
+    "platforms": {
+        "ethereum": "0x6ba460ab75cd2c56343b3517ffeba60748654d26"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "US",
+    "genesis_date": "2017-11-21",
+    "contract_address": "0x6ba460ab75cd2c56343b3517ffeba60748654d26",
+    "url": "https://uptoken.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x6ba460ab75cd2c56343b3517ffeba60748654d26",
+        "https://ethplorer.io/address/0x6ba460ab75cd2c56343b3517ffeba60748654d26"
+    ],
+    "twitter": "uptoken",
+    "facebook": "UpTokenSale",
+    "telegram": "Uptoken",
+    "reddit": "UpToken/"
+}

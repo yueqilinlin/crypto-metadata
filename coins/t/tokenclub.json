@@ -1,0 +1,24 @@
+{
+    "id": "tokenclub",
+    "symbol": "tct",
+    "name": "TokenClub",
+    "platforms": {
+        "ethereum": "0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TokenClub is a blockchain based cryptocurrency investment platform, which provides investors with professional cryptocurrency market information, investment consulting & strategies and other comprehensive services."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7",
+    "url": "http://www.tokenclub.com/#/En",
+    "explorers": [
+        "https://etherscan.io/token/0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7",
+        "https://ethplorer.io/address/0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7"
+    ],
+    "twitter": "Token8Club",
+    "facebook": "token.club.71",
+    "telegram": "token_club"
+}

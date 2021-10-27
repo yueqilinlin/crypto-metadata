@@ -1,0 +1,30 @@
+{
+    "id": "azuki",
+    "symbol": "azuki",
+    "name": "Azuki",
+    "platforms": {
+        "ethereum": "0x910524678c0b1b23ffb9285a81f99c29c11cbaed",
+        "polygon-pos": "0x7cdc0421469398e0f3aa8890693d86c840ac8931"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Non-Fungible Tokens (NFT)",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "AZUKI is a secondary token designed for use in Doki Doki NFT products"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x910524678c0b1b23ffb9285a81f99c29c11cbaed",
+    "url": "https://dokidoki.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x910524678C0B1B23FFB9285a81f99C29C11CBaEd",
+        "https://ethplorer.io/address/0x910524678c0b1b23ffb9285a81f99c29c11cbaed",
+        "https://polygonscan.com/token/0x7cdc0421469398e0f3aa8890693d86c840ac8931"
+    ],
+    "twitter": "dokidokifinance",
+    "telegram": "ddnfg",
+    "github_org": "dokidokidefi"
+}

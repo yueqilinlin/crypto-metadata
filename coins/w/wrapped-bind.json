@@ -1,0 +1,25 @@
+{
+    "id": "wrapped-bind",
+    "symbol": "wbind",
+    "name": "Wrapped BIND",
+    "platforms": {
+        "ethereum": "0x15334dcb171e8b65d6650321581dca83be870115"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ERC20 wrapped token for Compendia BIND"
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "contract_address": "0x15334dcb171e8b65d6650321581dca83be870115",
+    "url": "https://compendia.org",
+    "explorers": [
+        "https://etherscan.io/token/0x15334dcb171e8b65d6650321581dca83be870115",
+        "https://ethplorer.io/address/0x15334dcb171e8b65d6650321581dca83be870115"
+    ],
+    "twitter": "CompendiaOrg",
+    "telegram": "Compendia",
+    "reddit": "https://www.reddit.com",
+    "github_org": "compendia"
+}

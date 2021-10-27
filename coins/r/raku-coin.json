@@ -1,0 +1,27 @@
+{
+    "id": "raku-coin",
+    "symbol": "rakuc",
+    "name": "Raku Coin",
+    "platforms": {
+        "binance-smart-chain": "0xb8cd03a653713ea4e0ba039f507ca594f9f1abcb",
+        "ethereum": "0x714599f7604144a3fe1737c440a70fc0fd6503ea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RakuCoin is a decentralized Meme coin owned by its community, with True Purpose and On going developments formed by a team of developers in Singapore with many up coming developments and goals ahead.\r\n\r\nWe are a long term project that is focusing on the developments of NFTs/Decentralized exchange/mobile apps/games/Technology etc....\r\n\r\nHolders earn passive income with an Instant 2% rewards per transaction while just holding it in your wallet.\r\nHolders will also benefit from our upcoming plans and on going developments developed for the team\r\n\r\n$RAKUC will also be connecting with Animal home shelters for Charity events to give back not only to the community but also to the animals in need."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xb8cd03a653713ea4e0ba039f507ca594f9f1abcb",
+    "url": "https://www.rakucoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x714599f7604144a3fE1737c440a70fc0fD6503ea",
+        "https://ethplorer.io/address/0x714599f7604144a3fE1737c440a70fc0fD6503ea",
+        "https://bscscan.com/token/0xc094b9604225062c7edca29db444b9b035f78c8b"
+    ],
+    "twitter": "rakucoin",
+    "telegram": "rakucoin",
+    "reddit": "RakuCoinTeam/",
+    "github_org": "rakucoin"
+}

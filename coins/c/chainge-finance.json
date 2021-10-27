@@ -1,0 +1,24 @@
+{
+    "id": "chainge-finance",
+    "symbol": "chng",
+    "name": "Chainge Finance",
+    "platforms": {
+        "fusion-network": "0xed0294dbd2a0e52a09c3f38a09f6e03de2c44fcf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Chainge is a unique Defi app that aims to empower people from all corners of the world to become their own digital bank. With Chainge\u2019s automated financial services, users will have complete control over their wealth while enjoying 100% freedom & security.In addition to the AMM Spot DEX users will discover the infinite potential behind The Future DEX and the Option DEX."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0xed0294dbd2a0e52a09c3f38a09f6e03de2c44fcf",
+    "url": "https://www.chainge.finance",
+    "explorers": [
+        "https://fsnex.com/address/0xed0294dbd2a0e52a09c3f38a09f6e03de2c44fcf"
+    ],
+    "twitter": "FinanceChainge",
+    "facebook": "chainge.finance",
+    "telegram": "chaingefinance",
+    "github_org": "ChaingeFinance"
+}

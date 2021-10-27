@@ -1,0 +1,23 @@
+{
+    "id": "polygonfarm-finance",
+    "symbol": "spade",
+    "name": "PolygonFarm Finance",
+    "platforms": {
+        "polygon-pos": "0xf5ea626334037a2cf0155d49ea6462fddc6eff19"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PolygonFarm Finance is a next-generation Stable yield farming protocol on the Polygon Network with lots of unique and creative features which make sure that our SPADE Token stays stable over the long term which will assure stable APR / Earning for all users.  \r\n\r\nSPADE token has very limited supply of Maximum 500,000.\r\n\r\nUsers can Farm on PolygonFarm Finance to earn SPAID token Rewards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf5ea626334037a2cf0155d49ea6462fddc6eff19",
+    "url": "https://polygonfarm.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0xf5EA626334037a2cf0155D49eA6462fDdC6Eff19"
+    ],
+    "twitter": "PolygonFarmFi",
+    "telegram": "PolygonFarmFinance",
+    "github_org": "PolygonFarmFinance"
+}

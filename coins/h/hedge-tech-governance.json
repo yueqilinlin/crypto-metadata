@@ -1,0 +1,24 @@
+{
+    "id": "hedge-tech-governance",
+    "symbol": "htg",
+    "name": "Hedge Tech Governance",
+    "platforms": {
+        "ethereum": "0xbff89386d062c6040ed1955e180c87dd00bb71af"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cryptocurrent LLC governance token"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbff89386d062c6040ed1955e180c87dd00bb71af",
+    "url": "https://www.thecurrent.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xbff89386d062c6040ed1955e180c87dd00bb71af",
+        "https://ethplorer.io/address/0xbff89386d062c6040ed1955e180c87dd00bb71af"
+    ],
+    "twitter": "__Cryptocurrent",
+    "telegram": "CryptocurrentLLC",
+    "github_org": "Hedge-Tech-DeFi"
+}

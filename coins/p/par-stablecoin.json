@@ -1,0 +1,30 @@
+{
+    "id": "par-stablecoin",
+    "symbol": "par",
+    "name": "Parallel",
+    "platforms": {
+        "ethereum": "0x68037790a0229e9ce6eaa8a99ea92964106c4703",
+        "polygon-pos": "0xe2aa7db6da1dae97c5f5c6914d285fbfcc32a128"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "EUR Stablecoin",
+        "Decentralized Finance (DeFi)",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "Mimo is a company building DeFi tools in hope to make blockchain more usable to everyone. We have a lending platform allowing people to borrow PAR, our stable token algorithmically pegged to the Euro."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x68037790a0229e9ce6eaa8a99ea92964106c4703",
+    "url": "https://mimo.capital/",
+    "explorers": [
+        "https://etherscan.io/token/0x68037790A0229e9Ce6EaA8A99ea92964106C4703",
+        "https://ethplorer.io/address/0x68037790A0229e9Ce6EaA8A99ea92964106C4703",
+        "https://polygonscan.com/token/0xE2Aa7db6dA1dAE97C5f5C6914d285fBfCC32A128"
+    ],
+    "twitter": "mimodefi",
+    "telegram": "mimodefi",
+    "github_org": "mimo-capital"
+}

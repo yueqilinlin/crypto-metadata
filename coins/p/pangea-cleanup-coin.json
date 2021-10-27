@@ -1,0 +1,23 @@
+{
+    "id": "pangea-cleanup-coin",
+    "symbol": "poc",
+    "name": "PANGEA Cleanup Coin",
+    "platforms": {
+        "binance-smart-chain": "0x123f92226c626adc919ad122d6cc3c20a6c25666"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PANGEA is an eco-brand for the outdoors created by a group of travelers that uses part of its funds to clean the planet, and inspire the world.\r\n\r\nThe only coin that rewards holders and places trash barriers in the most polluting rivers of the world"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x123f92226c626adc919ad122d6cc3c20a6c25666",
+    "url": "http://www.pangeaoceancleanup.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x123f92226c626adc919ad122d6cc3c20a6c25666"
+    ],
+    "twitter": "PangeaOceanCoin",
+    "facebook": "thepangeamovement",
+    "telegram": "PANGEAOceanClean"
+}

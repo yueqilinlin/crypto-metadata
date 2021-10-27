@@ -1,0 +1,27 @@
+{
+    "id": "yfdai-finance",
+    "symbol": "yf-dai",
+    "name": "YfDAI.finance",
+    "platforms": {
+        "ethereum": "0xf4cd3d3fda8d7fd6c5a500203e38640a70bf9577",
+        "polygon-pos": "0x7e7ff932fab08a0af569f93ce65e7b8b23698ad8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Governance"
+    ],
+    "description": {
+        "en": "YFDAI Finance is a decentralized finance (DeFi) protocol and ecosystem that provides a suite of DeFi services in a secure and transparent way, complete with audited smart contracts. DeFi services include lending, borrowing, staking, farming, project incubation, and exchange.\r\nYFDAI's mission is revolves around the belief that the user community is our primary asset for success. This belief naturally signifies the importance of quality decentralized services, security, transparency and ease of use. Learn more here: https://yfdai.finance."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xf4cd3d3fda8d7fd6c5a500203e38640a70bf9577",
+    "url": "https://www.yfdai.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xf4cd3d3fda8d7fd6c5a500203e38640a70bf9577",
+        "https://ethplorer.io/address/0xf4cd3d3fda8d7fd6c5a500203e38640a70bf9577"
+    ],
+    "twitter": "YfdaiF",
+    "telegram": "yfdaifinance"
+}

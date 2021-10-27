@@ -1,0 +1,20 @@
+{
+    "id": "health-care-coin",
+    "symbol": "hcc",
+    "name": "Health Care Coin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [],
+    "description": {
+        "en": "HealthCareCoin is the first coin specially created to provide targeted assistance to people affected by Covid-19 and regions facing a difficult epidemiological situation. \r\nHealthCareCoin solves this problem. This is a charity platform that uses the latest achievements of blockchain technologies to help Covid-19 victims. The distribution of funds is absolutely transparent, so that each user has the opportunity to track exactly what the funds are spent on. At the same time, the donors themselves remain anonymous. \r\nTargeted assistance for patients with Covid-19. Treatment and, especially, rehabilitation after coronavirus disease is an extremely difficult and expensive process. Not all people can pay for the necessary therapy. HealthCareCoin helps those who cannot afford full-fledged treatment of Covid and its consequences. "
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "url": "https://healthcarecoin.net/",
+    "explorers": [
+        "http://explorer.healthcarecoin.net/"
+    ],
+    "twitter": "HealthCare_Coin",
+    "telegram": "HCCcrypto",
+    "github_org": "hcccrypto"
+}

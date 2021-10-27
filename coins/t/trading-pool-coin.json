@@ -1,0 +1,21 @@
+{
+    "id": "trading-pool-coin",
+    "symbol": "tpc",
+    "name": "Trading Pool Coin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "TRADINGPOOL COIN \u2014 Diversified Investment Portfolio merging crypto diversification and a proprietary automated altcoin trading bot; \u2014 Rebalancing portfolio and dynamic hedging into stable coins with profits spend for dividends and buybacks."
+    },
+    "country_origin": "PA",
+    "genesis_date": null,
+    "url": "https://tradingpool.cc",
+    "explorers": [
+        "https://explorer.tradingpool.cc/"
+    ],
+    "twitter": "TradingPool_CC",
+    "github_org": "tpcoin"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "safeorbit",
+    "symbol": "safeorbit",
+    "name": "SafeOrbit",
+    "platforms": {
+        "binance-smart-chain": "0x0da292e241096140ce2b3d39e5699acc2eca68fa"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "SafeOrbit is an autonomous yield & liquidity generation protocol on Binance Smart Chain. Every transaction comes with a 10% tax. 3% of the tax gets distributed directly to SafeOrbit holders without gas fee while the remaining 7% are automatically added to liquidity. You earn just by holding SafeOrbit in your wallet while the total supply decreases over time."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0da292e241096140ce2b3d39e5699acc2eca68fa",
+    "url": "https://safeorbit.io",
+    "explorers": [
+        "https://bscscan.com/token/0x0da292e241096140ce2b3d39e5699acc2eca68fa"
+    ],
+    "twitter": "SafeOrbitt",
+    "telegram": "safeorbitt",
+    "github_org": "safeorbit"
+}

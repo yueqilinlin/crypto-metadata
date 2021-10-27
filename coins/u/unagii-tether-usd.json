@@ -1,0 +1,24 @@
+{
+    "id": "unagii-tether-usd",
+    "symbol": "uusdt",
+    "name": "Unagii Tether USD",
+    "platforms": {
+        "ethereum": "0x178bf8fd04b47d2de3ef3f6b3d112106375ad584"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x178bf8fd04b47d2de3ef3f6b3d112106375ad584",
+    "url": "https://www.unagii.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x178bf8fd04b47d2de3ef3f6b3d112106375ad584",
+        "https://ethplorer.io/address/0x178bf8fd04b47d2de3ef3f6b3d112106375ad584"
+    ],
+    "twitter": "unagiidotcom",
+    "telegram": "unagiidotcom",
+    "reddit": "https://www.reddit.com"
+}

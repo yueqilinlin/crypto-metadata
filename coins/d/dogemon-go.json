@@ -1,0 +1,23 @@
+{
+    "id": "dogemon-go",
+    "symbol": "dogo",
+    "name": "DogemonGo",
+    "platforms": {
+        "binance-smart-chain": "0x9e6b3e35c8f563b45d864f9ff697a144ad28a371"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Combine the Playing Experience from PokemonGo with your Favourite Dogemons!\r\n\r\nStart catching Dogemons today & If you\u2019re a great trainer, you can find Crypto Currency as prey among other Dogemons."
+    },
+    "country_origin": "BZ",
+    "genesis_date": null,
+    "contract_address": "0x9e6b3e35c8f563b45d864f9ff697a144ad28a371",
+    "url": "https://dogemongo.com/",
+    "explorers": [
+        "https://www.bscscan.com/token/0x9e6b3e35c8f563b45d864f9ff697a144ad28a371",
+        "https://bscscan.com/token/0x9e6b3e35c8f563b45d864f9ff697a144ad28a371"
+    ],
+    "reddit": "dogemongoapp/",
+    "github_org": "DomgeonGo"
+}

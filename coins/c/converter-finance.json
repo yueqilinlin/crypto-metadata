@@ -1,0 +1,25 @@
+{
+    "id": "converter-finance",
+    "symbol": "con",
+    "name": "Converter Finance",
+    "platforms": {
+        "huobi-token": "0xeef1324343ca7bf6e743e21dd9e92dfa4efc3a56"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "HECO Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Converter.Finance is a leveraged income aggregation and leveraged liquidity provision protocol  that helps users optimize Defi yields. It will help users invest to increase leverage and increase financial yields when risks are low. When users deposit assets, Converter will automatically find the chain protocol with the highest yield to invest."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0xeef1324343ca7bf6e743e21dd9e92dfa4efc3a56",
+    "url": "https://converter.finance/",
+    "explorers": [
+        "https://hecoinfo.com/token/0xeEF1324343ca7Bf6e743e21Dd9e92Dfa4eFc3a56"
+    ],
+    "twitter": "ConverterFin",
+    "telegram": "ConverterFinanceENG",
+    "github_org": "converter-finance"
+}

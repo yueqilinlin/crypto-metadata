@@ -1,0 +1,27 @@
+{
+    "id": "boldman-capital",
+    "symbol": "bold",
+    "name": "Boldman Capital",
+    "platforms": {
+        "ethereum": "0x2d4de3c744d43cf77cb12399921faf0d78b7415b"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Boldman Capital is a decentralized investment fund that crowdfunded by +23000 investors from all around the world.\r\n\r\nWe are sharing %90 of the profit from Boldman Capital's investments with our BOLD token holders as Ethereum (ETH) in the first day of every month."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x2d4de3c744d43cf77cb12399921faf0d78b7415b",
+    "url": "https://boldman.capital",
+    "explorers": [
+        "https://etherscan.io/token/0x2d4de3c744d43cf77cb12399921faf0d78b7415b",
+        "https://ethplorer.io/address/0x2d4de3c744d43cf77cb12399921faf0d78b7415b"
+    ],
+    "twitter": "boldmancapital",
+    "facebook": "BoldmanCapital",
+    "telegram": "boldmancapital",
+    "reddit": "BoldmanCapital/"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "polkabase",
+    "symbol": "pbase",
+    "name": "Polkabase",
+    "platforms": {
+        "ethereum": "0x44b537b6f94c73a54f7bf8a9b68f8125da3c330b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An elastic supply token which obtains it's market price from the weighted market caps of 10 different Polkadot projects called the Polkaindex"
+    },
+    "country_origin": "TH",
+    "genesis_date": null,
+    "contract_address": "0x44b537b6f94c73a54f7bf8a9b68f8125da3c330b",
+    "url": "https://polkabase.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x44b537b6f94c73a54f7bf8a9b68f8125da3c330b",
+        "https://ethplorer.io/address/0x44b537b6f94c73a54f7bf8a9b68f8125da3c330b"
+    ],
+    "twitter": "PolkabaseDefi",
+    "telegram": "PolkabaseFinance"
+}

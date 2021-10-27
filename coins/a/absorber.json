@@ -1,0 +1,25 @@
+{
+    "id": "absorber",
+    "symbol": "abs",
+    "name": "Absorber",
+    "platforms": {
+        "binance-smart-chain": "0x6c5fe6e99d2484db7e4bf34f365aba42d0e4dc20"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "A protocol with ever increasing floor contract-owned liquidity, passive and active yield farming that's self-sustaining as well as deflationary, by so ever increasing floor price."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6c5fe6e99d2484db7e4bf34f365aba42d0e4dc20",
+    "url": "https://absorber.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x6c5fe6e99d2484db7e4bf34f365aba42d0e4dc20"
+    ],
+    "twitter": "DeFi_Absorber",
+    "telegram": "AbsorberProtocol"
+}

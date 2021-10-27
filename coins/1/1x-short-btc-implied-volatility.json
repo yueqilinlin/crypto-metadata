@@ -1,0 +1,24 @@
+{
+    "id": "1x-short-btc-implied-volatility",
+    "symbol": "ibvol",
+    "name": "Inverse Bitcoin Volatility Token",
+    "platforms": {
+        "ethereum": "0x627e2ee3dbda546e168eaaff25a2c5212e4a95a0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Inverse Bitcoin Volatility Token (IBVOL) is an ERC20 token which attempts to track -1 times the implied volatility of Bitcoin"
+    },
+    "country_origin": "AG",
+    "genesis_date": null,
+    "contract_address": "0x627e2ee3dbda546e168eaaff25a2c5212e4a95a0",
+    "url": "http://ftx.com/trade/iBVOL/USD",
+    "explorers": [
+        "https://etherscan.io/token/0x627e2ee3dbda546e168eaaff25a2c5212e4a95a0",
+        "https://ethplorer.io/address/0x627e2ee3dbda546e168eaaff25a2c5212e4a95a0"
+    ],
+    "telegram": "FTX_Official"
+}

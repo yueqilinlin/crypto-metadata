@@ -1,0 +1,22 @@
+{
+    "id": "shib-cake",
+    "symbol": "shibcake",
+    "name": "SHIB CAKE",
+    "platforms": {
+        "binance-smart-chain": "0x90bdf238674569684a34f3af8a3f55f08088bc98"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shibcake is the most rewarded cake reflection token.\r\n\r\n\r\nEach person who holds more than 200,000 tokens will receive automatically a number of Cake tokens, the governance token of Pancakeswap.\r\n\r\n\r\nOn each transaction, 20% fees are applied for buyers and 21% for the sellers.\r\n\r\n- 15% are redistributed in CAKE to the holders.\r\n\r\n- 1% for the liquidity.\r\n\r\n- 4% to the marketing wallet\r\n\r\n- 1% extra fee on sell orders"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x90bdf238674569684a34f3af8a3f55f08088bc98",
+    "url": "https://shibcake.com",
+    "explorers": [
+        "https://bscscan.com/token/0x90bdf238674569684a34f3af8a3f55f08088bc98"
+    ],
+    "twitter": "shibcake",
+    "telegram": "shibcake"
+}

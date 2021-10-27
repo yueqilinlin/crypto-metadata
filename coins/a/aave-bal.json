@@ -1,0 +1,25 @@
+{
+    "id": "aave-bal",
+    "symbol": "abal",
+    "name": "Aave BAL",
+    "platforms": {
+        "ethereum": "0x272f97b7a56a387ae942350bbc7df5700f8a4576"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x272f97b7a56a387ae942350bbc7df5700f8a4576",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x272F97b7a56a387aE942350bBC7Df5700f8a4576",
+        "https://ethplorer.io/address/0x272f97b7a56a387ae942350bbc7df5700f8a4576"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome"
+}

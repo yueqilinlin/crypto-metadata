@@ -1,0 +1,24 @@
+{
+    "id": "bit_financial",
+    "symbol": "bfc",
+    "name": "Bit Financial",
+    "platforms": {
+        "ethereum": "0x4d31200e6d7854c2f664af7fc38a21600960f74d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"\u201cSmart Financial Platform Creation Project BFC\u201d\r\nThe BFC Project Group aims to create an ecosystem that combines its own network business, which is based on blockchain technology.\""
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x4d31200e6d7854c2f664af7fc38a21600960f74d",
+    "url": "http://bitfinancialcoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4d31200e6d7854c2f664af7fc38a21600960f74d",
+        "https://ethplorer.io/address/0x4d31200e6d7854c2f664af7fc38a21600960f74d"
+    ],
+    "twitter": "HxkWTHbBq640IAh",
+    "facebook": "Bfc_project-641745659802442",
+    "github_org": "Banabaholdingsbfc"
+}

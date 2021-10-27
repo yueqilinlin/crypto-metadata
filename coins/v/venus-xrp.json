@@ -1,0 +1,22 @@
+{
+    "id": "venus-xrp",
+    "symbol": "vxrp",
+    "name": "Venus XRP",
+    "platforms": {
+        "binance-smart-chain": "0xb248a295732e0225acd3337607cc01068e3b9c10"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Venus is an algorithmic money market and synthetic stablecoin decentralized finance protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb248a295732e0225acd3337607cc01068e3b9c10",
+    "url": "https://venus.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xb248a295732e0225acd3337607cc01068e3b9c10"
+    ],
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+}

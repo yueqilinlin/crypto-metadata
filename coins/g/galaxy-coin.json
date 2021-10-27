@@ -1,0 +1,22 @@
+{
+    "id": "galaxy-coin",
+    "symbol": "glxc",
+    "name": "Galaxy Coin",
+    "platforms": {
+        "binance-smart-chain": "0x37a9357b0d575d419595cb56974fb89729e737de"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Galaxy coin is protocol built for Pancakeswap traders with a unique focus on making easy the concept of token reflection and liquidity. GalaxyCoin is a protocol everyone can understand.\r\nEvery trade contributes toward generating liquidity which is automatically locked inside Pancakeswap LP. 5% of every transaction is locked as liquidity in the Pancakeswap GLXC/BNB pool forever creating an ever rising price floor.\r\nGalaxyCoin will redistribute 5% of every buy & sell order back to GLXC holders passively [without the need to take any action]."
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "contract_address": "0x37a9357b0d575d419595cb56974fb89729e737de",
+    "url": "https://glxcoin.space/",
+    "explorers": [
+        "https://bscscan.com/token/0x37A9357B0d575d419595Cb56974fb89729E737de"
+    ],
+    "twitter": "GLXcoin_",
+    "telegram": "glxcion"
+}

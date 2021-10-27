@@ -1,0 +1,23 @@
+{
+    "id": "phoenixdefi-finance",
+    "symbol": "pnix",
+    "name": "PhoenixDefi.Finance",
+    "platforms": {
+        "binance-smart-chain": "0xc25d94fc3f8d7bd1d88f89802fe075338f71dec7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PNIX token is a next generation reflective deflationary protocol built on Binance Smart Chain.\r\nIts native reflect token PNIX is capable of gasless instant yield generation. This means that holders can generate yield just by holding the token in their wallet, without any further action required."
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0xc25d94fc3f8d7bd1d88f89802fe075338f71dec7",
+    "url": "https://phoenixdefi.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xc25D94fc3f8D7bD1d88f89802fe075338F71dEC7"
+    ],
+    "twitter": "phoenixdefi",
+    "telegram": "PhoenixDefiFinanceCommunity",
+    "github_org": "phoenixdefi"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "shardingdao",
+    "symbol": "shd",
+    "name": "ShardingDAO",
+    "platforms": {
+        "ethereum": "0x5845cd0205b5d43af695412a79cf7c1aeddb060f",
+        "binance-smart-chain": "0x5845cd0205b5d43af695412a79cf7c1aeddb060f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An NFT fragmentation protocol and a marketplace for the shards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5845cd0205b5d43af695412a79cf7c1aeddb060f",
+    "url": "https://shardingdao.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x5845cd0205b5d43af695412a79cf7c1aeddb060f",
+        "https://ethplorer.io/address/0x5845cd0205b5d43af695412a79cf7c1aeddb060f"
+    ],
+    "twitter": "ShardingDAO",
+    "telegram": "shardingdao",
+    "github_org": "ShardingDAOProject"
+}

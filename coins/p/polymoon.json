@@ -1,0 +1,22 @@
+{
+    "id": "polymoon",
+    "symbol": "polymoon",
+    "name": "PolyMoon",
+    "platforms": {
+        "polygon-pos": "0xefb3009ddac87e8144803d78e235e7fb4cd36e61"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PolyMoon is the first automatically liquidity generating DeFi token on Polygon. It works through applying a 10% tax on each transaction, of which 8% is automatically added to the liquidity pool and 2% is distributed among holders. Various utilities such as staking are excluded from the tax fee and providing liquidity is also tax-free. This way the usability is ensured."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xefb3009ddac87e8144803d78e235e7fb4cd36e61",
+    "url": "https://polymoon.org/",
+    "explorers": [
+        "https://polygonscan.com/token/0xefb3009ddac87e8144803d78e235e7fb4cd36e61"
+    ],
+    "twitter": "_polymoon",
+    "telegram": "polymoontg"
+}

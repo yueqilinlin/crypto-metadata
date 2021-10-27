@@ -1,0 +1,25 @@
+{
+    "id": "minter-hub",
+    "symbol": "hub",
+    "name": "Minter Hub",
+    "platforms": {
+        "ethereum": "0x8e9a29e7ed21db7c5b2e1cd75e676da0236dfb45"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Minter is a DPoS blockchain, meaning that all transactions are secure, anonymous, and final. Only you control your assets, and no one can restrict, block, or tamper with them."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8e9a29e7ed21db7c5b2e1cd75e676da0236dfb45",
+    "url": "https://www.minter.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x8e9a29e7ed21db7c5b2e1cd75e676da0236dfb45",
+        "https://ethplorer.io/address/0x8e9a29e7ed21db7c5b2e1cd75e676da0236dfb45"
+    ],
+    "twitter": "MinterTeam",
+    "telegram": "MinterTeam",
+    "reddit": "Minter/",
+    "github_org": "MinterTeam"
+}

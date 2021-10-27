@@ -1,0 +1,26 @@
+{
+    "id": "compound-sai",
+    "symbol": "csai",
+    "name": "cSAI",
+    "platforms": {
+        "ethereum": "0xf5dce57282a584d2746faf1593d3121fcac444dc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Compound protocol balance token for SAI"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xf5dce57282a584d2746faf1593d3121fcac444dc",
+    "url": "https://compound.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xf5dce57282a584d2746faf1593d3121fcac444dc",
+        "https://ethplorer.io/address/0xf5dce57282a584d2746faf1593d3121fcac444dc"
+    ],
+    "twitter": "compoundfinance",
+    "reddit": "compound"
+}

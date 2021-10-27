@@ -1,0 +1,23 @@
+{
+    "id": "flits",
+    "symbol": "fls",
+    "name": "Flits",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Software"
+    ],
+    "description": {
+        "en": "Flits is the coin of the Flits masternode app. A revolutionary project making people able to bring their nodes and coins everywhere."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "url": "https://flitsnode.app/",
+    "explorers": [
+        "https://explorer.flitsnode.app/"
+    ],
+    "twitter": "flitsnode",
+    "telegram": "FlitsNode",
+    "reddit": "FlitsNode/",
+    "github_org": "flitsnode"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "saunafinance-token",
+    "symbol": "sauna",
+    "name": "SaunaFinance Token",
+    "platforms": {
+        "binance-smart-chain": "0x06b889a7a7fa15d8cc7cff147962c4232cce7cf0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SAUNA FINANCE is a Defi platform on BSC (BEP20).\r\nIt offers a variety of features such as decentralized exchange, liquidity provision opportunities, Farming, staking, lottery and NFT markets.\r\n\r\nSAUNA FINANCE aims to build various Dapps and create ideal sauna facilities to satisfy sauna users all over the world.\r\n\r\nBy the votes of $ SAUNA (SAUNA FINANCE TOKEN) holders,we realize the best settings in every country / region, design of the facility ,sauna room temperature, water bath temperature, etc.,and create the most relaxed and happiest community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x06b889a7a7fa15d8cc7cff147962c4232cce7cf0",
+    "url": "https://sauna.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x06b889a7a7fa15d8cc7cff147962c4232cce7cf0"
+    ],
+    "twitter": "sauna_finance",
+    "telegram": "sauna_finance",
+    "github_org": "saunafinance"
+}

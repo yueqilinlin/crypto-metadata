@@ -1,0 +1,24 @@
+{
+    "id": "alium-swap",
+    "symbol": "alm",
+    "name": "Alium Swap",
+    "platforms": {
+        "binance-smart-chain": "0x7c38870e93a1f959cb6c533eb10bbc3e438aac11"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7c38870e93a1f959cb6c533eb10bbc3e438aac11",
+    "url": "https://alium.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x7C38870e93A1f959cB6c533eB10bBc3e438AaC11"
+    ],
+    "twitter": "aliumswap",
+    "telegram": "aliumswap_official"
+}

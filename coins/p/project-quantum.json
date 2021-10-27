@@ -1,0 +1,25 @@
+{
+    "id": "project-quantum",
+    "symbol": "qbit",
+    "name": "Project Quantum",
+    "platforms": {
+        "binance-smart-chain": "0xa38898a4ae982cb0131104a6746f77fa0da57aaa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Quantum Works was founded in 2021 when Fraser Gordon saw a unique opportunity and a gap in the global market place for a AAA gaming title and studio, where fairness and customer satisfaction lead the way, but, with one key twist. \r\n\r\nQuantum Works is funded solely from its own cryptocurrency token, a BEP20 token utilising a smart contract on the Binance Block Chain network. This cryptocurrency is the money which will drive the economy in Quantum Works first AAA title to be published, Project Quantum (working title), and future titles to come."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xa38898a4ae982cb0131104a6746f77fa0da57aaa",
+    "url": "https://quantumworks.co.uk/",
+    "explorers": [
+        "https://bscscan.com/token/0xa38898a4ae982cb0131104a6746f77fa0da57aaa"
+    ],
+    "twitter": "projectquantum_",
+    "facebook": "projectquantumofficial",
+    "telegram": "projectquantum",
+    "reddit": "ProjectQuantum_/",
+    "github_org": "electro-magic"
+}

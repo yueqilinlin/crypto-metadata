@@ -1,0 +1,21 @@
+{
+    "id": "voytek-bear-coin",
+    "symbol": "bear",
+    "name": "BEAR Coin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Charity"
+    ],
+    "description": {
+        "en": "BEAR Coin is cryptocurrency designed to help animals by decentralized fundraising and blockchain solutions in cooperation with NGOs and animal lovers around the world."
+    },
+    "country_origin": "ZZ",
+    "genesis_date": null,
+    "url": "https://bearcoin.net",
+    "explorers": [
+        "https://bearcoin.net/go/explorer"
+    ],
+    "twitter": "BearcoinNet",
+    "github_org": "BEAR-COIN"
+}

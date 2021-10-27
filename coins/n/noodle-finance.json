@@ -1,0 +1,25 @@
+{
+    "id": "noodle-finance",
+    "symbol": "noodle",
+    "name": "NOODLE.Finance",
+    "platforms": {
+        "ethereum": "0x420ab548b18911717ed7c4ccbf46371ea758458c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x420ab548b18911717ed7c4ccbf46371ea758458c",
+    "url": "https://noodle.finance/#",
+    "explorers": [
+        "https://etherscan.io/token/0x420Ab548B18911717Ed7C4CCBF46371EA758458C",
+        "https://ethplorer.io/address/0x420ab548b18911717ed7c4ccbf46371ea758458c"
+    ],
+    "twitter": "Noodle_Finance",
+    "telegram": "noodle_finance"
+}

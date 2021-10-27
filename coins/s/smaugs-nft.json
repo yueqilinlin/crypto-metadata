@@ -1,0 +1,22 @@
+{
+    "id": "smaugs-nft",
+    "symbol": "smg",
+    "name": "Smaugs NFT",
+    "platforms": {
+        "binance-smart-chain": "0x6bfd576220e8444ca4cc5f89efbd7f02a4c94c16"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "World's first Artificial Intelligence powered NFT marketplace."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0x6bfd576220e8444ca4cc5f89efbd7f02a4c94c16",
+    "url": "https://www.smaugs.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x6bfd576220e8444ca4cc5f89efbd7f02a4c94c16"
+    ],
+    "twitter": "smaugsnft",
+    "telegram": "smaugscommunity"
+}

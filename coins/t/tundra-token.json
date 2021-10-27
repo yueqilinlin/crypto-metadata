@@ -1,0 +1,25 @@
+{
+    "id": "tundra-token",
+    "symbol": "tundra",
+    "name": "Tundra Token",
+    "platforms": {
+        "avalanche": "0x21c5402c3b7d40c89cc472c9df5dd7e51bbab1b1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem"
+    ],
+    "description": {
+        "en": "Yield Farm token and NFT Gamified Token "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x21c5402c3b7d40c89cc472c9df5dd7e51bbab1b1",
+    "url": "https://frostfinance.farm/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/token-transfers"
+    ],
+    "twitter": "Frost_FI",
+    "telegram": "frostfinance",
+    "github_org": "typoedendev"
+}

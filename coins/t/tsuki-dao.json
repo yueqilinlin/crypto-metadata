@@ -1,0 +1,22 @@
+{
+    "id": "tsuki-dao",
+    "symbol": "tsuki",
+    "name": "Tsuki DAO",
+    "platforms": {
+        "binance-smart-chain": "0x3fd9e7041c45622e8026199a46f763c9807f66f3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Binance Smart Chain Dao"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3fd9e7041c45622e8026199a46f763c9807f66f3",
+    "url": "http://tsuki.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x3fd9e7041c45622e8026199a46f763c9807f66f3"
+    ],
+    "twitter": "DaoTsuki",
+    "telegram": "TSUKIDAO"
+}

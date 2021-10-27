@@ -1,0 +1,25 @@
+{
+    "id": "mobifi",
+    "symbol": "mofi",
+    "name": "MobiFi",
+    "platforms": {
+        "ethereum": "0xb2dbf14d0b47ed3ba02bdb7c954e05a72deb7544"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "**What is MobiFi (MoFi)**\r\n\r\nFounded in 2021, MobiFi is a decentralized Mobility as a Service provider powered by blockchain and tokenization. The project aims to integrate public and private service providers such as buses, trains, e-scooters, parking, EV charging, and more, into a single platform.\r\n\r\nFeaturing a reward engine that\u2019s fully automated via smart contract, the platform incentivizes users to lighten their footprint without locking them into a siloed loyalty program. This way, MobiFi intends to accelerate the transition towards sustainable mobility by rewarding users for their eco-friendly travel decisions, such as commuting at off-peak hours, or taking the bus, for example.\r\n\r\n**MobiFi\u2019s Dual-Token Model to Connect Traditional Businesses with DeFi**\r\n\r\nThe project has a dual-token system: SMile & MoFi.\r\n\r\nThe SMile token is developed by R3 Corda enterprise blockchain, and is pegged by fiat currency specifically designed for payments within the mobility ecosystem. The MobiFi system mints Corda-connected SMile tokens with an internal reward model based on the scale of the mobility service market.\r\n\r\nThe MoFi token uses Ethereum\u2019s ERC-20 standard and is a deflationary utility token to be exchanged for SMile and then burned to ensure efficient token circulation to all stakeholders within the ecosystem.\r\n\r\n**The MobiFi team**\r\n\r\nMobiFi was founded by Yudi Xu, EX-CTO consultant at Shell and current MVP of Hedera Hashgraph. Having won awards such as the Dutch Mobility Hackaton in 2019, Yudi Xu has a vast experience in the areas of IoT, Big Data, Blockchain.\r\n\r\nThe rest of the MobiFi team with over 10 members has experience from a wide range of disciplines and includes a combination of developers, engineers, designers, as well as marketing and business experts.\r\n\r\nThe team is supported by experienced and renowned advisors in the fields of blockchain, tokenization, banking, mobility, VCs, and more.\r\n\r\n**What makes MobiFi unique?**\r\n\r\nBesides a fully integrated and decentralized mobility platform, MobiFi is building the first-ever Corda to X bridge protocol to connect businesses with Crypto & DeFi, which aims at accelerating mainstream adoption of crypto payments. \r\n\r\nThe unique SMile-MoFi gateway will allow end-users to tap into Crypto and DeFi services with their mobility credit to support their financial needs beyond mobility while creating a sustainable environment for everyone."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb2dbf14d0b47ed3ba02bdb7c954e05a72deb7544",
+    "url": "https://mobifi.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xb2dbf14d0b47ed3ba02bdb7c954e05a72deb7544",
+        "https://ethplorer.io/address/0xb2dbf14d0b47ed3ba02bdb7c954e05a72deb7544"
+    ],
+    "twitter": "mobi_fi",
+    "telegram": "mobifi_official"
+}

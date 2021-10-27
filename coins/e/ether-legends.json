@@ -1,0 +1,26 @@
+{
+    "id": "ether-legends",
+    "symbol": "elet",
+    "name": "Elementeum",
+    "platforms": {
+        "ethereum": "0x6c37bf4f042712c978a73e3fd56d1f5738dd7c43",
+        "polygon-pos": "0x07738eb4ce8932ca961c815cb12c9d4ab5bd0da4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ether Legends is focused on the seamless connection of physical and digital assets, secured by the Blockchain. The token, Elementeum is the currency that drives the game platform ecosystem (ELET)."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x6c37bf4f042712c978a73e3fd56d1f5738dd7c43",
+    "url": "https://www.etherlegends.com/game.html",
+    "explorers": [
+        "https://etherscan.io/token/0x6c37bf4f042712c978a73e3fd56d1f5738dd7c43",
+        "https://ethplorer.io/address/0x6c37bf4f042712c978a73e3fd56d1f5738dd7c43"
+    ],
+    "twitter": "etherlegends",
+    "facebook": "EtherLegends",
+    "telegram": "etherlegends",
+    "github_org": "etherlegendsorg"
+}

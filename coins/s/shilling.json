@@ -1,0 +1,19 @@
+{
+    "id": "shilling",
+    "symbol": "sh",
+    "name": "Shilling",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2016-08-17",
+    "url": "https://digitalshilling.org/",
+    "explorers": [
+        "https://www.blockexperts.com/sh"
+    ],
+    "twitter": "DigitalShilling",
+    "github_org": "yavwa"
+}

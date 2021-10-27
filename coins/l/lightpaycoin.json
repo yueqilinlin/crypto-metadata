@@ -1,0 +1,23 @@
+{
+    "id": "lightpaycoin",
+    "symbol": "lpc",
+    "name": "LightPayCoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "The Lightpaycoin Management Team is dedicated to driving positive change and offering safer, faster and inexpensive financial products and services to people worldwide. We carefully monitor the industry and comply with all regulations, thus fulfilling our commitment to shareholders for transparency, compliance and business excellence. In line with our vision to create a mass market for Lightpaycoin, we aim to ensure global usage for the coin. Lightpaycoin is the best cryptocurrency for merchants - easy to use and with a blockchain running every minute."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-05-28",
+    "url": "https://www.lightpaycoin.org",
+    "explorers": [
+        "http://explorer2.lightpaycoin.org/"
+    ],
+    "twitter": "LightPayCoin",
+    "telegram": "lightpaycoins",
+    "reddit": "LPC_Official/",
+    "github_org": "lpcproject"
+}

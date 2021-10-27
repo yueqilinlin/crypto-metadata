@@ -1,0 +1,25 @@
+{
+    "id": "schain-wallet",
+    "symbol": "scha",
+    "name": "Schain Wallet",
+    "platforms": {
+        "ethereum": "0x2cad4991f62fc6fcd8ec219f37e7de52b688b75a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Schain Wallet is a mobile DeFi wallet designed to help people stake and earn profit, store and transfer coin & token with security and low fees"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2cad4991f62fc6fcd8ec219f37e7de52b688b75a",
+    "url": "https://schainwallet.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x2cAd4991f62fc6Fcd8EC219f37E7DE52B688B75A",
+        "https://ethplorer.io/address/0x2cAd4991f62fc6Fcd8EC219f37E7DE52B688B75A"
+    ],
+    "twitter": "SchainWallet",
+    "telegram": "schainwallet"
+}

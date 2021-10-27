@@ -1,0 +1,22 @@
+{
+    "id": "fingerprints",
+    "symbol": "prints",
+    "name": "FingerprintsDAO",
+    "platforms": {
+        "ethereum": "0x4dd28568d05f09b02220b09c2cb307bfd837cb95"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NFTs that can be fully recreated from their fingerprints on the blockchain are cultural artefacts that can live as long as the internet exists. The innovation of NFTs is not in linking to an artwork stored elsewhere, but in the token being the artwork itself.\r\n\r\nThe DAO collaborates with creators to build experiments at the intersection of art, economics and social coordination. Fingerprints has the 3rd largest collection of Autoglyphs, the largest collection of DEAFBEEFs, one of the largest collection of Mutant Garden Seeders and other significant pieces."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4dd28568d05f09b02220b09c2cb307bfd837cb95",
+    "url": "https://www.fingerprintsdao.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0x4dd28568d05f09b02220b09c2cb307bfd837cb95",
+        "https://ethplorer.io/address/0x4dd28568d05f09b02220b09c2cb307bfd837cb95"
+    ],
+    "twitter": "FingerprintsDAO"
+}

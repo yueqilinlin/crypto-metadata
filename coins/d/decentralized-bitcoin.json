@@ -1,0 +1,23 @@
+{
+    "id": "decentralized-bitcoin",
+    "symbol": "dbtc",
+    "name": "Decentralized Bitcoin",
+    "platforms": {
+        "ethereum": "0x0c7e25e15e9f6818fa2770107b3ba565470bc8c5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized financial platform for automated trading."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0c7e25e15e9f6818fa2770107b3ba565470bc8c5",
+    "url": "https://dbtc.plus",
+    "explorers": [
+        "https://etherscan.io/token/0x0c7e25e15e9f6818fa2770107b3ba565470bc8c5",
+        "https://ethplorer.io/address/0x0c7e25e15e9f6818fa2770107b3ba565470bc8c5"
+    ],
+    "twitter": "DBTC_plus",
+    "github_org": "DBTC-Team"
+}

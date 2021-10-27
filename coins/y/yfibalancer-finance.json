@@ -1,0 +1,24 @@
+{
+    "id": "yfibalancer-finance",
+    "symbol": "yfib",
+    "name": "YFIBALANCER.FINANCE",
+    "platforms": {
+        "ethereum": "0x03829f5675f3b51d0f8c2a74417a757625acf22f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "(YFIB YFIBALANCER FINANCE is an ecosystem of protocols built on Ethereum which aims to simplify user interaction with popular DeFi protocols and maximize the annual percentage yields (APY) of cryptocurrencies deposited into DeFi.) YFIB Solution to store and exchange token finance"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x03829f5675f3b51d0f8c2a74417a757625acf22f",
+    "url": "https://yfi-group.com",
+    "explorers": [
+        "https://etherscan.io/token/0x03829f5675F3b51D0F8C2A74417a757625aCF22f",
+        "https://ethplorer.io/address/0x03829f5675F3b51D0F8C2A74417a757625aCF22f"
+    ],
+    "twitter": "YFIGROUPFINANCE",
+    "telegram": "yfiexchange",
+    "github_org": "YFIGROUPFINANCE"
+}

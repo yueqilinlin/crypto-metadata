@@ -1,0 +1,24 @@
+{
+    "id": "popcorn-token",
+    "symbol": "corn",
+    "name": "Popcorn Token",
+    "platforms": {
+        "ethereum": "0x3080ec2a6960432f179c66d388099a48e82e2047"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Popcorn (CORN) is an ERC20 token, the new social experiment, fun and meme machine rolled onto Ethereum blockchain. It\u2019s the most enjoyable fun you can have with ERC20 while getting some reward. Who wouldn\u2019t want to get rewarded for having fun? Let's have some rewarding fun."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x3080ec2a6960432f179c66d388099a48e82e2047",
+    "url": "https://popcorntoken.dev",
+    "explorers": [
+        "https://etherscan.io/token/0x3080ec2A6960432F179c66D388099A48E82e2047",
+        "https://ethplorer.io/address/0x3080ec2A6960432F179c66D388099A48E82e2047"
+    ],
+    "twitter": "popcorntoken",
+    "telegram": "popcorntoken",
+    "github_org": "popcorntoken"
+}

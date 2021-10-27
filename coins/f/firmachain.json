@@ -1,0 +1,26 @@
+{
+    "id": "firmachain",
+    "symbol": "fct",
+    "name": "Firmachain",
+    "platforms": {
+        "ethereum": "0xe1bad922f84b198a08292fb600319300ae32471b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem"
+    ],
+    "description": {
+        "en": "Unlocking new limits of electronic contracts with blockchain technology, FirmaChain seeks to resolve all the social and legal issues (contracts, notarial, etc.) with written contracts through the use of electronic contracts based on FirmaChain\u2019s data blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe1bad922f84b198a08292fb600319300ae32471b",
+    "url": "https://firmachain.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xe1bad922f84b198a08292fb600319300ae32471b",
+        "https://ethplorer.io/address/0xe1bad922f84b198a08292fb600319300ae32471b"
+    ],
+    "twitter": "firmachain",
+    "telegram": "firmachain_announcement",
+    "github_org": "FirmaChain"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "opalcoin",
+    "symbol": "auop",
+    "name": "Opalcoin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [],
+    "description": {
+        "en": "Australian Opalcoin is a cryptocurrency blockchain, with Proof of Stake (POS) and Masternode (MN) functions."
+    },
+    "country_origin": "VU",
+    "genesis_date": null,
+    "url": "https://opalcoin.net/",
+    "explorers": [
+        "http://104.238.182.169:3001/"
+    ],
+    "twitter": "opalcoinnet",
+    "telegram": "opalcoinnet",
+    "github_org": "opalcoinnet"
+}

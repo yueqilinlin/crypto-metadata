@@ -1,0 +1,25 @@
+{
+    "id": "wrapped-avax",
+    "symbol": "wavax",
+    "name": "Wrapped AVAX",
+    "platforms": {
+        "avalanche": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+    "url": "https://www.avalabs.org/",
+    "explorers": [
+        "https://avascan.info/blockchain/c/address/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+        "https://cchain.explorer.avax.network/tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/token-transfers"
+    ],
+    "twitter": "AvalancheAVAX",
+    "telegram": "avalancheavax",
+    "reddit": "Avax/",
+    "github_org": "ava-labs"
+}

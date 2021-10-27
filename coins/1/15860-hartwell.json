@@ -1,0 +1,26 @@
+{
+    "id": "15860-hartwell",
+    "symbol": "realtoken-s-15860-hartwell-st-detroit-mi",
+    "name": "RealT Token - 15860 Hartwell St, Detroit, MI 48227",
+    "platforms": {
+        "xdai": "0xa9f30c907321718e655b74463ca665b690b78894",
+        "ethereum": "0xa9f30c907321718e655b74463ca665b690b78894"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa9f30c907321718e655b74463ca665b690b78894",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://blockscout.com/xdai/mainnet/tokens/0xA9F30C907321718e655B74463CA665B690B78894/token-transfers"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

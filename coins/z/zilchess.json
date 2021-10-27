@@ -1,0 +1,20 @@
+{
+    "id": "zilchess",
+    "symbol": "zch",
+    "name": "ZilChess",
+    "platforms": {
+        "zilliqa": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ZilChess is a decentralized chess platform running on the Zilliqa blockchain. Players can bet prefixed amount of ZILs in specific 'chess rooms', being coupled with other players with similar ELO, win 90% of the total bet amount on that board in case of victory. The platform has an equity token which gives the holders the benefit to cash-in monthly dividends accumulated by the platform. People can get ZCHs either playing games on the platform, or providing liquidity to the ZilSwap ZCH pool, or buying them on ZilSwap"
+    },
+    "country_origin": "IT",
+    "genesis_date": null,
+    "url": "https://www.zilchess.com/",
+    "explorers": [],
+    "twitter": "zilchess",
+    "telegram": "zilchess",
+    "github_org": "ZilliqaDuke"
+}

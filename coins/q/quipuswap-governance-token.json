@@ -1,0 +1,20 @@
+{
+    "id": "quipuswap-governance-token",
+    "symbol": "quipu",
+    "name": "QuipuSwap Governance Token",
+    "platforms": {
+        "tezos": "KT193D4vozYnhGJQVtw7CoxxqphqUEEwK6Vb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "QuipuSwap Governance Token. QUIPU token is used in QuipuSwap AMM governance and as a means of payment for future services."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT193D4vozYnhGJQVtw7CoxxqphqUEEwK6Vb",
+    "url": "https://quipuswap.com/swap",
+    "explorers": [
+        "https://tzkt.io/KT193D4vozYnhGJQVtw7CoxxqphqUEEwK6Vb/operations/"
+    ]
+}

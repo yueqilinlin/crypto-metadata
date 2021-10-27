@@ -1,0 +1,22 @@
+{
+    "id": "robiniaswap-token",
+    "symbol": "rbs",
+    "name": "RobiniaSwap Token",
+    "platforms": {
+        "binance-smart-chain": "0xafaeee58a58867c73245397c0f768ff041d32d70"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RobiniaSwap is a multi-chain DeFi service using a cross-chain bridge."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xafaeee58a58867c73245397c0f768ff041d32d70",
+    "url": "https://robiniaswap.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xafaeee58a58867c73245397c0f768ff041d32d70"
+    ],
+    "twitter": "robiniaswap",
+    "telegram": "officialrobinia"
+}

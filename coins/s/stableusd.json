@@ -1,0 +1,26 @@
+{
+    "id": "stableusd",
+    "symbol": "USDS",
+    "name": "Stably USD",
+    "platforms": {
+        "ethereum": "0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "USD Stablecoin",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "Stably USD (formerly \u201cStableUSD\u201d), also known as USDS, is a US Dollar-pegged stablecoin fully backed 1-to-1 and redeemable for USD held in an FDIC-insured trust account managed by Prime Trust, a state-chartered trust company in Nevada who is the token\u2019s official regulated trustee and administrator.\r\n\r\nUSDS is based on the ERC-20 token standard for Ethereum and the BEP-2 standard for Binance Chain at the moment and we will expand USDS to more blockchain protocols in the future, including EOS and Stellar. For more information, please visit us at: https://www.stably.io/ "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe",
+    "url": "https://www.stably.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe",
+        "https://ethplorer.io/address/0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe"
+    ],
+    "twitter": "StablyCoin",
+    "facebook": "stablycoin"
+}

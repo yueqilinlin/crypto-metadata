@@ -1,0 +1,22 @@
+{
+    "id": "ramenswap",
+    "symbol": "ramen",
+    "name": "RamenSwap",
+    "platforms": {
+        "binance-smart-chain": "0x4f47a0d15c1e53f3d94c069c7d16977c29f9cb6b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yield Farm AMM on Binance Smart Chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4f47a0d15c1e53f3d94c069c7d16977c29f9cb6b",
+    "url": "https://ramenswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x4f47a0d15c1e53f3d94c069c7d16977c29f9cb6b"
+    ],
+    "twitter": "ramenswap",
+    "telegram": "ramenswap"
+}

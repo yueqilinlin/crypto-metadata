@@ -1,0 +1,21 @@
+{
+    "id": "brmv-token",
+    "symbol": "brmv",
+    "name": "BRMV Token",
+    "platforms": {
+        "ethereum": "0x501e8726d06cdef66f3e0cb67f54924cca1cc894"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MoovePay Token has arrived to become your new Brazilian Real, with the stability of the fiduciary currency, distinguishing it from other assets in the market, because users do not take risks of volatility in the value of the asset while carrying out their operations."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0x501e8726d06cdef66f3e0cb67f54924cca1cc894",
+    "url": "https://brmv.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x501e8726d06cdef66f3e0cb67f54924cca1cc894",
+        "https://ethplorer.io/address/0x501e8726d06cdef66f3e0cb67f54924cca1cc894"
+    ]
+}

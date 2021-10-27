@@ -1,0 +1,27 @@
+{
+    "id": "dxchain",
+    "symbol": "dx",
+    "name": "DxChain Token",
+    "platforms": {
+        "ethereum": "0x973e52691176d36453868d9d86572788d27041a9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Big Data"
+    ],
+    "description": {
+        "en": "DxChain is the world\u2019s first decentralized big data and machine learning network powered by a computing-centric blockchain. In other words, DxChain is a public chain, aims to design a platform to solve computation of big data in a decentralized environment.\r\n\r\nFor simplicity, we could use DxChain to store and trade big data, so as to make data more valuable with the computation."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x973e52691176d36453868d9d86572788d27041a9",
+    "url": "http://www.dxchain.com",
+    "explorers": [
+        "https://etherscan.io/token/0x973e52691176d36453868d9d86572788d27041a9",
+        "https://ethplorer.io/address/0x973e52691176d36453868D9d86572788d27041A9"
+    ],
+    "twitter": "DxChainNetwork",
+    "facebook": "DxChain-179719632741800/",
+    "telegram": "dxchain",
+    "github_org": "DxChainNetwork"
+}

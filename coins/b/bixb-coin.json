@@ -1,0 +1,18 @@
+{
+    "id": "bixb-coin",
+    "symbol": "bixb",
+    "name": "BixB Coin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "BixB is a decentralized ledger that stores all transactions across a p2p network. The BixB  coin network aims to provide reliable tamper-proof inputs and outputs for complex smart contracts on any blockchain.\r\n\r\nBixBcoin  is a type of electronic cash in which the services are automatically provided to the users without the need for any intermediary third parties. The BixBcoin network wipes out the intermediaries and transactions are performed peer to peer (P2P). With this e-cash you can make purchases, place online orders, transfer money or consider it as an investment."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://bixbcoin.com/",
+    "explorers": [
+        "http://bixbexplorer.com"
+    ],
+    "github_org": "Bixbcoin"
+}

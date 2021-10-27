@@ -1,0 +1,25 @@
+{
+    "id": "divert-finance",
+    "symbol": "deve",
+    "name": "Divert Finance",
+    "platforms": {
+        "ethereum": "0xfdb615d6a15f929ddabc6b83a4f1cf9d361b064e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "You can with DEVE Token\r\n-Buy mining contracts:\r\nYou can buy mining contracts and get coins after deducting Divert's owed service fee.\r\n-Buy mining hardware:\r\ncan purchase mining hardware at Divert and it will be hosted and fully managed.\r\n-Create a private mining farm:\r\nDivert creates and fully manages your own mining farm."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0xfdb615d6a15f929ddabc6b83a4f1cf9d361b064e",
+    "url": "https://divertfinance.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xfdb615d6a15f929ddabc6b83a4f1cf9d361b064e",
+        "https://ethplorer.io/address/0xfdb615d6a15f929ddabc6b83a4f1cf9d361b064e"
+    ],
+    "twitter": "divertfinance",
+    "facebook": "DivertFinance",
+    "telegram": "DivertCommunity",
+    "github_org": "divertfinance"
+}

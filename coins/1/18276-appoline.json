@@ -1,0 +1,27 @@
+{
+    "id": "18276-appoline",
+    "symbol": "realtoken-s-18276-appoline-st-detroit-mi",
+    "name": "RealT Token - 18276 Appoline St, Detroit, MI 48235",
+    "platforms": {
+        "ethereum": "0x21f1af3e751317a2f7de7df31d5d092e6a907bde",
+        "xdai": "0x21f1af3e751317a2f7de7df31d5d092e6a907bde"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x21f1af3e751317a2f7de7df31d5d092e6a907bde",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x21f1aF3e751317a2F7De7Df31D5d092E6A907Bde",
+        "https://ethplorer.io/address/0x21f1af3e751317a2f7de7df31d5d092e6a907bde"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

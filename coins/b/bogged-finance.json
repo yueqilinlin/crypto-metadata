@@ -1,0 +1,25 @@
+{
+    "id": "bogged-finance",
+    "symbol": "bog",
+    "name": "Bogged Finance",
+    "platforms": {
+        "binance-smart-chain": "0xb09fe1613fe03e7361319d2a43edc17422f36b09"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem",
+        "Oracle"
+    ],
+    "description": {
+        "en": "Bogged Finance: Limit Orders, Stop Losses, Sniper, Swaps and more all powered by $BOG. \r\n\r\nBogTools is a suite of tools that for DeFi. The projects cornerstone, bogged.finance; aims to bring in Centralized Exchange (CEX) features for DeFi users. With Limit Orders, Snipers, Stop Losses, Smarter DEX features and more, $BOG is the home of traders on DeFi."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb09fe1613fe03e7361319d2a43edc17422f36b09",
+    "url": "https://bogged.finance/ ",
+    "explorers": [
+        "https://bscscan.com/token/0xB09FE1613fE03E7361319d2a43eDc17422f36B09"
+    ],
+    "twitter": "boggedfinance",
+    "telegram": "bogtools"
+}

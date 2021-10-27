@@ -1,0 +1,28 @@
+{
+    "id": "stp-network",
+    "symbol": "stpt",
+    "name": "STP Network",
+    "platforms": {
+        "ethereum": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Synthetic Issuer",
+        "Polkadot Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Standard Tokenization Protocol is a smart contract platform that allows issuers to create and issue token offerings in a regulatory compliant manner in a large number of jurisdictions around the globe. The protocol allows the integration of international regulations to enable compliant issuance of tokenized assets and cross-jurisdictional transfers of ownership. It also allows for issuer-specific parameters such as ownership concentration, holding periods, and voting. By issuing a permissioned ERC-20 token (STPT) on the Ethereum blockchain, Standard Tokenization Protocol ensures that: 1) regulatory and issuer-specific compliance requirements included in the smart contract are met at the token level, and 2) changes in the regulatory landscape can be captured and integrated. Standard Tokenization Protocol standard enables the tokenization of any type of asset in a globally compliant manner."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
+    "url": "https://stp.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
+        "https://ethplorer.io/address/0xde7d85157d9714eadf595045cc12ca4a5f3e2adb"
+    ],
+    "twitter": "STP_Networks",
+    "telegram": "STPofficial"
+}

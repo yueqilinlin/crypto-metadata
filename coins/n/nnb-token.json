@@ -1,0 +1,23 @@
+{
+    "id": "nnb-token",
+    "symbol": "nnb",
+    "name": "NNB Token",
+    "platforms": {
+        "ethereum": "0xb66a2131a6b840dd020151f80723caed603efb51"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CoinBull is a digital currency market tool, adhering to the concept of \"Data depth analysis\", it has become the fastest growing and best-known digital currency market tool product in five months, with more than 1 million users.\r\n\r\nCoinBull will build a one-stop platform of \"market + data + community + information + transaction + finance\" and become the entrance of the ecology of the block chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb66a2131a6b840dd020151f80723caed603efb51",
+    "url": "https://www.coinbull.one/",
+    "explorers": [
+        "https://etherscan.io/token/0xb66a2131a6b840dd020151f80723caed603efb51",
+        "https://ethplorer.io/address/0xb66a2131a6b840dd020151f80723caed603efb51"
+    ],
+    "twitter": "CoinBullapp",
+    "telegram": "biniuniu"
+}

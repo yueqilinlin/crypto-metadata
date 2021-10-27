@@ -1,0 +1,25 @@
+{
+    "id": "dymmax",
+    "symbol": "dmx",
+    "name": "Dymmax",
+    "platforms": {
+        "ethereum": "0xf058501585023d040ea9493134ed72c083553eed"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DYMMAX -  is a unique platform designed to solve this problem, taking into account the cryptocurrency market specifics, as well as the concept of distribution. A set of option pricing strategies is implemented at its basis, with pricing based on the parimutuel betting with fixed odds model."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf058501585023d040ea9493134ed72c083553eed",
+    "url": "https://dymmax.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xf058501585023d040ea9493134ed72c083553eed",
+        "https://ethplorer.io/address/0xf058501585023d040ea9493134ed72c083553eed"
+    ],
+    "twitter": "dymmax_protocol",
+    "telegram": "dymmax",
+    "reddit": "dymmax/",
+    "github_org": "dymmax"
+}

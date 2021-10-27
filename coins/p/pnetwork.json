@@ -1,0 +1,33 @@
+{
+    "id": "pnetwork",
+    "symbol": "pnt",
+    "name": "pNetwork",
+    "platforms": {
+        "ethereum": "0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed",
+        "binance-smart-chain": "0xdaacb0ab6fb34d24e8a67bfa14bf4d95d4c7af92"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "xDAI Ecosystem",
+        "Infrastructure",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "pNetwork is the heartbeat of cross-chain composability. As the governance network of the pTokens system, it enables the seamless movement of assets across blockchains."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed",
+    "url": "https://p.network",
+    "explorers": [
+        "https://etherscan.io/token/0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed",
+        "https://ethplorer.io/address/0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed",
+        "https://bscscan.com/token/0xdaacb0ab6fb34d24e8a67bfa14bf4d95d4c7af92"
+    ],
+    "twitter": "pNetworkDeFi",
+    "telegram": "pNetworkDefi",
+    "reddit": "pTokens/",
+    "github_org": "provable-things"
+}

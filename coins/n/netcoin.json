@@ -1,0 +1,21 @@
+{
+    "id": "netcoin",
+    "symbol": "net",
+    "name": "Netcoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Netcoin (NET) is a fork of Litecoin that combines random superblocks. "
+    },
+    "country_origin": "",
+    "genesis_date": "2013-09-02",
+    "url": "http://netcoin.io",
+    "explorers": [
+        "https://prohashing.com/explorer/Netcoin/"
+    ],
+    "twitter": "Netcoin",
+    "facebook": "NetcoinNET",
+    "reddit": "NETCOINnews",
+    "github_org": "netcoinfoundation"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "astroelon",
+    "symbol": "elonone",
+    "name": "AstroElon",
+    "platforms": {
+        "ethereum": "0x97b65710d03e12775189f0d113202cc1443b0aa2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Deflationary, progressive & rewarding ERC-20 Protocol. 2% of each transaction is auto-distributed to holders proportional to the amount they hold, aka reflection. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x97b65710d03e12775189f0d113202cc1443b0aa2",
+    "url": "https://astroelon.net",
+    "explorers": [
+        "https://etherscan.io/token/0x97b65710d03e12775189f0d113202cc1443b0aa2",
+        "https://ethplorer.io/address/0x97b65710d03e12775189f0d113202cc1443b0aa2"
+    ],
+    "twitter": "AstroElon",
+    "telegram": "astro_elon",
+    "reddit": "astroelon",
+    "github_org": "astroelon"
+}

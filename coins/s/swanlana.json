@@ -1,0 +1,22 @@
+{
+    "id": "swanlana",
+    "symbol": "swan",
+    "name": "Swanlana",
+    "platforms": {
+        "solana": "SWANaZUGxF82KyVsbxeeNsMaVECtimze5VyCdywkvkH"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An decentralized, Exchange and NFT Marketplace on Solana ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "SWANaZUGxF82KyVsbxeeNsMaVECtimze5VyCdywkvkH",
+    "url": "https://www.swanlana.com/",
+    "explorers": [
+        "https://solscan.io/token/SWANaZUGxF82KyVsbxeeNsMaVECtimze5VyCdywkvkH"
+    ],
+    "twitter": "Swan_Solana",
+    "github_org": "SwanLana"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "eswapping",
+    "symbol": "eswap",
+    "name": "eSwapping",
+    "platforms": {
+        "binance-smart-chain": "0x1b79708eea29900dbbbca8a5ae620ac741618ae4",
+        "fantom": "0x735abe48e8782948a37c7765ecb76b98cde97b0f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "eSwapping is a brand on Binance Smart Chain that uses ESWAP token as its utility token for its platforms and trading tools. Our aim is to make trading on Binance Smart Chain easier and more automated. Once we are established on Binance Smart Chain we will also be expanding onto Avalanche, Matic and xDAI in order to improve the trading on those networks, with that we will also introduce a bridge to use our token cross-chain. We also offer an exchange which will soon open Pools and Farms. Our utility token ESWAP will keep improving it's utility with the further development of our tools and platofrms. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1b79708eea29900dbbbca8a5ae620ac741618ae4",
+    "url": "https://eswapping.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x1b79708eea29900dbbbca8a5ae620ac741618ae4"
+    ],
+    "twitter": "e_swapping",
+    "telegram": "eswapping"
+}

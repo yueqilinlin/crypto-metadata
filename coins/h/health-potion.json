@@ -1,0 +1,20 @@
+{
+    "id": "health-potion",
+    "symbol": "hep",
+    "name": "Health Potion",
+    "platforms": {
+        "okex-chain": "0xfd83168291312a0800f44610974350c569d12e42"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HEP is the GameFi ecological sub-coin issued by Cherryswap. HEP is an incentive token for players to participate in game competition, mainly used to breed new pets in the game."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfd83168291312a0800f44610974350c569d12e42",
+    "url": "https://www.cherryswap.net/",
+    "explorers": [
+        "https://www.oklink.com/okexchain/address/0xfd83168291312a0800f44610974350c569d12e42"
+    ]
+}

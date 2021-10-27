@@ -1,0 +1,21 @@
+{
+    "id": "bitgesell",
+    "symbol": "bgl",
+    "name": "Bitgesell",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Store of value. Burn rate is 90% of tx fees\r\nCurrency of the people, by the people, for the people."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://bitgesell.ca/",
+    "explorers": [
+        "https://bgl.bitaps.com/",
+        "https://smithpool.net/explorer/BGL"
+    ],
+    "twitter": "Bitgesell",
+    "telegram": "bitgesellofficial",
+    "github_org": "wu-emma"
+}

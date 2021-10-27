@@ -1,0 +1,22 @@
+{
+    "id": "bitcoin-final",
+    "symbol": "btcf",
+    "name": "Bitcoin Final",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "BITCOIN FINAL feature Decentralized, Zero Coin, Fast, Secure, PrivateSend, CoinMixing and Masternodes. Masternode reward from POS is 80% and the best part is POW will end at 1000 blocks then the coin will be 100% POS coin. This is an innovative solution that for assure the stabilize return on investment to our masternode owner."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.bitcoinfinal.net/",
+    "explorers": [
+        "https://btcf.ccore.online/"
+    ],
+    "twitter": "BitcoinFinal",
+    "telegram": "BTCFinal",
+    "github_org": "bitcoinfinal"
+}

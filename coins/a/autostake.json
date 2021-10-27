@@ -1,0 +1,22 @@
+{
+    "id": "autostake",
+    "symbol": "auto",
+    "name": "Autostake",
+    "platforms": {
+        "binance-smart-chain": "0x1cff458b364d0d328d4c9d59d10be7d22d01953d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AutoStake.io is an Experimental Staking Platform. All purchases of the Auto Token are automatically staked on our platform. From the second you purchase Auto, you are immediately earning Staking Rewards! Your Staked Auto is locked into the Staking Contract for a minimum of 7 Days, after which you are able to withdraw 20% of your Staked Tokens to your wallet. By Limiting the amount of Auto that is released to 20% per 7 days, it is expected that the Auto Price will Rise rapidly in the first weeks and months of the project. As long as the Buys are greater than the 20% release, the price will continue to rise. After some time a balance will be found between the Buys and the 20% release. Price Discovery will then be achieved."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1cff458b364d0d328d4c9d59d10be7d22d01953d",
+    "url": "https://www.autostake.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x1cff458b364d0d328d4c9d59d10be7d22d01953d"
+    ],
+    "twitter": "AutoStakeIO",
+    "telegram": "AutostakeChat"
+}

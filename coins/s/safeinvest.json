@@ -1,0 +1,23 @@
+{
+    "id": "safeinvest",
+    "symbol": "safeinvest",
+    "name": "SafeInvest",
+    "platforms": {
+        "binance-smart-chain": "0x55ee329855be1bb356230fd625fc53e4942322f8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeInvest aims to establish a healthy, well-balanced financial product in the crypto-market which can be used as a store of value and interest earning asset. The holder will exchange capital and time for longtime growth of his/her investment.\r\n\r\nSafeInvest earns every holder passive income and constantly decreases its own total supply which leads to a deflationary design and therefore ever-growing value. This effect is achieved by charging a total transaction fee of 8%. 4% of this fee is returned proportionally to all existing holders by reflection mechanism thus generating passive income. The other half is, unlike with other projects using static reflection before, not charged and added to Liquidity but rather subtracted and burned. This is done with the idea of securing a healthy and natural market in the longrun because the Liquidity Pool will - being the strongest holder of all and never having to sacrifice any value caused by fees, instead always profiting from it - steadily grow in value and strength and at some point cause the market to be extremely stable and make SafeInvest achieve its main goal."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x55ee329855be1bb356230fd625fc53e4942322f8",
+    "url": "https://safeinvestcrypto.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x55ee329855be1bb356230fd625fc53e4942322f8"
+    ],
+    "twitter": "Safeinvesttoken",
+    "telegram": "SafeInvestChat",
+    "reddit": "SafeInvest/"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "locklet",
+    "symbol": "lkt",
+    "name": "Locklet",
+    "platforms": {
+        "ethereum": "0xd9b89eee86b15634c70cab51baf85615a4ab91a1",
+        "binance-smart-chain": "0xde8fa069707b6322ad45d001425b617f4f1930bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Locklet is the world's first decentralized vesting platform. It allows any crypto-currency holder to create more or less complex vesting clauses according to their need and have them executed over the desired duration and this is accomplished in a completely decentralized way. Thanks to our platform, serious projects can now cryptographically differentiate themselves from scammy ones.\r\n\r\nAny holder of any token, can now ask the project team to lock their share of tokens in order to prove to the community that they are not there to rug pull. A project team can go even further in its transparency process by creating vesting clauses for their private investors. In this way, in addition to being safe from a team rug pull, the community and project are also protected against possible whale exits."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd9b89eee86b15634c70cab51baf85615a4ab91a1",
+    "url": "https://www.locklet.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xd9b89eee86b15634c70cab51baf85615a4ab91a1",
+        "https://ethplorer.io/address/0xd9b89eee86b15634c70cab51baf85615a4ab91a1"
+    ],
+    "twitter": "locklet_finance",
+    "telegram": "locklet_finance",
+    "reddit": "locklet_finance/",
+    "github_org": "locklet"
+}

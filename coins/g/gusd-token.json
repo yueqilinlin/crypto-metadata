@@ -1,0 +1,23 @@
+{
+    "id": "gusd-token",
+    "symbol": "gusdt",
+    "name": "Global Utility Smart Digital Token",
+    "platforms": {
+        "ethereum": "0x3242aebcdcf8de491004b1c98e6595e9827f6c17"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "By leveraging the power of blockchain technology, we can raise capital and invest in high potential private equity and fintech projects. Our platform links high potential investment projects directly to those looking for investment opportunities, no matter the skill level or size of the investment. In simple words, we make it possible for all levels of investors to invest in high potential industries.\r\n\r\nGUSDT\u2122 serves as an initial currency for interacting with any of our services. Token holders will be able to freely participate in any future services or products offered by our company. We are currently in the process of getting the token listed on a cryptocurrency exchange.\r\n\r\nGUSDT\u2122 has developed a platform that uses blockchain technology to create Strategic Investment Tokens (SITs). This enables each of our investment projects to release their own unique tokens on the GUSDT\u2122 exchange platform.\r\n\r\nThese SITs will provide an indication of the performance of a particular project. GUSDT\u2122 will act as the native token of the platform and can be used to trade all SITs listed on the platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3242aebcdcf8de491004b1c98e6595e9827f6c17",
+    "url": "https://gusdt.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3242aebcdcf8de491004b1c98e6595e9827f6c17",
+        "https://ethplorer.io/address/0x3242aebcdcf8de491004b1c98e6595e9827f6c17"
+    ],
+    "twitter": "gibcapitalgroup",
+    "facebook": "GIBCapitalGroup"
+}

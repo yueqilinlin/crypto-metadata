@@ -1,0 +1,27 @@
+{
+    "id": "saud",
+    "symbol": "saud",
+    "name": "sAUD",
+    "platforms": {
+        "ethereum": "0xf48e200eaf9906362bb1442fca31e0835773b8b4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synths",
+        "Decentralized Finance (DeFi)",
+        "Stablecoins",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Synth sAUDby Synthetix\r\nTracks the price of AUDthrough price feeds supplied by an oracle."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf48e200eaf9906362bb1442fca31e0835773b8b4",
+    "url": "https://synthetix.io",
+    "explorers": [
+        "https://etherscan.io/token/0xf48e200eaf9906362bb1442fca31e0835773b8b4",
+        "https://ethplorer.io/address/0xf48e200eaf9906362bb1442fca31e0835773b8b4"
+    ],
+    "twitter": "synthetix_io"
+}

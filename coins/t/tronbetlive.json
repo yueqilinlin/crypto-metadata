@@ -1,0 +1,23 @@
+{
+    "id": "tronbetlive",
+    "symbol": "live",
+    "name": "TRONbetLive",
+    "platforms": {
+        "tron": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "the LIVE token is a sub token of the wink.org platform and is used for the LIVE section of wink.org"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://wink.org/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK"
+    ],
+    "twitter": "WINkorg",
+    "telegram": "WINk_org_official"
+}

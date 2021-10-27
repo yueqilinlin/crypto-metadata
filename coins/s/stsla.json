@@ -1,0 +1,24 @@
+{
+    "id": "stsla",
+    "symbol": "stsla",
+    "name": "sTSLA",
+    "platforms": {
+        "ethereum": "0x918da91ccbc32b7a6a0cc4ecd5987bbab6e31e6d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Synthetic Tesla stock token, tracking the price of TSLA https://finance.yahoo.com/quote/TSLA/"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x918da91ccbc32b7a6a0cc4ecd5987bbab6e31e6d",
+    "url": "https://synthetix.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x918da91ccbc32b7a6a0cc4ecd5987bbab6e31e6d",
+        "https://ethplorer.io/address/0x918da91ccbc32b7a6a0cc4ecd5987bbab6e31e6d"
+    ],
+    "twitter": "synthetix_io",
+    "reddit": "synthetix_io/",
+    "github_org": "Synthetixio"
+}

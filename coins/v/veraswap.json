@@ -1,0 +1,22 @@
+{
+    "id": "veraswap",
+    "symbol": "vrap",
+    "name": "VeraSwap",
+    "platforms": {
+        "binance-smart-chain": "0x271c418b045d05a1d52c6bf849d47b5b5b4d769e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Veraswap is an AMM with various staking pools that rewards stakers. It's just like Uniswap but on Binance Smart Chain with additional features."
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0x271c418b045d05a1d52c6bf849d47b5b5b4d769e",
+    "url": "https://www.veraswap.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x271c418b045d05a1d52c6bf849d47b5b5b4d769e"
+    ],
+    "twitter": "veraswap",
+    "telegram": "veraswap"
+}

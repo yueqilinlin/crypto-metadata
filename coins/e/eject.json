@@ -1,0 +1,23 @@
+{
+    "id": "eject",
+    "symbol": "eject",
+    "name": "Eject",
+    "platforms": {
+        "binance-smart-chain": "0x2d43dfe648bb8c9c22f9ffcd1937369a9fdd0ebc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EJECT is a platform where investors meet new alt-coin projects in a Kickstarter type crowdfunding platform. This project is set to disrupt the altcoin and memecoin market as it exists today. EJECT accomplishes this by giving developers advanced tools and by giving investors a marketplace devoid of rug-pools. Read more about our platform on eject.space."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x2d43dfe648bb8c9c22f9ffcd1937369a9fdd0ebc",
+    "url": "https://www.eject.space/",
+    "explorers": [
+        "https://bscscan.com/token/0x2d43dfe648bb8c9c22f9ffcd1937369a9fdd0ebc"
+    ],
+    "twitter": "ejectelon",
+    "telegram": "EjectElonCommunity",
+    "github_org": "EjectElon"
+}

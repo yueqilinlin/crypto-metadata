@@ -1,0 +1,27 @@
+{
+    "id": "linear-bsc",
+    "symbol": "lina",
+    "name": "Linear (BSC)",
+    "platforms": {
+        "binance-smart-chain": "0x762539b45a1dcce3d36d080f74d1aed37844b878"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem",
+        "Polkadot Ecosystem",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Linear (BSC) is a Wrapped version of Linear, a Cross-chain Decentralized Delta-One Asset Protocol with Unlimited Liquidity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x762539b45a1dcce3d36d080f74d1aed37844b878",
+    "url": "https://linear.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x762539b45a1dcce3d36d080f74d1aed37844b878"
+    ],
+    "twitter": "LinearFinance",
+    "telegram": "LinearExchangeCommunity",
+    "github_org": "Linear-finance"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "baby-bake",
+    "symbol": "babybake",
+    "name": "BabyBake",
+    "platforms": {
+        "binance-smart-chain": "0x4f73b1f7adcf65d0fa744fd49a8d0341f478cd24"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Earn BAKE while Holding BabyBAKE! BabyBAKE is an automatic liquidity and reward protocol, that distributes BAKE to the holders every hour!"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x4f73b1f7adcf65d0fa744fd49a8d0341f478cd24",
+    "url": "https://www.babybake.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x4f73b1f7adcf65d0fa744fd49a8d0341f478cd24"
+    ],
+    "twitter": "realbabybake",
+    "telegram": "OfficialBabyBake"
+}

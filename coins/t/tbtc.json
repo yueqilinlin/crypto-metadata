@@ -1,0 +1,26 @@
+{
+    "id": "tbtc",
+    "symbol": "tbtc",
+    "name": "tBTC",
+    "platforms": {
+        "ethereum": "0x8daebade922df735c38c80c7ebd708af50815faa"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Tokenized BTC",
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Deposit and redeem BTC in DeFi without intermediaries."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8daebade922df735c38c80c7ebd708af50815faa",
+    "url": "https://tbtc.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x8daebade922df735c38c80c7ebd708af50815faa",
+        "https://ethplorer.io/address/0x8daebade922df735c38c80c7ebd708af50815faa"
+    ],
+    "github_org": "keep-network"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "fountain",
+    "symbol": "ftn",
+    "name": "Fountain",
+    "platforms": {
+        "ethereum": "0x66d9c4d19b4c8e23a54c6dc4ceed141f66b8111c"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "Fountain is committed to creating a win-win, sustainable content ecosystem. Rewarding FTN based on each user's contribution to the community, allowing the profit of the content to eventually return to the creator.\r\n\r\nFountain is a block-chained content ecosystem based on Proof of Contribution. Through a set of clear proof of contribution rules, blockchain technology is used to record the contributions of all participants. After accurate calculation, tokens are awarded to all participants. This will effectively motivate people to participate deeply in a content community application and the entire ecosystem, contributing to their strength.\r\n\r\nWith the constant growth and development of the ecology, Fountain has a rich content community application, and the author, readers, curators, IP investors, block nodes, application developers and many other roles will be taken from the token. Their income. The ultimate realization of our vision: a win-win, sustainable content ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-12-28",
+    "contract_address": "0x66d9c4d19b4c8e23a54c6dc4ceed141f66b8111c",
+    "url": "https://fountainhub.com/en/index.html",
+    "explorers": [
+        "https://etherscan.io/token/0x66d9c4d19b4c8e23a54c6dc4ceed141f66b8111c",
+        "https://ethplorer.io/address/0x66d9c4d19b4c8e23a54c6dc4ceed141f66b8111c"
+    ],
+    "twitter": "fountainhub",
+    "telegram": "FountainOfficial",
+    "github_org": "FountainHub"
+}

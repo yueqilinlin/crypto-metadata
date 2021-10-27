@@ -1,0 +1,26 @@
+{
+    "id": "smart-valor",
+    "symbol": "valor",
+    "name": "Smart Valor",
+    "platforms": {
+        "ethereum": "0x297e4e5e59ad72b1b0a2fd446929e76117be0e0a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SMART VALOR is a platform token of the SMART VALOR exchange which is now a Crypto to Crypto to Fiat. We are working on becoming a fully compliant security token exchange in 2020."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x297e4e5e59ad72b1b0a2fd446929e76117be0e0a",
+    "url": "https://smartvalor.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x297e4e5e59ad72b1b0a2fd446929e76117be0e0a",
+        "https://ethplorer.io/address/0x297e4e5e59ad72b1b0a2fd446929e76117be0e0a"
+    ],
+    "twitter": "smartvalorinc",
+    "facebook": "smartvalorinc",
+    "telegram": "smartvalor_official",
+    "reddit": "SmartValorOfficial/",
+    "github_org": "smartvalor"
+}

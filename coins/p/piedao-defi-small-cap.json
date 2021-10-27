@@ -1,0 +1,29 @@
+{
+    "id": "piedao-defi-small-cap",
+    "symbol": "DEFI+S",
+    "name": "PieDAO DEFI Small Cap",
+    "platforms": {
+        "ethereum": "0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "DeFi Index",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Index representing Small Cap DEFI projects"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c",
+    "url": "https://pools.piedao.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c",
+        "https://ethplorer.io/address/0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c"
+    ],
+    "twitter": "PieDAO_DeFi",
+    "telegram": "piedao",
+    "reddit": "PieDAO/",
+    "github_org": "pie-dao"
+}

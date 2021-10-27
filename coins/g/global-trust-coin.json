@@ -1,0 +1,27 @@
+{
+    "id": "global-trust-coin",
+    "symbol": "gtc",
+    "name": "Global Trust Coin",
+    "platforms": {
+        "ethereum": "0xe138fda441fc31b36171122397a8a11d6cd2c479"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Global Trust Coin (GTC) is a token supported and backed up by Global Trust Investment Bank (GTIB) (www.gtib.org) , the purpose of the token is to secure a new way for transfers of values through the digital exchange against the fiat currency. The support for the Trade Finance sector to shorten the processes of trading and exchanges of goods. "
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xe138fda441fc31b36171122397a8a11d6cd2c479",
+    "url": "https://gtibcoin.com",
+    "explorers": [
+        "https://etherscan.io/token/0xe138fda441fc31b36171122397a8a11d6cd2c479",
+        "https://ethplorer.io/address/0xe138fda441fc31b36171122397a8a11d6cd2c479"
+    ],
+    "twitter": "globaltrustcoin",
+    "facebook": "globaltrustcoin",
+    "telegram": "globaltrustcoin",
+    "github_org": "GTIBCOIN"
+}

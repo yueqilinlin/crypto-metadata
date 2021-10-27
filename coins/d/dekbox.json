@@ -1,0 +1,24 @@
+{
+    "id": "dekbox",
+    "symbol": "dek",
+    "name": "DekBox",
+    "platforms": {
+        "binance-smart-chain": "0xe52c5a3590952f3ed6fccf89a0bd7f38e11c5b98"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DekBox is a Defi ecological platform for aggregated Revenue jointly created by the global technical community developers who are enthusiastic about DeFi. With the completion of cross-chain deployment of BSC chain and other public chain, DekBox technical team is committed to providing one-stop DeFi financial services such as liquidity mining, swap, cross-chain lending, synthetic asset circulation, NFT auction and cross-chain bridge with leading technology advantages for a wider range of DeFi ecological assets.\r\n\r\nDekBox takes promoting the decentralization of finance as its own responsibility, and adheres to the realization of inclusive finance, enabling the value added system of DeFi /NFT, and realizing the co-construction of ecological system."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xe52c5a3590952f3ed6fccf89a0bd7f38e11c5b98",
+    "url": "http://www.dekbox.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xe52c5a3590952f3ed6fccf89a0bd7f38e11c5b98"
+    ],
+    "twitter": "dekbox",
+    "telegram": "dekbox",
+    "reddit": "dekbox/",
+    "github_org": "dekbox"
+}

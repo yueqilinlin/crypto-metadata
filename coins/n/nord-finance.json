@@ -1,0 +1,28 @@
+{
+    "id": "nord-finance",
+    "symbol": "nord",
+    "name": "Nord Finance",
+    "platforms": {
+        "ethereum": "0x6e9730ecffbed43fd876a264c982e254ef05a0de",
+        "binance-smart-chain": "0x6e9730ecffbed43fd876a264c982e254ef05a0de",
+        "fantom": "0xeaf26191ac1d35ae30baa19a5ad5558dd8156aef"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6e9730ecffbed43fd876a264c982e254ef05a0de",
+    "url": "https://nordfinance.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x6e9730ecffbed43fd876a264c982e254ef05a0de",
+        "https://ethplorer.io/address/0x6e9730ecffbed43fd876a264c982e254ef05a0de",
+        "https://bscscan.com/token/0x6e9730ecffbed43fd876a264c982e254ef05a0de"
+    ],
+    "twitter": "Nord_Finance",
+    "telegram": "NordFinance"
+}

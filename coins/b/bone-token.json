@@ -1,0 +1,23 @@
+{
+    "id": "bone-token",
+    "symbol": "bone",
+    "name": "Bone Token",
+    "platforms": {
+        "polygon-pos": "0x6bb45ceac714c52342ef73ec663479da35934bf7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PolyPup Finance is a new DeFi project on Polygon featuring a deflationary token model. This is the second layer of the project featuring BONE with a maximum supply of 65,000 tokens.\r\n\r\nAfter reviewing several yield farming models we decided on a low emission rate, low supply, layered farming approach to our platform.  This model will help end users earn maximum yields over a long period of time. Buyback and burns will help stabilize a  price floor for long term holders."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x6bb45ceac714c52342ef73ec663479da35934bf7",
+    "url": "https://bone.polypup.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x6bb45ceac714c52342ef73ec663479da35934bf7"
+    ],
+    "twitter": "PolyPup1",
+    "telegram": "PolyPupFarm",
+    "github_org": "PolyPup-Farm"
+}

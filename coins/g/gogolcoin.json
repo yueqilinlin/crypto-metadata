@@ -1,0 +1,26 @@
+{
+    "id": "gogolcoin",
+    "symbol": "gol",
+    "name": "GogolCoin",
+    "platforms": {
+        "ethereum": "0x083d41d6dd21ee938f0c055ca4fb12268df0efac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x083d41d6dd21ee938f0c055ca4fb12268df0efac",
+    "url": "https://gogolcoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x083d41d6dd21ee938f0c055ca4fb12268df0efac",
+        "https://ethplorer.io/address/0x083d41d6dd21ee938f0c055ca4fb12268df0efac"
+    ],
+    "twitter": "gogolcoin",
+    "facebook": "Gogolcoin.io",
+    "telegram": "gogolcoin_io",
+    "reddit": "gogolcoin/",
+    "github_org": "Gogolcoin"
+}

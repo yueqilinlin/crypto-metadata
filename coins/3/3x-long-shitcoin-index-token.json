@@ -1,0 +1,23 @@
+{
+    "id": "3x-long-shitcoin-index-token",
+    "symbol": "bullshit",
+    "name": "3X Long Shitcoin Index Token",
+    "platforms": {
+        "ethereum": "0xd06b25f67a17f12b41f615b34d87ecd716ff55a0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Leveraged Token"
+    ],
+    "description": {
+        "en": "3X Long Shitcoin Index Token (BULLSHIT) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Shitcoin Index."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd06b25f67a17f12b41f615b34d87ecd716ff55a0",
+    "url": "https://ftx.com/tokens/BULLSHIT",
+    "explorers": [
+        "https://etherscan.io/token/0xd06b25f67a17f12b41f615b34d87ecd716ff55a0",
+        "https://ethplorer.io/address/0xd06b25f67a17f12b41f615b34d87ecd716ff55a0"
+    ]
+}

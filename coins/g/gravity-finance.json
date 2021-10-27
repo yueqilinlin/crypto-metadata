@@ -1,0 +1,25 @@
+{
+    "id": "gravity-finance",
+    "symbol": "gfi",
+    "name": "Gravity Finance",
+    "platforms": {
+        "polygon-pos": "0x874e178a2f3f3f9d34db862453cd756e7eab0381"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Gravity Finance is a suite of DeFi products on the Polygon Network (previously Matic).\r\n\r\nCurrent products include a Polygon Launchpad and Yield Farms. Production is underway on an AMM/Swaps Exchange, Vaults and Automated Investment Strategies, Derivatives Trading and other defi products.\r\n\r\nGFI is the governance token for Gravity Finance. GFI holders will automatically be eligible to receive admin-fees from all of our defi products by simply holding GFI in their wallets, no need to stake tokens to earn fees. Admin fees will be paid-out as 50% ETH and 50% BTC through smart contracts. The ETH portion is available for GFI holders to claim at any time, whereas the BTC portion accrues in a smart contract forming the tokens intrinsic value, making GFI \"\"backed by Bitcoin\"\" through admin fees that GFI holders can redeem at any time through a GFI burn-function."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x874e178a2f3f3f9d34db862453cd756e7eab0381",
+    "url": "https://gravityfinance.io",
+    "explorers": [
+        "https://polygonscan.com/token/0x874e178a2f3f3f9d34db862453cd756e7eab0381"
+    ],
+    "twitter": "Gravity_Finance",
+    "reddit": "GravityFinance/",
+    "github_org": "inthenextversion"
+}

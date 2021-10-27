@@ -1,0 +1,23 @@
+{
+    "id": "kzcash",
+    "symbol": "kzc",
+    "name": "Kzcash",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "KZCash is the first regional cryptocurrency in Kazakhstan. Use of the proved and trusted X11 hashing algorithm with 11 types of encryption provide the highest level of security, and Masternode using provides a combination of high speed transaction processing and low transaction cost."
+    },
+    "country_origin": "KZ",
+    "genesis_date": "2017-10-21",
+    "url": "https://kzpool.com",
+    "explorers": [
+        "https://chain.kzpool.com"
+    ],
+    "twitter": "KZCash_Official",
+    "facebook": "cashkz",
+    "telegram": "KZCash_Chat",
+    "github_org": "kzcashteam"
+}

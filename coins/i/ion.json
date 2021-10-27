@@ -1,0 +1,20 @@
+{
+    "id": "ion",
+    "symbol": "ion",
+    "name": "Ion",
+    "platforms": {
+        "osmosis": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem"
+    ],
+    "description": {
+        "en": "Ion is a secondary native token on the Osmosis chain based on Cosmos SDK"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://osmosis.zone/",
+    "explorers": [],
+    "twitter": "osmosiszone"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "boomcoin",
+    "symbol": "boomc",
+    "name": "BoomCoin",
+    "platforms": {
+        "binance-smart-chain": "0x761684e229f04ce8985b49e3beb1cd994c776a21"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The concept of BoomCoin (BOOMC) is plain and simple and that is to provide a means in the form of a Coin for people to semi anonymously purchase, trade and spend a cryptocurrency across various merchant sites."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x761684e229f04ce8985b49e3beb1cd994c776a21",
+    "url": "https://boomcoin.uk/",
+    "explorers": [
+        "https://bscscan.com/token/0x761684e229f04ce8985b49e3beb1cd994c776a21"
+    ],
+    "twitter": "OBoomcoin",
+    "facebook": "BoomCoin-101888465432752",
+    "telegram": "boomcoin2021",
+    "reddit": "OfficialBoomPay/"
+}

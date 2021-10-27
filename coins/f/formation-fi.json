@@ -1,0 +1,24 @@
+{
+    "id": "formation-fi",
+    "symbol": "form",
+    "name": "Formation FI",
+    "platforms": {
+        "ethereum": "0x21381e026ad6d8266244f2a583b35f9e4413fa2a",
+        "binance-smart-chain": "0x25a528af62e56512a19ce8c3cab427807c28cc19"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x21381e026ad6d8266244f2a583b35f9e4413fa2a",
+    "url": "https://formation.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x21381e026ad6d8266244f2a583b35f9e4413fa2a",
+        "https://ethplorer.io/address/0x21381e026ad6d8266244f2a583b35f9e4413fa2a"
+    ],
+    "twitter": "formationfi",
+    "telegram": "FormationFi"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "evny-token",
+    "symbol": "evny",
+    "name": "EVNY Token",
+    "platforms": {
+        "ethereum": "0x9a24b8e8a6d4563c575a707b1275381119298e60"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EVNY is the yield token(Liquidity Token) that allows holders to receive x5 (1%) of all EVN sells and transfers for ever. LP pool of EVNY is capped hence rewards are not inflated as it is in most protocols. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9a24b8e8a6d4563c575a707b1275381119298e60",
+    "url": "https://www.evolution.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x9a24b8e8a6d4563c575a707b1275381119298e60",
+        "https://ethplorer.io/address/0x9a24b8e8a6d4563c575a707b1275381119298e60"
+    ],
+    "twitter": "evn_finance/",
+    "telegram": "evolutionfinance"
+}

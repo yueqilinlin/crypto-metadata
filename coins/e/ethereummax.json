@@ -1,0 +1,25 @@
+{
+    "id": "ethereummax",
+    "symbol": "emax",
+    "name": "EthereumMax",
+    "platforms": {
+        "ethereum": "0x15874d65e649880c2614e7a480cb7c9a55787ff6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EthereumMax is an ERC20 token launched with a total supply of 2 quadrillion $eMax.\r\n\r\nWith no pre-sale and none held back for the development team, 100% of the tokens were released on the open market creating a fair and complete distribution of the coins. eMax was created with the purpose of providing the world with an Ethereum based token that gives holders the security and versatility of the Ethereum blockchain while yielding rewards and enhancing the decentralization of digital assets.\r\n\r\nThe token was built with a vision to strengthen the existing systems while adding secondary benefits that redistributes 2% of all transactions to existing holders. This will supply investors with an increase of $eMax in their wallets with each transaction.\r\n\r\nThe secured blockchain ledger grants investors control and security over all of their digital assets. eMax utilizes the a eco-friendly approach to traditional token mining and distribution technology as all tokens are delivered through automated farming. By doing so, it allows eMax to operate in a more environmental friendly and sustainable manner."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x15874d65e649880c2614e7a480cb7c9a55787ff6",
+    "url": "https://www.ethereummax.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x15874d65e649880c2614e7a480cb7c9A55787FF6",
+        "https://ethplorer.io/address/0x15874d65e649880c2614e7a480cb7c9A55787FF6"
+    ],
+    "twitter": "ethereum_max",
+    "facebook": "EthereumMax",
+    "telegram": "EthereumMax",
+    "reddit": "EthereumMax/"
+}

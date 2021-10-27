@@ -1,0 +1,26 @@
+{
+    "id": "goldfund-ico",
+    "symbol": "gfun",
+    "name": "GoldFund",
+    "platforms": {
+        "ethereum": "0x919d3a363776b1ceec9352610c82dfaf80edc32d"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "GFUN coins will be able to be traded on Cryptocurrency Exchanges or purchase Gold at a discount price from Goldfund\u2019s partner ZOMIA GOLD Exchange."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x919d3a363776b1ceec9352610c82dfaf80edc32d",
+    "url": "http://www.goldfund.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x919D3a363776B1ceec9352610c82dfaf80Edc32d",
+        "https://ethplorer.io/address/0x919d3a363776b1ceec9352610c82dfaf80edc32d"
+    ],
+    "twitter": "YGoldfund ",
+    "facebook": "YGoldfund",
+    "telegram": "gfuncoin"
+}

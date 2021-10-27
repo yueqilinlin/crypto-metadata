@@ -1,0 +1,27 @@
+{
+    "id": "unicly-beeple-collection",
+    "symbol": "ubeeple",
+    "name": "Unicly Beeple Collection",
+    "platforms": {
+        "ethereum": "0xcb4b17b9fa78bf1fac6d239e5bce291035750b6c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "uTokens",
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "uBEEPLE original fractionalized Beeple collection on Unicly. More Beeples will be added over time."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcb4b17b9fa78bf1fac6d239e5bce291035750b6c",
+    "url": "https://www.app.unic.ly/#/utoken-contract/0xcB4b17b9Fa78Bf1faC6D239e5BCe291035750b6c",
+    "explorers": [
+        "https://etherscan.io/token/0xcB4b17b9Fa78Bf1faC6D239e5BCe291035750b6c",
+        "https://ethplorer.io/address/0xcB4b17b9Fa78Bf1faC6D239e5BCe291035750b6c"
+    ],
+    "twitter": "ubeeple",
+    "telegram": "unicly_community"
+}

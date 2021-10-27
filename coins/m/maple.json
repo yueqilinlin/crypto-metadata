@@ -1,0 +1,25 @@
+{
+    "id": "maple",
+    "symbol": "mpl",
+    "name": "Maple",
+    "platforms": {
+        "ethereum": "0x33349b282065b0284d756f0577fb39c158f935e6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x33349b282065b0284d756f0577fb39c158f935e6",
+    "url": "https://www.maple.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x33349b282065b0284d756f0577fb39c158f935e6",
+        "https://ethplorer.io/address/0x33349b282065b0284d756f0577fb39c158f935e6"
+    ],
+    "twitter": "maplefinance",
+    "telegram": "maplefinance"
+}

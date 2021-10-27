@@ -1,0 +1,27 @@
+{
+    "id": "alchemix-usd",
+    "symbol": "alusd",
+    "name": "Alchemix USD",
+    "platforms": {
+        "ethereum": "0xbc6da0fe9ad5f3b0d58160288917aa56653660e9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "USD Stablecoin",
+        "Decentralized Finance (DeFi)",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "alUSD is a yield-backed synthetic stablecoin powered by the Alchemix protocol"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbc6da0fe9ad5f3b0d58160288917aa56653660e9",
+    "url": "https://alchemix.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9",
+        "https://ethplorer.io/address/0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9"
+    ],
+    "twitter": "AlchemixFi",
+    "github_org": "alchemix-finance"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "maze-token",
+    "symbol": "mzr",
+    "name": "Maze Token",
+    "platforms": {
+        "binance-smart-chain": "0x75c89548c91c9e38c0194110c7091dc2b6bfda61"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MAZE Token is supporting the project MAZE Research, first referencing and participative analysing platform of cryptocurrencies. This deflationnist token rewards his holders with a system of token redistribution and a staking system."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x75c89548c91c9e38c0194110c7091dc2b6bfda61",
+    "url": "https://mazetoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x75c89548c91c9e38c0194110c7091dc2b6bfda61"
+    ],
+    "twitter": "ResearchMaze",
+    "telegram": "mazelinks"
+}

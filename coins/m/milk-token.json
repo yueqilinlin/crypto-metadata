@@ -1,0 +1,25 @@
+{
+    "id": "milk-token",
+    "symbol": "milk",
+    "name": "Milk Token",
+    "platforms": {
+        "binance-smart-chain": "0xb7cef49d89321e22dd3f51a212d58398ad542640"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Milk Token is the first token release as part of the Milk and Butter token ecosystem. The Milk Token is deflationary with reflection redistribution and automatic liquidity functionality. Milk Tokens can be staked by users to earn Butter Tokens. The purpose of the Milk and Butter token ecosystem is to develop a system on the Binance Smart Chain for the automated generation of funds for charity with every use of said tokens."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xb7cef49d89321e22dd3f51a212d58398ad542640",
+    "url": "https://www.milktoken.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xb7cef49d89321e22dd3f51a212d58398ad542640"
+    ],
+    "twitter": "milk_token",
+    "facebook": "Milk-Token-105402514993409",
+    "telegram": "milk_token",
+    "reddit": "milktoken",
+    "github_org": "cclaypool1"
+}

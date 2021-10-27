@@ -1,0 +1,25 @@
+{
+    "id": "singularitydao",
+    "symbol": "sdao",
+    "name": "SingularityDAO",
+    "platforms": {
+        "ethereum": "0x993864e43caa7f7f12953ad6feb1d1ca635b875f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SingularityDAO is a decentralised, blockchain-based organisation with the main goal of governing DynaSets, diversified baskets of cryptocurrency assets dynamically managed by AI. Voting power in SingularityDAO is granted by the SingularityDAO token (SDAO).\r\nSingularityDAO brings the sophisticated risk-management strategies of AI-managed funds to DeFi, using SingularityNET\u2019s superior AI technology."
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "contract_address": "0x993864e43caa7f7f12953ad6feb1d1ca635b875f",
+    "url": "https://www.singularitydao.ai/",
+    "explorers": [
+        "https://etherscan.io/token/0x993864e43caa7f7f12953ad6feb1d1ca635b875f",
+        "https://ethplorer.io/address/0x993864e43caa7f7f12953ad6feb1d1ca635b875f"
+    ],
+    "twitter": "SingularityDao",
+    "facebook": "SingularityDAO",
+    "telegram": "SingularityDAO",
+    "github_org": "singularitydao"
+}

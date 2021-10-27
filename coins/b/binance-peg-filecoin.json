@@ -1,0 +1,25 @@
+{
+    "id": "binance-peg-filecoin",
+    "symbol": "fil",
+    "name": "Binance-Peg Filecoin",
+    "platforms": {
+        "binance-smart-chain": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure",
+        "Storage"
+    ],
+    "description": {
+        "en": "Tokens that are wrapped and pegged by Binance on a 1:1 ratio to the corresponding native token. Also supports BEP20 token deposits and withdrawals at Binance.com"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+    "url": "https://filecoin.io/",
+    "explorers": [
+        "https://bscscan.com/address/0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+        "https://bscscan.com/token/0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153"
+    ],
+    "twitter": "https://twitter.com/Filecoin"
+}

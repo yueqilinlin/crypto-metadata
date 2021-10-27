@@ -1,0 +1,23 @@
+{
+    "id": "algovest",
+    "symbol": "avs",
+    "name": "AlgoVest",
+    "platforms": {
+        "ethereum": "0x94d916873b22c9c1b53695f1c002f78537b9b3b2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AlgoVest is a capital protection and growth project with a multi-DeFi-utility and governance token utilizing the Protect, Reward and Burn mechanism as Proof Capital Protection (PoCP) and deriving its value from an underlying community treasury fund powered by an AI modular algorithm."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x94d916873b22c9c1b53695f1c002f78537b9b3b2",
+    "url": "https://algovest.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x94d916873b22c9c1b53695f1c002f78537b9b3b2",
+        "https://ethplorer.io/address/0x94d916873b22c9c1b53695f1c002f78537b9b3b2"
+    ],
+    "twitter": "AlgoVestAVS",
+    "telegram": "AlgoVest"
+}

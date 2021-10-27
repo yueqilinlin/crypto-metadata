@@ -1,0 +1,20 @@
+{
+    "id": "sov",
+    "symbol": "sov",
+    "name": "SOV",
+    "platforms": {
+        "eos": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SOV is the first variable-rate, self-deflationary cryptocurrency. It is also the first immutable currency token on EOS. Starting at a supply of 1 billion, SOV will burn a percent of every transaction until a final supply of 21 million is achieved."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.soveos.one/",
+    "explorers": [
+        "https://bloks.io/tokens/SOV-eos-sovmintofeos",
+        "https://eospark.com/token/sov/sovmintofeos"
+    ]
+}

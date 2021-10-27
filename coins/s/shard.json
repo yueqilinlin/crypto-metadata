@@ -1,0 +1,37 @@
+{
+    "id": "shard",
+    "symbol": "shard",
+    "name": "Shard Coin",
+    "platforms": {
+        "ethereum": "0xbebdab6da046bc49ffbb61fbd7b33157eb270d05",
+        "binance-smart-chain": "0xd8a1734945b9ba38eb19a291b475e31f49e59877"
+    },
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Governance",
+        "Exchange-based Tokens",
+        "Automated Market Maker (AMM)",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)",
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Shard is a new proof-of-stake (PoS) cryptocurrency launched with the purpose to provide easy access to investing in the wider cryptocurrency area, without the knowledge or time required to do so. "
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xbebdab6da046bc49ffbb61fbd7b33157eb270d05",
+    "url": "https://shardcoin.io/",
+    "explorers": [
+        "http://explorer.shardcoin.io/",
+        "https://bscscan.com/token/0xd8a1734945b9ba38eb19a291b475e31f49e59877",
+        "https://etherscan.io/token/0xbebdab6da046bc49ffbb61fbd7b33157eb270d05",
+        "https://ethplorer.io/address/0xbebdab6da046bc49ffbb61fbd7b33157eb270d05"
+    ],
+    "twitter": "shardcoin",
+    "facebook": "shardcoin",
+    "telegram": "infinity_shard",
+    "reddit": "https://www.reddit.com",
+    "github_org": "InfinityWallet"
+}

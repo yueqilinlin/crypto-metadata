@@ -1,0 +1,24 @@
+{
+    "id": "notsafemoon",
+    "symbol": "notsafemoon",
+    "name": "NotSafeMoon",
+    "platforms": {
+        "binance-smart-chain": "0x337e35ed5b38d5c7ec9f8d7cf78fe7f43d7dec6f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NotSafem\u043e\u043en is a project which aims to expose shady behind-the-scenes transactions of popular tokens and put advanced, data-backed analytics in the hands of the common investor. All the mysteries and stats of your favorite coins displayed graphically for you at a click."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x337e35ed5b38d5c7ec9f8d7cf78fe7f43d7dec6f",
+    "url": "https://notsafemoon.com/new/index.html",
+    "explorers": [
+        "https://bscscan.com/token/0x337e35ed5b38d5c7ec9f8d7cf78fe7f43d7dec6f"
+    ],
+    "twitter": "NotSafeMoon",
+    "telegram": "NotSafeMoonOfficial",
+    "reddit": "NotSafeMoon/",
+    "github_org": "notsafemoon"
+}

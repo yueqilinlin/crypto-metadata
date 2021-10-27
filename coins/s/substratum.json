@@ -1,0 +1,26 @@
+{
+    "id": "substratum",
+    "symbol": "sub",
+    "name": "Substratum",
+    "platforms": {
+        "ethereum": "0x8d75959f1e61ec2571aa72798237101f084de63a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Internet of Things (IOT)"
+    ],
+    "description": {
+        "en": "The Substratum Network will bring the decentralized web worldwide without the need of special software for the average internet user"
+    },
+    "country_origin": "",
+    "genesis_date": "2017-07-25",
+    "contract_address": "0x8d75959f1e61ec2571aa72798237101f084de63a",
+    "url": "https://substratum.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x8d75959f1e61ec2571aa72798237101f084de63a",
+        "https://ethplorer.io/address/0x8d75959f1e61ec2571aa72798237101f084de63a"
+    ],
+    "twitter": "SubstratumNet",
+    "reddit": "SubstratumNetwork",
+    "github_org": "substratum-net"
+}

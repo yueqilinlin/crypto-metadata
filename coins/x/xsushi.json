@@ -1,0 +1,27 @@
+{
+    "id": "xsushi",
+    "symbol": "xsushi",
+    "name": "xSUSHI",
+    "platforms": {
+        "ethereum": "0x8798249c2e607446efb7ad49ec89dd1865ff4272"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yearn Ecosystem",
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "xSUSHI is a token similar to our SushiSwap's Liquidity Provider tokens, that you receive in exchange for staking SUSHI tokens in the Sushibar. While holding the token, it will appreciate it value, as fees from our exchange platform are \"served to the Sushibar\". The xSUSHI token is always worth more than a regular SUSHI token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8798249c2e607446efb7ad49ec89dd1865ff4272",
+    "url": "https://sushi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
+        "https://ethplorer.io/address/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272"
+    ],
+    "twitter": "sushiswap"
+}

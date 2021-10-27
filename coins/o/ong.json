@@ -1,0 +1,24 @@
+{
+    "id": "ong",
+    "symbol": "ong",
+    "name": "Ontology Gas",
+    "platforms": {
+        "ontology": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Since the Ontology MainNet went live on June 30th, 2018, MainNet ONT has started to release ONG periodically.\r\n\r\nOntology uses a dual token (ONT and ONG) model. ONT is the coin and can be used for staking in consensus, whereas ONG is the utility token used for on-chain services.\r\n\r\nOntology is a new high-performance public blockchain project & a distributed trust collaboration platform.\r\n\r\nOntology provides new high-performance public blockchains that include a series of complete distributed ledgers and smart contract systems.\r\n\r\nOntology blockchain framework supports public blockchain systems and is able to customize different public blockchains for different applications. Ontology supports collaboration amongst chain networks with its various protocol groups.\r\n\r\nOntology will constantly provide common modules on the underlying infrastructure for different kinds of distributed scenarios, such as those for the distributed digital identity framework, distributed data exchange protocol, and so on. Based on specific scenario requirements, Ontology will continue to develop new common modules."
+    },
+    "country_origin": "SG",
+    "genesis_date": "2018-06-30",
+    "url": "https://ont.io/",
+    "explorers": [
+        "https://explorer.ont.io/"
+    ],
+    "twitter": "OntologyNetwork",
+    "facebook": "ONTnetwork",
+    "telegram": "OntologyNetwork",
+    "reddit": "OntologyNetwork/",
+    "github_org": "ontio"
+}

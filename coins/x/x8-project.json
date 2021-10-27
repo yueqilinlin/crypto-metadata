@@ -1,0 +1,28 @@
+{
+    "id": "x8-project",
+    "symbol": "x8x",
+    "name": "X8X Token",
+    "platforms": {
+        "ethereum": "0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Finally, Securing Value in Crypto is simple. Obtain your own X8X Tokens, that grant you a fair value exchange and 0% fee for issuing X8Currency, a 100% fiat & gold backed Token. Become the next gatekeeper!"
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c",
+    "url": "https://x8currency.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c",
+        "https://ethplorer.io/address/0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c"
+    ],
+    "twitter": "x8currency",
+    "facebook": "X8currency",
+    "telegram": "x8Project",
+    "github_org": "x8currency-project"
+}

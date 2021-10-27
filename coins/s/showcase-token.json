@@ -1,0 +1,25 @@
+{
+    "id": "showcase-token",
+    "symbol": "sho",
+    "name": "Showcase Token",
+    "platforms": {
+        "ethereum": "0xcc0014ccb39f6e86b1be0f17859a783b6722722f",
+        "polygon-pos": "0x9e01e0a928588ae6e669b8d1f0f1fa4ab976f617"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Showcase is an NFT mobile application designed to empower micro influencers and fans. Influencers use the in app creator tool for friction-free minting of NFTs. "
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0xcc0014ccb39f6e86b1be0f17859a783b6722722f",
+    "url": "https://showcase.to/",
+    "explorers": [
+        "https://etherscan.io/token/0xCc0014cCb39F6e86b1BE0f17859A783B6722722F",
+        "https://ethplorer.io/address/0xCc0014cCb39F6e86b1BE0f17859A783B6722722F"
+    ],
+    "twitter": "MyShowcase",
+    "telegram": "Showcasechat",
+    "github_org": "showcaseplatform"
+}

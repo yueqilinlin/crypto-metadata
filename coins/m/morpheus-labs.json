@@ -1,0 +1,29 @@
+{
+    "id": "morpheus-labs",
+    "symbol": "mitx",
+    "name": "Morpheus Labs",
+    "platforms": {
+        "ethereum": "0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6",
+        "polygon-pos": "0x31042a4e66eda0d12143ffc8cc1552d611da4cba"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Morpheus Lab Platform Gives your the flexibility to experiment, using the broad range of functionalities on our platform, to build and develop blockchain applications that suit the needs of your business. Simplifies and expedites blockchain application development, gives you the flexibility to choose between available programming languages and blockchain runtimes that better suit your needs. You receive unparalleled benefits from an integrated collaborative development environment, workspace management, version control repository and many preconfigured tasks. Let our platform do the heavy lifting while you focus on value-adding work such as application creation and experimenting with the blockchain technologies at a fraction of the cost and time."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6",
+    "url": "https://morpheuslabs.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6",
+        "https://ethplorer.io/address/0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6",
+        "https://polygonscan.com/token/0x31042a4e66eda0d12143ffc8cc1552d611da4cba"
+    ],
+    "twitter": "morpheuslabs_io",
+    "facebook": "morpheusblockchain",
+    "telegram": "morpheuslabs",
+    "github_org": "Morpheuslabs-io"
+}

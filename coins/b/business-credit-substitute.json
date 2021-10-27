@@ -1,0 +1,24 @@
+{
+    "id": "business-credit-substitute",
+    "symbol": "bcs",
+    "name": "Business Credit Substitute",
+    "platforms": {
+        "ethereum": "0x31274db8b609df99e5988ee527071643b5160fc3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BCAChain Using self-optimized POBC (goodwill certification) as the underlying consensus mechanism, and introducing the real world credit system to provide better operation and support for anonymous block chain network. BCAChain Focus on the new retail industry with rich landing scenarios, aiming at creating a supply chain traceability, quantifiable credit, transparent data, consumer shopping, membership services, precision marketing, centralized procurement scenarios in one, forming online e-commerce transactions, offline shopping experience, and building a new retail public chain ecology with multi-participation and multi-benefit. On November 8, 2018, BCAChain Foundation officially joined China Cloud System Industry Innovation Strategic Alliance as a governing unit. At present, BCAChain has completed the release of open source code at the bottom of block chain, wallet and DAPP application, and is expected to be on the main line in the second half of 2019."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x31274db8b609df99e5988ee527071643b5160fc3",
+    "url": "http://www.bcachain.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x31274db8b609df99e5988ee527071643b5160fc3",
+        "https://ethplorer.io/address/0x31274db8b609df99e5988ee527071643b5160fc3"
+    ],
+    "twitter": "BCAChain",
+    "telegram": "bcachainglobal",
+    "github_org": "BusinessCredit"
+}

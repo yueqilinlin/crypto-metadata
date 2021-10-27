@@ -1,0 +1,24 @@
+{
+    "id": "cryptonits",
+    "symbol": "crt",
+    "name": "Cryptonits",
+    "platforms": {
+        "ethereum": "0x36a28c7c9b3dea22f07f4df67833cbe764feeeb4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cryptonits - CRT is owned and operated by CRYPTONITS LTD. The total Supply is 21,000,000 CRT just like Bitcoin can't be created more. CRT may be stored, moved from one digital wallet to another, or converted into other digital currencies. The cryptocurrency is based on ERC-20."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x36a28c7c9b3dea22f07f4df67833cbe764feeeb4",
+    "url": "https://cryptonits.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x36a28c7c9b3dea22f07f4df67833cbe764feeeb4",
+        "https://ethplorer.io/address/0x36a28c7c9b3dea22f07f4df67833cbe764feeeb4"
+    ],
+    "twitter": "cryptonits",
+    "facebook": "CryptonitsCRT",
+    "telegram": "CryptonitsCRT"
+}

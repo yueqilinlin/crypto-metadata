@@ -1,0 +1,22 @@
+{
+    "id": "honor-token",
+    "symbol": "honor",
+    "name": "Honor Token",
+    "platforms": {
+        "polygon-pos": "0xb82a20b4522680951f11c94c54b8800c1c237693"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FarmHero is a novel protocol that mixes NFT, gaming and DEFI concepts. Community can contribute and earn in a various of ways, including but not limited to,  Yield Farming, NFT farming and/or NFT trading with our CUTE IP-owned NFT, bug bounty, join the incubators, playing the community games, or simply copy and paste referral link and send to friends.\r\n\r\nFarmHero has in-house games that strongly support HERO token price to ensure a long-term, continuous token model. Currently FarmHero has FOMO, Auction and Roll Games to help burn the token continuously.\r\n\r\nFarmHero has  a roadmap to include more traits and varieties to our NFTs,\r\nsuch as blind box, customised market places, 3D VR showcase of the NFT etc"
+    },
+    "country_origin": "VC",
+    "genesis_date": null,
+    "contract_address": "0xb82a20b4522680951f11c94c54b8800c1c237693",
+    "url": "https://polygon.farmhero.io/",
+    "explorers": [
+        "https://polygonscan.com/token/0xb82A20B4522680951F11c94c54B8800c1C237693"
+    ],
+    "twitter": "FarmHeroIO",
+    "telegram": "farmheroIO"
+}

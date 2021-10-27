@@ -1,0 +1,27 @@
+{
+    "id": "chi-gastoken-bsc",
+    "symbol": "chi",
+    "name": "Chi Gastoken (BSC)",
+    "platforms": {
+        "binance-smart-chain": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+        "harmony-shard-0": "0x2662eb1b5a4cf2abfb5fa2afe75da715e82b483f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Chi is a more efficient next generation gas token with additional smart contract for reduced deployment costs based on the original gas token GST2 implementation."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+    "url": "https://1inch.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x0000000000004946c0e9f43f4dee607b0ef1fa1c"
+    ],
+    "twitter": "1inchNetwork",
+    "telegram": "OneInchNetwork",
+    "github_org": "CryptoManiacsZone"
+}

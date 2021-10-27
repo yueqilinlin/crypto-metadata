@@ -1,0 +1,23 @@
+{
+    "id": "partyswap",
+    "symbol": "party",
+    "name": "PartySwap",
+    "platforms": {
+        "avalanche": "0x69a61f38df59cbb51962e69c54d39184e21c27ec"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PARTY is the PartySwap Reward Token and it can be earned through different activities on the platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x69a61f38df59cbb51962e69c54d39184e21c27ec",
+    "url": "https://app.partyswap.io/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0x69A61f38Df59CBB51962E69C54D39184E21C27Ec/token-transfers"
+    ],
+    "twitter": "partyswapdex",
+    "telegram": "partyswap",
+    "github_org": "PartySwapDEX"
+}

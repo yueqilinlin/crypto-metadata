@@ -1,0 +1,23 @@
+{
+    "id": "art-nano",
+    "symbol": "ARNO",
+    "name": "ART-NANO",
+    "platforms": {
+        "ethereum": "0x7aa885b81cd8bde980df6ecad860336068459895"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Creation of production of secondary energy sources for industrial and home use based on lead-acid battery cells using carbon nano materials"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7aa885b81cd8bde980df6ecad860336068459895",
+    "url": "https://arno-token.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7Aa885b81cd8bdE980dF6ECaD860336068459895",
+        "https://ethplorer.io/address/0x7aa885b81cd8bde980df6ecad860336068459895"
+    ],
+    "twitter": "ArnoToken",
+    "telegram": "arnobiz"
+}

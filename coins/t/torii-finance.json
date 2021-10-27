@@ -1,0 +1,23 @@
+{
+    "id": "torii-finance",
+    "symbol": "torii",
+    "name": "Torii Finance",
+    "platforms": {
+        "binance-smart-chain": "0xd9979e2479aea29751d31ae512a61297b98fbbf4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Torii Finance is a next generation decentralized finance protocol focused on NextGen fungible tokens and digital assets"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd9979e2479aea29751d31ae512a61297b98fbbf4",
+    "url": "https://torii.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xD9979e2479AEa29751D31AE512a61297B98Fbbf4"
+    ],
+    "twitter": "ToriiFinance",
+    "telegram": "ToriiFinance",
+    "github_org": "orgs"
+}

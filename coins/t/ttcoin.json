@@ -1,0 +1,23 @@
+{
+    "id": "ttcoin",
+    "symbol": "TC",
+    "name": "TTcoin",
+    "platforms": {
+        "tron": "TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TC - A payment method designed to be used by TTcoin institutions and organizations."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y",
+    "url": "https://www.ttcoin.info/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y"
+    ],
+    "twitter": "ttcoinofficial",
+    "telegram": "ttcoinworld",
+    "github_org": "TTCOIN-TC"
+}

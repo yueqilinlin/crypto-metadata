@@ -1,0 +1,24 @@
+{
+    "id": "bxiot",
+    "symbol": "bxiot",
+    "name": "bXIOT",
+    "platforms": {
+        "ethereum": "0x5c4ac68aac56ebe098d621cd8ce9f43270aaa355"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "bXIOT is the bridge token between XIOT and RI."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5c4ac68aac56ebe098d621cd8ce9f43270aaa355",
+    "url": "https://xiotri.io",
+    "explorers": [
+        "https://etherscan.io/token/0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355",
+        "https://ethplorer.io/address/0x5c4ac68aac56ebe098d621cd8ce9f43270aaa355"
+    ],
+    "twitter": "xiotri_defi",
+    "telegram": "xiotri_chat",
+    "reddit": "https://www.reddit.com"
+}

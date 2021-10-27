@@ -1,0 +1,24 @@
+{
+    "id": "bliss-2",
+    "symbol": "bliss",
+    "name": "Bliss",
+    "platforms": {
+        "ethereum": "0x50d2de5397d7c657c3d424634a2ddf4e0d73d789"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bliss is the second token issued from the Nirvana Defi ecosystem, with Bliss you are able to stake and earn WBTC rewards. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x50d2de5397d7c657c3d424634a2ddf4e0d73d789",
+    "url": "https://nirvanadefi.com",
+    "explorers": [
+        "https://etherscan.io/token/0x50d2de5397d7c657c3d424634a2ddf4e0d73d789",
+        "https://ethplorer.io/address/0x50d2de5397d7c657c3d424634a2ddf4e0d73d789"
+    ],
+    "twitter": "NirvanaDefi",
+    "telegram": "nirvanadefi",
+    "github_org": "nirvanaDefi"
+}

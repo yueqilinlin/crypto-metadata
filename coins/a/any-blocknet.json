@@ -1,0 +1,30 @@
+{
+    "id": "any-blocknet",
+    "symbol": "ablock",
+    "name": "ANY Blocknet",
+    "platforms": {
+        "ethereum": "0xe692c8d72bd4ac7764090d54842a305546dd1de5",
+        "avalanche": "0xc931f61b1534eb21d8c11b24f3f5ab2471d4ab50"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Protocol",
+        "Masternodes"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe692c8d72bd4ac7764090d54842a305546dd1de5",
+    "url": "https://blocknet.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xe692c8d72bd4ac7764090d54842a305546dd1de5",
+        "https://ethplorer.io/address/0xe692c8d72bd4ac7764090d54842a305546dd1de5",
+        "https://avascan.info/blockchain/c/token/0xc931f61b1534eb21d8c11b24f3f5ab2471d4ab50"
+    ],
+    "twitter": "The_Blocknet",
+    "telegram": "Blocknet",
+    "reddit": "https://www.reddit.com",
+    "github_org": "BlocknetDX"
+}

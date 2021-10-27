@@ -1,0 +1,27 @@
+{
+    "id": "surfexutilitytoken",
+    "symbol": "surf",
+    "name": "SurfExUtilityToken",
+    "platforms": {
+        "ethereum": "0x46d473a0b3eeec9f55fade641bc576d5bc0b2246"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "SURF is the official exchange utility token of Mercuriex.com cryptocurrency exchange."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x46d473a0b3eeec9f55fade641bc576d5bc0b2246",
+    "url": "https://surfex.us/",
+    "explorers": [
+        "https://etherscan.io/token/0x46d473a0B3eEEc9F55FADE641bC576d5bc0b2246",
+        "https://ethplorer.io/address/00x46d473a0B3eEEc9F55FADE641bC576d5bc0b2246"
+    ],
+    "twitter": "_MercuriEX_",
+    "facebook": "Mercuriex-525125764526459",
+    "telegram": "mercuriexofficial",
+    "reddit": "Mercuriex/"
+}

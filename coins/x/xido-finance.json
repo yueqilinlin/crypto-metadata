@@ -1,0 +1,24 @@
+{
+    "id": "xido-finance",
+    "symbol": "xido",
+    "name": "Xido Finance",
+    "platforms": {
+        "ethereum": "0xf6650117017ffd48b725b4ec5a00b414097108a7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XIDO Finance is a decentralized AMM with yield farming incentives, no mints, and a unique token distribution design. XIDO Finance is powered by XIDO token which adds a governance layer and powers the self-sustaining pools and farms without ever minting a new token."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xf6650117017ffd48b725b4ec5a00b414097108a7",
+    "url": "https://www.xido.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xf6650117017ffd48b725b4ec5a00b414097108a7",
+        "https://ethplorer.io/address/0xf6650117017ffd48b725b4ec5a00b414097108a7"
+    ],
+    "twitter": "XidoFinance",
+    "telegram": "xidofinance",
+    "github_org": "xidofinance"
+}

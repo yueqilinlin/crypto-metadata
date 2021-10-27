@@ -1,0 +1,23 @@
+{
+    "id": "ethanol",
+    "symbol": "enol",
+    "name": "Ethanol",
+    "platforms": {
+        "ethereum": "0x63d0eea1d7c0d1e89d7e665708d7e8997c0a9ed6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ERC-20 That gives cash back rewards for gas fees, up to 100%! "
+    },
+    "country_origin": "QU",
+    "genesis_date": null,
+    "contract_address": "0x63d0eea1d7c0d1e89d7e665708d7e8997c0a9ed6",
+    "url": "https://www.ethanoltoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x63d0eea1d7c0d1e89d7e665708d7e8997c0a9ed6",
+        "https://ethplorer.io/address/0x63d0eea1d7c0d1e89d7e665708d7e8997c0a9ed6"
+    ],
+    "twitter": "TokenEthanol",
+    "telegram": "ethanoltoken"
+}

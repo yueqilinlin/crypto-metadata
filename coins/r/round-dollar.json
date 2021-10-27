@@ -1,0 +1,23 @@
+{
+    "id": "round-dollar",
+    "symbol": "rd",
+    "name": "Round Dollar",
+    "platforms": {
+        "tron": "TLS49HRpnY4RymsWhkRW4ETnvkH7w8D72K"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Round Dollar (RD) is a revolutionary synthetic stablecoin pegged to the value of a basket of mainstream Asian currencies. One RD is equivalent to 47 CNH + 550 JPY + 25 HKD. With fiat currencies deposited for subscription of RD placed into custody of third-party trusts for safekeeping, which are subject to monthly audits and public disclosures, RD is regarded as a safe and well accepted stablecoin for transactional uses and storage of values. Compared with stablecoins pegged to a single currency (e.g. USD), RD has the advantage of reduced foreign exchange rate risk, particularly for Asian users\r\n\r\nPrimary usages:\r\n1.\tA medium through which value can be exchanged within the crypto world as well as between the fiat and crypto worlds is essential \u2013 RD can bridge that gap\r\n2.\tRD as a medium for trade settlement increases the efficiency of cross-border trade by avoiding redundant intermediaries. It also reduces foreign exchange rate risk for both importers and exporters\r\n3.\tRD\u2019s value is pegged with a basket of major Asian currencies, making it an effective denomination for Defi"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TLS49HRpnY4RymsWhkRW4ETnvkH7w8D72K",
+    "url": "https://onecash.asia/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TLS49HRpnY4RymsWhkRW4ETnvkH7w8D72K"
+    ],
+    "twitter": "OneCashWallet",
+    "telegram": "onecashofficial",
+    "github_org": "techtheone"
+}

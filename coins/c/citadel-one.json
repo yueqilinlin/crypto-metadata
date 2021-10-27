@@ -1,0 +1,24 @@
+{
+    "id": "citadel-one",
+    "symbol": "xct",
+    "name": "Citadel.one",
+    "platforms": {
+        "binance-smart-chain": "0xe8670901e86818745b28c8b30b17986958fce8cc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe8670901e86818745b28c8b30b17986958fce8cc",
+    "url": "https://citadel.one/dao",
+    "explorers": [
+        "https://bscscan.com/token/0xe8670901e86818745b28c8b30b17986958fce8cc"
+    ],
+    "twitter": "CitadelDAO",
+    "telegram": "citadelofficial",
+    "reddit": "citadeldao/",
+    "github_org": "citadeldao"
+}

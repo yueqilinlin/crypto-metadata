@@ -1,0 +1,24 @@
+{
+    "id": "sarcophagus",
+    "symbol": "sarco",
+    "name": "Sarcophagus",
+    "platforms": {
+        "ethereum": "0x7697b462a7c4ff5f8b55bdbc2f4076c2af9cf51a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sarcophagus is an autonomous, incentivized dead man's switch application built on Ethereum and Arweave.\r\n\r\nThe SARCO token is the payment method in the platform, and is staked by Archaeologists to incentivize their good behavior, else their SARCO will be slashed."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x7697b462a7c4ff5f8b55bdbc2f4076c2af9cf51a",
+    "url": "https://sarcophagus.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x7697b462a7c4ff5f8b55bdbc2f4076c2af9cf51a",
+        "https://ethplorer.io/address/0x7697b462a7c4ff5f8b55bdbc2f4076c2af9cf51a"
+    ],
+    "twitter": "sarcophagusio",
+    "telegram": "sarcophagusio",
+    "github_org": "sarcophagus-org"
+}

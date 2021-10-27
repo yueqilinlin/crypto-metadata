@@ -1,0 +1,27 @@
+{
+    "id": "carry",
+    "symbol": "cre",
+    "name": "Carry",
+    "platforms": {
+        "ethereum": "0x115ec79f1de567ec68b7ae7eda501b406626478e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "\"Carry Protocol is a blockchain project that compensates consumers for sharing their data and receiving ads. Carry compensates individual consumers for 1. sharing their offline purchase data to build the most comprehensive offline purchase database, and 2. receiving ads from advertisers that use the Carry database to send targeted ads. Carry empowers consumers by giving them back the full control of their data and its monetization, and enables businesses to send targeted ads to the right consumers using the shared data.\r\n\""
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x115ec79f1de567ec68b7ae7eda501b406626478e",
+    "url": "https://carryprotocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x115eC79F1de567eC68B7AE7eDA501b406626478e",
+        "https://ethplorer.io/address/0x115ec79f1de567ec68b7ae7eda501b406626478e"
+    ],
+    "twitter": "carryprotocol",
+    "facebook": "carryprotocol.io",
+    "telegram": "carryprotocol",
+    "github_org": "carryprotocol"
+}

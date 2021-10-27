@@ -1,0 +1,23 @@
+{
+    "id": "taco-finance",
+    "symbol": "taco",
+    "name": "Taco Finance",
+    "platforms": {
+        "binance-smart-chain": "0x9066e87bac891409d690cfefa41379b34af06391"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Taco Finance is a decentralized yield farm on Binance Smart Chain  and PancakeSwap exchange.\r\n\r\nA deflationary governance token model with a unique burn mechanism to stabilize TACO's price when there is a massive dump, rewarding and profitable yield with high APR. Besides, we have also implemented a timelock of 48 hours upon any contract changes, so that you can sleep peacefully while staking with us."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9066e87bac891409d690cfefa41379b34af06391",
+    "url": "https://taco.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x9066e87bac891409d690cfefa41379b34af06391"
+    ],
+    "twitter": "FinanceTaco",
+    "telegram": "TacoFinance",
+    "github_org": "tacofinance"
+}

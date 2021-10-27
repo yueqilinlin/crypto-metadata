@@ -1,0 +1,21 @@
+{
+    "id": "hebeblock",
+    "symbol": "hebe",
+    "name": "Hebeblock",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "HebeBlock is a Proof-of-Stake entitlement blockchain based on NXT Java. "
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "url": "https://www.hebeblock.com/",
+    "explorers": [
+        "https://block.hebeblock.com/"
+    ],
+    "twitter": "BlockHebe",
+    "github_org": "HebePlatform"
+}

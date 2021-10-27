@@ -1,0 +1,26 @@
+{
+    "id": "yfbitcoin",
+    "symbol": "yfbtc",
+    "name": "YFBitcoin",
+    "platforms": {
+        "ethereum": "0xff034d12353867fc4228f4ae3e689cd6dcaad120"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "YFBitcoin is a fully DeFi yield farming project with a smart contract audited by Certik. YFBitcoin has no founder, no VC & is one of the few projects that supports both Bitcoin and Ethereum by providing a venue for both of these to do yield farming through YFBTC.\r\n\r\nYFBitcoin follows the same protocol as Bitcoin with an additional function of deflationary that will help in the on-going value of YFBitcoin with a max supply of 21,000 that is 1000x lesser than the total supply of BItcoin.\r\n\r\nYFBTC is an alternative to mining BTC through liquidity mining via stable bitcoin wBTC and renBTC. This provides users the opportunity to HOLD BTC & get YFBTC. The First DeFi Project backed by the fundamental success of Bitcoin protocol combined with the success of YFI."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xff034d12353867fc4228f4ae3e689cd6dcaad120",
+    "url": "https://www.yfbtc.net/",
+    "explorers": [
+        "https://etherscan.io/token/0xff034D12353867fC4228f4Ae3E689CD6dCAad120",
+        "https://ethplorer.io/address/0xff034D12353867fC4228f4Ae3E689CD6dCAad120"
+    ],
+    "twitter": "yfswap",
+    "telegram": "yfswap",
+    "github_org": "Yfswapfinance"
+}

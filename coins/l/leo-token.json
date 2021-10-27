@@ -1,0 +1,32 @@
+{
+    "id": "leo-token",
+    "symbol": "leo",
+    "name": "LEO Token",
+    "platforms": {
+        "ethereum": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+        "sora": "0x009e199267a6a2c8ae075bb8d4c40ee8d05c1b769085ee59ce98e50c2b2d8756"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2019-05-20",
+    "contract_address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+    "url": "https://www.bitfinex.com/",
+    "explorers": [
+        "https://eospark.com/account/bitfinexleo1",
+        "https://eosflare.io/account/bitfinexleo1",
+        "https://etherscan.io/token/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+        "https://ethplorer.io/address/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+        "https://blockchair.com/ethereum/erc-20/token/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3"
+    ],
+    "twitter": "bitfinex",
+    "facebook": "bitfinex",
+    "telegram": "bfxtelegram",
+    "reddit": "bitfinex/"
+}

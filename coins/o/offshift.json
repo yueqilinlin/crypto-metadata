@@ -1,0 +1,27 @@
+{
+    "id": "offshift",
+    "symbol": "xft",
+    "name": "Offshift",
+    "platforms": {
+        "ethereum": "0xabe580e7ee158da464b51ee1a83ac0289622e6be",
+        "binance-smart-chain": "0xe138c66982fd5c890c60b94fdba1747faf092c20"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "Pioneering #PriFi with the world\u2019s first Private Derivatives Platform. 1:1 Collateralization, Zero slippage, Zero liquidations - we promise. #zkAssets are here."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be",
+    "url": "https://offshift.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xabe580e7ee158da464b51ee1a83ac0289622e6be",
+        "https://ethplorer.io/address/0xabe580e7ee158da464b51ee1a83ac0289622e6be",
+        "https://bscscan.com/token/0xe138c66982fd5c890c60b94fdba1747faf092c20"
+    ],
+    "twitter": "OffshiftXFT",
+    "telegram": "offshiftxft"
+}

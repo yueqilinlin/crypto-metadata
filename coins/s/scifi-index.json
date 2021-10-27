@@ -1,0 +1,26 @@
+{
+    "id": "scifi-index",
+    "symbol": "scifi",
+    "name": "SCIFI Index",
+    "platforms": {
+        "ethereum": "0xfdc4a3fc36df16a78edcaf1b837d3acaaedb2cb4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "DeFi Index"
+    ],
+    "description": {
+        "en": "SCIFI index token - 100% collaterised basket of ERC20 tokens "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfdc4a3fc36df16a78edcaf1b837d3acaaedb2cb4",
+    "url": "https://scifi.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xfdc4a3fc36df16a78edcaf1b837d3acaaedb2cb4",
+        "https://ethplorer.io/address/0xfdc4a3fc36df16a78edcaf1b837d3acaaedb2cb4"
+    ],
+    "twitter": "sci_finance",
+    "telegram": "scifinance"
+}

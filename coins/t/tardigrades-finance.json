@@ -1,0 +1,24 @@
+{
+    "id": "tardigrades-finance",
+    "symbol": "trdg",
+    "name": "Tardigrades Finance",
+    "platforms": {
+        "binance-smart-chain": "0x92a42db88ed0f02c71d439e55962ca7cab0168b5",
+        "ethereum": "0x92a42db88ed0f02c71d439e55962ca7cab0168b5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Frictionless Rewards while your Tardigrades hibernate! 5% Tax (2.5% Burn // 2.5% back to Holders) Join the Tardigrade Revolution!"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x92a42db88ed0f02c71d439e55962ca7cab0168b5",
+    "url": "https://tardigrades.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5",
+        "https://etherscan.io/token/0x92a42db88ed0f02c71d439e55962ca7cab0168b5"
+    ],
+    "twitter": "TRDGtoken",
+    "telegram": "TardigradesOfficial"
+}

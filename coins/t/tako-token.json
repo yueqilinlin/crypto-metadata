@@ -1,0 +1,24 @@
+{
+    "id": "tako-token",
+    "symbol": "tako",
+    "name": "Tako Token",
+    "platforms": {
+        "binance-smart-chain": "0x2f3391aebe27393aba0a790aa5e1577fea0361c2",
+        "polygon-pos": "0x6d2a71f4edf10ab1e821b9b373363e1e24e5df6b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TakoDefi is a community-driven project mainly works as a yield farming and optimizer platform."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x2f3391aebe27393aba0a790aa5e1577fea0361c2",
+    "url": "https://takodefi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x2f3391aebe27393aba0a790aa5e1577fea0361c2"
+    ],
+    "twitter": "TakoDeFi",
+    "telegram": "TakoDefi",
+    "github_org": "takodefi"
+}

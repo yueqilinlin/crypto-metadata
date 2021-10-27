@@ -1,0 +1,26 @@
+{
+    "id": "panvala-pan",
+    "symbol": "pan",
+    "name": "Panvala Pan",
+    "platforms": {
+        "ethereum": "0xd56dac73a4d6766464b38ec6d91eb45ce7457c44"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Charity"
+    ],
+    "description": {
+        "en": "Panvala is a decentralized foundation that helps fund the work that the whole Ethereum community depends on."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd56dac73a4d6766464b38ec6d91eb45ce7457c44",
+    "url": "https://www.panvala.com",
+    "explorers": [
+        "https://etherscan.io/token/0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44",
+        "https://ethplorer.io/address/0xd56dac73a4d6766464b38ec6d91eb45ce7457c44"
+    ],
+    "twitter": "PanvalaHQ",
+    "telegram": "panvala",
+    "github_org": "ConsenSys"
+}

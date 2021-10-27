@@ -1,0 +1,21 @@
+{
+    "id": "idle-wbtc-yield",
+    "symbol": "idleWBTCYield",
+    "name": "IdleWBTC (Best Yield)",
+    "platforms": {
+        "ethereum": "0x8c81121b15197fa0eeaee1dc75533419dcfd3151"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8c81121b15197fa0eeaee1dc75533419dcfd3151",
+    "url": "https://idle.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x8c81121b15197fa0eeaee1dc75533419dcfd3151",
+        "https://ethplorer.io/address/0x8c81121b15197fa0eeaee1dc75533419dcfd3151"
+    ]
+}

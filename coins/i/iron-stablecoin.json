@@ -1,0 +1,29 @@
+{
+    "id": "iron-stablecoin",
+    "symbol": "iron",
+    "name": "Iron",
+    "platforms": {
+        "polygon-pos": "0xd86b5923f3ad7b585ed81b448170ae026c65ae9a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Polygon Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "The IRON stablecoin provides strong integration with Iron Finance - a multi-chain, decentralized, non-custodial ecosystem of DeFi products, protocols, and use cases. Iron Finance is currently live on Polygon, Avalanche, & Fantom. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd86b5923f3ad7b585ed81b448170ae026c65ae9a",
+    "url": "https://iron.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0xd86b5923f3ad7b585ed81b448170ae026c65ae9a",
+        "https://bscscan.com/token/0x7b65b489fe53fce1f6548db886c08ad73111ddd8"
+    ],
+    "twitter": "IronFinance",
+    "telegram": "ironfinance",
+    "github_org": "IronFinance"
+}

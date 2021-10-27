@@ -1,0 +1,22 @@
+{
+    "id": "sparda-wallet",
+    "symbol": "spw",
+    "name": "Sparda Wallet",
+    "platforms": {
+        "zilliqa": "zil1pqcev4ykxla0jhy3anx32lnqgv8xncd8q57ql2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "aiming to empower all ZIL NFT Artist and users. Our product allows users to connect via ZilPay and add your NFTs by Smart Contract. The application will then retrieve all owned NFTs under that smart contract and itemize your NFTs"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "zil1pqcev4ykxla0jhy3anx32lnqgv8xncd8q57ql2",
+    "url": "https://www.spardawallet.com/",
+    "explorers": [
+        "https://viewblock.io/zilliqa/address/zil1pqcev4ykxla0jhy3anx32lnqgv8xncd8q57ql2"
+    ],
+    "twitter": "spardawallet",
+    "telegram": "SpardaWalletOfficial"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "clear-coin",
+    "symbol": "clr",
+    "name": "Clear Coin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ClearCoin is an open source crypto-currency focused on fast private transactions with low transaction fees & environmental footprint."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://clearnodes.com/",
+    "explorers": [
+        "http://explorer.clearnodes.com/"
+    ],
+    "twitter": "clearnodes",
+    "github_org": "ClearNode"
+}

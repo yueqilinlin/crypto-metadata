@@ -1,0 +1,28 @@
+{
+    "id": "vanilla-network",
+    "symbol": "vnla",
+    "name": "Vanilla Network",
+    "platforms": {
+        "ethereum": "0xb97faf860045483e0c7f08c56acb31333084a988"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gambling",
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "The Vanilla Network is a deflationary ERC-20 token with decentralized finance at the heart of its ecosystem driven by Blockchain technology. The premise of this project is to produce award winning staking and betting decentralized applications (dApps) that appeal to all betting enthusiasts and those seeking rewards for long-term participation."
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "contract_address": "0xb97faf860045483e0c7f08c56acb31333084a988",
+    "url": "https://vanilla.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xb97faf860045483e0c7f08c56acb31333084a988",
+        "https://ethplorer.io/address/0xb97faf860045483e0c7f08c56acb31333084a988"
+    ],
+    "twitter": "VanillaNetwork1",
+    "telegram": "Vanillafinance",
+    "reddit": "vanillatoken/",
+    "github_org": "vanilla-network"
+}

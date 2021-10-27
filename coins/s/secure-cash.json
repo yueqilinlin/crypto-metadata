@@ -1,0 +1,22 @@
+{
+    "id": "secure-cash",
+    "symbol": "scsx",
+    "name": "Secure Cash",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Secure Cash (also known as Scash) is a reserve currency for the upcoming world economic crisis. In addition to making anonymous transactions like any other coin, secure coin will be used as reserve currency, as well as gold, secure cash will also value much more during a global economic crisis."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "url": "http://securecashcoin.com ",
+    "explorers": [
+        "http://explorer.securecashcoin.com"
+    ],
+    "twitter": "securecash_scsx",
+    "telegram": "scash_scsx",
+    "github_org": "scashcoin"
+}

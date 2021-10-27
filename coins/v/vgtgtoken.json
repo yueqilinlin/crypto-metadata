@@ -1,0 +1,26 @@
+{
+    "id": "vgtgtoken",
+    "symbol": "vgtg",
+    "name": "VGTGToken",
+    "platforms": {
+        "ethereum": "0xe61eecfdba2ad1669cee138f1919d08ced070b83"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "VideoGamesTokenGold is the elite class of tokens released by VGT Project. VGTN is the basic version of token. VGT will be used in the smart contract based games and can be swapped on uniswap at the market price."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe61eecfdba2ad1669cee138f1919d08ced070b83",
+    "url": "https://www.videogamestoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe61eecfdba2ad1669cee138f1919d08ced070b83",
+        "https://ethplorer.io/address/0xe61eecfdba2ad1669cee138f1919d08ced070b83"
+    ],
+    "twitter": "VideoGamesToken",
+    "telegram": "VideoGamesToken",
+    "github_org": "VideoGamesToken"
+}

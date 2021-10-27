@@ -1,0 +1,24 @@
+{
+    "id": "peachfolio",
+    "symbol": "pchf",
+    "name": "Peachfolio",
+    "platforms": {
+        "binance-smart-chain": "0xc1cbfb96a1d5361590b8df04ef78de2fa3178390"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "peachfolio is a Decentralized Finance (DeFi) portfolio tracker app. It lets you see the current value of your DeFi cryptocurrency tokens in one easy location. With it, you can access all the data you need to make informed decisions and get the most out of your trades.\r\n\r\nYou will be able to check the original price you bought a token at, add notes to keep a record of important information, and monitor the current marketcap without needing to go to external sites such as poocoin. \r\n\r\nYou will also have access to most of peachfolio\u2019s functionality as soon as you install the free app. However, we've also created 'Pro' features for holders of our token that will help you get even more out of your portfolio. This will include functionality such as monitoring your P&L, and setting up price alerts, with more functionality also planned!"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xc1cbfb96a1d5361590b8df04ef78de2fa3178390",
+    "url": "https://peachfolio.app/",
+    "explorers": [
+        "https://bscscan.com/token/0xc1cbfb96a1d5361590b8df04ef78de2fa3178390"
+    ],
+    "twitter": "peachfolio",
+    "facebook": "peach.folio",
+    "telegram": "peachfolio",
+    "reddit": "peachfolio/"
+}

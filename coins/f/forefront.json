@@ -1,0 +1,22 @@
+{
+    "id": "forefront",
+    "symbol": "ff",
+    "name": "Forefront",
+    "platforms": {
+        "ethereum": "0x7e9d8f07a64e363e97a648904a89fb4cd5fb94cd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Forefront is an insight aggregator across the social token landscape.\r\n\r\nForefront is built as a tool to aid in the curation of resources, data and insights on how to navigate the ever-changing social token landscape. Forefront now supports 23 social tokens. It\u2019s the home for exclusive content on social tokens, a weekly newsletter, and profiles for 20+ projects and counting."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7e9d8f07a64e363e97a648904a89fb4cd5fb94cd",
+    "url": "https://forefront.news/",
+    "explorers": [
+        "https://etherscan.io/token/0x7e9d8f07a64e363e97a648904a89fb4cd5fb94cd",
+        "https://ethplorer.io/address/0x7e9d8f07a64e363e97a648904a89fb4cd5fb94cd"
+    ],
+    "twitter": "forefront__"
+}

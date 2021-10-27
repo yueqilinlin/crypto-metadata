@@ -1,0 +1,27 @@
+{
+    "id": "cdai",
+    "symbol": "cdai",
+    "name": "cDAI",
+    "platforms": {
+        "ethereum": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)",
+        "Compound Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Compound protocol balance token"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+    "url": "https://compound.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+        "https://ethplorer.io/address/0x5d3a536e4d6dbd6114cc1ead35777bab948e3643"
+    ],
+    "twitter": "compoundfinance",
+    "reddit": "compound"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "echosoracoin",
+    "symbol": "esrc",
+    "name": "EchoSoraCoin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [],
+    "description": {
+        "en": "ESR Coin is a 6-digit pin function that is fully protected from unauthorized users, introduced a 12-word paper key to solve the problem that cannot be restored when the electronic wallet device lost, which is a chronic problem of existing Coin, ESR Coin can safely be restored safely in the wallet of computer, tablet, mobile phone or notebook such as safekeeping ESR Coin from problem of electronic wallet device loss, wallet deletion, and storage management."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://www.woneesr.biz/cp/",
+    "explorers": [
+        "http://115.68.73.81:3005/"
+    ],
+    "github_org": "gyun0526"
+}

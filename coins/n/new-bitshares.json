@@ -1,0 +1,18 @@
+{
+    "id": "new-bitshares",
+    "symbol": "nbs",
+    "name": "New BitShares",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NBS is an OSS (open source) solution for DeFi (decentralized finance) business and DEX (decentralized exchange) based on DPOS consensus and implemented with DAO's organizational management structure. The graphene technology used by NBS is one of the most advanced blockchain technologies on the market"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://nbs.plus/",
+    "explorers": [
+        "https://explorer.nbs.plus/"
+    ],
+    "github_org": "bitshares-cnvote"
+}

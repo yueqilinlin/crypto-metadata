@@ -1,0 +1,23 @@
+{
+    "id": "geocoin",
+    "symbol": "geo",
+    "name": "Geocoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://geo.money/",
+    "explorers": [
+        "https://ubiqscan.io/token/0x500684ce0d4f04abedff3e54fcf8acc5e6cfc4bd",
+        "https://ubiqexplorer.com/"
+    ],
+    "twitter": "geo_coin",
+    "facebook": "geocoin.cash",
+    "github_org": "onetimer"
+}

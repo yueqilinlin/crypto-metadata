@@ -1,0 +1,21 @@
+{
+    "id": "bull-run",
+    "symbol": "brun",
+    "name": "Bull Run",
+    "platforms": {
+        "binance-smart-chain": "0x13d08a619848019f16f9f16d7f4b7eb90db38ed5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The NFT/Staking based token making a splash on BSC."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x13d08a619848019f16f9f16d7f4b7eb90db38ed5",
+    "url": "https://nftbull.run",
+    "explorers": [
+        "https://bscscan.com/token/0x13d08a619848019f16f9f16d7f4b7eb90db38ed5"
+    ],
+    "telegram": "BullRunBSC"
+}

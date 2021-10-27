@@ -1,0 +1,26 @@
+{
+    "id": "itrust-governance-token",
+    "symbol": "itg",
+    "name": "iTrust Governance Token",
+    "platforms": {
+        "ethereum": "0xf88b137cfa667065955abd17525e89edcf4d6426"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Insurance",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "iTrust.finance creates mutually beneficial relationships between stakers and insurance protocols by maximising rewards and growing cover capacity for all participants of the DAO, and the wider DeFi ecosystem.\r\n\r\nFrom launch, the iTrust platform will build a bridge to optimised staking for $wNXM token holders who cannot receive rewards via the Nexus Mutual platform, and $NXM holders who have been reluctant to stake or have been staking inefficiently. \r\n\r\nThe resulting increase in staked tokens and engaged stakers will allow the underlying cover protocols to unlock cover capacity."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0xf88b137cfa667065955abd17525e89edcf4d6426",
+    "url": "https://itrust.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xF88b137cfa667065955ABD17525e89EDCF4D6426",
+        "https://ethplorer.io/address/0xF88b137cfa667065955ABD17525e89EDCF4D6426"
+    ],
+    "twitter": "iTrustFinance",
+    "telegram": "iTrustCommunity"
+}

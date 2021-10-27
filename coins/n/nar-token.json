@@ -1,0 +1,23 @@
+{
+    "id": "nar-token",
+    "symbol": "nar",
+    "name": "NAR Token",
+    "platforms": {
+        "binance-smart-chain": "0xa1303e6199b319a891b79685f0537d289af1fc83"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Essentially, NAR is the governance and equity token of the Narwhal ecosystem. The majority of NAR is minted by liquidity mining. And along the way as the project grows, users holding NAR can participate in community proposals and decisions, as well as receive dividends as the project expands.  "
+    },
+    "country_origin": "TH",
+    "genesis_date": null,
+    "contract_address": "0xa1303e6199b319a891b79685f0537d289af1fc83",
+    "url": "https://narwhalswap.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xa1303e6199b319a891b79685f0537d289af1fc83"
+    ],
+    "twitter": "narwhalswap",
+    "telegram": "narwhalswap",
+    "github_org": "narwhalswap"
+}

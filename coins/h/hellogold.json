@@ -1,0 +1,29 @@
+{
+    "id": "hellogold",
+    "symbol": "hgt",
+    "name": "HelloGold",
+    "platforms": {
+        "ethereum": "0xba2184520a1cc49a6159c57e61e1844e085615b6",
+        "harmony-shard-0": "0x006f5e4c3d97d6d2652cf10bc08fd779d680b00b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "HelloGold gives you access to investment grade gold, via our mobile app, anywhere, anytime from as low as RM1 per transaction.  Our product adheres to the highest international standards and security levels.  It\u2019s a fast and secure way for you to buy gold online."
+    },
+    "country_origin": "MY",
+    "genesis_date": "2017-08-25",
+    "contract_address": "0xba2184520a1cc49a6159c57e61e1844e085615b6",
+    "url": "https://www.hgfoundation.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xba2184520a1cc49a6159c57e61e1844e085615b6",
+        "https://ethplorer.io/address/0xba2184520a1cc49a6159c57e61e1844e085615b6"
+    ],
+    "twitter": "foundationhg",
+    "facebook": "HelloGoldFoundation",
+    "telegram": "HelloGoldOfficial",
+    "reddit": "HelloGold",
+    "github_org": "myHelloGold"
+}

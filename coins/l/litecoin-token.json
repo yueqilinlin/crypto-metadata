@@ -1,0 +1,26 @@
+{
+    "id": "litecoin-token",
+    "symbol": "ltk",
+    "name": "Litecoin Token",
+    "platforms": {
+        "ethereum": "0x8a732bc91c33c167f868e0af7e6f31e0776d0f71"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": " LTK is introduced as a platform for easy, fast, affordable and efficient use of Litecoin. The solution is centered around giving people (LTK community) the ability to comfortably use Litecoin through a more scalable alias \u2013 LTK"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x8a732bc91c33c167f868e0af7e6f31e0776d0f71",
+    "url": "https://ltk.community/",
+    "explorers": [
+        "https://etherscan.io/token/0x8a732bc91c33c167f868e0af7e6f31e0776d0f71",
+        "https://ethplorer.io/address/0x8a732bc91c33c167f868e0af7e6f31e0776d0f71"
+    ],
+    "twitter": "litecoinltk",
+    "telegram": "LTK_Community",
+    "github_org": "LitecoinLTK"
+}

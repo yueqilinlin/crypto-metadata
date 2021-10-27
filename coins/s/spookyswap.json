@@ -1,0 +1,25 @@
+{
+    "id": "spookyswap",
+    "symbol": "boo",
+    "name": "Spookyswap",
+    "platforms": {
+        "fantom": "0x841fad6eae12c286d1fd18d1d525dffa75c7effe"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Fantom Ecosystem",
+        "Automated Market Maker (AMM)"
+    ],
+    "description": {
+        "en": "SpookySwap is the token for an automated market-making (AMM) decentalized exchange (DEX) on the Fantom Opera network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x841fad6eae12c286d1fd18d1d525dffa75c7effe",
+    "url": "https://spookyswap.finance",
+    "explorers": [
+        "https://ftmscan.com/token/0x841fad6eae12c286d1fd18d1d525dffa75c7effe"
+    ],
+    "twitter": "spookyswap"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "parrot-egg",
+    "symbol": "ipegg",
+    "name": "Parrot Egg",
+    "platforms": {
+        "iotex": "0x176cb5113b4885b3a194bd69056ac3fe37a4b95c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Parrot DeFi is a decentralized yield farming multi-chain platform based on IoTeX and Arbitrum. It offers high APRs and new pools are constantly added. \r\n\r\nThe team is composed of experienced entrepreneurs, smart contract developers, project managers and crypto enthusiasts; and has been excited about EVMs. \r\n\r\nAfter a successful launch on Arbitrum, Parrot Defi continues its expansion and has landed to IoTeX, where they are committed to continue developing new features to offer their users the best yield farming experience."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x176cb5113b4885b3a194bd69056ac3fe37a4b95c",
+    "url": "https://iotex.parrotdefi.com/",
+    "explorers": [
+        "https://iotexscout.io/address/0x176CB5113b4885B3a194Bd69056AC3fE37A4b95c"
+    ],
+    "twitter": "parrotdefinews",
+    "telegram": "parrotdefiofficial",
+    "github_org": "parrotdefifarm1"
+}

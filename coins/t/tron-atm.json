@@ -1,0 +1,22 @@
+{
+    "id": "tron-atm",
+    "symbol": "tatm",
+    "name": "TRON ATM",
+    "platforms": {
+        "tron": "TX8EdSeZQ99TvBbz8SXxxaBMTnEyV3Vmjw"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Our mission is to try and build the largest TRON network in the world. While doing so it is our goal to bring thousands of new faces to the crypto scene. We hope to rise together and create the TRON ATM network, with the community.\r\n\r\nOne of our primary short term goals is to advance in the development of our custom TRON ATM machines."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TX8EdSeZQ99TvBbz8SXxxaBMTnEyV3Vmjw",
+    "url": "https://tronmachines.io/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TX8EdSeZQ99TvBbz8SXxxaBMTnEyV3Vmjw"
+    ],
+    "twitter": "TronATM",
+    "github_org": "TronATM"
+}

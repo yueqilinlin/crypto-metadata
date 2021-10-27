@@ -1,0 +1,23 @@
+{
+    "id": "bundles",
+    "symbol": "bund",
+    "name": "Bundles",
+    "platforms": {
+        "ethereum": "0x8d3e855f3f55109d473735ab76f753218400fe96"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Platform where you can stake tokens and win or lose dependent upon crypto price predictions."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x8d3e855f3f55109d473735ab76f753218400fe96",
+    "url": "https://bundles.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x8D3E855f3f55109D473735aB76F753218400fe96",
+        "https://ethplorer.io/address/0x8d3e855f3f55109d473735ab76f753218400fe96"
+    ],
+    "twitter": "BundlesFinance",
+    "telegram": "BundlesFinanceDiscussion"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "delos-defi",
+    "symbol": "delos",
+    "name": "Delos Defi",
+    "platforms": {
+        "binance-smart-chain": "0x747fd09ae18ba055978b5da7a5cef572171c847c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DELOS DEFI aims to pair NFTs with real estate and agricultural projects with the intention of defining the rarity of NFTs based on the reward that each one will generate linked to the enterprises."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x747fd09ae18ba055978b5da7a5cef572171c847c",
+    "url": "https://delosdefi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x747fd09ae18ba055978b5da7a5cef572171c847c"
+    ],
+    "twitter": "delosdefi",
+    "telegram": "delosdefi_brasil",
+    "reddit": "DelosDefi/"
+}

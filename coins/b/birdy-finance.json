@@ -1,0 +1,22 @@
+{
+    "id": "birdy-finance",
+    "symbol": "bird",
+    "name": "Birdy Finance",
+    "platforms": {
+        "avalanche": "0x4480b4ddfb15fe6518817ef024d8b493aff2db54"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Birdy Finance is a decentralized finance platform built on the Avalanche Network.Our mission is to create the most Economically Sustainable and Accessible yield farming community on Avalanche by providing a simple user interface, facilitating access to DeFi, and creating a perpetual deflation token, the BIRD token."
+    },
+    "country_origin": "PT",
+    "genesis_date": null,
+    "contract_address": "0x4480b4ddfb15fe6518817ef024d8b493aff2db54",
+    "url": "https://birdy.finance/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0x4480B4DdFb15fE6518817ef024D8B493afF2Db54/token-transfers"
+    ],
+    "twitter": "birdyfinance",
+    "github_org": "birdyfinance"
+}

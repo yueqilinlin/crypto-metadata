@@ -1,0 +1,28 @@
+{
+    "id": "2key",
+    "symbol": "2key",
+    "name": "2key.network",
+    "platforms": {
+        "ethereum": "0xe48972fcd82a274411c01834e2f031d4377fa2c0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "Marketing"
+    ],
+    "description": {
+        "en": "Protocol:   2nd Layer Protocol Embedding Smart Contracts and Economic Models into HTTP Links, enabling \u201cSmartLinks\u201d \r\nPlatform: \u201cSocial Sourcing\u201d - incentivising formation of ad-hoc social networks that allow customers, fans and supporters to be compensated for helping businesses grow - finding target audiences that achieve business results. \r\n\r\n2KEY tokens are the blood that flows and drives the 2key network. They are a unit of value and a medium of exchange native to the 2key network and can be used in many ways, such as:\r\n\r\n1. 2KEY is the default reward for 2key SmartLinks referrers. When a referral chain leads to a conversion (purchase, booking, download, sign-in, donation, etc.), each person in that referral chain receives their share of the reward as defined in the smart contract.\r\n\r\n2. 2KEY scores both contractor and referrers\u2019 participation and reputation on the network.\r\n\r\n3. 2KEY is the default token to pay the network integrators that provide services on the network for a fee.\r\n\r\n4. Staking 2KEY is required to activate specific campaigns that do not contain a referral reward.\r\n\r\n5.  2KEY is used to provision budgets for non-monetary conversion campaigns (PPC, Signup, Lead Generation, etc.)\r\n\r\n6. 2KEY will be engineered as the default staking and reward token once 2key Protocol is supplied as an SDK, and for 2key Multi-Party-State-Network technology (read more on our WhitePaper)."
+    },
+    "country_origin": "IL",
+    "genesis_date": null,
+    "contract_address": "0xe48972fcd82a274411c01834e2f031d4377fa2c0",
+    "url": "https://2key.network",
+    "explorers": [
+        "https://etherscan.io/token/0xe48972fcd82a274411c01834e2f031d4377fa2c0",
+        "https://ethplorer.io/address/0xe48972fcd82a274411c01834e2f031d4377fa2c0"
+    ],
+    "twitter": "2keyNetwork",
+    "facebook": "2keyNetwork",
+    "telegram": "twokey_official",
+    "github_org": "2key"
+}

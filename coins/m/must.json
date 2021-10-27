@@ -1,0 +1,31 @@
+{
+    "id": "must",
+    "symbol": "must",
+    "name": "Must",
+    "platforms": {
+        "ethereum": "0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f",
+        "polygon-pos": "0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "A DeFi powered Blockchain game with yield generating NFT."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f",
+    "url": "https://www.cometh.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
+        "https://ethplorer.io/address/0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f",
+        "https://polygonscan.com/token/0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f"
+    ],
+    "twitter": "MUSTCometh",
+    "telegram": "cometh_io",
+    "reddit": "cometh/",
+    "github_org": "cometh-game"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "wrapped-xbtc",
+    "symbol": "wxbtc",
+    "name": "Wrapped xBTC",
+    "platforms": {
+        "ethereum": "0x5592c5aa89492ea918d55b804e177b5ca7dccd5a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "wxBTC is a new technology that provides a synthetic dominance hedge and synthetic index fund to blockchain assets."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x5592c5aa89492ea918d55b804e177b5ca7dccd5a",
+    "url": "https://xbtc.fi",
+    "explorers": [
+        "https://etherscan.io/token/0x5592c5aa89492ea918d55b804e177b5ca7dccd5a",
+        "https://ethplorer.io/address/0x5592c5aa89492ea918d55b804e177b5ca7dccd5a"
+    ],
+    "twitter": "XBTC_Official",
+    "telegram": "xBTC_Official",
+    "github_org": "ipo"
+}

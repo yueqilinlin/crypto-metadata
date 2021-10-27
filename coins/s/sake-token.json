@@ -1,0 +1,31 @@
+{
+    "id": "sake-token",
+    "symbol": "sake",
+    "name": "SakeToken",
+    "platforms": {
+        "ethereum": "0x066798d9ef0833ccc719076dab77199ecbd178b0",
+        "binance-smart-chain": "0x8bd778b12b15416359a227f0533ce2d91844e1ed"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Perpetuals",
+        "Decentralized Exchange Token (DEX)",
+        "Automated Market Maker (AMM)",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "SAKE is the first governance token in DeFi that supports both spot market and futures market with SakeSwap AMM DEX and SakePerp Perpetual Contract. \r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x066798d9ef0833ccc719076dab77199ecbd178b0",
+    "url": "https://sakeswap.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x066798d9ef0833ccc719076dab77199ecbd178b0",
+        "https://ethplorer.io/address/0x066798d9ef0833ccc719076dab77199ecbd178b0",
+        "https://bscscan.com/token/0x8bd778b12b15416359a227f0533ce2d91844e1ed"
+    ],
+    "twitter": "sakeswap",
+    "github_org": "Sakeswap"
+}

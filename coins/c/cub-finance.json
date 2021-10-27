@@ -1,0 +1,23 @@
+{
+    "id": "cub-finance",
+    "symbol": "cub",
+    "name": "Cub Finance",
+    "platforms": {
+        "binance-smart-chain": "0x50d809c74e0b8e49e7b4c65bb3109abe3ff4c1c1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x50d809c74e0b8e49e7b4c65bb3109abe3ff4c1c1",
+    "url": "https://cubdefi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x50d809c74e0b8e49e7b4c65bb3109abe3ff4c1c1"
+    ],
+    "twitter": "financeleo",
+    "telegram": "cubdefi",
+    "github_org": "CubFinance"
+}

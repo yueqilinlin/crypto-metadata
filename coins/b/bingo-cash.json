@@ -1,0 +1,23 @@
+{
+    "id": "bingo-cash",
+    "symbol": "bgo",
+    "name": "Bingo Cash",
+    "platforms": {
+        "binance-smart-chain": "0x579a6277a6c2c63a5b25006f63bce5dc8d9c25e7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bingo Cash Token (BGO) is an algorithmic token that will seek to have its price stay as close to $1 as possible. \r\nBingo Cash Token (BGO) is mainly used for Bingo Cash Finance D-app Casino."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x579a6277a6c2c63a5b25006f63bce5dc8d9c25e7",
+    "url": "https://bingocash.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x579A6277a6c2c63a5b25006F63Bce5DC8D9c25e7"
+    ],
+    "twitter": "Bingocashfi",
+    "telegram": "bingocash_official",
+    "github_org": "bingocashapp"
+}

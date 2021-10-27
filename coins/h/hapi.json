@@ -1,0 +1,30 @@
+{
+    "id": "hapi",
+    "symbol": "hapi",
+    "name": "HAPI",
+    "platforms": {
+        "ethereum": "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
+        "binance-smart-chain": "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
+        "solana": "6VNKqgz9hk7zRShTFdg5AnkfKwZUcojzwAkzxSH3bnUm"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Oracle"
+    ],
+    "description": {
+        "en": "HAPI is an on-chain cybersecurity protocol with trustless oracles preventing hacker attacks."
+    },
+    "country_origin": "LT",
+    "genesis_date": null,
+    "contract_address": "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
+    "url": "https://www.hapi.one/",
+    "explorers": [
+        "https://etherscan.io/token/0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
+        "https://ethplorer.io/address/0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
+        "https://bscscan.com/token/0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
+        "https://explorer.solana.com/address/6VNKqgz9hk7zRShTFdg5AnkfKwZUcojzwAkzxSH3bnUm"
+    ],
+    "twitter": "i_am_hapi_one",
+    "telegram": "hapiHF"
+}

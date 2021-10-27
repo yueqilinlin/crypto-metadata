@@ -1,0 +1,22 @@
+{
+    "id": "attlas-token",
+    "symbol": "ats",
+    "name": "Attlas Token",
+    "platforms": {
+        "ethereum": "0xb9a6644bef37286fc08e703ecd15e9dedf78d3eb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ATS Token is the official token to be used in Attlas Exchange\u2019s ecosystem. The holders of ATS will be entitled to various benefits like 50% fee discount, attractive APY daily staking program and other promotions. In the near future, ATS will also be used for trading fee calculation at further discount, as well as enrollment in Attlas Membership program for ATS holders to gain exclusive access to the IEO of promising projects on Attlas Starter."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xb9a6644bef37286fc08e703ecd15e9dedf78d3eb",
+    "url": "https://attlas.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xb9A6644bEf37286fC08e703Ecd15e9DEDf78d3eb",
+        "https://ethplorer.io/address/0xb9A6644bEf37286fC08e703Ecd15e9DEDf78d3eb"
+    ],
+    "telegram": "attlassignals"
+}

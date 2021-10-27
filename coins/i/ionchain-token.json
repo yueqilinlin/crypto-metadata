@@ -1,0 +1,25 @@
+{
+    "id": "ionchain-token",
+    "symbol": "ionc",
+    "name": "IONChain",
+    "platforms": {
+        "ethereum": "0xbc647aad10114b89564c0a7aabe542bd0cf2c5af"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "IONC is the official token of IONChain. It can be utilized by different participants in IONChain ecosystem. The maximum supply of IONC is 800 million. It is going to be released gradually for 20 years. After 20 years, the administrative committee elected by IONChain users using the consensus mechanism will decide whether to re-issue IONC tokens based on the amount of on-chain devices, amount of data being processed and the overall level of IONC abundance in the ecosystem.\r\nIoT devices and data access constitute the core parts of IONChain ecosystem, therefore IONC token is going to be used to reward devices and data providers. The yearly supply of IONC tokens increases along with the demand for data access. However, the upper limit is pre-set.\r\n\r\nIONC token is an indispensable part of the IONChain system as it is a single most crucial part of its ecIONChain aims to solve a wide range of the current problems of IoT networks in terms of data security, data circulation, data sharing and data transactions, thus enhancing the efficiency of the whole IoT ecosystem. IONChain introduces the concept of \u201cOne Device, One Coin, One Code\u201d which facilitates the integration of IoT devices with the IONChain blockchain network. With the use of Edge Computing technology, it enables every device on the IoT network to be utilized as a mining machine, making every IoT device that uses IONChain subject to mining rewards. Owing to the use of blockchain technology, the data source will always be reliable and verifiable on the IONChain network. Furthermore, the value ofthe data is quantified and data transfers are fast and secured. This makes it easier for IoT standards to emerge, unlocks a plethora of new IoT application scenarios and boosts the whole industry to enter the next level of development."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbc647aad10114b89564c0a7aabe542bd0cf2c5af",
+    "url": "https://www.ionchain.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xbc647aad10114b89564c0a7aabe542bd0cf2c5af",
+        "https://ethplorer.io/address/0xbc647aad10114b89564c0a7aabe542bd0cf2c5af"
+    ],
+    "twitter": "ion_chain",
+    "telegram": "ionchainen",
+    "reddit": "ionchain/",
+    "github_org": "ionchain"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "harold-coin",
+    "symbol": "harold",
+    "name": "Harold Coin",
+    "platforms": {
+        "binance-smart-chain": "0x2f75334fa03a8622dbc6fb2f612ab9f946cb35c9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Harold Coin is a community driven, fair launched, deflationary, DeFi coin which rewards HODLers and carries out charity with every transaction.\r\n\r\nThe longer you hold, the more you make and the more you make, the more your chosen charities make. 1% of our tokenomics are sent to Harolds charity wallet, our charity wallet contents will be sent to the months chosen charity (chosen by the Harold community via polls). You will be able to see the transactions made to charities and see your contributions working all around the charity world."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x2f75334fa03a8622dbc6fb2f612ab9f946cb35c9",
+    "url": "https://www.haroldcointoken.com",
+    "explorers": [
+        "https://bscscan.com/token/0x2f75334fa03a8622dbc6fb2f612ab9f946cb35c9"
+    ],
+    "twitter": "HaroldCoinToken",
+    "facebook": "HaroldCoinToken"
+}

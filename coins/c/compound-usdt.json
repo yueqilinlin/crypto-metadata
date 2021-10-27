@@ -1,0 +1,27 @@
+{
+    "id": "compound-usdt",
+    "symbol": "cusdt",
+    "name": "cUSDT",
+    "platforms": {
+        "ethereum": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Compound Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+    "url": "https://compound.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+        "https://ethplorer.io/address/0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9"
+    ],
+    "twitter": "compoundfinance",
+    "reddit": "Compound"
+}

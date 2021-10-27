@@ -1,0 +1,22 @@
+{
+    "id": "token-kennel",
+    "symbol": "kennel",
+    "name": "Token Kennel",
+    "platforms": {
+        "binance-smart-chain": "0x2c319cde4e46f85f7a1004b9a81d4a52d896e208"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Token Kennel is a new Defi Ecosystem that will launch tokens that rewards owners as well as provide additional ways to grow."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2c319cde4e46f85f7a1004b9a81d4a52d896e208",
+    "url": "https://thetokenkennel.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x2c319cde4e46f85f7a1004b9a81d4a52d896e208"
+    ],
+    "twitter": "KennelToken",
+    "telegram": "TokenKennel"
+}

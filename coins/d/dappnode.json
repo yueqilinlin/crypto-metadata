@@ -1,0 +1,25 @@
+{
+    "id": "dappnode",
+    "symbol": "node",
+    "name": "DAppNode",
+    "platforms": {
+        "ethereum": "0xda007777d86ac6d989cc9f79a73261b3fc5e0da0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem"
+    ],
+    "description": {
+        "en": "The DAppNode DAO will be an inclusive hub in which DAppNode\u2019s community will carry on its mission to keep the web decentralized, uncensored and resilient. Active DAO members will have the opportunity to vote on DAppNode\u2019s future projects and on how to expand its array of hardware and software solutions.\r\n\r\nTo get involved in Governance, DAO aspirants will need to make contributions to the ecosystem and help kick-start the NODE economy. Those who provide liquidity in the sanctioned pools (Uniswap and Sushiswap) or commit NODE to Governance Staking on Ethereum Mainnet or xDai will be granted voting powers proportional to their contributions. This way we can ensure that those with a voice are also those with a stake, and are not merely speculating with the token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xda007777d86ac6d989cc9f79a73261b3fc5e0da0",
+    "url": "https://dappnode.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xDa007777D86AC6d989cC9f79A73261b3fC5e0DA0",
+        "https://ethplorer.io/address/0xDa007777D86AC6d989cC9f79A73261b3fC5e0DA0"
+    ],
+    "twitter": "dappnode",
+    "github_org": "dappnode"
+}

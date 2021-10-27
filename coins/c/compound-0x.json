@@ -1,0 +1,27 @@
+{
+    "id": "compound-0x",
+    "symbol": "czrx",
+    "name": "c0x",
+    "platforms": {
+        "ethereum": "0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Compound Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Compound protocol balance token"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407",
+    "url": "https://compound.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407",
+        "https://ethplorer.io/address/0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407"
+    ],
+    "twitter": "compoundfinance",
+    "reddit": "compound"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "dimsum",
+    "symbol": "dms",
+    "name": "DimSum",
+    "platforms": {
+        "binance-smart-chain": "0x7cce48f8f4b67e2318f22f676975c49ff58d0fbe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x7cce48f8f4b67e2318f22f676975c49ff58d0fbe",
+    "url": "https://www.pandadao.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x7cce48f8f4b67e2318f22f676975c49ff58d0fbe"
+    ],
+    "twitter": "PandaDao3",
+    "telegram": "mypandadao"
+}

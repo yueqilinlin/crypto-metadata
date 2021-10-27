@@ -1,0 +1,24 @@
+{
+    "id": "coop-network",
+    "symbol": "coop",
+    "name": "Coop Network",
+    "platforms": {
+        "ethereum": "0x689cf5f8dd09bbb4417514c88909bb64eba2547d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The beauty of a COOP as an enterprise is the real democratic governance model. Decision making within a COOP works through \"one member,one vote.\" This was, until now, rather difficult. Members had to assemble in person, after being notified by mail. A voting process could take month to reach its goal. In the economic environment of the 21st century such delays are counterproductive.\r\n\r\nMembers benefit through the COOPs investments. In order to maximize the benefits for its members, our COOP will diversify its investments in different economic and social areas."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x689cf5f8dd09bbb4417514c88909bb64eba2547d",
+    "url": "https://www.thecoopnetwork.io/en",
+    "explorers": [
+        "https://etherscan.io/token/0x689cf5f8dd09bbb4417514c88909bb64eba2547d",
+        "https://ethplorer.io/address/0x689cf5f8dd09bbb4417514c88909bb64eba2547d"
+    ],
+    "twitter": "thegeomadao",
+    "telegram": "geomachat",
+    "github_org": "CoopNetwork"
+}

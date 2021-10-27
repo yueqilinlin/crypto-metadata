@@ -1,0 +1,27 @@
+{
+    "id": "spartan",
+    "symbol": "300",
+    "name": "Spartan",
+    "platforms": {
+        "ethereum": "0x167e2a574669b0eeb552aaf3da47c728cb348a41",
+        "binance-smart-chain": "0x3c462e6fe7043f076af33640c5e24388e2ee9ebc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "Spartan token [300] is an experimental token, it aims to be a store of value, that is why the total supply its only 300. You will be able to buy our NFTs with 300 in the future. With NFT's you will get upgraded on discord and gain access to a curtain chats and gain a salary paid in Iron Bars, the currency used on Discord, we will have a city, a play role on discord."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x167e2a574669b0eeb552aaf3da47c728cb348a41",
+    "url": "https://300.army/",
+    "explorers": [
+        "https://etherscan.io/token/0x167e2a574669b0eeb552aaf3da47c728cb348a41",
+        "https://ethplorer.io/address/0x167e2a574669b0eeb552aaf3da47c728cb348a41",
+        "https://bscscan.com/token/0x3c462e6fe7043f076af33640c5e24388e2ee9ebc"
+    ],
+    "twitter": "300Token",
+    "telegram": "Token300"
+}

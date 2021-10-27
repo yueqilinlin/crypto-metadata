@@ -1,0 +1,28 @@
+{
+    "id": "derivadao",
+    "symbol": "ddx",
+    "name": "DerivaDAO",
+    "platforms": {
+        "ethereum": "0x3a880652f47bfaa771908c07dd8673a787daed3a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Discover the future of trading with DerivaDEX, a community-governed derivatives exchange that unites performance and autonomy."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x3a880652f47bfaa771908c07dd8673a787daed3a",
+    "url": "https://derivadex.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3a880652f47bfaa771908c07dd8673a787daed3a",
+        "https://ethplorer.io/address/0x3a880652f47bfaa771908c07dd8673a787daed3a"
+    ],
+    "twitter": "DDX_Official",
+    "telegram": "DerivaDEX",
+    "reddit": "derivadex/"
+}

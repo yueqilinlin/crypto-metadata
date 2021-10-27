@@ -1,0 +1,23 @@
+{
+    "id": "etheroll",
+    "symbol": "dice",
+    "name": "Etheroll",
+    "platforms": {
+        "ethereum": "0x2e071d2966aa7d8decb1005885ba1977d6038a65"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Etheroll is an ethereum smart contract for a gambling dice game with a browser UX. The game requires no deposits or signups. At time of sale, the UX is available for demo and the game contract is available for review. Etheroll has a 1% house edge. 20% of the funds raised in the crowdsale will support additional development, and 80% will be used for the casino bank."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-02-13",
+    "contract_address": "0x2e071d2966aa7d8decb1005885ba1977d6038a65",
+    "url": "https://etheroll.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x2e071D2966Aa7D8dECB1005885bA1977D6038A65",
+        "https://ethplorer.io/address/0x2e071d2966aa7d8decb1005885ba1977d6038a65"
+    ],
+    "twitter": "etheroll",
+    "reddit": "etheroll"
+}

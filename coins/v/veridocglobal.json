@@ -1,0 +1,27 @@
+{
+    "id": "veridocglobal",
+    "symbol": "vdg",
+    "name": "VeriDocGlobal",
+    "platforms": {
+        "ethereum": "0x57c75eccc8557136d32619a191fbcdc88560d711"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "Veri Doc Global is a patented Quick Response (QR) Code verification solution that uses public-key cryptography and blockchain technology. Our main objective is to eliminate counterfeit products and document fraud."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x57c75eccc8557136d32619a191fbcdc88560d711",
+    "url": "https://www.veridocglobal.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x57C75ECCc8557136D32619a191fBCDc88560d711",
+        "https://ethplorer.io/address/0x57C75ECCc8557136D32619a191fBCDc88560d711"
+    ],
+    "twitter": "VeriDocGlobal",
+    "facebook": "VeriDocGlobal",
+    "telegram": "veridocglobal",
+    "github_org": "VeriDocGlobal"
+}

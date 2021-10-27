@@ -1,0 +1,24 @@
+{
+    "id": "voltbit",
+    "symbol": "vbit",
+    "name": "Voltbit",
+    "platforms": {
+        "binance-smart-chain": "0xe78a58acb18811e840dd828d4f0116389e953592"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Voltbit was created as a way to help combat poverty and climate change.\r\nIn many Third-World countries and under-developed areas, having electricity is currently a struggle due to lack of funding or availability. \r\n\r\nWith Voltbit, we aim to change this. A 1% fee on every transaction goes to a charity wallet.\r\n\r\nWe also have \"auto staking\" where you earn passive Voltbit tokens as every transaction has a 3% fee that redistributes tokens, reducing the total amount in circulation. There is finally another 3% fee that goes to burning tokens, removing them from circulation.\r\n\r\nTotaling a 7% overall fee per transaction."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xe78a58acb18811e840dd828d4f0116389e953592",
+    "url": "https://voltbit.xyz",
+    "explorers": [
+        "https://bscscan.com/token/0xe78a58acb18811e840dd828d4f0116389e953592"
+    ],
+    "twitter": "VoltbitToken",
+    "telegram": "VoltbitToken",
+    "reddit": "VoltBit/",
+    "github_org": "stqc"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "seeder-network-token",
+    "symbol": "SEED",
+    "name": "Sesameseed",
+    "platforms": {
+        "tron": "1000001"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The core of Sesame is a network of passionate Tron enthusiasts who collaborate and share their collective skills and knowledge to mature the Tron network. Sesame is the representative of the community, and most of our leadership team are from the Tron community itself. We are the community, the users of Tron."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "1000001",
+    "url": "https://www.sesameseed.org/",
+    "explorers": [
+        "https://tronscan.org/#/token/1000001",
+        "https://trxplorer.io/token/1000001"
+    ],
+    "twitter": "sesameseed_sr",
+    "telegram": "SesameseedOrg",
+    "reddit": "https://www.reddit.comsesameseed_community/"
+}

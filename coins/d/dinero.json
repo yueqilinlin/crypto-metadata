@@ -1,0 +1,27 @@
+{
+    "id": "dinero",
+    "symbol": "din",
+    "name": "Dinero",
+    "platforms": {},
+    "hashing_algorithm": "NeoScrypt",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Dinero is A New Digital Currency, Based On Bitcoin And Dash, That Enables Anonymous, Instant Payments To Anyone, Anywhere In The World. Dinero Uses Peer-To-Peer Technology To Operate With No Central Authority: Managing Transactions And Issuing Money Are Carried Out Collectively By The Network.\r\n\r\nDINERO\u2019s VISION\r\n\u201cWe want to enable everybody to easily conduct financial transactions with anybody they choose with ease, privacy and dignity without the need to involve or seek permission from third parties\u201d\r\n\r\nDINERO\u2019s MISSION\r\n\u201cTo enable our users to prosper financially by providing a reliable decentralised financial services solution that is easy for everybody to use.\u201d"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://dinerocoin.org/",
+    "explorers": [
+        "https://insights.dinerocoin.org/insight/",
+        "https://din.overemo.com/",
+        "https://altexplorer.co/coin/din",
+        "https://explorer.dinerocoin.org/insight/"
+    ],
+    "twitter": "dinerocrypto",
+    "facebook": "DineroCrypto-225049868053385",
+    "telegram": "DineroCoinMasternode",
+    "reddit": "Dinerocoin/",
+    "github_org": "dinerocoin"
+}

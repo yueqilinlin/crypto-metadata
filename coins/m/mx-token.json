@@ -1,0 +1,28 @@
+{
+    "id": "mx-token",
+    "symbol": "mx",
+    "name": "MX Token",
+    "platforms": {
+        "ethereum": "0x11eef04c884e24d9b7b4760e7476d06ddf797f36"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Cryptocurrency",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "MX is the proof of rights and interests of MXC trading platform itself. Its total circulation is 3 billion constantly and never be added. MX holders can enjoy a series of rights and interests including asset appreciation, rebates on platform revenue, supervision, voting, etc. MX can be obtained in two ways: mining and buying."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
+    "url": "https://www.mexc.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
+        "https://ethplorer.io/address/0x11eef04c884e24d9b7b4760e7476d06ddf797f36"
+    ],
+    "twitter": "MEXC_Global",
+    "facebook": "mexcglobal",
+    "telegram": "MEXCEnglish"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "gocerberus",
+    "symbol": "cerberus",
+    "name": "GoCerberus",
+    "platforms": {
+        "binance-smart-chain": "0x8b3268a23131dafbd77165690767f285c1aac6c5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GoCerberus is automatic liquidity acquisition yield farm running on Binance Smart Chain. GoCerberus tokenomics is a hybrid between yield farming and Safemoon.\r\n\r\nEach transfer of CERBERUS must pay a 9% transfer tax. The 1% transfer tax gets added to the liquidity pool through the contract automatically to raise the price floor continuously. And the liquidity will be locked and inaccessible. And the rest 8% transfer tax will be burned immediately. The whole process is automatic."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x8b3268a23131dafbd77165690767f285c1aac6c5",
+    "url": "https://gocerberus.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x8B3268a23131DAFBd77165690767F285C1AAC6C5"
+    ],
+    "twitter": "gocerberusfi",
+    "telegram": "GoCerberusOfficialGroup",
+    "github_org": "GoCerberus"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "litebitcoin",
+    "symbol": "lbtc",
+    "name": "LiteBitcoin",
+    "platforms": {},
+    "hashing_algorithm": "NeoScrypt",
+    "categories": [],
+    "description": {
+        "en": " Bitcoin reborn as LiteBitcoin (LBTC), it is an experimental new digital currency that enables instant payments to anyone, anywhere in the world. LiteBitcoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. LiteBitcoin is also the name of the open source software which enables the use of this currency."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-06-24",
+    "url": "http://www.lbtc.info/",
+    "explorers": [
+        "http://litebitcoins.thecryptochat.net/",
+        "https://lpool.name/explorer/LBTC"
+    ],
+    "github_org": "litebitcoins"
+}

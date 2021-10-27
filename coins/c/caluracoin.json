@@ -1,0 +1,21 @@
+{
+    "id": "caluracoin",
+    "symbol": "clc",
+    "name": "CaluraCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Sports"
+    ],
+    "description": {
+        "en": "CaluraCoin is a currency that was built to be fast, secure, and anonymous with its low transaction rate, and the PoS mining protocol aims to reduce the high energy consumption used in coin mining, thereby helping to preserve the health of the planet. Every effort should be rewarded, including yours to hold your coins in the wallet, thus being rewarded with a fair amount of CaluraCoin. With a low maximum supply of currencies, we aim to reach a good value in the market and thereby set ourselves in this market saturated with currencies."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "url": "https://www.caluracoin.com.br/",
+    "explorers": [
+        "http://explorer.caluracoin.com.br:3001"
+    ],
+    "twitter": "caluracoin",
+    "github_org": "laurobeleche"
+}

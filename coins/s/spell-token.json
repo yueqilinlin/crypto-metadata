@@ -1,0 +1,34 @@
+{
+    "id": "spell-token",
+    "symbol": "spell",
+    "name": "Spell Token",
+    "platforms": {
+        "ethereum": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+        "avalanche": "0xce1bffbd5374dac86a2893119683f4911a2f7814",
+        "fantom": "0x468003b688943977e6130f4f68f23aad939a1040",
+        "arbitrum-one": "0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens",
+        "Olympus Pro",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+    "url": "https://abracadabra.money/",
+    "explorers": [
+        "https://etherscan.io/token/0x090185f2135308bad17527004364ebcc2d37e5f6",
+        "https://ethplorer.io/address/0x090185f2135308bad17527004364ebcc2d37e5f6",
+        "https://cchain.explorer.avax.network/tokens/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/token-transfers",
+        "https://ftmscan.com/token/0x468003B688943977e6130F4F68F23aad939a1040",
+        "https://arbiscan.io/token/0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af"
+    ],
+    "twitter": "MIM_Spell",
+    "telegram": "MIM_Spell"
+}

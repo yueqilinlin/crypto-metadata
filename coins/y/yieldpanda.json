@@ -1,0 +1,22 @@
+{
+    "id": "yieldpanda",
+    "symbol": "ypanda",
+    "name": "YieldPanda",
+    "platforms": {
+        "binance-smart-chain": "0x9806aec346064183b5ce441313231dff89811f7a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "YieldPanda is a reflect token on the Binance Smart Chain. A 6.8% redistribution tax along with a 3.2% token burn is applied to every transaction."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9806aec346064183b5ce441313231dff89811f7a",
+    "url": "https://yieldpanda.finance/",
+    "explorers": [],
+    "twitter": "yieldpanda",
+    "telegram": "yieldpanda_finance"
+}

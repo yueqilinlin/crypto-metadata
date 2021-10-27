@@ -1,0 +1,23 @@
+{
+    "id": "bios",
+    "symbol": "bios",
+    "name": "0x_nodes",
+    "platforms": {
+        "ethereum": "0xaaca86b876ca011844b5798eca7a67591a9743c8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "0x_nodes is a network of deployed systems that allow users to move, acquire, and build yield bearing strategies with non-native assets across EVM and non-EVM based blockchains.\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaaca86b876ca011844b5798eca7a67591a9743c8",
+    "url": "https://www.0xnodes.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xaaca86b876ca011844b5798eca7a67591a9743c8",
+        "https://ethplorer.io/address/0xaaca86b876ca011844b5798eca7a67591a9743c8"
+    ],
+    "twitter": "0x_nodes",
+    "telegram": "XND_chat"
+}

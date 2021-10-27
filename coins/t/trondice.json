@@ -1,0 +1,23 @@
+{
+    "id": "trondice",
+    "symbol": "dice",
+    "name": "TRONdice",
+    "platforms": {
+        "tron": "THvZvKPLHKLJhEFYKiyqj6j8G8nGgfg7ur"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "THvZvKPLHKLJhEFYKiyqj6j8G8nGgfg7ur",
+    "url": "https://trondice.org/",
+    "explorers": [
+        "https://tronscan.org/#/token20/THvZvKPLHKLJhEFYKiyqj6j8G8nGgfg7ur",
+        "https://www.trxplorer.io/token/THvZvKPLHKLJhEFYKiyqj6j8G8nGgfg7ur"
+    ],
+    "twitter": "tron_dice",
+    "telegram": "TRONdiceofficial"
+}

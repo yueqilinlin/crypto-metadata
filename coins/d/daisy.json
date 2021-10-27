@@ -1,0 +1,25 @@
+{
+    "id": "daisy",
+    "symbol": "daisy",
+    "name": "Daisy Protocol",
+    "platforms": {
+        "ethereum": "0x40955d77f87123b71b145098358a60573ac7be96",
+        "tron": "TPrDk8WfuMheRFiC3Q5FsmCq74GuQXGcdL"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The premier Cross-chain launchpad and community that brings disruptive projects the disruptive crowdfunding they deserve"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x40955d77f87123b71b145098358a60573ac7be96",
+    "url": "https://daisylp.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x40955d77f87123b71b145098358a60573ac7be96",
+        "https://ethplorer.io/address/0x40955d77f87123b71b145098358a60573ac7be96"
+    ],
+    "twitter": "DaisyProtocol",
+    "telegram": "daisy_family",
+    "github_org": "DaisyProtocol"
+}

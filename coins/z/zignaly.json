@@ -1,0 +1,23 @@
+{
+    "id": "zignaly",
+    "symbol": "zig",
+    "name": "Zignaly",
+    "platforms": {
+        "ethereum": "0x7bebd226154e865954a87650faefa8f485d36081"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Zignaly is a social crypto investment platform. Invest in crypto by using signals, copying experts or fully delegated mode with profit sharing (PAMM). Avoid monthly subscriptions and pay only a portion of the profit as success fee."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7bebd226154e865954a87650faefa8f485d36081",
+    "url": "https://zignaly.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7bebd226154e865954a87650faefa8f485d36081",
+        "https://ethplorer.io/address/0x7bebd226154e865954a87650faefa8f485d36081"
+    ],
+    "twitter": "zignaly",
+    "telegram": "ZignalyHQ"
+}

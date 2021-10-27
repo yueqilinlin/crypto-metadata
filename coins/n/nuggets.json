@@ -1,0 +1,25 @@
+{
+    "id": "nuggets",
+    "symbol": "nug",
+    "name": "Nuggets",
+    "platforms": {
+        "ethereum": "0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Nuggets is a consumer blockchain platform giving users a single biometric tool for login, payment and identity verification, without sharing or storing private data.\r\n\r\n"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1",
+    "url": "https://nuggets.life/",
+    "explorers": [
+        "https://etherscan.io/token/0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1",
+        "https://ethplorer.io/address/0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1"
+    ],
+    "twitter": "nuggetsPAYandID",
+    "facebook": "nuggetsPAYandID",
+    "telegram": "nuggetsblockchain",
+    "reddit": "https://www.reddit.comr/nuggetsPayandID/"
+}

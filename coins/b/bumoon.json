@@ -1,0 +1,22 @@
+{
+    "id": "bumoon",
+    "symbol": "bumn",
+    "name": "BUMooN",
+    "platforms": {
+        "binance-smart-chain": "0x3aeff4e27e1f9144ed75ba65a80bdfee345f413e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BUMooN is a Eco-Living Token that aims to be dividend tools between its green project closed-loop revenue and user.\r\n\r\nCurrently there are 4 BUMooN green projects including profitable work and pure charity. Revenue generated within profitable projects category will be repurchased as the profitable projects underlying assets.\r\n\r\nEvery transactions including buyback, will be deducted by 5% to be shared among holders and 5% into Liquidity Pool."
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0x3aeff4e27e1f9144ed75ba65a80bdfee345f413e",
+    "url": "https://bumoon.io",
+    "explorers": [
+        "https://bscscan.com/token/0x3aeff4e27e1f9144ed75ba65a80bdfee345f413e"
+    ],
+    "twitter": "Bumoon_io",
+    "github_org": "bumoonio"
+}

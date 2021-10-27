@@ -1,0 +1,24 @@
+{
+    "id": "babyboo",
+    "symbol": "babyboo",
+    "name": "BabyBoo",
+    "platforms": {
+        "fantom": "0x471762a7017a5b1a3e931f1a97aa03ef1e7f4a73"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Created to support the SpookySwap ecosystem, BabyBoo is the governance token of BabyDAO. BabyBoo rewards holders BOO from transactions and will be used to farm future BabyTokens from the BabyDAO ecosystem!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x471762a7017a5b1a3e931f1a97aa03ef1e7f4a73",
+    "url": "https://babydao.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0x471762A7017A5B1A3e931F1A97aa03Ef1E7F4A73"
+    ],
+    "twitter": "BabyBooFTM",
+    "telegram": "babyboochat",
+    "reddit": "BabyBooFTM/",
+    "github_org": "1brahimsaid"
+}

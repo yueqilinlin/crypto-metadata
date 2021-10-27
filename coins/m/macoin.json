@@ -1,0 +1,23 @@
+{
+    "id": "macoin",
+    "symbol": "beck",
+    "name": "Macoin",
+    "platforms": {
+        "binance-smart-chain": "0x20f23bc6f28bd31f9869b9c7750fdeafed7d22cd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Macoin is breaking taboos and forever changing the crypto world. For the first time, a decentralized finance (DeFi) dares to unite two new realities in our society: cryptocurrencies and cannabis! \r\n\r\nOn the one hand, the taboo of the decentralized economy, the individual freedom when seeking for the best alternatives of financial operations and investments. And on the other, the taboo on medical cannabis and the need for more drug options for individuals and families with some health issues, like cancer. \r\n\r\nMacoin is the first 99% philanthropic coin. But Macoin converts other values \u200b\u200bthat would be the the system \"\"profit\"\" to reward the holders, strengthen the currency itself, and increase the donation pool, which will be reverted to medical cannabis research institutions."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0x20f23bc6f28bd31f9869b9c7750fdeafed7d22cd",
+    "url": "https://macoin.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x20f23bc6f28bd31f9869b9c7750fdeafed7d22cd"
+    ],
+    "twitter": "financemacoin",
+    "telegram": "macoinoficial",
+    "github_org": "macoin-finance-official"
+}

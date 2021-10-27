@@ -1,0 +1,22 @@
+{
+    "id": "monster-grand-prix-token",
+    "symbol": "mgpx",
+    "name": "Monster Grand Prix Token",
+    "platforms": {
+        "binance-smart-chain": "0xcbd7142e42666132abe1f4c57996b2d5e8b0c9e2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Monster Grand Prix is an AI based NFT Racing Play to Earn Game where players acquire monsters and tamers to race in the Grand Prix where the higher the rankings, the higher the prize.\r\n\r\nThe game employs an offchain server where we do not require gas fees to play the game. In addition, we  have onboarded inspex (Alpaca's Finance Auditor) to audit or smart contract."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcbd7142e42666132abe1f4c57996b2d5e8b0c9e2",
+    "url": "https://monstergrandprix.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xcbd7142e42666132abe1f4c57996b2d5e8b0c9e2"
+    ],
+    "twitter": "MonsterGPgameFi",
+    "telegram": "monstergrandprixofficial"
+}

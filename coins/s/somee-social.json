@@ -1,0 +1,26 @@
+{
+    "id": "somee-social",
+    "symbol": "somee",
+    "name": "SoMee.Social",
+    "platforms": {
+        "ethereum": "0x65f9a292f1aeed5d755aa2fd2fb17ab2e9431447"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Media"
+    ],
+    "description": {
+        "en": "SoMee.Social is a new social media platform that prioritizes user privacy and autonomy. Strong incentives are built in to encourage user interactions and quality content with the goal of cultivating a cohesive community building. SoMee.Social provides several avenues for earning rewards, starting with content monetization, and reward earning options for active participation in the community or for sharing your data if you choose to do so. SoMee.Social is a blockchain based platform governed by the existing $SOMEE token and an advertising system powered by the $SAT token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x65f9a292f1aeed5d755aa2fd2fb17ab2e9431447",
+    "url": "https://somee.social/",
+    "explorers": [
+        "https://etherscan.io/token/0x65f9a292f1aeed5d755aa2fd2fb17ab2e9431447",
+        "https://ethplorer.io/address/0x65f9a292f1aeed5d755aa2fd2fb17ab2e9431447"
+    ],
+    "twitter": "SoMeeOfficial",
+    "telegram": "onG_social",
+    "reddit": "SoMeeSocial"
+}

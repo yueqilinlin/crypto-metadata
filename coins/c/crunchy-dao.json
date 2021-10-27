@@ -1,0 +1,22 @@
+{
+    "id": "crunchy-dao",
+    "symbol": "crdao",
+    "name": "Crunchy DAO",
+    "platforms": {
+        "tezos": "KT1XPFjZqCULSnqfKaaYy8hJjeY63UNSGwXg"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CrDAO (Crunchy DAO) is the Crunchy.network governance token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT1XPFjZqCULSnqfKaaYy8hJjeY63UNSGwXg",
+    "url": "https://app.crunchy.network/",
+    "explorers": [
+        "https://tzkt.io/KT1XPFjZqCULSnqfKaaYy8hJjeY63UNSGwXg"
+    ],
+    "twitter": "CrunchyTez",
+    "telegram": "crunchy_network"
+}

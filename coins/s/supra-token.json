@@ -1,0 +1,24 @@
+{
+    "id": "supra-token",
+    "symbol": "supra",
+    "name": "Supra Token",
+    "platforms": {
+        "binance-smart-chain": "0x4ae2f11df681eec979bd93085dd1a05e9593c8c6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fantom Ecosystem"
+    ],
+    "description": {
+        "en": "SUPRA is Supra Finance native token. It has a low supply (10k) and holders receives benefits from Supra Finance."
+    },
+    "country_origin": "AR",
+    "genesis_date": null,
+    "contract_address": "0x4ae2f11df681eec979bd93085dd1a05e9593c8c6",
+    "url": "https://www.supra.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x4ae2f11df681eec979bd93085dd1a05e9593c8c6"
+    ],
+    "twitter": "finance_supra",
+    "telegram": "suprafinance"
+}

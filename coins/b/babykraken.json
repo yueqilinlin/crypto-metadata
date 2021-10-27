@@ -1,0 +1,23 @@
+{
+    "id": "babykraken",
+    "symbol": "krakbaby",
+    "name": "BabyKraken",
+    "platforms": {
+        "binance-smart-chain": "0x4d79da6f390d9e9d475802a693353c3715b7bd75"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Meet BabyKraken - an improved version of the EverRise contract. BabyKraken brings together EverRise and SafeMoon tokenomics, with a more robust buyback mechanism which can't be exploited by spamming transactions. A DAO-owned contract means our coin can grow, guided by the community."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x4d79da6f390d9e9d475802a693353c3715b7bd75",
+    "url": "https://kraken.baby/",
+    "explorers": [
+        "https://bscscan.com/token/0x4D79DA6F390D9E9d475802a693353C3715b7Bd75"
+    ],
+    "twitter": "BabyKrakenBSC",
+    "telegram": "babykrakentoken",
+    "github_org": "BabyKraken"
+}

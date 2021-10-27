@@ -1,0 +1,24 @@
+{
+    "id": "huplife",
+    "symbol": "hup",
+    "name": "HUP.LIFE",
+    "platforms": {
+        "binance-smart-chain": "0x375a7b6a6f74a5acb86c420c53c4ce8cf1d51b4d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HUP LIFE is building an all-in-one NFT Marketplace enabling socially conscious visual artists and collectors to sell the copyright of the underlying art along with its NFT to collectors - or retain the copyright and licence it to third parties using the platform\u2019s Licensing Module. HUP.LIFE\u2019s HUP.MARKET NFT Platform is the only solution that protects and fully monetizes the rights in your art NFTs - through an internationally enforceable framework.  We will emphasize how HUP.MARKET solves the \u201ccountry of origin\u201d problem through its National NFT Pre-Launchpads, and complies with the Berne Convention and the WIPO Copyright Treaty, allowing it to protect and monetize the copyright of art underlying NFTs."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x375a7b6a6f74a5acb86c420c53c4ce8cf1d51b4d",
+    "url": "https://www.hup.life/",
+    "explorers": [
+        "https://bscscan.com/token/0x375a7b6a6f74a5acb86c420c53c4ce8cf1d51b4d"
+    ],
+    "twitter": "hupdotlife",
+    "telegram": "hupdotlife",
+    "reddit": "huplife/",
+    "github_org": "HUP-LIFE"
+}

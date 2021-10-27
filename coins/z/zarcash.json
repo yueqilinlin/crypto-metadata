@@ -1,0 +1,21 @@
+{
+    "id": "zarcash",
+    "symbol": "zarh",
+    "name": "Zarhexcash",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "South African currency "
+    },
+    "country_origin": "ZA",
+    "genesis_date": null,
+    "url": "https://www.zarhex.co.za/",
+    "explorers": [
+        "http://51.38.71.12:9000"
+    ],
+    "twitter": "ZarhexE",
+    "github_org": "ProfProfcompile"
+}

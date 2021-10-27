@@ -1,0 +1,22 @@
+{
+    "id": "uncle-doge",
+    "symbol": "udoge",
+    "name": "Uncle Doge",
+    "platforms": {
+        "binance-smart-chain": "0xd2618bc9c9cdc40ff19e200a7d14a09799c0a152"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Uncle Doge is a community focused token with unique tokenomics. At the center of the tokenomics is the \u201cKraken\u201d the buy back mechanism that ensures price stability. In addition token olders recieve 1% in reflections and benefit from the burned tokens through the Kraken. The community is global, with over 12,000 holders on launch day and over 16M volume."
+    },
+    "country_origin": "RO",
+    "genesis_date": null,
+    "contract_address": "0xd2618bc9c9cdc40ff19e200a7d14a09799c0a152",
+    "url": "https://uncledoge.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xd2618bc9c9cdc40ff19e200a7d14a09799c0a152"
+    ],
+    "twitter": "UncleDogeBSC",
+    "telegram": "UncleDogeOfficial"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "farswap",
+    "symbol": "far",
+    "name": "FarSwap",
+    "platforms": {
+        "binance-smart-chain": "0xccf4b473ae8139196205ca72770c0330d43a0541",
+        "ethereum": "0xe8b2a3f60697f3c56fca44a9616b91fc9b99f98f",
+        "nuls": "NULSd6HgiVw1U5JLxXvD7gqRaLPLkR2MaVfZQ"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FarSwap is a decentralized cross-chain cryptocurrency software that runs on ERC20, NRC20, BEP20, HECO Blockchains, allowing a network of users to lend, borrow, buy and sell crypto assets and earn huge rewards. FarSwap is the leading decentralized platform that rewards both lenders and borrowers."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xccf4b473ae8139196205ca72770c0330d43a0541",
+    "url": "https://farswap.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xccf4b473ae8139196205ca72770c0330d43a0541"
+    ],
+    "twitter": "Farswap_defi",
+    "telegram": "FarSwap_Global",
+    "github_org": "FarSwap-repo"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "blackholeswap-compound-dai-usdc",
+    "symbol": "bhsc",
+    "name": "BlackHoleSwap-Compound DAI/USDC",
+    "platforms": {
+        "ethereum": "0x35101c731b1548b5e48bb23f99edbc2f5c341935"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x35101c731b1548b5e48bb23f99edbc2f5c341935",
+    "url": "https://beta.blackholeswap.com/swap",
+    "explorers": [
+        "https://etherscan.io/token/0x35101c731b1548B5e48bb23F99eDBc2f5c341935",
+        "https://ethplorer.io/address/0x35101c731b1548b5e48bb23f99edbc2f5c341935"
+    ],
+    "twitter": "hakkafinance",
+    "telegram": "hakkafinance",
+    "github_org": "hakkafinance"
+}

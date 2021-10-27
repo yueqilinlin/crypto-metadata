@@ -1,0 +1,28 @@
+{
+    "id": "rai",
+    "symbol": "rai",
+    "name": "Rai Reflex Index",
+    "platforms": {
+        "ethereum": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+        "avalanche": "0x97cd1cfe2ed5712660bb6c14053c0ecb031bff7d",
+        "polygon-pos": "0x00e5646f60ac6fb446f621d146b6e1886f002905",
+        "optimistic-ethereum": "0x7fb688ccf682d58f86d7e38e03f9d22e7705448b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+    "url": "http://reflexer.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+        "https://ethplorer.io/address/0x03ab458634910aad20ef5f1c8ee96f1d6ac54919"
+    ],
+    "twitter": "reflexerfinance"
+}

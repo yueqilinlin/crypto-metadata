@@ -1,0 +1,24 @@
+{
+    "id": "samurai",
+    "symbol": "sam",
+    "name": "Samurai",
+    "platforms": {
+        "ethereum": "0x53378825d95281737914a8a2ac0e5a9304ae5ed7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Samurai is ronin currency where liquidity is locked forever at Uniswap, holders will be allowed to stake their tokens to our platform and make amazing gains. This is the evolution of money."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x53378825d95281737914a8a2ac0e5a9304ae5ed7",
+    "url": "https://samuraiswap.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x53378825d95281737914a8a2ac0e5a9304ae5ed7",
+        "https://ethplorer.io/address/0x53378825d95281737914a8a2ac0e5a9304ae5ed7"
+    ],
+    "twitter": "SamuraiTokens",
+    "telegram": "samurai_swap",
+    "github_org": "KarateChap"
+}

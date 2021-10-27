@@ -1,0 +1,26 @@
+{
+    "id": "zelcash",
+    "symbol": "flux",
+    "name": "Flux",
+    "platforms": {},
+    "hashing_algorithm": "Equihash",
+    "categories": [
+        "Cryptocurrency",
+        "Masternodes",
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "url": "https://runonflux.io",
+    "explorers": [
+        "https://explorer.zel.cash/",
+        "https://explorer.zel.zeltrez.io/"
+    ],
+    "twitter": "runonflux",
+    "telegram": "zelhub",
+    "reddit": "Flux_Official/",
+    "github_org": "runonflux"
+}

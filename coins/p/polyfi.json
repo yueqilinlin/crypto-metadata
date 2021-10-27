@@ -1,0 +1,23 @@
+{
+    "id": "polyfi",
+    "symbol": "polyfi",
+    "name": "PolyFi",
+    "platforms": {
+        "polygon-pos": "0xfb005a1834eaaa6e55945b4b756e6873cecfe5ae"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PolyFi is a 3rd generation yield farming and AMM aggregator on Polygon Network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfb005a1834eaaa6e55945b4b756e6873cecfe5ae",
+    "url": "https://polyfi.io/",
+    "explorers": [
+        "https://polygonscan.com/token/0xfb005a1834eaaa6e55945b4b756e6873cecfe5ae"
+    ],
+    "twitter": "ypolyfinance",
+    "telegram": "polyfinance",
+    "github_org": "polyfinance"
+}

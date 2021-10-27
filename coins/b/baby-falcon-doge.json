@@ -1,0 +1,23 @@
+{
+    "id": "baby-falcon-doge",
+    "symbol": "bfdoge",
+    "name": "Baby Falcon Doge",
+    "platforms": {
+        "binance-smart-chain": "0x85a632b17e5310937ff237bfc2f0124f36469593"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Baby Falcon Doge is a community driven project with the most disruptive approach to BSC ecosystem bringing investors huge return on investment with the buyback mechanism."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x85a632b17e5310937ff237bfc2f0124f36469593",
+    "url": "https://babyfalcondoge.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x85A632B17E5310937FF237BfC2f0124f36469593"
+    ],
+    "twitter": "babyfalcondoge",
+    "telegram": "babyfalcondoge_ann",
+    "github_org": "babyfalcondogebsc"
+}

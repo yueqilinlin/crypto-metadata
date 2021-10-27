@@ -1,0 +1,22 @@
+{
+    "id": "innova",
+    "symbol": "inn",
+    "name": "Innova",
+    "platforms": {},
+    "hashing_algorithm": "NeoScrypt",
+    "categories": [
+        "Software"
+    ],
+    "description": {
+        "en": "Innova coin is targeted at bringing a coin with a service, our team is providing a vps service alongside innova and its website plugin as to promote its use and bridge more users to crypto by offering an everyday development solution."
+    },
+    "country_origin": "GB",
+    "genesis_date": "2017-10-19",
+    "url": "http://www.innova-foundation.com/",
+    "explorers": [
+        "https://explorer.innovacoin.io/"
+    ],
+    "twitter": "Innova_Fdn",
+    "telegram": "innovafoundation",
+    "github_org": "innova-foundation"
+}

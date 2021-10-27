@@ -1,0 +1,23 @@
+{
+    "id": "ozagold",
+    "symbol": "ozg",
+    "name": "Ozagold",
+    "platforms": {
+        "binance-smart-chain": "0x8460b5a15b41e3fca7df1ed98a5017bbf518f3a9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OZAGOLD (OZG): The Coin of reserve Ozalentour.\r\nThe aim of OZAGOLD (OZG) is to offer a digital asset that acts as a valuation reserve across 5 liquidity PAIRS : BNB, BUSD, BTC, USDT, ETH\r\nThis inflationary Utility Token is used to guarantee the OZP token and to enhance the Ozalentour platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8460b5a15b41e3fca7df1ed98a5017bbf518f3a9",
+    "url": "https://fr.ozalentour.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8460b5a15b41e3fca7df1ed98a5017bbf518f3a9"
+    ],
+    "twitter": "ozalentour",
+    "facebook": "Ozalentourfr",
+    "telegram": "OZAPHYREofficiel"
+}

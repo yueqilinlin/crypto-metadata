@@ -1,0 +1,26 @@
+{
+    "id": "acash-coin",
+    "symbol": "aca",
+    "name": "Acash Coin",
+    "platforms": {
+        "ethereum": "0x63d958d765f5bd88efdbd8afd32445393b24907f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Crypto payment solution project"
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "contract_address": "0x63d958d765f5bd88efdbd8afd32445393b24907f",
+    "url": "https://www.acashcorp.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x63d958d765f5bd88efdbd8afd32445393b24907f",
+        "https://ethplorer.io/address/0x63d958d765f5bd88efdbd8afd32445393b24907f"
+    ],
+    "twitter": "acashcoin",
+    "facebook": "aca.cash",
+    "telegram": "AcashCoin"
+}

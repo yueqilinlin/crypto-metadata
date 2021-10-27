@@ -1,0 +1,23 @@
+{
+    "id": "flashswap",
+    "symbol": "fsp",
+    "name": "FlashSwap",
+    "platforms": {
+        "ethereum": "0x0128e4fccf5ef86b030b28f0a8a029a3c5397a94"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Flashswap platform is developing a protocol that lets people trade derivatives safely, with margins, and without requiring custody."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x0128e4fccf5ef86b030b28f0a8a029a3c5397a94",
+    "url": "https://www.flashswap.net/index.html",
+    "explorers": [
+        "https://etherscan.io/token/0x0128e4fccf5ef86b030b28f0a8a029a3c5397a94",
+        "https://ethplorer.io/address/0x0128e4fccf5ef86b030b28f0a8a029a3c5397a94"
+    ],
+    "twitter": "flashswap",
+    "telegram": "flashswap"
+}

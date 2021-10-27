@@ -1,0 +1,31 @@
+{
+    "id": "auto",
+    "symbol": "auto",
+    "name": "Auto",
+    "platforms": {
+        "binance-smart-chain": "0xa184088a740c695e156f91f5cc086a06bb78b827",
+        "polygon-pos": "0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf "
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Polygon Ecosystem",
+        "HECO Chain Ecosystem",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "AutoFarm is a yield farming aggregator running on both Binance Smart Chain (BSC) and Huobi ECO chain (HECO)."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xa184088a740c695e156f91f5cc086a06bb78b827",
+    "url": "https://autofarm.network/",
+    "explorers": [
+        "https://bscscan.com/token/0xa184088a740c695e156f91f5cc086a06bb78b827",
+        "https://polygonscan.com/token/0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf"
+    ],
+    "twitter": "autofarmnetwork",
+    "telegram": "autofarm_network",
+    "github_org": "autofarm-network"
+}

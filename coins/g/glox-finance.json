@@ -1,0 +1,24 @@
+{
+    "id": "glox-finance",
+    "symbol": "glox",
+    "name": "Glox Finance",
+    "platforms": {
+        "ethereum": "0x0222be1f1b8413b2d7d76ebfc9e0285c1300692f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Flexible Investing thru innovation.\r\nNot just any token that you will sell when the price is high; real-life use will make it more beneficial. Benefit long-term thru wise staking, lending, and farming!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0222be1f1b8413b2d7d76ebfc9e0285c1300692f",
+    "url": "https://glox.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x0222bE1F1B8413b2d7d76EBfC9e0285C1300692f",
+        "https://ethplorer.io/address/0x0222be1f1b8413b2d7d76ebfc9e0285c1300692f"
+    ],
+    "twitter": "GloxFinance",
+    "telegram": "GloxFinanceChat",
+    "github_org": "GloxFinance"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "etherbone",
+    "symbol": "ethbn",
+    "name": "EtherBone",
+    "platforms": {
+        "ethereum": "0x96b52b5bf8d902252d0714a1bd2651a785fd2660"
+    },
+    "hashing_algorithm": "SHA-3",
+    "categories": [
+        "Big Data"
+    ],
+    "description": {
+        "en": "DogData leverages the knowledge and experience of Dogs breeders using advanced technologies and a gamified system to make Dog welfare rewarding. DogData is the first platform tokenizing exchanged community interaction or knowledge and experience Data."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x96b52b5bf8d902252d0714a1bd2651a785fd2660",
+    "url": "https://mydogdata.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x96b52B5BF8D902252D0714A1BD2651A785Fd2660",
+        "https://ethplorer.io/address/0x96b52B5BF8D902252D0714A1BD2651A785Fd2660"
+    ],
+    "twitter": "FaceBook4Dog",
+    "facebook": "DogsData",
+    "telegram": "DogDataICO",
+    "reddit": "AskDogExpert/",
+    "github_org": "dogdata"
+}

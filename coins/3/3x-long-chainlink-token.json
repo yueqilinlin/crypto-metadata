@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-chainlink-token",
+    "symbol": "linkbull",
+    "name": "3X Long Chainlink Token",
+    "platforms": {
+        "ethereum": "0x83ad87c988ac0c6277c0c6234cc8108b20bb5d9b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Chainlink Token (LINKBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Linkchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x83ad87c988ac0c6277c0c6234cc8108b20bb5d9b",
+    "url": "https://ftx.com/tokens/LINKBULL",
+    "explorers": [
+        "https://etherscan.io/token/0x83aD87C988aC0c6277C0c6234Cc8108b20bB5d9B",
+        "https://ethplorer.io/address/0x83ad87c988ac0c6277c0c6234cc8108b20bb5d9b"
+    ]
+}

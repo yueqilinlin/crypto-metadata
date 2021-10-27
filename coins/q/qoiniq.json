@@ -1,0 +1,23 @@
+{
+    "id": "qoiniq",
+    "symbol": "qiq",
+    "name": "QoinIQ",
+    "platforms": {
+        "ethereum": "0x98af2e926206f1eb5af46aeddd144727267d0487"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Qoiniq is a trading software company whose main objective is the development of a multi-exchange trading platform called QoinSuit. This platform will allow all users to connect and manage the accounts on various exchanges at the same time, allowing them to manage cryptocurrency trading in a simple and profitable way, also taking advantage of arbitrage opportunities."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x98af2e926206f1eb5af46aeddd144727267d0487",
+    "url": "https://www.qoiniq.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x98af2e926206f1eb5af46aeddd144727267d0487",
+        "https://ethplorer.io/address/0x98af2e926206f1eb5af46aeddd144727267d0487"
+    ],
+    "twitter": "qoiniq",
+    "telegram": "QoinIQ_official"
+}

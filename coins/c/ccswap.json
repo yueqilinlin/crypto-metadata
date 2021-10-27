@@ -1,0 +1,25 @@
+{
+    "id": "ccswap",
+    "symbol": "cc",
+    "name": "CCSwap",
+    "platforms": {
+        "ethereum": "0xb7fbff4ce5200215c690cc95855e5d6c5236ee9f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CCSWAP is a decentralized cryptocurrency exchange funded by CCFOX. The goal of the project is to gradually and smoothly migrate a fully functioned CEX to an equally efficient DEX with more transparency and self-governance within next two years.\r\n\r\nCC is the native token to CCSwap.\r\n\r\nCC is the governance token of the multi-chain decentralized AMM protocol with value capture capabilities. It will empower the CCSwap ecosystem, and its holders will enjoy the corresponding rights and interests of the entire CC Token ecosystem as well as the rare value brought about by its continuous buyback and burning.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb7fbff4ce5200215c690cc95855e5d6c5236ee9f",
+    "url": "https://ccswap.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xb7fbff4ce5200215c690cc95855e5d6c5236ee9f",
+        "https://ethplorer.io/address/0xb7fbff4ce5200215c690cc95855e5d6c5236ee9f"
+    ],
+    "twitter": "CCswap_io",
+    "telegram": "ccswapofficial",
+    "reddit": "CCswap/",
+    "github_org": "ccswap"
+}

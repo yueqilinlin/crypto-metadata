@@ -1,0 +1,32 @@
+{
+    "id": "cyberfi",
+    "symbol": "cfi",
+    "name": "CyberFi",
+    "platforms": {
+        "ethereum": "0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4",
+        "binance-smart-chain": "0x6a545f9c64d8f7b957d8d2e6410b52095a9e6c29",
+        "polygon-pos": "0xecf8f2fa183b1c4d2a269bf98a54fce86c812d3e",
+        "fantom": "0x6a545f9c64d8f7b957d8d2e6410b52095a9e6c29"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad",
+        "Polygon Ecosystem",
+        "Business Services"
+    ],
+    "description": {
+        "en": "CyberFi is a non-custodial intelligent automation platform that is reshaping the DeFi user experience. From beginners to experts, users can finally automate separate actions and events which makes using DeFi platforms simple and easy to use for the masses, while providing advanced features for professionals. CFi is used for governance, fees and subscriptions on the CyberFi platform."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4",
+    "url": "https://cyberfi.tech/",
+    "explorers": [
+        "https://etherscan.io/token/0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4",
+        "https://ethplorer.io/address/0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4",
+        "https://polygonscan.com/token/0xecf8f2fa183b1c4d2a269bf98a54fce86c812d3e",
+        "https://bscscan.com/token/0x6a545f9c64d8f7b957d8d2e6410b52095a9e6c29"
+    ],
+    "twitter": "cyberfi_tech",
+    "telegram": "cyberfi_tech"
+}

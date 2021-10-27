@@ -1,0 +1,27 @@
+{
+    "id": "decred",
+    "symbol": "dcr",
+    "name": "Decred",
+    "platforms": {},
+    "hashing_algorithm": "Blake-256",
+    "categories": [
+        "Cryptocurrency",
+        "Governance",
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "Decred aims to build a community-directed digital currency whose security, adaptability, and sustainability make it a superior long-term store of value. It is achieving this aim by building the world's first truly decentralized autonomous organization."
+    },
+    "country_origin": "",
+    "genesis_date": "2016-02-08",
+    "url": "https://www.decred.org/",
+    "explorers": [
+        "https://dcrdata.decred.org/",
+        "https://dcr.tokenview.com/"
+    ],
+    "twitter": "decredproject",
+    "facebook": "https://www.facebook.com/decredproject",
+    "telegram": "Decred",
+    "reddit": "decred",
+    "github_org": "decred"
+}

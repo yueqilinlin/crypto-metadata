@@ -1,0 +1,26 @@
+{
+    "id": "stabilize",
+    "symbol": "stbz",
+    "name": "Stabilize",
+    "platforms": {
+        "arbitrum-one": "0x2c110867ca90e43d372c1c2e92990b00ea32818b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Reward token for the Stabilize Protocol, a system that pushes stablecoins towards their pegs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2c110867ca90e43d372c1c2e92990b00ea32818b",
+    "url": "https://www.stabilize.finance",
+    "explorers": [
+        "https://arbiscan.io/token/0x2C110867CA90e43D372C1C2E92990B00EA32818b"
+    ],
+    "twitter": "StabilizePro",
+    "telegram": "stabilizeprotocol",
+    "github_org": "stabilize-token"
+}

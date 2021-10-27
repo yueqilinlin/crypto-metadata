@@ -1,0 +1,29 @@
+{
+    "id": "ormeus-ecosystem",
+    "symbol": "eco",
+    "name": "Ormeus Ecosystem",
+    "platforms": {
+        "ethereum": "0x191557728e4d8caa4ac94f86af842148c0fa8f7e",
+        "binance-smart-chain": "0xede2f059545e8cde832d8da3985caacf795b8765"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "The World\u2019s First Business-Backed Blockchain Smart Economy "
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x191557728e4d8caa4ac94f86af842148c0fa8f7e",
+    "url": "http://eco-system.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x191557728e4d8caa4ac94f86af842148c0fa8f7e",
+        "https://explorer.binance.org/asset/ECO-083",
+        "https://ethplorer.io/address/0x191557728e4d8caa4ac94f86af842148c0fa8f7e"
+    ],
+    "twitter": "ormeusecosystem",
+    "facebook": "ormeusecosystem",
+    "telegram": "OrmeusEcoSystemDAO",
+    "reddit": "OrmeusEcosystem/"
+}

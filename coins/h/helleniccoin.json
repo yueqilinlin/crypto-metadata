@@ -1,0 +1,24 @@
+{
+    "id": "helleniccoin",
+    "symbol": "hnc",
+    "name": "HNC Coin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "What is HNC Coin?\r\n\u2022\tHNC Coin was established in 2015. First block was generated on Feb 8th 2015. The initial blockchain was fork of Litecoin and after the last hard fork on July 2021 it became fork of Dash Coin, focusing on maximizing safety and speed of transactions.\r\n\r\nWho are the founders of HNC Coin?\r\n\r\n\u2022\tHNC Coin was founded by a team of Greek highly experienced blockchain developers. On 2020 new developers have joined the team and it is scheduled for more entries for the next couple of years in order to develop HNC\u2019s Coin Ecosystem.\r\nWhat makes HNC Coin unique?\r\n\u2022\tUnlike most digital currencies, the HNC is designed to be a dual-purpose currency. That is, to exist as a means of payment on the one hand but also to be treated as an innovative investment solution on the other. Also provide a complete payment ecosystem and integration its use into it.\r\n\u2022\tAfter the last hard fork on 17th July 2021, all holders of that date (17th July 2021) can sell only the:\r\n-\t5% of their total coins for the 1rst year\r\n-\t10% of their total coins for the second year\r\n-\t15% of their total coins for the third year\r\n-\t25% of their total coins for the fourth year \r\n-\t45% of their total coins for the fifth year\r\n\r\n\u2022\tBuyers after 17th July 2021, will have their HNC Coins 100% free tradeable.\r\n\r\nWhere can you buy HNC Coin?\r\n\r\n\u2022\tCurrently HNC Coin is traded at:\r\n-\tP2PB2B (https://p2pb2b.io)\r\n-\tGokuMarket (https://gokumarket.com/)\r\n-\tHNC Revolution (https://hnc-revolution.com/)\r\n-\tFinexbox (https://www.finexbox.com/)\r\n-\tExcelon (https://excelon.io/)\r\n\u2022\tMore exchanges will be added\r\nHow many HNC Coins are there in Circulation?\r\n\u2022\tCoin structure is as follows:\r\n-\tTotal supply is: 100M\r\n-\tCirculating supply: 93M\r\n-\tLocked for life to Masternodes: 10M (1m/masternode)\r\n-\tTradeable coins: 83M\r\n-\tCoins available for mining: 7M\r\n\r\nHow is the HNC Coin network secured?\r\n-\tHNC\u2019s Coin network consists of 10 Masternodes (each masternode requires 1M coins). Coins of all  ten (10) Masternodes are locked for life from HNC\u2019s team in order to protect the network. More Masternodes are about to be added in the near future. \r\n-\tA masternode has a full copy of the HNC blockchain and performs tasks such as block validation, PrivateSend and InstantSend, (PrivateSend is a function that enhances user\u2019s privacy by obscuring the origin of funds and with InstantSend the user is able to instantly send to another wallet up to 1.000 HNC Coins). The masternodes will receive payments for the above mentioned services.\r\n\r\n"
+    },
+    "country_origin": "GR",
+    "genesis_date": null,
+    "url": "https://www.helleniccoin.com",
+    "explorers": [
+        "https://explorer.hnc-coin.com/"
+    ],
+    "twitter": "CoinHnc",
+    "facebook": "HNCofficial",
+    "telegram": "HNCCoin_Global",
+    "reddit": "HellenicCoin/",
+    "github_org": "HellenicCoin-HNC"
+}

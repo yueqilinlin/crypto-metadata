@@ -1,0 +1,19 @@
+{
+    "id": "incakoin",
+    "symbol": "nka",
+    "name": "IncaKoin",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": "Incakoin the future of digital currency launched on august 28th 2013. Like  it produces coins and manages transactions on the blockchain. Unlike  we use far less energy with our proof of work and proof of stake mining. We use the sha-256 algorithm to produce coins. You can earn 9% interest on your balance every 35 days."
+    },
+    "country_origin": "",
+    "genesis_date": "2013-08-28",
+    "url": "http://incakoin.info/",
+    "explorers": [
+        "http://www.presstab.pw/phpexplorer/NKA/index.php"
+    ],
+    "twitter": "incakoin1",
+    "github_org": "NKAKoin"
+}

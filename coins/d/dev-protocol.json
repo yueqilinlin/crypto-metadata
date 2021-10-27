@@ -1,0 +1,26 @@
+{
+    "id": "dev-protocol",
+    "symbol": "dev",
+    "name": "Dev Protocol",
+    "platforms": {
+        "ethereum": "0x5caf454ba92e6f2c929df14667ee360ed9fd5b26"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "Dev Protocol lets GitHub users tokenize their OSS projects in a few clicks. Creating an OSS token allows projects to access sustainable funding, create underlying economic models for their project, and distribute incentives at scale. For the first time, OSS projects have a scalable solution to unlock their value.y"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5caf454ba92e6f2c929df14667ee360ed9fd5b26",
+    "url": "https://devprotocol.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0x5caf454ba92e6f2c929df14667ee360ed9fd5b26",
+        "https://ethplorer.io/address/0x5caf454ba92e6f2c929df14667ee360ed9fd5b26"
+    ],
+    "twitter": "devprtcl",
+    "telegram": "devprtcl",
+    "github_org": "dev-protocol"
+}

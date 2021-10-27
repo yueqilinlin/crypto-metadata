@@ -1,0 +1,25 @@
+{
+    "id": "plus-coin",
+    "symbol": "nplc",
+    "name": "Plus Coin",
+    "platforms": {
+        "ethereum": "0x97fb6fc2ad532033af97043b563131c5204f8a35"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "PlusCoin(PLC) has been developed to connect cryptocurrency and the real economy.\r\nWhen you use access entertainment (game etc.) and F&B, you can pay with mobile commerce instead of cash.\r\nIt offers safety through blockchain technology and provides a cheaper that does not require fees.\r\n\r\nCryptocurrency that can be used in life\r\nPlusCoin is a cryptocurrency that can be used like cash. It will be commercialized in 'Smart Plus', a mobile payment application, and 'Digstar', a game combining blockchain and cryptocurrency. Smartcon, one of our families, has more than 300 on/offline channels, so it be a more favorable and stable means of payment.\r\n\r\nCryptocurrency Exchange CoinRoom\r\nPlusCoin is listed in CoinRoom, a cryptocurrency exchange, launched by Upside. PlusCoin investors can enjoy a variety of benefits within CoinRoom.\r\n\r\nReal economy based crytocurrency\r\nPlusCoin issuer Metaps Plus does USD 100m in mobile transactions in Korea. In addition, the Metaps Group has a strong presence in China, Japan and Korea with operations in North Asia. Mobile FinTech platform meets the cryptocurrency economy to complete a \u201cMoney Flow Platform\u201d"
+    },
+    "country_origin": "KR",
+    "genesis_date": "2018-10-08",
+    "contract_address": "0x97fb6fc2ad532033af97043b563131c5204f8a35",
+    "url": "http://plus-coin.com/en/",
+    "explorers": [
+        "https://etherscan.io/token/0x97fb6fc2ad532033af97043b563131c5204f8a35",
+        "https://ethplorer.io/address/0x97fb6fc2ad532033af97043b563131c5204f8a35"
+    ],
+    "twitter": "pluscoin",
+    "facebook": "metapspluscoin",
+    "telegram": "PlusCoinEnglish",
+    "github_org": "Onther-Tech"
+}

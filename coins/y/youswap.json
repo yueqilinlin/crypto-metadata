@@ -1,0 +1,24 @@
+{
+    "id": "youswap",
+    "symbol": "you",
+    "name": "YouSwap",
+    "platforms": {
+        "huobi-token": "0x9364e119ad76e0346126afcbdf5c9f0189500cc5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Borderless, open and free. YouSwap is an early-stage All-Eco DeFi platform built on multiple public blockchains. We stand by constant innovation to provide you with the best trading experience as your personal decentralised digital assets platform. Trade and provide liquidity with YouSwap's optimised AMM with integrated resources for liquidity and swap pricing, increasing our exchange speed with low gas fees and an innovative tokenomics model.\r\n\r\nYouSwap supports the deployment of multi-chain architectures through a completely open-source protocol where users will be able to use their preferred networks. We also allow access to mainstream wallets such as MetaMask and DApp browsers, providing users with a safe and convenient DeFi transaction environment."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9364e119ad76e0346126afcbdf5c9f0189500cc5",
+    "url": "https://www.youswap.com",
+    "explorers": [
+        "https://hecoinfo.com/token/0x9364e119ad76e0346126afcbdf5c9f0189500cc5"
+    ],
+    "twitter": "youswap_global",
+    "telegram": "youswapglobalofficial",
+    "reddit": "youswap/",
+    "github_org": "youswap"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "sakura-bloom",
+    "symbol": "skb",
+    "name": "Sakura Bloom",
+    "platforms": {
+        "ethereum": "0x4af328c52921706dcb739f25786210499169afe6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "This is a cryptocurrency given to customers over Internet SNS sites and event attendees in the real world as a present."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4af328c52921706dcb739f25786210499169afe6",
+    "url": "https://www.skb-coin.jp/en/",
+    "explorers": [
+        "https://etherscan.io/token/0x4af328c52921706dcb739f25786210499169afe6",
+        "https://ethplorer.io/address/0x4af328c52921706dcb739f25786210499169afe6"
+    ],
+    "twitter": "skb_pay"
+}

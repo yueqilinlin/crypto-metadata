@@ -1,0 +1,27 @@
+{
+    "id": "usdx-stablecoin",
+    "symbol": "usdx",
+    "name": "USDx Stablecoin",
+    "platforms": {
+        "ethereum": "0xeb269732ab75a6fd61ea60b06fe994cd32a83549"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "USDx is a decentralized and synthetic indexed stablecoin introduced by dForce as the first and cornerstone protocol. It is 1:1 pegged to a basket of constituent stablecoins, integrated with interest bearing capability. USDx's initial underlying portfolios include USDC, TUSD, PAX and DAI (1 USDx = 30% USDC, 30 %TUSD, 30% PAX and 10% DAI), which can be adjusted by on-chain governance. The synthetization and disaggregation of USDx is wholly on-chain to ensure maximized transparency, immutability and auditability.\r\nDF is the platform utility token of the dForce network to be used for transaction services, community governance, system stabilizer, incentivization, validator deposit when we migrate to staking model, and etc."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeb269732ab75a6fd61ea60b06fe994cd32a83549",
+    "url": "https://dforce.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xeb269732ab75a6fd61ea60b06fe994cd32a83549",
+        "https://ethplorer.io/address/0xeb269732ab75a6fd61ea60b06fe994cd32a83549"
+    ],
+    "twitter": "dForcenet",
+    "telegram": "dforcenet",
+    "reddit": "dForceNetwork/",
+    "github_org": "dforcenetwork"
+}

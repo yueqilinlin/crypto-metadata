@@ -1,0 +1,24 @@
+{
+    "id": "usdf",
+    "symbol": "usdf",
+    "name": "OLD USDf",
+    "platforms": {
+        "ethereum": "0x05462671c05adc39a6521fa60d5e9443e9e9d2b9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "USDf is a fractional + algorithmic stablecoin that is governed by seigniorage share"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x05462671c05adc39a6521fa60d5e9443e9e9d2b9",
+    "url": "https://dollarprotocol.com",
+    "explorers": [
+        "https://etherscan.io/token/0x05462671c05adc39a6521fa60d5e9443e9e9d2b9",
+        "https://ethplorer.io/address/0x05462671c05adc39a6521fa60d5e9443e9e9d2b9"
+    ],
+    "twitter": "dollarprotocol",
+    "telegram": "dollarprotocol",
+    "github_org": "Dollar-Protocol"
+}

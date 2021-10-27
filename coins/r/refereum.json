@@ -1,0 +1,26 @@
+{
+    "id": "refereum",
+    "symbol": "rfr",
+    "name": "Refereum",
+    "platforms": {
+        "ethereum": "0xd0929d411954c47438dc1d871dd6081f5c5e149c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "Refereum uses the blockchain to directly connect developers and influencers, resulting in lower marketing costs and increased profits for everyone. In addition to more effective growth, Refereum strengthens engagement by offering cash prizes \u2014 enabling rewards for anything from an in-game high score to an eSports grand prize. We are working closely with Twitch and Unity, and anyone can play our open source demo today."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xd0929d411954c47438dc1d871dd6081f5c5e149c",
+    "url": "https://refereum.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd0929d411954c47438dc1d871dd6081f5c5e149c",
+        "https://ethplorer.io/address/0xd0929d411954c47438dc1d871dd6081f5c5e149c"
+    ],
+    "twitter": "refereum",
+    "facebook": "Refereum",
+    "telegram": "refereum"
+}

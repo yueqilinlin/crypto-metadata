@@ -1,0 +1,20 @@
+{
+    "id": "peony-coin",
+    "symbol": "pny",
+    "name": "Peony Coin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "We are the first team which approached creation of a coin under the leadership of the master Feng Shui"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://peony.net/",
+    "explorers": [
+        "https://explorer.decenomy.net/PNY/blocks"
+    ],
+    "twitter": "PeonyCoin",
+    "telegram": "Peony_Coin_Official",
+    "github_org": "decenomy"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "yieldx",
+    "symbol": "yieldx",
+    "name": "YieldX",
+    "platforms": {
+        "ethereum": "0xe52d53c8c9aa7255f8c2fa9f7093fea7192d2933"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xe52d53c8c9aa7255f8c2fa9f7093fea7192d2933",
+    "url": "https://yieldxfarming.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xE52d53c8C9aa7255F8c2FA9f7093FEa7192D2933",
+        "https://ethplorer.io/address/0xe52d53c8c9aa7255f8c2fa9f7093fea7192d2933"
+    ],
+    "twitter": "yieldfarmingio",
+    "telegram": "yieldfarmingio"
+}

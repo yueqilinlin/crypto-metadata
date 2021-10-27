@@ -1,0 +1,23 @@
+{
+    "id": "cashcow-finance",
+    "symbol": "ccf",
+    "name": "CashCow.Finance",
+    "platforms": {
+        "binance-smart-chain": "0xf823f18d13df1ffdced206708d389dd455bb802b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CashCow Finance is an all-in-one DeFi platform designed to allow users to deposit, borrow, and earn on leverage without having to hop from platform to platform. Depositors provide liquidity and earn passive income, borrowers can borrow using collateral quickly and easily, and liquidity miners can mine on leverage to maximize earnings.\r\n\r\nCashCow Finance operates on the Binance Smart Chain. Compared to Ethereum, Binance Smart Chain is much faster with fees magnitudes lower. This is crucial in making sure our service is near instantaneous and the blockchain transaction fees are as close to zero as possible.\r\n\r\nThe project serves users with the greatest sincerity and is committed to creating a star project with good user experience, asset security, stable income, and user interests as the core.\r\n\r\nCashCow will start with the lending model, and we plan to release liquidity mining and transaction fee mining modules step by step. We also plan to provide Blockchain Interoperability (Cross-blockchain). This would allow users to shift assets unhindered, thus creating a perfect investment environment."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf823f18d13df1ffdced206708d389dd455bb802b",
+    "url": "https://bsc.cashcow.finance/dashboard",
+    "explorers": [
+        "https://bscscan.com/token/0xf823f18d13df1ffdced206708d389dd455bb802b"
+    ],
+    "twitter": "financecow",
+    "telegram": "financecow",
+    "github_org": "cashcowfinance"
+}

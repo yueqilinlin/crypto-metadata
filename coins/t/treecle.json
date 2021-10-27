@@ -1,0 +1,26 @@
+{
+    "id": "treecle",
+    "symbol": "trcl",
+    "name": "Treecle",
+    "platforms": {
+        "ethereum": "0x0a9d68886a0d7db83a30ec00d62512483e5ad437"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Used Car Market Sale & Management with Blockchain"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x0a9d68886a0d7db83a30ec00d62512483e5ad437",
+    "url": "https://www.treecle.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x0a9d68886a0D7Db83a30ec00d62512483e5Ad437",
+        "https://ethplorer.io/address/0x0a9d68886a0D7Db83a30ec00d62512483e5Ad437"
+    ],
+    "twitter": "TRCL_0601",
+    "telegram": "trcl_0601",
+    "github_org": "treeclegitadmin"
+}

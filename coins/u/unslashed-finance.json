@@ -1,0 +1,26 @@
+{
+    "id": "unslashed-finance",
+    "symbol": "usf",
+    "name": "Unslashed Finance",
+    "platforms": {
+        "ethereum": "0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Insurance",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Unslashed Finance is a decentralized insurance protocol. Rather than focusing on retail users, Unslashed Finance focuses on getting more protocol clients. It has managed to secure clients such as Lido DAO and Enzyme Finance.\u00a0\u00a0"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce",
+    "url": "https://unslashed.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce",
+        "https://ethplorer.io/address/0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce"
+    ],
+    "twitter": "UnslashedF",
+    "telegram": "UnslashedFinance"
+}

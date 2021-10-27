@@ -1,0 +1,23 @@
+{
+    "id": "passport-finance",
+    "symbol": "pass",
+    "name": "Passport Finance",
+    "platforms": {
+        "ethereum": "0x6c4522f0035bed2180b40f4c5d9dbaab64b41325"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Passport is a decentralized application (DApp) built on Paparazzi\u2019s blockchain platform Vitae. Vitae, a latin word for life, is built for scalability and simplicity. Vitae is built using Tendermint blockchain framework. With a robust architecture in design, Axis Labs and Paparazzi team is building a frictionless blockchain platform customized for the Paparazzi ecosystem. Later, Vitae Network will utilize Axis Lab\u2019s layer two technology."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x6c4522f0035bed2180b40f4c5d9dbaab64b41325",
+    "url": "https://passport.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x6C4522F0035bED2180B40f4c5d9DbAab64B41325",
+        "https://ethplorer.io/address/0x6c4522f0035bed2180b40f4c5d9dbaab64b41325"
+    ],
+    "twitter": "passportfin",
+    "telegram": "passportfinance"
+}

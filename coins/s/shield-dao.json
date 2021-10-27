@@ -1,0 +1,25 @@
+{
+    "id": "shield-dao",
+    "symbol": "sld",
+    "name": "ShieldEX",
+    "platforms": {
+        "ethereum": "0x1ef6a7e2c966fb7c5403efefde38338b1a95a084",
+        "binance-smart-chain": "0x1ef6a7e2c966fb7c5403efefde38338b1a95a084"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shield devotes to developing a trustless, censorship-resistant and accessible protocol based on a fully non-cooperative game\u2014the next generation of global derivative infrastructure."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1ef6a7e2c966fb7c5403efefde38338b1a95a084",
+    "url": "https://www.shieldex.io/#/home",
+    "explorers": [
+        "https://etherscan.io/token/0x1ef6a7e2c966fb7c5403efefde38338b1a95a084",
+        "https://ethplorer.io/address/0x1ef6a7e2c966fb7c5403efefde38338b1a95a084",
+        "https://bscscan.com/token/0x1ef6a7e2c966fb7c5403efefde38338b1a95a084"
+    ],
+    "twitter": "shield_dao",
+    "telegram": "shield_dao"
+}

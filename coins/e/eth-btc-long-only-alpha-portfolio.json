@@ -1,0 +1,25 @@
+{
+    "id": "eth-btc-long-only-alpha-portfolio",
+    "symbol": "ebloap",
+    "name": "ETH/BTC Long-Only Alpha Portfolio",
+    "platforms": {
+        "ethereum": "0x253444bd9ecf11e5516d6d00974e91c9f0857ccb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x253444bd9ecf11e5516d6d00974e91c9f0857ccb",
+    "url": "https://sw.capital/",
+    "explorers": [
+        "https://etherscan.io/token/0x253444bd9ecf11e5516d6d00974e91c9f0857ccb",
+        "https://ethplorer.io/address/0x253444bd9ecf11e5516d6d00974e91c9f0857ccb"
+    ],
+    "twitter": "sw_capital",
+    "telegram": "sw_capital"
+}

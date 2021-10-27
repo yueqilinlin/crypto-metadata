@@ -1,0 +1,23 @@
+{
+    "id": "dragon-x",
+    "symbol": "dax",
+    "name": "Dragon X",
+    "platforms": {
+        "ethereum": "0x77e9618179820961ee99a988983bc9ab41ff3112"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dragon X is an ethereum-powered marketing and advertising platform based on the principles of DeFi. Our project aims to tokenize advertising and marketing engagements with a proprietary ERC20 Token, the Dragon X Token (DAX).\r\n\r\nWe're building a web3 marketing and advertising platform for the blockchain industry that will allow blockchain organizations, businesses and entrepreneurs to promote their products. \r\n\r\nMarketing campaigns are funded with the DAX token which can be exchanged on the Dragon X platform for advertising services."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x77e9618179820961ee99a988983bc9ab41ff3112",
+    "url": "https://www.dragonx.app/",
+    "explorers": [
+        "https://etherscan.io/token/0x77e9618179820961ee99a988983bc9ab41ff3112",
+        "https://ethplorer.io/address/0x77e9618179820961ee99a988983bc9ab41ff3112"
+    ],
+    "twitter": "dragonxapp",
+    "github_org": "Dragon-X-Labs"
+}

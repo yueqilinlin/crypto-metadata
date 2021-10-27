@@ -1,0 +1,23 @@
+{
+    "id": "octans",
+    "symbol": "octa",
+    "name": "Octans",
+    "platforms": {
+        "binance-smart-chain": "0x86c3e4ffacdb3af628ef985a518cd6ee22a22b28"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OCTANS aka $OCTA is a auto yield and liquidity smart contract aimed to combat the following concerns of DeFi world:\r\n- Yield Farming\r\n- Liquidity Mining\r\n- Staking\r\n$OCTA uses a reward system where holders benefits overtime, for this to succeed, $OCTA applies 8% fees on all of the transactions , either buys\r\nor sells. In which:\r\n- 4% is automatically rewarded to holders\r\n- 4% automatically goes to liquidity pool (BNB/OCTA)\r\nLiquidity was locked for a period of 4 years and tokens continue to burn, thus making less Octans in circulation.\r\nHolders benefith overtime by holding."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x86c3e4ffacdb3af628ef985a518cd6ee22a22b28",
+    "url": "https://octanscrypto.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x86c3E4FfAcdB3AF628ef985a518cd6ee22A22b28"
+    ],
+    "twitter": "OCTANS_OCTA",
+    "telegram": "OCTA_OCTANS",
+    "reddit": "https://www.reddit.com"
+}

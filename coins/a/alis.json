@@ -1,0 +1,28 @@
+{
+    "id": "alis",
+    "symbol": "alis",
+    "name": "ALIS",
+    "platforms": {
+        "ethereum": "0xea610b1153477720748dc13ed378003941d84fab"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Internet of Things (IOT)",
+        "Media",
+        "Business Platform"
+    ],
+    "description": {
+        "en": "ALIS is a social media platform which provides our customers with reliable information from experts in no time. We were inspired by STEEM (https://steem.io) and their billions of evaluations to create a media platform specialized for the Japanese market. Our mission is to filter through the myriad of advertising and stealth marketing campaigns. Our goal is to provide more reliable information than traditional media outlets."
+    },
+    "country_origin": "JP",
+    "genesis_date": "2017-08-25",
+    "contract_address": "0xea610b1153477720748dc13ed378003941d84fab",
+    "url": "https://alismedia.jp/",
+    "explorers": [
+        "https://etherscan.io/token/0xEA610B1153477720748DC13ED378003941d84fAB",
+        "https://ethplorer.io/address/0xea610b1153477720748dc13ed378003941d84fab"
+    ],
+    "twitter": "ALIS_media",
+    "facebook": "ALIS-Co-Ltd-249493195551126",
+    "github_org": "AlisProject"
+}

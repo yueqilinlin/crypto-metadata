@@ -1,0 +1,22 @@
+{
+    "id": "zigzag",
+    "symbol": "zag",
+    "name": "ZigZag",
+    "platforms": {
+        "eos": null
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ZigZag is a decentralized financial service that simplifies transborder payments.\r\n\r\nMillions of people annually leave to work abroad. They send billions of dollars home, losing 4-15% on each transfer. ZigZag service goal is to simplify the mechanism of these transfers and to reduce fees. Just purchase the needed amount of ZIG tokens and send them via a simple native application or any cryptocurrency wallet. The recipient of the ZIG token can easily Withdraw it to a bank account (the credit card) or receive cash at the partner points (shops, gas stations, etc.). The project's goal is to make all the transactions as transparent as possible. The system runs on the EOSIO blockchain, and cross-border payments are carried out in ZIG tokens.\r\n\r\nThe system's stability is guaranteed by the ZAG voting token. Using a balancing algorithm, ZAG coin holders with large token amounts will provide stability of the ZIG's value. Such balance is carried out via the smart contract, where the executions are guaranteed by ZAG token balances. Activities through a second smart contract are encouraged by additional ZAG tokens. ZAG token holders are rewarded for ensuring the system's stability. The TOP-21 coin holders will receive the biggest rewards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://zigzag.finance/",
+    "explorers": [
+        "https://bloks.io/tokens/ZAG-eos-zagtokenhome"
+    ],
+    "twitter": "zigzag_finance",
+    "facebook": "zigzag.finance",
+    "telegram": "zigzag_official"
+}

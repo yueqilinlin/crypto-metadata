@@ -1,0 +1,30 @@
+{
+    "id": "poolz-finance",
+    "symbol": "poolz",
+    "name": "Poolz Finance",
+    "platforms": {
+        "ethereum": "0x69a95185ee2a045cdc4bcd1b1df10710395e4e23",
+        "binance-smart-chain": "0x77018282fd033daf370337a5367e62d8811bc885"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad",
+        "Polygon Ecosystem",
+        "Binance Smart Chain Ecosystem",
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "Poolz is a swapping protocol that enables startups and project owners to auction their tokens for bootstrapping liquidity. As the blockchain-cryptocurrency community moves closer to absolute decentralization, Poolz empowers innovators in their pre-listing phase, bringing them closer to early-stage investors."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x69a95185ee2a045cdc4bcd1b1df10710395e4e23",
+    "url": "https://www.poolz.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x69a95185ee2a045cdc4bcd1b1df10710395e4e23",
+        "https://ethplorer.io/address/0x69a95185ee2a045cdc4bcd1b1df10710395e4e23"
+    ],
+    "twitter": "Poolz__",
+    "telegram": "PoolzOfficialCommunity",
+    "github_org": "The-Poolz"
+}

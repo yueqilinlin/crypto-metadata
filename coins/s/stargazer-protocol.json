@@ -1,0 +1,22 @@
+{
+    "id": "stargazer-protocol",
+    "symbol": "stardust",
+    "name": "Stargazer Protocol",
+    "platforms": {
+        "binance-smart-chain": "0xf647d6b49ea7bb880ecbcff9913df0d634875d33"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Stargazer protocol is based on cutting edge solidity.\r\n\r\n*THE TOKENOMICS*\r\n6% Auto buy back\r\n1% Redistribution\r\n3% for the marketing and ops wallet which is auto converted to BNB to avoid crashing the coin. \r\n\r\n*ANTI WHALE*\r\n1% max wallet\r\n.1% max transaction limit for the first 90 days\r\n\r\n*THE TECH*\r\nStargazer is comprised of many modules which will be based on tiers. The features listed below are WORKING and will be released as the testing is completed. These aren't made up like most coins. \r\n\r\nRugcheck - Ability to rug check a coin and get a rug score\r\n\r\nWhale Watch - Watch a wallets movements in real time. Get alerts when buy/sells happen. Adjust the alerts to show only buys, or only sells, or both. \r\n\r\nHarpoon - With a simple list of coins and a very recent list of holders of one of those coins you can identify a person of interest' wallet address with the harpoon technology. This will allow you to track down your favorite shiller, influencer, or maybe even Elon musk \r\n\r\nJoin - Join exclusive private chats only available to certain tiers \r\n\r\nSubscribe - Subscribe to your favorite alerts and only your favorite alerts. There will constantly be new ones added but as of right now we have the following\r\n\r\nPoocoin Vetted - get alerted when a coin applies OR gets vetted for the poocoin vetted list\r\n\r\nPoocoin Unvetted - Get alerted the second a coin pays to be listed on the unvetted list.\r\n\r\nPricebot Purchased - The second a new coin purchases a price bot you will be notified. Pricebots are generally known to be good coins as there is no inherent value in buying a pricebot for a coin you plan on scamming. \r\n\r\nStargazer Alert - These are coins with a low marketcap, ownership renounced, a telegram, a dxlock for more than a month. These are cream of the crop and also very rare. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xf647d6b49ea7bb880ecbcff9913df0d634875d33",
+    "url": "https://stargazerprotocol.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xf647d6b49ea7bb880ecbcff9913df0d634875d33"
+    ],
+    "twitter": "stargazer_bsc",
+    "telegram": "stargazerprotocol"
+}

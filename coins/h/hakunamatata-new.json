@@ -1,0 +1,22 @@
+{
+    "id": "hakunamatata-new",
+    "symbol": "hkun",
+    "name": "HakunaMatata (new)",
+    "platforms": {
+        "binance-smart-chain": "0xbb2fa5b2d19209f4cf50cf745efc32641a7c9fb1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbb2fa5b2d19209f4cf50cf745efc32641a7c9fb1",
+    "url": "https://hakunamatatatoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xbb2fa5b2d19209f4cf50cf745efc32641a7c9fb1"
+    ],
+    "twitter": "tatatoken",
+    "telegram": "HKUNtoken"
+}

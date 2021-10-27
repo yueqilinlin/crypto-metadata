@@ -1,0 +1,24 @@
+{
+    "id": "lemur-finance",
+    "symbol": "lem",
+    "name": "Lemur Finance",
+    "platforms": {
+        "binance-smart-chain": "0xc35f46aaeb8ad17bcbaa78c03540feffa44790cb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Auto Yield Farming"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc35f46aaeb8ad17bcbaa78c03540feffa44790cb",
+    "url": "https://lemur.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xc35f46aAEb8aD17bCbAa78c03540FEffa44790Cb"
+    ],
+    "twitter": "FinanceLemur",
+    "telegram": "lemurfinance",
+    "reddit": "LemurFinance/",
+    "github_org": "LemurFinance"
+}

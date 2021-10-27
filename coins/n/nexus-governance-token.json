@@ -1,0 +1,22 @@
+{
+    "id": "nexus-governance-token",
+    "symbol": "psi",
+    "name": "Nexus Governance Token",
+    "platforms": {
+        "terra": "terra12897djskt9rge8dtmm86w654g7kzckkd698608"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Maximize your yields in the Terra ecosystem with Terra\u2019s first yield optimizer and liquidation protector vaults."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "terra12897djskt9rge8dtmm86w654g7kzckkd698608",
+    "url": "https://nexusprotocol.app/",
+    "explorers": [
+        "https://finder.extraterrestrial.money/columbus-5/address/terra12897djskt9rge8dtmm86w654g7kzckkd698608"
+    ],
+    "twitter": "NexusProtocol",
+    "telegram": "NexusProtocol"
+}

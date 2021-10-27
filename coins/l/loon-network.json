@@ -1,0 +1,22 @@
+{
+    "id": "loon-network",
+    "symbol": "loon",
+    "name": "Loon Network",
+    "platforms": {
+        "ethereum": "0x7c5d5100b339fe7d995a893af6cb496b9474373c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Loon Network (Loon) aims to establish a long-term concept of a decentralized cross-chain lending network between chains. The mission of this network is to provide basic network support for data transfer, credit intercommunication, and asset interconnection between chains."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7c5d5100b339fe7d995a893af6cb496b9474373c",
+    "url": "https://www.loonetwork.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7C5d5100B339Fe7D995a893AF6CB496B9474373c",
+        "https://ethplorer.io/address/0x7C5d5100B339Fe7D995a893AF6CB496B9474373c"
+    ],
+    "telegram": "loonetwork"
+}

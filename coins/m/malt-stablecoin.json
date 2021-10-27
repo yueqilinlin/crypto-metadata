@@ -1,0 +1,26 @@
+{
+    "id": "malt-stablecoin",
+    "symbol": "malt",
+    "name": "Malt Stablecoin",
+    "platforms": {
+        "polygon-pos": "0x1c40ac03aacaf5f85808674e526e9c26309db92f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "Malt is a yield farmable, incentive-centric algorithmic stable coin.  \r\nMALT uses two mechanisms to stabilize. \r\n1. Bonding LP, Farming LP tokens from the Malt + \u201cOther\u201d AMM pool (e.g. Malt/DAI LP pool) and then receiving rewards in the \u201cOther\u201d token every time Malt climbs above peg. While the price remains stable LPs receive a fixed APY in Malt.\r\n2. Arbitrage auctions, Pledging the \u201cOther\u201d token to arbitrage auctions when the price dips below peg, rewarding the owner with a premium also paid in the \u201cOther\u201d token.\r\n\r\nAuctions for the arb tokens last for either 30 minutes or until a pre-specified amount of money is raised. The price of the arb token begins at $1 and decreases continuously across the 30 minutes, or until the desired capital is raised.\r\nArb tokens are then automatically redeemed for you by the protocol at an equivalent value of $1 per token. This offers a profitable premium on arb tokens purchased below $1.\r\n\r\nFurther more MALT uses Protocol-controlled value, in our use case we call that Liquidity Extension. The primary use of LE is to aid in supply contraction through participation in the arbitrage auctions. Specifically, during auctions, every single arb token purchased by a participant has a corresponding LE contribution."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1c40ac03aacaf5f85808674e526e9c26309db92f",
+    "url": "https://malt.money/",
+    "explorers": [
+        "https://polygonscan.com/token/0x1c40Ac03AacAF5F85808674E526E9c26309DB92F"
+    ],
+    "twitter": "MaltProtocol",
+    "telegram": "maltprotocol",
+    "github_org": "MaltEcosystem"
+}

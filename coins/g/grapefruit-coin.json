@@ -1,0 +1,22 @@
+{
+    "id": "grapefruit-coin",
+    "symbol": "grpft",
+    "name": "Grapefruit Coin",
+    "platforms": {
+        "ethereum": "0x64b986211c0cc675143f895c437b79c3cadf364a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Grapefruit Coin is an ERC-20 Token on the Ethereum blockchain built to utilize the decentralized ecosystem. A secure Grapefruit blockchain ledger alleviating risk to investors. All GRPFT tokens were released on an open and fair market for all holders. Community perks, smart contracts, payments, rewards, and investments."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x64b986211c0cc675143f895c437b79c3cadf364a",
+    "url": "https://grapefruitcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x64b986211c0cc675143f895c437b79c3cadf364a",
+        "https://ethplorer.io/address/0x64b986211c0cc675143f895c437b79c3cadf364a"
+    ],
+    "twitter": "CoinGrapefruit"
+}

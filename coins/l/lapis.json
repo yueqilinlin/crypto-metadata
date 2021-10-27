@@ -1,0 +1,23 @@
+{
+    "id": "lapis",
+    "symbol": "lps",
+    "name": "Lapis",
+    "platforms": {
+        "binance-smart-chain": "0x698bf4f7e3afe0a1764c545ce005a269e4c20eaa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"Lapis is a NFT marketplace and a DeFi platform which allows users to freely bid on NFTs while earning great passive yield. Lapis offers unique pricing features for NFTs which allow users to bid on NFTs whenever they would like. Lapis prevents duplicate NFTs by validating the SHA256 hash of the NFT before it is minted on the Lapis platform. Featured creators can also use the Lapis platform to access a wider audience to show off their creations!\r\n\r\nThe Lapis token has a 10% transaction fee, of which 5% goes toward liquidity, and 5% goes back into holders wallets, passively! The Lapis platform will also allow users to stake LP tokens to earn more tokens in return.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x698bf4f7e3afe0a1764c545ce005a269e4c20eaa",
+    "url": "https://www.lapis.gallery/",
+    "explorers": [
+        "https://bscscan.com/token/0x698bF4f7e3aFe0A1764C545cE005A269E4C20EaA"
+    ],
+    "twitter": "TheLapisGallery",
+    "telegram": "lapis_token",
+    "github_org": "Lapis-Gallery"
+}

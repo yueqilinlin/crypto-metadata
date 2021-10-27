@@ -1,0 +1,24 @@
+{
+    "id": "dnft-protocol",
+    "symbol": "dnf",
+    "name": "DNFT Protocol",
+    "platforms": {
+        "ethereum": "0x7c8911c69257c074593fd9efdc431f200be27107"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DNFT Protocol is a decentralized cross-chain NFT network. It allows users to mint, trade and manages NFT assets across blockchains, e.g. arts, game & metaverse assets, and data models. By presenting a Data-model as an NFT(DAAN) conception, DNFT pioneers the scenario of NFT applying to the AI industry. The mission of DNFT Protocol is to become the infrastructure and NFT entrance to Web 3.0.\r\nThe core team of DNFT is from Australia while most of the members and advisors are all around the world including Turkey, Taiwan and LA.\r\nAs an orgin token of parachain, DNF is the token for gas fee consumption. As DNFT DAO Governance token, participating in the construction of DNFT ecosystem.\r\nHoding DNF can get discounts when paying in DNFT ecosystem, eg, purchasing NFT, NFT storage tax payment, cross-chain asset gas fee. Due to gas fee consumption and further burning mechanism, DNF is deflation token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7c8911c69257c074593fd9efdc431f200be27107",
+    "url": "https://dnft.world",
+    "explorers": [
+        "https://etherscan.io/token/0x7c8911c69257c074593fd9efdc431f200be27107",
+        "https://ethplorer.io/address/0x7c8911c69257c074593fd9efdc431f200be27107"
+    ],
+    "twitter": "DNFTProtocol",
+    "telegram": "dnftprotocol",
+    "github_org": "DNFT-Team"
+}

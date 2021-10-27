@@ -1,0 +1,31 @@
+{
+    "id": "ripio-credit-network",
+    "symbol": "rcn",
+    "name": "Ripio Credit Network",
+    "platforms": {
+        "ethereum": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Polygon Ecosystem",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "RCN is an open-source global credit network that connects lenders, borrowers and originators on the blockchain to create frictionless, transparent and borderless loan markets.\r\n\r\nThe RCN Credit Marketplace is a proprietary Decentralized Application (dApp) that allows users to access the RCN protocol and connect with its features. By combining digital lending and borrowing tools with all the transparency and security of the blockchain, the RCN Credit Marketplace enables creditors to lend Decentralized Finance (DeFi) and Centralized Finance (CeFi) loans, borrow Peer-To-Peer (P2P) loans and manage everything in one place.\r\n\r\nRCN is powered by its own open-source blockchain lending and borrowing protocol, which in turn runs on the Ethereum network. Composed by a modular set of smart-contracts, the protocol\u2019s current version RCN Protocol v4.0 \u201cDiaspore\" allows its users to denominate, collateralize, receive, repay, fund, transfer and collect loans. In addition, it is compatible with a wide variety of Oracles, Loan Types and Backings."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-10-24",
+    "contract_address": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
+    "url": "https://rcn.market/",
+    "explorers": [
+        "https://etherscan.io/token/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
+        "https://ethplorer.io/search/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
+        "https://ethplorer.io/address/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6"
+    ],
+    "twitter": "RCNFinance",
+    "telegram": "RCNtalk",
+    "reddit": "rcn_token/",
+    "github_org": "ripio"
+}

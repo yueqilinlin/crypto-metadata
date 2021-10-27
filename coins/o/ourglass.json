@@ -1,0 +1,22 @@
+{
+    "id": "ourglass",
+    "symbol": "glass",
+    "name": "OurGlass",
+    "platforms": {
+        "binance-smart-chain": "0x9c9d4302a1a550b446401e56000f76bc761c3a33"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A fully decentralized, frictionless, yield producing, Artificially Intelligent token, on the Binance Smart Chain. Offering automated DEFI rewards to holders. \r\n\r\nGLASS token uses a fair system of taxing each token transaction with a constant percentage. Reducing circulating supply, and redistributing GLASS rewards to holders to create further value for its users. It applies an automated, built-in regulatory mechanism, to mitigate the risks of price inflation, and gradually reduces total supply in proportion with transaction volume and frequency.  At the base of the GLASS Token, is a unique reflector algorithm that utilizes programmed intelligence to implement a fair and consistent passive accumulation of tokens directly to holders\u2019 wallets. \r\n\r\nDuring the launch phase of Our.glass, 50 trillion GLASS were sent to the 0x000-01 burn address. By sending GLASS to the burn address, the burn address became a GLASS holder - and like all other GLASS holders, the burn address receives a portion of all the GLASS transaction fees. But unlike all the other holders of GLASS, these GLASS can not be moved, ever. This creates a permanent burn of GLASS, making the token supply deflationary. This also strengthens the ever-growing price floor from the auto liquidity being stacked by transaction fees. A simple way to explain this is: When coins are sent to the burn address, they are coins that can never be sold. So they are negative-sell-pressure."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x9c9d4302a1a550b446401e56000f76bc761c3a33",
+    "url": "https://ourglass.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x9c9d4302a1a550b446401e56000f76bc761c3a33"
+    ],
+    "telegram": "ourglass",
+    "github_org": "DrManhattan115"
+}

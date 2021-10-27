@@ -1,0 +1,28 @@
+{
+    "id": "compound-usd-coin",
+    "symbol": "cusdc",
+    "name": "cUSDC",
+    "platforms": {
+        "ethereum": "0x39aa39c021dfbae8fac545936693ac917d5e7563"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Decentralized Finance (DeFi)",
+        "Compound Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Compound is an open-source, autonomous protocol built for developers, to unlock a universe of new financial applications. Interest and borrowing, for the open financial system."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+    "url": "https://compound.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x39aa39c021dfbae8fac545936693ac917d5e7563",
+        "https://ethplorer.io/address/0x39aa39c021dfbae8fac545936693ac917d5e7563"
+    ],
+    "twitter": "compoundfinance",
+    "github_org": "compound-finance"
+}

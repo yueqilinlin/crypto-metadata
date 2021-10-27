@@ -1,0 +1,24 @@
+{
+    "id": "egg-protocol",
+    "symbol": "egg",
+    "name": "EGG Protocol",
+    "platforms": {
+        "ethereum": "0xd0983dd6a0334c71d0478255d1f794508026b888"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EGG will be the transaction token in the network and serving the role of providing utility and acting as a proxy to govern the protocols and accrue the network effect of the EGG.FI platform. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd0983dd6a0334c71d0478255d1f794508026b888",
+    "url": "https://egg.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0xd0983dd6a0334c71d0478255d1f794508026b888",
+        "https://ethplorer.io/address/0xd0983dd6a0334c71d0478255d1f794508026b888"
+    ],
+    "twitter": "eggfi",
+    "telegram": "bycocoricos",
+    "github_org": "eggprotocol"
+}

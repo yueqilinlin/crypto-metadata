@@ -1,0 +1,24 @@
+{
+    "id": "airraid-lottery-token",
+    "symbol": "araid",
+    "name": "AirRaid Lottery Token",
+    "platforms": {
+        "ethereum": "0x387c291bc3274389054e82ce81dd318a0113caf5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AirRaid is the worlds first safe and transparent decentralized lottery token. We aim to give back to our veterans and community. AirRaid was built to allow traders to have a safe lottery token with full KYC, Audit and complete transparency. The lottery pool is built on transaction volume and then once a day given back to the community in life changing amounts. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x387c291bc3274389054e82ce81dd318a0113caf5",
+    "url": "https://www.airraid.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x387c291bc3274389054e82ce81dd318a0113caf5",
+        "https://ethplorer.io/address/0x387c291bc3274389054e82ce81dd318a0113caf5"
+    ],
+    "twitter": "AirraidOrg",
+    "telegram": "AirRaidtoken",
+    "reddit": "AirraidOrg/"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "moneta-verde",
+    "symbol": "mcn",
+    "name": "Moneta Verde",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "MCN coin uses already existing mining resources (Merged Mining) and it's supply is regulated by mining community (blockreward increases with hashrate)."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://mcn.green/",
+    "explorers": [
+        "https://explorer.mcn.green"
+    ],
+    "twitter": "monetaverde",
+    "reddit": "monetaverdeMCN/",
+    "github_org": "mcnproject"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "acreage-coin",
+    "symbol": "acr",
+    "name": "Acreage Coin",
+    "platforms": {
+        "ethereum": "0x76306f029f8f99effe509534037ba7030999e3cf"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Acreage is the intuitive blockchain and future marketplace solution evolving how site surveys are stored and exchanged. It will allow users to utilize ACR as a means to purchase uploaded site surveys that are otherwise lost or discarded.\r\nA marketplace through which surveys are recycled and exchanged from owners to buyers is the inspiration of the Acreage project."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x76306f029f8f99effe509534037ba7030999e3cf",
+    "url": "https://acreagecoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x76306f029f8f99effe509534037ba7030999e3cf",
+        "https://ethplorer.io/address/0x76306f029f8f99effe509534037ba7030999e3cf"
+    ],
+    "twitter": "CoinAcreage",
+    "github_org": "AcreageCoin"
+}

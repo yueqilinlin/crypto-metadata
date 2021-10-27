@@ -1,0 +1,27 @@
+{
+    "id": "burger-swap",
+    "symbol": "burger",
+    "name": "Burger Swap",
+    "platforms": {
+        "binance-smart-chain": "0xae9269f27437f0fcbc232d39ec814844a51d6b8f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Automated Market Maker (AMM)",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "The first democratized AMM on Binance Smart Chain"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xae9269f27437f0fcbc232d39ec814844a51d6b8f",
+    "url": "https://burgerswap.org/",
+    "explorers": [
+        "https://www.bscscan.com/token/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f"
+    ],
+    "twitter": "burger_swap",
+    "telegram": "burgerswap",
+    "github_org": "burgerswap-org"
+}

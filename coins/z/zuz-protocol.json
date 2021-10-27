@@ -1,0 +1,28 @@
+{
+    "id": "zuz-protocol",
+    "symbol": "zuz",
+    "name": "ZUZ Protocol",
+    "platforms": {
+        "ethereum": "0x202f1877e1db1120ca3e9a98c5d505e7f035c249"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "ZUZ Protocol is a dedicated NFT network built by the Zero Utility Company specializing in fractionalization, AWS integration, dynamic properties and sharding. \r\n\r\nZUZ can be used to interact with the Zero Utility Tool Kit\r\nZUZ can be used for gasless staking\r\nZUZ will be the ERC20 *shards to ZUZ fractional NFTs"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x202f1877e1db1120ca3e9a98c5d505e7f035c249",
+    "url": "https://www.zuzprotocol.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x202f1877e1db1120ca3e9a98c5d505e7f035c249",
+        "https://ethplorer.io/address/0x202f1877e1db1120ca3e9a98c5d505e7f035c249"
+    ],
+    "twitter": "zUzProtocol",
+    "facebook": "zUzprotocol",
+    "telegram": "ZUZNFT",
+    "github_org": "glitch46"
+}

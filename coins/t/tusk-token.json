@@ -1,0 +1,23 @@
+{
+    "id": "tusk-token",
+    "symbol": "tusk",
+    "name": "Mammoth.Bet",
+    "platforms": {
+        "binance-smart-chain": "0x03fffb18c0ea6b0ad4fa3b5226512b334587686f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A DeFi gaming protocol where users share in the house winnings and provide governance for the platform."
+    },
+    "country_origin": "TH",
+    "genesis_date": null,
+    "contract_address": "0x03fffb18c0ea6b0ad4fa3b5226512b334587686f",
+    "url": "https://mammoth.bet/",
+    "explorers": [
+        "https://bscscan.com/token/0x03fffb18c0ea6b0ad4fa3b5226512b334587686f"
+    ],
+    "twitter": "MammothBet",
+    "telegram": "MammothGaming",
+    "github_org": "blzd-dev"
+}

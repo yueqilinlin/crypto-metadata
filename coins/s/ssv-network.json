@@ -1,0 +1,23 @@
+{
+    "id": "ssv-network",
+    "symbol": "ssv",
+    "name": "SSV Network",
+    "platforms": {
+        "ethereum": "0x9d65ff81a3c488d585bbfb0bfe3c7707c7917f54"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SSV promotes decentralization, security, and liveness across the Ethereum consensus layer and forms the foundation of SSV.network \u2013 a fully decentralized and robust ETH staking network. Using the network will be open and simple for anyone who wants to run an Ethereum validator; from DIY users all the way to staking pools and big institutional staking services. This applies to using the network both as a user or a service provider; regardless of staking configuration, as long as duties are properly executed, anyone is eligible to provide service and reap rewards for doing so. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9d65ff81a3c488d585bbfb0bfe3c7707c7917f54",
+    "url": "https://ssv.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x9D65fF81a3c488d585bBfb0Bfe3c7707c7917f54",
+        "https://ethplorer.io/address/0x9D65fF81a3c488d585bBfb0Bfe3c7707c7917f54"
+    ],
+    "twitter": "blox_staking",
+    "github_org": "bloxapp"
+}

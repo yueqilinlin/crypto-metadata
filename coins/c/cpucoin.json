@@ -1,0 +1,24 @@
+{
+    "id": "cpucoin",
+    "symbol": "cpu",
+    "name": "CPUcoin",
+    "platforms": {
+        "ethereum": "0x6d52dfefb16bb9cdc78bfca09061e44574886626"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CPUcoin is a decentralized Infrastructure-as-a-Service solution that drastically reduces cloud infrastructure costs by creating a new sharing economy for unused CPU/GPU power. Their technology enables anyone to install a miner client and collect funds for their unused computing time, essentially transforming the project into a sort of Airbnb for CPU/GPU computing resources as well as providing a platform for automatically deploying and scaling Decentralized Services and DApps.\r\n\r\nA new certified utility token called CPU Coin will enable organizations of all sizes to pay as they go, a highly convenient feature that is not yet available in the market. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6d52dfefb16bb9cdc78bfca09061e44574886626",
+    "url": "https://cpucoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x6d52dfefb16bb9cdc78bfca09061e44574886626",
+        "https://ethplorer.io/address/0x6d52dfefb16bb9cdc78bfca09061e44574886626"
+    ],
+    "twitter": "CPUcoin",
+    "telegram": "mediarichio",
+    "github_org": "cpu-coin"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "algorand",
+    "symbol": "algo",
+    "name": "Algorand",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Algorand is a scalable, secure and decentralized digital currency and transactions platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://algorand.foundation/",
+    "explorers": [
+        "https://algoexplorer.io/",
+        "https://algoscan.app/"
+    ],
+    "twitter": "algorand",
+    "telegram": "algorand",
+    "reddit": "https://www.reddit.com",
+    "github_org": "algorand"
+}

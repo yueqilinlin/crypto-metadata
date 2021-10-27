@@ -1,0 +1,23 @@
+{
+    "id": "yearn-finance-value",
+    "symbol": "yfiv",
+    "name": "Yearn Finance Value",
+    "platforms": {
+        "ethereum": "0x519083fc539f23131c3b7046992584592772d12a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": " YFIV is a token developed and aimed at making people value DeFi by rewarding holders of DeFi tokens such as YFI, YFII, YFL, etc."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x519083fc539f23131c3b7046992584592772d12a",
+    "url": "https://www.theyfiv.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x519083fc539f23131c3b7046992584592772d12a",
+        "https://ethplorer.io/address/0x519083fc539f23131c3b7046992584592772d12a"
+    ],
+    "twitter": "Yfivfinance",
+    "telegram": "yfivfinance"
+}

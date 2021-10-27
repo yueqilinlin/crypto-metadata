@@ -1,0 +1,23 @@
+{
+    "id": "boom-token",
+    "symbol": "boom",
+    "name": "Boom Token",
+    "platforms": {
+        "ethereum": "0xdb7eab9ba6be88b869f738f6deeba96d49fe13fd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Boom Token is a social experiment. Blockchain gives us an opportunity to create this deflationary currency, and the deflation mechanism is fully based on smart contract. The basic rules are as below: \u200b\r\n\r\nThere were originally 1,000,000,000 Boom in existence.\r\n\r\nEach on-chain Boom transaction completed, 1% of the transaction amount burned.\r\n\r\nThere will never be newly minted Boom."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0xdb7eab9ba6be88b869f738f6deeba96d49fe13fd",
+    "url": "https://www.boomtoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xdb7eab9ba6be88b869f738f6deeba96d49fe13fd",
+        "https://ethplorer.io/address/0xdb7eab9ba6be88b869f738f6deeba96d49fe13fd"
+    ],
+    "twitter": "boomtoken",
+    "telegram": "boomtoken"
+}

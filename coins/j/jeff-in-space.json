@@ -1,0 +1,23 @@
+{
+    "id": "jeff-in-space",
+    "symbol": "jeff",
+    "name": "Jeff in Space",
+    "platforms": {
+        "ethereum": "0xa10a210c27c86f8c63825096e34f671fd61041b1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Jeff in space is a meme coin brought to you by experienced developers that came up with the concept when Jeff announced going to space!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa10a210c27c86f8c63825096e34f671fd61041b1",
+    "url": "https://jeffin.space/",
+    "explorers": [
+        "https://etherscan.io/token/0xa10a210c27c86f8c63825096e34f671fd61041b1",
+        "https://ethplorer.io/address/0xa10a210c27c86f8c63825096e34f671fd61041b1"
+    ],
+    "twitter": "JeffinspaceETH",
+    "github_org": "jeffinspace"
+}

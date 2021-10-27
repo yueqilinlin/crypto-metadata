@@ -1,0 +1,23 @@
+{
+    "id": "pusd",
+    "symbol": "pusd",
+    "name": "PUSD",
+    "platforms": {
+        "polygon-pos": "0x9af3b7dc29d3c4b1a5731408b6a9656fa7ac3b72"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PUSD is a completely decentralized stablecoin minted by staking Matic on Polygon network. PUSD is the USD-pegged stablecoin used to pay out loans on the PolyQuity protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9af3b7dc29d3c4b1a5731408b6a9656fa7ac3b72",
+    "url": "https://polyquity.org/",
+    "explorers": [
+        "https://polygonscan.com/token/0x9af3b7dc29d3c4b1a5731408b6a9656fa7ac3b72"
+    ],
+    "twitter": "polyquity_org",
+    "telegram": "polyquityorg",
+    "github_org": "PolyQuity"
+}

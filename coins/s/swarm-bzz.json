@@ -1,0 +1,26 @@
+{
+    "id": "swarm-bzz",
+    "symbol": "bzz",
+    "name": "Swarm",
+    "platforms": {
+        "ethereum": "0x19062190b1925b5b6689d7073fdfc8c2976ef8cb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem"
+    ],
+    "description": {
+        "en": "Swarm is a system of peer-to-peer networked nodes that create a decentralised storage and communication service. The system is economically self-sustaining due to a built-in incentive system enforced through smart contracts on the Ethereum blockchain and powered by the BZZ token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x19062190b1925b5b6689d7073fdfc8c2976ef8cb",
+    "url": "https://ethswarm.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x19062190b1925b5b6689d7073fdfc8c2976ef8cb",
+        "https://ethplorer.io/address/0x19062190b1925b5b6689d7073fdfc8c2976ef8cb"
+    ],
+    "twitter": "ethswarm",
+    "reddit": "ethswarm/",
+    "github_org": "ethersphere"
+}

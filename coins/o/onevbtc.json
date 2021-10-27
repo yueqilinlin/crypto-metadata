@@ -1,0 +1,24 @@
+{
+    "id": "onevbtc",
+    "symbol": "onevbtc",
+    "name": "oneVBTC",
+    "platforms": {
+        "ethereum": "0x7bd198b9107496fd5cc3d7655af52f43a8edbc4c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "oneVBTC is a stablecoin for the strudel.finance community. You must buy VBTC to mint oneVBTC. You can use oneVBTC to buy or sell goods and services, pay expenses and taxes, or to create USD exposure in DeFi (decentralized finance) applications.\r\n\r\noneVBTC provides the hard peg of USDC/USDT without sacrificing decentralization nor giving up on driving VBTC scarcity.\r\n\r\noneVBTC keeps its value at $1, is purely on-chain, and accrues a VBTC treasury.\r\n\r\nTypically, when you want to make a trade and get out of VBTC to \u2018get stable\u2019, you need to trade VBTC into a stablecoin. Now you\u2019re in an either/or scenario. Whether USDT, USDC, DAI, these other stablecoins capture value for themselves and do not drive the value of your VBTC hodlings. Remember, you just sold it to get stable.\r\n\r\nEnter ICHI. With ICHI, you mint oneVBTC with VBTC.  In the process, you grow a VBTC treasury that YOU govern and control."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7bd198b9107496fd5cc3d7655af52f43a8edbc4c",
+    "url": "https://www.ichi.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x7BD198b9107496fD5cC3d7655AF52f43a8eDBc4C",
+        "https://ethplorer.io/address/0x7BD198b9107496fD5cC3d7655AF52f43a8eDBc4C"
+    ],
+    "twitter": "ichifarm",
+    "telegram": "ichifarm",
+    "github_org": "ichifarm"
+}

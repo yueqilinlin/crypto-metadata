@@ -1,0 +1,23 @@
+{
+    "id": "asgard-finance",
+    "symbol": "thor",
+    "name": "Asgard Finance",
+    "platforms": {
+        "binance-smart-chain": "0x91a92482526eb04e60e4372a919b74027f1ad935"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Frictionless yield and farming "
+    },
+    "country_origin": "IE",
+    "genesis_date": null,
+    "contract_address": "0x91a92482526eb04e60e4372a919b74027f1ad935",
+    "url": "https://asgard.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x91a92482526eb04e60e4372a919b74027f1ad935"
+    ],
+    "twitter": "asgardthor9",
+    "telegram": "asgardproject",
+    "github_org": "dev-thor"
+}

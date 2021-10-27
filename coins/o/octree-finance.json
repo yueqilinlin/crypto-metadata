@@ -1,0 +1,23 @@
+{
+    "id": "octree-finance",
+    "symbol": "oak",
+    "name": "Octree Finance",
+    "platforms": {
+        "binance-smart-chain": "0x4e0f2fd3cada61d891c653a7fbbf2df7e2214757"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Octree is an innovative yield ecosystem running on the #BSC"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4e0f2fd3cada61d891c653a7fbbf2df7e2214757",
+    "url": "https://octree.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x4e0f2fd3cada61d891c653a7fbbf2df7e2214757"
+    ],
+    "twitter": "octree_bsc",
+    "telegram": "octree_bsc",
+    "github_org": "octree-finance"
+}

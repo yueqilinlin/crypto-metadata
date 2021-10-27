@@ -1,0 +1,21 @@
+{
+    "id": "frat",
+    "symbol": "frat",
+    "name": "Frat",
+    "platforms": {
+        "binance-smart-chain": "0x7352eebeda1ff0e625452cc27d811a88216243fb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FRAT is a community platform and real time source of cryptoasset data with advanced analysis features and social aggregation features that enables users to share and gain insight into the markets.\r\n\r\nThe deflationary FRAT BEP-20 Token gives users access to premium paywalled features on the platform indefinitely while the tokens are held in the wallet synced with the user account on the FRAT platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7352eebeda1ff0e625452cc27d811a88216243fb",
+    "url": "https://fr.at/",
+    "explorers": [
+        "https://bscscan.com/token/0x7352eebeda1ff0e625452cc27d811a88216243fb"
+    ],
+    "twitter": "fratdefi"
+}

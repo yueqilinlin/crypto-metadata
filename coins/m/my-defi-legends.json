@@ -1,0 +1,24 @@
+{
+    "id": "my-defi-legends",
+    "symbol": "dlegends",
+    "name": "My DeFi Legends",
+    "platforms": {
+        "binance-smart-chain": "0x88c55b3255ae1e6628c953c5cdff27ad3cc33c81"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "My Defi Legends is a complete metaverse of Digital Heroes that live on the Binance Smart Chain (BSC), which allows millions of people to join the NFT & blockchain-based gaming world in an easy, creative and fun way."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x88c55b3255ae1e6628c953c5cdff27ad3cc33c81",
+    "url": "https://mydefilegends.com",
+    "explorers": [
+        "https://bscscan.com/token/0x88c55b3255ae1e6628c953c5cdff27ad3cc33c81"
+    ],
+    "twitter": "MyDefiLegends",
+    "telegram": "MyDefiLegends",
+    "reddit": "mydefilegends/",
+    "github_org": "MyDefiLegends"
+}

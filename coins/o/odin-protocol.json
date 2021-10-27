@@ -1,0 +1,29 @@
+{
+    "id": "odin-protocol",
+    "symbol": "odin",
+    "name": "Odin Protocol",
+    "platforms": {
+        "binance-smart-chain": "0x2802eb3a20f5892956d5b9528f6bf13e648534db"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services",
+        "Infrastructure",
+        "Binance Smart Chain Ecosystem",
+        "Oracle"
+    ],
+    "description": {
+        "en": "ODIN Protocol (Open Data Interoperable Network)\r\nWhat Is ODIN Protocol (ODIN)?\r\nODIN is more than just a decentralized ecosystem and an oracle! It not only provides its partners with off-chain to on-chain, real-world data in cases like DeFi, betting, forecasting apps or NFT, it also governs the \u201c$GeoDB\u201d data flow from the very same ecosystem by applying the dPoS consensus, incentivizing its participants to actively contribute and keep the network in a constant high quality, always self-improving state!\r\n\r\nODIN's open protocol grants a sustainable economy by democratizing and revolutionizing the over 260B $ Big Data industry. It\u00b4s establishing a beneficial bridge and an open ecosystem for ALL its market participants\r\n\r\nHow Many ODIN tokens are There in Circulation?\r\nODIN Protocol launched its token on Binance Smart Chain on April 21, 2021 with 100 million ODIN tokens created at genesis. ODIN's BSC contract applies a deflationary model to incentivize early holders.\r\n\r\n20% of all ODINs will be burned within 100 cycles. (Current Cycle 54)\r\n\r\n400K is burned in every cycle where 200K is burned entirely, and 200K is returned to the holders proportionally.\r\n\r\nFinal supply of Odin after burns 80 Million\r\n\r\nA dynamic tax between 4% and 12% is applied within each cycle.\r\n\r\nConnect to our trading Chat to find out about current tax or cycle.\r\n\r\nODIN is the native utility token that is used in the following aspects:\r\n\r\nFees for processing transactions and storing data\r\n\r\nODIN will use the ODIN native tokens for its own network as an incentive for validators to produce new blocks and submit responses to data requests\r\n\r\nUsed for governance votes to determine how network resources are allocated\r\n\r\nWhat else makes ODIN protocol special?\r\nBy becoming a full DAO (decentralized autonomous organization) in the near future, ODIN's treasury will function as following:\r\n\r\nSelling ODIN tokens to the market participants (data consumers, stakers, validators, investors) and keeping received payments in the form of native crypto assets (BTC, ETH, DAI) and tokenized USD\r\n\r\n80% of collected funds received from selling the ODIN token will be used to buy out $GEO tokens via auction mechanism every time, as soon as a 800 USD threshold is achieved. Acquired $GEO tokens will be allocated to a recycling pool for the future use as a means of payment to data providers (users of the GeoCash and GeoScan app that can be downloaded from your Android or iOS app store), while 20% of collected funds are then subject to invest in the DeFi space with investment decisions offered and approved by ODIN's system governance\r\n\r\n-The ODIN protocol token aims to become a multi-chain-available asset. Currently, it's available on BSC (Binance Smart Chain) and Ethereum-\r\n\r\nBSC : https://bscscan.com/token/0x2802eb3a20f5892956d5b9528f6bf13e648534db\r\n\r\nETH: ODIN will be bridged to ETH on Oct 31st."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x2802eb3a20f5892956d5b9528f6bf13e648534db",
+    "url": "https://odinprotocol.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x2802eb3a20f5892956d5b9528f6bf13e648534db"
+    ],
+    "twitter": "odinprotocol",
+    "telegram": "odinprotocol",
+    "reddit": "OdinProtocol",
+    "github_org": "orgs"
+}

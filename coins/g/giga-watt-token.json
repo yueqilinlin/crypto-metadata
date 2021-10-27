@@ -1,0 +1,23 @@
+{
+    "id": "giga-watt-token",
+    "symbol": "wtt",
+    "name": "Giga Watt Token",
+    "platforms": {
+        "ethereum": "0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Giga Watt is unique in that it can serve a range of mining needs from those of large businesses to individual operations by offering competitively low prices for electricity and maintenance. Whether one or ten thousand machines, remote miners holding WTT tokens will be able to house their machines at Giga Watt\u2019s facilities."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-08-04",
+    "contract_address": "0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda",
+    "url": "https://cryptonomos.com/wtt/",
+    "explorers": [
+        "https://etherscan.io/token/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda",
+        "https://ethplorer.io/address/0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda"
+    ],
+    "twitter": "WTTtoken",
+    "telegram": "wtt_token"
+}

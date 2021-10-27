@@ -1,0 +1,22 @@
+{
+    "id": "safelcarus",
+    "symbol": "safeicarus",
+    "name": "SafeIcarus",
+    "platforms": {
+        "binance-smart-chain": "0xd2f9b51c6a1b5598f0ea51ef95d70cb045692d0f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SAFEICARUS is programmed to reward holders while increasing in both liquidity and value.\r\nIt does this by applying a 13% tax on transactions 5% goes to holders 8% is auto-locked to liquidity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd2f9b51c6a1b5598f0ea51ef95d70cb045692d0f",
+    "url": "https://safeicarus.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xd2f9b51c6a1b5598f0ea51ef95d70cb045692d0f"
+    ],
+    "twitter": "safeicarus",
+    "telegram": "safeicarus"
+}

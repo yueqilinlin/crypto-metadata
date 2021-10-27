@@ -1,0 +1,23 @@
+{
+    "id": "criptoro-coin",
+    "symbol": "ctro",
+    "name": "Criptoro Coin",
+    "platforms": {
+        "ethereum": "0xb3ab2b676a1efdb16a227e151dc31f5bd3856744"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb3ab2b676a1efdb16a227e151dc31f5bd3856744",
+    "url": "https://www.criptoro.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xb3ab2b676a1efdb16a227e151dc31f5bd3856744",
+        "https://ethplorer.io/address/0xb3ab2b676a1efdb16a227e151dc31f5bd3856744"
+    ],
+    "twitter": "CriptoroEs",
+    "telegram": "Criptorocoin_EN"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "crypto-price-index",
+    "symbol": "cpi",
+    "name": "Crypto Price Index",
+    "platforms": {
+        "ethereum": "0x2b67d1a87a8d8b280a23e97bc55095215ee0ec53"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The CPI coin is essentially a governance token, which is used to represent an interest in the health of the CPIX token ecosystem.\r\n\r\nIn this way, the CPI token will be the core unit of the CPI ecosystem, as it\u2019s directly used to access our products and services, and is in no way an investment by itself.\r\n\r\nCPI token holders will be able to reward or penalise participants in the CPI network. CPI holders are incentivised to participate in the governance of the ecosystem through coin burns."
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "contract_address": "0x2b67d1a87a8d8b280a23e97bc55095215ee0ec53",
+    "url": "https://www.cpiindex.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x2b67d1a87a8d8b280a23e97bc55095215ee0ec53",
+        "https://ethplorer.io/address/0x2b67d1a87a8d8b280a23e97bc55095215ee0ec53"
+    ],
+    "twitter": "Index_price",
+    "facebook": "CPIndex",
+    "telegram": "CPIndex"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "bitberry-token",
+    "symbol": "bbr",
+    "name": "Bitberry Token",
+    "platforms": {
+        "ethereum": "0x7671904eed7f10808b664fc30bb8693fd7237abf"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x7671904eed7f10808b664fc30bb8693fd7237abf",
+    "url": "https://bbr.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x7671904eed7f10808B664fc30BB8693FD7237abF",
+        "https://ethplorer.io/address/0x7671904eed7f10808B664fc30BB8693FD7237abF"
+    ],
+    "twitter": "BitberryF",
+    "telegram": "Bitberry_Official"
+}

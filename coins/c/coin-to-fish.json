@@ -1,0 +1,22 @@
+{
+    "id": "coin-to-fish",
+    "symbol": "CTFT",
+    "name": "Coin To Fish",
+    "platforms": {
+        "binance-smart-chain": "0x55e00121241d6870324a8e6dffaabbe2e0359863"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CoinToFish is an online 3D NFT Fish BSC. You can Farm, Breed, Upgrade and Fight with your own fish/nft."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x55e00121241d6870324a8e6dffaabbe2e0359863",
+    "url": "https://cointofish.io",
+    "explorers": [
+        "https://bscscan.com/token/0x55e00121241d6870324a8e6dffaabbe2e0359863"
+    ],
+    "twitter": "CoinToFish",
+    "telegram": "CoinToFish"
+}

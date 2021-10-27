@@ -1,0 +1,23 @@
+{
+    "id": "moontoken",
+    "symbol": "moontoken",
+    "name": "MoonToken",
+    "platforms": {
+        "binance-smart-chain": "0x81e4d494b85a24a58a6ba45c9b418b32a4e039de"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Moontoken is an autonomous yield and liquidity generation protocol that directly rewards the holders, while continuously increasing liquidity.\r\n\r\nThe token rewards the investors just for holding; the longer you hold, the bigger the reward!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x81e4d494b85a24a58a6ba45c9b418b32a4e039de",
+    "url": "https://www.moontoken.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x81E4d494b85A24a58a6BA45c9B418b32a4E039de"
+    ],
+    "twitter": "MoonToken_BSC",
+    "telegram": "MoonTokenBSCChat",
+    "reddit": "MoonTokenBSC/"
+}

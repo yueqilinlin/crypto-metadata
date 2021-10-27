@@ -1,0 +1,25 @@
+{
+    "id": "helium",
+    "symbol": "hnt",
+    "name": "Helium",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Internet of Things (IOT)",
+        "Communication"
+    ],
+    "description": {
+        "en": "Helium is a decentralized machine network powered by a physical blockchain. The network is created by gateways who also double as miners on our network. These gateway operators can earn tokens based on coverage they provide as well as transaction fees gained from machines connecting to their gateway\r\n\r\nHelium is a new cryptocurrency. Hotspots earn for providing and validating wireless coverage and when devices on the network connect to the internet through Hospots\r\n\r\nHelium is mined and distributed to Hotspot Owners, Helium Inc, and investors.\r\nThere is no pre-mine of Helium, and every month approximately 5,000,000 new Helium are minted.\r\n\r\nAt the end of each mining period, roughly every 30 to 60 mins, Helium is distributed according to the allocation shown:"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://www.helium.com/",
+    "explorers": [
+        "https://explorer.helium.com/"
+    ],
+    "twitter": "helium",
+    "facebook": "heliumsystems",
+    "telegram": "helium_network",
+    "reddit": "HeliumNetwork",
+    "github_org": "helium"
+}

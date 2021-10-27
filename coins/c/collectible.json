@@ -1,0 +1,23 @@
+{
+    "id": "collectible",
+    "symbol": "collt",
+    "name": "Collectible",
+    "platforms": {
+        "binance-smart-chain": "0x4b2172e798572973b2e670678902d26d2e44c24a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Luxury goods and Exclusive items from the most famous designers & artists. Live Auction bidding with COLLT (Collectible token) ETH & BNB. Exclusively available to Collectible token holders. Get involved now and have a chance to win the first ever Collectible NFT!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4b2172e798572973b2e670678902d26d2e44c24a",
+    "url": "https://collectible.global/",
+    "explorers": [
+        "https://bscscan.com/token/0x4b2172e798572973b2e670678902d26d2e44c24a"
+    ],
+    "twitter": "collectible_inc",
+    "reddit": "collectibleofficial/",
+    "github_org": "CollectibleToken"
+}

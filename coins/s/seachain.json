@@ -1,0 +1,23 @@
+{
+    "id": "seachain",
+    "symbol": "seachain",
+    "name": "SeaChain",
+    "platforms": {
+        "binance-smart-chain": "0x36b24b2f78725495e858af9e72f7df69dade3dca"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SeaChain is a decentralized, community-driven ecosystem funding trash barriers in the most polluted rivers, with a goal to build a sustainable blockchain network that will provide transparent verification solutions for the plastic economy supply chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x36b24b2f78725495e858af9e72f7df69dade3dca",
+    "url": "https://www.seachaintoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x36b24b2f78725495e858af9e72f7df69dade3dca"
+    ],
+    "twitter": "SeaChainToken",
+    "telegram": "SeaChainNetwork",
+    "reddit": "seachainnetwork/"
+}

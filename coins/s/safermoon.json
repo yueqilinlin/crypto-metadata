@@ -1,0 +1,23 @@
+{
+    "id": "safermoon",
+    "symbol": "safermoon",
+    "name": "SAFERMOON",
+    "platforms": {
+        "binance-smart-chain": "0xa656f993bd14b2b59a28d1e610476ad18849b107"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SAFERmoon is an audited static rewards token that also lets you earn additional rewards via staking with no fees while continuing to collect reflection awards (and soon by adding liquidity). \r\n\r\nA 5% transaction fee is redistributed to existing holders, and another 5% transaction fee is used to create a SAFERMOON-BNB pair to generate liquidity on PancakeSwap. Devs have renounced all liquidity, and the contract functions are timelocked."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xa656f993bd14b2b59a28d1e610476ad18849b107",
+    "url": "https://safermoon.net",
+    "explorers": [
+        "https://bscscan.com/token/0xA656F993bD14B2B59a28d1e610476AD18849b107"
+    ],
+    "twitter": "safermoonreal",
+    "telegram": "safermoonofficial",
+    "github_org": "SAFERMOON"
+}

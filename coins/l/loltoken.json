@@ -1,0 +1,27 @@
+{
+    "id": "loltoken",
+    "symbol": "lol",
+    "name": "LOLTOKEN",
+    "platforms": {
+        "ethereum": "0x5978708d6cce1cc9640eed47422d64c91bbd5171"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Education"
+    ],
+    "description": {
+        "en": "The team behind the LOLTOKEN project already owns and runs international kindergartens, primary and second schools under brand wells ( www.wells.ac.th ), a business school ( www.bsm.ac.th ) for the past 20+ years, as well as a French Government recognized and internationally accredited university ( www.eiu.ac ) to their fascinating portfolio."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x5978708d6cce1cc9640eed47422d64c91bbd5171",
+    "url": "https://loleiu.io",
+    "explorers": [
+        "https://etherscan.io/token/0x5978708d6ccE1CC9640Eed47422D64c91BbD5171",
+        "https://ethplorer.io/address/0x5978708d6cce1cc9640eed47422d64c91bbd5171"
+    ],
+    "twitter": "PARIS_EIU",
+    "facebook": "EIUParis",
+    "telegram": "LOLEIU",
+    "reddit": "LOLEIUofficial"
+}

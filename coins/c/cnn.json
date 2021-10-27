@@ -1,0 +1,24 @@
+{
+    "id": "cnn",
+    "symbol": "cnn",
+    "name": "Content Neutrality Network",
+    "platforms": {
+        "ethereum": "0x8713d26637cf49e1b6b4a7ce57106aabc9325343"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Content Neutrality Network (CNN) Platform introduces several mechanisms/protocols related to content creation, distribution, circulation and revenue share.  CNN Platform combines personalized recommendation with the community votes to distribute the most relevant content to each user. CCM (Content Circulation Mechanism) is designed to stimulate seamless circulation of content among different communities.\r\n\r\nCNN is an integral and indispensable part of the CNN Platform, because in the absence of CNN, there would be no common unit of exchange to pay for these costs or provide the incentive for certain desirable behavior, thus rendering the ecosystem on the CNN Platform unsustainable."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8713d26637cf49e1b6b4a7ce57106aabc9325343",
+    "url": "http://www.cnntoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x8713d26637cf49e1b6b4a7ce57106aabc9325343",
+        "https://ethplorer.io/address/0x8713d26637cf49e1b6b4a7ce57106aabc9325343"
+    ],
+    "twitter": "CNN_Blockchain",
+    "telegram": "cnn_blockchain_official",
+    "github_org": "cnntoken"
+}

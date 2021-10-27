@@ -1,0 +1,25 @@
+{
+    "id": "feirm",
+    "symbol": "xfe",
+    "name": "FEIRM",
+    "platforms": {
+        "binance-smart-chain": "0x3de70dd9f65a860140f69f286a483f46e9be875a"
+    },
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Cryptocurrency",
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Feirm uses blockchain technology and is building a decentralised & secure platform that is easy to use and private by design. Over-time this PWA will house a number of ways for investors to use the XFE token for example; a marketplace, mini games, lotteries and our social media reward program will distribute XFE tokens to investors. It can also be used as a wallet to store your XFE tokens securely alongside other BEP-20 tokens, ERC-20 tokens from the ETH network and coins from the BTC network to save the need for a 3rd party wallet."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://feirm.com/",
+    "explorers": [
+        "https://explorer.feirm.com/"
+    ],
+    "twitter": "_feirm",
+    "telegram": "Feirm",
+    "github_org": "feirm"
+}

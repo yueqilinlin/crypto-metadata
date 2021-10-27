@@ -1,0 +1,27 @@
+{
+    "id": "bitica-coin",
+    "symbol": "bdcc",
+    "name": "BITICA COIN",
+    "platforms": {
+        "ethereum": "0x3a3547d62e9f9e76f99d51d5ab4f07aae0db2dbb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Bitica Coin(bitica), created in 2018, was the first pos/pow base cryptocurrency created in Estonia (the first country to legalise Cryptocurreny). Since then, numerous cryptocurrencies have been created. These are frequently called bit coins, as a blend of BDCC coin alternative. BDCC and its derivatives use decentralized control as opposed to centralized electronic money/central banking systems. The decentralized control is related to the use of bitcoin's blockchain transaction database in the role of a distributed.\r\n\r\nAt Bitica, we believe in financial freedom and economic independence, which is possible through BDCC coin."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x3a3547d62e9f9e76f99d51d5ab4f07aae0db2dbb",
+    "url": "https://www.thebitica.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3a3547d62e9f9e76f99d51d5ab4f07aae0db2dbb",
+        "https://ethplorer.io/address/0x3a3547d62e9f9e76f99d51d5ab4f07aae0db2dbb"
+    ],
+    "twitter": "thebitica",
+    "facebook": "thebitica",
+    "telegram": "BDCCTOKEN",
+    "github_org": "biticacoin"
+}

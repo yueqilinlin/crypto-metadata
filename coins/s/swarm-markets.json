@@ -1,0 +1,24 @@
+{
+    "id": "swarm-markets",
+    "symbol": "smt",
+    "name": "Swarm Markets",
+    "platforms": {
+        "ethereum": "0xb17548c7b510427baac4e267bea62e800b247173"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Swarm Markets is the world\u2019s first licensed DeFi platform\u2014a unified exchange for securities and crypto. Swarm Markets makes it possible for institutional investors like banks and hedge funds as well as retail investors to trade and stake tokens based on all kinds of real-world assets, such as commodities and traditional market securities alongside crypto.\r\n\r\nRegulated by Germany\u2019s Federal Financial Supervisory Authority (BaFin), Swarm Markets' regulatory status means the platform provides the same level of governance and accountability as traditional financial institutions. Asset custodians will be able to leverage Swarm Markets\u2019 licenses to issue new tokens and instantly create high-liquidity trading pools directly on the platform. \r\n\r\nThe convenience and transparency of DeFi with the confidence of financial market compliance."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0xb17548c7b510427baac4e267bea62e800b247173",
+    "url": "https://swarm.markets/",
+    "explorers": [
+        "https://etherscan.io/token/0xb17548c7b510427baac4e267bea62e800b247173",
+        "https://ethplorer.io/address/0xb17548c7b510427baac4e267bea62e800b247173"
+    ],
+    "twitter": "SwarmMarkets",
+    "telegram": "SMTtokensale",
+    "github_org": "SwarmMarkets"
+}

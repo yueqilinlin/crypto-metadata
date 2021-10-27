@@ -1,0 +1,22 @@
+{
+    "id": "binemon",
+    "symbol": "bin",
+    "name": "Binemon",
+    "platforms": {
+        "binance-smart-chain": "0xe56842ed550ff2794f010738554db45e60730371"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Binemon is a virtual pet NFT game combined with elements of an Idle RPG game. In addition to collecting and trading eggs, ambrosia (fusion), characters, items, land, and players are also connected to fight in PVE, PVP modes and receive cryptocurrency rewards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe56842ed550ff2794f010738554db45e60730371",
+    "url": "https://binemon.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xe56842ed550ff2794f010738554db45e60730371"
+    ],
+    "twitter": "binemonnft",
+    "telegram": "binemon"
+}

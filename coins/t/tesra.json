@@ -1,0 +1,24 @@
+{
+    "id": "tesra",
+    "symbol": "tsr",
+    "name": "Tesra",
+    "platforms": {
+        "ethereum": "0x58959e0c71080434f237bd42d07cd84b74cef438"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x58959e0c71080434f237bd42d07cd84b74cef438",
+    "url": "https://tesra.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x58959e0c71080434f237bd42d07cd84b74cef438",
+        "https://ethplorer.io/address/0x58959e0c71080434f237bd42d07cd84b74cef438"
+    ],
+    "twitter": "TesraSupernet",
+    "facebook": "tesra.supernet",
+    "telegram": "TesraSupernet"
+}

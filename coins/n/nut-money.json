@@ -1,0 +1,23 @@
+{
+    "id": "nut-money",
+    "symbol": "nut",
+    "name": "Nut Money",
+    "platforms": {
+        "huobi-token": "0x4f0a338dfa1c9369f62109c9022042e1f0ae479b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A Crunchy DeFi Protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4f0a338dfa1c9369f62109c9022042e1f0ae479b",
+    "url": "https://nut.money/",
+    "explorers": [
+        "https://hecoinfo.com/token/0x4f0A338DFa1C9369F62109C9022042e1F0aE479b"
+    ],
+    "twitter": "nutdefi",
+    "telegram": "nutmoney",
+    "github_org": "nutmoneydefi"
+}

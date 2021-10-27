@@ -1,0 +1,24 @@
+{
+    "id": "icon",
+    "symbol": "icx",
+    "name": "ICON",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "ICON is a blockchain technology and network framework designed to allow independent blockchains to interact with each other. ICON is supported through a cryptocurrency token, called ICX. ICON is a South Korean-based company that developed a blockchain technology and accompanying cryptocurrency token called ICX. The company bills itself as an interconnected blockchain network, allowing participants in a decentralized system to \u201cconverge\u201d at a central point.\r\n\r\nThis is done by connecting a community to other communities through ICON Republic and Citizen Nodes. While blockchains are most commonly associated with cryptocurrencies, enthusiasts point out other areas where the technology can be applied. Any exchange of information can technically be added to a blockchain, though adding some types may not be cost-effective. Transactions involving securities, currencies, business contracts, deeds and loans, intellectual property, and personal identification could be \u201ctokenized.\r\n\r\nICON\u2019s blockchain is more like the Plasma or <a href=\"https://www.coingecko.com/en/coins/ontology\">Ontology</a> blockchain in that its purpose is to act as an intermediary between other blockchains and networks. This interconnectability makes the ICON project worth keeping an eye on over the next decade.\r\n\r\nICON sports its very own decentralized exchange. This DEX sets currency reserves for each blockchain community so that ICON communities can exchange value in real time through the ICON Republic.  In this way, DEX complements C-Rep portals by establishing another gateway for ICON Communities to connect to the ICON Republic."
+    },
+    "country_origin": "KR",
+    "genesis_date": "2017-09-19",
+    "url": "https://iconrepublic.org/",
+    "explorers": [
+        "https://tracker.icon.foundation/",
+        "https://iconwat.ch/"
+    ],
+    "twitter": "helloiconworld",
+    "telegram": "hello_iconworld",
+    "reddit": "helloicon",
+    "github_org": "icon-project"
+}

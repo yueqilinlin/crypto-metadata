@@ -1,0 +1,26 @@
+{
+    "id": "bitplayer-token",
+    "symbol": "bpt",
+    "name": "Bitpayer Token",
+    "platforms": {
+        "ethereum": "0x283669123bd83da2536bb534e20512101c18e5d8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "Bitpayer is a decentralized trading platform that lets you trade Ethereum and Ethereum-based tokens directly with other users. It is the first digital assets decentralised exchange that shares profits with all users."
+    },
+    "country_origin": "VD",
+    "genesis_date": null,
+    "contract_address": "0x283669123bd83da2536bb534e20512101c18e5d8",
+    "url": "https://bitpayer.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x283669123bd83da2536bb534e20512101c18e5d8",
+        "https://ethplorer.io/address/0x283669123bd83da2536bb534e20512101c18e5d8"
+    ],
+    "twitter": "bitpayerdex",
+    "facebook": "Bitpayerdex",
+    "telegram": "bitpayerdex"
+}

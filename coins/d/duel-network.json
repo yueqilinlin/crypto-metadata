@@ -1,0 +1,23 @@
+{
+    "id": "duel-network",
+    "symbol": "duel",
+    "name": "Duel Network",
+    "platforms": {
+        "binance-smart-chain": "0x297817ce1a8de777e7ddbed86c3b7f9dc9349f2c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Duel Network is a gaming token on Binance Smart Chain with a number of impressive features. It is a gaming token where you can play events that are suitable for voting, such as politics, finance, state elections, especially sports.\r\n\r\nThe most important feature of Duel Network is that you never lose. You will be able to do farming by entering pools through preferences and voting without losing your capital."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x297817ce1a8de777e7ddbed86c3b7f9dc9349f2c",
+    "url": "https://duel.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x297817CE1a8De777e7ddbed86C3B7f9Dc9349f2c"
+    ],
+    "twitter": "duel_network",
+    "telegram": "duelnetwork",
+    "github_org": "duelnetwork"
+}

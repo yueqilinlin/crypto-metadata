@@ -1,0 +1,22 @@
+{
+    "id": "degen-protocol",
+    "symbol": "dgn",
+    "name": "Degen Protocol",
+    "platforms": {
+        "binance-smart-chain": "0x72f28c09be1342447fa01ebc76ef508473d08c5c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Degen is a decentralized protocol for margin trading with liquidity providers. Any LP, any pairs, any leverages - all is customizable. The protocol will be launched on both BSC and the Ethereum chain. Features will vary between the two versions along with their respective fee structures.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x72f28c09be1342447fa01ebc76ef508473d08c5c",
+    "url": "https://unimex.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x72f28c09be1342447fa01ebc76ef508473d08c5c"
+    ],
+    "twitter": "UniMex_Network",
+    "telegram": "UniMexNetwork"
+}

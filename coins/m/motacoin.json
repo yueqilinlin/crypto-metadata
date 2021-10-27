@@ -1,0 +1,24 @@
+{
+    "id": "motacoin",
+    "symbol": "mota",
+    "name": "MotaCoin",
+    "platforms": {},
+    "hashing_algorithm": "X13",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "A new decentralized, trustless, Cryptographic secured ecosystem for the marijuana industry. Designed for high adoption. Implemented with speed."
+    },
+    "country_origin": "US",
+    "genesis_date": "2018-03-18",
+    "url": "https://www.motacoin.net/",
+    "explorers": [
+        "https://chainz.cryptoid.info/mota/#",
+        "https://openchains.info/coin/motacoin/blocks"
+    ],
+    "twitter": "Motacoin_",
+    "facebook": "MotaCoin",
+    "telegram": "motacoin",
+    "github_org": "Jahvinci"
+}

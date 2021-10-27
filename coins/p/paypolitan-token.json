@@ -1,0 +1,23 @@
+{
+    "id": "paypolitan-token",
+    "symbol": "epan",
+    "name": "Paypolitan Token",
+    "platforms": {
+        "ethereum": "0x72630b1e3b42874bf335020ba0249e3e9e47bafc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x72630b1e3b42874bf335020ba0249e3e9e47bafc",
+    "url": "https://paypolitan.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x72630b1e3b42874bf335020ba0249e3e9e47bafc",
+        "https://ethplorer.io/address/0x72630b1e3b42874bf335020ba0249e3e9e47bafc"
+    ],
+    "twitter": "paypolitan",
+    "telegram": "paypolitan_ann"
+}

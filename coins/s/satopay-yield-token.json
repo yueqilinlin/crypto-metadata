@@ -1,0 +1,23 @@
+{
+    "id": "satopay-yield-token",
+    "symbol": "spy",
+    "name": "Satopay Yield Token",
+    "platforms": {
+        "ethereum": "0xe4883bcb919386bb5f48ef59b7c31c1d93a51a57"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SPY is the governance token for Satopay Ecosystem. $SPY utilizes advanced protocol to ascertain holders are rewarded for staking and withal given privilege to participate in on-chain voting, hence fully community-centric."
+    },
+    "country_origin": "GE",
+    "genesis_date": null,
+    "contract_address": "0xe4883bcb919386bb5f48ef59b7c31c1d93a51a57",
+    "url": "https://satopay.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xe4883bcb919386bb5f48ef59b7c31c1d93a51a57",
+        "https://ethplorer.io/address/0xe4883bcb919386bb5f48ef59b7c31c1d93a51a57"
+    ],
+    "twitter": "Satopay1",
+    "telegram": "SPYtoken"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "aidcoin",
+    "symbol": "aid",
+    "name": "AidCoin",
+    "platforms": {
+        "ethereum": "0x37e8789bb9996cac9156cd5f5fd32599e6b91289"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "AidCoin is the ERC20 token that aims to become the preferred method to donate transparently through the Ethereum blockchain. The AID token will power AIDChain, a platform that provides an ecosystem of services through an easy-to-use interface, connecting the non-profit community while allowing full transparency and traceability of donations. \r\n\r\nAIDChain\u2019s services include an internal exchange to convert major cryptocurrencies into AidCoin, a built-in wallet to store and donate easily, an explorer to track donations transparently, tools to connect donors with all the actors involved in the non-profit sector and templates of smart contracts to run fundraising campaigns."
+    },
+    "country_origin": "CH",
+    "genesis_date": "2017-11-20",
+    "contract_address": "0x37e8789bb9996cac9156cd5f5fd32599e6b91289",
+    "url": "https://www.aidcoin.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x37e8789bb9996cac9156cd5f5fd32599e6b91289",
+        "https://ethplorer.io/address/0x37e8789bb9996cac9156cd5f5fd32599e6b91289"
+    ],
+    "twitter": "aid_coin",
+    "facebook": "aidcoinco",
+    "telegram": "aidcoincommunity",
+    "reddit": "AidCoin/",
+    "github_org": "AidCoinCo"
+}

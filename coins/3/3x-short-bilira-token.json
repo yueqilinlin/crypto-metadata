@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-bilira-token",
+    "symbol": "trybbear",
+    "name": "3X Short BiLira Token",
+    "platforms": {
+        "ethereum": "0xa5ddfca8b837ccd0cf80fe6c24e2a9018fb50dba"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short BiLira Token (TRYBBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of BiLira."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa5ddfca8b837ccd0cf80fe6c24e2a9018fb50dba",
+    "url": "https://ftx.com/tokens/TRYBBEAR",
+    "explorers": [
+        "https://etherscan.io/token/0xA5dDFCA8B837cCD0cf80fe6C24E2A9018FB50dbA",
+        "https://ethplorer.io/address/0xa5ddfca8b837ccd0cf80fe6c24e2a9018fb50dba"
+    ]
+}

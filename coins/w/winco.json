@@ -1,0 +1,25 @@
+{
+    "id": "winco",
+    "symbol": "wco",
+    "name": "Winco",
+    "platforms": {
+        "ethereum": "0xd44bb6663936cab1310584a277f7daa6943d4904"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "The Winco project has as a differential, to create a cryptocurrency with the security and advantages of the main decentralized currencies and also to guarantee the stabilization of value through the link with new business, market franchising and real estate projects. This bond tends to insure a sharp correction, due to the security of the investor who knows that he can sell the free market at any time on the value of supply and demand or make."
+    },
+    "country_origin": "SG",
+    "genesis_date": "2017-12-20",
+    "contract_address": "0xd44bb6663936cab1310584a277f7daa6943d4904",
+    "url": "winco.io",
+    "explorers": [
+        "https://etherscan.io/token/0xd44bb6663936cab1310584a277f7daa6943d4904",
+        "https://ethplorer.io/address/0xd44bb6663936cab1310584a277f7daa6943d4904"
+    ],
+    "twitter": "WincoCrypto",
+    "facebook": "WincoCryptocurrency",
+    "telegram": "wincocripto",
+    "github_org": "WincoCrypto"
+}

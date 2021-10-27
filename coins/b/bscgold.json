@@ -1,0 +1,22 @@
+{
+    "id": "bscgold",
+    "symbol": "bscgold",
+    "name": "BSCGold",
+    "platforms": {
+        "binance-smart-chain": "0x34195fd824355aec1bdceea97697b35be691bcb3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BSCGold is a gaming platform that allows creators to craft, play, distribute, and trade without the need for centralized power, thus maintaining stable copyright ownership and earning further BSCGold (BSCG). Our goal is to provide a fully interactive metaverse in which players collaborate to build simulated environments and games without the need for centralized control."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x34195fd824355aec1bdceea97697b35be691bcb3",
+    "url": "https://bscgold.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x34195fd824355aec1bdceea97697b35be691bcb3"
+    ],
+    "twitter": "GoldYfii",
+    "telegram": "BSCGOLD"
+}

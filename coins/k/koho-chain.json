@@ -1,0 +1,25 @@
+{
+    "id": "koho-chain",
+    "symbol": "khc",
+    "name": "KoHo Chain",
+    "platforms": {
+        "binance-smart-chain": "0x9f403a84db8b5a91e3f6c14a5514906414d1b7f7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KoHo Chain (KHC) is the next generation inclusive finance (InFi) infrastructure based on blockchain side-chain technology and is the first high-performance privacy public chain that bridges the KHC side chain to the Ethereum ecosystem for large-scale commercial usage securely."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9f403a84db8b5a91e3f6c14a5514906414d1b7f7",
+    "url": "https://khchain.io/",
+    "explorers": [
+        "https://scan.khchain.io/",
+        "https://bscscan.com/token/0x9F403a84db8B5A91E3F6c14a5514906414d1B7F7"
+    ],
+    "twitter": "ChainKoho",
+    "facebook": "hoo.koo.395",
+    "telegram": "KoHoChain",
+    "github_org": "kohochain"
+}

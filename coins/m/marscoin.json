@@ -1,0 +1,22 @@
+{
+    "id": "marscoin",
+    "symbol": "mars",
+    "name": "Marscoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Marscoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Marscoin is an open source, global payment network that is fully decentralized. Mathematics secures the network and empowers individuals to control their own finances."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-01-02",
+    "url": "http://marscoin.org/",
+    "explorers": [
+        "https://prohashing.com/explorer/Marscoin/",
+        "http://explore.marscoin.org/"
+    ],
+    "twitter": "marscoinorg",
+    "facebook": "marscoin",
+    "reddit": "marscoin",
+    "github_org": "marscoin"
+}

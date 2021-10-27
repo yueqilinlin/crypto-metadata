@@ -1,0 +1,27 @@
+{
+    "id": "sora-validator-token",
+    "symbol": "val",
+    "name": "Sora Validator Token",
+    "platforms": {
+        "ethereum": "0xe88f8313e61a97cec1871ee37fbbe2a8bf3ed1e4",
+        "sora": "0x0200040000000000000000000000000000000000000000000000000000000000"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "VAL tokens are used to reward validators, as well as nominators to nominate the validators with their SORA (XOR) token."
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "contract_address": "0xe88f8313e61a97cec1871ee37fbbe2a8bf3ed1e4",
+    "url": "https://sora.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xe88f8313e61a97cec1871ee37fbbe2a8bf3ed1e4",
+        "https://ethplorer.io/address/0xe88f8313e61a97cec1871ee37fbbe2a8bf3ed1e4"
+    ],
+    "twitter": "sora_xor",
+    "facebook": "sora.xor",
+    "telegram": "sora_xor",
+    "reddit": "SORA/",
+    "github_org": "sora-xor"
+}

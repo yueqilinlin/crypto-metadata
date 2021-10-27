@@ -1,0 +1,20 @@
+{
+    "id": "ecc",
+    "symbol": "ecc",
+    "name": "ECC",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "After the originators of ECC left the project for dead in 2015 a developer named Greg Griffith decided to take it over and revive ECC in 2017. Since that point Greg (main developer), his team and the newly grown community is working hard to push the project in the right direction: a new website has been set up, whitepaper and roadmap have been released and a completely new wallet (Sapphire) has been developed and will soon be released. Much more will follow...\r\n\r\nECC is an open-source, innovative multi-chain platform. Our network operates with a financial core which allows it to function not only as a currency-transferring platform, but will also serve as a solid infrastructure for future commercial technologies. All of our multi-chain services are implemented with extra focus on user-friendliness, as well as offering unlimited commercial potential; all the while, maintaining a safe and decentralized platform.\r\n\r\nOur developers are currently engineering the multi-chain core with our flagship services such as: file transfer and storage; decentralized messaging and currency transfer; right on top of the blockchain.\r\n\r\nOur services implement ANS (Address Name Service); which means that users can send and receive coins and data simply by using nicknames rather than the long, cumbersome wallet addresses we are used to seeing.\r\n\r\nFor ECC, this is only the beginning. When development of the multi-chain foundation is completed with our easily-navigable interface and open-source platform, future developers can create new services right on top of our network! Exciting, isn\u2019t it? We think so too.\r\n\r\nAt ECC, we strive to develop ground-breaking innovations; all with absolute privacy and security through our blockchain services."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-03-02",
+    "url": "https://ecc.network/",
+    "explorers": [
+        "https://chainz.cryptoid.info/ecc/"
+    ],
+    "twitter": "project_ecc",
+    "reddit": "ecc",
+    "github_org": "project-ecc"
+}

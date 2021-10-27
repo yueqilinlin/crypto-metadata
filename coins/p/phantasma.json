@@ -1,0 +1,34 @@
+{
+    "id": "phantasma",
+    "symbol": "soul",
+    "name": "Phantasma",
+    "platforms": {
+        "ethereum": "0x79c75e2e8720b39e258f41c37cc4f309e0b0ff80",
+        "binance-smart-chain": "0xc3adbf524513863102df6784e1ab5652165c7912"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment",
+        "Non-Fungible Tokens (NFT)",
+        "Storage",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Phantasma is a single-source, fully interoperable, decentralized feature rich blockchain.\r\n\r\nWith its innovative staking mechanism, dual token system, sustainable tokenomics model and advanced eco-friendly smartNFTs, the chain is designed to be used for digital goods & services for communications, entertainment, marketplaces and on-chain storage solutions for dApp creators and enterprise clients.\r\n\r\nWith mainnet live since October 2019, it has proven to be the platform of choice for Gaming and NFTs. Not only because of its low minting and transaction fees but also because of its smartNFT technology that has been built on chain level and its pledge to become the first certified carbon negative blockchain.\r\n\r\nIt has an easy-to-use connector between dApps, wallets and blockchain via Phantasma Link.\r\n\r\nIt provides cross-chain interoperability with the Ethereum, BSC and NEO blockchains and is capable of a high throughput due to infinite sidechains.\r\n\r\nIt has Oracles built into the core of the chain."
+    },
+    "country_origin": "PT",
+    "genesis_date": null,
+    "contract_address": "0x79c75e2e8720b39e258f41c37cc4f309e0b0ff80",
+    "url": "https://phantasma.io/",
+    "explorers": [
+        "https://explorer.phantasma.io/token/SOUL",
+        "https://neotracker.io/asset/ed07cffad18f1308db51920d99a2af60ac66a7b3",
+        "https://etherscan.io/token/0x79c75e2e8720b39e258f41c37cc4f309e0b0ff80",
+        "https://ethplorer.io/address/0x79c75e2e8720b39e258f41c37cc4f309e0b0ff80",
+        "https://bscscan.com/token/0xc3adbf524513863102df6784e1ab5652165c7912"
+    ],
+    "twitter": "phantasmachain",
+    "telegram": "phantasma_io",
+    "reddit": "https://www.reddit.comphantasma/",
+    "github_org": "phantasma-io"
+}

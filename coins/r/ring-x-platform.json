@@ -1,0 +1,27 @@
+{
+    "id": "ring-x-platform",
+    "symbol": "ringx",
+    "name": "RING X PLATFORM",
+    "platforms": {
+        "ethereum": "0x7f86c782ec802ac402e0369d2e6d500256f7abc5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "RING X Platform aims to create a block-chain-based mileage integrated ecosystem by integrating various mileage service into block-chain technology and establishing an innovative platform for customers to purchase and consume high qualified contents with integrated mileage based on cooperation with various mileage service providers."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x7f86c782ec802ac402e0369d2e6d500256f7abc5",
+    "url": "http://ringx.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x7f86c782ec802ac402e0369d2e6d500256f7abc5",
+        "https://ethplorer.io/address/0x7f86c782ec802ac402e0369d2e6d500256f7abc5"
+    ],
+    "twitter": "PlatformRing",
+    "facebook": "platform.ring.1",
+    "telegram": "ringplat",
+    "github_org": "RINGXPlatform"
+}

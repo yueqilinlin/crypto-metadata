@@ -1,0 +1,24 @@
+{
+    "id": "topdog-vault-nftx",
+    "symbol": "topdog",
+    "name": "TOPDOG Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xc57baa24f72037c21f9c0d345bb6f19f47407447"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "TOPDOG Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs).\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc57baa24f72037c21f9c0d345bb6f19f47407447",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xc57baa24f72037c21f9c0d345bb6f19f47407447",
+        "https://ethplorer.io/address/0xc57baa24f72037c21f9c0d345bb6f19f47407447"
+    ],
+    "twitter": "nftx_"
+}

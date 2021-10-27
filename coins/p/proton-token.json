@@ -1,0 +1,24 @@
+{
+    "id": "proton-token",
+    "symbol": "ptt",
+    "name": "Proton Token",
+    "platforms": {
+        "ethereum": "0x4689a4e169eb39cc9078c0940e21ff1aa8a39b9c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Proton is a public chain that is dedicated to data fusion and collaboration. It builds the fundamental infrastructure for data security and high-efficiency data collaboration processing across various data sources, unleashing the real potential of big data and artificial intelligent applications on different industries. With freeing the data from silos, from a single online shop to the IoT industry giants can break through their bottle neck of lacking valid data samples and insufficient recognition of data via \"Proton Inside\".\r\n\r\nProton Chain\r\nProton is a Blockchain Based System enabling the Unified ID system for Data Storage and Collaboration.It allows decentralised data sharing and processing with guaranteed privacy among different platforms,freeing data from today\u2019s silos. Proton network can well be adopted to empower the digital marketing eco-system using blockchain and provides support and service to advertisers, agents, DSPs, SSPs, DMPs and end users."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4689a4e169eb39cc9078c0940e21ff1aa8a39b9c",
+    "url": "https://www.proton.global/",
+    "explorers": [
+        "https://etherscan.io/token/0x4689a4e169eb39cc9078c0940e21ff1aa8a39b9c",
+        "https://ethplorer.io/address/0x4689a4e169eb39cc9078c0940e21ff1aa8a39b9c"
+    ],
+    "twitter": "proton_global",
+    "telegram": "ProtonToken",
+    "github_org": "ProtonNetwork"
+}

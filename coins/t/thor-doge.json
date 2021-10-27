@@ -1,0 +1,24 @@
+{
+    "id": "thor-doge",
+    "symbol": "thoge",
+    "name": "Thor Doge",
+    "platforms": {
+        "binance-smart-chain": "0x0c692b62c4e85171fd1c05fba889c9f873b81317"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Launched on Aug 28, 2021, Thor Doge is a hyper deflationary\r\ntoken that rewards holders with Litecoin. Thoge is 100%\r\ndecentralized and community driven, which makes all of us\r\n(holders) the owners. We take pride in promoting organic\r\ngrowth and growing an organic team and community.\r\n\r\nThe tokenomics of Thor Doge Inu Tokens is that 3% of every buy/sell transaction is distributed to all holders in Litecoin (minimum 200,000 tokens). 5% of every transaction is distributed to Marketing, and sells are restricted to less than 0.9% of the total supply (100B) + extra 1% fee is applied to all sells to prevent whale manipulation. 2%\u00a0Distribution to Liquidity automatically built into contract and cannot be altered."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0c692b62c4e85171fd1c05fba889c9f873b81317",
+    "url": "https://www.thoge.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x0c692b62c4e85171fd1c05fba889c9f873b81317"
+    ],
+    "twitter": "ThogeInu",
+    "telegram": "ThogeInu",
+    "reddit": "ThogeInu/",
+    "github_org": "ThogeInu"
+}

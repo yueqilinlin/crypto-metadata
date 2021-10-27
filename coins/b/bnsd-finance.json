@@ -1,0 +1,29 @@
+{
+    "id": "bnsd-finance",
+    "symbol": "bnsd",
+    "name": "BNSD Finance",
+    "platforms": {
+        "ethereum": "0x668dbf100635f593a3847c0bdaf21f0a09380188",
+        "binance-smart-chain": "0xc1165227519ffd22fdc77ceb1037b9b284eef068"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "Users would get yield in the form of BNSD (BNS defi) a token which we have released specific to this.\r\n\r\nWhat are the salient features of BNSD:\r\n- Super high APYs\r\n- Multiple pools in which you can farm\r\n- Extremely Deflationary release overtime\r\n- Halving built in. 4 halvings happening where block rewards reduce.\r\n- Block rewards start with 1000 rewards per ETH block of BNSD and then reduce based on halving in the following fashion\r\n- 1000 - 500 1 day from genesis block\r\n- 500 - 250 7 days\r\n- 250-125 30 days\r\n- 125 - 100 90 days\r\n- Just 4% of rewards are reserved for dev funds. This is lowest in comparison across other defi projects like Sushi\r\n- Best part 50% of the dev funds are used for buying bns on a periodic basis\r\n- Contract is super clean as there is no mint function there except for the block rewards which are happening every block. So there is no risk associated with it. No time lock needed as only BNSChef can mint rewards and those rewards are specific to block\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x668dbf100635f593a3847c0bdaf21f0a09380188",
+    "url": "https://bns.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x668DbF100635f593A3847c0bDaF21f0a09380188",
+        "https://ethplorer.io/address/0x668dbf100635f593a3847c0bdaf21f0a09380188",
+        "https://bscscan.com/token/0xC1165227519FfD22Fdc77Ceb1037b9b284eeF068"
+    ],
+    "twitter": "bnsdfinance",
+    "telegram": "bnsdfinance",
+    "reddit": "Bitbns/",
+    "github_org": "bitbns-official"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "beetle-coin",
+    "symbol": "beet",
+    "name": "Beetle Coin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "The Beetle coin is an open source decentralized cryptocurrency which provides instant and low fees transactions all around the world through the Beetlecoin network.\r\nAnyone can participate in the operation of Beetle coin network by either allocating computing power in mining or staking the coins.\r\nOn average, Beetle coin block network requires two minutes to generate a new block, and all transactions are carried out over the internet, unlike fiat money transactions which require \r\nintermediary financial institutions or banks. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://beetlecoin.io",
+    "explorers": [
+        "http://explorer.beetlecoin.io/"
+    ],
+    "twitter": "beetlecoin",
+    "github_org": "beetledev"
+}

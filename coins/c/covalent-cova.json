@@ -1,0 +1,25 @@
+{
+    "id": "covalent-cova",
+    "symbol": "cova",
+    "name": "Cova Unity",
+    "platforms": {
+        "ethereum": "0xb37a769b37224449d92aac57de379e1267cd3b00"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "COVA Unity is a blockchain protocol that allows the monetization of enterprise data without compromising user data privacy."
+    },
+    "country_origin": "SG",
+    "genesis_date": "2018-12-16",
+    "contract_address": "0xb37a769b37224449d92aac57de379e1267cd3b00",
+    "url": "http://covalent.ai",
+    "explorers": [
+        "https://etherscan.io/token/0xb37a769b37224449d92aac57de379e1267cd3b00",
+        "https://ethplorer.io/address/0xb37a769b37224449d92aac57de379e1267cd3b00"
+    ],
+    "twitter": "covatoken",
+    "telegram": "covalentofficial",
+    "reddit": "Covalent_Official/",
+    "github_org": "covalent-hq"
+}

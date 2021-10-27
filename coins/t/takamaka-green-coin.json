@@ -1,0 +1,21 @@
+{
+    "id": "takamaka-green-coin",
+    "symbol": "tkg",
+    "name": "Takamaka Green Coin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "Takamaka is a project developed by AiliA SA, a company based in Switzerland, active in the field of \"\"IT services\"\" and innovation in the sectors of blockchain and AI technological transformation.\r\n\r\nTakamaka is a new, company oriented, Blockchain that bases its core on the most widespread and extensively used verifiable programming language, Java.\r\n\r\nOur blockchain provides native support for two tokens, a stable token(TKR) and a variable one(TKG), like BTC or ADA, whose value is decided by the market and is necessary for the proper functioning of the Takamaka network.\r\nIn order to ensure the value of the stable coin, TKR, AiliA SA, the company developing the Takamaka.io project, became an SRO member of VQF.\r\nVQF is a self-regulatory organization officially recognized by the Swiss Financial Market Supervisory Authority (FINMA) in accordance with Art. 24 et seq. of the Money Laundering Act.\r\n\r\nTo ensure security, with particular attention to the future,all blocks are signed with the qTesla post-quantum digital signature algorithm.\r\n\r\nTakamaka introduces an innovative Proof Of Stake solution, which allows a high degree of transaction reliability under normal working conditions (1,000,000 Tx/h). In this context, the verification process and the Blockchain algorithm allow the construction of a self-financing network and the creation of a digital currency for the organization of the Blockchain reward system, which evolves and is not influenced by foreign actors.\r\n\r\nThe Takamaka blockchain provides accurate and non-variable estimates for constant gas operations and precise parameters for calculating the transactions where the size of the data varies.\r\nThe idea behind this structure is to enable budget planners and developers of smart contracts to know and plan the costs with a high degree of accuracy.\r\n\r\nThe evolution of the Takamaka.io blockchain is not finished yet. By the end of 2021 we plan to finish introducing support for java smart contracts. "
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "url": "https://takamaka.io/",
+    "explorers": [
+        "https://exp.takamaka.dev/"
+    ],
+    "twitter": "takamaka_io",
+    "telegram": "takamaka_io",
+    "reddit": "takamaka/",
+    "github_org": "takamaka-dev"
+}

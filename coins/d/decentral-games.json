@@ -1,0 +1,36 @@
+{
+    "id": "decentral-games",
+    "symbol": "dg",
+    "name": "Decentral Games",
+    "platforms": {
+        "ethereum": "0xee06a81a695750e71a662b51066f2c74cf4478a0",
+        "binance-smart-chain": "0x9fdc3ae5c814b79dca2556564047c5e7e5449c19",
+        "polygon-pos": "0x2a93172c8dccbfbc60a39d56183b7279a2f647b4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Play To Earn",
+        "Polygon Ecosystem",
+        "Metaverse",
+        "Non-Fungible Tokens (NFT)",
+        "Gambling",
+        "Entertainment",
+        "Gaming"
+    ],
+    "description": {
+        "en": "decentral.games is a community-owned metaverse casino ecosystem powered by $DG. Players earn $DG for playing games, LPs earn $DG for providing liquidity, and active $DG holders earn $DG by governing the allocation of house profits. "
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0xee06a81a695750e71a662b51066f2c74cf4478a0",
+    "url": "https://decentral.games",
+    "explorers": [
+        "https://etherscan.io/token/0xee06a81a695750e71a662b51066f2c74cf4478a0",
+        "https://ethplorer.io/address/0xee06a81a695750e71a662b51066f2c74cf4478a0",
+        "https://polygonscan.com/token/0x2a93172c8dccbfbc60a39d56183b7279a2f647b4",
+        "https://bscscan.com/token/0x9fdc3ae5c814b79dca2556564047c5e7e5449c19"
+    ],
+    "twitter": "decentralgames",
+    "telegram": "decentralgames",
+    "github_org": "decentralgames"
+}

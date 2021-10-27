@@ -1,0 +1,22 @@
+{
+    "id": "rebound",
+    "symbol": "rebound",
+    "name": "Rebound",
+    "platforms": {
+        "binance-smart-chain": "0xd26c2cbb5df77bd5c20667de48145151674158ad"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$REBOUND is a first of its kind tax-based token which incentivizes holding by prohibiting any sales above 25% of an investor's $REBOUND holdings. Additionally, if an investor attempts to sell more than once per day, the liquidity tax doubles."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd26c2cbb5df77bd5c20667de48145151674158ad",
+    "url": "https://rebound.digital",
+    "explorers": [
+        "https://bscscan.com/token/0xd26c2cbb5df77bd5c20667de48145151674158ad"
+    ],
+    "twitter": "reboundbsc",
+    "telegram": "ReboundOfficial"
+}

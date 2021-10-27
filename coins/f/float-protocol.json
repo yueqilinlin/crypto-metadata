@@ -1,0 +1,26 @@
+{
+    "id": "float-protocol",
+    "symbol": "bank",
+    "name": "Float Protocol",
+    "platforms": {
+        "ethereum": "0x24a6a37576377f63f194caa5f518a60f45b42921"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Olympus Pro"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x24a6a37576377f63f194caa5f518a60f45b42921",
+    "url": "https://floatprotocol.com",
+    "explorers": [
+        "https://etherscan.io/token/0x24a6a37576377f63f194caa5f518a60f45b42921",
+        "https://ethplorer.io/address/0x24a6a37576377f63f194caa5f518a60f45b42921"
+    ],
+    "twitter": "FloatProtocol",
+    "telegram": "officialfloatprotocol",
+    "github_org": "FloatProtocol"
+}

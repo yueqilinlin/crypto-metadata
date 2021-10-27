@@ -1,0 +1,22 @@
+{
+    "id": "anti-fraud-chain",
+    "symbol": "afc",
+    "name": "Anti-Fraud Chain",
+    "platforms": {
+        "ethereum": "0x14dffd4f515d4c43493c6c512c78fbc59a8af254"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Anti-FraudChain is based on IBM HyperLeger Fabric bottom blockchain technology\uff0cThe ecosystem of credit prediction, credit anti-fraud, and credit history records, which is integrated with AI( Artificial-intelligence ) technology, is oriented to the financial field. Through this ecosystem, the construction of risk management, transaction management platform across multiple financial areas to the center. At the beginning of its construction, it will provide credit analysis, risk prediction, matchmaking and other services for insurance, fund, microfinance and other financial business and financial transactions. After the business platform, data scale, to further provide credit records, credit rating, credit index and other further business services."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x14dffd4f515d4c43493c6c512c78fbc59a8af254",
+    "url": "http://www.afcchina.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x14dffd4f515d4c43493c6c512c78fbc59a8af254",
+        "https://ethplorer.io/address/0x14dffd4f515d4c43493c6c512c78fbc59a8af254"
+    ],
+    "facebook": "AFCantifraudchain"
+}

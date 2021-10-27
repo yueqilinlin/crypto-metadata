@@ -1,0 +1,22 @@
+{
+    "id": "giant",
+    "symbol": "gic",
+    "name": "Giant",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Giant applies blockchain and smart contract technologies for self-regulation of digital assets used for \u201csmart betting\u201d in a decentralized network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://giantpay.network/",
+    "explorers": [
+        "https://explorer.giantpay.network/"
+    ],
+    "twitter": "giant_coin",
+    "telegram": "GiantCoin",
+    "github_org": "GiantPay"
+}

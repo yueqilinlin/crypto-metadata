@@ -1,0 +1,25 @@
+{
+    "id": "elastic-dao",
+    "symbol": "egt",
+    "name": "ElasticDAO",
+    "platforms": {
+        "ethereum": "0x2aa5ce395b00cc486159adbdd97c55b535cf2cf9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Governance"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2aa5ce395b00cc486159adbdd97c55b535cf2cf9",
+    "url": "https://elasticdao.org",
+    "explorers": [
+        "https://etherscan.io/token/0x2aa5ce395b00cc486159adbdd97c55b535cf2cf9",
+        "https://ethplorer.io/address/0x2aa5ce395b00cc486159adbdd97c55b535cf2cf9"
+    ],
+    "twitter": "elasticdao",
+    "github_org": "elasticdao"
+}

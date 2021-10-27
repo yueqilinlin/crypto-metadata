@@ -1,0 +1,22 @@
+{
+    "id": "grimm",
+    "symbol": "grimm",
+    "name": "Grimm",
+    "platforms": {},
+    "hashing_algorithm": "Equihash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Grimm cryptocurrency. Privacy protected blockchain powered by mimblewimble."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "url": "https://grimmw.io",
+    "explorers": [
+        "https://explorer.grimmw.com"
+    ],
+    "twitter": "grimmwcom",
+    "telegram": "grimmcommunity",
+    "github_org": "freenetcoder"
+}

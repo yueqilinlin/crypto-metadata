@@ -1,0 +1,31 @@
+{
+    "id": "rari-governance-token",
+    "symbol": "rgt",
+    "name": "Rari Governance Token",
+    "platforms": {
+        "ethereum": "0xd291e7a03283640fdc51b121ac401383a46cc623",
+        "fantom": "0xcf726a06f3dcec8ef2b033336d138caa0eae5af2",
+        "arbitrum-one": "0xef888bca6ab6b1d26dbec977c455388ecd794794"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "The Rari Governance Token is the native token behind Rari Capital. Rari Capital is a non-custodial DeFi robo-advisor that autonomously earns users yield."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd291e7a03283640fdc51b121ac401383a46cc623",
+    "url": "https://rari.capital/",
+    "explorers": [
+        "https://etherscan.io/token/0xD291E7a03283640FDc51b121aC401383A46cC623",
+        "https://ethplorer.io/address/0xd291e7a03283640fdc51b121ac401383a46cc623"
+    ],
+    "twitter": "RariCapital",
+    "telegram": "RariCapitalChat",
+    "github_org": "Rari-Capital"
+}

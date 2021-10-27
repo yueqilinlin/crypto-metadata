@@ -1,0 +1,22 @@
+{
+    "id": "aegis-launchpad",
+    "symbol": "agspad",
+    "name": "Aegis Launchpad",
+    "platforms": {
+        "binance-smart-chain": "0xf834673d496aeacb5e99dfbfc34f1bdcdf81d7bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Aegis raises the bar by being the first launchpad with innovative cross-chain functionality and insurance, allowing for organic fundraising across multiple blockchains, while safeguarding clients in case of unfavorable outcomes or unforeseen circumstances."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf834673d496aeacb5e99dfbfc34f1bdcdf81d7bd",
+    "url": "https://aegislaunchpad.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xf834673d496aeacb5e99dfbfc34f1bdcdf81d7bd"
+    ],
+    "twitter": "AegisLaunchpad",
+    "telegram": "AegisLaunchpad"
+}

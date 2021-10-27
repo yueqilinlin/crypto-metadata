@@ -1,0 +1,28 @@
+{
+    "id": "iris-network",
+    "symbol": "iris",
+    "name": "IRISnet",
+    "platforms": {
+        "osmosis": "IBC/7C4D60AA95E5A7558B0A364860979CA34B7FF8AAF255B87AF9E879374470CEC0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem"
+    ],
+    "description": {
+        "en": "Inter-chain Service Infrastructure and Protocol \r\nTechnology Foundation for a Distributed Business Ecosystem"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.irisnet.org",
+    "explorers": [
+        "https://www.mintscan.io/iris",
+        " https://irishub.iobscan.io ",
+        "https://iris.bigdipper.live/",
+        "https://irisnet-overview.genesislab.net/",
+        "https://hubble.figment.network/iris/chains/irishub"
+    ],
+    "twitter": "irisnetwork",
+    "telegram": "irisnetwork",
+    "github_org": "irisnet"
+}

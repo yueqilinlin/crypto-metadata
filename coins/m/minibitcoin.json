@@ -1,0 +1,22 @@
+{
+    "id": "minibitcoin",
+    "symbol": "mbtc",
+    "name": "MiniBitcoin",
+    "platforms": {
+        "ethereum": "0x7e8c149f70437eba6785f9059190a5b08abf03de"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "Our service is built on Ethereum Blockchain : Mini Bitcoin is an ERC20 token. Benefit from the reliability of the Ethereum network for MBTC ecosystem transactions. \r\n\r\nMini Bitcoin will be at the heart of the use of our intelligent assistant service : subscription, content proposal, rewards, and more. The fun and friendly internet currency."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0x7e8c149f70437eba6785f9059190a5b08abf03de",
+    "url": "https://minibitcoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x7e8c149f70437eba6785f9059190a5b08abf03de",
+        "https://ethplorer.io/address/0x7e8c149f70437eba6785f9059190a5b08abf03de"
+    ],
+    "twitter": "MiniBTC"
+}

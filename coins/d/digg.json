@@ -1,0 +1,27 @@
+{
+    "id": "digg",
+    "symbol": "digg",
+    "name": "DIGG",
+    "platforms": {
+        "ethereum": "0x798d1be841a82a273720ce31c822c61a67a601c3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "DIGG is the first elastic supply rebase token where its price is pegged to Bitcoin\u2019s price. It is one of the products released by Badger Protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x798d1be841a82a273720ce31c822c61a67a601c3",
+    "url": "https://badger.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x798D1bE841a82a273720CE31c822C61a67a601C3",
+        "https://ethplorer.io/address/0x798d1be841a82a273720ce31c822c61a67a601c3"
+    ],
+    "twitter": "BadgerDAO",
+    "telegram": "badger_dao",
+    "github_org": "Badger-Finance"
+}

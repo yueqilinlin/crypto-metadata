@@ -1,0 +1,23 @@
+{
+    "id": "soge",
+    "symbol": "soge",
+    "name": "SOGE",
+    "platforms": {
+        "ethereum": "0x41933422dc4a1cb8c822e06f12f7b52fa5e7e094"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SOGE  is a foundational ERC-20 coin that supports and celebrates space exploration. The team tokens will be used to set up various partners with observatories in high altitude locations. These observatories will be used to produce custom NFT\u2019s from beautiful images of the night sky. \r\n\r\nOur NFT platform will have smart contracts that auto-inject liquidity into the SOGE/ETH pair. In total, 70% of the Ethereum from the sales will be injected as liquidity, while the other 30% goes towards the development funds."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x41933422dc4a1cb8c822e06f12f7b52fa5e7e094",
+    "url": "https://soge.tech/",
+    "explorers": [
+        "https://etherscan.io/token/0x41933422dc4a1cb8c822e06f12f7b52fa5e7e094",
+        "https://ethplorer.io/address/0x41933422dc4a1cb8c822e06f12f7b52fa5e7e094"
+    ],
+    "twitter": "SpaceHoge",
+    "telegram": "sogefinance"
+}

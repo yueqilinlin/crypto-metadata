@@ -1,0 +1,24 @@
+{
+    "id": "knoxfs",
+    "symbol": "kfx",
+    "name": "KnoxFS",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Cryptocurrency",
+        "Storage"
+    ],
+    "description": {
+        "en": "Knox is creating a private storage network using a custom fork of IPFS. This will enable data availability while at the same time reward those who are running storage nodes considerably for their reliability. Knox will take user-provided data, encrypt it with the intended party's key and securely push it onto the storage network using reference locations. Data can be text, image or video based. Sending and storing data this way becomes cheaper, more efficient and highly secure."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.knoxfs.com/",
+    "explorers": [
+        "https://explorer.knoxfs.com"
+    ],
+    "twitter": "OKnoxfs",
+    "telegram": "knoxFSOfficial",
+    "reddit": "KnoxFS/",
+    "github_org": "KnoxFS"
+}

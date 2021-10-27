@@ -1,0 +1,26 @@
+{
+    "id": "habitat",
+    "symbol": "hbt",
+    "name": "Habitat",
+    "platforms": {
+        "ethereum": "0x0ace32f6e87ac1457a5385f8eb0208f37263b415"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Governance"
+    ],
+    "description": {
+        "en": "Habitat is scaling DAO solutions on Ethereum with Layer-2 infrastructure. As an application-specific optimistic rollup every community or project on Habitat stays independent and secure - their community, their rules, their tokens.\r\n\r\nHabitat grows and adapts, based on the different signals sent by the DAOs and users. Allowing communities to build their organization solutions with crowdfunded features & modules.\r\n\r\nHBT holders govern the rollup with parameter changes or new feature requests - making it fully owned by the communities and their members. All rollup operator profits are shared among HBT holders and stakers.\r\n\r\nHabitat was developed without VC involvement or future agreements. The Fair Launch in March 2021 opened Habitat to the crypto-community at a fair price. Allowing active participation since then."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0ace32f6e87ac1457a5385f8eb0208f37263b415",
+    "url": "https://0xhabitat.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x0ace32f6e87ac1457a5385f8eb0208f37263b415",
+        "https://ethplorer.io/address/0x0ace32f6e87ac1457a5385f8eb0208f37263b415"
+    ],
+    "twitter": "0xhabitat",
+    "telegram": "habitat_official",
+    "github_org": "0xHabitat"
+}

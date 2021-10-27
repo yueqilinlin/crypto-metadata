@@ -1,0 +1,24 @@
+{
+    "id": "corra-finance",
+    "symbol": "cora",
+    "name": "Corra.Finance",
+    "platforms": {
+        "ethereum": "0x6a7260e44789aef24fdaf72d80ecdc253aaa079e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Corra.finance is a plug-and-play platform that enables the monetization of digital content using NFT technology."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6a7260e44789aef24fdaf72d80ecdc253aaa079e",
+    "url": "https://corra.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x6a7260e44789aef24fdaf72d80ecdc253aaa079e",
+        "https://ethplorer.io/address/0x6a7260e44789aef24fdaf72d80ecdc253aaa079e"
+    ],
+    "twitter": "corrafinance",
+    "facebook": "CorraNFT",
+    "telegram": "corragroupchat"
+}

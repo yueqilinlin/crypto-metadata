@@ -1,0 +1,25 @@
+{
+    "id": "deeper-network",
+    "symbol": "dpr",
+    "name": "Deeper Network",
+    "platforms": {
+        "ethereum": "0xf3ae5d769e153ef72b4e3591ac004e89f48107a1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Constantly fluctuating supply through decentralized burning and the development of a staking and non-fungible token (ERC721) mining system using Arteon Graphics Cards to generate passive income."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xf3ae5d769e153ef72b4e3591ac004e89f48107a1",
+    "url": "https://www.deeper.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xf3ae5d769e153ef72b4e3591ac004e89f48107a1",
+        "https://ethplorer.io/address/0xf3ae5d769e153ef72b4e3591ac004e89f48107a1"
+    ],
+    "twitter": "deeper_network",
+    "telegram": "DeeperNetwork",
+    "reddit": "DeeperNetwork/",
+    "github_org": "e2chain-dev"
+}

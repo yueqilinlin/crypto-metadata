@@ -1,0 +1,23 @@
+{
+    "id": "davecoin",
+    "symbol": "DDTG",
+    "name": "Davecoin",
+    "platforms": {
+        "ethereum": "0x56cdbbeec9828962cecb3f1b69517d430295d952"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Davecoin is designed as a crypto awareness project that gets Dave shilling our bags to normies!\r\n\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x56cdbbeec9828962cecb3f1b69517d430295d952",
+    "url": "https://davecoin.money/",
+    "explorers": [
+        "https://etherscan.io/token/0x56cdbbeec9828962cecb3f1b69517d430295d952",
+        "https://ethplorer.io/address/0x56cdbbeec9828962cecb3f1b69517d430295d952"
+    ],
+    "twitter": "davecoin_DDTG",
+    "telegram": "DavecoinDDGT"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "yukon",
+    "symbol": "yukon",
+    "name": "Yukon",
+    "platforms": {
+        "ethereum": "0x724a4dbc096e8553120ec99d975ca62c1e4f9f51"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YUKON is an ERC20 based memetoken, offering rewards in $RVP to holders. 15% of every buy and sell is taxed as follows: 6% RVP rewards to YUKON holders, 6% to Marketing/Development Wallet, and 3% to LP. It is a community based token with the Moose as the logo and mascot of the token. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x724a4dbc096e8553120ec99d975ca62c1e4f9f51",
+    "url": "https://yukontoken.com",
+    "explorers": [
+        "https://etherscan.io/token/0x724a4dbc096e8553120ec99d975ca62c1e4f9f51",
+        "https://ethplorer.io/address/0x724a4dbc096e8553120ec99d975ca62c1e4f9f51"
+    ],
+    "twitter": "TheYukonCrypto",
+    "telegram": "YukonOfficial"
+}

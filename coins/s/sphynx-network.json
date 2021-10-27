@@ -1,0 +1,23 @@
+{
+    "id": "sphynx-network",
+    "symbol": "sph",
+    "name": "Sphynx Network",
+    "platforms": {
+        "binance-smart-chain": "0x8bac6b4af65c8c1967a0fbc27cd37fd6059daa00"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8bac6b4af65c8c1967a0fbc27cd37fd6059daa00",
+    "url": "https://www.sphynx.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x8bac6b4af65c8c1967a0fbc27cd37fd6059daa00"
+    ],
+    "twitter": "SphynxNetwork",
+    "telegram": "sphynxnetwork",
+    "reddit": "https://www.reddit.com"
+}

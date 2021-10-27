@@ -1,0 +1,24 @@
+{
+    "id": "wenwen-jpyn",
+    "symbol": "jpyn",
+    "name": "WENWEN JPYN",
+    "platforms": {
+        "ethereum": "0x95e91a76f225612995043ab26a98e6a4e3e1999b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The WENWEN Protocol is an algorithmic stablecoin protocol that operates via the central bank model. The ultimate goal of the WENWEN Protocol is to provide a highly scalable, decentralized algorithmic currency without collateral.\r\nJPYN is one of the stablecoins in the WENWEN protocol that is pegged to the US dollar."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x95e91a76f225612995043ab26a98e6a4e3e1999b",
+    "url": "https://wenwen.money/",
+    "explorers": [
+        "https://etherscan.io/token/0x95E91a76f225612995043AB26A98E6a4E3e1999b",
+        "https://ethplorer.io/address/0x95e91a76f225612995043ab26a98e6a4e3e1999b"
+    ],
+    "twitter": "wenwenprotocol",
+    "telegram": "wenwenprotocol",
+    "github_org": "wenwenprotocol"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "wrapped-dgld",
+    "symbol": "wdgld",
+    "name": "Wrapped-DGLD",
+    "platforms": {
+        "ethereum": "0x123151402076fc819b7564510989e475c9cd93ca"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Wrapped-Tokens"
+    ],
+    "description": {
+        "en": "Wrapped-DGLD (wDGLD) is the first ERC-20 token pegged one-to-one with DGLD, the world\u2019s most advanced and trusted gold-backed stablecoin built on the Bitcoin blockchain. wDGLD unlocks interoperability between the two networks by transporting the digital ownership of gold from the DGLD network onto the Ethereum network by using a fully verifiable wrapping bridge mechanism."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x123151402076fc819b7564510989e475c9cd93ca",
+    "url": "https://dgld.ch",
+    "explorers": [
+        "https://etherscan.io/token/0x123151402076fc819B7564510989e475c9cD93CA",
+        "https://ethplorer.io/address/0x123151402076fc819b7564510989e475c9cd93ca"
+    ],
+    "github_org": "commerceblock"
+}

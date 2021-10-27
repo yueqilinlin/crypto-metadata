@@ -1,0 +1,27 @@
+{
+    "id": "ellipsis",
+    "symbol": "eps",
+    "name": "Ellipsis",
+    "platforms": {
+        "binance-smart-chain": "0xa7f552078dcc247c2684336020c03648500c6d9f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Secure low-slippage stable swapping on BSC"
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0xa7f552078dcc247c2684336020c03648500c6d9f",
+    "url": "https://www.ellipsis.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xA7f552078dcC247C2684336020c03648500C6d9F"
+    ],
+    "twitter": "ellipsisfi",
+    "telegram": "ellipsisfinance",
+    "github_org": "ellipsis-finance"
+}

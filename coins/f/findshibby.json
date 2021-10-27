@@ -1,0 +1,24 @@
+{
+    "id": "findshibby",
+    "symbol": "findsibby",
+    "name": "Findshibby",
+    "platforms": {
+        "binance-smart-chain": "0x9a5bf65d7ef1a0b48f7ff4174cfe10fc0deaa849"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FindShibby is the new token on ETH & BSC that has actual real-world usecases.\r\nWith FindShibby you can earn any BSC token as rewards, rescue pets via the FindShibby app, help streetdogs and other animals by donating to charity and help to develop unique, healthy dog treats manufactured using 100% renewable energy!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9a5bf65d7ef1a0b48f7ff4174cfe10fc0deaa849",
+    "url": "https://findshibby.cash",
+    "explorers": [
+        "https://bscscan.com/address/0x9a5Bf65D7ef1A0b48f7fF4174CFE10FC0DEaa849",
+        "https://bscscan.com/token/0x9a5Bf65D7ef1A0b48f7fF4174CFE10FC0DEaa849"
+    ],
+    "twitter": "Findshibby",
+    "telegram": "findshibby",
+    "github_org": "Findshibby"
+}

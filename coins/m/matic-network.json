@@ -1,0 +1,35 @@
+{
+    "id": "matic-network",
+    "symbol": "matic",
+    "name": "Polygon",
+    "platforms": {
+        "ethereum": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+        "binance-smart-chain": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
+        "polygon-pos": "0x0000000000000000000000000000000000001010",
+        "harmony-shard-0": "0x301259f392b551ca8c592c9f676fcd2f9a0a84c5",
+        "moonriver": "0x682f81e57eaa716504090c3ecba8595fb54561d8",
+        "sora": "0x009134d5c7b7fda8863985531f456f89bef5fbd76684a8acdb737b3e451d0877"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Polygon (Previously Matic Network) is the first well-structured, easy-to-use platform for Ethereum scaling and infrastructure development. Its core component is Polygon SDK, a modular, flexible framework that supports building multiple types of applications.\r\n\r\nUsing Polygon, one can create Optimistic Rollup chains, ZK Rollup chains, stand alone chains or any other kind of infra required by the developer. \r\n\r\nPolygon effectively transforms Ethereum into a full-fledged multi-chain system (aka Internet of Blockchains). This multi-chain system is akin to other ones such as Polkadot, Cosmos, Avalanche etc with the advantages of Ethereum\u2019s security, vibrant ecosystem and openness.\r\n\r\nNothing will change for the existing ecosystem built on the Plasma-POS chain. With Polygon, new features are being built around the existing proven technology to expand the ability to cater to diverse needs from the developer ecosystem. Polygon will continue to develop the core technology so that it can scale to a larger ecosystem. \r\n\r\nThe $MATIC token will continue to exist and will play an increasingly important role, securing the system and enabling governance."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+    "url": "https://matic.network",
+    "explorers": [
+        "https://etherscan.io/token/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+        "https://ethplorer.io/address/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+        "https://polygonscan.com",
+        "https://bscscan.com/token/0xCC42724C6683B7E57334c4E856f4c9965ED682bD"
+    ],
+    "twitter": "0xPolygon",
+    "telegram": "maticnetwork",
+    "reddit": "maticnetwork/",
+    "github_org": "maticnetwork"
+}

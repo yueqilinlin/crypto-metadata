@@ -1,0 +1,21 @@
+{
+    "id": "energycoin",
+    "symbol": "enrg",
+    "name": "Energycoin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2014-04-30",
+    "url": "https://energycoin.eu/",
+    "explorers": [
+        "https://chainz.cryptoid.info/enrg/"
+    ],
+    "twitter": "energycoin",
+    "facebook": "EnergyCoin",
+    "reddit": "energycoins/",
+    "github_org": "EnergyCoin"
+}

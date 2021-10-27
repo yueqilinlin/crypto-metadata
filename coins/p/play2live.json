@@ -1,0 +1,25 @@
+{
+    "id": "play2live",
+    "symbol": "luc",
+    "name": "Level-Up Coin",
+    "platforms": {
+        "ethereum": "0x5dbe296f97b23c4a6aa6183d73e574d02ba5c719"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Driven by blockchain technology, Play2Live creates an ecosystem for streamers, viewers, tournament organizers, and product/service partners. Play2Live introduces a unique mixture of 15 interactive features and monetizing tools for the users of the platform versus 4-5 available on the existing solutions. Play2Live allows viewers to earn a token reward by just watching gaming streams, sharing internet channel via P2P CDN service, enabling advertising and much more. Streamers can fine-tune the properties of economy between them and the users. The utility token (Level Up Coin) is a fuel that allows for this degree of heightened interaction."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5dbe296f97b23c4a6aa6183d73e574d02ba5c719",
+    "url": "https://play2live.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x5dbe296f97b23c4a6aa6183d73e574d02ba5c719",
+        "https://ethplorer.io/address/0x5dbe296f97b23c4a6aa6183d73e574d02ba5c719"
+    ],
+    "twitter": "play_2_live",
+    "facebook": "Play2Live-504880049864038",
+    "telegram": "play2live",
+    "github_org": "Play2Live"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "value-set-dollar",
+    "symbol": "vsd",
+    "name": "Value Set Dollar",
+    "platforms": {
+        "ethereum": "0x35de3eccaccb02e627062b5d63aa941b137288fe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Value Set Dollar (VSD) is an algorithmic and partially collateral stablecoin that incorporates key features from ESD V2, BASIS, and FRAX. It aims to solve core issues that its predecessors have struggled."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x35de3eccaccb02e627062b5d63aa941b137288fe",
+    "url": "https://valueset.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x35de3eccaccb02e627062b5d63aa941b137288fe",
+        "https://ethplorer.io/address/0x35de3eccaccb02e627062b5d63aa941b137288fe"
+    ],
+    "twitter": "valuesetdollar",
+    "telegram": "valuesetdollar",
+    "github_org": "vsdcrew"
+}

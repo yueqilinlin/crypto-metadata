@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-tether-token",
+    "symbol": "usdtbull",
+    "name": "3X Long Tether Token",
+    "platforms": {
+        "ethereum": "0x8cce19943a01e78b7c277794fb081816f6151bab"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Tether Token (USDTBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Tether."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8cce19943a01e78b7c277794fb081816f6151bab",
+    "url": "https://ftx.com/tokens/USDTBULL",
+    "explorers": [
+        "https://etherscan.io/token/0x8cce19943a01e78b7c277794fb081816f6151bab",
+        "https://ethplorer.io/address/0x8cce19943a01e78b7c277794fb081816f6151bab"
+    ]
+}

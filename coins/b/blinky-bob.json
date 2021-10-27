@@ -1,0 +1,22 @@
+{
+    "id": "blinky-bob",
+    "symbol": "blinky",
+    "name": "Blinky Bob",
+    "platforms": {
+        "binance-smart-chain": "0xcc63538944863685834e91e9168c9c2fea20320f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Community driven, fair launched DeFi Token with passive income."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcc63538944863685834e91e9168c9c2fea20320f",
+    "url": "https://blinkybob.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xcc63538944863685834e91e9168c9c2fea20320f"
+    ],
+    "twitter": "blinkybobf",
+    "telegram": "BLINKYBOBFINANCE"
+}

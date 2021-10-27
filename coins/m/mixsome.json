@@ -1,0 +1,27 @@
+{
+    "id": "mixsome",
+    "symbol": "some",
+    "name": "Mixsome",
+    "platforms": {
+        "ethereum": "0x3e8ffc8c3cb0db3081df85dec91b63abbbe99f71",
+        "binance-smart-chain": "0xc039c13470be809bed1c2cd42339ccb22e0970f2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem"
+    ],
+    "description": {
+        "en": "Taming DeFi complexity to unlock yield generating opportunity. For everyone.\r\nMixsome helps you to easily leverage your assets and mix DeFi money legos into optimized yield generating flows."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3e8ffc8c3cb0db3081df85dec91b63abbbe99f71",
+    "url": "https://mixsome.cash/",
+    "explorers": [
+        "https://etherscan.io/token/0x3e8ffc8c3cb0db3081df85dec91b63abbbe99f71",
+        "https://ethplorer.io/address/0x3e8ffc8c3cb0db3081df85dec91b63abbbe99f71"
+    ],
+    "twitter": "mixsomecash",
+    "telegram": "mixsome",
+    "github_org": "mixsomecash"
+}

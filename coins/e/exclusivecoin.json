@@ -1,0 +1,21 @@
+{
+    "id": "exclusivecoin",
+    "symbol": "excl",
+    "name": "ExclusiveCoin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2016-06-12",
+    "url": "http://exclusivecoin.pw/",
+    "explorers": [
+        "http://www.cryptobe.com/chain/ExclusiveCoin"
+    ],
+    "twitter": "exclusivecoin",
+    "github_org": "exclfork"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "bitbucks",
+    "symbol": "bitbucks",
+    "name": "BitBucks",
+    "platforms": {
+        "binance-smart-chain": "0x51bbc7cd99d55d47dfcbd943fe65ab1756163e74"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BitBucks ! The Passive Bitcoin Yeild Generator on the Binance Smart Chain, our goal is to bring utility to a world full of speculation and doubt! We have a committed team of core developers who have a proven track record in blockchain technology. \r\n\r\nHolders of BitBucks are Rewarded Bitcoin Automatically to their wallets every hour! This amount will vary depending on transaction volume "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x51bbc7cd99d55d47dfcbd943fe65ab1756163e74",
+    "url": "https://bitbucks.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x51bbc7cd99d55d47dfcbd943fe65ab1756163e74"
+    ],
+    "twitter": "jamesbitbucks",
+    "telegram": "bitbucksofficial"
+}

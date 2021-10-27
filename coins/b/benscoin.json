@@ -1,0 +1,27 @@
+{
+    "id": "benscoin",
+    "symbol": "bsc",
+    "name": "Benscoin",
+    "platforms": {
+        "ethereum": "0xcfad57a67689809cda997f655802a119838c9cec"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Internet of Things (IOT)"
+    ],
+    "description": {
+        "en": "Benscoin Crypto are made by Mr. Bens the businessman from Aceh, Indonesia, this Cryptoken are made for Investment for Economics in Aceh."
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0xcfad57a67689809cda997f655802a119838c9cec",
+    "url": "https://benscoin.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xcfAD57a67689809CdA997f655802a119838c9ceC",
+        "https://etherscan.io/token/0xcfAD57a67689809CdA997f655802a119838c9ceC",
+        "https://ethplorer.io/address/0xcfad57a67689809cda997f655802a119838c9cec"
+    ],
+    "twitter": "benscoinbsc",
+    "telegram": "benscoin",
+    "github_org": "Benscoin"
+}

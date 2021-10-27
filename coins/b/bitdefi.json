@@ -1,0 +1,24 @@
+{
+    "id": "bitdefi",
+    "symbol": "bfi",
+    "name": "BitDefi",
+    "platforms": {
+        "ethereum": "0x2b2b0559081c41e962777b5049632fdb30f7e652"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BitDEFi (BFi) is a fully-embedded governance, loyalty discounts, and deflationary mechanisms at its core. Decisions made on the DeFiat network are voted on and fully orchestrated by BFi holders. Every time a transaction occurs on the network, a fee is distributed to network participants and tokens are burned to facilitate the transaction, naturally decreasing supply. Transaction fees are repurposed as staking rewards, creating a circular economy."
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "contract_address": "0x2b2b0559081c41e962777b5049632fdb30f7e652",
+    "url": "https://bitdefi.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x2b2b0559081c41e962777B5049632fdb30f7E652",
+        "https://ethplorer.io/address/0x2b2b0559081c41e962777B5049632fdb30f7E652"
+    ],
+    "twitter": "bitdefin",
+    "facebook": "bitfxt",
+    "telegram": "official_bitdefi"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "holdefi",
+    "symbol": "hld",
+    "name": "Holdefi",
+    "platforms": {
+        "ethereum": "0xd520ddbdf81323f4b9a0ea0adbb692ebef6ce280"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Holdefi is a decentralized open-source non-custodial money market protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, and everyone can borrow from this liquidity and repay it after a while. The Borrower must add collateral before borrowing any tokens. The value of the collateral should be greater than the value of the assets they want to borrow. This collateral is, in fact, a guarantee that they will repay the borrowed assets."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0xd520ddbdf81323f4b9a0ea0adbb692ebef6ce280",
+    "url": "https://holdefi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd520ddbdf81323f4b9a0ea0adbb692ebef6ce280",
+        "https://ethplorer.io/address/0xd520ddbdf81323f4b9a0ea0adbb692ebef6ce280"
+    ],
+    "twitter": "holdefi",
+    "telegram": "holdefigroup",
+    "reddit": "holdeficom/",
+    "github_org": "holdefi"
+}

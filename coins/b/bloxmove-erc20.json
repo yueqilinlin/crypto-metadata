@@ -1,0 +1,23 @@
+{
+    "id": "bloxmove-erc20",
+    "symbol": "blxm",
+    "name": "bloXmove Token (ERC20)",
+    "platforms": {
+        "ethereum": "0x38d9eb07a7b8df7d86f440a4a5c4a4c1a27e1a08"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "bloXmove is on a mission to bring decentralized technologies to Power & Mobility. Our Mobility Blockchain Platform operates at the junction of the two sectors to connect electric mobility to the power grid and achieve net-zero carbon-neutral mobility as a service (MaaS)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x38d9eb07a7b8df7d86f440a4a5c4a4c1a27e1a08",
+    "url": "https://bloXmove.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x38d9eb07a7b8df7d86f440a4a5c4a4c1a27e1a08",
+        "https://ethplorer.io/address/0x38d9eb07a7b8df7d86f440a4a5c4a4c1a27e1a08"
+    ],
+    "twitter": "bloXmove",
+    "telegram": "bloXmoveCommunity"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "human-protocol",
+    "symbol": "hmt",
+    "name": "HUMAN Protocol",
+    "platforms": {
+        "ethereum": "0xd1ba9bac957322d6e8c07a160a3a8da11a0d2867"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HUMAN Protocol powers decentralized marketplaces where you can request and contribute virtual work within the world\u2019s largest labor pool.\r\n\r\nHUMAN Protocol enables the world\u2019s largest providers of human-generated labels to help AI companies build, train and test machine learning models."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd1ba9bac957322d6e8c07a160a3a8da11a0d2867",
+    "url": "https://www.humanprotocol.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xd1ba9BAC957322D6e8c07a160a3A8dA11A0d2867",
+        "https://ethplorer.io/address/0xd1ba9BAC957322D6e8c07a160a3A8dA11A0d2867"
+    ],
+    "twitter": "human_protocol",
+    "telegram": "hcaptchachat",
+    "github_org": "humanprotocol"
+}

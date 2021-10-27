@@ -1,0 +1,33 @@
+{
+    "id": "aavegotchi",
+    "symbol": "ghst",
+    "name": "Aavegotchi",
+    "platforms": {
+        "ethereum": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+        "polygon-pos": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Metaverse",
+        "Gaming",
+        "Polygon Ecosystem",
+        "Governance",
+        "Collectibles"
+    ],
+    "description": {
+        "en": "GHST is the eco-governance token of Aavegotchi. Use GHST to purchase various digital assets within the Aavegotchi universe, such as Aavegotchi portals & wearables. Hold GHST so your Aavegotchi can participate in DAO governance, and earn GHST by excelling at Aavegotchi rarity farming."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+    "url": "https://www.aavegotchi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+        "https://ethplorer.io/address/0x3f382dbd960e3a9bbceae22651e88158d2791550",
+        "https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7"
+    ],
+    "twitter": "aavegotchi",
+    "telegram": "aavegotchi",
+    "github_org": "aavegotchi"
+}

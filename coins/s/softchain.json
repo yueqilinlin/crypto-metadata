@@ -1,0 +1,25 @@
+{
+    "id": "softchain",
+    "symbol": "scc",
+    "name": "SoftChain",
+    "platforms": {
+        "ethereum": "0x86696431d6aca9bae5ce6536ecf5d437f2e6dba2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x86696431d6aca9bae5ce6536ecf5d437f2e6dba2",
+    "url": "https://softchain.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x86696431D6ACA9bae5CE6536ECF5D437F2e6Dba2",
+        "https://ethplorer.io/address/0x86696431d6aca9bae5ce6536ecf5d437f2e6dba2"
+    ],
+    "twitter": "soft_chain",
+    "facebook": "softchain",
+    "telegram": "softchain",
+    "github_org": "SoftChain"
+}

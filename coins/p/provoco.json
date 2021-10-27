@@ -1,0 +1,24 @@
+{
+    "id": "provoco",
+    "symbol": "voco",
+    "name": "Provoco",
+    "platforms": {
+        "ethereum": "0xb5ca46cf1da09248126682a7bd72401fd7a6b151"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Provoco social challenge network is an example of how blockchain technology offers trust, openness and security that may be beneficial for mass users, where everyone will find their own space. Monetization and gamification will give incentives to raise, accept and accomplish a wide range of private and public challenges, creating thousands of engaging activities and content. This makes Provoco a social network with more engaging content, targeting everyone from teenagers to adults to seniors worldwide."
+    },
+    "country_origin": "LT",
+    "genesis_date": null,
+    "contract_address": "0xb5ca46cf1da09248126682a7bd72401fd7a6b151",
+    "url": "https://provoco.me/",
+    "explorers": [
+        "https://etherscan.io/token/0xb5ca46cf1da09248126682a7bd72401fd7a6b151",
+        "https://ethplorer.io/address/0xb5ca46cf1da09248126682a7bd72401fd7a6b151"
+    ],
+    "twitter": "provocome",
+    "telegram": "provoco_me",
+    "github_org": "provocome"
+}

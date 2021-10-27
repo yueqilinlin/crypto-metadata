@@ -1,0 +1,23 @@
+{
+    "id": "jur",
+    "symbol": "jur",
+    "name": "Jur",
+    "platforms": {
+        "vechain": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Legal"
+    ],
+    "description": {
+        "en": "Jur is a decentralized legal ecosystem that allows easy and affordable contract drafting and dispute resolution for businesses and professionals around the globe in a legally binding way."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "url": "https://jur.io",
+    "explorers": [],
+    "twitter": "JurProject",
+    "facebook": "JurNetwork",
+    "telegram": "jurcommunity",
+    "github_org": "jurteam"
+}

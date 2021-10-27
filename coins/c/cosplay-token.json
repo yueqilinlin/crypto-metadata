@@ -1,0 +1,27 @@
+{
+    "id": "cosplay-token",
+    "symbol": "cot",
+    "name": "Cosplay Token",
+    "platforms": {
+        "ethereum": "0xed64142f7d0a4d94ce0e7fe45d12f712fe360bd0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "Cure WorldCosplay is the world\u2019s largest Cosplay platform, supporting 12 languages, more than 720,000 members from 180 countries and 6.5 million (and counting!) images. The Cosplay Token (COT) will be used as a payment currency within the Cure WorldCosplay ecosystem, helping cosplayers without access to online payment methods be tipped for their content. The real value is created in the Cure Protocol - players will also be able to create and distribute their own personalised coin with COT, bringing power back to cosplayers and enabling them to monetize themselves easily among many other benefits."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0xed64142f7d0a4d94ce0e7fe45d12f712fe360bd0",
+    "url": "https://cot.curecos.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xed64142f7d0a4d94ce0e7fe45d12f712fe360bd0",
+        "https://ethplorer.io/address/0xed64142f7d0a4d94ce0e7fe45d12f712fe360bd0"
+    ],
+    "twitter": "WorldCosplayNet",
+    "facebook": "CureCosplay",
+    "telegram": "cosplaytoken2",
+    "reddit": "cosplaytoken/"
+}

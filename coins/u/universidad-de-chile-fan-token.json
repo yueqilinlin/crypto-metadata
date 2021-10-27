@@ -1,0 +1,25 @@
+{
+    "id": "universidad-de-chile-fan-token",
+    "symbol": "UCH",
+    "name": "Universidad de Chile Fan Token",
+    "platforms": {
+        "chiliz": "0x8a014bd5f85ab3715af39403ad20e138e480603d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fan Token"
+    ],
+    "description": {
+        "en": "The official Fan Token of Universidad de Chile"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8a014bd5f85ab3715af39403ad20e138e480603d",
+    "url": "https://socios.com",
+    "explorers": [
+        "https://explorer.chiliz.com/tokens/0x8A014bD5f85ab3715af39403Ad20E138e480603d/token-transfers"
+    ],
+    "twitter": "socios",
+    "telegram": "chiliztrade",
+    "reddit": "chiliz"
+}

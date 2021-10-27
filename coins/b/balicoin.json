@@ -1,0 +1,23 @@
+{
+    "id": "balicoin",
+    "symbol": "bali",
+    "name": "Bali Coin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bali Coin is a Ethereum based cryptocurrency created to be used as a mean of payment in the tourism industry,  for hotel bookings, ticket reservations, car rentals and other tourism facilities."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x013a06558f07d9e6f9a00c95a33f3a0e0255176b",
+    "url": "https://balicoin.io",
+    "explorers": [
+        "https://etherscan.io/token/0x013a06558f07d9e6f9a00c95a33f3a0e0255176b",
+        "https://ethplorer.io/address/0x013a06558f07d9e6f9a00c95a33f3a0e0255176b",
+        "http://balicoin.io/chain.php"
+    ],
+    "twitter": "balicoincrypto",
+    "facebook": "balicoincrypto",
+    "github_org": "adamyusfan"
+}

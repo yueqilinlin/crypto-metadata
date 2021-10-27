@@ -1,0 +1,22 @@
+{
+    "id": "andes-coin",
+    "symbol": "andes",
+    "name": "AndesCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "VE",
+    "genesis_date": null,
+    "url": "https://andes-coin.com/",
+    "explorers": [
+        "http://explorador.andes-coin.com/"
+    ],
+    "twitter": "AndesCoin",
+    "facebook": "CoinAndes",
+    "github_org": "andescoin"
+}

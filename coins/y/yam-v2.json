@@ -1,0 +1,26 @@
+{
+    "id": "yam-v2",
+    "symbol": "YAMv2",
+    "name": "YAM v2",
+    "platforms": {
+        "ethereum": "0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a",
+    "url": "http://yam.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a",
+        "https://ethplorer.io/address/0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a"
+    ],
+    "twitter": "YamFinance",
+    "github_org": "yam-finance"
+}

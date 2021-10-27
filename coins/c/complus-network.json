@@ -1,0 +1,23 @@
+{
+    "id": "complus-network",
+    "symbol": "com",
+    "name": "Complus Network",
+    "platforms": {
+        "avalanche": "0x3711c397b6c8f7173391361e27e67d72f252caad"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Complus Network is a multi-chain exchange protocol for ERC-20 tokens on Huobi ECO Chain, Avalanche and the Binance Smart Chain.It allows for cheap, fast and efficient trading. It is an automated liquidity protocol. In practical terms this means there are template smart contracts that define a standard way to make liquidity pools and corresponding markets that are compatible with eachother."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0x3711c397b6c8f7173391361e27e67d72f252caad",
+    "url": "https://complus.exchange/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0x3711c397B6c8F7173391361e27e67d72F252cAad"
+    ],
+    "twitter": "complusnetwork",
+    "telegram": "complus_group",
+    "github_org": "complusnetwork"
+}

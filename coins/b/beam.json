@@ -1,0 +1,26 @@
+{
+    "id": "beam",
+    "symbol": "beam",
+    "name": "BEAM",
+    "platforms": {},
+    "hashing_algorithm": "Beam Hash",
+    "categories": [
+        "Cryptocurrency",
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "Beam Mimblewimble is a scalable, fungible, and confidential cryptocurrency based on the Mimblewimble implementation.\r\n\r\nWHY BEAM?\r\nCore features include complete control over your privacy, All transactions are private by default, No addresses or other private information are stored on the blockchain, Superior scalability due to compact blockchain size, Opt-in Auditability, Support online and offline transactions, atomic swap, hardware wallets integration.\r\n\r\nGovernance model\r\nNo premine, No ICO. Backed by Treasury \r\nEstablishing a non-profit foundation to govern the protocol after Mainnet launch\r\n\r\n\r\nHow does it work?\r\nWallets\u2019 owners create new transaction using secure channel either online or offline\r\nBoth wallets participate in signing the transaction using Schnorr protocol\r\n\r\nWallet sends transaction to node\r\nEach transaction contains a list of Inputs and Outputs represented by Pedersen Commitments, as well as explicit fees and kernels. Each transaction also contains non-interactive zero knowledge range proof to verify that the output transaction value is positive\r\n\r\nTransaction is verified by the node\r\nEach transaction is verified with respect to the recent blockchain state which is stored as a Merkle Tree. The root hash of the tree is recorded in block header along with a proof of work. In addition, each node periodically creates compacted history to allow \u2018fast sync\u2019 of new and existing nodes.\r\n\r\nTransaction is added to the mining pool\r\nA block is mined every minute and is sent back to the node for verification and distribution.\r\n\r\nMined blocks containing the new transactions are sent to the known peers\r\nA valid block that is extending the longest chain is accepted as a new Tip and propagated further until full consensus is reached.\r\n\r\nFast sync\r\nWhen a new node connects to the network for the first time it can request compacted history containing only system state and blockchain headers. There is no need to retrieve the entire transaction history."
+    },
+    "country_origin": "RU",
+    "genesis_date": "2019-01-03",
+    "url": "https://www.beam.mw/",
+    "explorers": [
+        "https://explorer.beamprivacy.community",
+        "https://explorer.beam.mw/blocks",
+        "https://beam.tokenview.com/"
+    ],
+    "twitter": "beamprivacy",
+    "telegram": "BeamPrivacy",
+    "reddit": "beamprivacy/",
+    "github_org": "BeamMW"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "hrdcoin",
+    "symbol": "hrd",
+    "name": "HRDcoin",
+    "platforms": {
+        "binance-smart-chain": "0x9fbf5316f79fb01e3e099568d6ff4ed5d5bfc976"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Saemyeong Energy Tech Group specializes in the R & D of EP products and supplies high-performance combustion catalysts, lubricants, organic and natural fertilizers, soil amendments, feed additives, Bioceramic tea sets and other raw materials. Currently, the Shin Ming Group has begun business development in China, Vietnam, Southeast Asia, Europe and other countries to further global expansion."
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0x9fbf5316f79fb01e3e099568d6ff4ed5d5bfc976",
+    "url": "http://www.hrdcoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x9fbf5316f79fb01e3e099568d6ff4ed5d5bfc976"
+    ],
+    "twitter": "HRD02079184",
+    "telegram": "Hrdbsc_Room",
+    "github_org": "tao392901825"
+}

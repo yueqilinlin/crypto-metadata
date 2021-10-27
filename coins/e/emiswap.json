@@ -1,0 +1,24 @@
+{
+    "id": "emiswap",
+    "symbol": "esw",
+    "name": "EmiSwap",
+    "platforms": {
+        "ethereum": "0x5a75a093747b72a0e14056352751edf03518031d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EmiSwap is an automated market maker exchange with an ESW voting token as well as yield-increasing NFT Magic Cards mechanics. EmiSwap is the first project in the EmiDAO ecosystem.\r\n\r\nESW is a governance token that gives holders a right to receive a share of distributing fees proportionate to the share of token ownership and gives a right to participate in voting on the development of the project.\r\n\r\nEmiSwap is an open-source, decentralized platform, a fork of Uniswap V2 and Mooniswap with increased performance and supplemented functionality."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5a75a093747b72a0e14056352751edf03518031d",
+    "url": "https://emiswap.com/#/swap",
+    "explorers": [
+        "https://etherscan.io/token/0x5a75a093747b72a0e14056352751edf03518031d",
+        "https://ethplorer.io/address/0x5a75a093747b72a0e14056352751edf03518031d"
+    ],
+    "twitter": "emiswap",
+    "telegram": "emiswap_announcementl",
+    "github_org": "EMISWAP-COM"
+}

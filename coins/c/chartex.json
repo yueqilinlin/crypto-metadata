@@ -1,0 +1,26 @@
+{
+    "id": "chartex",
+    "symbol": "chart",
+    "name": "ChartEx",
+    "platforms": {
+        "ethereum": "0x1d37986f252d0e349522ea6c3b98cb935495e63e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Analytics"
+    ],
+    "description": {
+        "en": "ChartEx is a leading provider of full Candlestick charting for markets on Uniswap, the largest Decentralized Exchange running on the Ethereum Network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1d37986f252d0e349522ea6c3b98cb935495e63e",
+    "url": "https://chartex.pro/",
+    "explorers": [
+        "https://etherscan.io/token/0x1d37986f252d0e349522ea6c3b98cb935495e63e",
+        "https://ethplorer.io/address/0x1d37986f252d0e349522ea6c3b98cb935495e63e"
+    ],
+    "twitter": "ChartExPro",
+    "telegram": "ChartExCommunity",
+    "github_org": "chartexpro"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "helicopter-finance",
+    "symbol": "copter",
+    "name": "Helicopter Finance",
+    "platforms": {
+        "binance-smart-chain": "0xbc12ad556581ff7162e595e5956f5f3845fdb38c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Auto-liquidity token forked off Safemoon. USP of stimulus packages where major coins will be airdropped to holders - charity utility TBA."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbc12ad556581ff7162e595e5956f5f3845fdb38c",
+    "url": "https://helicopterfinance.co",
+    "explorers": [
+        "https://bscscan.com/token/0xbc12ad556581ff7162e595e5956f5f3845fdb38c"
+    ],
+    "twitter": "helicoptercorp",
+    "telegram": "Helicopter_Finance"
+}

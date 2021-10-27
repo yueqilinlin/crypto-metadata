@@ -1,0 +1,26 @@
+{
+    "id": "dmtc-token",
+    "symbol": "dmtc",
+    "name": "Demeter Chain",
+    "platforms": {
+        "ethereum": "0x3be6e7bf2cd8e1a0a95597e72ca6d3709bbeff76"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DMTC uses the traceability and immutable characteristics of blockchain technology while combining the RFID chip and AI technology of Walton chain to establish traceability throughout the entire organic food supply. \r\n\r\nThe solution builds a safe and reliable organic food logistics channel and information channel in order to provide transparency and accountability throughout all agricultural product supply chains from production, storage, logistics to retailers. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3be6e7bf2cd8e1a0a95597e72ca6d3709bbeff76",
+    "url": "https://dmtc.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3be6e7bf2cd8e1a0a95597e72ca6d3709bbeff76",
+        "https://ethplorer.io/address/0x3be6e7bf2cd8e1a0a95597e72ca6d3709bbeff76",
+        "https://explorer.dmtc.io/"
+    ],
+    "twitter": "DemeterChain",
+    "facebook": "dmtc.io",
+    "telegram": "dmtc_en",
+    "github_org": "dmtc-chain"
+}

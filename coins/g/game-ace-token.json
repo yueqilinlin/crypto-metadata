@@ -1,0 +1,24 @@
+{
+    "id": "game-ace-token",
+    "symbol": "gat",
+    "name": "Game Ace Token",
+    "platforms": {
+        "binance-smart-chain": "0xf315cfc8550f6fca969d397ca8b807c5033fa122"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf315cfc8550f6fca969d397ca8b807c5033fa122",
+    "url": "https://gat.network/",
+    "explorers": [
+        "https://bscscan.com/token/0xF315cfC8550F6FcA969D397cA8b807C5033fA122"
+    ],
+    "twitter": "alchemytoys",
+    "telegram": "alchemytemple",
+    "reddit": "AlchemyToys/",
+    "github_org": "AlchemyToys"
+}

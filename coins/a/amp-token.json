@@ -1,0 +1,28 @@
+{
+    "id": "amp-token",
+    "symbol": "amp",
+    "name": "Amp",
+    "platforms": {
+        "ethereum": "0xff20817765cb7f73d4bde2e66e067e58d11095c2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "What is Amp?\r\n\r\nAmp is described as the new digital collateral token offering instant, verifiable assurances for any kind of value transfer. Using Amp, networks like Flexa can quickly and irreversibly secure transactions for a wide variety of asset-related use cases.\r\n\r\nHow does Amp work?\r\n\r\nAmp claims to offer a straightforward but versatile interface for verifiable collateralization through a system of collateral partitions and collateral managers. Where collateral partitions can be designated to collateralize any account, application, or even transaction, and carry balances which are directly verifiable on the Ethereum blockchain, collateral managers are smart contracts that can lock, release, and redirect collateral in these partitions as needed in order to support value transfer activities. Amp supports a wide variety of use cases for collateralization, and also introduces the concept of predefined partition strategies, which can enable special capabilities such as collateral models through which tokens can be staked without ever leaving their original address."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+    "url": "https://amptoken.org",
+    "explorers": [
+        "https://etherscan.io/token/0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+        "https://ethplorer.io/address/0xff20817765cb7f73d4bde2e66e067e58d11095c2"
+    ],
+    "twitter": "amptoken",
+    "telegram": "ampchat",
+    "reddit": "https://www.reddit.com",
+    "github_org": "amptoken"
+}

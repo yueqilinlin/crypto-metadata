@@ -1,0 +1,24 @@
+{
+    "id": "biki",
+    "symbol": "biki",
+    "name": "BIKI",
+    "platforms": {
+        "ethereum": "0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Exchange-based Tokens"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930",
+    "url": "https://www.biki.cc/",
+    "explorers": [
+        "https://etherscan.io/token/0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930",
+        "https://ethplorer.io/address/0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930"
+    ],
+    "twitter": "bikicoin",
+    "telegram": "bikicoin",
+    "github_org": "code-bikicoin"
+}

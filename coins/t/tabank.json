@@ -1,0 +1,22 @@
+{
+    "id": "tabank",
+    "symbol": "tab",
+    "name": "Tabank",
+    "platforms": {
+        "tomochain": "0x8103bb77ed2035b5da9a3a65d9c313cb6ee41dbd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TABANK has online payments, savings, lending and investment solutions built into one platform."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x8103bb77ed2035b5da9a3a65d9c313cb6ee41dbd",
+    "url": "http://tabank.org",
+    "explorers": [
+        "https://scan.tomochain.com/tokens/0x8103bb77ed2035b5da9a3a65d9c313cb6ee41dbd"
+    ],
+    "twitter": "OrgTabank",
+    "telegram": "tabankorg"
+}

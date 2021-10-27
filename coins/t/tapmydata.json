@@ -1,0 +1,23 @@
+{
+    "id": "tapmydata",
+    "symbol": "tap",
+    "name": "Tapmydata",
+    "platforms": {
+        "ethereum": "0x7f1f2d3dfa99678675ece1c243d3f7bc3746db5d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Take back control of your data, store it on our encrypted wallet, license it to earn from your data"
+    },
+    "country_origin": "GI",
+    "genesis_date": null,
+    "contract_address": "0x7f1f2d3dfa99678675ece1c243d3f7bc3746db5d",
+    "url": "https://tapmydata.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7f1f2d3dfa99678675ece1c243d3f7bc3746db5d",
+        "https://ethplorer.io/address/0x7f1f2d3dfa99678675ece1c243d3f7bc3746db5d"
+    ],
+    "twitter": "tapmydata",
+    "telegram": "tapmydataofficial"
+}

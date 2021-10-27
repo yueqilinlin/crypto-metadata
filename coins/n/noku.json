@@ -1,0 +1,25 @@
+{
+    "id": "noku",
+    "symbol": "noku",
+    "name": "Noku",
+    "platforms": {
+        "ethereum": "0x1fc52f1abade452dd4674477d4711951700b3d27"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Noku provides instruments for trading, saving, and making payments. With the Noku platform, everyone can create their own crypto economy, without having to write code. The crypto economy needs to be simplified for everyone. This is the Noku goal. We focus on creating products and services that help people to save, spend and invest value in the \u201creal\u201d world, while still enjoying the advantages of Blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1fc52f1abade452dd4674477d4711951700b3d27",
+    "url": "https://www.noku.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x1fc52f1abade452dd4674477d4711951700b3d27",
+        "https://ethplorer.io/address/0x1fc52f1abade452dd4674477d4711951700b3d27"
+    ],
+    "twitter": "NokuTeam",
+    "facebook": "nokuteam",
+    "telegram": "nokuofficial",
+    "github_org": "noku-team"
+}

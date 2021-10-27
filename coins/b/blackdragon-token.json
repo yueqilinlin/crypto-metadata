@@ -1,0 +1,23 @@
+{
+    "id": "blackdragon-token",
+    "symbol": "BDT",
+    "name": "BlackDragon Token",
+    "platforms": {
+        "ethereum": "0x4efe8665e564bf454ccf5c90ee16817f7485d5cf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4efe8665e564bf454ccf5c90ee16817f7485d5cf",
+    "url": "https://www.blackdragon.io",
+    "explorers": [
+        "https://etherscan.io/token/0x4Efe8665e564bF454cCF5C90Ee16817F7485d5Cf",
+        "https://ethplorer.io/address/0x4efe8665e564bf454ccf5c90ee16817f7485d5cf"
+    ],
+    "twitter": "BlackDragon_io",
+    "telegram": "BlackDragon_Chat"
+}

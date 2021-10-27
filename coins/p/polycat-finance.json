@@ -1,0 +1,25 @@
+{
+    "id": "polycat-finance",
+    "symbol": "fish",
+    "name": "Polycat Finance",
+    "platforms": {
+        "polygon-pos": "0x3a3df212b7aa91aa0402b9035b098891d276572b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Polycat Finance (FISH) is the next generation of Automated Market Making (AMM) decentralized exchange with a deflationary token model. We are your go-to yield farm running on Polygon and Quickswap exchange, with lots of other features that let you earn tokens.\r\n\r\nAs with the current wave of third generation yield farms, the aim is to create a perpetual deflation token, FISH, with a continual burn mechanism in order to field an environment that can sustain long term gains with consistently high APR for greater earnings."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x3a3df212b7aa91aa0402b9035b098891d276572b",
+    "url": "https://polycat.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x3a3df212b7aa91aa0402b9035b098891d276572b"
+    ],
+    "twitter": "PolycatFinance",
+    "telegram": "PolycatFinance",
+    "github_org": "polycatfi"
+}

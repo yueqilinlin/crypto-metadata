@@ -1,0 +1,26 @@
+{
+    "id": "rivetz",
+    "symbol": "rvt",
+    "name": "Rivetz",
+    "platforms": {
+        "ethereum": "0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Rivetz uses the RvT token and blockchain to cryptographically prove that the vault in your phone is secure, all the way from the manufacturer to your pocket. The RvT blockchain can perform a health check, verifying that your vault\u2019s integrity is intact, and that transactions you send are exactly the ones you intended.\r\n\r\n"
+    },
+    "country_origin": "US",
+    "genesis_date": "2017-08-09",
+    "contract_address": "0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244",
+    "url": "https://rivetz.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244",
+        "https://ethplorer.io/address/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244"
+    ],
+    "twitter": "rivetzcorp",
+    "telegram": "rivet_group",
+    "reddit": "Rivetz"
+}

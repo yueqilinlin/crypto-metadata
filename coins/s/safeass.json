@@ -1,0 +1,24 @@
+{
+    "id": "safeass",
+    "symbol": "safeass",
+    "name": "SafeAss",
+    "platforms": {
+        "binance-smart-chain": "0x93bc19c415c75770d37fe4d76bfbb23387d28f0f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Deflationary supply/burn and autonomous yield protocol. Simply hold SAFEASS in your wallet and it will grow simultaneously increasing in value. On each transaction the protocol automatically burns a portion of the transaction fee rewarding the holders as well as provides a positive rebase every 14 million transacted tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x93bc19c415c75770d37fe4d76bfbb23387d28f0f",
+    "url": "https://www.safeass.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x93bc19c415c75770d37fe4d76bfbb23387d28f0f"
+    ],
+    "twitter": "SAFEASSNETWORK",
+    "telegram": "SAFEASSNETWORK",
+    "reddit": "SafeAssNetwork/",
+    "github_org": "chimmykk"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "basis-gold-share-heco",
+    "symbol": "bags",
+    "name": "Basis Gold Share (Heco)",
+    "platforms": {
+        "huobi-token": "0x6868d406a125eb30886a6dd6b651d81677d1f22c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Basis Gold is a non-custodial algorithm stable coin powered by Heco Chain!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6868d406a125eb30886a6dd6b651d81677d1f22c",
+    "url": "https://basisgold.cc/#/",
+    "explorers": [
+        "https://hecoinfo.com/token/0x6868d406a125eb30886a6dd6b651d81677d1f22c"
+    ],
+    "twitter": "basis_gold",
+    "telegram": "BasisGold",
+    "github_org": "basisgold"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "babyuni",
+    "symbol": "babyuni",
+    "name": "BabyUni",
+    "platforms": {
+        "binance-smart-chain": "0x4e7f41b1495f024668eff303dcec76389a636da1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BabyUni magically deposits filthy amounts of binance-peg Uniswap tokens. Simply put, this means is you will be collecting Uniswap tokens directly into your wallet for holding BabyUni tokens! Get rewarded now on EVERY transaction on this fun speculative experiment token!"
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x4e7f41b1495f024668eff303dcec76389a636da1",
+    "url": "https://www.babyuni.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x4e7f41b1495f024668eff303dcec76389a636da1"
+    ],
+    "twitter": "BabyUniToken",
+    "telegram": "BabyUniTokenBSC",
+    "github_org": "BabyUni"
+}

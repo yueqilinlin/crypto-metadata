@@ -1,0 +1,22 @@
+{
+    "id": "quebecoin",
+    "symbol": "qbc",
+    "name": "Quebecoin",
+    "platforms": {},
+    "hashing_algorithm": "Groestl",
+    "categories": [],
+    "description": {
+        "en": "Qu\u00e9becoin is a PoW/PoS cryptocurrency using the X11 algorithm. It was launched in April 2014 and abandoned in the next few days. Over the past six weeks, the community of miners and investors have been coordinating a re-launch and preparing all the required pieces, including the removal of a 50% premine."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://quebecoin.ca/",
+    "explorers": [
+        "https://explorer.service-crypto.com/"
+    ],
+    "twitter": "quebecoin_qbc",
+    "facebook": "QuebecoinQBC",
+    "telegram": "QuebecoinCommunity",
+    "reddit": "Quebecoin/",
+    "github_org": "QuebecoinQBC"
+}

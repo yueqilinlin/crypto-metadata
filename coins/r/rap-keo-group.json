@@ -1,0 +1,24 @@
+{
+    "id": "rap-keo-group",
+    "symbol": "rkg",
+    "name": "Rap Keo Group",
+    "platforms": {
+        "binance-smart-chain": "0x1bdd6abd96c43731aebcb1a68c566f0255b4eb3f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rap Keo Group (RKG) use blockchain technology and smart contract to build an M&A exchange to mergers, acquisitions, purchases, assets swap, share transactions, and management acquisitions."
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0x1bdd6abd96c43731aebcb1a68c566f0255b4eb3f",
+    "url": "https://rapkeogroup.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x1bdd6abd96c43731aebcb1a68c566f0255b4eb3f"
+    ],
+    "twitter": "RapKeoGroup",
+    "facebook": "rapkeogroup",
+    "telegram": "rapkeogroup_rkg",
+    "reddit": "rapkeogroup/"
+}

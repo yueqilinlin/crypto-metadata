@@ -1,0 +1,23 @@
+{
+    "id": "give-global",
+    "symbol": "give",
+    "name": "Give Global",
+    "platforms": {
+        "ethereum": "0xba8e5a4c64c1be42230910f7b39a6388f3d4297c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The overall function of GIVE is that a portion of the trading fees will be withdrawn weekly via a governance vote and donated to the Charity that the community chooses.\r\n\r\nGIVE is arranged in a way that we not only perpetuate the crypto currency of the future, but we are constantly giving back with direct donations from the GIVE community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xba8e5a4c64c1be42230910f7b39a6388f3d4297c",
+    "url": "http://giveglobal.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xba8e5a4c64c1be42230910f7b39a6388f3d4297c",
+        "https://ethplorer.io/address/0xba8e5a4c64c1be42230910f7b39a6388f3d4297c"
+    ],
+    "twitter": "_giveglobal",
+    "telegram": "giveglobal"
+}

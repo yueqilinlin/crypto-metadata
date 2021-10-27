@@ -1,0 +1,22 @@
+{
+    "id": "airnft-token",
+    "symbol": "airt",
+    "name": "AirNFT Token",
+    "platforms": {
+        "binance-smart-chain": "0x016cf83732f1468150d87dcc5bdf67730b3934d3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Airnfts is the NFT marketplace built on Binance Smart Chain focusing\r\nhighly on user experience and ease of use to Create, Buy, Sell and use NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x016cf83732f1468150d87dcc5bdf67730b3934d3",
+    "url": "https://www.airnfts.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x016cf83732f1468150d87dcc5bdf67730b3934d3"
+    ],
+    "twitter": "airnfts",
+    "github_org": "AirNFTs"
+}

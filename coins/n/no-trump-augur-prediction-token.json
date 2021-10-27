@@ -1,0 +1,24 @@
+{
+    "id": "no-trump-augur-prediction-token",
+    "symbol": "ntrump",
+    "name": "NO Trump Augur Prediction Token",
+    "platforms": {
+        "ethereum": "0x44ea84a85616f8e9cd719fc843de31d852ad7240"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "US Election 2020"
+    ],
+    "description": {
+        "en": "Tokenized NO shares in Augur's 2020 U.S. presidential election market. \r\nAt any point in time, the token price signals the market's perceived probability of Trump losing the election. For example, if the token is trading at .54 DAI, that signals roughly 54% odds of Trump losing the election. \r\nIf Trump loses the election, each share is redeemable for one DAI and if he wins, for zero DAI."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x44ea84a85616f8e9cd719fc843de31d852ad7240",
+    "url": "https://catnip.exchange/",
+    "explorers": [
+        "https://etherscan.io/token/0x44ea84a85616f8e9cd719fc843de31d852ad7240",
+        "https://ethplorer.io/address/0x44ea84a85616f8e9cd719fc843de31d852ad7240"
+    ],
+    "github_org": "yashnaman"
+}

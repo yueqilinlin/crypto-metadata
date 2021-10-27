@@ -1,0 +1,26 @@
+{
+    "id": "dextf",
+    "symbol": "dextf",
+    "name": "DEXTF",
+    "platforms": {
+        "ethereum": "0x5f64ab1544d28732f0a24f4713c2c8ec0da089f0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset Manager",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x5f64ab1544d28732f0a24f4713c2c8ec0da089f0",
+    "url": "https://dextf.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x5f64ab1544d28732f0a24f4713c2c8ec0da089f0",
+        "https://ethplorer.io/address/0x5f64ab1544d28732f0a24f4713c2c8ec0da089f0"
+    ],
+    "twitter": "dextfprotocol",
+    "telegram": "dextfprotocol"
+}

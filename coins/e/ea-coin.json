@@ -1,0 +1,18 @@
+{
+    "id": "ea-coin",
+    "symbol": "eag",
+    "name": "EA Coin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EAG is an ambitious and wide-ranging blockchain project, aimed at disrupting the local merchant cryptocurrency payment business. This is a worldwide open source e-commerce marketplace platform that anomynously connects subscribers with local merchants that do not accept cryptocurrencies."
+    },
+    "country_origin": null,
+    "genesis_date": "2017-10-30",
+    "url": "https://www.eacoin.io/",
+    "explorers": [
+        "http://insight.eacoin.io/"
+    ],
+    "github_org": "eacoin-project"
+}

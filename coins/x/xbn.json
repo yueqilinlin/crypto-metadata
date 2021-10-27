@@ -1,0 +1,23 @@
+{
+    "id": "xbn",
+    "symbol": "xbn",
+    "name": "Elastic BNB",
+    "platforms": {
+        "binance-smart-chain": "0x547cbe0f0c25085e7015aa6939b28402eb0ccdac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XBN \u00b7 Elastic BNB \u00b7 DeFi apps and Prediction Market\r\nXBN's mission is powering Defi Apps on Binance Smart Chain\r\n\r\nXBN utilizes the power of BSC's Smart Contract to achieve its goal: 1 XBN = 1 BNB"
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0x547cbe0f0c25085e7015aa6939b28402eb0ccdac",
+    "url": "https://www.xbn.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x547cbe0f0c25085e7015aa6939b28402eb0ccdac"
+    ],
+    "twitter": "elasticbitcoin",
+    "telegram": "elasticbitcoin",
+    "github_org": "ElasticBTC-XBT"
+}

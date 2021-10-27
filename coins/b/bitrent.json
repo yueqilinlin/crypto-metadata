@@ -1,0 +1,26 @@
+{
+    "id": "bitrent",
+    "symbol": "rntb",
+    "name": "BitRent",
+    "platforms": {
+        "ethereum": "0x1fe70be734e473e5721ea57c8b5b01e6caa52686"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BitRent is the first blockchain platform meant to attract commercial and residential property investments at an early stage of construction in order to gain maximum profit by selling and renting out the acquired property.\r\nWe connect developers with investors."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1fe70be734e473e5721ea57c8b5b01e6caa52686",
+    "url": "https://bitrent.io",
+    "explorers": [
+        "https://etherscan.io/token/0x1fe70be734e473e5721ea57c8b5b01e6caa52686",
+        "https://ethplorer.io/address/0x1fe70be734e473e5721ea57c8b5b01e6caa52686"
+    ],
+    "twitter": "bit_rent",
+    "facebook": "bitrentplatform",
+    "telegram": "bitrentio",
+    "reddit": "BitRent/",
+    "github_org": "bitrent"
+}

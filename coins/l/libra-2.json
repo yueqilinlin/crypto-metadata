@@ -1,0 +1,23 @@
+{
+    "id": "libra-2",
+    "symbol": "lc",
+    "name": "Libra",
+    "platforms": {
+        "binance-smart-chain": "0xc2be72d5e58fd9f001b91c28d596c2a7e3fb018b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Libra Ecosystem is a blockchain-based project build for providing solutions for current problems and for the betterment of e-commerce business. it will help businesses to find investors, vendors to generate more revenue, and users to do transactions through cryptocurrency in a safe environment. The platform will utilize Libra coins and libra wallets."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0xc2be72d5e58fd9f001b91c28d596c2a7e3fb018b",
+    "url": "https://libraecosystem.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xc2be72d5e58fd9f001b91c28d596c2a7e3fb018b"
+    ],
+    "twitter": "libraecosystem",
+    "telegram": "LibraEcosystem",
+    "reddit": "LibraEcosystem/"
+}

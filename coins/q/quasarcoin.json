@@ -1,0 +1,21 @@
+{
+    "id": "quasarcoin",
+    "symbol": "qac",
+    "name": "Quasarcoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Quasar Coin\r\n\"Fair travel\" is also referred to as 'good travel' as a concept derived from fair trade, \r\nin which producers and consumers form a comparable relationship. \r\nIt has been promoted in European and other English-speaking countries since the 2000s to reflect the environmental pollution, \r\ndestruction of civilization and waste caused by the trips, and to give a little help to the residents of difficult countries. \r\n\r\nWe want to build a platform in which travelers, hotels, restaurants and stores around \r\nthe world can mutually satisfy each other through fair trade. \r\n\r\nTechnically, we have built up an advanced reputation system \r\nbased on a block chain, a simple payment system in the form of a credit card, \r\nvarious APIs, an instant transaction system to minimize the variability of cryptocurrency, In business, \r\nit provides discounts through discounted quasar cards and eliminates anxiety factors by using proven companies, \r\nand provides companies with promotional effects and sales increase within the Quasar platform.\r\n\r\nQuasar Coin has adopted the bit coin platform, which has been proven to be \r\nsafe as the first cryptocurrency, and applied Light Coin to reduce block time for quick settlement in daily transactions. \r\nIn addition, for smooth block mining, it solves the difficulty-bomb problem which intentionally raises difficulty to make it difficult to mine. \r\n\r\nSince the development of the quasar coin has already been completed, \r\nthe project team has focused on the development of the related infrastructure system in order to activate the transaction of the cryptocurrency.\r\n\r\nQuasar Card\r\nQuasar cards are the easiest payment method for users who are familiar with using \r\ncredit cards when paying by quasar coin, and can be paid by various methods such as QR code, IC chip and NFC according to the \r\nstatus of the receiving terminal of the company. By combining the unique hash codes given by the system when issuing the card based \r\non the public key, illegal settlement is prevented so that it can only be used with the public key\r\n\r\nSmart Wallet\r\nIn general, mobile wallet offers three basic functions, sending coins, receiving coins and transaction records. \r\nQuasar's Smart Wallet can provide search for businesses, view reputation, write reviews, \r\nreserve / pay when needed as an advanced for of smart wallet.\r\n\r\nBusiness\r\nIn general, mobile wallet offers three basic functions, sending coins, receiving coins and transaction records. \r\nQuasar's Smart Wallet can provide search for businesses, view reputation, write reviews, \r\nreserve / pay when needed as an advanced for of smart wallet."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://quasarcoin.org/",
+    "explorers": [
+        "http://insight.quasarcoin.org/"
+    ],
+    "twitter": "Quasarcoingroup",
+    "facebook": "quasarcoingroup",
+    "telegram": "quasarcoingroup",
+    "github_org": "quasarcoin"
+}

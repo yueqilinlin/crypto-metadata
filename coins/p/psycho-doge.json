@@ -1,0 +1,24 @@
+{
+    "id": "psycho-doge",
+    "symbol": "psychodoge",
+    "name": "Psycho Doge",
+    "platforms": {
+        "binance-smart-chain": "0xd4cdbd31f55c6f06b267809b5eca0f0c257c8a6a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Psycho Doge is a BSC token that gives reflection rewards to its holders and has proprietary hyper-deflationary tokenomics."
+    },
+    "country_origin": "GR",
+    "genesis_date": null,
+    "contract_address": "0xd4cdbd31f55c6f06b267809b5eca0f0c257c8a6a",
+    "url": "https://psychodoge.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xd4cdbd31f55c6f06b267809b5eca0f0c257c8a6a"
+    ],
+    "twitter": "psychodogecoin",
+    "telegram": "psychodogecoin",
+    "reddit": "PsychoDoge/",
+    "github_org": "d-sfounis"
+}

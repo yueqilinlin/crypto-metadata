@@ -1,0 +1,26 @@
+{
+    "id": "aave-wbtc",
+    "symbol": "awbtc",
+    "name": "Aave WBTC",
+    "platforms": {
+        "ethereum": "0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Aave WBTC is an interest bearing token minted upon deposit and burned when redeemed. The aWBTC is pegged 1:1 to the value of the underlying WBTC that is deposited in Aave protocol. aWBTC, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aWBTC accrue interest in real time, directly in your wallet!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656",
+    "url": "https://aave.com/atokens",
+    "explorers": [
+        "https://etherscan.io/token/0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656",
+        "https://ethplorer.io/address/0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome"
+}

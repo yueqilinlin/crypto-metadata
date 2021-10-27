@@ -1,0 +1,29 @@
+{
+    "id": "piedao-defi-large-cap",
+    "symbol": "defi+l",
+    "name": "PieDAO DEFI Large Cap",
+    "platforms": {
+        "ethereum": "0x78f225869c08d478c34e5f645d07a87d3fe8eb78"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "DeFi Index",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Index representing Large Cap DeFi projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x78f225869c08d478c34e5f645d07a87d3fe8eb78",
+    "url": "https://pools.piedao.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x78f225869c08d478c34e5f645d07a87d3fe8eb78",
+        "https://ethplorer.io/address/0x78f225869c08d478c34e5f645d07a87d3fe8eb78"
+    ],
+    "twitter": "DeFiOpFi",
+    "telegram": "piedao",
+    "reddit": "PieDAO/",
+    "github_org": "pie-dao"
+}

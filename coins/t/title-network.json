@@ -1,0 +1,23 @@
+{
+    "id": "title-network",
+    "symbol": "tnet",
+    "name": "Bitcoin Clashic",
+    "platforms": {},
+    "hashing_algorithm": "Blake2b",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Title Network is a rebrand of Bitcoin Core $BTCC and Bitcoin Clashic before it. It features 8MB block size, 1-min block target, 30-period DAA and Blake2b PoW."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://bitcoin.clashic.cash/",
+    "explorers": [
+        "https://explorer.clashic.cash/"
+    ],
+    "twitter": "BitcoinClashic",
+    "telegram": "TitleNetwork",
+    "reddit": "TitleNetwork/",
+    "github_org": "title-network"
+}

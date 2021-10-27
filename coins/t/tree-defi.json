@@ -1,0 +1,21 @@
+{
+    "id": "tree-defi",
+    "symbol": "tree",
+    "name": "Tree Defi",
+    "platforms": {
+        "binance-smart-chain": "0xf0fcd737fce18f95621cc7841ebe0ea6efccf77e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tree Defi is a leveraged-yield farming protocol built on the Binance Smart Chain. It allows yield farmers to earn higher return by opening leveraged positions. Moreover, one third of the deposit fees on our platform will be used to plant trees in real life. Our donations will have proof of purchase and will by trackable by users through the blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf0fcd737fce18f95621cc7841ebe0ea6efccf77e",
+    "url": "https://treedefi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xf0fcd737fce18f95621cc7841ebe0ea6efccf77e"
+    ],
+    "twitter": "treedefi"
+}

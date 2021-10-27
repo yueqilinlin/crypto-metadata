@@ -1,0 +1,23 @@
+{
+    "id": "deltahub-community",
+    "symbol": "DHC",
+    "name": "DeltaHub Community",
+    "platforms": {
+        "ethereum": "0x152687bc4a7fcc89049cf119f9ac3e5acf2ee7ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DHC is the utility coin of DeltaHub Capital platform used to grant access to deals flow, stake to earn DHG governance token. Its the foundation of community governed economic model (C-GEM) proposed by DHC."
+    },
+    "country_origin": "PK",
+    "genesis_date": null,
+    "contract_address": "0x152687bc4a7fcc89049cf119f9ac3e5acf2ee7ef",
+    "url": "https://deltahub.capital",
+    "explorers": [
+        "https://etherscan.io/token/0x152687bc4a7fcc89049cf119f9ac3e5acf2ee7ef",
+        "https://ethplorer.io/address/0x152687bc4a7fcc89049cf119f9ac3e5acf2ee7ef"
+    ],
+    "twitter": "deltahubc",
+    "telegram": "deltahubc"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "cosmic-music",
+    "symbol": "csmc",
+    "name": "Cosmic Music",
+    "platforms": {
+        "binance-smart-chain": "0x937a580dca21e3519ac5a66b7be55090d87b7c18"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A platform where musicians can mint their music and sell them as limited edition NFT\u2019s. Cosmic also gives users an easy way to search for music NFT\u2019s as well as buy and communicate with creators. As an artist you will be able to easily upload your music and market it as an NFT. Artists will also earn royalties on every sale thereafter.The platform will be intuitive and developed with ease of use in mind. \r\n\r\nA decentralized platform for musicians to mint and sell their music without a large fee taken out & showcase new and popular NFT musicians. Cosmic is a worldwide music NFT platform connecting artists, producers, scouts and listeners."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x937a580dca21e3519ac5a66b7be55090d87b7c18",
+    "url": "http://cosmicmusic.io",
+    "explorers": [
+        "https://bscscan.com/token/0x937a580dca21e3519ac5a66b7be55090d87b7c18"
+    ],
+    "twitter": "CosmicMusicNFT",
+    "telegram": "cosmicmusic",
+    "github_org": "cosmicmusic"
+}

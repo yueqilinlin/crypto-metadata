@@ -1,0 +1,22 @@
+{
+    "id": "zettelkasten",
+    "symbol": "zttl",
+    "name": "Zettelkasten",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "Zettelkasten aims to create a decentralized knowledge-management-system (DKMS)"
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "url": "https://zettelkasten.org/",
+    "explorers": [
+        "http://zettel.dashnetwork.info/",
+        "https://zettel.hashpool.eu/"
+    ],
+    "twitter": "ZettelCrypto",
+    "github_org": "zettel-kasten"
+}

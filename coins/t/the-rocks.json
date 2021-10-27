@@ -1,0 +1,23 @@
+{
+    "id": "the-rocks",
+    "symbol": "therocks",
+    "name": "The Rocks",
+    "platforms": {
+        "binance-smart-chain": "0xd301fc0f091d87f59db47e0c7255c967c55cdd96"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "THE ROCKS is the first GAMEFI project to allow the users to create their own NFT characters and features play-to-earn games portal with a variety of addictive mini games that keep players coming back."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd301fc0f091d87f59db47e0c7255c967c55cdd96",
+    "url": "https://therocks.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xD301fC0F091d87f59Db47e0C7255c967c55CDd96"
+    ],
+    "twitter": "therocks_io",
+    "telegram": "therocks_io",
+    "github_org": "TheRocks-Foundation"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "pegazus-finance",
+    "symbol": "peg",
+    "name": "Pegazus Finance",
+    "platforms": {
+        "binance-smart-chain": "0xd585f9c5953ca97da3551f20725a274c9e442ff3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Deflationary token on BSC with a 1% donation fee (Binance charity wallet), 1% fee buyback weekly, 1% fee for marketing, 6% burn and 1% redistribution to holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd585f9c5953ca97da3551f20725a274c9e442ff3",
+    "url": "https://pegazus.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xd585f9c5953ca97da3551f20725a274c9e442ff3"
+    ],
+    "twitter": "PegazusFinance",
+    "telegram": "PegazusFinance"
+}

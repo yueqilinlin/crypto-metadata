@@ -1,0 +1,30 @@
+{
+    "id": "dao-maker",
+    "symbol": "dao",
+    "name": "DAO Maker",
+    "platforms": {
+        "ethereum": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+        "binance-smart-chain": "0x22f3997a5df5a80e29871fed24fe3e85741f5e82"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad",
+        "DaoMaker Ecosystem",
+        "Governance"
+    ],
+    "description": {
+        "en": "DAO Maker Token is the governance token of the DAO Maker Ecosystem built on Ethereum, allowing holders to govern the ecosystem. DAO Maker held a series of Dynamic Coin Offerings since late 2020, raising over 8 million USD. The DAO Maker Token aims to create a decentralized ecosystem, enabling a go-to platform for retail venture investing in equity and tokens."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+    "url": "https://daomaker.com",
+    "explorers": [
+        "https://etherscan.io/token/0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+        "https://ethplorer.io/address/0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+        "https://bscscan.com/token/0x22f3997a5df5a80e29871fed24fe3e85741f5e82"
+    ],
+    "twitter": "thedaomaker",
+    "telegram": "daomaker",
+    "github_org": "daomaker"
+}

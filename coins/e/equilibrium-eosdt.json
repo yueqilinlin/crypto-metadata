@@ -1,0 +1,28 @@
+{
+    "id": "equilibrium-eosdt",
+    "symbol": "eosdt",
+    "name": "Equilibrium EOSDT",
+    "platforms": {
+        "eos": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "USD Stablecoin",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://eosdt.com",
+    "explorers": [
+        "https://eospark.com/token/eosdt/eosdtsttoken",
+        "https://bloks.io/tokens/EOSDT-eos-eosdtsttoken"
+    ],
+    "twitter": "EOSDT",
+    "facebook": "EquilibriumFramework/",
+    "telegram": "equilibrium_eosdt_official",
+    "reddit": "https://www.reddit.com",
+    "github_org": "equilibrium-eosdt"
+}

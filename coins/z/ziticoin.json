@@ -1,0 +1,23 @@
+{
+    "id": "ziticoin",
+    "symbol": "ziti",
+    "name": "Ziticoin",
+    "platforms": {
+        "ethereum": "0x8dd4228605e467671941ffb4cae15cf7959c8d9d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ziticoin is a reliable and flexible solution for cross-platform payments.\r\nIt is a multilayer cross-chain technology that integrates payments of users through various social networks and platforms."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8dd4228605e467671941ffb4cae15cf7959c8d9d",
+    "url": "https://zitico.in",
+    "explorers": [
+        "https://etherscan.io/token/0x8dd4228605e467671941ffb4cae15cf7959c8d9d",
+        "https://ethplorer.io/address/0x8dd4228605e467671941ffb4cae15cf7959c8d9d"
+    ],
+    "twitter": "Ziticoin1",
+    "telegram": "Ziticoin"
+}

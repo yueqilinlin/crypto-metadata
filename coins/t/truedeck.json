@@ -1,0 +1,26 @@
+{
+    "id": "truedeck",
+    "symbol": "tdp",
+    "name": "TrueDeck",
+    "platforms": {
+        "ethereum": "0x5b11aacb6bddb9ffab908fdce739bf4aed554327"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5b11aacb6bddb9ffab908fdce739bf4aed554327",
+    "url": "https://truedeck.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x5b11aacb6bddb9ffab908fdce739bf4aed554327",
+        "https://ethplorer.io/address/0x5b11aacb6bddb9ffab908fdce739bf4aed554327"
+    ],
+    "twitter": "TrueDeckProject",
+    "telegram": "thetruedeck",
+    "github_org": "TrueDeck"
+}

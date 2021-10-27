@@ -1,0 +1,23 @@
+{
+    "id": "peerguess",
+    "symbol": "guess",
+    "name": "PeerGuess",
+    "platforms": {
+        "ethereum": "0xbdcfbf5c4d91abc0bc9709c7286d00063c0e6f22"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PeerGuess is a free cryptocurrency price ticker application where you may also guess future prices to earn gems; learn about community tendencies and reach sophisticated data. Peerguess is designed with gamification experience. We decided to add gamification principles to the watcher and portfolio management applications, in which you can guess the next 24h value of a specific cryptocurrency using the Gems provided or purchased."
+    },
+    "country_origin": "TR",
+    "genesis_date": "2017-12-10",
+    "contract_address": "0xbdcfbf5c4d91abc0bc9709c7286d00063c0e6f22",
+    "url": "https://peerguess.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xbdcfbf5c4d91abc0bc9709c7286d00063c0e6f22",
+        "https://ethplorer.io/address/0xbdcfbf5c4d91abc0bc9709c7286d00063c0e6f22"
+    ],
+    "twitter": "peerguess",
+    "telegram": "peerguess"
+}

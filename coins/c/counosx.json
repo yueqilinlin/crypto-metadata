@@ -1,0 +1,21 @@
+{
+    "id": "counosx",
+    "symbol": "ccxx",
+    "name": "CounosX",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "CounosX has it's own Blockchain and will supply about 21 million coins, until now about 18,400,000 coins mined. "
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "url": "https://counos.io/counosx",
+    "explorers": [
+        "http://blockex.ccx.counos.org"
+    ],
+    "twitter": "counoscoin",
+    "facebook": "counoscoin",
+    "telegram": "csccryptocurrency",
+    "github_org": "counos-platform"
+}

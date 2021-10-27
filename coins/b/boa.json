@@ -1,0 +1,23 @@
+{
+    "id": "boa",
+    "symbol": "boa",
+    "name": "BOA",
+    "platforms": {
+        "ethereum": "0xf9c36c7ad7fa0f0862589c919830268d1a2581a1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Game token linked with TOB-XAMP. BOA Taxes sellers, rewards hodlers"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xf9c36c7ad7fa0f0862589c919830268d1a2581a1",
+    "url": "https://boa-token.webflow.io",
+    "explorers": [
+        "https://etherscan.io/token/0xf9c36c7ad7fa0f0862589c919830268d1a2581a1",
+        "https://ethplorer.io/address/0xf9c36c7ad7fa0f0862589c919830268d1a2581a1"
+    ],
+    "twitter": "burn_the_state",
+    "telegram": "burn_the_state"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "venus-link",
+    "symbol": "vlink",
+    "name": "Venus LINK",
+    "platforms": {
+        "binance-smart-chain": "0x650b940a1033b8a1b1873f78730fcfc73ec11f1f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Venus is an algorithmic money market and synthetic stablecoin decentralized finance protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x650b940a1033b8a1b1873f78730fcfc73ec11f1f",
+    "url": "https://venus.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x650b940a1033b8a1b1873f78730fcfc73ec11f1f"
+    ],
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+}

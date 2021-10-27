@@ -1,0 +1,23 @@
+{
+    "id": "kelpie-inu",
+    "symbol": "kelpie",
+    "name": "Kelpie Inu",
+    "platforms": {
+        "ethereum": "0x672d7b3333d0f069a28b73a268bc6eaec65f2e1a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kelpie is a Decentralised Finance. We plan to build 3 dapp to serve the community. Dapp #1 as Kelpie Send, which enable sending of $Kelpie, ERC20 Token or Ether to anyone through a link, phone number. \r\n\r\nKelpie Dex Aggregator with 0x, 1inch, Sushi, Uni, Aave,Pancake Swap and more. Matching Best Price and bridge across Binance Smart Chain through Pancake Swap.\r\n\r\nLastly is Kelpie List, an informative Dapp that collect data from Etherscan, Social Media and Rate new launch Uniswap token with its volume, liquidity lock, verified contract etc."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x672d7b3333d0f069a28b73a268bc6eaec65f2e1a",
+    "url": "https://kelpie.tech/",
+    "explorers": [
+        "https://etherscan.io/token/0x672d7b3333d0f069a28b73a268bc6eaec65f2e1a",
+        "https://ethplorer.io/address/0x672d7b3333d0f069a28b73a268bc6eaec65f2e1a"
+    ],
+    "twitter": "kelpiecommunity",
+    "telegram": "kelpiecommunity"
+}

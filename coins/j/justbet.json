@@ -1,0 +1,23 @@
+{
+    "id": "justbet",
+    "symbol": "winr",
+    "name": "JustBet",
+    "platforms": {
+        "ethereum": "0x27460aac4b005de72e2326bd8391c27fb41780f8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The First-ever fully decentralized and autonomous gaming system which has no human interaction, where payouts cannot be tampered with at any time and \u201cwhere everyone is a WINR\u201d.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x27460aac4b005de72e2326bd8391c27fb41780f8",
+    "url": "https://just.bet",
+    "explorers": [
+        "https://ethplorer.io/address/0x27460aac4b005de72e2326bd8391c27fb41780f8",
+        "https://etherscan.io/token/0x27460aac4b005de72e2326bd8391c27fb41780f8"
+    ],
+    "twitter": "JustBetOfficial",
+    "telegram": "just_bet_official"
+}

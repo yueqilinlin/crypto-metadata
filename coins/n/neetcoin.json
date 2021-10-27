@@ -1,0 +1,19 @@
+{
+    "id": "neetcoin",
+    "symbol": "neet",
+    "name": "Neetcoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "NEETCOIN was created to support neet. \"NEET\" is an acronym \"Not in Education, Employment or Training\" and refers to those who are not involved in school, occupation, or vocational training.\r\n\r\nIt is predicted worldwidely that, in the future, due to the evolution of AI (artificial intelligence) and IT system, the number of people who would be deprived from thier jobs by AI/IT system, end up with harsh working environments, they lose their balance of mind and body by become unable to continue working.\r\n\r\nIn Japan, neet is criticised due to common perception that they are lazy and not contributing to the society. Goal of NEETCOIN project is to make one of a platform to support neet those of whom cannot get enrollment and/or employment with various reasons.\r\n\r\nNEETCOIN utilizes brockchain technology and will support neet with following 3 charactrastics."
+    },
+    "country_origin": null,
+    "genesis_date": null,
+    "url": "https://neetcoin.jp/en/",
+    "explorers": [
+        "http://exp.neetcoin.jp:3001/"
+    ],
+    "twitter": "neetcoin_jp",
+    "github_org": "NEETCOINTeam"
+}

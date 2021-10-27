@@ -1,0 +1,26 @@
+{
+    "id": "grpl-finance-2",
+    "symbol": "grpl",
+    "name": "GRPL Finance",
+    "platforms": {
+        "ethereum": "0x15e4132dcd932e8990e794d1300011a472819cbd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "Grpl is an elastic supply token which uses Fibonacci correction levels as a formula in the Rebase system. It pushes the natural mathematical will of the people to do the most beneficial thing for the group, based on the fibo correction levels at the target price. It provides Nash Equilibrium, or fair distribution of income, this way."
+    },
+    "country_origin": "PK",
+    "genesis_date": null,
+    "contract_address": "0x15e4132dcd932e8990e794d1300011a472819cbd",
+    "url": "https://grpl.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x15E4132DcD932E8990E794d1300011A472819cBD",
+        "https://ethplorer.io/address/0x15E4132DcD932E8990E794d1300011A472819cBD"
+    ],
+    "twitter": "grplfinance",
+    "telegram": "grpltalk",
+    "github_org": "grpl-finance-git"
+}

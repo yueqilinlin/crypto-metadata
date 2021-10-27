@@ -1,0 +1,30 @@
+{
+    "id": "swingby",
+    "symbol": "SWINGBY",
+    "name": "Swingby",
+    "platforms": {
+        "binancecoin": "SWINGBY-888",
+        "binance-smart-chain": "0x71de20e0c4616e7fcbfdd3f875d568492cbe4739",
+        "ethereum": "0x8287c7b963b405b7b8d467db9d79eec40625b13a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "A fast proof-of-stake protocol for inter-blockchain swaps, allowing DeFi users to easily move assets between blockchains without the need for a trusted party."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "SWINGBY-888",
+    "url": "https://swingby.network/en",
+    "explorers": [
+        "https://explorer.binance.org/asset/SWINGBY-888",
+        "https://etherscan.io/token/0x8287c7b963b405b7b8d467db9d79eec40625b13a",
+        "https://bscscan.com/token/0x71de20e0c4616e7fcbfdd3f875d568492cbe4739"
+    ],
+    "twitter": "SwingbyProtocol",
+    "telegram": "SwingbyOfficial",
+    "reddit": "swingbyofficial/",
+    "github_org": "SwingbyProtocol"
+}

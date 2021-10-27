@@ -1,0 +1,27 @@
+{
+    "id": "coindeal-token",
+    "symbol": "cdl",
+    "name": "CoinDeal Token",
+    "platforms": {
+        "ethereum": "0xcb17cd357c7acd594717d899ecb9df540f633f27"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "CoinDeal Token is a project of CoinDeal exchange. CDL is a utility token based on the ETH blockchain (earlier on EOS) and will be tradable on multiple markets and pairs after the token distribution is completed on 12.11.2019.\r\nWith CDL users can get lower trading fees, vote for new coins, access to additional trading features and later on access to the social trading platform, and more. Staking CDL Tokens in the CoinDeal wallet will allow decreasing trading fees to almost zero. Staking over 150.000 CDL will give a 0.0000% maker fee and a 0.0250% taker fee."
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "contract_address": "0xcb17cd357c7acd594717d899ecb9df540f633f27",
+    "url": "https://token.coindeal.com",
+    "explorers": [
+        "https://etherscan.io/token/0xcb17cd357c7acd594717d899ecb9df540f633f27",
+        "https://ethplorer.io/address/0xcb17cd357c7acd594717d899ecb9df540f633f27"
+    ],
+    "twitter": "coindeal_",
+    "facebook": "CoinDealOfficial",
+    "telegram": "coindeal_com",
+    "reddit": "CoinDeal"
+}

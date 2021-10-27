@@ -1,0 +1,25 @@
+{
+    "id": "sren",
+    "symbol": "sren",
+    "name": "sREN",
+    "platforms": {
+        "ethereum": "0xd31533e8d0f3df62060e94b3f1318137bb6e3525"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synths",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Tracks the price of Ren (REN) through price feeds supplied by an oracle"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd31533e8d0f3df62060e94b3f1318137bb6e3525",
+    "url": "https://synthetix.exchange/#/synths",
+    "explorers": [
+        "https://etherscan.io/token/0xD31533E8d0f3DF62060e94B3F1318137bB6E3525",
+        "https://ethplorer.io/address/0xD31533E8d0f3DF62060e94B3F1318137bB6E3525"
+    ],
+    "twitter": "synthetix_io"
+}

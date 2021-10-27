@@ -1,0 +1,27 @@
+{
+    "id": "mytracknet-token",
+    "symbol": "mtnt",
+    "name": "Mytracknet Token",
+    "platforms": {
+        "waves": "0x6ac44278cd0a843caeb95a5f0aa852f44b9015af"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Internet of Things (IOT)"
+    ],
+    "description": {
+        "en": "An utility token for Mytracknet Lost and Found network."
+    },
+    "country_origin": "GR",
+    "genesis_date": null,
+    "contract_address": "0x6ac44278cd0a843caeb95a5f0aa852f44b9015af",
+    "url": "https://mytracknet.com/",
+    "explorers": [
+        "https://wavesexplorer.com/tx/8HYDtqEuHj3RDcwR8yxEvPq1qQSB9FazC8wMHtRb2TFe",
+        "https://bscscan.com/token/0x6ac44278cd0a843caeb95a5f0aa852f44b9015af"
+    ],
+    "twitter": "MyTrackNet",
+    "facebook": "Mytracknet",
+    "telegram": "MyTrackNet_official",
+    "reddit": "MyTrackNet/"
+}

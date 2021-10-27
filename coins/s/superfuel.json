@@ -1,0 +1,23 @@
+{
+    "id": "superfuel",
+    "symbol": "sfuel",
+    "name": "SuperFuel",
+    "platforms": {
+        "binance-smart-chain": "0x31cc5ac39e2968c861830ade3580318bb815d633"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SuperFuel is a unique BNB rewards token where you are automatically entered into ongoing draws to win 1 Billion SafeMoon and join the SFM Billionaire\u2019s club. Our contract automatically converts 5% of every transaction into SFM and when the contract holds 1.2 billion SFM the lottery is triggered. The contract will randomly select a wallet holding SuperFuel that has not sold the SuperFuel token in the proceeding 48 hours and automatically send them 1.2 Billion SafeMoon. Once the winner is selected the whole process starts again.\r\n\r\n7% of every transaction is converted into BNB and automatically distributed to holders. This gives our holders ongoing chances to win the Billionaire\u2019s lotto and also regular income through the reward token.\r\n\r\nOur intelligent buyback system will mitigate red candles by triggering a buyback of the SuperFuel token when there are sells that impact the liquidity pool by greater than 1%. We also want to prevent whales from dumping our token so any transaction that attempts to sell greater than 3% of the total supply are denied. This prevents large one-time sales that may negatively impact the token price.\r\n\r\nOur adaptive marketing strategy works with the community to drive new ideas. Holders will be able to shape and vote for the direction of the token, unlike many other cryptos in the industry. 3% of each transaction will go to our marketing wallet which will enable us to pursue an aggressive and focused marketing strategy.\r\n\r\nOur token is rug proof as liquidity is locked for 1 year & contract ownership will be renounced after an audit. 100% of all team tokens are locked for 1 week at launch & are released in 25% increments each week after."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x31cc5ac39e2968c861830ade3580318bb815d633",
+    "url": "https://www.superfueltoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x31cc5ac39e2968c861830ade3580318bb815d633"
+    ],
+    "twitter": "SuperFuelToken",
+    "telegram": "SuperFuelToken",
+    "github_org": "SuperFuel"
+}

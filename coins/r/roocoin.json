@@ -1,0 +1,24 @@
+{
+    "id": "roocoin",
+    "symbol": "roo",
+    "name": "RooCoin",
+    "platforms": {
+        "binance-smart-chain": "0x30b29c6c03546f6395ddb454538d0eb7e4a6e32f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RooCoin - Is a \u2018charity-oriented\u2019 token that's helping to support community causes across the world. It will change the direction of crypto philanthropy; it will become more transparent and \u2018ethical\u2019."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x30b29c6c03546f6395ddb454538d0eb7e4a6e32f",
+    "url": "https://roocoin.com",
+    "explorers": [
+        "https://bscscan.com/token/0x30b29c6c03546f6395ddb454538d0eb7e4a6e32f"
+    ],
+    "twitter": "RooCoin",
+    "facebook": "RooCoinOfficial",
+    "telegram": "roocoincommunity",
+    "reddit": "roocoinofficial"
+}

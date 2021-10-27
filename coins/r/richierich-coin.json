@@ -1,0 +1,24 @@
+{
+    "id": "richierich-coin",
+    "symbol": "rich",
+    "name": "RichieRich Coin",
+    "platforms": {
+        "binance-smart-chain": "0x3b4443f97b37a6ef864c3f0f1632e366b4f1d20f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RichieRich coin is the first of its kind - we redistribute 15% of all transactions to holders with our luxury tax model. "
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x3b4443f97b37a6ef864c3f0f1632e366b4f1d20f",
+    "url": "https://richierichcoin.com",
+    "explorers": [
+        "https://bscscan.com/token/0x3b4443f97b37a6ef864c3f0f1632e366b4f1d20f"
+    ],
+    "twitter": "richierichbsc",
+    "telegram": "richierichbsc",
+    "reddit": "RichieRichCoin/",
+    "github_org": "RichieRichCoin"
+}

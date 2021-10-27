@@ -1,0 +1,24 @@
+{
+    "id": "ehash",
+    "symbol": "ehash",
+    "name": "EHash",
+    "platforms": {
+        "ethereum": "0x2942e3b38e33123965bfbc21e802be943a76bbc6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EHash is the token that represents the mining power on Ethereum network. 1 EHash is strictly tethered to 0.01Mhash/s power."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2942e3b38e33123965bfbc21e802be943a76bbc6",
+    "url": "https://ehash.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x2942e3b38e33123965bfbc21e802be943a76bbc6",
+        "https://ethplorer.io/address/0x2942e3b38e33123965bfbc21e802be943a76bbc6"
+    ],
+    "twitter": "EHashDeFi",
+    "telegram": "EhashGlobal",
+    "github_org": "EHash-Mining"
+}

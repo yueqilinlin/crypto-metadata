@@ -1,0 +1,24 @@
+{
+    "id": "onegetcoin",
+    "symbol": "ogc",
+    "name": "Onegetcoin",
+    "platforms": {
+        "binance-smart-chain": "0x33d53608167ac3679c0fe9f7a7a725891cf0f471"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We created a utility token called Onegetcoin OGC. We combine two utility concepts, use them for payments and use them for staking / farming at DEFI, so that OGC will create a wallet system with decentralized passive income."
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0x33d53608167ac3679c0fe9f7a7a725891cf0f471",
+    "url": "https://onegetcoin.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x33d53608167ac3679c0fe9f7a7a725891cf0f471"
+    ],
+    "twitter": "onegetcoin",
+    "facebook": "onegetofficial",
+    "telegram": "onegetofficial",
+    "github_org": "onegetcoin"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "eclipse-2",
+    "symbol": "ecp",
+    "name": "Eclipse",
+    "platforms": {
+        "binance-smart-chain": "0x375483cfa7fc18f6b455e005d835a8335fbdbb1f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x375483cfa7fc18f6b455e005d835a8335fbdbb1f",
+    "url": "https://eclipsetoken.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x375483cfa7fc18f6b455e005d835a8335fbdbb1f"
+    ],
+    "twitter": "token_eclipse",
+    "telegram": "eclipsetokenofficial",
+    "reddit": "EclipseToken_Official/",
+    "github_org": "EclipseToken"
+}

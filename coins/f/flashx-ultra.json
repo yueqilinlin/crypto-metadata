@@ -1,0 +1,22 @@
+{
+    "id": "flashx-ultra",
+    "symbol": "fsxu",
+    "name": "FlashX Ultra",
+    "platforms": {
+        "binance-smart-chain": "0xa94b7a842aadb617a0b08fa744e033c6de2f7595"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Second Dapp and governance token of FlashX Coin Project."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xa94b7a842aadb617a0b08fa744e033c6de2f7595",
+    "url": "https://www.flashxultra.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xa94b7a842aadb617a0b08fa744e033c6de2f7595"
+    ],
+    "twitter": "CoinFlashx",
+    "telegram": "FlashXUltra"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "pagan-gods-fur-token",
+    "symbol": "fur",
+    "name": "Pagan Gods Fur token",
+    "platforms": {
+        "binance-smart-chain": "0x3d81473920de7f4eef8ec71e0121baea7fc5b6ca"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$FUR is the main currency of the Pagan Gods universe. You can get FUR in the game by completing campaigns or in personal battles (PvP)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3d81473920de7f4eef8ec71e0121baea7fc5b6ca",
+    "url": "https://pagangods.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x3d81473920de7f4eef8ec71e0121baea7fc5b6ca"
+    ],
+    "twitter": "InoWorlds",
+    "telegram": "pagangods"
+}

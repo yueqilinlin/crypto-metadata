@@ -1,0 +1,21 @@
+{
+    "id": "safeblast",
+    "symbol": "blast",
+    "name": "SafeBlast",
+    "platforms": {
+        "binance-smart-chain": "0xddc0dbd7dc799ae53a98a60b54999cb6ebb3abf0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeBLAST(BLAST) is an Autonomous yield and Liquidity generation protocol. Every time someone buys or sell SafeBLAST token, the total supply goes down and the HODLers get rewarded. Every transaction also creates liquidity, which is automatically LOCKED."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xddc0dbd7dc799ae53a98a60b54999cb6ebb3abf0",
+    "url": "https://safeblastcrypto.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xddc0dbd7dc799ae53a98a60b54999cb6ebb3abf0"
+    ],
+    "telegram": "safeblast"
+}

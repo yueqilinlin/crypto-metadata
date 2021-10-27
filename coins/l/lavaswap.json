@@ -1,0 +1,23 @@
+{
+    "id": "lavaswap",
+    "symbol": "lava",
+    "name": "Lavaswap",
+    "platforms": {
+        "huobi-token": "0x56f95662e71f30b333b456439248c6de589082a4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LavaSwap is the first interoperable decentralized cross-chain swap protocol powered by Huobi Eco Chain.\r\nWe are creating an automatic market-making DEX. We envision a world where all crypto assets can come play in our BLAZING DeFi playground."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x56f95662e71f30b333b456439248c6de589082a4",
+    "url": "https://www.lavaswap.com/",
+    "explorers": [
+        "https://hecoinfo.com/token/0x56f95662e71f30b333b456439248c6de589082a4"
+    ],
+    "twitter": "LavaSwap",
+    "telegram": "LavaSwap",
+    "github_org": "Lava-Swap"
+}

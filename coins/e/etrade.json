@@ -1,0 +1,22 @@
+{
+    "id": "etrade",
+    "symbol": "ett",
+    "name": "Etrade",
+    "platforms": {
+        "ethereum": "0x952b65d976e8669c4ce92a17cce5b2586912adb5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x952b65d976e8669c4ce92a17cce5b2586912adb5",
+    "url": "http://www.etrade.club/",
+    "explorers": [
+        "https://etherscan.io/token/0x952b65d976e8669c4ce92a17cce5b2586912adb5",
+        "https://ethplorer.io/address/0x952b65d976e8669c4ce92a17cce5b2586912adb5"
+    ],
+    "twitter": "ETRADECLUB"
+}

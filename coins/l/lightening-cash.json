@@ -1,0 +1,23 @@
+{
+    "id": "lightening-cash",
+    "symbol": "lic",
+    "name": "Lightening Cash",
+    "platforms": {
+        "binance-smart-chain": "0x3e900195b93423b8e7bddd63d1d51c02fd18ccdf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Lightening Cash is a protocol run on Binance Smart Chain, aiming to provide privacy protection of individual finance in DeFi applications on BSC. Lightening Cash also provides a long-term sustainable, unique design yield farming."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3e900195b93423b8e7bddd63d1d51c02fd18ccdf",
+    "url": "https://lightening.cash/",
+    "explorers": [
+        "https://bscscan.com/token/0x3e900195b93423b8e7bddd63d1d51c02fd18ccdf"
+    ],
+    "twitter": "CashLightening",
+    "telegram": "lighteningcash",
+    "github_org": "LighteningCash"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "obr",
+    "symbol": "obr",
+    "name": "OBR",
+    "platforms": {
+        "ethereum": "0x595643d83b35df38e29058976c04000acfa31570",
+        "binance-smart-chain": "0xe49ed1b44117bb7379c1506cf5815ae33089e1a7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The 1st Role Playing (RP) NFT Cards on both Blockchains - #BSC & #ETH"
+    },
+    "country_origin": "BZ",
+    "genesis_date": null,
+    "contract_address": "0x595643d83b35df38e29058976c04000acfa31570",
+    "url": "https://nftobr.com",
+    "explorers": [
+        "https://etherscan.io/token/0x595643d83b35df38e29058976c04000acfa31570",
+        "https://ethplorer.io/address/0x595643d83b35df38e29058976c04000acfa31570",
+        "https://bscscan.com/token/0xe49ed1b44117bb7379c1506cf5815ae33089e1a7"
+    ],
+    "twitter": "NFTOBR",
+    "telegram": "NftObr"
+}

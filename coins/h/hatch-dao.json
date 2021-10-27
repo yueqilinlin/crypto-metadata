@@ -1,0 +1,24 @@
+{
+    "id": "hatch-dao",
+    "symbol": "hatch",
+    "name": "Hatch DAO",
+    "platforms": {
+        "ethereum": "0x6f3009663470475f0749a6b76195375f95495fcb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hatch DAO aims to be the universal repository for yield farmers, developers, and researchers to experiment with various decentralized consensus protocols within our sandbox. Users can stake, farm, vote, or create a proposal with the $HATCH token, and are rewarded for doing so."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x6f3009663470475f0749a6b76195375f95495fcb",
+    "url": "https://hatchdao.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x6f3009663470475f0749a6b76195375f95495fcb",
+        "https://ethplorer.io/address/0x6f3009663470475f0749a6b76195375f95495fcb"
+    ],
+    "twitter": "HatchDAO",
+    "telegram": "hatchdao",
+    "github_org": "HatchDAO"
+}

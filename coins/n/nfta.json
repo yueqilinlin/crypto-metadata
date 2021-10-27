@@ -1,0 +1,27 @@
+{
+    "id": "nfta",
+    "symbol": "nfta",
+    "name": "NFTA",
+    "platforms": {
+        "ethereum": "0x1847e59d9c2f30c7fe0347ba3e53da1ae8a7f0e8",
+        "binance-smart-chain": "0xb56ad791ec864a013fed8c59d2409194d56b8a28",
+        "huobi-token": "0x94fd4be39c705f707da3dfe6257bfbefff4f7f42"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NFTA is an advanced cross-chain platform provides and loan services, with a focus on high-value content NFTs. The platform will start with NFTs issued on the Binance Smart Chain network. In later phases, it will extend to accept NFTs from other blockchain networks."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x1847e59d9c2f30c7fe0347ba3e53da1ae8a7f0e8",
+    "url": "https://landing.nfta.finance/",
+    "explorers": [
+        "https://etherscan.io/address/0x1847e59d9C2f30c7fE0347BA3E53DA1ae8A7F0E8",
+        "https://ethplorer.io/address/0x1847e59d9C2f30c7fE0347BA3E53DA1ae8A7F0E8",
+        "https://etherscan.io/token/0x1847e59d9C2f30c7fE0347BA3E53DA1ae8A7F0E8"
+    ],
+    "twitter": "sotaNFTs",
+    "telegram": "sotaNFTer",
+    "github_org": "nfta-finance"
+}

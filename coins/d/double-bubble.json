@@ -1,0 +1,22 @@
+{
+    "id": "double-bubble",
+    "symbol": "dbubble",
+    "name": "Double Bubble",
+    "platforms": {
+        "binance-smart-chain": "0xda81440dd054aeafdaea1c12bccba3cc3b4470d9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DoubleBubble - The First BSC Token To Offer BTC & ETH Double-Bubble Dividend Rewards. A duel dividend token deployed on the BSC that rewards holders with the TWO BIGGEST cryptocurrencies available on the market\r\nEarn BITCOIN and ETH automatically by simply holding the DoubleBubble token, the first of its kind token on the BSC"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xda81440dd054aeafdaea1c12bccba3cc3b4470d9",
+    "url": "https://doublebubble.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xda81440Dd054AeafDAEA1C12bcCbA3CC3B4470d9"
+    ],
+    "twitter": "DoubleBubbleBSC",
+    "telegram": "DoubleBubbleToken"
+}

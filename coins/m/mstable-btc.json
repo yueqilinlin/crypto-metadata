@@ -1,0 +1,26 @@
+{
+    "id": "mstable-btc",
+    "symbol": "mbtc",
+    "name": "mStable BTC",
+    "platforms": {
+        "ethereum": "0x945facb997494cc2570096c74b5f66a3507330a1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Tokenized BTC",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "mStable\u2019s new mAsset, mBTC, unites various Bitcoin-pegged ERC20 tokens.The mBTC token can be minted with wBTC, RenBTC and sBTC, and you can redeem it for those three Bitcoin tokens. Binance\u2019s bBTC will be added next month in our first Feeder Basket. mBTC is also the first implementation in DeFi of a fully-functional meta-stablecoin producing AMM."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x945facb997494cc2570096c74b5f66a3507330a1",
+    "url": "http://mstable.org",
+    "explorers": [
+        "https://etherscan.io/token/0x945facb997494cc2570096c74b5f66a3507330a1",
+        "https://ethplorer.io/address/0x945facb997494cc2570096c74b5f66a3507330a1"
+    ],
+    "twitter": "mstable_",
+    "telegram": "mstableofficial"
+}

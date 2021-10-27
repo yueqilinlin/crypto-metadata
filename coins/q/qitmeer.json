@@ -1,0 +1,21 @@
+{
+    "id": "qitmeer",
+    "symbol": "pmeer",
+    "name": "Qitmeer",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Qitmeer is the next generation public chain based on BlockDAG which is dedicated to serving the ecosystem of Islamic Finance, ethical finance, and socially responsible investment, thereby enhancing financial inclusion and creating social impact.\r\nIn contrast to the competition model, BlockDAG\u2019s collaboration model in the mining achieves a desirable balance of typical blockchain metrics among the security, openness, fairness and scalability.\r\nQitmeer adopts a classic POW consensus and UTXO data model and designs a unique asset issuing mechanism which requires the reserve of native currency, which is in line with core ethical financial values."
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "url": "https://qitmeer.io/",
+    "explorers": [
+        "https://explorer.qitmeer.io/"
+    ],
+    "twitter": "QitmeerNetwork",
+    "facebook": "QitmeerNetwork",
+    "telegram": "HalalChainGroup",
+    "github_org": "qitmeer"
+}

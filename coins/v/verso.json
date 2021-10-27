@@ -1,0 +1,27 @@
+{
+    "id": "verso",
+    "symbol": "vso",
+    "name": "Verso",
+    "platforms": {
+        "avalanche": "0x846d50248baf8b7ceaa9d9b53bfd12d7d7fbb25a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem"
+    ],
+    "description": {
+        "en": "Verso is built for the regulated financial service industry and community-governed by its participants. It uses proprietary smart contracts to facilitate the distribution and product-specific money flow between financial service providers, regulated financial institutions, and their customers."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x846d50248baf8b7ceaa9d9b53bfd12d7d7fbb25a",
+    "url": "https://verso.finance/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a/token-transfers",
+        "https://bscscan.com/token/0x846d50248baf8b7ceaa9d9b53bfd12d7d7fbb25a"
+    ],
+    "twitter": "versofinance",
+    "facebook": "VersoFinance",
+    "telegram": "versofinance",
+    "github_org": "VersoOfficial"
+}

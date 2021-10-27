@@ -1,0 +1,24 @@
+{
+    "id": "yfpro-finance",
+    "symbol": "yfpro",
+    "name": "YFPRO Finance",
+    "platforms": {
+        "ethereum": "0x0fdc5313333533cc0c00c22792bff7383d3055f2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YFPRO.Finance is an aggregator that distributes rewards across different pools.In YFPRO every farmer determines the number of days to farm."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0fdc5313333533cc0c00c22792bff7383d3055f2",
+    "url": "https://yfpro.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x0fdc5313333533cc0c00c22792bff7383d3055f2",
+        "https://ethplorer.io/address/0x0fdc5313333533cc0c00c22792bff7383d3055f2"
+    ],
+    "twitter": "yield_farm",
+    "telegram": "yield_farm",
+    "github_org": "yfprofinance"
+}

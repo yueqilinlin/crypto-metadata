@@ -1,0 +1,30 @@
+{
+    "id": "alchemy-dao",
+    "symbol": "alch",
+    "name": "AlchemyDAO",
+    "platforms": {
+        "ethereum": "0x0000a1c00009a619684135b824ba02f7fbf3a572",
+        "polygon-pos": "0x87b078cf94b188efb9d2208cae47a66ea7fea09a",
+        "arbitrum-one": "0x0e15258734300290a651fdbae8deb039a8e7a2fa"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Alchemy allows users to create a tokenized DAO for any NFT. Turn your NFTs into liquid, community controlled assets that can be traded, vote and control all your NFTs. Create funds, communities, split collections between friends and all with no coding or technical experience."
+    },
+    "country_origin": "ZA",
+    "genesis_date": null,
+    "contract_address": "0x0000a1c00009a619684135b824ba02f7fbf3a572",
+    "url": "https://alchemydao.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x0000a1c00009a619684135b824ba02f7fbf3a572",
+        "https://ethplorer.io/address/0x0000a1c00009a619684135b824ba02f7fbf3a572",
+        "https://polygonscan.com/token/0x87b078cf94b188efb9d2208cae47a66ea7fea09a",
+        "https://arbiscan.io/token/0x0e15258734300290a651fdbae8deb039a8e7a2fa"
+    ],
+    "twitter": "AlchemyDAO",
+    "telegram": "AlchemyOfficial",
+    "github_org": "AlchemyDAO"
+}

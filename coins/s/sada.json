@@ -1,0 +1,26 @@
+{
+    "id": "sada",
+    "symbol": "sada",
+    "name": "sADA",
+    "platforms": {
+        "ethereum": "0xe36e2d3c7c34281fa3bc737950a68571736880a1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synths",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Synth sADA by Synthetix\r\n\r\nTracks the price of Cardano (ADA) through price feeds supplied by an oracle."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0xe36e2d3c7c34281fa3bc737950a68571736880a1",
+    "url": "https://www.synthetix.io/tokens/",
+    "explorers": [
+        "https://etherscan.io/token/0xe36E2D3c7c34281FA3bC737950a68571736880A1",
+        "https://ethplorer.io/address/0xe36e2d3c7c34281fa3bc737950a68571736880a1"
+    ],
+    "twitter": "synthetix_io",
+    "github_org": "Synthetixio"
+}

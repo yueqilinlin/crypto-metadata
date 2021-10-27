@@ -1,0 +1,28 @@
+{
+    "id": "iungo",
+    "symbol": "ing",
+    "name": "Iungo",
+    "platforms": {
+        "ethereum": "0x24ddff6d8b8a42d835af3b440de91f3386554aa4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "Iungo will create an open source solution, which enables anyone - a cafeteria, pizzeria, beauty shop, Airbnb apartment, or even ice cream kiosk in the main square to become a local internet provider by supplying our Global Wireless Internet Network and start earning income for their service. For users it means  simple, fast internet access worldwide with their preferred network quality, security rating and pricing. No expensive roaming services. No Wi-Fi forms to fill. No passwords to enter."
+    },
+    "country_origin": "LT",
+    "genesis_date": "2018-02-01",
+    "contract_address": "0x24ddff6d8b8a42d835af3b440de91f3386554aa4",
+    "url": "https://iungo.network",
+    "explorers": [
+        "https://etherscan.io/token/0x24ddff6d8b8a42d835af3b440de91f3386554aa4",
+        "https://ethplorer.io/address/0x24ddff6d8b8a42d835af3b440de91f3386554aa4"
+    ],
+    "twitter": "IUNGOnetwork",
+    "facebook": "IUNGOnetwork",
+    "telegram": "IUNGO",
+    "reddit": "iungo/",
+    "github_org": "iungonetwork"
+}

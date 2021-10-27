@@ -1,0 +1,24 @@
+{
+    "id": "gas-cash-back",
+    "symbol": "gcbn",
+    "name": "Gas Cash Back",
+    "platforms": {
+        "ethereum": "0x15c303b84045f67156acf6963954e4247b526717"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Complete DeFi Trading Station Designed On Ethereum Manage and track your holdings on Ethereum wallet all from one place with peace of mind. Swap tokens with limit orders and earn cashback on gas fee spent.."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x15c303b84045f67156acf6963954e4247b526717",
+    "url": "https://www.gascashback.io/",
+    "explorers": [
+        "https://etherscan.io/address/0x15c303b84045f67156acf6963954e4247b526717",
+        "https://etherscan.io/token/0x15c303b84045f67156acf6963954e4247b526717",
+        "https://ethplorer.io/address/0x15c303b84045f67156acf6963954e4247b526717"
+    ],
+    "twitter": "G_cashback",
+    "telegram": "Gcashback"
+}

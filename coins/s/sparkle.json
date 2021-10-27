@@ -1,0 +1,26 @@
+{
+    "id": "sparkle",
+    "symbol": "sprkl",
+    "name": "Sparkle Loyalty",
+    "platforms": {
+        "ethereum": "0x4b7ad3a56810032782afce12d7d27122bdb96eff"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x4b7ad3a56810032782afce12d7d27122bdb96eff",
+    "url": "https://sparkleloyalty.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4b7ad3a56810032782afce12d7d27122bdb96eff",
+        "https://ethplorer.io/address/0x4b7ad3a56810032782afce12d7d27122bdb96eff"
+    ],
+    "twitter": "Sparkletoken",
+    "facebook": "Sparkletoken",
+    "telegram": "Sparklemobile",
+    "reddit": "Sparklemobile/",
+    "github_org": "Sparkleloyalty"
+}

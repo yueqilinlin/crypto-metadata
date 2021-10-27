@@ -1,0 +1,29 @@
+{
+    "id": "metadium",
+    "symbol": "meta",
+    "name": "Metadium",
+    "platforms": {
+        "ethereum": "0xde2f7766c8bf14ca67193128535e5c7454f8387c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "Metadium is a next-generation blockchain protocol designed to create a decentralized identity ecosystem. Vitalizing the concept of self-sovereign identity enables individuals to exercise total control of their own identity - managing, securing, and utilizing personal data only under the owner\u2019s consent. Metadium aims to present a future in which one can freely and conveniently use one\u2019s own identity data."
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0xde2f7766c8bf14ca67193128535e5c7454f8387c",
+    "url": "https://metadium.com",
+    "explorers": [
+        "https://explorer.metadium.com/",
+        "https://etherscan.io/token/0xde2f7766c8bf14ca67193128535e5c7454f8387c",
+        "https://ethplorer.io/address/0xde2f7766c8bf14ca67193128535e5c7454f8387c"
+    ],
+    "twitter": "metadiumg",
+    "facebook": "Metadium",
+    "telegram": "MetadiumOfficial",
+    "reddit": "metadiumprotocol/",
+    "github_org": "METADIUM"
+}

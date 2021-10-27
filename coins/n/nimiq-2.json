@@ -1,0 +1,21 @@
+{
+    "id": "nimiq-2",
+    "symbol": "nim",
+    "name": "Nimiq",
+    "platforms": {},
+    "hashing_algorithm": "Argon2d",
+    "categories": [],
+    "description": {
+        "en": "Nimiq is a browser based blockchain. It was written in Javascript ES6 and because of this, the complete blockchain runs in the browser. The main goal of Nimiq is to solve the payment solution, and to provide a browser based payment solution of sending money. They also have nearly instant transactions as well. Nimiq is a CPU only mineable coin, since it uses the Aragon2D algorithm.\r\n\r\nNimiq intends to lower barriers of entry for blockchain technology, and make it accessible for mainstream use. With an operational betanet already live, users can experience how simple it is to mine inside a browser - installation free. Nimiq is making blockchain technology as accessible as the internet, with a vision to truly decentralize the web. Current available cryptocurrencies are complicated and counterintuitive for the average person to use. True internet decentralization is impossible if access to blockchain technology is limited to only the technically oriented people. Until blockchain can be picked up with general recognition and general usage, its true power remains unrealized.\r\n\r\nNimiq originally began as an ERC20 <a href=\"https://www.coingecko.com/en/coins/ethereum\">(Ethereum)</a> token, known as NET or Nimiq Exchange Token. Nimiq held its ICO throughout June and July of 2017, and raised over 10 million USD. NET trading was enabled shortly after the ICO, and development began on the project\u2019s Github. NET was converted to NIM, the currency that is based on the Nimiq blockchain and network, on March 31st of 2018. Nimiq\u2019s wallet (Nimiq Safe) is built right into the Nimiq website, which means there is no need to download or sync a wallet application. The wallet will lead you through a setup guide, which will help backup and secure your wallet in the case of data loss. As the Nimiq wallet is based in the browser, however, erasing your cache could delete your balance \u2013 so keeping a backup is highly recommended."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://nimiq.com/",
+    "explorers": [
+        "https://nimiq.watch",
+        "https://nimiq.mopsus.com/"
+    ],
+    "twitter": "nimiq",
+    "reddit": "Nimiq/",
+    "github_org": "nimiq"
+}

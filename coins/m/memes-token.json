@@ -1,0 +1,23 @@
+{
+    "id": "memes-token",
+    "symbol": "memes",
+    "name": "Memes Token",
+    "platforms": {
+        "binance-smart-chain": "0x40b165fd5ddc75ad0bddc9add0adabff5431a975"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Memes Token is building the world's first decentralized meme sharing marketplace and social network ! \r\nWe're using the MEMES token to fuel the platform economy and as the main way of interacting with the platform."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x40b165fd5ddc75ad0bddc9add0adabff5431a975",
+    "url": "https://memestoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x40b165fd5ddc75ad0bddc9add0adabff5431a975"
+    ],
+    "twitter": "MemestokenO",
+    "telegram": "MemesTokenOfficial",
+    "reddit": "MemestokenOfficial/"
+}

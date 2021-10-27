@@ -1,0 +1,34 @@
+{
+    "id": "fetch-ai",
+    "symbol": "fet",
+    "name": "Fetch.ai",
+    "platforms": {
+        "ethereum": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
+        "binance-smart-chain": "0x031b41e504677879370e9dbcf937283a8691fa7f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem",
+        "Artificial Intelligence",
+        "Cryptocurrency",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Fetch.ai is delivering AI to the crypto economy. Autonomous Economic Agents, powered by artificial intelligence, can provide automation to decentralised finance that can serve the needs of a single user or aggregate millions of data points for on-chain oracles. These agent-based systems provide greater flexibility, speed and crypto-economic security than existing oracle networks and represent the future of decentralized finance. This technology enables creation of personalised oracles that maintain user\u2019s DeFi positions using decentralized and non-custodial protocols to increase the security and convenience of crypto asset management. The Fetch.ai network is an interchain protocol, based on the Cosmos-SDK, and uses a high-performance WASM-based smart contract language (Cosmwasm) to allow advanced cryptography and machine learning logic to be implemented on chain. This also allows the Fetch.ai network to serve as a layer-2 network for Ethereum and as an interchain bridge to the rest of the blockchain world. "
+    },
+    "country_origin": "GB",
+    "genesis_date": "2019-02-25",
+    "contract_address": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
+    "url": "https://fetch.ai/",
+    "explorers": [
+        "https://explore.fetch.ai/",
+        "https://www.mintscan.io/fetchai/",
+        "https://etherscan.io/token/0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+        "https://bscscan.com/token/0x031b41e504677879370e9dbcf937283a8691fa7f",
+        "https://ethplorer.io/address/0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85"
+    ],
+    "twitter": "fetch_ai",
+    "telegram": "fetch_ai",
+    "reddit": "FetchAI_Community/",
+    "github_org": "fetchai"
+}

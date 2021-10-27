@@ -1,0 +1,30 @@
+{
+    "id": "everid",
+    "symbol": "id",
+    "name": "Everest",
+    "platforms": {
+        "ethereum": "0xebd9d99a3982d547c5bb4db7e3b1f9f14b67eb83",
+        "binance-smart-chain": "0x953a39e0b5e92c05ee40d7d787a427855aab3a6c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Everest is a decentralized platform for a new economy, incorporating a massively scalable payment solution with a multi-currency wallet, and digital + biometric identity."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0xebd9d99a3982d547c5bb4db7e3b1f9f14b67eb83",
+    "url": "https://everest.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xebd9d99a3982d547c5bb4db7e3b1f9f14b67eb83",
+        "https://ethplorer.io/address/0xebd9d99a3982d547c5bb4db7e3b1f9f14b67eb83",
+        "https://bscscan.com/token/0x953a39e0B5E92C05eE40d7D787A427855aAB3A6C"
+    ],
+    "twitter": "EverestDotOrg",
+    "telegram": "Everestdotorg",
+    "reddit": "EverestDotOrg",
+    "github_org": "EverID"
+}

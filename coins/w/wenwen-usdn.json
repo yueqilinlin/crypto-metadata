@@ -1,0 +1,24 @@
+{
+    "id": "wenwen-usdn",
+    "symbol": "usdn",
+    "name": "WENWEN USDN",
+    "platforms": {
+        "ethereum": "0x4bc831111b480f07b7f74dbe90726f3b11201033"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The WENWEN Protocol is an algorithmic stablecoin protocol that operates via the central bank model. The ultimate goal of the WENWEN Protocol is to provide a highly scalable, decentralized algorithmic currency without collateral.\r\nUSDN is one of the stablecoins in the WENWEN protocol that is pegged to the US dollar."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4bc831111b480f07b7f74dbe90726f3b11201033",
+    "url": "https://wenwen.money/",
+    "explorers": [
+        "https://etherscan.io/token/0x4bC831111B480f07b7F74DBE90726f3b11201033",
+        "https://ethplorer.io/address/0x4bc831111b480f07b7f74dbe90726f3b11201033"
+    ],
+    "twitter": "wenwenprotocol",
+    "telegram": "wenwenprotocol",
+    "github_org": "wenwenprotocol"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "spectre-utility-token",
+    "symbol": "sxut",
+    "name": "Spectre.ai Utility Token",
+    "platforms": {
+        "ethereum": "0x2c82c73d5b34aa015989462b2948cd616a37641f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "The future of Digital Options, Forex and CFD trading is here. SPECTRE, short for speculative tokenised trading exchange, is a financial prediction market platform backed by a tokenised liquidity pool. Built on the Ethereum blockchain, SPECTRE's platform combined with the decentralised and autonomous liquidity pool owned by the token sale investors takes the broker out of the equation completely resulting in a revolutionary change in the trading world and a new level of transparency. "
+    },
+    "country_origin": "",
+    "genesis_date": "2017-12-11",
+    "contract_address": "0x2c82c73d5b34aa015989462b2948cd616a37641f",
+    "url": "http://www.spectre.ai/",
+    "explorers": [
+        "https://etherscan.io/token/0x2c82c73d5b34aa015989462b2948cd616a37641f",
+        "https://ethplorer.io/address/0x2c82c73d5b34aa015989462b2948cd616a37641f"
+    ],
+    "twitter": "SpectreAI",
+    "facebook": "spectrepage",
+    "reddit": "Spectre_ai/",
+    "github_org": "spectre-ai"
+}

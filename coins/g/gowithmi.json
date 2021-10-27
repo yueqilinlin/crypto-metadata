@@ -1,0 +1,26 @@
+{
+    "id": "gowithmi",
+    "symbol": "gmat",
+    "name": "GoWithMi",
+    "platforms": {
+        "ethereum": "0xb13de094cc5cee6c4cc0a3737bf0290166d9ca5d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "GoWithMi is building the world\u2019s first complete decentralized location-based services (DLBS) infrastructure. It aims to provide a complete trusted geospatial value exchange service for large-scale commerce from data, computing, personal terminal to commercial ecological, and making value flows multidimensional, safer and smarter. GoWithMi's geospatial consensus ecological network consists of geospatial consensus data production, spatial computing power network, self-organizing geospatial asset node, and business application sharing support platform."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xb13de094cc5cee6c4cc0a3737bf0290166d9ca5d",
+    "url": "https://www.gowithmi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xb13de094cc5cee6c4cc0a3737bf0290166d9ca5d",
+        "https://ethplorer.io/address/0xb13de094cc5cee6c4cc0a3737bf0290166d9ca5d"
+    ],
+    "twitter": "GoWithMi_GL",
+    "telegram": "GoWithMi",
+    "github_org": "GoWithMi"
+}

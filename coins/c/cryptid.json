@@ -1,0 +1,23 @@
+{
+    "id": "cryptid",
+    "symbol": "cid",
+    "name": "Cryptid",
+    "platforms": {
+        "ethereum": "0x4599836c212cd988eaccc54c820ee9261cdaac71"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The official utility token of the Crypt-id project, the first cryptocurrency for the greater esoteric community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4599836c212cd988eaccc54c820ee9261cdaac71",
+    "url": "https://crypt-id.com",
+    "explorers": [
+        "https://etherscan.io/token/0x4599836c212CD988EAccc54C820Ee9261cdaAC71",
+        "https://ethplorer.io/address/0x4599836c212CD988EAccc54C820Ee9261cdaAC71"
+    ],
+    "twitter": "GroupTartarus",
+    "telegram": "CryptidOfficial"
+}

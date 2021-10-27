@@ -1,0 +1,24 @@
+{
+    "id": "memefund",
+    "symbol": "mfund",
+    "name": "Memefund",
+    "platforms": {
+        "ethereum": "0xddaddd4f73abc3a6552de43aba325f506232fa8a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Memefund will act like a index fund.\r\nMemefund is a rebase token which rebases on the total market cap of the selected tokens (btc/eth/ada/doge)\r\n\r\nMemefund distribution happened through yield farming & staking on sanshuInu Dogpark."
+    },
+    "country_origin": "MY",
+    "genesis_date": null,
+    "contract_address": "0xddaddd4f73abc3a6552de43aba325f506232fa8a",
+    "url": "https://sanshuinufinance.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xddaddd4f73abc3a6552de43aba325f506232fa8a",
+        "https://ethplorer.io/address/0xddaddd4f73abc3a6552de43aba325f506232fa8a"
+    ],
+    "twitter": "memefundtoken",
+    "telegram": "SanshuInu",
+    "reddit": "SanshuInuToken/"
+}

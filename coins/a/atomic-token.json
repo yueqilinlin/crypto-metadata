@@ -1,0 +1,23 @@
+{
+    "id": "atomic-token",
+    "symbol": "atmc",
+    "name": "Atomic Token",
+    "platforms": {
+        "binance-smart-chain": "0x261c02c850288f56497c06f9c0a8bde718d33d2a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Atomic Token is reinventing the NFT marketplace \u2013 with a secure, smart, and easy-to-use platform disrupting the way you can display NFT collections.\r\n\r\nTheir platform will have the ability to display holders\u2019 NFT galleries and customize aspects based on their holdings.\r\n\r\nAtomic Galleries will be able to create tickets for visitors to pay using $ATMC and customize the experience."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x261c02c850288f56497c06f9c0a8bde718d33d2a",
+    "url": "https://atomictoken.net",
+    "explorers": [
+        "https://bscscan.com/token/0x261C02C850288F56497c06F9C0a8bde718d33D2a"
+    ],
+    "twitter": "AtomicTokenBSC",
+    "telegram": "atomictokenbsc",
+    "reddit": "AtomicCoin"
+}

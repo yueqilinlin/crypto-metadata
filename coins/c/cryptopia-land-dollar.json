@@ -1,0 +1,24 @@
+{
+    "id": "cryptopia-land-dollar",
+    "symbol": "cld",
+    "name": "Cryptopia Land Dollar",
+    "platforms": {
+        "binance-smart-chain": "0xb0d9bd0937720956b3f1d4cab7d54ebab1dcba7f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cryptopia Land is a blockchain based, real economy, play2earn game. \r\nPlayers participate in resource mining across different planets, designing their own mining tools. Cryptopia Land features real economy, based on CLD (Cryptopia Land Dollar)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb0d9bd0937720956b3f1d4cab7d54ebab1dcba7f",
+    "url": "https://cryptopialand.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xb0d9bd0937720956b3f1d4cab7d54ebab1dcba7f"
+    ],
+    "twitter": "Cryptopia_Land",
+    "telegram": "cryptopia_land",
+    "reddit": "cryptopia_land/",
+    "github_org": "cryptopialand-com"
+}

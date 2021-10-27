@@ -1,0 +1,23 @@
+{
+    "id": "wrapped-fantom",
+    "symbol": "wftm",
+    "name": "Wrapped Fantom",
+    "platforms": {
+        "fantom": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+    "url": "https://fantom.foundation/",
+    "explorers": [
+        "https://ftmscan.com/token/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83"
+    ],
+    "twitter": "FantomFDN",
+    "telegram": "fantom_english",
+    "github_org": "Fantom-foundation"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "bgov",
+    "symbol": "bgov",
+    "name": "BGOV",
+    "platforms": {
+        "binance-smart-chain": "0xf8e026dc4c0860771f691ecffbbdfe2fa51c77cf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The BGOV token is an unlimited issuance token within the bZx ecosystem used to govern Binance Smart Chain protocol parameters for Binance specific assets on bZx. bZx protocol is a financial primitive for shorting, leverage, borrowing, and lending that empowers decentralized, efficient, and rent-free blockchain applications. \r\n\r\nBGOV can be staked and farmed and earns a portion of BSC fees generated through margin trading, and borrowing on the bZx network. Half of the collected fees on the BSC blockchain are distributed to BGOV stakers. The other half go towards the Insurance Fund.\r\n\r\nBGOV is also used to vote on governance proposals for Binance Smart chain protocol-specific assets.\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf8e026dc4c0860771f691ecffbbdfe2fa51c77cf",
+    "url": "https://bsc.torque.loans/",
+    "explorers": [
+        "https://bscscan.com/token/0xf8e026dc4c0860771f691ecffbbdfe2fa51c77cf"
+    ],
+    "twitter": "bzxHQ",
+    "telegram": "b0xNet",
+    "github_org": "bZxNetwork"
+}

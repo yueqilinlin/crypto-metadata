@@ -1,0 +1,27 @@
+{
+    "id": "agrello",
+    "symbol": "dlt",
+    "name": "Agrello",
+    "platforms": {
+        "ethereum": "0x07e3c70653548b04f0a75970c1f81b4cbbfb606f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Legal"
+    ],
+    "description": {
+        "en": "Agrello is an Estonian high-tech company focusing on building borderless networks of trust powered by digital identities and signatures. Agrello\u2019s products are built upon the strong digital identity, that connects the real person verification and strong authentication methods together to provide secure applications for customer on-boarding, secure transactions and electronic signatures. Agrello exists with the mandate to empower the digital economy and the people who drive it. \r\n\r\nCurrently, Agrello products are available in app stores and enable people to trust each other regardless of whether or not they have ever met in person."
+    },
+    "country_origin": "EE",
+    "genesis_date": "2017-09-06",
+    "contract_address": "0x07e3c70653548b04f0a75970c1f81b4cbbfb606f",
+    "url": "https://www.agrello.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x07e3c70653548B04f0A75970C1F81B4CBbFB606f",
+        "https://ethplorer.io/address/0x07e3c70653548b04f0a75970c1f81b4cbbfb606f"
+    ],
+    "twitter": "agrelloapp",
+    "facebook": "agrellofoundation",
+    "reddit": "agrello",
+    "github_org": "Agrello"
+}

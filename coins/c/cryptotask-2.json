@@ -1,0 +1,25 @@
+{
+    "id": "cryptotask-2",
+    "symbol": "ctask",
+    "name": "CryptoTask",
+    "platforms": {
+        "ethereum": "0x196c81385bc536467433014042788eb707703934"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CryptoTask is a decentralized freelancing platform, it connects clients and freelancers in an effective way, enabling people to work safer and earn more than on centralized platforms. "
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x196c81385bc536467433014042788eb707703934",
+    "url": "https://about.cryptotask.org",
+    "explorers": [
+        "https://etherscan.io/token/0x196c81385bc536467433014042788eb707703934",
+        "https://ethplorer.io/address/0x196c81385bc536467433014042788eb707703934"
+    ],
+    "twitter": "ct_task",
+    "telegram": "cryptotaskofficial",
+    "reddit": "https://www.reddit.com",
+    "github_org": "vkajic"
+}

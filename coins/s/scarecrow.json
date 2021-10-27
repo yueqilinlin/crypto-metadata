@@ -1,0 +1,22 @@
+{
+    "id": "scarecrow",
+    "symbol": "scare",
+    "name": "ScareCrow",
+    "platforms": {
+        "fantom": "0x46e1ee17f51c52661d04238f1700c547de3b84a1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "New yieldfarming project aimed at rewards with deposit rates powered by fantom.\r\n\r\nOur focus is to maintain a healthy, safe and sustainable income.\r\n\r\nUsers may stake their favorite crypto assets on Fantom in order to earn our core ecosystem token, SCARE."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x46e1ee17f51c52661d04238f1700c547de3b84a1",
+    "url": "https://app.scarecrow.fi/",
+    "explorers": [
+        "https://ftmscan.com/token/0x46e1ee17f51c52661d04238f1700c547de3b84a1"
+    ],
+    "twitter": "scarecrowdefi",
+    "telegram": "scarecrowfinance"
+}

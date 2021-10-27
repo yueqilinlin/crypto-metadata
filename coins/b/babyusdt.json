@@ -1,0 +1,23 @@
+{
+    "id": "babyusdt",
+    "symbol": "babyusdt",
+    "name": "BabyUSDT",
+    "platforms": {
+        "binance-smart-chain": "0x8dc1942e2089e711725eda66ab06650035475441"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BabyUSDT is called to be the next giant in the crypto token space. \r\n\r\n12% of every buy/sell is taken and redistributed to all Holders. Hold $BabyUSDT and earn USDT."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8dc1942e2089e711725eda66ab06650035475441",
+    "url": " https://babyusdt.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x8dc1942e2089e711725eda66ab06650035475441"
+    ],
+    "twitter": "BabyUSDToken",
+    "telegram": "BabyUSDToken",
+    "reddit": "BabyUSDT/"
+}

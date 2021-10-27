@@ -1,0 +1,27 @@
+{
+    "id": "orion-protocol",
+    "symbol": "orn",
+    "name": "Orion Protocol",
+    "platforms": {
+        "ethereum": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "DaoMaker Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Orion is a DeFi platform providing B2B + B2C solutions for liquidity. It aims to solve the the largest problems in DeFi by aggregating the liquidity of the entire crypto market into one decentralized platform \u2013 pulling from every major centralized exchange, decentralized exchange, and swapping pool. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",
+    "url": "https://www.orionprotocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",
+        "https://ethplorer.io/address/0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a"
+    ],
+    "twitter": "orion_protocol",
+    "telegram": "orionprotocol",
+    "github_org": "orionprotocol"
+}

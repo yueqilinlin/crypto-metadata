@@ -1,0 +1,23 @@
+{
+    "id": "tacos",
+    "symbol": "taco",
+    "name": "Tacos",
+    "platforms": {
+        "ethereum": "0x00d1793d7c3aae506257ba985b34c76aaf642557"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x00d1793d7c3aae506257ba985b34c76aaf642557",
+    "url": "https://www.taconomics.io",
+    "explorers": [
+        "https://etherscan.io/token/0x00D1793D7C3aAE506257Ba985b34C76AaF642557",
+        "https://ethplorer.io/address/0x00d1793d7c3aae506257ba985b34c76aaf642557"
+    ],
+    "twitter": "taconomics101",
+    "telegram": "TacoGram"
+}

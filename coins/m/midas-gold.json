@@ -1,0 +1,23 @@
+{
+    "id": "midas-gold",
+    "symbol": "mdg",
+    "name": "Midas Gold",
+    "platforms": {
+        "binance-smart-chain": "0xc1edcc306e6faab9da629efca48670be4678779d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The golden incentive plan for Midas economy on Binance Smart Universe"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc1edcc306e6faab9da629efca48670be4678779d",
+    "url": "https://midasgold.network",
+    "explorers": [
+        "https://bscscan.com/token/0xc1edcc306e6faab9da629efca48670be4678779d"
+    ],
+    "twitter": "MidasGoldFi",
+    "telegram": "midasprotocolglobal",
+    "github_org": "MidasCore"
+}

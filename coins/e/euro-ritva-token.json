@@ -1,0 +1,21 @@
+{
+    "id": "euro-ritva-token",
+    "symbol": "eurt",
+    "name": "Euro Ritva Token",
+    "platforms": {
+        "tron": "TFuXzZgaxrrD64FFm9qrgErEh7Si3qew1u"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ritva is buiilding RVChain, a scaleout-blockchain platform that takes advantage of a trusted execution environment to offer confidentiality protection for transactions, and scale the throughput of the network in proportion with the number of network participants by supporting parallel shadow chains. EURT is a native token of RVChain once its mainnet is live."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "TFuXzZgaxrrD64FFm9qrgErEh7Si3qew1u",
+    "url": "https://ritva.com/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TFuXzZgaxrrD64FFm9qrgErEh7Si3qew1u"
+    ],
+    "github_org": "ritvaofficial"
+}

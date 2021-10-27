@@ -1,0 +1,23 @@
+{
+    "id": "safelaunch",
+    "symbol": "sfex",
+    "name": "SafeLaunch",
+    "platforms": {
+        "binance-smart-chain": "0x5392ff4a9bd006dc272c1855af6640e17cc5ec0b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Community VC and cross-chain BSC project incubator."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5392ff4a9bd006dc272c1855af6640e17cc5ec0b",
+    "url": "https://safelaunch.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x5392Ff4a9BD006DC272C1855af6640e17Cc5ec0B"
+    ],
+    "twitter": "Safelaunch1",
+    "telegram": "SafeLaunch_IO",
+    "github_org": "Safelaunch-io"
+}

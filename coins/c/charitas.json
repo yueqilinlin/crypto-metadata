@@ -1,0 +1,24 @@
+{
+    "id": "charitas",
+    "symbol": "char",
+    "name": "Charitas",
+    "platforms": {
+        "binance-smart-chain": "0x6466849a30247d90f0c228a6c4b6b106ff18cab9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Charitas is a community-driven protocol that is revolutionizing the way we fund charities. Our native token is built with simple tokenomics: static rewards, charity donations, automatic LP, and token burns. Investing in Charitas allows holders to govern our upcoming donation platform. Charitas is designed with real-world purpose to ensure the longevity and growth of the protocol. \r\n\r\nIn development: Charitas Voting Application, NFT Marketplace, Charitas Foundation and Charitas Launchpad."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x6466849a30247d90f0c228a6c4b6b106ff18cab9",
+    "url": "https://www.charitas.fund/",
+    "explorers": [
+        "https://bscscan.com/token/0x6466849a30247d90f0c228a6c4b6b106ff18cab9"
+    ],
+    "twitter": "charitasfund",
+    "telegram": "charitasfund",
+    "reddit": "Charitas/",
+    "github_org": "Charitas-Fund"
+}

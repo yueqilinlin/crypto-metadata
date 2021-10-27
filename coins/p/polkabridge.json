@@ -1,0 +1,30 @@
+{
+    "id": "polkabridge",
+    "symbol": "pbr",
+    "name": "PolkaBridge",
+    "platforms": {
+        "ethereum": "0x298d492e8c1d909d3f63bc4a36c66c64acb3d695",
+        "polygon-pos": "0x0d6ae2a429df13e44a07cd2969e085e4833f64a0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Harmony Ecosystem",
+        "Launchpad",
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "PolkaBridge is a decentralized all-in-one application platform.\r\nOne of PolkaBridge\u2019s most noticeable product is PolkaBridge DEX - a decentralized exchange that allows users to swap tokens on Polkadot to other ones on other blockchain platforms without any centralized organizations. In addition, with the smart deflationary farming mechanism, liquidity providers can earn more rewards than they think.\r\nIn future, we will launch Lending, Launchpad, Predict and more to scale up ecosystem."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x298d492e8c1d909d3f63bc4a36c66c64acb3d695",
+    "url": "https://polkabridge.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x298d492e8c1d909d3f63bc4a36c66c64acb3d695",
+        "https://ethplorer.io/address/0x298d492e8c1d909d3f63bc4a36c66c64acb3d695",
+        "https://polygonscan.com/token/0x0d6ae2a429df13e44a07cd2969e085e4833f64a0"
+    ],
+    "twitter": "realpolkabridge",
+    "telegram": "polkabridgegroup",
+    "github_org": "cyclese96"
+}

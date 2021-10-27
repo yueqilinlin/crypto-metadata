@@ -1,0 +1,23 @@
+{
+    "id": "love-coin",
+    "symbol": "love",
+    "name": "LOVE Coin",
+    "platforms": {
+        "stellar": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LOVE Coin is a sharing coin. Love connects us all. Let us provide you with the love cryptocurrency that enables you to share love with your family, friends, and dear ones. You can share them, spend them, donate them and each time you do so you get rewarded with cashback in LOVE Coins"
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "url": "https://lovecoin.life",
+    "explorers": [
+        "https://stellar.expert/explorer/public/asset/LOVE-GCLEW3MLTF35AM3GK6LOCAFS4ETKNGHN5IWU23I3IGOSK7IYWYWAB3GS?order=desc"
+    ],
+    "twitter": "LOVECoin12",
+    "facebook": "lovecoinlife",
+    "telegram": "lovecoincomunity",
+    "github_org": "LoveCoin12"
+}

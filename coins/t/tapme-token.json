@@ -1,0 +1,23 @@
+{
+    "id": "tapme-token",
+    "symbol": "tap",
+    "name": "TAPME Token",
+    "platforms": {
+        "binance-smart-chain": "0xb229c47132d42576a15037a2931f9edd01ac0c2a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TAPME is not only for fun, it can earn you money\r\nPlay-to-earn with staking system and active market, every activities in TAPME can bring player award with token"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb229c47132d42576a15037a2931f9edd01ac0c2a",
+    "url": "https://tapme.pet/",
+    "explorers": [
+        "https://bscscan.com/token/0xb229c47132d42576a15037a2931f9edd01ac0c2a"
+    ],
+    "twitter": "Pet_Tapme",
+    "telegram": "Tapmeofficial",
+    "github_org": "homecity-io"
+}

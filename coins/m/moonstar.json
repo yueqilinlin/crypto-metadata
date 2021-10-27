@@ -1,0 +1,23 @@
+{
+    "id": "moonstar",
+    "symbol": "moonstar",
+    "name": "MoonStar",
+    "platforms": {
+        "binance-smart-chain": "0xce5814efff15d53efd8025b9f2006d4d7d640b9b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Experience the next generation of cryptocurrency token that automatically rewards you for holding."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xce5814efff15d53efd8025b9f2006d4d7d640b9b",
+    "url": "https://moonstartoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xce5814efff15d53efd8025b9f2006d4d7d640b9b"
+    ],
+    "twitter": "MoonStarToken",
+    "telegram": "moonstarchat",
+    "reddit": "MoonStarOfficial/"
+}

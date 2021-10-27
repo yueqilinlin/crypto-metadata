@@ -1,0 +1,24 @@
+{
+    "id": "squeeze-token",
+    "symbol": "SQUEEZE",
+    "name": "Squeeze Token",
+    "platforms": {
+        "ethereum": "0xabd4dc8fde9848cbc4ff2c0ee81d4a49f4803da4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Squeeze token was birthed from a serious problem most crypto investors face when investing in small cap crypto projects. This is the abandoning; rug pull and speculation of their investment. Our unique utilities were conceived with the vision to help prevent investors from losing their investments to obvious unsafe investments. We also aim to help keep their investment sound by keeping them aware of any suspicious wallet activity.\r\n\r\nEveryday new projects are being created by people who are copying and pasting contracts.\r\nThese contracts are leading to more and more rug pulls\r\n\r\nThese rug pulls are causing new investors to be pushed away from cryptocurrency and as there is no industry standard for safe investments, we can work together to create one.\r\n\r\nThe Squeeze token will fix these problems by providing a DAPP that will scan contracts for common code used in unsafe small cap crypto investments. We will also create a DAPP that will alert investors of speculative wallet activity.\r\n\r\nIn addition to this, we will help equip investors and new projects with all the tools they need to help their project succeed."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xabd4dc8fde9848cbc4ff2c0ee81d4a49f4803da4",
+    "url": "https://squeezetoken.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xabd4dc8fde9848cbc4ff2c0ee81d4a49f4803da4",
+        "https://ethplorer.io/address/0xabd4dc8fde9848cbc4ff2c0ee81d4a49f4803da4"
+    ],
+    "twitter": "squeezetoken ",
+    "telegram": "squeezetoken",
+    "github_org": "jajones10s"
+}

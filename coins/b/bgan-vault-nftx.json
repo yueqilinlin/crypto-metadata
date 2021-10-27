@@ -1,0 +1,25 @@
+{
+    "id": "bgan-vault-nftx",
+    "symbol": "bgan",
+    "name": "BGAN Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xc3b5284b2c0cfa1871a6ac63b6d6ee43c08bdc79"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "BGAN Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc3b5284b2c0cfa1871a6ac63b6d6ee43c08bdc79",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xc3B5284B2c0cfa1871a6ac63B6d6ee43c08BDC79",
+        "https://ethplorer.io/address/0xc3b5284b2c0cfa1871a6ac63b6d6ee43c08bdc79"
+    ],
+    "twitter": "nftx_"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "mbm-token",
+    "symbol": "mbm",
+    "name": "MBM Token",
+    "platforms": {
+        "ethereum": "0x281f5b914b0d589f8193cd5e711c6920874e00c8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "The MBM Token is an operational CeFI to DeFI bridge.\r\nMBM is a decentralized protocol for the issuance of decentralized structured investment products built on the Ethereum network."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x281f5b914b0d589f8193cd5e711c6920874e00c8",
+    "url": "https://mbm.foundation",
+    "explorers": [
+        "https://etherscan.io/token/0x281f5b914b0d589f8193cd5e711c6920874e00c8",
+        "https://ethplorer.io/address/0x281f5b914b0d589f8193cd5e711c6920874e00c8"
+    ],
+    "twitter": "mbm_foundation",
+    "facebook": "mobilumcom",
+    "telegram": "MBMFoundation",
+    "github_org": "MBMFoundation"
+}

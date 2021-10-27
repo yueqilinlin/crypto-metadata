@@ -1,0 +1,24 @@
+{
+    "id": "compound-yearn-finance",
+    "symbol": "cyfi",
+    "name": "cYFI",
+    "platforms": {
+        "ethereum": "0x80a2ae356fc9ef4305676f7a3e2ed04e12c33946"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x80a2ae356fc9ef4305676f7a3e2ed04e12c33946",
+    "url": "https://compound.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x80a2ae356fc9ef4305676f7a3e2ed04e12c33946",
+        "https://ethplorer.io/address/0x80a2ae356fc9ef4305676f7a3e2ed04e12c33946"
+    ],
+    "twitter": "compoundfinance",
+    "reddit": "Compound/",
+    "github_org": "compound-finance"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "xtg-world",
+    "symbol": "xtg",
+    "name": "XTG World",
+    "platforms": {
+        "tron": "TU4rsifw9xRuwK12zbUgiKK8tRs4NnFVqj"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XTG COIN was created base on TRC \u2013 20 (Tron network). XTG COIN is a decentralized, peer-to-peer digital currency that enables you to easily send money online. Think of it as \"the internet currency.\""
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "TU4rsifw9xRuwK12zbUgiKK8tRs4NnFVqj",
+    "url": "https://xtgworld.com/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TU4rsifw9xRuwK12zbUgiKK8tRs4NnFVqj"
+    ],
+    "twitter": "coinxtg",
+    "facebook": "XTGCOIN",
+    "telegram": "XTGcoin",
+    "github_org": "Xtradingglobal"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "alphr",
+    "symbol": "alphr",
+    "name": "Alphr",
+    "platforms": {
+        "ethereum": "0xaa99199d1e9644b588796f3215089878440d58e0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Alphr is a decentralized social trading platform with automated mirror trading"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaa99199d1e9644b588796f3215089878440d58e0",
+    "url": "https://www.alphr.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xaa99199d1e9644b588796F3215089878440D58e0",
+        "https://ethplorer.io/address/0xaa99199d1e9644b588796F3215089878440D58e0"
+    ],
+    "twitter": "AlphrFinance",
+    "telegram": "alphrfinance"
+}

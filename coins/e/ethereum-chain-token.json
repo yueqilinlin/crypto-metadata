@@ -1,0 +1,21 @@
+{
+    "id": "ethereum-chain-token",
+    "symbol": "ect",
+    "name": "Ethereum Chain Token",
+    "platforms": {
+        "ethereum": "0x59d71082d8a5b18ebc6b653ae422ac4383cd2597"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Our aim is to be a community token, our ethos is simple, hold and be rewarded. Each transaction has a 10% fee with 5% being redistributed to holders and the other 5% going to the liquidity pool to keep a steady price. We have used celebrity endorsements to build a telegram community of almost 7000 members and over 10k followers on our instagram. We have seen a 1000% increase on our first hour of launch and have locked liquidity for 6 months."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x59d71082d8a5b18ebc6b653ae422ac4383cd2597",
+    "url": "https://ethereumchaintoken.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x59d71082d8a5b18ebc6b653ae422ac4383cd2597",
+        "https://ethplorer.io/address/0x59d71082d8a5b18ebc6b653ae422ac4383cd2597"
+    ]
+}

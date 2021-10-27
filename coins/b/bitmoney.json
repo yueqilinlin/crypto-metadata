@@ -1,0 +1,21 @@
+{
+    "id": "bitmoney",
+    "symbol": "bit",
+    "name": "BitMoney",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "A cryptocurrency aimed at bringing cryptocurrency into the real-world, through education and innovative blockchain projects."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://www.bitmoney.ws",
+    "explorers": [
+        "https://bit.ccore.online/"
+    ],
+    "twitter": "BitMoney6",
+    "github_org": "CryptVenture"
+}

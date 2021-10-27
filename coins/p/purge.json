@@ -1,0 +1,22 @@
+{
+    "id": "purge",
+    "symbol": "purge",
+    "name": "Purge",
+    "platforms": {
+        "binance-smart-chain": "0x0c47a358174ea54a9b8955dfcd35c34c8e81305a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Purge is apart of of the Redrum ecosystem. Purge is the first auto-claim token of the ecosystem, so all you need to do is hold $PURGE and you will actually earn $BNB while you sleep!"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x0c47a358174ea54a9b8955dfcd35c34c8e81305a",
+    "url": "https://ghostface.finance/purge/",
+    "explorers": [
+        "https://bscscan.com/token/0x0c47a358174ea54a9b8955dfcd35c34c8e81305a"
+    ],
+    "twitter": "GhostfaceBSC",
+    "telegram": "ghostfacecommunity"
+}

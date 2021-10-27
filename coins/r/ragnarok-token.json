@@ -1,0 +1,23 @@
+{
+    "id": "ragnarok-token",
+    "symbol": "rok",
+    "name": "Ragnarok Token",
+    "platforms": {
+        "binance-smart-chain": "0x1717cc260bacb7841b37fed8d06846101b31e5c8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "In Norse mythology, Ragnarok is the battle at the end of the world. For us, Ragnarok is the end of scam tokens and rugpulls."
+    },
+    "country_origin": "UA",
+    "genesis_date": null,
+    "contract_address": "0x1717cc260bacb7841b37fed8d06846101b31e5c8",
+    "url": "https://ragnaroktoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x1717cc260bacb7841b37fed8d06846101b31e5c8"
+    ],
+    "twitter": "Ragnarok_Token",
+    "telegram": "ragnaroktoken",
+    "reddit": "RagnarokToken/"
+}

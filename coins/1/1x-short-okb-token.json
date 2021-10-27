@@ -1,0 +1,21 @@
+{
+    "id": "1x-short-okb-token",
+    "symbol": "okbhedge",
+    "name": "1X Short OKB Token",
+    "platforms": {
+        "ethereum": "0x889bc62e94bb6902d022bb82b38f7fcd637df28c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "1X Short OKB Token (OKBHEDGE) is an ERC20 token which seeks a return that corresponds to -1 times the daily return of OKB."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x889bc62e94bb6902d022bb82b38f7fcd637df28c",
+    "url": "https://ftx.com/tokens/OKBHEDGE",
+    "explorers": [
+        "https://etherscan.io/token/0x889BC62E94bb6902D022bB82B38f7FCd637Df28C",
+        "https://ethplorer.io/address/0x889bc62e94bb6902d022bb82b38f7fcd637df28c"
+    ]
+}

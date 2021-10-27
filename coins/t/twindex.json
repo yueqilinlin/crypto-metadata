@@ -1,0 +1,25 @@
+{
+    "id": "twindex",
+    "symbol": "twx",
+    "name": "Twindex",
+    "platforms": {
+        "binance-smart-chain": "0x41171d5770c4c68686d1af042ada88a45b02f82b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synthetic Issuer"
+    ],
+    "description": {
+        "en": "Twindex is the first and only synthetic assets trading platform on the Binance Smart Chain and is also a part of the Dopple DeFi Ecosystem.  \r\n\r\nThe synthetic assets are pegged to real-world prices by using a fractional algorithmic algorithm.  The real-world prices or oracle prices are powered by Chainlink."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x41171d5770c4c68686d1af042ada88a45b02f82b",
+    "url": "https://twindex.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x41171d5770c4c68686d1af042ada88a45b02f82b"
+    ],
+    "twitter": "twindexcom",
+    "telegram": "twindex",
+    "github_org": "DoppleFinance"
+}

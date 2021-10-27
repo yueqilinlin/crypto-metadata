@@ -1,0 +1,24 @@
+{
+    "id": "parrot-protocol",
+    "symbol": "prt",
+    "name": "Parrot Protocol",
+    "platforms": {
+        "solana": "PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44",
+    "url": "https://parrot.fi/",
+    "explorers": [
+        "https://solscan.io/token/PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44"
+    ],
+    "twitter": "gopartyparrot",
+    "telegram": "gopartyparrot"
+}

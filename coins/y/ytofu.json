@@ -1,0 +1,24 @@
+{
+    "id": "ytofu",
+    "symbol": "ytofu",
+    "name": "yTOFU",
+    "platforms": {
+        "binance-smart-chain": "0xb4c20bb1c75300fa724ec3196b5d1c854a7d58a0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YTOFU token smart contract\r\nToken generated through ySOY +BNB +LP mill this token has no defined Supply.\r\nFor this reason ysoychain will burn tokens, decreasing the amount of tokens in circulation, making ysoychain tokens scarce in the market and increasing their trading value."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb4c20bb1c75300fa724ec3196b5d1c854a7d58a0",
+    "url": "https://ysoychain.farm/",
+    "explorers": [
+        "https://bscscan.com/token/0xb4c20bb1c75300fa724ec3196b5d1c854a7d58a0"
+    ],
+    "twitter": "FarmYsoy",
+    "telegram": "ysoychain",
+    "reddit": "Ysoy",
+    "github_org": "ySoyFarm"
+}

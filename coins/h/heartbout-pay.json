@@ -1,0 +1,26 @@
+{
+    "id": "heartbout-pay",
+    "symbol": "hp",
+    "name": "HeartBout Pay",
+    "platforms": {
+        "ethereum": "0x5a4b14aea23a605abc463f04a6b8aaf52dd3e7c6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "HeartBout HP token is an advertising token and it is tied directly to adimpressions in HeartBout social network app, where 1HP=10 impression. Total supply of HP token reflects the advertising capacity of the social network. "
+    },
+    "country_origin": "IE",
+    "genesis_date": null,
+    "contract_address": "0x5a4b14aea23a605abc463f04a6b8aaf52dd3e7c6",
+    "url": "https://heartbout.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x5a4b14aea23a605abc463f04a6b8aaf52dd3e7c6",
+        "https://ethplorer.io/address/0x5a4b14aea23a605abc463f04a6b8aaf52dd3e7c6"
+    ],
+    "twitter": "HeartBout",
+    "facebook": "Heartbout-1502342206487293",
+    "telegram": "heartbout"
+}

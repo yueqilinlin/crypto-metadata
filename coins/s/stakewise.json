@@ -1,0 +1,24 @@
+{
+    "id": "stakewise",
+    "symbol": "swise",
+    "name": "StakeWise",
+    "platforms": {
+        "ethereum": "0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "StakeWise is a liquid Ethereum staking protocol that tokenizes users' deposits and staking rewards as sETH2 (deposit token) and rETH2 (reward token). All tokens are mapped 1:1 to ETH in the Pool and can be used as a representation of staked Ether in the DeFi ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2",
+    "url": "https://stakewise.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2",
+        "https://ethplorer.io/address/0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2"
+    ],
+    "twitter": "stakewise_io",
+    "telegram": "stakewise_io",
+    "github_org": "stakewise"
+}

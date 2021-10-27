@@ -1,0 +1,26 @@
+{
+    "id": "polkainsure-finance",
+    "symbol": "pis",
+    "name": "Polkainsure Finance",
+    "platforms": {
+        "ethereum": "0x834ce7ad163ab3be0c5fd4e0a81e67ac8f51e00c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Insurance"
+    ],
+    "description": {
+        "en": "PolkaInsure is a decentralized P2P insurance marketplace on Polkadot Ecosystem powered by Polkadot Ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x834ce7ad163ab3be0c5fd4e0a81e67ac8f51e00c",
+    "url": "https://polkainsure.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x834ce7ad163ab3be0c5fd4e0a81e67ac8f51e00c",
+        "https://ethplorer.io/address/0x834ce7ad163ab3be0c5fd4e0a81e67ac8f51e00c"
+    ],
+    "twitter": "PolkaInsure",
+    "telegram": "polkainsure",
+    "github_org": "Polka-Insure"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "fire-lotto",
+    "symbol": "flot",
+    "name": "Fire Lotto",
+    "platforms": {
+        "ethereum": "0x049399a6b048d52971f7d122ae21a1532722285f"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "Fire Lotto is a modern blockchain lottery as simple and understandable as traditional lotteries are.  A record 70% of funds collected from ticket sales will be allocated to the prize pool. Distribution and payout procedures are transparent and supported by smart contracts."
+    },
+    "country_origin": "CY",
+    "genesis_date": "2017-12-11",
+    "contract_address": "0x049399a6b048d52971f7d122ae21a1532722285f",
+    "url": "https://firelotto.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x049399a6b048d52971f7d122ae21a1532722285f",
+        "https://ethplorer.io/address/0x049399a6b048d52971f7d122ae21a1532722285f"
+    ],
+    "twitter": "FireLottery",
+    "facebook": "firelotto",
+    "telegram": "firelotto",
+    "github_org": "firelotto"
+}

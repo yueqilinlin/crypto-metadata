@@ -1,0 +1,24 @@
+{
+    "id": "axis-defi",
+    "symbol": "axis",
+    "name": "Axis DeFi",
+    "platforms": {
+        "ethereum": "0xecc0f1f860a82ab3b442382d93853c02d6384389"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AXIS will create an open financial system by building the first dedicated DeFi superchain. With complete Wall Street trading capabilities on-chain, it will bridge various DeFi assets across blockchains. Axis DeFi is the future of open finance."
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0xecc0f1f860a82ab3b442382d93853c02d6384389",
+    "url": "https://axisdefi.com",
+    "explorers": [
+        "https://etherscan.io/token/0xecc0f1f860a82ab3b442382d93853c02d6384389",
+        "https://ethplorer.io/address/0xecc0f1f860a82ab3b442382d93853c02d6384389"
+    ],
+    "twitter": "AxisDefi",
+    "telegram": "axisdefi",
+    "github_org": "axisdefi"
+}

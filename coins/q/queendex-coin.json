@@ -1,0 +1,22 @@
+{
+    "id": "queendex-coin",
+    "symbol": "qnx",
+    "name": "QueenDex Coin",
+    "platforms": {
+        "binance-smart-chain": "0xe8a880ead4b250cd4a442d4e013133a73b0e7e53"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "QueenDex Is Crypto Currency Exchange & project with it's Own Centralized QueenDex.io Exchange and Staking Platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe8a880ead4b250cd4a442d4e013133a73b0e7e53",
+    "url": "http://QueenDex.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xe8a880ead4b250cd4a442d4e013133a73b0e7e53"
+    ],
+    "twitter": "QueenDex_io",
+    "telegram": "QueenDexCommmunity"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "yoloverse",
+    "symbol": "yolov",
+    "name": "YoloVerse",
+    "platforms": {
+        "binance-smart-chain": "0xd084c5a4a621914ed2992310024d2438dfde5bfd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The purpose of Yoloverse protocol is to enhance NFTs with DeFi aspects such as yield farming, token backing, DAO governance power and deflationary tokenomics.  Besides that, our NFTs contain gamified elements in the form of rank-based system, where people can spend YOLOV to upgrade their NFT Art and perks. Our protocol has one BEP20 token (YOLOV) and 4 different types of NFTs with their ranks: Yolonaut, Loyalty, Artifact and Speedster. Yolonaut and Loyalty NFTs are yield-generating while the Artifacts and Speedsters are utility ones.\r\n\r\nFunctional wise we provide people with alternative new form of staking to earn rewards in YOLOV. Users can interact with their NFTs through our DApp (View and claim yield), trade on marketplaces and engage in governance decisions about the protocol.\r\n\r\nOur concept and contracts are custom built from scratch with a lot of passion and time put into development, so we can provide a new and unique DeFi experience to the BSC community. We have undergone two different audits by Solidity Finance and DeFiYield."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd084c5a4a621914ed2992310024d2438dfde5bfd",
+    "url": "https://yolo-verse.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xd084c5a4a621914ed2992310024d2438dfde5bfd"
+    ],
+    "twitter": "yolo_verse",
+    "telegram": "yoloverse",
+    "github_org": "Yoloverse"
+}

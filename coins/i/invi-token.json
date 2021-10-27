@@ -1,0 +1,23 @@
+{
+    "id": "invi-token",
+    "symbol": "invi",
+    "name": "INVI Token",
+    "platforms": {
+        "ethereum": "0x356a5160f2b34bc8d88fb084745465ebbbed0174"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "INVI tokens will serve as a means of payment, exchange and rewards available on the Invitree platform, and INVI tokens are required to use the INVI platform. Luxury brands and producers record information about their products on the blockchain and earn token rewards. The business that distributes luxury goods checks the movement/delivery during the distribution process, and the seller records the transaction record of the sale to obtain token rewards. Consumers can receive token rewards by verifying purchase records within the platform."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x356a5160f2b34bc8d88fb084745465ebbbed0174",
+    "url": "https://www.invitree.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x356A5160F2B34BC8d88FB084745465eBBbed0174",
+        "https://ethplorer.io/address/0x356A5160F2B34BC8d88FB084745465eBBbed0174"
+    ],
+    "telegram": "invitreeofficial",
+    "github_org": "invitree"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "playdapp",
+    "symbol": "pla",
+    "name": "PlayDapp",
+    "platforms": {
+        "ethereum": "0x3a4f40631a4f906c2bad353ed06de7a5d3fcb430",
+        "polygon-pos": "0x8765f05adce126d70bcdf1b0a48db573316662eb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "PlayDapp token (PLA) is a digital asset used within the PlayDapp Blockchain gaming ecosystem to purchase and trade NFT items within games and with the global C2C marketplace 'playdapp.com'."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x3a4f40631a4f906c2bad353ed06de7a5d3fcb430",
+    "url": "https://playdapp.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3a4f40631a4f906c2BaD353Ed06De7A5D3fCb430",
+        "https://ethplorer.io/address/0x3a4f40631a4f906c2BaD353Ed06De7A5D3fCb430",
+        "https://polygonscan.com/token/0x8765f05adce126d70bcdf1b0a48db573316662eb"
+    ],
+    "twitter": "playdapp_io",
+    "facebook": "playdapp.io",
+    "telegram": "playdapp_official",
+    "github_org": "playdapp"
+}

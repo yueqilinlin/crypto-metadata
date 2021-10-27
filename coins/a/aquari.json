@@ -1,0 +1,25 @@
+{
+    "id": "aquari",
+    "symbol": "aquari",
+    "name": "Aquari",
+    "platforms": {
+        "binance-smart-chain": "0x6500197a2488610aca288fd8e2dfe88ec99e596c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Aquari is a community driven token which goal is to save our oceans and marine life. 3% of each trade is going towards charity wallet which is then donated to environmental organizations of peoples choice."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x6500197a2488610aca288fd8e2dfe88ec99e596c",
+    "url": "https://aquari.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x6500197a2488610aca288fd8e2dfe88ec99e596c"
+    ],
+    "twitter": "AquariOfficial",
+    "facebook": "AquariOfficial",
+    "telegram": "aquariofficial",
+    "reddit": "Aquari/",
+    "github_org": "ShadySand"
+}

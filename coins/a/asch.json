@@ -1,0 +1,24 @@
+{
+    "id": "asch",
+    "symbol": "xas",
+    "name": "Asch",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "ASCH is a new generation block chain innovation application development platform based on side chain structure which is efficient, flexible, safe, low-cost and reused. With the use of JavaScript as its application programming language, the platform makes use of relational databases to store data, drawing similarities between developing a DAPP and developing a traditional web application. This type of platform carries a great deal of appeal to developers, as well as small and medium enterprises, since its ease of use results in greater productivity, fuelling and facilitating a more prosperous ecosystem in the process. ASCH is open in design and is not limited to any particular niche market such as news aggregation, the issue of assets, arbitration, the existence of certificate, property rights certification, the Internet of things, supply chain finance, asset digitization, commodity tracing, prepaid card system, block chain contract deposit etc. In terms of the consensus mechanism, ASCH has inherited and enhanced the DPOS algorithm, simultaneously reducing the probability of forking and double spending by a significant degree. Furthermore, ASCH\u2019S side chain, i.e. the application mode, not only improves scalability by delaying the expansion of the block chain, but also makes DAPPS more flexible and personalized. ASCH is a forward-looking, low-cost and one-stop application solution, which is believed to be a new generation of incubator for decentralized applications. Adhering to the values of enterprise accomplishments, innovation leading, technology belief and embracing future, ASCH is devoted to building a global commercial block chain application ecosystem, which is not only using block chain technology to empower various industries, but also being the base of the world class economy.\r\n\r\nThe services provided by the ASCH platform include a public chain and a set of application SDKs; the public chain is called the main chain. The ASCH application SDKs can be used to develop blockchain applications with a free-running, immutable ledger. These applications are also known as side chain applications. An application SDK has a built-in cross-chain protocol, through which the side chain can communicate with the main chain. In other words, the main chain has the function of asset routing, through which a variety of assets can flow among different applications. ASCH\u2019s ecological system contains multiple chains, with each chain possessing the ability to carry multiple tokens or assets. Each token or asset can also be transferred to multiple chains."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.asch.io/",
+    "explorers": [
+        "https://explorer.asch.io/"
+    ],
+    "twitter": "Asch_io",
+    "facebook": "AschHQ",
+    "telegram": "Asch_En",
+    "reddit": "Asch_Platform/",
+    "github_org": "AschPlatform"
+}

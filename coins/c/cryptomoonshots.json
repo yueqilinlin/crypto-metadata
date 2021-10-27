@@ -1,0 +1,23 @@
+{
+    "id": "cryptomoonshots",
+    "symbol": "cms",
+    "name": "CryptoMoonShots",
+    "platforms": {
+        "ethereum": "0x1f22ad99c334e6689bae751cc225bcc38fe54f82"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cryptomoonshots DAO is a token permissioned decentralized autonomous organization where members share their knowledge and insights on cryptocurrency projects. The CMS tokens provides membership and voting rights to its holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1f22ad99c334e6689bae751cc225bcc38fe54f82",
+    "url": "https://moonshotsdao.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1f22ad99c334e6689bae751cc225bcc38fe54f82",
+        "https://ethplorer.io/address/0x1f22ad99c334e6689bae751cc225bcc38fe54f82"
+    ],
+    "twitter": "MoonShotsDAO",
+    "telegram": "moonshotsdao"
+}

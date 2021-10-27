@@ -1,0 +1,24 @@
+{
+    "id": "berry-vault-nftx",
+    "symbol": "berry",
+    "name": "BERRY Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xe944f2b46fcfc9d0e887bbeaad95268d9416d0fd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "BERRY Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe944f2b46fcfc9d0e887bbeaad95268d9416d0fd",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xe944f2b46fcfc9d0e887bbeaad95268d9416d0fd",
+        "https://ethplorer.io/address/0xe944f2b46fcfc9d0e887bbeaad95268d9416d0fd"
+    ],
+    "twitter": "nftx_"
+}

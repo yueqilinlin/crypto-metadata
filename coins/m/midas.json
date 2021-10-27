@@ -1,0 +1,23 @@
+{
+    "id": "midas",
+    "symbol": "midas",
+    "name": "Midas",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Midas.Investments is a user-friendly secure investment platform with various investment instruments, such as masternodes, proof of stake, trading bots and many more."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "url": "https://midas.investments/",
+    "explorers": [
+        "https://explorer.midas.investments/"
+    ],
+    "twitter": "midas_news",
+    "telegram": "midas_community ",
+    "reddit": "https://www.reddit.com",
+    "github_org": "mikeifomin"
+}

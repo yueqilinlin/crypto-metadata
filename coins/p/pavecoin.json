@@ -1,0 +1,22 @@
+{
+    "id": "pavecoin",
+    "symbol": "pvn",
+    "name": "Pavecoin",
+    "platforms": {
+        "binance-smart-chain": "0x87f76cda81d65d4b0983965725f598905cbca98d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Pavecoin (PVN) ecosystem features a fully scalable, decentralized, and quantum secure system for the transaction of digital currency.\r\nThe Pavecoin goal is to deliver the very best blockchain initiatives to the worldwide stage as shortly as attainable. We solely promote an undertaking that has incredible groups. Over 150,000 holders will likely be a part of the Pavecoin Neighborhood, which is able to connect with a community of 1 billion individuals looking for a bit of the following crypto tsunami."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x87f76cda81d65d4b0983965725f598905cbca98d",
+    "url": "https://pavecoins.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x87f76cda81d65d4b0983965725f598905cbca98d"
+    ],
+    "twitter": "pavecoin",
+    "telegram": "pavecoin1"
+}

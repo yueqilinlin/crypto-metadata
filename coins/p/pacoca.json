@@ -1,0 +1,27 @@
+{
+    "id": "pacoca",
+    "symbol": "pacoca",
+    "name": "Pacoca",
+    "platforms": {
+        "binance-smart-chain": "0x55671114d774ee99d653d6c12460c780a67f1d18"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "Track your DeFi assets on Binance Smart Chain with a simple interface."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x55671114d774ee99d653d6c12460c780a67f1d18",
+    "url": "https://pacoca.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x55671114d774ee99d653d6c12460c780a67f1d18"
+    ],
+    "twitter": "pacoca_io",
+    "telegram": "pacoca_io"
+}

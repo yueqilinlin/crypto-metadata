@@ -1,0 +1,25 @@
+{
+    "id": "bifrost-native-coin",
+    "symbol": "bnc",
+    "name": "Bifrost Native Coin",
+    "platforms": {
+        "polkadot": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "Bifrost is the Polkadot Ecological DeFi basic protocol. It is committed to becoming an infrastructure for pledged assets to provide liquidity. It has launched a derivative vToken for Staking and Polkadot Parachain Slot Auction (SALP). It has obtained $2.15M in fund-raising from NGC, SNZ, DFG, CMS and other institutions and Web3 Foundation Grant. It is also a member of the Substrate Builders Program and Web3 Bootcamp. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://bifrost.finance/",
+    "explorers": [
+        "https://bifrost.subscan.io/",
+        "https://dash.bifrost.finance/#/explorer"
+    ],
+    "twitter": "bifrost_finance",
+    "telegram": "bifrost_finance",
+    "github_org": "bifrost-finance"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "binamars",
+    "symbol": "bmars",
+    "name": "Binamars",
+    "platforms": {
+        "binance-smart-chain": "0x46880afc2e6fa41bbbe9787c082f7c23f795465e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Binamars is a platform that integrates NFT games and decentralized yield farm applications. Joining Binamars not only entertains you but also generates a lot of profit."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x46880afc2e6fa41bbbe9787c082f7c23f795465e",
+    "url": "https://www.binamars.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x46880afc2E6FA41bBbE9787c082f7c23F795465E"
+    ],
+    "twitter": "Binamarsbsc",
+    "telegram": "binamars"
+}

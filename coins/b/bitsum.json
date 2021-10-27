@@ -1,0 +1,21 @@
+{
+    "id": "bitsum",
+    "symbol": "mat",
+    "name": "Matka",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [],
+    "description": {
+        "en": "BITSUM is a decentralized, open source cryptocurrency that uses the CryptoNote algorithm. The main purpose of creating BITSUM is the creation of a decentralized cryptocurrency in TAS-IX. You can send and receive BITSUM without any middlemen and without interest for the transfer."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://matka.link",
+    "explorers": [
+        "http://explorer.bitsum.money/"
+    ],
+    "twitter": "bitsumcoin",
+    "facebook": "bitsummoney",
+    "telegram": "bitsum",
+    "github_org": "BitsumFoundation"
+}

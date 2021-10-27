@@ -1,0 +1,25 @@
+{
+    "id": "shadows",
+    "symbol": "dows",
+    "name": "Shadows",
+    "platforms": {
+        "ethereum": "0x661ab0ed68000491d98c796146bcf28c20d7c559"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shadows Network is a hub for issuing, trading, lending and borrowing synthetic assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x661ab0ed68000491d98c796146bcf28c20d7c559",
+    "url": "https://shadows.link/",
+    "explorers": [
+        "https://etherscan.io/token/0x661ab0ed68000491d98c796146bcf28c20d7c559",
+        "https://ethplorer.io/address/0x661ab0ed68000491d98c796146bcf28c20d7c559",
+        "https://bscscan.com/token/0xfb7400707df3d76084fbeae0109f41b178f71c02"
+    ],
+    "twitter": "shadows_defi",
+    "telegram": "Shadows_defi",
+    "github_org": "ShadowsNetwork"
+}

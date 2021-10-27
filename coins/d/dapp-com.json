@@ -1,0 +1,27 @@
+{
+    "id": "dapp-com",
+    "symbol": "dappt",
+    "name": "Dapp.com",
+    "platforms": {
+        "ethereum": "0x96184d9c811ea0624fc30c80233b1d749b9e485b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Dapp.com is an analytics-driven App Store for Decentralized Apps that allows everyone to discover, analyze and use all dapps easily. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x96184d9c811ea0624fc30c80233b1d749b9e485b",
+    "url": "https://www.dapp.com",
+    "explorers": [
+        "https://etherscan.io/token/0x96184d9c811ea0624fc30c80233b1d749b9e485b",
+        "https://ethplorer.io/address/0x96184d9c811ea0624fc30c80233b1d749b9e485b"
+    ],
+    "twitter": "dapp_com",
+    "facebook": "dappcom",
+    "telegram": "dapp_com",
+    "reddit": "dapp_com/"
+}

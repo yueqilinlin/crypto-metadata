@@ -1,0 +1,23 @@
+{
+    "id": "aircoin-2",
+    "symbol": "air",
+    "name": "AirCoin",
+    "platforms": {
+        "binance-smart-chain": "0xd8a2ae43fd061d24acd538e3866ffc2c05151b53"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Air Coin(AIR) project was issued to mock the madness of the cryptocurrency market. After buying Air Coin, you get nothing but AIR.\r\n\r\nIt was issued on Binance Smart Chain. No private placement, no crowdfunding, complete community autonomy.\r\n\r\nToken Info\r\nName: AIR\r\nSymbol: AIR\r\nDecimal: 18\r\nTotal Supply: 10000000000000000 (16 zeros)\r\nContract Address:\r\n0xd8a2ae43fd061d24acd538e3866ffc2c05151b53\r\n\r\nInitial Liquidity\r\nAll the initial AIR-BNB LP tokens have been destroyed by sending to 0x0000000000000000000000000000000000000001.\r\nIt means that all the initial liquidity was locked forever."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd8a2ae43fd061d24acd538e3866ffc2c05151b53",
+    "url": "https://aircoin.cool",
+    "explorers": [
+        "https://bscscan.com/token/0xd8a2ae43fd061d24acd538e3866ffc2c05151b53"
+    ],
+    "twitter": "Aircoinreal",
+    "telegram": "aircoinofficialgroup",
+    "github_org": "Aircoin-official"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "sparkle-coin",
+    "symbol": "sctk",
+    "name": "Sparkle Coin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A hybrid cryptocurrency possessing the best qualities of both POW & POS, providing transactability between virtual assets and traditional financial platforms."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.sparklecoin.com/",
+    "explorers": [
+        "https://explorer.sparklecoin.com/"
+    ],
+    "twitter": "sparklecoin",
+    "telegram": "SparkleCoin",
+    "github_org": "sparklecoin"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "tidal-finance",
+    "symbol": "tidal",
+    "name": "Tidal Finance",
+    "platforms": {
+        "ethereum": "0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7",
+        "polygon-pos": "0xb41ec2c036f8a42da384dde6ada79884f8b84b26"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Insurance",
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7",
+    "url": "https://tidal.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7",
+        "https://ethplorer.io/address/0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7",
+        "https://polygonscan.com/token/0xB41EC2c036f8a42DA384DDE6ADA79884F8b84b26"
+    ],
+    "twitter": "tidaldefi",
+    "telegram": "TidalGlobal",
+    "github_org": "tidalfinance"
+}

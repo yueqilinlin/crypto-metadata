@@ -1,0 +1,25 @@
+{
+    "id": "cities-vault-nftx",
+    "symbol": "cities",
+    "name": "CITIES Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xf434fc315977143c321a07406452a87ec62cb2d9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "CITIES Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf434fc315977143c321a07406452a87ec62cb2d9",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xf434Fc315977143c321A07406452a87eC62cB2D9",
+        "https://ethplorer.io/address/0xf434fc315977143c321a07406452a87ec62cb2d9"
+    ],
+    "twitter": "NFTX_"
+}

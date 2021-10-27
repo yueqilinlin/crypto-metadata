@@ -1,0 +1,23 @@
+{
+    "id": "hyperalloy",
+    "symbol": "alloy",
+    "name": "HyperAlloy",
+    "platforms": {
+        "binance-smart-chain": "0x5ef5994fa33ff4eb6c82d51ee1dc145c546065bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ALLOY is a yield farming token you earn on the HyperJump platform that can be staked to earn ALLOY + various partner tokens at the same time. Users can stake various tokens to earn ALLOY as well.\r\n\r\nPart of the HyperJump Universe."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5ef5994fa33ff4eb6c82d51ee1dc145c546065bd",
+    "url": "https://hyperjump.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0x5ef5994fa33ff4eb6c82d51ee1dc145c546065bd"
+    ],
+    "twitter": "HyperJumpBSC",
+    "telegram": "hyperjumpbsc",
+    "github_org": "HyperJump-DeFi"
+}

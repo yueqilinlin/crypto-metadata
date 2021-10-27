@@ -1,0 +1,25 @@
+{
+    "id": "protocol-finance",
+    "symbol": "pfi",
+    "name": "Protocol Finance",
+    "platforms": {
+        "ethereum": "0x7b69d465c0f9fb22affae56aa86149973e9b0966",
+        "binance-smart-chain": "0x6a9ba54f86b46900b1e4d1e6a13fb9f15f016a7f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Protocol Finance plans to build several Defi - Apps and then make these products into full-fledged projects thereby increasing the value of the Protocol Finance ecosystem."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x7b69d465c0f9fb22affae56aa86149973e9b0966",
+    "url": "https://www.protocolfinance.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7b69d465c0f9fb22affae56aa86149973e9b0966",
+        "https://ethplorer.io/address/0x7b69d465c0f9fb22affae56aa86149973e9b0966"
+    ],
+    "twitter": "Protocolfinance",
+    "telegram": "protocolfinancechat",
+    "github_org": "protocolfinance"
+}

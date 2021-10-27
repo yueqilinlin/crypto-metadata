@@ -1,0 +1,27 @@
+{
+    "id": "infinity-pad",
+    "symbol": "ipad",
+    "name": "Infinity Pad",
+    "platforms": {
+        "ethereum": "0x36ed7baad9a571b5dad55d096c0ed902188d6d3c",
+        "binance-smart-chain": "0xf07dfc2ad28ab5b09e8602418d2873fcb95e1744"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "DaoMaker Ecosystem"
+    ],
+    "description": {
+        "en": "Infinity Pad is the dominant launchpad on BSC, with built-in compliance, fiat support, audited contracts, trustless escrow, & many liquidity supporting tools.\r\n\r\nInfinity Pad is founded by market-leading KOLs, and is powered by DAO Maker's Chainmaker Kit, giving it access to 300,000+ users from day 1"
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x36ed7baad9a571b5dad55d096c0ed902188d6d3c",
+    "url": "https://infinitypad.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x36ed7baad9a571b5dad55d096c0ed902188d6d3c",
+        "https://ethplorer.io/address/0x36ed7baad9a571b5dad55d096c0ed902188d6d3c",
+        "https://bscscan.com/token/0xf07dfc2ad28ab5b09e8602418d2873fcb95e1744"
+    ],
+    "twitter": "realinfinitypad",
+    "telegram": "ipadchat"
+}

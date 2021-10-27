@@ -1,0 +1,25 @@
+{
+    "id": "tokens-of-babel",
+    "symbol": "tob",
+    "name": "Tokens of Babel",
+    "platforms": {
+        "ethereum": "0x7777770f8a6632ff043c8833310e245eba9209e6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "Tokens of Babel is a trading game on Ethereum that burns tokens whenever a new all time high is made."
+    },
+    "country_origin": "QU",
+    "genesis_date": null,
+    "contract_address": "0x7777770f8a6632ff043c8833310e245eba9209e6",
+    "url": "https://tokensofbabel.com",
+    "explorers": [
+        "https://etherscan.io/token/0x7777770f8a6632ff043c8833310e245eba9209e6",
+        "https://ethplorer.io/address/0x7777770f8a6632ff043c8833310e245eba9209e6"
+    ],
+    "twitter": "burn_the_state",
+    "telegram": "burn_the_state"
+}

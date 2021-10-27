@@ -1,0 +1,25 @@
+{
+    "id": "syscoin",
+    "symbol": "sys",
+    "name": "Syscoin",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Syscoin offers fast, low-cost tokens, assets, and (fractional) NFT\u2019s secured by Bitcoin\u2019s own hash power, decentralized consensus model, and censorship resistance. Backed by 2700 independent full nodes which participate in Syscoin\u2019s decentralized network at present, all of which archive and validate. Together they form the high-throughput relay network used by Syscoin\u2019s Z-DAG Protocol (patent pending). The platform offers the option of a permissioned L2 smart contract feature, Syscoin Notary, which is useful for regulatory compliance at scale, and much more. Its ambitious roadmap aims to define the next generation of decentralized ledger tech, leveraging Zero-Knowledge Proofs to provide the best characteristics of Bitcoin and Ethereum in a coordinated and scalable Web 3.0 platform. Syscoin has official partnerships with Binance, Blockchain Foundry, Klever, TrustToken, Komodo, Decentralized Identity Foundation (DIF), Microsoft Azure, International Token Standardization Association (ITSA), and more."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "url": "http://syscoin.org/",
+    "explorers": [
+        "https://chainz.cryptoid.info/sys/",
+        "https://sys1.bcfn.ca/"
+    ],
+    "twitter": "syscoin",
+    "facebook": "Syscoin",
+    "telegram": "Syscoin_Official",
+    "reddit": "SysCoin",
+    "github_org": "syscoin"
+}

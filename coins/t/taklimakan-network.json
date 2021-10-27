@@ -1,0 +1,27 @@
+{
+    "id": "taklimakan-network",
+    "symbol": "tan",
+    "name": "Taklimakan Network",
+    "platforms": {
+        "ethereum": "0x2c36204a0712a2a50e54a62f7c4f01867e78cb53"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Taklimakan Network is a social network based on blockchain technology. A coherent resource of the crypto community from around the world with the tools for beginners, as well as a business platform for professionals from different categories and areas. Taklimakan Network provides informational value based on the interests and preferences of users of any social groups and different spheres of activity, regardless of their level of knowledge and language. The platform was designed to create opportunities both for self-development and business, as well as for entertainment and communication."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x2c36204a0712a2a50e54a62f7c4f01867e78cb53",
+    "url": "https://taklimakan.network",
+    "explorers": [
+        "https://etherscan.io/token/0x2c36204a0712a2a50e54a62f7c4f01867e78cb53",
+        "https://ethplorer.io/address/0x2c36204a0712a2a50e54a62f7c4f01867e78cb53"
+    ],
+    "twitter": "taklimakan_net",
+    "facebook": "taklimakannetwork",
+    "telegram": "taklimakan_en",
+    "github_org": "usetech-llc"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "duckduck-token",
+    "symbol": "duck",
+    "name": "DuckDuck Token",
+    "platforms": {
+        "zilliqa": "zil1c6akv8k6dqaac7ft8ezk5gr2jtxrewfw8hc27d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Create an engaging and valuable suite of tools for the Zilliqa ecosystem. In this quarter, we have developed in-house designed NFTs"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "zil1c6akv8k6dqaac7ft8ezk5gr2jtxrewfw8hc27d",
+    "url": "https://www.duck.community/",
+    "explorers": [
+        "https://viewblock.io/zilliqa/address/zil1c6akv8k6dqaac7ft8ezk5gr2jtxrewfw8hc27d"
+    ],
+    "twitter": "zilduck",
+    "github_org": "ZilDuck"
+}

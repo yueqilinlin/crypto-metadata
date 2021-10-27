@@ -1,0 +1,22 @@
+{
+    "id": "rocket-fund",
+    "symbol": "rkt",
+    "name": "Rocket Fund",
+    "platforms": {},
+    "hashing_algorithm": "X13",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Rocket Fund was envisioned by long-term cryptocurrency investors who specifically focus on masternodes. After experiencing the frustration and disappointment of many masternode projects, our team knew that this space had a problem: steady growth was elusive. Rocket Fund takes a different approach, which solves many of the current problems that investors see. A portion of all rewards are allocated to a reserve fund, enabling Rocket Fund to avoid the problems of inflation and insufficient budget that so often hamper the growth and future of masternode projects. Instead, our reserve fund provides steady support for future growth. The fund will be trackable and fully open to the public, with a daily live feed on the company website."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://rocketblocks.org/",
+    "explorers": [
+        "http://explorer.rocketblocks.org/"
+    ],
+    "twitter": "Rocket_fund",
+    "telegram": "rocketfund",
+    "github_org": "RocketFund"
+}

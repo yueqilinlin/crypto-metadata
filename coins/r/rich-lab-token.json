@@ -1,0 +1,24 @@
+{
+    "id": "rich-lab-token",
+    "symbol": "rle",
+    "name": "Rich Lab Token",
+    "platforms": {
+        "tron": "TDXJ1dSPLsN52jhP32NvVyhQ5X265BNU5c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Our project is an e-commerce exchange, integrated with many ecosystems:\r\n1) Trade auction\r\n2) Online shopping (affiliate marketing)\r\n3) Game blockchain\r\n4) Service billing system\r\n5) Stock\r\nAll RichlabExchange ecosystems are paid for with RLE Token"
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "contract_address": "TDXJ1dSPLsN52jhP32NvVyhQ5X265BNU5c",
+    "url": "https://richlabexchange.com/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TDXJ1dSPLsN52jhP32NvVyhQ5X265BNU5c"
+    ],
+    "twitter": "Richlabexchange",
+    "facebook": "RichLabExChange",
+    "telegram": "RLEswap",
+    "github_org": "blockchainforfuture"
+}

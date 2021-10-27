@@ -1,0 +1,22 @@
+{
+    "id": "elephant-money",
+    "symbol": "elephant",
+    "name": "Elephant Money",
+    "platforms": {
+        "binance-smart-chain": "0xe283d0e3b8c102badf5e8166b73e02d96d92f688"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ELEPHANT.MONEY has been developed by Bankteller, lead developer and founder of Bankroll Network. ELEPHANT.MONEY implements a voluntary, sustainable, and permissionless global economic engine on top of the bDollar Protocol, BNB, and Bitcoin. The ELEPHANT.MONEY protocol is a 100% complete and finished product and it is designed as a cooperative with 10% dues paid out to holders over the short and long term."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xe283d0e3b8c102badf5e8166b73e02d96d92f688",
+    "url": "https://elephant.money/",
+    "explorers": [
+        "https://bscscan.com/token/0xe283d0e3b8c102badf5e8166b73e02d96d92f688"
+    ],
+    "twitter": "ElephantStatus",
+    "telegram": "elephant_money"
+}

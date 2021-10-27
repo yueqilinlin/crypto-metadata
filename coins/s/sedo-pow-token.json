@@ -1,0 +1,25 @@
+{
+    "id": "sedo-pow-token",
+    "symbol": "sedo",
+    "name": "SEDO POW TOKEN",
+    "platforms": {
+        "ethereum": "0x0f00f1696218eaefa2d2330df3d6d1f94813b38f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Sedo Pow is a document management system based on blockchain."
+    },
+    "country_origin": "ZZ",
+    "genesis_date": null,
+    "contract_address": "0x0f00f1696218eaefa2d2330df3d6d1f94813b38f",
+    "url": "http://sedocoin.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x0f00f1696218eaefa2d2330df3d6d1f94813b38f",
+        "https://ethplorer.io/address/0x0f00f1696218eaefa2d2330df3d6d1f94813b38f"
+    ],
+    "twitter": "sedocoin",
+    "github_org": "CryptoProjectDev"
+}

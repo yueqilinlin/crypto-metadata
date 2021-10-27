@@ -1,0 +1,22 @@
+{
+    "id": "comodo-coin",
+    "symbol": "cmd",
+    "name": "Comodo Coin",
+    "platforms": {
+        "binance-smart-chain": "0x8ddd62949700937458a5c6535d1ee5dbebe62b77"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Comodo Coin is all about spreading the Comodo Dragon love. The team puts community first with a competitive rewards plan for long term holders. Comodo Coin is also committed to providing its community with transparency and fairness. We prioritize our holders but we never forget that this project was born out of a genuine social purpose and it supports the Comodo Dragon rescue charities. Being part of the Comodo Coin community is rewarding in many ways!\r\nAll holders of $CMD will earn more tokens on each transaction that is automatically sent to your wallet. On top of this, $CMD is deflationary meaning the token "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8ddd62949700937458a5c6535d1ee5dbebe62b77",
+    "url": "https://comodo.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x8ddd62949700937458a5c6535d1ee5dbebe62b77"
+    ],
+    "twitter": "ComodoFinance",
+    "telegram": "ComodoCoin"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "sphynx-token",
+    "symbol": "SPHYNX",
+    "name": "Sphynx Token",
+    "platforms": {
+        "binance-smart-chain": "0x2e121ed64eeeb58788ddb204627ccb7c7c59884c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sphynx aims to provide an AIO (All-In-One) solution for trading, farming, staking and holding. The amount of trading, staking and farming platforms out there can be overwhelming and difficult to navigate.This creates a massive barrier to entry for those new to the world of crypto trading.Sphynx has taken it upon themselves to make this experience simpler, smoother and faster by wrapping everything a trader needs into one platform. So instead of swapping between 5 different platforms to manage and grow one's portfolio, Sphynx gives traders and hodlers alike the ability to remain on one and rule above them all!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2e121ed64eeeb58788ddb204627ccb7c7c59884c",
+    "url": "https://sphynxtoken.co/",
+    "explorers": [
+        "https://bscscan.com/token/0x2e121ed64eeeb58788ddb204627ccb7c7c59884c"
+    ],
+    "twitter": "sphynxswap",
+    "telegram": "sphynxswap",
+    "github_org": "SphynxSwap"
+}

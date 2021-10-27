@@ -1,0 +1,24 @@
+{
+    "id": "anime-token",
+    "symbol": "ani",
+    "name": "Anime Token",
+    "platforms": {
+        "binance-smart-chain": "0xac472d0eed2b8a2f57a6e304ea7ebd8e88d1d36f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "We create professional ANIME artwork & NFTs. ANIME Token \u00ae is a premium BSC cryptocurrency for hardcore anime-fans. Collect limited ERC1155 Waifu trading cards! Only 69.000.000 ANI in Supply."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0xac472d0eed2b8a2f57a6e304ea7ebd8e88d1d36f",
+    "url": "https://animetoken.me/",
+    "explorers": [
+        "https://bscscan.com/token/0xac472d0eed2b8a2f57a6e304ea7ebd8e88d1d36f"
+    ],
+    "twitter": "TokenAnime",
+    "telegram": "TokenAnime"
+}

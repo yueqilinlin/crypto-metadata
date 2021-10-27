@@ -1,0 +1,28 @@
+{
+    "id": "yggdrash",
+    "symbol": "yeed",
+    "name": "Yggdrash",
+    "platforms": {
+        "ethereum": "0xca2796f9f61dc7b238aab043971e49c6164df375"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "YGGDRASH is a trust-based multi-dimensional blockchains (branches) built with a vision  \u201cDigitize everything into reality\u201d and to connect everything and any blockchain networks. YGGDRASH\u2019s main-net is called STEM, and its cryptocurrency is YEED. It is a trust-based blockchain ecosystem where each branch is governed by reputation to ensure integrity."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xca2796f9f61dc7b238aab043971e49c6164df375",
+    "url": "https://yggdrash.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xca2796f9f61dc7b238aab043971e49c6164df375",
+        "https://ethplorer.io/address/0xca2796f9f61dc7b238aab043971e49c6164df375",
+        "https://mainnet.yggdrash.io/"
+    ],
+    "twitter": "YggdrashNews",
+    "facebook": "yggdrash",
+    "telegram": "yggdrash",
+    "github_org": "yggdrash"
+}

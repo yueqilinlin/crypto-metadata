@@ -1,0 +1,25 @@
+{
+    "id": "exciting-japan-coin",
+    "symbol": "xjp",
+    "name": "eXciting Japan Coin",
+    "platforms": {
+        "ethereum": "0x604026696fdb3c6720ae3049c46d59ac604dea0a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Communication"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "contract_address": "0x604026696fdb3c6720ae3049c46d59ac604dea0a",
+    "url": "https://xjp.theblog.me/",
+    "explorers": [
+        "https://etherscan.io/token/0x604026696fDB3C6720AE3049C46d59AC604dEA0A",
+        "https://ethplorer.io/address/0x604026696fDB3C6720AE3049C46d59AC604dEA0A"
+    ],
+    "twitter": "xjpcoin",
+    "telegram": "ExcitingJapanCoin"
+}

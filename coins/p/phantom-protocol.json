@@ -1,0 +1,23 @@
+{
+    "id": "phantom-protocol",
+    "symbol": "phm",
+    "name": "Phantom Protocol",
+    "platforms": {
+        "ethereum": "0x3f9bec82c776c47405bcb38070d2395fd18f89d3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The ultimate cross-chain protocol for Synthetic Asset issuance & exchange"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3f9bec82c776c47405bcb38070d2395fd18f89d3",
+    "url": "https://cfx.phm.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x3f9bec82c776c47405bcb38070d2395fd18f89d3",
+        "https://ethplorer.io/address/0x3f9bec82c776c47405bcb38070d2395fd18f89d3"
+    ],
+    "twitter": "PhantomDefi",
+    "telegram": "PhantomProtocol"
+}

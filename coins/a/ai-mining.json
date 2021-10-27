@@ -1,0 +1,22 @@
+{
+    "id": "ai-mining",
+    "symbol": "aim",
+    "name": "AI Mining",
+    "platforms": {
+        "ethereum": "0x53352e7d6620cc931c0c9318166ae2a92c1a4666"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AIM is a fully automated intelligent trading pair; a quantitative trading system that uses AI for ETH arbitrage trading."
+    },
+    "country_origin": "WS",
+    "genesis_date": null,
+    "contract_address": "0x53352e7d6620cc931c0c9318166ae2a92c1a4666",
+    "url": "https://aimining.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x53352e7d6620cc931c0c9318166ae2a92c1a4666",
+        "https://ethplorer.io/address/0x53352e7d6620cc931c0c9318166ae2a92c1a4666"
+    ],
+    "facebook": "aimining.io"
+}

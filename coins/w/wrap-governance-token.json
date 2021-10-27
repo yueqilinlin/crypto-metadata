@@ -1,0 +1,22 @@
+{
+    "id": "wrap-governance-token",
+    "symbol": "wrap",
+    "name": "WRAP Governance Token",
+    "platforms": {
+        "tezos": "KT1LRboPna9yQY9BrjtQYDS1DVxhKESK4VVd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$WRAP holders set important parameters of the protocol. WRAP is a decentralized bridge between Ethereum and Tezos. Transfer your ERC20 and ERC721 tokens from Ethereum to the Tezos blockchain and get $WRAP tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT1LRboPna9yQY9BrjtQYDS1DVxhKESK4VVd",
+    "url": "https://www.benderlabs.io",
+    "explorers": [
+        "https://tzkt.io/KT1LRboPna9yQY9BrjtQYDS1DVxhKESK4VVd/operations/"
+    ],
+    "twitter": "benderlabs_",
+    "telegram": "benderlabs"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "argon",
+    "symbol": "argon",
+    "name": "Argon",
+    "platforms": {
+        "binance-smart-chain": "0x851f7a700c5d67db59612b871338a85526752c25"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Worlds First Blockchain Based Freelancer Platform"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x851f7a700c5d67db59612b871338a85526752c25",
+    "url": "https://argon.run/",
+    "explorers": [
+        "https://bscscan.com/token/0x851f7a700c5d67db59612b871338a85526752c25"
+    ],
+    "twitter": "argonfoundation",
+    "telegram": "argoncommunity",
+    "github_org": "Argon-Foundation"
+}

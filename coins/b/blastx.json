@@ -1,0 +1,19 @@
+{
+    "id": "blastx",
+    "symbol": "bstx",
+    "name": "Blastx",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [],
+    "description": {
+        "en": "We wanted to be slightly different in how to reward investors who will support the project and for this we used a BlastX coin, being a masternode coin. The breakthroughs are as follows:\r\n1. A masternode owner will win the BlastX coin rewards every day. \r\n2. The same masternode owner will get his share of the 30% \"MN-fee-reward\" if he is eligible. To be eligible one have to run an active masternode for 60 days. \r\nThe reward will be evenly shared between the masternode owners. The reason for using the 60 day payout scheduleis to ensure the healthy life for the BlastX coin and to help maintain a stable price over a long period of time.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://blastexchange.com/",
+    "explorers": [
+        "https://explorer.blastexchange.com/"
+    ],
+    "twitter": "Blast_Exchange",
+    "github_org": "BlastX-Core"
+}

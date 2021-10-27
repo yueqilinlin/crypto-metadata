@@ -1,0 +1,23 @@
+{
+    "id": "zeppelin-dao",
+    "symbol": "zep",
+    "name": "Zeppelin Dao",
+    "platforms": {
+        "binance-smart-chain": "0x2e291e1c9f85a86d0c58ae15621aac005a8b2ead"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$ZEP is an next-gen auto-yield community token: only hold it to indefinitely receive shares of every Zeppelin transaction around the world, through the Quartermaster Fee. Liquidity is auto-locked at launch, and protocol continuously adds liquidity into the Iron Bank pool - steadly raising price floor forever.\r\n\r\nThe token builds the backbone of the Zeppelin Ecosystem that is growing to include extensive Community Governance and an IDO platform. We are a fair volunteer project: no investors, Crew tokens and Dev tokens burned at launch, rug-proof and whale-protected. Ready for the greatest adventure of our lifetimes."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2e291e1c9f85a86d0c58ae15621aac005a8b2ead",
+    "url": "https://www.zeppelindao.com",
+    "explorers": [
+        "https://bscscan.com/token/0x2E291e1c9f85a86d0C58Ae15621aaC005a8b2EAD"
+    ],
+    "twitter": "zeppelindao",
+    "telegram": "zeppelindao",
+    "github_org": "zeppelin-finance"
+}

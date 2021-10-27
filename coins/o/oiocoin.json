@@ -1,0 +1,20 @@
+{
+    "id": "oiocoin",
+    "symbol": "oioc",
+    "name": "OIOCoin",
+    "platforms": {
+        "tron": "TJurGPpZDE2oNegMtHspX2KtjHuPnaRb4J"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OIOC is a token with node dividends focusing on user contribution on social media. The original intention of this digital cryptocurrency was social platform contributions that is accessible to every user. OIOCoin, the public chain on which OIOC is based, is built on the underlying technology of TRC, making it faster, more efficient, secure and stable."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TJurGPpZDE2oNegMtHspX2KtjHuPnaRb4J",
+    "url": "http://www.oioctrc.top/",
+    "explorers": [
+        "https://tronscan.io/#/token20/TJurGPpZDE2oNegMtHspX2KtjHuPnaRb4J"
+    ]
+}

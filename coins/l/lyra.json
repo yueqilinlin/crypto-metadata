@@ -1,0 +1,20 @@
+{
+    "id": "lyra",
+    "symbol": "lyr",
+    "name": "Lyra",
+    "platforms": {},
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [],
+    "description": {
+        "en": "Lyra is a unique DeFi technology that allows merchants of any size to implement a loyalty management system using their proprietary crypto tokens. Lyra solution consists of Lyra blockchain and LoyalShopper ecommerce application.\r\n\r\nLoyalShopper application allows merchants on Shopify and other ecommerce and in-store platforms to manage their own rewards, gift cards, promotional coupons, and store credits programs based on crypto tokens maintained by Lyra network.\r\n\r\nLyra blockchain provides instant confirmations, custom tokens with targeted smart contracts, built-in decentralized reward token marketplace, NFT, DEX, and functionality required for real world financial transaction processing."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://lyra.live",
+    "explorers": [
+        "https://nebula.lyra.live/showblock"
+    ],
+    "twitter": "LYRAblockchain",
+    "telegram": "lyra_live",
+    "github_org": "LYRA-Block-Lattice"
+}

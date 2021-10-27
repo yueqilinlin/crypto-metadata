@@ -1,0 +1,22 @@
+{
+    "id": "amy-finance",
+    "symbol": "amy",
+    "name": "Amy Finance",
+    "platforms": {
+        "arbitrum-one": "0x8fbd420956fdd301f4493500fd0bcaaa80f2389c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Amy Finance is a Layer 2 based & LP-friendly Lending Protocol. It's a fair launch project without a presale and private investors. As a community-driven project, Amy Finance helps users to earn safe and high yields. By staking assets into the assembly pool, each LP/Staker will receive the interests generated from lending and leverage trading without any loss. Moreover, users can borrow assets from the pool and conduct margin trading in one app. The transaction fee will be extremely low owing to the L2 native design. The design of Amy Finance can lift the revenue and maintain the same level of fund security as the classic lending protocols do."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8fbd420956fdd301f4493500fd0bcaaa80f2389c",
+    "url": "https://amy.finance/",
+    "explorers": [
+        "https://arbiscan.io/token/0x8fbd420956fdd301f4493500fd0bcaaa80f2389c"
+    ],
+    "twitter": "amyfinance",
+    "telegram": "amyfinance"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "aurusgold",
+    "symbol": "awg",
+    "name": "AurusGOLD",
+    "platforms": {
+        "ethereum": "0x696acc2de564b48682d71d0847b3632f87c9a402"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "AurusGOLD (AWG) is a 100% gold-backed token on the Ethereum blockchain that is minted by a network of esteemed traders from the traditional gold market. Each AWG token is fully collateralized by, and redeemable for 1 gram of 99.99% gold (sourced from LBMA-accredited refineries), stored in fully audited and insured vaults. \r\n\r\nAurus Technologies, the company behind AurusGOLD (AWG), was founded in 2018 and is replicating the traditional gold market in a digital way. Aurus offers a blockchain protocol that interacts with a semi-decentralized network of gold providers, vaults and distribution channels that work in synergy to autonomously tokenize physical bullions into AurusGOLD (AWG).\r\n\r\nAurus is setting out to deliver a stable value to the crypto space, a highly liquid and global investment solution to the financial markets and ultimately, an alternative to mainstream payment methods."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x696acc2de564b48682d71d0847b3632f87c9a402",
+    "url": "https://aurus.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x696acc2de564b48682d71d0847b3632f87c9a402",
+        "https://ethplorer.io/address/0x696acc2de564b48682d71d0847b3632f87c9a402"
+    ],
+    "twitter": "AurusOfficial",
+    "telegram": "AurusOfficial ",
+    "reddit": "https://www.reddit.com",
+    "github_org": "aurus-gold"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "evergrowcoin",
+    "symbol": "EGC",
+    "name": "EverGrowCoin",
+    "platforms": {
+        "binance-smart-chain": "0xc001bbe2b87079294c63ece98bdd0a88d761434e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EverGrow Coin is a deflationary token designed to become more scarce over time. All holders of EGC will earn an 8% reward from every Buy/Sell Transaction in USDT. 3% from Every Buy/Sell Transaction is sent to Buy-Back wallet while 2% is transferred into the liquidity pool for Pancakeswap to create a stable price floor. EverGrow Ecosystem consists of NFT Lending, Marketplace, Content Subscription Platform, Staking pools & Play-to-Earn Game."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc001bbe2b87079294c63ece98bdd0a88d761434e",
+    "url": "https://evergrowcoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xC001BBe2B87079294C63EcE98BdD0a88D761434e"
+    ],
+    "twitter": "evergrowcoinEGC",
+    "telegram": "evergrowcoin",
+    "reddit": "evergrowcoin/",
+    "github_org": "Evergrowcoin"
+}

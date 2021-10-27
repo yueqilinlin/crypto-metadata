@@ -1,0 +1,28 @@
+{
+    "id": "skillchain",
+    "symbol": "ski",
+    "name": "Skillchain",
+    "platforms": {
+        "ethereum": "0x996dc5dfc819408dd98cd92c9a76f64b0738dc3d",
+        "binance-smart-chain": "0x7f692c05058f1c77c87413a0591c7a237090da00"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Education"
+    ],
+    "description": {
+        "en": "Skillchain is the ultimate protocol where universities, companies, and training companies meet to certify and to guarantee the skills permanently, thanks to the blockchain technology."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x996dc5dfc819408dd98cd92c9a76f64b0738dc3d",
+    "url": "https://en.skillchain.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x996dc5dfc819408dd98cd92c9a76f64b0738dc3d",
+        "https://ethplorer.io/address/0x996dc5dfc819408dd98cd92c9a76f64b0738dc3d"
+    ],
+    "twitter": "skillchain_io",
+    "facebook": "Skillchain",
+    "telegram": "SkillchainOFFICIAL",
+    "github_org": "Skillchain"
+}

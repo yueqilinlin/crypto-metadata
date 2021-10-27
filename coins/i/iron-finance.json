@@ -1,0 +1,21 @@
+{
+    "id": "iron-finance",
+    "symbol": "ice",
+    "name": "Iron Finance",
+    "platforms": {
+        "polygon-pos": "0x4a81f8796e0c6ad4877a51c86693b0de8093f2ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4a81f8796e0c6ad4877a51c86693b0de8093f2ef",
+    "url": "https://app.iron.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x4A81f8796e0c6Ad4877A51C86693B0dE8093F2ef"
+    ],
+    "twitter": "IronFinance"
+}

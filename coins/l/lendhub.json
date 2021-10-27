@@ -1,0 +1,23 @@
+{
+    "id": "lendhub",
+    "symbol": "lhb",
+    "name": "Lendhub",
+    "platforms": {
+        "huobi-token": "0x8f67854497218043e1f72908ffe38d0ed7f24721"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LendHub is a decentralized lending platform based on the Huobi Ecological Chain. It supports pledged lending of multiple currencies on the Heco chain. Users can obtain incentive token LHB rewards by borrowing on LendHub. LHB will serve as the hub of the LendHub platform, and realize the mutual accommodation and value transfer between Huobi ecological assets through pledged lending that supports the mutual accommodation of assets on the Huobi ecological chain."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0x8f67854497218043e1f72908ffe38d0ed7f24721",
+    "url": "https://www.lendhub.org/",
+    "explorers": [
+        "https://scan.hecochain.com/token/0x8f67854497218043e1f72908ffe38d0ed7f24721"
+    ],
+    "twitter": "LendHubDefi",
+    "telegram": "Lendhub",
+    "github_org": "lendhub"
+}

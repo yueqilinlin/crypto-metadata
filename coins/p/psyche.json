@@ -1,0 +1,27 @@
+{
+    "id": "psyche",
+    "symbol": "usd1",
+    "name": "Psyche",
+    "platforms": {
+        "ethereum": "0xf6c0aa7ebfe9992200c67e5388e4f42da49e1783"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "Psyche is designed to make the future of remittance a lot easier with the potential to attract save millions of new users from around the world and save trillions of dollars wasted in forex exchanges for both businesses and individuals."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xf6c0aa7ebfe9992200c67e5388e4f42da49e1783",
+    "url": "https://psyche.cash/",
+    "explorers": [
+        "https://etherscan.io/token/0xf6c0aA7eBFE9992200C67E5388E4F42da49E1783",
+        "https://ethplorer.io/address/0xf6c0aA7eBFE9992200C67E5388E4F42da49E1783"
+    ],
+    "twitter": "psycheusd",
+    "facebook": "psycheusd",
+    "telegram": "psycheusd",
+    "reddit": "PsycheCoin/"
+}

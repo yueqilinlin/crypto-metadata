@@ -1,0 +1,29 @@
+{
+    "id": "darwinia-commitment-token",
+    "symbol": "kton",
+    "name": "Darwinia Commitment Token",
+    "platforms": {
+        "ethereum": "0x9f284e1337a815fe77d2ff4ae46544645b20c5ff"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Artificial Intelligence"
+    ],
+    "description": {
+        "en": "KTON is a derivative commitment token of RING (Darwinia Network native token), which encourages long-term involvement. RING holders can voluntarily lock RING for 3\u201336 months and get KTON as rewards, compensating for the liquidity loss. KTON can be staked for staking rewards and obtaining voting power to participate in the governance.\r\n\r\nDarwinia Network is a decentralized heterogeneous cross-chain bridge protocol built on Substrate, serves as critical infrastructure for interoperability across the blockchain networks. Darwinia Network focuses on decentralized cross-chain token swap, exchange, and market and enables single-chain application upgrade to cross-chain version, including Defi, Game, DEX, NFT market, and more. Its vision is to build the future Internet of Tokens."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x9f284e1337a815fe77d2ff4ae46544645b20c5ff",
+    "url": "https://darwinia.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x9f284e1337a815fe77d2ff4ae46544645b20c5ff",
+        "https://crab.subscan.io/",
+        "https://ethplorer.io/address/0x9f284e1337a815fe77d2ff4ae46544645b20c5ff",
+        "https://darwinia-cc1.subscan.io/account?currency=kton"
+    ],
+    "twitter": "DarwiniaNetwork",
+    "telegram": "DarwiniaNetwork",
+    "reddit": "DarwiniaFans/",
+    "github_org": "darwinia-network"
+}

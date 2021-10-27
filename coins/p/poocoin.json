@@ -1,0 +1,23 @@
+{
+    "id": "poocoin",
+    "symbol": "poocoin",
+    "name": "PooCoin",
+    "platforms": {
+        "binance-smart-chain": "0xb27adaffb9fea1801459a1a81b17218288c097cc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "poocoin.app can chart all the tokens in your wallet on Binance Smart Chain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb27adaffb9fea1801459a1a81b17218288c097cc",
+    "url": "https://poocoin.app/",
+    "explorers": [
+        "https://bscscan.com/token/0xb27adaffb9fea1801459a1a81b17218288c097cc"
+    ],
+    "twitter": "poocoin_token",
+    "telegram": "poocointokenchat",
+    "reddit": "PooCoin/"
+}

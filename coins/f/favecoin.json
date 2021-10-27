@@ -1,0 +1,22 @@
+{
+    "id": "favecoin",
+    "symbol": "fave",
+    "name": "Favecoin",
+    "platforms": {
+        "binance-smart-chain": "0x5d6df41d39efb3b07eaf79494e35c417f9d6910b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Favecoin will enter the billion dollar education market (edtechs), NFTs marketplace and bring the crypto universe to all of Latin America!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5d6df41d39efb3b07eaf79494e35c417f9d6910b",
+    "url": "https://favecoin.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x5D6Df41D39EFB3b07eAf79494E35C417F9d6910B"
+    ],
+    "twitter": "favecoinglobal",
+    "telegram": "favecoin"
+}

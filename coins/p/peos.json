@@ -1,0 +1,22 @@
+{
+    "id": "peos",
+    "symbol": "peos",
+    "name": "pEOS",
+    "platforms": {
+        "eos": null
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "pEOS enables private and untraceable transactions on EOS. Leveraging ring signatures, ring confidential transactions and stealth addresses pEOS is truly private. It combines Monero's technology with EOS' performance."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://peos.one/",
+    "explorers": [
+        "https://bloks.io/tokens/PEOS-eos-thepeostoken"
+    ],
+    "twitter": "peos_one",
+    "telegram": "pEOSone",
+    "github_org": "peosdev"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "rugzombie",
+    "symbol": "zmbe",
+    "name": "RugZombie",
+    "platforms": {
+        "binance-smart-chain": "0x50ba8bf9e34f0f83f96a340387d1d3888ba4b3b5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bringing your rugged tokens back from the dead"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x50ba8bf9e34f0f83f96a340387d1d3888ba4b3b5",
+    "url": "https://www.rugzombie.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x50ba8bf9e34f0f83f96a340387d1d3888ba4b3b5"
+    ],
+    "twitter": "rugzombie",
+    "telegram": "rugzombie",
+    "reddit": "Rugzombie/",
+    "github_org": "Rug-Zombie"
+}

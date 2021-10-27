@@ -1,0 +1,23 @@
+{
+    "id": "biconomy-exchange-token",
+    "symbol": "bit",
+    "name": "Biconomy Exchange Token",
+    "platforms": {
+        "binance-smart-chain": "0xc864019047b864b6ab609a968ae2725dfaee808a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc864019047b864b6ab609a968ae2725dfaee808a",
+    "url": "https://www.biconomy.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xc864019047b864b6ab609a968ae2725dfaee808a"
+    ],
+    "twitter": "Biconomy_Global",
+    "telegram": "Biconomy_Global",
+    "reddit": "Biconomyexchange"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "blind-boxes",
+    "symbol": "bles",
+    "name": "Blind Boxes",
+    "platforms": {
+        "ethereum": "0xe796d6ca1ceb1b022ece5296226bf784110031cd",
+        "binance-smart-chain": "0x393d87e44c7b1f5ba521b351532c24ece253b849"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Collectibles",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "BLES is the governance token of the Blind Boxes platform. In total, only 100,000,000 $BLES will ever be minted. Out of the total supply, a minimum of 50,000,000 $BLES will be reserved for community issuance. The primary way to acquire $BLES is by participating in the Blind Boxes ecosystem. For example, players mine tokens each time they open a Blind Box. Other ways to acquire $BLES include:\r\n\u2022\tselling NFTs for $BLES\r\n\u2022\tacquiring $BLES through centralized and decentralized exchanges\r\n\u2022\treceiving a Foundation Grant as a creator\r\n\u2022\tparticipating in Blind Boxes community events\r\n\r\nThe Blind Boxes DAO allows BLES token holders to propose features and vote on the development of the platform. Through this mechanism, governance issues and key developmental decisions are decided in a distributed, transparent, and equitable manner."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0xe796d6ca1ceb1b022ece5296226bf784110031cd",
+    "url": "https://blindboxes.io",
+    "explorers": [
+        "https://etherscan.io/token/0xe796d6ca1ceb1b022ece5296226bf784110031cd",
+        "https://ethplorer.io/address/0xe796d6ca1ceb1b022ece5296226bf784110031cd"
+    ],
+    "twitter": "blindboxes_io",
+    "telegram": "blindboxes",
+    "github_org": "BlindBoxesNFT"
+}

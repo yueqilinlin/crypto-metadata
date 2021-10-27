@@ -1,0 +1,28 @@
+{
+    "id": "os",
+    "symbol": "os",
+    "name": "EthOS",
+    "platforms": {
+        "ethereum": "0xfdb29741f239a2406ae287913ef12415160378d3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform",
+        "Non-Fungible Tokens (NFT)",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "EthOS\u2014the Ethereans Operating System\u2014is an operating system for Ethereum, comprising three integrated protocols. The first is a platform for on-chain organizations, which are like DAOs, but more sophisticated and decentralized. The second is a platform for the Item token standard, which is like the evolution of the ERC1155 standard. The third is Covenants, a suite of DeFi applications built on top of the first ever on-chain AMM Aggregator.\r\n\r\nThis is the first ever completely on-chain, general-purpose platform for all governance, development and applications on Ethereum\u2014a bona fide OS. Use it for anything\u2014even if just as a base layer to code on the network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfdb29741f239a2406ae287913ef12415160378d3",
+    "url": "http://ethereansos.eth.link/",
+    "explorers": [
+        "https://etherscan.io/token/0xfdb29741f239a2406ae287913ef12415160378d3",
+        "https://ethplorer.io/address/0xfdb29741f239a2406ae287913ef12415160378d3"
+    ],
+    "twitter": "ethereansOS",
+    "github_org": "EthereansOS"
+}

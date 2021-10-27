@@ -1,0 +1,23 @@
+{
+    "id": "yearn-finance-diamond-token",
+    "symbol": "yfdt",
+    "name": "Yearn Finance Diamond Token",
+    "platforms": {
+        "ethereum": "0x1378ec93ab2b07ba5a0eaef19cf354a33f64b9fd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1378ec93ab2b07ba5a0eaef19cf354a33f64b9fd",
+    "url": "https://yfdt.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x1378ec93ab2b07ba5a0eaef19cf354a33f64b9fd",
+        "https://ethplorer.io/address/0x1378ec93ab2b07ba5a0eaef19cf354a33f64b9fd"
+    ],
+    "twitter": "YFDTToken",
+    "telegram": "yfdiamond"
+}

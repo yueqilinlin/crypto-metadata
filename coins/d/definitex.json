@@ -1,0 +1,23 @@
+{
+    "id": "definitex",
+    "symbol": "dfx",
+    "name": "Definitex",
+    "platforms": {
+        "ethereum": "0xf1f5de69c9c8d9be8a7b01773cc1166d4ec6ede2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf1f5de69c9c8d9be8a7b01773cc1166d4ec6ede2",
+    "url": "https://www.definitex.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xf1f5de69c9c8d9be8a7b01773cc1166d4ec6ede2",
+        "https://ethplorer.io/address/0xf1f5de69c9c8d9be8a7b01773cc1166d4ec6ede2"
+    ],
+    "twitter": "beyonddefinitex",
+    "telegram": "definitex2"
+}

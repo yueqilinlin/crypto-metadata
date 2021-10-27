@@ -1,0 +1,21 @@
+{
+    "id": "aave-balancer-pool-token",
+    "symbol": "abpt",
+    "name": "Aave Balancer Pool Token",
+    "platforms": {
+        "ethereum": "0x41a08648c3766f9f9d85598ff102a08f4ef84f84"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Aave Balancer Pool Token (aBPT) is the LP staking token that can be obtained for providing liquidity to the AAVE/ETH smart pool on Balancer."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x41a08648c3766f9f9d85598ff102a08f4ef84f84",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x41a08648c3766f9f9d85598ff102a08f4ef84f84",
+        "https://ethplorer.io/address/0x41a08648c3766f9f9d85598ff102a08f4ef84f84"
+    ]
+}

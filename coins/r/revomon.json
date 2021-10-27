@@ -1,0 +1,30 @@
+{
+    "id": "revomon",
+    "symbol": "revo",
+    "name": "Revomon",
+    "platforms": {
+        "ethereum": "0x155040625d7ae3e9cada9a73e3e44f76d3ed1409",
+        "binance-smart-chain": "0x155040625d7ae3e9cada9a73e3e44f76d3ed1409"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Collectibles",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming",
+        "Virtual Reality"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x155040625d7ae3e9cada9a73e3e44f76d3ed1409",
+    "url": "https://revomon.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x155040625d7ae3e9cada9a73e3e44f76d3ed1409",
+        "https://etherscan.io/token/0x155040625d7ae3e9cada9a73e3e44f76d3ed1409",
+        "https://ethplorer.io/address/0x155040625d7ae3e9cada9a73e3e44f76d3ed1409"
+    ],
+    "twitter": "RevomonVR",
+    "telegram": "revomon"
+}

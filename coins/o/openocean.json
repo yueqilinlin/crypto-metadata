@@ -1,0 +1,34 @@
+{
+    "id": "openocean",
+    "symbol": "ooe",
+    "name": "OpenOcean",
+    "platforms": {
+        "binance-smart-chain": "0x9029fdfae9a03135846381c7ce16595c3554e10a",
+        "avalanche": "0x0ebd9537a25f56713e34c45b38f421a1e7191469",
+        "polygon-pos": "0x9d5565da88e596730522cbc5a918d2a89dbc16d9",
+        "ethereum": "0x7778360f035c589fce2f4ea5786cbd8b36e5396b",
+        "ontology": "9f4650436a446f635db2db989e7ac067dcea240d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem",
+        "Polygon Ecosystem",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "OpenOcean is the world's first DeFi & CeFi full aggregator. OpenOcean's intelligent routing algorithm finds the best price and lowest slippage for traders across centralized and decentralized exchanges with no additional fees.  As one-stop entrance, we aggregate major exchanges DEXes across 5 public chains, Ethereum, Ethereum Layer 2 (Loopring), Binance Smart Chain, Solana, Polygon, Ontology, TRON, and CEX on Binance. OpenOcean will continue to support cross-chain swaps via bridges and cross-chain protocols, and more cross-chain protocols and aggregate more DeFi & CeFi products such as derivative, lending & Insurance products.\r\n\r\nThe vision of OpenOcean is to build a full aggregator for crypto trading that serves as a bridge connecting the isolated islands in the current fragmented DeFi and CeFi markets. Regardless of being a small individual investor or large institution, everyone should have the opportunity to trade at the best prices and apply their own investment strategies on various crypto asset classes."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x9029fdfae9a03135846381c7ce16595c3554e10a",
+    "url": "https://openocean.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x9029fdfae9a03135846381c7ce16595c3554e10a",
+        "https://cchain.explorer.avax.network/tokens/0x0ebd9537A25f56713E34c45b38F421A1e7191469/token-transfers",
+        "https://etherscan.io/token/0x7778360f035c589fce2f4ea5786cbd8b36e5396b",
+        "https://polygonscan.com/token/0x9d5565dA88e596730522CbC5a918d2A89dbC16d9"
+    ],
+    "twitter": "OpenOceanGlobal",
+    "telegram": "OOFinance",
+    "github_org": "openocean-finance"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "vivo",
+    "symbol": "vivo",
+    "name": "VIVO",
+    "platforms": {},
+    "hashing_algorithm": "NeoScrypt",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "VIVO is a digital currency built on a powerful framework that provides top notch security, anonymity, effective & fair mining by being ASIC-Resistant. We offer full decentralization, near-instant Secure Transactions and Superior Anonimity via Private Send."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-08-20",
+    "url": "http://vivocoin.net/",
+    "explorers": [
+        "https://chainz.cryptoid.info/vivo/#",
+        "http://explorer4.vivocoin.net:3001/"
+    ],
+    "twitter": "vivocrypto",
+    "reddit": "VIVOCoin",
+    "github_org": "vivocoin"
+}

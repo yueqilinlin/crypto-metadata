@@ -1,0 +1,23 @@
+{
+    "id": "reapit",
+    "symbol": "reap",
+    "name": "REAPit",
+    "platforms": {
+        "ethereum": "0xa20b44c001578e2c52665098ba62b00ebf8963cb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "REAPit is a chat-based wallet that enables anyone to add liquidity to uniswap pools, swap, tip , buy, sel tokens.\r\n\r\nAs long as there is everyday conversation between social media apps, as long as crypto currencies will always be sent out or receive by over 1 million users daily. There will be always a reason to make use of REAPit Wallet. The DApp was created as a solution to how stressful crypto payments can be."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xa20b44c001578e2c52665098ba62b00ebf8963cb",
+    "url": "https://reapit.io",
+    "explorers": [
+        "https://etherscan.io/token/0xa20b44c001578e2c52665098ba62b00ebf8963cb",
+        "https://ethplorer.io/address/0xa20b44c001578e2c52665098ba62b00ebf8963cb"
+    ],
+    "twitter": "reapitdefi",
+    "telegram": "reapitdefi"
+}

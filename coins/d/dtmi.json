@@ -1,0 +1,23 @@
+{
+    "id": "dtmi",
+    "symbol": "dtmi",
+    "name": "DTMI",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Financial tool for Distributed Digital Cooperatives"
+    },
+    "country_origin": "MD",
+    "genesis_date": null,
+    "url": "https://www.civilixation.com/",
+    "explorers": [
+        "http://66.23.235.240:3001/"
+    ],
+    "twitter": "CiviliXation",
+    "facebook": "CiviliXation",
+    "telegram": "civilixation",
+    "github_org": "DTMASSOCIATION"
+}

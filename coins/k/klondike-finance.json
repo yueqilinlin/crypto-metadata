@@ -1,0 +1,26 @@
+{
+    "id": "klondike-finance",
+    "symbol": "klon",
+    "name": "Klondike Finance v1",
+    "platforms": {
+        "ethereum": "0xb97d5cf2864fb0d08b34a484ff48d5492b2324a0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb97d5cf2864fb0d08b34a484ff48d5492b2324a0",
+    "url": "https://klondike.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xB97D5cF2864FB0D08b34a484FF48d5492B2324A0",
+        "https://ethplorer.io/address/0xb97d5cf2864fb0d08b34a484ff48d5492b2324a0"
+    ],
+    "twitter": "KlondikeFinance",
+    "telegram": "klondike_discussion"
+}

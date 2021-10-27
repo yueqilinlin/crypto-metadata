@@ -1,0 +1,23 @@
+{
+    "id": "safecap-token",
+    "symbol": "sfc",
+    "name": "SafeCap Token",
+    "platforms": {
+        "binance-smart-chain": "0x6bbf411a9a50ef4427d64d1ea74ad294c2bbb0c8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeCap Binance Smart Chain based project. SafeCap is an enterprise-grade, service-centric platform that brings user-friendly blockchain experience to millions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6bbf411a9a50ef4427d64d1ea74ad294c2bbb0c8",
+    "url": "https://safecap.org/",
+    "explorers": [
+        "https://www.bscscan.com/token/0x6bbf411a9a50ef4427d64d1ea74ad294c2bbb0c8",
+        "https://bscscan.com/token/0x6bbf411a9a50ef4427d64d1ea74ad294c2bbb0c8"
+    ],
+    "twitter": "SafeCap_Token",
+    "telegram": "SafeCap_Token"
+}

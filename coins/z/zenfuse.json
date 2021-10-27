@@ -1,0 +1,25 @@
+{
+    "id": "zenfuse",
+    "symbol": "zefu",
+    "name": "Zenfuse",
+    "platforms": {
+        "ethereum": "0xb1e9157c2fdcc5a856c8da8b2d89b6c32b3c1229",
+        "binance-smart-chain": "0x23ec58e45ac5313bcb6681f4f7827b8a8453ac45"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb1e9157c2fdcc5a856c8da8b2d89b6c32b3c1229",
+    "url": "https://zenfuse.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xb1e9157c2fdcc5a856c8da8b2d89b6c32b3c1229",
+        "https://ethplorer.io/address/0xb1e9157c2fdcc5a856c8da8b2d89b6c32b3c1229"
+    ],
+    "twitter": "zenfuse_io",
+    "telegram": "zenfuse_en",
+    "reddit": "zenfuse/"
+}

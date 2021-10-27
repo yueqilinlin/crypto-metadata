@@ -1,0 +1,25 @@
+{
+    "id": "ink-protocol",
+    "symbol": "xnk",
+    "name": "Ink Protocol",
+    "platforms": {
+        "ethereum": "0xbc86727e770de68b1060c91f6bb6945c73e10388"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized reputation and payments for peer-to-peer marketplaces."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xbc86727e770de68b1060c91f6bb6945c73e10388",
+    "url": "https://paywithink.com",
+    "explorers": [
+        "https://etherscan.io/token/0xbc86727e770de68b1060c91f6bb6945c73e10388",
+        "https://ethplorer.io/address/0xbc86727e770de68b1060c91f6bb6945c73e10388"
+    ],
+    "twitter": "PayWithInk",
+    "telegram": "paywithink",
+    "reddit": "PayWithInk/",
+    "github_org": "InkProtocol"
+}

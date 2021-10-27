@@ -1,0 +1,22 @@
+{
+    "id": "okex-fly",
+    "symbol": "okfly",
+    "name": "Okex Fly",
+    "platforms": {
+        "okex-chain": "0x02f093513b7872cdfc518e51ed67f88f0e469592"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Okex Fly is a KIP-20 project launched in OKEx Chain. We are determined to create brilliance in OKEx Chain, create our own decentralized ecosystem and community consensus, and do our best to develop with OKEx!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x02f093513b7872cdfc518e51ed67f88f0e469592",
+    "url": "https://www.okfly.me/",
+    "explorers": [
+        "https://www.oklink.com/okexchain/address/0x02f093513b7872cdfc518e51ed67f88f0e469592"
+    ],
+    "twitter": "Okex_Fly",
+    "telegram": "okexfly"
+}

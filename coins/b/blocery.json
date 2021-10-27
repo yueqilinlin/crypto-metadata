@@ -1,0 +1,26 @@
+{
+    "id": "blocery",
+    "symbol": "bly",
+    "name": "Blocery",
+    "platforms": {
+        "ethereum": "0xf8ad7dfe656188a23e89da09506adf7ad9290d5d"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Blocery, a blockchain-based trusted food supply chain ecosystem, records immutable data onto the blockchain such as the production, distribution, and sales history of agricultural products."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xf8ad7dfe656188a23e89da09506adf7ad9290d5d",
+    "url": "http://blocery.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xf8ad7dfe656188a23e89da09506adf7ad9290d5d",
+        "https://ethplorer.io/address/0xf8ad7dfe656188a23e89da09506adf7ad9290d5d"
+    ],
+    "twitter": "blocery",
+    "telegram": "blocery",
+    "github_org": "blocery"
+}

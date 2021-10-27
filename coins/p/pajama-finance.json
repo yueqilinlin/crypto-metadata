@@ -1,0 +1,23 @@
+{
+    "id": "pajama-finance",
+    "symbol": "pjm",
+    "name": "Pajama.Finance",
+    "platforms": {
+        "ethereum": "0x61bc1f530ac6193d73af1e1a6a14cb44b9c3f915"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pajama.Finance - $PJM is an Yield Farming Token! Farm $PJM and receive $PJM!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x61bc1f530ac6193d73af1e1a6a14cb44b9c3f915",
+    "url": "https://pajama.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x61bc1f530ac6193d73af1e1a6a14cb44b9c3f915",
+        "https://ethplorer.io/address/0x61bc1f530ac6193d73af1e1a6a14cb44b9c3f915"
+    ],
+    "twitter": "FinancePajama",
+    "telegram": "Pajamafinance_chat"
+}

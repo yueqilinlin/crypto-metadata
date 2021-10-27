@@ -1,0 +1,23 @@
+{
+    "id": "paws-funds",
+    "symbol": "paws",
+    "name": "Paws Funds",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Charity"
+    ],
+    "description": {
+        "en": "PAWS is a non-profit charity blockchain project developed out of our LOVE and strictly for the benefit of our furry Pet/Animal companions and family members. "
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://paws.fund/",
+    "explorers": [
+        "http://chain.paws.fund/"
+    ],
+    "twitter": "pawsfund",
+    "facebook": "Pawsfunds",
+    "telegram": "pawschat",
+    "github_org": "pawsfund"
+}

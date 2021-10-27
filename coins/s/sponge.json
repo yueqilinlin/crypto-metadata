@@ -1,0 +1,22 @@
+{
+    "id": "sponge",
+    "symbol": "spg",
+    "name": "Sponge",
+    "platforms": {
+        "binance-smart-chain": "0x3aabcf53a1930a42e18d938c019e83ebee50a849"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sponge token, high passive yield token that absorbs token from other transactions."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x3aabcf53a1930a42e18d938c019e83ebee50a849",
+    "url": "https://www.sponge.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x3aabcf53a1930a42e18d938c019e83ebee50a849"
+    ],
+    "twitter": "nojobfinance",
+    "telegram": "SpongeFinanceChat"
+}

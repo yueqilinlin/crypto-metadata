@@ -1,0 +1,33 @@
+{
+    "id": "xend-finance",
+    "symbol": "xend",
+    "name": "Xend Finance",
+    "platforms": {
+        "ethereum": "0xe4cfe9eaa8cdb0942a80b7bc68fd8ab0f6d44903",
+        "binance-smart-chain": "0x4a080377f83d669d7bb83b3184a8a5e61b500608",
+        "huobi-token": "0xa649325aa7c5093d12d6f98eb4378deae68ce23f",
+        "polygon-pos": "0x86775d0b80b3df266af5377db34ba8f318d715ec"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Xend Finance is a DeFi platform for cooperatives and credit unions that provides multi-levels of interest by optimizing and aggregating different DeFi lending protocols with the aim of providing high, yet stable currency yields and token rewards to the financially underserved living in unstable economies"
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0xe4cfe9eaa8cdb0942a80b7bc68fd8ab0f6d44903",
+    "url": "https://xend.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xE4CFE9eAa8Cdb0942A80B7bC68fD8Ab0F6D44903",
+        "https://ethplorer.io/address/0xE4CFE9eAa8Cdb0942A80B7bC68fD8Ab0F6D44903",
+        "https://bscscan.com/token/0x4a080377f83D669D7bB83B3184a8A5E61B500608",
+        "https://polygonscan.com/token/0x86775d0B80B3df266AF5377dB34Ba8f318d715ec",
+        "https://hecoinfo.com/token/0xa649325aa7c5093d12d6f98eb4378deae68ce23f"
+    ],
+    "twitter": "xendfinance",
+    "telegram": "xendFinance",
+    "reddit": "XendFinance/",
+    "github_org": "xendfinance"
+}

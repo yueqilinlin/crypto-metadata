@@ -1,0 +1,25 @@
+{
+    "id": "kiwigo",
+    "symbol": "kgo",
+    "name": "Kiwigo",
+    "platforms": {
+        "binance-smart-chain": "0x5d3afba1924ad748776e4ca62213bf7acf39d773"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kiwigo is looking to become the frontier market super app, powered by Kiwi Pay Pte Ltd. Offering plenty of local services under one super app."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5d3afba1924ad748776e4ca62213bf7acf39d773",
+    "url": "https://www.kiwigo.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x5d3afba1924ad748776e4ca62213bf7acf39d773"
+    ],
+    "twitter": "kgocrypto",
+    "facebook": "kgocrypto",
+    "telegram": "kgocrypto",
+    "reddit": "kgocrypto/",
+    "github_org": "kIWIPAY-KGO"
+}

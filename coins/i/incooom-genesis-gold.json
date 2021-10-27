@@ -1,0 +1,22 @@
+{
+    "id": "incooom-genesis-gold",
+    "symbol": "gcooom",
+    "name": "Incooom Genesis Gold",
+    "platforms": {
+        "ethereum": "0x1e23fb8bd851cc2a341428c0b10e65d49987d744"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GCOOM is an ERC-20 representing underlying Incooom Gold NFTs in an NFTX vault."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1e23fb8bd851cc2a341428c0b10e65d49987d744",
+    "url": "https://www.incooom.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1e23fb8bd851cc2a341428c0b10e65d49987d744",
+        "https://ethplorer.io/address/0x1e23fb8bd851cc2a341428c0b10e65d49987d744"
+    ],
+    "twitter": "incooomfinance"
+}

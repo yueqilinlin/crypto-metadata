@@ -1,0 +1,24 @@
+{
+    "id": "zktube",
+    "symbol": "zkt",
+    "name": "zkTube",
+    "platforms": {
+        "ethereum": "0x07c52c2537d84e532a9f15d32e152c8b94d2b232"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "zkTube is adopting ZK-Rollup to provide enhanced scalability, low gas fees, and higher transaction throughput for Ethereum."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x07c52c2537d84e532a9f15d32e152c8b94d2b232",
+    "url": "https://zktube.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x07c52c2537d84e532a9f15d32e152c8b94d2b232",
+        "https://ethplorer.io/address/0x07c52c2537d84e532a9f15d32e152c8b94d2b232"
+    ],
+    "twitter": "zktubeofficial",
+    "telegram": "zkTubeProtocol",
+    "reddit": "zkTube_Official/"
+}

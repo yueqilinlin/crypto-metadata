@@ -1,0 +1,28 @@
+{
+    "id": "rotharium",
+    "symbol": "rth",
+    "name": "Rotharium",
+    "platforms": {
+        "ethereum": "0x3fd8f39a962efda04956981c31ab89fab5fb8bc8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Rotharium Platform will connect Blockchain with stadard database solutions (Cloud and On-Premise) with B2C Apps. "
+    },
+    "country_origin": "AT",
+    "genesis_date": null,
+    "contract_address": "0x3fd8f39a962efda04956981c31ab89fab5fb8bc8",
+    "url": "https://www.rotharium.io",
+    "explorers": [
+        "https://etherscan.io/token/0x3fd8f39a962efda04956981c31ab89fab5fb8bc8",
+        "https://ethplorer.io/address/0x3fd8f39a962efda04956981c31ab89fab5fb8bc8"
+    ],
+    "twitter": "Rotharium",
+    "facebook": "Rotharium-359416677853285",
+    "telegram": "rothariumplatform",
+    "reddit": "rotharium/",
+    "github_org": "CryptoFutureGmbH"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "zent-cash",
+    "symbol": "ztc",
+    "name": "Zent Cash",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Payment solutions for games and e-sports and platform games. "
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "url": "https://www.zent.cash",
+    "explorers": [
+        "https://explorer.zent.cash/"
+    ],
+    "twitter": "cashzent",
+    "telegram": "zentcash_eng",
+    "github_org": "Zentcash"
+}

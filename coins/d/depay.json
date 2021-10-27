@@ -1,0 +1,25 @@
+{
+    "id": "depay",
+    "symbol": "depay",
+    "name": "DePay",
+    "platforms": {
+        "ethereum": "0xa0bed124a09ac2bd941b10349d8d224fe3c955eb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DePay enables people to easily accept and perform crypto payments. A decentralized payment protocol built on decentralized finance."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0xa0bed124a09ac2bd941b10349d8d224fe3c955eb",
+    "url": "http://depay.fi",
+    "explorers": [
+        "https://etherscan.io/token/0xa0bed124a09ac2bd941b10349d8d224fe3c955eb",
+        "https://ethplorer.io/address/0xa0bed124a09ac2bd941b10349d8d224fe3c955eb"
+    ],
+    "twitter": "DePayFi",
+    "telegram": "DePayNews",
+    "reddit": "DePayFi/",
+    "github_org": "DePayFi"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "the-vault",
+    "symbol": "vlt",
+    "name": "The Vault",
+    "platforms": {
+        "binance-smart-chain": "0x82da15e36f23a4b603bc8a57c27813f2faeb04b2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A deflationary token with a rising price floor, meant to protect investors from risk and help us expand our vault concept into a larger project.\r\n\r\nTrust Launch provides legitimate projects with a platform to launch from. Those that are familiar with Cryptocurrent understand that we know what it is to be taken advantage of in the Defi space. By providing a Launchpad that takes MANY measures to prevent something like that from happening - good projects are rewarded with investors and investors are rewarded with good projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x82da15e36f23a4b603bc8a57c27813f2faeb04b2",
+    "url": "https://www.thecurrent.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x82da15e36f23a4b603bc8a57c27813f2faeb04b2"
+    ],
+    "twitter": "__cryptocurrent",
+    "telegram": "CryptocurrentLLC",
+    "github_org": "the-cryptocurrent"
+}

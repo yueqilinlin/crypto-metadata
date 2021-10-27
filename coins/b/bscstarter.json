@@ -1,0 +1,35 @@
+{
+    "id": "bscstarter",
+    "symbol": "start",
+    "name": "Starter.xyz",
+    "platforms": {
+        "binance-smart-chain": "0x31d0a7ada4d4c131eb612db48861211f63e57610",
+        "avalanche": "0xf44fb887334fa17d2c5c0f970b5d320ab53ed557",
+        "polygon-pos": "0x6ccf12b480a99c54b23647c995f4525d544a7e72",
+        "ethereum": "0x1d7ca62f6af49ec66f6680b8606e634e55ef22c1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem",
+        "Launchpad",
+        "Polygon Ecosystem",
+        "Fantom Ecosystem",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x31d0a7ada4d4c131eb612db48861211f63e57610",
+    "url": "https://starter.xyz/",
+    "explorers": [
+        "https://bscscan.com/token/0x31d0a7ada4d4c131eb612db48861211f63e57610",
+        "https://polygonscan.com/token/0x6ccf12b480a99c54b23647c995f4525d544a7e72",
+        "https://etherscan.io/token/0x1d7Ca62F6Af49ec66f6680b8606E634E55Ef22C1",
+        "https://avascan.info/blockchain/c/token/0xF44Fb887334Fa17d2c5c0F970B5D320ab53eD557"
+    ],
+    "twitter": "StarterXyz",
+    "telegram": "starterxyz",
+    "github_org": "bscstarter"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "polkaparty",
+    "symbol": "polp",
+    "name": "PolkaParty",
+    "platforms": {
+        "ethereum": "0x48592de8cded16f6bb56c896fe1affc37630889c",
+        "binance-smart-chain": "0x6e3bf2fff13e18413d3780f93753d6cff5aee3e1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PolkaParty is made for you, as the platform allows users to gain access to all features of DeFi (swapping, liquidity providing, yield farming, NFT\u2019s, etc) by just joining a single party!\u200c\r\nOur aim is to create an easy to use, user friendly experience that allows anybody to hop into a party, chat with members, and be rewarded for group efforts. We\u2019ve found in our research that there has been a consistently growing barrier of entry for understanding the technicalities of using specific DeFi features.\r\n\u200cOur solution is to create a platform that allows anybody to create or join a party with respectable friends, family, and most importantly DeFi veterans, navigating the landscape of endless profits from the smart decisions. No longer will you be frustrated with DeFiety (DeFi-Anxiety), or FOMO into bad moves from not understanding what to do, since you\u2019ll be able to research, chat, and vote with your fellow partiers!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x48592de8cded16f6bb56c896fe1affc37630889c",
+    "url": "https://www.polkaparty.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x48592de8cded16f6bb56c896fe1affc37630889c",
+        "https://ethplorer.io/address/0x48592de8cded16f6bb56c896fe1affc37630889c",
+        "https://bscscan.com/token/0x6e3bf2fff13e18413d3780f93753d6cff5aee3e1"
+    ],
+    "twitter": "polka_party",
+    "telegram": "PolkaParty",
+    "reddit": "PolkaParty/"
+}

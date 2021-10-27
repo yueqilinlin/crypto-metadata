@@ -1,0 +1,25 @@
+{
+    "id": "wrapped-shift",
+    "symbol": "wshift",
+    "name": "Wrapped Shift",
+    "platforms": {
+        "ethereum": "0x4b4571925e94ccd8c546b39462a270cc9b3ed1e4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x4b4571925e94ccd8c546b39462a270cc9b3ed1e4",
+    "url": "https://www.shiftnrg.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x4b4571925e94ccd8c546b39462a270cc9b3ed1e4",
+        "https://ethplorer.io/address/0x4b4571925e94ccd8c546b39462a270cc9b3ed1e4"
+    ],
+    "twitter": "ShiftNrg",
+    "telegram": "ShiftNrg",
+    "reddit": "ShiftNrg",
+    "github_org": "shiftnrg"
+}

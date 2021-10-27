@@ -1,0 +1,27 @@
+{
+    "id": "binance-peg-eos",
+    "symbol": "eos",
+    "name": "Binance-Peg EOS",
+    "platforms": {
+        "binance-smart-chain": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Tokens that are wrapped and pegged by Binance on a 1:1 ratio to the corresponding native token. Also supports BEP20 token deposits and withdrawals at Binance.com"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+    "url": "https://eos.io/",
+    "explorers": [
+        "https://bscscan.com/address/0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+        "https://bscscan.com/token/0x56b6fb708fc5732dec1afc8d8556423a2edccbd6"
+    ],
+    "twitter": "block_one_",
+    "facebook": "240536563111750",
+    "reddit": "https://www.reddit.com",
+    "github_org": "EOSIO"
+}

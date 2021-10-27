@@ -1,0 +1,26 @@
+{
+    "id": "starterra",
+    "symbol": "stt",
+    "name": "StarTerra",
+    "platforms": {
+        "terra": "terra13xujxcrc9dqft4p9a8ls0w3j0xnzm6y2uvve8n"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Terra Ecosystem",
+        "Gaming"
+    ],
+    "description": {
+        "en": "StarTerra is a gamified launchpad that features Play2Earn, gamified NFTs, and multi-asset staking, built on the Terra Ecosystem.\r\n\r\nStarTerra is introducing a gamified system of competition between tiers (called \u201cfactions\u201d) allowing their members to stake more of $STT native token than the minimum required amount. Activity of the players will be measured by a special unit - \u201cStarTerra Energy\u201d which is going to affect their chance of winning allocation to buy IDO tokens over the less committed faction members. In this way, StarTerra intends to introduce competition not only between tiers, but also inside each of them. \r\n\r\nThe activity of the players will be visualized in a special gamified leaderboard, according to the parameters such as $STT token staked, time they are staked but also using proprietary social media scoring. \r\n\r\nAnother way StarTerra is supposed to provide to the users a feeling of the real computer game is gamified NFT integration. Every Player after connecting his wallet, choosing his unique nickname and avatar will be able to go to \u201cmy inventory\u201d section and upgrade his character by adding special NFT tokens to his inventory. These NFTs will come in the form of skins that include Weapons, Armour, Creatures or Artefacts. They will also represent a utility, which means players by adding NFTs will be able to boost their leaderboard scoring and in effect obtain higher allocation to buy IDO tokens. \r\n\r\nThe revenue generated from these NFTs sales will go to the funding of play2earn feature. Top leaderboard players from each faction and all Whalecraft members will earn $UST stablecoin for their active participation in IDO. This means that by participating in an IDO players will not only gain allocation to purchase IDO tokens of the IDO projects but also earn a payout in $UST - decentralized stablecoin pegged with the U.S. dollar."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "terra13xujxcrc9dqft4p9a8ls0w3j0xnzm6y2uvve8n",
+    "url": "https://starterra.io/",
+    "explorers": [
+        "https://finder.terra.money/columbus-5/address/terra13xujxcrc9dqft4p9a8ls0w3j0xnzm6y2uvve8n"
+    ],
+    "twitter": "StarTerra_io",
+    "telegram": "starterra",
+    "github_org": "starterra"
+}

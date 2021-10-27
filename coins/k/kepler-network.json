@@ -1,0 +1,20 @@
+{
+    "id": "kepler-network",
+    "symbol": "kmw",
+    "name": "Kepler Network",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kepler is the First Confidential Assets blockchain based on MimbleWimble. It is capable of creating in-blockchain confidential assets and confidential transactions. It also inherits the scalability and power of the MimbleWimble technology."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://kepler.network/",
+    "explorers": [
+        "http://explorer.kepler.network/"
+    ],
+    "twitter": "Keplernetwork1",
+    "telegram": "keplernetwork",
+    "github_org": "keplernetwork"
+}

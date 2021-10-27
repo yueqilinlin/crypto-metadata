@@ -1,0 +1,20 @@
+{
+    "id": "fedoracoin",
+    "symbol": "tips",
+    "name": "Fedoracoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "FedoraCoin (or commonly known as TiPS) is a new cryptocurrency that is based on the Tips Fedora meme.\r\n\r\nIt has very strong resemblance to the popular <a href='/coins/dogecoin'>Dogecoin</a> that was also started based on a joke and online Doge meme.\r\n\r\nAs the name goes, FedoraCoin aims to become the official online tipping currency. It has support for Windows, Linux, and Mac wallets. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://fedoracoin.top/",
+    "explorers": [
+        "https://tipsbe.netcraft.ch/"
+    ],
+    "twitter": "FedoraCoin",
+    "reddit": "FedoraCoin/",
+    "github_org": "fedoracoin"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "dont-kyc",
+    "symbol": "dkyc",
+    "name": "Don't KYC",
+    "platforms": {
+        "binance-smart-chain": "0xdf5fac537aa09e1eb0f3f8dd1d34cbdc42ca1076"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DKYC is driving mass crypto adoption introducing the first and only completely anonymous Visa and MasterCard built for Decentralized Finance (DeFi). Seamlessly connecting Smart Chain investing with real-world spending."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdf5fac537aa09e1eb0f3f8dd1d34cbdc42ca1076",
+    "url": "https://dontkyc.com/",
+    "explorers": [
+        "https://www.bscscan.com/token/0xdf5Fac537aa09e1eb0F3f8DD1d34CBdC42CA1076",
+        "https://bscscan.com/token/0xdf5Fac537aa09e1eb0F3f8DD1d34CBdC42CA1076"
+    ],
+    "twitter": "DontKYC",
+    "telegram": "DontKYC"
+}

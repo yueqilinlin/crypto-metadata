@@ -1,0 +1,27 @@
+{
+    "id": "jarvis-synthetic-swiss-franc",
+    "symbol": "jchf",
+    "name": "Jarvis Synthetic Swiss Franc",
+    "platforms": {
+        "ethereum": "0x53dfea0a8cc2a2a2e425e1c174bc162999723ea0",
+        "polygon-pos": "0xbd1463f02f61676d53fd183c2b19282bff93d099"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "jCHF is a multi-collateralized synthetic token tracking the price of Swiss Franc. It is built on the top of UMA and Chainlink."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x53dfea0a8cc2a2a2e425e1c174bc162999723ea0",
+    "url": "https://jarvis.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x53dfea0a8cc2a2a2e425e1c174bc162999723ea0",
+        "https://ethplorer.io/address/0x53dfea0a8cc2a2a2e425e1c174bc162999723ea0",
+        "https://polygonscan.com/token/0xbD1463F02f61676d53fd183C2B19282BFF93D099"
+    ],
+    "twitter": "Jarvis_Network",
+    "telegram": "jarvisnetwork"
+}

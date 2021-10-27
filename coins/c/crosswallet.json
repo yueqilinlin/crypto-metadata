@@ -1,0 +1,24 @@
+{
+    "id": "crosswallet",
+    "symbol": "cwt",
+    "name": "CrossWallet",
+    "platforms": {
+        "binance-smart-chain": "0x5a726a26edb0df8fd55f03cc30af8a7cea81e78d",
+        "tron": "TY2Ge1YYphoAatwaBxa1zYfJVa8CqNyL6B"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "As a crypto enthusiast, you hold several assets in multiple wallets across different blockchains. With CrossWallet, you will only need one wallet to navigate the ever growing number of assets and networks.\r\n\r\nSwap assets between all available networks with a single button. Whether arbitrage trading or moving funds to access another network\u2019s features, CrossWallet\u2019s bridge enables you to seize these opportunities with maximum efficiency, convenience, and speed.\r\n\r\nWith CrossWallet\u2019s Binance Smart Chain and Ethereum aggregators, you can monitor price and liquidity on both networks simultaneously to identify any arbitrage opportunities \u2013\u2013 and profit before everyone else."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5a726a26edb0df8fd55f03cc30af8a7cea81e78d",
+    "url": "https://crosswallet.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x5A726a26eDB0Df8Fd55f03cc30aF8A7cEa81e78D",
+        "https://tronscan.org/#/token20/TY2Ge1YYphoAatwaBxa1zYfJVa8CqNyL6B"
+    ],
+    "twitter": "Cross_Wallet",
+    "telegram": "crosswallet"
+}

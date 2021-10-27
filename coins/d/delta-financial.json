@@ -1,0 +1,23 @@
+{
+    "id": "delta-financial",
+    "symbol": "delta",
+    "name": "Delta Financial",
+    "platforms": {
+        "ethereum": "0x9ea3b5b4ec044b70375236a281986106457b20ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x9ea3b5b4ec044b70375236a281986106457b20ef",
+    "url": "https://delta.financial/",
+    "explorers": [
+        "https://etherscan.io/token/0x9ea3b5b4ec044b70375236a281986106457b20ef",
+        "https://ethplorer.io/address/0x9ea3b5b4ec044b70375236a281986106457b20ef"
+    ],
+    "twitter": "Delta_Token",
+    "telegram": "Delta_Financial"
+}

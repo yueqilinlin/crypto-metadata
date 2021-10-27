@@ -1,0 +1,22 @@
+{
+    "id": "apex-token",
+    "symbol": "apex",
+    "name": "Apex Finance",
+    "platforms": {
+        "binance-smart-chain": "0x6563048e9bba7828f0b597d8a68880c886ef1709"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Apex is a High Yield, deflationary token built on Binance Smart Chain with a Strong Liquidity and Tax Mechanism . Holders gain a redistribution of 1 % of the transaction with increasing liquidity from our 11% tax on each trade. Apex Finance is launching our own APEXApp, APEXChart and APEXCard platform. We will also be introducing our very own Crypto wallet & Apex Vault. Our goal is to build a Robust Eco-system that allows our platform to be the one stop every trader needs for token swapping, charts and technical analysis."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x6563048e9bba7828f0b597d8a68880c886ef1709",
+    "url": "https://www.apexfinance.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x6563048e9bba7828f0b597d8a68880c886ef1709"
+    ],
+    "twitter": "Apex_Finance_",
+    "telegram": "ApexFinanceBsc"
+}

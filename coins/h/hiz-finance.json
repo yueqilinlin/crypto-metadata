@@ -1,0 +1,24 @@
+{
+    "id": "hiz-finance",
+    "symbol": "hiz",
+    "name": "Hiz Finance",
+    "platforms": {
+        "ethereum": "0xc761d1ccb38a94703675d2cdb15f7f1b3dcff7b7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HIZ Finance was built to connect hosting service providers and buyers. We provide service and trust and are prioritized to make services easy for all users, especially to buy more secure hosting. Every buyer who purchases both hosting and domain through our platform can claim a bonus based on the package taken in the form of HIZ tokens by filling out the reword claim form that we have provided. If the buyer's data is valid, the buyer can receive rewords in the form of HIZ tokens in their wallets and can be sold on exchanges that trade HIZ tokens."
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0xc761d1ccb38a94703675d2cdb15f7f1b3dcff7b7",
+    "url": "https://hizfinance.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xc761D1ccb38a94703675d2cDb15F7F1B3dcFF7B7",
+        "https://ethplorer.io/address/0xc761D1ccb38a94703675d2cDb15F7F1B3dcFF7B7"
+    ],
+    "twitter": "hiz_finance",
+    "telegram": "hizfinance_ID",
+    "github_org": "HizFinanceofficial"
+}

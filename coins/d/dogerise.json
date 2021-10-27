@@ -1,0 +1,22 @@
+{
+    "id": "dogerise",
+    "symbol": "dogerise",
+    "name": "Dogerise",
+    "platforms": {
+        "binance-smart-chain": "0x5ddd1df8ae7bac8d5ea825ce00042cf64031dae4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dogerise is an Rise/MiniDoge fork that allows the Top 100 holders to control the buyback wallet and marketing initiatives. \r\n\r\nTop 200 holders are also eligible for daily NFT giveaways featuring sacred images of our beloved Doge leader as he blesses us with his presence on our ascension to heaven. Doge bless you. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5ddd1df8ae7bac8d5ea825ce00042cf64031dae4",
+    "url": "https://www.dogerise.online/",
+    "explorers": [
+        "https://bscscan.com/token/0x5ddd1df8ae7bac8d5ea825ce00042cf64031dae4"
+    ],
+    "twitter": "dogerisebsc",
+    "telegram": "dogerisetelegram"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "topb",
+    "symbol": "topb",
+    "name": "TOPBTC Token",
+    "platforms": {
+        "ethereum": "0xf6317dd9b04097a9e7b016cd23dcaa7cfe19d9c6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf6317dd9b04097a9e7b016cd23dcaa7cfe19d9c6",
+    "url": "http://www.topbtc.one/",
+    "explorers": [
+        "https://etherscan.io/token/0xf6317dd9b04097a9e7b016cd23dcaa7cfe19d9c6",
+        "https://ethplorer.io/address/0xf6317dd9b04097a9e7b016cd23dcaa7cfe19d9c6"
+    ],
+    "twitter": "topbtc_com",
+    "telegram": "topbtc_ENG"
+}

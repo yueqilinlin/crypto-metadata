@@ -1,0 +1,20 @@
+{
+    "id": "geist-ftm",
+    "symbol": "gftm",
+    "name": "Geist FTM",
+    "platforms": {
+        "fantom": "0x39b3bd37208cbade74d0fcbdbb12d606295b430a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x39b3bd37208cbade74d0fcbdbb12d606295b430a",
+    "url": "https://geist.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0x39b3bd37208cbade74d0fcbdbb12d606295b430a"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "lightning-protocol",
+    "symbol": "light",
+    "name": "Lightning Protocol",
+    "platforms": {
+        "binance-smart-chain": "0x037838b556d9c9d654148a284682c55bb5f56ef4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "The first fully deflationary elastic supply protocol which expands supply by 50% of the Tokens burnt through fees during each cycle."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x037838b556d9c9d654148a284682c55bb5f56ef4",
+    "url": "https://lightningprotocol.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x037838b556d9c9d654148a284682C55bB5f56eF4"
+    ],
+    "twitter": "lightningdefi",
+    "telegram": "lightningprotocol"
+}

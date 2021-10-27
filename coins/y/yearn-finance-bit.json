@@ -1,0 +1,23 @@
+{
+    "id": "yearn-finance-bit",
+    "symbol": "yfbt",
+    "name": "Yearn Finance Bit",
+    "platforms": {
+        "binance-smart-chain": "0x9042ec50b33c41c748264e4730e7cfbdf4787782"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yearn Finance Bit is a decentralized token under ERC-20 protocol, allows users to stake YFBT, borrow assets, and vote for improvements within the community. Our staking platform enables investors to earn a yield on YFBT token, depositing, and selecting the amount you want to stake, you will get an APR of 25%, and it can be unlocked anytime. Besides, you will be getting rewarded with governance token YFB2. Borrowers can borrow in an overcollateralized (perpetually) way, selecting Usdt (Tether), Ethereum (ETH), or DAI. "
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x9042ec50b33c41c748264e4730e7cfbdf4787782",
+    "url": "https://yfbit.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x9042ec50b33c41c748264e4730e7cfbdf4787782",
+        "https://bscscan.com/token/0x9042ec50b33c41c748264e4730e7cfbdf4787782"
+    ],
+    "twitter": "yf_bit",
+    "telegram": "yearfinancebit"
+}

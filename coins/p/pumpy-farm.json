@@ -1,0 +1,25 @@
+{
+    "id": "pumpy-farm",
+    "symbol": "pmp",
+    "name": "Pumpy Farm",
+    "platforms": {
+        "binance-smart-chain": "0x8d4fbb3ac63bf33851dce80d63613df1a515bc00"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Yield optimizer platform focused on providing DeFi users with auto-compounded yields at empirical optimal intervals, whilst pooling gas costs through battle-tested smart contract code and best in class yield optimizing strategies."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8d4fbb3ac63bf33851dce80d63613df1a515bc00",
+    "url": "https://pumpy.farm/",
+    "explorers": [
+        "https://bscscan.com/token/0x8d4fbb3ac63bf33851dce80d63613df1a515bc00"
+    ],
+    "twitter": "pumpyfarm",
+    "telegram": "pumpyfarm/",
+    "github_org": "Pumpy-farm"
+}

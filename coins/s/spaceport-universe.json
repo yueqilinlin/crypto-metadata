@@ -1,0 +1,23 @@
+{
+    "id": "spaceport-universe",
+    "symbol": "spu",
+    "name": "SpacePort Universe",
+    "platforms": {
+        "binance-smart-chain": "0x7f60375245cbf30a4f1ffd1278e3601fadca2c4d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An inspired Galaga-like project where holders feel nostalgia from the classic era of arcade games. A play-2-earn game that enables you to reminisce and earn money doing it!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7f60375245cbf30a4f1ffd1278e3601fadca2c4d",
+    "url": "https://spaceport.to/",
+    "explorers": [
+        "https://bscscan.com/token/0x7f60375245cbf30a4f1ffd1278e3601fadca2c4d"
+    ],
+    "twitter": "SpacePortU",
+    "telegram": "OfficialSpacePort",
+    "reddit": "SpacePortUniverse/"
+}

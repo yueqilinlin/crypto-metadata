@@ -1,0 +1,27 @@
+{
+    "id": "insurepal",
+    "symbol": "ipl",
+    "name": "InsurePal",
+    "platforms": {
+        "ethereum": "0x64cdf819d3e75ac8ec217b3496d7ce167be42e80"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "InsurePal is a next generation of peer-to-peer insurance based on social proof endorsements, fully harnessing the power of blockchain innovation. It will serve as a replacement for insurances as we know and o\ufb00er a completely new type of coverage for areas of life and business that began to emerge with the evolution of blockchain and transactions being carried out on the distributed ledger. "
+    },
+    "country_origin": "LI",
+    "genesis_date": "2018-01-16",
+    "contract_address": "0x64cdf819d3e75ac8ec217b3496d7ce167be42e80",
+    "url": "https://insurepal.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x64CdF819d3E75Ac8eC217B3496d7cE167Be42e80",
+        "https://ethplorer.io/address/0x64cdf819d3e75ac8ec217b3496d7ce167be42e80"
+    ],
+    "twitter": "InsurePal_io",
+    "facebook": "InsurePal",
+    "telegram": "InsurePal",
+    "github_org": "InsurePal"
+}

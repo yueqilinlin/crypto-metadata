@@ -1,0 +1,28 @@
+{
+    "id": "muzika-network",
+    "symbol": "mzk",
+    "name": "Muzika Network",
+    "platforms": {
+        "ethereum": "0x1f35a281036be57e64e7e7a2a556b4f888a1b829"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "Muzika\u2019s digital music ecosystem will function as a channel for distributing and publishing music content while providing fair compensation to artists. Fans will also get to partake in all stages of a song\u2019s lifecycle, ranging from sponsorship and production to consumption."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x1f35a281036be57e64e7e7a2a556b4f888a1b829",
+    "url": "https://www.muzika.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x1f35a281036be57e64e7e7a2a556b4f888a1b829",
+        "https://ethplorer.io/address/0x1f35a281036be57e64e7e7a2a556b4f888a1b829"
+    ],
+    "twitter": "muzika_official",
+    "facebook": "muzikanews",
+    "telegram": "muzika_english",
+    "reddit": "muzikaofficial/",
+    "github_org": "MuzikaFoundation"
+}

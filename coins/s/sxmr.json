@@ -1,0 +1,25 @@
+{
+    "id": "sxmr",
+    "symbol": "sxmr",
+    "name": "sXMR",
+    "platforms": {
+        "ethereum": "0x5299d6f7472dcc137d7f3c4bcfbbb514babf341a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synths",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Synth sXMR by Synthetix\r\nTracks the price of Monero (XMR) through price feeds supplied by an oracle."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x5299d6f7472dcc137d7f3c4bcfbbb514babf341a",
+    "url": "https://www.synthetix.io/tokens/",
+    "explorers": [
+        "https://etherscan.io/token/0x5299d6F7472DCc137D7f3C4BcfBBB514BaBF341A",
+        "https://ethplorer.io/address/0x5299d6f7472dcc137d7f3c4bcfbbb514babf341a"
+    ],
+    "twitter": "synthetix_io"
+}

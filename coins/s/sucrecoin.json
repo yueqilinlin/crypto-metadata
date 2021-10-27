@@ -1,0 +1,20 @@
+{
+    "id": "sucrecoin",
+    "symbol": "xsr",
+    "name": "Sucrecoin",
+    "platforms": {},
+    "hashing_algorithm": "NeoScrypt",
+    "categories": [],
+    "description": {
+        "en": "XSR Sucrecoin es un hardfork de Bitcoin y Litecoin permitiendo ser propiedad no solo de una clave p\u00fablica, sino tambi\u00e9n de una secuencia de comandos m\u00e1s complicada, expresada en un lenguaje de programaci\u00f3n simple basado en la pila. En este paradigma, un gasto de transacci\u00f3n que XSR Sucrecoin debe proporcionar datos que satisfaga al script. De hecho, incluso el mecanismo de propiedad de clave p\u00fablica b\u00e1sica se implementa mediante un script; el script toma una firma de curva el\u00edptica como entrada, la verifica contra la transacci\u00f3n y la direcci\u00f3n que posee el XSR SucreCoin, y devuelve 1 si la verificaci\u00f3n es exitosa y 0 en caso contrario. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://sucrecoin.org",
+    "explorers": [
+        "http://explorer.sucrecoin.org/"
+    ],
+    "twitter": "SucreCoin_XSR",
+    "facebook": "sucrecoin",
+    "github_org": "charliegama"
+}

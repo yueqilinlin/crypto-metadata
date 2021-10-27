@@ -1,0 +1,24 @@
+{
+    "id": "tnos-coin",
+    "symbol": "tno",
+    "name": "Tnos Coin",
+    "platforms": {
+        "ethereum": "0xad6683b7f3618c44f5ca6040902812dd890dde4d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The TNOS COIN provides individuals and organizations with a robust and decentralized method of exchanging value while using the known accounting unit. By using TNO token people and businesses can make instant, private payments online or in-store using a secure open-source platform adopted for users around the world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xad6683b7f3618c44f5ca6040902812dd890dde4d",
+    "url": "https://tnoscoin.cash/",
+    "explorers": [
+        "https://etherscan.io/token/0xad6683b7f3618c44f5ca6040902812dd890dde4d",
+        "https://ethplorer.io/address/0xad6683b7f3618c44f5ca6040902812dd890dde4d"
+    ],
+    "twitter": "tnoscoin",
+    "telegram": "tnos_crypto_discussions",
+    "reddit": "thetnoscoin"
+}

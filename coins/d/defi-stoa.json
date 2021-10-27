@@ -1,0 +1,23 @@
+{
+    "id": "defi-stoa",
+    "symbol": "sta",
+    "name": "Defi STOA",
+    "platforms": {
+        "ethereum": "0x06874f973dc3c96dc22a10ef0d0609f877f335ea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Defistoa is a project that tries to connect various financial assets in a digital environment. It is a DeFi platform and a virtual asset securities platform that supports mutual trading of cryptocurrencies that have already formed the DeFi market and securities or funds represented by real assets. For this connectivity project, our project is also a financial platform based on an autonomous arbitrage network that provides a program to increase asset growth and investment value through a machine learning model in order to innovatively increase the various interest growth programs provided by the existing traditional finance."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x06874f973dc3c96dc22a10ef0d0609f877f335ea",
+    "url": "http://stoacorp.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x06874F973Dc3c96dc22A10eF0D0609F877f335EA",
+        "https://ethplorer.io/address/0x06874F973Dc3c96dc22A10eF0D0609F877f335EA"
+    ],
+    "twitter": "STA18362107",
+    "telegram": "stoachat"
+}

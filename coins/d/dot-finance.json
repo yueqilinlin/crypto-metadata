@@ -1,0 +1,23 @@
+{
+    "id": "dot-finance",
+    "symbol": "pink",
+    "name": "Dot Finance",
+    "platforms": {
+        "binance-smart-chain": "0x9133049fb1fddc110c92bf5b7df635abb70c89dc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Maximize your returns with innovative yield optimization strategies."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9133049fb1fddc110c92bf5b7df635abb70c89dc",
+    "url": "https://dot.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x9133049Fb1FdDC110c92BF5b7Df635abB70C89DC"
+    ],
+    "twitter": "dot_finance",
+    "telegram": "Dot_Finance",
+    "github_org": "Dot-Finance"
+}

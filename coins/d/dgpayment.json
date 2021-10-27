@@ -1,0 +1,25 @@
+{
+    "id": "dgpayment",
+    "symbol": "dgp",
+    "name": "DGPayment",
+    "platforms": {
+        "ethereum": "0x927159670c50042109d7c0f4aed0cee89452433e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DGPayment is an innovative global payment processor and a platform that allows users to buy and sell products using cryptocurrencies with ease and confidence. It guarantees fast, safe and secure transactions."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x927159670c50042109d7c0f4aed0cee89452433e",
+    "url": "https://dgpaytech.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x927159670C50042109d7C0f4aEd0Cee89452433E",
+        "https://ethplorer.io/address/0x927159670C50042109d7C0f4aEd0Cee89452433E"
+    ],
+    "twitter": "dgpayment",
+    "facebook": "DGPayment-100442665153362",
+    "telegram": "DGPayment",
+    "github_org": "dg-pay"
+}

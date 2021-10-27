@@ -1,0 +1,23 @@
+{
+    "id": "xgold-coin",
+    "symbol": "xgold",
+    "name": "Xgold Coin",
+    "platforms": {
+        "xrp": "r4XSSBVGENvgUrZFijX8xvsJtp9Mi2UPz9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Xgold Coin offers an unlimited use case utility crypto-currency for distributed payment systems predicated on consensus algorithm embodied in the Ripple Protocol, bridging the gap between Bitcoins store-of-value, and XRPs incredibly light weight transaction speed, supporting value transfer, utilizing robust collectively trusted peer-to-peer servers and sub-networks at nearly zero network cost or carbon footprint."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "r4XSSBVGENvgUrZFijX8xvsJtp9Mi2UPz9",
+    "url": "https://xgoldcoins.io",
+    "explorers": [
+        "https://bithomp.com/explorer/xgold",
+        "https://xrpscan.com/account/r4XSSBVGENvgUrZFijX8xvsJtp9Mi2UPz9"
+    ],
+    "twitter": "coin_xgold",
+    "telegram": "XGOLDXRPL"
+}

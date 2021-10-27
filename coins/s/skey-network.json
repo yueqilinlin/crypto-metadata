@@ -1,0 +1,29 @@
+{
+    "id": "skey-network",
+    "symbol": "skey",
+    "name": "Skey Network",
+    "platforms": {
+        "ethereum": "0x06a01a4d579479dd5d884ebf61a31727a3d8d442"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Internet of Things (IOT)",
+        "Business Services",
+        "Oracle"
+    ],
+    "description": {
+        "en": "Skey Network aims to connect the physical with blockchain database via a \"Blockchain or Things\" bridge."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x06a01a4d579479dd5d884ebf61a31727a3d8d442",
+    "url": "https://skey.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x06A01a4d579479Dd5D884EBf61A31727A3d8D442",
+        "https://ethplorer.io/address/0x06a01a4d579479dd5d884ebf61a31727a3d8d442"
+    ],
+    "twitter": "SkeyNetwork ",
+    "facebook": "SmartKeyPlatform",
+    "telegram": "SmartKeyChat",
+    "reddit": "Smartkeyplatform/"
+}

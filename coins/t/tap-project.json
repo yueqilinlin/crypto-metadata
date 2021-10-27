@@ -1,0 +1,26 @@
+{
+    "id": "tap-project",
+    "symbol": "ttt",
+    "name": "Tapcoin",
+    "platforms": {
+        "ethereum": "0x9f599410d207f3d2828a8712e5e543ac2e040382"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The only integrated token on all gaming platforms. With Tapcoins, all those hours of gaming start to pay off.\r\n\r\n"
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x9f599410d207f3d2828a8712e5e543ac2e040382",
+    "url": "https://www.tapproject.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x9f599410d207f3d2828a8712e5e543ac2e040382",
+        "https://ethplorer.io/address/0x9f599410d207f3d2828a8712e5e543ac2e040382"
+    ],
+    "twitter": "Tap_Coin",
+    "facebook": "TheTapProject",
+    "telegram": "tapcoin",
+    "reddit": "tapproject/",
+    "github_org": "TapProject"
+}

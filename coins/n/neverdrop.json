@@ -1,0 +1,23 @@
+{
+    "id": "neverdrop",
+    "symbol": "nd",
+    "name": "NeverDrop",
+    "platforms": {
+        "binance-smart-chain": "0xc45a7dc7f6e3e20168fbbbe0bd8258a0b76fec05"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NeverDrop is a hyperdeflationary token on the Binance Smart Chain that leverages price impact triggers to initiate token buy backs with the intent of mitigating mass sell-off events. The buy backs utilize a randomness factor to deter bot manipulation while automatically purchasing tokens if the trading activity over a period of transactions results in a net loss, which is done so through its BNB pool. The token also utilizes auto-LP for greater security.\r\n\r\nEach transaction is met with a 10% fee: a total of 8% is sent to liquidity (5% to BNB pool, 3% to auto-LP), 1% is redistributed to holders, and 1% is held for further project development and marketing"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc45a7dc7f6e3e20168fbbbe0bd8258a0b76fec05",
+    "url": "https://www.neverdrop.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xC45A7DC7F6e3e20168FBbBE0Bd8258a0B76fec05"
+    ],
+    "twitter": "NeverDropToken",
+    "telegram": "neverdrop",
+    "reddit": "NeverDrop/"
+}

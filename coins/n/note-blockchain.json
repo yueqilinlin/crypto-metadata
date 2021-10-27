@@ -1,0 +1,22 @@
+{
+    "id": "note-blockchain",
+    "symbol": "ntbc",
+    "name": "Note Blockchain",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "Note Blockchain is solving the problem from the other direction.  By using a basic blockchain and a very easy to understand and use interface, and by giving users an easy and fun way to give and receive Notes.  Once we get a sustainable user base, more features will be implemented."
+    },
+    "country_origin": "",
+    "genesis_date": "2019-01-07",
+    "url": "https://www.notebc.com",
+    "explorers": [
+        "http://explorer.notebc.io",
+        "https://blocks.notebc.space/"
+    ],
+    "twitter": "BlockchainNote",
+    "github_org": "NoteBlockchain"
+}

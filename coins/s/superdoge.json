@@ -1,0 +1,24 @@
+{
+    "id": "superdoge",
+    "symbol": "SUPDOG",
+    "name": "SUPERDOGE",
+    "platforms": {
+        "binance-smart-chain": "0x622a1297057ea233287ce77bdbf2ab4e63609f23"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "TH",
+    "genesis_date": null,
+    "contract_address": "0x622a1297057ea233287ce77bdbf2ab4e63609f23",
+    "url": "https://superdoge.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x622a1297057ea233287ce77bdbf2ab4e63609f23"
+    ],
+    "twitter": "SUPERDOGEio",
+    "facebook": "https://www.facebook.com/SUPERDOGEio",
+    "telegram": "SUPERDOGEio",
+    "reddit": "https://www.reddit.com"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "contraction-dynamic-set-dollar",
+    "symbol": "cdsd",
+    "name": "Contraction Dynamic Set Dollar",
+    "platforms": {
+        "ethereum": "0xde25486ccb4588ce5d9fb188fb6af72e768a466a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CDSD is the second token in the dynamic set dollar protocol. Users burn DSD tokens when the price of dsd is under peg and receive CDSD. The CDSD token can be bonded/staked to https://dsd.finance and redeemd for DSD when the DSD preice is above $1.00\r\nusers can farm additional CDSD for providing liquidity on sushiswap for the cdsd/usdc pair and staking the slp token on https://dsd.finance"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xde25486ccb4588ce5d9fb188fb6af72e768a466a",
+    "url": "https://dsd.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xde25486ccb4588ce5d9fb188fb6af72e768a466a",
+        "https://ethplorer.io/address/0xde25486ccb4588ce5d9fb188fb6af72e768a466a"
+    ],
+    "twitter": "dsdproject",
+    "telegram": "dynamicsetdollar",
+    "github_org": "dynamicsetdollar"
+}

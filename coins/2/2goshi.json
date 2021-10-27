@@ -1,0 +1,22 @@
+{
+    "id": "2goshi",
+    "symbol": "2goshi",
+    "name": "2GoShi",
+    "platforms": {
+        "binance-smart-chain": "0x70e132641d6f1bd787b119a289fee544fbb2f316"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "2% burn, 2% distributed to holders. 2 is better than 1."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x70e132641d6f1bd787b119a289fee544fbb2f316",
+    "url": "https://2goshi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x70e132641d6f1bd787b119a289fee544fbb2f316"
+    ],
+    "twitter": "2goshiMoney",
+    "telegram": "twogoshi"
+}

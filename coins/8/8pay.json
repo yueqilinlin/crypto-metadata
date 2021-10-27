@@ -1,0 +1,27 @@
+{
+    "id": "8pay",
+    "symbol": "8pay",
+    "name": "8Pay",
+    "platforms": {
+        "binance-smart-chain": "0xfeea0bdd3d07eb6fe305938878c0cadbfa169042",
+        "ethereum": "0xfeea0bdd3d07eb6fe305938878c0cadbfa169042"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfeea0bdd3d07eb6fe305938878c0cadbfa169042",
+    "url": "https://8pay.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xFeea0bDd3D07eb6FE305938878C0caDBFa169042",
+        "https://ethplorer.io/address/0xfeea0bdd3d07eb6fe305938878c0cadbfa169042",
+        "https://bscscan.com/token/0xfeea0bdd3d07eb6fe305938878c0cadbfa169042"
+    ],
+    "twitter": "8Pay_network",
+    "telegram": "official_8pay"
+}

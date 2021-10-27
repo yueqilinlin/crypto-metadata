@@ -1,0 +1,24 @@
+{
+    "id": "idexo-token",
+    "symbol": "ido",
+    "name": "Idexo Token",
+    "platforms": {
+        "ethereum": "0xf9c53268e9de692ae1b2ea5216e24e1c3ad7cb1e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Idexo has built a cross-chain NFT API that anyone can use to build NFTs and Marketplaces into their applications in just a few lines of code and a simplified economic model that enables transactions to happen with just an API key rather than a blockchain wallet and with stable pricing for methods on different chains such as Arweave, Avalanche, BSC, Ethereum and Polygon with more in the pipeline. This is especially useful for games and web applications and yet has broad use cases across many different industries and great appeal to the vast majority of developers who have yet to adopt blockchain. \r\n\r\nIdexo used its own platform to create novel innovations such as letting users mint NFTs on Twitter and Telegram with simple commands. These growth hacks led to rapid growth of the idexo Community to 30K on Telegram and 16K on Twitter in a few short months. Idexo has since turned this into a product called the Community Development Kit that any project can use to growth their user base with NFT-based programs. Idexo has recently signed its first CDK customer and has many more interested."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf9c53268e9de692ae1b2ea5216e24e1c3ad7cb1e",
+    "url": "https://idexo.com",
+    "explorers": [
+        "https://etherscan.io/token/0xF9c53268e9de692AE1b2ea5216E24e1c3ad7CB1E",
+        "https://ethplorer.io/address/0xf9c53268e9de692ae1b2ea5216e24e1c3ad7cb1e"
+    ],
+    "twitter": "idexo_io",
+    "telegram": "idexo_io",
+    "github_org": "idexo"
+}

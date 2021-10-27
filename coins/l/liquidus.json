@@ -1,0 +1,24 @@
+{
+    "id": "liquidus",
+    "symbol": "liq",
+    "name": "Liquidus",
+    "platforms": {
+        "binance-smart-chain": "0xc7981767f644c7f8e483dabdc413e8a371b83079"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Liquidus is a practical tool that allows you to easily stake your crypto assets on the leading DeFi platforms. It simplifies liquidity and staking, earning you premium rates fueled by the decentralised economy. Not only will liquidus provide a more seamless farming experience, but it will pick, sort and show you the best investments for your held assets, helping you make your money go further. Becoming a one stop solution for earning decentralised interest is the main vision for Liquidus."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc7981767f644c7f8e483dabdc413e8a371b83079",
+    "url": "https://liquidus.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xc7981767f644c7f8e483dabdc413e8a371b83079"
+    ],
+    "twitter": "LiquidusFinance",
+    "telegram": "liquidusfinance",
+    "reddit": "liquidusfinance/",
+    "github_org": "Liquidus-Finance"
+}

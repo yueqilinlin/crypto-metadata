@@ -1,0 +1,24 @@
+{
+    "id": "cezo",
+    "symbol": "cez",
+    "name": "Cezo",
+    "platforms": {
+        "ethereum": "0xfebc25f4c5fc3e90a7efae0b4d436a77c9e131b3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CEZO is a decentralized OS infrastructure to enable full ecosystem required by complex computations of DApps.\r\n\r\nCEZO node is a self-contained OS, that can submit the of the off-chain computations, dispute or approve the results provided by other nodes."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfebc25f4c5fc3e90a7efae0b4d436a77c9e131b3",
+    "url": "https://cezo.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xfebc25f4c5fc3e90a7efae0b4d436a77c9e131b3",
+        "https://ethplorer.io/address/0xfebc25f4c5fc3e90a7efae0b4d436a77c9e131b3"
+    ],
+    "twitter": "cezo_io",
+    "telegram": "cezo_io",
+    "github_org": "cezo-os"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "liquiddriver",
+    "symbol": "lqdr",
+    "name": "LiquidDriver",
+    "platforms": {
+        "fantom": "0x10b620b2dbac4faa7d7ffd71da486f5d44cd86f9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fantom Ecosystem"
+    ],
+    "description": {
+        "en": "LiquidDriver is a High-Yield liquidity mining DAPP launched on fantom, incentivizing liquidity providers on SushiSwap. \r\n\r\nWe aim to foster innovation, development and integration on opera so users can experience the sheer power of DeFi, combined with the seamlessness of a CeFi experience."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x10b620b2dbac4faa7d7ffd71da486f5d44cd86f9",
+    "url": "https://www.liquiddriver.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0x10b620b2dbac4faa7d7ffd71da486f5d44cd86f9"
+    ],
+    "github_org": "LiquidDriver-finance"
+}

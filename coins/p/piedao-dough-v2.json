@@ -1,0 +1,30 @@
+{
+    "id": "piedao-dough-v2",
+    "symbol": "dough",
+    "name": "PieDAO DOUGH v2",
+    "platforms": {
+        "ethereum": "0xad32a8e6220741182940c5abf610bde99e737b2d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset Manager",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "DOUGH is PieDAO\u2019s governance token. Anybody can be a member of PieDAO by holding it, and participate in the DAO governance."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xad32a8e6220741182940c5abf610bde99e737b2d",
+    "url": "https://www.piedao.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xad32A8e6220741182940c5aBF610bDE99E737b2D",
+        "https://ethplorer.io/address/0xad32a8e6220741182940c5abf610bde99e737b2d"
+    ],
+    "twitter": "PieDAO_DeFi",
+    "telegram": "piedao",
+    "reddit": "PieDAO/",
+    "github_org": "pie-dao"
+}

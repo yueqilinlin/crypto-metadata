@@ -1,0 +1,23 @@
+{
+    "id": "golder-coin",
+    "symbol": "gldr",
+    "name": "Golder Coin",
+    "platforms": {
+        "ethereum": "0x172f20402afc807c8a5566bceed00831adb938ca"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Golder Coin is both an in-game currency and an independent store of value for players of Golder Games like WAR FIELD. Players stake Golder on their gameplay and can win them from opponents. Golder Games provide a comprehensive video game economy that uses the power, trust, and transparency of blockchain to facilitate economic transactions within, between, and beyond our games."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x172f20402afc807c8a5566bceed00831adb938ca",
+    "url": "https://www.goldergames.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x172f20402afc807c8a5566bceed00831adb938ca",
+        "https://ethplorer.io/address/0x172f20402afc807c8a5566bceed00831adb938ca"
+    ],
+    "facebook": "goldergames",
+    "telegram": "GOLDERGAMES"
+}

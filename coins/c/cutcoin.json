@@ -1,0 +1,23 @@
+{
+    "id": "cutcoin",
+    "symbol": "cut",
+    "name": "CUTcoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "CUT coin uses the latest advances in cryptography to allow anonymous transactions. Wallet balances, transaction amount, sender and receiver are private by default on our blockchain. \r\nOur innovative Proof of Stake consensus is the first in history to keep the total amount of coins even in staking wallets completely concealed."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://www.cutcoin.org/",
+    "explorers": [
+        "https://blocks.cutcoin.org/"
+    ],
+    "twitter": "CUTc0in",
+    "telegram": "cutcointalk",
+    "reddit": "cutc0in/",
+    "github_org": "cutcoin"
+}

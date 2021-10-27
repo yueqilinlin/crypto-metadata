@@ -1,0 +1,21 @@
+{
+    "id": "lazio-fan-token",
+    "symbol": "lazio",
+    "name": "Lazio Fan Token",
+    "platforms": {
+        "binance-smart-chain": "0x77d547256a2cd95f32f67ae0313e450ac200648d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Lazio Fan Token is a BEP-20 utility token designed to revolutionize the fan experience for all S.S. Lazio supporters.\r\n\r\nThe token empowers S.S. Lazio fans to participate in team voting polls, hunt digital collectibles, purchase NFTs, and enjoy gamification features that are tied with fan rewards or great experiences.\r\n\r\nThe LAZIO fan tokens aim to reshape the relationship between S.S. Lazio and the club's fans by providing crypto-powered one-stop engagement and governance solutions leveraging the Binance Fan Token Platform.\r\nThe Binance Fan Tokens further empowers S.S. Lazio fans by providing fans exciting and revolutionary ways to engage and grow with their favorite team.\r\n\r\nThe club is also able to incorporate the utility token into its ecosystem, enabling voting, donations, E-commerce, NFT, and more."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x77d547256a2cd95f32f67ae0313e450ac200648d",
+    "url": "https://www.sslazio.it/en",
+    "explorers": [
+        "https://bscscan.com/token/0x77d547256a2cd95f32f67ae0313e450ac200648d"
+    ],
+    "twitter": "OfficialSSLazio"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "defina-finance",
+    "symbol": "fina",
+    "name": "Defina Finance",
+    "platforms": {
+        "binance-smart-chain": "0x426c72701833fddbdfc06c944737c6031645c708"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x426c72701833fddbdfc06c944737c6031645c708",
+    "url": "https://defina.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x426c72701833fddbdfc06c944737c6031645c708"
+    ],
+    "twitter": "DefinaFinance",
+    "telegram": "definafinance1"
+}

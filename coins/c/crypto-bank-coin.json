@@ -1,0 +1,23 @@
+{
+    "id": "crypto-bank-coin",
+    "symbol": "cbc",
+    "name": "Crypto Bank Coin",
+    "platforms": {
+        "binance-smart-chain": "0xb6ff6d6dfb0545cd620c99194a9a787ccaf797f3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crypto Bank Coin (CBC) is an extension of our operational efficiency to build a safe and rewarding ecosystem. Achieving these goals requires an understanding of Binance Smart Chain\u2019s mission to empower the crypto community. It is important for Defi projects to set a similar vision for the attainment of their goals to empower the success and transparency of their projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb6ff6d6dfb0545cd620c99194a9a787ccaf797f3",
+    "url": "https://www.cbctoken.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xb6ff6d6dfb0545cd620c99194a9a787ccaf797f3"
+    ],
+    "twitter": "CryptoBankCoin",
+    "telegram": "CBC_teamroom",
+    "github_org": "QueenDex-Exchange"
+}

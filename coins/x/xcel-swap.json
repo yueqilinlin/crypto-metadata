@@ -1,0 +1,22 @@
+{
+    "id": "xcel-swap",
+    "symbol": "xld",
+    "name": "Xcel Swap",
+    "platforms": {
+        "binance-smart-chain": "0xc79d1fd14f514cd713b5ca43d288a782ae53eab2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Trade, Stake & Earn 600% APY with the most rewarding DEX. Powered XcelPay & XcelTrip."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc79d1fd14f514cd713b5ca43d288a782ae53eab2",
+    "url": "https://www.xcelswap.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xC79d1fD14F514cD713b5cA43D288a782Ae53eAb2"
+    ],
+    "twitter": "XcelSwap",
+    "telegram": "XcelToken"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "black-kishu-inu",
+    "symbol": "bishu",
+    "name": "Black Kishu Inu",
+    "platforms": {
+        "ethereum": "0x99043bb680ab9262c7b2ac524e00b215efb7db9b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Black Kishu Inu is a community-driven ERC20 token. For every transactions (Buy or sell) 3% of each transaction are redistributed to holders. All liquidities are locked on a Uniswap pool."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x99043bb680ab9262c7b2ac524e00b215efb7db9b",
+    "url": "https://bishuinu.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x99043bb680ab9262c7b2ac524e00b215efb7db9b",
+        "https://ethplorer.io/address/0x99043bb680ab9262c7b2ac524e00b215efb7db9b"
+    ],
+    "twitter": "bishutakeover",
+    "telegram": "BishuTakeOver",
+    "reddit": "Bishu/"
+}

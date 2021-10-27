@@ -1,0 +1,23 @@
+{
+    "id": "mini-floki",
+    "symbol": "MiniFloki",
+    "name": "Mini Floki",
+    "platforms": {
+        "binance-smart-chain": "0x5ee57424151d7256739a6e3386561f62d9f6eb05"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Meet MiniFloki, Inspired by the hottest memecoin to hit the market in recent times, Mini Floki sends Floki rewards right to your wallet automatically just by holding! Mini Floki combines the best of both worlds \u2013 capitalizing on the current hype of Floki while also providing Floki rewards to holders. MiniFloki's tokenomics are designed to ensure the long-term growth potential of Mini Floki and provide protection to holders. How do they do it? Firstly, 1% of all transactions goes to the liquidity pool, helping prevent volatility as this pool grows. Secondly, 5% goes towards buying Floki and sending it directly to holder\u2019s wallets! Lastly, 9% is for marketing and manual buyback."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5ee57424151d7256739a6e3386561f62d9f6eb05",
+    "url": "https://minifloki.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x5ee57424151d7256739a6e3386561f62d9f6eb05"
+    ],
+    "twitter": "MiniFlokiBSC",
+    "telegram": "MiniFlokiEN",
+    "github_org": "minifloki"
+}

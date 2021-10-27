@@ -1,0 +1,24 @@
+{
+    "id": "yfmoonshot",
+    "symbol": "yfms",
+    "name": "YFMoonshot",
+    "platforms": {
+        "ethereum": "0xfef3bef71a5eb97e097039038776fd967ae5b106"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YF Moonshot (YFMS) is a DeFi protocol which allows users to stake their cryptocurrency assets in various different pools and earn YFMS, our platforms governance token in exchange.\r\nUsers that hold & stake $YFMS will earn additional $YFMS overtime.\r\nUsers may also stake stable coins including USDT, DAI, TUSD tokens to different pools available to farm $YFMS."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfef3bef71a5eb97e097039038776fd967ae5b106",
+    "url": "https://www.yfmoonshot.com",
+    "explorers": [
+        "https://etherscan.io/token/0xfef3bef71a5eb97e097039038776fd967ae5b106",
+        "https://ethplorer.io/address/0xfef3bef71a5eb97e097039038776fd967ae5b106"
+    ],
+    "twitter": "YFMoonshot",
+    "telegram": "YFMOONSHOTCHAT",
+    "github_org": "yfmoonshot"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "pylon-finance",
+    "symbol": "pylon",
+    "name": "Pylon Finance",
+    "platforms": {
+        "ethereum": "0xd7b7d3c0bda57723fb54ab95fd8f9ea033af37f2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd7b7d3c0bda57723fb54ab95fd8f9ea033af37f2",
+    "url": "https://pylon.finance/#/",
+    "explorers": [
+        "https://etherscan.io/token/0xD7B7d3C0bdA57723Fb54ab95Fd8F9EA033AF37f2",
+        "https://ethplorer.io/address/0xd7b7d3c0bda57723fb54ab95fd8f9ea033af37f2"
+    ],
+    "twitter": "Pylonfinance",
+    "telegram": "pylonfinance"
+}

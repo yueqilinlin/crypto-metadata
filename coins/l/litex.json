@@ -1,0 +1,27 @@
+{
+    "id": "litex",
+    "symbol": "lxt",
+    "name": "LITEX",
+    "platforms": {
+        "ethereum": "0xbc46d9961a3932f7d6b64abfdec80c1816c4b835"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "LITEX is a completely decentralized cryptocurrency payment ecosystem. Based on the business model of Epro's payment star product, \u201cNon-bank card payment\u201d and the BOLT protocol, the LITEX team designed the LTXN (LITEX Network) to enable the purchaser to pay the legal currency to the merchants and consumers. The process by which the purchaser pays back the cryptocurrency. This process is secured by smart contracts and does not require the involvement of a centralized operations organization.\r\n\r\nIn the LITEX architecture, the upper layer is matched by the decision network to the consumer's payment request and the purchaser's purchase request, and the lower layer is established by the lightning network to establish a safe and efficient payment channel to pass the cryptocurrency, and the merchant completes the purchaser through the acquirer. Consumers pay for the settlement of legal currency. The upper-level decision-making network also suppresses the centralization tendency of the lightning network while improving network efficiency through incentives and other strategies."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0xbc46d9961a3932f7d6b64abfdec80c1816c4b835",
+    "url": "http://litex.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xbc46d9961a3932f7d6b64abfdec80c1816c4b835",
+        "https://ethplorer.io/address/0xbc46d9961a3932f7d6b64abfdec80c1816c4b835"
+    ],
+    "twitter": "litex_io",
+    "facebook": "LITEX-2024570374476812",
+    "telegram": "litex_official",
+    "github_org": "litexio"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "openswap",
+    "symbol": "oswap",
+    "name": "OpenSwap",
+    "platforms": {
+        "ethereum": "0xb32ac3c79a94ac1eb258f3c830bbdbc676483c93",
+        "binance-smart-chain": "0xb32ac3c79a94ac1eb258f3c830bbdbc676483c93"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OpenSwap is a 1-stop DeFi Hub that aims to reduce the friction of exchanging assets on different chains through a decentralized bridging mechanism that enables trades to be carried out on the lowest cost chain while offering an innovative farming mechanism that unlocks value in underlying assets so that farming is about long-term value and not short-term speculation."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb32ac3c79a94ac1eb258f3c830bbdbc676483c93",
+    "url": "https://www.openswap.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0xb32ac3c79a94ac1eb258f3c830bbdbc676483c93",
+        "https://ethplorer.io/address/0xb32ac3c79a94ac1eb258f3c830bbdbc676483c93",
+        "https://bscscan.com/token/0xb32ac3c79a94ac1eb258f3c830bbdbc676483c93"
+    ],
+    "twitter": "openswapdex",
+    "telegram": "openswapdex"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "amc-fight-night",
+    "symbol": "amc",
+    "name": "AMC Fight Night",
+    "platforms": {
+        "ethereum": "0x7603de2ea4cbceb0250118de03fcb70fe1e8e935",
+        "binance-smart-chain": "0x1496fb27d8cf1887d21cac161987821859ca56ba"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "International token for tournaments, fans, MMA fighters, featuring world stars"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7603de2ea4cbceb0250118de03fcb70fe1e8e935",
+    "url": "https://amctoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7603de2ea4cbceb0250118de03fcb70fe1e8e935",
+        "https://ethplorer.io/address/0x7603de2ea4cbceb0250118de03fcb70fe1e8e935"
+    ],
+    "twitter": "amc_token",
+    "telegram": "amc_en"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "predix-network",
+    "symbol": "prdx",
+    "name": "Predix Network",
+    "platforms": {
+        "ethereum": "0x556148562d5ddeb72545d7ec4b3ec8edc8f55ba7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Prediction Market Platform"
+    },
+    "country_origin": "SE",
+    "genesis_date": null,
+    "contract_address": "0x556148562d5ddeb72545d7ec4b3ec8edc8f55ba7",
+    "url": "https://predix.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x556148562d5DdeB72545D7EC4B3eC8edc8F55Ba7",
+        "https://ethplorer.io/address/0x556148562d5ddeb72545d7ec4b3ec8edc8f55ba7"
+    ],
+    "twitter": "predixnetwork",
+    "telegram": "predixnetwork"
+}

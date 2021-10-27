@@ -1,0 +1,22 @@
+{
+    "id": "buzzcoin",
+    "symbol": "buzz",
+    "name": "BuzzCoin",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": "BuzzCoin (BUZZ) is a decentralized and open-source cryptocurrency that offers both private and transparent transaction types. BuzzCoin payments are published on a public block chain, but the sender, recipient, and amount of a transaction remain private. \r\n\r\nBUZZcoin is a non-profit blockchain implementation that aims to help save the worlds declining bee population. By implementing blockchain technology into existing bee hives  BUZZcoin aims to create a worldwide data network that collects beehive health data. The project brings together a diverse group of experts, developing a smart hive device prototype that will soon enter its field testing phase.\r\n\r\nBUZZcoin is supporting the global effort to save the bees by providing collected data to scientific projects and organizations that focus on saving the worlds bee population. By providing this data to the network and being able to get highly accurate data from the hives, beekeepers are rewarded in cryptocurrency for their data collection. This will ensure a wide spread usage of the smart hive devices.\r\n\r\nThe core team's main focus when they started the BC-HMD Device development back in October 2017 was collecting industry specific research, primarily focusing on the smart hive\r\ntechnology. The teams experience in various industries is the driving force behind the prototype development. Transitioning the architecture of BUZZcoin from a proof-of-stake coin into\r\none of the very few existing cryptocurrencies that have a real world application."
+    },
+    "country_origin": "",
+    "genesis_date": "2015-12-29",
+    "url": "https://www.buzzcoin.info",
+    "explorers": [
+        "https://explorer.buzzcoin.info"
+    ],
+    "twitter": "BuzzCoin",
+    "facebook": "BUZZCOIN",
+    "telegram": "buzzcoincommunity",
+    "reddit": "Buzzcoin",
+    "github_org": "buzzcoin-project"
+}

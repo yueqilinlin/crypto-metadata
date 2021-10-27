@@ -1,0 +1,27 @@
+{
+    "id": "xio",
+    "symbol": "xio",
+    "name": "Blockzero Labs",
+    "platforms": {
+        "ethereum": "0x0f7f961648ae6db43c75663ac7e5414eb79b5704"
+    },
+    "hashing_algorithm": "Keccak",
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "We are Blockzero Labs, a blockchain startup network focused on launching innovative, original, and experimental ideas into the decentralized world."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x0f7f961648ae6db43c75663ac7e5414eb79b5704",
+    "url": "https://blockzerolabs.io",
+    "explorers": [
+        "https://etherscan.io/token/0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704",
+        "https://ethplorer.io/address/0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704"
+    ],
+    "twitter": "blockzerolabs",
+    "facebook": "xionetwork",
+    "telegram": "blockzerolabs",
+    "reddit": "XIO_Network/"
+}

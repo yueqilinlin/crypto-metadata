@@ -1,0 +1,24 @@
+{
+    "id": "flama",
+    "symbol": "fma",
+    "name": "Flama",
+    "platforms": {
+        "ethereum": "0x0f8794f66c7170c4f9163a8498371a747114f6c4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0f8794f66c7170c4f9163a8498371a747114f6c4",
+    "url": "https://www.flamanet.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x0f8794f66C7170c4f9163a8498371A747114f6C4",
+        "https://ethplorer.io/address/0x0f8794f66C7170c4f9163a8498371A747114f6C4"
+    ],
+    "twitter": "FlamaToken",
+    "telegram": "flamatoken",
+    "github_org": "FlamaToken"
+}

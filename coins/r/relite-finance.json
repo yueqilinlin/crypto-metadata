@@ -1,0 +1,24 @@
+{
+    "id": "relite-finance",
+    "symbol": "reli",
+    "name": "Relite Finance",
+    "platforms": {
+        "ethereum": "0x0e58ed58e150dba5fd8e5d4a49f54c7e1e880124",
+        "binance-smart-chain": "0x7015a4b6ec17b64e09252a99f9f6e7feee6c37eb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Relite Finance is a cross-chain lending protocol enabling users to lend and borrow all crypto assets in one place. We do this by utilising the latest Polkadot and Ethereum frameworks.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0e58ed58e150dba5fd8e5d4a49f54c7e1e880124",
+    "url": "https://relite.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x0e58ed58e150dba5fd8e5d4a49f54c7e1e880124",
+        "https://ethplorer.io/address/0x0e58ed58e150dba5fd8e5d4a49f54c7e1e880124"
+    ],
+    "twitter": "relitefinance",
+    "telegram": "ReliteFinanceOfficial"
+}

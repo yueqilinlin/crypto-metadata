@@ -1,0 +1,26 @@
+{
+    "id": "bnx",
+    "symbol": "bnx",
+    "name": "BTCNEXT Coin",
+    "platforms": {
+        "ethereum": "0x40c836982788dca47d11024b1fa3e01fd4661766"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x40c836982788dca47d11024b1fa3e01fd4661766",
+    "url": "https://btcnext.io",
+    "explorers": [
+        "https://etherscan.io/token/0x40c836982788dca47d11024b1fa3e01fd4661766",
+        "https://ethplorer.io/address/0x40c836982788dca47d11024b1fa3e01fd4661766"
+    ],
+    "twitter": "BTCNext_xchange",
+    "facebook": "MyBTCNext",
+    "telegram": "btcnextofficial"
+}

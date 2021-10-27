@@ -1,0 +1,29 @@
+{
+    "id": "my-neighbor-alice",
+    "symbol": "alice",
+    "name": "My Neighbor Alice",
+    "platforms": {
+        "ethereum": "0xac51066d7bec65dc4589368da368b212745d63e8",
+        "binance-smart-chain": "0xac51066d7bec65dc4589368da368b212745d63e8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "DaoMaker Ecosystem",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xac51066d7bec65dc4589368da368b212745d63e8",
+    "url": "https://www.myneighboralice.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xac51066d7bec65dc4589368da368b212745d63e8",
+        "https://ethplorer.io/address/0xac51066d7bec65dc4589368da368b212745d63e8",
+        "https://bscscan.com/token/0xAC51066d7bEC65Dc4589368da368b212745d63E8"
+    ],
+    "twitter": "MyNeighborAlice",
+    "telegram": "MyNeighborAlice"
+}

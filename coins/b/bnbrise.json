@@ -1,0 +1,22 @@
+{
+    "id": "bnbrise",
+    "symbol": "brise",
+    "name": "BNBRise",
+    "platforms": {
+        "binance-smart-chain": "0x801d4ff6ca34ee16c406c88764aa7fb8e8d290e2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BNBRISE is a hyper deflationary token, which rewards investors for holding tokens, whilst also incorporating both the buyback approach & BNB rewards currently present in the market."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x801d4ff6ca34ee16c406c88764aa7fb8e8d290e2",
+    "url": "https://bnbrise.online/",
+    "explorers": [
+        "https://bscscan.com/token/0x801d4ff6ca34ee16c406c88764aa7fb8e8d290e2"
+    ],
+    "twitter": "bnbrise",
+    "telegram": "bnbrise"
+}

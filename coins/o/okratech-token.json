@@ -1,0 +1,22 @@
+{
+    "id": "okratech-token",
+    "symbol": "ort",
+    "name": "Okratech Token",
+    "platforms": {
+        "binance-smart-chain": "0x17b17039711e61f8f5232c28d124ddaa2231bbff"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ortcoin is creating a blockchain jobs platform that helps clients and freelancers connect, providing efficient transactions and robust protections through smart contracts \u2013 wherever you\u2019re based."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x17b17039711e61f8f5232c28d124ddaa2231bbff",
+    "url": "https://ortcoin.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x17b17039711e61f8f5232c28d124ddaa2231bbff"
+    ],
+    "twitter": "Ortcoin1",
+    "telegram": "icoort"
+}

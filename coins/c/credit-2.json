@@ -1,0 +1,24 @@
+{
+    "id": "credit-2",
+    "symbol": "CREDIT",
+    "name": "PROXI DeFi",
+    "platforms": {
+        "ethereum": "0xc4cb5793bd58bad06bf51fb37717b86b02cbe8a4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PROXI is DeFi 2.0 for Cross Chain Derivative Issuance and Credit Lending. PROXI provides the smartest way to invest derivative assets and earns interests with credit-based high leverage tools through the decentralized secure protocol.  CREDIT is the native utility token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc4cb5793bd58bad06bf51fb37717b86b02cbe8a4",
+    "url": "https://proxidefi.com",
+    "explorers": [
+        "https://etherscan.io/token/0xc4cb5793bd58bad06bf51fb37717b86b02cbe8a4",
+        "https://ethplorer.io/address/0xc4cb5793bd58bad06bf51fb37717b86b02cbe8a4"
+    ],
+    "twitter": "_ProxiDeFi",
+    "telegram": "proxi_defi",
+    "github_org": "ProxideFi"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "mobius",
+    "symbol": "mobi",
+    "name": "Mobius",
+    "platforms": {
+        "stellar": "OBI-GA6HCMBLTZS5VYYBCATRBRZ3BZJMAFUDKYYF6AH6MVCMGWMRDNSWJPIH"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Internet of Things (IOT)"
+    ],
+    "description": {
+        "en": "Mobius closes the gap between the internet world and blockchain world through innovative and simple protocols that introduce new standards for cross-blockchain login, payment, governance, and oracles."
+    },
+    "country_origin": "US",
+    "genesis_date": "2017-10-18",
+    "contract_address": "OBI-GA6HCMBLTZS5VYYBCATRBRZ3BZJMAFUDKYYF6AH6MVCMGWMRDNSWJPIH",
+    "url": "https://mobius.network/",
+    "explorers": [
+        "https://stellar.expert/explorer/asset/MOBI-GA6HCMBLTZS5VYYBCATRBRZ3BZJMAFUDKYYF6AH6MVCMGWMRDNSWJPIH"
+    ],
+    "twitter": "mobius_network",
+    "facebook": "mobiusnet",
+    "telegram": "mobius_network",
+    "reddit": "MobiusNetwork/",
+    "github_org": "mobius-network"
+}

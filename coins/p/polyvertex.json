@@ -1,0 +1,22 @@
+{
+    "id": "polyvertex",
+    "symbol": "vert",
+    "name": "PolyVertex",
+    "platforms": {
+        "polygon-pos": "0x72572ccf5208b59f4bcc14e6653d8c31cd1fc5a0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Vertex (VERT) is the native utility token of the PolyVertex yield farm. PolyVertex is a community-led project aiming for long-term sustainability. Interest in the form of VERT is paid to users that stake tokens on the PolyVertex platform.\r\n\r\n0.055 new VERT tokens are minted each block. There is a soft cap of 3 million VERT tokens. Once 3 million tokens have been minted, farming will stop. \r\n\r\nFees on the PolyVertex platform are used to buy back and burn VERT from circulation. Soon, VERT will be used as the governance token of PolyVertex, allowing the community to vote on issues that affect the platform. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x72572ccf5208b59f4bcc14e6653d8c31cd1fc5a0",
+    "url": "https://polyvertex.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x72572ccf5208b59f4bcc14e6653d8c31cd1fc5a0"
+    ],
+    "twitter": "FarmVertex",
+    "telegram": "polyvertex"
+}

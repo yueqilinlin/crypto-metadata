@@ -1,0 +1,22 @@
+{
+    "id": "babyeth-v2",
+    "symbol": "babyethv2",
+    "name": "BabyETH V2",
+    "platforms": {
+        "binance-smart-chain": "0x1718c8727fa248f8b2521e05e1d1065e3be56d55"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BabyETHv2 is the first Ethereum reflection token.\r\nSimply hold $BABYETHv2 tokens and get rewarded in Ethereum on every transaction!\r\nWith the auto-claim feature, you\u2019ll receive Ethereum automatically in your wallet every 60 minutes. BabyETHv2 has a total supply of 100,000,000,000 tokens.\r\n \r\n7% of every buy/sell is taken and redistributed to all holders. Hold $BabyETHv2 tokens, earn Ethereum. A Minimum of 700,000, tokens is required in order to receive rewards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1718c8727fa248f8b2521e05e1d1065e3be56d55",
+    "url": "https://babyethv2.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x1718c8727fa248f8b2521e05e1d1065e3be56d55"
+    ],
+    "twitter": "BabyEthCoin",
+    "telegram": "realbabyeth"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "feeder-finance",
+    "symbol": "feed",
+    "name": "Feeder Finance",
+    "platforms": {
+        "binance-smart-chain": "0x67d66e8ec1fd25d98b3ccd3b19b7dc4b4b7fc493"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "- Feeder.finance aims to provide passive and diversified yield aggregation solutions for DeFi investors. \r\n\r\n- Our model makes assumptions and runs on the two principles that should be clear to anyone with a finance or economics background: 1) The Efficient Market Hypothesis, and 2) Random Walk Hypothesis\r\n\r\n- Our product will focus on a so-called vault of vaults or vaults of pools solution that rebalanced regularly based on simple but powerful formulas that will be made public prior to the launch \u2014 Feeder.finance does not aim to reinvent the wheel, simply create a simple and useful product for passively-minded investors for the long-term.\r\n\r\n- We adopt the concept of real-world \u201cFeeder Funds\u201d (also known as \u201cfund of funds\u201d) and apply it to DeFi to not compete, but to support, the best capital allocators (Vaults, Liquidity Pools, and perhaps more\u2026) in crypto\r\n\r\nPlease refer to our medium for more:  https://medium.com/feeder-finance/introducing-feeder-finance-defi-aggregator-for-diversified-yield-generation-aba8d953ab31"
+    },
+    "country_origin": "TH",
+    "genesis_date": null,
+    "contract_address": "0x67d66e8ec1fd25d98b3ccd3b19b7dc4b4b7fc493",
+    "url": "https://feeder.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493"
+    ],
+    "twitter": "FeederFinance",
+    "telegram": "FeederFinance"
+}

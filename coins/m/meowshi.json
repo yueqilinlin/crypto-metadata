@@ -1,0 +1,22 @@
+{
+    "id": "meowshi",
+    "symbol": "meow",
+    "name": "Meowshi",
+    "platforms": {
+        "ethereum": "0x650f44ed6f1fe0e1417cb4b3115d52494b4d9b6d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x650f44ed6f1fe0e1417cb4b3115d52494b4d9b6d",
+    "url": "https://app.sushi.com/tools/meowshi",
+    "explorers": [
+        "https://etherscan.io/token/0x650F44eD6F1FE0E1417cb4b3115d52494B4D9b6D",
+        "https://ethplorer.io/address/0x650f44ed6f1fe0e1417cb4b3115d52494b4d9b6d"
+    ],
+    "twitter": "sushiswap"
+}

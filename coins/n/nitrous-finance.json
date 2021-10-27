@@ -1,0 +1,23 @@
+{
+    "id": "nitrous-finance",
+    "symbol": "nos",
+    "name": "Nitrous Finance",
+    "platforms": {
+        "ethereum": "0x7061ee0896ab2c1865078b6c91731f67a89ea6a4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NOS is a fork of Rock3T (3t.finance) without the Treasury. Now owned by Degen.VC."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x7061ee0896ab2c1865078b6c91731f67a89ea6a4",
+    "url": "https://nitrous.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x7061ee0896ab2c1865078b6c91731f67a89ea6a4",
+        "https://ethplorer.io/address/0x7061ee0896ab2c1865078b6c91731f67a89ea6a4"
+    ],
+    "twitter": "nosgobabygo",
+    "telegram": "nosfin"
+}

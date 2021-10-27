@@ -1,0 +1,23 @@
+{
+    "id": "zip",
+    "symbol": "zip",
+    "name": "Zipper Network",
+    "platforms": {
+        "ethereum": "0xa9d2927d3a04309e008b6af6e2e282ae2952e7fd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Zipper is a decentralized value transfer network that enables point to point Message communication, Transaction Transfer and Transaction Settlement across multiple blockchain networks among different financial institutions. Zipper enables and empowers rich and comprehensive blockchain-based services for global financial institutions. Zipper, composed of ZipperNet, Z0 and other ecology participants, is an ecology supporting digital assets transaction and switching within same chains or cross chains, and is committed to construct a financial grade blockchain network with safety and flexibility."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa9d2927d3a04309e008b6af6e2e282ae2952e7fd",
+    "url": "http://zipper.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa9d2927d3a04309e008b6af6e2e282ae2952e7fd",
+        "https://ethplorer.io/address/0xa9d2927d3a04309e008b6af6e2e282ae2952e7fd"
+    ],
+    "twitter": "ZipperInfo",
+    "telegram": "ZipperEN"
+}

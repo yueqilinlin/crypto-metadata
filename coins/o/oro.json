@@ -1,0 +1,25 @@
+{
+    "id": "oro",
+    "symbol": "oro",
+    "name": "ORO",
+    "platforms": {
+        "ethereum": "0xc3eb2622190c57429aac3901808994443b64b466"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "ORO is the governance token for OpenDeFi, which is creating a bridge between real world assets and DeFi."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xc3eb2622190c57429aac3901808994443b64b466",
+    "url": "https://opendefi.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xc3Eb2622190c57429aac3901808994443b64B466",
+        "https://ethplorer.io/address/0xc3eb2622190c57429aac3901808994443b64b466"
+    ],
+    "twitter": "oropocket",
+    "telegram": "oropocket"
+}

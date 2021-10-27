@@ -1,0 +1,23 @@
+{
+    "id": "mission-helios",
+    "symbol": "helios",
+    "name": "Mission Helios",
+    "platforms": {
+        "ethereum": "0xc6d1f1d5a46de07e73091f1c8793293b203f01a1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mission Helios is the first decentralized space community to ever launch an imagery nano-satellite to orbit and mint earth's images as Non-Fungible Tokens on the ethereum blockchain, forever."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc6d1f1d5a46de07e73091f1c8793293b203f01a1",
+    "url": "https://www.missionhelios.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xc6d1f1d5a46de07e73091f1c8793293b203f01a1",
+        "https://ethplorer.io/address/0xc6d1f1d5a46de07e73091f1c8793293b203f01a1"
+    ],
+    "twitter": "missionhelios",
+    "telegram": "missionhelios"
+}

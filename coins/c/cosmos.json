@@ -1,0 +1,31 @@
+{
+    "id": "cosmos",
+    "symbol": "atom",
+    "name": "Cosmos",
+    "platforms": {
+        "binance-smart-chain": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+        "osmosis": "IBC/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem",
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://cosmos.network/",
+    "explorers": [
+        "https://www.mintscan.io/cosmos",
+        "https://cosmos.bigdipper.live/",
+        "https://hubble.figment.network/cosmos/chains/cosmoshub-3",
+        "https://atomscan.com/",
+        "https://bscscan.com/token/0x0eb3a705fc54725037cc9e008bdede697f62f335"
+    ],
+    "twitter": "cosmos",
+    "telegram": "cosmosproject",
+    "reddit": "cosmosnetwork",
+    "github_org": "cosmos"
+}

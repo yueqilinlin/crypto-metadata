@@ -1,0 +1,26 @@
+{
+    "id": "dextools",
+    "symbol": "dext",
+    "name": "DexTools",
+    "platforms": {
+        "ethereum": "0xfb7b4564402e5500db5bb6d63ae671302777c75a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services",
+        "Analytics"
+    ],
+    "description": {
+        "en": "DexTools is a trading assistant focused on Decentraliced exchanges."
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0xfb7b4564402e5500db5bb6d63ae671302777c75a",
+    "url": "https://www.dextools.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xfb7b4564402e5500db5bb6d63ae671302777c75a",
+        "https://ethplorer.io/address/0xfb7b4564402e5500db5bb6d63ae671302777c75a"
+    ],
+    "twitter": "DEXToolsApp",
+    "telegram": "DEXToolsCommunity"
+}

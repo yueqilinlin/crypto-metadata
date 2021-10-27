@@ -1,0 +1,27 @@
+{
+    "id": "zoomswap",
+    "symbol": "zoom",
+    "name": "ZoomSwap",
+    "platforms": {
+        "iotex": "0x86702a7f8898b172de396eb304d7d81207127915"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Automated Market Maker (AMM)",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "ZoomSwap is a cross-chain infrastructure project that builds liquidity for layer-one blockchains, AMMs and partnering projects. Launching on IoTeX, there is an exciting opportunity for farmers to earn ZOOM and other project tokens. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x86702a7f8898b172de396eb304d7d81207127915",
+    "url": "https://zoomswap.io/",
+    "explorers": [
+        "https://iotexscout.io/address/0x86702a7f8898B172de396eB304d7D81207127915"
+    ],
+    "twitter": "zoomswap_io",
+    "telegram": "zoomswapgroup",
+    "github_org": "zoomswap"
+}

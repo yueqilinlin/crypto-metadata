@@ -1,0 +1,23 @@
+{
+    "id": "koinomo",
+    "symbol": "kmo",
+    "name": "Koinomo",
+    "platforms": {
+        "binance-smart-chain": "0x51d098badafc2487167d65f2cd3918f98909905b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Koinomo is a platform for the future of fund management using Smart contract's powered by blockchain Technology."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x51d098badafc2487167d65f2cd3918f98909905b",
+    "url": "https://koinomo.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x51D098baDAfc2487167D65F2cD3918f98909905B"
+    ],
+    "twitter": "koinomotoken",
+    "telegram": "koinomo",
+    "reddit": "Koinomo/"
+}

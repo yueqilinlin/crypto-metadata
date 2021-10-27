@@ -1,0 +1,22 @@
+{
+    "id": "rich-doge-coin",
+    "symbol": "richdoge \ud83d\udcb2",
+    "name": "Rich Doge Coin",
+    "platforms": {
+        "binance-smart-chain": "0x0be7ac16436ef2a02ff8581b7b01ff1cda58e61b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RichDoge is the world's first autoshoot hyper deflationary coin. The autoshoot function automatically buyback the tokens to shoot up the price. RichDoge is here to help the Doge community. Richdoge has unique model that will help find homes for animals."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x0be7ac16436ef2a02ff8581b7b01ff1cda58e61b",
+    "url": "https://richdoge.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x0be7AC16436eF2a02FF8581B7B01Ff1CDA58E61B"
+    ],
+    "twitter": "Richdoge_",
+    "telegram": "richdogeofficial"
+}

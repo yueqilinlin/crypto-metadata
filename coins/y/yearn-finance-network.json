@@ -1,0 +1,24 @@
+{
+    "id": "yearn-finance-network",
+    "symbol": "yfn",
+    "name": "Yearn Finance Network",
+    "platforms": {
+        "ethereum": "0x3dd66732113af9981a861cf489431533aeba33b8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"What is Yearn Finance Network?\r\n\r\nYearn Finance Network is a decentralized currency built on Ethereum open source blockchain which aims to simplify user interaction with popular DeFi protocols and maximize the annual percentage yields (APY) of cryptocurrencies deposited into DeFi. Yearn Finance Network focuses on user privacy, anonymity and maintaining sovereignty over your wealth\r\n\r\nYearn Finance Network\r\n\r\nYearn Finance Network is a protocol that unifies leading DeFi protocols and blockchain infrastructure by standardising communication between them to create and execute complex financial transactions, while championing Privacy, Anonymity and Sovereignty.\r\n\r\nWhether it\u2019s switching between multiple lending protocols, trading through multiple decentralized exchanges or utilising numerous base layer chains, Yearn Finance Network plans to be at the center of it all.\r\n\r\nFeatures\r\n\r\nIntegrate our smart contracts into wallets, exchanges, institutional dark pools and other service providers, whether front \u2014 end or back \u2014 end. Spoti builds bridges between pockets of liquidity with DeFi.\r\n\r\nDerivatives\r\n\r\nUtilise and execute DeFi derivatives instantly with full transparency across your open trade positions.Hedge and manage risk.\""
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "contract_address": "0x3dd66732113af9981a861cf489431533aeba33b8",
+    "url": "https://www.yfnetworkdefi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3DD66732113Af9981A861Cf489431533aebA33B8",
+        "https://ethplorer.io/address/0x3dd66732113af9981a861cf489431533aeba33b8"
+    ],
+    "twitter": "yfnetworkdefi",
+    "telegram": "yfnetworkdefi",
+    "github_org": "yfnetworkdefi"
+}

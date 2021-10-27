@@ -1,0 +1,20 @@
+{
+    "id": "pegascoin",
+    "symbol": "pgc",
+    "name": "Pegascoin",
+    "platforms": {},
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "\"Pegascoin it is cryptocurrency with independence blockchain. Forked from ethereum so you can use all ethereum api. Have a uniq progects DOBs, p2p based on pegascoin blockchain.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://pegascoin.com",
+    "explorers": [
+        "http://explorer.pegascoin.com/"
+    ],
+    "twitter": "Pegascoin",
+    "facebook": "pegascoin",
+    "github_org": "Pegascoin"
+}

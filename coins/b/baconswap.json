@@ -1,0 +1,24 @@
+{
+    "id": "baconswap",
+    "symbol": "bacon",
+    "name": "BaconSwap",
+    "platforms": {
+        "ethereum": "0x175ab41e2cedf3919b2e4426c19851223cf51046"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x175ab41e2cedf3919b2e4426c19851223cf51046",
+    "url": "https://www.baconswap.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x175ab41e2cedf3919b2e4426c19851223cf51046",
+        "https://ethplorer.io/address/0x175ab41e2cedf3919b2e4426c19851223cf51046"
+    ],
+    "twitter": "Bacon_Swap"
+}

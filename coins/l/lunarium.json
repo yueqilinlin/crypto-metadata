@@ -1,0 +1,21 @@
+{
+    "id": "lunarium",
+    "symbol": "xln",
+    "name": "Lunarium",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [],
+    "description": {
+        "en": "-100% Proof of Stake 3.0 Consensus protocol, allowing very low transaction fees and energy expenditure, and staking rewards to all participants in the network.\r\n \r\n- Masternode technology used to secure the network and provide additional features. Each Masternode is secured with collateral of 10,000 XLN.\r\n\r\n- Decentralized blockchain voting utilizing Masternode technology. The blockchain will distribute monthly treasury funds based on successful proposals submitted by the community and voted on by the Masternodes."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://xlunarium.org/",
+    "explorers": [
+        "http://explorer.lunarium.io/"
+    ],
+    "twitter": "LunariumCoin",
+    "facebook": "lunariumcoin",
+    "telegram": "Lunarium_Official",
+    "github_org": "LunariumCoin"
+}

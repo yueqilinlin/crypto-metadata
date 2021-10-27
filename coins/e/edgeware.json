@@ -1,0 +1,24 @@
+{
+    "id": "edgeware",
+    "symbol": "edg",
+    "name": "Edgeware",
+    "platforms": {
+        "polkadot": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "Edgeware is a high-performance, self-upgrading WASM smart contract platform, in the Polkadot ecosystem. Edgeware is now being launched via a lockdrop, a modified airdrop where participants timelock ETH to receive EDG."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://edgewa.re/",
+    "explorers": [
+        "http://edgeware.subscan.io"
+    ],
+    "twitter": "heyedgeware",
+    "telegram": "heyedgeware",
+    "github_org": "hicommonwealth"
+}

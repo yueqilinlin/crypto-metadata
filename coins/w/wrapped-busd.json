@@ -1,0 +1,22 @@
+{
+    "id": "wrapped-busd",
+    "symbol": "wbusd",
+    "name": "Wrapped BUSD",
+    "platforms": {
+        "tezos": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WRAP is a decentralized bridge between Ethereum and Tezos. Transfer your ERC20 and ERC721 tokens from Ethereum to the Tezos blockchain and get $WRAP tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+    "url": "https://www.benderlabs.io/",
+    "explorers": [
+        "https://tzkt.io/KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ/operations/"
+    ],
+    "twitter": "benderlabs_",
+    "telegram": "benderlabs"
+}

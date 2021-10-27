@@ -1,0 +1,22 @@
+{
+    "id": "yfiexchange-finance",
+    "symbol": "yfie",
+    "name": "YFIEXCHANGE.FINANCE",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YFI Exchange Finance is an ecosystem of protocols built on Ethereum which aims to simplify user interaction with popular DeFi protocols and maximize the annual percentage yields (APY) of cryptocurrencies deposited into DeFi."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x8f57e8e38e61975a0433fa792542f453d8ed4d7d",
+    "url": "https://yfiexchange.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x8f57e8e38e61975a0433fa792542f453d8ed4d7d",
+        "https://ethplorer.io/address/0x8f57e8e38e61975a0433fa792542f453d8ed4d7d"
+    ],
+    "twitter": "YfiexchangeF",
+    "telegram": "yfiexchange",
+    "github_org": "yfiexchange"
+}

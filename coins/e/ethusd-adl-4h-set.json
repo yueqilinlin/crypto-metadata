@@ -1,0 +1,25 @@
+{
+    "id": "ethusd-adl-4h-set",
+    "symbol": "ethusdadl4",
+    "name": "ETHUSD ADL 4H Set",
+    "platforms": {
+        "ethereum": "0xb8243b4eeca27a4191e879760b88fe2270561796"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "TokenSets"
+    ],
+    "description": {
+        "en": "ETHUSD ADL 4H Set is a high profit factor strategy that is built using deep learning artificial intelligence (AI). The model, Amrullah Deep Liquidity (ADL), capitalizes on the inventory risk of other traders in the market on the 4H timeframe."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb8243b4eeca27a4191e879760b88fe2270561796",
+    "url": "https://www.tokensets.com/set/ethusdadl4",
+    "explorers": [
+        "https://etherscan.io/token/0xB8243B4eeca27A4191e879760b88fE2270561796",
+        "https://ethplorer.io/address/0xb8243b4eeca27a4191e879760b88fe2270561796"
+    ],
+    "twitter": "SetProtocol"
+}

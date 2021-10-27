@@ -1,0 +1,22 @@
+{
+    "id": "allium-finance",
+    "symbol": "alm",
+    "name": "Allium Finance",
+    "platforms": {
+        "binance-smart-chain": "0x7ac8a920cf1f7e7cc4f698c9c5cbc1e26f604790"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We are building a community of moon token enthusiasts. Once the Allium is up and living with High number of addresses and high volume trading on Dex and Cex the community will develop platforms to encourage and add more value to Allium and also introduce new moon tokens."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x7ac8a920cf1f7e7cc4f698c9c5cbc1e26f604790",
+    "url": "https://allium.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x7ac8a920cf1f7e7cc4f698c9c5cbc1e26f604790"
+    ],
+    "twitter": "AlliumFinance",
+    "telegram": "alliumfinance"
+}

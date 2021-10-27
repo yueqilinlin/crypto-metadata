@@ -1,0 +1,25 @@
+{
+    "id": "arcane-bear",
+    "symbol": "bear",
+    "name": "arcane bear",
+    "platforms": {
+        "ethereum": "0xaf162491c0b21900c01f4cc0f7110238aacdebe7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Social Money"
+    ],
+    "description": {
+        "en": "BEAR is the social money of Arcane Bear"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaf162491c0b21900c01f4cc0f7110238aacdebe7",
+    "url": "https://arcanebear.com",
+    "explorers": [
+        "https://etherscan.io/token/0xAf162491C0B21900C01F4Cc0F7110238AAcdebE7",
+        "https://ethplorer.io/address/0xAf162491C0B21900C01F4Cc0F7110238AAcdebE7",
+        "https://app.tryroll.com/token/BEAR"
+    ],
+    "twitter": "thearcanebear"
+}

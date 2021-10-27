@@ -1,0 +1,22 @@
+{
+    "id": "calypso",
+    "symbol": "cyo",
+    "name": "Calypso",
+    "platforms": {
+        "binance-smart-chain": "0xc4903be0052eb897b9cce1574838a9fe32ef97ec"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Calypso is the NFT token of the Calypso Market - Create, buy and sell NFT\u2019s. Holders of CYO get entered into monthly prize draws!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc4903be0052eb897b9cce1574838a9fe32ef97ec",
+    "url": "https://calypso.market",
+    "explorers": [
+        "https://bscscan.com/token/0xc4903be0052eb897b9cce1574838a9fe32ef97ec"
+    ],
+    "twitter": "calypsomarket",
+    "telegram": "TheCalypsoMarket"
+}

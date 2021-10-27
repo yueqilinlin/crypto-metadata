@@ -1,0 +1,26 @@
+{
+    "id": "juiice",
+    "symbol": "jui",
+    "name": "JUIICE",
+    "platforms": {
+        "ethereum": "0x2cae31d2ca104a951654456f46168bc9f88fdc65"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Communication"
+    ],
+    "description": {
+        "en": "Juiice is a gallery for viral user-generated content which rewards creators and influencers!"
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x2cae31d2ca104a951654456f46168bc9f88fdc65",
+    "url": "https://www.juiice.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x2CaE31D2Ca104a951654456f46168Bc9F88FDc65",
+        "https://ethplorer.io/address/0x2CaE31D2Ca104a951654456f46168Bc9F88FDc65"
+    ],
+    "twitter": "ComJuiice",
+    "facebook": "juiicecom",
+    "telegram": "juiiceltd"
+}

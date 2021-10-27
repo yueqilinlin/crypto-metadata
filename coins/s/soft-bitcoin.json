@@ -1,0 +1,23 @@
+{
+    "id": "soft-bitcoin",
+    "symbol": "sbtc",
+    "name": "Soft Bitcoin",
+    "platforms": {
+        "ethereum": "0x309013d55fb0e8c17363bcc79f25d92f711a5802"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Inspired by MakerDao, Compound, Synthetix and Ampleforth, this project aims to\r\npeg an ERC20 token (sBTC) price to 0.0001 BTC or 100,000 Satoshi by utilizing the\r\nbuilt-in smart contract token contraction & expansion algorithm, variable staking\r\npolicies and sBTC Foundation reserves to ensure that one sBTC will be\r\nmathematically guaranteed to be worth 0.0001 BTC in the short/medium term\r\nregardless of circumstances."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0x309013d55fb0e8c17363bcc79f25d92f711a5802",
+    "url": "https://sbtc.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x309013d55fB0E8C17363bcC79F25d92f711A5802",
+        "https://ethplorer.io/address/0x309013d55fb0e8c17363bcc79f25d92f711a5802"
+    ],
+    "twitter": "softbitcoin",
+    "telegram": "SoftBitcoinOfficial"
+}

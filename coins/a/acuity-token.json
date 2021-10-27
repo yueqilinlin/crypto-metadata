@@ -1,0 +1,23 @@
+{
+    "id": "acuity-token",
+    "symbol": "acu",
+    "name": "Acuity",
+    "platforms": {
+        "polkadot": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "Acuity Token (ACU) is a decentralized, open-source and immutable publication platform that has all the advantages that modern centralized platforms have. It is fully public. It cannot be censored and no one can be prevented from participating. It is fully programmable at every level. It is a protocol for interconnected content apps that empower the individual."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://acuity.social/",
+    "explorers": [
+        "https://polkadot.acuity.social/#/explorer"
+    ],
+    "twitter": "acuity_social",
+    "github_org": "acuity-social"
+}

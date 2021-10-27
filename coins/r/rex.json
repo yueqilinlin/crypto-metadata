@@ -1,0 +1,25 @@
+{
+    "id": "rex",
+    "symbol": "rex",
+    "name": "Imbrex",
+    "platforms": {
+        "ethereum": "0xf05a9382a4c3f29e2784502754293d88b835109c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Real Estate"
+    ],
+    "description": {
+        "en": "Rex is a revolutionary new global listing platform where it\u2019s free to list and search for properties. A platform where you won\u2019t be bombarded by ads. Where you\u2019re in control of your own data. Where transactions take days, not months. A platform that pays you to participate"
+    },
+    "country_origin": "US",
+    "genesis_date": "2017-08-28",
+    "contract_address": "0xf05a9382a4c3f29e2784502754293d88b835109c",
+    "url": "https://imbrex.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xf05a9382A4C3F29E2784502754293D88b835109C",
+        "https://ethplorer.io/address/0xf05a9382a4c3f29e2784502754293d88b835109c"
+    ],
+    "twitter": "imbrex_io",
+    "github_org": "rexmls"
+}

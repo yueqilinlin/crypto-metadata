@@ -1,0 +1,24 @@
+{
+    "id": "realfinance-network",
+    "symbol": "refi",
+    "name": "Realfinance Network",
+    "platforms": {
+        "binance-smart-chain": "0x641a6dc991a49f7be9fe3c72c5d0fbb223edb12f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Real Finance is several decentralized products and services for the DeFi ecosystem. We will plan on building a swap on the Binance Smart Chain, where users can use the platform to swap their different BEP20 tokens. By utilizing their own Refi token, participants in the protocol can use it as means of exchange. We will also be offering to farm and stake on our platform when the website is updated."
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0x641a6dc991a49f7be9fe3c72c5d0fbb223edb12f",
+    "url": "https://realfinance.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x641a6dc991a49f7be9fe3c72c5d0fbb223edb12f"
+    ],
+    "twitter": "refi_network",
+    "facebook": "Realfinance-Network-112422580929038",
+    "telegram": "refi_network",
+    "github_org": "realfinance"
+}

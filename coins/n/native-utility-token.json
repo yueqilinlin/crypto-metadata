@@ -1,0 +1,26 @@
+{
+    "id": "native-utility-token",
+    "symbol": "nut",
+    "name": "Native Utility Token",
+    "platforms": {
+        "eos": null
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Our Native Utility Token (NUT) is a core framework token giving users access to a number of the framework\u2019s functionalities. We envision NUT as a strong incentive for the community to operate and develop its whole ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://eosdt.com/",
+    "explorers": [
+        "https://eosflare.io/token/eosdtnutoken/NUT",
+        "https://eospark.com/account/eosdtnutoken",
+        "https://bloks.io/account/eosdtnutoken"
+    ],
+    "twitter": "eosdt_official",
+    "facebook": "EquilibriumFramework",
+    "telegram": "equilibrium_official",
+    "reddit": "Equilibrium_eosdt/",
+    "github_org": "equilibrium-eosdt"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "venus-doge",
+    "symbol": "vdoge",
+    "name": "Venus DOGE",
+    "platforms": {
+        "binance-smart-chain": "0xec3422ef92b2fb59e84c8b02ba73f1fe84ed8d71"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Venus is an algorithmic money market and synthetic stablecoin decentralized finance protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xec3422ef92b2fb59e84c8b02ba73f1fe84ed8d71",
+    "url": "https://venus.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xec3422ef92b2fb59e84c8b02ba73f1fe84ed8d71"
+    ],
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+}

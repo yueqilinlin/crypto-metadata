@@ -1,0 +1,26 @@
+{
+    "id": "etherland",
+    "symbol": "eland",
+    "name": "Etherland",
+    "platforms": {
+        "ethereum": "0x33e07f5055173cf8febede8b21b12d1e2b523205"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Eland ERC20 utility Token is used to acquire NFT's representing real places in the world on the Etherland Blockchain and will be used as an access token to create its register and create unique customized Tokens. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x33e07f5055173cf8febede8b21b12d1e2b523205",
+    "url": "https://www.elandatlas.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x33e07f5055173cf8febede8b21b12d1e2b523205",
+        "https://ethplorer.io/address/0x33e07f5055173cf8febede8b21b12d1e2b523205"
+    ],
+    "twitter": "ElandToken",
+    "telegram": "etherlandmetaverse",
+    "github_org": "Etherland"
+}

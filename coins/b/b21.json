@@ -1,0 +1,30 @@
+{
+    "id": "b21",
+    "symbol": "b21",
+    "name": "B21",
+    "platforms": {
+        "ethereum": "0x6faa826af0568d1866fca570da79b318ef114dab",
+        "binance-smart-chain": "0x70512c7f3d3009be997559d279b991461c451d70"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Number",
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "B21 is a fintech company headquartered in Gibraltar and is the developer of a personal wealth management platform exclusively for cryptoassets. B21 is a mobile focused investment platform that enables the mass market to create their own portfolio of cryptocurrencies like Bitcoin, Ethereum, EOS and many others."
+    },
+    "country_origin": "GI",
+    "genesis_date": null,
+    "contract_address": "0x6faa826af0568d1866fca570da79b318ef114dab",
+    "url": "http://www.b21.io/#/ico",
+    "explorers": [
+        "https://etherscan.io/token/0x6faa826af0568d1866fca570da79b318ef114dab",
+        "https://ethplorer.io/address/0x6faa826af0568d1866fca570da79b318ef114dab"
+    ],
+    "twitter": "B21Official",
+    "facebook": "B21Official",
+    "telegram": "B21Official",
+    "reddit": "B21Official/"
+}

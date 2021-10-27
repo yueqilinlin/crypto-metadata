@@ -1,0 +1,28 @@
+{
+    "id": "ultrain",
+    "symbol": "ugas",
+    "name": "Ultrain",
+    "platforms": {
+        "ethereum": "0x8716fc5da009d3a208f0178b637a50f4ef42400f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "Ultrain is committed to construct a responsible and sustainable commercial ecosystem that enables all industrial applications. With its groundbreaking innovations in cryptography and based upon a complete decentralized public network, Ultrain is able to provide multi-folds more advanced technical performance to fundamentally solve the performance and scalability issues comparing to other traditional public blockchain platforms."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x8716fc5da009d3a208f0178b637a50f4ef42400f",
+    "url": "https://www.ultrain.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x8716fc5da009d3a208f0178b637a50f4ef42400f",
+        "https://ethplorer.io/address/0x8716fc5da009d3a208f0178b637a50f4ef42400f",
+        "https://ugas.tokenview.com/"
+    ],
+    "twitter": "UltrainB",
+    "facebook": "Ultraincommunity",
+    "telegram": "UltrainOfficial",
+    "github_org": "ultrain-os"
+}

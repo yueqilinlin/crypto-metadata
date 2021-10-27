@@ -1,0 +1,24 @@
+{
+    "id": "obsidium",
+    "symbol": "obs",
+    "name": "Obsidium",
+    "platforms": {
+        "binance-smart-chain": "0xc6f509274fcc1f485644167cb911fd0c61545e6c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Obsidium is the ecosystem serverless cross-chain layer-2 solution that fuel the crypto space with DeFi, AAM & NFTs at infinity scalability, high throughput, sub-seconds confirmation time and fees at a tenth of a cent wich was initiated to bring the concept of \u201cZero Initial Supply\u201d."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc6f509274fcc1f485644167cb911fd0c61545e6c",
+    "url": "https://obsidium.info/",
+    "explorers": [
+        "https://bscscan.com/token/0xc6f509274fcc1f485644167cb911fd0c61545e6c"
+    ],
+    "twitter": "obsidium_cc",
+    "telegram": "obsidium_chat",
+    "reddit": "Obsidium/",
+    "github_org": "Obsidium-cc"
+}

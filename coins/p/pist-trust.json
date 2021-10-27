@@ -1,0 +1,24 @@
+{
+    "id": "pist-trust",
+    "symbol": "pist",
+    "name": "Pist Trust",
+    "platforms": {
+        "ethereum": "0x315dc1b524de57ae8e809a2e97699dbc895b8a21"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PIST-TRUST is authorized by Singapore and Korean bank for supporting blockchain technology in bank and financial system, which has two tokens: PIST (governance token) and P-PASS (KRW-pegged stablecoin)\r\nPIST is a governance token in the ecosystem, used for exchanging into KRW based stablecoin,P-Pass, and transaction fees.\r\nBy using PIST token to swap the P-PASS, PIST-TRUST can authorize other tokens and coins for connecting to the real economy."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x315dc1b524de57ae8e809a2e97699dbc895b8a21",
+    "url": "http://pisttrust.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x315dc1b524de57ae8e809a2e97699dbc895b8a21",
+        "https://ethplorer.io/address/0x315dc1b524de57ae8e809a2e97699dbc895b8a21"
+    ],
+    "twitter": "PistTrust",
+    "facebook": "trust.pist",
+    "telegram": "pisttrust"
+}

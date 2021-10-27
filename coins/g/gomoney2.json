@@ -1,0 +1,24 @@
+{
+    "id": "gomoney2",
+    "symbol": "gom2",
+    "name": "GoMoney2",
+    "platforms": {
+        "ethereum": "0x48783486ddd7fa85eca6b0c4ae8920bc25dfbcd7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x48783486ddd7fa85eca6b0c4ae8920bc25dfbcd7",
+    "url": "https://animalgo.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x48783486ddD7fa85ECa6B0C4AE8920Bc25DfbcD7",
+        "https://ethplorer.io/address/0x48783486ddd7fa85eca6b0c4ae8920bc25dfbcd7"
+    ],
+    "telegram": "animalgo89"
+}

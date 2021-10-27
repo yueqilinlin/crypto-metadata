@@ -1,0 +1,25 @@
+{
+    "id": "safepanda",
+    "symbol": "SPND",
+    "name": "SafePanda",
+    "platforms": {
+        "binance-smart-chain": "0x75e3cf3dc6748ff6c92fe77646be7d2fdfdfa623"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x75e3cf3dc6748ff6c92fe77646be7d2fdfdfa623",
+    "url": "https://www.anji.eco",
+    "explorers": [
+        "https://bscscan.com/token/0x75e3cf3dc6748ff6c92fe77646be7d2fdfdfa623"
+    ],
+    "twitter": "safepandatoken",
+    "facebook": "safepandatoken",
+    "telegram": "safepandacoin",
+    "reddit": "https://www.reddit.com",
+    "github_org": "safepanda"
+}

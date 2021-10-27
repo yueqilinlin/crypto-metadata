@@ -1,0 +1,21 @@
+{
+    "id": "guncoin",
+    "symbol": "gun",
+    "name": "Guncoin",
+    "platforms": {},
+    "hashing_algorithm": "NeoScrypt",
+    "categories": [],
+    "description": {
+        "en": "Guncoin (GUN) is a virtual currency that began out of a love and appreciation of firearms, computing and investing when Altcoins were in their infancy.  That, along with extensive experience buying and selling firearms via online auctions such as Gunbroker.com, prompted the Guncoin Team to come up with a better, faster and cheaper payment solution that could easily be adopted for all to use.  Thus, Guncoin was born."
+    },
+    "country_origin": null,
+    "genesis_date": "2014-04-19",
+    "url": "http://guncoin.info/",
+    "explorers": [
+        "https://chainz.cryptoid.info/gun/"
+    ],
+    "twitter": "TeamGuncoin",
+    "facebook": "guncoin",
+    "reddit": "GunCoin",
+    "github_org": "guncoin"
+}

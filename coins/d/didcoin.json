@@ -1,0 +1,22 @@
+{
+    "id": "didcoin",
+    "symbol": "did",
+    "name": "Didcoin",
+    "platforms": {
+        "tron": "TFg5GVwZV8Gs9BMisa5kicE8HWXEoawiZR"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DIDCOIN - digital dinar - is a new financial product for the Middle East countries. The digital project that provides more than 500 million people with access to all modern financial services\r\n\r\nDIDCOIN provides various digital services to close the gap in the financial system of many countries in the Middle East. A new digital project in the field of finance, covering more than 20 countries and +500 million people. The main idea is to create a financial ecosystem: placement of ATMs, DeFi, investments, payment services and credit cards\r\n"
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "contract_address": "TFg5GVwZV8Gs9BMisa5kicE8HWXEoawiZR",
+    "url": "https://www.didcoin.com",
+    "explorers": [
+        "https://tronscan.org/#/token20/TFg5GVwZV8Gs9BMisa5kicE8HWXEoawiZR"
+    ],
+    "twitter": "digital_dinar",
+    "telegram": "digital_dinar"
+}

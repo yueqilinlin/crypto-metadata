@@ -1,0 +1,28 @@
+{
+    "id": "phantasma-energy",
+    "symbol": "kcal",
+    "name": "Phantasma Energy",
+    "platforms": {
+        "ethereum": "0x14eb60f5f270b059b0c788de0ddc51da86f8a06d",
+        "binance-smart-chain": "0x76f76055cf24e882d23944de4d8809309ea2a9e6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Phantasma is a single-source, fully interoperable, decentralized feature rich blockchain.\r\n\r\nWith its innovative staking mechanism, dual token system, sustainable tokenomics model and advanced eco-friendly smartNFTs, the chain is designed to be used for digital goods & services for communications, entertainment, marketplaces and on-chain storage solutions for dApp creators and enterprise clients.\r\n\r\nWith mainnet live since October 2019, it has proven to be the platform of choice for Gaming and NFTs. Not only because of its low minting and transaction fees but also because of its smartNFT technology that has been built on chain level and its pledge to become the first certified carbon negative blockchain.\r\n\r\nIt has an easy-to-use connector between dApps, wallets and blockchain via Phantasma Link.\r\n\r\nIt provides cross-chain interoperability with the Ethereum, BSC and NEO blockchains and is capable of a high throughput due to infinite sidechains.\r\n\r\nIt has Oracles built into the core of the chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x14eb60f5f270b059b0c788de0ddc51da86f8a06d",
+    "url": "https://Phantasma.io",
+    "explorers": [
+        "https://etherscan.io/token/0x14eb60f5f270b059b0c788de0ddc51da86f8a06d",
+        "https://ethplorer.io/address/0x14eb60f5f270b059b0c788de0ddc51da86f8a06d",
+        "https://bscscan.com/token/0x76f76055cf24e882d23944de4d8809309ea2a9e6",
+        "https://explorer.phantasma.io/token/KCAL"
+    ],
+    "twitter": "phantasmachain",
+    "github_org": "phantasma-io"
+}

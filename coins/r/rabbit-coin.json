@@ -1,0 +1,24 @@
+{
+    "id": "rabbit-coin",
+    "symbol": "brb",
+    "name": "Rabbit Coin",
+    "platforms": {
+        "ethereum": "0x61d24aabb3e5e800d8f3d3d43dcbd66ae6cab51e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rabbit Coin (BRB) is the universal point of \"BitRabbit Exchange\" and \"BunnyPub Community\". It is a point system issued and managed on the basis of blockchain. Its total amount is 200 million, of which 20% has been released to early investors, 30% to the team (locked for four years), and the remaining 50% is for strategic reserve. In the early stage of development, BitRabbit will take a certain proportion from the team's BRB share for promotions, such as Exchange marketing and BunnyPub mining.\r\n\r\nTo get BRB, we encourage users to do interactive mining on BunnyPub community, such as post, reply and like; for certain activities, we will also reward BRB, such as invitation rewards, rewards sharing, the first crptocurrency influence contest, etc.\r\n\r\nIn the future, the value of BRB will be linked with the traffic of the BitRabbit Exchange and BunnyPub community, and be supported by different \u201cconverting traffic into BRB\u201d behaviors, such as charging BRB for listing on BitRabbit Exchange, service fee deduction, or advertising position on BunnyPub community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x61d24aabb3e5e800d8f3d3d43dcbd66ae6cab51e",
+    "url": "https://bitrabbit.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x61d24aabb3e5e800d8f3d3d43dcbd66ae6cab51e",
+        "https://ethplorer.io/address/0x61d24aabb3e5e800d8f3d3d43dcbd66ae6cab51e"
+    ],
+    "twitter": "Bitrabbit_Team",
+    "facebook": "BitRabbitTeam",
+    "telegram": "bitrabbit_en"
+}

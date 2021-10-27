@@ -1,0 +1,22 @@
+{
+    "id": "babybsc",
+    "symbol": "bbsc",
+    "name": "BabyBSC",
+    "platforms": {
+        "binance-smart-chain": "0xc44bf5300be9168795dee25daad0bce5a8fb779a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BabyBSC has arrived to Binance Smart Chain (BSC). BabyBSC offers novel tokenomics to its holders through two main features: weekly diverse airdrops to our community and constant redistribution rewards to all holders."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xc44bf5300be9168795dee25daad0bce5a8fb779a",
+    "url": "https://www.babybsc.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xc44bf5300be9168795dee25daad0bce5a8fb779a"
+    ],
+    "twitter": "BabyBscCrypto",
+    "telegram": "OfficalBabyBsc"
+}

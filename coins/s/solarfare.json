@@ -1,0 +1,24 @@
+{
+    "id": "solarfare",
+    "symbol": "slf",
+    "name": "Solarfare",
+    "platforms": {
+        "binance-smart-chain": "0x32089eaffaf278c82cda2c8d37e7b6b6fabbaaf2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SLF is a BEP-20 token with LP acquisition, a staking feature & DApp to earn BNB, and charity donations to the Binance wallet."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x32089eaffaf278c82cda2c8d37e7b6b6fabbaaf2",
+    "url": "https://solarfare.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x32089eafFaf278C82cda2c8d37e7b6b6faBBaAF2"
+    ],
+    "twitter": "solarfare",
+    "telegram": "SolarFareFinance",
+    "reddit": "SolarFare/",
+    "github_org": "solarfare"
+}

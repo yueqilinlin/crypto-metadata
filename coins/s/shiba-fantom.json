@@ -1,0 +1,27 @@
+{
+    "id": "shiba-fantom",
+    "symbol": "shiba",
+    "name": "Shiba Fantom",
+    "platforms": {
+        "fantom": "0x9ba3e4f84a34df4e08c112e1a0ff148b81655615"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens",
+        "Fantom Ecosystem"
+    ],
+    "description": {
+        "en": "A collection of DEX, Token, and NFT Market!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9ba3e4f84a34df4e08c112e1a0ff148b81655615",
+    "url": "https://shibafantom.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0x9ba3e4f84a34df4e08c112e1a0ff148b81655615"
+    ],
+    "twitter": "ShibaFantom",
+    "telegram": "shibafantom",
+    "reddit": "ShibaFantom/",
+    "github_org": "Shiba-Fantom"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "earnbusd",
+    "symbol": "ebusd",
+    "name": "EarnBUSD",
+    "platforms": {
+        "binance-smart-chain": "0x2ce6d3b1ddd7b263c118cef2e50b03ea2a28ec0d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EarnBUSD is the first child token of the MoonRatX (MoonRat Ecosystem) that implements the most innovative feature Proof Of Trade. \r\n\r\nThere are two ways to earn in our EarnBUSD: trade and hold your tokens to earn rewards. \r\n\r\nEarnBUSD combines these most innovative technologies: Proof of Trade, Earn by Holding AntiWhales. EarnBUSD also has excellent features like Limit holding, Reflection Reward, Automatic Liquidity Pool, community-driven, and fair-launched token.\r\n\r\nEarnBUSD has a full security audit by Certik - the leading security-focused ranking platform for DeFi projects.\r\n\r\nProof of Trade - The Trading Fee Is for Traders\r\n\r\nEvery time you trade EBUSD, you receive an amount of MRX token based on the number of child tokens you traded. The ratio is 1:1 called MRX Mint Rate. For example, when you buy or sell 1000 EBUSD; you receive 1000 MRX.\r\n\r\nThere is a 12% tax applying for all these trading pairs:\r\n\r\n\u25cf 5% of tax is for automatic LP\r\n\r\n\u25cf 2% for reflection rewards to all holders\r\n\r\n\u25cf 5% for Reward Pool. Reward Pool separates into two pools: Instant Reward Pool for traders and Weekly Reward Pool for holders. EarnBUSD has its own dashboard \r\n\r\nYou can exchange MRX to collect Instant Rewards whenever you want. \r\n\r\nAfter each collection:\r\n\r\n- 75.5% of your MRX will be burned\r\n- 20% will be sent to the Reserved Wallet (Marketing and Operation Fund)\r\n- You keep 4.5% as a gift (MRX Gift Rate)\r\n\r\nYou have to trade again to gain more new MRX."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2ce6d3b1ddd7b263c118cef2e50b03ea2a28ec0d",
+    "url": "https://earnbusd.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x2ce6D3B1dDd7B263c118CEF2E50b03eA2A28eC0d"
+    ],
+    "twitter": "MoonRatFinance",
+    "telegram": "MoonRatFinance",
+    "reddit": "MoonRatdotFinance",
+    "github_org": "MoonRat-Finance"
+}

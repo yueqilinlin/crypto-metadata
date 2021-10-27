@@ -1,0 +1,22 @@
+{
+    "id": "bishares",
+    "symbol": "bison",
+    "name": "BiShares",
+    "platforms": {
+        "binance-smart-chain": "0x19a6da6e382b85f827088092a3dbe864d9ccba73"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BiShares are BSC decentralized Exchange Traded Funds (dETFs) for safe crypto diversification.\r\nBison is BiShares DAO token and is used to vote for all the proposals related to the protocol, holders earn platform fees."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x19a6da6e382b85f827088092a3dbe864d9ccba73",
+    "url": "https://bishares.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x19a6da6e382b85f827088092a3dbe864d9ccba73"
+    ],
+    "twitter": "BiSharesFinance",
+    "github_org": "bisharesindexfund"
+}

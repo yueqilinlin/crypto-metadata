@@ -1,0 +1,24 @@
+{
+    "id": "smartlink",
+    "symbol": "smak",
+    "name": "Smartlink",
+    "platforms": {
+        "tezos": "KT1TwzD6zV3WeJ39ukuqxcfK2fJCnhvrdN1X"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Smartlink Governance Token. SMAK token is used in SMARTLINK governance, VORTEX and as a means of payment for future services."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT1TwzD6zV3WeJ39ukuqxcfK2fJCnhvrdN1X",
+    "url": "https://www.smartlink.so/",
+    "explorers": [
+        "https://tzkt.io/KT1TwzD6zV3WeJ39ukuqxcfK2fJCnhvrdN1X/operations/"
+    ],
+    "twitter": "smartlinkHQ",
+    "telegram": "smartlinkofficial",
+    "reddit": "SmartlinkOfficial/",
+    "github_org": "Smartlinkhub"
+}

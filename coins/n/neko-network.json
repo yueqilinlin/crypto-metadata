@@ -1,0 +1,23 @@
+{
+    "id": "neko-network",
+    "symbol": "neko",
+    "name": "Neko Network",
+    "platforms": {
+        "binance-smart-chain": "0xdedf440ad8bf07729ead58f4ff52edab20d2628d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Neko Network is an experimental network of Maze Protocol to test SHR's abilities and risks in a real economic condition. NEKO is the core token which plays the same role as MAZE in its own network. All functions of Neko are identical to Maze's, while NEKO token is issued via a fair launch process named Initial SHR Offering, so there is no presale of NEKO."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0xdedf440ad8bf07729ead58f4ff52edab20d2628d",
+    "url": "https://www.mazeprotocol.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xDedF440AD8bf07729EAD58F4fF52edaB20d2628d"
+    ],
+    "twitter": "MazeProtocol",
+    "telegram": "Maze_Protocol",
+    "github_org": "maze-protocol-official"
+}

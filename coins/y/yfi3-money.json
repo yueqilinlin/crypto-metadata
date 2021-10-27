@@ -1,0 +1,26 @@
+{
+    "id": "yfi3-money",
+    "symbol": "yfi3",
+    "name": "YFI3.money",
+    "platforms": {
+        "ethereum": "0x09843b9137fc5935b7f3832152f9074db5d2d1ee"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "YFI3 is a community-owned DeFi infrastructure where its users determine what products they want and enjoy the yields."
+    },
+    "country_origin": "SE",
+    "genesis_date": null,
+    "contract_address": "0x09843b9137fc5935b7f3832152f9074db5d2d1ee",
+    "url": "https://www.yfi3.money",
+    "explorers": [
+        "https://etherscan.io/token/0x09843b9137fc5935b7f3832152f9074db5d2d1ee",
+        "https://ethplorer.io/address/0x09843b9137fc5935b7f3832152f9074db5d2d1ee"
+    ],
+    "twitter": "yfi3_money",
+    "telegram": "yfi3_group",
+    "github_org": "orgs"
+}

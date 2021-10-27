@@ -1,0 +1,24 @@
+{
+    "id": "float-protocol-float",
+    "symbol": "float",
+    "name": "Float Protocol: Float",
+    "platforms": {
+        "ethereum": "0xb05097849bca421a3f51b249ba6cca4af4b97cb9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Float Protocol is building the decentralised monetary system of the future. At the heart of the protocol is the FLOAT token. It is designed to be the first truly native internet currency and fully satisfying all three of major properties of money: as a medium of exchange, a store of value and a unit of account. \r\n\r\nUnlike most stablecoins, whilst FLOAT is designed to be stable and have significantly lower volatility than most cryptocurrencies, it is not designed to hold its price at $1.00. Instead, like most major fiat currencies, it is designed to float and change value over time.\r\n\r\nFLOAT is stabilised through frequent auctions to expand or contract the supply. It is also partly supported by a 'Basket of cryptocurrencies that are used as part of the auction process."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb05097849bca421a3f51b249ba6cca4af4b97cb9",
+    "url": "https://floatprotocol.com",
+    "explorers": [
+        "https://etherscan.io/token/0xb05097849bca421a3f51b249ba6cca4af4b97cb9",
+        "https://ethplorer.io/address/0xb05097849bca421a3f51b249ba6cca4af4b97cb9"
+    ],
+    "twitter": "FloatProtocol",
+    "telegram": "officialfloatprotocol",
+    "github_org": "FloatProtocol"
+}

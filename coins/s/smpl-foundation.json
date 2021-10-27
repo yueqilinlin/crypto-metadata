@@ -1,0 +1,23 @@
+{
+    "id": "smpl-foundation",
+    "symbol": "smpl",
+    "name": "SMPL Foundation",
+    "platforms": {
+        "ethereum": "0x8bf92cad232f72a7c61eb42e9185e8d0ea470f6b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x8bf92cad232f72a7c61eb42e9185e8d0ea470f6b",
+    "url": "https://smplfoundation.com",
+    "explorers": [
+        "https://etherscan.io/token/0x8bf92cad232f72a7c61eb42e9185e8d0ea470f6b",
+        "https://ethplorer.io/address/0x8bf92cad232f72a7c61eb42e9185e8d0ea470f6b"
+    ],
+    "twitter": "FoundationSmpl",
+    "telegram": "SMPLFoundation"
+}

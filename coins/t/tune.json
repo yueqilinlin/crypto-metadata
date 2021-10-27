@@ -1,0 +1,21 @@
+{
+    "id": "tune",
+    "symbol": "tun",
+    "name": "TUNE",
+    "platforms": {},
+    "hashing_algorithm": "NeoScrypt",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "TUNE is experimental cryptocurrency for incubating and investing new cryptocurrency.\r\nTUNE have three main features:\r\n\r\n1st : Variable Masternode Price\r\n\r\n2nd : Profit Sharing (Weekly, Bitcoin base)\r\n\r\n3rd : Transparent Funding Operation (All address will be opend (include BTC wallet))"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://tunecrypto.io/",
+    "explorers": [],
+    "twitter": "tunecrypto",
+    "facebook": "tunecrypto",
+    "telegram": "Tunetelegram",
+    "github_org": "tune-crypto"
+}

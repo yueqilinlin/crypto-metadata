@@ -1,0 +1,27 @@
+{
+    "id": "curio-governance",
+    "symbol": "cgt",
+    "name": "Curio Governance",
+    "platforms": {
+        "ethereum": "0xf56b164efd3cfc02ba739b719b6526a6fa1ca32a",
+        "binance-smart-chain": "0x3d04edc843e74935c09f54cc4b2fe1870e347ac9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Curio Governance launched in 25/12/2020 by a team based in Switzerland, Curio Governance is part of the Curio Stable\u0421oin Protocol and allows CGT token holders to participate in the governance and improvement of the protocol. Governance is based on the DAO model and supports 2 types of votes: direct protocol control by CGT-holders and community service polls. Curio StableCoin Protocol allows people to use Security Tokens (supported Curio Car Tokens) as collateral to generate Curio StableCoin, and also make deposits to Curio StableCoin to generate passive income."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0xf56b164efd3cfc02ba739b719b6526a6fa1ca32a",
+    "url": "https://curioinvest.com/curio-stablecoin",
+    "explorers": [
+        "https://etherscan.io/token/0xf56b164efd3cfc02ba739b719b6526a6fa1ca32a",
+        "https://ethplorer.io/address/0xf56b164efd3cfc02ba739b719b6526a6fa1ca32a"
+    ],
+    "twitter": "curio_invest",
+    "facebook": "Curioinvest",
+    "telegram": "CurioInvestCommunity",
+    "reddit": "curioinvest",
+    "github_org": "CurioTeam"
+}

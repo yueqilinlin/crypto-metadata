@@ -1,0 +1,20 @@
+{
+    "id": "bitcoin-interest",
+    "symbol": "bci",
+    "name": "Bitcoin Interest",
+    "platforms": {},
+    "hashing_algorithm": "Equihash",
+    "categories": [],
+    "description": {
+        "en": "Bitcoin Interest (\"BCI\") is a competitive staking cryptocurrency focusing on three key areas Technology, Community, and Savings. Our blockchain has new integrated savings technology that allows our users to safely park their coins and earn interest payments without ever moving coins from their wallets.\r\n\r\nUnlike other interest payment platforms that require you to send your coins to them, Bitcoin Interest is the first fully decentralized interest payments platform that will never ask you to send your coins anywhere! With our advanced interest technology you can hold your coins in your own wallet and receive interest payments with absolutely no risk to you. You'll never be required to trust your coin holdings with anyone again!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://bitcoininterest.io/",
+    "explorers": [
+        "https://explorer.bitcoininterest.io/",
+        "https://bci.tokenview.com/"
+    ],
+    "twitter": "btcinterest",
+    "github_org": "BitcoinInterestOfficial"
+}

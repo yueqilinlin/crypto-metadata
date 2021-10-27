@@ -1,0 +1,23 @@
+{
+    "id": "timers",
+    "symbol": "ipm",
+    "name": "Timers",
+    "platforms": {
+        "ethereum": "0x8feef860e9fa9326ff9d7e0058f637be8579cc29"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The most universal medium of exchange and representing all value creation is time itself. IPM is a way of measuring this energy, condensed into a single token."
+    },
+    "country_origin": "CY",
+    "genesis_date": null,
+    "contract_address": "0x8feef860e9fa9326ff9d7e0058f637be8579cc29",
+    "url": "https://timers.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x8fEEf860E9fA9326ff9d7E0058F637bE8579Cc29",
+        "https://ethplorer.io/address/0x8fEEf860E9fA9326ff9d7E0058F637bE8579Cc29"
+    ],
+    "twitter": "TIMERSnetwork",
+    "telegram": "TIMERSipm"
+}

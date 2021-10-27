@@ -1,0 +1,24 @@
+{
+    "id": "sibcoin",
+    "symbol": "sib",
+    "name": "SIBCoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2015-05-09",
+    "url": "https://sibcoin.com/",
+    "explorers": [
+        "http://chain.sibcoin.net/"
+    ],
+    "twitter": "sibcoin_en",
+    "facebook": "SibcoinFoundation",
+    "telegram": "sibcoin_en",
+    "reddit": "sibcoin",
+    "github_org": "ivansib"
+}

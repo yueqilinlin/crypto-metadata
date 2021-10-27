@@ -1,0 +1,28 @@
+{
+    "id": "boringdao-btc",
+    "symbol": "obtc",
+    "name": "BoringDAO BTC",
+    "platforms": {
+        "ethereum": "0x8064d9ae6cdf087b1bcd5bdf3531bd5d8c537a68"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Tokenized BTC",
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x8064d9ae6cdf087b1bcd5bdf3531bd5d8c537a68",
+    "url": "https://www.boringdao.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8064d9ae6cdf087b1bcd5bdf3531bd5d8c537a68",
+        "https://ethplorer.io/address/0x8064d9ae6cdf087b1bcd5bdf3531bd5d8c537a68"
+    ],
+    "twitter": "TheBoringDAO",
+    "telegram": "boringDAO",
+    "github_org": "BoringDAO"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "ibetyou",
+    "symbol": "iby",
+    "name": "iBetYou",
+    "platforms": {
+        "ethereum": "0x6a68de599e8e0b1856e322ce5bd11c5c3c79712b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "IBY is a permissionless blockchain protocol that allows users to bet any amount  of tokens with anyone on anything. Users can lock any token into a smart contract as a stake and challenge someone to do the same on the opposite side.  Once the amounts are locked both amounts are pushed into DeFi yield farming strategies for the duration of the bet. The interest generated during that period is divided between the judges who decide who won the bet and IBY protocol.\r\n\r\nThe purpose of IBY is to become a tool for anyone to prove to the other side how firmly they believe in their own words. At the same time IBY is the simples way for regular users to familiarize themselves with Decentralized Finance, yield farming and different protocols in the process. iBetYou dApp is live on Polygon and is generating yield using AAVE.  More on ibetyou.xyz\r\n\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6a68de599e8e0b1856e322ce5bd11c5c3c79712b",
+    "url": "https://ibetyou.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0x6A68DE599E8E0b1856E322CE5Bd11c5C3C79712B",
+        "https://ethplorer.io/address/0x6A68DE599E8E0b1856E322CE5Bd11c5C3C79712B"
+    ],
+    "twitter": "ibetyouxyz",
+    "telegram": "IBYXYZ",
+    "github_org": "chefgonpachi"
+}

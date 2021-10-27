@@ -1,0 +1,21 @@
+{
+    "id": "qredit",
+    "symbol": "xqr",
+    "name": "Qredit",
+    "platforms": {},
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [],
+    "description": {
+        "en": "The payments and rewards platform for merchants and consumers."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "url": "https://qredit.io",
+    "explorers": [
+        "https://explorer.qredit.io/"
+    ],
+    "twitter": "Qredit_io",
+    "facebook": "qredit.io",
+    "telegram": "qredit",
+    "github_org": "Qredit"
+}

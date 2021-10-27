@@ -1,0 +1,28 @@
+{
+    "id": "renbch",
+    "symbol": "renbch",
+    "name": "renBCH",
+    "platforms": {
+        "ethereum": "0x459086f2376525bdceba5bdda135e4e9d3fef5bf"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Wrapped-Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "REN tokenized BCH\r\n\r\nOnce an asset is in the custody of RenVM, an ERC20 token at a 1:1 value is minted on Ethereum - this can then be used as any ERC20 can within the Ethereum ecosystem (for example, swaps, collateralization, trades etc.)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x459086f2376525bdceba5bdda135e4e9d3fef5bf",
+    "url": "https://renproject.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x459086f2376525bdceba5bdda135e4e9d3fef5bf",
+        "https://ethplorer.io/address/0x459086f2376525bdceba5bdda135e4e9d3fef5bf"
+    ],
+    "twitter": "renprotocol",
+    "telegram": "renproject",
+    "reddit": "RenProject/",
+    "github_org": "renproject"
+}

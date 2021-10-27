@@ -1,0 +1,36 @@
+{
+    "id": "crypto-com-chain",
+    "symbol": "cro",
+    "name": "Crypto.com Coin",
+    "platforms": {
+        "ethereum": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+        "harmony-shard-0": "0x2672b791d23879995aabdf51bc7d3df54bb4e266",
+        "osmosis": "IBC/E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1",
+        "sora": "0x004d9058620eb7aa4ea243dc6cefc4b76c0cf7ad941246066142c871b376bb7e"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cosmos Ecosystem",
+        "Centralized Exchange Token (CEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "We propose Crypto.com Chain, the next generation decentralized mobile payment protocol, the most efficient and secure way to pay and be paid in crypto, anywhere, any crypto\r\nwithout fees. Crypto.com Chain will deliver on its vision by developing innovative technology components and processes (inc. scalable encryption algorithm to protect users\u2019 privacy, utilizing trusted execution environments, sustainable price stability mechanisms, user protection via PoGSD) catered specifically to cryptocurrency payment, while leveraging proven blockchain technology structural design elements. "
+    },
+    "country_origin": "",
+    "genesis_date": "2018-11-14",
+    "contract_address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+    "url": "https://www.crypto.com/en/chain",
+    "explorers": [
+        "https://etherscan.io/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+        "https://ethplorer.io/address/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+        "https://blockchair.com/ethereum/erc-20/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+        "https://crypto.org/explorer/",
+        "https://cdoscan.com/"
+    ],
+    "twitter": "cryptocom",
+    "facebook": "CryptoComOfficial",
+    "telegram": "CryptoComOfficial",
+    "reddit": "Crypto_com/",
+    "github_org": "crypto-org-chain"
+}

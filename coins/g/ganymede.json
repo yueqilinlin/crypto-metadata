@@ -1,0 +1,22 @@
+{
+    "id": "ganymede",
+    "symbol": "gany",
+    "name": "Ganymede",
+    "platforms": {
+        "binance-smart-chain": "0x72b4404a20b6342ce3d8a9707316a07cbff9063d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ganymede can be seen as a decentralized hedge fund that combines algorithmic trading and tokenomics to generate profit for its community."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x72b4404a20b6342ce3d8a9707316a07cbff9063d",
+    "url": "https://ganymedetoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x72b4404a20b6342ce3d8a9707316a07cbff9063d"
+    ],
+    "twitter": "ganymedetoken",
+    "telegram": "ganymedetoken"
+}

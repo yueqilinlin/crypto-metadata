@@ -1,0 +1,20 @@
+{
+    "id": "suvereno",
+    "symbol": "suv",
+    "name": "Suvereno",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Online, easy to use and safe multi-currency digital assets web wallet with POS and MASTERNODES management functions and P2P exchange, Modern masternode stats platform where the user can find useful information about all new and popular cryptocurrency projects."
+    },
+    "country_origin": "PL",
+    "genesis_date": null,
+    "url": [],
+    "explorers": [
+        "https://explorer.decenomy.net/SUV/blocks"
+    ],
+    "github_org": "decenomy"
+}

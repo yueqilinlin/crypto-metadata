@@ -1,0 +1,23 @@
+{
+    "id": "bingo-share",
+    "symbol": "sbgo",
+    "name": "Bingo Share",
+    "platforms": {
+        "binance-smart-chain": "0x53f39324fbb209693332b87aa94d5519a1a49ab0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bingo Cash Finance is the AlgoStable coin protocol built on the Binance Smart Chain  for casino gaming. We are a fair launch project with no pre-sale, no investor, and no pre-mine. Ensuring that everyone is equal from the start.\r\n\r\nBingo Cash (BGO) is an algorithmic token that will seek to have its price stay as close to 1$ as possible.\r\n\r\nBingo Shares (SBGO) loosely represent the value of the Bingo Cash Finance and trust in its systemic ability to maintain BGO to peg. During epoch expansions (when TWAP - time-weighted average price of BGO is above the 1 $BUSD peg), the protocol mints BGO and distributes it proportionally to all SBGO holders who have staked their tokens in the boardroom.\r\n\r\nAdditionally, SBGO are used to achieved a completely decentralized on-chain governance where SBGO holders have voting rights and the ability to create proposals to improve the protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x53f39324fbb209693332b87aa94d5519a1a49ab0",
+    "url": "https://bingocash.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x53F39324Fbb209693332B87aA94D5519A1a49aB0"
+    ],
+    "twitter": "Bingocashfi",
+    "telegram": "bingocash_official",
+    "github_org": "bingocashapp"
+}

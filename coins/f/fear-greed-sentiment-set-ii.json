@@ -1,0 +1,25 @@
+{
+    "id": "fear-greed-sentiment-set-ii",
+    "symbol": "greed",
+    "name": "Fear & Greed Sentiment Set II",
+    "platforms": {
+        "ethereum": "0x15822a64c8cb27d7828c45e0aafc3e6c5decd172"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "TokenSets"
+    ],
+    "description": {
+        "en": "\"The crypto market behaviour is very emotional. People tend to get greedy when the market is rising. Also, people often sell their coins in irrational reaction when the market turns red. The Fear & Greed Set, will try to save you from your own emotional overreaction.\r\n\r\nRebalances will take place on the 2nd day we are below 20 or above 80, or if we have a 40 point change from a previous rebalance.\r\nData explaining how the set and its parameters came to be can be found here:\r\nhttps://medium.com/@cryptocatVC/fear-greed-social-set-benchmarking-e2611bd29a61\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x15822a64c8cb27d7828c45e0aafc3e6c5decd172",
+    "url": "https://www.tokensets.com/set/greed2",
+    "explorers": [
+        "https://etherscan.io/token/0x15822a64c8cb27d7828c45e0aafc3e6c5decd172",
+        "https://ethplorer.io/address/0x15822a64c8cb27d7828c45e0aafc3e6c5decd172"
+    ],
+    "twitter": "SetProtocol",
+    "github_org": "SetProtocol"
+}

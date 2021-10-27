@@ -1,0 +1,23 @@
+{
+    "id": "darma-cash",
+    "symbol": "dmch",
+    "name": "Darma Cash",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "DMC is a high-speed blockchain which integrates state-of-the-art privacy technologies on the basis of XMR to achieve truly private addresses, con cealed financial data, masked identities, traceless IP, private Smart Con tracts and DeFi based on Oracle and atomic swap technology. DMC is the cutting-edge of a new generation of anonymous blockchains."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "url": "https://www.darmacash.com/",
+    "explorers": [
+        "https://explorer.darmacash.com/"
+    ],
+    "twitter": "CashDarma",
+    "facebook": "DarmaCash",
+    "telegram": "DarmaCash",
+    "github_org": "darmaproject"
+}

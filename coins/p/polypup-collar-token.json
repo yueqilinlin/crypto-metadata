@@ -1,0 +1,23 @@
+{
+    "id": "polypup-collar-token",
+    "symbol": "collar",
+    "name": "PolyPup Collar Token",
+    "platforms": {
+        "polygon-pos": "0x8df26a1bd9bd98e2ec506fc9d8009954716a05dc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8df26a1bd9bd98e2ec506fc9d8009954716a05dc",
+    "url": "https://polypup.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x8df26a1bd9bd98e2ec506fc9d8009954716a05dc"
+    ],
+    "twitter": "PolyPup1",
+    "telegram": "PolyPupFarm",
+    "github_org": "PolyPup-Farm"
+}

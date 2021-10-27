@@ -1,0 +1,23 @@
+{
+    "id": "bxbtc",
+    "symbol": "bxbtc",
+    "name": "bxBTC",
+    "platforms": {
+        "binance-smart-chain": "0xab111d5948470ba73d98d66bbdf2798fbe093546"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Our first product is xBTC. xBTC is a brand new asset class that will revolutionize how\r\nindividuals use digital assets and, possibly, all assets. We approximate two tools from\r\ntraditional finance, hedging and indexing, and introduce them to the digital asset revolution. We do this in a fully synthetic way, xBTC is completely synthetic, it can be effortlessly used by the world without any borders."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xab111d5948470ba73d98d66bbdf2798fbe093546",
+    "url": "https://xbtc.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0xab111d5948470ba73d98d66bbdf2798fbe093546"
+    ],
+    "twitter": "XBTC_Official",
+    "telegram": "xBTC_Official",
+    "github_org": "ipo"
+}

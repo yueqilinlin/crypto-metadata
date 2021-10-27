@@ -1,0 +1,24 @@
+{
+    "id": "aave-polygon-usdt",
+    "symbol": "amUSDT",
+    "name": "Aave Polygon USDT",
+    "platforms": {
+        "polygon-pos": "0x60d55f02a771d515e077c9c2403a1ef324885cec"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x60d55f02a771d515e077c9c2403a1ef324885cec",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0x60D55F02A771d515e077c9C2403a1ef324885CeC"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome"
+}

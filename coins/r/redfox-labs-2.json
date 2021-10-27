@@ -1,0 +1,30 @@
+{
+    "id": "redfox-labs-2",
+    "symbol": "rfox",
+    "name": "RedFOX Labs",
+    "platforms": {
+        "ethereum": "0xa1d6df714f91debf4e0802a542e13067f31b8262",
+        "binance-smart-chain": "0x0a3a21356793b49154fd3bbe91cbc2a16c0457f5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Metaverse",
+        "Collectibles",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "Southeast Asia\u2019s first blockchain Venture Builder. We innovate with blockchain technology to build market leading companies in emerging markets"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa1d6df714f91debf4e0802a542e13067f31b8262",
+    "url": "https://redfoxlabs.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa1d6df714f91debf4e0802a542e13067f31b8262",
+        "https://ethplorer.io/address/0xa1d6df714f91debf4e0802a542e13067f31b8262",
+        "https://bscscan.com/token/0x0a3a21356793b49154fd3bbe91cbc2a16c0457f5"
+    ],
+    "twitter": "redfoxlabs_io",
+    "telegram": "redfoxlabscommunity"
+}

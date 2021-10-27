@@ -1,0 +1,27 @@
+{
+    "id": "hintchain",
+    "symbol": "hint",
+    "name": "Hintchain",
+    "platforms": {
+        "ethereum": "0x6ce21e5f5383c95691d243879a86a6025e0870c0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6ce21e5f5383c95691d243879a86a6025e0870c0",
+    "url": "http://hintchain.io/",
+    "explorers": [
+        "https://scope.klaytn.com/account/0x4dd402a7d54eaa8147cb6ff252afe5be742bdf40",
+        "https://etherscan.io/address/0x6ce21e5f5383c95691d243879a86a6025e0870c0",
+        "https://etherscan.io/token/0x6ce21e5f5383c95691d243879a86a6025e0870c0",
+        "https://ethplorer.io/address/0x6ce21e5f5383c95691d243879a86a6025e0870c0"
+    ],
+    "twitter": "hintchain",
+    "facebook": "hintchain",
+    "telegram": "hintchain_official_en",
+    "reddit": "Hintchain/"
+}

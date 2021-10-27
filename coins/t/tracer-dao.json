@@ -1,0 +1,27 @@
+{
+    "id": "tracer-dao",
+    "symbol": "tcr",
+    "name": "Tracer DAO",
+    "platforms": {
+        "ethereum": "0x9c4a4204b79dd291d6b6571c5be8bbcd0622f050",
+        "arbitrum-one": "0xa72159fc390f0e3c6d415e658264c7c4051e9b87"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Perpetuals",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Tracer is an open-source, smart contract protocol for derivatives. With the capability to enable anyone to deploy a derivatives market from a Tracer Factory template to manage their digital and real-world financial risk.\r\n\r\nThe first derivatives market to launch is a new primitive \u2013 Tracer Perpetual Pools. No margin. No liquidations. Fully fungible tokens for the DeFi economy. You can now acquire low-cost, leveraged exposure to any asset with zero risk of liquidation, zero trust in a centralised party, and zero limits set on leverage.\r\n\r\nTCR is the governance token for Tracer DAO. TCR grants its holder the right to participate in the governance of the protocol, and vote on proposals. Proposals are community-driven and may include; research engagements, advisory roles, protocol upgrades, management of the treasury, software development, media partnerships, security audits, and a host of other important responsibilities."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9c4a4204b79dd291d6b6571c5be8bbcd0622f050",
+    "url": "https://tracer.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x9c4a4204b79dd291d6b6571c5be8bbcd0622f050",
+        "https://ethplorer.io/address/0x9c4a4204b79dd291d6b6571c5be8bbcd0622f050"
+    ],
+    "twitter": "TracerDAO",
+    "github_org": "tracer-protocol"
+}

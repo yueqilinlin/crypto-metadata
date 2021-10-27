@@ -1,0 +1,24 @@
+{
+    "id": "wave-edu-coin",
+    "symbol": "wec",
+    "name": "Wave Edu Coin",
+    "platforms": {
+        "waves": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Education"
+    ],
+    "description": {
+        "en": "Improve and expand your skills to make more money in your career\r\nWave Edu Coin teaches college students and professionals how to build real products. Watch projects to improve and expand your skills and make more money in your career."
+    },
+    "country_origin": "AZ",
+    "genesis_date": null,
+    "url": "http://www.waveeducoin.com/",
+    "explorers": [
+        "https://wavesexplorer.com/tx/Dd3ppdB8zuW8gEJK5RamNmNngo4BjcxC9gHM1ZDX2smF",
+        "http://dev.pywaves.org/assets/Dd3ppdB8zuW8gEJK5RamNmNngo4BjcxC9gHM1ZDX2smF"
+    ],
+    "twitter": "waveeducoin1",
+    "facebook": "waveeducoin"
+}

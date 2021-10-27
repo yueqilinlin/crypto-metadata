@@ -1,0 +1,20 @@
+{
+    "id": "themis",
+    "symbol": "get",
+    "name": "Themis Network",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Themis is a blockchain-based fair exchange system for digital currencies, providing a decentralized escrow service for digital currencies and solving the problems of fair exchanges using digital currencies as medium. Themis can be applied in P2P payments of digital currency,OTC trading of digital currency and so on."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "url": "https://themis.network/",
+    "explorers": [
+        "https://themiscan.io/explorer"
+    ],
+    "twitter": "themisnetwork",
+    "telegram": "themisnetworkofficial",
+    "github_org": "themis-network"
+}

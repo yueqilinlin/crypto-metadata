@@ -1,0 +1,23 @@
+{
+    "id": "safehold",
+    "symbol": "safehold",
+    "name": "SafeHold",
+    "platforms": {
+        "binance-smart-chain": "0xece59e58046179a762513727607629641190e421"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeHold is an autonomous yield farming protocol. Simply hold #SAFEHOLD tokens in your wallet to earn BNB daily. In addition, we burn 2% fee on each transaction so the price will be getting better over time."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0xece59e58046179a762513727607629641190e421",
+    "url": "https://www.safehold.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xEce59e58046179A762513727607629641190e421"
+    ],
+    "twitter": "safeholdfinance",
+    "telegram": "safeholdfinance",
+    "reddit": "safeholdfinance"
+}

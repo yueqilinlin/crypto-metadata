@@ -1,0 +1,29 @@
+{
+    "id": "aave-link-v1",
+    "symbol": "alink",
+    "name": "Aave LINK v1",
+    "platforms": {
+        "ethereum": "0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Aave Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Aave LINK is an interest bearing token minted upon deposit and burned when redeemed. The aLINK is pegged 1:1 to the value of the underlying LINK that is deposited in Aave protocol. aLINK, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aLINK accrue interest in real time, directly in your wallet!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84",
+    "url": "https://aave.com/atokens",
+    "explorers": [
+        "https://etherscan.io/token/0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84",
+        "https://ethplorer.io/address/0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome",
+    "reddit": "Aave_Official/",
+    "github_org": "aave"
+}

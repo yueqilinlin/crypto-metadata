@@ -1,0 +1,22 @@
+{
+    "id": "bitcoin-stash",
+    "symbol": "bsh",
+    "name": "Bitcoin Stash",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Bitcoin Stash is a secure and decentralized cryptocurrency, hard forked from Bitcoin Cash."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://bstash.org",
+    "explorers": [
+        "http://explorer.bstash.org"
+    ],
+    "twitter": "bitcoinstash",
+    "reddit": "Bitcoinstash/",
+    "github_org": "bstash"
+}

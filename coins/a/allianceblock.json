@@ -1,0 +1,24 @@
+{
+    "id": "allianceblock",
+    "symbol": "albt",
+    "name": "AllianceBlock",
+    "platforms": {
+        "ethereum": "0x00a8b738e453ffd858a7edf03bccfe20412f0eb0",
+        "avalanche": "0x9e037de681cafa6e661e6108ed9c2bd1aa567ecd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x00a8b738e453ffd858a7edf03bccfe20412f0eb0",
+    "url": "https://allianceblock.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0",
+        "https://ethplorer.io/address/0x00a8b738e453ffd858a7edf03bccfe20412f0eb0"
+    ],
+    "twitter": "allianceblock",
+    "telegram": "allianceblock"
+}

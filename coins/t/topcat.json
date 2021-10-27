@@ -1,0 +1,22 @@
+{
+    "id": "topcat",
+    "symbol": "topcat",
+    "name": "TopCat",
+    "platforms": {
+        "binance-smart-chain": "0x78f87d1613b35468455e8379c94e9cc03d2b666f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": " TopCat ($TOPCAT) is a fully community-driven, decentralized cryptocurrency with a deflationary mechanism and instant rewards for all holders. TopCat hates BOT\u2019s and has an inbuilt BOT limiter to give everyone a chance to be a part of this revolutionary token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x78f87d1613b35468455e8379c94e9cc03d2b666f",
+    "url": "https://topcat.site/",
+    "explorers": [
+        "https://bscscan.com/token/0x78f87d1613b35468455e8379c94e9cc03d2b666f"
+    ],
+    "twitter": "topcatbsc",
+    "telegram": "topcatbsc"
+}

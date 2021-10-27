@@ -1,0 +1,22 @@
+{
+    "id": "monetaryunit",
+    "symbol": "mue",
+    "name": "MonetaryUnit",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "MonetaryUnit (MUE) is a fork of Quark. There will be a total of 1 Quadrillion coins (i.e. 1,000,000,000,000,000 MUE). There is a 40,000,000 MUE pre-mine (0.000004% of total supply) to fund faucet, giveaways, promotions and development of which 9,0000,000 MUE has already been given away or used for development. \r\n\r\nThe release of MonetaryUnit is staggered into 10 different stages. Each \u201cstage\u201d lasts about 18.5 days, and is made up of 40,000 \u201cblocks\u201d. Each block is released every 40 seconds, and a block is the reward for mining the MonetaryUnit network. The block reward changes at every stage, so that the number of coins released per day will change every 18.5 days up until stage 10. At stage 10, the number of coins released per day will always be 86,500 coins per day, or 40 MUE per block. \r\n\r\nMUE is a coin that has a fair launch with a block reward schedule that increases as time goes on. Here is the block reward schedule:\r\n0.025 MUE reward for first 40,000 blocks (54 MUE/day)\r\n1 MUE reward for next 40,000 blocks (2160 MUE/day)\r\n2 MUE reward for next 40,000 blocks (4320 MUE/day)\r\n4 MUE reward for next 40,000 blocks (8640 MUE/day)\r\n8 MUE reward for next 40,000 blocks (17280 MUE/day)\r\n10 MUE reward for next 40,000 blocks (21600 MUE/day)\r\n20 MUE reward for next 40,000 blocks (43200 MUE/day)\r\n30 MUE reward for next 40,000 blocks (64800 MUE/day)\r\n40 MUE reward thereafter (86400 MUE/day)"
+    },
+    "country_origin": "",
+    "genesis_date": "2014-07-26",
+    "url": "http://www.monetaryunit.org/",
+    "explorers": [
+        "https://explorer.monetaryunit.org/",
+        "https://chainz.cryptoid.info/mue/"
+    ],
+    "twitter": "MonetaryUnit",
+    "github_org": "muecoin"
+}

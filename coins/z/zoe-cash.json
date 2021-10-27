@@ -1,0 +1,23 @@
+{
+    "id": "zoe-cash",
+    "symbol": "zoe",
+    "name": "Zoe Cash",
+    "platforms": {
+        "tron": "TWUs7FajJdRK26U1A5KZJbo8wP7jHiRFwk"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ZoeCash is a Decentralized multipurpose system that integrates finance, online training, certifications, jobs, encrypted social interaction and goal monetization, stored and validated on its own blockchain."
+    },
+    "country_origin": "CO",
+    "genesis_date": null,
+    "contract_address": "TWUs7FajJdRK26U1A5KZJbo8wP7jHiRFwk",
+    "url": "https://zoe.cash/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TWUs7FajJdRK26U1A5KZJbo8wP7jHiRFwk"
+    ],
+    "twitter": "zoecashoficial",
+    "telegram": "zoecash",
+    "github_org": "ZOE-Cash"
+}

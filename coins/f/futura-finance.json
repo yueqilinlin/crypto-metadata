@@ -1,0 +1,23 @@
+{
+    "id": "futura-finance",
+    "symbol": "fft",
+    "name": "Futura Finance",
+    "platforms": {
+        "binance-smart-chain": "0x183b2c147fe11788b73bc0d6a7e0186aa5464bfa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x183b2c147fe11788b73bc0d6a7e0186aa5464bfa",
+    "url": "https://futurafinance.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x183b2c147fe11788b73bc0d6a7e0186aa5464bfa"
+    ],
+    "twitter": "futurabsc",
+    "telegram": "FuturaBSC",
+    "github_org": "futurafinance"
+}

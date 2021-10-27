@@ -1,0 +1,23 @@
+{
+    "id": "strikecoin",
+    "symbol": "strx",
+    "name": "StrikeX",
+    "platforms": {
+        "binance-smart-chain": "0xd6fdde76b8c1c45b33790cc8751d5b88984c44ec"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "StrikeX ($STRX) is the evolution of StrikeCoin ($STRIKE), and the next level of our journey.\r\n\r\nWhilst TradeStrike Lite; our Certik Shield-integrated DeFi Exchange was undergoing development, we began crafting a unique token to launch alongside it \u2014 that is smarter, more secure, and more versatile than ever. Audited by the industry-leading security pioneer; Certik, StrikeX has been built as an upgrade to its predecessor, with bespoke and unique timed tokenomics designed to facilitate our growth over a period of the next 9 months, in preparation for the launch of our flagship product \u2014 TradeStrike; the tokenised multi-asset trading platform.\r\n\r\nMonitored 24/7 by Skynet; a 24/7 security intelligence engine, StrikeX has unique features that will not only expedite the growth of the company, but will ensure that sales can be utilised toward marketing and development, which in turn will help to increase volume through product upgrades and brand awareness."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd6fdde76b8c1c45b33790cc8751d5b88984c44ec",
+    "url": "https://www.strikecoin.co/",
+    "explorers": [
+        "https://bscscan.com/token/0xd6fdde76b8c1c45b33790cc8751d5b88984c44ec"
+    ],
+    "twitter": "Trade_strike",
+    "telegram": "strike_coin",
+    "reddit": "TradeStrike/"
+}

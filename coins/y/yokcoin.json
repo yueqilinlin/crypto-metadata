@@ -1,0 +1,24 @@
+{
+    "id": "yokcoin",
+    "symbol": "yok",
+    "name": "YOKcoin",
+    "platforms": {
+        "ethereum": "0x05fcc72cfb4150abae415c885f7a433ff523296f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YOK coin to be used for additional functionality on YOKdata unique secure and private decentralized cloud data storage"
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x05fcc72cfb4150abae415c885f7a433ff523296f",
+    "url": "https://yokdata.com",
+    "explorers": [
+        "https://etherscan.io/token/0x05Fcc72CFb4150AbAE415c885f7a433Ff523296F",
+        "https://ethplorer.io/address/0x05Fcc72CFb4150AbAE415c885f7a433Ff523296F"
+    ],
+    "twitter": "yokdata_nl",
+    "facebook": "yokdatanl",
+    "telegram": "yokdatachat"
+}

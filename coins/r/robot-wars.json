@@ -1,0 +1,22 @@
+{
+    "id": "robot-wars",
+    "symbol": "war",
+    "name": "Robot Wars",
+    "platforms": {
+        "binance-smart-chain": "0xce842fd2ebe59aed59c30c728fcc2c3e1a9e88c4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Use the Robot Warrior NFTs to protect the Earth against Destroyer's invasions and earn $WAR"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xce842fd2ebe59aed59c30c728fcc2c3e1a9e88c4",
+    "url": "https://robotwars.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xCE842Fd2ebE59AeD59C30c728fcC2c3e1a9e88c4"
+    ],
+    "twitter": "RobotWarFi",
+    "telegram": "RobotWarsOfficial"
+}

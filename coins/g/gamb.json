@@ -1,0 +1,25 @@
+{
+    "id": "gamb",
+    "symbol": "gmb",
+    "name": "GAMB",
+    "platforms": {
+        "ethereum": "0xa0008f510fe9ee696e7e320c9e5cbf61e27791ee"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Retail"
+    ],
+    "description": {
+        "en": "GAMB is a self-governed and decentralized ecosystem for e-commerce, driven by smart contracts, enhanced by open source development and empowered by the first Global Alliance of Merchants on the Blockchain. This revolutionary concept is backed by GAMBIO - the #1 e-commerce software provider in Germany."
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "contract_address": "0xa0008f510fe9ee696e7e320c9e5cbf61e27791ee",
+    "url": "https://gamb.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa0008f510fe9ee696e7e320c9e5cbf61e27791ee",
+        "https://ethplorer.io/address/0xa0008f510fe9ee696e7e320c9e5cbf61e27791ee"
+    ],
+    "twitter": "GAMBproject",
+    "telegram": "GAMBCommunity"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "integral",
+    "symbol": "itgr",
+    "name": "Integral",
+    "platforms": {
+        "ethereum": "0xd502f487e1841fdc805130e13eae80c61186bc98"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Integral is a new DeFi primitive that efficiently executes large orders. It is the only such primitive with a functional product to date and is poised to capture the exact segment of large client trading volume for DeFi."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd502f487e1841fdc805130e13eae80c61186bc98",
+    "url": "https://integral.link/",
+    "explorers": [
+        "https://etherscan.io/token/0xd502f487e1841fdc805130e13eae80c61186bc98",
+        "https://ethplorer.io/address/0xd502f487e1841fdc805130e13eae80c61186bc98"
+    ],
+    "twitter": "integralhq",
+    "telegram": "integralresistance",
+    "github_org": "ProfessorJEY"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "mergecoin",
+    "symbol": "mgc",
+    "name": "MergeCoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "P2P crypto-currency with dashpay and blackcoin Hybird feature,\r\nit's a digital currency that enables instant payments to anyone, anywhere in the world. Mergecoin uses peer-to-peer technology over ClearNet to operate with no central authority (centralisation)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://www.mergecoin.com/",
+    "explorers": [
+        "http://www.mergechain.com:3000/"
+    ],
+    "twitter": "MergeCoin",
+    "facebook": "MergeCoin"
+}

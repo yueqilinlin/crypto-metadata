@@ -1,0 +1,23 @@
+{
+    "id": "goldblock",
+    "symbol": "gbk",
+    "name": "Goldblock",
+    "platforms": {
+        "ethereum": "0x3e522d144814bd6149c1f3e0c6cd19d0941372ac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Goldblock\u2018s token economy is formed around the bullion economy. The gold brick ecosystem consists of three main bodies: the GBK clod exchange, the GBK clods, and the Nugget Foundation. The application software will be developed in both mobile and web versions, and GBK token holders can update various information through application software."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3e522d144814bd6149c1f3e0c6cd19d0941372ac",
+    "url": "http://www.goldblock.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3e522d144814bd6149c1f3e0c6cd19d0941372ac",
+        "https://ethplorer.io/address/0x3e522d144814bd6149c1f3e0c6cd19d0941372ac"
+    ],
+    "twitter": "Goldblock10",
+    "facebook": "goldblocktoken"
+}

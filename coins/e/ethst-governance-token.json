@@ -1,0 +1,23 @@
+{
+    "id": "ethst-governance-token",
+    "symbol": "et",
+    "name": "ETHST Governance Token",
+    "platforms": {
+        "huobi-token": "0x99336b9a5f70f52b4b1fc2886ba9bd2d2263f5d5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ETHST is the first global perpetual Ethereum standard hashrate protocol, a hashrate token that anchors the mining power of Ethereum,it can be staked to mine ETH and ET on ETHST official website. \r\nET is ETHST governance token , ET can be staked to mine Doge, Bzz, Xch, Fil and other popular tokens. \r\nET will be repurchased and destroyed time to time,Continued deflation. Users who hold ET will also enjoy privileges such as community voting and project governance."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x99336b9a5f70f52b4b1fc2886ba9bd2d2263f5d5",
+    "url": "https://ethst.io/",
+    "explorers": [
+        "https://hecoinfo.com/token/0x99336B9a5f70f52B4B1fC2886ba9bd2D2263f5D5"
+    ],
+    "twitter": "ETHST_Official",
+    "telegram": "ETHST01",
+    "github_org": "ethst20210317"
+}

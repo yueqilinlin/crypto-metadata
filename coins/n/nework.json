@@ -1,0 +1,16 @@
+{
+    "id": "nework",
+    "symbol": "nkc",
+    "name": "Nework",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "The bitcoin network is a peer-to-peer payment network that operates on a cryptographic protocol. Users send and receive bitcoins, the units of currency, by broadcasting digitally signed messages to the network using bitcoin cryptocurrency wallet software. Transactions are recorded into a distributed, replicated public database known as the blockchain, with consensus achieved by a proof-of-work system called mining. Satoshi Nakamoto, the designer of bitcoin claimed that design and coding of bitcoin began in 2007. The project was released in 2009 as open source software. The network requires the minimal structure to share transactions. An ad hoc decentralized network of volunteers is sufficient. Messages are broadcast on a best effort basis, and nodes can leave and rejoin the network at will. Upon reconnection, a node downloads and verifies new blocks from other nodes to complete its local copy of the blockchain.\r\n\r\nA bitcoin is defined by a sequence of digitally signed transactions that began with the bitcoin's creation, as a block reward. The owner of a bitcoin transfers it by digitally signing it over to the next owner using a bitcoin transaction, much like endorsing a traditional bank check. A payee can examine each previous transaction to verify the chain of ownership. Unlike traditional check endorsements, bitcoin transactions are irreversible, which eliminates the risk of chargeback fraud.\r\n\r\nAlthough it is possible to handle bitcoins individually, it would be unwieldy to require a separate transaction for every bitcoin in a transaction. Transactions are therefore allowed to contain multiple inputs and outputs, allowing bitcoins to be split and combined. Common transactions will have either a single input from a larger previous transaction or multiple inputs combining smaller amounts, and one or two outputs: one for the payment, and one returning the change, if any, to the sender. Any difference between the total input and output amounts of a transaction goes to miners as a transaction fee.\r\n\r\nIn 2013, Mark Gimein estimated electricity consumption to be about 40.9 megawatts (982 megawatt-hours a day). In 2014, Hass McCook estimated 80.7 megawatts (80,666 kW). As of 2015, The Economist estimated that even if all miners used modern facilities, the combined electricity consumption would be 166.7 megawatts (1.46 terawatt-hours per year). To lower the costs, bitcoin miners have set up in places like Iceland where geothermal energy is cheap and cooling Arctic air is free. Chinese bitcoin miners are known to use hydroelectric power in Tibet to reduce electricity costs.\r\n\r\nVarious potential attacks on the bitcoin network and its use as a payment system, real or theoretical, have been considered. The bitcoin protocol includes several features that protect it against some of those attacks, such as unauthorized spending, double spending, forging bitcoins, and tampering with the blockchain. Other attacks, such as theft of private keys, require due care by users."
+    },
+    "country_origin": "",
+    "genesis_date": "2016-01-24",
+    "url": "http://nework.pro/",
+    "explorers": [],
+    "telegram": "nework_pro"
+}

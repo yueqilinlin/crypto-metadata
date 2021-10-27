@@ -1,0 +1,22 @@
+{
+    "id": "aurumcoin",
+    "symbol": "au",
+    "name": "AurumCoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AurumCoin \u2013 The first virtual coin backed up in solid gold. AurumCoin(AU) is a distributed cryptocurrency, has its own blockchain since 2014 and only 300,000 coins can be mined, so gold backed cryptocurrency is possible"
+    },
+    "country_origin": "",
+    "genesis_date": "2014-09-22",
+    "url": "http://www.aurumcoin.com/",
+    "explorers": [
+        "http://aurumblocks.cointech.net/chain/AurumCoin",
+        "http://hashnavi.cointech.net/aurumcoin/",
+        "http://cryptopool.at/explorer/AU"
+    ],
+    "twitter": "Aurumcoin",
+    "facebook": "aurumcoin",
+    "github_org": "aurumcoin"
+}

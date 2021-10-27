@@ -1,0 +1,23 @@
+{
+    "id": "erth-token",
+    "symbol": "erth",
+    "name": "ERTH Token",
+    "platforms": {
+        "binance-smart-chain": "0x3b8674f9cd879e0f557b3df9700d9b639a2eea17"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ERTH Token is a deflationary BEP-20 Token that uses the reflection model to benefit charity & it's holders. It also guarantees the project's longevity. We have a built-in mechanism to guarantee funding for charity & marketing by charging a tax on each transaction. The ERTH protocol, according to the green paper, works in the following way: in each trade, the transaction is taxed with a fee of 9%, which is cut into three parts. While 4% of the fee is redistributed to all of the token holders at the time, another 4% is then split in half again, with 50% sold by the contract into BNB, and the remaining 50% automatically paired with the aforementioned BNB and added to PancakeSwap as a liquidity pair. The last 1% is also sold by the contract into BNB and collected by the team's dedicated charity wallet. After reaching a certain charity goal each month the community at ERTH then chooses an organization to donate the money to by running a poll. ERTH made its first donation of $2,300 on May 27, 2021 to Trees Of The Future according to their twitter. According to the developers, ErthToken also has plans to develop Erth.tools which is a dedicated site run under them that will have a variety of Dx Apps including a Live Chart, Swap feature, Token Locker, BEP-20 contract creator, and more. The paid features of these apps will then allocate a percentage of their revenue to charity."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x3b8674f9cd879e0f557b3df9700d9b639a2eea17",
+    "url": "https://erth.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x3B8674F9CD879E0f557B3df9700D9B639a2eeA17"
+    ],
+    "twitter": "ERTHToken",
+    "telegram": "ERTHToken",
+    "reddit": "ERTHToken/"
+}

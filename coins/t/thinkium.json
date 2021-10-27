@@ -1,0 +1,21 @@
+{
+    "id": "thinkium",
+    "symbol": "tkm",
+    "name": "Thinkium",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "Thinkium uses a multi-chain layered multi-level system architecture, PoS-based random election, TBFT, cross-chain, intra-chain sharding, and multi-chain parallel computing to fundamentally solve the \u201cimpossible triangle\u201d problem of the blockchain.\r\n\r\nInfinite and scalable performance: Under the condition of ensuring decentralization and consistency, as the number of nodes and chains increases, the performance of the Thinkium system can be infinitely extended, supporting use case scenarios that require a large number of users and application operations.\r\n\r\nCompletely decentralized: Allow consensus nodes to join the Thinkey network without permission, and there are no super nodes.\r\n\r\nData consistency: Under the condition that malicious nodes are allowed, Thinkium nodes can reach a consensus result.\r\n"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "url": "https://www.thinkium.net",
+    "explorers": [
+        "https://www.thinkiumscan.net/"
+    ],
+    "twitter": "Thinkium_Chain",
+    "telegram": "Thinkiumofficial",
+    "reddit": "Thinkium/",
+    "github_org": "ThinkiumGroup"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "moonbase",
+    "symbol": "mbbased",
+    "name": "Moonbase",
+    "platforms": {
+        "ethereum": "0x26cf82e4ae43d31ea51e72b663d26e26a75af729"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x26cf82e4ae43d31ea51e72b663d26e26a75af729",
+    "url": "https://based.money/",
+    "explorers": [
+        "https://etherscan.io/token/0x26cF82e4aE43D31eA51e72B663d26e26a75AF729",
+        "https://ethplorer.io/address/0x26cf82e4ae43d31ea51e72b663d26e26a75af729"
+    ],
+    "twitter": "basedprotocol",
+    "telegram": "basedmoney"
+}

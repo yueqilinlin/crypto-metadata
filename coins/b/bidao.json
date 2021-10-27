@@ -1,0 +1,28 @@
+{
+    "id": "bidao",
+    "symbol": "bid",
+    "name": "Bidao",
+    "platforms": {
+        "ethereum": "0x25e1474170c4c0aa64fa98123bdc8db49d7802fa"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem",
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Bidao\u00ae is building a chain agnostic trustless stablecoin and decentralized finance ecosystem. Moreover the Bidao\u00ae Token can be staked to earn extra rewards."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x25e1474170c4c0aa64fa98123bdc8db49d7802fa",
+    "url": "https://bidaochain.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa",
+        "https://ethplorer.io/address/0x25e1474170c4c0aa64fa98123bdc8db49d7802fa"
+    ],
+    "twitter": "Bidaochain",
+    "facebook": "bidaochain",
+    "telegram": "bidaoofficial",
+    "github_org": "officialBidao"
+}

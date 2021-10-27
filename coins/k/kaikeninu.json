@@ -1,0 +1,23 @@
+{
+    "id": "kaikeninu",
+    "symbol": "kaieco",
+    "name": "KaikenInu",
+    "platforms": {
+        "binance-smart-chain": "0xa1e5eb1f86c139d4ec8529fb9cefbe83879b81d9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kaiken will build a platform for staking, NFT and Game (all-in-one)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa1e5eb1f86c139d4ec8529fb9cefbe83879b81d9",
+    "url": "https://kaikeninu.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xa1e5eb1f86c139d4ec8529fb9cefbe83879b81d9"
+    ],
+    "twitter": "kaiken_inu",
+    "telegram": "kaieco",
+    "reddit": "KaikenInu_Official/"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "yearn-finance-red-moon",
+    "symbol": "yfrm",
+    "name": "Yearn Finance Red Moon",
+    "platforms": {
+        "ethereum": "0xbe685c5e06866cfb94a4242e3df8f2fa3e7c2b73"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0xbe685c5e06866cfb94a4242e3df8f2fa3e7c2b73",
+    "url": "https://yfrm.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xbE685C5E06866cfB94A4242E3DF8f2fa3E7c2b73",
+        "https://ethplorer.io/address/0xbe685c5e06866cfb94a4242e3df8f2fa3e7c2b73"
+    ],
+    "twitter": "YFRM_TOKEN",
+    "telegram": "YFRM_TOKEN"
+}

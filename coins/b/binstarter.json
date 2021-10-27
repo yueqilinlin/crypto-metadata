@@ -1,0 +1,24 @@
+{
+    "id": "binstarter",
+    "symbol": "bsr",
+    "name": "BinStarter",
+    "platforms": {
+        "binance-smart-chain": "0xab287e6d370c61f105630e656b5468acb4d00423"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BinStarter is a multi-chain launchpad with insure protocol."
+    },
+    "country_origin": "GE",
+    "genesis_date": null,
+    "contract_address": "0xab287e6d370c61f105630e656b5468acb4d00423",
+    "url": "https://binstarter.io",
+    "explorers": [
+        "https://bscscan.com/token/0xab287e6d370c61f105630e656b5468acb4d00423"
+    ],
+    "twitter": "BinStarterio",
+    "telegram": "BinStarterOfficial",
+    "reddit": "binstarter/",
+    "github_org": "BinStarter"
+}

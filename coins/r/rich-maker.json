@@ -1,0 +1,23 @@
+{
+    "id": "rich-maker",
+    "symbol": "rich",
+    "name": "Rich Maker",
+    "platforms": {
+        "binance-smart-chain": "0x0d94335595ae842890bec091ef8c47d62f545d99"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rich Maker is the bridge between investors and developers.\r\nWhile investors can easily access projects that they can trust, developers will only focus on their projects without worrying about investors."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0d94335595ae842890bec091ef8c47d62f545d99",
+    "url": "https://richmaker.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x0d94335595ae842890bec091ef8c47d62f545d99"
+    ],
+    "twitter": "RichMakerGlobal",
+    "telegram": "RichMakerOfficial",
+    "github_org": "RichMakerGlobal"
+}

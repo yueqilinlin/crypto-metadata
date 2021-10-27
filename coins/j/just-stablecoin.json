@@ -1,0 +1,21 @@
+{
+    "id": "just-stablecoin",
+    "symbol": "usdj",
+    "name": "JUST Stablecoin",
+    "platforms": {
+        "tron": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "USDJ is a stablecoin of TRON. It\u2019s generated through decentralized smart contracts on the TRON network. Anyone can pledge TRX as collateral to generate USDJ. USDJ enters into free circulation as any other cryptocurrency does once generated. It is pegged to the US dollar through Collateralized Debt Positions (CDPs), and also has autonomous feedback mechanisms."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://just.network/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+        "https://www.trxplorer.io/token/TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT"
+    ],
+    "telegram": "just_defi"
+}

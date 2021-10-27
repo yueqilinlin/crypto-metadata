@@ -1,0 +1,23 @@
+{
+    "id": "yfrb-finance",
+    "symbol": "yfrb",
+    "name": "yfrb.Finance",
+    "platforms": {
+        "ethereum": "0x5d1b1019d0afa5e6cc047b9e78081d44cc579fc4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YFRB plan to develop a platform that allows YFRB token holders to utilize flash loans from platforms like AAVE, dYdX, etc. to engage in arbitrage opportunities on multiple decentralized exchanges."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5d1b1019d0afa5e6cc047b9e78081d44cc579fc4",
+    "url": "https://www.yfrb.finance/#events",
+    "explorers": [
+        "https://etherscan.io/token/0x5d1b1019d0afa5e6cc047b9e78081d44cc579fc4",
+        "https://ethplorer.io/address/0x5d1b1019d0afa5e6cc047b9e78081d44cc579fc4"
+    ],
+    "twitter": "yfrbfinance",
+    "telegram": "yfrb_finance"
+}

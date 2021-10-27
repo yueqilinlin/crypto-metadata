@@ -1,0 +1,25 @@
+{
+    "id": "social-good-project",
+    "symbol": "sg",
+    "name": "SocialGood",
+    "platforms": {
+        "ethereum": "0xddf7fd345d54ff4b40079579d4c4670415dbfd0a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Retail"
+    ],
+    "description": {
+        "en": "A cryptoassets point return service for shopping at famous retail stores (Patent approved)"
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "contract_address": "0xddf7fd345d54ff4b40079579d4c4670415dbfd0a",
+    "url": "https://socialgood-foundation.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xddf7fd345d54ff4b40079579d4c4670415dbfd0a",
+        "https://ethplorer.io/address/0xddf7fd345d54ff4b40079579d4c4670415dbfd0a"
+    ],
+    "twitter": "socialgood_inc",
+    "telegram": "SocialGood_io"
+}

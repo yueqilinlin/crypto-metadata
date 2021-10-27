@@ -1,0 +1,26 @@
+{
+    "id": "seen",
+    "symbol": "seen",
+    "name": "SEEN",
+    "platforms": {
+        "ethereum": "0xca3fe04c7ee111f0bbb02c328c699226acf9fd33"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "seen.haus is merging the digital and physical worlds through non-fungible token (NFT) and tangible product auctions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xca3fe04c7ee111f0bbb02c328c699226acf9fd33",
+    "url": "https://seen.haus",
+    "explorers": [
+        "https://etherscan.io/token/0xCa3FE04C7Ee111F0bbb02C328c699226aCf9Fd33",
+        "https://ethplorer.io/address/0xca3fe04c7ee111f0bbb02c328c699226acf9fd33"
+    ],
+    "twitter": "seen_haus",
+    "telegram": "seenhaus"
+}

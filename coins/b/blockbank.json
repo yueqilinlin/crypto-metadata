@@ -1,0 +1,26 @@
+{
+    "id": "blockbank",
+    "symbol": "bbank",
+    "name": "BlockBank",
+    "platforms": {
+        "ethereum": "0xf4b5470523ccd314c6b9da041076e7d79e0df267",
+        "binance-smart-chain": "0xf4b5470523ccd314c6b9da041076e7d79e0df267"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BlockBank is powered by our platform's utility token called BBANK. Users are able to gain access to our credit card rewards program, use our advanced AI assistant, increase their APY % and earn interest on their tokens by staking BBANK in their non-custodial BlockBank cryptocurrency wallet."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf4b5470523ccd314c6b9da041076e7d79e0df267",
+    "url": "https://blockbank.ai/",
+    "explorers": [
+        "https://etherscan.io/token/0xf4b5470523ccd314c6b9da041076e7d79e0df267",
+        "https://ethplorer.io/address/0xf4b5470523ccd314c6b9da041076e7d79e0df267",
+        "https://bscscan.com/token/0xf4b5470523ccd314c6b9da041076e7d79e0df267"
+    ],
+    "twitter": "BLOCKBANKapp",
+    "facebook": "blockbank",
+    "telegram": "BlockBankApp"
+}

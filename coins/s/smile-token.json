@@ -1,0 +1,22 @@
+{
+    "id": "smile-token",
+    "symbol": "smile",
+    "name": "Smile Token",
+    "platforms": {
+        "binance-smart-chain": "0x1cd137eb5bdf426aae58c3ed80383f74e42d9bf2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Smile token is a a protocol that unifies leading DeFi protocols and blockchain infrastructure by standardising communication between them to create and execute complex financial transactions, while championing Privacy, Anonymity and Sovereignty."
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0x1cd137eb5bdf426aae58c3ed80383f74e42d9bf2",
+    "url": "https://smiletoken.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x1cd137eb5bdf426aae58c3ed80383f74e42d9bf2"
+    ],
+    "twitter": "smiletokens",
+    "telegram": "smiletokens"
+}

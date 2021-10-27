@@ -1,0 +1,26 @@
+{
+    "id": "swtcoin",
+    "symbol": "swat",
+    "name": "SWTCoin",
+    "platforms": {
+        "ethereum": "0xc0f1728d9513efc316d0e93a0758c992f88b0809",
+        "binance-smart-chain": "0x82e7eb8f4c307f2dcf522fdca7b7038296584f29"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SWAT Coin will set the future standard in facilitating simple, secure, wide-spectrum, authenticated digital transactions. Secure, Wide Spectrum Authenticated Transactions being the key factors of the project the acronym SWAT as the symbol and the name SWATCoin have emerged. "
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0xc0f1728d9513efc316d0e93a0758c992f88b0809",
+    "url": "https://www.swatcoin.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xc0f1728d9513efc316d0e93a0758c992f88b0809",
+        "https://ethplorer.io/address/0xc0f1728d9513efc316d0e93a0758c992f88b0809",
+        "https://bscscan.com/token/0x82e7eb8f4c307f2dcf522fdca7b7038296584f29"
+    ],
+    "twitter": "SWTCoin",
+    "telegram": "swtcoincommunity",
+    "github_org": "SWATCoin"
+}

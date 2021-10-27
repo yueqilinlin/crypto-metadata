@@ -1,0 +1,25 @@
+{
+    "id": "lobstex-coin",
+    "symbol": "lobs",
+    "name": "Lobstex",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Zerocoin aims to be the protocol which is decentralized in nature using the e-cash schematics providing quite a proven user anonymity and security of coin based on simplistic assumption of a distributed consensus in an online and append-only transactions over the blockchain. Zerocoin protocol was first implemented on <a href=\"https://www.coingecko.com/en/coins/zcoin\">ZCoin</a>. zLOBS works on zerocoin protocol by enforcing zero-knowledge proofs. The zLOBS (zerocoin) feature will be activated at 43201 block when the PoW will end.\r\n\r\nThe basic requirements to setup Lobstex Masternode:\r\n \u2022 A minimum amount of coins : 10000 LOBS\r\n \u2022 A separate VPS (virtual private server) Ubuntu 16.04 x 64 operating 24 x 7 for hosting wallet\r\n \u2022 A dedicated IP address to do the same\r\n \u2022 Additional storage space for saving the blockchain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.lobstex.com",
+    "explorers": [
+        "http://explorer.lobstex.com/",
+        "https://lobstex.chainmapper.com/"
+    ],
+    "twitter": "LOBSTEXofficial",
+    "facebook": "lobstex.lobs.7",
+    "telegram": "lobstexofficial",
+    "reddit": "Lobstex",
+    "github_org": "avymantech"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "icecubes-finance",
+    "symbol": "icube",
+    "name": "IceCubes Finance",
+    "platforms": {
+        "avalanche": "0x951c8a8dee33bd5039a71e7bd4244d5659cf1517"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x951c8a8dee33bd5039a71e7bd4244d5659cf1517",
+    "url": "https://icecubes.finance/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/token/0x951C8a8DEe33bd5039A71E7BD4244D5659CF1517/token-transfers"
+    ],
+    "twitter": "IcecubesFinance"
+}

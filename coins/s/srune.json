@@ -1,0 +1,24 @@
+{
+    "id": "srune",
+    "symbol": "srune",
+    "name": "sRUNE",
+    "platforms": {
+        "ethereum": "0x0352557b007a4aae1511c114409b932f06f9e2f4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synths"
+    ],
+    "description": {
+        "en": "Tracks the price of THORChain (RUNE) through price feeds supplied by an oracle.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0352557b007a4aae1511c114409b932f06f9e2f4",
+    "url": "https://www.synthetix.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x0352557B007A4Aae1511C114409b932F06F9E2f4",
+        "https://ethplorer.io/address/0x0352557b007a4aae1511c114409b932f06f9e2f4"
+    ],
+    "twitter": "synthetix_io"
+}

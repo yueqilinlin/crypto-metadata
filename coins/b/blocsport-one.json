@@ -1,0 +1,26 @@
+{
+    "id": "blocsport-one",
+    "symbol": "bls",
+    "name": "blocsport.one",
+    "platforms": {
+        "binance-smart-chain": "0x708739980021a0b0b2e555383fe1283697e140e9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Governance",
+        "Sports"
+    ],
+    "description": {
+        "en": "Governance token to stake for NFTs and vote on company decisions."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x708739980021a0b0b2e555383fe1283697e140e9",
+    "url": "https://blocsport.one/",
+    "explorers": [
+        "https://bscscan.com/token/0x708739980021A0b0B2E555383fE1283697e140e9"
+    ],
+    "twitter": "blocsport1",
+    "telegram": "blocsport",
+    "github_org": "blocsport1"
+}

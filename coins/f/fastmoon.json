@@ -1,0 +1,22 @@
+{
+    "id": "fastmoon",
+    "symbol": "fastmoon",
+    "name": "FastMoon",
+    "platforms": {
+        "binance-smart-chain": "0x869dd7a64afbe5370a8c591d9b8650be60c0b8f6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Extremely fast autonomous yield and liquidity generation protocol on bsc "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x869dd7a64afbe5370a8c591d9b8650be60c0b8f6",
+    "url": "https://fastmoon.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x869dd7a64afbe5370a8c591d9b8650be60c0b8f6"
+    ],
+    "twitter": "FastMoonFinance",
+    "telegram": "FastMoonFinance"
+}

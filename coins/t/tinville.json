@@ -1,0 +1,22 @@
+{
+    "id": "tinville",
+    "symbol": "tinv",
+    "name": "TINVILLE",
+    "platforms": {
+        "binance-smart-chain": "0xf20ce5f76efd7b68d038234ce1fe5b9b380f1740"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "This is the Governance token of \"The Industry Network\" ecosystem which is being built as a safe place to invest your funds and grow your portfolio. The Governance token is a reflector token and so passively rewards holders with a redistribution. There is a 5% tax on each transaction and the is split into 3 parts. 2% Redistributed into holders wallets, 2% into an ownerless LP pool and 1% is sent to a 0x000 burn address to remove from supply.\r\n\r\nThe Ecosystem that it will be the governance for will include Farming, Single asset staking, Vaults, Borrowing, Lending and Passive income protocols by Q1 2022. Holding this governance token allows holders to vote via on-chain snapshot in our discord."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf20ce5f76efd7b68d038234ce1fe5b9b380f1740",
+    "url": "https://tinville.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xf20ce5f76efd7b68d038234ce1fe5b9b380f1740"
+    ],
+    "twitter": "TheIndstryNtwrk",
+    "telegram": "The_Industry_Network_Official"
+}

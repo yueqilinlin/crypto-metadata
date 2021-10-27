@@ -1,0 +1,24 @@
+{
+    "id": "rug",
+    "symbol": "rug",
+    "name": "Rug",
+    "platforms": {
+        "ethereum": "0xd0df3b1cf729a29b7404c40d61c750008e631ba7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A community driven experiment that redistributes wealth to the bold."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd0df3b1cf729a29b7404c40d61c750008e631ba7",
+    "url": "https://rug.money/",
+    "explorers": [
+        "https://etherscan.io/token/0xd0Df3b1Cf729A29B7404c40D61C750008E631bA7",
+        "https://ethplorer.io/address/0xd0df3b1cf729a29b7404c40d61c750008e631ba7"
+    ],
+    "twitter": "MoneyRug",
+    "telegram": "RugToken",
+    "github_org": "bantony123"
+}

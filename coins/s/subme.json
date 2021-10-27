@@ -1,0 +1,25 @@
+{
+    "id": "subme",
+    "symbol": "sub",
+    "name": "Subme",
+    "platforms": {
+        "binance-smart-chain": "0xfd290c590866f8282d89671a85ac9964b165d682"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Subme is the world's first platform focused on subscribing to both physical products and services. We connect buyers and sellers, so you can subscribe to the favorite products that were not subscribable before. The $SUB token (BEP-20 based) will be broadly used in our Subme app. Payments, discounts, cashback, staking - these are some of use cases that make $SUB token a true heart of the app ecosystem. Subme \u2013 have-it-all subscription app that works for everyone."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfd290c590866f8282d89671a85ac9964b165d682",
+    "url": "https://subme.cash/",
+    "explorers": [
+        "https://www.bscscan.com/token/0xfd290c590866f8282d89671a85ac9964b165d682",
+        "https://bscscan.com/token/0xfd290c590866f8282d89671a85ac9964b165d682"
+    ],
+    "twitter": "Subme_app",
+    "telegram": "subme_cash",
+    "reddit": "SubmeApp/",
+    "github_org": "Subme"
+}

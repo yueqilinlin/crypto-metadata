@@ -1,0 +1,21 @@
+{
+    "id": "hash-bridge-oracle",
+    "symbol": "hbo",
+    "name": "Hash Bridge Oracle",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HashBridge is a fully decentralized oracle network powered by nodes which return replies to data request, instead of using a single monolithic node, HashBridge has a collection of different nodes divided up into 30 institution nodes and 5 community nodes. Every node can participate in price feed by depositing HBO \u2014 the native governance token issued by HashBridge."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8764bd4fcc027faf72ba83c0b2028a3bae0d2d57",
+    "url": "https://hboracle.org/",
+    "explorers": [
+        "https://scan.hecochain.com/token/0x8764bd4fcc027faf72ba83c0b2028a3bae0d2d57"
+    ],
+    "twitter": "HB_Oracle",
+    "telegram": "HashBridge",
+    "github_org": "hb-oracle"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "link-eth-rsi-ratio-trading-set",
+    "symbol": "linkethrsi",
+    "name": "LINK/ETH RSI Ratio Trading Set",
+    "platforms": {
+        "ethereum": "0x8933ea1ce67b946bdf2436ce860ffbb53ce814d2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "TokenSets"
+    ],
+    "description": {
+        "en": "The LINK/ETH RSI Ratio Trading Set attempts to capitalize on medium term trends to accumulate more ETH through trading a more volatile cryptoasset (LINK)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8933ea1ce67b946bdf2436ce860ffbb53ce814d2",
+    "url": "https://www.tokensets.com/set/linkethrsi",
+    "explorers": [
+        "https://etherscan.io/token/0x8933ea1Ce67B946BdF2436cE860fFBb53Ce814d2",
+        "https://ethplorer.io/address/0x8933ea1ce67b946bdf2436ce860ffbb53ce814d2"
+    ],
+    "twitter": "SetProtocol",
+    "github_org": "SetProtocol"
+}

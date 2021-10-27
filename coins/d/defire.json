@@ -1,0 +1,24 @@
+{
+    "id": "defire",
+    "symbol": "cwap",
+    "name": "DeFIRE",
+    "platforms": {
+        "ethereum": "0xe74dc43867e0cbeb208f1a012fc60dcbbf0e3044"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe74dc43867e0cbeb208f1a012fc60dcbbf0e3044",
+    "url": "https://defire.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0xE74dC43867E0cbEB208F1a012fc60DcBbF0E3044",
+        "https://ethplorer.io/address/0xE74dC43867E0cbEB208F1a012fc60DcBbF0E3044"
+    ],
+    "twitter": "DeFIRE_Fi",
+    "telegram": "defire_fi",
+    "reddit": "deFIRE_fi/"
+}

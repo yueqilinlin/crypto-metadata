@@ -1,0 +1,23 @@
+{
+    "id": "jojo",
+    "symbol": "jojo",
+    "name": "JOJO",
+    "platforms": {
+        "binance-smart-chain": "0x78a499a998bdd5a84cf8b5abe49100d82de12f1c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "JOJO is a NFT Metaverse project that is about to run on BSC. JOJO combines MEME, NFT, Metaverse and SmartTOY to build a world-class pan-entertainment platform."
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "contract_address": "0x78a499a998bdd5a84cf8b5abe49100d82de12f1c",
+    "url": "https://jojo.fun/",
+    "explorers": [
+        "https://bscscan.com/token/0x78a499a998bdd5a84cf8b5abe49100d82de12f1c"
+    ],
+    "twitter": "JOJOMetaverse",
+    "telegram": "JOJO_Official",
+    "github_org": "jojoprotocal"
+}

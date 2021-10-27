@@ -1,0 +1,26 @@
+{
+    "id": "carvertical",
+    "symbol": "cv",
+    "name": "carVertical",
+    "platforms": {
+        "ethereum": "0x50bc2ecc0bfdf5666640048038c1aba7b7525683"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "carVertical is a blockchain-based vehicle history registry. First of its kind, carVertical will gather as much information from di erent sources as possible, and put it into the blockchain registry."
+    },
+    "country_origin": "EE",
+    "genesis_date": "2017-12-13",
+    "contract_address": "0x50bc2ecc0bfdf5666640048038c1aba7b7525683",
+    "url": "https://www.carvertical.com",
+    "explorers": [
+        "https://etherscan.io/token/0x50bc2ecc0bfdf5666640048038c1aba7b7525683",
+        "https://ethplorer.io/address/0x50bc2ecc0bfdf5666640048038c1aba7b7525683"
+    ],
+    "twitter": "carVertical_com",
+    "facebook": "carvertical.io",
+    "telegram": "carVerticalio",
+    "reddit": "carVertical/",
+    "github_org": "carVertical"
+}

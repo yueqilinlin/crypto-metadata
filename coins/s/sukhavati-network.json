@@ -1,0 +1,25 @@
+{
+    "id": "sukhavati-network",
+    "symbol": "skt",
+    "name": "Sukhavati Network",
+    "platforms": {
+        "ethereum": "0x012e0e6342308b247f36ee500ecb14dc77a7a8c1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sukhavati is a decentralized cloud service network focused on storage. Its mission is to inspire and incentivize improvements to the distributed storage ecosystem and expand a wide range of application scenarios for the implementation of the Web3.0 vision."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x012e0e6342308b247f36ee500ecb14dc77a7a8c1",
+    "url": "https://sukhavati.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x012e0e6342308b247f36ee500ecb14dc77a7a8c1",
+        "https://ethplorer.io/address/0x012e0e6342308b247f36ee500ecb14dc77a7a8c1"
+    ],
+    "twitter": "Sukhavati_N",
+    "telegram": "SukhavatiNetwork",
+    "reddit": "https://www.reddit.comSukhavatiNetwork/",
+    "github_org": "Sukhavati-Labs"
+}

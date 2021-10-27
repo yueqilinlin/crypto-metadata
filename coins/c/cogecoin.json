@@ -1,0 +1,23 @@
+{
+    "id": "cogecoin",
+    "symbol": "coge",
+    "name": "Cogecoin",
+    "platforms": {
+        "ethereum": "0xc382e04099a435439725bb40647e2b32dc136806"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cogecoin is an open source peer-to-peer cryptocurrency. \r\nThe mission is to save underprivileged animals around the world.\r\nCogecoin will be donated to animal welfare organizations."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0xc382e04099a435439725bb40647e2b32dc136806",
+    "url": "https://cogecoin.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xc382e04099a435439725bb40647e2b32dc136806",
+        "https://ethplorer.io/address/0xc382e04099a435439725bb40647e2b32dc136806"
+    ],
+    "twitter": "cogecoin",
+    "telegram": "Cogecoin_org"
+}

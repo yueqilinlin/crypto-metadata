@@ -1,0 +1,25 @@
+{
+    "id": "coinzoom-token",
+    "symbol": "zoom",
+    "name": "CoinZoom Token",
+    "platforms": {
+        "ethereum": "0x69cf3091c91eb72db05e45c76e58225177dea742"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Zoom Token is the native exchange token for the CoinZoom. The Zoom Token allows users to get discounts on trading, higher card spending limits, cashback, and other rewards."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x69cf3091c91eb72db05e45c76e58225177dea742",
+    "url": "https://www.coinzoom.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x69cf3091C91EB72DB05E45C76e58225177dEA742",
+        "https://ethplorer.io/address/0x69cf3091C91EB72DB05E45C76e58225177dEA742"
+    ],
+    "twitter": "GetCoinZoom",
+    "facebook": "CoinZoom",
+    "telegram": "coinzoomcommunity",
+    "github_org": "CoinZoomInc"
+}

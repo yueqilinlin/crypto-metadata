@@ -1,0 +1,23 @@
+{
+    "id": "president-doge",
+    "symbol": "presidentdoge",
+    "name": "President Doge",
+    "platforms": {
+        "binance-smart-chain": "0x4ae80e0414a188f91debfb9e71c67153bfbe5f9e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "While other dogs aimlessly tried to conquer the planets, President Doge became President Of The World. \r\n\r\nPresident Doge is the most authoritative, powerful and influential Dog on the Blockchain.\r\n\r\nIts smart contract is the most cutting edge and disruptive ever deployed, combining the best functionalities from the most successful tokens and preventing the drawbacks through innovative protocols."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x4ae80e0414a188f91debfb9e71c67153bfbe5f9e",
+    "url": "https://www.presidentdoge.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x4ae80e0414a188f91debfb9e71c67153bfbe5f9e"
+    ],
+    "twitter": "PresidentDogeUS",
+    "telegram": "PresidentDoge",
+    "github_org": "PresidentDogeCoin"
+}

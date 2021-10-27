@@ -1,0 +1,25 @@
+{
+    "id": "defydefi",
+    "symbol": "defy",
+    "name": "DefyDefi",
+    "platforms": {
+        "binance-smart-chain": "0x92c46bef1d87cbaaf68a0d6730bb395a15d0b9e8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We fund NFT startups and tokenize the collective ownership of NFT treasury and royalties. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x92c46bef1d87cbaaf68a0d6730bb395a15d0b9e8",
+    "url": "https://www.defydefi.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x92c46bef1d87cbaaf68a0d6730bb395a15d0b9e8"
+    ],
+    "twitter": "DefyDefi_",
+    "facebook": "DefyDefi.io",
+    "telegram": "DefyDefi",
+    "reddit": "DefyDefi/",
+    "github_org": "DefyDefi"
+}

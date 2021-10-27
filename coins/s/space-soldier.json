@@ -1,0 +1,23 @@
+{
+    "id": "space-soldier",
+    "symbol": "soldier",
+    "name": "Space Soldier",
+    "platforms": {
+        "binance-smart-chain": "0x2921872530f53eb8e6fc388676b141ef41ee2d4e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Space Soldier is the world's first deflationary token devoted to our veterans! Two functions occur during each trade: LP Acquisition and Redistribution. "
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x2921872530f53eb8e6fc388676b141ef41ee2d4e",
+    "url": "https://www.spacesoldier.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x2921872530f53eb8e6fc388676b141ef41ee2d4e"
+    ],
+    "twitter": "SPACESOLDIERBSC",
+    "telegram": "SPACESOLDIERFINANCE",
+    "reddit": "SpaceSoldier"
+}

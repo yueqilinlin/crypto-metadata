@@ -1,0 +1,25 @@
+{
+    "id": "defiking",
+    "symbol": "dfk",
+    "name": "DefiKing",
+    "platforms": {
+        "ethereum": "0xa17de0ab0a97bc5e56fa8b39ebfc81cc3f1f349e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A decentralised financial cross chain protocol platform"
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0xa17de0ab0a97bc5e56fa8b39ebfc81cc3f1f349e",
+    "url": "https://www.defiking.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa17de0ab0a97bc5e56fa8b39ebfc81cc3f1f349e",
+        "https://ethplorer.io/address/0xa17de0ab0a97bc5e56fa8b39ebfc81cc3f1f349e"
+    ],
+    "twitter": "dfkblockchain",
+    "facebook": "DFK-113855283765700",
+    "telegram": "dfkofficial",
+    "github_org": "BlockDance"
+}

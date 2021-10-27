@@ -1,0 +1,31 @@
+{
+    "id": "adex",
+    "symbol": "adx",
+    "name": "Ambire AdEx",
+    "platforms": {
+        "ethereum": "0xade00c28244d5ce17d72e40330b1c318cd12b7c3",
+        "binance-smart-chain": "0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Media",
+        "Marketing",
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "Ambire AdEx (ADX), previously known as AdEx Network,  developing a new-generation solution for digital advertising and a DeFi-focused crypto wallet. After a successful crowdfunding campaign in 2017, Ambire was the first startup to release an open-source protocol for decentralized advertising in 2018 and the first ad network processing payments on the Ethereum blockchain. \r\n\r\nBy using payment channels, Ambire AdEx ensures full transparency for all involved parties. Moreover, Ambire is using its own Layer-2 scaling solution called OUTPACE to facilitate micropayments per impression between its advertisers and publishers, processing more than 2,5 million transactions daily. \r\n\r\nAfter successful beta tests, the team released the Ambire AdEx platform in 2020 and scaled it to 16,000 registered advertisers and publishers generating more than 80 million monthly impressions. In August 2020 Ambire started incentivized staking and liquidity providing programs for the $ADX token, interacting with the DeFi ecosystem and engaging its community into actively supporting the stability of the advertising exchange. \r\n\r\nIn 2021, Ambire announced [Ambire Wallet](https://www.adex.network/wallet/) - a full-featured cryptocurrency wallet, designed to simplify and democratize using crypto and DeFi tools in everyday life. Created with both crypto novices and veterans in mind, it offers accessible UX, hassle-free onboarding, automatic gas management, hardware wallet support and much more. Ambire Wallet is the easiest and simplest way to enter the world of decentralized finance and cryptocurrencies. \r\n\r\nThe wallet is currently in private Beta, expected to be released to the general public soon."
+    },
+    "country_origin": "RU",
+    "genesis_date": "2017-07-01",
+    "contract_address": "0xade00c28244d5ce17d72e40330b1c318cd12b7c3",
+    "url": "https://www.adex.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+        "https://ethplorer.io/address/0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+        "https://bscscan.com/token/0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819"
+    ],
+    "twitter": "AdEx_Network",
+    "telegram": "AdExNetworkOfficial",
+    "reddit": "AdEx",
+    "github_org": "AdExNetwork"
+}

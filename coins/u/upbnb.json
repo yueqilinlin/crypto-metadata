@@ -1,0 +1,23 @@
+{
+    "id": "upbnb",
+    "symbol": "upbnb",
+    "name": "upBNB",
+    "platforms": {
+        "binance-smart-chain": "0x1759254eb142bcf0175347d5a0f3c19235538a9a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "upBNB - Rootkit on BSC with the same ERC-31337 standard technology. We aim to build a ecosystem around these upTokens, both a index as well a dex for our community to trade them. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1759254eb142bcf0175347d5a0f3c19235538a9a",
+    "url": "https://upbnb.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x1759254EB142bcF0175347D5A0f3c19235538a9A"
+    ],
+    "twitter": "rootkitfinance",
+    "telegram": "rootkitfinance",
+    "github_org": "RootkitFinance"
+}

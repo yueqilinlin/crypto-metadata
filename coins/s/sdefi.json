@@ -1,0 +1,28 @@
+{
+    "id": "sdefi",
+    "symbol": "sdefi",
+    "name": "sDEFI",
+    "platforms": {
+        "ethereum": "0xe1afe1fd76fd88f78cbf599ea1846231b8ba3b6b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "DeFi Index",
+        "Synths",
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Tracks the price of the index: DeFi Index (DEFI) through price feeds supplied by an oracle. This index is made up of the following assets and weights: 92.583 of LINK (Chainlink), 0.432 of MKR (Maker), 502.718 of ZRX (0x), 107.686 of SNX (Synthetix), 1222.393 of REN (Ren Protocol), 2164.709 of LRC (Loopring), 357.085 of KNC (Kyber Network), 119.197 of BNT (Bancor), 6.495 of MLN (Melon Protocol)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe1afe1fd76fd88f78cbf599ea1846231b8ba3b6b",
+    "url": "https://www.synthetix.io/tokens/",
+    "explorers": [
+        "https://etherscan.io/token/0xe1aFe1Fd76Fd88f78cBf599ea1846231B8bA3B6B",
+        "https://ethplorer.io/address/0xe1afe1fd76fd88f78cbf599ea1846231b8ba3b6b"
+    ],
+    "twitter": "synthetix_io"
+}

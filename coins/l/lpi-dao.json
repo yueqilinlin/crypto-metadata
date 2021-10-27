@@ -1,0 +1,23 @@
+{
+    "id": "lpi-dao",
+    "symbol": "lpi",
+    "name": "LPI DAO",
+    "platforms": {
+        "binance-smart-chain": "0x3428ebf69d2db64a056c68871f27c9e0310f26c9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LPI is a cross chain Seed aggregation platform specializing in NFT and GameFi and hosts the LPI Dev Hub, a free to use marketing tool for all upcoming projects"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3428ebf69d2db64a056c68871f27c9e0310f26c9",
+    "url": "https://lpi.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x3428ebf69d2db64a056c68871f27c9e0310f26c9"
+    ],
+    "twitter": "LpiDao",
+    "telegram": "LpiDaoOfficial",
+    "github_org": "LpiDao"
+}

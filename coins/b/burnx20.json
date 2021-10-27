@@ -1,0 +1,23 @@
+{
+    "id": "burnx20",
+    "symbol": "burnx20",
+    "name": "BurnX 2.0",
+    "platforms": {
+        "ethereum": "0x1e950af2f6f8505c09f0ca42c4b38f10979cb22e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x1e950af2f6f8505c09f0ca42c4b38f10979cb22e",
+    "url": "https://burnx.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x1e950af2f6f8505c09f0ca42c4b38f10979cb22e",
+        "https://ethplorer.io/address/0x1e950af2f6f8505c09f0ca42c4b38f10979cb22e"
+    ],
+    "twitter": "BurnX_Community",
+    "telegram": "BurnXCommunity"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "alpha-quark-token",
+    "symbol": "aqt",
+    "name": "Alpha Quark Token",
+    "platforms": {
+        "ethereum": "0x2a9bdcff37ab68b95a53435adfd8892e86084f93"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Alpha Quark is a marketplace where users can buy or sell tokenized intellectual property assets. Even though intellectual property is one of the most valuable assets, only limited players could have had access to it. Alpha Quark will enable people to have access to intellectual property."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x2a9bdcff37ab68b95a53435adfd8892e86084f93",
+    "url": "https://alphaquark.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x2a9bDCFF37aB68B95A53435ADFd8892e86084F93",
+        "https://ethplorer.io/address/0x2a9bDCFF37aB68B95A53435ADFd8892e86084F93"
+    ],
+    "twitter": "Alphaquark_",
+    "telegram": "AlphaQuark",
+    "github_org": "alphaquark"
+}

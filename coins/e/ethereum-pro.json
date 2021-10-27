@@ -1,0 +1,24 @@
+{
+    "id": "ethereum-pro",
+    "symbol": "epro",
+    "name": "Ethereum Pro",
+    "platforms": {
+        "ethereum": "0xab6e163cbeb3959b68b90bec722f5a9eef82ba72"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$ePRO | An ERC-20 growth token built on the fast & secure Ethereum blockchain with the intent of rewarding holders (investors) while achieving mass adoption."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xab6e163cbeb3959b68b90bec722f5a9eef82ba72",
+    "url": "https://www.ethereumpro.io",
+    "explorers": [
+        "https://etherscan.io/token/0xAB6E163cBEB3959b68b90beC722F5a9EEf82bA72",
+        "https://ethplorer.io/address/0xAB6E163cBEB3959b68b90beC722F5a9EEf82bA72"
+    ],
+    "twitter": "eprotoken",
+    "telegram": "eprotoken",
+    "reddit": "https://www.reddit.com"
+}

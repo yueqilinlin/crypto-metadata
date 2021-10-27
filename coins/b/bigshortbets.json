@@ -1,0 +1,23 @@
+{
+    "id": "bigshortbets",
+    "symbol": "bigsb",
+    "name": "BigShortBets",
+    "platforms": {
+        "ethereum": "0x131157c6760f78f7ddf877c0019eba175ba4b6f6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BigShortBets is the social, decentralized, anonymous information marketplace & blockchain futures trading tool - powered by $BigSB token.\r\n\r\nIn short we build a platform on Tor network for investors. Only thing used for KYC process on the platform is MetaMask address This platform will enable information exchange between parties eg. buying and selling information and creating own space like on any other social platform eg. groups, timeline, posts. It is 100% community driven, to maintain a good situation on the platform there is a community reputation system to control the uncontrolled content. We already have that part working.\r\n\r\nSecond part is the Market, on which we create ability to fully decentralize the futures trading. We will enable for users of the platform to create bets (futures contracts) on anything they like. It will work like the first stock exchange in Amsterdam. Everything to make GME and AMC- like actions without interception. We plan to attract arbitrators to trade on this platform (bets on NASDAQ, GOLD, STEEL, etc). We do so cause the only information used in KYC is MetaMask wallet address. \r\n\r\nLast thing. Every transaction on the platform is secured by BigSB token. Everything we collect in presale, public sale, etc goes to liquidity for future arbitrators. Platform provides full anonymity and encryption."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x131157c6760f78f7ddf877c0019eba175ba4b6f6",
+    "url": "https://bigshortbets.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x131157c6760f78f7ddf877c0019eba175ba4b6f6",
+        "https://ethplorer.io/address/0x131157c6760f78f7ddf877c0019eba175ba4b6f6"
+    ],
+    "twitter": "bigshortbets",
+    "telegram": "BigShortBetsENG"
+}

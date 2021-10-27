@@ -1,0 +1,22 @@
+{
+    "id": "bitcoin-god",
+    "symbol": "god",
+    "name": "Bitcoin God",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Charity"
+    ],
+    "description": {
+        "en": "Bitcoin God is a borderless non-profit peer-to-peer organization. Our vision is to leverage a decentralized platform to solve the many problems created by existing centralized system. Bitcoin God as a blockchain based network will enable tracking of each ledger transaction in a transparent and clear fashion. The token holders of Bitcoin God can pinpoint whoever they are trying to help via our peer-to-peer blockchain accurately."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.bitcoingod.org/",
+    "explorers": [
+        "http://explorer.bitcoingod.org/"
+    ],
+    "twitter": "BitcoinGodOrg",
+    "facebook": "BitcoinGodOrg",
+    "github_org": "BitcoinGod"
+}

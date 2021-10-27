@@ -1,0 +1,25 @@
+{
+    "id": "wault",
+    "symbol": "waultx",
+    "name": "Wault",
+    "platforms": {
+        "binance-smart-chain": "0xb64e638e60d154b43f660a6bf8fd8a3b249a6a21"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Wault Finance is dedicated to making an effective and user-friendly yield generators and lending aggregators."
+    },
+    "country_origin": "BG",
+    "genesis_date": null,
+    "contract_address": "0xb64e638e60d154b43f660a6bf8fd8a3b249a6a21",
+    "url": "https://wault.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xb64e638e60d154b43f660a6bf8fd8a3b249a6a21"
+    ],
+    "twitter": "Wault_Finance",
+    "telegram": "WaultFinance",
+    "github_org": "WaultFinance"
+}

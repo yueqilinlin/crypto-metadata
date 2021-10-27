@@ -1,0 +1,22 @@
+{
+    "id": "ethtez",
+    "symbol": "ethtz",
+    "name": "ETHtez",
+    "platforms": {
+        "tezos": "KT19at7rQUvyjxnZ2fBv7D9zc8rkyG7gAoU8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ETHtez is an ETH-pegged Tezos token issued by the Tezos Stable Technologies Ltd"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT19at7rQUvyjxnZ2fBv7D9zc8rkyG7gAoU8",
+    "url": "https://ethtz.io",
+    "explorers": [
+        "https://tzkt.io/KT19at7rQUvyjxnZ2fBv7D9zc8rkyG7gAoU8/operations/"
+    ],
+    "twitter": "ETH_Tez",
+    "telegram": "ETHtez"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "wizard",
+    "symbol": "wiz",
+    "name": "Wizard",
+    "platforms": {
+        "ethereum": "0x7a82c573b378ceea29772afb93891f0d0afa93b7",
+        "tron": "TH5QRMscT9z15EZrhmgtZ5tttKerSjv2wd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wizard (WIZ) is an application platform developed based on YFI\u2019s decentralized applications. And with additional functions such as (WIZARD.Farming) and (Wizard.Swap). This platform aggregates multiple agreements to protects the value of all token holders and generate high income to bring users additional interests on WIZ through WIZ staking.Our platform also aggregates multiple protocols. When users deposit for staking,"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x7a82c573b378ceea29772afb93891f0d0afa93b7",
+    "url": "https://wizardswap.ga/",
+    "explorers": [
+        "https://etherscan.io/token/0x7a82c573b378ceea29772afb93891f0d0afa93b7",
+        "https://ethplorer.io/address/0x7a82c573b378ceea29772afb93891f0d0afa93b7",
+        " https://tronscan.org/#/token20/TH5QRMscT9z15EZrhmgtZ5tttKerSjv2wd"
+    ],
+    "twitter": "wiztoken1",
+    "telegram": "wizard_tec"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "peach-finance",
+    "symbol": "peech",
+    "name": "Peach Finance",
+    "platforms": {
+        "ethereum": "0x31d939dc09a6bb55642fcbf9d56166ebc0bdec9a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Peech is a deflationary token. There will never be more peech in circulation than there is now. The token burn/redistribution happens twice per week in a fun livestream event on our YouTube channel."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x31d939dc09a6bb55642fcbf9d56166ebc0bdec9a",
+    "url": "https://peachfinance.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x31d939dc09a6bb55642fcbf9d56166ebc0bdec9a",
+        "https://ethplorer.io/address/0x31d939dc09a6bb55642fcbf9d56166ebc0bdec9a"
+    ],
+    "twitter": "peach_finance",
+    "facebook": "PeechFinance",
+    "telegram": "PeachFinance"
+}

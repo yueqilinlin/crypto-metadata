@@ -1,0 +1,21 @@
+{
+    "id": "fluttercoin",
+    "symbol": "flt",
+    "name": "Fluttercoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Fluttercoin is a new cryptocurrency that uses Scrypt Proof of Work, Proof of Stake and Proof of Transaction hybrid to secure the network.\r\n\r\nProof of Transaction will reward you as long as you are involved in a transaction - which includes both sending and receiving Fluttercoins.\r\n\r\nFluttercoin is an inflationary currency with no cap to the total supply and there will be roughly 200 million coins produced through the Proof of Work.\r\n\r\nIt is widely traded on major exchanges such as Cryptsy, MintPal, and Biter."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-03-04",
+    "url": "http://fluttercoin.me/",
+    "explorers": [
+        "http://explorer.fluttercoin.me:3001/",
+        "https://prohashing.com/explorer/Fluttercoin/"
+    ],
+    "twitter": "fluttercoin",
+    "reddit": "fluttercoin",
+    "github_org": "ofeefee"
+}

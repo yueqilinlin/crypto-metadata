@@ -1,0 +1,27 @@
+{
+    "id": "nftlootbox",
+    "symbol": "loot",
+    "name": "NFTLootBox",
+    "platforms": {
+        "ethereum": "0x7b3d36eb606f873a75a6ab68f8c999848b04f935"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Launched in early November of 2020 by a team based in the United Kingdom, NFTLootBox is an NFT farming platform that combines NFT, DeFi, and Loot Box Technology to make NFT farming fairer. NFTLootBox is the fairer way to get rare and valuable NFT art!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7b3d36eb606f873a75a6ab68f8c999848b04f935",
+    "url": "https://www.nftlootbox.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7b3d36eb606f873a75a6ab68f8c999848b04f935",
+        "https://ethplorer.io/address/0x7b3d36eb606f873a75a6ab68f8c999848b04f935"
+    ],
+    "twitter": "NFTLootBox",
+    "telegram": "nftlootboxchat",
+    "reddit": "NFTLootBox/",
+    "github_org": "NFTLootBox"
+}

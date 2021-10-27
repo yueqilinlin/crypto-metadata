@@ -1,0 +1,24 @@
+{
+    "id": "babybilz",
+    "symbol": "babybilz",
+    "name": "BabyBilz",
+    "platforms": {
+        "binance-smart-chain": "0x317d61ba51a625218286a952f04b381a7189082a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BabyBilz pays BNB rewards even with Zero trading volume from staking profits. Only buys and sells are taxed, people can send to other wallets without being taxed.  The 2% Dev tax in the form of BNB goes to their development wallet.  The 8% rewards tax in the form of BNB goes to their staking wallet where they swap for cake and stake on Pancakeswap for a current 70% Apr investment.  Every week they collect the interest earned, pay 90% to the holders and 10% goes back into the staking pool so even in weeks of $0 trade volume, the rewards technically will continue to grow. With their Poker / NFT Marketplace app you will be able to play poker for big prizes and sell your NFTs at the table."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x317d61ba51a625218286a952f04b381a7189082a",
+    "url": "http://babybilz.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x317d61ba51a625218286a952f04b381a7189082a"
+    ],
+    "twitter": "Baby_Bilz",
+    "telegram": "BabyBilz",
+    "reddit": "BabyBilz/",
+    "github_org": "BabyBilz"
+}

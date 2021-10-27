@@ -1,0 +1,28 @@
+{
+    "id": "jet",
+    "symbol": "jet",
+    "name": "JET",
+    "platforms": {
+        "solana": "JET6zMJWkCN9tpRT2v2jfAmm5VnQFDpUBCyaKojmGtz"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem",
+        "Lending/Borrowing",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Jet Protocol is highly capital efficient DeFi borrowing and lending built on Solana. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "JET6zMJWkCN9tpRT2v2jfAmm5VnQFDpUBCyaKojmGtz",
+    "url": "https://www.jetprotocol.io/",
+    "explorers": [
+        "https://explorer.solana.com/address/JET6zMJWkCN9tpRT2v2jfAmm5VnQFDpUBCyaKojmGtz"
+    ],
+    "twitter": "jetprotocol",
+    "telegram": "jetprotocol",
+    "reddit": "jetprotocol/",
+    "github_org": "jet-lab"
+}

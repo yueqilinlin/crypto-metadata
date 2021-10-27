@@ -1,0 +1,23 @@
+{
+    "id": "iqcoin",
+    "symbol": "iqcoin",
+    "name": "IQCoin",
+    "platforms": {
+        "binance-smart-chain": "0xc530fb1008ef5bafdf8f4ab589b69de837e41169"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc530fb1008ef5bafdf8f4ab589b69de837e41169",
+    "url": "https://iqcoin.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xc530fb1008ef5bafdf8f4ab589b69de837e41169"
+    ],
+    "twitter": "IQCOINTOKEN",
+    "telegram": "Iqcoinbrasil",
+    "github_org": "IQCoinToken"
+}

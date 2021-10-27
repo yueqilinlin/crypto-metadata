@@ -1,0 +1,22 @@
+{
+    "id": "hamaru",
+    "symbol": "maru",
+    "name": "Hamaru",
+    "platforms": {
+        "binance-smart-chain": "0x215f51990a0ca5aa360a177181f014e2da376e5e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MARU will be first token released on the RIYOKU.tv DeFi ecosystem. It\u2019s core functions as a meme style token which evolves and is later on used for strategic yield farming."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x215f51990a0ca5aa360a177181f014e2da376e5e",
+    "url": "https://riyoku.tv/",
+    "explorers": [
+        "https://bscscan.com/token/0x215F51990a0CA5Aa360a177181f014E2da376e5E"
+    ],
+    "twitter": "riyokutv",
+    "telegram": "RiyokuTVofficial"
+}

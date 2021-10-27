@@ -1,0 +1,25 @@
+{
+    "id": "werewolf-coin",
+    "symbol": "wwc",
+    "name": "Werewolf Coin",
+    "platforms": {
+        "ethereum": "0x38118bdb3b480f570837a4c2e88fac6e83be6689"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Werewolf harnesses the power of Blockchain to evolve cryptocurrency. Our ecosystem consists of decentralized finance-based apps such as Decentralized Exchange, Staking, Decentralized Asset Marketplace (NFTs and Werewolf Assets), Finance Gaming and others to come. Werewolf Coin (WWC) is our Utility Token used as Governance Token in the Werewolf ecosystem and as an internal currency for the overall ecosystem. Werewolf is the ERC-20 utility token accepted across the Werewolf finance platform. Here, token is mostly used for to trade (Buy and Sell) NFT assets, grants rewards to those who staked their wolf tokens into the staking pool, and available for swap within Werewolf decentralized exchange."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x38118bdb3b480f570837a4c2e88fac6e83be6689",
+    "url": "https://werewolf.exchange/",
+    "explorers": [
+        "https://etherscan.io/token/0x38118BDB3B480F570837A4c2e88faC6E83BE6689",
+        "https://ethplorer.io/address/0x38118BDB3B480F570837A4c2e88faC6E83BE6689"
+    ],
+    "twitter": "WerewolfXchange",
+    "facebook": "werewolf.exchange",
+    "telegram": "werewolfexchange",
+    "github_org": "werewolf-official"
+}

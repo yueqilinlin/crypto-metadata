@@ -1,0 +1,23 @@
+{
+    "id": "carrot-stable-coin",
+    "symbol": "carrot",
+    "name": "Carrot Stable Coin",
+    "platforms": {
+        "binance-smart-chain": "0xa5043373edc09f3f7d87fe35ca933e0a7b59d005"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa5043373edc09f3f7d87fe35ca933e0a7b59d005",
+    "url": "https://rabbitfinance.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xA5043373edC09f3f7d87Fe35CA933e0a7B59D005"
+    ],
+    "twitter": "FinanceRabbit",
+    "telegram": "RabbitFinanceEN",
+    "github_org": "RABBITFINANCEPROTOCOL"
+}

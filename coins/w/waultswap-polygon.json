@@ -1,0 +1,30 @@
+{
+    "id": "waultswap-polygon",
+    "symbol": "wexpoly",
+    "name": "WaultSwap Polygon",
+    "platforms": {
+        "polygon-pos": "0x4c4bf319237d98a30a929a96112effa8da3510eb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens",
+        "Decentralized Finance (DeFi)",
+        "Yield Farming",
+        "Automated Market Maker (AMM)",
+        "Decentralized Exchange Token (DEX)",
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "WEXpoly is the governance and rewards token of the WSwap decentralized exchange on Polygon"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4c4bf319237d98a30a929a96112effa8da3510eb",
+    "url": "https://wault.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x4c4bf319237d98a30a929a96112effa8da3510eb"
+    ],
+    "twitter": "Wault_Finance",
+    "telegram": "WaultFinance",
+    "github_org": "WaultFinance"
+}

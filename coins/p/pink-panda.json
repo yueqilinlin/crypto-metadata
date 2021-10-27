@@ -1,0 +1,25 @@
+{
+    "id": "pink-panda",
+    "symbol": "pinkpanda",
+    "name": "Pink Panda",
+    "platforms": {
+        "binance-smart-chain": "0x631e1e455019c359b939fe214edc761d36bf6ad6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$PINKPANDA is a utility token that will allow token holders to use the upcoming PinkPanda DEX which will have fees denominated in $PINKPANDA. Pink Panda is creating a non-custodial, fully on-chain, mobile-first decentralized exchange (DEX) that supports up to 5x margin/leverage trading--all with a seamless, centralized-exchange feel for the BSC ecosystem. The Founder, Adam Carlton, is Fully Doxxed. Liquidity Pool is Locked.\r\nPink Panda is also making a social impact with an initial focus on cancer charities, we are also building out the ability for community voting to determine causes in the future.\r\nWe will be launching the initial version of our mobile app for both iOS and Android after only two weeks of development.\r\n\r\nPink Panda has a 10% tax on every transaction. 5% is distributed to holders, 5% is auto locked into the LP pool, increasing rewards for holders and making the coin more stable over time."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x631e1e455019c359b939fe214edc761d36bf6ad6",
+    "url": "https://pinkpanda.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x631e1e455019c359b939fe214edc761d36bf6ad6"
+    ],
+    "twitter": "PinkPandaDefi",
+    "facebook": "Pink-Panda-Finance-106658024945230",
+    "telegram": "PinkPandaDefi",
+    "reddit": "PinkPanda/",
+    "github_org": "pinkpandadev"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "robinos",
+    "symbol": "rbn",
+    "name": "Robinos",
+    "platforms": {
+        "polygon-pos": "0xb3bc8dae5a49ed956b5d2207d9040c816c56398f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tokenized Prediction platform. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb3bc8dae5a49ed956b5d2207d9040c816c56398f",
+    "url": "https://robinos.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0xb3bc8dae5a49ed956b5d2207d9040c816c56398f"
+    ],
+    "twitter": "RobinosPredict",
+    "telegram": "robinoscommunity",
+    "github_org": "robinosfinance"
+}

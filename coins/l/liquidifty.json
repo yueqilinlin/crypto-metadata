@@ -1,0 +1,22 @@
+{
+    "id": "liquidifty",
+    "symbol": "lqt",
+    "name": "Liquidifty",
+    "platforms": {
+        "binance-smart-chain": "0xbd2c43da85d007b0b3cd856fd55c299578d832bc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Liquidifty platform is delighted to present the LQT token \u2014 the native Liquidifty platform token that will act as a utility carrier within the system, allowing users and holders to gain access to a broad range of exciting and interesting features."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbd2c43da85d007b0b3cd856fd55c299578d832bc",
+    "url": "https://liquidifty.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xbd2c43da85d007b0b3cd856fd55c299578d832bc"
+    ],
+    "twitter": "liquidifty",
+    "telegram": "liquidifty"
+}

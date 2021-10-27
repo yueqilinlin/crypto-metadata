@@ -1,0 +1,21 @@
+{
+    "id": "hyperburn",
+    "symbol": "hypr",
+    "name": "HyperBurn",
+    "platforms": {
+        "binance-smart-chain": "0x03d6bd3d48f956d783456695698c407a46ecd54d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HYPR is a deflationary token where 50% of burns are given to hodlers, 25% are sent to the burn vault and 25% are burned forever. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x03d6bd3d48f956d783456695698c407a46ecd54d",
+    "url": "https://hyperjump.fi/",
+    "explorers": [],
+    "twitter": "hyperjumpbsc",
+    "telegram": "hyperjumpbsc",
+    "github_org": "HyperJump-DeFi"
+}

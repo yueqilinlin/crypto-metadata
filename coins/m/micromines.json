@@ -1,0 +1,27 @@
+{
+    "id": "micromines",
+    "symbol": "micro",
+    "name": "Micromines",
+    "platforms": {
+        "ethereum": "0xbe6c8f2810ef39420d2dc2901b8414c8c45fee6d"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "MicroExchange is Next generation of Cryptocurrency exchanger platform. MicroExchange only support ERC-20 Token based on Ethereum platform. MicroExchange is Decentralized exchange. Why we choosing Decentralized Exchange ? Because on Decentralized exchange you can manage your own fund."
+    },
+    "country_origin": "ID",
+    "genesis_date": "2018-10-23",
+    "contract_address": "0xbe6c8f2810ef39420d2dc2901b8414c8c45fee6d",
+    "url": "https://micromines.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xbe6c8f2810ef39420d2dc2901b8414c8c45fee6d",
+        "https://ethplorer.io/address/0xbe6c8f2810ef39420d2dc2901b8414c8c45fee6d"
+    ],
+    "twitter": "Microminestoken",
+    "facebook": "microminess",
+    "telegram": "MicroMines",
+    "github_org": "micromines"
+}

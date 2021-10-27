@@ -1,0 +1,28 @@
+{
+    "id": "fei-protocol",
+    "symbol": "fei",
+    "name": "Fei Protocol",
+    "platforms": {
+        "ethereum": "0x956f47f50a910163d8bf957cf5846d573e7f87ca"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)",
+        "Stablecoins",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "FEI uses a new kind of stablecoin mechanism called direct incentives. It is more capital-efficient, has a fair distribution, and is fully decentralized. The protocol uses the value it controls to maintain liquid secondary markets.\r\n\r\nFei Labs is the team that created FEI, a highly scalable, decentralized, and reserve-backed stablecoin that can meet DeFi\u2019s needs without relying on centralized assets for collateral, that unlocks next-generation integration potential. Our mission is to be the stable coin of DeFi backed by some of the top minds in the space, including a16z, Nascent, Variant, Coinbase,"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+    "url": "https://fei.money/",
+    "explorers": [
+        "https://etherscan.io/address/0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+        "https://etherscan.io/token/0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+        "https://ethplorer.io/address/0x956f47f50a910163d8bf957cf5846d573e7f87ca"
+    ],
+    "twitter": "feiprotocol",
+    "telegram": "feiprotocol"
+}

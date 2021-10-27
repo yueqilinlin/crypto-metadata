@@ -1,0 +1,23 @@
+{
+    "id": "baby-pancake",
+    "symbol": "bpcake",
+    "name": "Baby Pancake",
+    "platforms": {
+        "binance-smart-chain": "0xd69573a37ef9708863d7cd82039f289dd9d04050"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Baby Pancake is a automatic yield generating token that launched fairly on the BSC on 29/7/2021. Holders of at least 200,000 $BPCake tokens will automatically receive $Cake tokens airdropped into their wallets every hour. It is a divided yield paying token that rewards holders just for holding. The project was launched on the BSC due to the fast transactions and low fees. A clear roadmap was set up and is being followed to ensure the success of the token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd69573a37ef9708863d7cd82039f289dd9d04050",
+    "url": "https://babypancaketoken.com",
+    "explorers": [
+        "https://bscscan.com/token/0xd69573a37ef9708863d7cd82039f289dd9d04050"
+    ],
+    "twitter": "babypancake_",
+    "telegram": "babypancaketoken",
+    "github_org": "BabyPancakeToken"
+}

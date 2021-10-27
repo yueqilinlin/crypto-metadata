@@ -1,0 +1,22 @@
+{
+    "id": "momoshiba",
+    "symbol": "momo",
+    "name": "MomoShiba",
+    "platforms": {
+        "binance-smart-chain": "0x843e0cebb6da822f553b4c1daa234be87491ab31"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We are primarily a no-frills meme/charity token that donates periodically to the Binance Charity Address. "
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x843e0cebb6da822f553b4c1daa234be87491ab31",
+    "url": "https://momoshiba.club",
+    "explorers": [
+        "https://bscscan.com/token/0x843e0cebb6da822f553b4c1daa234be87491ab31"
+    ],
+    "twitter": "momoshibabsc",
+    "telegram": "momoshibabsc"
+}

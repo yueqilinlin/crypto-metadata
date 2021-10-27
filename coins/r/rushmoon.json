@@ -1,0 +1,23 @@
+{
+    "id": "rushmoon",
+    "symbol": "rush",
+    "name": "RushMoon",
+    "platforms": {
+        "binance-smart-chain": "0xff96ce2cc0d20da0250a63bdca2b568f52a5bc71"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xff96ce2cc0d20da0250a63bdca2b568f52a5bc71",
+    "url": "https://rushmoon.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xff96ce2cc0d20da0250a63bdca2b568f52a5bc71"
+    ],
+    "twitter": "RushMoonBSC",
+    "telegram": "rushmoonofficial",
+    "github_org": "RushMoonBSC"
+}

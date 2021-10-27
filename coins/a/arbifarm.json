@@ -1,0 +1,22 @@
+{
+    "id": "arbifarm",
+    "symbol": "AFARM",
+    "name": "ArbiFarm",
+    "platforms": {
+        "arbitrum-one": "0x2ae1ef41cd23e3e77f75789e9393d8951705470f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Arbitrum Ecosystem"
+    ],
+    "description": {
+        "en": "Arbifarm is a yield farming project, which aims to be the benchmark project on arbitrum."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2ae1ef41cd23e3e77f75789e9393d8951705470f",
+    "url": "https://www.arbifarm.fi/",
+    "explorers": [],
+    "twitter": "ArbiFarm",
+    "telegram": "arbifarmfi"
+}

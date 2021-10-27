@@ -1,0 +1,22 @@
+{
+    "id": "wanaka-farm",
+    "symbol": "wana",
+    "name": "Wanaka Farm",
+    "platforms": {
+        "binance-smart-chain": "0x339c72829ab7dd45c3c52f965e7abe358dd8761e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wanaka Farm is an unique NFT blockchain based game where people can own their virtual lands and other NFT items to plant, grow and harvest to earn their crypto."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x339c72829ab7dd45c3c52f965e7abe358dd8761e",
+    "url": "https://wanakafarm.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x339C72829AB7DD45C3C52f965E7ABe358dd8761E"
+    ],
+    "twitter": "Wanaka_Farm",
+    "telegram": "WanakaOfficial"
+}

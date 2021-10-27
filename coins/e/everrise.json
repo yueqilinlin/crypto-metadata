@@ -1,0 +1,22 @@
+{
+    "id": "everrise",
+    "symbol": "rise",
+    "name": "EverRise",
+    "platforms": {
+        "binance-smart-chain": "0xc7d43f2b51f44f09fbb8a691a0451e8ffcf36c0a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EverRise is a hyper-deflationary token, which rewards investors for holding tokens, while also incorporating the Buyback approach currently present in the stock market."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xc7d43f2b51f44f09fbb8a691a0451e8ffcf36c0a",
+    "url": "https://www.everrisecoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xc7d43f2b51f44f09fbb8a691a0451e8ffcf36c0a"
+    ],
+    "twitter": "everrise",
+    "telegram": "everriseofficial"
+}

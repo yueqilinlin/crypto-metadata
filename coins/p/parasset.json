@@ -1,0 +1,25 @@
+{
+    "id": "parasset",
+    "symbol": "aset",
+    "name": "Parasset",
+    "platforms": {
+        "ethereum": "0x139cec55d1ec47493dfa25ca77c9208aba4d3c68",
+        "binance-smart-chain": "0x591aaadbc85e19065c88a1b0c2ed3f58295f47df"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Parasset is an innovative collateralization lending/synthetic asset protocol, which is open to all on-chain protocols consisting of native assets and creates new platform services for all kinds of on-chain assets. Users can mint p-assets, such as pETH, pUSD on Parasset by collateralizing NEST/ETH, etc."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x139cec55d1ec47493dfa25ca77c9208aba4d3c68",
+    "url": "https://www.parasset.top",
+    "explorers": [
+        "https://etherscan.io/token/0x139cec55d1ec47493dfa25ca77c9208aba4d3c68",
+        "https://ethplorer.io/address/0x139cec55d1ec47493dfa25ca77c9208aba4d3c68"
+    ],
+    "twitter": "Parasset2021",
+    "telegram": "parasset_chat",
+    "github_org": "Parasset"
+}

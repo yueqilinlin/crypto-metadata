@@ -1,0 +1,24 @@
+{
+    "id": "argo",
+    "symbol": "argo",
+    "name": "ArGoApp",
+    "platforms": {
+        "ethereum": "0x28cca76f6e8ec81e4550ecd761f899110b060e97"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ArGo is a blockchain-based, server-less app deployment platform that takes a web app to a decentralised storage network like Arweave, Skynet, etc. ArGo makes dApp hosting fully decentralised by deploying web apps to the decentralised storage solutions.\r\n\r\nARGO is the native utility token that is used for:\r\n* Fees for deployment and storage.\r\n* Running worker nodes on the network via staking ARGO tokens.\r\n* Used for governance votes to determine how network resources are allocated.\r\n\r\nARGO Protocol tools include: \r\n* ARGO Interface which includes all the management tools to keep track of your deployment and token usage.  \r\n* ARGO provides simple automation tools that help developers automate the deployment process with every code change and share a site preview with others.\r\n* ARGO also provides a collaborative experience between team members and has a similar feel to Github.\r\n\r\nThe protocol\u2019s token ARGO is designed to incentivise the continued adoption cycle of the ArGo protocol. To achieve this, users that are involved are rewarded through either an incentive or a penalty. Their continued involvement is a necessity for the growth as well as the adoption of the protocol. Apart from that, ARGO incentivise developer to build applications that are needed for the growth of ArGo ecosystem."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x28cca76f6e8ec81e4550ecd761f899110b060e97",
+    "url": "https://argoapp.live/",
+    "explorers": [
+        "https://etherscan.io/token/0x28cca76f6e8ec81e4550ecd761f899110b060e97",
+        "https://ethplorer.io/address/0x28cca76f6e8ec81e4550ecd761f899110b060e97"
+    ],
+    "twitter": "argoapplive",
+    "telegram": "argoofficial",
+    "github_org": "argoapp-live"
+}

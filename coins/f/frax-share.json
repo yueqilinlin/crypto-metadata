@@ -1,0 +1,40 @@
+{
+    "id": "frax-share",
+    "symbol": "fxs",
+    "name": "Frax Share",
+    "platforms": {
+        "ethereum": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+        "binance-smart-chain": "0xe48a3d7d0bc88d552f730b62c006bc925eadb9ee",
+        "solana": "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct",
+        "avalanche": "0x214db107654ff987ad859f34125307783fc8e387",
+        "polygon-pos": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
+        "fantom": "0x7d016eec9c25232b01f23ef992d98ca97fc2af5a",
+        "harmony-shard-0": "0x0767d8e1b05efa8d6a301a65b324b6b66a1cc14c",
+        "arbitrum-one": "0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7",
+        "moonriver": "0x6f1d1ee50846fcbc3de91723e61cb68cfa6d0e98"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Avalanche Ecosystem",
+        "Olympus Pro",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "The Frax Share token is the governance and value accrual token of the Frax Stablecoin Protocol"
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+    "url": "https://frax.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+        "https://ethplorer.io/address/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+        "https://bscscan.com/token/0xe48A3d7d0Bc88d552f730B62c006bC925eadB9eE",
+        "https://ftmscan.com/token/0x7d016eec9c25232b01f23ef992d98ca97fc2af5a",
+        "https://arbiscan.io/token/0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7"
+    ],
+    "twitter": "fraxfinance",
+    "telegram": "fraxfinance",
+    "github_org": "fraxfinance"
+}

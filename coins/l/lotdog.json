@@ -1,0 +1,23 @@
+{
+    "id": "lotdog",
+    "symbol": "lotdog",
+    "name": "Lotdog",
+    "platforms": {
+        "binance-smart-chain": "0x29f920ddc62fe53711a5c8b8ff16fa5c75ca12a3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x29f920ddc62fe53711a5c8b8ff16fa5c75ca12a3",
+    "url": "https://lotdog.io",
+    "explorers": [
+        "https://bscscan.com/token/0x29f920ddc62Fe53711a5c8B8FF16Fa5c75cA12A3"
+    ],
+    "twitter": "Lotdog_io",
+    "telegram": "lotdog_io",
+    "github_org": "LotDog-io"
+}

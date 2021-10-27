@@ -1,0 +1,22 @@
+{
+    "id": "safemars-protocol",
+    "symbol": "smars",
+    "name": "Safemars Protocol",
+    "platforms": {
+        "binance-smart-chain": "0xc0366a104b429f0806bfa98d0008daa9555b2bed"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The SafeMars Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, & Burn."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0xc0366a104b429f0806bfa98d0008daa9555b2bed",
+    "url": "https://smars.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xC0366a104b429f0806BfA98d0008DAA9555b2BEd"
+    ],
+    "twitter": "smars_com",
+    "github_org": "safemarsfi"
+}

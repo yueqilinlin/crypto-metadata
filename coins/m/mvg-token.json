@@ -1,0 +1,25 @@
+{
+    "id": "mvg-token",
+    "symbol": "IUT",
+    "name": "ITO Utility Token",
+    "platforms": {
+        "ethereum": "0xd36a0e7b741542208ae0fbb35453c893d0136625"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The ITO Utility Token [IUT] is a vital component of the ITO Protocol crowdfunding model, giving participants instant liquidity on all tokenised pledges from ITOs. This fundamental element allows the ITO Protocol to offer zero-risk participation when supporting initiative crowdfunding opportunities in comparison to other forms of high-risk crowdfunding/investment such as IEOs or ICOs, which often leave participants with illiquid of unlisted tokens for a sometimes indefinite period of time."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd36a0e7b741542208ae0fbb35453c893d0136625",
+    "url": "https://ito.network",
+    "explorers": [
+        "https://etherscan.io/token/0xD36a0e7b741542208aE0fBb35453C893D0136625",
+        "https://ethplorer.io/address/0xd36a0e7b741542208ae0fbb35453c893d0136625"
+    ],
+    "facebook": "itodotnetwork",
+    "telegram": "itonetwork",
+    "reddit": "itonetwork",
+    "github_org": "itonetwork"
+}

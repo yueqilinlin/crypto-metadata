@@ -1,0 +1,26 @@
+{
+    "id": "nextexchange",
+    "symbol": "next",
+    "name": "NEXT",
+    "platforms": {
+        "ethereum": "0x377d552914e7a104bc22b4f3b6268ddc69615be7"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "NEXT.coin is a public company registered in the Netherlands, as well as a Limited company in England and Wales. Our team is composed of highly experienced individuals and successful entrepreneurs.\r\n\r\nIn 2017, together as a team of young pioneers, we developed a hybrid cryptocurrency exchange platform, NEXT.exchange. Our platform provides individual Blockchain wallet addresses for each user for his or her assets, the ability to deposit, withdraw, and trade cryptocurrencies directly against fiat currencies, such as the United States Dollar, Euro, British Pound, Turkish Lira, Russian Rubles, and the Chinese Yuan. \r\n\r\nOur goal is to make it 'easy and safe' to trade cryptocurrencies on a convenient user-friendly interface that connects social, company information and in-depth analyses to make it as simple as possible for our users to join the digital economy. \r\n\r\nTogether with our legal team and advisors, we are taking all of the necessary steps and measures in order to operate as a regulatory compliant hybrid exchange platform, as well as to maintain appropriate KYC/AML policies."
+    },
+    "country_origin": "NL",
+    "genesis_date": "2017-11-05",
+    "url": "https://next.exchange/",
+    "explorers": [
+        "https://explore.next.exchange/",
+        "https://etherscan.io/token/0x377d552914e7a104bc22b4f3b6268ddc69615be7"
+    ],
+    "twitter": "nextexchange",
+    "telegram": "nextexchange",
+    "reddit": "NEXTexchange/",
+    "github_org": "NextExchange"
+}

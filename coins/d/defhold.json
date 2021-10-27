@@ -1,0 +1,23 @@
+{
+    "id": "defhold",
+    "symbol": "defo",
+    "name": "DefHold",
+    "platforms": {
+        "ethereum": "0xe481f2311c774564d517d015e678c2736a25ddd3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DefHold is a non-inflationary DeFi ecosystem aiming to provide yield generating investments\u2019 strategies to long-term crypto holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe481f2311c774564d517d015e678c2736a25ddd3",
+    "url": "https://defhold.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe481f2311c774564d517d015e678c2736a25ddd3",
+        "https://ethplorer.io/address/0xe481f2311c774564d517d015e678c2736a25ddd3"
+    ],
+    "twitter": "DefHold",
+    "telegram": "DefHold"
+}

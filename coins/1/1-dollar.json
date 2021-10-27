@@ -1,0 +1,21 @@
+{
+    "id": "1-dollar",
+    "symbol": "oneusd",
+    "name": "1 Dollar",
+    "platforms": {
+        "binance-smart-chain": "0xbf30a1dab8a2fa14b852a87914c377048cef18eb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ONEUSD is available to be used as a gateway of decentralized finance ecosystems by providing a stable and seamless peer to peer transactions networks on multichain platforms. In terms of accelerating the DeFi solutions and utilities, ONEUSD is presented and deployed as a functional stable currency to avoid volatility caused by non-stable currencies. \r\nBy reflecting to USD functional price, 1:1; ONEUSD aims to provide a steady digital currency for easing the process of utilities transfer in decentralized markets. Wrapped smart contracts on the supported blockchains\u2019 networks allow the token holders and traders to pursue their transactions in a secure, cheap and fast ecosystem constantly."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbf30a1dab8a2fa14b852a87914c377048cef18eb",
+    "url": "https://cryptousd.britishcapital.org",
+    "explorers": [
+        "https://bscscan.com/token/0xbf30a1dab8a2fa14b852a87914c377048cef18eb"
+    ],
+    "twitter": "BCCryptoBC"
+}

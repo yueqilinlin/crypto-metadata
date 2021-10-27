@@ -1,0 +1,29 @@
+{
+    "id": "wrapped-staked-olympus",
+    "symbol": "wsohm",
+    "name": "Wrapped Staked Olympus",
+    "platforms": {
+        "avalanche": "0x8cd309e14575203535ef120b5b0ab4dded0c2073",
+        "arbitrum-one": "0x739ca6d71365a08f584c8fc4e1029045fa8abc4b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens",
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8cd309e14575203535ef120b5b0ab4dded0c2073",
+    "url": "https://www.olympusdao.finance/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0x8CD309e14575203535EF120b5b0Ab4DDeD0C2073/token-transfers",
+        "https://arbiscan.io/token/0x739ca6d71365a08f584c8fc4e1029045fa8abc4b"
+    ],
+    "twitter": "OlympusDAO",
+    "telegram": "OlympusTG",
+    "reddit": "olympusdao/"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "binance-peg-litecoin",
+    "symbol": "ltc",
+    "name": "Binance-Peg Litecoin",
+    "platforms": {
+        "binance-smart-chain": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Tokens that are wrapped and pegged by Binance on a 1:1 ratio to the corresponding native token. Also supports BEP20 token deposits and withdrawals at Binance.com"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+    "url": "https://litecoin.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x4338665cbb7b2485a8855a139b75d5e34ab0db94"
+    ],
+    "twitter": "litecoin"
+}

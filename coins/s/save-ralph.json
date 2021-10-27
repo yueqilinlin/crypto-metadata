@@ -1,0 +1,23 @@
+{
+    "id": "save-ralph",
+    "symbol": "ralph",
+    "name": "Save Ralph",
+    "platforms": {
+        "binance-smart-chain": "0xcaae3ee1972093d4dab6752b12ac3b0d5e52d8f2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Save Ralph is aiming to use part of the revenue to subsidize the first mint transaction (NFT creation transaction) for users, in addition to other business strategies to fuel the growth of the platform. The Save Ralph Token Project is a solution to the limitations faced by the intellectual property market, such as challenging licensing and paperwork requirements. NFTs instead represent an easily accessible alternative available to anyone with just a few clicks."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcaae3ee1972093d4dab6752b12ac3b0d5e52d8f2",
+    "url": "https://www.saveralphtoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xcaae3ee1972093d4dab6752b12ac3b0d5e52d8f2"
+    ],
+    "twitter": "RalphToken",
+    "telegram": "ralphtoken",
+    "github_org": "saveralph"
+}

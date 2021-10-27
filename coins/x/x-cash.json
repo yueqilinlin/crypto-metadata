@@ -1,0 +1,23 @@
+{
+    "id": "x-cash",
+    "symbol": "xcash",
+    "name": "X-CASH",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "X-Cash is an open-source private cryptocurrency with unique features developed for the Web 3.0."
+    },
+    "country_origin": "FR",
+    "genesis_date": "2018-07-29",
+    "url": "https://www.x-cash.org/",
+    "explorers": [
+        "https://explorer.x-cash.org/"
+    ],
+    "twitter": "XCashCrypto",
+    "telegram": "xcashglobal",
+    "reddit": "xcash/",
+    "github_org": "X-CASH-official"
+}

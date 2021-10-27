@@ -1,0 +1,20 @@
+{
+    "id": "geist-fusdt",
+    "symbol": "gfusdt",
+    "name": "Geist fUSDT",
+    "platforms": {
+        "fantom": "0x940f41f0ec9ba1a34cf001cc03347ac092f5f6b5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x940f41f0ec9ba1a34cf001cc03347ac092f5f6b5",
+    "url": "https://geist.finance/markets",
+    "explorers": [
+        "https://ftmscan.com/token/0x940F41F0ec9ba1A34CF001cc03347ac092F5F6B5"
+    ]
+}

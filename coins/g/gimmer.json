@@ -1,0 +1,25 @@
+{
+    "id": "gimmer",
+    "symbol": "gmr",
+    "name": "Gimmer",
+    "platforms": {
+        "ethereum": "0x9b8d5f3402f74c7a61d9f09c32d3ca07b45c1466"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gimmer offers easy-to-use advanced algorithmic trading bots that require no programming skills, no previous trading experience and no in-depth knowledge of cryptocurrencies.\r\n\r\nGimmer is perfect for advanced, intermediate and novice traders and investors who want to make money on the cryptocurrency and do not have the time to watch the markets all day long."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9b8d5f3402f74c7a61d9f09c32d3ca07b45c1466",
+    "url": "https://gimmer.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x9b8d5f3402f74c7a61d9f09c32d3ca07b45c1466",
+        "https://ethplorer.io/address/0x9b8d5f3402f74c7a61d9f09c32d3ca07b45c1466"
+    ],
+    "twitter": "gimmerbot",
+    "facebook": "gimmerbot",
+    "telegram": "https://t.me/gimmertoken",
+    "github_org": "GimmerBot"
+}

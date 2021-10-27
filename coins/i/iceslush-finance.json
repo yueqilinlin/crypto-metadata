@@ -1,0 +1,25 @@
+{
+    "id": "iceslush-finance",
+    "symbol": "slush",
+    "name": "IceSlush Finance",
+    "platforms": {
+        "avalanche": "0x28bf9cb0a8c0a6fb01680daaae9d6ae76234491b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem"
+    ],
+    "description": {
+        "en": "IceSlush Finance is a yield farming protocol on the Avalanche Network. Users will be able to stake their native or non-native tokens to earn yields in both the Farms (LP) or Pools (single-asset staking). There is a future plan to incorporate NFTs into the IceSlush ecosystem. Our contracts are Paladin audited and we have undergone review and KYC with RugDoc and have been rated as Low Risk. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x28bf9cb0a8c0a6fb01680daaae9d6ae76234491b",
+    "url": "https://iceslush.finance/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0x28bF9CB0a8c0a6Fb01680dAAae9D6aE76234491b/token-transfers"
+    ],
+    "twitter": "iceslushfinance",
+    "telegram": "iceslush",
+    "github_org": "iceslushfinance"
+}

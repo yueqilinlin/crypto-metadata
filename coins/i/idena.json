@@ -1,0 +1,24 @@
+{
+    "id": "idena",
+    "symbol": "iDNA",
+    "name": "Idena",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Protocol",
+        "Oracle"
+    ],
+    "description": {
+        "en": "Idena is a novel way to formalise people on the blockchain without personally identifiable information. Idena proves the humanness and uniqueness of its participants by running an AI-resistant test at the same time for everyone around the globe.\r\nThe Idena blockchain is driven by Proof-of-Person (PoP) consensus. Every node is linked to a cryptoidentity \u2014 one single person with equal voting power."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://idena.io/",
+    "explorers": [
+        "https://scan.idena.io/"
+    ],
+    "twitter": "IdenaNetwork",
+    "telegram": "IdenaAnnouncements",
+    "reddit": "Idena/",
+    "github_org": "idena-network"
+}

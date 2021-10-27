@@ -1,0 +1,23 @@
+{
+    "id": "evolution-finance",
+    "symbol": "evn",
+    "name": "Evolution Finance",
+    "platforms": {
+        "ethereum": "0x9af15d7b8776fa296019979e70a5be53c714a7ec"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Evolution Finance is a self-funded project that will change the way users interact with DeFi locked liquidity and money markets. Evolution Finance is targeting DeFi lending of the top 50 ERC20 altcoins and ERC-wrapped native coins, with a fair token distribution model at launch. We believe a fair token distribution is key to building the community that a dominating DeFi platform needs. At launch 100% of EVN tokens will be made available through liquidity pools on Uniswap."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9af15d7b8776fa296019979e70a5be53c714a7ec",
+    "url": "https://www.evolution.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x9af15d7b8776fa296019979e70a5be53c714a7ec",
+        "https://ethplorer.io/address/0x9af15d7b8776fa296019979e70a5be53c714a7ec"
+    ],
+    "twitter": "evn_finance",
+    "telegram": "evolutionfinance"
+}

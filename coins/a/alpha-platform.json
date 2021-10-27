@@ -1,0 +1,26 @@
+{
+    "id": "alpha-platform",
+    "symbol": "a",
+    "name": "Alpha Token",
+    "platforms": {
+        "ethereum": "0xffc63b9146967a1ba33066fb057ee3722221acf0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Our Products and services at Alpha are designed to help those who may not have the time or ability to take part in the crypto currency revolution. No matter if you are a beginner or experienced user, Alpha will elevate your crypto experience to it\u2019s highest levels."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xffc63b9146967a1ba33066fb057ee3722221acf0",
+    "url": "https://www.Alphaplatform.co",
+    "explorers": [
+        "https://etherscan.io/token/0xffc63b9146967a1ba33066fb057ee3722221acf0",
+        "https://ethplorer.io/address/0xffc63b9146967a1ba33066fb057ee3722221acf0"
+    ],
+    "twitter": "Alpha_Token",
+    "telegram": "alpha_token",
+    "github_org": "crypt04dvisor"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "kindcow-finance",
+    "symbol": "kind",
+    "name": "Kindcow Finance",
+    "platforms": {
+        "binance-smart-chain": "0xe3ba88c38d2789fe58465020cc0fb60b70c10d32"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The true Decentralized Finance, with no third party control.\r\nEveryone can vote their own project! The more votes the more KIND burned, the less supply!"
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0xe3ba88c38d2789fe58465020cc0fb60b70c10d32",
+    "url": "https://kindcow.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xe3ba88c38d2789fe58465020cc0fb60b70c10d32"
+    ],
+    "twitter": "kindcow_finance",
+    "telegram": "kindcow_finance",
+    "github_org": "kindcowfinance"
+}

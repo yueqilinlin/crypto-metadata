@@ -1,0 +1,25 @@
+{
+    "id": "bauble",
+    "symbol": "bab",
+    "name": "Bauble",
+    "platforms": {
+        "binance-smart-chain": "0x52550da18bd04d8fa4583c2d26492012aeb1d05d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bauble is a community driven token for the Fundraising platform to generate project development funds using a NFT marketplace. \r\nBAB is the currency utilized on the NFT marketplace for NFT creators, collectors and the participating crypto projects.\r\nBAB is a static reward token with an adjustable tax rate of 6% that gives 4% frictionless yield to holders and 1% each to the Team Wallet and Marketing wallet."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x52550da18bd04d8fa4583c2d26492012aeb1d05d",
+    "url": "https://www.bauble.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x52550da18bd04d8fa4583c2d26492012aeb1d05d"
+    ],
+    "twitter": "BaubleNft",
+    "facebook": "BaubleNFT",
+    "telegram": "BaubleChat",
+    "reddit": "BaubleNFT/",
+    "github_org": "BaubleNFT"
+}

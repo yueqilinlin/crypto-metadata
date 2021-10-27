@@ -1,0 +1,26 @@
+{
+    "id": "dav",
+    "symbol": "dav",
+    "name": "DAV Network",
+    "platforms": {
+        "ethereum": "0xd82df0abd3f51425eb15ef7580fda55727875f14"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "DAV is an open source software platform that allows anyone to buy or sell autonomous transportation services in a decentralized market. DAV integrates into any autonomous vehicle (car, drone, ship), enabling those vehicles to discover, communicate, and transact with one another using a digital currency called the DAV token. This shapes a decentralized manned transportation network today and is the underlying infrastructure for an autonomous transportation network tomorrow. DAV will be a protocol that connects vehicles and users, which indeed enables a decentralized transportation market, aimed both at people and vehicle companies, and the Team is already in advanced discussions with companies in the fields of drones, robotics, and automotive.\r\n\r\n"
+    },
+    "country_origin": "CH",
+    "genesis_date": "2018-06-09",
+    "contract_address": "0xd82df0abd3f51425eb15ef7580fda55727875f14",
+    "url": "https://dav.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xd82df0abd3f51425eb15ef7580fda55727875f14",
+        "https://ethplorer.io/address/0xd82df0abd3f51425eb15ef7580fda55727875f14"
+    ],
+    "twitter": "DavNetwork",
+    "facebook": "DAVNetworkTeam",
+    "telegram": "DAVNetwork",
+    "reddit": "DAVNetwork/",
+    "github_org": "DAVFoundation"
+}

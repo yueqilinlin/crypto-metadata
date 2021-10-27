@@ -1,0 +1,23 @@
+{
+    "id": "pynths-pusd",
+    "symbol": "pusd",
+    "name": "Pynths pUSD",
+    "platforms": {
+        "binance-smart-chain": "0xc9363d559d2e6dcac6955a00b47d28326e07cf07"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PERI Finance - decentralized, cross-chain synthetic asset issuance and derivatives exchange on Polkadot network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc9363d559d2e6dcac6955a00b47d28326e07cf07",
+    "url": "https://pynths.com",
+    "explorers": [
+        "https://bscscan.com/token/0xc9363d559D2e6DCAc6955A00B47d28326e07Cf07"
+    ],
+    "twitter": "PERIfinance",
+    "telegram": "peri_global",
+    "github_org": "perifinance"
+}

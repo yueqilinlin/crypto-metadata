@@ -1,0 +1,22 @@
+{
+    "id": "baby-alpaca",
+    "symbol": "BALPAC",
+    "name": "Baby Alpaca",
+    "platforms": {
+        "binance-smart-chain": "0x83dd5794d844bb4bd630c2facc45a77729232991"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x83dd5794d844bb4bd630c2facc45a77729232991",
+    "url": "https://alpaca.baby/",
+    "explorers": [
+        "https://bscscan.com/token/0x83DD5794D844BB4bD630c2FAcC45A77729232991"
+    ],
+    "twitter": "alpacababytoken",
+    "telegram": "BabyalpacaGeneral"
+}

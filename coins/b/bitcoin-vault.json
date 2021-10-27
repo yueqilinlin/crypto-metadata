@@ -1,0 +1,20 @@
+{
+    "id": "bitcoin-vault",
+    "symbol": "btcv",
+    "name": "Bitcoin Vault",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bitcoin Vault is developed to provide an extra level of security based on a three-private-key security structure. It features all the convenience of Bitcoin while adding important features allowing user transparency and freedom. Bitcoin Vault is our answer to issues faced by the crypto community over the last decade."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.bitcoinvault.global/",
+    "explorers": [
+        "http://explorer.bitcoinvault.global/"
+    ],
+    "twitter": "vaultbitcoin",
+    "telegram": "Bitcoin_Vault",
+    "github_org": "bitcoinvault"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "hobonickels",
+    "symbol": "hbn",
+    "name": "Hobonickels",
+    "platforms": {
+        "polygon-pos": "0x36ff415d0bcedf976d60e85c72e01d19230fbd29"
+    },
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "HoboNickels is a digital cryptocurrency that was cloned from the NovaCoin source code; which was also a clone of PeerCoin.\r\n\r\nDue to it being a grandchildren of the PeerCoin source code, HoboNickels is a Scrypt + POS hybrid coin.\r\n\r\nThe one highlighting feature of HoboNickels would be \"Coin Control\". It was added in version 1.3 to allow users to see what is happening during coin operations. Coin Control would allow users to specify coin blocks to be used during a transaction.\r\n(More info about Coin Control can be found at http://wiki.hobonickels.info/index.php?title=Coin_Control)\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": "2013-07-24",
+    "contract_address": "0x36ff415d0bcedf976d60e85c72e01d19230fbd29",
+    "url": "http://hobonickels.info/",
+    "explorers": [
+        "https://chainz.cryptoid.info/hbn/",
+        "https://polygonscan.com/token/0x36ff415d0bcedf976d60e85c72e01d19230fbd29"
+    ],
+    "reddit": "hobonickel",
+    "github_org": "Crypto-Expert"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "tokenjenny",
+    "symbol": "jenn",
+    "name": "TokenJenny",
+    "platforms": {
+        "harmony-shard-0": "0x2f459dd7cbcc9d8323621f6fb430cd0555411e7b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Create, publish and provide #DeFi liquidity to your own custom crypto token !"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x2f459dd7cbcc9d8323621f6fb430cd0555411e7b",
+    "url": "https://tokenjenny.one/",
+    "explorers": [
+        "https://explorer.harmony.one/#/address/0x2f459dd7cbcc9d8323621f6fb430cd0555411e7b"
+    ],
+    "twitter": "token_jenny",
+    "telegram": "TokenJenny_Main",
+    "github_org": "shimmyshine"
+}

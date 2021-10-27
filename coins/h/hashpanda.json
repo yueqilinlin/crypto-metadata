@@ -1,0 +1,23 @@
+{
+    "id": "hashpanda",
+    "symbol": "panda",
+    "name": "HashPanda",
+    "platforms": {
+        "binance-smart-chain": "0x8578eb576e126f67913a8bc0622e0a22eba0989a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8578eb576e126f67913a8bc0622e0a22eba0989a",
+    "url": "https://hashpanda.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8578eb576e126f67913a8bc0622e0a22eba0989a"
+    ],
+    "twitter": "HashPandaBSC",
+    "telegram": "HashPanda",
+    "github_org": "HashPandaBSC"
+}

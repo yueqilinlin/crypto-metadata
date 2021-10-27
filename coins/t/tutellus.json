@@ -1,0 +1,25 @@
+{
+    "id": "tutellus",
+    "symbol": "tut",
+    "name": "Tutellus",
+    "platforms": {
+        "polygon-pos": "0x12a34a6759c871c4c1e8a0a42cfc97e4d7aaf68d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Education"
+    ],
+    "description": {
+        "en": "Tutellus (TUT) is already working online educational collaborative platform in the Spanish-speaking world. With +1.8 million users from 160 countries, +180,000 video courses and the professional crypto content worldwide (Bootcamps and Courses). \r\nThe TUT is a utility token created in the Polygon network by Tutellus. The TUT is being used by users who want to interact with Tutellus' product & services. Also, users can spend token to interact with any other Educational institution that uses Tutellus's technology to empower their students. Moreover, people can buy (getting always 10% discount over fiat), access to different products (only accesible staking TUT tokens) or hiring other kind of services (only with tokens). "
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0x12a34a6759c871c4c1e8a0a42cfc97e4d7aaf68d",
+    "url": "https://www.tutellus.io/",
+    "explorers": [
+        "https://polygonscan.com/token/0x12a34a6759c871c4c1e8a0a42cfc97e4d7aaf68d"
+    ],
+    "twitter": "tutellus",
+    "telegram": "tutellus",
+    "github_org": "tutellus-io"
+}

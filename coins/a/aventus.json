@@ -1,0 +1,28 @@
+{
+    "id": "aventus",
+    "symbol": "avt",
+    "name": "Aventus",
+    "platforms": {
+        "ethereum": "0x0d88ed6e74bbfd96b831231638b66c05571e824f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "A layer-2 blockchain protocol that brings scalability, lower costs, and speed to Ethereum transactions.\r\n\r\nEthereum has scalability issues that make it a victim of its own success. As the blockchain network of choice for most businesses, its maximum transaction throughput is wildly insufficient in meeting demand. The economics of supply and demand have thus skyrocketed transaction fees making them prohibitively expensive.\r\n\r\nThe Aventus Network (AvN) solves that problem by letting businesses build on top of the Ethereum network with Aventus\u2019 second-layer protocol. With the AvN, applications can easily work with any other promising blockchain tech, cross-chain, by plugging into the Polkadot ecosystem, building on Substrate.\r\n\r\nBenefits of Aventus\r\n\r\nScale\r\nThe Aventus Network (AvN) can theoretically scale to 2,000 transactions per second. This is 133 times more than Ethereum.\r\n\r\nPrice\r\nThe average transaction cost on the Aventus Network will begin at just $0.01 (paid in AVT) and decrease over time. This is 99% cheaper than the average Ethereum transaction fee over the past year. \r\n\r\nSpeed\r\nThe AvN will process a token transfer within 0.13 seconds. This is 100 times faster than the Ethereum blockchain.\r\n\r\nEnterprise Grade \r\nThe AvN will onboard a minimum of 8.5 million client transactions that have been active in private test networks throughout the past year.\r\n\r\n\r\nKey Use Cases: Financial Assets, Supply Chains, Rewards and Loyalty, Live Entertainment, Data Integrity, Decentralised Applications\r\n"
+    },
+    "country_origin": "GB",
+    "genesis_date": "2017-09-03",
+    "contract_address": "0x0d88ed6e74bbfd96b831231638b66c05571e824f",
+    "url": "https://aventus.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x0d88ed6e74bbfd96b831231638b66c05571e824f",
+        "https://ethplorer.io/address/0x0d88ed6e74bbfd96b831231638b66c05571e824f",
+        "https://explorer.aventus.io/#/ "
+    ],
+    "twitter": "aventusnetwork?lang=en",
+    "facebook": "AventusPF",
+    "reddit": "Aventus",
+    "github_org": "AventusProtocolFoundation"
+}

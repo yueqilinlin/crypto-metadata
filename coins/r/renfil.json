@@ -1,0 +1,27 @@
+{
+    "id": "renfil",
+    "symbol": "renfil",
+    "name": "renFIL",
+    "platforms": {
+        "ethereum": "0xd5147bc8e386d91cc5dbe72099dac6c9b99276f5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Wrapped-Tokens"
+    ],
+    "description": {
+        "en": "renFIL is an ERC-20 token that is a 1:1 representation of Filecoin (FIL) on Ethereum, wrapped through RenVM."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd5147bc8e386d91cc5dbe72099dac6c9b99276f5",
+    "url": "https://renproject.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xD5147bc8e386d91Cc5DBE72099DAC6C9b99276F5",
+        "https://ethplorer.io/address/0xd5147bc8e386d91cc5dbe72099dac6c9b99276f5"
+    ],
+    "twitter": "renprotocol",
+    "telegram": "renproject",
+    "reddit": "RenProject/",
+    "github_org": "renproject"
+}

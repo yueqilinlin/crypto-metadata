@@ -1,0 +1,26 @@
+{
+    "id": "kyc-crypto",
+    "symbol": "mima",
+    "name": "KYC.Crypto",
+    "platforms": {
+        "tron": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "We at KYC.Crypto provide our users the facility to transact on several banks, exchanges and KYC-related services by maintaining just one decentralized and globally saved KYC profile. The profile is usable for all KYC related services and all kinds of online shops or software providers."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://kyc-crypto.com/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TFouHv3jFqMbHuz1Y2bXyShTywNrofauSA"
+    ],
+    "twitter": "KYCCrypto",
+    "facebook": "kyccrypto",
+    "telegram": "kyccryrpto",
+    "reddit": "KYCCrypto/",
+    "github_org": "kyccrypto"
+}

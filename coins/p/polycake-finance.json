@@ -1,0 +1,23 @@
+{
+    "id": "polycake-finance",
+    "symbol": "pcake",
+    "name": "PolyCake Finance",
+    "platforms": {
+        "polygon-pos": "0xd9a2c5c0fb2f138c2b96582d29a648df70f80465"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The #1 Yield Farm & Defi Aggregator on Polygon"
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0xd9a2c5c0fb2f138c2b96582d29a648df70f80465",
+    "url": "https://www.polycake.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0xd9a2c5c0fb2f138c2b96582d29a648df70f80465"
+    ],
+    "twitter": "Polycake_Matic",
+    "telegram": "polycakeMatic",
+    "github_org": "PolyCake"
+}

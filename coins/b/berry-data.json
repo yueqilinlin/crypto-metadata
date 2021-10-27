@@ -1,0 +1,26 @@
+{
+    "id": "berry-data",
+    "symbol": "bry",
+    "name": "Berry Data",
+    "platforms": {
+        "binance-smart-chain": "0xf859bf77cbe8699013d6dbc7c2b926aaf307f830"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem",
+        "Oracle"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf859bf77cbe8699013d6dbc7c2b926aaf307f830",
+    "url": "https://berrydata.co/",
+    "explorers": [
+        "https://bscscan.com/token/0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830"
+    ],
+    "twitter": "berry_data",
+    "telegram": "berrydata",
+    "github_org": "berrydata"
+}

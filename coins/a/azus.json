@@ -1,0 +1,20 @@
+{
+    "id": "azus",
+    "symbol": "azu",
+    "name": "Azus",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [],
+    "description": {
+        "en": "AZUS is a proof of stake coin, with 90% of block rewards going to Masternode holders and 10% being rewarded to Stakers. Users are be able to take advantage of both features, or focus on whichever one appeals to them most.\r\n\r\nThe AZUS blockchain was developed with the latest technology available, with both encryption features to secure the local wallet, as well as additional features that help secure the blockchain from network attacks."
+    },
+    "country_origin": "PA",
+    "genesis_date": null,
+    "url": "https://azusnodes.com/",
+    "explorers": [
+        "https://explorer.azusnodes.com/"
+    ],
+    "twitter": "AzusNodes",
+    "telegram": "azusnodes",
+    "github_org": "AzusNodes"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "adaflect",
+    "symbol": "ADAFlect",
+    "name": "ADAFlect",
+    "platforms": {
+        "binance-smart-chain": "0xd6ca9451bba47e26706a701ae05be45a712d4b1b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ADAFlect is designed to act as a shareholder token against the overall volume on the ADAFlect Network. Rather than reflecting native tokens, ADAFlect instead reflects back Cardano\u2019s native ADA Token as made available via Binance-Peg. By doing so, ADAFlect holders can trade their profits against Cardano\u2019s massive liquidity pool, without needing to place any sell pressure on the ADAFlect token. Coupled with the parabolic rise of ADA, traders can easily de-risk their initial investments, and hold ADAFlect to allow for passive earnings to continue building based off highly incentivized network activity.\r\nAs a final incentive towards overall safety in liquidity, 2% of the shareholder volume is directly placed into ADAFlect/BNB Liquidity, with any returned LP Tokens automatically being sent to the burn address; ensuring a constantly raised liquidity floor."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd6ca9451bba47e26706a701ae05be45a712d4b1b",
+    "url": "http://ADAFlect.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xd6ca9451bba47e26706a701ae05be45a712d4b1b"
+    ],
+    "twitter": "adaflect",
+    "telegram": "ADAFlect",
+    "github_org": "FLCeth"
+}

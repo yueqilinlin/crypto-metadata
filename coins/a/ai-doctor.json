@@ -1,0 +1,24 @@
+{
+    "id": "ai-doctor",
+    "symbol": "aidoc",
+    "name": "AI Doctor",
+    "platforms": {
+        "ethereum": "0x584b44853680ee34a0f337b712a8f66d816df151"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AIDOC uses medical data and smart doctor AI technology to provide you constant health and wellness insight. Our blockchain and advanced imaging technology enable us to build a live 3D visual of your health from vital sign readings, offering you 24-hour health analysis from a digital medical expert capable of anticipating problems and prescribing solutions. By further combining smart hardware with IoT applications we are building a full ecosystem of health services that will one day span all regions of the medical services industry."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-12-17",
+    "contract_address": "0x584b44853680ee34a0f337b712a8f66d816df151",
+    "url": "http://www.aidoc.me/",
+    "explorers": [
+        "https://etherscan.io/token/0x584b44853680ee34a0f337b712a8f66d816df151",
+        "https://ethplorer.io/address/0x584b44853680ee34a0f337b712a8f66d816df151"
+    ],
+    "twitter": "AIDOCMe",
+    "facebook": "AIDOCMe",
+    "telegram": "AidocMeEn"
+}

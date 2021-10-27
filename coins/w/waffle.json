@@ -1,0 +1,23 @@
+{
+    "id": "waffle",
+    "symbol": "waf",
+    "name": "Waffle",
+    "platforms": {
+        "binance-smart-chain": "0x650febe5ad8a17a8f27f17ec80fd208e23e9246c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Waffle is a DEX aggregator built in BSC and made to provide the best crypto prices around all BSC DEX and also provide liquidity features to allow ecosystem growth. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x650febe5ad8a17a8f27f17ec80fd208e23e9246c",
+    "url": "https://waffleswap.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x650febe5ad8a17a8f27f17ec80fd208e23e9246c"
+    ],
+    "twitter": "waffleswapio",
+    "telegram": "waffleswapio",
+    "github_org": "waffle-exchange"
+}

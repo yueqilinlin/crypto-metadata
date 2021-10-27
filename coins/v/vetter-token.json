@@ -1,0 +1,22 @@
+{
+    "id": "vetter-token",
+    "symbol": "vetter",
+    "name": "Vetter Token",
+    "platforms": {
+        "binance-smart-chain": "0x6169b3b23e57de79a6146a2170980ceb1f83b9e0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Vetter Token, where crowdsourcing meets a.i. and gamification to empower the crypto investor. Reinventing the Crypto Research Game. \r\n\r\nVetter Token, helping crypto insiders become a better Vetter. Crypto Calendar helps identify the projects most likely to 2x to 1000x based on poster history.\r\n\r\nVetter Token (VETTER) makes crypto research fun! With a proven use case, the dApp highlights projects worth researching by ranking the poster\u2019s performance. Add in compensation, points, tipping and a bad-ass interface, and you have the best crypto research tool at your fingertips. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6169b3b23e57de79a6146a2170980ceb1f83b9e0",
+    "url": "https://vetter.ai/",
+    "explorers": [
+        "https://bscscan.com/token/0x6169b3b23e57de79a6146a2170980ceb1f83b9e0"
+    ],
+    "twitter": "vetterplatform",
+    "telegram": "vetterplatform"
+}

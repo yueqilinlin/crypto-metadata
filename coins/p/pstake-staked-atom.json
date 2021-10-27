@@ -1,0 +1,25 @@
+{
+    "id": "pstake-staked-atom",
+    "symbol": "stkatom",
+    "name": "pSTAKE Staked ATOM",
+    "platforms": {
+        "ethereum": "0x44017598f2af1bd733f9d87b5017b4e7c1b28dde"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "pSTAKE is a liquid staking solution that unlocks the true potential of staked PoS assets (e.g. ATOM). PoS token holders can deposit their tokens onto the pSTAKE platform to mint 1:1 pegged ERC-20 wrapped unstaked tokens represented as pTOKENs (e.g. pATOM).\r\n\r\npATOM can be converted into 1:1 wrapped ERC-20 staked representatives called stkATOM by staking the underlying deposited PoS tokens. stkATOM can be thought of as yield generating tokens. Since stkATOM represent staked tokens, they accrue staking rewards in the form of pTOKENs (This mirrors the workings of most PoS chains where rewards aren\u2019t automatically compounded, but earned in the form of liquid tokens which can be claimed by a user at any point in time).\r\n\r\npSTAKE allows its users to utilize stkATOM in various DeFi protocols to earn yield on top of their staking rewards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x44017598f2af1bd733f9d87b5017b4e7c1b28dde",
+    "url": "https://pstake.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x44017598f2AF1bD733F9D87b5017b4E7c1B28DDE",
+        "https://ethplorer.io/address/0x44017598f2af1bd733f9d87b5017b4e7c1b28dde"
+    ],
+    "twitter": "pStakeFinance",
+    "telegram": "pstakefinance",
+    "reddit": "PersistenceOne/",
+    "github_org": "persistenceOne"
+}

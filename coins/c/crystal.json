@@ -1,0 +1,23 @@
+{
+    "id": "crystal",
+    "symbol": "crystal",
+    "name": "Crystal",
+    "platforms": {
+        "okex-chain": "0xbd87c06d865a3717a16041acd8d33922e60e85ce"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Celestial is a Star Wars-themed game set in the metaverse. In the Celestial's world, players can join the alliance, develop and expand colonies, build space warships, collect minerals, explore planets, and eventually fight other players and wage cross-chain wars. Angry Birds founder Peter Vesterbacka is a senior consultant on the project."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbd87c06d865a3717a16041acd8d33922e60e85ce",
+    "url": "https://celt.game",
+    "explorers": [
+        "https://www.oklink.com/okexchain/address/0xBD87c06D865a3717A16041aCD8d33922e60E85CE"
+    ],
+    "twitter": "GameCelt",
+    "telegram": "CELT_Game",
+    "github_org": "CeltGame"
+}

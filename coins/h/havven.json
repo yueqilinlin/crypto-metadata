@@ -1,0 +1,40 @@
+{
+    "id": "havven",
+    "symbol": "snx",
+    "name": "Synthetix Network Token",
+    "platforms": {
+        "ethereum": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+        "huobi-token": "0x777850281719d5a96c29812ab72f822e0e09f3da",
+        "avalanche": "0xbec243c995409e6520d7c41e404da5deba4b209b",
+        "polygon-pos": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+        "fantom": "0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc",
+        "harmony-shard-0": "0x7b9c523d59aefd362247bd5601a89722e3774dd2",
+        "optimistic-ethereum": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synthetic Issuer",
+        "Derivatives",
+        "Governance",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Decentralized Exchange Token (DEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Synthetix is based in Australia, Synthetix launched a seed funding round in September, 2017 to develop the concept of a self-contained stablecoin payment network. They then kicked off their public ICO on February 28, 2018 and by the end of the ICO on March 7, 2018, they had met their goal of $30,000,000 USD. Synthetix was <a href=\"https://blog.havven.io/havven-is-transforming-into-synthetix-2fdf727b8892\">rebranded</a> from Havven on November 30, 2018.\r\n\r\nSynthetix is led by a multidisciplinary team of 13 individuals. The project was founded by Kain Warwick, who previously co-founded blueshyft, one of the largest digital payment networks in Australia. The CTO is Justin Moses, who also serves as the Director of Engineering at MongoDB. Synthetix aims to address the problem that companies running centralized payment networks such as PayPal, credit card networks, or the SWIFT banking network have \u201cabsolute control over the value within the network, so any transaction conducted within them may be blocked or reversed at any time.\u201d According to the Synthetix white paper, \u201cAlthough this is ostensibly designed to protect users, it introduces systemic risk for all participants. If the network is compromised or its owners cease to behave benevolently, no party can trust that the value in their account is secure or accessible.\u201d\r\n\r\nThis is theorized to work because anyone who holds SNX tokens in escrow will be incentivized by Synthetix rewards derived from network transaction fees that will be distributed \u201cin proportion with how well each issuer maintains the correct Synths supply.\u201d When a Synthetix escrow user puts their SNX in escrow, USD-stabilized Synths will be automatically put up for sale on a decentralized exchange at a price of $1 USD. To release escrowed SNX, the user must buy back the Synths issued (also at a price of $1 USD) at which point the Synths will be burned. The Synthetix system uses an algorithm to adjust network fees, and therefore dividends, to SNX holders to incentivize (or disincentivize) the holding of SNX in escrow smart contracts, and thus, the creation of Synths. The theory is that this will cause users to mint and burn Synths in the appropriate amount based solely on supply and demand."
+    },
+    "country_origin": "AU",
+    "genesis_date": "2018-03-11",
+    "contract_address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+    "url": "https://www.synthetix.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+        "https://ethplorer.io/address/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+        "https://blockchair.com/ethereum/erc-20/token/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+        "https://hecoinfo.com/token/0x777850281719d5a96c29812ab72f822e0e09f3da"
+    ],
+    "twitter": "synthetix_io",
+    "reddit": "synthetix_io/",
+    "github_org": "Synthetixio"
+}

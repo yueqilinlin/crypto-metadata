@@ -1,0 +1,29 @@
+{
+    "id": "lukso-token",
+    "symbol": "lyxe",
+    "name": "LUKSO Token",
+    "platforms": {
+        "ethereum": "0xa8b919680258d369114910511cc87595aec0be6d",
+        "harmony-shard-0": "0x8a8ca151562a68ed3732fd963ec4e0e713b39bb3"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "LUKSO is a blockchain platform specifically created for the lifestyle industry, providing a decentralised innovation and trust infrastructure for fashion brands, start-ups and customers. It offers the foundation for new forms automated economic interactions and sustainable ownership management."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0xa8b919680258d369114910511cc87595aec0be6d",
+    "url": "https://www.lukso.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xA8b919680258d369114910511cc87595aec0be6D",
+        "https://ethplorer.io/address/0xA8b919680258d369114910511cc87595aec0be6D"
+    ],
+    "twitter": "lukso_io",
+    "facebook": "lukso.io",
+    "telegram": "LUKSO",
+    "reddit": "lukso/",
+    "github_org": "lukso-network"
+}

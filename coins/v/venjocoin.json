@@ -1,0 +1,25 @@
+{
+    "id": "venjocoin",
+    "symbol": "vjc",
+    "name": "VENJOCOIN",
+    "platforms": {
+        "ethereum": "0x5c62da804298d5972a323c80b539b8e7517a0dde"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "VENJOCOIN provides a high value asset decentralized marketplace for consumers to buy authenticated assets whose provenance is tracked and stored on the blockchain."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x5c62da804298d5972a323c80b539b8e7517a0dde",
+    "url": "https://venjocoin.io",
+    "explorers": [
+        "https://etherscan.io/token/0x5c62da804298d5972a323c80b539b8e7517a0dde",
+        "https://ethplorer.io/address/0x5c62da804298d5972a323c80b539b8e7517a0dde"
+    ],
+    "twitter": "VenjoCoin",
+    "facebook": "Venjocoin",
+    "telegram": "venjocoin",
+    "github_org": "venjocoin"
+}

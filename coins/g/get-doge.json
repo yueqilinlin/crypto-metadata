@@ -1,0 +1,22 @@
+{
+    "id": "get-doge",
+    "symbol": "getdoge",
+    "name": "Get Doge",
+    "platforms": {
+        "binance-smart-chain": "0x5ee36c0a5e96220f9dcde6a068c5f4e597f83fbb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Get Doge is a decentralized BEP-20 Token on the Binance Smart Chain designed to provide holders with Static Rewards in Dogecoin every 60 minutes. The token runs on a proprietary method that taxes each transaction on Buys/Sells and returns a 10% Dividend Paid in $DOGE Coin to its holders, which aims to offer scalability, as well as assisting Dogecoin in its growth.\r\n\r\nGETDOGE relies on the following principles: \r\n- 10% Dividend Paid in $DOGE Coin: Up to 10% of every buy/sell is redistributed to the $GETDOGE holders in the form of Dogecoin. Min 1 million tokens required.\r\n- Ever Increasing Price Floor: 2% of every transaction is transformed into liquidity for Pancakeswap. It's automatic and helps creates an ever increasing price floor (stability).\r\n- Buy Backs: GETDOGE uses 4% of transactions for auto-buybacks to maintain price stability.\r\n- Ever Increasing Price Floor: 2% of every transaction is transformed into liquidity for Pancakeswap. It's automatic and helps creates an ever increasing price floor (stability).\r\n- Anti-Bot Measures: Sniping bots are taxed 99% and the proceeds will be distributed as Dogecoin rewards and for the buy backs. GETDOGE is working with the Safe Launch team to combat bots.\r\n- Anti-Dumping Protocol: After each buyback, transaction fees for sells are doubled for 30 minutes, descending to the original rate with each minute.\r\n\r\n"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x5ee36c0a5e96220f9dcde6a068c5f4e597f83fbb",
+    "url": "https://getdoge.cash/",
+    "explorers": [
+        "https://bscscan.com/token/0x5ee36c0a5e96220f9dcde6a068c5f4e597f83fbb"
+    ],
+    "twitter": "GetDogeCash",
+    "telegram": "GetDogeCash"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "lanacoin",
+    "symbol": "lana",
+    "name": "LanaCoin",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": "LanaCoin is a PoW/PoS Hybrid Sha256d cryptocurrency."
+    },
+    "country_origin": "",
+    "genesis_date": "2016-05-11",
+    "url": "https://lanacoin.com/",
+    "explorers": [
+        "https://chainz.cryptoid.info/lana/"
+    ],
+    "twitter": "LanaCoin",
+    "facebook": "LanaCoins",
+    "telegram": "LanaCoin",
+    "github_org": "LanaCoin"
+}

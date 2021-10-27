@@ -1,0 +1,23 @@
+{
+    "id": "kitty-inu",
+    "symbol": "kitty",
+    "name": "Kitty Inu",
+    "platforms": {
+        "ethereum": "0x044727e50ff30db57fad06ff4f5846eab5ea52a2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kitty\u2019s mission is to build one of the best and biggest crypto communities in the world backed by one of the best teams in Defi. Part Kitty, Part Inu, Kitty Inu will woof and meow its way to the moon. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x044727e50ff30db57fad06ff4f5846eab5ea52a2",
+    "url": "https://kittyinuerc20.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x044727e50ff30db57fad06ff4f5846eab5ea52a2",
+        "https://ethplorer.io/address/0x044727e50ff30db57fad06ff4f5846eab5ea52a2"
+    ],
+    "twitter": "KittyInuErc20",
+    "github_org": "KittyInu"
+}

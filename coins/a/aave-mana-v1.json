@@ -1,0 +1,29 @@
+{
+    "id": "aave-mana-v1",
+    "symbol": "amana",
+    "name": "Aave MANA v1",
+    "platforms": {
+        "ethereum": "0x6fce4a401b6b80ace52baaefe4421bd188e76f6f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Aave Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Aave MANA is an interest bearing token minted upon deposit and burned when redeemed. The aMANA is pegged 1:1 to the value of the underlying MANA that is deposited in Aave protocol. aMANA, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aMANA accrue interest in real time, directly in your wallet!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6fce4a401b6b80ace52baaefe4421bd188e76f6f",
+    "url": "https://aave.com/atokens",
+    "explorers": [
+        "https://etherscan.io/token/0x6FCE4A401B6B80ACe52baAefE4421Bd188e76F6f",
+        "https://ethplorer.io/address/0x6fce4a401b6b80ace52baaefe4421bd188e76f6f"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome",
+    "reddit": "Aave_Official/",
+    "github_org": "aave"
+}

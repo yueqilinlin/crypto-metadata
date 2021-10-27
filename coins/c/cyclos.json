@@ -1,0 +1,24 @@
+{
+    "id": "cyclos",
+    "symbol": "cys",
+    "name": "Cyclos",
+    "platforms": {
+        "solana": "BRLsMczKuaR5w9vSubF4j8HwEGGprVAyyVgS4EX7DKEg"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "Concentrated Liquidity on Solana"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "BRLsMczKuaR5w9vSubF4j8HwEGGprVAyyVgS4EX7DKEg",
+    "url": "https://cyclos.io/",
+    "explorers": [
+        "https://solscan.io/token/BRLsMczKuaR5w9vSubF4j8HwEGGprVAyyVgS4EX7DKEg"
+    ],
+    "twitter": "cyclosfi",
+    "telegram": "cyclosofficialchat"
+}

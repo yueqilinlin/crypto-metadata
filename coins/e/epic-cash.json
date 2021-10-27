@@ -1,0 +1,25 @@
+{
+    "id": "epic-cash",
+    "symbol": "epic",
+    "name": "Epic Cash",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Cryptocurrency",
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "Epic Cash is designed to be a currency for everyone, and combines the privacy-protecting MimbleWimble protocol with sound economics and fair distribution."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://epic.tech/",
+    "explorers": [
+        "https://explorer.epic.tech/"
+    ],
+    "twitter": "EpicCashTech",
+    "facebook": "EpicCashTech",
+    "telegram": "EpicCash",
+    "reddit": "epiccash/"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "shiba-inu",
+    "symbol": "shib",
+    "name": "Shiba Inu",
+    "platforms": {
+        "ethereum": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "Shiba Inu (SHIB) is a meme token which began as a fun currency and has now transformed into a decentralized ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "url": "https://shibatoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+        "https://ethplorer.io/address/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
+    ],
+    "twitter": "Shibtoken",
+    "telegram": "ShibaInu_Dogecoinkiller",
+    "reddit": "SHIBArmy/"
+}

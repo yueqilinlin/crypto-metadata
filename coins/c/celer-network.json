@@ -1,0 +1,28 @@
+{
+    "id": "celer-network",
+    "symbol": "celr",
+    "name": "Celer Network",
+    "platforms": {
+        "ethereum": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
+        "arbitrum-one": "0x3a8b787f78d775aecfeea15706d4221b40f345ab"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "Celer Network is a coherent technology and economic architecture to enable Internet-scale public blockchains through off-chain scaling techniques. It can scale out to billions of transactions per second, and will fully unleash the power of blockchain and decentralized applications.\r\n\r\n\r\nProvably Scalable\r\n\r\nSecure & Private\r\n\r\ndApp-Aware\r\n\r\nRapidly Evolvable\r\n\r\nEasy-to-use\r\n\r\nIncentive Compatible"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
+    "url": "https://www.celer.network/#",
+    "explorers": [
+        "https://etherscan.io/token/0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
+        "https://ethplorer.io/address/0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
+        "https://arbiscan.io/token/0x3a8b787f78d775aecfeea15706d4221b40f345ab"
+    ],
+    "twitter": "CelerNetwork",
+    "telegram": "celernetwork",
+    "github_org": "celer-network"
+}

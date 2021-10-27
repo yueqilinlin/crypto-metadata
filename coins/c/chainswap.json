@@ -1,0 +1,28 @@
+{
+    "id": "chainswap",
+    "symbol": "asap",
+    "name": "Chainswap",
+    "platforms": {
+        "ethereum": "0xcc665390b03c5d324d8faf81c15ecee29a73bcb4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Polygon Ecosystem",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "ChainSwap is a cross-chain asset bridge & application hub for smart chains."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0xcc665390b03c5d324d8faf81c15ecee29a73bcb4",
+    "url": "https://chainswap.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xcc665390b03c5d324d8faf81c15ecee29a73bcb4",
+        "https://ethplorer.io/address/0xcc665390b03c5d324d8faf81c15ecee29a73bcb4"
+    ],
+    "twitter": "chain_swap",
+    "telegram": "chainswap",
+    "github_org": "chainswap"
+}

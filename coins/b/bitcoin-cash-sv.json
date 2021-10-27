@@ -1,0 +1,20 @@
+{
+    "id": "bitcoin-cash-sv",
+    "symbol": "bsv",
+    "name": "Bitcoin SV",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": "Bitcoin SV is a full-node implementation for <a href=\"https://www.coingecko.com/en/coins/bitcoin-cash\">Bitcoin Cash (BCH)</a> and will maintain the vision of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> set out by Satoshi Nakamoto\u2019s white paper in 2008: Bitcoin: A Peer-to-Peer Electronic Cash System\r\n\r\nReflecting its mission to fulfill the vision of Bitcoin, the project name represents the \u201cSatoshi Vision\u201d or SV. Created at the request of leading BCH mining enterprise CoinGeek and other miners, Bitcoin SV is intended to provide a clear BCH implementation choice for miners and allow businesses to build applications and websites on it reliably.\r\n\r\nBitcoin SV restores the original vision to ignite the future of Bitcoin:\r\n\r\nBitcoin Cash can replace every payment system in the world with a better user experience, a cheaper merchant cost, and a safer level of security. Businesses can trust the Bitcoin Cash brand to provide the stability and scale they need to commit investment and resources to use the BCH blockchain.\r\n\r\nThe Bitcoin SV project was created at the request of and sponsored by Antiguan-based CoinGeek Mining, with development work initiated by nChain. The project is also owned by the Antiguan-based bComm Association on behalf of the global BCH community, and the Bitcoin SV code is made available under the open source MIT license.\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://bitcoinsv.com/",
+    "explorers": [
+        "https://blockchair.com/bitcoin-sv",
+        "http://whatsonchain.com",
+        "https://bsv.tokenview.com/"
+    ],
+    "github_org": "bitcoin-sv"
+}

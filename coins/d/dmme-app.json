@@ -1,0 +1,25 @@
+{
+    "id": "dmme-app",
+    "symbol": "dmme",
+    "name": "DMme",
+    "platforms": {
+        "ethereum": "0x9556f8ee795d991ff371f547162d5efb2769425f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Communication"
+    ],
+    "description": {
+        "en": "THE PROBLEM\r\n\r\nData farming from big messaging companies (whatsapp, line, wechat, snapchat) are all owned by large corporations (whatsapp=facebook), as you know. The private data doesn't belong to you, the end-user's. You give your information freely in trade for a free application. You, are the product and that is the agreement you adhere to. You cannot trust whatsapp (it doesnt advertise itself as a secure app, and Telegram, despite a reputation of being secure, may not be as secure as you think it is).\r\nTelegram is not transparent.\r\n\r\n\r\nSOLUTION\r\n\r\n*Paid app to avoid other means from the company to generate income decentralized, no access to data, which is fully secured (with auditable encryption)\r\n    *A real-use case communication system in encrypted chat (100% anonymous) combined with a currency exchange system among users in the same application. Essentially it's an app and messenger with an integrated currency function.\r\n    * 2p2 payment system among chat users (collection of dividends by the holders from the sales of a app in Android and the website)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9556f8ee795d991ff371f547162d5efb2769425f",
+    "url": "https://dmme.app/",
+    "explorers": [
+        "https://etherscan.io/token/0x9556f8ee795d991ff371f547162d5efb2769425f",
+        "https://ethplorer.io/address/0x9556f8ee795d991ff371f547162d5efb2769425f"
+    ],
+    "twitter": "DMmecoin",
+    "telegram": "Dmmeproject"
+}

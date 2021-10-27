@@ -1,0 +1,26 @@
+{
+    "id": "cougar-token",
+    "symbol": "cgs",
+    "name": "Cougar Token",
+    "platforms": {
+        "harmony-shard-0": "0x6cc35220349c444c39b8e26b359757739aaec952",
+        "binance-smart-chain": "0x26d88b1e61e22da3f1a1ba95a1ba278f6fcef00b",
+        "polygon-pos": "0x047fd3b3d2366f9babe105ade4598e263d6c699c",
+        "fantom": "0x5a2e451fb1b46fde7718315661013ae1ae68e28c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CougarSwap is a next generation Advanced Yield Farming Strategies on Binance Smart Chain with lots of features that focus on stability and safety."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6cc35220349c444c39b8e26b359757739aaec952",
+    "url": "https://harmonyapp.cougarswap.io/",
+    "explorers": [
+        "https://explorer.harmony.one/address/0x6cc35220349c444c39b8e26b359757739aaec952"
+    ],
+    "twitter": "cougarswap",
+    "telegram": "CougarSwap_Official",
+    "github_org": "cougarswap"
+}

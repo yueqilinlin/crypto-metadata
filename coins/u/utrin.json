@@ -1,0 +1,23 @@
+{
+    "id": "utrin",
+    "symbol": "utrin",
+    "name": "Utrin",
+    "platforms": {
+        "ethereum": "0x99f2b69ee2468c834a634ff50d930ae64e3e500f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"Utrin is a local application that makes it possible to place limit orders on swap protocols. Users pay a fixed amount per month, $20 USD, paid in Utrin tokens.\r\n\r\nGet an introduction to the Utrin client with the video on the right of this page (below if you are visiting this site on a mobile device). If you have any questions, feel free to reach out to one of our community channels or send us an e-mail!\r\n\r\nSwapping tokens couldn\u2019t be easier!\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x99f2b69ee2468c834a634ff50d930ae64e3e500f",
+    "url": "https://utrin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x99f2b69ee2468c834a634ff50d930ae64e3e500f",
+        "https://ethplorer.io/address/0x99f2b69ee2468c834a634ff50d930ae64e3e500f"
+    ],
+    "twitter": "Utrin_io",
+    "telegram": "UtrinCommunity"
+}

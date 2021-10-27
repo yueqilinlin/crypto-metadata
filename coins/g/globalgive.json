@@ -1,0 +1,24 @@
+{
+    "id": "globalgive",
+    "symbol": "ggive",
+    "name": "GlobalGive",
+    "platforms": {
+        "binance-smart-chain": "0x60e9880daef10e960da3c45b076dbdac4f111edf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GGIVE aims to provide a mutually beneficial relationship between charities, donors and investors using the power of cryptocurrency and blockchain technologies.\r\n\r\nGGIVE is a deflationary token, built on the Binance Smart Chain, that provides a unified digital currency platform as an innovative means of investing, fundraising and donating.\r\n\r\nGGIVE rotates charities monthly, from international non-profits, to localised grass-roots causes. Each month, the charities are provided a platform to increase awareness and boost much needed funds without costly fees and delays associated with standard fiat donations."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x60e9880daef10e960da3c45b076dbdac4f111edf",
+    "url": "https://www.globalgive.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x60e9880daef10e960da3c45b076dbdac4f111edf"
+    ],
+    "twitter": "GGIVEToken",
+    "telegram": "GGIVEcommunity",
+    "reddit": "ggive/",
+    "github_org": "Global-Give"
+}

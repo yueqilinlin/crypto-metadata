@@ -1,0 +1,25 @@
+{
+    "id": "intelligent-ratio-set",
+    "symbol": "intratio",
+    "name": "Intelligent Ratio Set",
+    "platforms": {
+        "ethereum": "0xba8ea15b647f54d9ff849670fcaacf35df21a457"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "TokenSets"
+    ],
+    "description": {
+        "en": "INTRATIO is a pure algorithmic strategy based on a private, moving average based indicator refined for trading Cryptocurrency markets. It was created on TradingView and backtested across mutliple pairs with extremely promising results historically but also in practice. INTRATIO aims to beat the huge market swings that Bitcoin and Ethereum have in relation to eachother and ultimately put your holdings to work to accumulate more. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xba8ea15b647f54d9ff849670fcaacf35df21a457",
+    "url": "https://www.tokensets.com/set/intratio-1",
+    "explorers": [
+        "https://etherscan.io/token/0xBA8Ea15b647F54D9ff849670FcaAcF35Df21A457",
+        "https://ethplorer.io/address/0xba8ea15b647f54d9ff849670fcaacf35df21a457"
+    ],
+    "twitter": "SetProtocol",
+    "github_org": "SetProtocol"
+}

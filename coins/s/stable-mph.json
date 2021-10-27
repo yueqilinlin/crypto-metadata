@@ -1,0 +1,24 @@
+{
+    "id": "stable-mph",
+    "symbol": "onemph",
+    "name": "Stable MPH",
+    "platforms": {
+        "ethereum": "0xbe3f88e18be3944fdda830695228adbb82fa125f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An ICHI built stablecoin backed by MPH and USDC, Stable MPH is the amalgamation of the 88MPH community's Decentralized Monetary Authority (DMA). Through ICHI's smart contract platform audited by Quantstamp and Solidified, Stable MPH was created as a governance and stable token that enables borrowing, lending, and earning."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbe3f88e18be3944fdda830695228adbb82fa125f",
+    "url": "https://app.ichi.org/treasury",
+    "explorers": [
+        "https://etherscan.io/token/0xBE3F88E18BE3944FdDa830695228ADBB82fA125F",
+        "https://ethplorer.io/address/0xbe3f88e18be3944fdda830695228adbb82fa125f"
+    ],
+    "twitter": "ichifarm",
+    "telegram": "ichifarm",
+    "github_org": "ichifarm"
+}

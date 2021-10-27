@@ -1,0 +1,27 @@
+{
+    "id": "ape-in",
+    "symbol": "apein",
+    "name": "Ape In",
+    "platforms": {
+        "avalanche": "0x938fe3788222a74924e062120e7bfac829c719fb",
+        "ethereum": "0x8bbf1dccbedd5c70d8e793d432fb56b848dd1698"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem",
+        "Play To Earn",
+        "Gaming"
+    ],
+    "description": {
+        "en": "The ape metaverse where defi meets nfts."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x938fe3788222a74924e062120e7bfac829c719fb",
+    "url": "https://www.ape.in/",
+    "explorers": [
+        "https://etherscan.io/token/0x8bbf1dccbedd5c70d8e793d432fb56b848dd1698",
+        "https://ethplorer.io/address/0x8bbf1dccbedd5c70d8e793d432fb56b848dd1698"
+    ],
+    "twitter": "ApeInFinance"
+}

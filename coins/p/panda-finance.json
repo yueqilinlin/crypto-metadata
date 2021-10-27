@@ -1,0 +1,25 @@
+{
+    "id": "panda-finance",
+    "symbol": "pand",
+    "name": "Panda Finance",
+    "platforms": {
+        "ethereum": "0x5bc52b5367b637bec5f818e69208eb9f03c426ee"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PAND is a way to build a peaceful community around the world. The main goal of PAND is to connect all people around the world without any limitation and no matter where you live!\r\n\r\nPanda Finance (PAND) is a deflationary token based on ETH's main net (ERC 20). Whenever a transaction is approved with PAND, 5% of the transaction is distributed and removed from the total supply. Interested?"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5bc52b5367b637bec5f818e69208eb9f03c426ee",
+    "url": "https://pand.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x5bc52b5367b637bec5f818e69208eb9f03c426ee",
+        "https://ethplorer.io/address/0x5bc52b5367b637bec5f818e69208eb9f03c426ee"
+    ],
+    "twitter": "PandFinance",
+    "telegram": "PandFinance",
+    "reddit": "PandaFinance/",
+    "github_org": "PandaFinanceOfficial"
+}

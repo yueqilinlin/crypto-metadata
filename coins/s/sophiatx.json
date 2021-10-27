@@ -1,0 +1,30 @@
+{
+    "id": "sophiatx",
+    "symbol": "sphtx",
+    "name": "SophiaTX",
+    "platforms": {
+        "ethereum": "0x3833dda0aeb6947b98ce454d89366cba8cc55528"
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "SophiaTX is a Blockchain Platform and Marketplace that integrates business applications and solutions into a collaborative environment. As an open source platform, it contains integration APIs to SAP and other enterprise software, covering leading ERP, CRM and SCM systems. SophiaTX blockchain is tailored for extending traditional enterprise applications, and allows enhancing and reshaping current business models."
+    },
+    "country_origin": "CH",
+    "genesis_date": "2017-12-19",
+    "contract_address": "0x3833dda0aeb6947b98ce454d89366cba8cc55528",
+    "url": "https://www.sophiatx.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3833dda0aeb6947b98ce454d89366cba8cc55528",
+        "https://explorer.sophiatx.com/",
+        "https://ethplorer.io/search/0x3833dda0aeb6947b98ce454d89366cba8cc55528",
+        "https://ethplorer.io/address/0x3833dda0aeb6947b98ce454d89366cba8cc55528"
+    ],
+    "twitter": "sophia_tx_",
+    "facebook": "SophiaTXC",
+    "telegram": "sophia_TX_com",
+    "reddit": "SophiaTXproject",
+    "github_org": "SophiaTX"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "asta",
+    "symbol": "asta",
+    "name": "ASTA",
+    "platforms": {
+        "ethereum": "0xf2ddae89449b7d26309a5d54614b1fc99c608af5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf2ddae89449b7d26309a5d54614b1fc99c608af5",
+    "url": "http://www.astaplatform.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xf2ddae89449b7d26309a5d54614b1fc99c608af5",
+        "https://ethplorer.io/address/0xf2ddae89449b7d26309a5d54614b1fc99c608af5"
+    ],
+    "twitter": "Astaplatform",
+    "telegram": "official_ASTA"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "celestial",
+    "symbol": "celt",
+    "name": "Celestial",
+    "platforms": {
+        "okex-chain": "0x5ab622494ab7c5e81911558c9552dbd517f403fb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Celestial is a Star Wars-themed game set in the metaverse. In the Celestial's world, players can join the alliance, develop and expand colonies, build space warships, collect minerals, explore planets, and eventually fight other players and wage cross-chain wars. Angry Birds founder Peter Vesterbacka is a senior consultant on the project. The game focuses on playability, community and finance.\r\n\r\nCELT is the governance token of Celestial and also a key resource that can be earned in the game.\r\n \r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5ab622494ab7c5e81911558c9552dbd517f403fb",
+    "url": "https://celt.game/#/",
+    "explorers": [
+        "https://www.oklink.com/okexchain/tokenAddr/0x5ab622494ab7c5e81911558c9552dbd517f403fb"
+    ],
+    "twitter": "GameCelt",
+    "telegram": "CELT_Game",
+    "github_org": "CeltGame"
+}

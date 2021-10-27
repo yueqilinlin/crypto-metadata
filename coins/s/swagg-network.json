@@ -1,0 +1,25 @@
+{
+    "id": "swagg-network",
+    "symbol": "swagg",
+    "name": "Swagg Network",
+    "platforms": {
+        "ethereum": "0xa19a40fbd7375431fab013a4b08f00871b9a2791"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Social Money"
+    ],
+    "description": {
+        "en": "SWAGG is the social token backing SWAGG Network creations, including Forefront, SWAGG Drops and all upcoming community initiated crypto products. SWAGG holders have exclusive access to SWAGG permissioned telegram group, SWAGG Grants, SWAGG redemptions and soon ability to propose and vote on SWAGG community actions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa19a40fbd7375431fab013a4b08f00871b9a2791",
+    "url": "https://swagg.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xa19A40FbD7375431fAB013a4B08F00871B9a2791",
+        "https://ethplorer.io/address/0xa19a40fbd7375431fab013a4b08f00871b9a2791"
+    ],
+    "twitter": "swaggntwk",
+    "telegram": "swagghouse"
+}

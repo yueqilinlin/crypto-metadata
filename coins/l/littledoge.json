@@ -1,0 +1,22 @@
+{
+    "id": "littledoge",
+    "symbol": "littledoge",
+    "name": "LittleDoge",
+    "platforms": {
+        "binance-smart-chain": "0x4654e1e66d3b05da526b394f298d05ed1b256d6a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Little Doge is a MemeCoin on the Binance Smart Chain. Little Doge was inspired by Everrise and Doge.\r\nEach transaction distributes 6 % into the buyback wallet. 2 % are distributed to the holders and 3 % of each transaction are distributed into the marketing wallet.\r\nAfter each sell there is a buyback from the buyback wallet which is called BIG DOGE. The amount of the buyback can be customized."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4654e1e66d3b05da526b394f298d05ed1b256d6a",
+    "url": "https://www.littledoge.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x4654e1e66d3b05da526b394f298d05ed1b256d6a"
+    ],
+    "twitter": "LittleDogeBsc",
+    "telegram": "LittleDogeOfficial"
+}

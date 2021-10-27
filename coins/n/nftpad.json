@@ -1,0 +1,22 @@
+{
+    "id": "nftpad",
+    "symbol": "nftpad",
+    "name": "NFTPad",
+    "platforms": {
+        "binance-smart-chain": "0x4a72af9609d22bf2ff227aec333c7d0860f3db36"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NFTPad is the first deflationary cross-chain NFT platform allowing creators to mint NFTs in minutes, auction them or raise liquidity so that they may be traded in-game or on AMMs such as PancakeSwap and Uniswap.\r\n\r\nNFTPad is empowering both digital creators and collectors with next-gen tools and services to introduce digital art and NFTs to mainstream collector audience.\r\n\r\nThe NFTPad Marketplace, featuring exclusive artist drops, offers collectors the opportunity to discover and invest in works by emerging and established creative talent.\r\n\r\nNFTPad is initially launching on Binance Smart Chain; with a goal to be a curated 'OpenSea' available on BSC."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4a72af9609d22bf2ff227aec333c7d0860f3db36",
+    "url": "https://nftpad.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0x4a72af9609d22bf2ff227aec333c7d0860f3db36"
+    ],
+    "twitter": "nftpadofficial",
+    "telegram": "NFTPad"
+}

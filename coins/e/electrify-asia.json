@@ -1,0 +1,27 @@
+{
+    "id": "electrify-asia",
+    "symbol": "elec",
+    "name": "Electrify.Asia",
+    "platforms": {
+        "ethereum": "0xd49ff13661451313ca1553fd6954bd1d9b6e02b9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Energy"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "SG",
+    "genesis_date": "2018-02-20",
+    "contract_address": "0xd49ff13661451313ca1553fd6954bd1d9b6e02b9",
+    "url": "https://electrify.asia/",
+    "explorers": [
+        "https://etherscan.io/token/0xd49ff13661451313ca1553fd6954bd1d9b6e02b9",
+        "https://ethplorer.io/address/0xd49ff13661451313ca1553fd6954bd1d9b6e02b9"
+    ],
+    "twitter": "electrifyasia",
+    "facebook": "electrify.asia",
+    "telegram": "electrifyasia",
+    "github_org": "electrifyasia"
+}

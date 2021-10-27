@@ -1,0 +1,20 @@
+{
+    "id": "iowbtc",
+    "symbol": "iowbtc",
+    "name": "ioWBTC",
+    "platforms": {
+        "iotex": "0xc7b93720f73b037394ce00f954f849ed484a3dea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ioWBTC is a wrapped token that can be bridged to IoTeX from any networks via iotube."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc7b93720f73b037394ce00f954f849ed484a3dea",
+    "url": "https://iotube.org/",
+    "explorers": [
+        "https://iotexscan.io/token/0xc7b93720f73b037394ce00f954f849ed484a3dea"
+    ]
+}

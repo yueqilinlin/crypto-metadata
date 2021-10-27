@@ -1,0 +1,24 @@
+{
+    "id": "mango-markets",
+    "symbol": "mngo",
+    "name": "Mango Markets",
+    "platforms": {
+        "solana": "MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac",
+    "url": "https://mango.markets",
+    "explorers": [
+        "https://explorer.solana.com/address/MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac/largest"
+    ],
+    "twitter": "mangomarkets",
+    "github_org": "blockworks-foundation"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "trexcoin",
+    "symbol": "trex",
+    "name": "Trexcoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "Trexcoin is an open source peer-to-peer cryptocurrency. favored by TREX species research in worldwide.\r\n\r\n-Trexcoin is a decentralized cryptocurrency\r\n-Algorithm Scrypt (PoW) + Proof of Stake\r\n-Fast Transactions\r\n-Secure Blockchain"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://www.trexcoin.org/",
+    "explorers": [
+        "https://chainz.cryptoid.info/trex/"
+    ],
+    "twitter": "TrexcoinTREX",
+    "facebook": "Trexcoin",
+    "telegram": "TrexcoinOfficial",
+    "github_org": "TrexcoinTREX"
+}

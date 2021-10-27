@@ -1,0 +1,23 @@
+{
+    "id": "avengers-bsc",
+    "symbol": "avg",
+    "name": "Avengers BSC",
+    "platforms": {
+        "binance-smart-chain": "0x198bbfb79ed1a4a1906cb32131f0c1447282ab98"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Avengers BSC Protocol is a decentralized finance (DeFi) token. According to the AvengersBSC website, AvengersBSC has three functions that take place during each trade: Reflection, LP Acquisition and Burn."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x198bbfb79ed1a4a1906cb32131f0c1447282ab98",
+    "url": "https://www.avengersbsc.com",
+    "explorers": [
+        "https://bscscan.com/token/0x198BBfB79ED1a4a1906Cb32131F0c1447282AB98"
+    ],
+    "twitter": "avengers_bsc",
+    "telegram": "AvengersBSCChat",
+    "reddit": "AvengersBSC/"
+}

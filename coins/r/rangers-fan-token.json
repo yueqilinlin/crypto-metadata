@@ -1,0 +1,23 @@
+{
+    "id": "rangers-fan-token",
+    "symbol": "rft",
+    "name": "Rangers Fan Token",
+    "platforms": {
+        "Bitcichain": "0xf930a91a60deb0eb1fe9419a85f95d21badabd34"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fan Token",
+        "Sports"
+    ],
+    "description": {
+        "en": "Rangers Fan Tokens are offered on the Bitcichain infrastructure. You can support your team by purchasing Rangers Fan Tokens and have a say in your club by participating in special events and surveys created for fans.\r\n\r\nRFT Token is a token project developed on the Bitcichain infrastructure."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf930a91a60deb0eb1fe9419a85f95d21badabd34",
+    "url": "https://www.bitci.com/en/rangers",
+    "explorers": [
+        "https://bitciexp.bitcichain.com/tokens/0xf930a91A60dEb0eB1fe9419a85f95D21badABD34/token_transfers"
+    ]
+}

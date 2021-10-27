@@ -1,0 +1,30 @@
+{
+    "id": "indexed-finance",
+    "symbol": "ndx",
+    "name": "Indexed Finance",
+    "platforms": {
+        "ethereum": "0x86772b1409b61c639eaac9ba0acfbb6e238e5f83",
+        "arbitrum-one": "0xb965029343d55189c25a7f3e0c9394dc0f5d41b1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset Manager",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "Indexed Finance is a project focused on the development of passive portfolio management strategies for the Ethereum network.\r\nIndexed Finance is managed by the holders of its governance token NDX, which is used to vote on proposals for protocol updates and high level index management such as the definition of market sectors and the creation of new management strategies."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x86772b1409b61c639eaac9ba0acfbb6e238e5f83",
+    "url": "https://indexed.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x86772b1409b61c639eaac9ba0acfbb6e238e5f83",
+        "https://ethplorer.io/address/0x86772b1409b61c639eaac9ba0acfbb6e238e5f83",
+        "https://arbiscan.io/token/0xB965029343D55189c25a7f3e0c9394DC0F5D41b1"
+    ],
+    "twitter": "ndxfi",
+    "telegram": "ndxfi",
+    "github_org": "indexed-finance"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "hope-token",
+    "symbol": "hope",
+    "name": "Hope Token",
+    "platforms": {
+        "binance-smart-chain": "0x6f2afbf4f5e5e804c5b954889d7bf3768a3c9a45"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$HOPE has unprecedented tokenomics and a robust charitable strategy designed to maximize profitability and social impact reach.  "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6f2afbf4f5e5e804c5b954889d7bf3768a3c9a45",
+    "url": "https://hope-token.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x6f2afbf4f5e5e804c5b954889d7bf3768a3c9a45"
+    ],
+    "twitter": "RealHopeToken",
+    "telegram": "HopeTokenChat",
+    "reddit": "HopeTokenOfficial/"
+}

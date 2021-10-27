@@ -1,0 +1,28 @@
+{
+    "id": "aga-rewards-2",
+    "symbol": "agar",
+    "name": "AGA Rewards",
+    "platforms": {
+        "ethereum": "0xb453f1f2ee776daf2586501361c457db70e1ca0f",
+        "binance-smart-chain": "0x4ec16da4c9007462de151c0da9f5426c69978a7b",
+        "polygon-pos": "0xf84bd51eab957c2e7b7d646a3427c5a50848281d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem"
+    ],
+    "description": {
+        "en": "AGAr is soft tethered to mining revenue from AGA Mining based in eastern Washington. The mine currently generates six figures of monthly revenue which rewards holders of AGAr through weekly buybacks and burns. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb453f1f2ee776daf2586501361c457db70e1ca0f",
+    "url": "https://agatoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xb453f1f2ee776daf2586501361c457db70e1ca0f",
+        "https://ethplorer.io/address/0xb453f1f2ee776daf2586501361c457db70e1ca0f"
+    ],
+    "twitter": "agatkn",
+    "telegram": "agatokengroup",
+    "reddit": "https://www.reddit.com"
+}

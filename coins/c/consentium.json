@@ -1,0 +1,24 @@
+{
+    "id": "consentium",
+    "symbol": "csm",
+    "name": "Consentium",
+    "platforms": {
+        "ethereum": "0xd8698a985b89650d0a70f99ad2909bd0c0b4b51c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Consentium is a best-in-class chat application with multi-digital-currency C2C (consumer to consumer) transfers as well as proprietary chat community monetisation model (CCM)."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xd8698a985b89650d0a70f99ad2909bd0c0b4b51c",
+    "url": "https://consentium.net/",
+    "explorers": [
+        "https://etherscan.io/token/0xd8698a985b89650d0a70f99ad2909bd0c0b4b51c",
+        "https://ethplorer.io/address/0xd8698a985b89650d0a70f99ad2909bd0c0b4b51c"
+    ],
+    "twitter": "ConsentiumCoin",
+    "facebook": "consentium",
+    "telegram": "consentiumofficial"
+}

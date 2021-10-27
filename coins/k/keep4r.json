@@ -1,0 +1,26 @@
+{
+    "id": "keep4r",
+    "symbol": "kp4r",
+    "name": "Keep4r",
+    "platforms": {
+        "ethereum": "0xa89ac6e529acf391cfbbd377f3ac9d93eae9664e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "Keep4r Network is an improved fork of the keep3r network! We improve upon the governance and usablilty of keep3r, by allowing users to bond and reward jobs directly with ETH and DAI. KP4R holders are rewarded with a share of all network fees."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa89ac6e529acf391cfbbd377f3ac9d93eae9664e",
+    "url": "https://kp4r.network/#/",
+    "explorers": [
+        "https://etherscan.io/token/0xa89ac6e529acf391cfbbd377f3ac9d93eae9664e",
+        "https://ethplorer.io/address/0xa89ac6e529acf391cfbbd377f3ac9d93eae9664e"
+    ],
+    "twitter": "kp4rnetwork",
+    "telegram": "keep4rnetwork",
+    "github_org": "keep4rnetwork"
+}

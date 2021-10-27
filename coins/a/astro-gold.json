@@ -1,0 +1,22 @@
+{
+    "id": "astro-gold",
+    "symbol": "astrogold",
+    "name": "Astro Gold",
+    "platforms": {
+        "binance-smart-chain": "0xa10e0789ba4eb442014ed4524845ebd0a5d2686d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Astro Gold is a BSC token with a purpose of assisting young enthusiasts globally so they can realise and achieve their dreams helping to further mankind\u2019s journey to the stars. This is made possible by the tokenomics that aim to help the coin grow (rewards, increase liquidity pool) but also by adding the marketing budget to start to undertake projects based around the core objective.\r\n\r\nThe contract is unique in the fact that all functions that could change the core functionality (changing tax rates etc) have been removed, aiming to create a safe contract that investors can feel confident in."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa10e0789ba4eb442014ed4524845ebd0a5d2686d",
+    "url": "https://astrogold.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xA10e0789Ba4eb442014Ed4524845eBD0a5d2686D"
+    ],
+    "twitter": "RealAstroGold",
+    "telegram": "RealAstroGold"
+}

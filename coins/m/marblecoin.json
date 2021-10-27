@@ -1,0 +1,28 @@
+{
+    "id": "marblecoin",
+    "symbol": "mbc",
+    "name": "Marblecoin",
+    "platforms": {
+        "ethereum": "0x8888889213dd4da823ebdd1e235b09590633c150"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Official prize token of Marble.Cards"
+    },
+    "country_origin": "SE",
+    "genesis_date": null,
+    "contract_address": "0x8888889213dd4da823ebdd1e235b09590633c150",
+    "url": "https://marble.cards/",
+    "explorers": [
+        "https://etherscan.io/token/0x8888889213dd4da823ebdd1e235b09590633c150",
+        "https://ethplorer.io/address/0x8888889213dd4da823ebdd1e235b09590633c150"
+    ],
+    "twitter": "marble_cards",
+    "facebook": "MarbleCards",
+    "telegram": "marblecards",
+    "reddit": "Marblecards/"
+}

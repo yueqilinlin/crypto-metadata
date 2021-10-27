@@ -1,0 +1,22 @@
+{
+    "id": "payzus",
+    "symbol": "pzs",
+    "name": "Payzus",
+    "platforms": {
+        "binance-smart-chain": "0x86690e2613be52ee927d395db87f69ebcdf88f27"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Payzus mission is to tailor out the best technologies, innovations, and protocols brewing in the field of Decentralized Technologies and create a unique recipe out of it by abstracting away (removing) all its complexities and simplifying it with an easy user interface.\r\nWe aim to bring innovation through intelligent token design and governance with the intention to help mass adoption of decentralized technologies worldwide. This platform is our sincere effort to help the world to become more decentralized through technology."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x86690e2613be52ee927d395db87f69ebcdf88f27",
+    "url": "https://payzus.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x86690e2613be52ee927d395db87f69ebcdf88f27"
+    ],
+    "twitter": "Payzus_PZS",
+    "telegram": "payzus"
+}

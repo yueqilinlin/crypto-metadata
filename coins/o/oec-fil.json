@@ -1,0 +1,20 @@
+{
+    "id": "oec-fil",
+    "symbol": "filk",
+    "name": "OEC FIL",
+    "platforms": {
+        "okex-chain": "0x3f8969be2fc0770dcc174968e4b4ff146e0acdaf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3f8969be2fc0770dcc174968e4b4ff146e0acdaf",
+    "url": "https://www.okex.com/okexchain",
+    "explorers": [
+        "https://www.oklink.com/okexchain/tokenAddr/0x3f8969be2fc0770dcc174968e4b4ff146e0acdaf"
+    ]
+}

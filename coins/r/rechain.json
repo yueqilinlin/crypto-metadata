@@ -1,0 +1,23 @@
+{
+    "id": "rechain",
+    "symbol": "rech",
+    "name": "ReChain",
+    "platforms": {
+        "binance-smart-chain": "0xf4db3dd2046d05d81980be2e65ea325597f0743b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ReChain is much more than just a BSC Token that rewards investors for holding. It is a multilayered long term project that will provide features that aren\u2019t currently available in the Cryptocurrency Market. ReChain will be the missing link in the every changing landscape of Cryptocurrency and will usher in a new world of investing."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xf4db3dd2046d05d81980be2e65ea325597f0743b",
+    "url": "https://www.rechain.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xf4db3dd2046d05d81980be2e65ea325597f0743b"
+    ],
+    "twitter": "ReChainFinance",
+    "telegram": "Rechainfi",
+    "github_org": "rechainfi"
+}

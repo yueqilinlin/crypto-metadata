@@ -1,0 +1,24 @@
+{
+    "id": "rewards-bunny",
+    "symbol": "rbunny",
+    "name": "Rewards Bunny",
+    "platforms": {
+        "binance-smart-chain": "0x68848e1d1ffd7b38d103106c74220c1ad3494afc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rewards Bunny is an adaptive elastic tax token on the BSC. It allows to change the tax repartition according to the community needs and market trends. We aim to create utilities not just in Defi but in the real world as well."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x68848e1d1ffd7b38d103106c74220c1ad3494afc",
+    "url": "https://rewardsbunny.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x68848E1d1fFd7B38D103106C74220c1ad3494AFC"
+    ],
+    "twitter": "rewardsbunny",
+    "telegram": "RewardsBunny",
+    "reddit": "rewardsbunny/",
+    "github_org": "rewardsbunny"
+}

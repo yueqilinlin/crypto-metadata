@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-bitcoin-sv-token",
+    "symbol": "bsvbear",
+    "name": "3X Short Bitcoin SV Token",
+    "platforms": {
+        "ethereum": "0xce49c3c92b33a1653f34811a9d7e34502bf12b89"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short Bitcoin SV Token (BSVBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of Bitcoin SV."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xce49c3c92b33a1653f34811a9d7e34502bf12b89",
+    "url": "https://ftx.com/tokens/BSVBEAR",
+    "explorers": [
+        "https://etherscan.io/token/0xce49c3c92b33a1653f34811a9d7e34502bf12b89",
+        "https://ethplorer.io/address/0xce49c3c92b33a1653f34811a9d7e34502bf12b89"
+    ]
+}

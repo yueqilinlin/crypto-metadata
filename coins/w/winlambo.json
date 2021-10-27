@@ -1,0 +1,23 @@
+{
+    "id": "winlambo",
+    "symbol": "winlambo",
+    "name": "WinLambo",
+    "platforms": {
+        "binance-smart-chain": "0x6a79e08db6c08b8f88703794bf1a47f5a01eb9dc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WINLAMBO is a Lambo-generating token! \r\nEvery transaction fills a Lambo Fund.\r\n\r\nHolders have a lifetime chance of winning 210,000 BUSD.\r\nActive traders have a chance of winning prizes every day!\r\n\r\nRoadmap includes games with solid FOMOnomics for players to win big!"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x6a79e08db6c08b8f88703794bf1a47f5a01eb9dc",
+    "url": "https://winlambo.fund/",
+    "explorers": [
+        "https://bscscan.com/token/0x6a79e08db6c08b8f88703794bf1a47f5a01eb9dc"
+    ],
+    "twitter": "Winlambos",
+    "telegram": "winlambo_official",
+    "github_org": "winlambo21"
+}

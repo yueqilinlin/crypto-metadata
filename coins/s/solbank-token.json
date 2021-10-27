@@ -1,0 +1,22 @@
+{
+    "id": "solbank-token",
+    "symbol": "sbnk",
+    "name": "Solbank Token",
+    "platforms": {
+        "solana": "uNrix3Q5g51MCEUrYBUEBDdQ96RQDQspQJJnnQ4T3Vc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Solbank is building the first privacy wallet on Solana. This will also include a privacy dApp similar in function to tornado.cash on Ethereum. The full privacy wallet while incorporate the anonymization functions as default - on deposits, withdrawals and transactions. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "uNrix3Q5g51MCEUrYBUEBDdQ96RQDQspQJJnnQ4T3Vc",
+    "url": "https://solbank.app/",
+    "explorers": [
+        "https://solscan.io/token/uNrix3Q5g51MCEUrYBUEBDdQ96RQDQspQJJnnQ4T3Vc"
+    ],
+    "twitter": "solbankapp",
+    "telegram": "solbankapp"
+}

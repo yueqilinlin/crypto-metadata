@@ -1,0 +1,26 @@
+{
+    "id": "erc223",
+    "symbol": "erc223",
+    "name": "ERC223",
+    "platforms": {
+        "ethereum": "0xf8f237d074f637d777bcd2a4712bde793f94272b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "ERC223 IS A NEW TOKEN THAT TAKES A DIFFERENT APPROACH, BY RELEASING THE TOKEN ONLY IN SATURN.NETWORK AND MAKING IT ITS OWN EXCHANGE, IT AVOIDS SPENDING DEVS FUNDS, ALLOWS THE LOWEST PRICE FOR HOLDERS, IS A PERFECT BUY AT THE LOWEST PRICE, WHILE BEING A BETTER VERSION OF ERC20, 95% OF TOKENS EXCLUDIVELY SOLD ONLY IN SATURN NETWORK."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf8f237d074f637d777bcd2a4712bde793f94272b",
+    "url": "https://erc223token.my.cam/",
+    "explorers": [
+        "https://etherscan.io/token/0xf8f237d074f637d777bcd2a4712bde793f94272b",
+        "https://ethplorer.io/address/0xf8f237d074f637d777bcd2a4712bde793f94272b"
+    ],
+    "twitter": "ERC2232",
+    "telegram": "ERC223",
+    "github_org": "ERC223"
+}

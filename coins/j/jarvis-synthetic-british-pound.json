@@ -1,0 +1,28 @@
+{
+    "id": "jarvis-synthetic-british-pound",
+    "symbol": "jgbp",
+    "name": "Jarvis Synthetic British Pound",
+    "platforms": {
+        "ethereum": "0x7409856cae628f5d578b285b45669b36e7005283",
+        "polygon-pos": "0x767058f11800fba6a682e73a6e79ec5eb74fac8c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "GBP Stablecoin",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "jGBP is a multi-collateralized synthetic token tracking the price of British Pound. It is built on the top of UMA and Chainlink."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7409856cae628f5d578b285b45669b36e7005283",
+    "url": "https://jarvis.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x7409856cae628f5d578b285b45669b36e7005283",
+        "https://ethplorer.io/address/0x7409856cae628f5d578b285b45669b36e7005283",
+        "https://polygonscan.com/token/0x767058F11800FBA6A682E73A6e79ec5eB74Fac8c"
+    ],
+    "twitter": "Jarvis_Network",
+    "telegram": "jarvisnetwork"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "ken-inu",
+    "symbol": "kenu",
+    "name": "Ken Inu",
+    "platforms": {
+        "binance-smart-chain": "0xfd914bbb4302d69b9a8c3c96023db6a02be62778"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ken Inu ($KENU) is a decentralized, peer-to-peer digital currency, developing a community-driven ecosystem based on it\u2019s native BSC token."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xfd914bbb4302d69b9a8c3c96023db6a02be62778",
+    "url": "http://www.keninu.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xfd914bbb4302d69b9a8c3c96023db6a02be62778"
+    ],
+    "twitter": "KenuInu",
+    "telegram": "Keninu",
+    "github_org": "Ken-Inu"
+}

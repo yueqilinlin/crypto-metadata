@@ -1,0 +1,25 @@
+{
+    "id": "gembites",
+    "symbol": "gbts",
+    "name": "GemBites",
+    "platforms": {
+        "polygon-pos": "0xbe9512e2754cb938dd69bbb96c8a09cb28a02d6d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "GemBites is setting a unique industry standard for a fully decentralized casino. Using the Unified Liquidity Pool (ULP) outlined in our whitepaper, GemBites investors will finally be able to act as both the player and the casino. GemBites takes advantage of the Chainlink Verifiable Random Function (VRF) and the Polygon protocol to bring decentralized, fair, and low-fee games to the cryptocurrency community. These will include both games against the casino and games against other players. Our team is focused on building a flexible ecosystem which will allow us to add new games and functionality in a modular fashion. We are keeping it simple: no gimmicky token burns, unsustainably high APR farms, or wealth taxes. We believe that GemBites will become an important part of the future of online gambling."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbe9512e2754cb938dd69bbb96c8a09cb28a02d6d",
+    "url": "https://gembites.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0xbe9512e2754cb938dd69Bbb96c8a09Cb28a02D6D"
+    ],
+    "twitter": "GemBitesCom",
+    "telegram": "gembites",
+    "github_org": "Kits-Github"
+}

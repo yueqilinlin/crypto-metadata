@@ -1,0 +1,23 @@
+{
+    "id": "banana-finance",
+    "symbol": "banana",
+    "name": "Banana Finance",
+    "platforms": {
+        "ethereum": "0x21f54372c07b930b79c5c2d9bb0eaaca86c3b298"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bananacoin is a groundbreaking decentralized and community-powered cryptocurrency that can be used for digital services."
+    },
+    "country_origin": "EC",
+    "genesis_date": null,
+    "contract_address": "0x21f54372c07b930b79c5c2d9bb0eaaca86c3b298",
+    "url": "https://bananacoin.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x21f54372c07b930b79c5c2d9bb0eaaca86c3b298",
+        "https://ethplorer.io/address/0x21f54372c07b930b79c5c2d9bb0eaaca86c3b298"
+    ],
+    "telegram": "bananacoinFinance",
+    "reddit": "bananacoin_finance/"
+}

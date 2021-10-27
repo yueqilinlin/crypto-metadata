@@ -1,0 +1,25 @@
+{
+    "id": "media-licensing-token",
+    "symbol": "mlt",
+    "name": "Media Licensing Token",
+    "platforms": {
+        "ethereum": "0x9506d37f70eb4c3d79c398d326c871abbf10521d",
+        "binance-smart-chain": "0x4518231a8fdf6ac553b9bbd51bbb86825b583263"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Incorporated by the german media company Welt der Wunder GmbH, the MILC Platform (Media Industry Licensing Content) aims to provide an open new marketplace for every professional and non-professional content provider and buyer that incorporates broadcast, blockchain and AI-technology.\r\n\r\nPlatform features include: content licensing, content management, Content marketing and distribution, AI-Subtitling, Governance, Audience Participation, Frame-by-Frame Video player.\r\n\r\nIt solves four fundamentally important challenges of the global media industry: Global availability, Discovery process for Buyers, Complex licensing and Early feedback from viewers.\r\n\r\nThe MLT (Media Licensing token) works as payment and contract signing medium, as community rewards vehicle and platform governance token."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x9506d37f70eb4c3d79c398d326c871abbf10521d",
+    "url": "https://www.milc.global/",
+    "explorers": [
+        "https://etherscan.io/token/0x9506d37f70eb4c3d79c398d326c871abbf10521d",
+        "https://ethplorer.io/address/0x9506d37f70eb4c3d79c398d326c871abbf10521d"
+    ],
+    "twitter": "MILCplatform",
+    "telegram": "MILCplatform",
+    "github_org": "welt-der-wunder"
+}

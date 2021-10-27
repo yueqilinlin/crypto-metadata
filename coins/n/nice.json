@@ -1,0 +1,24 @@
+{
+    "id": "nice",
+    "symbol": "nice",
+    "name": "Nice",
+    "platforms": {
+        "ethereum": "0x53f64be99da00fec224eaf9f8ce2012149d2fc88"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NICE is a SushiSwap fork with total supply pegged between 69 and 420."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x53f64be99da00fec224eaf9f8ce2012149d2fc88",
+    "url": "https://niceee.org",
+    "explorers": [
+        "https://etherscan.io/token/0x53f64be99da00fec224eaf9f8ce2012149d2fc88",
+        "https://ethplorer.io/address/0x53f64be99da00fec224eaf9f8ce2012149d2fc88"
+    ],
+    "twitter": "TheTimTempleton",
+    "telegram": "niiiiceeeeee",
+    "github_org": "niceeeeeeeeeee"
+}

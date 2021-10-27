@@ -1,0 +1,21 @@
+{
+    "id": "fanbi-token",
+    "symbol": "fbt",
+    "name": "FANBI TOKEN",
+    "platforms": {
+        "ethereum": "0x7a9716685f852ee268feb86dffa562d214cc13db"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fanbi.com is a comprehensive digital asset platform comprising features of digital-asset trading, financial products, wallets, etc. Based on strong market developing capability, Fanbi.com is able to walk with projects from its birth, to its growth and prosperous. It can expand user base for projects and narrow circulating ratio. It can enable uses enjoy high staking yield from high-quality project. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7a9716685f852ee268feb86dffa562d214cc13db",
+    "url": "https://www.fanbi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7a9716685f852ee268feb86dffa562d214cc13db",
+        "https://ethplorer.io/address/0x7a9716685f852ee268feb86dffa562d214cc13db"
+    ]
+}

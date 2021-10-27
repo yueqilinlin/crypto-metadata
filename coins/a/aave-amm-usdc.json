@@ -1,0 +1,24 @@
+{
+    "id": "aave-amm-usdc",
+    "symbol": "aAmmUSDC",
+    "name": "Aave AMM USDC",
+    "platforms": {
+        "ethereum": "0xd24946147829deaa935be2ad85a3291dbf109c80"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd24946147829deaa935be2ad85a3291dbf109c80",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd24946147829DEaA935bE2aD85A3291dbf109c80",
+        "https://ethplorer.io/address/0xd24946147829deaa935be2ad85a3291dbf109c80"
+    ],
+    "twitter": "aaveaave"
+}

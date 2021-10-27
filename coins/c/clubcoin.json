@@ -1,0 +1,21 @@
+{
+    "id": "clubcoin",
+    "symbol": "club",
+    "name": "Clubcoin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2015-10-21",
+    "url": "http://clubcoin.co/",
+    "explorers": [
+        "https://chainz.cryptoid.info/club/"
+    ],
+    "twitter": "clubcoin_co",
+    "facebook": "clubcoin.co",
+    "reddit": "ClubcoinCo",
+    "github_org": "BitClubDev"
+}

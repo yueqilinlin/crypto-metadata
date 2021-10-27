@@ -1,0 +1,23 @@
+{
+    "id": "foreverup",
+    "symbol": "foreverup",
+    "name": "ForeverUp",
+    "platforms": {
+        "ethereum": "0x81afa8aca19d5693883b0b1e10ae1ccaf2f42781"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ForeverUp was built as a decentralized meme experiment with a 25% burn on buys and a 25% tax on sells where 20% of the tax is used for buybacks / marketing / development and 5% is burned."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x81afa8aca19d5693883b0b1e10ae1ccaf2f42781",
+    "url": "https://www.foreveruptoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x81afa8aca19d5693883b0b1e10ae1ccaf2f42781",
+        "https://ethplorer.io/address/0x81afa8aca19d5693883b0b1e10ae1ccaf2f42781"
+    ],
+    "twitter": "forever__up",
+    "telegram": "foreveruptoken"
+}

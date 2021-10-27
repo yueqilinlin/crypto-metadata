@@ -1,0 +1,23 @@
+{
+    "id": "klima-dao",
+    "symbol": "klima",
+    "name": "Klima DAO",
+    "platforms": {
+        "polygon-pos": "0x4e78011ce80ee02d2c3e649fb657e45898257815"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "Klima DAO is a Decentralised Autonomous Organisation for change. \r\n\r\nKlima DAO develops infrastructure incentives that fulfill our manifesto, through primitives such as the KLIMA token. \r\nAs a matter of course, Klima DAO will solve the critical problems of the carbon markets: illiquidity, opacity and inefficiency.  \r\nIn delivery of its objectives, Klima DAO will become the single biggest disruptor of the carbon markets and set a precedent for a new monetary system backed by carbon."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4e78011ce80ee02d2c3e649fb657e45898257815",
+    "url": "https://klimadao.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x4e78011ce80ee02d2c3e649fb657e45898257815"
+    ],
+    "twitter": "KlimaDAO"
+}

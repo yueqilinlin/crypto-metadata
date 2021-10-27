@@ -1,0 +1,24 @@
+{
+    "id": "kaby-arena",
+    "symbol": "kaby",
+    "name": "Kaby Arena",
+    "platforms": {
+        "binance-smart-chain": "0x02a40c048ee2607b5f5606e445cfc3633fb20b58",
+        "polygon-pos": "0x5198e7cc1640049de37d1bd10b03fa5a3afda120"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kaby Arena is a Free-to-Play turn-based NFT game where everyone can start playing without the need of any investment. Kaby Arena also employs the Play-to-Earn model to reward players with tokens and equipment through dynamic gameplay and participation in PvP tournaments. With this seamless combination of the F2P and P2E models, Kaby Arena gives players the opportunity to play and profit at the same time."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x02a40c048ee2607b5f5606e445cfc3633fb20b58",
+    "url": "https://kabyarena.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x02a40c048ee2607b5f5606e445cfc3633fb20b58",
+        "https://polygonscan.com/token/0x5198E7cC1640049dE37D1Bd10b03Fa5A3AFDA120"
+    ],
+    "twitter": "KabyArena",
+    "telegram": "KabyArena"
+}

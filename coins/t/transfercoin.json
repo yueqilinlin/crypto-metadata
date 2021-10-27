@@ -1,0 +1,21 @@
+{
+    "id": "transfercoin",
+    "symbol": "tx",
+    "name": "Transfercoin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Transfercoin is a PoW/PoS hybrid cryptocurrency based on the X11 hashing algorithm. There is no premine or IPO. The first 15,000 PoW and PoS blocks offer a reward of 300 TX per block. After that, each subsequent PoS block will be rewarded with 15 TX.\r\n\r\nTransfer send is performed by Masternodes to ensure anonymity. To run a Masternode, it will require 100,000 TX. 50% of mining rewards will be given to Masternode operators."
+    },
+    "country_origin": "",
+    "genesis_date": "2015-08-11",
+    "url": "https://txproject.io/",
+    "explorers": [
+        "https://chainz.cryptoid.info/tx/"
+    ],
+    "twitter": "Transfer_dev",
+    "github_org": "transferdev"
+}

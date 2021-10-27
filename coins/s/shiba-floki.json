@@ -1,0 +1,24 @@
+{
+    "id": "shiba-floki",
+    "symbol": "floki",
+    "name": "Shiba Floki",
+    "platforms": {
+        "binance-smart-chain": "0x330540a9d998442dcbc396165d3ddc5052077bb1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shiba Floki which operates on Binance Smart Chain is the latest cryptocurrency that's a descendant of meme father Dogecoin. More specifically, it's a hyper-deflationary subcoin that has a smart sharing system built in ecosystem so every investor gets more shibafloki added to their wallet. This means every card owner gets %5 commission fee for every transaction that takes place. Imagine being able to track fresh new tokens immediately even before they launch while being sure if buying them is safe."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x330540a9d998442dcbc396165d3ddc5052077bb1",
+    "url": "https://www.shibafloki.com/",
+    "explorers": [
+        "https://www.bscscan.com/token/0x330540a9d998442dcbc396165D3dDc5052077bB1",
+        "https://bscscan.com/token/0x330540a9d998442dcbc396165D3dDc5052077bB1"
+    ],
+    "twitter": "shibaflokitoken",
+    "telegram": "shibaflokitoken",
+    "github_org": "ShibaFloki"
+}

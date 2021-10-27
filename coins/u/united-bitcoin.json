@@ -1,0 +1,19 @@
+{
+    "id": "united-bitcoin",
+    "symbol": "ubtc",
+    "name": "United Bitcoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "United Bitcoin, or UBTC, is a new bitcoin-based project that recently appeared online at UB.com. The project aims to upgrade bitcoin by implementing smart contracts, among other features.\r\n\r\nUnited Bitcoin was launched by Jeff Garzik, well-known for spearheading the Segwit2x hard fork proposed for the original <a href=\"https://www.coingecko.com/en/coins/bitcoin\">bitcoin (BTC)</a> blockchain. That hard fork would have doubled the block size of the original bitcoin blockchain, providing a better scaling solution. Obviously, <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> was the first blockchain to implement smart contracts.\r\n\r\nBitcoin (BTC) does not currently have smart contracts. We don\u2019t know of any bitcoin hard fork that has successfully added smart contracts to the bitcoin network. Despite these challenges, United Bitcoin believes it can accomplish the goal of adding smart contracts to the bitcoin network. The team also wants to add Lightning Network support. United Bitcoin launched with an official hard fork. The currency was officially launched on December 12, 2017, with an event in Silicon Valley. The fork launched at BTC block height #498777, which occurred at around 12:00 GMT.\r\n\r\nThe team behind United Bitcoin purportedly began developing the project in June 2016. The first smart contract was fully tested in May 2017, followed by a beta test in September 2017. On December 5, the 0.5 version of the project was migrated to Github.\r\n\r\nUnited Bitcoin might be the most controversial bitcoin hard fork in history. The internet is freaking out over how the project is \u201cgoing after\u201d Satoshi Nakamoto\u2019s original bitcoins. In fact, the project appears to be targeting any accounts that were not active between November 11 and December 12, 2017.\r\n\r\nMeanwhile, on the positive side of things, UBTC aims to implement smart contracts, the Lightning Network, and SegWit, all of which lead to faster and cheaper transactions and better scalability. Ultimately, United Bitcoin (UBTC) may be one of the most important bitcoin hard forks in history. Or, it could be a total non-event. However, it has more industry support (like from Jeff Garzik) than some of the scammy bitcoin hard forks out there \u2013 and that means you should pay attention. Stay tuned for more information about United Bitcoin as the project moves forward."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.ub.com/#page1",
+    "explorers": [
+        "https://www.ub.com/explorer"
+    ],
+    "twitter": "United_Bitcoin",
+    "github_org": "UnitedBitcoin"
+}

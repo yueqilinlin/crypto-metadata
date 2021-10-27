@@ -1,0 +1,25 @@
+{
+    "id": "alpha5",
+    "symbol": "a5t",
+    "name": "Alpha5",
+    "platforms": {
+        "ethereum": "0xe8272210954ea85de6d2ae739806ab593b5d9c51"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "A5T is the native exchange token of Alpha5.io. 60% of the A5T supply will be issued through Taker-Driven Mining (Emissions) process. Ultimately A5T tokens will transition to \u2018governance tokens\u2019 for the Alpha5 exchange. Naturally the most 'active participants' on Alpha5 will want to have a REAL SAY in how the exchange operates (example: potentially shifting from a fees-per-trade model to a Membership Model)."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0xe8272210954ea85de6d2ae739806ab593b5d9c51",
+    "url": "https://www.alpha5.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xe8272210954ea85de6d2ae739806ab593b5d9c51",
+        "https://ethplorer.io/address/0xe8272210954ea85de6d2ae739806ab593b5d9c51"
+    ],
+    "twitter": "alpha5_io",
+    "telegram": "Alpha5_en"
+}

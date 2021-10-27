@@ -1,0 +1,21 @@
+{
+    "id": "philips-pay-coin",
+    "symbol": "ppc",
+    "name": "PHILLIPS PAY COIN",
+    "platforms": {
+        "ethereum": "0x84f710bae3316a74fb0fcb01904d2578a4cc6a26"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Phillips Pay is an integrated mobile payment application with which users can make payments, wire transfer, and withdrawals in 844 banks and 220,000 bank ATM in 16 countries.\r\n\r\nPhillips Pay Coin (PPC) is a token incentive rewarded to platform users and can be exchanged with Phillips Pay Money (PPM) to purchase coupons and tickets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x84f710bae3316a74fb0fcb01904d2578a4cc6a26",
+    "url": "http://p-pay.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x84f710bae3316a74fb0fcb01904d2578a4cc6a26",
+        "https://ethplorer.io/address/0x84f710bae3316a74fb0fcb01904d2578a4cc6a26"
+    ]
+}

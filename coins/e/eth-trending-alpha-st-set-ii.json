@@ -1,0 +1,25 @@
+{
+    "id": "eth-trending-alpha-st-set-ii",
+    "symbol": "etas",
+    "name": "ETH Trending Alpha ST Set II",
+    "platforms": {
+        "ethereum": "0x856c4388c56c2a613c60507a4701af627157fed6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "TokenSets"
+    ],
+    "description": {
+        "en": "We have now brought to Token Sets our in-house short term trend-following strategy from Alphachain Capital, allowing set buyers to participate in similar professional institutional trend-following strategies to those we offer to our investors"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x856c4388c56c2a613c60507a4701af627157fed6",
+    "url": "https://www.tokensets.com/set/etas-1",
+    "explorers": [
+        "https://etherscan.io/token/0x856c4388c56c2a613c60507a4701af627157fed6",
+        "https://ethplorer.io/address/0x856c4388c56c2a613c60507a4701af627157fed6"
+    ],
+    "twitter": "SetProtocol",
+    "github_org": "SetProtocol"
+}

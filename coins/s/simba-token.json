@@ -1,0 +1,23 @@
+{
+    "id": "simba-token",
+    "symbol": "simba",
+    "name": "Simba Token",
+    "platforms": {
+        "ethereum": "0x254417f7b56328a48f554b173dca7bdda7a2a0d2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Simba token is a 100% decentralized community project programmed to take the kingdom's throne by dominating the meme token market."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x254417f7b56328a48f554b173dca7bdda7a2a0d2",
+    "url": "https://simbatoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x254417f7b56328a48f554b173dca7bdda7a2a0d2",
+        "https://ethplorer.io/address/0x254417f7b56328a48f554b173dca7bdda7a2a0d2"
+    ],
+    "telegram": "simbatoken",
+    "github_org": "simbatoken"
+}

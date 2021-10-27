@@ -1,0 +1,29 @@
+{
+    "id": "etheremontoken",
+    "symbol": "emont",
+    "name": "EthermonToken",
+    "platforms": {
+        "ethereum": "0x95daaab98046846bf4b2853e23cba236fa394a31"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Entertainment"
+    ],
+    "description": {
+        "en": "Re-launched in 2019 Ethermon.io is the community driven version of the popular Etheremon.com under an entire new team. Players can continue to use their old and new Ether Monsters (EtherMon) to join forces and continue their journey in this crypto based battle games where they capture, train, and transform their collectables to make their permanent mark on the blockchain.\r\n\r\nEvery ethermon have a unique ID and a Catch # which can be verified on the blockchain by anyone at anytime. Player can continue to play with their classic collection along side with the newest collection of ethermon available in the official stores. Ethermon are limited in distribution, and it's only a matter of time before an entire generation of ethermon will no longer be catchable; become one of the lucky ones to behold them all!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x95daaab98046846bf4b2853e23cba236fa394a31",
+    "url": "https://ethermon.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x95daaab98046846bf4b2853e23cba236fa394a31",
+        "https://ethplorer.io/address/0x95daaab98046846bf4b2853e23cba236fa394a31"
+    ],
+    "twitter": "Ethermon_io",
+    "facebook": "etheremon",
+    "telegram": "ethermon",
+    "reddit": "etheremon/",
+    "github_org": "etheremon"
+}

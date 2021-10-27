@@ -1,0 +1,23 @@
+{
+    "id": "gummy-bull-token",
+    "symbol": "GUMMY",
+    "name": "Gummy Bull Token",
+    "platforms": {
+        "binance-smart-chain": "0x10d3e0c38c286a04aee44d9b01cac916b56ee05a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gummy Bull is the first Fantasy Game dApp ! "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x10d3e0c38c286a04aee44d9b01cac916b56ee05a",
+    "url": "https://www.gummybull.io",
+    "explorers": [
+        "https://bscscan.com/token/0x10d3e0c38c286a04aee44d9b01cac916b56ee05a"
+    ],
+    "twitter": "Gummy_Bull",
+    "telegram": "gummybull",
+    "github_org": "gummybull"
+}

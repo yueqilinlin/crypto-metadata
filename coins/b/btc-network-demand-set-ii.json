@@ -1,0 +1,25 @@
+{
+    "id": "btc-network-demand-set-ii",
+    "symbol": "byte",
+    "name": "BTC Network Demand Set II",
+    "platforms": {
+        "ethereum": "0xac8ea871e2d5f4be618905f36f73c760f8cfdc8e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "TokenSets"
+    ],
+    "description": {
+        "en": "The Network demand set is the output of years of iterating on the optimal way to apply fundamental data from bitcoin\u2019s network into an investment strategy"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xac8ea871e2d5f4be618905f36f73c760f8cfdc8e",
+    "url": "https://www.tokensets.com/set/byte-1",
+    "explorers": [
+        "https://etherscan.io/token/0xac8ea871e2d5f4be618905f36f73c760f8cfdc8e",
+        "https://ethplorer.io/address/0xac8ea871e2d5f4be618905f36f73c760f8cfdc8e"
+    ],
+    "twitter": "SetProtocol",
+    "github_org": "SetProtocol"
+}

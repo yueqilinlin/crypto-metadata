@@ -1,0 +1,28 @@
+{
+    "id": "dafi-protocol",
+    "symbol": "dafi",
+    "name": "Dafi Protocol",
+    "platforms": {
+        "ethereum": "0xfc979087305a826c2b2a0056cfaba50aad3e6439"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Synthetic Issuer",
+        "Polygon Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Dafi creates synthetics to reward networks, for long term users\r\n\r\nDafi solves the biggest issue within decentralized economies - by rewarding users later, instead of earlier."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfc979087305a826c2b2a0056cfaba50aad3e6439",
+    "url": "https://dafiprotocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xfc979087305a826c2b2a0056cfaba50aad3e6439",
+        "https://ethplorer.io/address/0xfc979087305a826c2b2a0056cfaba50aad3e6439"
+    ],
+    "twitter": "DafiProtocol",
+    "telegram": "dafiprotocol"
+}

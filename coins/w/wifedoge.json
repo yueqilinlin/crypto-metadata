@@ -1,0 +1,23 @@
+{
+    "id": "wifedoge",
+    "symbol": "wifedoge",
+    "name": "Wifedoge",
+    "platforms": {
+        "binance-smart-chain": "0x07b36f2549291d320132712a1e64d3826b1fb4d7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wifedoge is a good wife who can help doge make money. She starts to make money for you automatically when you hold wifedoge. At the same time, there is a punishment mechanism for those who abandon her. She will give you rewards for staying true to her."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x07b36f2549291d320132712a1e64d3826b1fb4d7",
+    "url": "https://wifedoge.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x07b36f2549291d320132712a1e64d3826b1fb4d7"
+    ],
+    "twitter": "wifedoge",
+    "telegram": "wifedogetoken",
+    "github_org": "WIFEDOGE"
+}

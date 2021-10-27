@@ -1,0 +1,24 @@
+{
+    "id": "revolotto",
+    "symbol": "rvl",
+    "name": "Revolotto",
+    "platforms": {
+        "binance-smart-chain": "0x6dc3d0d6ec970bf5522611d8eff127145d02b675"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Revolotto is a decentralized cryptocurrency that grants investors holding (RVL) instant rewards on all transactions, and protects them with its unique coin circulation cycles and burn protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6dc3d0d6ec970bf5522611d8eff127145d02b675",
+    "url": "https://www.revolotto.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x6dc3d0D6EC970BF5522611D8eFF127145D02b675"
+    ],
+    "twitter": "revolotto",
+    "telegram": "revolotto",
+    "reddit": "Revolotto/",
+    "github_org": "Revolotto"
+}

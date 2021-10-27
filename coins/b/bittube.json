@@ -1,0 +1,19 @@
+{
+    "id": "bittube",
+    "symbol": "tube",
+    "name": "BitTube",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BitTube as a company offers several products that make up an ecosystem. At the heart of this ecosystem is a blockchain-based technology called AirTime, an ad-free monetisation solution that pays a cryptocurrency (TUBE) based on watch time of any type of content. Payouts are taken from a slowly decreasing block reward, calculated based on a user\u2019s AirTime compared to the grand total AirTime per each block. More information can be found at https://bittube.app"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://bittube.app/",
+    "explorers": [
+        "https://explorer.ipbc.io"
+    ],
+    "twitter": "ipbc_dev",
+    "reddit": "ipbcoin/"
+}

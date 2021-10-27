@@ -1,0 +1,23 @@
+{
+    "id": "blowfish",
+    "symbol": "blowf",
+    "name": "BlowFish",
+    "platforms": {
+        "binance-smart-chain": "0xa55bb91de33b4abdf3ac64913d98a55ad84dc3a8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BlowFish is a gamification platform. Our entertaining DApps have the purpose of increasing the value of BLOWF. The first DApp release was a fair lottery that burns 5% of the lottery pool. Integrated with a provably fair randomness Oracle, the BlowFish Lottery offers players a level playing field.\r\n\r\nThe second DApp release were NFT's that lock BLOWF tokens. NFT sales directly add to BlowFish value by auto-buying BlowFish tokens and locking tokens via a smart contract. Upcoming NFT features include a marketplace and further gamification to boost NFT utility and value.\r\n\r\nOur roadmap includes charity outreach and further development of DApps."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xa55bb91de33b4abdf3ac64913d98a55ad84dc3a8",
+    "url": "https://www.blowfish.one/",
+    "explorers": [
+        "https://bscscan.com/token/0xa55bb91de33b4abdf3ac64913d98a55ad84dc3a8"
+    ],
+    "twitter": "blowfishtoken",
+    "telegram": "blowfishtokengroup",
+    "reddit": "BlowFishToken/"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "reserve-rights-token",
+    "symbol": "rsr",
+    "name": "Reserve Rights Token",
+    "platforms": {
+        "ethereum": "0x8762db106b2c2a0bccb3a80d1ed41273552616e8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Reserve aims to build a stable, decentralized, asset-backed cryptocurrency and a digital payment system that scales supply with demand and maintains 100% or more collateral backing. Ultimately, Reserve\u2019s goal is to create a universal store of value \u2013 particularly in regions with unreliable banking infrastructure and regions where hyperinflation is an issue. The Reserve system will interact with three kinds of tokens: \r\n\r\n(1) The Reserve token (RSV), which is a stable cryptocurrency that can be held and spent the way we use normal fiat money; \r\n\r\n(2) The Reserve Rights token (RSR), a protocol token used to facilitate the stability of RSV.\r\n\r\n(3) A growing variety of tokenized real-world assets (such as other stablecoins) that are held by the Reserve smart contract to back RSV. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8762db106b2c2a0bccb3a80d1ed41273552616e8",
+    "url": "https://reserve.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x8762db106b2c2a0bccb3a80d1ed41273552616e8",
+        "https://ethplorer.io/address/0x8762db106b2c2a0bccb3a80d1ed41273552616e8"
+    ],
+    "twitter": "reserveprotocol",
+    "telegram": "reservecurrency",
+    "github_org": "reserve-protocol"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "ime-lab",
+    "symbol": "lime",
+    "name": "iMe Lab",
+    "platforms": {
+        "ethereum": "0x9d0b65a76274645b29e4cc41b8f23081fa09f4a3",
+        "binance-smart-chain": "0x7bc75e291e656e8658d66be1cc8154a3769a35dd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "iMe is a Smart Messaging Platform with DeFi tools and AI. It is a Smart platform with the Telegram-based messenger, Crypto Wallet, and DeFi tools. The central idea behind the project is the empowerment of Telegram users through the functions of DeFi, letting people manage cryptocurrencies easily in a user-friendly and secure interface. In our app, we are connecting mainstream and crypto communities!  \r\n\r\niMe is developed on Telegram\u2019s API. It offers all of Telegram\u2019s features + exciting new tools and settings:  Crypto Wallet with DEXs, possibility to buy crypto with a card (through \r\npartnership with Simplex), Built-in Google translator in chats, Functional cloud with albums, Neurobots, Advanced folder functions, Voice messages to text,many more.\r\n\r\niMe Smart Platform is an evolving ecosystem and has many ways to extend the boundaries of its functionality. iMe team plans to expand the iMe ecosystem in the next six months and finish the full implementation of their plans represented as separate tabs in the application. The new functionalities will fall into four major categories: NFT marketplace, IDO platform, Decentralized P2P insurance marketplace, and prediction market."
+    },
+    "country_origin": "CY",
+    "genesis_date": null,
+    "contract_address": "0x9d0b65a76274645b29e4cc41b8f23081fa09f4a3",
+    "url": "https://imem.app/",
+    "explorers": [
+        "https://etherscan.io/token/0x9d0b65a76274645b29e4cc41b8f23081fa09f4a3",
+        "https://ethplorer.io/address/0x9d0b65a76274645b29e4cc41b8f23081fa09f4a3",
+        "https://bscscan.com/token/0x7bC75e291E656E8658D66Be1cc8154A3769A35Dd"
+    ],
+    "twitter": "ImePlatform",
+    "telegram": "iMeLime",
+    "reddit": "iMeSmartPlatform/",
+    "github_org": "imemessenger"
+}

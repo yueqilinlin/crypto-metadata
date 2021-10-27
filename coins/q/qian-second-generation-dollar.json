@@ -1,0 +1,24 @@
+{
+    "id": "qian-second-generation-dollar",
+    "symbol": "qsd",
+    "name": "QIAN Second Generation Dollar",
+    "platforms": {
+        "binance-smart-chain": "0x07aaa29e63ffeb2ebf59b33ee61437e1a91a3bb2",
+        "arbitrum-one": "0x5837d843d49ffdefc78fe09b5f371427c917946f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "QIAN second dollar (QSD) is a kind of fractional-algorithmic stablecoin, it is also a synthetic asset in Chemix Labs protocol, QSD has similar but improved design with FRAX and IRON project. With the design of QSD's buffering algorithmic token release process (KBT token), QSD has stronger robustness than other fractional-algorithmic stablecoins."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x07aaa29e63ffeb2ebf59b33ee61437e1a91a3bb2",
+    "url": "https://labs.chemix.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x07aaa29e63ffeb2ebf59b33ee61437e1a91a3bb2"
+    ],
+    "twitter": "ChemixLabs",
+    "telegram": "chemixlabs",
+    "github_org": "QIAN-Protocol"
+}

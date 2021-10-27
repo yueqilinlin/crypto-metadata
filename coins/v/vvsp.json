@@ -1,0 +1,23 @@
+{
+    "id": "vvsp",
+    "symbol": "vvsp",
+    "name": "vVSP",
+    "platforms": {
+        "ethereum": "0xba4cfe5741b357fa371b506e5db0774abfecf8fc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xba4cfe5741b357fa371b506e5db0774abfecf8fc",
+    "url": "https://vesper.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xba4cfe5741b357fa371b506e5db0774abfecf8fc",
+        "https://ethplorer.io/address/0xba4cfe5741b357fa371b506e5db0774abfecf8fc"
+    ],
+    "twitter": "VesperFi",
+    "telegram": "vesperfinance"
+}

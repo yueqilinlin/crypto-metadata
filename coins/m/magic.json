@@ -1,0 +1,23 @@
+{
+    "id": "magic",
+    "symbol": "magic",
+    "name": "Magic",
+    "platforms": {
+        "ethereum": "0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MAGIC is the native currency of Treasure\u2019s ecosystem. \r\n\r\nTreasure started as a simple derivative of Loot and is now quickly expanding into a full-fledged universe of its own. Treasure itself functions as a game. MAGIC and Treasure holders will have the opportunity to take their own Hero\u2019s Journey\u2026 and formulate new ones of their own! MAGIC and Treasure will be used in the first PFP MMORPG called Legions. \r\n\r\nMAGIC is emitted via Treasure\u2019s unique Proof of Work (POW) mechanism and is intended to be used in Legions and crafting unique in-game consumables. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a",
+    "url": "https://treasure.lol/",
+    "explorers": [
+        "https://etherscan.io/token/0xB0c7a3Ba49C7a6EaBa6cD4a96C55a1391070Ac9A",
+        "https://ethplorer.io/address/0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a"
+    ],
+    "twitter": "Treasure_NFT",
+    "github_org": "TreasureForLoot"
+}

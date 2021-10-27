@@ -1,0 +1,26 @@
+{
+    "id": "binance-peg-bitcoin-cash",
+    "symbol": "bch",
+    "name": "Binance-Peg Bitcoin Cash",
+    "platforms": {
+        "binance-smart-chain": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Tokens that are wrapped and pegged by Binance on a 1:1 ratio to the corresponding native token. Also supports BEP20 token deposits and withdrawals at Binance.com"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
+    "url": "https://bch.info/",
+    "explorers": [
+        "https://bscscan.com/address/0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
+        "https://bscscan.com/token/0x8ff795a6f4d97e7887c79bea79aba5cc76444adf"
+    ],
+    "telegram": "bchchannel",
+    "reddit": "https://www.reddit.com",
+    "github_org": "bitcoin-cash-node"
+}

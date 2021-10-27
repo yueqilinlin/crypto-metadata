@@ -1,0 +1,23 @@
+{
+    "id": "vero-farm",
+    "symbol": "vero",
+    "name": "Vero Farm",
+    "platforms": {
+        "binance-smart-chain": "0x0ef008ff963572d3dabc12e222420f537ddabf94"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0ef008ff963572d3dabc12e222420f537ddabf94",
+    "url": "https://verofarm.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x0ef008ff963572d3dabc12e222420f537ddabf94"
+    ],
+    "twitter": "VeroFarmGames",
+    "telegram": "VeroFarm",
+    "github_org": "VeroFarm"
+}

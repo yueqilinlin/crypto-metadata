@@ -1,0 +1,22 @@
+{
+    "id": "olympus-token",
+    "symbol": "olympus",
+    "name": "OLYMPUS token",
+    "platforms": {
+        "binance-smart-chain": "0x18b426813731c144108c6d7faf5ede71a258fd9a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Olympus boasts the first dual BUSD-Reflect and whale buyback system, with dynamically pegged auto-liquidity generation, anti-snipe and anti-bot features. Made by the devs that created Bogged, Gabe and Bingus, Olympus promises to carry it's holders to heights only reached by the Greek Gods of legend."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x18b426813731c144108c6d7faf5ede71a258fd9a",
+    "url": "https://olympustoken.io",
+    "explorers": [
+        "https://bscscan.com/token/0x18b426813731c144108c6d7faf5ede71a258fd9a"
+    ],
+    "twitter": "olympus_token",
+    "telegram": "OlympusOfficial"
+}

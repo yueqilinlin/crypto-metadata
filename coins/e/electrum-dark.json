@@ -1,0 +1,25 @@
+{
+    "id": "electrum-dark",
+    "symbol": "eld",
+    "name": "Electrum Dark",
+    "platforms": {
+        "ethereum": "0x796e47b85a0d759f300f1de96a3583004235d4d8"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Electrum Dark is a working real-world cryptocurrency powering a fully-functional decentralized marketplace that allows you to buy and sell goods and services easily, securely, and anonymously,worldwide"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x796e47b85a0d759f300f1de96a3583004235d4d8",
+    "url": "https://electrumdark.com",
+    "explorers": [
+        "https://etherscan.io/token/0x796e47b85a0d759f300f1de96a3583004235d4d8",
+        "https://ethplorer.io/address/0x796e47b85a0d759f300f1de96a3583004235d4d8"
+    ],
+    "twitter": "electrumdark",
+    "github_org": "electrumdark"
+}

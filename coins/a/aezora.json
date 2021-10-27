@@ -1,0 +1,22 @@
+{
+    "id": "aezora",
+    "symbol": "azr",
+    "name": "Aezora",
+    "platforms": {
+        "qtum": ""
+    },
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Aezora is a cryptocurrency blockchain, with an embedded Proof of Stake (POS) and Masternode (MN) functions. Users can contribute to the network in two separate ways. Proof of Stake: 20% of every block reward goes to the stake holders of the project. Individuals that stake will receive a portion of the POS rewards. Masternodes: 80% of every bock reward goes to Masternode holders."
+    },
+    "country_origin": "CY",
+    "genesis_date": null,
+    "url": "https://aezora.com/",
+    "explorers": [
+        "http://explorer.aezora.com/"
+    ],
+    "twitter": "AezoraOfficial",
+    "telegram": "AZR_Official",
+    "github_org": "Aezora"
+}

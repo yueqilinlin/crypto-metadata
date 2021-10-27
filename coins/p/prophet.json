@@ -1,0 +1,24 @@
+{
+    "id": "prophet",
+    "symbol": "prophet",
+    "name": "Prophet",
+    "platforms": {
+        "ethereum": "0x8d5db0c1f0681071cb38a382ae6704588d9da587"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fluid and scalable yield-generation with adjustable rates governed by the community"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8d5db0c1f0681071cb38a382ae6704588d9da587",
+    "url": "https://www.prophet.finance/",
+    "explorers": [
+        "https://etherscan.io/address/0x8d5db0c1f0681071cb38a382ae6704588d9da587",
+        "https://etherscan.io/token/0x8d5db0c1f0681071cb38a382ae6704588d9da587",
+        "https://ethplorer.io/address/0x8d5db0c1f0681071cb38a382ae6704588d9da587"
+    ],
+    "twitter": "prophet_finance",
+    "telegram": "ProphetFinance"
+}

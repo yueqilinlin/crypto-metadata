@@ -1,0 +1,23 @@
+{
+    "id": "polyquity-dollar",
+    "symbol": "pyd",
+    "name": "PolyQuity Dollar",
+    "platforms": {
+        "polygon-pos": "0x0527c8c43250279d6eb74da1078193f5316fc9a0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PYD is a completely decentralized stablecoin on Polygon network. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0527c8c43250279d6eb74da1078193f5316fc9a0",
+    "url": "https://app.polyquity.org/",
+    "explorers": [
+        "https://polygonscan.com/token/0x0527c8c43250279d6eb74da1078193f5316fc9a0"
+    ],
+    "twitter": "polyquity_org",
+    "telegram": "polyquityorg",
+    "github_org": "PolyQuity"
+}

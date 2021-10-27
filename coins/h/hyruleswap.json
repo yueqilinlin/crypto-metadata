@@ -1,0 +1,23 @@
+{
+    "id": "hyruleswap",
+    "symbol": "rupee",
+    "name": "HyruleSwap",
+    "platforms": {
+        "binance-smart-chain": "0x7b0409a3a3f79baa284035d48e1dfd581d7d7654"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HyruleSwap is an Automated Market-Making (AMM) running on the Binance Smart Chain (BSC) and PancakeSwap Exchange. \r\n\r\nRUPEE is the token used to purchase NFTs on the platform and participate in Staking and yield generation.  NFTs are used to complement the staking rewards."
+    },
+    "country_origin": "SE",
+    "genesis_date": null,
+    "contract_address": "0x7b0409a3a3f79baa284035d48e1dfd581d7d7654",
+    "url": "https://hyruleswap.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x7b0409a3a3f79baa284035d48e1dfd581d7d7654"
+    ],
+    "twitter": "HyruleSwap",
+    "telegram": "HyruleSwap",
+    "github_org": "hyruleswap-finance"
+}

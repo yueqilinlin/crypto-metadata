@@ -1,0 +1,26 @@
+{
+    "id": "penny-for-bit",
+    "symbol": "pfb",
+    "name": "Penny For Bit",
+    "platforms": {
+        "ethereum": "0x46760d2bf2f4dd5405646d9b2ce7b723efe74a48"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Users of the Penny For Bit platform earn PFB tokens for social activities. The distribution is handled by the ERC20 smart contract only. The smart contract calculates users' shares every 24 hours. Companies, in turn, can use PFB tokens to boost their marketing. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x46760d2bf2f4dd5405646d9b2ce7b723efe74a48",
+    "url": "https://pfbproject.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x46760d2bf2f4dd5405646d9b2ce7b723efe74a48",
+        "https://ethplorer.io/address/0x46760d2bf2f4dd5405646d9b2ce7b723efe74a48"
+    ],
+    "twitter": "PFB_Project",
+    "facebook": "PFBProject",
+    "telegram": "PFB_Project_Chat",
+    "reddit": "https://www.reddit.com",
+    "github_org": "PFB-Project"
+}

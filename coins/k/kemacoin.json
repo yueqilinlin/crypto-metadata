@@ -1,0 +1,22 @@
+{
+    "id": "kemacoin",
+    "symbol": "kema",
+    "name": "KemaCoin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Tourism"
+    ],
+    "description": {
+        "en": "Kema Coin is a de-centralized digital currency that can be used to pay for goods or services, earn extra income, and can be traded for other digital currencies on exchanges by you directly without the need for third parties."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://www.kema.io/",
+    "explorers": [
+        "http://explorer.kema.io/"
+    ],
+    "twitter": "kemacoin",
+    "facebook": "Kema-Coin-342940496519870",
+    "github_org": "wmcorless"
+}

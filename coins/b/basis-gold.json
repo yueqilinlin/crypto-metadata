@@ -1,0 +1,24 @@
+{
+    "id": "basis-gold",
+    "symbol": "bsg",
+    "name": "Basis Gold",
+    "platforms": {
+        "ethereum": "0xb34ab2f65c6e4f764ffe740ab83f982021faed6d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An elastic-supply algo stablecoin pegged to the price of gold. Built by BUILD Finance DAO."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb34ab2f65c6e4f764ffe740ab83f982021faed6d",
+    "url": "https://basis.gold/",
+    "explorers": [
+        "https://etherscan.io/token/0xB34Ab2f65c6e4F764fFe740ab83F982021Faed6d",
+        "https://ethplorer.io/address/0xB34Ab2f65c6e4F764fFe740ab83F982021Faed6d"
+    ],
+    "twitter": "GoldBasis",
+    "telegram": "GoldBasis",
+    "github_org": "build-finance"
+}

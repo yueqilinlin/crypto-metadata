@@ -1,0 +1,23 @@
+{
+    "id": "wild-crypto",
+    "symbol": "wild",
+    "name": "Wild Crypto",
+    "platforms": {
+        "ethereum": "0xd3c00772b24d997a812249ca637a921e81357701"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Wild Crypto platform will allow its users a fully anonymous & international Lottery & eGaming platform, built upon blockchain technology. Our goal is to create a platform that is 100% decentralised and honest, publishing the results to the blockchain. We plan on turning the Lotto & eGaming industry on its head."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-08-11",
+    "contract_address": "0xd3c00772b24d997a812249ca637a921e81357701",
+    "url": "https://wildcrypto.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd3c00772b24d997a812249ca637a921e81357701",
+        "https://ethplorer.io/address/0xd3c00772b24d997a812249ca637a921e81357701"
+    ],
+    "twitter": "WildCrypto",
+    "github_org": "WildCryptoICO"
+}

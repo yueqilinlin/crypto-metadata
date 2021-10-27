@@ -1,0 +1,26 @@
+{
+    "id": "bepro-network",
+    "symbol": "bepro",
+    "name": "BEPRO Network",
+    "platforms": {
+        "ethereum": "0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gambling",
+        "Entertainment"
+    ],
+    "description": {
+        "en": "BEPRO Network is a codebase code-as-a-service Protocol for DeFi, Gaming, Prediction Markets & More."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a",
+    "url": "https://bepro.network",
+    "explorers": [
+        "https://etherscan.io/token/0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a",
+        "https://ethplorer.io/address/0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a"
+    ],
+    "twitter": "bepronet",
+    "telegram": "betprotocol"
+}

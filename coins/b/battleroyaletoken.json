@@ -1,0 +1,23 @@
+{
+    "id": "battleroyaletoken",
+    "symbol": "brtk",
+    "name": "BattleRoyaleToken",
+    "platforms": {
+        "binance-smart-chain": "0xc9574679a89f9893e9b1e288ce6aad1c7be60624"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BattleRoyaleToken aims to offer permission-less Esports Tournaments - a platform ecosystem with tools to enhance the way gamers earn online. BRToken aims to promote a fair playing field and inclusivity at a global scale for all gamers.\r\n\r\n$BRTK ,which is the underlying utility token can be used to interact with all our Dapps(Distributed Applications). End users are able to utilize $BRTK to participate in gaming tournaments, tip their favourite gamer and Purchase or mint NFTs.\r\n\r\nOur vision is to create a stable economy that rewards the participant first, create excitement for the everyday gamer , while educating them on the technology they're interacting with in order to establish a high retention rate.\r\n\r\nOther use cases for BRToken is our Staking & AMM Dapp.By locking in any amount of $BRTK for a period of time users are rewarded with more tokens(minting) while supporting the growth of the project. $BRTK can be paired with other tokens in exchange for Liquidity Provider Tokens (LP) which can be staked in both the staking and AMM Dapp."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc9574679a89f9893e9b1e288ce6aad1c7be60624",
+    "url": "https://brtoken.org",
+    "explorers": [
+        "https://bscscan.com/token/0xc9574679a89f9893e9b1e288ce6aad1c7be60624"
+    ],
+    "twitter": "officialbrtoken",
+    "telegram": "battleroyaletoken",
+    "github_org": "brtoken"
+}

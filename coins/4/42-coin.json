@@ -1,0 +1,22 @@
+{
+    "id": "42-coin",
+    "symbol": "42",
+    "name": "42-coin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "42 coin is the meaning of life and cryptocurrency, only 42 coins highest priced coin ever 42 seconds block time "
+    },
+    "country_origin": "",
+    "genesis_date": "2016-11-12",
+    "url": "https://42-coin.org/",
+    "explorers": [
+        "https://chainz.cryptoid.info/42/"
+    ],
+    "twitter": "42newchain",
+    "facebook": "42coin",
+    "github_org": "42-coin"
+}

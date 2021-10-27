@@ -1,0 +1,24 @@
+{
+    "id": "alphadex",
+    "symbol": "dex",
+    "name": "AlphaDex",
+    "platforms": {
+        "ethereum": "0x3516415161c478df10adbb8bb884cc83fbd5f11a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AlphaDEX is a DEX and part of the Kitten.Finance ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3516415161c478df10adbb8bb884cc83fbd5f11a",
+    "url": "https://www.kitten.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x3516415161c478df10adbb8bb884cc83fbd5f11a",
+        "https://ethplorer.io/address/0x3516415161c478df10adbb8bb884cc83fbd5f11a"
+    ],
+    "twitter": "KittenFinance",
+    "telegram": "kitten_finance_group",
+    "github_org": "zfinanceapp"
+}

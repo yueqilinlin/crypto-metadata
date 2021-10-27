@@ -1,0 +1,32 @@
+{
+    "id": "banano",
+    "symbol": "ban",
+    "name": "Banano",
+    "platforms": {
+        "polygon-pos": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034",
+        "binance-smart-chain": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034"
+    },
+    "hashing_algorithm": "Blake2b",
+    "categories": [
+        "Meme Tokens",
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "BANANO was forked in April 2018 from NANO. BANANO offers instant, feeless and rich in potassium \ud83c\udf4c transactions, thanks to the fact that BANANO developers (several of them having being involved in NANO itself) have kept big portions of the original code unchanged to keep cross-chain compatibility between existing code libraries. However, they have fined-tuned some parameters, such as Proof of Work requirements and currency units. While the focus for now is on having an ongoing free and fair distribution, BANANO is also experimenting with feature additions such as a privacy layer (Camo BANANO), on-chain messaging (MonkeyTalks) and more.\r\n\r\nIn context of distribution, we aim to use our meanwhile ready-to-strike infrastructure with easy-to-use mobile wallets (Kalium) and tipbots on several major social media platforms to onboard normies and crypto-noobs who have no idea yet what a cryptocurrency is. We also might do IRL airdrops at some point. Of note, key here is to make the start with crypto as easy as possible, use a fun attitude and gamification to get new users started without all the usual hassle, and then educate them to handle crypto in general in a responsible way."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034",
+    "url": "https://banano.cc",
+    "explorers": [
+        "https://creeper.banano.cc/",
+        "https://vault.banano.cc/",
+        "https://polygonscan.com/token/0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034",
+        "https://bscscan.com/token/0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034"
+    ],
+    "twitter": "bananocoin",
+    "facebook": "bananocurrency",
+    "telegram": "banano_official",
+    "reddit": "banano/",
+    "github_org": "BananoCoin"
+}

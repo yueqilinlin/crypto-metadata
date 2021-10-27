@@ -1,0 +1,28 @@
+{
+    "id": "arcblock",
+    "symbol": "abt",
+    "name": "Arcblock",
+    "platforms": {
+        "ethereum": "0xb98d4c97425d9908e66e53a6fdf673acca0be986"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "The ArcBlock project was created to create the first Blockchain ecosystem in the world. Develop and develop decentralized applications (DApp) according to objectives. ArcBlock, one of the ICO projects emerging in early 2018. Just launched on 3/1/2018, ArcBlock has quickly attracted the attention of technology as well as investors. ArcBlock brings great technological advancements that will open the third generation of blockchain applications.\r\n\r\nArcblock work by bridging the gap between different blockchains and their respective ecosystems has not been easy. There are some solutions which attempt to solve this problem, but it is evident there is plenty of room for competition in this regard. Building an open chain access layer capable of spanning multiple new and existing blockchains is a very interesting business model.\r\n\r\nBuilding a new ecosystem meant to connect various chains will not be easy. As of right now, the team has completed its token sale, and the first public release candidate for the Open Chain Access Protocol will be released in Q3. Early 2019 will herald the introduction of more technical features and an Ethereum Blocklet prototype."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0xb98d4c97425d9908e66e53a6fdf673acca0be986",
+    "url": "https://www.arcblock.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xb98d4c97425d9908e66e53a6fdf673acca0be986",
+        "https://ethplorer.io/address/0xb98d4c97425d9908e66e53a6fdf673acca0be986"
+    ],
+    "twitter": "ArcBlock_io",
+    "facebook": "arcblock.io",
+    "telegram": "ArcBlock",
+    "reddit": "arcblock/",
+    "github_org": "ArcBlock"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "polyyork",
+    "symbol": "york",
+    "name": "PolyYork",
+    "platforms": {
+        "polygon-pos": "0x21de43d96cfddd203da3352545e0054534776652"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Poly York is a new Yield farming platform on the Matic Network. "
+    },
+    "country_origin": "AT",
+    "genesis_date": null,
+    "contract_address": "0x21de43d96cfddd203da3352545e0054534776652",
+    "url": "https://polyyork.farm/",
+    "explorers": [
+        "https://polygonscan.com/token/0x21de43d96cfddd203da3352545e0054534776652"
+    ],
+    "twitter": "polyyork",
+    "telegram": "polyyork_finance",
+    "reddit": "polyyork/",
+    "github_org": "PolyYork-Finance"
+}

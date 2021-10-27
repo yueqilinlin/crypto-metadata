@@ -1,0 +1,19 @@
+{
+    "id": "diminutive-coin",
+    "symbol": "dimi",
+    "name": "Diminutive Coin",
+    "platforms": {},
+    "hashing_algorithm": "HMQ1725",
+    "categories": [],
+    "description": {
+        "en": "A Hybrid POW-POS Blockchain for Peer-to-Peer Digital Payments"
+    },
+    "country_origin": "QU",
+    "genesis_date": null,
+    "url": "https://diminutivecoin.com/",
+    "explorers": [
+        "https://explorer.diminutivecoin.com/"
+    ],
+    "twitter": "coin_dimi",
+    "github_org": "MadCatMining"
+}

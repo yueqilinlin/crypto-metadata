@@ -1,0 +1,26 @@
+{
+    "id": "witchain",
+    "symbol": "wit",
+    "name": "WITChain",
+    "platforms": {
+        "ethereum": "0xe13ef257cf4d5df928ca11d230427c037666d466"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "WIT is committed to providing application services in the blockchain industry, serving professionally investors and startup companies. We help investors expand new investment channels and increase the value of their assets. Also, we assist startup companies with commercial applications in block chain industry, solving the problems concerning financing, liquidation and circulation for small and medium-sized enterprises."
+    },
+    "country_origin": "SG",
+    "genesis_date": "2018-01-13",
+    "contract_address": "0xe13ef257cf4d5df928ca11d230427c037666d466",
+    "url": "http://www.witchain.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xe13ef257cf4d5df928ca11d230427c037666d466",
+        "https://ethplorer.io/address/0xe13ef257cf4d5df928ca11d230427c037666d466"
+    ],
+    "twitter": "witchaindev",
+    "telegram": "witchain",
+    "github_org": "witchaindev"
+}

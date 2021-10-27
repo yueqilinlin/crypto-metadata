@@ -1,0 +1,24 @@
+{
+    "id": "crave",
+    "symbol": "crave",
+    "name": "Crave",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Cryptocurrency",
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Crave is a Proof-of-Stake cryptocurrency that is based off a fork of <a href=\"https://www.coingecko.com/en/coins/blackcoin\">Blackcoin</a>. There is zero premine. The Proof-of-Work stage, which uses the scrypt hashing algorithm has now ended, creating an initial supply of 520,000 CRAVE. During the first year of circulation, the coin supply will double. This will be followed by an increase of 50%, 25% and so on for each year. The inflation is needed to open new market on the blockchain (require 10,000 CRAVE), operating a masternode (require 500 CRAVE) and converting CRAVE to BLUR at a rate of 1 CRAVE to 5 BLUR. Blur will be the currency of the anonymous market. "
+    },
+    "country_origin": "",
+    "genesis_date": "2015-03-20",
+    "url": "https://crave.cc",
+    "explorers": [
+        " https://explorersite.cc/"
+    ],
+    "twitter": "crave_project",
+    "telegram": "craveproject",
+    "reddit": "craveproject/",
+    "github_org": "Crave-Community-Project"
+}

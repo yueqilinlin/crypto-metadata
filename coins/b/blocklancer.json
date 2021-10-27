@@ -1,0 +1,27 @@
+{
+    "id": "blocklancer",
+    "symbol": "lnc",
+    "name": "Blocklancer",
+    "platforms": {
+        "ethereum": "0x63e634330a20150dbb61b15648bc73855d6ccf07"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Blocklancer is a so called Distributed Autonomous Job Market (DAJ) on the Ethereum platform, our vision of a completely self-regulatory platform for finding jobs and getting projects done. It will change the way freelancing works, both for customers and freelancers, and it will lift the reliability of freelancing to new heights.\r\n\r\n"
+    },
+    "country_origin": "AT",
+    "genesis_date": null,
+    "contract_address": "0x63e634330a20150dbb61b15648bc73855d6ccf07",
+    "url": "https://blocklancer.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x63e634330a20150dbb61b15648bc73855d6ccf07",
+        "https://ethplorer.io/address/0x63e634330a20150dbb61b15648bc73855d6ccf07"
+    ],
+    "twitter": "blocklancer",
+    "facebook": "blocklancer",
+    "telegram": "officialblocklancer",
+    "github_org": "BlocklancerOrg"
+}

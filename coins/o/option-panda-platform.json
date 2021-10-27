@@ -1,0 +1,24 @@
+{
+    "id": "option-panda-platform",
+    "symbol": "opa",
+    "name": "Option Panda Platform",
+    "platforms": {
+        "binance-smart-chain": "0xa2f89a3be1bada5eb9d58d23edc2e2fe0f82f4b0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Option Panda is a decentralized options underwriting & trading exchange built on Binance Smart Chain. Option Panda provides a convenient way for professional cryptocurrency players to underwrite and trade options. OPA is the platform token of Option Panda, it works as incentives for option underwriters, traders, as well as OPA LP providers. You could earn OPA if you adopt Option Panda as your platform for trading options. \r\n\r\nOption Panda is a decentralized, scalable, convenient, transparent, fair, community-driven platform. Option buyers simply buy a call/put option on the platform, waiting for its settlement for prospective profit; option sellers simply deposit underlying asset to a pool to participate in a pooled option underwriting, collecting premiums paid by option buyers as underwriting revenue."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa2f89a3be1bada5eb9d58d23edc2e2fe0f82f4b0",
+    "url": "https://opanda.io",
+    "explorers": [
+        "https://bscscan.com/address/0xa2f89a3be1bada5eb9d58d23edc2e2fe0f82f4b0",
+        "https://bscscan.com/token/0xa2f89a3be1bada5eb9d58d23edc2e2fe0f82f4b0"
+    ],
+    "twitter": "option_panda",
+    "telegram": "opandaofficial",
+    "github_org": "GiantPandaZoo"
+}

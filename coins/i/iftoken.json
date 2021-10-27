@@ -1,0 +1,24 @@
+{
+    "id": "iftoken",
+    "symbol": "ift",
+    "name": "IFToken",
+    "platforms": {
+        "ethereum": "0x2731d151cbdf84a8a4c6d9d0bae74012db51e428"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "IFT was issued by IoTFactor Team, hold IFT and you will get more rights and bonus from IF products. IoTFactor aim to connect you with infinite possibilities of blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2731d151cbdf84a8a4c6d9d0bae74012db51e428",
+    "url": "https://iftoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x2731d151cbdf84a8a4c6d9d0bae74012db51e428",
+        "https://ethplorer.io/address/0x2731d151cbdf84a8a4c6d9d0bae74012db51e428"
+    ],
+    "twitter": "ifwallet",
+    "telegram": "ifwallet",
+    "github_org": "IFWallet"
+}

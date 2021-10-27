@@ -1,0 +1,20 @@
+{
+    "id": "aitra",
+    "symbol": "aitra",
+    "name": "AITRA",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [],
+    "description": {
+        "en": "Aitra, short for AI Trading, is a masternode powered platform for automated cryptocurrency trading. It uses Artificial Intelligence and machine learning algorithms to determine the best possible buy or sell signals for a given asset."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://aitra.io/",
+    "explorers": [
+        "https://explorer.aitra.io/"
+    ],
+    "twitter": "AitraOfficial",
+    "telegram": "aitraofficial",
+    "github_org": "aitracoinofficial"
+}

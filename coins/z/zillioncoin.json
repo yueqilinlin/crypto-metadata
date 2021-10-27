@@ -1,0 +1,23 @@
+{
+    "id": "zillioncoin",
+    "symbol": "zln",
+    "name": "ZillionCoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "ZillionCoin is a PoW coin running on ZillionFLUX algo and supporting the ZillionGrid \"Decentralized Hybrid Blockchain Infrastructure\""
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "url": "http://www.zillioncoin.com",
+    "explorers": [
+        "https://chainz.cryptoid.info/zln/"
+    ],
+    "twitter": "zillioncoin",
+    "facebook": "zillioncoin",
+    "telegram": "zillioncoin",
+    "github_org": "zillioncoin"
+}

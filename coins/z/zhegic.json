@@ -1,0 +1,25 @@
+{
+    "id": "zhegic",
+    "symbol": "zhegic",
+    "name": "zHEGIC",
+    "platforms": {
+        "ethereum": "0x837010619aeb2ae24141605afc8f66577f6fb2e7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "zHEGIC is the tokenized share of the staking pool for Hegic's Staking Lots"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x837010619aeb2ae24141605afc8f66577f6fb2e7",
+    "url": "https://zlot.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x837010619aeb2AE24141605aFC8f66577f6fb2e7",
+        "https://ethplorer.io/address/0x837010619aeb2ae24141605afc8f66577f6fb2e7"
+    ],
+    "twitter": "zLOTFinance",
+    "github_org": "zhegic"
+}

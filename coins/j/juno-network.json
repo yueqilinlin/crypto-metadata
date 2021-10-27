@@ -1,0 +1,20 @@
+{
+    "id": "juno-network",
+    "symbol": "juno",
+    "name": "Juno Network",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://junochain.com/",
+    "explorers": [
+        "https://www.mintscan.io/juno"
+    ],
+    "twitter": "JunoNetwork",
+    "telegram": "JunoNetwork",
+    "github_org": "CosmosContracts"
+}

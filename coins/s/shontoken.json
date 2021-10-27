@@ -1,0 +1,23 @@
+{
+    "id": "shontoken",
+    "symbol": "shon",
+    "name": "ShonToken",
+    "platforms": {
+        "binance-smart-chain": "0x0b34d4a7c5bfc7004b9a193f8309523e99ca766e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shon token is the latest crypto-currency architecture that can be transacted through the Binance Smart Chain!"
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x0b34d4a7c5bfc7004b9a193f8309523e99ca766e",
+    "url": "http://shontoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x0b34d4a7c5bfc7004b9a193f8309523e99ca766e"
+    ],
+    "twitter": "ShonToken",
+    "telegram": "ShonTokenAnn",
+    "github_org": "ShonToken"
+}

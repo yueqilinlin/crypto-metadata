@@ -1,0 +1,23 @@
+{
+    "id": "hotdollars-token",
+    "symbol": "hds",
+    "name": "HotDollars Token",
+    "platforms": {
+        "ethereum": "0xcafe27178308351a12fffffdeb161d9d730da082"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HotDollars is not a single block chain project or a commercial application, but the integration of a block chain intelligent contract technology set and product set. HotDollars project covers non-centralized IZO intelligent contract fund-raising agreement, embedded non-centralized game open platform, game payment, block chain game product set, wallet. It is a brand-new block chain project business integration. HDS is the only value transfer Token flowing in the HotDollars project set."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcafe27178308351a12fffffdeb161d9d730da082",
+    "url": "https://hdsgo.io/html/web/index.html",
+    "explorers": [
+        "https://etherscan.io/token/0xcafe27178308351a12fffffdeb161d9d730da082",
+        "https://ethplorer.io/address/0xcafe27178308351a12fffffdeb161d9d730da082"
+    ],
+    "twitter": "hds_official_",
+    "telegram": "hdsofficial"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "soda-token",
+    "symbol": "soda",
+    "name": "Soda Token",
+    "platforms": {
+        "ethereum": "0x7afb39837fd244a651e4f0c5660b4037214d4adf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Soda is a yield farming liquidity protocol. Borrow and invest with higher leverage via our unique and awesome SoETH token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7afb39837fd244a651e4f0c5660b4037214d4adf",
+    "url": "https://soda.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x7AfB39837Fd244A651e4F0C5660B4037214D4aDF",
+        "https://ethplorer.io/address/0x7afb39837fd244a651e4f0c5660b4037214d4adf"
+    ],
+    "twitter": "soda_finance",
+    "github_org": "soda-finance"
+}

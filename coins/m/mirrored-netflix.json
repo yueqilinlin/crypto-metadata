@@ -1,0 +1,29 @@
+{
+    "id": "mirrored-netflix",
+    "symbol": "mnflx",
+    "name": "Mirrored Netflix",
+    "platforms": {
+        "ethereum": "0xc8d674114bac90148d11d3c1d33c61835a0f9dcd",
+        "binance-smart-chain": "0xa04f060077d90fe2647b61e4da4ad1f97d6649dc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Mirrored Assets"
+    ],
+    "description": {
+        "en": "Mirrored Netflix - synthetic asset tracking the price of a Netflix stock."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xc8d674114bac90148d11d3c1d33c61835a0f9dcd",
+    "url": "https://mirror.finance",
+    "explorers": [
+        "https://finder.terra.money/columbus-4/token/terra1jsxngqasf2zynj5kyh0tgq9mj3zksa5gk35j4k",
+        "https://etherscan.io/token/0xC8d674114bac90148d11D3C1d33C61835a0F9DCD",
+        "https://ethplorer.io/address/0xc8d674114bac90148d11d3c1d33c61835a0f9dcd",
+        "https://bscscan.com/token/0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc"
+    ],
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol",
+    "github_org": "mirror-protocol"
+}

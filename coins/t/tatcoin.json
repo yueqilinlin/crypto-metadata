@@ -1,0 +1,27 @@
+{
+    "id": "tatcoin",
+    "symbol": "tat",
+    "name": "Tatcoin",
+    "platforms": {
+        "ethereum": "0x37ee79e0b44866876de2fb7f416d0443dd5ae481",
+        "binance-smart-chain": "0x4df1e1164fcf7bf4c70861543a672994dc574c30"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The utility token that powers the ABiT Network with value, equality, smart, free and fair economy, creating abundance for the ABiT ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x37ee79e0b44866876de2fb7f416d0443dd5ae481",
+    "url": "https://www.abitnetwork.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x37Ee79E0B44866876de2fB7F416d0443DD5ae481",
+        "https://ethplorer.io/address/0x37Ee79E0B44866876de2fB7F416d0443DD5ae481",
+        "https://bscscan.com/token/0x290c665656a67e0ea0784f90ecbaeff77c884217"
+    ],
+    "twitter": "tatcoin",
+    "facebook": "tatcointoken",
+    "telegram": "abitnetwork",
+    "github_org": "abitnetwork"
+}

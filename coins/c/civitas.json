@@ -1,0 +1,21 @@
+{
+    "id": "civitas",
+    "symbol": "civ",
+    "name": "Civitas",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "CIVITAS IS SECURE\r\nWritten using the Quark hashing algorithm, Civitas incorporates 9 rounds of hashing from 6 unique functions. Multiple layers of hashing virtually eliminate the possibility of new technology compromising the network in the future.\r\n\r\nTRANSPARENT\r\nCivitas was created for the crypto space with full transparency from it\u2019s inception. Our development and marketing team are well known and trusted in the crypto community.\r\n\r\nREDEEMABLE\r\nCivitas is a peer-to-peer digital currency that can be used for payments and transactions from anywhere, to anyone in the world. As the project moves forward, Civitas will be building an exchange as well as being added to several exchanges in the future.\r\n\r\nLOW COST\r\nCivitas employs zerocoin (zCiv) technology that only charges fees for incoming transactions, sending zCiv is completely free of charge."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-01-10",
+    "url": "https://civitascoin.com/",
+    "explorers": [
+        "https://chainz.cryptoid.info/civ/"
+    ],
+    "twitter": "CivitasCoin",
+    "github_org": "eastcoastcrypto"
+}

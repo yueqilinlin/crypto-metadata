@@ -1,0 +1,23 @@
+{
+    "id": "foxgirl",
+    "symbol": "foxgirl",
+    "name": "FoxGirl",
+    "platforms": {
+        "binance-smart-chain": "0x8aae380fc7f085070c4bb05b9481f972cb460578"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8aae380fc7f085070c4bb05b9481f972cb460578",
+    "url": "https://foxgirl.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8aae380fc7f085070c4bb05b9481f972cb460578"
+    ],
+    "twitter": "FoxGirlToken",
+    "telegram": "foxgirltoken",
+    "reddit": "FoxGirl/"
+}

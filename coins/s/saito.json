@@ -1,0 +1,27 @@
+{
+    "id": "saito",
+    "symbol": "saito",
+    "name": "Saito",
+    "platforms": {
+        "ethereum": "0xfa14fa6958401314851a17d6c5360ca29f74b57b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gaming",
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "Saito is a Web3 Foundation grant recipient that runs blockchain applications directly in your browser. The network pays ISPs instead of miners or stakers, allowing Web3 projects to self-fund infrastructure instead of passing costs to predatory monopolies like Infura."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfa14fa6958401314851a17d6c5360ca29f74b57b",
+    "url": "https://saito.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xFa14Fa6958401314851A17d6C5360cA29f74B57B",
+        "https://ethplorer.io/address/0xFa14Fa6958401314851A17d6C5360cA29f74B57B"
+    ],
+    "twitter": "SaitoOfficial",
+    "telegram": "SaitoIO",
+    "github_org": "saitotech"
+}

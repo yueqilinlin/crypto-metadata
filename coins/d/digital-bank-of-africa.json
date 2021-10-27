@@ -1,0 +1,22 @@
+{
+    "id": "digital-bank-of-africa",
+    "symbol": "dba",
+    "name": "Digital Bank of Africa",
+    "platforms": {
+        "binance-smart-chain": "0x1006ea3289b833b6720aaa82746990ec77de8c36"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DafriBank Digital LTD is a fully-fledged bank duly licensed and regulated by the Central Bank of Comoros Island and a member of Mwali International Monetary Service Authority of Comoros Island.  DafriBank became the first bank in Africa to openly support crypto technology by issuing its market share through DBA crypto currency. The bank recently backed a start-up crypto asset solution DafriXchange Pro."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1006ea3289b833b6720aaa82746990ec77de8c36",
+    "url": "https://www.dafribank.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x1006ea3289b833b6720aaa82746990ec77de8c36"
+    ],
+    "twitter": "DafriBank",
+    "github_org": "NimbleAppGenie-development"
+}

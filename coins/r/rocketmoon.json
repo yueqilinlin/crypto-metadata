@@ -1,0 +1,22 @@
+{
+    "id": "rocketmoon",
+    "symbol": "rmoon",
+    "name": "RocketMoon",
+    "platforms": {
+        "binance-smart-chain": "0x78bc22a215c1ef8a2e41fa1c39cd7bdc09bd5174"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RocketMoon is an auto-generating autonomous yield and deflationary static farming model."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x78bc22a215c1ef8a2e41fa1c39cd7bdc09bd5174",
+    "url": "https://www.rocketmoon.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x78bc22a215c1ef8a2e41fa1c39cd7bdc09bd5174"
+    ],
+    "twitter": "BSCRocketMoon",
+    "telegram": "BSCRocketmoonDiscusssion"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sergs",
+    "symbol": "sergs",
+    "name": "SERGS",
+    "platforms": {
+        "ethereum": "0x79ba92dda26fce15e1e9af47d5cfdfd2a093e000"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "SERGS is an erc20 token that is a part of the SSL ecosystem. SERGS will be used to mint NFTs and a 2.5 % fee is collected on SERGS transactions which is rewarded to SSL holders "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x79ba92dda26fce15e1e9af47d5cfdfd2a093e000",
+    "url": "https://app.sergs.link",
+    "explorers": [
+        "https://etherscan.io/token/0x79BA92DDA26FcE15e1e9af47D5cFdFD2A093E000",
+        "https://ethplorer.io/address/0x79ba92dda26fce15e1e9af47d5cfdfd2a093e000"
+    ],
+    "twitter": "SERGSNFT",
+    "telegram": "sergsfam"
+}

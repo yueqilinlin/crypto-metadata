@@ -1,0 +1,20 @@
+{
+    "id": "santrast",
+    "symbol": "snrw",
+    "name": "Santrast",
+    "platforms": {
+        "avalanche": "0xe677bdc4f5ac7ef7701f4199f25abad34d41fd7f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SNRW is part of the SANTRAST project, it is a variable-value asset, interacts with the SNR contract and the PANGOLIN DEX protocol, is designed to hedge investors' positions, increases liquidity by recalculating cross-rates, preventing a decrease in liquidity during market downturns and increasing it during rises. It has an ultra-high yield. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe677bdc4f5ac7ef7701f4199f25abad34d41fd7f",
+    "url": "https://santrast.org/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/token/0xe677bdc4f5AC7EF7701F4199f25aBAD34d41fd7F/token-transfers"
+    ]
+}

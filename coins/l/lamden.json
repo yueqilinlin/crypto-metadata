@@ -1,0 +1,30 @@
+{
+    "id": "lamden",
+    "symbol": "tau",
+    "name": "Lamden",
+    "platforms": {
+        "binance-smart-chain": "0xdfa3b0019ecf48c753b58908b5a21d11641ba56f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Lamden is a suite of developer tools aimed at increasing mass adoption of blockchain technology with an agnostic cryptocurrency that ties all projects made with the tools together."
+    },
+    "country_origin": "CH",
+    "genesis_date": "2017-11-13",
+    "contract_address": "0xdfa3b0019ecf48c753b58908b5a21d11641ba56f",
+    "url": "https://lamden.io",
+    "explorers": [
+        "https://mainnet.lamden.io",
+        "https://testnet.lamden.io",
+        "https://bscscan.com/token/0xdfa3b0019ecf48c753b58908b5a21d11641ba56f"
+    ],
+    "twitter": "LamdenTau",
+    "facebook": "LamdenTau",
+    "telegram": "lamdenchat",
+    "reddit": "lamden",
+    "github_org": "Lamden"
+}

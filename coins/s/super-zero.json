@@ -1,0 +1,26 @@
+{
+    "id": "super-zero",
+    "symbol": "sero",
+    "name": "SERO",
+    "platforms": {},
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Protocol",
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "Super Zero is the world's first privacy protection platform for decentralised applications based on Zero Knowledge Proof that also supports Turing smart contracts. "
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "url": "https://sero.cash/",
+    "explorers": [
+        "https://explorer.web.sero.cash/",
+        " https://explorer.sero.cash/"
+    ],
+    "twitter": "SEROdotCASH",
+    "facebook": "SEROProtocol",
+    "telegram": "SeroOfficial",
+    "reddit": "SERO_Official/",
+    "github_org": "sero-cash"
+}

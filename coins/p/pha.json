@@ -1,0 +1,26 @@
+{
+    "id": "pha",
+    "symbol": "pha",
+    "name": "Phala Network",
+    "platforms": {
+        "ethereum": "0x6c5ba91642f10282b576d91922ae6448c9d52f4e",
+        "sora": "0x0033271716eec64234a5324506c4558de27b7c23c42f3e3b74801f98bdfeebf7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6c5ba91642f10282b576d91922ae6448c9d52f4e",
+    "url": "https://phala.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x6c5bA91642F10282b576d91922Ae6448C9d52f4E",
+        "https://ethplorer.io/address/0x6c5bA91642F10282b576d91922Ae6448C9d52f4E"
+    ],
+    "twitter": "PhalaNetwork",
+    "telegram": "phalanetwork"
+}

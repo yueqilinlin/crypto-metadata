@@ -1,0 +1,22 @@
+{
+    "id": "venus-xvs",
+    "symbol": "vxvs",
+    "name": "Venus XVS",
+    "platforms": {
+        "binance-smart-chain": "0x151b1e2635a717bcdc836ecd6fbb62b674fe3e1d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Venus is an algorithmic money market and synthetic stablecoin decentralized finance protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x151b1e2635a717bcdc836ecd6fbb62b674fe3e1d",
+    "url": "https://venus.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x151B1e2635A717bcDc836ECd6FbB62B674FE3E1D"
+    ],
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+}

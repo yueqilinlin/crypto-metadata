@@ -1,0 +1,30 @@
+{
+    "id": "dinox",
+    "symbol": "dnxc",
+    "name": "DinoX",
+    "platforms": {
+        "ethereum": "0x20a8cec5fffea65be7122bcab2ffe32ed4ebf03a",
+        "binance-smart-chain": "0x3c1748d647e6a56b37b66fcd2b5626d0461d3aa0",
+        "polygon-pos": "0xcaf5191fc480f43e4df80106c7695eca56e48b18"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "DinoX is a combat and strategy game in a sandbox environment. A beloved gameplay genre blended with a fan-favorite theme of dinosaurs.\r\nPlayers build dino kingdoms, rally resources to expand, build combative skills to occupy others, and due to the benefits of the metaverse, retain true ownership of the game."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x20a8cec5fffea65be7122bcab2ffe32ed4ebf03a",
+    "url": "https://dinox.io",
+    "explorers": [
+        "https://etherscan.io/token/0x20a8cec5fffea65be7122bcab2ffe32ed4ebf03a",
+        "https://ethplorer.io/address/0x20a8cec5fffea65be7122bcab2ffe32ed4ebf03a",
+        "https://bscscan.com/token/0x3c1748d647e6a56b37b66fcd2b5626d0461d3aa0",
+        "https://polygonscan.com/token/0xcaf5191fc480f43e4df80106c7695eca56e48b18"
+    ],
+    "twitter": "dinoxproject",
+    "telegram": "dinoxproject"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "99masternodes",
+    "symbol": "nmn",
+    "name": "99Masternodes",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [
+        "Media"
+    ],
+    "description": {
+        "en": "This project is dedicated to marketing and promotion with regard to masternode coins.\r\nOur goal is to provide high quality services, help promising coins that lack promotion and by raising the quality standards - reduce the amount of garbage-style marketing in the altcoin world."
+    },
+    "country_origin": "NZ",
+    "genesis_date": null,
+    "url": "https://99masternodes.com/",
+    "explorers": [
+        "http://explorer.99masternodes.com"
+    ],
+    "twitter": "99masternodes",
+    "github_org": "99Masternodes"
+}

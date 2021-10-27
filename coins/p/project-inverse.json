@@ -1,0 +1,28 @@
+{
+    "id": "project-inverse",
+    "symbol": "xiv",
+    "name": "Project Inverse",
+    "platforms": {
+        "ethereum": "0x44f262622248027f8e2a8fb1090c4cf85072392c",
+        "binance-smart-chain": "0x00518f36d2e0e514e8eb94d34124fc18ee756f10",
+        "polygon-pos": "0xde799636af0d8d65a17aaa83b66cbbe9b185eb01"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Inverse is a counter volatility defi protocol, that allows users to earn XIV on the negative movements of select defi assets."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x44f262622248027f8e2a8fb1090c4cf85072392c",
+    "url": "https://projectinverse.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x44f262622248027f8e2a8fb1090c4cf85072392c",
+        "https://ethplorer.io/address/0x44f262622248027f8e2a8fb1090c4cf85072392c",
+        "https://bscscan.com/token/0x00518f36d2e0e514e8eb94d34124fc18ee756f10",
+        "https://polygonscan.com/token/0xde799636aF0d8D65a17AAa83b66cBBE9B185EB01"
+    ],
+    "twitter": "inverseproject",
+    "telegram": "ProjectInverse",
+    "github_org": "Project-Inverse"
+}

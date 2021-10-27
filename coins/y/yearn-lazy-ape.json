@@ -1,0 +1,26 @@
+{
+    "id": "yearn-lazy-ape",
+    "symbol": "YLA",
+    "name": "Yearn Lazy Ape",
+    "platforms": {
+        "ethereum": "0x9ba60ba98413a60db4c651d4afe5c937bbd8044b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "DeFi Index"
+    ],
+    "description": {
+        "en": "Yearn Lazy Ape is a cash-flow generating structured investment product composed of five Yearn stablecoin Vaults LP tokens. The closest product analogy from traditional finance is \u201cfund of funds\u201d.\r\n\r\nEach Vault LP token accumulates interest over time in stablecoins, currently yielding around 15%-30% APY for $YLA holders. The exact performance depends on performance of Yearn vaults and rebalancing strategy. \r\n\r\n$YLA is market-neutral product allowing to generate profits regardless market conditions and volatility. Note, that $YLA price can only grow. You can find the accurate price at powerindex.io"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9ba60ba98413a60db4c651d4afe5c937bbd8044b",
+    "url": "https://powerindex.io/#/",
+    "explorers": [
+        "https://etherscan.io/token/0x9ba60ba98413a60db4c651d4afe5c937bbd8044b",
+        "https://ethplorer.io/address/0x9ba60ba98413a60db4c651d4afe5c937bbd8044b"
+    ],
+    "twitter": "powerpoolcvp",
+    "telegram": "powerpoolcvp"
+}

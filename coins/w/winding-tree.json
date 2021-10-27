@@ -1,0 +1,28 @@
+{
+    "id": "winding-tree",
+    "symbol": "lif",
+    "name": "Lif",
+    "platforms": {
+        "ethereum": "0x9c38688e5acb9ed6049c8502650db5ac8ef96465"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Tourism"
+    ],
+    "description": {
+        "en": "Winding Tree is a blockchain-based decentralized open-source travel distribution platform. We make travel cheaper for the end user, while making it more profitable for suppliers.\r\n\r\n"
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x9c38688e5acb9ed6049c8502650db5ac8ef96465",
+    "url": "https://windingtree.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x9C38688E5ACB9eD6049c8502650db5Ac8Ef96465",
+        "https://ethplorer.io/address/0x9c38688e5acb9ed6049c8502650db5ac8ef96465"
+    ],
+    "twitter": "windingtree",
+    "facebook": "WindingTree",
+    "telegram": "windingtree",
+    "reddit": "windingtree/",
+    "github_org": "windingtree"
+}

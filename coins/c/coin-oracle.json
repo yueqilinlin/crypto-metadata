@@ -1,0 +1,26 @@
+{
+    "id": "coin-oracle",
+    "symbol": "ora",
+    "name": "Coin Oracle",
+    "platforms": {
+        "binance-smart-chain": "0x3242bc862d11155f17ea4b8d0250185fc2c5cf21"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Coin Oracle allows individuals, groups, and businesses to exchange ideas for other assets on a secure and decentralized blockchain platform.\r\n\r\nIn recent years, non-fungible tokens (NTFs) have become an increasingly popular manner of buying and selling digital artworks; however, digital art is only a fraction of the potential applications that NTFs bring to this new world. \r\n\r\nOur platform, we argue, will be the blockchain implementation that fully focuses on the specific needs of people with potentially big ideas."
+    },
+    "country_origin": "RO",
+    "genesis_date": null,
+    "contract_address": "0x3242bc862d11155f17ea4b8d0250185fc2c5cf21",
+    "url": "https://www.coin-oracle.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x3242bc862d11155f17ea4b8d0250185fc2c5cf21"
+    ],
+    "twitter": "OracleToken",
+    "telegram": "Oracle_Token",
+    "github_org": "CoinOracle"
+}

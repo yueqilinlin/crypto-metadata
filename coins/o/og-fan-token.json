@@ -1,0 +1,25 @@
+{
+    "id": "og-fan-token",
+    "symbol": "og",
+    "name": "OG Fan Token",
+    "platforms": {
+        "chiliz": "0x7bcb8bb59298ba3aed51a6a0348187ba4ffd1c69"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fan Token",
+        "Entertainment"
+    ],
+    "description": {
+        "en": "Not only did OG win the first ever Dota 2 Valve major, they also were the first team to claim four of them. They\u2019re also currently the only team to ever be crowned World Dota 2 Champions twice.\r\n\r\nWilling to take a step further in becoming an esports powerhouse, we decided to create OG Seed, to help grow Dota 2 players, and welcomed an amazing CS:GO roster as well.\r\nWe may be skilled, but the true strength of OG is its people."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7bcb8bb59298ba3aed51a6a0348187ba4ffd1c69",
+    "url": "https://ogs.gg/",
+    "explorers": [
+        "https://explorer.chiliz.com/address/0x7bcb8bB59298ba3Aed51a6a0348187Ba4ffD1c69/transactions"
+    ],
+    "twitter": "OGesports",
+    "facebook": "OGDota2"
+}

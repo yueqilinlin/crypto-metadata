@@ -1,0 +1,22 @@
+{
+    "id": "generation-of-yield",
+    "symbol": "ygy",
+    "name": "Generation of Yield",
+    "platforms": {
+        "ethereum": "0x11b0a8c0fa626627601ed518c3538a39d92d609e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Main Governance and Access Token to Generation of Yield"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x11b0a8c0fa626627601ed518c3538a39d92d609e",
+    "url": "https://ygy.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x11b0a8c0fa626627601ed518c3538a39d92d609e",
+        "https://ethplorer.io/address/0x11b0a8c0fa626627601ed518c3538a39d92d609e"
+    ],
+    "twitter": "ygygenerator"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "alkimi",
+    "symbol": "$ads",
+    "name": "Alkimi",
+    "platforms": {
+        "ethereum": "0x3106a0a076bedae847652f42ef07fd58589e001f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Introducing Alkimi \u2013 A decentralised replacement to the inefficient legacy programmatic ad exchanges with the mission to restore the value exchange between advertisers, publishers and users.\r\n\r\nAlkimi is powered by the Hypergraph \u2013 a revolutionary blockchain technology \u2013 trusted by the U.S. Department of Defense \u2013 which allows us to provide the fastest, infinitely scalable solution with 0% fraud, minimal transaction fees and complete end to end transparency.\r\n\r\nAlkimi Exchange helps you create ad products, proven to be successful by walled gardens, across the open web."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3106a0a076bedae847652f42ef07fd58589e001f",
+    "url": "https://alkimiexchange.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3106a0a076BeDAE847652F42ef07FD58589E001f",
+        "https://ethplorer.io/address/0x3106a0a076BeDAE847652F42ef07FD58589E001f"
+    ],
+    "twitter": "AlkimiExchange",
+    "telegram": "Alkimi_Exchange",
+    "github_org": "alkimiexchange"
+}

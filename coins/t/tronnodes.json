@@ -1,0 +1,23 @@
+{
+    "id": "tronnodes",
+    "symbol": "trn",
+    "name": "TronNodes",
+    "platforms": {
+        "tron": "TJrJJdhxggsh1J8FmbYC2XB6ZVQazHKKdy"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We aim to build a under TRON network ecosystem that everyone can participate in  and  benefit from, with the TRON network along with its many advantages as the cornerstone of our effort.\r\n\r\nTronNodes is a decentralized TRC-20 token \u201cTRN\u201d designed to provide users with the ability to use without the interference of any third party or governing body, near-zero cost payments to anyone in the world. TronNodes is an open source, global payment network that is fully decentralized without any central authorities. Mathematics secures the network and empowers individuals to control their own finances. TronNodes features faster transaction confirmation times and improved storage efficiency than the leading math-based currency. With substantial industry support, trade volume and liquidity, TronNodes is a proven medium of commerce complementary to Bitcoin."
+    },
+    "country_origin": "MO",
+    "genesis_date": null,
+    "contract_address": "TJrJJdhxggsh1J8FmbYC2XB6ZVQazHKKdy",
+    "url": "https://tronnodes.com/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TJrJJdhxggsh1J8FmbYC2XB6ZVQazHKKdy"
+    ],
+    "twitter": "NodesTron",
+    "facebook": "tron.nodes.1",
+    "telegram": "TronNodesCommunity"
+}

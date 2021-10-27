@@ -1,0 +1,23 @@
+{
+    "id": "pengolincoin",
+    "symbol": "pgo",
+    "name": "PengolinCoin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "PengolinCoin (PGO) is a Proof of Stake (PoS), open source, decentralized blockchain-based cryptocurrency utilizing the zkSNARKS and Sapling privacy protocols for shielded transactions. PengolinCoin is focused on user privacy, achieving fast and inexpensive transactions, an active and involved community, and real-world utilization."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "url": "https://www.pengolincoin.xyz/",
+    "explorers": [
+        "https://blockexplorer.pengolincoin.xyz/"
+    ],
+    "twitter": "PengolinC",
+    "facebook": "PengolinCoin",
+    "telegram": "pengolincoin",
+    "github_org": "pengolincoin"
+}

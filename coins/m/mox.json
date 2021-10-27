@@ -1,0 +1,22 @@
+{
+    "id": "mox",
+    "symbol": "mox",
+    "name": "MoX",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Big Data"
+    ],
+    "description": {
+        "en": "MoX is a fork of the anonymous currency Monero.\r\nWe use only state of the art features and are going to help advance research and development in the CryptoNote ecosystem.\r\n\r\n#1 - Hardware Specialization Resistance\r\n\r\nWe want to make MoX the most resistant to specialized hardware mining (FPGA/ASICs) in the CryptoNote ecosystem.\r\nMonero made a huge step toward ASIC resistance, but we believe it won't suffice for smaller coins to have a real protection against FPGA. We're convinced people will start mining (or already started) with those.\r\nSince the ASICs went off the networks, they became worth investing into.\r\nWe'll protect from that by adding an extra layer of FPGA hard cryptography into the Proof of Work.\r\n\r\n#2 - Human Friendly Addresses\r\n\r\nFrom a User eXperience point of view, addresses are not very easy to read / remember. We want to bring a new type of addresses which would consist of mnemonics.\r\nWe believe this would drastically increase the overall user experience to not have to deal with unintelligible strings of numbers/letters\r\n\r\n#3 - Quantum Resistance\r\n\r\nThere's a future where quantum computers could completely destroy cryptocurrencies if nothing is previously done. Proof of Work in it's current state is trivially broken\r\nby quantum computing. The good thing is, we already know how to prevent this. Our goal is to implement these solutions into CryptoNote to provide an alternative for this future.\r\n\r\n"
+    },
+    "country_origin": "ZZ",
+    "genesis_date": "2018-07-23",
+    "url": "https://getmox.org/",
+    "explorers": [
+        "https://blockexplorer.getmox.org/"
+    ],
+    "twitter": "Project_MoX",
+    "telegram": "MoXproject",
+    "github_org": "mox-project"
+}

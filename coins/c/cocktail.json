@@ -1,0 +1,22 @@
+{
+    "id": "cocktail",
+    "symbol": "cocktail",
+    "name": "Cocktail",
+    "platforms": {
+        "binance-smart-chain": "0x10f292a6e694c38c5d570127da445143a2d882f3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$COCKTAIL will implement their unique system on launch. The BNB/BUSD rewards pool accumulates during purchases/sales and is based on volume. Holders will automatically receive BNB or BUSD directly to their wallet every 20-60 minutes (shorter time period on higher volume activity)."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x10f292a6e694c38c5d570127da445143a2d882f3",
+    "url": "https://cocktailbsc.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x10f292a6e694c38c5d570127da445143a2d882f3"
+    ],
+    "twitter": "BscCocktail",
+    "telegram": "CocktailLounge"
+}

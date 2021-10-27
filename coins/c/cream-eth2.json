@@ -1,0 +1,26 @@
+{
+    "id": "cream-eth2",
+    "symbol": "creth2",
+    "name": "Cream ETH 2",
+    "platforms": {
+        "ethereum": "0xcbc1065255cbc3ab41a6868c22d1f1c573ab89fd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Eth 2.0 Staking"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "TW",
+    "genesis_date": null,
+    "contract_address": "0xcbc1065255cbc3ab41a6868c22d1f1c573ab89fd",
+    "url": "https://cream.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xcbc1065255cbc3ab41a6868c22d1f1c573ab89fd",
+        "https://ethplorer.io/address/0xcbc1065255cbc3ab41a6868c22d1f1c573ab89fd"
+    ],
+    "twitter": "CreamdotFinance",
+    "telegram": "creamfinance",
+    "github_org": "CreamFi"
+}

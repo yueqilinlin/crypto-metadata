@@ -1,0 +1,23 @@
+{
+    "id": "payship",
+    "symbol": "pshp",
+    "name": "Payship",
+    "platforms": {
+        "ethereum": "0x88d59ba796fdf639ded3b5e720988d59fdb71eb8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x88d59ba796fdf639ded3b5e720988d59fdb71eb8",
+    "url": "https://payship.org",
+    "explorers": [
+        "https://etherscan.io/token/0x88D59Ba796fDf639dEd3b5E720988D59fDb71Eb8",
+        "https://ethplorer.io/address/0x88d59ba796fdf639ded3b5e720988d59fdb71eb8"
+    ],
+    "twitter": "payship_org",
+    "telegram": "payship"
+}

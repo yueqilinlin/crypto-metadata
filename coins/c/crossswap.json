@@ -1,0 +1,24 @@
+{
+    "id": "crossswap",
+    "symbol": "cswap",
+    "name": "CrossSwap",
+    "platforms": {
+        "binance-smart-chain": "0xe0b0c16038845bed3fcf70304d3e167df81ce225",
+        "ethereum": "0xe0b0c16038845bed3fcf70304d3e167df81ce225"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Solving the biggest issues hindering users and projects experience on current DEXs today.\r\nProjects can pre-add liquidity and schedule the launch time, allowing projects to review the data and make edits before going live. No more delays or incorrect launch variables.\r\nProject can set every wallet that requires tokens before launch day and schedule the release. The users can then claim after the scheduled adding of liquidity. No more delayed token distributions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe0b0c16038845bed3fcf70304d3e167df81ce225",
+    "url": "https://crossswap.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xe0b0c16038845bed3fcf70304d3e167df81ce225",
+        "https://etherscan.io/token/0xe0b0c16038845bed3fcf70304d3e167df81ce225"
+    ],
+    "twitter": "CrossSwapDex",
+    "telegram": "CrossSwapDex"
+}

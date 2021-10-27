@@ -1,0 +1,25 @@
+{
+    "id": "hash-token",
+    "symbol": "hash",
+    "name": "Hash Token",
+    "platforms": {
+        "binance-smart-chain": "0xeb1112ac78d537853150e2a07e8b765e29d3f019",
+        "ethereum": "0xeb1112ac78d537853150e2a07e8b765e29d3f019"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HASH is a utility BEP-20 and ERC-20 token and fuel of Hashbon FiRe crypto payment ecosystem powered by both DeFi and CeFi products. In August 2021, Hashbon introduces the Hashbon Rocket CDEX platform that enables cross-chain token swaps in a DeFi manner.\r\n\r\nHashbon\u2019s vision is to ease crypto payment processing among users and businesses and make crypto a smooth, transparent and everyday payment method. HASH token will fuel Hashbon payment ecosystem for growing and granting more convenient and frictionless opportunities to crypto enthusiasts."
+    },
+    "country_origin": "CZ",
+    "genesis_date": null,
+    "contract_address": "0xeb1112ac78d537853150e2a07e8b765e29d3f019",
+    "url": "https://rocket.hashbon.com",
+    "explorers": [
+        "https://bscscan.com/token/0xeb1112ac78d537853150e2a07e8b765e29d3f019",
+        "https://etherscan.io/token/0xeb1112ac78d537853150e2a07e8b765e29d3f019"
+    ],
+    "twitter": "hashbon",
+    "telegram": "hashbon_chat",
+    "reddit": "hashbon/"
+}

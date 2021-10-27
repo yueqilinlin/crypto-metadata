@@ -1,0 +1,25 @@
+{
+    "id": "polywhale",
+    "symbol": "krill",
+    "name": "Polywhale",
+    "platforms": {
+        "polygon-pos": "0x05089c9ebffa4f0aca269e32056b1b36b37ed71b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Polywhale is the first and largest decentralised yield farm on Matic. We are attempting to create a perpetually deflating token, KRILL. We are also helping to grow the matic ecosystem by bringing high and sustainable APR's on crypto assets. Our goal is to create a suitable and easy to navigate environment for people looking to yield farm."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x05089c9ebffa4f0aca269e32056b1b36b37ed71b",
+    "url": "https://polywhale.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x05089c9ebffa4f0aca269e32056b1b36b37ed71b"
+    ],
+    "twitter": "polywhalefi",
+    "telegram": "polywhalefi",
+    "github_org": "polywhalefarm"
+}

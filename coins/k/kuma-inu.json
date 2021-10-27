@@ -1,0 +1,27 @@
+{
+    "id": "kuma-inu",
+    "symbol": "kuma",
+    "name": "Kuma Inu",
+    "platforms": {
+        "ethereum": "0x48c276e8d03813224bb1e55f953adb6d02fd3e02"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "Decentralized Meme Tokens that grew into a vibrant ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x48c276e8d03813224bb1e55f953adb6d02fd3e02",
+    "url": "https://www.kumatoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x48c276e8d03813224bb1e55f953adb6d02fd3e02",
+        "https://ethplorer.io/address/0x48c276e8d03813224bb1e55f953adb6d02fd3e02"
+    ],
+    "twitter": "KumaInuOfficial",
+    "telegram": "KumaInuOfficial",
+    "reddit": "KumaInu/"
+}

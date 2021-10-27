@@ -1,0 +1,31 @@
+{
+    "id": "aurora-dao",
+    "symbol": "idex",
+    "name": "IDEX",
+    "platforms": {
+        "ethereum": "0xb705268213d593b8fd88d3fdeff93aff5cbdcfae",
+        "sora": "0x006cfd2fb06c15cd2c464d1830c0d247e32f36f34233a6a266d6581ea5677582"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Polygon Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "PA",
+    "genesis_date": "2018-01-18",
+    "contract_address": "0xb705268213d593b8fd88d3fdeff93aff5cbdcfae",
+    "url": "https://idex.market/",
+    "explorers": [
+        "https://etherscan.io/token/0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
+        "https://ethplorer.io/address/0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE"
+    ],
+    "twitter": "idexio",
+    "facebook": "AuroraDAO",
+    "reddit": "auroradao/",
+    "github_org": "idexio"
+}

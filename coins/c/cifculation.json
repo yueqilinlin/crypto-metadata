@@ -1,0 +1,21 @@
+{
+    "id": "cifculation",
+    "symbol": "clc",
+    "name": "Cifculation",
+    "platforms": {
+        "ethereum": "0x951301a2bbce3d357785ba1e13ec8f42322252b8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Using tendermint-dpos tendermint consensus, it is a kind of BFT algorithm based on the consensus, the tendermint consensus algorithm is different from the POW or POS mining, by the number of people have the right to vote their verification, turns out the block, and then verify each candidate block for people to vote, vote for more than 2/3, which can block completed and reach a final consensus that uncertainty, and will not be rolled back fork."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x951301a2bbce3d357785ba1e13ec8f42322252b8",
+    "url": "http://www.cifculation.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x951301a2bbce3d357785ba1e13ec8f42322252b8",
+        "https://ethplorer.io/address/0x951301a2bbce3d357785ba1e13ec8f42322252b8"
+    ]
+}

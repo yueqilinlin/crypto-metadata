@@ -1,0 +1,22 @@
+{
+    "id": "pharma-pay-coin",
+    "symbol": "prp",
+    "name": "Pharma Pay Coin",
+    "platforms": {
+        "ethereum": "0xa3d29c52bf09ef16f23317029a01c40363131827"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pharma pay coin , aims to change the world Medical life in to easier with the digital system , across crypto paying built in NFT\u2019s and Defi tokens."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0xa3d29c52bf09ef16f23317029a01c40363131827",
+    "url": "https://www.pharmapaycoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa3d29c52bf09ef16f23317029a01c40363131827",
+        "https://ethplorer.io/address/0xa3d29c52bf09ef16f23317029a01c40363131827"
+    ],
+    "twitter": "pharmapaycoin"
+}

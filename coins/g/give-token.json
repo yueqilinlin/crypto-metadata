@@ -1,0 +1,23 @@
+{
+    "id": "give-token",
+    "symbol": "give",
+    "name": "Give Token",
+    "platforms": {
+        "huobi-token": "0xfd6643b3959f4114f39efa2f4484703fafc47f00"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A charity-oriented token that is helping to fight mental illness across the world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfd6643b3959f4114f39efa2f4484703fafc47f00",
+    "url": "https://givetoken.co/",
+    "explorers": [
+        "https://hecoinfo.com/token/0xfD6643b3959F4114f39eFa2f4484703fAfc47f00"
+    ],
+    "twitter": "nutdefi",
+    "telegram": "nutmoney",
+    "github_org": "GiveTokenCo"
+}

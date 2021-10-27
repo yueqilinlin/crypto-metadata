@@ -1,0 +1,23 @@
+{
+    "id": "saitama-inu",
+    "symbol": "saitama",
+    "name": "Saitama Inu",
+    "platforms": {
+        "ethereum": "0x8b3192f5eebd8579568a2ed41e6feb402f93f73f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Saitama is a community managed, and promoted token with a percentage of every transaction redistributed between holders, and the burn wallet decreasing supply, and increasing holders tokens. "
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x8b3192f5eebd8579568a2ed41e6feb402f93f73f",
+    "url": "https://saitamatoken.com",
+    "explorers": [
+        "https://etherscan.io/token/0x8b3192f5eebd8579568a2ed41e6feb402f93f73f",
+        "https://ethplorer.io/address/0x8b3192f5eebd8579568a2ed41e6feb402f93f73f"
+    ],
+    "twitter": "inusaitama",
+    "telegram": "Saitama_Inu"
+}

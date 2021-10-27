@@ -1,0 +1,27 @@
+{
+    "id": "vulcan-forged",
+    "symbol": "pyr",
+    "name": "Vulcan Forged",
+    "platforms": {
+        "ethereum": "0x9534ad65fb398e27ac8f4251dae1780b989d136e",
+        "polygon-pos": "0x348e62131fce2f4e0d5ead3fe1719bc039b380a9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gaming"
+    ],
+    "description": {
+        "en": "Vulcan Forged is a non-fungible token (NFT) game studio, marketplace and dApp incubator with multiple games and an active community of users."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x9534ad65fb398e27ac8f4251dae1780b989d136e",
+    "url": "https://vulcanforged.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x9534ad65fb398e27ac8f4251dae1780b989d136e",
+        "https://ethplorer.io/address/0x9534ad65fb398e27ac8f4251dae1780b989d136e",
+        "https://polygonscan.com/token/0x9534ad65fb398e27ac8f4251dae1780b989d136e}"
+    ],
+    "twitter": "VulcanForged",
+    "telegram": "VeriArti"
+}

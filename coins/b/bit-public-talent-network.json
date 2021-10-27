@@ -1,0 +1,22 @@
+{
+    "id": "bit-public-talent-network",
+    "symbol": "bptn",
+    "name": "Bit Public Talent Network",
+    "platforms": {
+        "ethereum": "0x6c22b815904165f3599f0a4a092d458966bd8024"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BPTN (Bit Public Talent Network) chain is a globally distributed digital trade chain of public figure\u2019s credit asset."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6c22b815904165f3599f0a4a092d458966bd8024",
+    "url": "http://www.bptn.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x6c22b815904165f3599f0a4a092d458966bd8024",
+        "https://ethplorer.io/address/0x6c22b815904165f3599f0a4a092d458966bd8024"
+    ],
+    "telegram": "BitPublicTalentNetwork"
+}

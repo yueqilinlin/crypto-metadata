@@ -1,0 +1,26 @@
+{
+    "id": "siacashcoin",
+    "symbol": "scc",
+    "name": "SiaCashCoin",
+    "platforms": {
+        "ethereum": "0x74fd51a98a4a1ecbef8cc43be801cce630e260bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "The SiaCashCoin storage network is decentralised. SiaCashCoin will not require owned storage locations, or identifiable nodes, Also does not require it's own blockchain.\r\n\r\nIt plans to have SiaCashCoin accepted for payments at many large data storage companies! SiaCashCoin plans to revolutionize data storage payments internationally. Instead of searching for hours and spending too much SiaCashCoin makes it easy to find the ideal storage provider for the best price, You then easily compare all the storage providers that meet your criteria and find the storage provider that is ideal for you.Thats how you can be sure that you will find the best storage provider at the best price with SiaCashCoin."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x74fd51a98a4a1ecbef8cc43be801cce630e260bd",
+    "url": "https://www.siacashcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x74fd51a98a4a1ecbef8cc43be801cce630e260bd",
+        "https://ethplorer.io/address/0x74fd51a98a4a1ecbef8cc43be801cce630e260bd"
+    ],
+    "twitter": "Siacashcoin",
+    "telegram": "SiaCashCoinChat",
+    "github_org": "SiaCashCoin"
+}

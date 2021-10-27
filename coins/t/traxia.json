@@ -1,0 +1,28 @@
+{
+    "id": "traxia",
+    "symbol": "tmt",
+    "name": "Traxia",
+    "platforms": {
+        "ethereum": "0x3209f98bebf0149b769ce26d71f7aea8e435efea"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Other"
+    ],
+    "description": {
+        "en": "Traxia is a B2B trade finance platform that allows SMEs to access short-term funding by using their accounts receivables as collateral. Institutional investors can buy and trade this newly created tokenized debt securities on a global market. Why people like it: - First project invested by Cardano (through Emurgo investment arm) - Targets a global $43 trillion market - First use-case with Porche Design in China - Platform up and running (second version in April 2018)"
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x3209f98bebf0149b769ce26d71f7aea8e435efea",
+    "url": "https://www.traxia.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x3209f98bebf0149b769ce26d71f7aea8e435efea",
+        "https://ethplorer.io/address/0x3209f98bebf0149b769ce26d71f7aea8e435efea"
+    ],
+    "twitter": "traxianetwork",
+    "facebook": "TraxiaFoundation",
+    "telegram": "traxiafoundation",
+    "reddit": "traxia",
+    "github_org": "TeamTraxia"
+}

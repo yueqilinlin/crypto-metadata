@@ -1,0 +1,24 @@
+{
+    "id": "bubble-network",
+    "symbol": "bbl",
+    "name": "Bubble Network",
+    "platforms": {
+        "ethereum": "0xac00797df10e825589d8b53e715393be4e617459"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bubble Network Token is an ERC20 Defi protocol built on the Ethereum network which boasts a fast transaction speed and low fees. Bubble Network has the vision to create a blockchain based ecosystem which incorporates products and services related to cryptocurrency such as staking/farming with the potential to link with other crypto assets involved in NFT (Non-Fungible Tokens), trading, farming, Governance, staking, Bonds, funds & etc."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xac00797df10e825589d8b53e715393be4e617459",
+    "url": "https://bubbletoken.network",
+    "explorers": [
+        "https://etherscan.io/token/0xac00797df10e825589d8b53e715393be4e617459",
+        "https://ethplorer.io/address/0xac00797df10e825589d8b53e715393be4e617459"
+    ],
+    "twitter": "BubbleNetwork3",
+    "telegram": "BubbleNetworkChat",
+    "github_org": "Teambubbl"
+}

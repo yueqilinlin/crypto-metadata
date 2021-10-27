@@ -1,0 +1,26 @@
+{
+    "id": "safepal",
+    "symbol": "sfp",
+    "name": "SafePal",
+    "platforms": {
+        "binance-smart-chain": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Wallets",
+        "Polygon Ecosystem",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "SafePal is a cryptocurrency wallet that aims to provide a secure and user-friendly crypto management platform for the masses. SafePal provides hardware wallet and software wallet product lines, all paired and managed through the SafePal App, where users can easily store, manage, swap, trade, and grow their crypto wealth."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+    "url": "https://www.safepal.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb"
+    ],
+    "twitter": "iSafePal",
+    "telegram": "SafePalwallet"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "crosspad",
+    "symbol": "cross",
+    "name": "CrossPad",
+    "platforms": {
+        "binance-smart-chain": "0x5b6ef1f87d5cec1e8508ddb5de7e895869e7a4a3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CrossPad is the solution for multichain oriented projects, being the bridge to a new organic way of fundraising across the smart-contract-based blockchains."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5b6ef1f87d5cec1e8508ddb5de7e895869e7a4a3",
+    "url": "https://www.crosspad.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x5b6ef1f87d5cec1e8508ddb5de7e895869e7a4a3"
+    ],
+    "twitter": "crosspadfinance",
+    "telegram": "CrossPad"
+}

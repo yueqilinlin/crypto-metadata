@@ -1,0 +1,23 @@
+{
+    "id": "semitoken",
+    "symbol": "semi",
+    "name": "Semitoken",
+    "platforms": {
+        "ethereum": "0x6d7917864003a9bb13cbbec8f1cdd4e36ddf6fc8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SEMI TOKEN is a project coin created for the purpose of simple and clear practical use, not a coin for speculative trading of cryptocurrency, unrealistic usage guidance, and complicated and colorful explanation."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x6d7917864003a9bb13cbbec8f1cdd4e36ddf6fc8",
+    "url": "http://www.semitokenglobal.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6D7917864003a9bb13CBbEC8F1CdD4E36dDf6fc8",
+        "https://ethplorer.io/address/0x6D7917864003a9bb13CBbEC8F1CdD4E36dDf6fc8"
+    ],
+    "twitter": "token_semi",
+    "telegram": "semitokenno1"
+}

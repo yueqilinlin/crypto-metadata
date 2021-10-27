@@ -1,0 +1,22 @@
+{
+    "id": "smoke-high",
+    "symbol": "smoke",
+    "name": "Smoke High",
+    "platforms": {
+        "binance-smart-chain": "0x19be15159d1b4a937e8d5baa66b981a6b30a0ad5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Smoke High ($SMOKE) is a Binance Smart-Chain token with integrated optimized buy-back system. The token will be used for payments in our app as in our store of CBD products. Upon every sale a percentage will get used for an extra buy-back (double buy-back system).\r\n\r\nBy taking the framework of the Everrise buy-back system and building upon it, they plan to integrate their online CBD Marketplace with crypto. The marketplace will act as a medium, between small - medium sized vendors and consumers. A small percentage of each transaction - at the marketplace - will be auto-converted into the Native token ($SMOKE) and will fuel more buys into the chart. This second buy-back will not tax the investors."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x19be15159d1b4a937e8d5baa66b981a6b30a0ad5",
+    "url": "https://www.smoke-high.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x19bE15159d1b4A937e8D5Baa66b981a6B30A0aD5"
+    ],
+    "twitter": "smokehigh5",
+    "telegram": "Smokehightoken"
+}

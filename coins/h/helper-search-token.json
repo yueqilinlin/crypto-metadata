@@ -1,0 +1,24 @@
+{
+    "id": "helper-search-token",
+    "symbol": "hsn",
+    "name": "Helper Search Token",
+    "platforms": {
+        "ethereum": "0x567300e14f8d67e1f6720a95291dce2511a86723"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "A fast, secure, and easily available cryptocurrency designed for \u201ctipping and Rewarding\u201d, allows rewarding a worker for a job well done, while avoiding the high fees on payment milestones in\ufb02icted on both sending and receiving parties involved, that is usually incurred by such transactions by the specialized job marketplaces that act as intermediaries between the parties.\r\n\r\nWith Ethereum technology secures almost instant transaction of tipping reward and in the process either avoids the intermediary job marketplace platform in question, or as a best case scenario, is integrated into the job marketplace and acts as an additional bonus feature of the very job marketplace platform, this welcoming all parties involved; the employer, the employee, and the intermediary job marketplace platform to the world of digital currency.\r\n\r\nHelper Search Token ( HSN ) cryptocurrency can be used both as an integrated reward system for the intermediary platforms, or without the integration, as it is already a stand alone payment system with a use case in every industry and any task solving situation, from getting a big contract based project done, to rewarding a school child for doing the homework, Rewarding for network gathering foreign, domestic helpers, employers and employment agencies"
+    },
+    "country_origin": "SG",
+    "genesis_date": "2018-09-01",
+    "contract_address": "0x567300e14f8d67e1f6720a95291dce2511a86723",
+    "url": "https://helpersearch.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x567300e14f8d67e1f6720a95291dce2511a86723",
+        "https://ethplorer.io/address/0x567300e14f8d67e1f6720a95291dce2511a86723"
+    ],
+    "twitter": "HSNtoken",
+    "telegram": "HSNOfficial",
+    "github_org": "Helpersearch"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "romeo-doge",
+    "symbol": "romeodoge",
+    "name": "Romeo Doge",
+    "platforms": {
+        "binance-smart-chain": "0x3ce9f4e83ec642e6ae25169061120d4d157256ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Romeo Doge is a community driven reward token with built in feature to reward all holders with multiple cryptocurrencies.Romeo Doge holders will receive multiple rewards on the BEP20 network (Binance Smart Chain). Our smart technology studies the market trend and rewards it's holders with a different cryptocurrency that has potential of fast growth on every reflection. \r\nRomeo Doge is designed to build serious wealth for investors. It does this by applying a 18% tax on transactions. Out of this, 10% gets redistributed to holders in binance pegged coins, 3% goes to the liquidity pool to build a stronger price floor for all investors and 5% goes to the marketing wallet to fuel consistent growth."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3ce9f4e83ec642e6ae25169061120d4d157256ef",
+    "url": "https://romeodoge.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x3ce9f4e83ec642e6ae25169061120d4d157256ef"
+    ],
+    "twitter": "romeodoge",
+    "telegram": "romeodogeofficial",
+    "reddit": "RomeoDogeCoin/",
+    "github_org": "RomeoDoge"
+}

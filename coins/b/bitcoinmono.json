@@ -1,0 +1,21 @@
+{
+    "id": "bitcoinmono",
+    "symbol": "btcmz",
+    "name": "BitcoinMono",
+    "platforms": {},
+    "hashing_algorithm": "Argon2d",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "\"Mono\" in Esperanto means \"cash\" so first and foremost BitcoinMono is a digital cash. By integrating useful features from other coins, it adapts better to changing environment and distinguishes itself from all other coins by its own model, copypasta. Current focus is on eSports industry."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://bitcoinmono.io/",
+    "explorers": [
+        "https://explorer.bitcoinmono.io"
+    ],
+    "twitter": "semilimitedco",
+    "github_org": "bitcoinmono"
+}

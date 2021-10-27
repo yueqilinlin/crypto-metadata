@@ -1,0 +1,28 @@
+{
+    "id": "zb-token",
+    "symbol": "zb",
+    "name": "ZB Token",
+    "platforms": {
+        "ethereum": "0xbd0793332e9fb844a52a205a233ef27a5b34b927"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "ZB Token (ZB) is an exchange token and the native currency of the ZB.COM crypto exchange. The ZB can be used to purchase monthly VIP status plans for transaction fee discounts, vote on exchange decisions, gain early access to special ZB launchpad events, receive crypto rewards from seasonal buybacks, and trade with other cryptocurrencies listed on the ZB exchange."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbd0793332e9fb844a52a205a233ef27a5b34b927",
+    "url": "https://www.zb.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xbd0793332e9fb844a52a205a233ef27a5b34b927",
+        "https://ethplorer.io/address/0xbd0793332e9fb844a52a205a233ef27a5b34b927",
+        "https://blockchair.com/ethereum/erc-20/token/0xbd0793332e9fb844a52a205a233ef27a5b34b927"
+    ],
+    "twitter": "ZB_Group",
+    "facebook": "ZBGlobalGroup",
+    "telegram": "ZB_English"
+}

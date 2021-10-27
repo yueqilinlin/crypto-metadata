@@ -1,0 +1,19 @@
+{
+    "id": "paymastercoin",
+    "symbol": "pmc",
+    "name": "PayMasterCoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pay Master Coin is a Experimental new digital currency that enables instant payments to anyone, anywhere in the world. PMC Introducing a completely new blockchain uses Hybrid POW & dynamic POS SHA 256+ Groestl (Dual Algorithm) for it's backbone of the transactions & a pos (proof of stake ) system that pays 2.5 percent per year."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://pmcoin.biz/",
+    "explorers": [
+        "https://prohashing.com/explorer/PayMastercoin/"
+    ],
+    "twitter": "paymastercoin",
+    "github_org": "paymastercoin"
+}

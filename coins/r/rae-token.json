@@ -1,0 +1,27 @@
+{
+    "id": "rae-token",
+    "symbol": "rae",
+    "name": "Receive Access Ecosystem",
+    "platforms": {
+        "ethereum": "0xe5a3229ccb22b6484594973a03a3851dcd948756"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Media"
+    ],
+    "description": {
+        "en": "A media platform that uses a marketplace subscription model where creators earn their intrinsic value, including their share of recurring value and the network surplus, through blockchain technology.\r\n\r\nCustomers come on Rokfin and pay an easy $9.99 for access to all premium content and the digital platform and owners of content earn RAE based on the value they contributed to the network."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xe5a3229ccb22b6484594973a03a3851dcd948756",
+    "url": "https://www.raetoken.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xE5a3229CCb22b6484594973A03a3851dCd948756",
+        "https://ethplorer.io/address/0xe5a3229ccb22b6484594973a03a3851dcd948756"
+    ],
+    "twitter": "raetoken",
+    "telegram": "RAEToken",
+    "reddit": "RAE_Token/",
+    "github_org": "rokfin"
+}

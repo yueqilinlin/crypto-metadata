@@ -1,0 +1,24 @@
+{
+    "id": "fohocoin",
+    "symbol": "foho",
+    "name": "FohoCoin",
+    "platforms": {
+        "ethereum": "0xdd2e93924bdd4e20c3cf4a8736e5955224fa450e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FOHO is building the future of shared real estate.\r\nFOHO allows sharing of real estate using blockchain. Participants use FOHO Coins to participate. \r\n\r\nToday\u2019s fractional ownership and timeshare solutions are developer driven and accountability is low and dependent on the solvency of the system. Customers are courted with various promises on yield, future potential etc. but cannot organise themselves to discuss and diligence such deals together and have no way to demand accountability. \r\n\r\nPost the actual purchase; usage of the properties and the income generated from them are opaque and require extensive planning defeating the premise of owning a second home. FOHO aims to build a more transparent ecosystem that uses the wisdom of crowds to uncover deals, hold sellers and property managers accountable and make using a shared property a stress-free experience."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdd2e93924bdd4e20c3cf4a8736e5955224fa450e",
+    "url": "https://fohocoin.com",
+    "explorers": [
+        "https://etherscan.io/token/0xDd2e93924BDD4E20C3CF4A8736E5955224FA450E",
+        "https://ethplorer.io/address/0xDd2e93924BDD4E20C3CF4A8736E5955224FA450E"
+    ],
+    "twitter": "foho_coin",
+    "telegram": "fohocoin",
+    "reddit": "fohocoin/"
+}

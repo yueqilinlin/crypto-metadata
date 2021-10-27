@@ -1,0 +1,28 @@
+{
+    "id": "ethermon",
+    "symbol": "emon",
+    "name": "Ethermon",
+    "platforms": {
+        "ethereum": "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a",
+        "polygon-pos": "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Play To Earn",
+        "Gaming"
+    ],
+    "description": {
+        "en": "Ethermon is one of the first Ethereum-based blockchain games to create interactive non-fungible tokens (NFTs), allowing players to own, improve, use, and profit from their in-game virtual assets. Originally launched as Etheremon in 2017, the current upgraded version was relaunched in 2019 by its most dedicated players and an expanded team.\r\n\r\nThe Ethermon universe of gaming experiences is continuing to rapidly expand \u2014 driven by the belief that the future of gaming is decentralized, cross-platform, and player-owned."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a",
+    "url": "https://ethermon.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xd6A5aB46ead26f49b03bBB1F9EB1Ad5c1767974a",
+        "https://ethplorer.io/address/0xd6A5aB46ead26f49b03bBB1F9EB1Ad5c1767974a",
+        "https://polygonscan.com/token/0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a}"
+    ],
+    "twitter": "Ethermon_NFT",
+    "telegram": "ethermon_NFT"
+}

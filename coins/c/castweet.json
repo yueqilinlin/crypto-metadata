@@ -1,0 +1,27 @@
+{
+    "id": "castweet",
+    "symbol": "ctt",
+    "name": "Castweet",
+    "platforms": {
+        "ethereum": "0x1a4743cf1af4c289351390a2b3fe7c13d2f7c235"
+    },
+    "hashing_algorithm": "SHA-3",
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "Castweet is a live-streaming platform with blockchain incentives that rewards everyone. Both Viewers and Content creators can be rewarded for their participation on the platform."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x1a4743cf1af4c289351390a2b3fe7c13d2f7c235",
+    "url": "https://www.castweet.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1a4743cf1af4c289351390a2b3fe7c13d2f7c235",
+        "https://ethplorer.io/address/0x1a4743cf1af4c289351390a2b3fe7c13d2f7c235"
+    ],
+    "twitter": "Castweet_Global",
+    "facebook": "Castweet",
+    "telegram": "CastweetOfficialCommunity",
+    "github_org": "castweet"
+}

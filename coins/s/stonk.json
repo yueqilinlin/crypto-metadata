@@ -1,0 +1,26 @@
+{
+    "id": "stonk",
+    "symbol": "stonk",
+    "name": "Stonk Swap",
+    "platforms": {
+        "ethereum": "0x35b55c25731e9b05b1d8480ba39463d52c9d0211"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "StockSwap aims to offer architectural improvements to the stock market system by offering stocks trading using crypto technology. We plan to offer dividends, voting rights, fractional shares, 24/7 trading with a crypto on/off ramp. Simply trade stocks."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x35b55c25731e9b05b1d8480ba39463d52c9d0211",
+    "url": "https://www.stockswap.app/",
+    "explorers": [
+        "https://etherscan.io/token/0x35b55c25731E9b05B1d8480ba39463d52C9D0211",
+        "https://ethplorer.io/address/0x35b55c25731E9b05B1d8480ba39463d52C9D0211"
+    ],
+    "twitter": "StockSwapApp",
+    "telegram": "StockSwapOfficial",
+    "github_org": "stonkdev"
+}

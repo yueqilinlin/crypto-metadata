@@ -1,0 +1,23 @@
+{
+    "id": "sirius-bond",
+    "symbol": "srsb",
+    "name": "Sirius Bond",
+    "platforms": {
+        "binance-smart-chain": "0x738076a6cb6c30d906bcb2e9ba0e0d9a58b3292e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sirius Bond is an utility token based on Binance Smart Chain with autostaking, burn, locked liquidity and whale free. We aim to be a friendly and powerful community that will always give more to earlier adopters."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x738076a6cb6c30d906bcb2e9ba0e0d9a58b3292e",
+    "url": "https://sirius.bond/",
+    "explorers": [
+        "https://bscscan.com/token/0x738076a6cb6c30d906bcb2e9ba0e0d9a58b3292e"
+    ],
+    "twitter": "SiriusBond",
+    "telegram": "siriusprotocol",
+    "reddit": "SiriusToken"
+}

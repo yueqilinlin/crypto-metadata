@@ -1,0 +1,21 @@
+{
+    "id": "valuto",
+    "symbol": "vlu",
+    "name": "Valuto",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Valuto has been created to provide access to advanced cryptocurrency technology, while making it easy to shop products online, as you know from today\u2019s e-commerce"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://valuto.io/",
+    "explorers": [
+        "http://explorer.valuto.io/"
+    ],
+    "twitter": "Valuto_io",
+    "telegram": "valuto_io",
+    "reddit": "Valuto/",
+    "github_org": "valuto"
+}

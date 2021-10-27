@@ -1,0 +1,25 @@
+{
+    "id": "amond",
+    "symbol": "amon",
+    "name": "AmonD",
+    "platforms": {
+        "ethereum": "0x00059ae69c1622a7542edc15e8d17b060fe307b6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Direct Reward platform"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x00059ae69c1622a7542edc15e8d17b060fe307b6",
+    "url": "http://www.amond.cc/",
+    "explorers": [
+        "https://etherscan.io/token/0x00059ae69c1622a7542edc15e8d17b060fe307b6",
+        "https://ethplorer.io/address/0x00059ae69c1622a7542edc15e8d17b060fe307b6"
+    ],
+    "telegram": "amondcommunity",
+    "github_org": "amond-project"
+}

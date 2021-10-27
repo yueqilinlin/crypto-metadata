@@ -1,0 +1,24 @@
+{
+    "id": "xfinance",
+    "symbol": "xfi",
+    "name": "Xfinance",
+    "platforms": {
+        "ethereum": "0x5befbb272290dd5b8521d4a938f6c4757742c430"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Xfinance is a decentralized finance (DeFi) yield aggregator platform, which aims to build an aggregate liquidity pool, a leveraged trading platform, automatic market making, and other functional platforms."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x5befbb272290dd5b8521d4a938f6c4757742c430",
+    "url": "https://xfinance.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x5BEfBB272290dD5b8521D4a938f6c4757742c430",
+        "https://ethplorer.io/address/0x5BEfBB272290dD5b8521D4a938f6c4757742c430"
+    ],
+    "twitter": "xfinance_io",
+    "telegram": "nowex_io",
+    "github_org": "xfinance"
+}

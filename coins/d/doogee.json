@@ -1,0 +1,23 @@
+{
+    "id": "doogee",
+    "symbol": "doogee",
+    "name": "Doogee",
+    "platforms": {
+        "binance-smart-chain": "0xdda82f136576ae87d2702bb05370af274ce71dd5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Doogee.io is version 2.0 of DOGE, a complete evolution of DOGE !\r\nThe World\u2019s first Auto Pump & Burn, Auto Farm and Auto Add Liquidity token!"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xdda82f136576ae87d2702bb05370af274ce71dd5",
+    "url": "https://doogee.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xdda82f136576ae87d2702bb05370af274ce71dd5"
+    ],
+    "twitter": "doogeetoken",
+    "telegram": "doogeetoken",
+    "reddit": "doogeetoken/"
+}

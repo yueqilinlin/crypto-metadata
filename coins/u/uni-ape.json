@@ -1,0 +1,23 @@
+{
+    "id": "uni-ape",
+    "symbol": "uape",
+    "name": "Uni Ape",
+    "platforms": {
+        "ethereum": "0x822808104e173cb4b21549d8e921cae9e4f655e9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "UniApe is a community-based token developed by the MGH community. It has a recurring 10% re-distribution back to holders per transaction to incentivize holding and active community growth."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x822808104e173cb4b21549d8e921cae9e4f655e9",
+    "url": "https://www.uniape.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x822808104E173cB4B21549d8E921Cae9E4F655E9",
+        "https://ethplorer.io/address/0x822808104E173cB4B21549d8E921Cae9E4F655E9"
+    ],
+    "twitter": "Uni_Ape",
+    "telegram": "UniApeMGH"
+}

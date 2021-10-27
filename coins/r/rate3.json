@@ -1,0 +1,28 @@
+{
+    "id": "rate3",
+    "symbol": "rte",
+    "name": "Rate3",
+    "platforms": {
+        "ethereum": "0x436f0f3a982074c4a05084485d421466a994fe53"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Rate3 is a decentralized protocol for asset-tokenization and identity management interoperable across both the Stellar and Ethereum blockchain networks."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x436f0f3a982074c4a05084485d421466a994fe53",
+    "url": "https://www.rate3.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x436f0f3a982074c4a05084485d421466a994fe53",
+        "https://ethplorer.io/address/0x436f0f3a982074c4a05084485d421466a994fe53"
+    ],
+    "twitter": "officialrate3",
+    "facebook": "officialrate3",
+    "telegram": "officialrate3",
+    "reddit": "rate3",
+    "github_org": "rate-engineering"
+}

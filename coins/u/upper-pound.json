@@ -1,0 +1,23 @@
+{
+    "id": "upper-pound",
+    "symbol": "gbpu",
+    "name": "Upper Pound",
+    "platforms": {
+        "ethereum": "0x27ed129c298c5df130364083f491e2920e5a2f29"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Upper Token backed by the British Pound\r\n100 million tokens from GBPU (UPPER Pound Sterling)"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x27ed129c298c5df130364083f491e2920e5a2f29",
+    "url": "https://uppers.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x27ed129c298c5df130364083f491e2920e5a2f29",
+        "https://ethplorer.io/address/0x27ed129c298c5df130364083f491e2920e5a2f29"
+    ],
+    "facebook": "Upper-Software-106093467886091",
+    "telegram": "uppersoftware"
+}

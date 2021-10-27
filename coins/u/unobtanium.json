@@ -1,0 +1,23 @@
+{
+    "id": "unobtanium",
+    "symbol": "uno",
+    "name": "Unobtanium",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "UNO is a fair launch, low inflation, high-hash rate, rare issue cryptocurrency since 2013. Sha256, merge mined with Btc, high hash, 3 minute blocks."
+    },
+    "country_origin": "US",
+    "genesis_date": "2013-10-18",
+    "url": "http://unobtanium.uno/",
+    "explorers": [
+        "https://chainz.cryptoid.info/uno/"
+    ],
+    "twitter": "unobtaniumuno",
+    "telegram": "unobtaniumuno",
+    "reddit": "Unobtanium/",
+    "github_org": "unobtanium-official"
+}

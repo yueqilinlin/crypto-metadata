@@ -1,0 +1,21 @@
+{
+    "id": "potcoin",
+    "symbol": "pot",
+    "name": "Potcoin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake Velocity",
+    "categories": [],
+    "description": {
+        "en": "PotCoin is a digital cryptocurrency aimed to empower, secure, and facilitate the Cannabis community, medicinal and recreational alike.\r\n\r\nThe tagline for PotCoin goes as the following :-\r\n\"On every level of the Cannabis, Hemp and financial industries our users and supporters can entrust PotCoin to extend credibility, stability and security to this exponentially growing market and community.\"\r\n\r\nIt is based on the Proof of Work Scrypt algorithm with a total maximum supply of 420 million coins. PotCoin supports wallet software on most major platform including Windows, Mac, Linux, and Android. It also has a web wallet."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-01-15",
+    "url": "http://www.potcoin.com",
+    "explorers": [
+        "http://chainz.cryptoid.info/pot"
+    ],
+    "twitter": "potcoin",
+    "facebook": "PotCoin",
+    "reddit": "potcoin",
+    "github_org": "potcoin"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "fuzzballs",
+    "symbol": "fuzz",
+    "name": "FuzzBalls",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "FuzzBalls is a coin initially intended for gifting and parties, .You mine this to gift people, in IRC rooms or Chat rooms. Small items for gifting will be added to the FUZZ shop over time such as keychains , bottle openers and will be availablefor purchasing with FUZZ or equal BTC."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://www.fyi-koerier.nl/fuzzballs.htm",
+    "explorers": [
+        "https://prohashing.com/explorer/FuzzBall/"
+    ],
+    "twitter": "ACryptoMiner",
+    "github_org": "aminerminer"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "ditto",
+    "symbol": "ditto",
+    "name": "Ditto",
+    "platforms": {
+        "binance-smart-chain": "0x233d91a0713155003fc4dce0afa871b508b3b715"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "The first elastic supply token on the Binance Smart Chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x233d91a0713155003fc4dce0afa871b508b3b715",
+    "url": "https://ditto.money/",
+    "explorers": [
+        "https://bscscan.com/token/0x233d91A0713155003fc4DcE0AFa871b508B3B715"
+    ],
+    "telegram": "dittomoney"
+}

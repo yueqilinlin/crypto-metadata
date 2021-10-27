@@ -1,0 +1,28 @@
+{
+    "id": "ccore",
+    "symbol": "cco",
+    "name": "Ccore",
+    "platforms": {
+        "ethereum": "0x679badc551626e01b23ceecefbc9b877ea18fc46"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Ccore is a Crypto Payment Platform that allows people who have cryptocoins / altcoins to spend them on various fiat based online services and stores without losing value on the exchange. And the owners of online-stores will be able to accept cryptocurrency for payment, while not losing part of their profit due to variation of cryptocurrency rate."
+    },
+    "country_origin": "AM",
+    "genesis_date": "2017-11-28",
+    "contract_address": "0x679badc551626e01b23ceecefbc9b877ea18fc46",
+    "url": "https://ccore.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x679badc551626e01b23ceecefbc9b877ea18fc46",
+        "https://ethplorer.io/address/0x679badc551626e01b23ceecefbc9b877ea18fc46"
+    ],
+    "twitter": "ccore_io",
+    "facebook": "ccore.io",
+    "telegram": "ccore_io",
+    "reddit": "ccore_io",
+    "github_org": "ccore"
+}

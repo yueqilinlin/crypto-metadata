@@ -1,0 +1,24 @@
+{
+    "id": "galactic-blue-index",
+    "symbol": "gbi",
+    "name": "Galactic Blue Index",
+    "platforms": {
+        "ethereum": "0xcb67be5c54eab9462967ee3c03c35bfffeb801cd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Galactic Blue Index ($GBI) is the second index fund launched by the SPICE DAO. It gives investors exposure to the most trusted digital assets in the space and covers the most relevant sectors of the DeFi and crypto value stack. $GBI is the ideal entry point for investors looking to get a well-diversified exposure to the leading projects of the most relevant crypto and DeFi verticals."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcb67be5c54eab9462967ee3c03c35bfffeb801cd",
+    "url": "https://scifi.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xcb67be5c54eab9462967ee3c03c35bfffeb801cd",
+        "https://ethplorer.io/address/0xcb67be5c54eab9462967ee3c03c35bfffeb801cd"
+    ],
+    "twitter": "sci_finance",
+    "telegram": "scifinance",
+    "github_org": "spicedao"
+}

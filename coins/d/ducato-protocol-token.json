@@ -1,0 +1,25 @@
+{
+    "id": "ducato-protocol-token",
+    "symbol": "ducato",
+    "name": "Ducato Protocol Token",
+    "platforms": {
+        "ethereum": "0xa117ea1c0c85cef648df2b6f40e50bb5475c228d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DUCATO is Hybrid DeFi 2.0 that combines the advantages of existing CeFi and DeFi, providing reliability, speed, and decentralized stability through high liquidity and blockchain-backed smart contracts. "
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0xa117ea1c0c85cef648df2b6f40e50bb5475c228d",
+    "url": "http://ducato.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa117ea1c0c85CEf648df2b6f40e50bb5475C228d",
+        "https://ethplorer.io/address/0xa117ea1c0c85cef648df2b6f40e50bb5475c228d"
+    ],
+    "twitter": "DUCATO_DeFi",
+    "facebook": "DeFi.DUCATO",
+    "telegram": "DUCATO_Channel",
+    "github_org": "DUCATO-DeFi"
+}

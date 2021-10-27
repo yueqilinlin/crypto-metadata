@@ -1,0 +1,24 @@
+{
+    "id": "polkadomain",
+    "symbol": "name",
+    "name": "PolkaDomain",
+    "platforms": {
+        "ethereum": "0xe1a4c5bbb704a92599fedb191f451e0d3a1ed842"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We are the decentralized, privacy preserving blockchain DNS and NFT marketplace built on Polkadot.\r\n\r\nFeatures:\r\n\r\nDecentralized Domain Name Service\r\nTake control of your digital identity and data with Polka.Domain. Claim and save your unique domain as NFT.\r\n\r\nCross-chain Transactions\r\nExecute cross-chain transactions while keeping your real addresses anonymous. Send and receive with your domain on BTC, ETH, Kusama, and more.\r\n\r\nDomain and NFT Marketplace\r\nAcquire, exchange and sell domains through fixed swaps or auctions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe1a4c5bbb704a92599fedb191f451e0d3a1ed842",
+    "url": "https://polkadomain.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xe1a4c5bbb704a92599fedb191f451e0d3a1ed842",
+        "https://ethplorer.io/address/0xe1a4c5bbb704a92599fedb191f451e0d3a1ed842"
+    ],
+    "twitter": "polkadomain",
+    "telegram": "PolkaDomain",
+    "github_org": "polka-domain"
+}

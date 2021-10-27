@@ -1,0 +1,24 @@
+{
+    "id": "celletf",
+    "symbol": "ecell",
+    "name": "CellETF",
+    "platforms": {
+        "ethereum": "0x9b62ec1453cea5dde760aaf662048ca6eeb66e7f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Consensus Cell Network is a decentralized blockchain application incubator. It is a decentralized autonomous organization composed of users, developers, and investors, dedicated to providing startup incubation and acceleration services for decentralized applications.\r\n\r\neCell is the basic governance token of the DAO ecosystem. Communities jointly govern Consensus Cell Network in the form of DAO, which is used for project incubation, outbound investment, community incentive, etc. The incubated decentralized applications include CellETF decentralized fund Protocol, etc."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x9b62ec1453cea5dde760aaf662048ca6eeb66e7f",
+    "url": "https://www.cellnetwork.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9b62ec1453cea5dde760aaf662048ca6eeb66e7f",
+        "https://ethplorer.io/address/0x9b62ec1453cea5dde760aaf662048ca6eeb66e7f"
+    ],
+    "twitter": "CellETF",
+    "facebook": "CellETF",
+    "telegram": "ecellsg"
+}

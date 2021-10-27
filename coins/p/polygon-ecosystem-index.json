@@ -1,0 +1,25 @@
+{
+    "id": "polygon-ecosystem-index",
+    "symbol": "peco",
+    "name": "Polygon Ecosystem Index",
+    "platforms": {
+        "ethereum": "0x9d3ee6b64e69ebe12a4bf0b01d031cb80f556ee4",
+        "polygon-pos": "0xa9536b9c75a9e0fae3b56a96ac8edf76abc91978"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Amun\u2019s Polygon Ecosystem Index (PECO) is composed of the top tokens in the Polygon ecosystem. PECO provides investors with exposure to the leading projects in the Polygon ecosystem through either a Polygon native token or an Ethereum token tied to the Polygon assets. Consisting of 50% Matic, PECO gives holders an alternative to only holding Matic and instead gives them a token that grows with the entire ecosystem, not just the base token. Given Polygon\u2019s low transaction fees and growing ecosystem, we believe that PECO can grow to include a large number of constituents so long as they satisfy Amun\u2019s inclusion criteria."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9d3ee6b64e69ebe12a4bf0b01d031cb80f556ee4",
+    "url": "https://tokens.amun.com/polygon-ecosystem-index",
+    "explorers": [
+        "https://etherscan.io/token/0x9d3EE6B64e69Ebe12a4bF0b01D031CB80F556eE4",
+        "https://ethplorer.io/address/0x9d3ee6b64e69ebe12a4bf0b01d031cb80f556ee4"
+    ],
+    "twitter": "Amun",
+    "telegram": "AmunTokens",
+    "github_org": "amun"
+}

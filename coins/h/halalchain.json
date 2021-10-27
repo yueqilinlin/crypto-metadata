@@ -1,0 +1,23 @@
+{
+    "id": "halalchain",
+    "symbol": "hlc",
+    "name": "HalalChain",
+    "platforms": {
+        "ethereum": "0x58c69ed6cd6887c0225d1fccecc055127843c69b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Through the Internet of things, blockchain technologies and smart contracts, a global halal product ecosystem is established to regulate halal food industry certification system, which aims to trace Halal food, medicine and cosmetics at it's respective origin."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-12-08",
+    "contract_address": "0x58c69ed6cd6887c0225d1fccecc055127843c69b",
+    "url": "http://www.hlc.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x58c69ed6cd6887c0225d1fccecc055127843c69b",
+        "https://ethplorer.io/address/0x58c69ed6cd6887c0225d1fccecc055127843c69b"
+    ],
+    "twitter": "halalchain",
+    "reddit": "halalchain/"
+}

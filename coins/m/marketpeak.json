@@ -1,0 +1,24 @@
+{
+    "id": "marketpeak",
+    "symbol": "peak",
+    "name": "PEAKDEFI",
+    "platforms": {
+        "ethereum": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PEAK Tech was launched on 09/05/2019 by an international team based in Dubai, UAE. It aims to create a DeFi ecosystem and educate their community. The PEAK token is the utility token of this ecosystem which consists of 3 pillars:\r\n\r\nPEAKDEFI fund: The PEAKDEFI fund is a decentralized and permissionless asset management fund, created to connect investors and asset managers for capital growth. This protocol was audited by Quantstamp and launches on November 2020.\r\n\r\nPEAKDEFI wallet app: The PEAKDEFI wallet app launched on August 2020 for iOS and Android app.peakdefi.com. This wallet is an one-stop solution for taking control of your decentralized finances. Native, in-wallet App for DeFi solutions for everyone. Users can create and import an Ethereum wallet. There is also an integrated DEX (decentralized exchange). It is non-custodial - only users have access to their keys.\r\n\r\nMarketPeak: MarketPeak is the education and software platform that focuses on the non-crypto advanced users to help them understand crypto and DeFi better."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
+    "url": "http://peakdefi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
+        "https://ethplorer.io/address/0x630d98424efe0ea27fb1b3ab7741907dffeaad78"
+    ],
+    "twitter": "PEAKDEFI",
+    "facebook": "marketpeakofficial",
+    "telegram": "peakdefi_official"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "izichain",
+    "symbol": "izi",
+    "name": "IZIChain",
+    "platforms": {
+        "ethereum": "0xdf59c8ba19b4d1437d80836b45f1319d9a429eed"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "IZIChain is a Public Hybrid Blockchain hyperlink platform providing blockchain custom solutions for financial markets with social and real-life applications. IZIChain allows users to interact with smart contracts, participate in smart contract completion via AI and Big Data mechanism, and operate blockchain-powered financial applications such as asset digitization, digital asset trading, and loan offer and transaction"
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0xdf59c8ba19b4d1437d80836b45f1319d9a429eed",
+    "url": "https://izichain.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xdf59c8ba19b4d1437d80836b45f1319d9a429eed",
+        "https://ethplorer.io/address/0xdf59c8ba19b4d1437d80836b45f1319d9a429eed"
+    ],
+    "twitter": "chain_izi ",
+    "facebook": "izichainnetwork",
+    "telegram": "izichainnetwork",
+    "github_org": "IZIChainLab"
+}

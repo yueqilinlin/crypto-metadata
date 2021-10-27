@@ -1,0 +1,24 @@
+{
+    "id": "mound-token",
+    "symbol": "mnd",
+    "name": "Mound Token",
+    "platforms": {
+        "binance-smart-chain": "0x4c97c901b5147f8c1c7ce3c5cf3eb83b44f244fe"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "MOUND is the innovative team behind Pancake Bunny, one of the leading Defi platforms on BSC. Team MOUND is composed of developers and entrepreneurs with extensive experience across games, social platforms, quantitative financial services, and blockchain projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4c97c901b5147f8c1c7ce3c5cf3eb83b44f244fe",
+    "url": "https://mndvault.mound.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x4c97c901B5147F8C1C7Ce3c5cF3eB83B44F244fE"
+    ],
+    "twitter": "pancakebunnyfin",
+    "telegram": "pancakebunny_fin"
+}

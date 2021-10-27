@@ -1,0 +1,22 @@
+{
+    "id": "dimecoin",
+    "symbol": "dime",
+    "name": "Dimecoin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [],
+    "description": {
+        "en": "Dimecoin is a digital payment solution built on speed and security which makes it ideal for micro-transactions. It can be utilized online or in-store through our open source network which is supported by users worldwide. Using the PoW (Proof-of-Work) protocol and the Quark algorithm, means Dimecoin is minable with ASIC."
+    },
+    "country_origin": "US",
+    "genesis_date": "2013-12-23",
+    "url": "https://www.dimecoinnetwork.com/",
+    "explorers": [
+        "https://chainz.cryptoid.info/dime/"
+    ],
+    "twitter": "Dimecoin_",
+    "facebook": "dimecoincommunity",
+    "telegram": "DimecoinOfficialPublic",
+    "reddit": "dimecoin",
+    "github_org": "dime-coin"
+}

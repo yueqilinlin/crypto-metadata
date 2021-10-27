@@ -1,0 +1,25 @@
+{
+    "id": "vecrv-dao-yvault",
+    "symbol": "yve-crvdao",
+    "name": "veCRV-DAO yVault",
+    "platforms": {
+        "ethereum": "0xc5bddf9843308380375a611c18b50fb9341f502a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yearn Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc5bddf9843308380375a611c18b50fb9341f502a",
+    "url": "https://crv.ape.tax/",
+    "explorers": [
+        "https://etherscan.io/token/0xc5bddf9843308380375a611c18b50fb9341f502a",
+        "https://ethplorer.io/address/0xc5bddf9843308380375a611c18b50fb9341f502a"
+    ],
+    "twitter": "iearnfinance",
+    "telegram": "yearnfinance"
+}

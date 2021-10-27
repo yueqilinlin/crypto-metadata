@@ -1,0 +1,24 @@
+{
+    "id": "shibanova",
+    "symbol": "nova",
+    "name": "ShibaNova",
+    "platforms": {
+        "binance-smart-chain": "0x56e344be9a7a7a1d27c854628483efd67c11214f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ShibaNova is a Decentralized Exchange and Automatic Market Maker built on the Binance Smart Chain. We aim to solve one of the fundamental problems in Decentralized Finance (DeFi), where the project\u2019s native token rises in value at launch only to incrementally decrease in value day after day until it ultimately goes down to zero. We solve this problem by turning our investors into valued shareholders - eligible to get their share of 75% of fees collected in our dApp. By providing liquidity to our project and creating/holding our dividend tokens, our shareholders are able to earn daily passive income. This daily dividends system not only incentivizes long-term holding but promotes ownership of the project by the entire community. This is our vision for DeFi 2.0 - sustainable, secure, successful, cross-chain, and universal. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x56e344be9a7a7a1d27c854628483efd67c11214f",
+    "url": "https://shibanova.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x56E344bE9A7a7A1d27C854628483Efd67c11214F"
+    ],
+    "twitter": "ShibaNovaDefi",
+    "telegram": "shibanovadex",
+    "reddit": "Shibanova/",
+    "github_org": "ShibaNova"
+}

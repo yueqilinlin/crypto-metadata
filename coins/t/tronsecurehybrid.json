@@ -1,0 +1,25 @@
+{
+    "id": "tronsecurehybrid",
+    "symbol": "tschybrid",
+    "name": "TronSecureHybrid",
+    "platforms": {
+        "tron": "TJ9qtPPEzQBW4266oGp9M62AxGqPCu3ZZk"
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "TJ9qtPPEzQBW4266oGp9M62AxGqPCu3ZZk",
+    "url": "https://tronsecure.io/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TJ9qtPPEzQBW4266oGp9M62AxGqPCu3ZZk"
+    ],
+    "twitter": "TscHybrid",
+    "facebook": "TronSecureHybrid",
+    "telegram": "TscHybrid"
+}

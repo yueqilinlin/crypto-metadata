@@ -1,0 +1,24 @@
+{
+    "id": "peepcoin",
+    "symbol": "pcn",
+    "name": "Peepcoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Other"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://peepcoin.io/peepcoin",
+    "explorers": [
+        "https://chainz.cryptoid.info/pcn/",
+        "http://www.almightycoins.org/explorer/peepcoin"
+    ],
+    "twitter": "PXNofficial",
+    "telegram": "PXNOFFCIAL",
+    "reddit": "DAPSCoin/",
+    "github_org": "PXN-Foundation"
+}

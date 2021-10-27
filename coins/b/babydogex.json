@@ -1,0 +1,23 @@
+{
+    "id": "babydogex",
+    "symbol": "BDOGEX",
+    "name": "BabyDogeX",
+    "platforms": {
+        "binance-smart-chain": "0x4a6db8f47b8c827aaa846ba017e9809bb92cf6b2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BabyDogeX is the next generation of BSC-token with unique tokenomics including a \r\nDynamic-Price-Floor-System, Diamond hours where trading taxes change to incentivize holding, and a Smart-Buy-Burn-Back system."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4a6db8f47b8c827aaa846ba017e9809bb92cf6b2",
+    "url": "https://baby-dogex.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x4a6db8f47b8c827aaa846ba017e9809bb92cf6b2"
+    ],
+    "twitter": "Baby_DogeX",
+    "telegram": "BabyDogeXXX",
+    "github_org": "BabyDogeX"
+}

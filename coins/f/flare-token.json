@@ -1,0 +1,22 @@
+{
+    "id": "flare-token",
+    "symbol": "1flr",
+    "name": "Flare Token",
+    "platforms": {
+        "polygon-pos": "0x5f0197ba06860dac7e31258bdf749f92b6a636d4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "What Is 1FLR\r\n\r\n1FLR is a decentralized gaming and NFT token. The open-source digital currency was created by a PipeFlare community member who envisioned it as a fun way to reward gamers. 1FLR partnered with PipeFlare in 2021 and now powers their gaming and NFT platform.     \r\n\r\nWhat Can 1FLR Be Used For?\r\n\r\n1FLR can be used to engage with the PipeFlare ecosystem of games and NFTs. 1FLR can be used to purchase in-game items, powerups, memberships, NFTs, and more. \r\n\r\n1FLR can also be used by independent game developers as rewards for playing their games.\r\n\r\nHow Can You Buy 1FLR?\r\n\r\n1FLR is available for purchase on QuickSwap or other exchanges that support the token. It can be stored on any MATIC Mainnet accessible wallet, including MetaMask and Trust Wallet"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5f0197ba06860dac7e31258bdf749f92b6a636d4",
+    "url": "https://pipeflare.io",
+    "explorers": [
+        "https://polygonscan.com/token/0x5f0197ba06860dac7e31258bdf749f92b6a636d4"
+    ],
+    "twitter": "PipeFlare",
+    "github_org": "1FLR"
+}

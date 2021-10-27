@@ -1,0 +1,23 @@
+{
+    "id": "plumcake-finance",
+    "symbol": "plum",
+    "name": "PlumCake Finance",
+    "platforms": {
+        "binance-smart-chain": "0xde8ed8c9480ea12d050182aa99630b235de30f83"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PlumCake is a brand new DeFi project designed by an experienced development team as the new generation deflationary yield farm on Binance Smart Chain.\r\n\r\nBesides the buyback burning mechanism introduced by Goose Finance, PlumCake have implemented unique innovative features to fight against the inflation problem faced by most traditional yield farms and even Goose Finance and Fullsail Finance.\r\n\r\nHere are some highlight features that have already been implemented:\r\n\r\n- Automatic Emission Reduction\r\n- Burning Mechanism \r\n   * Buyback burning\r\n   * Fresh Pools deposit fee burning\r\n- Migrator Code Removed\r\n- Timelock Added at Launch"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xde8ed8c9480ea12d050182aa99630b235de30f83",
+    "url": "https://plumcake.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xde8ed8c9480ea12d050182aa99630b235de30f83"
+    ],
+    "twitter": "plumcakefinance",
+    "telegram": "plum_cake",
+    "github_org": "plum-cake"
+}

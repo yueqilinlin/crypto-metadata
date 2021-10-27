@@ -1,0 +1,32 @@
+{
+    "id": "neon-exchange",
+    "symbol": "nex",
+    "name": "Nash",
+    "platforms": {
+        "neo": "3a4acd3647086e7c44398aac0349802e6a171129",
+        "ethereum": "0xe2dc070524a6e305ddb64d8513dc444b6a1ec845"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Polygon Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Nash bridges the gap between crypto and your local currency. Nash\u2019s crypto/cash exchange service combines the lowest fees with instant delivery to the safest software wallet. This fiat gateway is also available as a white-label solution for third parties looking to offer their users the best rates. With Nash Link for business, merchants can easily accept crypto from their customers and receive cash. Nash\u2019s upcoming digital banking services will seamlessly integrate traditional and decentralized finance (DeFi), with DeFi-powered high-interest earnings and a crypto debit card.\r\n\r\nThe NEX token entitles holders to up to a 75% proportionate share of Nash\u2019s revenue, from sources including: Layer-2 exchange fees; fiat spot market fees; fees from Nash fiat ramps for third parties; fiat/crypto conversion fees for DeFi earnings; and Nash debit card transaction fees.\r\n\r\nNEX is a fully registered security, protecting investors from market manipulation and subsequent enforcement of regulations. Nash itself does not yet possess a license to trade securities, so the token is currently only available on other secondary markets."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "3a4acd3647086e7c44398aac0349802e6a171129",
+    "url": "https://nash.io",
+    "explorers": [
+        "https://neoscan.io/asset/3a4acd3647086e7c44398aac0349802e6a171129",
+        "https://scan.nel.group/nep5/0x3a4acd3647086e7c44398aac0349802e6a171129",
+        "https://etherscan.io/token/0xe2dc070524a6e305ddb64d8513dc444b6a1ec845"
+    ],
+    "twitter": "nashsocial",
+    "telegram": "nashsocial",
+    "reddit": "neonexchange",
+    "github_org": "nash-io"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "ape-punk",
+    "symbol": "ape$",
+    "name": "APE Punk",
+    "platforms": {
+        "ethereum": "0x26ea1f595f6567b7050fbba24f6a66e19db4d560"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Niftex Shards"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x26ea1f595f6567b7050fbba24f6a66e19db4d560",
+    "url": "https://www.niftex.com/launches/details/APE$",
+    "explorers": [
+        "https://etherscan.io/token/0x26ea1f595f6567b7050fbba24f6a66e19db4d560",
+        "https://ethplorer.io/address/0x26ea1f595f6567b7050fbba24f6a66e19db4d560"
+    ]
+}

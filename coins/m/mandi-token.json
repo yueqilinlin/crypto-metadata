@@ -1,0 +1,26 @@
+{
+    "id": "mandi-token",
+    "symbol": "mandi",
+    "name": "Mandi Token",
+    "platforms": {
+        "ethereum": "0x5aa485e6b794bcf5f834bf5c7ff43b9b83322764"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Mandi token is a digital representation of a portfolio of capital allocated to real-world assets."
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0x5aa485e6b794bcf5f834bf5c7ff43b9b83322764",
+    "url": "https://manditoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x5aA485E6b794bcf5F834BF5c7FF43B9B83322764",
+        "https://ethplorer.io/address/0x5aA485E6b794bcf5F834BF5c7FF43B9B83322764"
+    ],
+    "twitter": "manditoken",
+    "facebook": "Manditokenio-104550877723503",
+    "telegram": "manditoken"
+}

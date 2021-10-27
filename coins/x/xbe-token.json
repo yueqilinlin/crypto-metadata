@@ -1,0 +1,24 @@
+{
+    "id": "xbe-token",
+    "symbol": "xbe",
+    "name": "XBE Token",
+    "platforms": {
+        "ethereum": "0x5de7cc4bcbca31c473f6d2f27825cfb09cc0bb16"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ERC20 governance token that affords the holder the right to vote and earning reward fees when staking in the upcoming governance contracts.\r\n\r\nPer the launch liquidity incentive program 12,000 of the 15,000 XBE governance tokens were distributed to liquidity providers across the 4 initial EURxb stablecoin pools, which concluded on Wednesday 3rd of March at 11h00.  With no investor or founder allocations, this was a fair and free distribution to early-bird liquidity providers.\r\n\r\n\u200d"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5de7cc4bcbca31c473f6d2f27825cfb09cc0bb16",
+    "url": "https://xbe.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x5de7cc4bcbca31c473f6d2f27825cfb09cc0bb16",
+        "https://ethplorer.io/address/0x5de7cc4bcbca31c473f6d2f27825cfb09cc0bb16"
+    ],
+    "twitter": "XBEfinance",
+    "telegram": "xbefinance ",
+    "github_org": "EURxbfinance"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "venus-dot",
+    "symbol": "vdot",
+    "name": "Venus DOT",
+    "platforms": {
+        "binance-smart-chain": "0x1610bc33319e9398de5f57b33a5b184c806ad217"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Venus is an algorithmic money market and synthetic stablecoin decentralized finance protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1610bc33319e9398de5f57b33a5b184c806ad217",
+    "url": "https://venus.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x1610bc33319e9398de5f57b33a5b184c806ad217"
+    ],
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+}

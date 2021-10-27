@@ -1,0 +1,21 @@
+{
+    "id": "sxc",
+    "symbol": "sxc",
+    "name": "SXC Token",
+    "platforms": {
+        "ethereum": "0x6a48ba795e3289b9151036e189e352e3ee2c7798"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SXC is the stable currency of XT.com trading platform, with the price pegged at 1 RMB per unit."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6a48ba795e3289b9151036e189e352e3ee2c7798",
+    "url": "www.xt.com",
+    "explorers": [
+        "https://etherscan.io/token/0x6a48ba795e3289b9151036e189e352e3ee2c7798",
+        "https://ethplorer.io/address/0x6a48ba795e3289b9151036e189e352e3ee2c7798"
+    ]
+}

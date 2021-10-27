@@ -1,0 +1,26 @@
+{
+    "id": "solana",
+    "symbol": "sol",
+    "name": "Solana",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://solana.com/",
+    "explorers": [
+        "https://explorer.solana.com/",
+        "https://solscan.io/",
+        "https://solanabeach.io/"
+    ],
+    "twitter": "solana",
+    "telegram": "solana",
+    "reddit": "solana",
+    "github_org": "solana-labs"
+}

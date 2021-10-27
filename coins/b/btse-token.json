@@ -1,0 +1,28 @@
+{
+    "id": "btse-token",
+    "symbol": "btse",
+    "name": "BTSE Token",
+    "platforms": {
+        "ethereum": "0x666d875c600aa06ac1cf15641361dec3b00432ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "The BTSE token powers the BTSE ecosystem and enhances your trading experience.\r\n"
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x666d875c600aa06ac1cf15641361dec3b00432ef",
+    "url": "https://www.btse.com/en/token",
+    "explorers": [
+        "https://blockstream.info/liquid/asset/b00b0ff0b11ebd47f7c6f57614c046dbbd204e84bf01178baf2be3713a206eb7",
+        "https://etherscan.io/token/0x666d875c600aa06ac1cf15641361dec3b00432ef",
+        "https://ethplorer.io/address/0x666d875c600aa06ac1cf15641361dec3b00432ef"
+    ],
+    "twitter": "btsecom",
+    "facebook": "btsecom",
+    "telegram": "btsecom",
+    "reddit": "btsecom/"
+}

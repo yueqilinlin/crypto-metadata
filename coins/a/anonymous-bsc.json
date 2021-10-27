@@ -1,0 +1,23 @@
+{
+    "id": "anonymous-bsc",
+    "symbol": "anon",
+    "name": "Anonymous BSC",
+    "platforms": {
+        "binance-smart-chain": "0xfd78aaed1e3f2d06dbde9510c6dc14112eca896d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Anomyous BSC is a project aimed to blacklist and stop scammers in an otherwise unregulated market. Our efforts are around finding and tracking those that scam other out of money. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfd78aaed1e3f2d06dbde9510c6dc14112eca896d",
+    "url": "https://www.anonymousbsc.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xfd78aaed1e3f2d06dbde9510c6dc14112eca896d"
+    ],
+    "twitter": "BscAnon",
+    "telegram": "anonymousbsc",
+    "reddit": "anonymousbsc"
+}

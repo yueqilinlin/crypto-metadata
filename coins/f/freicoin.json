@@ -1,0 +1,20 @@
+{
+    "id": "freicoin",
+    "symbol": "frc",
+    "name": "Freicoin",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": "Freicoin is a demurrage currencies that aligns the incentives of bankers and financiers. It loses approximately 5% of its value each year where the destroyed money is permanently taken out of circulation. An equal amount of freshly minted Freicoin will be created to help maintain supply."
+    },
+    "country_origin": "",
+    "genesis_date": "2012-12-21",
+    "url": "http://freico.in/",
+    "explorers": [
+        "http://explorer.sicanet.net/"
+    ],
+    "twitter": "Freicoin",
+    "reddit": "freicoin/",
+    "github_org": "freicoin"
+}

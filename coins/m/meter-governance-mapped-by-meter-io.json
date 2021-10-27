@@ -1,0 +1,26 @@
+{
+    "id": "meter-governance-mapped-by-meter-io",
+    "symbol": "eMTRG",
+    "name": "Meter Governance mapped by Meter.io",
+    "platforms": {
+        "ethereum": "0xbd2949f67dcdc549c6ebe98696449fa79d988a9f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "eMTRG is 1:1 wrapped ERC-20 version of MTRG, the governance coin of the Meter network. It can be used to access the Ethereum DeFi ecosystem, such as for liquidity mining and more.  MTRG and eMTRG could be converted through bridge link on https://meter.io/crosschain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbd2949f67dcdc549c6ebe98696449fa79d988a9f",
+    "url": "https://www.meter.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xbd2949f67dcdc549c6ebe98696449fa79d988a9f",
+        "https://ethplorer.io/address/0xbd2949f67dcdc549c6ebe98696449fa79d988a9f"
+    ],
+    "twitter": "Meter_IO",
+    "facebook": "MeterFoundation",
+    "telegram": "meter_io",
+    "reddit": "https://www.reddit.com",
+    "github_org": "meterio"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "pawgcoin",
+    "symbol": "pawg",
+    "name": "PAWGcoin",
+    "platforms": {
+        "binance-smart-chain": "0x19b60612f9a93359bca835a788a334d4157e675b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PAWGcoin is disrupting the viral meme coin market by providing a cryptocurrency that powers transactions between content creators and content enthusiasts of tasteful noods.\r\n\r\nOur product roadmap is centered around the creation of a platform for content creators and consumers where creators can create and offer exclusive NFTs and NSFW content to their fans. All NFTs and content will be available for purchase with PAWGcoin!\r\n\r\nContent Creators will have the tools to upload pictures, GIFs, and videos, determine the amount available for purchase, and have the ability to set a $PAWG price or allow fans to place $PAWG bids on their NFTs."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x19b60612f9a93359bca835a788a334d4157e675b",
+    "url": "https://www.pawgcoin.io",
+    "explorers": [
+        "https://bscscan.com/token/0x19B60612F9A93359bca835A788A334D4157E675B"
+    ],
+    "twitter": "PAWGcoinbsc",
+    "telegram": "pawgcoinbsc",
+    "reddit": "PAWGcoinBSC/"
+}

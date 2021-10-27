@@ -1,0 +1,23 @@
+{
+    "id": "floki-adventure",
+    "symbol": "fiat",
+    "name": "Floki Adventure",
+    "platforms": {
+        "ethereum": "0x8b23b79ea039cf7242a91f2e3ef88df6f565d1ff"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Floki Adventure (FIAT) is an ERC20 token on the Ethereum blockchain. \r\nIt's purpose is to serve as the utility token for a play-to-earn (P2E) mobile video game (Floki Inu Adventure) where players navigate different levels and complete challenges in order to earn tokens. \r\nFIAT is used to unlock in-game special features, upgrades, and downloadable skins."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8b23b79ea039cf7242a91f2e3ef88df6f565d1ff",
+    "url": "https://flokiadventure.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8b23b79ea039cf7242a91f2e3ef88df6f565d1ff",
+        "https://ethplorer.io/address/0x8b23b79ea039cf7242a91f2e3ef88df6f565d1ff"
+    ],
+    "twitter": "flokiadventure",
+    "telegram": "flokiadventure"
+}

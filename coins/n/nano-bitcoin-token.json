@@ -1,0 +1,24 @@
+{
+    "id": "nano-bitcoin-token",
+    "symbol": "nbtc",
+    "name": "Nano Bitcoin Token",
+    "platforms": {
+        "binance-smart-chain": "0x8f1b3af2d1e56f7c24e80d8626a4b22d269e1792"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Nano Bitcoin nBTC is the first meme token with super tiny total supply hard-coded on its smart contract and 100% liquidity supply locked for 1 year."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x8f1b3af2d1e56f7c24e80d8626a4b22d269e1792",
+    "url": "https://mbitcoin.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x8f1b3af2d1e56f7c24e80d8626a4b22d269e1792"
+    ],
+    "twitter": "mbitcoin_mbtc",
+    "telegram": "mbtc_finance",
+    "reddit": "mBTCFinance/",
+    "github_org": "mbitcoin-finance"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "basis-dollar-share",
+    "symbol": "bsds",
+    "name": "Basis Dollar Share",
+    "platforms": {
+        "ethereum": "0xe7c9c188138f7d70945d420d75f8ca7d8ab9c700"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "BSDS is the seigniorage share and can be earned by staking BSD."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe7c9c188138f7d70945d420d75f8ca7d8ab9c700",
+    "url": "https://basisdollar.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0xE7C9C188138f7D70945D420d75F8Ca7d8ab9c700",
+        "https://ethplorer.io/address/0xe7c9c188138f7d70945d420d75f8ca7d8ab9c700"
+    ],
+    "twitter": "BasisDollar",
+    "telegram": "BasisDollar_Fi",
+    "github_org": "basisdollar"
+}

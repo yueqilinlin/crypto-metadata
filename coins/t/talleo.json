@@ -1,0 +1,23 @@
+{
+    "id": "talleo",
+    "symbol": "tlo",
+    "name": "Talleo",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Fast transfer cryptocurrency for easy and simple payments. "
+    },
+    "country_origin": "FI",
+    "genesis_date": "2019-12-01",
+    "url": "https://www.talleo.org/",
+    "explorers": [
+        "https://explorer.talleo.org"
+    ],
+    "twitter": "TalleoProject",
+    "facebook": "talleoproject",
+    "telegram": "talleo",
+    "github_org": "TalleoProject"
+}

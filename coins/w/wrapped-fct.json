@@ -1,0 +1,22 @@
+{
+    "id": "wrapped-fct",
+    "symbol": "wfct",
+    "name": "Wrapped FCT",
+    "platforms": {
+        "ethereum": "0x415acc3c6636211e67e248dc28400b452acefa68"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wrapped FCT (WFCT) is community led, 100% backed and verifiable FCT token, issued on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x415acc3c6636211e67e248dc28400b452acefa68",
+    "url": "https://wfct.network",
+    "explorers": [
+        "https://etherscan.io/token/0x415acc3c6636211e67e248dc28400b452acefa68",
+        "https://ethplorer.io/address/0x415acc3c6636211e67e248dc28400b452acefa68"
+    ],
+    "github_org": "FactomProject"
+}

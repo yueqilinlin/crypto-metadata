@@ -1,0 +1,24 @@
+{
+    "id": "nimbus-governance-token",
+    "symbol": "gnbu",
+    "name": "Nimbus Governance Token",
+    "platforms": {
+        "ethereum": "0x639ae8f3eed18690bf451229d14953a5a5627b72"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GNBU - is a Nimbus Governance Token. Nimbus launches a DAO-governed ecosystem of dApps which generate multiple reward streams for users based on IPOs, Crowdfunding, P2P Lending, and Crypto Arbitrage-Trading. All accessible via one token: NBU."
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "contract_address": "0x639ae8f3eed18690bf451229d14953a5a5627b72",
+    "url": "https://nimbusplatform.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x639ae8f3eed18690bf451229d14953a5a5627b72",
+        "https://ethplorer.io/address/0x639ae8f3eed18690bf451229d14953a5a5627b72"
+    ],
+    "twitter": "nmbplatform",
+    "telegram": "nmbplatform",
+    "github_org": "nimbusplatformorg"
+}

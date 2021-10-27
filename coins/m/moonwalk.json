@@ -1,0 +1,22 @@
+{
+    "id": "moonwalk",
+    "symbol": "moonwalk",
+    "name": "MoonWalk",
+    "platforms": {
+        "binance-smart-chain": "0xaab13c27aaa573b83bcb705ffe2d4858569b615c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MoonWalk is a next generation deflationary token with a staking reward built on the Binance Smart Chain. Our target is simple, with our dedicated team and its great community, we will walk our way to the moon!"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xaab13c27aaa573b83bcb705ffe2d4858569b615c",
+    "url": "https://moonwalk.social/",
+    "explorers": [
+        "https://bscscan.com/token/0xaab13c27aaa573b83bcb705ffe2d4858569b615c"
+    ],
+    "twitter": "MoonWalkOffcial",
+    "telegram": "MoonWalkOfficial"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "sing-token-bsc",
+    "symbol": "sing",
+    "name": "Sing Token (BSC)",
+    "platforms": {
+        "binance-smart-chain": "0x23894c0ce2d79b79ea33a4d02e67ae843ef6e563"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Multichain, Yield farming project with triple farming system deployed. Launched on Polygon, BSC, Avalanche"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x23894c0ce2d79b79ea33a4d02e67ae843ef6e563",
+    "url": "https://singular.farm/",
+    "explorers": [
+        "https://bscscan.com/token/0x23894C0ce2d79B79Ea33A4D02e67ae843Ef6e563"
+    ],
+    "twitter": "singularfarm",
+    "telegram": "singularfarm",
+    "github_org": "singularfarm"
+}

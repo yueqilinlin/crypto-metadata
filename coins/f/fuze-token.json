@@ -1,0 +1,27 @@
+{
+    "id": "fuze-token",
+    "symbol": "fuze",
+    "name": "FUZE Token",
+    "platforms": {
+        "ethereum": "0x187d1018e8ef879be4194d6ed7590987463ead85"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Other"
+    ],
+    "description": {
+        "en": "What is FUZE?\r\nFUZE Token is a fully community-driven social experiment and the world\u2019s first self-deflationary currency with a supply of 1000 tokens and a 5% burn rate.\r\n\r\nWhy FUZE?\r\nA difference between FUZE and most other deflationary projects is that there is no dev holding/allocation \u2014 every token was distributed fairly by airdrops. This distinguishes FUZE as a token created entirely for its community.\r\n\r\nWhat\u2019s the purpose of the FUZE project?\r\nOur main goal is to build a community that decides in which direction the FUZE Token should go. Future functions or use-cases can be built by any member of the community. Of course, the main function right now is the deflationary token model \u2014 this means the total supply decreases with each transaction.\r\n\r\nWhy a deflationary token?\r\nWe like the concept of this kind of token model because it exemplifies the hodler mentality. Let\u2019s say you buy FUZE Tokens for 1 ETH \u2014 you are incentivized to hold your FUZE because each time you send it to another address, 5% will be burned. This naturally encourages hodling, rather than sending. This token burn will naturally drive token appreciation through driving an increase in scarcity vs demand."
+    },
+    "country_origin": "ZZ",
+    "genesis_date": null,
+    "contract_address": "0x187d1018e8ef879be4194d6ed7590987463ead85",
+    "url": "https://fuzetoken.net",
+    "explorers": [
+        "https://etherscan.io/token/0x187d1018e8ef879be4194d6ed7590987463ead85",
+        "https://ethplorer.io/address/0x187d1018e8ef879be4194d6ed7590987463ead85"
+    ],
+    "twitter": "TokenFuze",
+    "telegram": "FUZE_Token",
+    "reddit": "FUZE_Token/",
+    "github_org": "fuzeteam"
+}

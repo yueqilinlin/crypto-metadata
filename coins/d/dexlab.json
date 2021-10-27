@@ -1,0 +1,25 @@
+{
+    "id": "dexlab",
+    "symbol": "dxl",
+    "name": "Dexlab",
+    "platforms": {
+        "solana": "GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "Dexlab makes launching on Solana easy with a token minting lab, a launchpad and a dedicated DEX for all listings\r\n\r\nWhat is Dexlab? Dexlab is an integrated DEX platform that provides a GUI to issue Solana-based tokens without the need to code. It leverages the Serum Decentralized Exchange (DEX)'s central order book to support ultra-fast transactions, shared liquidity, and new features for monetization.\r\n\r\nThe SPL CLI is the primary method to create and manage Solana tokens.  Currently, it lacks the linkage to be able to manage environment settings, token sales, market listings, and token information.  With Dexlab's GUI, one will be able to manage these settings, and be able to do everything from token issuance to adjusting utility settings."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z",
+    "url": "https://www.dexlab.space/",
+    "explorers": [
+        "https://solscan.io/token/GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z",
+        "https://explorer.solana.com/address/GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z"
+    ],
+    "twitter": "dexlab_official",
+    "telegram": "DexLab_official"
+}

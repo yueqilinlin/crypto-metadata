@@ -1,0 +1,22 @@
+{
+    "id": "automatic-network",
+    "symbol": "aumi",
+    "name": "AutoMatic Network",
+    "platforms": {
+        "polygon-pos": "0x3eb177a6693ec81d1e170136f8ad02fffbe172a7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Empowering yield-seeking farmers to optimize compounding strategies on the Polygon chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3eb177a6693ec81d1e170136f8ad02fffbe172a7",
+    "url": "https://www.automatic.network/",
+    "explorers": [
+        "https://polygonscan.com/token/0x3eB177A6693eC81d1E170136f8AD02fffBE172a7"
+    ],
+    "twitter": "AutoMaticYield",
+    "telegram": "automaticupdates"
+}

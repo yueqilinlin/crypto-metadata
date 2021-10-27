@@ -1,0 +1,24 @@
+{
+    "id": "exzocoin",
+    "symbol": "exzo",
+    "name": "ExzoCoin 2.0",
+    "platforms": {
+        "binance-smart-chain": "0xf8fc63200e181439823251020d691312fdcf5090"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ExzoCoin 2.0 (EXZO) is a utility token that will be utilized on our decentralized exchange mobile application. It will also be utilized in our cloud mining community for participants to utilize the token as a reward-based system to access our platform for free.\r\n\r\nIt will be integrated into our own blockchain once it\u2019s established to work as a paired network by giving physical products a unique identity, usually through RFID (radio frequency identification), QR Codes, or NFC (near-field communication). Sensors record information at every stage of the supply chain, and are recorded and linked to the product\u2019s identity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf8fc63200e181439823251020d691312fdcf5090",
+    "url": "https://exzocoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xf8fc63200e181439823251020d691312fdcf5090"
+    ],
+    "twitter": "exzocoin",
+    "facebook": "exzocoin",
+    "telegram": "exzocoin",
+    "github_org": "screadore"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "deepspace",
+    "symbol": "dps",
+    "name": "DEEPSPACE",
+    "platforms": {
+        "binance-smart-chain": "0xf275e1ac303a4c9d987a2c48b8e555a77fec3f1c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Play To Earn",
+        "Entertainment",
+        "Binance Smart Chain Ecosystem",
+        "Gaming"
+    ],
+    "description": {
+        "en": "\"Our project combines frictionless passive income and play-to-earn mechanics that directly reward you for playing!\r\n\r\nEarn through sharing transaction tax rewards and creating, owning, upgrading, and fighting with spacecraft!\r\n\r\nA blockchain-based Play-to-Earn game with a supporting NFT marketplace is currently under development.\r\n\r\nGrab a starship and explore the galaxy of DEEPSPACE. Travel to the edges of the galaxy to mine, build, and battle!\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf275e1ac303a4c9d987a2c48b8e555a77fec3f1c",
+    "url": "https://deepspace.game/",
+    "explorers": [
+        "https://bscscan.com/token/0xf275e1ac303a4c9d987a2c48b8e555a77fec3f1c"
+    ],
+    "twitter": "DeepSpaceBSC",
+    "telegram": "DeepSpaceGame",
+    "reddit": "DeepSpaceGame/",
+    "github_org": "deepspace-game"
+}

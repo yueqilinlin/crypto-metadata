@@ -1,0 +1,29 @@
+{
+    "id": "edge",
+    "symbol": "edge",
+    "name": "Edge",
+    "platforms": {
+        "ethereum": "0x4ec1b60b96193a64acae44778e51f7bff2007831"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Peer-to-peer serverless infrastructure, powered by blockchain technology and built using the spare capacity all around us. The future of the cloud is Edge."
+    },
+    "country_origin": "GB",
+    "genesis_date": "2018-02-16",
+    "contract_address": "0x4ec1b60b96193a64acae44778e51f7bff2007831",
+    "url": "https://edge.network/en/",
+    "explorers": [
+        "https://explorer.edge.network/",
+        "https://etherscan.io/token/0x4ec1b60b96193a64acae44778e51f7bff2007831",
+        "https://ethplorer.io/address/0x4ec1b60b96193a64acae44778e51f7bff2007831"
+    ],
+    "twitter": "edgenetwork",
+    "facebook": "edgenetworktech",
+    "telegram": "edgenetwork",
+    "reddit": "edgenetwork",
+    "github_org": "edge"
+}

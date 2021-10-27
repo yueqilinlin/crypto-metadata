@@ -1,0 +1,23 @@
+{
+    "id": "bitup",
+    "symbol": "bitup",
+    "name": "BitUp",
+    "platforms": {
+        "binance-smart-chain": "0x28a27ba716d306c842a4b5da20a42e1d4d1e8d6b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BitUP is the first and only BSC token that brings together rebasing and BTC rewards. The rebasing or \"elastic supply\" allows the supply to be lowered hourly. Each negative rebase lowers the supply and provides a green candle, causing the chart to always go up, and the supply to constantly decrease. The supply will decrease every hour, causing each holder to lose tokens proportionally, while also  increase the token price to maintain market cap. The BTC rewards are distributed evenly and fairly between all holders, rewarding them for holding.  The tokenomics include a tax in order to automatically provide to liquidity pool, marketing wallet, and the BTC rewards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x28a27ba716d306c842a4b5da20a42e1d4d1e8d6b",
+    "url": "https://www.bitup.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x28a27ba716d306c842a4b5da20a42e1d4d1e8d6b"
+    ],
+    "twitter": "bitupbsc",
+    "telegram": "BitUP_Official",
+    "github_org": "BitUPBSC"
+}

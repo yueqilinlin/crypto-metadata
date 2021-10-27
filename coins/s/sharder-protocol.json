@@ -1,0 +1,26 @@
+{
+    "id": "sharder-protocol",
+    "symbol": "ss",
+    "name": "Sharder protocol",
+    "platforms": {
+        "ethereum": "0xbbff862d906e348e9946bfb2132ecb157da3d4b4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Storage"
+    ],
+    "description": {
+        "en": "Sharder Protocol is a cross-chain distributed storage protocol based on blockchain 3.0 and aims to greatly optimize the current\r\nblockchain technology, starting with the application of distributed storage and expanding to many other commercial applications. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xbbff862d906e348e9946bfb2132ecb157da3d4b4",
+    "url": "https://sharder.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xbbff862d906e348e9946bfb2132ecb157da3d4b4",
+        "https://ethplorer.io/address/0xbbff862d906e348e9946bfb2132ecb157da3d4b4"
+    ],
+    "twitter": "SharderChain",
+    "telegram": "sharder_talk",
+    "github_org": "Sharders"
+}

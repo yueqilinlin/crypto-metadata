@@ -1,0 +1,22 @@
+{
+    "id": "kickstarter",
+    "symbol": "KSR",
+    "name": "Kickstarter",
+    "platforms": {
+        "binance-smart-chain": "0x9c373aef0b9831f7895e6d6565683d628cf1c151"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kickstarter is a Multi chain incubator and launchpad for only the highest quality blockchain projects, delivering maximum value to investors and developers."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9c373aef0b9831f7895e6d6565683d628cf1c151",
+    "url": "https://kickstarter.space/",
+    "explorers": [
+        "https://bscscan.com/token/0x9c373aef0b9831f7895e6d6565683d628cf1c151"
+    ],
+    "twitter": "kickincubator3",
+    "telegram": "kickstarter_official"
+}

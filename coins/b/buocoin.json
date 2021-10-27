@@ -1,0 +1,23 @@
+{
+    "id": "buocoin",
+    "symbol": "buoc",
+    "name": "BuoCoin",
+    "platforms": {
+        "tron": "TEaXzPyaBYmZCe1bhKyXdcicmW9quyt4cV"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Buocoin (BUOC) Shelter rehabilitation designed to benefit all over the world aiming to ensure that central and stray animals lead a healthy and happy life is its general name."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "TEaXzPyaBYmZCe1bhKyXdcicmW9quyt4cV",
+    "url": "https://buocoin.com/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TEaXzPyaBYmZCe1bhKyXdcicmW9quyt4cV"
+    ],
+    "twitter": "Buocoinnews",
+    "telegram": "buocoinofis",
+    "github_org": "BuoCoinproject"
+}

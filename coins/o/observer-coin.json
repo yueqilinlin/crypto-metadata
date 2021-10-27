@@ -1,0 +1,22 @@
+{
+    "id": "observer-coin",
+    "symbol": "obsr",
+    "name": "OBSERVER Coin",
+    "platforms": {},
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "OBSERVER Coin is an utility coin that promotes crowd-sourced weather data trading. \r\nIndividuals earn OBSR by sending personal weather observations, such as air temperature, pressure, humidity, and fine dust concentrations, to the OBSERVER FOUNDATION. \r\nWhenever observations are successfully performed, the details are recorded in a royalty token, ROT, and the data provider receives OBSR as compensation. All observations are subject to quality control by meteorological experts and managed through big data technology. Data buyers can purchase OBSR from the cryptocurrency exchanges for weather data and acquire data through the OBSERVER FOUNDATION."
+    },
+    "country_origin": "KR",
+    "genesis_date": "2018-10-05",
+    "url": "https://www.obsr.org",
+    "explorers": [
+        "https://explorer.obsr.org/#/"
+    ],
+    "twitter": "observerfounda1",
+    "facebook": "observerfoundation",
+    "telegram": "observer_official",
+    "reddit": "OBSR/",
+    "github_org": "observernet"
+}

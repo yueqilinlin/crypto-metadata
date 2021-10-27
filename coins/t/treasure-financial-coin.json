@@ -1,0 +1,26 @@
+{
+    "id": "treasure-financial-coin",
+    "symbol": "tfc",
+    "name": "Treasure Financial Coin",
+    "platforms": {
+        "ethereum": "0x8694ee05b45c9fe1058ce532de8dbcf1d84a4154"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Spend cryptocurrencies everywhere in the world with your own Crypto Mastercard"
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x8694ee05b45c9fe1058ce532de8dbcf1d84a4154",
+    "url": "http://treasure-financial-bank.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8694ee05b45c9fe1058ce532de8dbcf1d84a4154",
+        "https://ethplorer.io/address/0x8694ee05b45c9fe1058ce532de8dbcf1d84a4154"
+    ],
+    "twitter": "financialcoin",
+    "facebook": "Treasure-Coin-148332512536024",
+    "telegram": "treasure_financial_group"
+}

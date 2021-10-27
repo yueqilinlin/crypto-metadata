@@ -1,0 +1,21 @@
+{
+    "id": "theta-fuel",
+    "symbol": "tfuel",
+    "name": "Theta Fuel",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The operational token of the Theta protocol. TFUEL powers on-chain operations like payments to relayers for sharing a video stream, or for deploying or interacting with smart contracts. Relayers earn TFUEL for every video stream they relay to other users on the network. You can think of Theta Fuel as the \"gas\" of the protocol. At Mainnet launch on March 15th, TFUEL will be created as a native token on the Theta blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.thetatoken.org/",
+    "explorers": [
+        "https://explorer.thetatoken.org/"
+    ],
+    "twitter": "Theta_Network",
+    "facebook": "ThetaNetwork",
+    "reddit": "theta_network/",
+    "github_org": "thetatoken"
+}

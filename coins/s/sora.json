@@ -1,0 +1,30 @@
+{
+    "id": "sora",
+    "symbol": "xor",
+    "name": "Sora",
+    "platforms": {
+        "ethereum": "0x40fd72257597aa14c7231a7b1aaa29fce868f677",
+        "sora": "0x0200000000000000000000000000000000000000000000000000000000000000"
+    },
+    "hashing_algorithm": "SHA-3",
+    "categories": [
+        "Cryptocurrency",
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "Sora is a supranational world economic system and decentralized and democratic governance structure. \r\nSORA is both a new economic system that decentralizes the concept of a central bank as well as a network in the Polkadot ecosystem that will connect to the Polkadot relay chain and the parachains with built-in tools focused on DeFi.\r\nThe SORA Network excels at providing tools for decentralized applications that use digital assets, such as atomic token swaps, bridging tokens to other blockchains, and creating programmatic rules involving digital assets.\r\n\u200bSORA Parliament is the governance system for the SORA Network."
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "contract_address": "0x40fd72257597aa14c7231a7b1aaa29fce868f677",
+    "url": "https://sora.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x40FD72257597aA14C7231A7B1aaa29Fce868F677",
+        "https://ethplorer.io/address/0x40FD72257597aA14C7231A7B1aaa29Fce868F677",
+        "https://sorascan.com/sora-mainnet"
+    ],
+    "twitter": "sora_xor",
+    "telegram": "sora_xor",
+    "reddit": "SORA/",
+    "github_org": "soramitsu"
+}

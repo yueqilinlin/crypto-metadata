@@ -1,0 +1,22 @@
+{
+    "id": "yield-bear",
+    "symbol": "ybear",
+    "name": "Yield Bear",
+    "platforms": {
+        "binance-smart-chain": "0xa8da060ebd32a753005c6ee476a0d79177c6ea8b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YBEAR is a next generation reflective deflationary protocol built on Binance Smart Chain.\r\nYBEAR is capable of generating instant returns without gas, this means that holders can generate returns simply by holding the tokens in their wallet, with no further action required.\r\nWhenever a transaction is made, a commission is instantly applied.\r\nA percentage (5%) of the commission is automatically redistributed to all token holders (reflection function), the remaining part (2%) is burned, making our token deflationary."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xa8da060ebd32a753005c6ee476a0d79177c6ea8b",
+    "url": "https://ybear.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xa8da060ebd32a753005c6ee476a0d79177c6ea8b"
+    ],
+    "twitter": "yieldbear",
+    "telegram": "ybearfinance"
+}

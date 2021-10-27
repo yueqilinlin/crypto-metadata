@@ -1,0 +1,24 @@
+{
+    "id": "catgirl",
+    "symbol": "catgirl",
+    "name": "Catgirl",
+    "platforms": {
+        "binance-smart-chain": "0x79ebc9a2ce02277a4b5b3a768b1c0a4ed75bd936"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CATGIRL\u00a2 is an NFT focused, community driven crypto currency, with real world use."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x79ebc9a2ce02277a4b5b3a768b1c0a4ed75bd936",
+    "url": "https://www.catgirl.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x79ebc9a2ce02277a4b5b3a768b1c0a4ed75bd936"
+    ],
+    "twitter": "catgirlcoin",
+    "telegram": "catgirlcoin",
+    "reddit": "catgirlcoin/",
+    "github_org": "catgirlcoin"
+}

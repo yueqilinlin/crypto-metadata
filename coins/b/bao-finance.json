@@ -1,0 +1,25 @@
+{
+    "id": "bao-finance",
+    "symbol": "bao",
+    "name": "Bao Finance",
+    "platforms": {
+        "ethereum": "0x374cb8c27130e2c9e04f44303f3c8351b9de61c1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "Warning: Bao Finance is in alpha, it is unaudited and was originally developed by a one-person self-taught team. While we are in the process of scaling the team, please understand the risks and use this product accordingly.\r\n\r\nIt's like SNX + Aave, but for Uniswap, SushiSwap and Balancer.\r\n\r\nRather than re-invent the wheel Bao creates new features for existing protocols.\r\n\r\nThe BAO token acts as a governance token for the fully community run project. It is also backed by the insurance fund where all Bao fees go."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x374cb8c27130e2c9e04f44303f3c8351b9de61c1",
+    "url": "https://bao.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x374cb8c27130e2c9e04f44303f3c8351b9de61c1",
+        "https://ethplorer.io/address/0x374cb8c27130e2c9e04f44303f3c8351b9de61c1"
+    ],
+    "twitter": "thebaoman"
+}

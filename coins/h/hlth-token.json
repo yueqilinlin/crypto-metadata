@@ -1,0 +1,23 @@
+{
+    "id": "hlth-token",
+    "symbol": "hlth",
+    "name": "HLTH Token",
+    "platforms": {
+        "avalanche": "0x0342993a0a3bcff7668578082c3ad17b5277d97d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "World\u2019s first  base protocol layer for the digital healthcare economy."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0342993a0a3bcff7668578082c3ad17b5277d97d",
+    "url": "https://hlth.network/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0x0342993A0A3Bcff7668578082c3Ad17b5277D97D/token-transfers"
+    ],
+    "twitter": "hlth_network",
+    "telegram": "HLTHnet",
+    "reddit": "hlthnetwork"
+}

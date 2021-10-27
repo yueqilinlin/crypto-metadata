@@ -1,0 +1,26 @@
+{
+    "id": "rublix",
+    "symbol": "rblx",
+    "name": "Rublix",
+    "platforms": {
+        "ethereum": "0xfc2c4d8f95002c14ed0a7aa65102cac9e5953b5e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rublix is developing a unique ecosystem for investors, traders and market professionals. A place where reputation and accuracy dominates.\r\n\r\nCreated by Rublix, one of the most advanced DApps, Hedge, is designed for traders to share high-quality information verified using smart contracts and an immutable blockchain constructed to showcase prominent information. \r\n\r\nHedge is a place where experienced traders can earn RBLX tokens for providing accurate predictions and where trading newcomers can gain access to these predictions using  RBLX tokens."
+    },
+    "country_origin": "GI",
+    "genesis_date": null,
+    "contract_address": "0xfc2c4d8f95002c14ed0a7aa65102cac9e5953b5e",
+    "url": "http://rublix.io",
+    "explorers": [
+        "https://etherscan.io/token/0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E",
+        "https://ethplorer.io/address/0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E"
+    ],
+    "twitter": "RublixDev",
+    "facebook": "Rublixdev",
+    "telegram": "rublixdev",
+    "reddit": "Rublix",
+    "github_org": "rublixdev"
+}

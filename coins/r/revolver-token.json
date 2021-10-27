@@ -1,0 +1,22 @@
+{
+    "id": "revolver-token",
+    "symbol": "$rvlvr",
+    "name": "Revolver Token",
+    "platforms": {
+        "binance-smart-chain": "0x8776884a06cb51044ed921e7fa964d5fa3a0a16b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hold $RVLVR\r\nEarn specially curated BSC Tokens daily\r\nRevolver launched on AstroNAUT.to\r\n\u2705 Project audited by Dessert Finance\r\n\u2705 Rewards dashboard is now live"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8776884a06cb51044ed921e7fa964d5fa3a0a16b",
+    "url": "https://RevolverToken.com",
+    "explorers": [
+        "https://bscscan.com/token/0x8776884a06cB51044ED921E7Fa964D5fA3a0a16b"
+    ],
+    "twitter": "RevolverToken",
+    "telegram": "RevolverToken"
+}

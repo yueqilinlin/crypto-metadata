@@ -1,0 +1,20 @@
+{
+    "id": "gapcoin",
+    "symbol": "gap",
+    "name": "Gapcoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gapcoin is a new prime number based p2p cryptocurrency, which tries to eliminate the sticking points of other scientific currencies like Primecoin or Riecoin. \r\nIt's a fork of Satoshi Nakamotos Bitcoin, a decentralized payment system which is independent of banks, governments and other centralized regulators. \r\nWith Gapcoin, you will be able to anonymously send money around the globe in no time. The big improvement in comparison to Bitcoin is that instead of burning electricity for its own sake, Gapcoins Proof of Work function actually does useful work by searching for large prime gaps"
+    },
+    "country_origin": "",
+    "genesis_date": "2014-10-21",
+    "url": "https://gapcoin.club",
+    "explorers": [
+        "https://chainz.cryptoid.info/gap/"
+    ],
+    "twitter": "Gapcoin",
+    "reddit": "gapcoin",
+    "github_org": "gapcoin"
+}

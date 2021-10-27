@@ -1,0 +1,20 @@
+{
+    "id": "oec-tron",
+    "symbol": "trxk",
+    "name": "OEC Tron",
+    "platforms": {
+        "okex-chain": "0x00505505a7576d6734704fabb16f41924e3e384b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x00505505a7576d6734704fabb16f41924e3e384b",
+    "url": "https://www.okex.com/okexchain",
+    "explorers": [
+        "https://www.oklink.com/okexchain/tokenAddr/0x00505505a7576d6734704fabb16f41924e3e384b"
+    ]
+}

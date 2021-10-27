@@ -1,0 +1,30 @@
+{
+    "id": "loopring",
+    "symbol": "lrc",
+    "name": "Loopring",
+    "platforms": {
+        "ethereum": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+        "arbitrum-one": "0x46d0ce7de6247b0a95f67b43b589b4041bae7fbe"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Loopring is a Decentralized Exchange (DEX) built on an Ethereum Layer-2 (L2) solution called zkRollup. It has both Automated Market Maker (AMM)-based and orderbook-based exchanges.\u00a0\r\n\r\nzkRollup is an Ethereum L2 scaling solution that migrates computations off the blockchain. Loopring protocol only uses the underlying Ethereum blockchain as a data layer and a verification layer. As a result, Loopring's throughput is as high as 2,025 trades per second compared to Ethereum\u2019s current throughput of 15 transactions per second. The result is that the cost per trade settlement is as small as $0.00015.\r\n\r\nLoopring's performance is sufficient for professional traders and market makers to deploy algorithmic strategies and other automated trading bots. This was not previously possible on any DEX as it was prohibitively slow and expensive. By building on top of Loopring 3.0, orderbook-based DEXs can be commercially viable for the first time. Loopring expects non-custodial exchanges can begin to outcompete and displace many centralized counterparts."
+    },
+    "country_origin": "CN",
+    "genesis_date": "2017-08-01",
+    "contract_address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+    "url": "https://loopring.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+        "https://ethplorer.io/address/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd"
+    ],
+    "twitter": "loopringorg",
+    "telegram": "loopring_en",
+    "reddit": "loopringorg/",
+    "github_org": "Loopring"
+}

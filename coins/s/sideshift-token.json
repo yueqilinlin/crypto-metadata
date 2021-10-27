@@ -1,0 +1,23 @@
+{
+    "id": "sideshift-token",
+    "symbol": "xai",
+    "name": "SideShift Token",
+    "platforms": {
+        "ethereum": "0x35e78b3982e87ecfd5b3f3265b601c046cdbe232"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x35e78b3982e87ecfd5b3f3265b601c046cdbe232",
+    "url": "https://help.sideshift.ai/en/articles/4559651-what-is-sideshift-token-xai",
+    "explorers": [
+        "https://etherscan.io/token/0x35e78b3982e87ecfd5b3f3265b601c046cdbe232",
+        "https://ethplorer.io/address/0x35e78b3982e87ecfd5b3f3265b601c046cdbe232"
+    ],
+    "twitter": "sideshiftai",
+    "telegram": "sideshift"
+}

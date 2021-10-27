@@ -1,0 +1,25 @@
+{
+    "id": "banketh",
+    "symbol": "banketh",
+    "name": "BankEth",
+    "platforms": {
+        "ethereum": "0xbe0c826f17680d8da620855be89dd6544c034ca1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BankEth is a community inspired DeFi protocol built on Ethereum. Banketh tokens are the keys to your share of Eth held in the Vault. Users are able to Claim Eth accumulating in the Vault via the bespoke dashboard at https://www.banketh.finance/dashboard .\r\n\r\nInvestors are rewarded via 10% of every buy/sell being deposited into the Banketh Vault, ready to be redistributed and claimed by Banketh holders who earn & claim Eth.\u00a0\r\n\r\nIt is the team's goal to offer interest earning DeFi options to Banketh holders by leveraging established lending platforms \u2013 to earn interest on the Ether reflected into the Vault.\u00a0"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xbe0c826f17680d8da620855be89dd6544c034ca1",
+    "url": "https://www.banketh.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xbe0c826f17680d8da620855be89dd6544c034ca1",
+        "https://ethplorer.io/address/0xbe0c826f17680d8da620855be89dd6544c034ca1"
+    ],
+    "twitter": "banketh_f",
+    "telegram": "Banketh_official",
+    "reddit": "BankEth/",
+    "github_org": "BankEth-Finance"
+}

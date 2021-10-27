@@ -1,0 +1,23 @@
+{
+    "id": "help-coins",
+    "symbol": "hcs",
+    "name": "Help Coins",
+    "platforms": {
+        "binance-smart-chain": "0x2c0af42e89b79b86050f11c47603c85c08da329a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Help Coins (HCS) is The World\u2019s First Cryptocurrency for Charitable giving based on Binance Smart Chain \r\nToday, in the event that somebody needs to send an installment, for instance, one US Dollar to an association; the excursion taken by that dollar before it arrives at its objective is both incredibly tedious and exorbitant. This issue becomes compounded significantly further when managing various monetary standards Every refueling break and escape clause that dollar needs to make while in transit to its last objective declines its worth. It's consumed in legitimate, exchange, preparing and different charges until at long last, when this dollar shows up at its objective, just a small amount of it goes to the association that it was initially expected for. With Help Coins, this whole interaction can happen anyplace on the planet in a flash, at basically no expense."
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "contract_address": "0x2c0af42e89b79b86050f11c47603c85c08da329a",
+    "url": "https://help-coins.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x2c0af42e89b79b86050f11c47603c85c08da329a"
+    ],
+    "twitter": "coins_help",
+    "telegram": "HCStrade",
+    "github_org": "help-coins"
+}

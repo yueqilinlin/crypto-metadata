@@ -1,0 +1,24 @@
+{
+    "id": "dxiot",
+    "symbol": "dxiot",
+    "name": "dXIOT",
+    "platforms": {
+        "ethereum": "0x8b6dd24bcb2d0aea92c3abd4eb11103a5db6d714"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8b6dd24bcb2d0aea92c3abd4eb11103a5db6d714",
+    "url": "https://xiotri.io",
+    "explorers": [
+        "https://etherscan.io/token/0x8b6dd24bcb2d0aea92c3abd4eb11103a5db6d714",
+        "https://ethplorer.io/address/0x8b6dd24bcb2d0aea92c3abd4eb11103a5db6d714"
+    ],
+    "twitter": "xiotri_defi",
+    "telegram": "xiotri_chat",
+    "reddit": "https://www.reddit.com"
+}

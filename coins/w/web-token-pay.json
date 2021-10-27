@@ -1,0 +1,26 @@
+{
+    "id": "web-token-pay",
+    "symbol": "wtp",
+    "name": "Web Token Pay",
+    "platforms": {
+        "ethereum": "0x1680cfdad75da2bb56ded4f36bb9423c86ffa7b7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Retail"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1680cfdad75da2bb56ded4f36bb9423c86ffa7b7",
+    "url": "https://webtokenprofit.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1680cfdad75da2bb56ded4f36bb9423c86ffa7b7",
+        "https://ethplorer.io/address/0x1680cfdad75da2bb56ded4f36bb9423c86ffa7b7"
+    ],
+    "twitter": "WebTokenPay1",
+    "facebook": "webtoken.profit.3",
+    "telegram": "webtokenprofit"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "yfidapp",
+    "symbol": "yfid",
+    "name": "YFIDapp",
+    "platforms": {
+        "ethereum": "0x61266424b904d65ceb2945a1413ac322185187d5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YFIDapp is a secure and cost-effective DeFi platform that was founded in (2020) when decentralized finance was just becoming a buzzword. We developed YFIDapp as a solution to the existing hurdles faced in traditional finance such as expensive transactions, intermediaries, and slow processes."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x61266424b904d65ceb2945a1413ac322185187d5",
+    "url": "https://yfidapp.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x61266424B904d65cEb2945a1413Ac322185187D5",
+        "https://ethplorer.io/address/0x61266424B904d65cEb2945a1413Ac322185187D5"
+    ],
+    "twitter": "yfidapp",
+    "telegram": "YFIDappOfficial",
+    "github_org": "YFIDapp"
+}

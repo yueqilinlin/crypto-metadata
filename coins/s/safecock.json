@@ -1,0 +1,23 @@
+{
+    "id": "safecock",
+    "symbol": "safecock",
+    "name": "SafeCock",
+    "platforms": {
+        "binance-smart-chain": "0x2203bc8d8f238505d8ffcb23bdce347fb429b168"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeCock is a community driven project using several of the powerful tokenomic advances seen in many modern tokens. These include an auto-staking function that redistributes 2% of each transaction to existing tokenholders. In addition, 2% of each transaction is added to the liquidity pool, and 4% is burned.\r\n\r\nThe team and the community behind the project have a bold and positive vision that will prove both the power of memes and the power of advanced smart contract tokenomics in a single project. The meme component celebrates the noble rooster, just as many other animal-themed tokens do.\r\n\r\nPlans to launch an NFT platform and a DAO platform are already under way."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2203bc8d8f238505d8ffcb23bdce347fb429b168",
+    "url": "https://safecock.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x2203bc8d8f238505d8ffcb23bdce347fb429b168"
+    ],
+    "twitter": "safecockbsc",
+    "telegram": "SafeCock",
+    "reddit": "https://www.reddit.com"
+}

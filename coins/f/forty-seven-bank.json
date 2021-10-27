@@ -1,0 +1,27 @@
+{
+    "id": "forty-seven-bank",
+    "symbol": "fsbt",
+    "name": "FSBT API",
+    "platforms": {
+        "ethereum": "0x1ed7ae1f0e2fa4276dd7ddc786334a3df81d50c0"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Open API allows external developer to create modern financial services based on FSBT infrastructure and internal processes. These applications can both expand the functionality of service's products and adjust to needs of other company. Use cases of such applications are limited exclusively to developers\u2019 vision and preferences of potential clients. Users will be able to create a full set of FSBT services under personal brand (white label). With the help of this service, any institutional organisation will be able to use FSBT Tech applications and services without the need to modify their existing infrastructure. All that is going to be done while keeping your own clients and offering them dedicated FSBT API services under personal brand."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x1ed7ae1f0e2fa4276dd7ddc786334a3df81d50c0",
+    "url": "https://www.fsbt.tech/",
+    "explorers": [
+        "https://etherscan.io/token/0x1ed7ae1f0e2fa4276dd7ddc786334a3df81d50c0",
+        "https://ethplorer.io/address/0x1ed7ae1f0e2fa4276dd7ddc786334a3df81d50c0"
+    ],
+    "twitter": "fsbttech",
+    "facebook": "FSBT-Tech-309897252936549",
+    "telegram": "thefortyseven",
+    "github_org": "fortysevenbank"
+}

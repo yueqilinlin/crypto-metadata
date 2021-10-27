@@ -1,0 +1,29 @@
+{
+    "id": "ice-token",
+    "symbol": "ice",
+    "name": "Popsicle Finance",
+    "platforms": {
+        "ethereum": "0xf16e81dce15b08f326220742020379b855b87df9",
+        "binance-smart-chain": "0xf16e81dce15b08f326220742020379b855b87df9",
+        "fantom": "0xf16e81dce15b08f326220742020379b855b87df9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fantom Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "A next-gen cross-chain yield enhancement platform focusing on Automated Market-Making (AMM) Liquidity Providers (LP)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf16e81dce15b08f326220742020379b855b87df9",
+    "url": "https://popsicle.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xf16e81dce15b08f326220742020379b855b87df9",
+        "https://ethplorer.io/address/0xf16e81dce15b08f326220742020379b855b87df9",
+        "https://bscscan.com/token/0xf16e81dce15b08f326220742020379b855b87df9"
+    ],
+    "twitter": "PopsicleFinance",
+    "github_org": "Popsicle-Finance"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "yuki-coin",
+    "symbol": "yuki",
+    "name": "YUKI COIN",
+    "platforms": {
+        "ethereum": "0x5ab793e36070f0fac928ea15826b0c1bc5365119"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Other"
+    ],
+    "description": {
+        "en": "YUKI coin is a coin that goes one step ahead to promote movement of introducing Blockchain technology in our daily life. YUKI also connects Cryptocurrency holders through the YUKI Project, developing new society as the new 5th generation Cryptocurrency. \r\n\r\nThe main concept of \"YUKI-PROJECT\" is to develop new econimic sphere to meet with demands of assimilation between Crytocurrency spheres and Local societies. We plan to start our business from development of solution business model in Hokkaido, Japan, where is \"the advanced region on social issues\", because those are urgent issues in developed country like Japan.\r\nWe expand this solution business model to Japan, Asian countries, and the other nations. Our main business operation framework is based on following categories:\r\n\r\n1. Revitalization of the primary industry\r\n\r\n2. Local revitalization\r\n\r\n3. Strengthening of human resources development"
+    },
+    "country_origin": "JP",
+    "genesis_date": "2018-06-26",
+    "contract_address": "0x5ab793e36070f0fac928ea15826b0c1bc5365119",
+    "url": "https://www.yukicoin.jp/en",
+    "explorers": [
+        "https://etherscan.io/token/0x5ab793e36070f0fac928ea15826b0c1bc5365119",
+        "https://ethplorer.io/address/0x5ab793e36070f0fac928ea15826b0c1bc5365119"
+    ],
+    "twitter": "YUKI_AP_",
+    "telegram": "yukicoin_official",
+    "github_org": "YUKIproject"
+}

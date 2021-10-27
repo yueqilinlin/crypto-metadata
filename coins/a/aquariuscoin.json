@@ -1,0 +1,21 @@
+{
+    "id": "aquariuscoin",
+    "symbol": "arco",
+    "name": "AquariusCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "ARCO is a startup cryptocurrency for funding sustainable projects. ARCO is PoW/PoS scrypt cryptocurrency "
+    },
+    "country_origin": "",
+    "genesis_date": "2016-02-19",
+    "url": "http://aquariuscoin.com/",
+    "explorers": [
+        "https://chainz.cryptoid.info/arco/"
+    ],
+    "twitter": "ArcCoin",
+    "facebook": "aquarius.coin",
+    "telegram": "AquariusCoin",
+    "github_org": "AquariusNetwork"
+}

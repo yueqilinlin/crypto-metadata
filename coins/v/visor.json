@@ -1,0 +1,29 @@
+{
+    "id": "visor",
+    "symbol": "visr",
+    "name": "Visor",
+    "platforms": {
+        "ethereum": "0xf938424f7210f31df2aee3011291b658f872e91e",
+        "arbitrum-one": "0x995c235521820f2637303ca1970c7c044583df44"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Interact with DeFi protocols through an NFT Enhancing the discovery, reputation, safety and programmability of on-chain liquidity"
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0xf938424f7210f31df2aee3011291b658f872e91e",
+    "url": "https://visor.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xf938424f7210f31df2aee3011291b658f872e91e",
+        "https://ethplorer.io/address/0xf938424f7210f31df2aee3011291b658f872e91e"
+    ],
+    "twitter": "visorfinance",
+    "telegram": "visorfinance",
+    "github_org": "VisorFinance"
+}

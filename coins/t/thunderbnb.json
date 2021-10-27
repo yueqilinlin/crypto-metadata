@@ -1,0 +1,24 @@
+{
+    "id": "thunderbnb",
+    "symbol": "thunderbnb",
+    "name": "ThunderBNB",
+    "platforms": {
+        "binance-smart-chain": "0xb9654a42f0f5dcdef5617debf8bd048e33f180e7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "THUNDERBNB is a double reward reflection token using the power of 80/20: 80% invest for now and mid term, 20% for long term future.\r\nHold $THUNDERBNB tokens and get rewarded 20% in BNB (8% per buy & 12% per sell) and 5% in THOREUM (2% per buy & 3% per sell), automatically delivered to wallet every 60 minutes.\r\nTHUNDERBNB is a part of Thunder Alliance Ecosystem including Thoreum, ThunderCake & ThunderBNB, supporting each other's price, increasing rarity & adding values together."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb9654a42f0f5dcdef5617debf8bd048e33f180e7",
+    "url": "https://thunderbnb.app/",
+    "explorers": [
+        "https://bscscan.com/token/0xb9654A42f0F5dCDEf5617DebF8bd048E33F180E7"
+    ],
+    "twitter": "ThunderBNBapp",
+    "telegram": "ThunderBNB",
+    "reddit": "thunderBNB/",
+    "github_org": "ThunderBnb"
+}

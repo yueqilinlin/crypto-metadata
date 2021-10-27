@@ -1,0 +1,24 @@
+{
+    "id": "bdefi",
+    "symbol": "bdefi",
+    "name": "bDeFi",
+    "platforms": {
+        "binance-smart-chain": "0x9eea2a500455cb08bfdf20d1000a0b5cff63a495"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index"
+    ],
+    "description": {
+        "en": "A hyper-focused index containing market-leading cross-chain and BSC native DeFi protocols."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9eea2a500455cb08bfdf20d1000a0b5cff63a495",
+    "url": "https://bundledao.org/funds/bDEFI",
+    "explorers": [
+        "https://bscscan.com/token/0x9eea2a500455cb08bfdf20d1000a0b5cff63a495"
+    ],
+    "twitter": "bundledao",
+    "github_org": "bundle-dao"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "genie-protocol",
+    "symbol": "gnp",
+    "name": "Genie Protocol",
+    "platforms": {
+        "binance-smart-chain": "0xfa139cc2f5c5b8c72309be8e63c3024d03b7e63c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Genie Protocol is a defi protocol for buying sets or \"funds\" of tokens governed by Genie Dao and is the first protocol for buying sets or \"funds\" of native multichain tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfa139cc2f5c5b8c72309be8e63c3024d03b7e63c",
+    "url": "https://genieprotocol.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xfa139cc2f5c5b8c72309be8e63c3024d03b7e63c"
+    ],
+    "twitter": "OfficialGenieP",
+    "telegram": "GenieProtocol_official"
+}

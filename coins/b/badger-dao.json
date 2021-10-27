@@ -1,0 +1,35 @@
+{
+    "id": "badger-dao",
+    "symbol": "badger",
+    "name": "Badger DAO",
+    "platforms": {
+        "ethereum": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+        "fantom": "0x753fbc5800a8c8e3fb6dc6415810d627a387dfc9",
+        "harmony-shard-0": "0x06b19a0ce12dc71f1c7a6dd39e8983e089c40e0d",
+        "arbitrum-one": "0xbfa641051ba0a0ad1b0acf549a89536a0d76472e",
+        "xdai": "0xdfc20ae04ed70bd9c7d720f449eedae19f659d65"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Polygon Ecosystem",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "Badger DAO aims to create an ecosystem of DeFi products with the ultimate goal of bringing Bitcoin into Ethereum. It is the first DeFi project that chose to focus on BTC as the main reserve asset rather than using ETH.\u00a0\r\n\r\nDuring launch, there are two main products, Sett and DIGG.\u00a0"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+    "url": "https://app.badger.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x3472a5a71965499acd81997a54bba8d852c6e53d",
+        "https://ethplorer.io/address/0x3472a5a71965499acd81997a54bba8d852c6e53d",
+        "https://blockscout.com/poa/xdai/tokens/0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65/token-transfers"
+    ],
+    "twitter": "badgerdao",
+    "telegram": "badger_dao",
+    "github_org": "Badger-Finance"
+}

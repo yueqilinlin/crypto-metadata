@@ -1,0 +1,22 @@
+{
+    "id": "big-digital-shares",
+    "symbol": "bds",
+    "name": "Big Digital Shares",
+    "platforms": {
+        "binance-smart-chain": "0x030ce78aa5be014976bca9b8448e78d1d87fce0b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BDS Holding LLC is a U.S.-based company specialized in supporting real estate projects in fundraising. The Company sets to develop a digital platform for real estate investment and trading, bypassing the barriers of geographical borders and differences in finance systems to connect real estate projects with investors around the world.\r\nBDS Holding LLC brings together innovative solutions for investors, project owners and brokers on a global scale to facilitate joining forces and cooperation."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x030ce78aa5be014976bca9b8448e78d1d87fce0b",
+    "url": "https://bigbds.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x030ce78aa5be014976bca9b8448e78d1d87fce0b"
+    ],
+    "twitter": "bdsholdingllc",
+    "telegram": "bigbds"
+}

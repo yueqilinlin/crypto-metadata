@@ -1,0 +1,23 @@
+{
+    "id": "easticoin",
+    "symbol": "esti",
+    "name": "Easticoin",
+    "platforms": {
+        "ethereum": "0xf3924df14812b3d3db29124aa9da4353ed5e04a3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cryptocurrencies are revolutionizing the digital market at a point that they get inserted into the global financial market. Their structure allows many benefits in payment methods, such as providing smaller fees in transactions. In addition, it offers a technology that enables greater fluidity and safety."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xf3924df14812b3d3db29124aa9da4353ed5e04a3",
+    "url": "https://easticoin.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xf3924df14812b3d3db29124aa9da4353ed5e04a3",
+        "https://ethplorer.io/address/0xf3924df14812b3d3db29124aa9da4353ed5e04a3"
+    ],
+    "twitter": "Easticoin",
+    "facebook": "easticoin"
+}

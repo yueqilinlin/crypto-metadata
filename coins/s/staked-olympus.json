@@ -1,0 +1,28 @@
+{
+    "id": "staked-olympus",
+    "symbol": "sohm",
+    "name": "Staked Olympus",
+    "platforms": {
+        "ethereum": "0x04f2694c8fcee23e8fd0dfea1d4f5bb8c352111f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens",
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x04f2694c8fcee23e8fd0dfea1d4f5bb8c352111f",
+    "url": "https://olympusdao.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x04f2694c8fcee23e8fd0dfea1d4f5bb8c352111f",
+        "https://ethplorer.io/address/0x04f2694c8fcee23e8fd0dfea1d4f5bb8c352111f"
+    ],
+    "twitter": "OlympusDAO",
+    "telegram": "OlympusTG",
+    "reddit": "olympusdao/"
+}

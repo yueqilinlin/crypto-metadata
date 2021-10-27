@@ -1,0 +1,23 @@
+{
+    "id": "royal-protocol",
+    "symbol": "roy",
+    "name": "Royal Protocol",
+    "platforms": {
+        "binance-smart-chain": "0xdce27d41b4ff72b55a876c621f5a5fef8537c99d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Royal Protocol is an original, DeFi gaming currency token with an intuitive interface that can be used for safe, reliable, and secure transactions by anyone, anywhere."
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0xdce27d41b4ff72b55a876c621f5a5fef8537c99d",
+    "url": "https://royalprotocol.io",
+    "explorers": [
+        "https://bscscan.com/token/0xdce27d41b4ff72b55a876c621f5a5fef8537c99d"
+    ],
+    "twitter": "ProtocolRoyal",
+    "telegram": "ROYprotocol",
+    "reddit": "RoyalProtocol/"
+}

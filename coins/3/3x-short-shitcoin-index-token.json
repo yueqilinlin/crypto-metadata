@@ -1,0 +1,23 @@
+{
+    "id": "3x-short-shitcoin-index-token",
+    "symbol": "bearshit",
+    "name": "3X Short Shitcoin Index Token",
+    "platforms": {
+        "ethereum": "0x48dee19c81b89a9ab473361bae7a19210f2deaa4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Leveraged Token"
+    ],
+    "description": {
+        "en": "3X Short Shitcoin Index Token (BEARSHIT) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of Shitcoin Index."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x48dee19c81b89a9ab473361bae7a19210f2deaa4",
+    "url": "https://ftx.com/tokens/BEARSHIT",
+    "explorers": [
+        "https://etherscan.io/token/0x48dee19c81b89a9ab473361bae7a19210f2deaa4",
+        "https://ethplorer.io/address/0x48dee19c81b89a9ab473361bae7a19210f2deaa4"
+    ]
+}

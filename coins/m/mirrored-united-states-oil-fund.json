@@ -1,0 +1,28 @@
+{
+    "id": "mirrored-united-states-oil-fund",
+    "symbol": "muso",
+    "name": "Mirrored United States Oil Fund",
+    "platforms": {
+        "ethereum": "0x31c63146a635eb7465e5853020b39713ac356991",
+        "binance-smart-chain": "0x9cddf33466ce007676c827c76e799f5109f1843c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Mirrored Assets"
+    ],
+    "description": {
+        "en": "Mirrored United States Oil Fund - synthetic asset tracking the price of a United States Oil Fund ETF. "
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x31c63146a635eb7465e5853020b39713ac356991",
+    "url": "https://mirror.finance",
+    "explorers": [
+        "https://finder.terra.money/columbus-4/address/terra1lvmx8fsagy70tv0fhmfzdw9h6s3sy4prz38ugf",
+        "https://bscscan.com/token/0x9cDDF33466cE007676C827C76E799F5109f1843C",
+        "https://etherscan.io/token/0x31c63146a635eb7465e5853020b39713ac356991",
+        "https://ethplorer.io/address/0x31c63146a635eb7465e5853020b39713ac356991"
+    ],
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol"
+}

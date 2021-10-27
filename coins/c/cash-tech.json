@@ -1,0 +1,23 @@
+{
+    "id": "cash-tech",
+    "symbol": "cate",
+    "name": "Cash Tech",
+    "platforms": {
+        "ethereum": "0xa42f266684ac2ad6ecb00df95b1c76efbb6f136c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Digital currency conversion, payments, staking, and lending. Take complete control over your digital currencies. All within one app."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xa42f266684ac2ad6ecb00df95b1c76efbb6f136c",
+    "url": "https://cash.tech/",
+    "explorers": [
+        "https://etherscan.io/token/0xa42f266684ac2ad6ecb00df95b1c76efbb6f136c",
+        "https://ethplorer.io/address/0xa42f266684ac2ad6ecb00df95b1c76efbb6f136c"
+    ],
+    "twitter": "TechCashDeFi",
+    "telegram": "cashtechchat"
+}

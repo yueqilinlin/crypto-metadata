@@ -1,0 +1,23 @@
+{
+    "id": "woonkly-defi",
+    "symbol": "wdefi",
+    "name": "Woonkly Defi",
+    "platforms": {
+        "binance-smart-chain": "0x291083c8aedfc3cd0384494e1fcdcf2067d28d3e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "wDEFI is a defi.finance token created under the Binance Smart Chain network. Its supply is unlimited and the token is used to Swap, add Liquidity, and Farm within the platform."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x291083c8aedfc3cd0384494e1fcdcf2067d28d3e",
+    "url": "https://www.defi.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x291083c8aedfc3cd0384494e1fcdcf2067d28d3e"
+    ],
+    "twitter": "WoonklyEN",
+    "telegram": "WOONKLYEN",
+    "github_org": "Woonkly"
+}

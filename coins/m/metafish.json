@@ -1,0 +1,23 @@
+{
+    "id": "metafish",
+    "symbol": "fish",
+    "name": "Metafish",
+    "platforms": {
+        "binance-smart-chain": "0xe15176bcb7633be736e94ab6aa2e57a7ed5988ab"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MetaFish is The First #Referral #P2E #Metaverse NFT on #BSC"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe15176bcb7633be736e94ab6aa2e57a7ed5988ab",
+    "url": "https://metafish.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xe15176bcb7633be736e94ab6aa2e57a7ed5988ab"
+    ],
+    "twitter": "metafish_bsc",
+    "telegram": "metafish_official",
+    "github_org": "MetafishNFT"
+}

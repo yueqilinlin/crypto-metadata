@@ -1,0 +1,24 @@
+{
+    "id": "digital-antares-dollar",
+    "symbol": "dant",
+    "name": "Digital Antares Dollar",
+    "platforms": {
+        "ethereum": "0xbe3c393fb670f0a29c3f3e660ffb113200e36676"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "dANT is the first stablecoin to provide fixed return on investment strategies. Its profitability is provided by profits of ANTARES business. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbe3c393fb670f0a29c3f3e660ffb113200e36676",
+    "url": "https://dant.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xbe3c393fb670f0a29c3f3e660ffb113200e36676",
+        "https://ethplorer.io/address/0xbe3c393fb670f0a29c3f3e660ffb113200e36676"
+    ],
+    "twitter": "antares_trade",
+    "telegram": "antrtrade",
+    "github_org": "Antares-Trade"
+}

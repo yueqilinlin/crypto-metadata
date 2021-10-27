@@ -1,0 +1,24 @@
+{
+    "id": "lithium-finance",
+    "symbol": "lith",
+    "name": "Lithium Finance",
+    "platforms": {
+        "ethereum": "0x188e817b02e635d482ae4d81e25dda98a97c4a42"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Lithium Finance is the first decentralized data oracle solution that uses collective intelligence to regularly price illiquid assets that are currently difficult to value. \r\n\r\nLithium combines pricing oracles together with economic incentives to ensure honest information is rewarded and malicious information is punished. The result is accurate, frequent pricing information of virtually all hard to value assets: pre-IPO stocks, private equity, and other illiquid assets. Our native token LITH will be used as a reward mechanism for data queries and answers, it can also be used for staking to signify confidence on the correctness of answers and earn additional rewards.\r\n\r\nMaking use of algorithms based on years of academic research by Harvard University and other leading institutions, Lithium will be the final piece of the puzzle needed to close the gaps between Trad-Fi and DeFi. By pricing the unpriced with crowdsourcing, it will provide highly accurate asset valuation information to DeFi protocols, traders and investment bankers that benefit the entire financial market."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x188e817b02e635d482ae4d81e25dda98a97c4a42",
+    "url": "https://lith.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x188e817b02e635d482ae4d81e25dda98a97c4a42",
+        "https://ethplorer.io/address/0x188e817b02e635d482ae4d81e25dda98a97c4a42"
+    ],
+    "twitter": "LithiumFinance",
+    "telegram": "lithiumfinanceofficial",
+    "github_org": "LithiumFinance"
+}

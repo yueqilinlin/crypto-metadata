@@ -1,0 +1,26 @@
+{
+    "id": "metis-token",
+    "symbol": "metis",
+    "name": "Metis Token",
+    "platforms": {
+        "ethereum": "0x9e32b13ce7f2e80a01932b42553652e053d6ed8e",
+        "binance-smart-chain": "0xe552fb52a4f19e44ef5a967632dbc320b0820639"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Based on the spirit of Optimistic Rollup, Metis is building an easy-to-use, highly scalable, low-cost, and fully functional Layer 2 framework (Metis Rollup) to fully support the application and business migration from Web 2.0 to Web 3.0. Its scalable protocol supports a wide range of use cases including yield farming, DEX trading, and powering the gig economy via DApps that offer cheap and fast micropayments.\r\nMetis integrates the Decentralized Autonomous Company (DAC) framework within its Layer 2 infrastructure, a differentiating factor that makes it easy for any developers, builders, or community leaders to build their applications and communities. It also makes it easy to use pre-set tools to facilitate their development, manage collaboration, and enjoy the network effects of the world's largest decentralized finance ecosystem, without the costs and bottlenecks normally associated with Ethereum.\r\nMetis\u2019 goal is to make building dApps and DACs on its platform so easy to do, even total blockchain novices can make it happen in a matter of minutes."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x9e32b13ce7f2e80a01932b42553652e053d6ed8e",
+    "url": "https://www.metis.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9e32b13ce7f2e80a01932b42553652e053d6ed8e",
+        "https://ethplorer.io/address/0x9e32b13ce7f2e80a01932b42553652e053d6ed8e",
+        "https://bscscan.com/token/0xe552fb52a4f19e44ef5a967632dbc320b0820639"
+    ],
+    "twitter": "MetisDAO",
+    "telegram": "MetisDAO",
+    "github_org": "MetisProtocol"
+}

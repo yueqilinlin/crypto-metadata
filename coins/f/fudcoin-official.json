@@ -1,0 +1,23 @@
+{
+    "id": "fudcoin-official",
+    "symbol": "fud",
+    "name": "FUDcoin Official",
+    "platforms": {
+        "binance-smart-chain": "0x2046954284c631c285b59e0919bcccd66b3bd289"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FudCoin Official is here to change the security of the Bsc crypto space, We have a new and unique method for verifying a Developers legitimacy alongside our own Contract audit.\r\n\r\nThis is a service that will ensure that any tokens verified by us are as secure as can possibly be, Thus giving investors reassurance and saving Developers having to Doxx.\r\nThis is what we call FUDDoxx. Participating tokens will automatically receive a listing on our FUDDoxx website along with an E-stamp to use on their own platforms.\r\n\r\nFuture plans include the launch of FUDexchange also, A trading platform which will inc: A swap, Farming, Mining, and staking."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2046954284c631c285b59e0919bcccd66b3bd289",
+    "url": "www.fud-coin.com",
+    "explorers": [
+        "https://bscscan.com/token/0x2046954284c631c285b59e0919bcccd66b3bd289"
+    ],
+    "twitter": "FUDCoinofficial",
+    "telegram": "OfficialFUDCoin",
+    "reddit": "FudcoinOfficial"
+}

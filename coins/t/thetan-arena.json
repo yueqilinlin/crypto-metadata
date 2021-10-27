@@ -1,0 +1,23 @@
+{
+    "id": "thetan-arena",
+    "symbol": "thg",
+    "name": "Thetan Arena",
+    "platforms": {
+        "binance-smart-chain": "0x9fd87aefe02441b123c3c32466cd9db4c578618f",
+        "kardiachain": "0xf0051fd4758147f1749d1696c9266d047b4c43fa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Thetan Arena is an esport game based on blockchain technology.\r\nYou can gather your friends, form a team, battle with others and earn money with just your skills."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9fd87aefe02441b123c3c32466cd9db4c578618f",
+    "url": "https://thetanarena.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x9fd87aefe02441b123c3c32466cd9db4c578618f"
+    ],
+    "twitter": "ThetanArena",
+    "github_org": "thetanarena"
+}

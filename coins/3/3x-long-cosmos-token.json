@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-cosmos-token",
+    "symbol": "atombull",
+    "name": "3X Long Cosmos Token",
+    "platforms": {
+        "ethereum": "0x75f0038b8fbfccafe2ab9a51431658871ba5182c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Cosmos Token (ATOMBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Cosmos."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x75f0038b8fbfccafe2ab9a51431658871ba5182c",
+    "url": "https://ftx.com/tokens/ATOMBULL",
+    "explorers": [
+        "https://etherscan.io/token/0x75F0038B8fbfCCAFe2aB9a51431658871bA5182C",
+        "https://ethplorer.io/address/0x75f0038b8fbfccafe2ab9a51431658871ba5182c"
+    ]
+}

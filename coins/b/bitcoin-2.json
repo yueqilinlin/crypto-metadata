@@ -1,0 +1,26 @@
+{
+    "id": "bitcoin-2",
+    "symbol": "btc2",
+    "name": "Bitcoin 2",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Bitcoin 2 is a scalable Bitcoin fork that supports private transactions through the Zerocoin protocol and nearly instantly verified payments by Masternodes.\r\n\r\nBitcoin 2 uses a Proof of Stake system that allows anyone even running a basic laptop to get block rewards while contributing to running the blockchain."
+    },
+    "country_origin": "FI",
+    "genesis_date": null,
+    "url": "https://www.bitc2.org/",
+    "explorers": [
+        "https://www.bitc2.org/block-explorer/",
+        "https://btc2.tokenview.com/en/",
+        "https://chainz.cryptoid.info/btc2/"
+    ],
+    "twitter": "Bitc2org",
+    "facebook": "bitc2.org",
+    "telegram": "bitcoin2english",
+    "reddit": "bitc2/",
+    "github_org": "BITC2"
+}

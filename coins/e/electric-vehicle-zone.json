@@ -1,0 +1,22 @@
+{
+    "id": "electric-vehicle-zone",
+    "symbol": "evz",
+    "name": "Electric Vehicle Zone",
+    "platforms": {
+        "ethereum": "0x7a939bb714fd2a48ebeb1e495aa9aaa74ba9fa68"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EVZ(Electric Vehicle Zone/Zero carbon/Zed) is an Electric Vehicle Charge Sharing Infrastructure Platform that automatically connects chargers in idle time and electric vehicle users to provide mutual value and solve energy issues."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7a939bb714fd2a48ebeb1e495aa9aaa74ba9fa68",
+    "url": "https://www.evzlife.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7a939bb714fd2a48ebeb1e495aa9aaa74ba9fa68",
+        "https://ethplorer.io/address/0x7a939bb714fd2a48ebeb1e495aa9aaa74ba9fa68"
+    ],
+    "telegram": "evzlife"
+}

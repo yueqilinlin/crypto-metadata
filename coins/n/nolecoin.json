@@ -1,0 +1,23 @@
+{
+    "id": "nolecoin",
+    "symbol": "nole",
+    "name": "NoleCoin",
+    "platforms": {
+        "tron": ""
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "The philanthropy-focused & community-driven cryptocurrency "
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "url": "https://www.nolex.org",
+    "explorers": [
+        "https://tronscan.org/#/token20/TPt8DTDBZYfJ9fuyRjdWJr4PP68tRfptLG"
+    ],
+    "twitter": "NolecoinNOLE",
+    "telegram": "NoleCoin"
+}

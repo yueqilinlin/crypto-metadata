@@ -1,0 +1,24 @@
+{
+    "id": "apple-finance",
+    "symbol": "aplp",
+    "name": "Apple Finance",
+    "platforms": {
+        "ethereum": "0x69275ac5477f3a9dc051180bc559140bc647f8e9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "APPLE FINANCE aspires to be true defi for everyone, becoming a Defi Playground where everyone can stake, earn, and even get lucky by participating in upcoming events."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x69275ac5477f3a9dc051180bc559140bc647f8e9",
+    "url": "https://applefi.farm/",
+    "explorers": [
+        "https://etherscan.io/token/0x69275aC5477F3A9DC051180BC559140Bc647F8E9",
+        "https://ethplorer.io/address/0x69275aC5477F3A9DC051180BC559140Bc647F8E9"
+    ],
+    "twitter": "AppleFiofficial",
+    "telegram": "applefi_official",
+    "github_org": "AppleFi"
+}

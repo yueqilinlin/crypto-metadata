@@ -1,0 +1,27 @@
+{
+    "id": "cryptoblades",
+    "symbol": "skill",
+    "name": "CryptoBlades",
+    "platforms": {
+        "binance-smart-chain": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
+        "polygon-pos": "0x863d6074afaf02d9d41a5f8ea83278df7089aa86"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Play To Earn",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "CryptoBlades is an NFT blockchain game on Binance Smart Chain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
+    "url": "https://www.cryptoblades.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab"
+    ],
+    "twitter": "bladescrypto",
+    "telegram": "cryptoblades_general"
+}

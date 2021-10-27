@@ -1,0 +1,22 @@
+{
+    "id": "moonbeers",
+    "symbol": "beers",
+    "name": "MoonBeers",
+    "platforms": {
+        "binance-smart-chain": "0xb4adf7335107bed8d8ddbce1fc515fdc802dd9b6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MoonBeers is a beer-based cryptocurrency. As MoonBeers takes off, our mission is to bring our holders and partner breweries along for the ride. "
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xb4adf7335107bed8d8ddbce1fc515fdc802dd9b6",
+    "url": "https://moonbeers.club/",
+    "explorers": [
+        "https://bscscan.com/token/0xB4aDf7335107bEd8D8dDbcE1Fc515FdC802dD9B6"
+    ],
+    "twitter": "MoonBeersClub",
+    "telegram": "MoonBeersClub"
+}

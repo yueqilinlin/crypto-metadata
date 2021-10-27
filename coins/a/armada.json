@@ -1,0 +1,23 @@
+{
+    "id": "armada",
+    "symbol": "ARMD",
+    "name": "Armada",
+    "platforms": {
+        "binance-smart-chain": "0xd307e64c0c0e70eaa463926e4c2dd7370de11507"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Armada (ARMD) is the first cryptocurrency with depreciating fees unique to the investor. These fees depreciate from an initial 10.7% buying fee and a 20.0% selling fee all the way to 0% over 30 days, hence truly rewarding holders. \r\n\r\nArmada is building an ecosystem of utilities that are coming together to transform DeFi into a safer, more secure and accessible space. \r\n\r\nPort is a mobile app on iOS and Android which allows investors to track their investments in real-time. It can be downloaded on the App Store and Play Store. Central is a social media platform that is dedicated to DeFi assets and projects. It requires human verification and it will be moderated. There will be a built in social exchange where contracts can be used by individuals to sell digital services or assets securely. Bay is an ICO launchpad and exchange. It is in development and it will be regulated by having approved functions within each submitted smart-contract."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd307e64c0c0e70eaa463926e4c2dd7370de11507",
+    "url": "https://armadacrypto.com",
+    "explorers": [
+        "https://bscscan.com/token/0xd307E64C0C0e70EaA463926e4C2dD7370dE11507"
+    ],
+    "twitter": "armadatoken",
+    "telegram": "armadatoken",
+    "github_org": "fleetmaster1"
+}

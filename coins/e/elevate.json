@@ -1,0 +1,24 @@
+{
+    "id": "elevate",
+    "symbol": "ele",
+    "name": "Elevate",
+    "platforms": {
+        "ethereum": "0x48be867b240d2ffaff69e0746130f2c027d8d3d2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ELE is a DeFi 2.0 token that pays you just for holding it.\r\n\r\nYou dont need to interact with confusing interfaces or pay expensive gas fees. As soon as you hold ELE in any non-custodial Ethereum wallet you will instantly start earning."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x48be867b240d2ffaff69e0746130f2c027d8d3d2",
+    "url": "https://elevatedefi.io",
+    "explorers": [
+        "https://etherscan.io/token/0x48be867b240d2ffaff69e0746130f2c027d8d3d2",
+        "https://ethplorer.io/address/0x48be867b240d2ffaff69e0746130f2c027d8d3d2"
+    ],
+    "twitter": "ReflectFndtn",
+    "telegram": "elevate_community",
+    "github_org": "elevatedefi"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "value-network-token",
+    "symbol": "vntw",
+    "name": "Value Network Token",
+    "platforms": {
+        "ethereum": "0xd0f05d3d4e4d1243ac826d8c6171180c58eaa9bc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Value Network, a binary options platform and exchange, on Ethereum mainnet to the Qtum Blockchain.\r\n\r\nBinary options expire at a set date in the future with a yes/no resolution by paying out a fixed and predetermined sum (yes) or nothing at all (no). On Value Network, users purchase options based on asset pairs, winning the funds of their counterparty in the event of a successful bet.\r\n\r\nUsers will be able to trade these options back and forth before expiry. Value Network traders can even create their own markets by staking VNTW - the native platform token and facilitating trading, making VN a prediction market offering new derivatives correlated with crypto price action.\r\n\r\nValue Network will get price feeds from Chainlink or other trusted oracles to ensure accurate pricing information at all times. A major value offering is the decentralized nature of the platform -- fiat platforms come with an inherent conflict of interest between the user and the broker because users are essentially betting against the broker, whereas on Value Network, trading is peer to peer and handled on smart contracts.\r\n\r\nQtum will fund Value Network with this grant money and provide technical support during and after the migration. Value Network users will continue to be able to trade options peer-to-peer, predicting future crypto prices and hedging using binary options"
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0xd0f05d3d4e4d1243ac826d8c6171180c58eaa9bc",
+    "url": "https://valuenetwork.live/",
+    "explorers": [
+        "https://etherscan.io/token/0xd0f05d3d4e4d1243ac826d8c6171180c58eaa9bc",
+        "https://ethplorer.io/address/0xd0f05d3d4e4d1243ac826d8c6171180c58eaa9bc"
+    ],
+    "twitter": "vntwdefi",
+    "facebook": "valuenetworklive",
+    "telegram": "valuenetworkchat",
+    "github_org": "valuenetworklive2021"
+}

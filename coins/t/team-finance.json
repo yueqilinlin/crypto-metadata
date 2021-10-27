@@ -1,0 +1,23 @@
+{
+    "id": "team-finance",
+    "symbol": "team",
+    "name": "Team Finance",
+    "platforms": {
+        "ethereum": "0xb05af453011d7ad68a92b0065ffd9d1277ed2741"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb05af453011d7ad68a92b0065ffd9d1277ed2741",
+    "url": "https://team.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xb05AF453011d7ad68a92b0065FFD9d1277eD2741",
+        "https://ethplorer.io/address/0xb05af453011d7ad68a92b0065ffd9d1277ed2741"
+    ],
+    "twitter": "teamfinance_",
+    "telegram": "team_finance"
+}

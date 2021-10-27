@@ -1,0 +1,28 @@
+{
+    "id": "rainicorn",
+    "symbol": "raini",
+    "name": "Rainicorn",
+    "platforms": {
+        "ethereum": "0xeb953eda0dc65e3246f43dc8fa13f35623bdd5ed",
+        "binance-smart-chain": "0xeb953eda0dc65e3246f43dc8fa13f35623bdd5ed"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "Rainicorn is a deflationary NFT farming token which allows its holders to mint limited edition NFTs and trading cards created by established and emerging artists. \r\nA trading card game is in the works, and physical fulfilment of NFT items will become a key part of the platform. \r\nPlatform revenue will be used in part to offset all carbon emmissions from smart contract interactions with the Ethereum blockchain, and another component will be used to buy back and burn tokens, putting upward pressure on price."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeb953eda0dc65e3246f43dc8fa13f35623bdd5ed",
+    "url": "https://rainicoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xeb953eda0dc65e3246f43dc8fa13f35623bdd5ed",
+        "https://ethplorer.io/address/0xeb953eda0dc65e3246f43dc8fa13f35623bdd5ed"
+    ],
+    "twitter": "raini_coin",
+    "telegram": "rainicornchat",
+    "github_org": "rainitoken"
+}

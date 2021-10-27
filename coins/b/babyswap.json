@@ -1,0 +1,24 @@
+{
+    "id": "babyswap",
+    "symbol": "baby",
+    "name": "BabySwap",
+    "platforms": {
+        "binance-smart-chain": "0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The best AMM+NFT decentralized exchange for newborn projects on Binance Smart Chain (BSC)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657",
+    "url": "https://babyswap.finance/",
+    "explorers": [
+        "https://www.bscscan.com/token/0x53E562b9B7E5E94b81f10e96Ee70Ad06df3D2657",
+        "https://bscscan.com/token/0x53E562b9B7E5E94b81f10e96Ee70Ad06df3D2657"
+    ],
+    "twitter": "babyswap_bsc",
+    "telegram": "baby_swap",
+    "github_org": "babyswap"
+}

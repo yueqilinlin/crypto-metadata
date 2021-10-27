@@ -1,0 +1,24 @@
+{
+    "id": "lunarswap",
+    "symbol": "lunar",
+    "name": "LunarSwap",
+    "platforms": {
+        "binance-smart-chain": "0xf4206e5f264420630520e0d23c14d8dd5645e6c3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LunarSwap is an innovative project, all of your Lunar tokens will be automatically staked for you to be rewarded in BNB and LunarSwap tokens!\r\n\r\nOur ecosystem will consist of the following:\r\n- Pending orders for DEX trading: No more sleepless nights with PancakeSwap. Set limits for Take Profit, Stop Loss, and Entries\r\n- Lunar sniper: Automatic bot to secure your entry spot upon listing\r\n- LunarSwap platform: LunarSwap\u2019s very own swap platform based on PancakeSwap Liquidity"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf4206e5f264420630520e0d23c14d8dd5645e6c3",
+    "url": "https://lunarswap.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xf4206e5F264420630520e0D23c14D8Dd5645e6C3"
+    ],
+    "twitter": "LunarSwapBSC",
+    "telegram": "LunarSwapBSC",
+    "reddit": "LunarSwapBSC/",
+    "github_org": "lunar-token"
+}

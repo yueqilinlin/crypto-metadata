@@ -1,0 +1,26 @@
+{
+    "id": "splyt",
+    "symbol": "shopx",
+    "name": "Splyt",
+    "platforms": {
+        "ethereum": "0x7bef710a5759d197ec0bf621c3df802c2d60d848"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polkadot Ecosystem",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "The NFT infrastructure for decentralized finance and e-commerce markets."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x7bef710a5759d197ec0bf621c3df802c2d60d848",
+    "url": "https://splytcore.org",
+    "explorers": [
+        "https://etherscan.io/token/0x7bef710a5759d197ec0bf621c3df802c2d60d848",
+        "https://ethplorer.io/address/0x7bef710a5759d197ec0bf621c3df802c2d60d848"
+    ],
+    "twitter": "splytcore",
+    "telegram": "splytcore"
+}

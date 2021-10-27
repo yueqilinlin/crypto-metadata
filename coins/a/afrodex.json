@@ -1,0 +1,24 @@
+{
+    "id": "afrodex",
+    "symbol": "afrox",
+    "name": "AfroDex",
+    "platforms": {
+        "ethereum": "0x08130635368aa28b217a4dfb68e1bf8dc525621c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AfroDex Labs is a corporation which serves as a blockchain tech, launchpad, incubator  & accelerator focused on developing & deploying free or affordable technologies for easier Ethereum & ERC-20 tokens mass adoption."
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "contract_address": "0x08130635368aa28b217a4dfb68e1bf8dc525621c",
+    "url": "http://afrodexlabs.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x08130635368AA28b217a4dfb68E1bF8dC525621C",
+        "https://ethplorer.io/address/0x08130635368AA28b217a4dfb68E1bF8dC525621C"
+    ],
+    "facebook": "AfroDex1",
+    "telegram": "AfroDex",
+    "github_org": "AfroDex"
+}

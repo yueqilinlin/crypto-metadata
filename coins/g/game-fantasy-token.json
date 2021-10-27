@@ -1,0 +1,23 @@
+{
+    "id": "game-fantasy-token",
+    "symbol": "gft",
+    "name": "Game Fantasy Token",
+    "platforms": {
+        "iotex": "0x17df9fbfc1cdab0f90eddc318c4f6fcada730cf2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "StarCrazy is the NFT and blockchain Play-To-Earn game.Collect, fuse, mine and earn."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x17df9fbfc1cdab0f90eddc318c4f6fcada730cf2",
+    "url": "https://www.starcrazy.com",
+    "explorers": [
+        "https://iotexscan.io/address/0x17df9fbfc1cdab0f90eddc318c4f6fcada730cf2"
+    ],
+    "twitter": "StarCrazyGame",
+    "telegram": "GameFantasyToken",
+    "github_org": "GameFantasyDev"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-matic-token",
+    "symbol": "maticbull",
+    "name": "3X Long Matic Token",
+    "platforms": {
+        "ethereum": "0x7e03521b9da891ca3f79a8728e2eaeb24886c5f9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Matic Token (MATICBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Matic."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7e03521b9da891ca3f79a8728e2eaeb24886c5f9",
+    "url": "https://ftx.com/tokens/MATICBULL",
+    "explorers": [
+        "https://etherscan.io/token/0x7e03521b9dA891Ca3F79A8728E2eaeb24886c5f9",
+        "https://ethplorer.io/address/0x7e03521b9da891ca3f79a8728e2eaeb24886c5f9"
+    ]
+}

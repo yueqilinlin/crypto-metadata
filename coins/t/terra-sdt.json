@@ -1,0 +1,23 @@
+{
+    "id": "terra-sdt",
+    "symbol": "sdt",
+    "name": "Terra SDT",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Terra Ecosystem"
+    ],
+    "description": {
+        "en": "Terra is a price-stable cryptocurrency aimed at mass adoption. As its scale grows, we see Terra evolving into a new financial infrastructure for the next generation of decentralized apps.\r\n\r\nTerra is a protocol of money that ensures price-stability by algorithmically expanding and contracting supply. Terra uses seigniorage created by its minting operations as transaction stimulus, thereby facilitating adoption."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://terra.money/",
+    "explorers": [
+        "https://finder.terra.money/",
+        "https://terra.stake.id/",
+        "https://hubble.figment.io/terra/chains/columbus-5"
+    ],
+    "twitter": "terra_money",
+    "telegram": "terramoney"
+}

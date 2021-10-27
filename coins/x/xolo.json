@@ -1,0 +1,23 @@
+{
+    "id": "xolo",
+    "symbol": "xolo",
+    "name": "Xolo",
+    "platforms": {
+        "binance-smart-chain": "0x19314dfa75cfc1e5154f95dafab217646bdb79ac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Xolo is a series of interest rate market contracts. Upon supplying assets to the Protocol, users and apps immediately begin earning a variable interest income. Interest accrues every block, which roughly corresponds to 3 seconds on BSC, and users can at any time withdraw their funds and accrued interest.\r\nWhen supplying assets to Xolo, a user receives the equivalent amount in xTokens \u2014 tokens that can be at any time redeemed for their underlying assets."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x19314dfa75cfc1e5154f95dafab217646bdb79ac",
+    "url": "https://xolo.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x19314dfa75cfc1e5154f95dafab217646bdb79ac"
+    ],
+    "twitter": "xolofinance",
+    "telegram": "xolofinance",
+    "github_org": "xolofinance"
+}

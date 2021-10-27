@@ -1,0 +1,23 @@
+{
+    "id": "apwars",
+    "symbol": "wgold",
+    "name": "APWars",
+    "platforms": {
+        "binance-smart-chain": "0x7ab6eedd9443e0e98e5ea93667ca5b250b8dda51"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "APWars is a highly anticipated gamified farming protocol that combines fantasy with stellar blockchain features."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7ab6eedd9443e0e98e5ea93667ca5b250b8dda51",
+    "url": "https://apwars.farm/",
+    "explorers": [
+        "https://bscscan.com/token/0x7ab6eedd9443e0e98e5ea93667ca5b250b8dda51"
+    ],
+    "twitter": "apwars",
+    "telegram": "apwars",
+    "github_org": "apwars"
+}

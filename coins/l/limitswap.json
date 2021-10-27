@@ -1,0 +1,23 @@
+{
+    "id": "limitswap",
+    "symbol": "limit",
+    "name": "LimitSwap",
+    "platforms": {
+        "ethereum": "0x1712aad2c773ee04bdc9114b32163c058321cd85"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Limit Orders on Uniswap."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1712aad2c773ee04bdc9114b32163c058321cd85",
+    "url": "https://www.limitswap.com",
+    "explorers": [
+        "https://etherscan.io/token/0x1712aad2c773ee04bdc9114b32163c058321cd85",
+        "https://ethplorer.io/address/0x1712aad2c773ee04bdc9114b32163c058321cd85"
+    ],
+    "twitter": "LimitSwap",
+    "telegram": "limitswap"
+}

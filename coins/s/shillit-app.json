@@ -1,0 +1,23 @@
+{
+    "id": "shillit-app",
+    "symbol": "shill",
+    "name": "Shillit App",
+    "platforms": {
+        "binance-smart-chain": "0x6c427c94293335ca8d9b12ead509398762b4d4bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shillit - The Ultimate Token Vetting Platform\r\nYour Safe launch into the Crypto-verse"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6c427c94293335ca8d9b12ead509398762b4d4bd",
+    "url": "https://shillit.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x6c427c94293335ca8d9b12ead509398762b4d4bd"
+    ],
+    "twitter": "shillitapp",
+    "telegram": "shillitapp",
+    "reddit": "ShillitApp/"
+}

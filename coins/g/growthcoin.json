@@ -1,0 +1,19 @@
+{
+    "id": "growthcoin",
+    "symbol": "grw",
+    "name": "GrowthCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "GrowthCoin (GRW) \u2013 a fork of Diamond, with several algorithms fixed and improved. It is decendent of Novacoin/PPCoin with Pow/PoS. It combines the great features from Luckycoin (random blocks) and Florincoin (transaction message).\r\n\r\nProof of stake coin is more resilient to 51% attack. Since 51% hashpower is not enough to execute a 51% attack. The attackers must also have at least 51% stake.\r\n\r\nGrowthCoin provides monthly interest rate of 5.95%, for stakes that are held during that period of time. This equivalent to an annual interest of 100%. PoS blocks will be generated if the stake are held for more than 5 days. There is a hard limit of 2 billion coins. No premine!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://growthco.in/",
+    "explorers": [
+        "https://lafuhosting.top/explorer/GRW"
+    ],
+    "reddit": "growthcoin/",
+    "github_org": "iamunick"
+}

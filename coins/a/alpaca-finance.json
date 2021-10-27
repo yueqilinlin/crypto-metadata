@@ -1,0 +1,30 @@
+{
+    "id": "alpaca-finance",
+    "symbol": "alpaca",
+    "name": "Alpaca Finance",
+    "platforms": {
+        "binance-smart-chain": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Decentralized Finance (DeFi)",
+        "Governance",
+        "Binance Smart Chain Ecosystem",
+        "Yield Farming",
+        "Yield Aggregator"
+    ],
+    "description": {
+        "en": "Alpaca Finance is the first leveraged yield farming protocol on Binance Smart Chain. We are a fair launch project with no pre-sale, no investor, and no pre-mine. Our protocol will allow user to open a leveraged yield farming position by borrowing from our deposit vaults. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+    "url": "https://www.alpacafinance.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x8f0528ce5ef7b51152a59745befdd91d97091d2f"
+    ],
+    "twitter": "AlpacaFinance",
+    "telegram": "alpacafinance",
+    "github_org": "alpaca-finance"
+}

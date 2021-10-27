@@ -1,0 +1,24 @@
+{
+    "id": "amun-defi-momentum-index",
+    "symbol": "dmx",
+    "name": "Amun DeFi Momentum Index",
+    "platforms": {
+        "ethereum": "0x1660f10b4d610cf482194356ece8efd65b15ba83"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Amun\u2019s DeFi Momentum Token (DMX) is composed of the top eight DeFi tokens in the Ethereum ecosystem based on price momentum. DMX holdings operate in areas such as trading, lending and borrowing, yield farming, data oracles, insurance, prediction markets, synthetic assets, and stable coins. The index\u2019s components are equally weighted. Holding constituents are rebalanced daily as necessary and holding weights are rebalanced monthly. Holders of DMX own fractions of the underlying tokens, which can be redeemed by burning the index token."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x1660f10b4d610cf482194356ece8efd65b15ba83",
+    "url": "https://tokens.amun.com/dmx-basket",
+    "explorers": [
+        "https://etherscan.io/token/0x1660f10b4d610cf482194356ece8efd65b15ba83",
+        "https://ethplorer.io/address/0x1660f10b4d610cf482194356ece8efd65b15ba83"
+    ],
+    "twitter": "AmunTokens",
+    "telegram": "AmunTokens",
+    "github_org": "amun"
+}

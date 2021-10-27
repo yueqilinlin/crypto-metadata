@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-zcash-token",
+    "symbol": "zecbull",
+    "name": "3X Long Zcash Token",
+    "platforms": {
+        "ethereum": "0xd437d88153daef4784cacd2084b1d8cc2d3312b8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Zcash Token (ZECBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Zcash."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xd437d88153daef4784cacd2084b1d8cc2d3312b8",
+    "url": "https://ftx.com/trade/ZECBULL/USD",
+    "explorers": [
+        "https://etherscan.io/token/0xD437d88153daEF4784CAcd2084b1d8Cc2D3312B8",
+        "https://ethplorer.io/address/0xD437d88153daEF4784CAcd2084b1d8Cc2D3312B8"
+    ]
+}

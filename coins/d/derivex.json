@@ -1,0 +1,21 @@
+{
+    "id": "derivex",
+    "symbol": "dvx",
+    "name": "Derivex",
+    "platforms": {
+        "ethereum": "0x975769557510167d25beed6e32806537173e292c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Derivex aims to utilise the ERC20 asset class to provide a facility that offers classes of products such as derivatives and margin trades, which in turn allows the more sophisticated investor to manage their portfolios more efficiently and effectively as well as opening up further routes for speculation.\r\n\r\nThe decentralised, trustless nature of our offerings means that individuals will always retain complete control over their assets throughout the trade.\r\n\r\nThe more traditional blockchain based trading systems currently cater predominantly to the less experienced trader, but opening up these more sophisticated financial products opens up a vastly lucrative market. Read the whitepaper for details on how our blockchain-driven financial instruments fit together to form a revolutionary approach to derivatives trading."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x975769557510167d25beed6e32806537173e292c",
+    "url": "http://derivexglobal.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x975769557510167d25BEed6E32806537173E292C",
+        "https://ethplorer.io/address/0x975769557510167d25BEed6E32806537173E292C"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-dragon-index-token",
+    "symbol": "drgnbear",
+    "name": "3X Short Dragon Index Token",
+    "platforms": {
+        "ethereum": "0x223fb5c14c00cfb70cf56bb63c2eef2d74fe1a78"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short Dragon Index Token (DRGNBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of Dragon Index."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x223fb5c14c00cfb70cf56bb63c2eef2d74fe1a78",
+    "url": "https://ftx.com/tokens/DRGNBEAR",
+    "explorers": [
+        "https://etherscan.io/token/0x223FB5c14C00Cfb70cF56BB63c2EeF2d74fE1A78",
+        "https://ethplorer.io/address/0x223fb5c14c00cfb70cf56bb63c2eef2d74fe1a78"
+    ]
+}

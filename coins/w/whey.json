@@ -1,0 +1,24 @@
+{
+    "id": "whey",
+    "symbol": "whey",
+    "name": "WHEY",
+    "platforms": {
+        "ethereum": "0xca5d29b3e74d59ebcdf09111495d86f319886a40",
+        "polygon-pos": "0x0cfbbb89fd58f6b49b7bf5665397ddc84003d47c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WHEY is the governance token for Centaur Swap and operates on a fair-launch structure.\r\n\r\nIn future, WHEY holders will be able to vote on decisions relating to Centaur Swap, such as the onboarding of chains, deployment on other protocols and adjustments of transaction fees."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xca5d29b3e74d59ebcdf09111495d86f319886a40",
+    "url": "https://swap.cntr.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xca5d29b3e74d59ebcdf09111495d86f319886a40",
+        "https://ethplorer.io/address/0xca5d29b3e74d59ebcdf09111495d86f319886a40"
+    ],
+    "twitter": "OfficialCentaur",
+    "telegram": "OfficialCentaur"
+}

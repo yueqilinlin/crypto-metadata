@@ -1,0 +1,28 @@
+{
+    "id": "matrixetf",
+    "symbol": "mdf",
+    "name": "MatrixETF",
+    "platforms": {
+        "ethereum": "0x1a57367c6194199e5d9aea1ce027431682dfb411",
+        "solana": "ALQ9KMWjFmxVbew3vMkJj3ypbAKuorSgGst6svCHEe2z"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "MatrixETF is the next generation of decentralized ETF platform to run the cross chain\uff0cwhich goal is to establish a decentralized, automated, personalized and diversified portfolio for users, as well as help users easily enjoy long-term, stable and efficient financial services."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1a57367c6194199e5d9aea1ce027431682dfb411",
+    "url": "https://www.matrixetf.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x1a57367c6194199e5d9aea1ce027431682dfb411",
+        "https://ethplorer.io/address/0x1a57367c6194199e5d9aea1ce027431682dfb411",
+        "https://explorer.solana.com/address/ALQ9KMWjFmxVbew3vMkJj3ypbAKuorSgGst6svCHEe2z"
+    ],
+    "twitter": "MatrixETF",
+    "telegram": "MatrixETF",
+    "github_org": "MatrixETF"
+}

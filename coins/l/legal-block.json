@@ -1,0 +1,24 @@
+{
+    "id": "legal-block",
+    "symbol": "lbk",
+    "name": "Legal Block",
+    "platforms": {
+        "ethereum": "0xd9af2d11d788da0097076f4eb21bd1c5533743d9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Legal Block (LBK) is an electronic contract platform project built by lawyers. Legal Block aims to offer a contracting service that not only saves the procedure of a contract on the blockchain, but also provides legal services within the platform. Additionally, Legal Block has recently taken over FirmaChain, an electronic contract service platform that has been developing a decentralized data storage. Through this takeover, Legal Block boasts both technological and legal expertise in the field of electronic contracts."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd9af2d11d788da0097076f4eb21bd1c5533743d9",
+    "url": "https://legal-block.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd9af2d11d788da0097076f4eb21bd1c5533743d9",
+        "https://ethplorer.io/address/0xd9af2d11d788da0097076f4eb21bd1c5533743d9"
+    ],
+    "twitter": "LEGALBLOCK_main",
+    "facebook": "LegalblockOfficial",
+    "telegram": "legalblock_announcement"
+}

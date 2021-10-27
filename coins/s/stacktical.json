@@ -1,0 +1,36 @@
+{
+    "id": "stacktical",
+    "symbol": "dsla",
+    "name": "DSLA Protocol",
+    "platforms": {
+        "ethereum": "0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe",
+        "binance-smart-chain": "0x1861c9058577c3b48e73d91d6f25c18b17fbffe0",
+        "avalanche": "0xd7c295e399ca928a3a14b01d760e794f1adf8990",
+        "polygon-pos": "0xa0e390e9cea0d0e8cd40048ced9fa9ea10d71639",
+        "fantom": "0x25a528af62e56512a19ce8c3cab427807c28cc19",
+        "harmony-shard-0": "0x34704c70e9ec9fb9a921da6daad7d3e19f43c734"
+    },
+    "hashing_algorithm": "SHA-3",
+    "categories": [
+        "Infrastructure",
+        "Protocol"
+    ],
+    "description": {
+        "en": "DSLA Protocol is a risk management framework that enables infrastructure operators and developers to reduce their users exposure to service delays, interruptions and financial losses, using self-executing service level agreements, bonus-malus insurance policies, and crowdfunded liquidity pools.\r\n\r\nDSLA Protocol's flagship use case is to offset the financial losses of Proof-of-Stake delegators and DeFi users, while incentivizing the connectivity, performance and availability of staking pool operators and DeFi service providers."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe",
+    "url": "https://dsla.network",
+    "explorers": [
+        "https://etherscan.io/token/0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe",
+        "https://ethplorer.io/address/0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe",
+        "https://bscscan.com/address/0x1861c9058577c3b48e73d91d6f25c18b17fbffe0",
+        "https://cchain.explorer.avax.network/tokens/0xD7c295E399CA928A3a14b01D760E794f1AdF8990/token-transfers"
+    ],
+    "twitter": "stacktical",
+    "facebook": "stacktical",
+    "telegram": "stacktical",
+    "reddit": "Stacktical",
+    "github_org": "Stacktical"
+}

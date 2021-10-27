@@ -1,0 +1,23 @@
+{
+    "id": "gasgains",
+    "symbol": "gasg",
+    "name": "Gasgains",
+    "platforms": {
+        "ethereum": "0xc58467b855401ef3ff8fda9216f236e29f0d6277"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gasgains (GASG) is an ERC20 token which gives 100% cashback on Ethereum gas fees. Cashback amounts are up to 75% monthly of your stake's equity, with a 100 GASG minimum stake requirement. There is also a 5% tax on every transaction to ensure the long term sustainability of the reward pool."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xc58467b855401ef3ff8fda9216f236e29f0d6277",
+    "url": "https://www.gasgains.com",
+    "explorers": [
+        "https://etherscan.io/token/0xc58467b855401ef3ff8fda9216f236e29f0d6277",
+        "https://ethplorer.io/address/0xc58467b855401ef3ff8fda9216f236e29f0d6277"
+    ],
+    "twitter": "gasgains",
+    "telegram": "gasgains"
+}

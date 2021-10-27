@@ -1,0 +1,22 @@
+{
+    "id": "bitcoin-token",
+    "symbol": "btct",
+    "name": "BitcoinToken",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Bitcoin Token (BTCT) is a digital currency, the r(evolution) of money. It uses peer-to-peer technology to operate with no central authority or banks; managing transactions are carried out collectively by the network."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "url": "https://www.bitcointoken.pw/",
+    "explorers": [
+        "http://explorer.bitcointoken.pw"
+    ],
+    "twitter": "_bitcointoken",
+    "telegram": "bitcointokenbtct",
+    "github_org": "bitcointokenbtct"
+}

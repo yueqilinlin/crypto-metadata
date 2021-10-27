@@ -1,0 +1,23 @@
+{
+    "id": "wallfair",
+    "symbol": "wfair",
+    "name": "Wallfair",
+    "platforms": {
+        "ethereum": "0xc6065b9fc8171ad3d29bad510709249681758972"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wallfair is a social event trading platform that democratizes and incentivizes the creative economy, and enables real-time speculation on live events using an in-game token. With a distinct focus on socially engaging, fast-paced and immersive experiences, Wallfair takes watching live events to the next level by enabling the audience to seamlessly trade, bet and profit from speculation markets.\r\n\r\nThe platform\u2019s native token, \u201cWFAIR\u201d, powers the entire ecosystem - providing liquidity to speculation markets created on the platform, acting as the digital currency facilitating the creation, participation, trade and settlement of events, community rewards, dispute resolution, the native currency for the NFT marketplace, and DAO governance."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc6065b9fc8171ad3d29bad510709249681758972",
+    "url": "https://wallfair.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xc6065b9fc8171ad3d29bad510709249681758972",
+        "https://ethplorer.io/address/0xc6065b9fc8171ad3d29bad510709249681758972"
+    ],
+    "twitter": "joinwallfair",
+    "github_org": "wallfair-organization"
+}

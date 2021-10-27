@@ -1,0 +1,27 @@
+{
+    "id": "bitcoin-unicorn",
+    "symbol": "btcui",
+    "name": "Bitcoin Unicorn",
+    "platforms": {
+        "ethereum": "0x5f2ec9cf1ec1c0e2c880b6584921e812a4225395"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Other"
+    ],
+    "description": {
+        "en": "Unicorn's benefit lies in the fact that everyone can:\r\n- Sharing news\r\n- Asking questions or give advice on Cryptos\r\n- Contributing to elarge the democratization of 2.0 currencies\r\nLaunched in Beta on December 15, 2017, the project has currently gathered more\r\nthan 4,000 participants from around the globe. Members of the Bitcoin Unicorn\r\ncommunity will all receive an equal portion of a token after registration.\r\nFrom there, the opportunity to earn more tokens by participating in the\r\ncommunity will allow Bitcoin Unicorn to grow and improve. It's not possible to\r\ninvest large sums into a community with no guaranteed return"
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x5f2ec9cf1ec1c0e2c880b6584921e812a4225395",
+    "url": "https://www.bitcoinunicorn.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x5f2ec9cf1ec1c0e2c880b6584921e812a4225395",
+        "https://ethplorer.io/address/0x5f2ec9cf1ec1c0e2c880b6584921e812a4225395"
+    ],
+    "twitter": "BtcUnicorn1",
+    "telegram": "BitcoinUnicorn",
+    "reddit": "bitcoinunicorn",
+    "github_org": "crajkaro"
+}

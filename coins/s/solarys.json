@@ -1,0 +1,22 @@
+{
+    "id": "solarys",
+    "symbol": "sola",
+    "name": "Solarys",
+    "platforms": {
+        "binance-smart-chain": "0xdb8469dfe691b4521df510938c8a822db575fc83"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Charity Token - Static Rewards, LP Acquisition, Manual Burn"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xdb8469dfe691b4521df510938c8a822db575fc83",
+    "url": "https://solarys.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xdb8469dfe691b4521df510938c8a822db575fc83"
+    ],
+    "twitter": "SolarysToken",
+    "telegram": "solarys"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "qubit",
+    "symbol": "qbt",
+    "name": "Qubit",
+    "platforms": {
+        "binance-smart-chain": "0x17b7163cf1dbd286e262ddc68b553d899b93f526"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Qubit is Mound\u2019s innovative DeFi lending protocol that is optimized to deliver lending as a utility for the BSC. With zero withdrawal fees, Qubit not only reduces the cost of lending and borrowing for retail users, it also enables PancakeBunny and other BSC yield aggregators to employ leveraged strategies to maximize Single Asset returns. Qubit is also committed to supporting vertical integration of code review for PancakeBunny and other farming platforms to enhance BSC ecosystem security, as well as to avoid the destabilizing impact on Layer 2 services of disorganized migrations on Layer 1. Once the Qubit launch has established a steady equilibrium, we expect to launch a wide spectrum of derivative products (such as margin trading) shortly thereafter."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x17b7163cf1dbd286e262ddc68b553d899b93f526",
+    "url": "https://qbt.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0x17b7163cf1dbd286e262ddc68b553d899b93f526"
+    ],
+    "twitter": "QubitFin",
+    "telegram": "QubitFinOfficial",
+    "github_org": "PancakeBunny-finance"
+}

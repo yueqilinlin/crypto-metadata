@@ -1,0 +1,23 @@
+{
+    "id": "webchain",
+    "symbol": "mintme",
+    "name": "MintMe.com Coin",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2018-05-08",
+    "url": "https://www.mintme.com/coin/",
+    "explorers": [
+        "https://www.mintme.com/explorer/"
+    ],
+    "twitter": "mintmeproject",
+    "facebook": "mintmeproject",
+    "reddit": "MintMeCom/",
+    "github_org": "mintme-com"
+}

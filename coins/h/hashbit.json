@@ -1,0 +1,21 @@
+{
+    "id": "hashbit",
+    "symbol": "hbit",
+    "name": "HashBit",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "HashBit Blockchain solves the problem of most Blockchains, with an eye to safeguarding the planet.\r\nThe Official node allows all transactions thanks to the http API, this allows you to use very few resources with energy savings.\r\nWith a Supply of 50 billion, blocks every 30 seconds variable depending on the load of the Blockchain and with 49.5 billion distributed through Mining with the CPU and without the Pool, directly in the frontend makes it perfect for everyone at no cost.\r\nThe strengths are many and among these, instant sending with confirmations in less than 30 seconds, it is possible to create assets, transfer them and exchange them in the decentralized exchange with minimum fees (0.00001 HBIT)\r\nExchange public or fully encrypted messages, implement the blockchain in games and / or applications without any problem.\r\n\r\nThese are just some of the potential of the HBIT Blockchain!"
+    },
+    "country_origin": "IT",
+    "genesis_date": null,
+    "url": "https://chain.hashbit.org",
+    "explorers": [
+        "https://chain.hashbit.org/explorer.html"
+    ],
+    "twitter": "HashBitorg",
+    "facebook": "hashbitorg",
+    "telegram": "hashbitofficial",
+    "github_org": "HashBitorg"
+}

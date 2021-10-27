@@ -1,0 +1,29 @@
+{
+    "id": "tokok",
+    "symbol": "tok",
+    "name": "Tokok",
+    "platforms": {
+        "ethereum": "0x9a49f02e128a8e989b443a8f94843c0918bf45e7"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "TOK is a token issued by TOKOK. Users holding TOK enjoy \u00a0discounts when using TOK to pay for transaction fees and get dividends with development of the platform.\r\n"
+    },
+    "country_origin": "VG",
+    "genesis_date": "2018-04-02",
+    "contract_address": "0x9a49f02e128a8e989b443a8f94843c0918bf45e7",
+    "url": "http://www.tokok.com",
+    "explorers": [
+        "https://etherscan.io/token/0x9a49f02e128a8e989b443a8f94843c0918bf45e7",
+        "https://ethplorer.io/address/0x9a49f02e128a8e989b443a8f94843c0918bf45e7"
+    ],
+    "twitter": "Tokokcom",
+    "facebook": "tokok.exchange",
+    "telegram": "https://t.me/tokokenglish",
+    "reddit": "tokok/",
+    "github_org": "ccxt"
+}

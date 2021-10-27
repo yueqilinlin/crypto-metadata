@@ -1,0 +1,25 @@
+{
+    "id": "ptokens-ltc",
+    "symbol": "pltc",
+    "name": "pTokens LTC",
+    "platforms": {
+        "ethereum": "0x5979f50f1d4c08f9a53863c2f39a7b0492c38d0f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "pTokens LTC is a 1:1 pegged Litecoin representation on Ethereum"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5979f50f1d4c08f9a53863c2f39a7b0492c38d0f",
+    "url": "https://ptokens.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x5979f50f1d4c08f9a53863c2f39a7b0492c38d0f",
+        "https://ethplorer.io/address/0x5979f50f1d4c08f9a53863c2f39a7b0492c38d0f"
+    ],
+    "twitter": "pTokens_io",
+    "telegram": "ptokens",
+    "reddit": "pTokens/",
+    "github_org": "provable-things"
+}

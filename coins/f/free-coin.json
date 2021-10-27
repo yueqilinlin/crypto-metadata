@@ -1,0 +1,28 @@
+{
+    "id": "free-coin",
+    "symbol": "free",
+    "name": "FREE coin",
+    "platforms": {
+        "ethereum": "0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd",
+        "binance-smart-chain": "0x12e34cdf6a031a10fe241864c32fb03a4fdad739"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "The FREE coin is the ideal \"start-to-crypto\" coin : a friendly community and real world usecases. The FREE coin is circulating on Ethereum, TRON, and Binance Smart Chain."
+    },
+    "country_origin": "BE",
+    "genesis_date": null,
+    "contract_address": "0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd",
+    "url": "https://www.FREEcoin.technology",
+    "explorers": [
+        "https://etherscan.io/token/0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd",
+        "https://ethplorer.io/address/0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd",
+        "https://tronscan.org/#/token/1003134",
+        "https://bscscan.com/token/0x12e34cdf6a031a10fe241864c32fb03a4fdad739"
+    ],
+    "twitter": "THE_FREE_COIN",
+    "facebook": "theFREEcoin"
+}

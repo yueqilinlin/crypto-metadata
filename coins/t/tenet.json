@@ -1,0 +1,24 @@
+{
+    "id": "tenet",
+    "symbol": "ten",
+    "name": "Tenet",
+    "platforms": {
+        "ethereum": "0x74159651a992952e2bf340d7628459aa4593fc05"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tenet is a cross-chain Automated Market Maker (AMM) connector that provides a decentralized Liquidity Tap for various tokens. The Liquidity Tap is the powerhouse of the Liquidity Pool, employing a dynamic algorithm to give the Liquidity Provider fairer, more efficient, and richer incentives.\r\n\r\nTenet aims to build a cross-chain and cross-platform toolkit protocol that allows the demand side to customize the parameters of the liquidity tap, allowing them to reach out to more liquidity participants effectively and with relative ease. For token holders, Tenet is an integrated platform for yield farming. In contrast to most AMM platform\u2019s high knowledge threshold and discreteness, Tenet provides a smarter and more convenient mining platform and ensures fair allocation of mining rewards through the optimization of the algorithms of initial mining incentives and LP token pools."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x74159651a992952e2bf340d7628459aa4593fc05",
+    "url": "https://tenet.farm/",
+    "explorers": [
+        "https://etherscan.io/token/0x74159651a992952e2bf340d7628459aa4593fc05",
+        "https://bscscan.com/token/0xdFF8cb622790b7F92686c722b02CaB55592f152C",
+        "https://ethplorer.io/address/0x74159651a992952e2bf340d7628459aa4593fc05"
+    ],
+    "twitter": "TenetFarm",
+    "telegram": "Tenetfarm"
+}

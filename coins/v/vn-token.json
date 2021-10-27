@@ -1,0 +1,23 @@
+{
+    "id": "vn-token",
+    "symbol": "vn",
+    "name": "VN Token",
+    "platforms": {
+        "tron": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Supporting cryptocurrency investment consultancy in Vietnam"
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "url": "https://vn.network/",
+    "explorers": [
+        "https://tronscan.io/#/token/1003050"
+    ],
+    "twitter": "vn99_trade",
+    "telegram": "vn99_trade_chatrom"
+}

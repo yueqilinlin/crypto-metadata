@@ -1,0 +1,27 @@
+{
+    "id": "cubiex",
+    "symbol": "cbix",
+    "name": "Cubiex",
+    "platforms": {
+        "binance-smart-chain": "0x34681c1035f97e1edcccec5f142e02ff81a3a230",
+        "ethereum": "0x122f96d596384885b54bccdddf2125018c421d83"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Cubiex aims to connect 400m gamer worldwide on a decentralized blockchain powered social network and crypto league for eSports. Users can find friends, connect with them and participate in our unique Crypto Battle League. With features such as P2P matchmaking between single players and teams, every gamer can now generate income by placing tokens directly against another opponent and fight for the prize pool. Additional features within the social network such as content creation and livestreaming will be monetized through a unique upvoting system. Cubiex is the first social network of its kind that enables gamer, content creators, and passive members to interact with each other and use our instant messaging chat app to stay in touch and plan their gaming activities.\r\n"
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x34681c1035f97e1edcccec5f142e02ff81a3a230",
+    "url": "https://www.cubiex.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x34681C1035F97E1eDcccec5f142e02FF81a3A230"
+    ],
+    "twitter": "CubiexEsports",
+    "facebook": "CubiexEsports",
+    "telegram": "cubiexesports"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "reward-hunters-token",
+    "symbol": "rht",
+    "name": "Reward Hunters Token",
+    "platforms": {
+        "binance-smart-chain": "0xf1018c71eebe32dd85012ad413bab6b940d0d51e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Token:\r\nToken with reflection in BNB,\r\nEvery transaction made, on purchase 10% of the fee is allocated to the reward system, on sale 12% is allocated to the reward system.\r\nTo be able to participate in the rewards, the minimum is 10,000 RHT Tokens.\r\n\r\nThe more tokens, the higher your reward will be proportionally. But that's not financial advice, DYOR.\r\nEvery 01 hour, the system releases payments of fees collected in the purchase and sale process for all Holders in a proportional way to what the holder has tokens.\r\nThe system checks the possibility of paying every 1 hour.\r\n\r\nIf there is not enough income to pay, he will try in the next hour.\r\n\r\nRemember, the reward system exists according to the volume of the purchase and sale, because of the fees charged, the amount is allocated to the reward system.\r\n\r\nToken Usability:\r\nWe are already in progress and with a release date for our Game, Battle Royale style, online, which will be available for Androi, IOS and Desktop.\r\nOnly RHT Holders will be able to play the game.\r\nThe Game will be Play to Earn, using NFT, NFT Wins and an exclusive player betting system, there will be weekly championships."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf1018c71eebe32dd85012ad413bab6b940d0d51e",
+    "url": "https://rewardhunters.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xf1018c71eebe32dd85012ad413bab6b940d0d51e"
+    ],
+    "twitter": "rewardhunters",
+    "telegram": "RHTBSCOFFICIAL",
+    "github_org": "RewardHunters"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "vitex",
+    "symbol": "vx",
+    "name": "ViteX Coin",
+    "platforms": {
+        "vite": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "The ViteX native coin that will be mined by the community and be used to allocate rewards to the ViteX community. VX will have no pre-sale, pre-mining nor initial coin offering (ICO)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.vite.org/",
+    "explorers": [
+        "https://explorer.vite.net"
+    ],
+    "twitter": "vitelabs",
+    "facebook": "vitelabs",
+    "telegram": "vite_en",
+    "reddit": "vitelabs/"
+}

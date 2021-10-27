@@ -1,0 +1,25 @@
+{
+    "id": "timecoin-protocol",
+    "symbol": "tmcn",
+    "name": "Timecoin Protocol",
+    "platforms": {
+        "ethereum": "0x5d45aa01b73c971c65f3df409c9b3627b8fe2726"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TimeCoinProtocol is a decentralized sharing economy protocol using the Ethereum blockchain.\r\nIndividuals or Corporations can build and operate their own sharing economy application, dApp running on TimeCoinProtcol. dApp users can securely share their own data across the platform to get better services from dApp providers. \r\nTimeCoinProtocol plans to release the two dApps, \u201ceSportStars\u201d and \u201cTimeTicket\u201d. \r\neSportStars is for everyone including professional esports players, fans and players aiming to become professionals around the world. It\u2019s an unprecedented service that offers all players the opportunity to find suitable opponents to play against as well as hosting tournaments and competing in popular esports games beyond geographical boundaries.\r\nTimeTicket is a popular application that connects people who wish to buy and sell skills and exchange knowledge. The existing TimeTicket, premier sharing economy service in Japan has more than 400,000 users and the sales has grown 30 times over 3 years. The dApp version of TimeTicket will be released targeting China, India, and other regions. \r\nThe dApp users will be rewarded with TimeCoin(TMCN) by playing esports games on eSportStars called \u201cesports Mining\u201d and purchasing services on TimeTicket called \u201cTime Mining\u201d. TimeCoin will be used as the payment token for dApps.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5d45aa01b73c971c65f3df409c9b3627b8fe2726",
+    "url": "https://timecoinprotocol.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x5D45AA01b73c971c65f3DF409c9b3627b8FE2726",
+        "https://ethplorer.io/address/0x5d45aa01b73c971c65f3df409c9b3627b8fe2726"
+    ],
+    "twitter": "_TimeCoin_",
+    "facebook": "TimeCoinProtocol",
+    "telegram": "TimeCoinProtocol",
+    "github_org": "TimeCoinProtocol"
+}

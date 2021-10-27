@@ -1,0 +1,23 @@
+{
+    "id": "ugas-jun21",
+    "symbol": "ugas-jun21",
+    "name": "uGAS-JUN21 Token Expiring 30 Jun 2021",
+    "platforms": {
+        "ethereum": "0xa6b9d7e3d76cf23549293fb22c488e0ea591a44e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "uGAS is a synthetic token that tracks gas prices for transactions on the Ethereum blockchain, more specifically 30 day median gas prices. The synthetic is built by YAM's degenerative.finance platform and uses UMA's Expiring Multi Party (EMP) smart contract template. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa6b9d7e3d76cf23549293fb22c488e0ea591a44e",
+    "url": "https://degenerative.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xa6b9d7e3d76cf23549293fb22c488e0ea591a44e",
+        "https://ethplorer.io/address/0xa6b9d7e3d76cf23549293fb22c488e0ea591a44e"
+    ],
+    "twitter": "yamfinance",
+    "github_org": "yam-finance"
+}

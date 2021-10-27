@@ -1,0 +1,22 @@
+{
+    "id": "tuxcoin",
+    "symbol": "tux",
+    "name": "Tuxcoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "Tuxcoin is a cryptocurrency intended to support Open-Source Software projects. Tuxcoin is Proof-of-Work utilizing the low-power consuming, ASIC-resistant Allium algorithm. Support of OSS projects comes in the form of donations to projects the community chooses and votes on. The project teams that receive donations are free to do with the cryptocurrency as they will. These donations will further encourage OSS growth and adoption which is a key component to our digital future."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://tuxcoin.io/",
+    "explorers": [
+        "http://explore.tuxtoke.life/"
+    ],
+    "twitter": "tuxcoinio",
+    "reddit": "tuxcoin/",
+    "github_org": "bleach86"
+}

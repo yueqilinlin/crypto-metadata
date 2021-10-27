@@ -1,0 +1,28 @@
+{
+    "id": "banana-token",
+    "symbol": "bnana",
+    "name": "Chimpion",
+    "platforms": {
+        "ethereum": "0x07ef9e82721ac16809d24dafbe1792ce01654db4"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Business Platform",
+        "Software"
+    ],
+    "description": {
+        "en": "Chimpion is an all in one ecommerce, point of sale, digital wallet with crypto to fiat settlement system. Chimpion\u2019s is launching e-commerce storefronts that allow merchants to accept cryptocurrency payments, choosing their favorite altcoin as the base currency denomination and allowing the merchant to settle their crypto into fiat through a stablecoin. "
+    },
+    "country_origin": "EE",
+    "genesis_date": "2018-12-27",
+    "contract_address": "0x07ef9e82721ac16809d24dafbe1792ce01654db4",
+    "url": "https://www.chimpion.io",
+    "explorers": [
+        "https://etherscan.io/token/0x07ef9e82721ac16809d24dafbe1792ce01654db4",
+        "https://ethplorer.io/address/0x07ef9e82721ac16809d24dafbe1792ce01654db4"
+    ],
+    "twitter": "chimpionio",
+    "facebook": "Chimpionio",
+    "telegram": "chimpionio",
+    "reddit": "Chimpion/"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "mirrored-facebook",
+    "symbol": "mfb",
+    "name": "Mirrored Facebook",
+    "platforms": {
+        "ethereum": "0x0e99cc0535bb6251f6679fa6e65d6d3b430e840b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Mirrored Assets"
+    ],
+    "description": {
+        "en": "Mirrored Facebook - synthetic asset tracking the price of a Facebook stock. "
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x0e99cc0535bb6251f6679fa6e65d6d3b430e840b",
+    "url": "https://mirror.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x0e99cC0535BB6251F6679Fa6E65d6d3b430e840B",
+        "https://ethplorer.io/address/0x0e99cc0535bb6251f6679fa6e65d6d3b430e840b",
+        "https://finder.terra.money/columbus-4/token/terra1mqsjugsugfprn3cvgxsrr8akkvdxv2pzc74us7"
+    ],
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol",
+    "github_org": "mirror-protocol"
+}

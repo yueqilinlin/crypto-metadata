@@ -1,0 +1,22 @@
+{
+    "id": "baby-doge-cash",
+    "symbol": "babydogecash",
+    "name": "Baby Doge Cash",
+    "platforms": {
+        "binance-smart-chain": "0x4cda4daad72340b28925ccd6fa78db631267d3c4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Auto yield and liquidity generation protocol.\r\nOn each transaction, the protocol automatically distributes rewards to holders as well as auto-locks a portion of the fees as liquidity.\u200b\r\nThe project aims to donate a high percentage of it's revenue to dog shelters around the world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4cda4daad72340b28925ccd6fa78db631267d3c4",
+    "url": "https://www.babydogecash.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x4cda4daad72340b28925ccd6fa78db631267d3c4"
+    ],
+    "twitter": "CashDoge",
+    "telegram": "BabyDogeCashOfficial"
+}

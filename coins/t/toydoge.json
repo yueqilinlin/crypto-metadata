@@ -1,0 +1,22 @@
+{
+    "id": "toydoge",
+    "symbol": "tdg",
+    "name": "ToyDOGE",
+    "platforms": {
+        "binance-smart-chain": "0x298499f46fbbd468ca1ec7de1e29adfde2e5b373"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ToyDOGE is a charity driven token which strives to help children  whom are less fortunate."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x298499f46fbbd468ca1ec7de1e29adfde2e5b373",
+    "url": "https://toydoge.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x298499f46FbbD468cA1Ec7DE1e29ADfde2E5b373"
+    ],
+    "twitter": "DogeTOY",
+    "telegram": "ToyDOGECOIN"
+}

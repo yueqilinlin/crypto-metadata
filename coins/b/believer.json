@@ -1,0 +1,27 @@
+{
+    "id": "believer",
+    "symbol": "blvr",
+    "name": "BELIEVER",
+    "platforms": {
+        "ethereum": "0xd1ef9a7310d0806855c672288ef5a1bab62cef33",
+        "binance-smart-chain": "0x43a0ee2e4c005277195f409e77919d1b1a5c9c1f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We have developed the Believer network as an open standard that enables instant cryptocurrency payments in stores and online. This new network is designed to act as an intermediary between merchants and the blockchain, offering them inexpensive and fraud-resistant transactions without volatility exposure. Believer enables consumers to pay with their preferred cryptocurrency while preserving their freedom, security and data privacy.Believer doesn\u2019t require any physical cards or merchant point-of-sale upgrades. Believer was developed from decades of experience in fintech, retail, and payments. Today, Believer features many high-profile merchants on its platform, the launch of which marks the first real instance of a decentralized, global payment network with the power to make commerce more efficient and accessible for billions of people."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0xd1ef9a7310d0806855c672288ef5a1bab62cef33",
+    "url": "https://www.believercards.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd1ef9a7310d0806855c672288ef5a1bab62cef33",
+        "https://ethplorer.io/address/0xd1ef9a7310d0806855c672288ef5a1bab62cef33",
+        "https://bscscan.com/token/0x43a0ee2e4c005277195f409e77919d1b1a5c9c1f"
+    ],
+    "twitter": "believercards",
+    "facebook": "believercards",
+    "telegram": "believercards",
+    "reddit": "believercards"
+}

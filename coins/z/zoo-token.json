@@ -1,0 +1,25 @@
+{
+    "id": "zoo-token",
+    "symbol": "zoot",
+    "name": "Zoo Token",
+    "platforms": {
+        "ethereum": "0x1341a2257fa7b770420ef70616f888056f90926c",
+        "binance-smart-chain": "0xb3d691125514db7a5be3326af86a72ecdc2cde16"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ZooToken will be the hub for these \"\"Animal Coins\"\" key-values. No longer just a trend, Animal Coins in the ZooToken ecosystem will quickly hit their top-notch."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x1341a2257fa7b770420ef70616f888056f90926c",
+    "url": "https://zootoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x1341a2257fa7b770420ef70616f888056f90926c",
+        "https://ethplorer.io/address/0x1341a2257fa7b770420ef70616f888056f90926c"
+    ],
+    "twitter": "ZooTokenio",
+    "telegram": "ZooTokenOfficial",
+    "reddit": "ZOOToken/"
+}

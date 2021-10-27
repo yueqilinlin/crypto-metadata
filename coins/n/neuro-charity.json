@@ -1,0 +1,22 @@
+{
+    "id": "neuro-charity",
+    "symbol": "neuro",
+    "name": "Neuro Charity",
+    "platforms": {
+        "binance-smart-chain": "0xd047bd94f90a95b38df6e1ea67796f571f46536b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$NEURO is a BEP-20 token that aims to raise funding for pediatric brain tumor research and treatment clinical trials, while it makes money for you.\r\n\r\n1% of every transaction will be donated to the charity wallet, making regular donations to research laboratories every Friday. Presently the charity wallet is valued at over $250,000 in the first 24 hours."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd047bd94f90a95b38df6e1ea67796f571f46536b",
+    "url": "https://neuro.charity/",
+    "explorers": [
+        "https://bscscan.com/token/0xd047bd94f90a95b38df6e1ea67796f571f46536b"
+    ],
+    "twitter": "neurocharity",
+    "telegram": "neurocharity"
+}

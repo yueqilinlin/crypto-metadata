@@ -1,0 +1,23 @@
+{
+    "id": "gabecoin",
+    "symbol": "gabecoin",
+    "name": "Gabecoin",
+    "platforms": {
+        "binance-smart-chain": "0x6e0bef56b648b3eebae3808b8cbe7efe8755ad9c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Meme token in the memory of Gabe the dog. We have a meme focus, with celebrity endorsements and payments integration plans for the future."
+    },
+    "country_origin": "PL",
+    "genesis_date": null,
+    "contract_address": "0x6e0bef56b648b3eebae3808b8cbe7efe8755ad9c",
+    "url": "https://gabecoin.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x6e0bef56b648b3eebae3808b8cbe7efe8755ad9c"
+    ],
+    "twitter": "gabethedogcoin",
+    "telegram": "gabe_official",
+    "reddit": "GabeTheDogCoin/"
+}

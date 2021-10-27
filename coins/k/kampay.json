@@ -1,0 +1,26 @@
+{
+    "id": "kampay",
+    "symbol": "kampay",
+    "name": "Kampay",
+    "platforms": {
+        "binance-smart-chain": "0x8e984e03ab35795c60242c902ece2450242c90e9",
+        "polygon-pos": "0x39fc9e94caeacb435842fadedecb783589f50f5f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kamari was created with the vision of a world of lotteries and payments united without borders. By integrating existing infrastructure and licensing with one standardized currency, Kamari will instantly offer a better experience to hundreds of millions of people across Africa."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8e984e03ab35795c60242c902ece2450242c90e9",
+    "url": "https://kampay.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x8e984e03ab35795c60242c902ece2450242c90e9",
+        "https://polygonscan.com/token/0x39fc9e94caeacb435842fadedecb783589f50f5f#balances"
+    ],
+    "twitter": "KamPayToken",
+    "facebook": "KamariCoin",
+    "telegram": "KamPayOfficial",
+    "reddit": "Kamari_Coin/"
+}

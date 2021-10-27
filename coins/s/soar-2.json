@@ -1,0 +1,27 @@
+{
+    "id": "soar-2",
+    "symbol": "soar",
+    "name": "Soar",
+    "platforms": {
+        "ethereum": "0xbae5f2d8a1299e5c4963eaff3312399253f27ccb",
+        "binance-smart-chain": "0xb5b408d20c807c0e943836ca62e1feedc75aa97e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "SOAR is an ERC-20 with a frictionless yield generator mechanism that applies a 1% fee on every transfer and instantly distributes the fee among holders. This is the easiest form of staking that exists today. Holders do not need to deposit tokens anywhere and wait for fees to be delivered. Fees are awarded by the smart contract and automatically reflected in the holder\u2019s balance. There is no inflation in SOAR, as the same tokens are redistributed among holders based on transaction volume. "
+    },
+    "country_origin": "QU",
+    "genesis_date": null,
+    "contract_address": "0xbae5f2d8a1299e5c4963eaff3312399253f27ccb",
+    "url": "https://soar.fi",
+    "explorers": [
+        "https://etherscan.io/token/0xbae5f2d8a1299e5c4963eaff3312399253f27ccb",
+        "https://ethplorer.io/address/0xbae5f2d8a1299e5c4963eaff3312399253f27ccb",
+        "https://bscscan.com/token/0xb5b408d20c807c0e943836ca62e1feedc75aa97e"
+    ],
+    "twitter": "Soar_Fi",
+    "telegram": "SoarFi"
+}

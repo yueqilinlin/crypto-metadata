@@ -1,0 +1,24 @@
+{
+    "id": "soba-token",
+    "symbol": "soba",
+    "name": "SOBA Token",
+    "platforms": {
+        "ethereum": "0x65032604dab202aff9adf89300cdb4bd0d059f55"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized Platform For Music and Video NFTs"
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x65032604dab202aff9adf89300cdb4bd0d059f55",
+    "url": "http://sobatoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x65032604dab202aff9adf89300cdb4bd0d059f55",
+        "https://ethplorer.io/address/0x65032604dab202aff9adf89300cdb4bd0d059f55"
+    ],
+    "twitter": "sobamusicvideo",
+    "telegram": "sobaglobal",
+    "github_org": "sobatoken"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "herocoin",
+    "symbol": "play",
+    "name": "HEROcoin",
+    "platforms": {
+        "ethereum": "0xe477292f1b3268687a29376116b0ed27a9c76170"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HERO radically changes todays centralized way of online betting. The token enables you to join or create games on the ethereum blockchain. The design of HERO enforces active and passive income streams for all participants in the ecosystem. This transparent and decentralized way of betting breaks the traditional \"the house always wins\" paradigm. "
+    },
+    "country_origin": "",
+    "genesis_date": "2017-10-16",
+    "contract_address": "0xe477292f1b3268687a29376116b0ed27a9c76170",
+    "url": "https://www.herocoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xe477292f1b3268687a29376116b0ed27a9c76170",
+        "https://ethplorer.io/address/0xe477292f1b3268687a29376116b0ed27a9c76170"
+    ],
+    "twitter": "HEROcoinio",
+    "facebook": "HEROcoinio",
+    "reddit": "HEROcoin",
+    "github_org": "byteheroes"
+}

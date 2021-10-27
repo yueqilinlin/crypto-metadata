@@ -1,0 +1,27 @@
+{
+    "id": "bloom",
+    "symbol": "blt",
+    "name": "Bloom",
+    "platforms": {
+        "ethereum": "0x107c4504cd79c5d2696ea0030a8dd4e92601b82e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Bloom is an end-to-end protocol for identity attestation, risk assessment and credit scoring, entirely on the blockchain. Bloom allows both traditional and digital currency lenders to serve billions of people who currently cannot obtain a bank account or credit score."
+    },
+    "country_origin": "US",
+    "genesis_date": "2017-11-29",
+    "contract_address": "0x107c4504cd79c5d2696ea0030a8dd4e92601b82e",
+    "url": "https://bloom.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x107c4504cd79c5d2696ea0030a8dd4e92601b82e",
+        "https://ethplorer.io/address/0x107c4504cd79c5d2696ea0030a8dd4e92601b82e"
+    ],
+    "twitter": "bloom",
+    "facebook": "bloomtoken",
+    "reddit": "BloomToken/",
+    "github_org": "hellobloom"
+}

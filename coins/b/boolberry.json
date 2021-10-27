@@ -1,0 +1,23 @@
+{
+    "id": "boolberry",
+    "symbol": "bbr",
+    "name": "BoolBerry",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Boolberry is a cryptocurrency based on CryptoNote technology. Boolberry's major benefit is to provide much stronger privacy to both the senders and receivers of transactions.  The destination of a transaction can only be determined by its real recipient and transactions cannot be linked to a single sender. Each transaction could have many equally possible senders, and an attacker cannot determine which one it was.\r\n\r\nThere is an aliasing facility built into the blockchain so that people or programs can send money to, for example, \"@zoidberg\" instead of a long address.  "
+    },
+    "country_origin": "",
+    "genesis_date": "2014-05-17",
+    "url": "http://boolberry.com/",
+    "explorers": [
+        "http://explorer.mining.blue/en/"
+    ],
+    "twitter": "BoolberryBBR",
+    "telegram": "boolberry_bbr",
+    "reddit": "boolberry/",
+    "github_org": "cryptozoidberg"
+}

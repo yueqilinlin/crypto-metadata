@@ -1,0 +1,22 @@
+{
+    "id": "wheelers",
+    "symbol": "wheel",
+    "name": "Wheelers",
+    "platforms": {
+        "binance-smart-chain": "0xb4b42d968cbf9e7d07eca5f03f8b4d99dfd7f7c9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CryptoWheelers is a Formula 1  NFT play to earn project. We use the token WHEEL to use as a reward."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb4b42d968cbf9e7d07eca5f03f8b4d99dfd7f7c9",
+    "url": "https://cryptowheelers.com",
+    "explorers": [
+        "https://bscscan.com/token/0xB4B42D968CBF9e7d07ecA5f03F8B4D99Dfd7f7C9"
+    ],
+    "twitter": "CryptoWheelers",
+    "telegram": "cryptowheelers"
+}

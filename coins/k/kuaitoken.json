@@ -1,0 +1,22 @@
+{
+    "id": "kuaitoken",
+    "symbol": "kt",
+    "name": "Kuai Token",
+    "platforms": {
+        "ethereum": "0x26ddf6cabadcbf4f013841bd8d914830beb0d984"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "The vision of KuaiToken (KT) is to build a global decentralized pan-entertainment ecosystem. In the future, in various pan-entertainment platforms within the ecosystem, such as exchanges, games, live broadcasts, etc., KT will exist as the basis for the circulation and consumption of tokens for each platform.\r\n\r\nKuaiToken, KT is a digital currency based on Ethereum Smart Contracts. It has the characteristics of stable value, openness, transparency, high recognition, and decentralized payment. All data of the KuaiToken is open, transparent, and non-tamperable. The price of each KuaiToken is fixed at approximately $0.15 (or 1CNY)."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-06-09",
+    "contract_address": "0x26ddf6cabadcbf4f013841bd8d914830beb0d984",
+    "url": "https://www.kuaitoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x26DDF6CabADcBF4F013841BD8d914830BeB0d984",
+        "https://ethplorer.io/address/0x26ddf6cabadcbf4f013841bd8d914830beb0d984"
+    ],
+    "github_org": "FeeiCN"
+}

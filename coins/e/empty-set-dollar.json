@@ -1,0 +1,28 @@
+{
+    "id": "empty-set-dollar",
+    "symbol": "esd",
+    "name": "Empty Set Dollar",
+    "platforms": {
+        "ethereum": "0x36f3fd68e7325a35eb768f1aedaae9ea0689d723"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Decentralized Finance (DeFi)",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "Empty Set Dollar (ESD) is a decentralised stablecoin that uses an algorithmic approach to maintain price stability around $1 target by relying on a seigniorage model.\u00a0\r\n\r\nESD has some unique features:\r\n\u00a0\r\ni. Decentralised: ESD has an entirely decentralized on-chain governance. Any changes or upgrades to the protocol need to be voted on by the community of token holders.\r\n\u00a0\r\nii. Composable: Its protocol is centred around an ERC-20 token: ESD. This enables it to work across the DeFi ecosystem and act as the governance token for the protocol.\r\n\u00a0\r\niii. Self-Stabilising: Utilization of an on-chain price oracle (Uniswap V2)\u00a0\r\n\u00a0\r\niv. Opt-in Supply Adjustments: ESD supply expansions and contractions are incentivised and voluntary\r\n\r\n\r\nHow does ESD work?\r\n\r\nESD\u2019s price mechanism uses a seigniorage model. This means, if the market demands more ESD i.e. when ESD goes above $1, more ESD coins will be minted to meet that demand and bring the price back down to $1. That extra minted money supply is then distributed to the coupon holders first before the ESD holders that chose to lock their ESD.\r\n\r\nIf market demand is lagging behind supply, ESD may fall below $1. So a supply contraction is needed to spur price. During this contractionary phase, a coupon redemption system comes into play, where users may purchase these coupons with ESD coins in exchange for a premium (i.e. receive more ESD coins) only when the ESD price goes back to $1. Basically, users agree to burn their ESD in exchange for coupons redeemable later on - reducing ESD\u2019s supply until price goes back up to $1. However, coupons have to be redeemed within 90 epochs (30 days), which carries significant risk if the price of ESD does not go back to $1 as coupons will be rendered obsolete after 90 epochs without redemption.\u00a0\r\n\r\nThis protocol relies on a \u2018voluntary system\u2019 that is very much depended on by its incentive mechanism. This poses a risk to the currency in the event that users decide to ignore the coupon incentives and no longer participate in the system, the protocol\u2019s ability to maintain its peg at $1 will be directly hampered.\u00a0\r\n\r\nNote that the price of ESD as of January 2021 is $0.285, which is more than 70% down from its supposed peg. This may indicate that the coupon and incentive mechanisms ESD is based on may be waning in effect.\u00a0"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x36f3fd68e7325a35eb768f1aedaae9ea0689d723",
+    "url": "https://emptyset.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x36f3fd68e7325a35eb768f1aedaae9ea0689d723",
+        "https://ethplorer.io/address/0x36f3fd68e7325a35eb768f1aedaae9ea0689d723"
+    ],
+    "twitter": "emptysetsquad",
+    "telegram": "emptysetdollar",
+    "github_org": "emptysetsquad"
+}

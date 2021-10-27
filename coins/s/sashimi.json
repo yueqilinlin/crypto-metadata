@@ -1,0 +1,27 @@
+{
+    "id": "sashimi",
+    "symbol": "sashimi",
+    "name": "Sashimi",
+    "platforms": {
+        "ethereum": "0xc28e27870558cf22add83540d2126da2e4b464c2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "HECO Chain Ecosystem",
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc28e27870558cf22add83540d2126da2e4b464c2",
+    "url": "https://sashimi.cool/",
+    "explorers": [
+        "https://etherscan.io/token/0xC28E27870558cF22ADD83540d2126da2e4b464c2",
+        "https://ethplorer.io/address/0xc28e27870558cf22add83540d2126da2e4b464c2"
+    ]
+}

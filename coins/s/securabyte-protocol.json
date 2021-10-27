@@ -1,0 +1,23 @@
+{
+    "id": "securabyte-protocol",
+    "symbol": "sbyte",
+    "name": "Securabyte Protocol",
+    "platforms": {
+        "binance-smart-chain": "0x0fe3e956d2034bcef01fba8a2bfca389cdb72699"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Securabyte protocol is a autonomous yield and liquidity generation protocol. No need to provide liquidity to receive rewards. Securabyte have a multifunctional system which gives staking, farming and Liquidity provider rewards without staking or providing liquidty."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0fe3e956d2034bcef01fba8a2bfca389cdb72699",
+    "url": "https://securabyte.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x0Fe3e956D2034BCEF01FbA8A2BfCA389cdb72699"
+    ],
+    "twitter": "securabyte",
+    "telegram": "securabyteupdates",
+    "github_org": "securabyte"
+}

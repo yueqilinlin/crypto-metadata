@@ -1,0 +1,29 @@
+{
+    "id": "vesper-finance",
+    "symbol": "vsp",
+    "name": "Vesper Finance",
+    "platforms": {
+        "ethereum": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
+        "fantom": "0x461d52769884ca6235b685ef2040f47d30c94eb5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
+    "url": "https://vesper.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
+        "https://ethplorer.io/address/0x1b40183efb4dd766f11bda7a7c3ad8982e998421"
+    ],
+    "twitter": "VesperFi",
+    "telegram": "vesperfinance",
+    "github_org": "vesperfi"
+}

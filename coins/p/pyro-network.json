@@ -1,0 +1,28 @@
+{
+    "id": "pyro-network",
+    "symbol": "pyro",
+    "name": "PYRO Network",
+    "platforms": {
+        "ethereum": "0x14409b0fc5c7f87b5dad20754fe22d29a3de8217"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Media"
+    ],
+    "description": {
+        "en": "The PYRO.NETWORK is a series of projects including but not limited to a social network, digital advertising network and blockchain gaming dApp platform which will utilize PYRO."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x14409b0fc5c7f87b5dad20754fe22d29a3de8217",
+    "url": "https://pyro.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x14409B0Fc5C7f87b5DAd20754fE22d29A3dE8217",
+        "https://ethplorer.io/address/0x14409b0fc5c7f87b5dad20754fe22d29a3de8217"
+    ],
+    "twitter": "PYRODOTNETWORK",
+    "facebook": "PYRODOTNETWORK",
+    "telegram": "pyronetwork",
+    "reddit": "pyronetwork/",
+    "github_org": "pyrodotnetwork"
+}

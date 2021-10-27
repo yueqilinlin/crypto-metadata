@@ -1,0 +1,25 @@
+{
+    "id": "bora",
+    "symbol": "bora",
+    "name": "BORA",
+    "platforms": {
+        "ethereum": "0x26fb86579e371c7aedc461b2ddef0a8628c93d3b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BORA is a decentralized entertainment platform focused to distribute digital contents and provide incentives to participants"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x26fb86579e371c7aedc461b2ddef0a8628c93d3b",
+    "url": "https://www.boraecosystem.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x26fb86579e371c7aedc461b2ddef0a8628c93d3b",
+        "https://ethplorer.io/address/0x26fb86579e371c7aedc461b2ddef0a8628c93d3b"
+    ],
+    "twitter": "bora_ecosystem",
+    "telegram": "boraofficial_kr",
+    "reddit": "Bora_Ecosystem/",
+    "github_org": "boraecosystem"
+}

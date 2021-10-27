@@ -1,0 +1,25 @@
+{
+    "id": "playfuel",
+    "symbol": "plf",
+    "name": "PlayFuel",
+    "platforms": {
+        "ethereum": "0xada62f7ccd6af6cacff04accbc4f56f3d4ffd4ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PlayFuel brings the power of blockchain technology to the gaming world. We are doing this by creating a platform that allows developers to earn funding by integrating PlayFuel into their games and allow players to mine PLF \u2014 crypto-tokens just by playing. Players can use these tokens to buy games, redeem exclusive goodies or even exchange the tokens into real money."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xada62f7ccd6af6cacff04accbc4f56f3d4ffd4ef",
+    "url": "https://playfuel.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef",
+        "https://ethplorer.io/address/0xada62f7ccd6af6cacff04accbc4f56f3d4ffd4ef"
+    ],
+    "twitter": "playfuelteam",
+    "facebook": "playfuelteam",
+    "telegram": "playfuelteam",
+    "github_org": "PlayFuel"
+}

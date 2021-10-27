@@ -1,0 +1,24 @@
+{
+    "id": "steaks-finance",
+    "symbol": "steak",
+    "name": "Steaks Finance",
+    "platforms": {
+        "ethereum": "0xeed9e4f2450035d6426276a8aa2084966ee3b1bb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeed9e4f2450035d6426276a8aa2084966ee3b1bb",
+    "url": "https://steaks.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xeed9e4f2450035d6426276a8aa2084966ee3b1bb",
+        "https://ethplorer.io/address/0xeed9e4f2450035d6426276a8aa2084966ee3b1bb"
+    ],
+    "twitter": "steaksfinance",
+    "telegram": "steaksfinancechat",
+    "github_org": "rublixdev"
+}

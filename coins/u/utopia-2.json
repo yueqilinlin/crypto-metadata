@@ -1,0 +1,23 @@
+{
+    "id": "utopia-2",
+    "symbol": "UTOPIA",
+    "name": "Utopia",
+    "platforms": {
+        "binance-smart-chain": "0x1a1d7c7a92e8d7f0de10ae532ecd9f63b7eaf67c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Utopia strives to get close to achieving a perfect world with the empowerment and support of our community. We seek to solve real-world problems through our charity donations/crowdfunding and solve problems within the cryptocurrency space through our utilities. Utopia is built on the Binance Smart Chain to utilize the lower gas fees and ease of transaction offered by the blockchain network.\r\n\r\nWhat does the Utopia Token and the development team have to offer (currently and in the future)?\r\n-Utopia Decentralized Exchange on BSC\r\n-Utopia Decentralized Launchpad\r\n-Charity Donations\r\n-Crowdfunding Utility\r\n-BTC to Utopia Bridge\r\n-Defi Lending\r\n-Utopia World (MMO Game with a built-in NFT Marketplace)\r\n-Utopia Poker"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1a1d7c7a92e8d7f0de10ae532ecd9f63b7eaf67c",
+    "url": "http://www.utopia.cc",
+    "explorers": [
+        "https://bscscan.com/token/0x1a1d7c7A92e8d7f0de10Ae532ECD9f63B7EAf67c"
+    ],
+    "twitter": "utopia_bsc",
+    "telegram": "UtopiaBSCOfficial",
+    "github_org": "utopia-eco"
+}

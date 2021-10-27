@@ -1,0 +1,23 @@
+{
+    "id": "1tronic",
+    "symbol": "1trc",
+    "name": "1TRONIC",
+    "platforms": {
+        "binance-smart-chain": "0x97300a4f628701672096460b5469c41a8d3ecb1a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "1TRONIC is Payment Platform for Daily Necessities using Crypto and or Fiat Currencies. 1Tronic Network develop a digital currency called 1TRC which will be used as the main token in the payment platform 1Tronic Apps. The development of the 1TRC Token will be more and more and the utility will be wider."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x97300a4f628701672096460b5469c41a8d3ecb1a",
+    "url": "http://1tronic.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x97300a4f628701672096460b5469c41a8d3ecb1a"
+    ],
+    "twitter": "1tronicnetwork",
+    "telegram": "World_1Tronic_Official",
+    "github_org": "onetronic"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "dopple-exchange-token",
+    "symbol": "dopx",
+    "name": "Dopple Exchange Token",
+    "platforms": {
+        "binance-smart-chain": "0x802a183ac9f6b082716dfee55432ed0c04acb49a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The DOPX token is a new token from Dopple Finance evolved from the legacy DOP token. \r\n It is used as a utility token that is required to mint KUSD stablecoin.\r\n\r\nKUSD is our native fractional-algorithmic stablecoin.  Learn more https://docs.dopple.finance/kelly-usd-kusd/overview.\r\n\r\nThe DOPX token accrues its value by its requirement to collateralize KUSD. As KUSD usages grow stably, the Collateral Ratio will decrease, hence consuming even more DOPX to mint more tokens. This in turn decreases the circulating supply of DOPX and drives its price up."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x802a183ac9f6b082716dfee55432ed0c04acb49a",
+    "url": "https://dopple.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x802a183ac9f6b082716dfee55432ed0c04acb49a"
+    ],
+    "twitter": "dopplefi",
+    "telegram": "dopplefi",
+    "reddit": "DoppleFinance/",
+    "github_org": "DoppleFinance"
+}

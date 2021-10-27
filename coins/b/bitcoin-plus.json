@@ -1,0 +1,22 @@
+{
+    "id": "bitcoin-plus",
+    "symbol": "xbc",
+    "name": "Bitcoin Plus",
+    "platforms": {},
+    "hashing_algorithm": "X13",
+    "categories": [],
+    "description": {
+        "en": "Secure, fast, reliable coin with native Tor and onboard P2P messaging system."
+    },
+    "country_origin": "",
+    "genesis_date": "2015-04-08",
+    "url": "https://www.bitcoinplus.org/",
+    "explorers": [
+        "https://chainz.cryptoid.info/xbc/",
+        "https://prohashing.com/explorer/BitcoinPlus/"
+    ],
+    "twitter": "BitcoinPlusOrg",
+    "telegram": "xbcplus",
+    "reddit": "BitcoinPlus_XBC",
+    "github_org": "bitcoinplusorg"
+}

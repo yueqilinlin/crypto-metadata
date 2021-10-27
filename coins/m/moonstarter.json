@@ -1,0 +1,22 @@
+{
+    "id": "moonstarter",
+    "symbol": "mnst",
+    "name": "MoonStarter",
+    "platforms": {
+        "binance-smart-chain": "0x6a6ccf15b38da4b5b0ef4c8fe9fefcb472a893f9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MOONSTARTER's mission is to be the single-stop multi-chain launchpad for selected projects without distinction of the blockchain used. While the current project landscape is scattered and dependent on the blockchain used, MOONSTARTER will offer the possibility to launch on one or multiple selected blockchains."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x6a6ccf15b38da4b5b0ef4c8fe9fefcb472a893f9",
+    "url": "https://moonstarter.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x6a6ccf15b38da4b5b0ef4c8fe9fefcb472a893f9"
+    ],
+    "twitter": "moonstarter_off",
+    "telegram": "moonstarterchat"
+}

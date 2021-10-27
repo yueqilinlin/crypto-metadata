@@ -1,0 +1,27 @@
+{
+    "id": "ubex",
+    "symbol": "ubex",
+    "name": "Ubex",
+    "platforms": {
+        "ethereum": "0x6704b673c70de9bf74c8fba4b4bd748f0e2190e1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Artificial Intelligence"
+    ],
+    "description": {
+        "en": "At the heart of Ubex\u2019s advertising purchasing algorithms, lie neural networks that process\tinformation about each visitor to the member networks\u2019 websites. The neural networks evaluate the interests of users, calculate the likelihood of targeted actions for all advertiser offers, and choose the most suitable advertisement. Thanks to this, member network website visitors see only those ads that are maximally confined to their interests, and which would convince them to fulfill the target action with maximum probability. Thus, Ubex maximizes the targeting of advertising and the economic efficiency for advertisers."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x6704b673c70de9bf74c8fba4b4bd748f0e2190e1",
+    "url": "https://www.ubex.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6704b673c70de9bf74c8fba4b4bd748f0e2190e1",
+        "https://ethplorer.io/address/0x6704b673c70de9bf74c8fba4b4bd748f0e2190e1"
+    ],
+    "twitter": "ubex_ai",
+    "facebook": "UbexAl",
+    "telegram": "UbexAI",
+    "github_org": "ubex-ai"
+}

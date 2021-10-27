@@ -1,0 +1,23 @@
+{
+    "id": "lituni",
+    "symbol": "lito",
+    "name": "Lituni",
+    "platforms": {
+        "binance-smart-chain": "0x8d9bb0226aeb57366b380aea27c362c3446063ce"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Read to earn"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8d9bb0226aeb57366b380aea27c362c3446063ce",
+    "url": "http://lituni.social/",
+    "explorers": [
+        "https://bscscan.com/token/0x8d9bb0226aeb57366b380aea27c362c3446063ce"
+    ],
+    "twitter": "Lituniofficial",
+    "telegram": "Lituniofficial",
+    "github_org": "LituniProtocol"
+}

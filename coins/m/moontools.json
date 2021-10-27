@@ -1,0 +1,26 @@
+{
+    "id": "moontools",
+    "symbol": "moons",
+    "name": "MoonTools",
+    "platforms": {
+        "ethereum": "0x260e63d91fccc499606bae3fe945c4ed1cf56a56"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services",
+        "Analytics"
+    ],
+    "description": {
+        "en": "MoonTools is a data explorer for decentralized exchanges. MOONS tokens are required to access different features in the MoonTools app."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x260e63d91fccc499606bae3fe945c4ed1cf56a56",
+    "url": "https://www.moontools.io",
+    "explorers": [
+        "https://etherscan.io/token/0x260e63d91fCCC499606BAe3FE945c4ed1CF56A56",
+        "https://ethplorer.io/address/0x260e63d91fccc499606bae3fe945c4ed1cf56a56"
+    ],
+    "twitter": "moontoolsio",
+    "telegram": "moontoolsio"
+}

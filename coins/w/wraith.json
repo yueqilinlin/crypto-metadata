@@ -1,0 +1,24 @@
+{
+    "id": "wraith",
+    "symbol": "wraith",
+    "name": "Wraith",
+    "platforms": {
+        "binance-smart-chain": "0x8b3b45e48be6c31366ffd9dd4f29c1edffcba97d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Revolutionizing Privacy throughout the Blockchain utilizing built in VPN and Mixing protocols."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8b3b45e48be6c31366ffd9dd4f29c1edffcba97d",
+    "url": "https://www.wraithprotocol.io",
+    "explorers": [
+        "https://bscscan.com/token/0x8b3b45E48bE6C31366ffd9dD4F29C1edFFcbA97D"
+    ],
+    "twitter": "wraithprotocol",
+    "telegram": "WraithOfficial",
+    "reddit": "wraithprotocol/",
+    "github_org": "WraithProtocol"
+}

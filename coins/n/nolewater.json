@@ -1,0 +1,23 @@
+{
+    "id": "nolewater",
+    "symbol": "amsk",
+    "name": "NoleWater",
+    "platforms": {
+        "tron": ""
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "The oldest mass of water ever detected in the universe.. Dividend token of NoleCoin"
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "url": "https://www.nolelegends.com/",
+    "explorers": [
+        "https://tronscan.org/#/token/1001699"
+    ],
+    "twitter": "NoleWater",
+    "telegram": "NoleCoin"
+}

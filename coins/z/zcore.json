@@ -1,0 +1,27 @@
+{
+    "id": "zcore",
+    "symbol": "zcr",
+    "name": "ZCore",
+    "platforms": {},
+    "hashing_algorithm": "NeoScrypt",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "ZCore (ZCR) is 100% open source, with PoW (Proof-of-Work) mining based on the NeoScrypt algorithm and maximum supply of 18 million coins. Structured in a robust network with Masternodes and reward of 10 ZCR per mined block every 90 seconds.\r\n\r\nZCore is a cryptocurrency with a secure network to perform online transactions via InstantSend and PrivateSend with maximum speed and security."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://zcore.cash",
+    "explorers": [
+        "https://explorer.zcore.network/",
+        "https://etherscan.io/token/0xC7e43A1c8E118aA2965F5EAbe0e718D83DB7A63C",
+        "https://zcore.info/",
+        "https://blockbook.zcore.cash/"
+    ],
+    "twitter": "ZCoreCrypto",
+    "facebook": "zcoreOficial",
+    "telegram": "ZCoreMiners",
+    "reddit": "ZCore/",
+    "github_org": "zcore-coin"
+}

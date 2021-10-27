@@ -1,0 +1,22 @@
+{
+    "id": "kilimanjaro",
+    "symbol": "kili",
+    "name": "Kilimanjaro",
+    "platforms": {
+        "binance-smart-chain": "0x865d0c78d08bd6e5f0db6bcbf36d3f8eb4ad48f8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x865d0c78d08bd6e5f0db6bcbf36d3f8eb4ad48f8",
+    "url": "https://kilimanjaro.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x865d0c78d08bd6e5f0db6bcbf36d3f8eb4ad48f8"
+    ],
+    "twitter": "kilimanjarodefi",
+    "telegram": "kilimanjaro_community"
+}

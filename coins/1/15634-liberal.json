@@ -1,0 +1,27 @@
+{
+    "id": "15634-liberal",
+    "symbol": "realtoken-s-15634-liberal-st-detroit-mi",
+    "name": "RealT Token - 15634 Liberal St, Detroit, MI 48205",
+    "platforms": {
+        "ethereum": "0xa81f77e8988b28fb74243b907ace3c83353dc80a",
+        "xdai": "0xa81f77e8988b28fb74243b907ace3c83353dc80a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa81f77e8988b28fb74243b907ace3c83353dc80a",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xa81F77E8988b28fB74243B907acE3c83353Dc80a",
+        "https://ethplorer.io/address/0xa81f77e8988b28fb74243b907ace3c83353dc80a"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

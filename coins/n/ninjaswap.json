@@ -1,0 +1,24 @@
+{
+    "id": "ninjaswap",
+    "symbol": "ninja",
+    "name": "NinjaSwap",
+    "platforms": {
+        "binance-smart-chain": "0x93e7567f277f353d241973d6f85b5fea1dd84c10"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NinjaSwap is a dex that enables swapping, farming, and staking for BSC tokens. its AMM follows the tradition of Uniswap. But it gets its speed and affordable transaction fee from Binance Smart Chain. Besides that, unlike other swap platforms, a limited number of tokens are minted. The team has no interest in farming and staking, it provides all the income to the participants. It has a very novel token minting system called AMO (Automatic Minting Offering)."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x93e7567f277f353d241973d6f85b5fea1dd84c10",
+    "url": "https://ninjaswap.app/",
+    "explorers": [
+        "https://www.bscscan.com/token/0x93e7567f277F353d241973d6f85b5feA1dD84C10",
+        "https://bscscan.com/token/0x93e7567f277F353d241973d6f85b5feA1dD84C10"
+    ],
+    "twitter": "NinjaSwapApp",
+    "telegram": "Ninjaswap",
+    "github_org": "ninjaswapapp"
+}

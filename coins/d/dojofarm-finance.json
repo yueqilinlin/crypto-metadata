@@ -1,0 +1,23 @@
+{
+    "id": "dojofarm-finance",
+    "symbol": "dojo",
+    "name": "DojoFarm Finance",
+    "platforms": {
+        "polygon-pos": "0xca9e4a7617d5fdaaa49beb8dc8e506706324e253"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DOJOFARM is the Next-Gen MultiChain Yield Farming with HIGH APRs! on POLYGON & BSC. \r\nAfter reviewing several yield farming models we decided to select a model that will help end-users to earn maximum yields over a long period. We are a Panther Fork. \r\nAll DOJOFARM features will help stabilize price. The investors are excited about Automated Market Maker platforms (AMM) and the potential to be realized with DeFi future applications. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xca9e4a7617d5fdaaa49beb8dc8e506706324e253",
+    "url": "https://dojofarm.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0xCa9e4a7617D5fdaaA49Beb8Dc8E506706324e253"
+    ],
+    "twitter": "dojofarmfinance",
+    "reddit": "DojoFarmFinance",
+    "github_org": "dojofarm"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "tap",
+    "symbol": "xtp",
+    "name": "Tap",
+    "platforms": {
+        "ethereum": "0x6368e1e18c4c419ddfc608a0bed1ccb87b9250fc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tap offers one-stop services for all cryptocurrency participants, removing financial boundaries by supporting seamless connections with all banks and exchanges. After depositing fiat currency into XTP, users can trade various cryptocurrencies using one app and a single KYC process. Users can also send any crypto asset to anyone, anywhere in the world for free and the asset can be used by the recipient instantly.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6368e1e18c4c419ddfc608a0bed1ccb87b9250fc",
+    "url": "https://www.tap.global/",
+    "explorers": [
+        "https://etherscan.io/token/0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc",
+        "https://ethplorer.io/address/0x6368e1e18c4c419ddfc608a0bed1ccb87b9250fc"
+    ],
+    "twitter": "tapofficial1",
+    "telegram": "officialtapngo",
+    "reddit": "TAP_Official/"
+}

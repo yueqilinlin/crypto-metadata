@@ -1,0 +1,28 @@
+{
+    "id": "b2u-coin",
+    "symbol": "b2u",
+    "name": "B2U Coin",
+    "platforms": {
+        "ethereum": "0x350758e4a1256561fd0ee142dc7e0545f561fadc",
+        "binance-smart-chain": "0x02926e6e2898e9235fdddde3f51c3b644af8c403"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "B2U COIN is the token of Bitcointoyou.com, exchange created on 2010 with 400 thousand customers."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0x350758e4a1256561fd0ee142dc7e0545f561fadc",
+    "url": "https://b2ucoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x350758e4a1256561fd0ee142dc7e0545f561fadc",
+        "https://ethplorer.io/address/0x350758e4a1256561fd0ee142dc7e0545f561fadc"
+    ],
+    "twitter": "CoinB2u",
+    "facebook": "b2ucoin",
+    "telegram": "comunidade_b2u",
+    "github_org": "Bitcointoyou"
+}

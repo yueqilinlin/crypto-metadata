@@ -1,0 +1,24 @@
+{
+    "id": "pegshares",
+    "symbol": "pegs",
+    "name": "PegShares",
+    "platforms": {
+        "ethereum": "0x88bd6efe33bc82860278c044efa33364c6285032"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pegs Cash is an algorithmic bank backed by real assets. \r\nPEGS: The governance token which accrues fees, seigniorage revenue, and excess collateral value. \""
+    },
+    "country_origin": "FI",
+    "genesis_date": null,
+    "contract_address": "0x88bd6efe33bc82860278c044efa33364c6285032",
+    "url": "https://www.pegs.cash",
+    "explorers": [
+        "https://etherscan.io/token/0x88bd6efe33bc82860278c044efa33364c6285032",
+        "https://ethplorer.io/address/0x88bd6efe33bc82860278c044efa33364c6285032"
+    ],
+    "twitter": "pegscash",
+    "telegram": "pegscash",
+    "github_org": "pegsfinance"
+}

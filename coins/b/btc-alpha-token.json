@@ -1,0 +1,24 @@
+{
+    "id": "btc-alpha-token",
+    "symbol": "bac",
+    "name": "BTC-Alpha Token",
+    "platforms": {
+        "ethereum": "0x7dc59729b0adf4ae34721a1e06ef82a19e690b04"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7dc59729b0adf4ae34721a1e06ef82a19e690b04",
+    "url": "https://btc-alpha.com/en/exchange/BAC_USD/",
+    "explorers": [
+        "https://etherscan.io/token/0x7dc59729b0adf4ae34721a1e06ef82a19e690b04",
+        "https://ethplorer.io/address/0x7dc59729b0adf4ae34721a1e06ef82a19e690b04"
+    ],
+    "twitter": "btcalpha",
+    "facebook": "btcalpha",
+    "telegram": "btcalpha"
+}

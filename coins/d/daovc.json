@@ -1,0 +1,24 @@
+{
+    "id": "daovc",
+    "symbol": "daovc",
+    "name": "DAOvc",
+    "platforms": {
+        "ethereum": "0x284b59cf2539544559c6efa11e2795e06d535345"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "By having a low amount of capital of as little as $1, users can invest like market participants having over $1,000,000 via the creation of a common pool of contributors acting as token holders. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x284b59cf2539544559c6efa11e2795e06d535345",
+    "url": "https://dao.vc/",
+    "explorers": [
+        "https://etherscan.io/token/0x284b59cf2539544559c6efa11e2795e06d535345",
+        "https://ethplorer.io/address/0x284b59cf2539544559c6efa11e2795e06d535345"
+    ],
+    "twitter": "dao_vc",
+    "telegram": "daovc_chat",
+    "github_org": "DAO-VC"
+}

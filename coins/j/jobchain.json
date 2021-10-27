@@ -1,0 +1,28 @@
+{
+    "id": "jobchain",
+    "symbol": "job",
+    "name": "Jobchain",
+    "platforms": {
+        "ethereum": "0xdfbc9050f5b01df53512dcc39b4f2b2bbacd517a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Jobchain is an ecosystem that enables anybody to find jobs or hire personnel anytime, anywhere while earning salary in cryptocurrency."
+    },
+    "country_origin": "AT",
+    "genesis_date": null,
+    "contract_address": "0xdfbc9050f5b01df53512dcc39b4f2b2bbacd517a",
+    "url": "https://www.jobchain.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A",
+        "https://ethplorer.io/address/0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A"
+    ],
+    "twitter": "jobchain",
+    "facebook": "Jobchain",
+    "telegram": "JobchainOfficial",
+    "reddit": "jobchain/",
+    "github_org": "jobchain"
+}

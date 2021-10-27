@@ -1,0 +1,24 @@
+{
+    "id": "vanilla",
+    "symbol": "vnl",
+    "name": "Vanilla",
+    "platforms": {
+        "ethereum": "0xbf900809f4c73e5a3476eb183d8b06a27e61f8e5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Vanilla is a single decentralised interface for all DeFi, which rewards you for making a profit trading tokens with a mechanism called profit mining. This is the process by which all VNL is created as there was no pre-mine. VNL is used for governance of the system where holders can tweak the profit mining incentives to direct capital to specific services or tokens they prefer."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbf900809f4c73e5a3476eb183d8b06a27e61f8e5",
+    "url": "https://vanilladefi.com",
+    "explorers": [
+        "https://etherscan.io/token/0xbf900809f4c73e5a3476eb183d8b06a27e61f8e5",
+        "https://ethplorer.io/address/0xbf900809f4c73e5a3476eb183d8b06a27e61f8e5"
+    ],
+    "twitter": "VanillaDeFi",
+    "telegram": "vanilladefi",
+    "github_org": "vanilladefi"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "classicbitcoin",
+    "symbol": "cbtc",
+    "name": "ClassicBitcoin",
+    "platforms": {},
+    "hashing_algorithm": "Equihash",
+    "categories": [
+        "Retail"
+    ],
+    "description": {
+        "en": "ClassicBitcoin CBTC Hardfork to a new Blockchain as a hybrid ZClassic BTC Fork Merger."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "url": "http://bitclassic.info",
+    "explorers": [
+        "http://classicbitcoin.info/explorer"
+    ],
+    "twitter": "bitclassic2",
+    "facebook": "classicbitcoinpage",
+    "telegram": "classic_bitcoin",
+    "reddit": "bitclassic",
+    "github_org": "classicbitcoins"
+}

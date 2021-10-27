@@ -1,0 +1,25 @@
+{
+    "id": "kupp",
+    "symbol": "kupp",
+    "name": "KUPP",
+    "platforms": {
+        "ethereum": "0xc6c6224cf32f5b0850ddf740b47cd1ed31abead4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KUPP is an ERC-20 token geared towards users that wish to earn crypto by completing simple tasks. KUPP token is earned via the KUPP.app, connecting various brands, games, and media services. You can earn KUPP token by completing a simple task such as watching a video or referring a friend. Once you have accumulated your KUPP quota you can take it to partnered listings and buy, trade, or sell. \r\n\r\nKUPP is partnered with apps such as FoodBuk and indimi, with Task Centers giving you opportunities to join in the community as editors and contributors. Got a business that you think could be gamified? We are happy to expand the KUPP ecosystem and tokenize your digital platform. \r\n\r\nKUPP is built upon customer interaction & interest. Any time you spend on KUPP.app will reward you, keep you entertained, and even challenge you. See for yourself by downloading KUPP.app on the Google Play Store & iOS (coming soon)!\r\n"
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0xc6c6224cf32f5b0850ddf740b47cd1ed31abead4",
+    "url": "https://kupp.app/",
+    "explorers": [
+        "https://etherscan.io/token/0xc6c6224cf32f5b0850ddf740b47cd1ed31abead4",
+        "https://ethplorer.io/address/0xc6c6224cf32f5b0850ddf740b47cd1ed31abead4"
+    ],
+    "twitter": "Kupptoken",
+    "telegram": "kupptoken",
+    "reddit": "KUPP/",
+    "github_org": "kupptoken"
+}

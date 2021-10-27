@@ -1,0 +1,25 @@
+{
+    "id": "matic-aave-uni",
+    "symbol": "mauni",
+    "name": "Matic Aave Interest Bearing UNI",
+    "platforms": {
+        "polygon-pos": "0x8c8bdbe9cee455732525086264a4bf9cf821c498"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Wrapped-Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8c8bdbe9cee455732525086264a4bf9cf821c498",
+    "url": "https://www.aavegotchi.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0x8c8bdbe9cee455732525086264a4bf9cf821c498"
+    ],
+    "twitter": "aavegotchi",
+    "github_org": "aavegotchi"
+}

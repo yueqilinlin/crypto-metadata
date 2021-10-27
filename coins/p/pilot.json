@@ -1,0 +1,25 @@
+{
+    "id": "pilot",
+    "symbol": "ptd",
+    "name": "Pilot",
+    "platforms": {
+        "huobi-token": "0x52ee54dd7a68e9cf131b0a57fd6015c74d7140e2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "HECO Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Pilot is a smart over lending protocol based Heco chain released by Pilot Lab, it is the first over lending product on the Heco chain. It supports users participating in liquidity farming through over lending plus leverage to get more revenue. When the user who has insufficient funds but want to participate in DeFi liquidity farming, Pilot can provide up to 3X the leverage to help users obtain the maximum return per unit time, and at the same time provide a borrowing pool for users who prefer stable returns to earn profits. "
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0x52ee54dd7a68e9cf131b0a57fd6015c74d7140e2",
+    "url": "https://p.td/",
+    "explorers": [
+        "https://hecoinfo.com/token/0x52ee54dd7a68e9cf131b0a57fd6015c74d7140e2"
+    ],
+    "twitter": "Pilotprotocol",
+    "telegram": "PTDGroup",
+    "github_org": "P-TD"
+}

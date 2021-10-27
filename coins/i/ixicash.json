@@ -1,0 +1,29 @@
+{
+    "id": "ixicash",
+    "symbol": "ixi",
+    "name": "IxiCash",
+    "platforms": {
+        "ethereum": "0x179cd91631d96e8fafee6a744eac6ffdbb923520"
+    },
+    "hashing_algorithm": "Argon2d",
+    "categories": [
+        "Communication"
+    ],
+    "description": {
+        "en": "Ixian is a peer to peer encrypted data streaming platform, which handles a high volume of micro transactions.\r\n\r\nAbout Ixian Platform and IxiCash\r\n\r\nAs remote work and social distancing are becoming the new norm, more people are relying on streaming services for communication. Traditional services rely on expensive infrastructure to handle millions of new users and amount of data transferred. This infrastructure needs constant maintenance and upgrades but is only being used at full capacity at certain peaks.\r\n\r\nIxian DLT - High throughput of micropayments with microfees\r\n\r\nIxian was built to overcome these issues. By leveraging the user\u2019s hardware we can improve reliability and enable users to monetize their hardware and bandwidth, depending on network needs. Ixian relies on its users to form a secure and efficient network with no downtime.\r\n\r\nIxian S2 - Decentralized data streaming with incentives for node operators\r\n\r\nYou can already download and use the first decentralized app that utilizes Ixian technology, it\u2019s called Spixi and it is a secure next generation chat app, with no central authority which can access your personal data.\r\n\r\nIxian is the kind of platform developers will want to use to build and monetize solutions that require scaling and secure data streaming capabilities. Services utilizing Ixian require smaller operating budgets and thus can be offered at competitive pricing. While paying less, users won\u2019t need to worry about data leaks, privacy issues or censorship."
+    },
+    "country_origin": "QU",
+    "genesis_date": "2018-10-24",
+    "contract_address": "0x179cd91631d96e8fafee6a744eac6ffdbb923520",
+    "url": "https://www.ixian.io/",
+    "explorers": [
+        "https://explorer.ixian.io/",
+        "https://etherscan.io/token/0x179cd91631d96e8fafee6a744eac6ffdbb923520",
+        "https://ethplorer.io/address/0x179cd91631d96e8fafee6a744eac6ffdbb923520"
+    ],
+    "twitter": "ixian_IO",
+    "facebook": "ixian.io",
+    "telegram": "Ixianofficial",
+    "reddit": "ixian/",
+    "github_org": "ProjectIxian"
+}

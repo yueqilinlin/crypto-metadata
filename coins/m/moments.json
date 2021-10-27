@@ -1,0 +1,23 @@
+{
+    "id": "moments",
+    "symbol": "mmt",
+    "name": "Moments Market",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://moments.market ",
+    "explorers": [
+        "https://scpscan.net/contract.html?id=063d1363528d29670cd8b0541e31a9c2d53edfff6070490ba165d9569111bc26"
+    ],
+    "twitter": "momentsmarket",
+    "telegram": "momentsmkt",
+    "reddit": "turbostake",
+    "github_org": "stakecube"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "cryptoads-marketplace",
+    "symbol": "crad",
+    "name": "CryptoAds Marketplace",
+    "platforms": {
+        "ethereum": "0x608f006b6813f97097372d0d31fb0f11d1ca3e4e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "CryptoAds Marketplace is a powerful decentralized marketing and advertising platform built on Ethereum Blockchain. CFC Company developed a cloud based software system for internal use and B2C sector; and now it\u2019s time for expanding into the growing B2B marketplace. The platform is completely transparent and provides secure solutions for brands, digital advertisers, marketers, content publishers and everyday Internet users, who receive the opportunity to trade directly without the need for centralized ad exchanges. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x608f006b6813f97097372d0d31fb0f11d1ca3e4e",
+    "url": "https://cryptoads.exchange/",
+    "explorers": [
+        "https://etherscan.io/token/0x608f006b6813f97097372d0d31fb0f11d1ca3e4e",
+        "https://ethplorer.io/address/0x608f006b6813f97097372d0d31fb0f11d1ca3e4e"
+    ],
+    "twitter": "CallsFreeCalls",
+    "facebook": "CallsFreeCalls",
+    "telegram": "cryptoads_marketplace_en",
+    "reddit": "CRAD",
+    "github_org": "ixc-software"
+}

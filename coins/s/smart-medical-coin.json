@@ -1,0 +1,21 @@
+{
+    "id": "smart-medical-coin",
+    "symbol": "smc",
+    "name": "Smart Medical Coin",
+    "platforms": {
+        "ethereum": "0xb6eda82597808c96969c21a88bf6c749b441c44a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SMC is a coin that can be used at any time on a cash-equal basis based on distributed data and control management, low latency and low latency network responsiveness, reliable and robust transaction throughput, and flexible scalability through the service chain.\r\n\r\nSupport will be provided for health checkups and telemedicine, cruise tourism health checkups, and medical vulnerable countries."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb6eda82597808c96969c21a88bf6c749b441c44a",
+    "url": "https://www.smartmcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xb6eda82597808c96969c21a88bf6c749b441c44a",
+        "https://ethplorer.io/address/0xb6eda82597808c96969c21a88bf6c749b441c44a"
+    ]
+}

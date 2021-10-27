@@ -1,0 +1,26 @@
+{
+    "id": "yup",
+    "symbol": "yup",
+    "name": "Yup",
+    "platforms": {
+        "ethereum": "0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Social Money"
+    ],
+    "description": {
+        "en": "Build influence & earn money for rating content on any website."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9",
+    "url": "https://yup.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9",
+        "https://bloks.io/tokens/YUP-eos-token.yup",
+        "https://ethplorer.io/address/0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9"
+    ],
+    "twitter": "yup_io",
+    "github_org": "yup-io"
+}

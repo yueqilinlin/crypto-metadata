@@ -1,0 +1,25 @@
+{
+    "id": "morality",
+    "symbol": "mo",
+    "name": "Morality",
+    "platforms": {
+        "ethereum": "0x4fd5b9b5dcc9a5d5931d007ba4ae573e760d9b64"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Morality is a blockchain-based content rating system that compensates you for your time online."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x4fd5b9b5dcc9a5d5931d007ba4ae573e760d9b64",
+    "url": "https://morality.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x4fD5b9B5dcc9a5D5931d007ba4aE573e760d9B64",
+        "https://ethplorer.io/address/0x4fD5b9B5dcc9a5D5931d007ba4aE573e760d9B64"
+    ],
+    "twitter": "MoralityNetwork",
+    "telegram": "MoralityNetwork",
+    "reddit": "justplayMO",
+    "github_org": "morality-network"
+}

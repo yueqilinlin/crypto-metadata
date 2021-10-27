@@ -1,0 +1,28 @@
+{
+    "id": "skraps",
+    "symbol": "skrp",
+    "name": "Skraps",
+    "platforms": {
+        "ethereum": "0xfdfe8b7ab6cf1bd1e3d14538ef40686296c42052"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Skraps is a micro-investing platform where users can invest by rounding off their fiat transactions & investing that spare change in cryptocurrencies. SKRP token will be used to pay transaction fees."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfdfe8b7ab6cf1bd1e3d14538ef40686296c42052",
+    "url": "https://skraps.io",
+    "explorers": [
+        "https://etherscan.io/token/0xfdfe8b7ab6cf1bd1e3d14538ef40686296c42052",
+        "https://ethplorer.io/address/0xfdfe8b7ab6cf1bd1e3d14538ef40686296c42052"
+    ],
+    "twitter": "SkrapsApp",
+    "facebook": "SKRAPSAPP",
+    "telegram": "SkrapsOfficial",
+    "reddit": "SKRAPSio/",
+    "github_org": "SkrapsIO"
+}

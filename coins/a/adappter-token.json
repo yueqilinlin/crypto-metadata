@@ -1,0 +1,23 @@
+{
+    "id": "adappter-token",
+    "symbol": "adp",
+    "name": "Adappter Token",
+    "platforms": {
+        "ethereum": "0xc314b0e758d5ff74f63e307a86ebfe183c95767b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Adappter will provide a solution that helps individuals, companies, sellers, and users coexist with each other for the objective of happiness and profits of all based on the spirit of fairness, sharing, and trust. Also, Adappter will make every effort to increase the value of all members.\r\n\r\nIn January 2018, we expanded our business to \u201cAdappter\u201d service, which provides various blockchain information and live content from \u201cHoujaeki\u201d service, which provides data on favorable factors in real time. Currently, about 50,000 users who have interests in blockchain (including Android and iOS) use the Adappter service.\r\n\r\nADP is Token published by Adappter, operated within the Ethereum platform (ERC20), and used as a key currency in the adapter ecosystem. It can convert AP, which was received as compensation for partner contents, to ADP and it will continue for 20 years. In the future, it will provide real-life payment functions for purchasing goods, items, and products."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0xc314b0e758d5ff74f63e307a86ebfe183c95767b",
+    "url": "https://adappter.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xc314b0e758d5ff74f63e307a86ebfe183c95767b",
+        "https://ethplorer.io/address/0xc314b0e758d5ff74f63e307a86ebfe183c95767b"
+    ],
+    "telegram": "AdappterOfficial",
+    "github_org": "sinestcorp"
+}

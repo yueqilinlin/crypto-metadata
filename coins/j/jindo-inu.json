@@ -1,0 +1,22 @@
+{
+    "id": "jindo-inu",
+    "symbol": "jind",
+    "name": "Jindo Inu",
+    "platforms": {
+        "binance-smart-chain": "0x5fead99998788ac1bca768796483d899f1aef4c4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "This token will be used by JINDO SWAP and JINDO NFT in the future.\r\nJINDO SWAP is a SWAP built on the BSC chain, and if it provides liquidity, you can receive JINDO FEED tokens.\r\nJINDO FEED tokens will be issued with the launch of the swap and will be distributed to 100% liquidity providers.\r\nJINDO NFT is an NFT sales and maker place where you can make and sell your own dog by synthesizing several types of dogs.\r\nJINDO NFT can use JINDO tokens to purchase and synthesize puppies, and JINDO FEED tokens to level up puppies."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x5fead99998788ac1bca768796483d899f1aef4c4",
+    "url": "https://www.jindoinu.info/",
+    "explorers": [
+        "https://bscscan.com/token/0x5fEAD99998788AC1BCA768796483d899F1Aef4c4"
+    ],
+    "twitter": "JINDOINU2",
+    "telegram": "JINDOINU2"
+}

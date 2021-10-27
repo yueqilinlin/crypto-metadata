@@ -1,0 +1,24 @@
+{
+    "id": "custody-token",
+    "symbol": "cust",
+    "name": "Custody Token",
+    "platforms": {
+        "ethereum": "0xf6abff616043c2da572573dcc583b656297b30e7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CUST is developed by the Xtock project, used as a means of secondary verfication and settlement of the Xtock custody service, by providing integrated cold wallet to affiliated exchanges in order to improvement management security of digital assets. Xtock\u2019s custody service enables individuals and enterprises to opt out of unstable security systems on existing exchanges, and is strucutred for double verification for every deposit / withdrawal process.\r\n\r\nThe CUST Token is used as a means of payment for Xstock custody features such as USD Remittance, currency exchange, custody, setup, and more."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf6abff616043c2da572573dcc583b656297b30e7",
+    "url": "https://www.xtock.io/custody",
+    "explorers": [
+        "https://etherscan.io/token/0xf6abff616043c2da572573dcc583b656297b30e7",
+        "https://ethplorer.io/address/0xf6abff616043c2da572573dcc583b656297b30e7"
+    ],
+    "twitter": "xtock_io",
+    "facebook": "xtock.io",
+    "telegram": "xtock_en"
+}

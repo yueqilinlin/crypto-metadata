@@ -1,0 +1,22 @@
+{
+    "id": "mifty-swap",
+    "symbol": "mfy",
+    "name": "Mifty Swap",
+    "platforms": {
+        "binance-smart-chain": "0x1ff071bf900f9375cc1467f059c166b0c0ab1157"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mifty swap (MFY) is Decentralized Exchange and automated market maker on Binance Smart Chain that maintains the same and tested and true liquidity protection."
+    },
+    "country_origin": "BD",
+    "genesis_date": null,
+    "contract_address": "0x1ff071bf900f9375cc1467f059c166b0c0ab1157",
+    "url": "https://miftyswap.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x1ff071bf900f9375cc1467f059c166b0c0ab1157"
+    ],
+    "twitter": "MiftySwap",
+    "telegram": "Mifty_Swap_Community"
+}

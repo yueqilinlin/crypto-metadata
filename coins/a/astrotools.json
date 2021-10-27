@@ -1,0 +1,24 @@
+{
+    "id": "astrotools",
+    "symbol": "astro",
+    "name": "AstroTools",
+    "platforms": {
+        "ethereum": "0xcbd55d4ffc43467142761a764763652b48b969ff"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Analytics"
+    ],
+    "description": {
+        "en": "AstroTools is a DeFi dashboard that bridges the information gap between centralized and decentralized exchanges, giving you an analytical edge to supercharge your trading experience."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcbd55d4ffc43467142761a764763652b48b969ff",
+    "url": "https://app.astrotools.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xcbd55d4ffc43467142761a764763652b48b969ff",
+        "https://ethplorer.io/address/0xcbd55d4ffc43467142761a764763652b48b969ff"
+    ],
+    "twitter": "Astro_Tools"
+}

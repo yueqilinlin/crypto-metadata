@@ -1,0 +1,27 @@
+{
+    "id": "bdollar-share",
+    "symbol": "sbdo",
+    "name": "bDollar Share",
+    "platforms": {
+        "binance-smart-chain": "0x0d9319565be7f53cefe84ad201be3f40feae2740"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "bDollar is the first algorithmic stablecoin on Binance Smart Chain with an innovative solution that can adjust its supply deterministically to move the price of the token in the direction of a target price to bring programmability and interoperability to DeFi.\r\nInspired by Basis and its predecessors, bDollar is a multi-token protocol that consists of three tokens: BDO (the algorithmic stablecoin), bDollar Shares (or sBDO, which holders can claim BDO inflation when the network expands), and bDollar Bonds (or bBDO, which can be purchased at a discount rate when the network is in contraction and can be redeemed for BDO when the network comes to its deflationary phase and price goes below 1$)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0d9319565be7f53cefe84ad201be3f40feae2740",
+    "url": "https://bdollar.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740"
+    ],
+    "twitter": "bDollar_Fi",
+    "telegram": "Bearn_Fi",
+    "github_org": "bearn-defi"
+}

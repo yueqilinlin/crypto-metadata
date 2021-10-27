@@ -1,0 +1,23 @@
+{
+    "id": "gyen",
+    "symbol": "gyen",
+    "name": "GYEN",
+    "platforms": {
+        "ethereum": "0xc08512927d12348f6620a698105e1baac6ecd911"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The first regulated Japanese YEN stablecoin issued by GMO-Z.com Trust Company, Inc."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xc08512927d12348f6620a698105e1baac6ecd911",
+    "url": "https://stablecoin.z.com/gyen/",
+    "explorers": [
+        "https://etherscan.io/token/0xC08512927D12348F6620a698105e1BAac6EcD911",
+        "https://ethplorer.io/address/0xC08512927D12348F6620a698105e1BAac6EcD911"
+    ],
+    "twitter": "GMOTrust",
+    "github_org": "trust-zcom"
+}

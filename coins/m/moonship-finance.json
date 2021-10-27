@@ -1,0 +1,23 @@
+{
+    "id": "moonship-finance",
+    "symbol": "msp",
+    "name": "Moonship Finance",
+    "platforms": {
+        "huobi-token": "0x3587b2f70d5eaaa26a7b6520b9f286b6538d621f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MoonShip is a community driven, fair launched DeFi project built on Huobi Eco Chain #HECO. MoonShip brings the most revolutionary mechanism to HT ecosystem: Earn $HT just by holding $MSP token"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3587b2f70d5eaaa26a7b6520b9f286b6538d621f",
+    "url": "https://moonship.finance/",
+    "explorers": [
+        "https://hecoinfo.com/token/0x3587b2f70d5eaaa26a7b6520b9f286b6538d621f"
+    ],
+    "twitter": "moonshipfinance",
+    "telegram": "MoonshipOffical",
+    "github_org": "moonshipfinance"
+}

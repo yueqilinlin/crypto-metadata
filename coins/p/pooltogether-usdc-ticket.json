@@ -1,0 +1,22 @@
+{
+    "id": "pooltogether-usdc-ticket",
+    "symbol": "pcusdc",
+    "name": "PoolTogether USDC Ticket",
+    "platforms": {
+        "ethereum": "0xd81b1a8b1ad00baa2d6609e0bae28a38713872f7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd81b1a8b1ad00baa2d6609e0bae28a38713872f7",
+    "url": "https://pooltogether.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xD81b1A8B1AD00Baa2D6609E0BAE28A38713872f7",
+        "https://ethplorer.io/address/0xD81b1A8B1AD00Baa2D6609E0BAE28A38713872f7"
+    ],
+    "twitter": "PoolTogether_"
+}

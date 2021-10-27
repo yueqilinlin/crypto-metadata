@@ -1,0 +1,25 @@
+{
+    "id": "armours",
+    "symbol": "arm",
+    "name": "Armours",
+    "platforms": {
+        "ethereum": "0xa9ff725189fe00da9c5f27a580dc67fea61e3fb2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "As the world's leading blockchain security laboratory, Armors solutions extend from the smart contract eco-platform to the overall blockchain security."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa9ff725189fe00da9c5f27a580dc67fea61e3fb2",
+    "url": "https://armors.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa9ff725189fe00da9c5f27a580dc67fea61e3fb2",
+        "https://ethplorer.io/address/0xa9ff725189fe00da9c5f27a580dc67fea61e3fb2"
+    ],
+    "twitter": "LabsArmors",
+    "facebook": "ArmorsLabs",
+    "telegram": "ArmorsLabs",
+    "github_org": "armors"
+}

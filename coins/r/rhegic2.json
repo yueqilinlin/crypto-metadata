@@ -1,0 +1,25 @@
+{
+    "id": "rhegic2",
+    "symbol": "rhegic2",
+    "name": "rHEGIC2",
+    "platforms": {
+        "ethereum": "0xad7ca17e23f13982796d27d1e6406366def6ee5f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "Hegic token IOU for Phase 2"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xad7ca17e23f13982796d27d1e6406366def6ee5f",
+    "url": "https://www.hegic.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xad7ca17e23f13982796d27d1e6406366def6ee5f",
+        "https://ethplorer.io/address/0xad7ca17e23f13982796d27d1e6406366def6ee5f"
+    ],
+    "twitter": "HegicOptions",
+    "github_org": "hegic"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "swinate",
+    "symbol": "swin",
+    "name": "Swinate",
+    "platforms": {
+        "binance-smart-chain": "0x8592fb0e6724a90ce45f05f31b85bddd45931560"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Swinate is the auto-generating liquidity protocol with static farming by holding on Binance Smart Chain."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x8592fb0e6724a90ce45f05f31b85bddd45931560",
+    "url": "https://www.swinate.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x8592fb0e6724a90ce45f05f31b85bddd45931560"
+    ],
+    "twitter": "SWINATEIO",
+    "telegram": "swinate",
+    "reddit": "Swinate/"
+}

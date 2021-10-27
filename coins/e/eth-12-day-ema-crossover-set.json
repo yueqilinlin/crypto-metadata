@@ -1,0 +1,26 @@
+{
+    "id": "eth-12-day-ema-crossover-set",
+    "symbol": "eth12emaco",
+    "name": "ETH 12 Day EMA Crossover Set",
+    "platforms": {
+        "ethereum": "0x2c5a9980b41861d91d30d0e0271d1c093452dca5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "TokenSets"
+    ],
+    "description": {
+        "en": "The ETH 12 Day Exponential Moving Average Crossover Set attempts to capitalize on short term flat or downtrends and accumulate ETH. ETH12EMACO automatically triggers rebalances between ETH and USDC when the price of ETH crosses above or below the 12 Day Exponential Moving Average (12 EMA)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2c5a9980b41861d91d30d0e0271d1c093452dca5",
+    "url": "https://www.tokensets.com/set/eth12emaco",
+    "explorers": [
+        "https://etherscan.io/token/0x2c5a9980B41861D91D30d0E0271d1c093452DcA5",
+        "https://ethplorer.io/address/0x2c5a9980b41861d91d30d0e0271d1c093452dca5"
+    ],
+    "twitter": "SetProtocol",
+    "github_org": "SetProtocol"
+}

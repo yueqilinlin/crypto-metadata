@@ -1,0 +1,22 @@
+{
+    "id": "ninja-doge",
+    "symbol": "$ninjadoge",
+    "name": "Ninja Doge",
+    "platforms": {
+        "binance-smart-chain": "0xe218dcf32f9bb64648d64ef2ae85cf1c63c5ac74"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$NINJADOGE  is the first charity token to reward holders $DOGE and donate to local non-profit animal organizations around the world. The co-founders of this project are seasoned tech professionals from California, silicon valley - tech central of the world. They have experience in digital marketing and sales."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xe218dcf32f9bb64648d64ef2ae85cf1c63c5ac74",
+    "url": "https://www.ninjadoge.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xe218DcF32F9bb64648D64Ef2AE85cF1C63C5aC74"
+    ],
+    "twitter": "NinjaDogebsc",
+    "telegram": "ninjadogebsc"
+}

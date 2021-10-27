@@ -1,0 +1,20 @@
+{
+    "id": "oec-uni",
+    "symbol": "unik",
+    "name": "OEC UNI",
+    "platforms": {
+        "okex-chain": "0x59d226bb0a4d74274d4354ebb6a0e1a1aa5175b6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x59d226bb0a4d74274d4354ebb6a0e1a1aa5175b6",
+    "url": "https://www.okex.com/okexchain",
+    "explorers": [
+        "https://www.oklink.com/okexchain/tokenAddr/0x59d226bb0a4d74274d4354ebb6a0e1a1aa5175b6"
+    ]
+}

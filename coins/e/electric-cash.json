@@ -1,0 +1,21 @@
+{
+    "id": "electric-cash",
+    "symbol": "elcash",
+    "name": "Electric Cash",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": "Electric Cash is a payment protocol designed to be accessible and lightweight, with a focus on reducing transaction fees. Fast and free transactions on a secure and decentralized network make ELCASH ideal for everyday payments.\r\n\r\nWhy Electric Cash?\r\n\r\n* Cash-like - A medium of exchange to facilitate everyday payments.\r\n* Improved transactions - Fast and free transactions secured by the Proof-of-Work consensus and the second layer of blockchain.\r\n* Community influence - Community-driven governance system on a decentralized network.\r\n\r\nElectric Cash launched its mainnet on 20 December 2020 as a POW coin. Feel free to check all the updated data at https://explorer.electriccash.global/"
+    },
+    "country_origin": "PL",
+    "genesis_date": null,
+    "url": "https://electriccash.global/",
+    "explorers": [
+        "https://explorer.electriccash.global/"
+    ],
+    "twitter": "elcash_official",
+    "facebook": "electriccash.official",
+    "telegram": "elcash_official",
+    "github_org": "electric-cash"
+}

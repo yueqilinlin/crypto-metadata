@@ -1,0 +1,21 @@
+{
+    "id": "idk",
+    "symbol": "idk",
+    "name": "IDK",
+    "platforms": {
+        "ethereum": "0x61fd1c62551850d0c04c76fce614cbced0094498"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Indonesian Rupiah Stablecoin on Blockchain"
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x61fd1c62551850d0c04c76fce614cbced0094498",
+    "url": "http://idkfoundation.org",
+    "explorers": [
+        "https://etherscan.io/token/0x61fd1c62551850d0c04c76fce614cbced0094498",
+        "https://ethplorer.io/address/0x61fd1c62551850d0c04c76fce614cbced0094498"
+    ]
+}

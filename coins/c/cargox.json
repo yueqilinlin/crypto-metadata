@@ -1,0 +1,27 @@
+{
+    "id": "cargox",
+    "symbol": "cxo",
+    "name": "CargoX",
+    "platforms": {
+        "ethereum": "0xb6ee9668771a79be7967ee29a63d4184f8097143"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "The CargoX Platform gives you the world\u2019s easiest way to upload documents and provides the tools for their secure and instant transaction. What is new is that you can also transfer ownership of documents!"
+    },
+    "country_origin": "SI",
+    "genesis_date": "2018-01-18",
+    "contract_address": "0xb6ee9668771a79be7967ee29a63d4184f8097143",
+    "url": "https://cargox.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xb6ee9668771a79be7967ee29a63d4184f8097143",
+        "https://ethplorer.io/address/0xb6ee9668771a79be7967ee29a63d4184f8097143"
+    ],
+    "twitter": "cargoxio ",
+    "facebook": "cargox.io",
+    "reddit": "CargoXio/"
+}

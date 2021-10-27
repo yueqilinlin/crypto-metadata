@@ -1,0 +1,27 @@
+{
+    "id": "te-food",
+    "symbol": "tone",
+    "name": "TE-FOOD",
+    "platforms": {
+        "ethereum": "0x2ab6bb8408ca3199b8fa6c92d5b455f820af03c4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Manufacturing"
+    ],
+    "description": {
+        "en": "TE-FOOD is a food quality and supply ecosystem for emerging markets, which integrates food supply chain companies, consumers, and authorities into one traceability solution. It starts tracking animals at the farms, collects all logistics and food quality information, and follows them through processing, distribution and sales, right to the consumers. Started in 2016, TE-FOOD serves more than 6000 business customers, and handles 400,000 transactions each day. "
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x2ab6bb8408ca3199b8fa6c92d5b455f820af03c4",
+    "url": "https://tefoodint.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x2ab6bb8408ca3199b8fa6c92d5b455f820af03c4",
+        "https://ethplorer.io/address/0x2ab6bb8408ca3199b8fa6c92d5b455f820af03c4"
+    ],
+    "twitter": "TE_FOOD",
+    "facebook": "tefoodintl",
+    "telegram": "te_food",
+    "reddit": "TE_FOOD/"
+}

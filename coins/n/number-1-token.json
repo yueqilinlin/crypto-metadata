@@ -1,0 +1,22 @@
+{
+    "id": "number-1-token",
+    "symbol": "nr1",
+    "name": "Number 1 Token",
+    "platforms": {
+        "Bitcichain": "0xa9c4f5024eaf74a3daa4b7afe83b9eca7aa9eeca"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa9c4f5024eaf74a3daa4b7afe83b9eca7aa9eeca",
+    "url": "https://www.bitci.com/en/number1",
+    "explorers": [
+        "https://bitciexp.bitcichain.com/tokens/0xA9c4f5024eAf74a3dAa4b7aFe83b9eCA7Aa9eecA/token_transfers"
+    ],
+    "twitter": "bitcicom",
+    "telegram": "bitcicom"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "soakmont",
+    "symbol": "soak",
+    "name": "Soakmont",
+    "platforms": {
+        "binance-smart-chain": "0x841dc7a49e0825bdf3ee585cfb6e553495915ace"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SOAK Platform is an assets(real estate) investment and crowdfunding platform.\r\nSOAK Ecosystem is a set of tools for investors to take decisions based on real markets data.\r\nThe SOAK token goal is to become the currency for renting commercial and residential properties, along with other use case."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x841dc7a49e0825bdf3ee585cfb6e553495915ace",
+    "url": "https://soakmont.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x841dc7a49e0825bdf3ee585cfb6e553495915ace"
+    ],
+    "twitter": "GetSOAK",
+    "telegram": "soakmont",
+    "reddit": "SOAKmont/",
+    "github_org": "soakmont"
+}

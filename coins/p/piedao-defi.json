@@ -1,0 +1,30 @@
+{
+    "id": "piedao-defi",
+    "symbol": "defi++",
+    "name": "PieDAO DEFI++",
+    "platforms": {
+        "ethereum": "0x8d1ce361eb68e9e05573443c407d4a3bed23b033",
+        "polygon-pos": "0x5b6ab5078bd2bbf1a215fffba16a94b7df7f639d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "DeFi Index",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Tokenised DeFi Index providing exposure to DeFi SmallCaps & Large Caps Indices."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8d1ce361eb68e9e05573443c407d4a3bed23b033",
+    "url": "https://pools.piedao.org/#/pie/0x8d1ce361eb68e9e05573443c407d4a3bed23b033",
+    "explorers": [
+        "https://etherscan.io/token/0x8d1ce361eb68e9e05573443c407d4a3bed23b033",
+        "https://ethplorer.io/address/0x8d1ce361eb68e9e05573443c407d4a3bed23b033"
+    ],
+    "twitter": "piedao_defi",
+    "telegram": "piedao",
+    "reddit": "PieDAO/",
+    "github_org": "pie-dao"
+}

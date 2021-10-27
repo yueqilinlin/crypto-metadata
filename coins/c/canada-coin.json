@@ -1,0 +1,24 @@
+{
+    "id": "canada-coin",
+    "symbol": "cadax",
+    "name": "Canada Coin",
+    "platforms": {
+        "binance-smart-chain": "0x3fd6068e1e85017abedac22b8efefe8a1588678d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CADAX is the foundation token of a multi utility platform conglomerate. At base level it aims to utilize its charity tax for its altruistic goals to provide assistance to underprivileged children through the statistically proven benefits of youth sports. It's tax model provides long lasting benefits to those who hold and discourage selling through its use of its cake rewards system. With the V2 launch many improvements have already been implemented and is set up to launch CADA Scan. CADA Scan is a next generation token scanning app which will warn users of potential scams through several algorithmic analysis and diagnostic tools. V2 has also opened up access to future projects such as NFT market place, token launch pad, gaming, and any cutting edge utility apps that CADAX could utilize in its arsenal."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3fd6068e1e85017abedac22b8efefe8a1588678d",
+    "url": "https://canadacoin.world/",
+    "explorers": [
+        "https://bscscan.com/token/0x3fd6068e1e85017abedac22b8efefe8a1588678d"
+    ],
+    "twitter": "thecanadacoin",
+    "telegram": "CADACOIN",
+    "reddit": "TheCanadaCoin/",
+    "github_org": "CanadaCoinProject"
+}

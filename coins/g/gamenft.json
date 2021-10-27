@@ -1,0 +1,23 @@
+{
+    "id": "gamenft",
+    "symbol": "gnft",
+    "name": "GameNFT",
+    "platforms": {
+        "binance-smart-chain": "0xd32af8bee4095a84e258a82b512356dfc0a7d2c0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A decentralised platform for NFT products distribution and trading based on blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd32af8bee4095a84e258a82b512356dfc0a7d2c0",
+    "url": "https://gamenft.vip",
+    "explorers": [
+        "https://bscscan.com/token/0xd32af8bee4095a84e258a82b512356dfc0a7d2c0"
+    ],
+    "twitter": "GameNFTOfficial",
+    "telegram": "GameNFTOfficial",
+    "reddit": "StarPalaceOfficial/"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "electronicgulden",
+    "symbol": "efl",
+    "name": "Electronic Gulden",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "The primary goal of e-Gulden is to position it as a solid and valuable currency in The Netherlands. The way to get there is to first educated the Dutch people to accepting the idea of cryptocurrency as money first, have them then invest a few euros in e-Gulden and by the time tens of thousands have done so, finally get merchants aboard. \r\n\r\nThere is a pre-mine of 50% of the total amount of e-Gulden."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-03-19",
+    "url": "http://www.e-gulden.org/",
+    "explorers": [
+        "https://chainz.cryptoid.info/efl/"
+    ],
+    "twitter": "eguldenfoundati",
+    "facebook": "EFLFoundation",
+    "reddit": "electronicgulden",
+    "github_org": "Electronic-Gulden-Foundation"
+}

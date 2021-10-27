@@ -1,0 +1,30 @@
+{
+    "id": "robonomics-network",
+    "symbol": "xrt",
+    "name": "Robonomics Network",
+    "platforms": {
+        "ethereum": "0x7de91b204c1c737bcee6f000aaa6569cf7061cb7",
+        "sora": "0x0083d5cbb4b90163b6a003e8f771eb7c0e2b706892cd0cbadb03f55cb9e06919"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Internet of Things (IOT)",
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0x7de91b204c1c737bcee6f000aaa6569cf7061cb7",
+    "url": "https://robonomics.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x7de91b204c1c737bcee6f000aaa6569cf7061cb7",
+        "https://ethplorer.io/address/0x7de91b204c1c737bcee6f000aaa6569cf7061cb7"
+    ],
+    "twitter": "AIRA_Robonomics",
+    "facebook": "aira.robonomics",
+    "telegram": "robonomics",
+    "reddit": "robonomics/",
+    "github_org": "airalab"
+}

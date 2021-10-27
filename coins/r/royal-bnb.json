@@ -1,0 +1,23 @@
+{
+    "id": "royal-bnb",
+    "symbol": "rb",
+    "name": "Royal BNB",
+    "platforms": {
+        "binance-smart-chain": "0x9f0f7acc4c49bfb8d5d65df0fc822fbc920b71de"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Royal BNB is a automatic reward generation token, holders of $RB token will automatically receive BNB rewards into their wallets every 30 minutes cycle, without the need to connect their wallet manually.\r\n\r\nThis is one of the most promising DeFi token with a 15% BNB reward offering, since launch the community and holders are growing at pace. A community driven enthusiasm and fantastic reward mechanism is being delivered to ensure the success of the token."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x9f0f7acc4c49bfb8d5d65df0fc822fbc920b71de",
+    "url": "https://royalbnb.net",
+    "explorers": [
+        "https://bscscan.com/token/0x9F0F7aCC4C49bfb8D5D65df0FC822fBC920b71DE"
+    ],
+    "twitter": "royalbnb",
+    "telegram": "royalbnbrb",
+    "github_org": "Royalbnb"
+}

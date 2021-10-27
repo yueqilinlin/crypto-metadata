@@ -1,0 +1,22 @@
+{
+    "id": "venus-usdt",
+    "symbol": "vusdt",
+    "name": "Venus USDT",
+    "platforms": {
+        "binance-smart-chain": "0xfd5840cd36d94d7229439859c0112a4185bc0255"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Venus is an algorithmic money market and synthetic stablecoin decentralized finance protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfd5840cd36d94d7229439859c0112a4185bc0255",
+    "url": "https://venus.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xfD5840Cd36d94D7229439859C0112a4185BC0255"
+    ],
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+}

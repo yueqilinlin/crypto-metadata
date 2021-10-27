@@ -1,0 +1,24 @@
+{
+    "id": "bitgrit",
+    "symbol": "bgr",
+    "name": "bitgrit",
+    "platforms": {
+        "ethereum": "0x986303c398dbf3295fa4ad98274ad20cfcf80c08"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "bitgrit provides a data scientist network and AI Marketplace that helps data scientists, data providers, and companies collaborate on AI solutions in one consistent and easy-to-use platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x986303c398dbf3295fa4ad98274ad20cfcf80c08",
+    "url": "https://bitgrit.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x986303c398dbf3295fa4ad98274ad20cfcf80c08",
+        "https://ethplorer.io/address/0x986303c398dbf3295fa4ad98274ad20cfcf80c08"
+    ],
+    "twitter": "bitgrit_global",
+    "telegram": "bitgritcrypto",
+    "github_org": "bitgrit-official"
+}

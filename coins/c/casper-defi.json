@@ -1,0 +1,23 @@
+{
+    "id": "casper-defi",
+    "symbol": "casper",
+    "name": "Casper DeFi",
+    "platforms": {
+        "fantom": "0xc30d1b0ce932c3dd3373a2c23ada4e9608caf345"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Casper DeFi is a Multi-Chain Crypto Platfrom here to make investing Easy & Simple. Casper is the native token for Casper DeFi."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xc30d1b0ce932c3dd3373a2c23ada4e9608caf345",
+    "url": "https://www.casperdefi.com/",
+    "explorers": [
+        "https://ftmscan.com/token/0xc30d1b0ce932c3dd3373a2c23ada4e9608caf345"
+    ],
+    "twitter": "CasperTracker",
+    "telegram": "caspertracker",
+    "github_org": "CasperDeFi"
+}

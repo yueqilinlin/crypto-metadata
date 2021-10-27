@@ -1,0 +1,26 @@
+{
+    "id": "mothership",
+    "symbol": "msp",
+    "name": "Mothership",
+    "platforms": {
+        "ethereum": "0x68aa3f232da9bdc2343465545794ef3eea5209bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Mothership is an EU-based regulated cryptocurrencies exchange with a powerful, but simple, trading experience on transparent markets. Offering fiat deposits & withdrawals, Easy KYC with e-Residency integration, performance dashboards and corporate accounts.\r\n\r\nMothership has been founded to give people control over their finances and provide users with interesting and transparent investment opportunities to grow their wealth. We believe money is a force multiplier and strongly believe it\u2019s our duty to help people understand the positive power of money, gain control and insight into their finances and allow them to earn profits using democratic financial products. Our goal is to help our customers earn $1 billion in profits by 2025 so they can attain their financial goals and aspirations.\r\n\r\nThe key reasons to trade on Mothership:\r\n1. Regulated & transparent trading markets\r\n2. Quick chat-based customer support\r\n3. Built to keep you aware of your performance\r\n4. Easy-to-use, but powerful, trading experience\r\n\r\nThe MSP token has the following utilities:\r\n- MSP holdings will ensure access to higher tiers on Mothership;\r\n- MSP acts as a discount & rebate bonus in case of paying fees with MSP;\r\n- 50% of the MSP supply will be burned with 20% of earned fees that were paid in MSP;\r\n- MSP holders reaching tier 6 users will receive priority support (perk excluded from volume promotions)\r\n\r\nCore Features:\r\n1. Euro accounts with SEPA deposits\r\n2. An easy and quick identity verification process\r\n3. Secure 2FA with the Mothership app\r\n4. Regulated & transparent markets\r\n5. Performance dashboard with avg. entry/exit, total gains/losses, portfolio performance, distribution in % of BTC, etc.\r\n6. A transparent coin listing process\r\n7. Quick chat-based customer support\r\n8. Competitive tier-based trading fees and rebates\r\n9. Corporate accounts"
+    },
+    "country_origin": "EE",
+    "genesis_date": "2017-07-08",
+    "contract_address": "0x68aa3f232da9bdc2343465545794ef3eea5209bd",
+    "url": "https://mothership.cx/",
+    "explorers": [
+        "https://etherscan.io/token/0x68aa3f232da9bdc2343465545794ef3eea5209bd",
+        "https://ethplorer.io/address/0x68aa3f232da9bdc2343465545794ef3eea5209bd"
+    ],
+    "twitter": "MothershipCX",
+    "telegram": "mothershipcx",
+    "github_org": "mothership-ec"
+}

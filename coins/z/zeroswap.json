@@ -1,0 +1,32 @@
+{
+    "id": "zeroswap",
+    "symbol": "zee",
+    "name": "ZeroSwap",
+    "platforms": {
+        "ethereum": "0x2edf094db69d6dcd487f1b3db9febe2eec0dd4c5",
+        "binance-smart-chain": "0x44754455564474a89358b2c2265883df993b12f0",
+        "polygon-pos": "0xfd4959c06fbcc02250952daebf8e0fb38cf9fd8c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad",
+        "Polygon Ecosystem",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Multi-Chain protocol with Liquidity Mining, DeFi Token Offering, and DEX Aggregation. All that power to DeFi with zero fee using Transaction Fee Mining."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2edf094db69d6dcd487f1b3db9febe2eec0dd4c5",
+    "url": "https://zeroswap.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x2edf094db69d6dcd487f1b3db9febe2eec0dd4c5",
+        "https://ethplorer.io/address/0x2edf094db69d6dcd487f1b3db9febe2eec0dd4c5",
+        "https://bscscan.com/token/0x44754455564474a89358b2c2265883df993b12f0",
+        "https://polygonscan.com/token/0xfd4959c06FbCc02250952DAEbf8e0Fb38cF9FD8C"
+    ],
+    "twitter": "ZeroSwapLabs",
+    "telegram": "ZeroSwap_ANN",
+    "reddit": "ZeroSwapLabs/"
+}

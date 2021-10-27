@@ -1,0 +1,22 @@
+{
+    "id": "piratecoin",
+    "symbol": "piratecoin\u2620",
+    "name": "PirateCoin",
+    "platforms": {
+        "binance-smart-chain": "0x041640ea980e3fe61e9c4ca26d9007bc70094c15"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PirateCoin a high-end Game to Play and Earn NFT RPG developed on the Binance Smart Chain platform. The more you buy the more Chances of Winning Treasures"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x041640ea980e3fe61e9c4ca26d9007bc70094c15",
+    "url": "https://piratecoin.games",
+    "explorers": [
+        "https://bscscan.com/token/0x041640ea980e3fe61e9c4ca26d9007bc70094c15"
+    ],
+    "twitter": "piratecoingames",
+    "telegram": "PirateCoinGamesOfficial"
+}

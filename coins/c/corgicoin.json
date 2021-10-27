@@ -1,0 +1,25 @@
+{
+    "id": "corgicoin",
+    "symbol": "corgi",
+    "name": "CorgiCoin",
+    "platforms": {
+        "binance-smart-chain": "0x450dcf93160a30be156a4600802c91bf64dffd2e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "$CORGI is the first dogecoin for everyone. Built from head to paw for democratic access, it is 100x cheaper to send than comparison ERC-20 pups."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x450dcf93160a30be156a4600802c91bf64dffd2e",
+    "url": "https://corgicoin.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x450dcf93160a30be156a4600802c91bf64dffd2e"
+    ],
+    "twitter": "CorgiCoinBSC",
+    "telegram": "CorgiCoinBSC",
+    "reddit": "https://www.reddit.comCorgiArmy/"
+}

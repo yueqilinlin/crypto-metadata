@@ -1,0 +1,23 @@
+{
+    "id": "hype-bet",
+    "symbol": "hypebet",
+    "name": "Hype.Bet",
+    "platforms": {
+        "ethereum": "0xc9dfcd0a1dd2d7bb6fd2ef91a16a6a1c4e9846dd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xc9dfcd0a1dd2d7bb6fd2ef91a16a6a1c4e9846dd",
+    "url": "https://www.hype-finance.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xc9dfcd0a1dd2d7bb6fd2ef91a16a6a1c4e9846dd",
+        "https://ethplorer.io/address/0xc9dfcd0a1dd2d7bb6fd2ef91a16a6a1c4e9846dd"
+    ],
+    "twitter": "HypeDefi",
+    "telegram": "HypeFinanceofficial"
+}

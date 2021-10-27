@@ -1,0 +1,24 @@
+{
+    "id": "padcoin",
+    "symbol": "pad",
+    "name": "Padcoin",
+    "platforms": {
+        "ethereum": "0x992a8a9f4bde0fb2ee1f5bbb3cb7b1e64748e13d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\ud835\udde3\ud835\uddd4\ud835\uddd7\ud835\uddf0\ud835\uddfc\ud835\uddf6\ud835\uddfb is exclusive on-platform currency for \ud835\udde3\ud835\uddfc\ud835\ude04\ud835\uddf2\ud835\uddff\ud835\uddee\ud835\uddf1.\ud835\uddf6\ud835\uddfc, the first blockchain ooh advertising platform. powerad provides brands & marketing entities with blockchain-based tools to help them engage & monetize their audiences with private car owners who are willing to wrap their car."
+    },
+    "country_origin": "MP",
+    "genesis_date": null,
+    "contract_address": "0x992a8a9f4bde0fb2ee1f5bbb3cb7b1e64748e13d",
+    "url": "https://www.padcoin.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x992a8a9f4bde0fb2ee1f5bbb3cb7b1e64748e13d",
+        "https://ethplorer.io/address/0x992a8a9f4bde0fb2ee1f5bbb3cb7b1e64748e13d"
+    ],
+    "twitter": "padcoin",
+    "facebook": "padfinance",
+    "telegram": "padcoinofficial"
+}

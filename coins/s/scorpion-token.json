@@ -1,0 +1,23 @@
+{
+    "id": "scorpion-token",
+    "symbol": "scorp",
+    "name": "Scorpion Token",
+    "platforms": {
+        "binance-smart-chain": "0x84750e8efacc62be5afe7221cf149a2520cb1b60"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Scorpion token holders benefit from passive rewards through static reflection, auto liquidity and auto burn. Proprietary anti-whale mechanisms built into the contract stop the supply from being controlled by syndicates."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x84750e8efacc62be5afe7221cf149a2520cb1b60",
+    "url": "https://www.thescorpioncoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x84750e8efacc62be5afe7221cf149a2520cb1b60"
+    ],
+    "twitter": "scorpionbsc",
+    "telegram": "thescorpiontoken",
+    "github_org": "scorpion-token"
+}

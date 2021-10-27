@@ -1,0 +1,25 @@
+{
+    "id": "hyper-vault-nftx",
+    "symbol": "hyper",
+    "name": "HYPER Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xeb5a8eefdae23a815072bf28de8114a825c27876"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "HYPER Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeb5a8eefdae23a815072bf28de8114a825c27876",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xeb5a8eefdae23a815072bf28de8114a825c27876",
+        "https://ethplorer.io/address/0xeb5a8eefdae23a815072bf28de8114a825c27876"
+    ],
+    "twitter": "nftx_"
+}

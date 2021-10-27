@@ -1,0 +1,23 @@
+{
+    "id": "microshiba",
+    "symbol": "microshib",
+    "name": "MicroSHIBA",
+    "platforms": {
+        "binance-smart-chain": "0xb78e41ae7fc8121978168557bb096e1a858be2ea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MicroSHIBA is a community driven DeFi token powered by the Binance Smart Chain. Join the family on our journey to the moon and beyond!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb78e41ae7fc8121978168557bb096e1a858be2ea",
+    "url": "https://www.microshiba.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xb78e41AE7fc8121978168557bB096e1A858be2Ea"
+    ],
+    "twitter": "MicroShibaBSC",
+    "telegram": "MicroshibaEN",
+    "reddit": "MicroSHIBA/"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "nobrainer-finance",
+    "symbol": "brain",
+    "name": "Nobrainer Finance",
+    "platforms": {
+        "ethereum": "0xea3cb156745a8d281a5fc174186c976f2dd04c2e",
+        "binance-smart-chain": "0xe6f4acfd9718c13b22eb7607025582abc21955e8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Brain is an experimental protocol mashing up some of the most exciting innovations in DeFi and crypto collectibles.\r\nAdding features like the Deflationary Fee farming mechanics and combine it with NFT Farming.\r\nPut your $BRAIN to work by farming exclusive NFT arts. Stake LP tokens for access to our batch of legendary cards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xea3cb156745a8d281a5fc174186c976f2dd04c2e",
+    "url": "https://nobrainer.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xea3cb156745a8d281a5fc174186c976f2dd04c2e",
+        "https://ethplorer.io/address/0xea3cb156745a8d281a5fc174186c976f2dd04c2e"
+    ],
+    "twitter": "NobrainFinance",
+    "telegram": "NobrainerFinance",
+    "github_org": "NobrainerFinance"
+}

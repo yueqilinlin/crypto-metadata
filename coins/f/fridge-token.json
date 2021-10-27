@@ -1,0 +1,22 @@
+{
+    "id": "fridge-token",
+    "symbol": "fridge",
+    "name": "Fridge Token",
+    "platforms": {
+        "binance-smart-chain": "0x145fad68704371b4ca62a44845b46d12f46137e8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BSC PreSale Launchpad with guaranteed liquidity locking on Pancake Swap"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x145fad68704371b4ca62a44845b46d12f46137e8",
+    "url": "https://thefridge.finance/home",
+    "explorers": [
+        "https://bscscan.com/token/0x145fad68704371b4ca62a44845b46d12f46137e8"
+    ],
+    "twitter": "TheFridgeDefi",
+    "telegram": "TheFridgeFinance"
+}

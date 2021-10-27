@@ -1,0 +1,22 @@
+{
+    "id": "baby-doge-inu",
+    "symbol": "$babydogeinu",
+    "name": "Baby Doge Inu",
+    "platforms": {
+        "binance-smart-chain": "0x5e5c9001aa81332d405d993ffd1468751d659d1e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Baby Doge Inu ($BABYDOGEINU) is a deflationary token with high holder rewards on Binance Smart Chain (BSC).\r\n\r\n    The liquidity is locked until 2050 [Link: https://dxsale.app/app/v2_9/dxlockview?id=582&add=0&type=lpdefi&chain=BSC]\r\n    Ownership was renounced within 24 hours of launch.\r\n    Team doesn't get any tokens from tax so that no fear of dumping tax tokens on community.\r\n    Fully community driven.\r\n    24x7 voice chat support to help community.\r\n    Most importantly doxxed dev.\r\n\r\nEach transaction has 15% tax includes: - 8% goes to the holders to reward them for holding $BABYDOGEINU - 3% is added to the liquidity pool to improve stability - 2% goes to marketing (No tokens, BNB only) - 2% to technology that builds future for $BABYDOGEINU (No tokens, BNB only)."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x5e5c9001aa81332d405d993ffd1468751d659d1e",
+    "url": "https://www.babydogeinu.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x5e5c9001aa81332d405d993ffd1468751d659d1e"
+    ],
+    "twitter": "Babydoge_Inu",
+    "telegram": "baby_doge_inu"
+}

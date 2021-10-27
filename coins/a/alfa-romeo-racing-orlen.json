@@ -1,0 +1,25 @@
+{
+    "id": "alfa-romeo-racing-orlen",
+    "symbol": "sauber",
+    "name": "Alfa Romeo Racing ORLEN",
+    "platforms": {
+        "chiliz": "0x2a5917d1a5aabe3ad07fa32828ff8c1d5fe24a20"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fan Token",
+        "Non-Fungible Tokens (NFT)",
+        "Sports"
+    ],
+    "description": {
+        "en": "The official Fan Token of Alfa Romeo Racing ORLEN."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2a5917d1a5aabe3ad07fa32828ff8c1d5fe24a20",
+    "url": "https://www.socios.com",
+    "explorers": [
+        "https://explorer.chiliz.com/tokens/0x2A5917d1A5aAbe3Ad07FA32828Ff8c1D5fE24A20/token-transfers"
+    ],
+    "twitter": "chiliz"
+}

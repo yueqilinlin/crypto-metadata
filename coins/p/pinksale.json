@@ -1,0 +1,24 @@
+{
+    "id": "pinksale",
+    "symbol": "pinksale",
+    "name": "PinkSale",
+    "platforms": {
+        "binance-smart-chain": "0x602ba546a7b06e0fc7f58fd27eb6996ecc824689"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PinkSale is a protocol aiming to provide users with the capabilities to launch their own token and create their own initial token sale. No code required, simply navigate through our terminal and design your own token and token launch within a few clicks."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x602ba546a7b06e0fc7f58fd27eb6996ecc824689",
+    "url": "https://www.pinksale.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x602bA546A7B06e0FC7f58fD27EB6996eCC824689"
+    ],
+    "twitter": "pinkmoonfinance",
+    "telegram": "pinkmoonfinance",
+    "reddit": "PinkMoon/",
+    "github_org": "pinkmoonfinance"
+}

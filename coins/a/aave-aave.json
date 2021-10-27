@@ -1,0 +1,25 @@
+{
+    "id": "aave-aave",
+    "symbol": "aAAVE",
+    "name": "Aave AAVE",
+    "platforms": {
+        "ethereum": "0xffc97d72e13e01096502cb8eb52dee56f74dad7b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xffc97d72e13e01096502cb8eb52dee56f74dad7b",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xFFC97d72E13E01096502Cb8Eb52dEe56f74DAD7B",
+        "https://ethplorer.io/address/0xffc97d72e13e01096502cb8eb52dee56f74dad7b"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome"
+}

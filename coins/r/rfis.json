@@ -1,0 +1,23 @@
+{
+    "id": "rfis",
+    "symbol": "rfis",
+    "name": "rFIS",
+    "platforms": {
+        "ethereum": "0xc82eb6dea0c93edb8b697b89ad1b13d19469d635"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "rToken is short for reward-Token. When users stake PoS tokens through StaFi, they will receive an equal amount of rToken in return. For example, rFis represents staked Fis, while rETHrepresents staked ETH. rToken allows users to receive staking rewards and access liquidity any time by trading rTokens directly. Users also have the right to redeem the corresponding amount of staked tokens at any time.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc82eb6dea0c93edb8b697b89ad1b13d19469d635",
+    "url": " https://www.stafi.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xc82eb6dea0c93edb8b697b89ad1b13d19469d635",
+        "https://ethplorer.io/address/0xc82eb6dea0c93edb8b697b89ad1b13d19469d635"
+    ],
+    "twitter": "Stafi_Protocol",
+    "telegram": "stafi_protocol"
+}

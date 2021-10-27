@@ -1,0 +1,24 @@
+{
+    "id": "precharge",
+    "symbol": "pcpi",
+    "name": "Precharge",
+    "platforms": {
+        "ethereum": "0x2925c2a312a4934fd695fab72b1e425cc41978f2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Beginning less than a year ago, preCharge USA, Inc. began transforming its consumer validation service into a true Security Token, based on three- factor authentications, seamless user validation and KYC compliance, as well as built-in anti-money laundering features, aka AML. This move has allowed preCharge to emerge with one of the strongest digital currency options on the market and over 400,000 consumers agreeing. The PCPie tokens can be transferred instantly and without a fee to any other wallet holder globally. People do not need to be technology proficient to set up a PCPie wallet as the preCharge wallets are created by encrypting an email address. Sending PCPie tokens is as easy as typing the wallet email address of the person receiving the tokens and entering the dollar amount of the transfer. Soon PCPie token holders will be issued a debit card tied to their preCharge wallet to be able to use their tokens for everyday retail purchases."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2925c2a312a4934fd695fab72b1e425cc41978f2",
+    "url": "https://www.precharge.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x2925c2a312a4934fd695fab72b1e425cc41978f2",
+        "https://ethplorer.io/address/0x2925c2a312a4934fd695fab72b1e425cc41978f2"
+    ],
+    "twitter": "preChargeInc",
+    "facebook": "precharge",
+    "telegram": "preChargeTeam2"
+}

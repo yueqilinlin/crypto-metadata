@@ -1,0 +1,24 @@
+{
+    "id": "etg-finance",
+    "symbol": "etgf",
+    "name": "ETG Finance",
+    "platforms": {
+        "ethereum": "0x74603e780545d02c4257e7d2be19c74de7be1952"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ETG Finance is full rewards ecosystem controlled by DeFi tokens ETGF , it contains E-Stake  , E-Farm , E-Vote and E-Swap products."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x74603e780545d02c4257e7d2be19c74de7be1952",
+    "url": "https://etgproject.org",
+    "explorers": [
+        "https://etherscan.io/token/0x74603e780545d02C4257E7D2BE19c74dE7BE1952",
+        "https://ethplorer.io/address/0x74603e780545d02c4257e7d2be19c74de7be1952"
+    ],
+    "twitter": "ethereumgoldetg",
+    "telegram": "etg_official",
+    "github_org": "EthereumGoldETG"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "hippo-finance",
+    "symbol": "hippo",
+    "name": "HippoFinance",
+    "platforms": {
+        "ethereum": "0x81313f7c5c9c824236c9e4cba3ac4b049986e756"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x81313f7c5c9c824236c9e4cba3ac4b049986e756",
+    "url": "https://hippo-finance.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x81313f7c5c9c824236c9e4cba3ac4b049986e756",
+        "https://ethplorer.io/address/0x81313f7c5c9c824236c9e4cba3ac4b049986e756"
+    ],
+    "twitter": "HippoFinanceCom",
+    "telegram": "hippofinance"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "climb-token-finance",
+    "symbol": "climb",
+    "name": "Climb Token Finance",
+    "platforms": {
+        "binance-smart-chain": "0x2a1d286ed5edad78befd6e0d8beb38791e8cd69d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized Universal ETTF (Exchange Traded Token Fund) A deflationary Yield Farm and Token"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2a1d286ed5edad78befd6e0d8beb38791e8cd69d",
+    "url": "https://www.climbtoken.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x2a1d286ed5edad78befd6e0d8beb38791e8cd69d"
+    ],
+    "twitter": "ClimbToken",
+    "telegram": "climbtoken"
+}

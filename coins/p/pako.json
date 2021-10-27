@@ -1,0 +1,22 @@
+{
+    "id": "pako",
+    "symbol": "pako",
+    "name": "Pako",
+    "platforms": {
+        "binance-smart-chain": "0xc3415ef810ec5219f38b2849bc579591a564e24c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "There is a total supply of 100 billion PAKO tokens of which 2.8% has been appointed to the dev-wallet for marketing and coverage of other future costs. This is done to benefit the project and bring more overall value to the table. 60% of the supply has been used for the pre-sale of which 75% is locked for seven months, which will be extended when expired. The remaining 33.2% will be provided to the liquidity pool and 4% has been used to pay fees."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc3415ef810ec5219f38b2849bc579591a564e24c",
+    "url": "https://pakotoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xc3415ef810ec5219f38b2849bc579591a564e24c"
+    ],
+    "twitter": "Pakotoken",
+    "telegram": "pakotoken"
+}

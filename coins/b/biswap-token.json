@@ -1,0 +1,22 @@
+{
+    "id": "biswap-token",
+    "symbol": "biswap",
+    "name": "Biswap Token",
+    "platforms": {
+        "binance-smart-chain": "0x3f3608a1896c0d29c95df5b3f2bb549b755a5674"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Biswap is a decentralized exchange (DEX) that allows users to exchange BEP20 standard tokens (the latest token standard from Binance Smart Chain), stake tokens to receive rewards.\r\n\r\nThis is a system operating in the form of an Automated Market Maker (AMM ). This means your trades will not be matched with others using order books. Instead, users will trade with each other by locking their tokens into a liquidity pool."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x3f3608a1896c0d29c95df5b3f2bb549b755a5674",
+    "url": "https://biswap20.com/#/swap",
+    "explorers": [
+        "https://bscscan.com/token/0x3f3608a1896c0d29c95df5b3f2bb549b755a5674"
+    ],
+    "twitter": "Biswap20",
+    "telegram": "biswapgroup"
+}

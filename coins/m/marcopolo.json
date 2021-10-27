@@ -1,0 +1,30 @@
+{
+    "id": "marcopolo",
+    "symbol": "map",
+    "name": "MAP Protocol",
+    "platforms": {
+        "ethereum": "0x9e976f211daea0d652912ab99b0dc21a7fd728e4"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Polygon Ecosystem",
+        "Protocol",
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "First protocol that provides the infrastructure for direct interoperate in the Heterogeneous Blockchain Ecosystem"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x9e976f211daea0d652912ab99b0dc21a7fd728e4",
+    "url": "https://www.maplabs.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9e976f211daea0d652912ab99b0dc21a7fd728e4",
+        "https://ethplorer.io/address/0x9e976f211daea0d652912ab99b0dc21a7fd728e4"
+    ],
+    "twitter": "MarcoPoloGlobal",
+    "facebook": "MarcoPolo-Protocol-107054464162905",
+    "telegram": "MarcoPoloMAP",
+    "reddit": "MarcoPoloProtocol/",
+    "github_org": "mapprotocol"
+}

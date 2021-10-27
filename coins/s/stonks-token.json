@@ -1,0 +1,23 @@
+{
+    "id": "stonks-token",
+    "symbol": "stonks",
+    "name": "Stonks Token",
+    "platforms": {
+        "binance-smart-chain": "0xb966150c7a0150ed4ea979e04f18d109301aab95"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$STONKS is a community driven fair launched DeFi token. Reflection, Lp acquisition and Burn happens in every trade. It's tagline is \"Buy STONKS, hold STONKS, earn STONKS\". It aims to launch a gaming exchange platform utilizing the fees generated to the stonks wallet."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xb966150c7a0150ed4ea979e04f18d109301aab95",
+    "url": "https://www.stonkstoken.space/",
+    "explorers": [
+        "https://bscscan.com/token/0xb966150c7a0150ed4ea979e04f18d109301aab95"
+    ],
+    "twitter": "stonkstoken",
+    "telegram": "stonksofficialtoken",
+    "github_org": "stonks-token"
+}

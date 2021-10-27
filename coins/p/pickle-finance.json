@@ -1,0 +1,33 @@
+{
+    "id": "pickle-finance",
+    "symbol": "pickle",
+    "name": "Pickle Finance",
+    "platforms": {
+        "ethereum": "0x429881672b9ae42b8eba0e26cd9c73711b891ca5",
+        "polygon-pos": "0x2b88ad57897a8b496595925f43048301c37615da",
+        "arbitrum-one": "0x965772e0e9c84b6f359c8597c891108dcf1c5b1a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Yearn Ecosystem",
+        "Yield Aggregator",
+        "Governance",
+        "Decentralized Finance (DeFi)",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x429881672b9ae42b8eba0e26cd9c73711b891ca5",
+    "url": "https://pickle.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+        "https://ethplorer.io/address/0x429881672b9ae42b8eba0e26cd9c73711b891ca5",
+        "https://polygonscan.com/token/0x2b88ad57897a8b496595925f43048301c37615da",
+        "https://arbiscan.io/address/0x965772e0E9c84b6f359c8597C891108DcF1c5B1A"
+    ],
+    "twitter": "picklefinance"
+}

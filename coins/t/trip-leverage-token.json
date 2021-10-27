@@ -1,0 +1,22 @@
+{
+    "id": "trip-leverage-token",
+    "symbol": "tlt",
+    "name": "Trip Leverage Token",
+    "platforms": {
+        "binance-smart-chain": "0x01f959f4b637eca434682b620542454572d07042"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TripLeverage is a Business Travel platform where you can book a business trip and earn tokens in the process. With our reward program we will drive employees and business owners to sign up their business by rewarding them for each booking made while also benefiting the TripLeverage community as 100% of the net-revenue is used to buy and burn tokens from the market."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x01f959f4b637eca434682b620542454572d07042",
+    "url": "https://www.tripleverage.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x01F959f4B637ECa434682b620542454572d07042"
+    ],
+    "twitter": "leveragetrip",
+    "telegram": "tripleverage"
+}

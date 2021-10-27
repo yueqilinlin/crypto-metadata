@@ -1,0 +1,24 @@
+{
+    "id": "porta",
+    "symbol": "kian",
+    "name": "Porta",
+    "platforms": {
+        "binance-smart-chain": "0x5ece3f1542c4e1a06767457e4d8286bea772fc41"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Porta (Previously Kianite) means \u201cgateway\u201d in Latin. It is a blockchain project built on Substrate with the goal of giving everyone access to Web 3.0 products with a seamless and easy to understand experience for both new and seasoned blockchain users.\r\n\r\nProducts such as decentralised finance, non-fungible tokens, peer-to-peer lending and also less common use-cases like social, business organisation, decentralised creator economies and more.\r\n\r\nThe project is still $KIAN token for now but once its blockchain is launched, it will be converted to $PORTA."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x5ece3f1542c4e1a06767457e4d8286bea772fc41",
+    "url": "https://porta.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x5ece3f1542c4e1a06767457e4d8286bea772fc41"
+    ],
+    "twitter": "portanetwork_",
+    "telegram": "PortaNetwork",
+    "reddit": "https://www.reddit.com",
+    "github_org": "porta-network"
+}

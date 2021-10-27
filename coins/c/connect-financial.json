@@ -1,0 +1,24 @@
+{
+    "id": "connect-financial",
+    "symbol": "cnfi",
+    "name": "Connect Financial",
+    "platforms": {
+        "ethereum": "0xeabb8996ea1662cad2f7fb715127852cd3262ae9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The World's First Crypto Backed VISA Credit Card"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeabb8996ea1662cad2f7fb715127852cd3262ae9",
+    "url": "https://www.connect.financial",
+    "explorers": [
+        "https://etherscan.io/token/0xeabb8996ea1662cad2f7fb715127852cd3262ae9",
+        "https://ethplorer.io/address/0xeabb8996ea1662cad2f7fb715127852cd3262ae9"
+    ],
+    "twitter": "ConnectWallet",
+    "telegram": "connectfinancial",
+    "github_org": "Connect-Financial"
+}

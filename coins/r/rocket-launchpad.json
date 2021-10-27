@@ -1,0 +1,22 @@
+{
+    "id": "rocket-launchpad",
+    "symbol": "rckt",
+    "name": "Rocket Launchpad",
+    "platforms": {
+        "tezos": "KT19JYndHaesXpvUfiwgg8BtE41HKkjjGMRC"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rocket is an IDO launch platform built on the Tezos blockchain. It offers a single point of service for new projects building on Tezos as well as a hub for early investors to interact with these up-and-coming projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT19JYndHaesXpvUfiwgg8BtE41HKkjjGMRC",
+    "url": "https://rocketlaunchpad.io/",
+    "explorers": [
+        "https://tzstats.com/KT19JYndHaesXpvUfiwgg8BtE41HKkjjGMRC"
+    ],
+    "twitter": "Rocketlaunchpd",
+    "telegram": "rocketlaunchpd"
+}

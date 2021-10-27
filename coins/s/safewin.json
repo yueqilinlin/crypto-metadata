@@ -1,0 +1,24 @@
+{
+    "id": "safewin",
+    "symbol": "safewin",
+    "name": "SafeWin",
+    "platforms": {
+        "binance-smart-chain": "0xfecd05b947471b5e51645e2d8326445cc266477a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Safewin is programmed to reward holders while increasing both liquidity and value. The transaction tax is redistributed between holders and the liquidity pool. SafeWin is a deflationary token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfecd05b947471b5e51645e2d8326445cc266477a",
+    "url": "https://www.safewin.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xfecd05b947471b5e51645e2d8326445cc266477a"
+    ],
+    "twitter": "SafeWinDeFi",
+    "facebook": "SafeWinDeFi",
+    "telegram": "SafeWinChat",
+    "reddit": "SafeWin/"
+}

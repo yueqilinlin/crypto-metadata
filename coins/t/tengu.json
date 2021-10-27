@@ -1,0 +1,23 @@
+{
+    "id": "tengu",
+    "symbol": "tengu",
+    "name": "Tengu",
+    "platforms": {
+        "binance-smart-chain": "0x6f6350d5d347aa8f7e9731756b60b774a7acf95b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TenguSwap is an automatic liquidity acquisition yield farm and decentralized exchange running on Binance Smart Chain with lots of unique and creative features that let you earn and win.\r\nBy stacking your funds in our farms and pools you will get rewards in our main token (TENGU). However, you'll have several choices on how to use your TENGU, the traditional yield farming method and our special feature for our long-term investors.\r\n\u2022 You can use your TENGU to create LP TENGU/BUSD and TENGU/BNB to farm even more TENGU and you can also stack your TENGU in the TENGU pool. \r\n\u2022 You can swap your TENGU for the token of your choice. \r\n\u2022 You can swap your TENGU for our special token, the Great TENGU (GTENGU) to get rewards directly in BNB and BUSD. By stacking your GTENGU in Blessing Pools, your rewards will not be in TENGU or GTENGU but directly in BNB and BUSD."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6f6350d5d347aa8f7e9731756b60b774a7acf95b",
+    "url": "https://tenguswap.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x6f6350D5d347aA8F7E9731756b60b774a7aCf95B"
+    ],
+    "twitter": "tenguswap",
+    "telegram": "tenguswap",
+    "github_org": "tenguswap"
+}

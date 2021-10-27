@@ -1,0 +1,22 @@
+{
+    "id": "elonomics",
+    "symbol": "$elonom",
+    "name": "Elonomics",
+    "platforms": {
+        "binance-smart-chain": "0xd3ecc6a4ce1a9faec1aa5e30b55f8a1a4b84f938"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd3ecc6a4ce1a9faec1aa5e30b55f8a1a4b84f938",
+    "url": "https://www.elonomicstoken.com",
+    "explorers": [
+        "https://bscscan.com/token/0xd3ecC6a4ce1a9fAEC1AA5E30B55f8a1a4b84F938"
+    ],
+    "twitter": "Elonomicsbsc",
+    "telegram": "ElonomicsOfficial"
+}

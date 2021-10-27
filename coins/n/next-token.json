@@ -1,0 +1,23 @@
+{
+    "id": "next-token",
+    "symbol": "NXT",
+    "name": "Next Token",
+    "platforms": {
+        "binance-smart-chain": "0x8e428aa75b271ebf905db7e3f2970453e976481e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Next Token is above all the token of a platform (market place) in the course of development of putting in relation between professionals and influencers.\r\n\r\nIts function at the heart of the platform's ecosystem is to allow token holders to benefit from advantages up to free under the condition of stacking NXT on it.\r\nIt will facilitate the search for relevant influencers for all companies through an intelligent algorithm based on a rating system, engagement rate and many other metrics.\r\n\r\nIn addition, holders who hold at least 0.25% of the max supply (250,000,000 NXT) are automatically rewarded with BNB rewards based on the volume of purchase/resale on the Token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8e428aa75b271ebf905db7e3f2970453e976481e",
+    "url": "https://nxt-token.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8e428aa75b271ebf905db7e3f2970453e976481e"
+    ],
+    "twitter": "token_next",
+    "telegram": "OFFICIALNXTTOKENChat",
+    "github_org": "NXTtoken"
+}

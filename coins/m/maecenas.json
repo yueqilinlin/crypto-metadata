@@ -1,0 +1,27 @@
+{
+    "id": "maecenas",
+    "symbol": "art",
+    "name": "Maecenas",
+    "platforms": {
+        "ethereum": "0xfec0cf7fe078a500abf15f1284958f22049c2c7e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Maecenas is the first open blockchain platform that democratises access to Fine Art"
+    },
+    "country_origin": "GB",
+    "genesis_date": "2017-09-05",
+    "contract_address": "0xfec0cf7fe078a500abf15f1284958f22049c2c7e",
+    "url": "https://www.maecenas.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xfec0cf7fe078a500abf15f1284958f22049c2c7e",
+        "https://ethplorer.io/address/0xfec0cf7fe078a500abf15f1284958f22049c2c7e"
+    ],
+    "twitter": "maecenasart",
+    "facebook": "maecenasart",
+    "reddit": "Maecenas",
+    "github_org": "cofoundit"
+}

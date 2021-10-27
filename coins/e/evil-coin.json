@@ -1,0 +1,19 @@
+{
+    "id": "evil-coin",
+    "symbol": "evil",
+    "name": "Evil Coin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [],
+    "description": {
+        "en": "Evil coin - The purpose of this coin is to embrace and inspire evil."
+    },
+    "country_origin": "",
+    "genesis_date": "2015-12-02",
+    "url": "https://evilcoin.xyz/",
+    "explorers": [
+        "http://192.241.198.44:3001//"
+    ],
+    "twitter": "Evil_Coin",
+    "github_org": "coins4lunch"
+}

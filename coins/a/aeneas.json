@@ -1,0 +1,21 @@
+{
+    "id": "aeneas",
+    "symbol": "ash",
+    "name": "Aeneas",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "Aeneas is a general purposed blockchain platform based on a functional programming stack. The network runs on a Fair Proof-of-Stake (Fair PoS) consensus mechanism.\r\n\r\nASH is the native utility token that is used for:\r\n\r\n* Fees for processing transactions and storing data.\r\n* Running validator nodes on the network via staking ASH tokens.\r\n* Used for governance votes to determine how network resources are allocated.\r\n* Aeneas platform is an element of the digital civil society ecosystem, designed to facilitate its sustainable development, arrange lobbying markets, increase the inclusiveness of political and legislative processes, expand minority opportunities to take advantages of their rights, to support small and medium-sized businesses, to hold call for tenders through crowdfunding campaigns and complex audit of projects by building a decentralized infrastructure of hybrid intelligence.\r\n"
+    },
+    "country_origin": "UA",
+    "genesis_date": null,
+    "url": "http://aeneas.pm/",
+    "explorers": [
+        "http://explorer.aeneas.id/"
+    ],
+    "twitter": "AeneasPM",
+    "facebook": "AeneasPM",
+    "telegram": "aeneaspm",
+    "github_org": "AeneasPlatform"
+}

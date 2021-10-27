@@ -1,0 +1,23 @@
+{
+    "id": "nftlegends",
+    "symbol": "nfl",
+    "name": "NFTLegends",
+    "platforms": {
+        "binance-smart-chain": "0x6d5c1ce968f46fd7c2288d63c24f1810a2295b0e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NFTLegends is a Play-to-Earn cardfight game where users can collect and customize their own Legends Deck (army) to compete in PVE or PVP settings for Rewards. The game offers unique DeFi services such as LP staking and ingame activities like Daily Missions, Boss Fight, Tournaments, or Seasonal Leaderboards"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x6d5c1ce968f46fd7c2288d63c24f1810a2295b0e",
+    "url": "https://nftlegends.tech/",
+    "explorers": [
+        "https://bscscan.com/token/0x6D5C1ce968f46Fd7c2288d63C24F1810A2295b0E"
+    ],
+    "twitter": "NFT_Legend",
+    "telegram": "NFTLegends_Group",
+    "github_org": "NFTLegend"
+}

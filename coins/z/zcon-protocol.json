@@ -1,0 +1,24 @@
+{
+    "id": "zcon-protocol",
+    "symbol": "zcon",
+    "name": "Zcon Protocol",
+    "platforms": {
+        "ethereum": "0x4992d8ac40e55350330102abf2debed8864e7ba0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ZCON PROTOCOL is a blockchain-based \u201cweb content +commerce platform\u201d that leads viewers to purchase products such as clothing and accessories by naturally exposing the products in the web content. This is done by involving content and product teams from the early stage of the planning process prior to the broadcasting of drama and entertainment."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x4992d8ac40e55350330102abf2debed8864e7ba0",
+    "url": "http://zcon-creative.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4992d8ac40e55350330102abf2debed8864e7ba0",
+        "https://ethplorer.io/address/0x4992d8ac40e55350330102abf2debed8864e7ba0"
+    ],
+    "twitter": "zconprotocol",
+    "telegram": "zcon_global",
+    "github_org": "ZconProtocol"
+}

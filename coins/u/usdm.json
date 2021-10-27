@@ -1,0 +1,24 @@
+{
+    "id": "usdm",
+    "symbol": "usdm",
+    "name": "USDM",
+    "platforms": {
+        "ethereum": "0x31d4eb09a216e181ec8a43ce79226a487d6f0ba9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mochi puts your NFTs and long-tail assets to work as collateral while maintaining exposure to their long-term value. An autonomously governed protocol, Mochi bridges the gap between NFTs and DeFi to pioneer a new way to maximize the utility of emerging digital assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x31d4eb09a216e181ec8a43ce79226a487d6f0ba9",
+    "url": "https://mochi.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x31d4eb09a216e181ec8a43ce79226a487d6f0ba9",
+        "https://ethplorer.io/address/0x31d4eb09a216e181ec8a43ce79226a487d6f0ba9"
+    ],
+    "twitter": "MochiDeFi",
+    "telegram": "MochiDeFi",
+    "github_org": "MochiFi"
+}

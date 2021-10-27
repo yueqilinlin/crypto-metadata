@@ -1,0 +1,23 @@
+{
+    "id": "polycorn-finance",
+    "symbol": "ycorn",
+    "name": "Polycorn Finance",
+    "platforms": {
+        "polygon-pos": "0x98b1d7ba836a0a73d741735a309a18febeb6299c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Polycorn finance is a 'draining' yield farming platform.\r\nYCorn is the main token of the platform and is given to incentivize liquidity providers. Liquidity providers will also benefits from draining because smart contracts will also stack your LPs on other platforms and sell their rewards for YCorn. "
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x98b1d7ba836a0a73d741735a309a18febeb6299c",
+    "url": "https://polycorn.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x98b1d7ba836a0a73d741735a309a18febeb6299c"
+    ],
+    "twitter": "PolycornF",
+    "telegram": "PolycornFinanceChat",
+    "github_org": "polycornfi"
+}

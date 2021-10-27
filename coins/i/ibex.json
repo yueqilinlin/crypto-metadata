@@ -1,0 +1,22 @@
+{
+    "id": "ibex",
+    "symbol": "ibex",
+    "name": "IBEX",
+    "platforms": {
+        "binance-smart-chain": "0xe2f710fbe35d0305d8bd009be2d473a88ef82e64"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "IBEX is controlled by no one. Marketing and awareness of IBEX is built solely by its community members.\r\n\r\nThe original LP has been burned which means from here the only way is up.\r\n\r\nIBEX community members will continue to build on top of our already expansive marketing and share development ideas, growing IBEX together"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe2f710fbe35d0305d8bd009be2d473a88ef82e64",
+    "url": "https://ibexcoin.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xe2F710fbE35D0305D8bD009Be2d473A88EF82E64"
+    ],
+    "twitter": "IBEX_Token",
+    "telegram": "IbexCoin"
+}

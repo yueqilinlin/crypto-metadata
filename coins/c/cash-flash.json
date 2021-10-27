@@ -1,0 +1,23 @@
+{
+    "id": "cash-flash",
+    "symbol": "cft",
+    "name": "Cash Flash",
+    "platforms": {
+        "eos": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Marketplace of major fashion brands, food services with the possibility of buying in cryptocurrency all tracked in our blockchain with the possibility of 1864 transactions every 3 seconds with the possibility of creating smart contracts for new projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.cashflash.io/",
+    "explorers": [
+        "https://www.bloks.io/tokens/CFT-eos-cftcashflash"
+    ],
+    "twitter": "Cash_Flash4",
+    "facebook": "flash.cash.18294",
+    "telegram": "cashflashCFT",
+    "github_org": "cashflashuab"
+}

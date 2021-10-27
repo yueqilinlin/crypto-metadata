@@ -1,0 +1,26 @@
+{
+    "id": "jmtime",
+    "symbol": "jmt",
+    "name": "JMTIME",
+    "platforms": {
+        "ethereum": "0xda022ca91df99413e8cb0caab4d1cba4e9018bea"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Internet of Things (IOT)"
+    ],
+    "description": {
+        "en": "JMT is the world's first blockchain intelligent ecological certificate based on edge computing technology. JMT leverages blockchain technology to enable edge computing at the four levels of data security, identity authentication, privacy protection, and access control to promote the exchange, interaction, and flow of IoT data assets with existing value attributes.JMT covers three major ecological scenarios: intelligent hardware, JMTime social applications, and global payment."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xda022ca91df99413e8cb0caab4d1cba4e9018bea",
+    "url": "http://jmtime.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xda022ca91df99413e8cb0caab4d1cba4e9018bea",
+        "https://ethplorer.io/address/0xda022ca91df99413e8cb0caab4d1cba4e9018bea"
+    ],
+    "twitter": "JMT_Blockchain",
+    "facebook": "token.jmt.7",
+    "telegram": "JMT555"
+}

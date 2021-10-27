@@ -1,0 +1,24 @@
+{
+    "id": "sidekick-token",
+    "symbol": "sk",
+    "name": "SideKick Token",
+    "platforms": {
+        "binance-smart-chain": "0x5755e18d86c8a6d7a6e25296782cb84661e6c106"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SideKick is a community-drive, cross-chain, fair launched Defi Network. Based upon the ERC-31337 token model, SideKick features leading edge tokenomics and indsutry defining financial tools that give investors information that they can act on."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x5755e18d86c8a6d7a6e25296782cb84661e6c106",
+    "url": "https://sidekick.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x5755E18D86c8a6d7a6E25296782cb84661E6c106"
+    ],
+    "twitter": "SidekickFinance",
+    "facebook": "SideKickFinance-104803845149930",
+    "telegram": "sidekickfinance",
+    "github_org": "SideKick-Finance"
+}

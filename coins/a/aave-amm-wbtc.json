@@ -1,0 +1,24 @@
+{
+    "id": "aave-amm-wbtc",
+    "symbol": "aAmmWBTC",
+    "name": "Aave AMM WBTC",
+    "platforms": {
+        "ethereum": "0x13b2f6928d7204328b0e8e4bcd0379aa06ea21fa"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x13b2f6928d7204328b0e8e4bcd0379aa06ea21fa",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x13B2f6928D7204328b0E8E4BCd0379aA06EA21FA",
+        "https://ethplorer.io/address/0x13b2f6928d7204328b0e8e4bcd0379aa06ea21fa"
+    ],
+    "twitter": "aaveaave"
+}

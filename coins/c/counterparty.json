@@ -1,0 +1,23 @@
+{
+    "id": "counterparty",
+    "symbol": "xcp",
+    "name": "Counterparty",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Counterparty is a platform for user-created assets on <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. It\u2019s a protocol, set of specifications, and an API. Taken together, it allows users to create and trade assets on top of Bitcoin\u2019s blockchain. In this way, Counterparty is similar to platforms like <a href=\"https://www.coingecko.com/en/coins/waves\">Waves</a> or <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>. Of course, the difference is Counterparty integrates directly with Bitcoin. Therefore, it comes will all the security and reliability (and issues) that are part of the Bitcoin blockchain. This is a fairly old project. In fact, it pre-dates Ethereum with its launch in 2014. It was the original asset creation mechanism. As you\u2019re probably aware, Counterparty has faded from prominence over the years. This is largely due to the rise of the ERC-20 token standard on Ethereum.\r\n\r\nWhile we\u2019ve become used to calling blockchain assets, tokens, it doesn\u2019t necessarily have to be the case. An asset can represent anything that has value or is rare. As a result, Counterparty steers clear of the word \u201ctoken\u201d in their marketing and documentation. They\u2019re much more interested in digital assets of all kinds, not just currencies, securities, and utility tokens. Digital assets can be a digital marker of a physical object, an easy way to manage shares in your company, or reputation karma for a website. These are all types of assets you could create on Counterparty (or Ethereum or Waves, for that matter). Counterparty creates the set of rules, requirements, integrations, etc that are necessary for assets on the Bitcoin blockchain. It\u2019s the infrastructure behind user-created assets in much the same way that the ERC-20 protocol sets up guidelines and standards for asset creation on Ethereum.\r\n\r\nOne useful function of digital assets is as a marker of ownership or voting rights. Imagine a scenario where you issued a digital asset to each of your company\u2019s board members in proportion to the amount of voting power held. Or if you gave your stockholders a digital asset as a marker of the amount of stock they owned. If you issued your stock asset, you could then use Counterparty\u2019s distribution function to pay out dividends in BTC based on the amount of digital stock asset each person owned.\r\n\r\nCounterparty addresses many of the same issues as Ethereum or Waves, but on the Bitcoin blockchain. While that does come with some advantages, ultimately it is not as strong a platform for development as its competitors. It\u2019s best suited for applications that need to interface with Bitcoin or assets that have a specific connection to the Bitcoin ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-01-02",
+    "url": "http://counterparty.io/",
+    "explorers": [
+        "https://xchain.io/",
+        "https://xcpfox.com/"
+    ],
+    "twitter": "CounterpartyXCP",
+    "reddit": "counterparty_xcp/",
+    "github_org": "CounterpartyXCP"
+}

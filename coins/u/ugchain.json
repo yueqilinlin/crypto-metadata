@@ -1,0 +1,26 @@
+{
+    "id": "ugchain",
+    "symbol": "ugc",
+    "name": "ugChain",
+    "platforms": {
+        "ethereum": "0xf485c5e679238f9304d986bb2fc28fe3379200e5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "As an ecosystem consisting of a series of decentralized applications, the core of ugChain is a decentralized account system (DAS) based on blockchain technology. The system has built-in exclusive token UG Token (UGC), which simultaneously has the equity attribute and monetary attribute. DAS (Decentralized Account System) is based on Ethereum (The UG Token Contract), and consortium blockchain (Consortium Blockchain Smart Contract) and saves all information in the blockchain network, the globally equivalent blockchain node protect the security of the system."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf485c5e679238f9304d986bb2fc28fe3379200e5",
+    "url": "http://www.ugchain.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xf485c5e679238f9304d986bb2fc28fe3379200e5",
+        "https://ethplorer.io/address/0xf485c5e679238f9304d986bb2fc28fe3379200e5"
+    ],
+    "twitter": "ugChain",
+    "facebook": "ugChain",
+    "telegram": "ugChainOfficial",
+    "reddit": "ugChain/",
+    "github_org": "ugchain"
+}

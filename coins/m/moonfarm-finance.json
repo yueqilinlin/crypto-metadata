@@ -1,0 +1,27 @@
+{
+    "id": "moonfarm-finance",
+    "symbol": "mfo",
+    "name": "MoonFarm Finance",
+    "platforms": {
+        "binance-smart-chain": "0xb46049c79d77ff1d555a67835fba6978536581af"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "MoonFarm is a DeFi and Centralized Finance (CeFi) hybrid yield farming aggregator. It provides the best of both worlds, offering all the cost-effectiveness, easy access, transparency and rapidity of DeFi yield farming, in addition to offering the security associated with a centralized financial ecosystem\r\n\r\nMoon Farm optimises Yield Farming interest (APY/ APR) and provides users with the abilities to choose what farms they want to use or the system will automatically determine the best farming strategies using the yield optimization engine."
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0xb46049c79d77ff1d555a67835fba6978536581af",
+    "url": "https://moonfarm.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xb46049c79d77ff1d555a67835fba6978536581af"
+    ],
+    "twitter": "MoonfarmFinance",
+    "telegram": "MoonfarmFinance",
+    "github_org": "MoonfarmFinance"
+}

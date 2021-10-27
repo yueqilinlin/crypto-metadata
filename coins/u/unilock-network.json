@@ -1,0 +1,26 @@
+{
+    "id": "unilock-network",
+    "symbol": "unl",
+    "name": "Unilock.Network",
+    "platforms": {
+        "ethereum": "0x354e514c135c8603f840ffadb4c33cde6d2a37e0",
+        "binance-smart-chain": "0x01da2a0af42a382c0d17134acbdfc2fd6c92c306"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Unilock is introduced to the universe of cryptocurrencies to help legitimate projects evolve and grow. We are one of a kind."
+    },
+    "country_origin": "TN",
+    "genesis_date": null,
+    "contract_address": "0x354e514c135c8603f840ffadb4c33cde6d2a37e0",
+    "url": "https://unilock.network",
+    "explorers": [
+        "https://etherscan.io/token/0x354e514c135c8603f840ffadb4c33cde6d2a37e0",
+        "https://ethplorer.io/address/0x354e514c135c8603f840ffadb4c33cde6d2a37e0",
+        "https://bscscan.com/token/0x01da2a0af42a382c0d17134acbdfc2fd6c92c306"
+    ],
+    "twitter": "unilock_network",
+    "telegram": "unilock_network",
+    "github_org": "unilock1"
+}

@@ -1,0 +1,34 @@
+{
+    "id": "oraichain-token",
+    "symbol": "orai",
+    "name": "Oraichain Token",
+    "platforms": {
+        "ethereum": "0x4c11249814f11b9346808179cf06e71ac328c1b5",
+        "binance-smart-chain": "0xa325ad6d9c92b55a3fc5ad7e412b1518f96441c0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem",
+        "Big Data",
+        "Business Services",
+        "Artificial Intelligence",
+        "Decentralized Finance (DeFi)",
+        "Oracle"
+    ],
+    "description": {
+        "en": "About Oraichain\r\n\r\nOraichain is a data oracle platform that aggregates and connects Artificial Intelligence APIs to smart contracts, serving as a foundational base for the creation of new Dapps leveraging AI technologies. Oraichain is the world\u2019s first AI-powered oracle aiming to revolutionize the AI, DeFi, and Blockchain industries.\r\n\r\nUnlike regular oracles that use raw data, Oraichain\u2019s AI oracle uniquely uses AI APIs to consume or create data on-the-fly via virtual machines on smart contracts. Data quality, reliability and security are enhanced by using test cases, which help to avoid intermediaries, increase trust and open up unprecedented application functionalities. AI-powered oracles are the new generation of smart contracts.\r\n\r\nBeyond data oracles, Oraichain interconnects Artificial Intelligence and Blockchain technologies. With AI as the cornerstone, Oraichain ecosystem contains an AI API marketplace, a Data & Request Hub, Publisher Service, Training Service, and Dapp Hosting.\r\n\r\nOraichain network provides the infrastructure and consensus mechanisms for Blockchain and AI training. These interconnected ecosystems accelerate the development of Web3, DeFi, enterprise and academia applications. yAI.finance is the first use case of Oraichain, a DeFi platform using unique AI-based features and strategies. Oraichain AI Marketplace offers AI products and APIs with the goal of becoming the one-stop-shop for Artificial Intelligence services.\r\n"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x4c11249814f11b9346808179cf06e71ac328c1b5",
+    "url": "https://orai.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4c11249814f11b9346808179cf06e71ac328c1b5",
+        "https://ethplorer.io/address/0x4c11249814f11b9346808179cf06e71ac328c1b5",
+        "https://bscscan.com/token/0xa325ad6d9c92b55a3fc5ad7e412b1518f96441c0"
+    ],
+    "twitter": "oraichain",
+    "facebook": "oraichain",
+    "telegram": "oraichain",
+    "github_org": "oraichain"
+}

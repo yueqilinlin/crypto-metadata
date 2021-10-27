@@ -1,0 +1,22 @@
+{
+    "id": "worldcoin",
+    "symbol": "wdc",
+    "name": "WorldCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Worldcoin is a decentralized cryptocurrency with the objective of it becoming the de-facto digital currency of the globe. Its 30 seconds average transaction confirmation time makes it ideal for everyday micro transactions like the purchase of coffee or groceries.\r\n\r\nWorldcoin is a deflationary currency with only 265,420,800 coins ever going to be created. Since it is decentralized, there is no central authority that issues this currency unlike fiat currencies.\r\n\r\nWorldcoin can be seen as a derivative of Bitcoin but much more business friendly due to its high speed transaction confirmation feature."
+    },
+    "country_origin": "",
+    "genesis_date": "2013-05-14",
+    "url": "http://www.worldcoin.global/",
+    "explorers": [
+        "https://www.wdcexplorer.com/",
+        "https://chainz.cryptoid.info/wdc/"
+    ],
+    "twitter": "WorldcoinGlobal",
+    "facebook": "WorldcoinWDC",
+    "reddit": "WorldcoinGlobal",
+    "github_org": "Worldcoin-Network"
+}

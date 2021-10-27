@@ -1,0 +1,25 @@
+{
+    "id": "beach-token",
+    "symbol": "beach",
+    "name": "Beach Token",
+    "platforms": {
+        "ethereum": "0xbd15c4c8cd28a08e43846e3155c01a1f648d8d42"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BEACH is an innovative ERC-20 DeFi token for people who believe that doing well should not cost us the planet. Their vision is to create a token that directly supports climate action, provides the utility of a low friction means and place of exchange while delivering strong and stable returns irrespective of what the wider crypto market is doing\u2026in fact the tougher the market, the greater the opportunities that exist for $BEACH to get to work and do its thing! Furthermore, the $BEACH family will pledge 0.5% of all transactions (buys, sells & transfers) towards carbon free initiatives around the world thus making the $BEACH ecosystem carbon-free!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbd15c4c8cd28a08e43846e3155c01a1f648d8d42",
+    "url": "https://beachtoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xbd15C4c8cd28A08E43846e3155C01A1f648D8D42",
+        "https://ethplorer.io/address/0xbd15C4c8cd28A08E43846e3155C01A1f648D8D42"
+    ],
+    "twitter": "beach_token",
+    "telegram": "BeachToken",
+    "reddit": "Beach_Token/",
+    "github_org": "Beachtoken"
+}

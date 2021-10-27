@@ -1,0 +1,23 @@
+{
+    "id": "vegaswap",
+    "symbol": "vga",
+    "name": "Vegaswap",
+    "platforms": {
+        "binance-smart-chain": "0x4efdfe8ffaff109451fc306e0b529b088597dd8d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Vegaswap is an AMM DEX designed to make trading easier and investing more profitable with its cross-chain support and well-controlled volatility."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4efdfe8ffaff109451fc306e0b529b088597dd8d",
+    "url": "https://vegaswap.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x4EfDFe8fFAfF109451Fc306e0B529B088597dd8d"
+    ],
+    "twitter": "VegaswapAMM",
+    "telegram": "vegaswap",
+    "github_org": "vegaswap"
+}

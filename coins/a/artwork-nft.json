@@ -1,0 +1,22 @@
+{
+    "id": "artwork-nft",
+    "symbol": "anft",
+    "name": "Artwork NFT",
+    "platforms": {
+        "binance-smart-chain": "0x4ad871d02415717f55adb23def23faec98e7bba8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Artworknft is the first nft marketplace to provide physical products, each item of the product is a unique artwork. that's why each item of the product has a limited supply and has the ERC-721 blockchain networks. ArtworkNFT (ANFT) uses burn regularly system, we have JavaSwap utility, every partnership use ANFT for fee listing and will sent to Burn Address"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4ad871d02415717f55adb23def23faec98e7bba8",
+    "url": "https://artworknft.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x4ad871d02415717f55adb23def23faec98e7bba8"
+    ],
+    "twitter": "ArtworkNFT1",
+    "telegram": "artw0rkNFT"
+}

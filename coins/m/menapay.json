@@ -1,0 +1,28 @@
+{
+    "id": "menapay",
+    "symbol": "mpay",
+    "name": "Menapay",
+    "platforms": {
+        "ethereum": "0x3810a4ddf41e586fa0dba1463a7951b748cecfca"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "MenaPay is the first blockchain based non-bank digital payment gateway for building the biggest cashless society in the world. It focuses on the MENA region primarily because %84 of people are unbanked due to religious or trust-related issues. MenaPay allows users to transfer money within daily life in a secure, fast and decentralized way."
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "contract_address": "0x3810a4ddf41e586fa0dba1463a7951b748cecfca",
+    "url": "https://www.menapay.io",
+    "explorers": [
+        "https://etherscan.io/token/0x3810a4ddf41e586fa0dba1463a7951b748cecfca",
+        "https://ethplorer.io/address/0x3810a4ddf41e586fa0dba1463a7951b748cecfca"
+    ],
+    "twitter": "menapayio",
+    "facebook": "menapayio",
+    "telegram": "MenaPay",
+    "reddit": "MenaPay/",
+    "github_org": "menapay"
+}

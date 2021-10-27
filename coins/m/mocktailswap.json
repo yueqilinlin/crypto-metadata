@@ -1,0 +1,25 @@
+{
+    "id": "mocktailswap",
+    "symbol": "mok",
+    "name": "MocktailSwap",
+    "platforms": {
+        "binance-smart-chain": "0xca69c118fa550387794d48900a866891217e5c9f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mocktail is The World's First ERC 1155 Standard Semi-Fungible Token (SFT) on Binance Smart Chain"
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "contract_address": "0xca69c118fa550387794d48900a866891217e5c9f",
+    "url": "https://mocktailswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xca69c118fa550387794d48900a866891217e5c9f"
+    ],
+    "twitter": "MocktailSwap",
+    "facebook": "MocktailSwap",
+    "telegram": "MocktailSwap",
+    "reddit": "MocktailSwap",
+    "github_org": "MocktailSwap"
+}

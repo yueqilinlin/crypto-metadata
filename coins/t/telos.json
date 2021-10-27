@@ -1,0 +1,32 @@
+{
+    "id": "telos",
+    "symbol": "tlos",
+    "name": "Telos",
+    "platforms": {
+        "ethereum": "0x7825e833d495f3d1c28872415a4aee339d26ac88"
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Cryptocurrency",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Telos is a networked ecosystem powering the future economy having established itself as the second most used network by transaction volume for over 2 years according to Blocktivity, an independent blockchain analyst.\r\n\r\nTelos has been driving innovation since 2018 and is home to over 100 distinct applications (dApps) attracting well-known companies including Taikai, Qudo, Qubicles, Appics, Wordproof, Seeds, Zeptagram, and NewLife.  These applications enjoy the robust on-chain services that Telos provides for voting, sentiment, decentralized file storage, location and much more.\r\n\r\nTLOS is the name of the token that reflects ownership in the Telos network. A TLOS token is used on-chain for staking CPU, RAM, and REX lending resources that power the utility of this powerful network.  Visit us at Telos.net."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-12-12",
+    "contract_address": "0x7825e833d495f3d1c28872415a4aee339d26ac88",
+    "url": "https://telos.net",
+    "explorers": [
+        "https://telos.bloks.io/",
+        "https://telos.eosx.io/",
+        "https://eosauthority.com/?network=telos",
+        "https://etherscan.io/token/0x7825e833d495f3d1c28872415a4aee339d26ac88",
+        "https://bscscan.com/token/0xb6c53431608e626ac81a9776ac3e999c5556717c"
+    ],
+    "twitter": "HelloTelos",
+    "facebook": "TelosFoundation.io",
+    "telegram": "HelloTelos",
+    "reddit": "telos/",
+    "github_org": "telosnetwork"
+}

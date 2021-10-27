@@ -1,0 +1,22 @@
+{
+    "id": "venus-btc",
+    "symbol": "vbtc",
+    "name": "Venus BTC",
+    "platforms": {
+        "binance-smart-chain": "0x882c173bc7ff3b7786ca16dfed3dfffb9ee7847b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Venus is an algorithmic money market and synthetic stablecoin decentralized finance protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x882c173bc7ff3b7786ca16dfed3dfffb9ee7847b",
+    "url": "https://venus.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x882c173bc7ff3b7786ca16dfed3dfffb9ee7847b#tokenInfo"
+    ],
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "ijascoin",
+    "symbol": "ijc",
+    "name": "IjasCoin",
+    "platforms": {
+        "ethereum": "0xc7ff1e126cc81e816915ff48c940ed9d4e6d05d6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The IJC is an ERC-20 token. It has a strictly limited issue. The primary utility value of Ijas Coin (IJC) is to Incentivize people to do activities. Also, the token allows businesses to pay for guerrilla marketing and pay directly to people. The usage of token will enable companies to avoid cross-border transactional expenses and scale up quickly."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xc7ff1e126cc81e816915ff48c940ed9d4e6d05d6",
+    "url": "https://ijascoin.net/",
+    "explorers": [
+        "https://etherscan.io/token/0xc7ff1e126cc81e816915ff48c940ed9d4e6d05d6",
+        "https://ethplorer.io/address/0xc7ff1e126cc81e816915ff48c940ed9d4e6d05d6"
+    ],
+    "twitter": "ijascoin",
+    "facebook": "ijascode",
+    "telegram": "ijascode",
+    "reddit": "iJasCoin/",
+    "github_org": "ijascoin"
+}

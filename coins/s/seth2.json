@@ -1,0 +1,24 @@
+{
+    "id": "seth2",
+    "symbol": "seth2",
+    "name": "sETH2",
+    "platforms": {
+        "ethereum": "0xfe2e637202056d30016725477c5da089ab0a043a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "StakeWise is a liquid Ethereum staking protocol that tokenizes staking yield separately from deposits to enable compounding and increase the capital efficiency of staked ETH in DeFi. All deposits into the protocol are non-custodial and all tokens are mapped 1:1 to the ETH staked in the StakeWise Pool. "
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0xfe2e637202056d30016725477c5da089ab0a043a",
+    "url": "https://stakewise.io",
+    "explorers": [
+        "https://etherscan.io/token/0xfe2e637202056d30016725477c5da089ab0a043a",
+        "https://ethplorer.io/address/0xfe2e637202056d30016725477c5da089ab0a043a"
+    ],
+    "twitter": "stakewise_io",
+    "telegram": "stakewise_io",
+    "github_org": "stakewise"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "tasty-token",
+    "symbol": "tasty",
+    "name": "Tasty Token",
+    "platforms": {
+        "binance-smart-chain": "0x6615ca62dc2bc773a4e037ff6d620cec9a364813"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tasty Token is multi use case development project focused on providing investors with financial transparency and struggling communities with philanthropic support. Initial projects in development include hyper casual gaming, utility/function applications, and the creation of the Tasty Truck Hunger Charity Foundation."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x6615ca62dc2bc773a4e037ff6d620cec9a364813",
+    "url": "https://www.tastytoken.co/",
+    "explorers": [
+        "https://bscscan.com/token/0x6615ca62dc2bc773a4e037ff6d620cec9a364813"
+    ],
+    "twitter": "TastyToken",
+    "telegram": "tastytoken"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "chemix-ecology-governance-token",
+    "symbol": "kun",
+    "name": "Chemix Ecology Governance Token",
+    "platforms": {
+        "ethereum": "0x65d9bc970aa9b2413027fa339f7f179b3f3f2604",
+        "binance-smart-chain": "0x1a2fb0af670d0234c2857fad35b789f8cb725584",
+        "arbitrum-one": "0x04cb2d263a7489f02d813eaab9ba1bb8466347f2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "KUN is the governance token of the QIAN stablecoin protocol."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x65d9bc970aa9b2413027fa339f7f179b3f3f2604",
+    "url": "https://chemix.io/home",
+    "explorers": [
+        "https://etherscan.io/token/0x65d9bC970aA9B2413027fA339F7f179B3F3f2604",
+        "https://ethplorer.io/address/0x65d9bc970aa9b2413027fa339f7f179b3f3f2604"
+    ],
+    "twitter": "ChemixLabs",
+    "telegram": "ChemixLaunchpad",
+    "github_org": "QIAN-Protocol"
+}

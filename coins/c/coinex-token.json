@@ -1,0 +1,29 @@
+{
+    "id": "coinex-token",
+    "symbol": "cet",
+    "name": "CoinEx Token",
+    "platforms": {
+        "ethereum": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Issued in January 2018\uff0cCoinEx Token\uff08CET\uff09is the native token of CoinEx Chain. CoinEx Chain presents a public chain dedicated for the decentralized exchange (DEX) with the mainnet launched in November 2019 officially."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f",
+    "url": "https://www.coinex.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f",
+        "https://ethplorer.io/address/0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f",
+        "https://explorer.coinex.org/"
+    ],
+    "twitter": "coinexcom",
+    "facebook": "TheCoinEx",
+    "telegram": "TheCoinEx",
+    "github_org": "coinexchain"
+}

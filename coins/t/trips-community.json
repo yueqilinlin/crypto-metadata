@@ -1,0 +1,22 @@
+{
+    "id": "trips-community",
+    "symbol": "trips",
+    "name": "Trips Community",
+    "platforms": {
+        "xdai": "0x479e32cdff5f216f93060700c711d1cc8e811a6b",
+        "ethereum": "0x1350fbe8ce27762ec19134bf8fc405a427fe9bf1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Governance token for Peer to Peer Rentals Booking Platform."
+    },
+    "country_origin": "IT",
+    "genesis_date": null,
+    "contract_address": "0x479e32cdff5f216f93060700c711d1cc8e811a6b",
+    "url": "https://tripscommunity.com",
+    "explorers": [
+        "https://blockscout.com/xdai/mainnet/tokens/0x479e32cDFF5F216f93060700C711D1cC8E811a6B/token-transfers"
+    ],
+    "twitter": "tripscommunity"
+}

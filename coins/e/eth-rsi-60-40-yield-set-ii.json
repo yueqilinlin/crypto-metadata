@@ -1,0 +1,24 @@
+{
+    "id": "eth-rsi-60-40-yield-set-ii",
+    "symbol": "ethrsiapy",
+    "name": "ETH RSI 60/40 Yield Set II",
+    "platforms": {
+        "ethereum": "0x9f49ed43c90a540d1cf12f6170ace8d0b88a14e6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "TokenSets"
+    ],
+    "description": {
+        "en": "The ETH RSI 60/40 Crossover Yield Set attempts to capitalize on trends by detecting the speed and change of price movements for ETH. ETHRSIAPY automatically triggers rebalances if the Relative Strength Index (RSI) crosses below support at 40 or above resistance at 60 to indicate the price momentum. If the ETH RSI falls below 40, the Set will rebalance from ETH into Compound USDC and automatically accrues interest on your cash when the market is bearish. Link to more details."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9f49ed43c90a540d1cf12f6170ace8d0b88a14e6",
+    "url": "https://www.tokensets.com/set/ethrsiapy-1",
+    "explorers": [
+        "https://etherscan.io/token/0x9f49ed43c90a540d1cf12f6170ace8d0b88a14e6",
+        "https://ethplorer.io/address/0x9f49ed43c90a540d1cf12f6170ace8d0b88a14e6"
+    ],
+    "twitter": "SetProtocol"
+}

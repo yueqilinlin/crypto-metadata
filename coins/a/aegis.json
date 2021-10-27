@@ -1,0 +1,24 @@
+{
+    "id": "aegis",
+    "symbol": "ags",
+    "name": "Aegis",
+    "platforms": {
+        "ethereum": "0xdb2f2bcce3efa95eda95a233af45f3e0d4f00e2a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Aegis is a scalable DeFi platform that solves this problem by giving users access to lending and unsecured borrowing services, based on their credit scores. An \"Aegis Score\" is then assigned to the individual users, which allows users to unlock corresponding capital loans in the crypto ecosystem. Aegis therefore plays the critical role of a capital bridge that gives users the ability to leverage and move liquidity seamlessly between fiat and crypto ecosystems."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0xdb2f2bcce3efa95eda95a233af45f3e0d4f00e2a",
+    "url": "https://aegis.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xdB2F2bCCe3efa95EDA95a233aF45F3e0d4f00e2A",
+        "https://ethplorer.io/address/0xdb2f2bcce3efa95eda95a233af45f3e0d4f00e2a"
+    ],
+    "twitter": "AegisDeFi",
+    "telegram": "AegisEN",
+    "github_org": "AegisDeFi"
+}

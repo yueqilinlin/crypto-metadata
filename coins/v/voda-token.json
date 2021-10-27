@@ -1,0 +1,21 @@
+{
+    "id": "voda-token",
+    "symbol": "wdt",
+    "name": "VODA TOKEN",
+    "platforms": {
+        "ethereum": "0xd110bb8a24b100c37af7310416e685af807c1f10"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WDT is a completely decentralized encrypted money payment ecosystem. Based on the business model of \"non-bank card payment\" and the BOLT protocol, the WDT team designed WDT (WDT Network) to realize the consumption between consumers and merchants. This process is guaranteed by intelligent contracts and does not require the participation of central operations organizations.\r\n\r\nIn order to encourage ecological constructors and participants, WDT issued ecological universal native TOKEN to achieve the reward system and the distribution of benefits in the platform. The setting of TOKEN (hereinafter referred to as WDT) of WDT makes the transaction in the whole system more convenient, transparent and can realize the functions of automatic execution and supervision through intelligent contract, which ensures the fairness and justice of the transaction without the guarantee of third party."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd110bb8a24b100c37af7310416e685af807c1f10",
+    "url": "http://www.wdt.one/",
+    "explorers": [
+        "https://etherscan.io/token/0xd110bb8a24b100c37af7310416e685af807c1f10",
+        "https://ethplorer.io/address/0xd110bb8a24b100c37af7310416e685af807c1f10"
+    ]
+}

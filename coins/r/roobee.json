@@ -1,0 +1,25 @@
+{
+    "id": "roobee",
+    "symbol": "roobee",
+    "name": "Roobee",
+    "platforms": {
+        "ethereum": "0xa31b1767e09f842ecfd4bc471fe44f830e3891aa"
+    },
+    "hashing_algorithm": "Keccak",
+    "categories": [],
+    "description": {
+        "en": "Roobee describes itself as a blockchain-based investment platform that allows people to make investments starting from $10. Roobee uses AI and blockchain to provide its users with transparent records and personalized investment product choices.  Roobee blockchain infrastructure is powered by Ethereum blockchain and Roobeechain - a permissioned blockchain based on HyperLedger, with the goal of providing users with data privacy without compromising transparency and security. More information can be found at (https://roobee.io)"
+    },
+    "country_origin": "",
+    "genesis_date": "2019-04-19",
+    "contract_address": "0xa31b1767e09f842ecfd4bc471fe44f830e3891aa",
+    "url": "https://roobee.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa31b1767e09f842ecfd4bc471fe44f830e3891aa",
+        "https://ethplorer.io/address/0xa31b1767e09f842ecfd4bc471fe44f830e3891aa"
+    ],
+    "twitter": "Roobee_invest",
+    "facebook": "roobee.invest",
+    "telegram": "roobee_invest",
+    "github_org": "roobee-platform"
+}

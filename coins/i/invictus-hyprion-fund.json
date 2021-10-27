@@ -1,0 +1,28 @@
+{
+    "id": "invictus-hyprion-fund",
+    "symbol": "ihf",
+    "name": "Invictus Hyperion Fund",
+    "platforms": {
+        "ethereum": "0xaf1250fa68d7decd34fd75de8742bc03b29bd58e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "The Hyperion Fund functions as a syndicated venture capital fund that provides independent investors access to the earliest stages of investing in blockchain projects.\r\n\r\nThrough the IHF token, investors gain diversified exposure to a portfolio of expertly-vetted investments in private and public pre-sales, and ICOs.\r\n\r\nInvictus analysts leverage proprietary analysis tools (such as the Titan AI tool) to navigate the higher risk characteristic of these early-stage investments."
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0xaf1250fa68d7decd34fd75de8742bc03b29bd58e",
+    "url": "https://invictuscapital.com/hyperion",
+    "explorers": [
+        "https://etherscan.io/token/0xaf1250fa68d7decd34fd75de8742bc03b29bd58e",
+        "https://ethplorer.io/address/0xaf1250fa68d7decd34fd75de8742bc03b29bd58e"
+    ],
+    "twitter": "ic_invictus",
+    "facebook": "invictuscapitalofficial",
+    "telegram": "invictus_capital",
+    "reddit": "InvictusCapital",
+    "github_org": "invictuscapital"
+}

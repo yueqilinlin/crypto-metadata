@@ -1,0 +1,25 @@
+{
+    "id": "aave-crv",
+    "symbol": "aCRV",
+    "name": "Aave CRV",
+    "platforms": {
+        "ethereum": "0x8dae6cb04688c62d939ed9b68d32bc62e49970b1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8dae6cb04688c62d939ed9b68d32bc62e49970b1",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8dae6cb04688c62d939ed9b68d32bc62e49970b1",
+        "https://ethplorer.io/address/0x8dae6cb04688c62d939ed9b68d32bc62e49970b1"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome"
+}

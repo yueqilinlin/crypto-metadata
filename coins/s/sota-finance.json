@@ -1,0 +1,26 @@
+{
+    "id": "sota-finance",
+    "symbol": "sota",
+    "name": "SOTA Finance",
+    "platforms": {
+        "ethereum": "0x0dde6f6e345bfd23f3f419f0dfe04e93143b44fb",
+        "binance-smart-chain": "0x0742b62efb5f2eabbc14567dfc0860ce0565bcf4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0x0dde6f6e345bfd23f3f419f0dfe04e93143b44fb",
+    "url": "https://sota.finance/en",
+    "explorers": [
+        "https://etherscan.io/token/0x0dde6f6e345bfd23f3f419f0dfe04e93143b44fb",
+        "https://ethplorer.io/address/0x0dde6f6e345bfd23f3f419f0dfe04e93143b44fb"
+    ],
+    "twitter": "sotaNFTs",
+    "telegram": "sotaNFTer"
+}

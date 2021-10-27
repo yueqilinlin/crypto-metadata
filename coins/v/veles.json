@@ -1,0 +1,21 @@
+{
+    "id": "veles",
+    "symbol": "vls",
+    "name": "Veles",
+    "platforms": {},
+    "hashing_algorithm": "Multiple Algorithms",
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "Veles will provide both VPN encryption security and allow payments within the network with community based proof-of-work cryptocurrency. This payment option, unlike any fiat payment, will be private, nearly instant and with very low fees.\r\n\r\nTo achieve that we will build decentralised, opensource network based on blockchain technology. Veles network will act as marketplace, where our users can both rent their unused traffic or buy VPN service.\r\n\r\nUnlike common VPN providers, we will use peer-to-peer network to provide VPN using blockchain technology so everyone of our users will participate in service equally, meaning that there is no central entity that can sell or give up your private data to central authorities."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://veles.network",
+    "explorers": [
+        "http://explorer.veles.network/"
+    ],
+    "twitter": "velescore",
+    "github_org": "velescore"
+}

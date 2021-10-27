@@ -1,0 +1,24 @@
+{
+    "id": "yummy",
+    "symbol": "yummy",
+    "name": "Yummy",
+    "platforms": {
+        "binance-smart-chain": "0xb003c68917bab76812797d1b8056822f48e2e4fe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A full 3% of every single Yummy Coin transaction is automatically deposited into our charity wallet and issued weekly through blockchain to our charity partners who work tirelessly to help end world hunger.\r\n\r\nYummy Coin officially launched on May 1st, 2021, and hundreds of thousands of dollars in Yummy Coin donations have already gone towards hundreds of thousands of much-needed meals."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb003c68917bab76812797d1b8056822f48e2e4fe",
+    "url": "https://yummycrypto.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xB003C68917BaB76812797d1b8056822f48E2e4fe"
+    ],
+    "twitter": "yummycrypto",
+    "facebook": "OfficialYummyCoin",
+    "telegram": "yummycoin",
+    "reddit": "yummycoin/"
+}

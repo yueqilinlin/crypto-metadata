@@ -1,0 +1,27 @@
+{
+    "id": "ethersportz",
+    "symbol": "esz",
+    "name": "EtherSportz",
+    "platforms": {
+        "ethereum": "0xe8a1df958be379045e2b46a31a98b93a2ecdfded"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe8a1df958be379045e2b46a31a98b93a2ecdfded",
+    "url": "https://ethersportz.com",
+    "explorers": [
+        "https://etherscan.io/token/0xe8a1df958be379045e2b46a31a98b93a2ecdfded",
+        "https://ethplorer.io/address/0xe8a1df958be379045e2b46a31a98b93a2ecdfded"
+    ],
+    "twitter": "EtherSportz",
+    "facebook": "ESZPlay",
+    "telegram": "https://t.me/ESZCoin",
+    "github_org": "EtherSportz"
+}

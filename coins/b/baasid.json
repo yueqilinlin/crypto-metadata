@@ -1,0 +1,24 @@
+{
+    "id": "baasid",
+    "symbol": "baas",
+    "name": "BaaSid",
+    "platforms": {
+        "ethereum": "0x3e65e1eefde5ea7ccfc9a9a1634abe90f32262f8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BaaSid divides the texts and images of personal information, splits and distributes them on a public network based on a block chain.\r\nBaaSid is a 100% decentralized personal information network that enables all companies to securely and conveniently use all their personal authentication without operating a centralized DB server."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3e65e1eefde5ea7ccfc9a9a1634abe90f32262f8",
+    "url": "https://www.baasid.com/#token",
+    "explorers": [
+        "https://etherscan.io/token/0x3e65e1eefde5ea7ccfc9a9a1634abe90f32262f8",
+        "https://ethplorer.io/address/0x3e65e1eefde5ea7ccfc9a9a1634abe90f32262f8"
+    ],
+    "twitter": "baa_sid",
+    "facebook": "BaaSidIco",
+    "telegram": "BaaSidOfficial"
+}

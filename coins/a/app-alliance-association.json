@@ -1,0 +1,23 @@
+{
+    "id": "app-alliance-association",
+    "symbol": "aaa",
+    "name": "AAAchain",
+    "platforms": {
+        "ethereum": "0x6aba1623ea906d1164cbb007e764ebde2514a2ba"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "AAAChain's project mission is to democratize access to data by enabling a next-generation decentralized data marketplace built on blockchain. The AAAChain platform leverages blockchain's ecosystem of an IPFS-based distributed database, smart contracts, DPOS consensus algorithm, and immutable ledger for handing secure data exchanges.\r\n\r\nBig data powers all business, consumer, and enterprise-grade applications across multiple dimensions and disciplines. From Artificial Intelligence to eCommerce or advertising to financial services, fast-n-easy access to diverse, rich and up-to-date data makes everything possible.\r\n\r\nThe AAAChain, in partnership with several leading mobile app developers across more than 170,000 apps, enables the largest open data platform and data marketplace for buyers and sellers of user demographic and behavior patterns across a variety of industries, taxonomies, and world regions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6aba1623ea906d1164cbb007e764ebde2514a2ba",
+    "url": "https://aaachain.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x6aba1623ea906d1164cbb007e764ebde2514a2ba",
+        "https://ethplorer.io/address/0x6aba1623ea906d1164cbb007e764ebde2514a2ba"
+    ],
+    "twitter": "AAA_Chain",
+    "telegram": "AAA_Chain"
+}

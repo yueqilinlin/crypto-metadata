@@ -1,0 +1,19 @@
+{
+    "id": "masternodesme",
+    "symbol": "mnme",
+    "name": "MasterNodesME",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The goal of MasterNodesME will be to provide a full service to clients who wants to invest in Mastermode"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://masternodes.me",
+    "explorers": [
+        "http://176.123.2.48:3001"
+    ],
+    "twitter": "masternodesme",
+    "github_org": "MasterNodesME"
+}

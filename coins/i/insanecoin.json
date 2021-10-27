@@ -1,0 +1,23 @@
+{
+    "id": "insanecoin",
+    "symbol": "insn",
+    "name": "INSaNe",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://insane.network/",
+    "explorers": [
+        "http://insanecoin.thecryptochat.net/",
+        "https://chainz.cryptoid.info/insn/"
+    ],
+    "twitter": "insanecoin",
+    "facebook": "insanecoin",
+    "github_org": "CryptoCoderz"
+}

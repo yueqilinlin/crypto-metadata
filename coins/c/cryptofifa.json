@@ -1,0 +1,25 @@
+{
+    "id": "cryptofifa",
+    "symbol": "ffa",
+    "name": "FFA.Games",
+    "platforms": {
+        "binance-smart-chain": "0x1336f5d9bba2eb910d67c4d8da114256f8c04b2a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Collect and trade NFT-based football player card. Play & earn! "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1336f5d9bba2eb910d67c4d8da114256f8c04b2a",
+    "url": "https://cryptofifa.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x1336f5d9bba2eb910d67c4d8da114256f8c04b2a"
+    ],
+    "twitter": "CryptoFifa",
+    "facebook": "CryptofifaOfficial",
+    "telegram": "cryptofifa_en",
+    "reddit": "CryptoFIFA/",
+    "github_org": "cryptofifa"
+}

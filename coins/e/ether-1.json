@@ -1,0 +1,30 @@
+{
+    "id": "ether-1",
+    "symbol": "ETHO",
+    "name": "Etho Protocol",
+    "platforms": {
+        "binance-smart-chain": "0x0e900aa6ed4244c43d597e6d2f8fb3994303ed99",
+        "ethereum": "0x99676c9fa4c77848aeb2383fcfbd7e980dc25027",
+        "xdai": "0xb17d999e840e0c1b157ca5ab8039bd958b5fa317"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Infrastructure",
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Blockchain backed immutable storage via IPFS nodes and democratic governance."
+    },
+    "country_origin": "US",
+    "genesis_date": "2018-05-23",
+    "url": "https://ethoprotocol.com/",
+    "explorers": [
+        "https://blockscout.ethoprotocol.com/  ",
+        "https://explorer.ethoprotocol.com/  "
+    ],
+    "twitter": "ethoprotocol",
+    "facebook": "ether1official",
+    "telegram": "Ether_1",
+    "reddit": "etho1/",
+    "github_org": "Ether1Project"
+}

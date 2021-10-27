@@ -1,0 +1,22 @@
+{
+    "id": "minishib",
+    "symbol": "minishib",
+    "name": "MiniShib",
+    "platforms": {
+        "binance-smart-chain": "0xd099d6ebfe446c9e8342dffd8903109d890f73b7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0xd099d6ebfe446c9e8342dffd8903109d890f73b7",
+    "url": "https://minishib.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xd099d6ebfe446c9e8342dffd8903109d890f73b7"
+    ],
+    "twitter": "Minishib_Token",
+    "telegram": "MiniShibToken"
+}

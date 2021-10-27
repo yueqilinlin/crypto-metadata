@@ -1,0 +1,22 @@
+{
+    "id": "babylons",
+    "symbol": "babi",
+    "name": "Babylons",
+    "platforms": {
+        "binance-smart-chain": "0xec15a508a187e8ddfe572a5423faa82bbdd65120"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xec15a508a187e8ddfe572a5423faa82bbdd65120",
+    "url": "https://babylons.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xec15a508a187e8ddfe572a5423faa82bbdd65120"
+    ],
+    "twitter": "BabylonsNFT",
+    "telegram": "babylonsnft"
+}

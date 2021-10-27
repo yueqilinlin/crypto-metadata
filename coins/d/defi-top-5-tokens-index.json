@@ -1,0 +1,32 @@
+{
+    "id": "defi-top-5-tokens-index",
+    "symbol": "defi5",
+    "name": "DEFI Top 5 Index",
+    "platforms": {
+        "ethereum": "0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41",
+        "polygon-pos": "0x42435f467d33e5c4146a4e8893976ef12bbce762",
+        "arbitrum-one": "0xdeba25af35e4097146d7629055e0ec3c71706324"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "DeFi Index",
+        "Number",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "DEFI5 is a passively managed index that tracks the top 5 DeFi tokens by market cap."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41",
+    "url": "https://indexed.finance/index/defi5",
+    "explorers": [
+        "https://etherscan.io/token/0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41",
+        "https://ethplorer.io/address/0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41",
+        "https://arbiscan.io/token/0xdeba25af35e4097146d7629055e0ec3c71706324"
+    ],
+    "twitter": "ndxfi",
+    "telegram": "ndxfi",
+    "github_org": "indexed-finance"
+}

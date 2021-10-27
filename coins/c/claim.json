@@ -1,0 +1,23 @@
+{
+    "id": "claim",
+    "symbol": "claim",
+    "name": "Claim",
+    "platforms": {
+        "binance-smart-chain": "0x13154efe79d4d7f86407d56f8f6a1b07fb0b80ff"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Finance is built on credit. Any On-chain collateral asset has its credit value inside which has not been fully discovered till now. That\u2019s the birth of the Claim. Users On-chain interactions with DeFi protocols that are verified by the Claim DAO, will receive an amount of $cUSD as credit notes to maximize capital efficiency."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x13154efe79d4d7f86407d56f8f6a1b07fb0b80ff",
+    "url": "https://claim.xyz/",
+    "explorers": [
+        "https://bscscan.com/token/0x13154efe79d4d7f86407d56f8f6a1b07fb0b80ff",
+        "https://ethplorer.io/address/0x13154efe79d4d7f86407d56f8f6a1b07fb0b80ff"
+    ],
+    "twitter": "claimdotxyz",
+    "telegram": "claimofficialcommunity"
+}

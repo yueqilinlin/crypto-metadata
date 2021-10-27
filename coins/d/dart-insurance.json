@@ -1,0 +1,23 @@
+{
+    "id": "dart-insurance",
+    "symbol": "dart",
+    "name": "dART Insurance",
+    "platforms": {
+        "binance-smart-chain": "0x5a4623f305a8d7904ed68638af3b4328678eddbf",
+        "ethereum": "0x5a4623f305a8d7904ed68638af3b4328678eddbf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "You\u2019ve probably heard that famous artist Beeple recently sold an NFT collection for almost $70 million. However, this is just the beginning. NFTs are here to stay and will continue to grow. It\u2019s great being able to enjoy NFTs in your collection, but it\u2019s much better to also have the opportunity to earn from them. Unfortunately, there are always people who want to steal (or in this case, hack) something beautiful, rare, and valuable - this is where dART comes in."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5a4623f305a8d7904ed68638af3b4328678eddbf",
+    "url": "https://dart.gold/",
+    "explorers": [
+        "https://bscscan.com/token/0x5a4623F305A8d7904ED68638AF3B4328678edDBF"
+    ],
+    "twitter": "dARTinsurance",
+    "telegram": "dARTinsurance"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "attrace",
+    "symbol": "attr",
+    "name": "Attrace",
+    "platforms": {
+        "ethereum": "0x44e2dec86b9f0e0266e9aa66e10323a2bd69cf9a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Attrace is a decentralized trust referral network. Our technology can be used to track any asset on any blockchain in the crypto space, i.e. NFT, liquidity provision, IDO promotion etc. "
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x44e2dec86b9f0e0266e9aa66e10323a2bd69cf9a",
+    "url": "https://attrace.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x44e2dec86b9f0e0266e9aa66e10323a2bd69cf9a",
+        "https://ethplorer.io/address/0x44e2dec86b9f0e0266e9aa66e10323a2bd69cf9a"
+    ],
+    "twitter": "AttraceNetwork",
+    "facebook": "AttraceNetwork",
+    "telegram": "attrace",
+    "reddit": "attrace",
+    "github_org": "attrace"
+}

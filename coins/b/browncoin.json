@@ -1,0 +1,20 @@
+{
+    "id": "browncoin",
+    "symbol": "brwn",
+    "name": "Browncoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "A majority of the 2b2t community cannot access payment services like paypal. This stops players engaging in the 2b2t economy halting them from purchasing priority queue and stops newer players from purchasing ingame items from other players, 2b2t players have created online shops where they can sell their items to other players (such as Shulker Road). With browncoin people can buy/sell items from each other without a middle man (Paypal) and don't have to fear being charged back."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "url": "https://browncoin.info/",
+    "explorers": [
+        "https://explorer.browncoin.games/"
+    ],
+    "twitter": "browncoin2b2t",
+    "reddit": "BrownCoin/",
+    "github_org": "browncoin-project"
+}

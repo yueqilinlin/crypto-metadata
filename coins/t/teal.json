@@ -1,0 +1,24 @@
+{
+    "id": "teal",
+    "symbol": "teat",
+    "name": "TEAL",
+    "platforms": {
+        "ethereum": "0x38d58b82cb24a3e0410a7991f255174c9fd8093b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x38d58b82cb24a3e0410a7991f255174c9fd8093b",
+    "url": "https://www.teal.digital/",
+    "explorers": [
+        "https://etherscan.io/token/0x38d58b82cb24a3e0410a7991f255174c9fd8093b",
+        "https://ethplorer.io/address/0x38d58b82cb24a3e0410a7991f255174c9fd8093b"
+    ],
+    "twitter": "TEAL_AI_AG",
+    "telegram": "tealaiag",
+    "reddit": "TEAL_AI_AG/"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "multibridge",
+    "symbol": "bridge",
+    "name": "MultiBridge",
+    "platforms": {
+        "binance-smart-chain": "0x2763b15b36797f9152a6edf8bbe83ab889e2f69c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Multibridge will be the first multi chain bridge that will connect projects on Binance Smart Chain, Ethereum and Polkadot. With future support for upcoming chains like Dfinity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2763b15b36797f9152a6edf8bbe83ab889e2f69c",
+    "url": "https://multibridge.org/",
+    "explorers": [
+        "https://bscscan.com//token/0x2763b15b36797f9152a6edf8bbe83ab889e2f69c",
+        "https://bscscan.com/token/0x2763b15b36797f9152a6edf8bbe83ab889e2f69c"
+    ],
+    "twitter": "Multi_Bridge",
+    "telegram": "MultiBridge",
+    "github_org": "zer0chan1"
+}

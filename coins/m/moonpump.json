@@ -1,0 +1,23 @@
+{
+    "id": "moonpump",
+    "symbol": "pump",
+    "name": "MoonPump",
+    "platforms": {
+        "binance-smart-chain": "0x5610bf2bf5abe5750bdbce311631dee2afa2cd24"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "IDO platform for small investors"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5610bf2bf5abe5750bdbce311631dee2afa2cd24",
+    "url": "https://moonpump.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x5610bf2bf5abe5750bdbce311631dee2afa2cd24"
+    ],
+    "twitter": "MoonPumpToken",
+    "facebook": "MoonPumpOfficial",
+    "telegram": "moonpumpTKN"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "moneybyte",
+    "symbol": "mon",
+    "name": "MoneyByte",
+    "platforms": {},
+    "hashing_algorithm": "NeoScrypt",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "MoneyByte is decentralized digital money (cryptocurrency ).\r\nWith instant send and privacy!\r\n\r\nThe main goal of MoneyByte is to be THE digital money.\r\nEveryone must be able to pay with MON.\r\nAnd with our own financial investment platform we have multiple financial options for all types of investors."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "url": "https://www.moneybyte.org/",
+    "explorers": [
+        "https://explorer.moneybyte.org",
+        "https://openchains.info/coin/moneybyte/"
+    ],
+    "twitter": "MoneyByteTweets",
+    "facebook": "MoneyByteInvesting",
+    "telegram": "MoneyByte",
+    "github_org": "MoneyByte"
+}

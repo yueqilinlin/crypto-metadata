@@ -1,0 +1,24 @@
+{
+    "id": "chainlink-nft-vault-nftx",
+    "symbol": "cnhpd",
+    "name": "Chainlink NFT Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0x6443e507f53b526042d0054867a60a4c0409cb4b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Chainlink NFT Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs).\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6443e507f53b526042d0054867a60a4c0409cb4b",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x6443e507f53b526042d0054867a60a4c0409cb4b",
+        "https://ethplorer.io/address/0x6443e507f53b526042d0054867a60a4c0409cb4b"
+    ],
+    "twitter": "nftx_"
+}

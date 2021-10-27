@@ -1,0 +1,21 @@
+{
+    "id": "neko-inu",
+    "symbol": "ninu",
+    "name": "Neko Inu",
+    "platforms": {
+        "binance-smart-chain": "0x562bfb3bf6dadaf8afbd7f4ab3a162963fa47aa3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Proven Tokenomics, Yield-Generating, Hyper Deflationary, Paw Based, Fur-ball Token."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x562bfb3bf6dadaf8afbd7f4ab3a162963fa47aa3",
+    "url": "https://www.nekoinu.life/",
+    "explorers": [
+        "https://bscscan.com/token/0x562BfB3bf6DADaf8afbD7f4ab3a162963fA47Aa3"
+    ],
+    "telegram": "NekoInuToken"
+}

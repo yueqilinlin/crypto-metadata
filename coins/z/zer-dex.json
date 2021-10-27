@@ -1,0 +1,23 @@
+{
+    "id": "zer-dex",
+    "symbol": "zdx",
+    "name": "Zer-Dex",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Zer-Dex coin is an asset of our own exchange"
+    },
+    "country_origin": "PH",
+    "genesis_date": null,
+    "url": "https://zerdex.org/",
+    "explorers": [
+        "http://zdxplorer.info/"
+    ],
+    "twitter": "zerdexmarket",
+    "facebook": "zerdex.coin.3",
+    "telegram": "ZerDexCoin",
+    "github_org": "zer-dex-coin"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "1million-nfts",
+    "symbol": "1mil",
+    "name": "1MillionNFTs",
+    "platforms": {
+        "ethereum": "0xa4ef4b0b23c1fc81d3f9ecf93510e64f58a4a016"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa4ef4b0b23c1fc81d3f9ecf93510e64f58a4a016",
+    "url": "https://1mlnnfts.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa4ef4b0b23c1fc81d3f9ecf93510e64f58a4a016",
+        "https://ethplorer.io/address/0xa4ef4b0b23c1fc81d3f9ecf93510e64f58a4a016"
+    ],
+    "twitter": "1millionnft",
+    "telegram": "OneMlnNFT_community"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "7eleven",
+    "symbol": "7e",
+    "name": "7ELEVEN",
+    "platforms": {
+        "ethereum": "0x186a33d4dbcd700086a26188dcb74e69be463665"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "7Eleven introduces you to a new encryption payment application App called 7E.\r\nThe vision of project project is a global payment application, based on connecting with all banks around the world. Suitable for people in their home country, payments are made quickly based on face and QR identification analysis."
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "contract_address": "0x186a33d4dbcd700086a26188dcb74e69be463665",
+    "url": "https://7elevencoins.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x186a33d4dbcd700086a26188dcb74e69be463665",
+        "https://ethplorer.io/address/0x186a33d4dbcd700086a26188dcb74e69be463665"
+    ],
+    "twitter": "7ELEVENCOINS",
+    "facebook": "7elevenblockchain",
+    "telegram": "ELEVENCOIN",
+    "reddit": "https://www.reddit.com",
+    "github_org": "7elevencoins"
+}

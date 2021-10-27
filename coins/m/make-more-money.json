@@ -1,0 +1,24 @@
+{
+    "id": "make-more-money",
+    "symbol": "M3C",
+    "name": "Make More Money",
+    "platforms": {
+        "binance-smart-chain": "0xcf872f20ffaa164750f070ac06c000b570c8041b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "M3C is an innovative payment network and a new kind of money.M3C uses peer-to-peer technology to operate and ease business transaction across platforms."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xcf872f20ffaa164750f070ac06c000b570c8041b",
+    "url": "https://m3coin.io",
+    "explorers": [
+        "https://bscscan.com/token/0xcf872f20ffaa164750f070ac06c000b570c8041b"
+    ],
+    "twitter": "M3C_official",
+    "github_org": "M3Cofficial"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "font",
+    "symbol": "font",
+    "name": "Font",
+    "platforms": {
+        "ethereum": "0x4c25bdf026ea05f32713f00f73ca55857fbf6342",
+        "binance-smart-chain": "0x3053ad3b31600074e9a90440770f78d5e8fc5a54",
+        "fantom": "0xbbc4a8d076f4b1888fec42581b6fc58d242cf2d5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Font community is a decentralized marketplace for Fonts, where fonts are revenue generation NFTs."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x4c25bdf026ea05f32713f00f73ca55857fbf6342",
+    "url": "https://font.community",
+    "explorers": [
+        "https://etherscan.io/token/0x4c25bdf026ea05f32713f00f73ca55857fbf6342",
+        "https://ethplorer.io/address/0x4c25bdf026ea05f32713f00f73ca55857fbf6342"
+    ],
+    "twitter": "fontcommunity",
+    "telegram": "fontcommunitygroup",
+    "reddit": "fontcommunity",
+    "github_org": "fontcommunity"
+}

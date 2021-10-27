@@ -1,0 +1,25 @@
+{
+    "id": "terracoin",
+    "symbol": "trc",
+    "name": "Terracoin",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Created on October 26th, 2012, TRC is one of the oldest cryptocoins in existence. Unlike traditional fiat currencies, TRC is decentralized meaning there is no central bank. The Terracoin Foundation is dedicated to helping the world through donations. Decentralized governance allows masternode owners to control the future of TRC."
+    },
+    "country_origin": "US",
+    "genesis_date": "2012-10-26",
+    "url": "https://terracoin.io/",
+    "explorers": [
+        "https://insight.terracoin.io/",
+        "https://explorer.terracoin.io/"
+    ],
+    "twitter": "Terracoin_TRC",
+    "facebook": "TheTerracoinFoundation",
+    "telegram": "terracoin",
+    "reddit": "Terracoin/",
+    "github_org": "terracoin"
+}

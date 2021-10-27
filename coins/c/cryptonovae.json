@@ -1,0 +1,27 @@
+{
+    "id": "cryptonovae",
+    "symbol": "yae",
+    "name": "Cryptonovae",
+    "platforms": {
+        "ethereum": "0x4ee438be38f8682abb089f2bfea48851c5e71eaf",
+        "binance-smart-chain": "0x4ee438be38f8682abb089f2bfea48851c5e71eaf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cryptonovae is a secure all-in-one multi-exchange trading ecosystem to manage your digital assets across centralized and decentralized exchanges. It provides a sophisticated trading experience through advanced charting features and trade management."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4ee438be38f8682abb089f2bfea48851c5e71eaf",
+    "url": "https://cryptonovae.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x4eE438be38F8682ABB089F2BFeA48851C5E71EAF",
+        "https://ethplorer.io/address/0x4eE438be38F8682ABB089F2BFeA48851C5E71EAF",
+        "https://bscscan.com/token/0x4eE438be38F8682ABB089F2BFeA48851C5E71EAF"
+    ],
+    "twitter": "Crypto_novae",
+    "telegram": "cryptonovae_community",
+    "reddit": "cryptonovae/",
+    "github_org": "cryptonovae"
+}

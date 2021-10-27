@@ -1,0 +1,22 @@
+{
+    "id": "falcon-swaps",
+    "symbol": "flns",
+    "name": "Falcon Swaps",
+    "platforms": {
+        "binance-smart-chain": "0x099e4a42427fb80fd7e746ebab8a61bdfbf10a12"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Falcon Swaps Token is the core token that powers the Falcon Swaps ecosystem.\r\nEarn Falcon Swaps Token from Trade Mining, Yield Farms, and Falcon Pools, buy it on the exchange, then explore its use cases:\r\n\r\n-Stake it in Falcon Pools to earn free tokens\r\n-Use it in Yield Farms to earn more Falcon\r\n-Vote in Nest to help projects win growth fund\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x099e4a42427fb80fd7e746ebab8a61bdfbf10a12",
+    "url": "https://falconswaps.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x099e4a42427fb80fd7e746ebab8a61bdfbf10a12"
+    ],
+    "twitter": "falconswaps",
+    "telegram": "falconswaps"
+}

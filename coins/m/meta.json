@@ -1,0 +1,31 @@
+{
+    "id": "meta",
+    "symbol": "mta",
+    "name": "mStable Governance Token: Meta",
+    "platforms": {
+        "ethereum": "0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2",
+        "polygon-pos": "0xf501dd45a1198c2e1b5aef5314a68b9006d842e0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Automated Market Maker (AMM)",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "Meta (MTA) is mStable\u2019s protocol token and it has three core functions: \r\n- To coordinate decentralised governance. \r\n- To incentivise bootstrapping of mAsset liquidity, utility and a decentralised community of Governors.\r\n- To act as the source of re-collateralisation if it is implemented in future after being approved by governors.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2",
+    "url": "http://mstable.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2",
+        "https://ethplorer.io/address/0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2",
+        "https://polygonscan.com/token/0xF501dd45a1198C2E1b5aEF5314A68B9006D842E0"
+    ],
+    "twitter": "mstable_",
+    "telegram": "mstableofficial",
+    "github_org": "mstable"
+}

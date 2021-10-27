@@ -1,0 +1,22 @@
+{
+    "id": "marsrise",
+    "symbol": "marsrise",
+    "name": "MarsRise",
+    "platforms": {
+        "binance-smart-chain": "0x184079ca987f562ae6a0c59f4be5cadb20323863"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MarsRise ($MARSRISE) is a token launched on Binance Smart Chain with automatic liquidity pool growth and holder rewards through transaction taxation."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x184079ca987f562ae6a0c59f4be5cadb20323863",
+    "url": "https://marsrise.net",
+    "explorers": [
+        "https://bscscan.com/token/0x184079ca987f562ae6a0c59f4be5cadb20323863"
+    ],
+    "twitter": "MarsRise_Bsc",
+    "telegram": "MarsRiseBsc"
+}

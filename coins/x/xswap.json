@@ -1,0 +1,24 @@
+{
+    "id": "xswap",
+    "symbol": "xsp",
+    "name": "XSwap",
+    "platforms": {
+        "ethereum": "0x9b06d48e0529ecf05905ff52dd426ebec0ea3011"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XSwap will be the most important product in the Xfinance ecosystem, that is, the decentralized automated market-making derivatives leveraged exchange."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9b06d48e0529ecf05905ff52dd426ebec0ea3011",
+    "url": "https://xswap.app/",
+    "explorers": [
+        "https://etherscan.io/token/0x9b06d48e0529ecf05905ff52dd426ebec0ea3011",
+        "https://ethplorer.io/address/0x9b06d48e0529ecf05905ff52dd426ebec0ea3011"
+    ],
+    "twitter": "xfinance_io",
+    "telegram": "nowex_io",
+    "github_org": "xfinance"
+}

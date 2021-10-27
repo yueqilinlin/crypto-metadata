@@ -1,0 +1,28 @@
+{
+    "id": "compound-uniswap",
+    "symbol": "cuni",
+    "name": "cUNI",
+    "platforms": {
+        "ethereum": "0x35a18000230da775cac24873d00ff85bccded550"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Decentralized Finance (DeFi)",
+        "Compound Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x35a18000230da775cac24873d00ff85bccded550",
+    "url": "https://compound.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x35a18000230da775cac24873d00ff85bccded550",
+        "https://ethplorer.io/address/0x35a18000230da775cac24873d00ff85bccded550"
+    ],
+    "twitter": "compoundfinance",
+    "github_org": "compound-finance"
+}

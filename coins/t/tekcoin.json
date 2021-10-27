@@ -1,0 +1,22 @@
+{
+    "id": "tekcoin",
+    "symbol": "tek",
+    "name": "TEKcoin",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": "TEKcoin is a built using advanced Bitcoin technology. TEKcoin is distributed in a fast and fair way, without wasting resources on expensive hardware and electricity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://tekcoin.org/",
+    "explorers": [
+        "https://prohashing.com/explorer/TEKcoin/",
+        "https://chainz.cryptoid.info/tek/"
+    ],
+    "twitter": "TEKcoins",
+    "facebook": "tekcoin",
+    "reddit": "tekcoins",
+    "github_org": "maxxine"
+}

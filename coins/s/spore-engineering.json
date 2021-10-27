@@ -1,0 +1,24 @@
+{
+    "id": "spore-engineering",
+    "symbol": "spore",
+    "name": "Spore Engineering",
+    "platforms": {
+        "binance-smart-chain": "0x77f6a5f1b7a2b6d6c322af8581317d6bb0a52689"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Spore Governance Token"
+    },
+    "country_origin": "CL",
+    "genesis_date": null,
+    "contract_address": "0x77f6a5f1b7a2b6d6c322af8581317d6bb0a52689",
+    "url": "https://spore.engineering",
+    "explorers": [
+        "https://bscscan.com/token/0x77f6a5f1b7a2b6d6c322af8581317d6bb0a52689"
+    ],
+    "twitter": "spore_eng",
+    "telegram": "spore_engineering",
+    "reddit": "SporeEngineering/",
+    "github_org": "spore-engineering"
+}

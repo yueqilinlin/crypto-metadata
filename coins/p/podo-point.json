@@ -1,0 +1,24 @@
+{
+    "id": "podo-point",
+    "symbol": "pod",
+    "name": "Podo Point",
+    "platforms": {
+        "ethereum": "0xc697648021870cc250fbcd6ea8e77524f57b45c0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The POD token is the most important factor in determining the governance related to the Affilate revenue and PODO ecosystem through the PODO platform."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xc697648021870cc250fbcd6ea8e77524f57b45c0",
+    "url": "https://podopoint.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xC697648021870Cc250Fbcd6EA8E77524f57b45C0",
+        "https://ethplorer.io/address/0xC697648021870Cc250Fbcd6EA8E77524f57b45C0"
+    ],
+    "twitter": "PodoPoint",
+    "telegram": "podopoint_official",
+    "github_org": "PodoPoint"
+}

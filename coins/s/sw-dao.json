@@ -1,0 +1,22 @@
+{
+    "id": "sw-dao",
+    "symbol": "swc",
+    "name": "SW DAO",
+    "platforms": {
+        "ethereum": "0x8dca21c5c8165886ea1fa800ff9321ec74fde2c0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SW DAO is a global community that will launch and maintain the world\u2019s most sophisticated crypto financial products.\r\n\r\nOur mission is to bring DeFi products like derivatives, structured products and actively managed strategies to all crypto users.\r\n\r\nBuilding structured products on DeFi offers the unique opportunity to serve users at every level. One arm of our organization will cater towards the masses with retail-friendly products like thematic indices, actively managed strategies and automated yield generation. Another arm of our organization will offer derivatives that professional crypto traders have always wanted in order to get exposure to new payout streams and finetune their exposure.\r\n\r\nOur aim is to achieve this by building on top of various on-chain protocols, composing them together to achieve some specific risk objective while staying 100% transparent at all times. Furthermore, anyone who has access to the Ethereum network can interact with these contracts. No need to go to a broker or investment bank.\r\n\r\nOur DAO structure will allow us to build up a balance sheet and provide liquidity for our products \u2014 removing the need for inefficient AMM pools and offering tighter spreads and better liquidity to traders.\r\nWith yields starting to compress across all protocols in DeFi, we\u2019re expecting the demand for alternative yield opportunities through structured products to rise immensely over the coming years. This is exactly where we see our opportunity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8dca21c5c8165886ea1fa800ff9321ec74fde2c0",
+    "url": "https://swdao.org",
+    "explorers": [
+        "https://etherscan.io/token/0x8dca21c5c8165886ea1fa800ff9321ec74fde2c0",
+        "https://ethplorer.io/address/0x8dca21c5c8165886ea1fa800ff9321ec74fde2c0"
+    ],
+    "twitter": "SW__DAO"
+}

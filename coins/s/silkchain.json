@@ -1,0 +1,28 @@
+{
+    "id": "silkchain",
+    "symbol": "silk",
+    "name": "SilkChain",
+    "platforms": {
+        "ethereum": "0x4c1e085d8c2d2a8377834d0d7b38f12cc5b86898"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "The SilkChain ecosystem is essentially a blockchain technology that attempts to solve various pain points in the industry and build a \u201cglobal blockchain free trading zone\u201d. At the same time, it provides free SAAS e-commerce services to global traditional exchange. Based on Token's economic transformation, it breaks down localized data islands, establishes a big business-based credit system, and promotes trade circulation, payment, and finance. In the free trade zone, the silk chain provides the underlying blockchain infrastructure and introduces a pass-through system as a measure of the value of trade activity between merchants. In various application scenarios, the Silk Chain will work with many third-party service organizations around the world to customize smart contracts for various business processes according to localized trade rules and management regulations, and collaboratively develop new DApps based on existing business models."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x4c1e085d8c2d2a8377834d0d7b38f12cc5b86898",
+    "url": "https://www.silkchain.io",
+    "explorers": [
+        "https://etherscan.io/token/0x4c1e085d8c2d2a8377834d0d7b38f12cc5b86898",
+        "https://ethplorer.io/address/0x4c1e085d8c2d2a8377834d0d7b38f12cc5b86898"
+    ],
+    "twitter": "SilkChain_IO",
+    "facebook": "SilkChain.IO",
+    "telegram": "silkchainenglish01",
+    "reddit": "SilkChain",
+    "github_org": "SilkChain-ITDC"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "cryptosaga",
+    "symbol": "saga",
+    "name": "CryptoSaga",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "CryptoSaga has been taken over by DECENOMY, the new usecase will become KYC related in all its aspects, inside and outside blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-12-03",
+    "url": "https://cryptosaga.net/",
+    "explorers": [
+        "https://explorer.decenomy.net/SAGA/blocks"
+    ],
+    "twitter": "Saga_Coin",
+    "reddit": "https://www.reddit.com",
+    "github_org": "cryptosagacoin"
+}

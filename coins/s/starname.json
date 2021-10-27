@@ -1,0 +1,27 @@
+{
+    "id": "starname",
+    "symbol": "iov",
+    "name": "Starname",
+    "platforms": {
+        "osmosis": "ibc/52B1AA623B34EB78FD767CEA69E8D7FA6C9CFE1FBF49C5406268FD325E2CC2AC"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://starname.me/",
+    "explorers": [
+        "https://big-dipper.iov-mainnet-2.iov.one/",
+        "https://www.mintscan.io/starname",
+        "https://etherscan.io/token/0x175d9dfd6850aa96460e29bc0cead05756965e91"
+    ],
+    "twitter": "starname_me",
+    "telegram": "internetofvalues",
+    "reddit": "Starname/",
+    "github_org": "iov-one"
+}

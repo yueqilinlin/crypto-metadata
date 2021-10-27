@@ -1,0 +1,27 @@
+{
+    "id": "tecracoin",
+    "symbol": "tcr",
+    "name": "TecraCoin",
+    "platforms": {
+        "ethereum": "0xe38b72d6595fd3885d1d2f770aa23e94757f91a1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "TecraCoin (TCR) cryptocurrency is the key of the Tecra blockchain ecosystem: TecraCoin, Tecra Space tokenization platform (crowdfunding) with Space Token, NFT, TecraCoin Smart Deposit and future Tecra DEX. TCR Holders will be able to invest and profit from the real businesses profits and patented technology. The aim of Tecra Space is connecting Creators with Investors to develop patented technology. Tecra will accelerate the IPR market, thanks to which more and more problems will find the most sustainable and community-acclaimed solutions. TecraCoin is important in this system because it plays the role of the entrance gate to the world of investment in start-ups. That\u2019s why we invite them to our project - all of our potential combined is necessary to shape the future together."
+    },
+    "country_origin": "PL",
+    "genesis_date": "2018-10-19",
+    "contract_address": "0xe38b72d6595fd3885d1d2f770aa23e94757f91a1",
+    "url": "https://tecra.space/",
+    "explorers": [
+        "https://explorer.tecracoin.io",
+        "https://etherscan.io/token/0xE38B72d6595FD3885d1D2F770aa23E94757F91a1",
+        "https://ethplorer.io/address/0xe38b72d6595fd3885d1d2f770aa23e94757f91a1"
+    ],
+    "twitter": "TecraCoin",
+    "facebook": "tecracoin",
+    "github_org": "tecracoin"
+}

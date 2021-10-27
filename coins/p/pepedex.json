@@ -1,0 +1,28 @@
+{
+    "id": "pepedex",
+    "symbol": "ppdex",
+    "name": "Pepedex",
+    "platforms": {
+        "ethereum": "0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7",
+        "polygon-pos": "0x127984b5e6d5c59f81dacc9f1c8b3bdc8494572e",
+        "fantom": "0x4272dd51961a5181ace0dc7eb6f9807311345559"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "PPDEX is the center of Pepemon Economy, being the token PPBLZ holders can farm to mint NFTs"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7",
+    "url": "https://pepemon.world/",
+    "explorers": [
+        "https://etherscan.io/token/0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7",
+        "https://ethplorer.io/address/0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7"
+    ],
+    "twitter": "pepemonfinance",
+    "telegram": "pepemonfinance",
+    "github_org": "pepem00n"
+}

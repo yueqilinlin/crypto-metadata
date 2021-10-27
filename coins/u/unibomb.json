@@ -1,0 +1,23 @@
+{
+    "id": "unibomb",
+    "symbol": "ubomb",
+    "name": "Unibomb",
+    "platforms": {
+        "ethereum": "0x265ba42daf2d20f3f358a7361d9f69cb4e28f0e6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "UniBomb is a first-of-its-kind hyper-deflationary ERC-20 token with a firstof-its-kind burning mechanism that allows any UBOMB holder to burn tokens from the Uniswap liquidity pool on a continuous basis."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x265ba42daf2d20f3f358a7361d9f69cb4e28f0e6",
+    "url": "https://unibomb.it/",
+    "explorers": [
+        "https://etherscan.io/token/0x265Ba42daF2D20F3F358a7361D9f69Cb4E28F0E6",
+        "https://ethplorer.io/address/0x265Ba42daF2D20F3F358a7361D9f69Cb4E28F0E6"
+    ],
+    "twitter": "UniBombProject",
+    "telegram": "UniBomb"
+}

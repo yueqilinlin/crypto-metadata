@@ -1,0 +1,36 @@
+{
+    "id": "0x",
+    "symbol": "zrx",
+    "name": "0x",
+    "platforms": {
+        "ethereum": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+        "avalanche": "0x596fa47043f99a4e0f122243b841e55375cde0d2",
+        "harmony-shard-0": "0x8143e2a1085939caa9cef6665c2ff32f7bc08435"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Decentralized Exchange Token (DEX)",
+        "Polkadot Ecosystem",
+        "Governance",
+        "Decentralized Finance (DeFi)",
+        "Protocol"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "US",
+    "genesis_date": "2017-08-11",
+    "contract_address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "url": "https://0x.org/",
+    "explorers": [
+        "https://0xtracker.com/",
+        "https://etherscan.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498",
+        "https://ethplorer.io/address/0xe41d2489571d322189246dafa5ebde1f4699f498",
+        "https://blockchair.com/ethereum/erc-20/token/0xe41d2489571d322189246dafa5ebde1f4699f498"
+    ],
+    "twitter": "0xproject",
+    "telegram": "official_0x",
+    "reddit": "0xProject/",
+    "github_org": "0xProject"
+}

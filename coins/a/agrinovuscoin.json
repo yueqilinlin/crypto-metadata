@@ -1,0 +1,19 @@
+{
+    "id": "agrinovuscoin",
+    "symbol": "agri",
+    "name": "AgriNovusCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "The first worldwide based digital currency to improve the overall health of humans by creating a funnel between the actual organic and natural food supply chains and the consumer as end user."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://agrinovus.biz/",
+    "explorers": [
+        "http://37.187.94.73:4016/"
+    ],
+    "twitter": "AgriNovus",
+    "github_org": "agrinovus"
+}

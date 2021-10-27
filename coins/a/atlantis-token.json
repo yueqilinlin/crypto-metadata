@@ -1,0 +1,23 @@
+{
+    "id": "atlantis-token",
+    "symbol": "atis",
+    "name": "Atlantis Token",
+    "platforms": {
+        "ethereum": "0x821144518dfe9e7b44fcf4d0824e15e8390d4637"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Deflationary, profit sharing token of Mammoth Corp project."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x821144518dfe9e7b44fcf4d0824e15e8390d4637",
+    "url": "https://mammothgames.io",
+    "explorers": [
+        "https://etherscan.io/token/0x821144518dfE9e7b44fCF4d0824e15e8390d4637",
+        "https://ethplorer.io/address/0x821144518dfe9e7b44fcf4d0824e15e8390d4637"
+    ],
+    "twitter": "Mammoth_Corp",
+    "telegram": "MammothCorporation"
+}

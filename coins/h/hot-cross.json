@@ -1,0 +1,29 @@
+{
+    "id": "hot-cross",
+    "symbol": "hotcross",
+    "name": "Hot Cross",
+    "platforms": {
+        "ethereum": "0x4297394c20800e8a38a619a243e9bbe7681ff24e",
+        "binance-smart-chain": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+        "avalanche": "0x2f86508f41310d8d974b76deb3d246c0caa71cf5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4297394c20800e8a38a619a243e9bbe7681ff24e",
+    "url": "https://hotcross.com/",
+    "explorers": [
+        "https://etherscan.io/address/0x4297394c20800e8a38a619a243e9bbe7681ff24e",
+        "https://bscscan.com/token/0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+        "https://etherscan.io/token/0x4297394c20800e8a38a619a243e9bbe7681ff24e",
+        "https://ethplorer.io/address/0x4297394c20800e8a38a619a243e9bbe7681ff24e"
+    ],
+    "twitter": "hotcrosscom",
+    "telegram": "HotCross",
+    "reddit": "hotcross/",
+    "github_org": "hotcrosscom"
+}

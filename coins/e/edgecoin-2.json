@@ -1,0 +1,22 @@
+{
+    "id": "edgecoin-2",
+    "symbol": "edgt",
+    "name": "Edgecoin",
+    "platforms": {
+        "stellar": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Edgecoin is an Educational Stable Coin that provides an open payment system for educational institution where individuals can make education related transactions such as enrollment fee, accommodation, books and etc via a decentralized application to be settled at the same speed as the Internet while making full use of the education infrastructure, regulation and stability of traditional finance process systems."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://edgecoinpay.com/",
+    "explorers": [
+        "https://stellar.expert/explorer/public/asset/EDGT-GANJI4SIO7HKFDPSFYVNPOM54KNQXYGSODDLV6FI4DJGSQQJXHZON5FA-1"
+    ],
+    "twitter": "edge_pay",
+    "facebook": "Edge-Coin-Pay-103568481572772",
+    "telegram": "Edgecoin_chat"
+}

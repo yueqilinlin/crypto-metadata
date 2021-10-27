@@ -1,0 +1,21 @@
+{
+    "id": "pegasus",
+    "symbol": "pgs",
+    "name": "Pegasus",
+    "platforms": {
+        "ethereum": "0x931ad0628aa11791c26ff4d41ce23e40c31c5e4e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pegasus is a consensus for servicing community. We hope that we can unite the power of decentralization and create community consensus to create a low-entropy benign ecology in the \u2018dark moments\u2019."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x931ad0628aa11791c26ff4d41ce23e40c31c5e4e",
+    "url": "http://pgs.plus/",
+    "explorers": [
+        "https://etherscan.io/token/0x931ad0628aa11791c26ff4d41ce23e40c31c5e4e",
+        "https://ethplorer.io/address/0x931ad0628aa11791c26ff4d41ce23e40c31c5e4e"
+    ]
+}

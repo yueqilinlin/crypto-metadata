@@ -1,0 +1,25 @@
+{
+    "id": "cosmicswap",
+    "symbol": "cosmic",
+    "name": "CosmicSwap",
+    "platforms": {
+        "binance-smart-chain": "0x960cc8f437165b7362a34d95d1ec62dd2a940f00",
+        "polygon-pos": "0xa5eb60ca85898f8b26e18ff7c7e43623ccba772c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CosmicSwap is a yield aggregator and farm running on the Binance Smart Chain and uses PancakeSwap as the primary exchange with a cool new feature that lets you earn COSMIC tokens for staking and providing liquidity.\r\n\r\nWe are not trying to replace the swap & exchange but to add value into the system and create a suitable and sustainable environment for people to yield farms with high APR."
+    },
+    "country_origin": "IE",
+    "genesis_date": null,
+    "contract_address": "0x960cc8f437165b7362a34d95d1ec62dd2a940f00",
+    "url": "https://cosmicswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x960cC8F437165b7362a34D95D1ec62Dd2A940f00"
+    ],
+    "twitter": "cosmicswap",
+    "telegram": "cosmicswapchat",
+    "reddit": "cosmicswap",
+    "github_org": "cosmicswap"
+}

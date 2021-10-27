@@ -1,0 +1,23 @@
+{
+    "id": "ethplus",
+    "symbol": "ethp",
+    "name": "ETHPlus",
+    "platforms": {
+        "ethereum": "0xeed736b2b809550d89a941c2005de93588c628e2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The ETHPlus platform includes a safe and fast cryptocurrency (ETHP), an effective wallet (ETHPWallet), and a payment system (ETHPay). "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeed736b2b809550d89a941c2005de93588c628e2",
+    "url": "https://ethplus.net/",
+    "explorers": [
+        "https://etherscan.io/token/0xEED736b2b809550D89A941C2005dE93588c628e2",
+        "https://ethplorer.io/address/0xEED736b2b809550D89A941C2005dE93588c628e2"
+    ],
+    "facebook": "ETHplus_-101963788197476",
+    "telegram": "ethplusLA"
+}

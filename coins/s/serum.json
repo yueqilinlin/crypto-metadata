@@ -1,0 +1,33 @@
+{
+    "id": "serum",
+    "symbol": "srm",
+    "name": "Serum",
+    "platforms": {
+        "ethereum": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+        "solana": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+        "tomochain": "0xc01643ac912b6a8ffc50cf8c1390934a6142bc91"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem",
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+    "url": "https://projectserum.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+        "https://explorer.solana.com/address/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+        "https://ethplorer.io/address/0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+        "https://solscan.io/token/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+        "https://scan.tomochain.com/tokens/0xc01643ac912b6a8ffc50cf8c1390934a6142bc91"
+    ],
+    "twitter": "projectserum",
+    "telegram": "ProjectSerum"
+}

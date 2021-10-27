@@ -1,0 +1,22 @@
+{
+    "id": "modern-investment-coin",
+    "symbol": "modic",
+    "name": "Modern Investment Coin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "A next-generation platform for investing in masternode shares, featuring instant withdrawals and 0% fees\r\nInvestment platform MODIC combines the latest innovations in blockchain financial developments, as well as a crypto fund and its own pos/masternode coin. The coin called MODIC is a necessary element for financial settlements, reservation and distribution of profits within our entire ecosystem.\r\n\r\nOn the platform, in addition to investing in shared masternodes, you will be able to receive income at fixed rates independent of Masternode ROI. In total, several investment plans will be available that differ in the number of coins and locked deposit time.\r\n\r\nIn the very near future, a gate to deposit and withdraw coins to the very famous DEX (Decentralized Exchange) will be opened on our platform, so that you can buy and sell coins without leaving the familiar interface.\r\n\r\nIn the spring, we plan to open a multicurrency crypto fund, you can earn not only by investing in our coin, but also in the best crypto projects selected by our experienced professional managers."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://modic.fund/",
+    "explorers": [
+        "https://exp.modic.fund/blocks/"
+    ],
+    "twitter": "ModicLtd",
+    "telegram": "MODIC_chat",
+    "github_org": "ModernInvestmentCoin"
+}

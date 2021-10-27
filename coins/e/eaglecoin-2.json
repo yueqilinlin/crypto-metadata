@@ -1,0 +1,23 @@
+{
+    "id": "eaglecoin-2",
+    "symbol": "elc",
+    "name": "EagleCoin",
+    "platforms": {
+        "tron": "TM83zh7FFqpf9E9Xr2HxTmYsV7UUFXajLG"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The EagleCoin project focused on aligning payment on network with the ethos of decentralised technology. That being, promote accessibility to anyone, anywhere, offer censorship resistant and peer-to-peer transactions, and build open-source technology controlled by software and governed by users.\r\n\r\nELC  token can be used for payments, receiving and redeeming loyalty rewards, discounts, collateral for DeFi and several other use cases within the platform."
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "TM83zh7FFqpf9E9Xr2HxTmYsV7UUFXajLG",
+    "url": "https://eaglecoin.info/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TM83zh7FFqpf9E9Xr2HxTmYsV7UUFXajLG"
+    ],
+    "twitter": "EAGLECOIN9",
+    "telegram": "elcglobalgroupchat",
+    "github_org": "EagleCoinCore"
+}

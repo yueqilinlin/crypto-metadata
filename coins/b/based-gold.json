@@ -1,0 +1,23 @@
+{
+    "id": "based-gold",
+    "symbol": "bgld",
+    "name": "Based Gold",
+    "platforms": {
+        "ethereum": "0xba7970f10d9f0531941dced1dda7ef3016b24e5b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$BLGD is the currency representing the community-owned project Bloot. Bloot is a text-based building block project, minted for free. BLGD was created by the community as a means to manage the economy of projects that are Built on Bloot. It was initially available as a free claim to Bloot holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xba7970f10d9f0531941dced1dda7ef3016b24e5b",
+    "url": "http://bloot.org",
+    "explorers": [
+        "https://etherscan.io/token/0xba7970f10d9f0531941dced1dda7ef3016b24e5b",
+        "https://ethplorer.io/address/0xba7970f10d9f0531941dced1dda7ef3016b24e5b"
+    ],
+    "twitter": "Basedgoldbgld",
+    "telegram": "BGLDofficial"
+}

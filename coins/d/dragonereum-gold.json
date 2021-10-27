@@ -1,0 +1,27 @@
+{
+    "id": "dragonereum-gold",
+    "symbol": "gold",
+    "name": "Dragonereum GOLD",
+    "platforms": {
+        "ethereum": "0x150b0b96933b75ce27af8b92441f8fb683bf9739"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "Built on the Ethereum blockchain, Dragonereum is a cryptocollectible game with PvP battles, advanced breeding, in-game trading, rewards and achievements. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x150b0b96933b75ce27af8b92441f8fb683bf9739",
+    "url": "http://dragonereum.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x150b0b96933b75ce27af8b92441f8fb683bf9739",
+        "https://ethplorer.io/address/0x150b0b96933b75ce27af8b92441f8fb683bf9739"
+    ],
+    "twitter": "dragonereum",
+    "telegram": "dragonereum",
+    "reddit": "Dragonereum/",
+    "github_org": "dragonereum"
+}

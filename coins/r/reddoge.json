@@ -1,0 +1,24 @@
+{
+    "id": "reddoge",
+    "symbol": "reddoge",
+    "name": "RedDoge",
+    "platforms": {
+        "binance-smart-chain": "0x45b41bf48eb20466737b4605393734e9165d4b98"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The first meme coin in the history, Doge was launched in 2013. 8 years later, the Red Team is launching Red Doge, the Doppelg\u00e4nger of Doge.  RedDoge will be a utility token as we are building an ecosystem that encompasses gaming and NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x45b41bf48eb20466737b4605393734e9165d4b98",
+    "url": "https://dogetoken.red/",
+    "explorers": [
+        "https://www.bscscan.com/token/0x45b41bf48Eb20466737B4605393734E9165D4B98",
+        "https://bscscan.com/token/0x45b41bf48Eb20466737B4605393734E9165D4B98"
+    ],
+    "twitter": "Doge_Red_",
+    "telegram": "RedDoge_Official",
+    "github_org": "RedTeam-Blockchain"
+}

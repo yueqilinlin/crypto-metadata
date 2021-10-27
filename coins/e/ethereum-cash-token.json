@@ -1,0 +1,24 @@
+{
+    "id": "ethereum-cash-token",
+    "symbol": "ecash",
+    "name": "Ethereum Cash Token",
+    "platforms": {
+        "ethereum": "0x906710835d1ae85275eb770f06873340ca54274b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ethereum Cash was built as a decentralized, fair universal inflation resistant currency for the people of the world. There is a 10% redistribution tax on each transfer or trade, with 5% being redistributed to all holders and 5% burned forever. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x906710835d1ae85275eb770f06873340ca54274b",
+    "url": "https://www.ethereumcashtoken.com",
+    "explorers": [
+        "https://etherscan.io/token/0x906710835d1ae85275eb770f06873340ca54274b",
+        "https://ethplorer.io/address/0x906710835d1ae85275eb770f06873340ca54274b"
+    ],
+    "twitter": "0xethercash",
+    "telegram": "ethereumcashtoken",
+    "reddit": "EthereumCashOfficial"
+}

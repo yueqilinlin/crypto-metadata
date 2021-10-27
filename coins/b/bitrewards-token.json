@@ -1,0 +1,28 @@
+{
+    "id": "bitrewards-token",
+    "symbol": "bit",
+    "name": "BitRewards Token",
+    "platforms": {
+        "ethereum": "0x47da42696a866cdc61a4c809a515500a242909c1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Software"
+    ],
+    "description": {
+        "en": "BitRewards is a blockchain rewards and loyalty system for e-commerce businesses. It enables online stores to reward their shoppers with a cryptocurrency \u201cBIT\u201d, which helps to increase sales by an average of 17%. Because of the blockchain and its unique business model, this cutting-edge loyalty system is offered to the businesses free of charge. \r\n\r\nCustomers are rewarded for their purchases with liquid Ethereum-based tokens that can be redeemed for future offers, purchases, or transferred to another crypto wallet and used on other products or services.\r\n\r\nWhitelist Pre-sale 9.04 to 11.04\r\nCrowdsale from 12.04 to 9.05"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x47da42696a866cdc61a4c809a515500a242909c1",
+    "url": "https://bitrewards.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x47da42696a866cdc61a4c809a515500a242909c1",
+        "https://ethplorer.io/address/0x47da42696a866cdc61a4c809a515500a242909c1"
+    ],
+    "twitter": "bitrewards",
+    "facebook": "bitrewards.network",
+    "telegram": "bitrewards",
+    "reddit": "BitRewards_Official/",
+    "github_org": "BitRewards"
+}

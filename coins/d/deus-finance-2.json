@@ -1,0 +1,25 @@
+{
+    "id": "deus-finance-2",
+    "symbol": "deus",
+    "name": "DEUS Finance",
+    "platforms": {
+        "ethereum": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
+        "polygon-pos": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DEUS Finance is a marketplace for decentralized financial services, where the infrastructure for others to build financial instruments is provided by the DEUS DAO. Such instruments include synthetic stock trading platforms, options, and futures trading."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
+    "url": "https://deus.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
+        "https://ethplorer.io/address/0xde5ed76e7c05ec5e4572cfc88d1acea165109e44"
+    ],
+    "twitter": "DeusDao",
+    "telegram": "deusfinance",
+    "github_org": "deusfinance"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "blackpearl-chain",
+    "symbol": "bplc",
+    "name": "BlackPearl Token",
+    "platforms": {
+        "ethereum": "0x426fc8be95573230f6e6bc4af91873f0c67b21b4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "BlackPearl.Chain is pushing decentralization into the future with a third-generation public blockchain. It\u2019s network achieves blazing transaction speeds (Millions TPS) using Sharding and a VRF lightning-fast consensus mechanism built in-house.\r\nFinality is achieved in under three seconds with revolutionary P2P, Its speed and security make it the perfect platform for applications like digital asset trading, social media messaging, payment processing, supply chain tracking, and other high-scale use cases.\r\n"
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0x426fc8be95573230f6e6bc4af91873f0c67b21b4",
+    "url": "https://blackpearlchain.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x426fc8be95573230f6e6bc4af91873f0c67b21b4",
+        "https://ethplorer.io/address/0x426fc8be95573230f6e6bc4af91873f0c67b21b4"
+    ],
+    "twitter": "BlackpearlChain",
+    "facebook": "blackpearlchain",
+    "telegram": "BlackPearlChain2019",
+    "reddit": "BlackPearlChain/"
+}

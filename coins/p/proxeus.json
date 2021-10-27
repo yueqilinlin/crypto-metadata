@@ -1,0 +1,24 @@
+{
+    "id": "proxeus",
+    "symbol": "xes",
+    "name": "Proxeus",
+    "platforms": {
+        "ethereum": "0xa017ac5fac5941f95010b12570b812c974469c2c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We bring blockchain compatibility to traditional companies by integrating a blockchain layer into existing enterprise systems."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa017ac5fac5941f95010b12570b812c974469c2c",
+    "url": "https://proxeus.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa017ac5fac5941f95010b12570b812c974469c2c",
+        "https://ethplorer.io/address/0xa017ac5fac5941f95010b12570b812c974469c2c"
+    ],
+    "twitter": "proxeusapp",
+    "reddit": "proxeus/",
+    "github_org": "ProxeusApp"
+}

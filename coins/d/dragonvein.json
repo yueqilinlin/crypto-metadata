@@ -1,0 +1,23 @@
+{
+    "id": "dragonvein",
+    "symbol": "dvc",
+    "name": "DragonVein",
+    "platforms": {
+        "ethereum": "0x5e6ffe7b174a50c81ff3f3c54c04fd3c11e20830"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "As a unified currency of the Dragon Vein, DVC can be used to trade, rent and purchase content within the ecosystems, as well as customize your favorite content. DVC can be used to complete the distribution and promotion of VR content, intellectual property trading, intellectual property ownership confirmation, equipment trading, etc."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5e6ffe7b174a50c81ff3f3c54c04fd3c11e20830",
+    "url": "http://www.dragonvein.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x5E6FFe7B174A50c81fF3f3c54c04fD3c11E20830",
+        "https://ethplorer.io/address/0x5E6FFe7B174A50c81fF3f3c54c04fD3c11E20830"
+    ],
+    "telegram": "DRAGONVEIN",
+    "github_org": "DragonveinChain"
+}

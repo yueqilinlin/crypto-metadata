@@ -1,0 +1,24 @@
+{
+    "id": "yfscience",
+    "symbol": "yfsi",
+    "name": "Yfscience",
+    "platforms": {
+        "ethereum": "0x1df6f1bb7454e5e4ba3bca882d3148fbf9b5697a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YFScience is a new generation decentralised platform that enables different features for staking, lending, trading and coinvesting. YFSI is the governance token of YFScience that enables access to an on-chain decision making model."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1df6f1bb7454e5e4ba3bca882d3148fbf9b5697a",
+    "url": "https://yfscience.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x1df6f1bb7454e5e4ba3bca882d3148fbf9b5697a",
+        "https://ethplorer.io/address/0x1df6f1bb7454e5e4ba3bca882d3148fbf9b5697a"
+    ],
+    "twitter": "FinanceYFSI",
+    "telegram": "yfsciencechat",
+    "github_org": "yfscience"
+}

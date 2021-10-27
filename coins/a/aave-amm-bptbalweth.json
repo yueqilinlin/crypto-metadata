@@ -1,0 +1,24 @@
+{
+    "id": "aave-amm-bptbalweth",
+    "symbol": "aAmmBptBALWETH",
+    "name": "Aave AMM BptBALWETH",
+    "platforms": {
+        "ethereum": "0xd109b2a304587569c84308c55465cd9ff0317bfb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd109b2a304587569c84308c55465cd9ff0317bfb",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd109b2A304587569c84308c55465cd9fF0317bFB",
+        "https://ethplorer.io/address/0xd109b2a304587569c84308c55465cd9ff0317bfb"
+    ],
+    "twitter": "aaveaave"
+}

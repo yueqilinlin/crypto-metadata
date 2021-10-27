@@ -1,0 +1,22 @@
+{
+    "id": "momo-key",
+    "symbol": "key",
+    "name": "MoMo Key",
+    "platforms": {
+        "binance-smart-chain": "0x85c128ee1feeb39a59490c720a9c563554b51d33"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Keys can be obtained by staking LPs or stablecoins (BEP20) into MOBOX Crates. Those keys then unlock chests which mint unique NFTs on the MOBOX.io Platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x85c128ee1feeb39a59490c720a9c563554b51d33",
+    "url": "https://mobox.io",
+    "explorers": [
+        "https://bscscan.com/token/0x85c128ee1feeb39a59490c720a9c563554b51d33"
+    ],
+    "twitter": "MOBOX_Official",
+    "telegram": "mobox_io"
+}

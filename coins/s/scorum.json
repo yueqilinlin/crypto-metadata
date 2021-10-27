@@ -1,0 +1,25 @@
+{
+    "id": "scorum",
+    "symbol": "scr",
+    "name": "Scorum",
+    "platforms": {
+        "openledger": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Sports"
+    ],
+    "description": {
+        "en": "Scorum is a new-generation sports media source that features a blogging platform, integrated sports analytics services and a commission-free sports betting exchange. Thanks to the blockchain technology and a stable internal economy, Scorum creates a favorable system to satisfy sports enthusiasts\u2019 and professionals\u2019 key needs."
+    },
+    "country_origin": "BY",
+    "genesis_date": null,
+    "url": "https://scorumcoins.com",
+    "explorers": [
+        "https://explorer.scorum.com/"
+    ],
+    "twitter": "SCORUM_en",
+    "facebook": "SCORUM.COMMUNITY",
+    "telegram": "SCORUM",
+    "github_org": "Scorum"
+}

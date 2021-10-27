@@ -1,0 +1,25 @@
+{
+    "id": "polkadot",
+    "symbol": "dot",
+    "name": "Polkadot",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "Polkadot is a platform that allows diverse blockchains to transfer messages, including value, in a trust-free fashion; sharing their unique features while pooling their security. In brief, Polkadot is a scalable heterogeneous multi-chain technology.\r\n\r\nPolkadot is heterogeneous because it is entirely flexible and makes no assumption about the nature or structure of the chains in the network. Even non-blockchain systems or data structures can become parachains if they fulfill a set of criteria.\r\n\r\nPolkadot may be considered equivalent to a set of independent chains (e.g. a set containing Ethereum, Ethereum Classic, Namecoin and Bitcoin) except with important additions: pooled security and trust-free interchain transactability.\r\n\r\nMany of the native parachains of Polkadot will be written using a Polkadot Runtime Environment SDK (e.g. Parity Technologies' Substrate)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://polkadot.network/",
+    "explorers": [
+        "http://polkascan.io/",
+        "https://polkadot-cc1.subscan.io/",
+        "https://hubble.figment.io/polkadot/chains/polkadot"
+    ],
+    "twitter": "Polkadot",
+    "telegram": "PolkadotOfficial",
+    "reddit": "https://www.reddit.com",
+    "github_org": "paritytech"
+}

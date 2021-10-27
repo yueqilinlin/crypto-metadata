@@ -1,0 +1,22 @@
+{
+    "id": "poa-network",
+    "symbol": "poa",
+    "name": "POA Network",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://poa.network/",
+    "explorers": [
+        "https://blockscout.com/poa/core/"
+    ],
+    "twitter": "poanetwork",
+    "telegram": "oraclesnetwork",
+    "github_org": "poanetwork"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "dashsports",
+    "symbol": "dass",
+    "name": "DashSports",
+    "platforms": {
+        "binance-smart-chain": "0xca981cb99478d190cac2de266ed04e06e341e30e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A real-time strategic prediction game for sports/e-sports, developed after analyzing the characteristics and strengths and weaknesses of Fantasy Sports in North America, Sports Gaming in Europe and eSports services"
+    },
+    "country_origin": "AN",
+    "genesis_date": null,
+    "contract_address": "0xca981cb99478d190cac2de266ed04e06e341e30e",
+    "url": "https://dashsports.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xca981cb99478d190cac2de266ed04e06e341e30e"
+    ],
+    "twitter": "DashSportsOrg",
+    "telegram": "dashsports"
+}

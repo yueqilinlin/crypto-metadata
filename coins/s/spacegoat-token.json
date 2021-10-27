@@ -1,0 +1,24 @@
+{
+    "id": "spacegoat-token",
+    "symbol": "sgt",
+    "name": "SpaceGoat Token",
+    "platforms": {
+        "binance-smart-chain": "0x783fe4a84645431b31b914b609b86127b96057ea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Spacegoat is a community-driven project that aims to provide users with NFTs marketplace. Moreover, each transaction of the Spacegoat token (SGT) charged with 10% fee that is allocated by the smart contract to charity, existing token-holders, liquidity and community growth. "
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x783fe4a84645431b31b914b609b86127b96057ea",
+    "url": "https://spacegoat.xyz/",
+    "explorers": [
+        "https://bscscan.com/token/0x783fe4a84645431b31b914b609b86127b96057ea"
+    ],
+    "twitter": "SpaceGoatToken",
+    "facebook": "SpaceGoatToken",
+    "telegram": "SpaceGoatTokenOfficial",
+    "reddit": "SpaceGoatToken/"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "sendwhale",
+    "symbol": "sendwhale",
+    "name": "SendWhale",
+    "platforms": {
+        "binance-smart-chain": "0x91738a0142da163c87d2f6de484de02a7173f8b6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SendWhale is a deflationary cryptocurrency that is backed by a percentual tax distributed for each transaction, while embodying scarcity through definitive limited issuance. There is a 10% fee on every transaction: 5% RFI static rewards / 5% added to liquidity pool"
+    },
+    "country_origin": "DK",
+    "genesis_date": null,
+    "contract_address": "0x91738a0142da163c87d2f6de484de02a7173f8b6",
+    "url": "https://sendwhale.website/",
+    "explorers": [
+        "https://bscscan.com/token/0x91738A0142DA163c87d2F6de484De02A7173f8B6"
+    ],
+    "telegram": "sendwhale"
+}

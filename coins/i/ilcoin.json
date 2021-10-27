@@ -1,0 +1,24 @@
+{
+    "id": "ilcoin",
+    "symbol": "ilc",
+    "name": "ILCOIN",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "The ILCoin blockchain is a revolutionary on-chain data storage system; developed not only to provide a strong foundation for the ILCoin cryptocurrency, but also to open up a wide range of possibilities for exceptionally safe yet transparent data storage, establishment of various smart contract systems and the launch of innovative decentralized applications running on our blockchain systems.\r\nWhat started as an alternative to Bitcoin (BTC), today, has built its own unique blockchain network. Our blockchain network is a revolutionary Decentralized Cloud Blockchain System where on-chain data storage is secured and managed by a quantum resistant SHA-256 Command Chain Protocol (C2P). The ILCoin Blockchain System has not only effectively future-proofed itself against impending threats of quantum computing, but also is proven to be immune to malicious, third-party 51% attacks."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "url": "https://ilcoincrypto.com/",
+    "explorers": [
+        "https://ilcoinexplorer.com/"
+    ],
+    "twitter": "ilcoin_b_p",
+    "facebook": "ILCoinBlockchainProject",
+    "telegram": "ILCoinDevelopmentTeam",
+    "reddit": "https://www.reddit.com",
+    "github_org": "ILCOINDevelopmentTeam"
+}

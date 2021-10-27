@@ -1,0 +1,23 @@
+{
+    "id": "swirge-finance",
+    "symbol": "swfi",
+    "name": "Swirge Finance",
+    "platforms": {
+        "binance-smart-chain": "0xdb4f6f4da42ccb25b7a462942d81d229ea3ca9ce"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SWFI is the token that powers the SwirgeFinance ecosystem.\r\nThere is no pre-mine, team allocation, development allocation, Initial Coin Offering, or an IDO of any kind. \r\nThe Swirge Finance Token will be used for governance on the Swirge Finance Platform and the Swirge ecosystem in general. There will be a weekly or monthly burn program of the Swirge Finance Token to aid in the control of the token emission process and also create scarcity. This burning process will be done automatically with the aid of smart contracts, which take into account a percentage of fees generated from Swirge Finance and excess minting and burn them. \r\nSwirge Finance token will aid in growing the number of Staking pools on Swirge Finance and the number of Pools to Optimize."
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "contract_address": "0xdb4f6f4da42ccb25b7a462942d81d229ea3ca9ce",
+    "url": "https://finance.swirge.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xdb4f6f4da42ccb25b7a462942d81d229ea3ca9ce"
+    ],
+    "twitter": "swirgenetwork",
+    "telegram": "swirgepay",
+    "github_org": "Swirge"
+}

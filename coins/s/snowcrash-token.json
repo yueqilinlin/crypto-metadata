@@ -1,0 +1,23 @@
+{
+    "id": "snowcrash-token",
+    "symbol": "nora",
+    "name": "SnowCrash Token",
+    "platforms": {
+        "binance-smart-chain": "0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SnowCrash DAO is a native virtual company in SnowCrash Space. SnowCrash Space is a massive, collaborative, multiplayer open-world game."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0",
+    "url": "https://snowcrash.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0"
+    ],
+    "twitter": "SnowCrashDAO",
+    "telegram": "SnowCrashDAO",
+    "github_org": "SnowCrashDAO"
+}

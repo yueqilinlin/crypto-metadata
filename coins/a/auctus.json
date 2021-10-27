@@ -1,0 +1,33 @@
+{
+    "id": "auctus",
+    "symbol": "auc",
+    "name": "Auctus",
+    "platforms": {
+        "ethereum": "0xc12d099be31567add4e4e4d0d45691c3f58f5663",
+        "binance-smart-chain": "0x3028b4395f98777123c7da327010c40f3c7cc4ef",
+        "arbitrum-one": "0xea986d33ef8a20a96120ecc44dbdd49830192043"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Business Services",
+        "Options",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Auctus is a decentralized options protocol. Users can mint call and put options for different markets at different strike prices, and trade options in a trustless and decentralized manner without having to rely on any third party.\r\n\r\nEach option series is integrated through an ACOToken contract, which is ERC20-compliant, making options transferable, fungible, and ready for further DeFi integrations.\r\n\r\nTo ensure top-notch security, Auctus protocol smart contracts were audited by Open Zeppelin and have undergone rigorous internal testing. \r\n\r\nAuctus currently offers an options DEX, options AMM, OTC options, and automated options vault strategies."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0xc12d099be31567add4e4e4d0d45691c3f58f5663",
+    "url": "https://auctus.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xc12d099be31567add4e4e4d0D45691C3F58f5663",
+        "https://ethplorer.io/address/0xc12d099be31567add4e4e4d0D45691C3F58f5663"
+    ],
+    "twitter": "AuctusOptions",
+    "facebook": "AuctusProject",
+    "telegram": "auctusoptions",
+    "reddit": "AuctusProject/",
+    "github_org": "AuctusProject"
+}

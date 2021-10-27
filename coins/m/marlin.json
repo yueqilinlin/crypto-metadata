@@ -1,0 +1,28 @@
+{
+    "id": "marlin",
+    "symbol": "pond",
+    "name": "Marlin",
+    "platforms": {
+        "ethereum": "0x57b946008913b82e4df85f501cbaed910e58d26c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "High-performance network infrastructure for modern decentralized networks\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x57b946008913b82e4df85f501cbaed910e58d26c",
+    "url": "https://www.marlin.pro/",
+    "explorers": [
+        "https://etherscan.io/token/0x57b946008913b82e4df85f501cbaed910e58d26c",
+        "https://ethplorer.io/address/0x57b946008913b82e4df85f501cbaed910e58d26c"
+    ],
+    "twitter": "marlinprotocol",
+    "facebook": "marlinprotocol",
+    "telegram": "marlinprotocol",
+    "reddit": "marlinprotocol/",
+    "github_org": "marlinprotocol"
+}

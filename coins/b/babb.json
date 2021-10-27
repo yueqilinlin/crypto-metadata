@@ -1,0 +1,27 @@
+{
+    "id": "babb",
+    "symbol": "bax",
+    "name": "BABB",
+    "platforms": {
+        "ethereum": "0x9a0242b7a33dacbe40edb927834f96eb39f8fbcb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "BABB is the World Bank for the microeconomy; a decentralised banking platform that leverages blockchain, AI, and biometrics technologies to offer anyone in the world access to a UK bank account for peer-to-peer financial services. There are 2 billion people in the world without a bank account, and it\u2019s not viable for the traditional banking system to serve them. BABB is a new approach using new technology to crowdsource financial services and completely remove the need for banks as we know them."
+    },
+    "country_origin": "GB",
+    "genesis_date": "2018-02-05",
+    "contract_address": "0x9a0242b7a33dacbe40edb927834f96eb39f8fbcb",
+    "url": "https://getbabb.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x9a0242b7a33dacbe40edb927834f96eb39f8fbcb",
+        "https://ethplorer.io/address/0x9a0242b7a33dacbe40edb927834f96eb39f8fbcb"
+    ],
+    "twitter": "getbabb",
+    "facebook": "getbabb",
+    "telegram": "babb_official",
+    "reddit": "getBABB/"
+}

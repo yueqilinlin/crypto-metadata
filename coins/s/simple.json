@@ -1,0 +1,24 @@
+{
+    "id": "simple",
+    "symbol": "simple",
+    "name": "SIMPLE",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "SimpleChain: Simple to use blockchain, chain up the world, is digital reform of the blockchain infrastructure . SimpleChain does not exist pre-digging, no private equity, pure PoW main-chain; \r\n\r\nSimpleChain is the public blockchain that has the design concept of one main-chain with multiple sub-chain, applying PoW which is the only distributed consensus mechanism practiced through time and scale combining open consensus algorithm and publicly available consensus algorithm to guarantee the security of ledger as well as persistent excitation. By designing   the   multi-layer   distributed   value   network,   SimpleChain   can   support   the\r\ndeployment and extension of public blockchain in multiple business scenarios.Sub-chain can choose  their  own  consensus  algorithm  which  is  suitable  for  their  scenarios  according  to business requirement, and the two-way anchoring between the cross-chain node and the main chain  further  forms  the  cross-chain  transactions  with  other  sub-chain.  It  can  satisfy  the\r\nperformance of thousands of TPS, and obtain the eventual consistency provided by the main chain at the same time.\r\n\r\nSimpleChain:\r\nA: Silicon chip technology as the carrier, PoW+ASIC \u2014 provide stable and reliable link\r\nB: EPoW+Data privacy security\r\nC\uff1aTurn complex into simple, connect everthing with no boundary\r\nD\uff1aHigh TPS+ unlimited parallel + low consumption\r\nE: Deployment of Defi project and ecological community building\r\nF:.Distributed finance +NFT, open eco-community\r\n\r\nIn order to form an open, transparent and consistent distributed community, an inclusive policy is proposed  and  embedded  in  the  genesis  block  as  a  part  of  the  SimpleChain  running  mechanism.  The creator   and   initial   operator   of   the   SimpleChain   is   the   SimpleChain   Foundation   \u2013   a   non-profit organisation  whose  mission  is  to  promoting  and  supervising  the  growth  of  the  SimpleChain  open source   community.   The   foundation   has   neither   pre-distributed   nor   pre-mined   SIPC   at   the   very beginning of the SimpleChain. Every block along with the incentive reward need to be mined through the  contribution  of  computing  power,  and  only  a  5  percent  of  the  computing  power  rewards  will  be donated to the predetermined foundation address in the first year. Annually, that donation percentage will be halved, so that the community become fully distributed gradually. The SimpleChain is a cornerstone for compatible and practical distributed digital economy"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "url": "https://www.simplechain.com/",
+    "explorers": [
+        "https://explorer.simplechain.com/"
+    ],
+    "twitter": "SimpleChain",
+    "facebook": "SimpleChainOfficial",
+    "telegram": "SimpleChainEN",
+    "reddit": "SimpleChain/",
+    "github_org": "simplechain-org"
+}

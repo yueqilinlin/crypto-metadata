@@ -1,0 +1,29 @@
+{
+    "id": "mimatic",
+    "symbol": "mimatic",
+    "name": "MAI",
+    "platforms": {
+        "polygon-pos": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+        "solana": "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
+        "avalanche": "0x3b55e45fd6bd7d4724f5c47e0d1bcaedd059263e",
+        "fantom": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
+        "moonriver": "0x7f5a79576620c046a293f54ffcdbd8f2468174f1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "miMatic is an algorithmic stablecoin that is collateralized with Matic tokens"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+    "url": "http://mai.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1"
+    ],
+    "twitter": "0xLaoZi",
+    "github_org": "0xlaozi"
+}

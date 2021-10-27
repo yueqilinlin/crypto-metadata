@@ -1,0 +1,24 @@
+{
+    "id": "lazymint",
+    "symbol": "lazy",
+    "name": "LazyMint",
+    "platforms": {
+        "binance-smart-chain": "0xf4308ae29c84238f3386c01d3cf6266ac6939ade"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The new type of Yield Farm with Automatic Liquidity Acquisition integrated with Delegated Farming on Binance Smart Chain"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xf4308ae29c84238f3386c01d3cf6266ac6939ade",
+    "url": "https://lazymint.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xf4308ae29c84238f3386c01d3cf6266ac6939ade"
+    ],
+    "twitter": "LazyMintFi",
+    "telegram": "LazyMintChat",
+    "reddit": "LazyMintOfficial/",
+    "github_org": "LazyMint"
+}

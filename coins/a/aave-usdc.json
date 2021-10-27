@@ -1,0 +1,26 @@
+{
+    "id": "aave-usdc",
+    "symbol": "ausdc",
+    "name": "Aave USDC",
+    "platforms": {
+        "ethereum": "0xbcca60bb61934080951369a648fb03df4f96263c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Aave USDC is an interest bearing token minted upon deposit and burned when redeemed. The aUSDC is pegged 1:1 to the value of the underlying USDC that is deposited in Aave protocol. aUSDC, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aUSDC accrue interest in real time, directly in your wallet !"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbcca60bb61934080951369a648fb03df4f96263c",
+    "url": "https://aave.com/atokens",
+    "explorers": [
+        "https://etherscan.io/token/0xBcca60bB61934080951369a648Fb03DF4F96263C",
+        "https://ethplorer.io/address/0xBcca60bB61934080951369a648Fb03DF4F96263C"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome"
+}

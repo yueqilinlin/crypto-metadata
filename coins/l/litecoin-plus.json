@@ -1,0 +1,20 @@
+{
+    "id": "litecoin-plus",
+    "symbol": "lcp",
+    "name": "Litecoin Plus",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Litecoin Plus ( LCP ) is a decentralized and open-source cryptocurrency that offers both private and transparent transaction types."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-05-11",
+    "url": "http://lcp.altcoinwarz.com:3004/",
+    "explorers": [
+        "http://lcp.altcoinwarz.com:3004/"
+    ],
+    "twitter": "Media_LCP",
+    "reddit": "litecoinplus",
+    "github_org": "Crypto-Currency"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "startup-boost-token",
+    "symbol": "subx",
+    "name": "Startup Boost Token",
+    "platforms": {
+        "binance-smart-chain": "0x5232152c8207653aeda5baa0ff7fb1046c23c753"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Startup Boost Token aims to create an ecosystem of web and mobile applications to support every stage of the startup journey \u2013 from education to scaling. The SUBX ecosystem will be committed to providing startups with the best chance of progressing in their journey with SUBX being the main form of currency within the ecosystem, as well as a governance token for the community to have a vote in running the ecosystem. This ecosystem will host apps built to support startups 5 stages - Education, Product Development, Feedback Cycle, Sales and Growth, and Scaling. The token is built on the Binance Smart Chain, and listed on a Decentralised Exchange - PancakeSwap\r\n\r\nThe ecosystem of apps are as follows:\r\n* Marketplace App - Multi-Vendor e-commerce store for startup partners to list products for sale\r\n* Community App - Forum application for users of SUBX ecosystem to discuss topics, network and connect.\r\n* Learning App - Learning Management System for startups to gain easy access to quality education.\r\n* Career App - For startups to find great talents and for talents to join impactful startups.\r\n\r\nStartup Boost Token was launched on May 13, 2021, with 100,000,000 SUBX tokens created at genesis. 3% of transactions will be redistributed to all SUBX holders as reflection rewards, 1% will be channelled into the Venture Capital fund, and 4% will be absorbed into the liquidity pool to create a solid price floor. \r\n\r\nStartup Boost Token is the brainchild of developers Adam Ihsan and Joe Kawai. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x5232152c8207653aeda5baa0ff7fb1046c23c753",
+    "url": "https://subx.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x5232152c8207653aeda5baa0ff7fb1046c23c753"
+    ],
+    "twitter": "officialsubx",
+    "facebook": "subxofficial",
+    "telegram": "subxofficial",
+    "reddit": "subxofficial/"
+}

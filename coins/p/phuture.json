@@ -1,0 +1,24 @@
+{
+    "id": "phuture",
+    "symbol": "phtr",
+    "name": "Phuture",
+    "platforms": {
+        "ethereum": "0xe1fc4455f62a6e89476f1072530c20cf1a0622da"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Phuture\u2019s aggregated design achieves scalability by allowing a single swap to rebalance multiple indices simultaneously. The protocol\u2019s smart rebalancing engine calculates the optimal assets to rebalance and dynamically defines acceptable weight ranges to rebalance in. The cumulative result of this architecture is a platform that can support 100s of indices, whilst minimising the value leaked through rebalancing swaps."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe1fc4455f62a6e89476f1072530c20cf1a0622da",
+    "url": "https://www.phuture.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xe1fc4455f62a6e89476f1072530c20cf1a0622da",
+        "https://ethplorer.io/address/0xe1fc4455f62a6e89476f1072530c20cf1a0622da"
+    ],
+    "twitter": "phuturedao",
+    "telegram": "phuture_group",
+    "github_org": "Phuturedao"
+}

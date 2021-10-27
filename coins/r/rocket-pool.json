@@ -1,0 +1,28 @@
+{
+    "id": "rocket-pool",
+    "symbol": "rpl",
+    "name": "Rocket Pool",
+    "platforms": {
+        "ethereum": "0xb4efd85c19999d84251304bda99e90b92300bd93"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services",
+        "Infrastructure",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Rocket Pool is a next generation decentralised staking network and pool for Ethereum 2.0\r\n\r\nRocket Pool is a self-regulating network of node operators; it automatically adjusts its capacity to match demand. The Rocket Pool protocol token is used to maintain an optimal capacity by:\r\nIncreasing capacity when needed, by incentivising node operators to join.\r\nDecreasing capacity when not needed, by disincentivising node operators from joining.\r\n\r\nIn addition to depositing ETH, a node operator is required to deposit a set amount of RPL per ether they are depositing. This RPL:ether ratio is dynamic and is dependent on the network utilisation. E.g:\r\nIf the network has plenty of capacity, then node operators need more RPL to make deposits. It gets progressively more expensive in terms of RPL to make node deposits when the network does not have enough ETH from regular stakers to be matched up with node operators. This helps prevent several attack vectors outlined in the whitepaper and keeps assignment of ether \u2018chunks\u2019 to nodes quick.\r\nIf the network is reaching capacity, then node operators need less RPL to join as the network needs more node deposits to be matched up with regular users deposits. If the network is maxed out and needs node operators to join quickly, it even drops to 0 for the first one to make a deposit."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb4efd85c19999d84251304bda99e90b92300bd93",
+    "url": "https://www.rocketpool.net",
+    "explorers": [
+        "https://etherscan.io/token/0xb4efd85c19999d84251304bda99e90b92300bd93",
+        "https://ethplorer.io/address/0xb4efd85c19999d84251304bda99e90b92300bd93"
+    ],
+    "twitter": "Rocket_Pool",
+    "reddit": "rocketpool",
+    "github_org": "rocket-pool"
+}

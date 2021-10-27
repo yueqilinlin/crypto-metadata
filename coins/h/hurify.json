@@ -1,0 +1,25 @@
+{
+    "id": "hurify",
+    "symbol": "hur",
+    "name": "Hurify",
+    "platforms": {
+        "ethereum": "0xcdb7ecfd3403eef3882c65b761ef9b5054890a47"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hurify Inc. founded by Ex-Intel veterans, is an Ethereum based decentralized platform that facilitates IoT Developers to monetize their IoT hardware resources and services via Smart Contracts. Hurify is powered by Ethereum ERC20 standard HUR Tokens. This is Hurify Beta, MVP of the platform that can be used for testing and available for product demo on the Ethereum test network.\r\n"
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xcdb7ecfd3403eef3882c65b761ef9b5054890a47",
+    "url": "https://hurify.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xcdb7ecfd3403eef3882c65b761ef9b5054890a47",
+        "https://ethplorer.io/address/0xcdb7ecfd3403eef3882c65b761ef9b5054890a47"
+    ],
+    "twitter": "Hurify_hur",
+    "facebook": "hurify",
+    "telegram": "hurifyico",
+    "github_org": "HurifyPlatform"
+}

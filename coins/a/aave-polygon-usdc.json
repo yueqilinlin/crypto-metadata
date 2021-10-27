@@ -1,0 +1,23 @@
+{
+    "id": "aave-polygon-usdc",
+    "symbol": "amusdc",
+    "name": "Aave Polygon USDC",
+    "platforms": {
+        "polygon-pos": "0x1a13f4ca1d028320a707d99520abfefca3998b7f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1a13f4ca1d028320a707d99520abfefca3998b7f",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0x1a13F4Ca1d028320A707D99520AbFefca3998b7F"
+    ],
+    "twitter": "aaveaave"
+}

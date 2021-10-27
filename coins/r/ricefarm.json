@@ -1,0 +1,23 @@
+{
+    "id": "ricefarm",
+    "symbol": "rice",
+    "name": "RiceFarm",
+    "platforms": {
+        "binance-smart-chain": "0xc4eeff5aab678c3ff32362d80946a3f5de4a1861"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rice Farm is an hyperdeflationary Decentralized Exchange and Farm token. It has pools, farms and vaults and will continue to build out its infrastructure in order to bridge over to Ethereum, Matic and Solana. Rice main goal is to be the DEX on the Fuzion Super Blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc4eeff5aab678c3ff32362d80946a3f5de4a1861",
+    "url": "https://ricefarm.fi",
+    "explorers": [
+        "https://bscscan.com/token/0xc4eeff5aab678c3ff32362d80946a3f5de4a1861"
+    ],
+    "facebook": "superblockchain",
+    "telegram": "fuzionchain",
+    "github_org": "rice-farm"
+}

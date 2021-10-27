@@ -1,0 +1,26 @@
+{
+    "id": "smartcash",
+    "symbol": "smart",
+    "name": "SmartCash",
+    "platforms": {},
+    "hashing_algorithm": "Keccak",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "SmartCash is an easy to use, fast, and secure cryptocurrency that supports everyday use such as business payments. SmartCash has a unique decentralized governance system and technologies such as SmartNodes, InstantPay locked transactions in about a second, send by SMS and email, a project treasury with private key voting, SmartMining security, SmartCard, and it's Point of Sale app called SmartPay.\r\n\r\nSmartCash is pushing the limits of blockchain technology with tools that support entrepreneurship and innovation. Intended for use worldwide, SmartCash is available at ATMs, cryptocurrency shops in Canada and Europe, local exchanges and is especially popular in South America. In Brazil, 85% of retailers accept SmartCash with the SmartBand and is available at an additional 13,000 Caixa locations soon."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-07-11",
+    "url": "https://smartcash.cc/",
+    "explorers": [
+        "http://explorer.smartcash.cc/",
+        "https://insight.smartcash.cc/",
+        "https://smart.tokenview.com/"
+    ],
+    "twitter": "scashofficial",
+    "facebook": "scashofficial",
+    "telegram": "SmartCashChat",
+    "reddit": "smartcash",
+    "github_org": "SmartCash"
+}

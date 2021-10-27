@@ -1,0 +1,24 @@
+{
+    "id": "ot-aave-interest-bearing-usdc",
+    "symbol": "ot-ausdc-29dec2022",
+    "name": "OT Aave Interest Bearing USDC",
+    "platforms": {
+        "ethereum": "0x8fcb1783bf4b71a51f702af0c266729c4592204a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x8fcb1783bf4b71a51f702af0c266729c4592204a",
+    "url": "https://pendle.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x8fcb1783bf4b71a51f702af0c266729c4592204a",
+        "https://ethplorer.io/address/0x8fcb1783bf4b71a51f702af0c266729c4592204a"
+    ],
+    "twitter": "pendle_fi",
+    "telegram": "pendlefinance",
+    "github_org": "pendle-finance"
+}

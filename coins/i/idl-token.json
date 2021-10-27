@@ -1,0 +1,24 @@
+{
+    "id": "idl-token",
+    "symbol": "idl",
+    "name": "IDL Token",
+    "platforms": {
+        "ethereum": "0x6febd6be8fa45be6a5eeb61a17c82d33b9addd41"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeFi protocol that users get governance token IDL by staking Uniswap LP tokens"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x6febd6be8fa45be6a5eeb61a17c82d33b9addd41",
+    "url": "https://idlswap.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x6febd6be8fa45be6a5eeb61a17c82d33b9addd41",
+        "https://ethplorer.io/address/0x6febd6be8fa45be6a5eeb61a17c82d33b9addd41"
+    ],
+    "twitter": "idlswap",
+    "telegram": "IDLSwapEnglish",
+    "github_org": "IDLSwap"
+}

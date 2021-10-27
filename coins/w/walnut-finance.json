@@ -1,0 +1,24 @@
+{
+    "id": "walnut-finance",
+    "symbol": "wtf",
+    "name": "Walnut.finance",
+    "platforms": {
+        "ethereum": "0x0501e7a02c285b9b520fdbf1badc74ae931ad75d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0501e7a02c285b9b520fdbf1badc74ae931ad75d",
+    "url": "https://walnut.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x0501e7a02c285b9b520fdbf1badc74ae931ad75d",
+        "https://ethplorer.io/address/0x0501e7a02c285b9b520fdbf1badc74ae931ad75d"
+    ],
+    "telegram": "Walnut_Finance"
+}

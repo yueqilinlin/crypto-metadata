@@ -1,0 +1,26 @@
+{
+    "id": "cool-cats",
+    "symbol": "cool20",
+    "name": "Cool Cats",
+    "platforms": {
+        "ethereum": "0x2dab4ce3490bb50b2ea4c07ab1b6a9cfe29d89b3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "COOL20 is a tokenized derivative of the Cool Cats NFT Collection. It enables anyone to trade NFTs from the collection in a permissionless way with instant liquidity on https://nft20.io/ routed via UniSwap. Every 100 COOL20 tokens represent an underlying  NFT, minted upon deposit into the pool on https://nft20.io/ and burned upon withdrawal from the pool."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2dab4ce3490bb50b2ea4c07ab1b6a9cfe29d89b3",
+    "url": "https://nft20.io/asset/0x2dab4ce3490bb50b2ea4c07ab1b6a9cfe29d89b3",
+    "explorers": [
+        "https://etherscan.io/token/0x2dab4ce3490bb50b2ea4c07ab1b6a9cfe29d89b3",
+        "https://ethplorer.io/address/0x2dab4ce3490bb50b2ea4c07ab1b6a9cfe29d89b3"
+    ],
+    "twitter": "NiftyMuseum",
+    "telegram": "nft20",
+    "github_org": "verynifty"
+}

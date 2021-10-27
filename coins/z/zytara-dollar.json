@@ -1,0 +1,24 @@
+{
+    "id": "zytara-dollar",
+    "symbol": "zusd",
+    "name": "Zytara Dollar",
+    "platforms": {
+        "ethereum": "0xbf0f3ccb8fa385a287106fba22e6bb722f94d686"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ZUSD (Zytara USD) is digital money that you can send and receive like email. ZUSD is issued by a regulated financial institution and redeemable on a 1:1 basis for US dollars.\r\n\r\nIt\u2019s a programmable dollar that moves at the speed of the Internet to and from anywhere in the world, designed for the future of finance, esports and gaming, along with countless other applications."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbf0f3ccb8fa385a287106fba22e6bb722f94d686",
+    "url": "https://zytara.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xbf0f3ccb8fa385a287106fba22e6bb722f94d686",
+        "https://ethplorer.io/address/0xbf0f3ccb8fa385a287106fba22e6bb722f94d686"
+    ],
+    "twitter": "zytarahq",
+    "facebook": "zytara",
+    "github_org": "stablyio"
+}

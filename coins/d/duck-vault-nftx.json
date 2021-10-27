@@ -1,0 +1,25 @@
+{
+    "id": "duck-vault-nftx",
+    "symbol": "duck",
+    "name": "DUCK Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xffe136de12a2cd95f64cef9f36414c93e9003959"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "DUCK Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xffe136de12a2cd95f64cef9f36414c93e9003959",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xFFE136de12a2cd95f64ceF9F36414c93e9003959",
+        "https://ethplorer.io/address/0xffe136de12a2cd95f64cef9f36414c93e9003959"
+    ],
+    "twitter": "NFTX_"
+}

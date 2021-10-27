@@ -1,0 +1,23 @@
+{
+    "id": "nocapcoin",
+    "symbol": "ncc",
+    "name": "NoCapCoin",
+    "platforms": {
+        "binance-smart-chain": "0x93dfc1e09b7164bafd4860963b6d94cbc4284774"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A deflationary, community-oriented coin that provides rewards for holders through redistribution of coins, while simultaneously impacting the lives of the needy via community-selected charities, with no cap whatsoever."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x93dfc1e09b7164bafd4860963b6d94cbc4284774",
+    "url": "https://www.nocapcoin.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x93dfc1e09b7164bafd4860963b6d94cbc4284774"
+    ],
+    "twitter": "NoCapBSC",
+    "telegram": "nocapcoin",
+    "reddit": "NoCapCoin/"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "sapphire-defi",
+    "symbol": "sapphire",
+    "name": "Sapphire DeFi",
+    "platforms": {
+        "fantom": "0xfa7d8c3cccc90c07c53fee45a7a333cec40b441b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A multichain DeFi ecosystem"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfa7d8c3cccc90c07c53fee45a7a333cec40b441b",
+    "url": "https://sapphiredefi.com/",
+    "explorers": [
+        "https://ftmscan.com/token/0xfa7d8c3CccC90c07c53feE45A7a333CEC40B441B"
+    ],
+    "twitter": "DefiSapphire",
+    "telegram": "DefiSapphire",
+    "github_org": "secretemate"
+}

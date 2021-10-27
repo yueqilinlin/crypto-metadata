@@ -1,0 +1,23 @@
+{
+    "id": "crypto-sports",
+    "symbol": "cspn",
+    "name": "Crypto Sports",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Sports"
+    ],
+    "description": {
+        "en": "Crypto Sports builds the bridge between the eSports and Crypto world, offering gamers and developers innovative ways to connect and provide opportunities for every gamer, casual or professional, to earn money doing what they love most thanks to the Crypto Sports Network and the crypto currency, CSPN."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.cspn.io/",
+    "explorers": [
+        "http://chain.cspn.io/",
+        "https://chain2.cspn.io/"
+    ],
+    "twitter": "CryptoSportsIO",
+    "facebook": "CryptoSportsIO",
+    "github_org": "c-sports"
+}

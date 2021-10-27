@@ -1,0 +1,26 @@
+{
+    "id": "reflect-finance",
+    "symbol": "rfi",
+    "name": "reflect.finance",
+    "platforms": {
+        "ethereum": "0xa1afffe3f4d611d252010e3eaf6f4d77088b0cd7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "RFI works by applying a 1% fee to each transaction and instantly splitting that fee among all holders of the token.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa1afffe3f4d611d252010e3eaf6f4d77088b0cd7",
+    "url": "https://reflect.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xa1afffe3f4d611d252010e3eaf6f4d77088b0cd7",
+        "https://ethplorer.io/address/0xa1afffe3f4d611d252010e3eaf6f4d77088b0cd7"
+    ],
+    "twitter": "ReflectFndtn",
+    "telegram": "reflect_finance",
+    "github_org": "reflectfinance"
+}

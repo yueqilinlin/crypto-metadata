@@ -1,0 +1,25 @@
+{
+    "id": "drax",
+    "symbol": "drax",
+    "name": "Drax",
+    "platforms": {
+        "polygon-pos": "0x1ba3510a9ceeb72e5cdba8bcdde9647e1f20fb4b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "The purpose of Drax is as a Liquidity Pool wrapper for the Dark Magic token ecosystem. The concept is to give it significantly more flexibility in future use-cases, as well as possible exchange listings/ease of providing liquidity. \r\nPotential secondary use cases include a secondary market for LP\u2019s outside, aggregator listings, self-sustaining ecosystems onboarding, and other gamification elements as we create additional LP wrapper tokens in the ecosystem. To put in in less technical terms: It makes life easier for everyone in managing LP tokens; both for project developers to create value-add and community members. The only way to acquire Drax is to mint it by locking your Dark Magic / axMATIC LP into the Drax smart contract to mint Drax, or buy Drax on a Dex."
+    },
+    "country_origin": "BZ",
+    "genesis_date": null,
+    "contract_address": "0x1ba3510a9ceeb72e5cdba8bcdde9647e1f20fb4b",
+    "url": "https://defimagic.io",
+    "explorers": [
+        "https://polygonscan.com/token/0x1ba3510a9ceeb72e5cdba8bcdde9647e1f20fb4b"
+    ],
+    "twitter": "defi_magic",
+    "telegram": "defimagic",
+    "github_org": "DeFi-Magic"
+}

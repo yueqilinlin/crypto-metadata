@@ -1,0 +1,26 @@
+{
+    "id": "bankcoincash",
+    "symbol": "bcash",
+    "name": "BankCoin BCash",
+    "platforms": {
+        "ethereum": "0xb5bb48567bfd0bfe9e4b08ef8b7f91556cc2a112"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "First decentralized marketing platform that allows merchants and affiliates. The tokens can only be traded directly from trader to trader."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xb5bb48567bfd0bfe9e4b08ef8b7f91556cc2a112",
+    "url": "https://bankcoinbcash.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xb5bb48567bfd0bfe9e4b08ef8b7f91556cc2a112",
+        "https://ethplorer.io/address/0xb5bb48567bfd0bfe9e4b08ef8b7f91556cc2a112"
+    ],
+    "facebook": "Bankcoin-BCASH-586488321774012",
+    "telegram": "bankcoinbcash",
+    "github_org": "bcashbankcoin"
+}

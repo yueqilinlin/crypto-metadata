@@ -1,0 +1,26 @@
+{
+    "id": "sentinel",
+    "symbol": "dvpn",
+    "name": "Sentinel",
+    "platforms": {
+        "cosmos": "",
+        "osmosis": "IBC/9712DBB13B9631EDFA9BF61B55F1B2D290B2ADB67E3A4EB3A875F3B6081B3B84"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem"
+    ],
+    "description": {
+        "en": "Secure and decentralized VPN for the blockchain age.\r\n\r\nA modern VPN backed by blockchain anonymity and security. \r\nShare & monetize your unused bandwidth and earn Sentinel tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://sentinel.co",
+    "explorers": [
+        "https://www.mintscan.io/sentinel"
+    ],
+    "twitter": "Sentinel_co",
+    "telegram": "sentinel_co",
+    "reddit": "SENT",
+    "github_org": "sentinel-official"
+}

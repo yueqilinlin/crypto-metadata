@@ -1,0 +1,25 @@
+{
+    "id": "vodra",
+    "symbol": "vdr",
+    "name": "Vodra",
+    "platforms": {
+        "ethereum": "0xed3d4e446a96dc3b181b64b75c3c70da41dc3cbe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Vodra Platform allows creators to pursue their passions while being fairly compensated. This is accomplished with a decentralized donation platform that aims to shift online entertainment compensation towards a direct creator-to-audience participation model."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xed3d4e446a96dc3b181b64b75c3c70da41dc3cbe",
+    "url": "https://vodra.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xed3d4e446a96dc3b181b64b75c3c70da41dc3cbe",
+        "https://ethplorer.io/address/0xed3d4e446a96dc3b181b64b75c3c70da41dc3cbe"
+    ],
+    "twitter": "VodraToken",
+    "telegram": "vodratoken",
+    "reddit": "Vodra/",
+    "github_org": "Vodra-Token"
+}

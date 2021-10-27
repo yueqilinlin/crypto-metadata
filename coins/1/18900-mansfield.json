@@ -1,0 +1,27 @@
+{
+    "id": "18900-mansfield",
+    "symbol": "realtoken-s-18900-mansfield-st-detroit-mi",
+    "name": "RealT Token - 18900 Mansfield St, Detroit, MI 48235",
+    "platforms": {
+        "ethereum": "0x9eb90ec3faafc22092c9b91559fddde538042093",
+        "xdai": "0x9eb90ec3faafc22092c9b91559fddde538042093"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9eb90ec3faafc22092c9b91559fddde538042093",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x9Eb90Ec3FAafC22092C9b91559FdDde538042093",
+        "https://ethplorer.io/address/0x9eb90ec3faafc22092c9b91559fddde538042093"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

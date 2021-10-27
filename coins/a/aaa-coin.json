@@ -1,0 +1,21 @@
+{
+    "id": "aaa-coin",
+    "symbol": "aaa",
+    "name": "AAA COIN",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Speculative PoW / PoS altcoin with CPU mining capabilities and PoS minting at the rate of 100% per annum on staked coins. AAA COIN is a DAO and is not owned by any one individual, government, corporation; or is domiciled in any one country."
+    },
+    "country_origin": "ZZ",
+    "genesis_date": null,
+    "url": "http://www.aaacoin.us/",
+    "explorers": [
+        "https://explorer.aaacoin.us/"
+    ],
+    "twitter": "AAA_COIN_ICO",
+    "telegram": "AAAcoin"
+}

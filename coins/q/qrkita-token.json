@@ -1,0 +1,23 @@
+{
+    "id": "qrkita-token",
+    "symbol": "qrt",
+    "name": "Qrkita Token",
+    "platforms": {
+        "binance-smart-chain": "0x921d3a6ed8223afb6358410f717e2fb13cbae700"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Qrkita Is Intended To facilitate Non-Cash Transactions, Encourage Financial Inclusion, Promote MSMEs, So That In The End It Can Encourage Economic Growth.\r\nAll Merchant Can Make Transactions Using QR Not Only Wholesalers But Also Small Traders Such As Meatball Sellers, Vegetable Sellers And Others Throughout Indonesia.\r\nAnd Finally, Our Initial Token Offering / ITO Crowfunding Platform Based On Existing Project As A Bridge Between Fiat And Crypto Community All Around The World."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x921d3a6ed8223afb6358410f717e2fb13cbae700",
+    "url": "https://qrkita.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x921d3a6ed8223AFb6358410F717e2FB13cbae700"
+    ],
+    "twitter": "qrkitaexchanger",
+    "telegram": "qrkitaexhanger",
+    "github_org": "qrkita"
+}

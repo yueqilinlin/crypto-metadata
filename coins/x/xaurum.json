@@ -1,0 +1,27 @@
+{
+    "id": "xaurum",
+    "symbol": "xaur",
+    "name": "Xaurum",
+    "platforms": {
+        "ethereum": "0x4df812f6064def1e5e029f1ca858777cc98d2d81"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Xaurum is the unit of value on the golden blockchain. Xaurum Golden Blackchain represents the increasing amount of gold and can be exchanged for through melting. Xaurum is a transparent ledger of account for the distribution of gold owned by the Xaurum Commonwealth, which is maintained by Auresco Institute physically and Guardian nodes digitally. Auresco institute and Guardian nodes are both designed to distribute and increase Xaurum's value. The Xaurum can be mined cooperatively by miners on the Goldmine. Xaurum exercises cooperative control over the money supply through cooperative mining and minting that have been decentralized. This mined bvalue can be exchanged for physical gold, storesd as the CommonWealth gold reserves."
+    },
+    "country_origin": "",
+    "genesis_date": "2016-08-18",
+    "contract_address": "0x4df812f6064def1e5e029f1ca858777cc98d2d81",
+    "url": "http://www.xaurum.org/",
+    "explorers": [
+        "http://etherscan.io/token/0x4DF812F6064def1e5e029f1ca858777CC98D2D81",
+        "https://ethplorer.io/address/0x4df812f6064def1e5e029f1ca858777cc98d2d81",
+        "https://etherscan.io/token/0x4df812f6064def1e5e029f1ca858777cc98d2d81"
+    ],
+    "twitter": "xaurumofficial",
+    "facebook": "xaurumofficial",
+    "github_org": "XaurumTeam"
+}

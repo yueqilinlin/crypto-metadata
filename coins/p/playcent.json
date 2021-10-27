@@ -1,0 +1,29 @@
+{
+    "id": "playcent",
+    "symbol": "pcnt",
+    "name": "Playcent",
+    "platforms": {
+        "ethereum": "0x657b83a0336561c8f64389a6f5ade675c04b0c3b",
+        "binance-smart-chain": "0xe9b9c1c38dab5eab3b7e2ad295425e89bd8db066"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Playcent (PCNT) is a decentralized Wix platform for Dapps, games, NFTS and social tokens. We give NFT creators, gaming developers and other creators the opportunity to monetize their skills through the platform. \r\nPCNT will also host NFT auctions, E-Sports events and also provide lucrative staking opportunities. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x657b83a0336561c8f64389a6f5ade675c04b0c3b",
+    "url": "http://playcent.com",
+    "explorers": [
+        "https://etherscan.io/token/0x657B83A0336561C8f64389a6f5aDE675C04b0C3b",
+        "https://ethplorer.io/address/0x657b83a0336561c8f64389a6f5ade675c04b0c3b",
+        "https://bscscan.com/token/0xe9b9c1c38dab5eab3b7e2ad295425e89bd8db066"
+    ],
+    "twitter": "playcentglobal",
+    "telegram": "playcentglobal",
+    "github_org": "jaykishan007"
+}

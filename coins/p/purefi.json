@@ -1,0 +1,27 @@
+{
+    "id": "purefi",
+    "symbol": "ufi",
+    "name": "PureFi",
+    "platforms": {
+        "ethereum": "0xcda4e840411c00a614ad9205caec807c7458a0e3",
+        "binance-smart-chain": "0xe2a59d5e33c6540e18aaa46bf98917ac3158db0d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PureFi Protocol - the one-stop compliance protocol for DeFi\r\n\r\nPureFi (UFI) is on the mission to bridge a gap between TradFi (Traditional Finance) and DeFi (Decentralized Finance) to facilitate real mass adoption.Its a decentralized protocol that maintains users\u2019 anonymity through Zero-Proof Knowledge architecture. PureFi provides compliance tools (AML, KYC) through Verifiable Credentials & Self Sovereign Identity to protect entities and investors against dirty money risks while interacting with DeFi projects. We will enable institutional investors to participate in a growing DeFi sector through these needed sets of tools. "
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0xcda4e840411c00a614ad9205caec807c7458a0e3",
+    "url": "https://purefi.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xe2a59D5E33c6540E18aAA46BF98917aC3158Db0D",
+        "https://etherscan.io/token/0xcDa4e840411C00a614aD9205CAEC807c7458a0E3",
+        "https://ethplorer.io/address/0xcda4e840411c00a614ad9205caec807c7458a0e3"
+    ],
+    "twitter": "Purefi_Protocol",
+    "telegram": "purefiprotocol",
+    "reddit": "Purefi/",
+    "github_org": "purefiprotocol"
+}

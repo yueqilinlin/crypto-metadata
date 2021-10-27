@@ -1,0 +1,26 @@
+{
+    "id": "cryptosoul",
+    "symbol": "soul",
+    "name": "CryptoSoul",
+    "platforms": {
+        "ethereum": "0xbb1f24c0c1554b9990222f036b0aad6ee4caec29"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gaming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbb1f24c0c1554b9990222f036b0aad6ee4caec29",
+    "url": "https://cryptosoul.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xbb1f24c0c1554b9990222f036b0aad6ee4caec29",
+        "https://ethplorer.io/address/0xbb1f24c0c1554b9990222f036b0aad6ee4caec29"
+    ],
+    "twitter": "CryptoSoul_",
+    "telegram": "CryptoSoulENG",
+    "reddit": "CryptoSoul/"
+}

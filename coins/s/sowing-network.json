@@ -1,0 +1,22 @@
+{
+    "id": "sowing-network",
+    "symbol": "zseed",
+    "name": "Sowing.Network",
+    "platforms": {
+        "binance-smart-chain": "0x5cd50aae14e14b3fdf3ff13c7a40e8cf5ae8b0a5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sowing.network is a non-profit project applying blockchain technology to help develop communities in various different fields \u2026 thereby spreading value, knowledge; volunteering, helping society become stronger and more sustainable"
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0x5cd50aae14e14b3fdf3ff13c7a40e8cf5ae8b0a5",
+    "url": "https://sowing.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x5cd50aae14e14b3fdf3ff13c7a40e8cf5ae8b0a5"
+    ],
+    "twitter": "sowingnetwork",
+    "telegram": "sowingnetwork"
+}

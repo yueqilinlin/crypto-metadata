@@ -1,0 +1,24 @@
+{
+    "id": "digital-money-bits",
+    "symbol": "dmb",
+    "name": "Digital Money Bits",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Manufacturing"
+    ],
+    "description": {
+        "en": "Digital Money Bits (DMB) is a Free Open Source Project derived from Bitcoin, with the goal of providing a long-term, energy efficient, user friendly cryptocurrency"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://www.digitalmoneybits.org/",
+    "explorers": [
+        "http://digitalmoneybits.io/",
+        "http://194.182.75.151/",
+        "https://chainz.cryptoid.info/dmb/"
+    ],
+    "twitter": "dmb2official",
+    "telegram": "digitalmoneybitsofficial",
+    "github_org": "DMBcryptocurrency"
+}

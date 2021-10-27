@@ -1,0 +1,26 @@
+{
+    "id": "find-your-developer",
+    "symbol": "fyd",
+    "name": "FYDcoin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [
+        "Cryptocurrency",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Find A Trusted & Experienced Developer on A Decentralized Blockchain Platform"
+    },
+    "country_origin": "CA",
+    "genesis_date": "2019-03-25",
+    "url": "https://fydcoin.com/",
+    "explorers": [
+        "http://explorer.fydcoin.com/",
+        "http://149.28.168.37:3001/",
+        "https://explorerv2.fydcoin.com"
+    ],
+    "twitter": "Fydcoin",
+    "facebook": "FYDcoin",
+    "telegram": "FYD_COIN",
+    "github_org": "Fydcoin"
+}

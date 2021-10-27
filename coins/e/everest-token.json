@@ -1,0 +1,25 @@
+{
+    "id": "everest-token",
+    "symbol": "evrt",
+    "name": "Everest Token",
+    "platforms": {
+        "avalanche": "0x3aca5545e76746a3fe13ea66b24bc0ebcc51e6b4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem"
+    ],
+    "description": {
+        "en": "Everest DAO is an innovation-driven project focused on tackling new and exciting products that range from DeFi, DAOs, NFTs, and more."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3aca5545e76746a3fe13ea66b24bc0ebcc51e6b4",
+    "url": "https://evrt.app",
+    "explorers": [
+        "https://avascan.info/blockchain/c/token/0x3ACa5545e76746A3Fe13eA66B24BC0eBcC51E6b4"
+    ],
+    "twitter": "EverestDAO",
+    "telegram": "EverestDAO",
+    "github_org": "Everest-Labs"
+}

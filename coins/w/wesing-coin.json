@@ -1,0 +1,21 @@
+{
+    "id": "wesing-coin",
+    "symbol": "wsc",
+    "name": "WeSing Coin",
+    "platforms": {
+        "ethereum": "0x2dcd9b1a7ed408ff48bd4918a1f9c0535dc54ead"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Named by combining two words \u201cWe\u201d and \u201cSing\u201d, WeSing is a global \"Live Networking Music Platform\" that will provide a live community with services where users can connect, sing a song and have fun together. Participants can connect simultaneously by smartphones, PSs, Karaoke facilities augmented with online connected Set-Top Boxes on a real time basis. \r\n\r\nUsers of the platform may broadcast not only from one place, but together from geographically different places, simultaneously."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2dcd9b1a7ed408ff48bd4918a1f9c0535dc54ead",
+    "url": "http://wesingcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x2dcd9b1a7ed408ff48bd4918a1f9c0535dc54ead",
+        "https://ethplorer.io/address/0x2dcd9b1a7ed408ff48bd4918a1f9c0535dc54ead"
+    ]
+}

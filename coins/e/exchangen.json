@@ -1,0 +1,24 @@
+{
+    "id": "exchangen",
+    "symbol": "exn",
+    "name": "ExchangeN",
+    "platforms": {
+        "ethereum": "0x0766e79a6fd74469733e8330b3b461c0320ff059"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "ExchangeN.com is new altcoin cryptocurrency exchange which is fast, secure and support all devices."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-09-22",
+    "contract_address": "0x0766e79a6fd74469733e8330b3b461c0320ff059",
+    "url": "http://www.exchangen.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x0766e79a6fd74469733e8330b3b461c0320ff059",
+        "https://ethplorer.io/address/0x0766e79a6fd74469733e8330b3b461c0320ff059"
+    ],
+    "twitter": "ExchangeN_com"
+}

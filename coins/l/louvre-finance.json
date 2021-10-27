@@ -1,0 +1,24 @@
+{
+    "id": "louvre-finance",
+    "symbol": "louvre",
+    "name": "Louvre Finance",
+    "platforms": {
+        "binance-smart-chain": "0x24905b248dceeb17b221a48efa0d0388b3b38fe4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Louvre Finance is the first deflationary DeFi token to disrupt the NFT industry. We'll build a full NFT ecosystem with a marketplace and an exchange exclusive for NFT related projects. The $LOUVRE token will be the currency to be used in our closed ecosystem and will also receive rewards for supporting the platform - for example, ecosystem related airdrops and, in the future, fees from the use of the platform."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x24905b248dceeb17b221a48efa0d0388b3b38fe4",
+    "url": "https://louvrefinance.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x24905b248dceeb17b221a48efa0d0388b3b38fe4"
+    ],
+    "twitter": "louvrefinance",
+    "telegram": "louvre_finance",
+    "reddit": "louvrefinance/",
+    "github_org": "louvrefinance"
+}

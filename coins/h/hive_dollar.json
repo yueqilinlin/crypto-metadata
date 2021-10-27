@@ -1,0 +1,22 @@
+{
+    "id": "hive_dollar",
+    "symbol": "HBD",
+    "name": "Hive Dollar",
+    "platforms": {},
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://hive.io/",
+    "explorers": [
+        "https://hiveblocks.com/",
+        "https://hiveblockexplorer.com/"
+    ],
+    "twitter": "hiveblocks",
+    "telegram": "hivenetwork",
+    "reddit": "hiveblocks",
+    "github_org": "openhive-network"
+}

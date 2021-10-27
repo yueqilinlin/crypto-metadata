@@ -1,0 +1,33 @@
+{
+    "id": "revv",
+    "symbol": "revv",
+    "name": "REVV",
+    "platforms": {
+        "ethereum": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca",
+        "binance-smart-chain": "0x833f307ac507d47309fd8cdd1f835bef8d702a93",
+        "polygon-pos": "0x70c006878a5a50ed185ac4c87d837633923de296"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Play To Earn",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "REVV is the main utility token and in-game currency of the branded motorsports games produced by Animoca Brands, including F1\u00ae Delta Time, and an upcoming title based on the MotoGP\u2122 intellectual property. With a third title being announced in the coming months.  \r\n\r\nREVV is being leveraged as a cross-title utility, and the driving force behind the ecosystem's Play-to-Earn model."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca",
+    "url": "https://www.revvmotorsport.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x557b933a7c2c45672b610f8954a3deb39a51a8ca",
+        "https://ethplorer.io/address/0x557b933a7c2c45672b610f8954a3deb39a51a8ca",
+        "https://bscscan.com/token/0x833f307ac507d47309fd8cdd1f835bef8d702a93",
+        "https://polygonscan.com/token/0x70c006878a5a50ed185ac4c87d837633923de296"
+    ],
+    "twitter": "REVV_Token",
+    "telegram": "REVVCommunity",
+    "github_org": "animocabrands"
+}

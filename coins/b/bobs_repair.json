@@ -1,0 +1,25 @@
+{
+    "id": "bobs_repair",
+    "symbol": "bob",
+    "name": "Bob's Repair",
+    "platforms": {
+        "ethereum": "0xdf347911910b6c9a4286ba8e2ee5ea4a39eb2134"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Anyone that has hired a contractor in recent years for home repairs has faced three problems: false information due to review fraud, hidden costs due to advertising fees, and inflated prices due to lack of pricing transparency. Bob\u2019s Repair is here to change that.\r\n\r\nThe Prandecki brothers, together with blockchain experts and experienced software engineers, founded Bob's Repair with the mission of launching a decentralized platform that will bring trust and fair pricing back to the consumer.\r\n\r\nIn order to fight review fraud, advertising fees and provide the consumer with transparency, the Bob's Repair Application will be built on the STEEM blockchain, which has a three second block time and no transaction costs."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xdf347911910b6c9a4286ba8e2ee5ea4a39eb2134",
+    "url": "https://www.bobsrepair.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134",
+        "https://ethplorer.io/address/0xdf347911910b6c9a4286ba8e2ee5ea4a39eb2134"
+    ],
+    "twitter": "bobsrepair",
+    "facebook": "BobsRepairCom"
+}

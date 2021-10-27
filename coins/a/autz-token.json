@@ -1,0 +1,25 @@
+{
+    "id": "autz-token",
+    "symbol": "autz",
+    "name": "AUTZ Token",
+    "platforms": {
+        "ethereum": "0x5a7092cf86a6790113c4d3fa83f48fd6efa71b0d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A charity-oriented token with the ultimate goal to support autistic children and adults in the spectrum (autism spectrum disorder - ASD)."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x5a7092cf86a6790113c4d3fa83f48fd6efa71b0d",
+    "url": "https://www.autz.io",
+    "explorers": [
+        "https://etherscan.io/token/0x5A7092cf86A6790113C4D3FA83f48fd6EFa71B0D",
+        "https://ethplorer.io/address/0x5A7092cf86A6790113C4D3FA83f48fd6EFa71B0D"
+    ],
+    "twitter": "AutzToken",
+    "facebook": "AUTZtoken",
+    "telegram": "Autz_official",
+    "github_org": "autztoken"
+}

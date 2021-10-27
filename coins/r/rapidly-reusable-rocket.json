@@ -1,0 +1,23 @@
+{
+    "id": "rapidly-reusable-rocket",
+    "symbol": "rrr",
+    "name": "Rapidly Reusable Rocket",
+    "platforms": {
+        "ethereum": "0x1306c7d95e59cfcdff7ae3c13db7f56acc543815"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rapidly Reusable Rockets is an ERC20 token based on one of Elon's latest tweets. The purpose of this coin is to use our Musube-like tokenomics to redistribute tokens to hodl'ers and liquidity in order to accrue more tokens and get more money. Ideally we are here to get more people money, and capitalize on Elon Musk."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x1306c7d95e59cfcdff7ae3c13db7f56acc543815",
+    "url": "https://rrrerc20.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1306c7d95e59cfcdff7ae3c13db7f56acc543815",
+        "https://ethplorer.io/address/0x1306c7d95e59cfcdff7ae3c13db7f56acc543815"
+    ],
+    "twitter": "rapidrrr",
+    "telegram": "RRRerc20"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "xtrade",
+    "symbol": "xtrd",
+    "name": "XTRD",
+    "platforms": {
+        "ethereum": "0x9c794f933b4dd8b49031a79b0f924d68bef43992"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XTRD is bringing proven financial technologies to the cryptocurrency market. This means higher liquidity, lower fees, and combined platforms.\r\n\r\nXTRD is a technology company founded by veteran Wall Street trading specialists that are introducing a new infrastructure that would allow banks, hedge funds, and large institutional traders to easily access cryptocurrency markets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9c794f933b4dd8b49031a79b0f924d68bef43992",
+    "url": "https://xtrd.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9c794f933b4dd8b49031a79b0f924d68bef43992",
+        "https://ethplorer.io/address/0x9c794f933b4dd8b49031a79b0f924d68bef43992"
+    ],
+    "twitter": "xtradeio",
+    "facebook": "xtradeio",
+    "telegram": "xtradecommunity"
+}

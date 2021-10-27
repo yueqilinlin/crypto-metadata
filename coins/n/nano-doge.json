@@ -1,0 +1,24 @@
+{
+    "id": "nano-doge",
+    "symbol": "nanodoge",
+    "name": "Nano Doge Token",
+    "platforms": {
+        "binance-smart-chain": "0xcae755389bee1b066f4713f3909983b48161ae2e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Crypto Market has been flooded with dog(e) memes lately. It was only a matter of time before some brave crypto enthusiasts come up with the smallest yet strongest and cutest doge meme of all time; The Nano Doge Token. Nano Doge is aiming to be the biggest meme token in the BSC space by employing passive rewards, automatic buybacks and building the strongest community. \r\n\r\nThe Nano Doge Team promotes fairness and transparency \r\n\r\nThrough Nano Doge, the developers hope to create a trustworthy, community-based coin. Many studies have shown that the finance industry is one of the least trusted industries worldwide and even worse, that crypto is the least trusted asset class within the finance industry. Due to all the rug pulls and scams happening lately, especially in the BSC space, the developers of Nano Doge \u2013 who were frequently called 'The Rug Hunters' by their community - could relate.  To make an impact and change people's perception of crypto, the developers teamed up and set the ultimate goal to build trust and credibility in the crypto and BSC space again. \r\n\r\nMoreover, the Nano Doge Team takes a rather unique approach to their projects; They always aim at combining traditional finance theory with crypto and smart contracts. Their tokenomics are organized in a way that the token combines the positive effects of both value- and growth stocks by providing dividend gains in form of reflections and capital gains by the sharp appreciation in value. This is a unique feature that is a huge advantage to traditional instruments such as stocks."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0xcae755389bee1b066f4713f3909983b48161ae2e",
+    "url": "https://www.nanodoge.io/",
+    "explorers": [
+        "https://www.bscscan.com/token/0xcae755389bee1b066f4713f3909983b48161ae2e",
+        "https://bscscan.com/token/0xcae755389bee1b066f4713f3909983b48161ae2e"
+    ],
+    "twitter": "NanoDOGEToken",
+    "telegram": "NanoDOGEToken",
+    "github_org": "seoharris"
+}

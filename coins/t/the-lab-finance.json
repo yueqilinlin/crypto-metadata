@@ -1,0 +1,26 @@
+{
+    "id": "the-lab-finance",
+    "symbol": "labo",
+    "name": "The Lab Finance",
+    "platforms": {
+        "binance-smart-chain": "0x171401a3d18b21bfa3f9bf4f9637f3691158365a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "The Lab Finance (LABO) is a community-centered farming solution with governance and profit-generating NFT\u2019s, with a Timelock contract. The supply is constantly rising as new tokens are getting minted and distributed as rewards. \r\n\r\nThe platform has been audited by Solid Group and offers more than 20 pools and farms that generate yield returns paid with LABO. The options to stake in the platform include popular tokens and LP tokens.\r\n \r\nNFT Model is live and distributes 60% of the minting developer fees and 35% of the deposit fees among 50 NFT Holders"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x171401a3d18b21bfa3f9bf4f9637f3691158365a",
+    "url": "https://thelab.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x171401a3d18B21BFa3f9bF4F9637F3691158365A"
+    ],
+    "twitter": "TheLabFinance",
+    "telegram": "thelabfinance",
+    "github_org": "thelabfinance"
+}

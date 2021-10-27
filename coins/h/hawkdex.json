@@ -1,0 +1,21 @@
+{
+    "id": "hawkdex",
+    "symbol": "hawk",
+    "name": "HawkDex",
+    "platforms": {
+        "polygon-pos": "0x69cbc7449ee102eb792f1656744bf1a7c1bacb7e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x69cbc7449ee102eb792f1656744bf1a7c1bacb7e",
+    "url": "https://hawkdex.com/#/stake",
+    "explorers": [
+        "https://polygonscan.com/token/0x69cbc7449ee102eb792f1656744bf1a7c1bacb7e"
+    ],
+    "twitter": "hawk_dex"
+}

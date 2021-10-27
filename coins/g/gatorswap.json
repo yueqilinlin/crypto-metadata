@@ -1,0 +1,23 @@
+{
+    "id": "gatorswap",
+    "symbol": "gator",
+    "name": "GatorSwap",
+    "platforms": {
+        "binance-smart-chain": "0x88371dec00bc3543231e01089c3dc6d94289d4af"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x88371dec00bc3543231e01089c3dc6d94289d4af",
+    "url": "https://gatorswap.xyz/",
+    "explorers": [
+        "https://bscscan.com/token/0x88371dec00bc3543231e01089c3dc6d94289d4af"
+    ],
+    "twitter": "AlligatorSwap",
+    "telegram": "gatorswap",
+    "github_org": "Alligatorfarmer"
+}

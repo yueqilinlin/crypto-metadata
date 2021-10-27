@@ -1,0 +1,25 @@
+{
+    "id": "data-economy-index",
+    "symbol": "data",
+    "name": "Data Economy Index",
+    "platforms": {
+        "ethereum": "0x33d63ba1e57e54779f7ddaeaa7109349344cf5f1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "Structured Products"
+    ],
+    "description": {
+        "en": "The Data Economy Index (DATA) is a digital asset index capturing the growth of data-based products and services. The DATA index is ***data centric and chain agnostic*.**\r\n\r\nDATA is the first decentralized index to capture the growth of the data economy and also the first to include non Ethereum-based tokens.\r\n\r\nDATA includes tokens that provide data-based products or services across blockchains. This means that the success of Chainlink, the Graph, Filecoin, etc. is independent from Bitcoin, Ethereum, Solana, Cosmos, and other cryptocurrencies.\u00a0These tokens are inherently multichain and grow along with the entire crypto industry\u2019s success."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x33d63ba1e57e54779f7ddaeaa7109349344cf5f1",
+    "url": "https://www.indexcoop.com/data",
+    "explorers": [
+        "https://etherscan.io/token/0x33d63ba1e57e54779f7ddaeaa7109349344cf5f1",
+        "https://ethplorer.io/address/0x33d63ba1e57e54779f7ddaeaa7109349344cf5f1"
+    ],
+    "twitter": "indexcoop"
+}

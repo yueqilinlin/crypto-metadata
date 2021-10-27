@@ -1,0 +1,28 @@
+{
+    "id": "kardiachain",
+    "symbol": "kai",
+    "name": "KardiaChain",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "We believe Blockchain can create equal opportunities for people, a world where people have access to opportunity to invest, to start a business, to work and to be socially mobile.\r\nOur technology empowers mass adoption, expand use-cases and lay foundation of the blockchain ecosystem.\r\nWe are building a blockchain platform for decentralised applications (Dapps) and helping to create a blockchain ecosystem that allow for scaling and connecting disparate blockchains."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "url": "https://www.kardiachain.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xd9ec3ff1f8be459bb9369b4e79e9ebcf7141c093",
+        "https://ethplorer.io/address/0xd9ec3ff1f8be459bb9369b4e79e9ebcf7141c093",
+        "https://explorer.kardiachain.io/",
+        "https://bscscan.com/token/0x39ae8eefb05138f418bb27659c21632dc1ddab10"
+    ],
+    "twitter": "KardiaChain",
+    "facebook": "KardiaChainFoundation",
+    "telegram": "kardiachainofficial",
+    "reddit": "KardiaChain/",
+    "github_org": "kardiachain"
+}

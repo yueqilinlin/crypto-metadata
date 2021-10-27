@@ -1,0 +1,24 @@
+{
+    "id": "digital-ticks",
+    "symbol": "dtx",
+    "name": "Digital Ticks",
+    "platforms": {
+        "ethereum": "0x82fdedfb7635441aa5a92791d001fa7388da8025"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Digital Ticks Exchange (DTx) is just not another crypto to crypto exchange but is also a semi-algorithm platform provider in its own. DTx plans to cater to all types of crypto assets as well as commodity to crypto assets. DTx would be power packed by a lot of advanced features including all the basic features of an exchange required by a novice trader to a professional trader as well as for a high frequency trader. In terms of security DTx is taking extra precautionary measures to avoid any kind of hacks like DDoS attacks, phishing attempts and by also performing vulnerability assessments and penetration testing. DTx has installed robust technologies behind the scene that could handle heavy volatility of the crypto markets as well as commodity markets which can handle upto 1,000,000 orders per second."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x82fdedfb7635441aa5a92791d001fa7388da8025",
+    "url": "https://www.digitalticks.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x82fdedfb7635441aa5a92791d001fa7388da8025",
+        "https://ethplorer.io/address/0x82fdedfb7635441aa5a92791d001fa7388da8025"
+    ],
+    "twitter": "digitalticks",
+    "facebook": "DigitalTicksExchange",
+    "github_org": "digitalticks"
+}

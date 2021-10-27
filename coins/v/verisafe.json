@@ -1,0 +1,28 @@
+{
+    "id": "verisafe",
+    "symbol": "vsf",
+    "name": "VeriSafe",
+    "platforms": {
+        "ethereum": "0xac9ce326e95f51b5005e9fe1dd8085a01f18450c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "VeriSafe will be the catalyst for projects, exchanges and communities to collaborate, creating an ecosystem where transparency, accountability, communication, and expertise go hand-in-hand to set a standard in the industry."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0xac9ce326e95f51b5005e9fe1dd8085a01f18450c",
+    "url": "https://www.verisafe.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xac9ce326e95f51b5005e9fe1dd8085a01f18450c",
+        "https://ethplorer.io/address/0xac9ce326e95f51b5005e9fe1dd8085a01f18450c"
+    ],
+    "twitter": "VeriSafeProject",
+    "facebook": "VeriSafeProjectIO",
+    "telegram": "cpollo2",
+    "reddit": "https://www.reddit.com",
+    "github_org": "VeriSafe"
+}

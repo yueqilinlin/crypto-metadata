@@ -1,0 +1,17 @@
+{
+    "id": "bitcoin-hot",
+    "symbol": "bth",
+    "name": "Bitcoin Hot",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bitcoin Hot is a fork of Bitcoin blockchain at block height 498848 with a new PoW algorithm, which is an upgraded systems with large block size, quicker block interval and larger supply. Bitcoin Hot miners will begin creating blocks in the new block chain system with the original bitcoin blockchain system unaffected. Bitcoin Hot new chain will distribute bitcoin hot to all current bitcoin owners with a scale of 100:1."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.bithot.org/",
+    "explorers": [],
+    "twitter": "Bitcoinhotf",
+    "telegram": "BitcoinHotFoundation"
+}

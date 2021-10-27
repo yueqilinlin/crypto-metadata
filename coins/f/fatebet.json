@@ -1,0 +1,23 @@
+{
+    "id": "fatebet",
+    "symbol": "fate",
+    "name": "FateBet",
+    "platforms": {
+        "binance-smart-chain": "0x755d69452da7f62fdf820a984c400dde3a7b945d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fate is a decentralized prediction matching platform on BSC (Binance Smart Chain). Different from previous-generation prediction platforms, Fate leverages short-form code to ensure high speeds and extensive scalability. Fate supports liquidity mining and deflationary tokenomics, providing an open and easy-to-use prediction service with an inbuilt profit-sharing mechanism."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x755d69452da7f62fdf820a984c400dde3a7b945d",
+    "url": "https://www.fate.bet/",
+    "explorers": [
+        "https://bscscan.com/token/0x755D69452dA7f62FDf820A984c400dDe3a7b945D"
+    ],
+    "twitter": "fatedotbet",
+    "telegram": "fatebet",
+    "github_org": "FateBet"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "apex-army",
+    "symbol": "apex",
+    "name": "APEx Army",
+    "platforms": {
+        "binance-smart-chain": "0x537fa04fd9f6438f536d9b3413b7570a8bbc6880"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "APEx is a community-oriented token to help to save endangered species of apes. It also features an auto-generating liquidity protocol with static farming."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x537fa04fd9f6438f536d9b3413b7570a8bbc6880",
+    "url": "https://apex.army/",
+    "explorers": [
+        "https://bscscan.com/token/0x537fa04fd9f6438f536d9b3413b7570a8bbc6880"
+    ],
+    "twitter": "apexarmyfinance",
+    "telegram": "apexarmyofficial",
+    "github_org": "apexarmy"
+}

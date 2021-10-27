@@ -1,0 +1,26 @@
+{
+    "id": "contribute",
+    "symbol": "trib",
+    "name": "Contribute",
+    "platforms": {
+        "ethereum": "0xe09216f1d343dd39d6aa732a08036fee48555af0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Governance"
+    ],
+    "description": {
+        "en": "A capital coordination tool that pushes the boundaries of DeFi."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe09216f1d343dd39d6aa732a08036fee48555af0",
+    "url": "https://tribtoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe09216f1d343dd39d6aa732a08036fee48555af0",
+        "https://ethplorer.io/address/0xe09216f1d343dd39d6aa732a08036fee48555af0"
+    ],
+    "twitter": "TRIBtoken",
+    "telegram": "tribtoken",
+    "github_org": "Contribute-Defi"
+}

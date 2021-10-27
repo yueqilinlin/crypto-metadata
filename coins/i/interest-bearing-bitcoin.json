@@ -1,0 +1,23 @@
+{
+    "id": "interest-bearing-bitcoin",
+    "symbol": "ibbtc",
+    "name": "Interest Bearing Bitcoin",
+    "platforms": {
+        "ethereum": "0xc4e15973e6ff2a35cc804c2cf9d2a1b817a8b40f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Interest Bearing Bitcoin is a token that uses underlying yield bearing assets to stay close to the Bitcoin price. By creating a basket of trusted DeFi primitives you can diversify your holdings of bitcoin synthetics and hedge against when one of the underlying tokens deviates from the peg. As ibBTC is made up of yield bearing underlying assets, it also has a native yield so you can gain interest on your assets just by holding the token. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc4e15973e6ff2a35cc804c2cf9d2a1b817a8b40f",
+    "url": "https://app.badger.finance/ibBTC",
+    "explorers": [
+        "https://etherscan.io/token/0xc4e15973e6ff2a35cc804c2cf9d2a1b817a8b40f",
+        "https://ethplorer.io/address/0xc4e15973e6ff2a35cc804c2cf9d2a1b817a8b40f"
+    ],
+    "twitter": "badgerDAO",
+    "github_org": "defidollar"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "draken",
+    "symbol": "drk",
+    "name": "Draken",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "DRK is a next-generation decentralized blockchain platform. The strong improvements from Proof-of-Stake creates Proof-of-Honor, which uses HodgeRank to rank nodes based on the number of Stake and the number of Transactions, optimizes the performance of DRK Chain (2-second block time, up to 5000 TPS) while preserving high transparency and decentralization. Nonetheless, the integrated protocols help optimizing the ability to build Decentralized Applications such as Smart Contract, Gas Station (near-zero gas fee), DaRK Privacy - Anonymity on demand. \r\n\r\nWith DRK Chain, every tech-enthusiast can easily build and optimize Dapps with high efficiency and at a low cost."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://draken.exchange",
+    "explorers": [
+        "https://explorer.draken.tech/"
+    ],
+    "twitter": "DRKDefi",
+    "telegram": "Drakentech",
+    "github_org": "drakentech"
+}

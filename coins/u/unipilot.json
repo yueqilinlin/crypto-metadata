@@ -1,0 +1,25 @@
+{
+    "id": "unipilot",
+    "symbol": "pilot",
+    "name": "Unipilot",
+    "platforms": {
+        "ethereum": "0x37c997b35c619c21323f3518b9357914e8b99525"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Unipilot saves liquidity providers from the hassle of manual oversight through automated liquidity optimization and management.\r\n\r\nThe challenge with concentrated liquidity is keeping it in the active price range so that it consistently earns fees through trades. The more time the capital is locked in the active price range the more trading fees it earns.\r\n\r\nIf price fluctuates and capital goes out of the price range it does not earn any fees.\r\n\r\nUnipilot solves this problem by allocating capital to the narrowest price range to earn the maximum amount of fees. Even minor optimizations in price ranges can impose drastic changes in terms of capital efficiency.\r\n\r\nApart from offering optimized liquidity positions, the Pilot protocol also auto-rebalances liquidity in appropriate price ranges to cater to the changing market prices.\r\n\r\nIn addition to that, the transaction cost involved with readjusting liquidity is also disbursed by the protocol so liquidity providers don't have to worry about the increasing gas costs on Ethereum.\r\n\r\nUniswap v3 has introduced a breakthrough design improvement in the form of \u2018Concentrated liquidity\u2019 in the automated market-making (AMM) ecosystem. With the traction that liquidity farming has gained within a month, we can assume other decentralized exchanges following the same model in the near future.\r\nFor this purpose, we introduce the concept of universal liquidity optimization which indicates that the protocol will be compatible with all other AMM\u2019s that may adopt the concentration liquidity mechanisms in future."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x37c997b35c619c21323f3518b9357914e8b99525",
+    "url": "https://unipilot.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x37c997b35c619c21323f3518b9357914e8b99525",
+        "https://ethplorer.io/address/0x37c997b35c619c21323f3518b9357914e8b99525"
+    ],
+    "twitter": "unipilot_io",
+    "telegram": "unipilot_io",
+    "reddit": "Unipilot/",
+    "github_org": "VoirStudio"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "publica",
+    "symbol": "pbl",
+    "name": "Pebbles",
+    "platforms": {
+        "ethereum": "0x55648de19836338549130b1af587f16bea46f66b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Publica aims to bring the publishing economy into the blockchain revolution. Publica's platform will host book crowdfunding, online marketplaces (ecommerce), apps, ereaders and ewriters doing double-duty as digital wallets. READ tokens represent books you own so they\u2019re property backed by the blockchain. Smart contracts and RIGHT tokens will back the automated performance of agreements like derivative rights for movies, games, sequels etc. Publica\u2019s ecosystem is the multi-sided economy of publishing including service-providers like illustrators, editors, marketers, retailers etc., so they can benefit from the platform\u2019s network effects."
+    },
+    "country_origin": "US",
+    "genesis_date": "2017-11-22",
+    "contract_address": "0x55648de19836338549130b1af587f16bea46f66b",
+    "url": "https://publica.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x55648de19836338549130b1af587f16bea46f66b",
+        "https://ethplorer.io/address/0x55648de19836338549130b1af587f16bea46f66b"
+    ],
+    "twitter": "PublicaIO",
+    "facebook": "OfficialPublica",
+    "telegram": "publicaio",
+    "reddit": "publicaio",
+    "github_org": "PublicaIO"
+}

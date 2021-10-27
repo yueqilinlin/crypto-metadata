@@ -1,0 +1,23 @@
+{
+    "id": "toffee",
+    "symbol": "tofy",
+    "name": "TOFFEE",
+    "platforms": {
+        "binance-smart-chain": "0xe1f2d89a6c79b4242f300f880e490a70083e9a1c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yield Farming, pools, farms, compound, NFTs and in every week, a pool and a farm will be added as well as several collaborations with other projects on BSC.\r\n\r\nTOFFEE safefarm is the first farm for reflactionary token like SAFEMOON"
+    },
+    "country_origin": "CZ",
+    "genesis_date": null,
+    "contract_address": "0xe1f2d89a6c79b4242f300f880e490a70083e9a1c",
+    "url": "https://safefarms.marshmallowdefi.com/info",
+    "explorers": [
+        "https://bscscan.com/token/0xe1f2d89a6c79b4242f300f880e490a70083e9a1c"
+    ],
+    "twitter": "SwapMarshmallow",
+    "telegram": "MarshmallowDeFi",
+    "github_org": "MarshmallowSwap"
+}

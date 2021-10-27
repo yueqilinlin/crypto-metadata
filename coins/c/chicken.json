@@ -1,0 +1,23 @@
+{
+    "id": "chicken",
+    "symbol": "kfc",
+    "name": "Chicken",
+    "platforms": {
+        "ethereum": "0xe63684bcf2987892cefb4caa79bd21b34e98a291"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ChickenSwap is completely distinguishable from the existing DEX\u2019s on the market. While adopting the brilliant model of automatic market maker (AMM) and staking mining mechanism from Sushiswap , ChickenSwap is a more simplified, fair, secure, and profitable version of SUSHI that will launch in multiple phases to ensure sustainability."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe63684bcf2987892cefb4caa79bd21b34e98a291",
+    "url": "https://chickenswap.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xE63684BcF2987892CEfB4caA79BD21b34e98A291",
+        "https://ethplorer.io/address/0xe63684bcf2987892cefb4caa79bd21b34e98a291"
+    ],
+    "twitter": "ChefGrandpa",
+    "telegram": "chickenswap"
+}

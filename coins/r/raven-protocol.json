@@ -1,0 +1,26 @@
+{
+    "id": "raven-protocol",
+    "symbol": "raven",
+    "name": "Raven Protocol",
+    "platforms": {
+        "binancecoin": "RAVEN-F66",
+        "binance-smart-chain": "0xcd7c5025753a49f1881b31c48caa7c517bb46308"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Artificial Intelligence"
+    ],
+    "description": {
+        "en": "Raven Protocol's specific use case is to perform AI training where speed is the key. We're taking a 1M image dataset that takes 2-3 weeks to train on AWS down to 2-3 hours on Raven. AI companies will be able to train models better and faster.\r\n\r\nRaven Protocol is creating a self-sustaining and dynamic ecosystem for:\r\n\r\nCustomers who want to train their AI engines; and/or\r\nContributors who would like to share their compute resources in the form of Computers, Smartphones, or even a server rack.\r\nRaven Tokens (RAVEN) will work as the common ground to facilitate a secure transaction that will take place inside our ecosystem. Enterprise clients who want to rent compute power will do so with RAVEN and contributors of the compute power will be rewarded in RAVEN.\r\n\r\nRaven is creating a network of compute nodes that utilize idle compute power for the purposes of AI training where speed is the key. A native token is the key to bootstrapping a nascent network.\r\n\r\nWe want to incentivize and reward people all over the world to contribute their compute power to our network. Additionally, we will reward token holders for running masternodes which will be responsible for orchestrating the training of various deep neural networks.\r\n\r\nOur consensus mechanism is something we call Proof-of-Calculation. Proof-of-Calculation will be the primary guideline for the regulation and distribution of incentives to the compute nodes in the network. Following are the two prime deciders for the incentive distribution:\r\n\r\nSpeed: Depending upon how fast a node can perform gradient calculations (in a neural network) and return it back to the Gradient Collector.\r\n\r\nRedundancy: The 3 fastest redundant calculation will only qualify for receiving the incentive. This will make sure that the gradients that are getting returned are genuine and of the highest quality."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "RAVEN-F66",
+    "url": "http://www.ravenprotocol.com/",
+    "explorers": [
+        "https://explorer.binance.org/asset/RAVEN-F66",
+        "https://bscscan.com/token/0xcd7c5025753a49f1881b31c48caa7c517bb46308"
+    ],
+    "twitter": "Raven_Protocol",
+    "telegram": "RavenProtocol"
+}

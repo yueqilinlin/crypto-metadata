@@ -1,0 +1,27 @@
+{
+    "id": "sbtc",
+    "symbol": "sbtc",
+    "name": "sBTC",
+    "platforms": {
+        "ethereum": "0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Tokenized BTC",
+        "Synths",
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "sBTC or synthetic BTC is a synthetic asset launched by Synthetix Exchange. sBTC mirrors and tracks the price of Bitcoin provided by an oracle - Chainlink."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6",
+    "url": "https://www.synthetix.io",
+    "explorers": [
+        "https://etherscan.io/token/0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6",
+        "https://ethplorer.io/address/0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6"
+    ],
+    "twitter": "synthetix_io"
+}

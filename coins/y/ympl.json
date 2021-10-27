@@ -1,0 +1,24 @@
+{
+    "id": "ympl",
+    "symbol": "ympl",
+    "name": "YMPL",
+    "platforms": {
+        "ethereum": "0xb7ba8461664de526a3ae44189727dfc768625902"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "What is Ympl?\r\nY = M + P + L\r\n\r\nM(onetary)\r\nM from Monetary, represents a new form of money, an alternative store of value in the digital space that people can truly own.\r\n\r\nYMPL initial price will be 0.0025 ETH ( ~1 USD today ) per 1 YMPL and it will increase or decrease the supply based on its price movement correlating to ETH, no dollar nonsense. The price discovery mechanism and the free market will determine the fair value of the token. Note that the initial rate might be changed on launch date to be as close to 1 USD\r\n\r\nP(robability)\r\nP from Probability, represents an adaptation of probablistic model that apply to the asset yield, to reflect the randomness of the world onto an asset, creating a uniqueness of this new digital commodity.\r\n\r\nL(ife)\r\nL from Life, represents the ever-changing value and supply in the asset, based on a series of random events, with no certainty, no final destination, an constantly evolving digital commodity similar to life itself."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb7ba8461664de526a3ae44189727dfc768625902",
+    "url": "https://ymplprotocol.com/#what-is",
+    "explorers": [
+        "https://etherscan.io/token/0xb7ba8461664de526a3ae44189727dfc768625902",
+        "https://ethplorer.io/address/0xb7ba8461664de526a3ae44189727dfc768625902"
+    ],
+    "twitter": "ymplofficial",
+    "telegram": "YMPLAnn",
+    "github_org": "ympl-protocol"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "rigel-protocol",
+    "symbol": "rgp",
+    "name": "Rigel Protocol",
+    "platforms": {
+        "ethereum": "0x4af5ff1a60a6ef6c7c8f9c4e304cd9051fca3ec0",
+        "binance-smart-chain": "0xfa262f303aa244f9cc66f312f0755d89c3793192"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Rigel Protocol will be built on both Binance Smart Chain and the Ethereum Blockchain. Fast, convenient and secure. The Rigel Protocol will allow users to have full control of their funds while using any of the platform products. Smart Swapping, Yield Farming, Margin Trade, and many more. Cross chain operations guarantee low transaction fees without the need to leave funds on custody to third parties or go through KYC process."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4af5ff1a60a6ef6c7c8f9c4e304cd9051fca3ec0",
+    "url": "https://www.rigelprotocol.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x4af5ff1a60a6ef6c7c8f9c4e304cd9051fca3ec0",
+        "https://ethplorer.io/address/0x4af5ff1a60a6ef6c7c8f9c4e304cd9051fca3ec0"
+    ],
+    "twitter": "rigelprotocol",
+    "telegram": "rigelprotocol",
+    "github_org": "rigelprotocol"
+}

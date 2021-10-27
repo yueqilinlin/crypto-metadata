@@ -1,0 +1,23 @@
+{
+    "id": "reapchain",
+    "symbol": "reap",
+    "name": "ReapChain",
+    "platforms": {
+        "ethereum": "0x1fc5ef0337aea85c5f9198853a6e3a579a7a6987"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ReapChain was created to solve the problems of the existing IoT Blockchain.\r\n\r\nBased on the Shell-Core structure, which combines public and private Blockchains, and the two-way consensus algorithm (PoDC), we have overcome the three problems of the existing Blockchain: \u201cscalability, security, and decentralization\u201d.\r\n\r\nAlso, by giving the PID of an object through the Reap SDK, it is possible to secure clean data by improving security through mutual verification between devices and preventing the forgery of data.\r\n\r\nReapChain is creating a new IoT Blockchain world with technology that has both complete security and transparency."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1fc5ef0337aea85c5f9198853a6e3a579a7a6987",
+    "url": "https://www.reapchain.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1fc5ef0337aea85c5f9198853a6e3a579a7a6987",
+        "https://ethplorer.io/address/0x1fc5ef0337aea85c5f9198853a6e3a579a7a6987"
+    ],
+    "twitter": "ReapChain",
+    "github_org": "reapchain"
+}

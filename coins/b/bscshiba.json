@@ -1,0 +1,24 @@
+{
+    "id": "bscshiba",
+    "symbol": "bshiba",
+    "name": "bscShiba",
+    "platforms": {
+        "binance-smart-chain": "0x6158b3435dc3bc54a19a32da2a2ed22aec3bef3e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "bShiba incorporates a passive yield mechanic where 5% of each transaction is distributed to holders and 5% is auto-added to the Pancakeswap liquidity pair"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6158b3435dc3bc54a19a32da2a2ed22aec3bef3e",
+    "url": "https://shibacorp.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x6158b3435dc3bc54a19a32da2a2ed22aec3bef3e"
+    ],
+    "twitter": "BscShiba",
+    "telegram": "bscshiba1"
+}

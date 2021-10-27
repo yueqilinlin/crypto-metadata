@@ -1,0 +1,22 @@
+{
+    "id": "buff-doge-coin",
+    "symbol": "dogecoin",
+    "name": "Buff Doge Coin",
+    "platforms": {
+        "binance-smart-chain": "0x23125108bc4c63e4677b2e253fa498ccb4b3298b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"Buff Doge Coin is the Buff version of Dogecoin. Buff Doge Coin was established because of the popularity of Dogecoin with a purpose to be The King of Memes. Buff Doge Coin has several unique characteristics. One of which is hyper deflationary, where each burn will be double its quantity from the previous burn. The coin burning will be very frequent, so it will burn 100% of the remaining supply of the available Buff Doge Coin. \r\n\r\nBurning Scheme of Buff Doge Coin:\r\n#1st Burn : 1,000,000\r\n#2nd Burn : 2,000,000\r\n#3rd Burn : 4,000,000\r\n#4th Burn : 8,000,000\r\n#5th Burn : 16,000,000\r\n#6th  Till the end (Continuing doubling its burn, we will burn trillions of Buff Doge Coin until all the remaining supply is burned).\r\n*more details about Burn are in the whitepaper and website.\r\n\r\nThe Buff Doge Coin protocol, according to the white paper, works in the following way: in each trade, the transaction is taxed with a fee of 10%, which is cut in half. \r\n\u2022\t5% fee = redistributed to all existing holders.\r\n\u2022\t5% fee is split 50/50 half of which is sold by the contract into BNB, while the other half of the Buff Doge Coin are automatically paired with the previously mentioned BNB and added as a liquidity pair on Pancake Swap. \r\nProgress on September 18, 2021, is 4.563 Holders with a market cap of $706.930 and liquidity of $107.838. We have liquidity locked on DXsale to ensure the safety of holders.\r\n\r\nSome percentage of the developer Buff Doge Coin profit will be donated to the animal shelter and environmental issues, such as forest reconstruction to prevent global warming. It is due to the Interconnection of Everything. When we destroy nature, it will also destroy humans and animals as \u201cWe Are One\u201d. If we destroy one part, the other part will also get affected. Thus, some of the developer\u2019s profit will be donated to rescue animal shelters and the environment.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x23125108bc4c63e4677b2e253fa498ccb4b3298b",
+    "url": "https://www.buffdogecoin.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x23125108bc4c63E4677b2E253Fa498cCb4B3298b"
+    ],
+    "twitter": "buffdogecoin",
+    "telegram": "buffdogecoinofficial"
+}

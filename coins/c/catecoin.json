@@ -1,0 +1,25 @@
+{
+    "id": "catecoin",
+    "symbol": "cate",
+    "name": "CateCoin",
+    "platforms": {
+        "binance-smart-chain": "0xe4fae3faa8300810c835970b9187c268f55d998f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "CATECOIN is the first Deflationary Decentralized Meme coin with its own real use platform. http://app.catecoin.club\r\n\r\nMeme creators can earn by posting their work and also but selling their memes as an NFT. Holders earn 2% of every transaction, 15% staking is also available.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe4fae3faa8300810c835970b9187c268f55d998f",
+    "url": "https://catecoin.club/",
+    "explorers": [
+        "https://bscscan.com/token/0xE4FAE3Faa8300810C835970b9187c268f55D998F"
+    ],
+    "twitter": "cateclub",
+    "telegram": "cateclub"
+}

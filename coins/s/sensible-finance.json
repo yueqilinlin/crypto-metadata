@@ -1,0 +1,23 @@
+{
+    "id": "sensible-finance",
+    "symbol": "sensi",
+    "name": "Sensible Finance",
+    "platforms": {
+        "binance-smart-chain": "0x7869044d36ea75975b793ca4312608cc3817895b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sensible Finance is an innovative decentralized finance platform which uses automation to spread funds around a mixture of yield farm pools and validators, allowing users to benefit from the highest available returns at any one time while minimizing exposure to risk. The platform is built on the Binance Smart Chain (BSC) using smart-contract technology, which is completely secure and safe from tampering or fraud, and have undergone an independent audit of our smart contract code to demonstrate the security of the product to potential investors. Users can stake their tokens across a variety of fixed-term plans offering set percentage yields which are available to withdraw daily.\r\n\r\nHow does smart staking work? \r\n\r\nSmart staking automatically spreads 75% of the pool of user-staked tokens across a group of ten yield farm pools, with the other 25% staked to validators on the Binance smart chain. Yield farms typically offer 1-3% interest daily, with BSC validators returning less but with lower risk/volatility. This intelligent system creates a diverse portfolio of investments with limited exposure to any one individual provider, providing excellent returns with significantly lower risk to capital than typically experienced when investing in yield farms. The returns are paid by farmers/validators in BNB, which is then converted to SENSI and paid to stakers, thus ensuring a continual return for investors and a consistent flow of BNB capital into the SENSI ecosystem. \r\n\r\nIn addition to this, the SENSI token is deflationary by design; a 4% transaction fee is written into the smart contract, 1% of which goes to liquidity with another 2% burned. This ensures that - along with the excellent returns offered to those who stake their coins - those who hold the SENSI token will see the value of their holdings increase over time. \r\n\r\nThe remaining 1% of the transaction fee goes into a charity donation fund, allowing all SENSI investors to be a part of a permanent philanthropic project, and underlining our commitment to supporting good causes as part of the long-term Sensible Finance roadmap. This is something we would like every SENSI investor to be involved with, and we will be consulting with the SENSI community going forward about how best to make use of these funds."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x7869044d36ea75975b793ca4312608cc3817895b",
+    "url": "https://sensible.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x7869044d36ea75975b793ca4312608cc3817895b"
+    ],
+    "twitter": "sensi_fi",
+    "telegram": "sensi_fi",
+    "reddit": "SensibleFinance"
+}

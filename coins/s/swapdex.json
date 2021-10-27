@@ -1,0 +1,24 @@
+{
+    "id": "swapdex",
+    "symbol": "sdx",
+    "name": "SwapDEX",
+    "platforms": {
+        "ethereum": "0x041fdd6637ecfd96af8804278ac12660ac2d12c0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SwapDex provides a wallet-to-wallet trading experience to make it easier to trade assets and utilise an easy swap option.\r\nSwapdex have the latest in decentralized exchanges which give you the choice of becoming a taker, maker and becoming a liquidity provider or just to swap assets. We also provide solutions on how to trade bitcoin in the ETH ecosystem using counter parties.\r\nThe SDX token acts as a Governance token. Each SDX token holder has the right to control our stable coins and send proposals to alter the platform rules. These proposals will be voted on by the community of SDX holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x041fdd6637ecfd96af8804278ac12660ac2d12c0",
+    "url": "https://www.swapdex.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x041fdd6637ecfd96af8804278ac12660ac2d12c0",
+        "https://ethplorer.io/address/0x041fdd6637eCfD96af8804278AC12660ac2D12c0"
+    ],
+    "twitter": "SwapdexO",
+    "telegram": "officialswapdexgroup",
+    "github_org": "69th-byte"
+}

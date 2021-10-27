@@ -1,0 +1,22 @@
+{
+    "id": "innovation-blockchain-payment",
+    "symbol": "IBP",
+    "name": "Innovation Blockchain Payment",
+    "platforms": {
+        "ethereum": "0x7d14b842630cbc2530cb288109e5719e0c4d67d7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7d14b842630cbc2530cb288109e5719e0c4d67d7",
+    "url": "https://www.ibp.world/1/",
+    "explorers": [
+        "https://etherscan.io/token/0x7d14b842630cbc2530cb288109e5719e0c4d67d7",
+        "https://ethplorer.io/address/0x7d14b842630cbc2530cb288109e5719e0c4d67d7"
+    ],
+    "telegram": "ibp_refresh"
+}

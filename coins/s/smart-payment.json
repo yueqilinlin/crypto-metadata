@@ -1,0 +1,23 @@
+{
+    "id": "smart-payment",
+    "symbol": "spay",
+    "name": "Smart Payment",
+    "platforms": {
+        "binance-smart-chain": "0xb21225f833f2fb1be7d88ee5347aae001f5b5db1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SPAY aims to provide a decentralized, private and instant payment method based on cryptocurrency."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb21225f833f2fb1be7d88ee5347aae001f5b5db1",
+    "url": "https://spay.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xb21225f833f2fb1be7d88ee5347aae001f5b5db1"
+    ],
+    "twitter": "smart_spay",
+    "telegram": "SPAYGLOBAL",
+    "github_org": "smartpaymen"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "prediqt",
+    "symbol": "pqt",
+    "name": "Prediqt",
+    "platforms": {
+        "ethereum": "0xf8c17c840549974ec17c6573b3963f1e3046c0eb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Prediqt is a Global decentralized network to exchange personal data for its true value to solve the trust problem in personal data aggregation"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf8c17c840549974ec17c6573b3963f1e3046c0eb",
+    "url": "https://prediqt.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xf8c17c840549974ec17c6573b3963f1e3046c0eb",
+        "https://ethplorer.io/address/0xf8c17c840549974ec17c6573b3963f1e3046c0eb"
+    ],
+    "twitter": "prediqtco",
+    "telegram": "prediqtio",
+    "github_org": "prediqtco"
+}

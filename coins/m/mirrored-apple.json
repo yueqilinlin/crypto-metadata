@@ -1,0 +1,29 @@
+{
+    "id": "mirrored-apple",
+    "symbol": "maapl",
+    "name": "Mirrored Apple",
+    "platforms": {
+        "ethereum": "0xd36932143f6ebdedd872d5fb0651f4b72fd15a84",
+        "binance-smart-chain": "0x900aeb8c40b26a8f8dfaf283f884b03ee7abb3ec"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Mirrored Assets"
+    ],
+    "description": {
+        "en": "Mirrored Apple - synthetic asset tracking the price of an Apple stock. "
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xd36932143f6ebdedd872d5fb0651f4b72fd15a84",
+    "url": "https://mirror.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xd36932143F6eBDEDD872D5Fb0651f4B72Fd15a84",
+        "https://ethplorer.io/address/0xd36932143f6ebdedd872d5fb0651f4b72fd15a84",
+        "https://finder.terra.money/columbus-4/token/TERRA1VXTWU4EHGZZ77MNFWRNTYRMGL64QJS75MPWQAZ",
+        "https://bscscan.com/token/0x900AEb8c40b26A8f8DfAF283F884b03EE7Abb3Ec"
+    ],
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol",
+    "github_org": "mirror-protocol"
+}

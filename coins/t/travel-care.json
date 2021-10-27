@@ -1,0 +1,22 @@
+{
+    "id": "travel-care",
+    "symbol": "travel",
+    "name": "Travel Care",
+    "platforms": {
+        "binance-smart-chain": "0x5c501ceb257700fccd33c53feec9f96eda583dd7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Travel Care is the protocol that unites the world of traveling and cryptocurrencies. \r\nAt Travel Care we will offer unique products and experiences for traveling. These experiences can only and exclusively be acquired with our $TRAVEL token.\r\nWe are negotiating agreements with many suppliers (Hotels, Airlines, Venues, Carriers ...) "
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0x5c501ceb257700fccd33c53feec9f96eda583dd7",
+    "url": "https://www.travelcare.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x5c501ceb257700fccd33c53feec9f96eda583dd7"
+    ],
+    "twitter": "TravelCareToken",
+    "telegram": "travelcaretoken"
+}

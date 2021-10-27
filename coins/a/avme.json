@@ -1,0 +1,24 @@
+{
+    "id": "avme",
+    "symbol": "avme",
+    "name": "AVME",
+    "platforms": {
+        "avalanche": "0x1ecd47ff4d9598f89721a2866bfeb99505a413ed"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AVME is a decentralized security protocol for malicious content detection and protection against malware. AVME accomplishes this by combining two technologies that can be integrated with blockchain to deliver zero-trust and fully decentralized applications. These include sandbox nodes and virus detection through artificial intelligence/machine learning (AI/ML). "
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0x1ecd47ff4d9598f89721a2866bfeb99505a413ed",
+    "url": "https://avme.io/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/token-transfers"
+    ],
+    "twitter": "AVME_IO",
+    "telegram": "avmeio",
+    "reddit": "AVME/",
+    "github_org": "avme"
+}

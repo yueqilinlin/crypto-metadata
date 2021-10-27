@@ -1,0 +1,27 @@
+{
+    "id": "howdoo",
+    "symbol": "udoo",
+    "name": "Hyprr (Howdoo)",
+    "platforms": {
+        "ethereum": "0x12f649a9e821f90bb143089a6e56846945892ffb"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Media"
+    ],
+    "description": {
+        "en": "Howdoo Ecosystem, fuelled by the uDOO token, brings a blockchain, Governance token, nodes, HowdooSwap and Howdoo LaunchPad. "
+    },
+    "country_origin": "GB",
+    "genesis_date": "2018-07-27",
+    "contract_address": "0x12f649a9e821f90bb143089a6e56846945892ffb",
+    "url": "http://www.hyprr.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x12f649a9e821f90bb143089a6e56846945892ffb",
+        "https://ethplorer.io/address/0x12f649a9e821f90bb143089a6e56846945892ffb"
+    ],
+    "twitter": "howdooHQ",
+    "telegram": "howdooHQ",
+    "reddit": "Howdoo",
+    "github_org": "mpg1977"
+}

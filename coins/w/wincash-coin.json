@@ -1,0 +1,21 @@
+{
+    "id": "wincash-coin",
+    "symbol": "wcc",
+    "name": "Wincash Coin",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Wincash coin is a cryptocurrency with SHA-256 algorithm, Pow, PoS, and Masternode. This coin is a cryptocurrency used as payment system in all Wincash projects. Wincash coin is established since august 2018 and has been used by thousand of people as a way of transaction in some of Wincash projects. Wincash coin uses PoW/PoS hybrid mechanism in the blockchain network to prevent 51% attack that commonly become a fatal issue in many new launched cryptocurrencies."
+    },
+    "country_origin": "GB",
+    "genesis_date": "2019-09-02",
+    "url": "https://wincashcoin.io",
+    "explorers": [
+        "https://winexplorer.info"
+    ],
+    "telegram": "wincashnews",
+    "github_org": "wincash"
+}

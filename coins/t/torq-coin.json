@@ -1,0 +1,24 @@
+{
+    "id": "torq-coin",
+    "symbol": "torq",
+    "name": "TORQ Coin",
+    "platforms": {
+        "ethereum": "0x1c65c261cb89178b02cf2aee20058b992787d770"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TORQ Coin is digital asset affiliated with Gold, Metal and Coal mining company. Crypto currency is The Future! TORQ Coin is created with the aim to build a business solution in Mining business to benefit community. TORQ will revolutionize the traditional mining business for Gold, Coal and Metal mining. TORQ will engage users' investment with real assets values with great business plan to affiliate with local Banks by selling mined Gold, Metal and Coal."
+    },
+    "country_origin": null,
+    "genesis_date": "2018-01-07",
+    "contract_address": "0x1c65c261cb89178b02cf2aee20058b992787d770",
+    "url": "https://www.torqcoin.io",
+    "explorers": [
+        "https://etherscan.io/token/0x1c65c261cb89178b02cf2aee20058b992787d770",
+        "https://ethplorer.io/address/0x1c65c261cb89178b02cf2aee20058b992787d770"
+    ],
+    "twitter": "TORQCoin",
+    "facebook": "torqcoin.io",
+    "telegram": "TORQChannel"
+}

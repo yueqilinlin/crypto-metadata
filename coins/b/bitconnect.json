@@ -1,0 +1,20 @@
+{
+    "id": "bitconnect",
+    "symbol": "bcc",
+    "name": "Bitconnect",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2016-12-24",
+    "url": "https://bitconnectcoin.co",
+    "explorers": [
+        "https://chainz.cryptoid.info/bcc/"
+    ],
+    "twitter": "bitconnect",
+    "facebook": "bitconnectcoin",
+    "github_org": "bitconnectcoin"
+}

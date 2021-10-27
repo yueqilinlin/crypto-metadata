@@ -1,0 +1,27 @@
+{
+    "id": "cryptotipsfr",
+    "symbol": "crts",
+    "name": "Cryptotipsfr",
+    "platforms": {
+        "ethereum": "0x94ca37d108e89775dc8ae65f51ae28c2d9599f9a",
+        "binance-smart-chain": "0xe4404f11cb5f8d94a50f4e2d188c5bd1b8039726",
+        "polygon-pos": "0xebf9b87583c284f0a1b7af72371f84d2a7567285"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x94ca37d108e89775dc8ae65f51ae28c2d9599f9a",
+    "url": "https://cryptotipsfriends.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x94cA37d108E89775dC8ae65F51AE28c2d9599f9A",
+        "https://ethplorer.io/address/0x94ca37d108e89775dc8ae65f51ae28c2d9599f9a"
+    ],
+    "twitter": "cryptotipsfr",
+    "telegram": "CryptotipschatFR"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "blizzard-network",
+    "symbol": "blizz",
+    "name": "Blizzard Network",
+    "platforms": {
+        "avalanche": "0xb147656604217a03fe2c73c4838770df8d9d21b8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem"
+    ],
+    "description": {
+        "en": "Prime Aggregation for Avalanche Yields, Advanced Auto compounding Vaults"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb147656604217a03fe2c73c4838770df8d9d21b8",
+    "url": "https://blizzard.network/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0xB147656604217a03Fe2c73c4838770DF8d9D21B8/token-transfers"
+    ],
+    "twitter": "BlizzardAVAX",
+    "telegram": "BlizzardYield"
+}

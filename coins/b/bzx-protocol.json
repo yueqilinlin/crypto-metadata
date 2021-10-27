@@ -1,0 +1,30 @@
+{
+    "id": "bzx-protocol",
+    "symbol": "bzrx",
+    "name": "bZx Protocol",
+    "platforms": {
+        "ethereum": "0x56d811088235f11c8920698a204a5010a788f4b3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Decentralized Exchange Token (DEX)",
+        "Polygon Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x56d811088235f11c8920698a204a5010a788f4b3",
+    "url": "https://bzx.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x56d811088235F11C8920698a204A5010a788f4b3",
+        "https://ethplorer.io/address/0x56d811088235f11c8920698a204a5010a788f4b3"
+    ],
+    "twitter": "bzxHQ",
+    "telegram": "b0xNet",
+    "github_org": "bZxNetwork"
+}

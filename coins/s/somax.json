@@ -1,0 +1,23 @@
+{
+    "id": "somax",
+    "symbol": "smx",
+    "name": "Somax",
+    "platforms": {
+        "binance-smart-chain": "0x586330013c8f2352ab5f57215f9e56747ee8837e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Somax Token is a DeFi cryptocurrency, Two main functions happen during a trade, RFI static rewards distributed to holders and LP acquisition."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x586330013c8f2352ab5f57215f9e56747ee8837e",
+    "url": "https://somax.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x586330013C8f2352AB5f57215F9E56747eE8837E"
+    ],
+    "twitter": "somaxfinance",
+    "telegram": "somaxfinance",
+    "reddit": "SomaxFinance/"
+}

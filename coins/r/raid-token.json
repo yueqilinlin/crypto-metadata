@@ -1,0 +1,23 @@
+{
+    "id": "raid-token",
+    "symbol": "raid",
+    "name": "Raid Token",
+    "platforms": {
+        "xdai": "0x18e9262e68cc6c6004db93105cc7c001bb103e49",
+        "ethereum": "0x154e35c2b0024b3e079c5c5e4fc31c979c189ccb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Raid Guild is a decentralized collective of mercenaries ready to slay your Web3 product demons.\r\n\r\nRaid Guild was started by the three early contributing members to MetaCartel. As they took on open source projects, they would recruit other open-source software contributors into the Guild so they could continue relationships and team up to go on \u2018Raids\u2019 of other projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x18e9262e68cc6c6004db93105cc7c001bb103e49",
+    "url": "https://www.raidguild.org",
+    "explorers": [
+        "https://blockscout.com/xdai/mainnet/tokens/0x18E9262e68Cc6c6004dB93105cc7c001BB103e49/token-transfers"
+    ],
+    "twitter": "RaidGuild",
+    "github_org": "raid-guild"
+}

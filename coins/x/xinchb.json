@@ -1,0 +1,22 @@
+{
+    "id": "xinchb",
+    "symbol": "xINCHb",
+    "name": "xINCHb",
+    "platforms": {
+        "ethereum": "0x6b33f15360cedbfb8f60539ec828ef52910aca9b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wrapper for the 1Inch staking process; Samuelson Mandate"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x6b33f15360cedbfb8f60539ec828ef52910aca9b",
+    "url": "https://xtoken.market",
+    "explorers": [
+        "https://etherscan.io/token/0x6B33f15360cedBFB8F60539ec828ef52910acA9b",
+        "https://ethplorer.io/address/0x6B33f15360cedBFB8F60539ec828ef52910acA9b"
+    ],
+    "twitter": "xtokenmarket"
+}

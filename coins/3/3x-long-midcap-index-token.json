@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-midcap-index-token",
+    "symbol": "midbull",
+    "name": "3X Long Midcap Index Token",
+    "platforms": {
+        "ethereum": "0x59db60bd41bbc8ca4c1efee6ea2a97eae1e30cf5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Midcap Index Token (MIDBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Midcap Index."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x59db60bd41bbc8ca4c1efee6ea2a97eae1e30cf5",
+    "url": "https://ftx.com/tokens/MIDBULL",
+    "explorers": [
+        "https://etherscan.io/token/0x59db60bd41bbc8ca4c1efee6ea2a97eae1e30cf5",
+        "https://ethplorer.io/address/0x59db60bd41bbc8ca4c1efee6ea2a97eae1e30cf5"
+    ]
+}

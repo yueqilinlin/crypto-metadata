@@ -1,0 +1,41 @@
+{
+    "id": "usd-coin",
+    "symbol": "usdc",
+    "name": "USD Coin",
+    "platforms": {
+        "ethereum": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "binance-smart-chain": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "solana": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "avalanche": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+        "polygon-pos": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "fantom": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+        "harmony-shard-0": "0x985458e523db3d53125813ed68c274899e9dfab4",
+        "okex-chain": "0xc946daf81b08146b1c7a8da2a851ddf2b3eaaf85",
+        "arbitrum-one": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+        "moonriver": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+        "sora": "0x00ef6658f79d8b560f77b7b20a5d7822f5bc22539c7b4056128258e5829da517",
+        "optimistic-ethereum": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+        "tomochain": "0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0",
+        "xdai": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "USD Stablecoin",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "url": "https://www.circle.com/en/usdc",
+    "explorers": [
+        "https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "https://ethplorer.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "https://blockchair.com/ethereum/erc-20/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "https://blockscout.com/poa/xdai/tokens/0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83/token-transfers",
+        "https://polygonscan.com/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48}"
+    ],
+    "github_org": "centrehq"
+}

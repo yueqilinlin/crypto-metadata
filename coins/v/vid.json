@@ -1,0 +1,27 @@
+{
+    "id": "vid",
+    "symbol": "vi",
+    "name": "Vid",
+    "platforms": {
+        "ethereum": "0x8b6c3b7c01d9db4393f9aa734750f36df1543e9a",
+        "harmony-shard-0": "0xf3f8089362dd4c0fd56f12b7d34edbddc7a12d6f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Social Money"
+    ],
+    "description": {
+        "en": "Vid is Social Money. \r\n\r\nThe intersection of Social Media and Finance. \r\n\r\nVid has developed a social media app that pays all of its users every day in crypto (VI token) for using the app. It is the first platform to monetize hashtags which can be bought in the form of NFT's. \r\n\r\nVid is currently building its One wallet which will allow users to store and spend all of their currencies, both digital and fiat, using one debit card. That includes US Dollars, Euros, GBP, Bitcoin, ETH and VI."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x8b6c3b7c01d9db4393f9aa734750f36df1543e9a",
+    "url": "https://vid.camera/",
+    "explorers": [
+        "https://etherscan.io/token/0x8b6c3b7C01D9dB4393f9aa734750F36df1543E9A",
+        "https://ethplorer.io/address/0x8b6c3b7C01D9dB4393f9aa734750F36df1543E9A"
+    ],
+    "twitter": "vid_app",
+    "telegram": "Vid_app",
+    "reddit": "https://www.reddit.com"
+}

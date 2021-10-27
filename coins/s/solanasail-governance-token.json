@@ -1,0 +1,24 @@
+{
+    "id": "solanasail-governance-token",
+    "symbol": "gsail",
+    "name": "SolanaSail Governance Token",
+    "platforms": {
+        "solana": "Gsai2KN28MTGcSZ1gKYFswUpFpS7EM9mvdR9c8f6iVXJ"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "gSAIL is our Governance token of the SolanaSail Ecosystem. It will be used on the gSAIL Governance platform to create and votes for proposals."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "Gsai2KN28MTGcSZ1gKYFswUpFpS7EM9mvdR9c8f6iVXJ",
+    "url": "https://www.solanasail.com/",
+    "explorers": [],
+    "twitter": "SolanaSail",
+    "telegram": "SolanaSail_Official",
+    "reddit": "solanasail/",
+    "github_org": "solanasail"
+}

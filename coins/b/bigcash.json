@@ -1,0 +1,24 @@
+{
+    "id": "bigcash",
+    "symbol": "bgc",
+    "name": "BigCash",
+    "platforms": {
+        "ethereum": "0xd043f70ff0634167db1149b15e5668f5be52d72c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bigcash token is payment network and staking token for  supply chain network projects"
+    },
+    "country_origin": "MY",
+    "genesis_date": null,
+    "contract_address": "0xd043f70ff0634167db1149b15e5668f5be52d72c",
+    "url": "http://www.bigcashwallet.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd043f70ff0634167db1149b15e5668f5be52d72c",
+        "https://ethplorer.io/address/0xd043f70ff0634167db1149b15e5668f5be52d72c"
+    ],
+    "twitter": "bigcashtoken",
+    "facebook": "BigCash-Payment-Network-106729408140513",
+    "github_org": "kpay-bigcash"
+}

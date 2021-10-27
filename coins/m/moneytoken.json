@@ -1,0 +1,26 @@
+{
+    "id": "moneytoken",
+    "symbol": "imt",
+    "name": "MoneyToken",
+    "platforms": {
+        "ethereum": "0x13119e34e140097a507b07a5564bde1bc375d9e6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The MoneyToken platform allows you to receive liquid funds right now, based on the current value of your cryptocurrency asset holdings:\r\n1) You take a loan and deposit your crypto assets as a collateral .\r\n2) In return you receive an agreed loan amount in a stable currency. \r\n3) After loan repayment you will receive your whole collateral back, even if collateral has many times increased in value. "
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x13119e34e140097a507b07a5564bde1bc375d9e6",
+    "url": "http://moneytoken.eu/",
+    "explorers": [
+        "https://etherscan.io/token/0x13119e34e140097a507b07a5564bde1bc375d9e6",
+        "https://ethplorer.io/address/0x13119e34e140097a507b07a5564bde1bc375d9e6"
+    ],
+    "twitter": "MoneyToken",
+    "facebook": "MoneyTokenOfficial",
+    "telegram": "moneytoken",
+    "reddit": "MoneyToken/",
+    "github_org": "MoneyToken"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "hepa-finance",
+    "symbol": "hepa",
+    "name": "Hepa Finance",
+    "platforms": {
+        "binance-smart-chain": "0x9159f30f1c3f0317b0a2d6bc176f29266be790ee"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HEPA token (HEPA) \u2014 a revenue generating governance token governing the HEPA Finance ecosystem on Binance Smart Chain.\r\nYield farming on Binance Smart Chain \u2014\r\n\r\nStake;\r\nHEPA/BUSD\r\nHEPA/BNB\r\nHEPA/BANANA\r\n\r\nHEPA/TAPE and earn extremely lucrative rewards for being an early supporter. The yield farming system incorporates a unique 95% locked / 5% unlocked token supply design to create a sustainable and long-term farming environment.\r\n\r\nHepaFinance only supports MetaMask & TrustWallet."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9159f30f1c3f0317b0a2d6bc176f29266be790ee",
+    "url": "https://hepa.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x9159f30f1c3f0317b0a2d6bc176f29266be790ee"
+    ],
+    "twitter": "HepaFinance",
+    "telegram": "hepafinance"
+}

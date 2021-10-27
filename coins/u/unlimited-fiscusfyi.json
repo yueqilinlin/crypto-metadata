@@ -1,0 +1,23 @@
+{
+    "id": "unlimited-fiscusfyi",
+    "symbol": "uffyi",
+    "name": "Unlimited FiscusFYI",
+    "platforms": {
+        "ethereum": "0x021576770cb3729716ccfb687afdb4c6bf720cb6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fiscus.fyi is a interoperable platform lending aggregator."
+    },
+    "country_origin": "RS",
+    "genesis_date": null,
+    "contract_address": "0x021576770cb3729716ccfb687afdb4c6bf720cb6",
+    "url": "https://fiscus.fyi/",
+    "explorers": [
+        "https://etherscan.io/token/0x021576770CB3729716CCfb687afdB4c6bF720CB6",
+        "https://ethplorer.io/address/0x021576770CB3729716CCfb687afdB4c6bF720CB6"
+    ],
+    "twitter": "fiscusfyi",
+    "github_org": "Fiscus-fyi"
+}

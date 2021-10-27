@@ -1,0 +1,24 @@
+{
+    "id": "dogeyield",
+    "symbol": "dogy",
+    "name": "DogeYield",
+    "platforms": {
+        "ethereum": "0x9c405acf8688afb61b3197421cdeec1a266c6839"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DogeYield is Dogecoin Yield Farming Platform based on ERC20"
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0x9c405acf8688afb61b3197421cdeec1a266c6839",
+    "url": "https://dogeyield.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x9c405acf8688afb61b3197421cdeec1a266c6839",
+        "https://ethplorer.io/address/0x9c405acf8688afb61b3197421cdeec1a266c6839"
+    ],
+    "twitter": "dogeyield_com",
+    "telegram": "dogeyieldofficialgroup",
+    "github_org": "dogeyield"
+}

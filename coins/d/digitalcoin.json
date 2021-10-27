@@ -1,0 +1,22 @@
+{
+    "id": "digitalcoin",
+    "symbol": "dgc",
+    "name": "Digitalcoin",
+    "platforms": {},
+    "hashing_algorithm": "Multiple Algorithms",
+    "categories": [],
+    "description": {
+        "en": "Digitalcoin is an alternative open-source cryptocurrency with focus on economic fairness and growth. It uses the tagline \"A Currency for the Digital Age\". The Digitalcoin community aims to help facilitate the circulation of digital currency by bridging the gap between the common public and the new cryptocurrency technology.\r\n\r\nBlocks are hashed using Scrypt, X11 and SHA256 algorithms. The average block confirmation time for Digitalcoin takes about 40 seconds. The total supply of digitalcoins will balance out around 48,166,000 as block halvings occur."
+    },
+    "country_origin": "",
+    "genesis_date": "2013-05-20",
+    "url": "https://ewmci.info/digitalcoin-resources",
+    "explorers": [
+        "http://dgc.blockr.io/",
+        "https://chainz.cryptoid.info/dgc/"
+    ],
+    "twitter": "digitalcoindgc",
+    "facebook": "DigitalCoinDGC",
+    "reddit": "digitalcoin/",
+    "github_org": "DGCDev"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "geist-finance",
+    "symbol": "geist",
+    "name": "Geist Finance",
+    "platforms": {
+        "fantom": "0xd8321aa83fb0a4ecd6348d4577431310a6e0814d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fantom Ecosystem"
+    ],
+    "description": {
+        "en": "Geist Finance is a decentralized, non-custodial liquidity market protocol operating on the Fantom Opera blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd8321aa83fb0a4ecd6348d4577431310a6e0814d",
+    "url": "https://geist.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0xd8321aa83fb0a4ecd6348d4577431310a6e0814d"
+    ],
+    "twitter": "GeistFinance",
+    "telegram": "geist_finance",
+    "github_org": "geist-finance"
+}

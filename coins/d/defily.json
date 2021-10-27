@@ -1,0 +1,24 @@
+{
+    "id": "defily",
+    "symbol": "dfl",
+    "name": "Defily",
+    "platforms": {
+        "binance-smart-chain": "0xd675ff2b0ff139e14f86d87b7a6049ca7c66d76e",
+        "kardiachain": "0xd675ff2b0ff139e14f86d87b7a6049ca7c66d76e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A DeFi Cross Chain Ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd675ff2b0ff139e14f86d87b7a6049ca7c66d76e",
+    "url": "https://defily.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xD675fF2B0ff139E14F86D87b7a6049ca7C66d76e"
+    ],
+    "twitter": "defilyfinance",
+    "telegram": "defilyfinance",
+    "reddit": "DefilyFinance/"
+}

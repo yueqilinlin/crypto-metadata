@@ -1,0 +1,26 @@
+{
+    "id": "thales",
+    "symbol": "thales",
+    "name": "Thales",
+    "platforms": {
+        "ethereum": "0x03e173ad8d1581a4802d3b532ace27a62c5b81dc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Binary options Handshake Ethereum."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x03e173ad8d1581a4802d3b532ace27a62c5b81dc",
+    "url": "https://thales.market/",
+    "explorers": [
+        "https://etherscan.io/token/0x03e173ad8d1581a4802d3b532ace27a62c5b81dc",
+        "https://ethplorer.io/address/0x03e173ad8d1581a4802d3b532ace27a62c5b81dc"
+    ],
+    "twitter": "thalesmarket",
+    "github_org": "thales-markets"
+}

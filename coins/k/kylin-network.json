@@ -1,0 +1,30 @@
+{
+    "id": "kylin-network",
+    "symbol": "kyl",
+    "name": "Kylin Network",
+    "platforms": {
+        "ethereum": "0x67b6d479c7bb412c54e03dca8e1bc6740ce6b99c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services",
+        "Infrastructure",
+        "Polkadot Ecosystem",
+        "Smart Contract Platform",
+        "Oracle"
+    ],
+    "description": {
+        "en": "Kylin Network offers any applications and blockchains (such as parachains and parathreads) instantaneous but reliable and valid on/off-chain market data and social data sources by leveraging the power of Polkadot/Substrate Framework on open networks."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x67b6d479c7bb412c54e03dca8e1bc6740ce6b99c",
+    "url": "https://kylin.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C",
+        "https://ethplorer.io/address/0x67b6d479c7bb412c54e03dca8e1bc6740ce6b99c"
+    ],
+    "twitter": "Kylin_Network",
+    "telegram": "KylinOfficial",
+    "github_org": "Kylin-Network"
+}

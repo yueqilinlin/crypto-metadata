@@ -1,0 +1,25 @@
+{
+    "id": "liq-protocol",
+    "symbol": "liq",
+    "name": "LIQ Protocol",
+    "platforms": {
+        "solana": "4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "A decentralized on-chain liquidation engine built for Serum DEX margin markets on the Solana network"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj",
+    "url": "https://liqsolana.com/",
+    "explorers": [
+        "https://solscan.io/token/4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj"
+    ],
+    "twitter": "liqprotocol",
+    "telegram": "liqprotocol",
+    "github_org": "liqprotocol"
+}

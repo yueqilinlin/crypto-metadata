@@ -1,0 +1,24 @@
+{
+    "id": "chaincade",
+    "symbol": "chaincade",
+    "name": "ChainCade",
+    "platforms": {
+        "binance-smart-chain": "0x2ffee7b4df74f7c6508a4af4d6d91058da5420d0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ChainCade is bringing the arcade experience to the blockchain. Retro arcade games that you can play to earn BNB and other prizes. An NFT marketplace to collect our exclusive NFT drops from your favorite games on our platform and a game developer program aimed at rewarding and showcasing talent."
+    },
+    "country_origin": "LV",
+    "genesis_date": null,
+    "contract_address": "0x2ffee7b4df74f7c6508a4af4d6d91058da5420d0",
+    "url": "https://chaincade.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x2ffee7b4df74f7c6508a4af4d6d91058da5420d0"
+    ],
+    "twitter": "ChainCadeBSC",
+    "telegram": "chaincade",
+    "reddit": "ChainCade/",
+    "github_org": "chaincade"
+}

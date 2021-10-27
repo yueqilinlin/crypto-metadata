@@ -1,0 +1,26 @@
+{
+    "id": "givly-coin",
+    "symbol": "giv",
+    "name": "GIV Token",
+    "platforms": {
+        "ethereum": "0xf6537fe0df7f0cc0985cf00792cc98249e73efa0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "GIVLY is a blockchain-powered social funding platform that reinvents the charitable/aid ecosystem by increasing transparency, accountability and realized social impact."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0xf6537fe0df7f0cc0985cf00792cc98249e73efa0",
+    "url": "http://cryptolocally.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xf6537fe0df7f0cc0985cf00792cc98249e73efa0",
+        "https://explorer.binance.org/asset/GIV-94E",
+        "https://ethplorer.io/address/0xf6537fe0df7f0cc0985cf00792cc98249e73efa0"
+    ],
+    "twitter": "cryptolocally",
+    "telegram": "cryptolocally"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "bitguild",
+    "symbol": "plat",
+    "name": "BitGuild PLAT",
+    "platforms": {
+        "tron": "TG37mUxRUaH1E8DWSrrmoQ79BnZn1yHztb"
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "\"BitGuild aims to bring blockchain and cryptocurrency adoption to the masses by providing compelling experiences that are easily \r\naccessible. Between GuildChat, our crypto social app, GuildWallet, the most user-friendly browser extension wallet, and TronTrade, our decentralized exchange, we\u2019re firing on all cylinders to usher in a new age, changing the way people interact with their digital goods.\""
+    },
+    "country_origin": "CN",
+    "genesis_date": "2018-01-31",
+    "contract_address": "TG37mUxRUaH1E8DWSrrmoQ79BnZn1yHztb",
+    "url": "https://bitguild.io/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TG37mUxRUaH1E8DWSrrmoQ79BnZn1yHztb",
+        "https://www.trxplorer.io/token/TG37mUxRUaH1E8DWSrrmoQ79BnZn1yHztb"
+    ],
+    "twitter": "BitGuild",
+    "facebook": "bitguildplat",
+    "telegram": "BitGuildOfficial",
+    "reddit": "BitGuild/",
+    "github_org": "BitGuildPlatform"
+}

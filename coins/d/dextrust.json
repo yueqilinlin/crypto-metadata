@@ -1,0 +1,24 @@
+{
+    "id": "dextrust",
+    "symbol": "dets",
+    "name": "Dextrust",
+    "platforms": {
+        "ethereum": "0xd379700999f4805ce80aa32db46a94df64561108"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A community driven decentralized exchange, platform built for trading ERC-20 tokens, interoperable with other chains, bridging gap between assets of different blockchain, with staking feature enabled.\r\nDextrust token will be liquidity fuel for the platform, giving back power to the community & holders.\r\nDextrust token will be used as governance token for Decentralized Autonomous Organisation (DAO) where community & holders can upvote proposals on actions & decisions taken, bringing a full decentralized model into Dextrust\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd379700999f4805ce80aa32db46a94df64561108",
+    "url": "https://dextrust.org/#how_it_works",
+    "explorers": [
+        "https://etherscan.io/token/0xd379700999f4805ce80aa32db46a94df64561108",
+        "https://ethplorer.io/address/0xd379700999f4805ce80aa32db46a94df64561108"
+    ],
+    "twitter": "Dextrust1",
+    "telegram": "DextrustCommunity",
+    "github_org": "dextrust1"
+}

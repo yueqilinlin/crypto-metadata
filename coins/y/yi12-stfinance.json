@@ -1,0 +1,25 @@
+{
+    "id": "yi12-stfinance",
+    "symbol": "yi12",
+    "name": "Yield Stake Finance",
+    "platforms": {
+        "ethereum": "0x03e4bdce611104289333f35c8177558b04cc99ff"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "YI12 STFinance is a decentralized finance community token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x03e4bdce611104289333f35c8177558b04cc99ff",
+    "url": "https://yifistake.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x03e4bdce611104289333f35c8177558b04cc99ff",
+        "https://ethplorer.io/address/0x03e4bdce611104289333f35c8177558b04cc99ff"
+    ],
+    "twitter": "Yfinance12",
+    "telegram": "yi12_chat"
+}

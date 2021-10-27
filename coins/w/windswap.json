@@ -1,0 +1,23 @@
+{
+    "id": "windswap",
+    "symbol": "windy",
+    "name": "WindSwap",
+    "platforms": {
+        "binance-smart-chain": "0xd1587ee50e0333f0c4adcf261379a61b1486c5d2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WindSwap is the world\u2019s first deflationary bridging token, which is to be used on our existing decentralized exchange at https://app.windswap.finance, for our cross-chain bridge.\r\n\r\nOur platform allows the convenient trading of any BEP-20 token and will provide further functionality around charting and automated due diligence for our users. \r\n\r\nWindSwap is a deflationary token, with a maximum of 25 million coins. This will be reduced to 8.8 million over 192 cycles via the built in rebasing process."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xd1587ee50e0333f0c4adcf261379a61b1486c5d2",
+    "url": "https://windswap.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xd1587ee50e0333f0c4adcf261379a61b1486c5d2"
+    ],
+    "twitter": "windswap",
+    "telegram": "windswapmembers",
+    "reddit": "WindSwap/"
+}

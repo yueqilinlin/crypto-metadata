@@ -1,0 +1,24 @@
+{
+    "id": "swapz-app",
+    "symbol": "swapz",
+    "name": "SWAPZ.app",
+    "platforms": {
+        "binance-smart-chain": "0xd522a1dce1ca4b138dda042a78672307eb124cc2",
+        "tron": "TKdpGm5wKPLz3stemW8gkGvAdhztJcDjcW"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"Swapz applies the P2P principle to decentralized transactions. Our cutting-edge software negotiates a rate directly between the seller and the buyer, thereby fully eliminating slippage\r\n\r\nEverything on Swapz is easy, intuitive, and simple to use. Our UI is all about making it easier for you to make winning trades.\r\n\r\nSwapz is 100% open source and compatible with the Ethereum, Binance Smart Chain and Velas blockchains.\r\n\r\nYour private keys are fully encrypted and never leave your device. Only you control your funds.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd522a1dce1ca4b138dda042a78672307eb124cc2",
+    "url": "https://swapz.app/",
+    "explorers": [
+        "https://bscscan.com/token/0xd522a1dce1ca4b138dda042a78672307eb124cc2",
+        "https://tronscan.org/#/token20/TKdpGm5wKPLz3stemW8gkGvAdhztJcDjcW"
+    ],
+    "twitter": "swapz_app",
+    "telegram": "swapz_app"
+}

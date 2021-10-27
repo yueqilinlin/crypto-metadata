@@ -1,0 +1,26 @@
+{
+    "id": "rhythm",
+    "symbol": "rhythm",
+    "name": "Rhythm",
+    "platforms": {
+        "binance-smart-chain": "0xe4318f2acf2b9c3f518a3a03b5412f4999970ddb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Music"
+    ],
+    "description": {
+        "en": "Rhythm is the token powering the BeatPlaylist music streaming platform, which boasts a library of over 100 million songs, offering holders in-app rewards, perks, NFTs, and powering the Artist Partner Program."
+    },
+    "country_origin": "NZ",
+    "genesis_date": null,
+    "contract_address": "0xe4318f2acf2b9c3f518a3a03b5412f4999970ddb",
+    "url": "https://rhythm.cash/",
+    "explorers": [
+        "https://bscscan.com/token/0xE4318F2aCf2b9c3f518A3a03B5412F4999970Ddb"
+    ],
+    "twitter": "RhythmBSC",
+    "telegram": "RhythmChat",
+    "reddit": "RhythmToken/",
+    "github_org": "ryandavern"
+}

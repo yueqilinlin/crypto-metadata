@@ -1,0 +1,24 @@
+{
+    "id": "wadzpay-token",
+    "symbol": "wtk",
+    "name": "WadzPay Token",
+    "platforms": {
+        "ethereum": "0xdf9d4674a430bdcc096a3a403128357ab36844ba"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WadzPay anyone, buy anything in any digital currency"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdf9d4674a430bdcc096a3a403128357ab36844ba",
+    "url": "https://wadzpay.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xdf9d4674a430bdcc096a3a403128357ab36844ba",
+        "https://ethplorer.io/address/0xdf9d4674a430bdcc096a3a403128357ab36844ba"
+    ],
+    "twitter": "wadzpay",
+    "facebook": "wadzpay",
+    "telegram": "WadzPay_Official"
+}

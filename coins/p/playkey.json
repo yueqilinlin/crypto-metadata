@@ -1,0 +1,26 @@
+{
+    "id": "playkey",
+    "symbol": "pkt",
+    "name": "PlayKey",
+    "platforms": {
+        "ethereum": "0x2604fa406be957e542beb89e6754fcde6815e83f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PKT is available for purchase from ICO marketplace Cryptonomos. During the Initial Coin Offering (ICO) pre-sale campaign, the company collected more than $3.5 million in sales. This included $1 million from the American fund Uncharted Capital and over $1 million from Allrise Financial Group. Backed by the Playkey Foundation - the ecosystem\u2019s regulating body - PKT provides gamers with an affordable way of playing top rated games on any web-enabled device, and rewards Playkey\u2019s global network of service providers for sharing their processing power. "
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0x2604fa406be957e542beb89e6754fcde6815e83f",
+    "url": "https://playkey.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x2604fa406be957e542beb89e6754fcde6815e83f",
+        "https://ethplorer.io/address/0x2604fa406be957e542beb89e6754fcde6815e83f"
+    ],
+    "twitter": "playkey_en",
+    "facebook": "playkeygames",
+    "telegram": "playkey_io",
+    "reddit": "Playkey/",
+    "github_org": "Playkey"
+}

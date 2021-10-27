@@ -1,0 +1,24 @@
+{
+    "id": "biblepay",
+    "symbol": "bbp",
+    "name": "BiblePay",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "BiblePay is a secure deflationary blockchain developed to benefit those in distress."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-07-23",
+    "url": "https://biblepay.org/",
+    "explorers": [
+        "http://explorer.biblepay.org",
+        "https://chainz.cryptoid.info/bbp/"
+    ],
+    "twitter": "biblepay",
+    "telegram": "biblepay_airdrop",
+    "reddit": "BiblePay",
+    "github_org": "biblepay"
+}

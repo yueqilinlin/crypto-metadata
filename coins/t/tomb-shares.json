@@ -1,0 +1,23 @@
+{
+    "id": "tomb-shares",
+    "symbol": "tshare",
+    "name": "Tomb Shares",
+    "platforms": {
+        "fantom": "0x4cdf39285d7ca8eb3f090fda0c069ba5f4145b37"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fantom Ecosystem",
+        "Governance"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4cdf39285d7ca8eb3f090fda0c069ba5f4145b37",
+    "url": "https://tomb.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0x4cdf39285d7ca8eb3f090fda0c069ba5f4145b37"
+    ]
+}

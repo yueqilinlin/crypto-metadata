@@ -1,0 +1,24 @@
+{
+    "id": "glitchy",
+    "symbol": "gly",
+    "name": "Glitchy",
+    "platforms": {
+        "binance-smart-chain": "0x811ae301d0bf4db9895535733f5677b2d727b5fb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Glitchy is a new way to earn rewards simply by holding the token in your Binance Smart Chain enabled wallet."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x811ae301d0bf4db9895535733f5677b2d727b5fb",
+    "url": "https://glitchy.wtf/",
+    "explorers": [
+        "https://bscscan.com/token/0x811ae301d0bf4db9895535733f5677b2d727b5fb"
+    ],
+    "twitter": "glitchytoken",
+    "facebook": "Glitchybsc-101726168767323",
+    "telegram": "glitchyBSC",
+    "reddit": "GLITCHYBSC/"
+}

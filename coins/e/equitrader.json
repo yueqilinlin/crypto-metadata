@@ -1,0 +1,19 @@
+{
+    "id": "equitrader",
+    "symbol": "eqt",
+    "name": "EquiTrader",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [],
+    "description": {
+        "en": "EquiTrader is a decentralized crowdsourced financial markets analysis platform which rewards traders with app tokens for providing valuable market analysis and trading forecasts. EquiTrader rewards traders for sharing their insight on successful altcoin, bitcoin, and financial market analysis and trades, and provides a social community for traders and investors of cryptocurrency, stock, futures, and forex markets."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-08-19",
+    "url": "http://www.equitrader.co/",
+    "explorers": [
+        "https://chainz.cryptoid.info/eqt/"
+    ],
+    "twitter": "equi_trader",
+    "github_org": "equitrader"
+}

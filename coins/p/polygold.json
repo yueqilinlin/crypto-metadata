@@ -1,0 +1,23 @@
+{
+    "id": "polygold",
+    "symbol": "polygold",
+    "name": "PolyGold",
+    "platforms": {
+        "polygon-pos": "0x0184316f58b9a44acdd3e683257259dc0cf2202a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An innovative cryptocurrency investment and yield farming platform built on the Polygon/Matic chain that seeks to create an ecosystem with sustainable, long-term growth."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x0184316f58b9a44acdd3e683257259dc0cf2202a",
+    "url": "https://polygold.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x0184316f58b9a44acdd3e683257259dc0cf2202a"
+    ],
+    "twitter": "polygold_fi",
+    "telegram": "polygold_finance",
+    "github_org": "Polygold-Finance"
+}

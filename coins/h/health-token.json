@@ -1,0 +1,24 @@
+{
+    "id": "health-token",
+    "symbol": "helth",
+    "name": "Health Token",
+    "platforms": {
+        "binance-smart-chain": "0x2bd7e7aed93d79d7d8a6d23dc7defc7d6b5d84ad"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Health Token aims to bridge the crypto and fitness industries. HELTH will be used within our ecosystem of Apps which aim to create a community based around Fitness and wellbeing, whilst providing rewards in HELTH to active and contributing users.\r\n\r\nHealthHandler is the first app in our suite. Its function is to offer user generated meal plans tailored to your filters, through a tinder style yes or no system. It links to (currently) UK online shopping carts,  where it then adds the needed ingredients for convenient purchase.\r\n \r\nHELTH aims to offer an online store for nutritional supplements and fitness apparel (and in the future) Gym memberships. in which can be payed for by health at a discounted rate. \r\n\r\nOther projects in the pipeline to ensure our project grows and stays strong."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2bd7e7aed93d79d7d8a6d23dc7defc7d6b5d84ad",
+    "url": "https://handler.health/",
+    "explorers": [
+        "https://bscscan.com/token/0x2bD7E7aEd93D79d7D8a6D23DC7dEFC7D6b5D84ad"
+    ],
+    "twitter": "realhealthtoken",
+    "telegram": "officialhealthtoken",
+    "reddit": "HealthToken/",
+    "github_org": "piotr-ost"
+}

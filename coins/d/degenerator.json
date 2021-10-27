@@ -1,0 +1,29 @@
+{
+    "id": "degenerator",
+    "symbol": "meme",
+    "name": "Meme",
+    "platforms": {
+        "ethereum": "0xd5525d397898e5502075ea5e830d8914f6f0affe",
+        "harmony-shard-0": "0x43ba3c1eb73ffecfbf22c44c21b26cde1012353a",
+        "xdai": "0x512a2eb0277573ae9be0d48c782590b624048fdf"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "About $MEME MEME is the native token to the exclusive digital art NFT platform DontBuyMEME. The platform hosts digital artists from around the world and offers its community a chance at minting NFTs by staking their MEME tokens. In return for staking, users earn redemption credits known as pineapples that are used to mint the NFT of their choice. MEME can also be used to bid on art auctions through the platform.\r\n\r\nAbout DontBuyMEME DontBuyMEME started as a grassroots, community led project that quickly grew in popularity at the end of DeFi Summer \u201920. MEME was the catalyst for a renaissance in digital art, largely in part from the enthusiastic community that formed around it, educating participants in the crypto space about NFTs. The project continues to thrive today by curating world renowned artists and cultivating rising stars on the platform every week."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd5525d397898e5502075ea5e830d8914f6f0affe",
+    "url": "https://dontbuymeme.com",
+    "explorers": [
+        "https://etherscan.io/token/0xd5525d397898e5502075ea5e830d8914f6f0affe",
+        "https://ethplorer.io/address/0xd5525d397898e5502075ea5e830d8914f6f0affe",
+        "https://blockscout.com/poa/xdai/tokens/0x512a2Eb0277573ae9Be0d48c782590b624048fdF/token-transfers"
+    ],
+    "twitter": "DontBuyMeme",
+    "telegram": "thedegenerator"
+}

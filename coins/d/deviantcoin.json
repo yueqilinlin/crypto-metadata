@@ -1,0 +1,26 @@
+{
+    "id": "deviantcoin",
+    "symbol": "dev",
+    "name": "Deviant Coin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Masternodes",
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "The Deviant Coin (DEV) is a PoS/Masternode based cryptocurrency. Our main focus is to provide a secure mode of crypto experience.While being Anonymous, cryptographic and security principals are incorporated throughout the entire Development Life Cycle to guarantee a secure core meeting the requirements and expectations.You own your private keys.In this world of plethora of digital tokens, we provide a decentralized wallet to access all of your funds at one place. Our roadmap includes a fully decentralized hardware wallet that works on the same platform. This adds to the security of the platform by enabling hash keys to secure your web access with additional 2-Factor Authentication.\r\n\r\nThe Deviant Coin is a well decentralized network of Masternodes without superfluous control and intermediaries/gatekeepers with more than 80% pure Block reward phase and ensures lightning fast and secured transaction, multi-wallets, encrypted messaging, stealth address for complete anonymity, low number of confirmations, low fees and limited number of total coin supply for faster increase of value. Since the Masternodes are constantly connected to the network & perform certain tasks, this allows the coin to achieve faster and more private transactions. These are full nodes that run 24/7 and require collateral of 5,000 DEV. In exchange for providing this service and locking up the coins which effectively reduce supply, the Masternode owner is rewarded a portion of the block rewards. The percent of the block rewards earned is variable which increases over the period. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://deviantcoin.io",
+    "explorers": [
+        "https://www.coinexplorer.net/DEV",
+        "http://explorer.deviantcoin.io/"
+    ],
+    "twitter": "DeviantCoin",
+    "facebook": "DeviantCoin",
+    "telegram": "DeviantDEV",
+    "reddit": "DeviantCoin/",
+    "github_org": "Deviantcoin"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "lynchpin_token",
+    "symbol": "lyn",
+    "name": "Lynchpin Token",
+    "platforms": {
+        "ethereum": "0xb0b1685f55843d03739c7d9b0a230f1b7dcf03d5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The birth of Lynchpin (LYN) token is to create a token that solves critical problems in the cryptocurrency industry."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xb0b1685f55843d03739c7d9b0a230f1b7dcf03d5",
+    "url": "https://www.lyntoken.com",
+    "explorers": [
+        "https://etherscan.io/token/0xb0b1685f55843d03739c7d9b0a230f1b7dcf03d5",
+        "https://ethplorer.io/address/0xb0b1685f55843d03739c7d9b0a230f1b7dcf03d5"
+    ],
+    "twitter": "LynToken",
+    "facebook": "lyntoken",
+    "telegram": "lynchpintoken",
+    "github_org": "LynchpinToken"
+}

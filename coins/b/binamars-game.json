@@ -1,0 +1,22 @@
+{
+    "id": "binamars-game",
+    "symbol": "bgame",
+    "name": "Binamars Game",
+    "platforms": {
+        "binance-smart-chain": "0x24a55346c17205f9561122c11f414d422e49cf75"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BGame Token a reward in Binamars Game"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x24a55346c17205f9561122c11f414d422e49cf75",
+    "url": "https://www.binamars.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x24a55346c17205f9561122c11f414d422e49cf75"
+    ],
+    "twitter": "Binamarsbsc",
+    "telegram": "binamarschannel"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "1x-short-ethereum-token",
+    "symbol": "ethhedge",
+    "name": "1X Short Ethereum Token",
+    "platforms": {
+        "ethereum": "0x10e1e953ddba597011f8bfa806ab0cc3415a622b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "1X Short Ethereum Token (ETHHEDGE) is an ERC20 token which seeks a return that corresponds to -1 times the daily return of Ethereum."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x10e1e953ddba597011f8bfa806ab0cc3415a622b",
+    "url": "https://ftx.com/tokens/ETHHEDGE",
+    "explorers": [
+        "https://etherscan.io/token/0x10e1e953ddba597011f8bfa806ab0cc3415a622b",
+        "https://ethplorer.io/address/0x10e1e953ddba597011f8bfa806ab0cc3415a622b"
+    ]
+}

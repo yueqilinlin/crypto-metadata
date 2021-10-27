@@ -1,0 +1,23 @@
+{
+    "id": "moon-stop",
+    "symbol": "mnstp",
+    "name": "Moon Stop",
+    "platforms": {
+        "binance-smart-chain": "0x7fdbd2fab9716902aa40c3bf7da1cf71b700a143"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Moon Stop (MNSTP)\u2019s primary use case is NFT farming. We are also a frictionless Yield & Liquidity Generation Token with a 9% fee: 5% auto-locks in Pancake LP, and the other 4% is re-distributed to coin holders.\r\n\r\nMoon Stop is also deflationary and coin burns happen at community decided milestones and marketcap increments. Coins can be used for staking, resulting in points redeemable for NFT\u2019s. NFT\u2019s are then tradable on the secondary market. Certain high point NFT\u2019s will also be redeemable for rewards in the form of BNB and Moon Stop coins. \r\n\r\nWe aim to create a community where everyone has an equal opportunity to win. For every piece of content you create, you will be eligible to have your work featured in the Moon Stop meme farm. As the community expands and grows, the coin will adapt to the desires and wants of everyone who is engaged."
+    },
+    "country_origin": "LB",
+    "genesis_date": null,
+    "contract_address": "0x7fdbd2fab9716902aa40c3bf7da1cf71b700a143",
+    "url": "https://moonstop.space",
+    "explorers": [
+        "https://bscscan.com/token/0x7fdbd2fab9716902aa40c3bf7da1cf71b700a143"
+    ],
+    "twitter": "moonstopcoin",
+    "telegram": "officialmoonstopcoin",
+    "reddit": "MNSTP/"
+}

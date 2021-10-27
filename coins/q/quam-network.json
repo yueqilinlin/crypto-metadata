@@ -1,0 +1,23 @@
+{
+    "id": "quam-network",
+    "symbol": "quam",
+    "name": "Quam Network",
+    "platforms": {
+        "binance-smart-chain": "0x1ade17b4b38b472b5259bbc938618226df7b5ca8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Quam Network is an Advanced Multi-chain Defi Protocol which provides various Defi-Investment methods with the best trading experience over Binance Smart Chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1ade17b4b38b472b5259bbc938618226df7b5ca8",
+    "url": "https://quamnetwork.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x1ade17b4b38b472b5259bbc938618226df7b5ca8"
+    ],
+    "twitter": "quamnetwork",
+    "telegram": "Quamnetwork",
+    "github_org": "Quam-Network"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "shibaken-finance",
+    "symbol": "shibaken",
+    "name": "Shibaken Finance",
+    "platforms": {
+        "ethereum": "0xa4cf2afd3b165975afffbf7e487cdd40c894ab6b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "Shibaken is a new memetoken on the ethereum blockchain, rewarding holders with a 1% fees on buy/sell"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa4cf2afd3b165975afffbf7e487cdd40c894ab6b",
+    "url": "https://www.shibaken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa4cf2afd3b165975afffbf7e487cdd40c894ab6b",
+        "https://ethplorer.io/address/0xa4cf2afd3b165975afffbf7e487cdd40c894ab6b"
+    ],
+    "twitter": "ShibakenFinance",
+    "telegram": "shibakens"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "deswap",
+    "symbol": "daw",
+    "name": "Deswap",
+    "platforms": {
+        "polygon-pos": "0x33e02851d5a084137dc69b1a02ab2eeb7b7fe2a5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Deswap(DAW) is a decentralized lending protocol powers the world's first decentralised stablecoin(YAI) built on polygon network,  which is backed by a basket of stablecoins and crypto assets with no centralised control .We are aiming to change the interaction between the lenders and borrowers so that people can exchange assets without seamlessly loosing their funds in the form of higher gas fee. On the Polygon chain, the Deswap Protocol is designed to enable a comprehensive algorithmic money market protocol. To begin, the Deswap Protocol(DAW) will allow users to mint YAI (YAI), a synthetic stablecoin pegged to the price of $1 USD, by using the yTokens from the underlying collateral already submitted to the protocol. Users may borrow up to 50% of the remaining collateral value in their yTokens to mint YAI.Stablecoins on the Deswap Protocol can be created synthetically and added as a proposal through Governance. The protocol's default stablecoin will be YAI, which can be created using collateral previously committed in Deswap.The ability to use the collateral provided to the market not only to borrow other assets but also to mint synthetic stablecoins with over-collateralized positions that safeguard the foundation with very low gas fee and fastest block confirmations is what sets Deswap apart from other money market protocols.These synthetic stablecoins are backed by a cryptocurrency basket rather than a basket of fiat"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x33e02851d5a084137dc69b1a02ab2eeb7b7fe2a5",
+    "url": "https://www.deswap.co",
+    "explorers": [
+        "https://polygonscan.com/token/0x33e02851d5a084137dc69b1a02ab2eeb7b7fe2a5"
+    ],
+    "twitter": "Deswapofficial",
+    "telegram": "deswapofficial"
+}

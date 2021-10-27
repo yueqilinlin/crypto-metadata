@@ -1,0 +1,24 @@
+{
+    "id": "flux-token",
+    "symbol": "flx",
+    "name": "FLUX Token",
+    "platforms": {
+        "ethereum": "0x54735d716995071585a4f6ba341a6ded79756f09"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FLUX CHAIN's encrypted voucher token platform (Encrypted Voucher Token Platform) is based on the transparency and trust that the participants can use the EVT Platform through the public ledger of blockchain and freely issue vouchers (vouchers, coupons, gifticons, etc.) to reduce the cost of entering a tributary voucher that exists in the existing market and allow distribution without risk of forgery.\r\n\r\nThe FLUX Token can be used as a voucher, and can also be exchanged for a voucher using the FLUX Exchange App and also to settle the fee for sending. The amount of FLUX Token that is distributed is limited, and the value will increase as the number of participants on the EVT Platform increases due to the scarcity of FLUX Token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x54735d716995071585a4f6ba341a6ded79756f09",
+    "url": " https://www.fluxchain.io",
+    "explorers": [
+        "https://etherscan.io/token/0x54735d716995071585A4f6ba341a6Ded79756F09",
+        "https://ethplorer.io/address/0x54735d716995071585A4f6ba341a6Ded79756F09"
+    ],
+    "twitter": "FLUX15624911",
+    "telegram": "FLUXChain_chatting",
+    "github_org": "flux2020"
+}

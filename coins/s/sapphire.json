@@ -1,0 +1,22 @@
+{
+    "id": "sapphire",
+    "symbol": "sapp",
+    "name": "Sapphire",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Sapphire coins (SAPP coins) will be used in the real economy as a stable means of payment and will be issued only to trustworthy partners who bring added value to the project."
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "url": "https://sappcoin.com",
+    "explorers": [
+        "https://sappexplorer.com/"
+    ],
+    "twitter": "Sapphire_Core",
+    "telegram": "sapphirecore",
+    "github_org": "sappcoin-com"
+}

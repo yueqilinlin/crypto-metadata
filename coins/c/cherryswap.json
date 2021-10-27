@@ -1,0 +1,22 @@
+{
+    "id": "cherryswap",
+    "symbol": "che",
+    "name": "CherrySwap",
+    "platforms": {
+        "okex-chain": "0x8179d97eb6488860d816e3ecafe694a4153f216c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Automatic market-making protocol based on OKExChain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8179d97eb6488860d816e3ecafe694a4153f216c",
+    "url": "https://www.cherryswap.net/",
+    "explorers": [
+        "https://www.oklink.com/okexchain/tokenAddr/0x8179d97eb6488860d816e3ecafe694a4153f216c"
+    ],
+    "twitter": "CherryswapNet",
+    "telegram": "cherryswap_1st"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "africa-trading-chain",
+    "symbol": "att",
+    "name": "Africa Trading Chain",
+    "platforms": {
+        "tron": "TVwXxvyYawS21PT1B7XZxBZCMbQZLUENoE"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TVwXxvyYawS21PT1B7XZxBZCMbQZLUENoE",
+    "url": "http://www.attchain.com/#/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TVwXxvyYawS21PT1B7XZxBZCMbQZLUENoE",
+        "https://www.trxplorer.io/token/TVwXxvyYawS21PT1B7XZxBZCMbQZLUENoE"
+    ],
+    "twitter": "ATCchain"
+}

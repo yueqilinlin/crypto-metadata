@@ -1,0 +1,25 @@
+{
+    "id": "babysatoshi",
+    "symbol": "bsatoshi",
+    "name": "BabySatoshi",
+    "platforms": {
+        "ethereum": "0xa44f5ae99b5400360a37ddfa69aeeb5f91dc8679"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BabySatoshi is the newest member of the Nakamoto family based on the Ethereum network. To celebrate his arrival, holders of $bSatoshi receive an 8% redistribution in Bitcoin as a percentage of each network transaction. The Baby Satoshi contract is the first of it\u2019s kind as an ERC-20 token offering Bitcoin rewards. By encouraging volume and holding a larger amount of supply, Baby Satoshi is built for the community."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xa44f5ae99b5400360a37ddfa69aeeb5f91dc8679",
+    "url": "https://babysatoshitoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa44f5ae99b5400360a37ddfa69aeeb5f91dc8679",
+        "https://ethplorer.io/address/0xa44f5ae99b5400360a37ddfa69aeeb5f91dc8679"
+    ],
+    "twitter": "BabySatoshiUni",
+    "telegram": "babysatoshiuni",
+    "reddit": "BabySatoshiUni",
+    "github_org": "Babysatoshi"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "miniusdc",
+    "symbol": "miniusdc",
+    "name": "MiniUSDC",
+    "platforms": {
+        "binance-smart-chain": "0xa39d4a24226102765f48678d87d80387dd0c5acb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MiniUSDC is a deflationary coin that will grow in scarcity over time and has a real-world utility. It is the native token of Cryptogram and gives 10% rewards to holders in USDC. Holders of MiniUSDC also get a 60% revenue share distributed from a pool every quarter. Cryptogram is a unique crypto based social-media platform that allows users to chat anonymously, follow/track top trader wallets & trends. This is done without compromising your identity or security. Top crypto investors & traders can gain followers, buy unique & tradeable usernames & collect subscription fees like other social media platforms. Only platform that gives you direct access to successful top traders, while keeping your anonymity intact!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa39d4a24226102765f48678d87d80387dd0c5acb",
+    "url": "https://miniusdc.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xa39d4a24226102765f48678d87d80387dd0c5acb"
+    ],
+    "twitter": "miniusdc",
+    "telegram": "miniUSDC",
+    "github_org": "Mini-Usdc"
+}

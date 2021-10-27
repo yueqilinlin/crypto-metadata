@@ -1,0 +1,27 @@
+{
+    "id": "bitcoin-pro",
+    "symbol": "btcp",
+    "name": "Bitcoin Pro",
+    "platforms": {
+        "ethereum": "0x723cbfc05e2cfcc71d3d89e770d32801a5eef5ab"
+    },
+    "hashing_algorithm": "X13",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "With Bitcoin PRO, you have all of the great features that are associated with the standard Bitcoin (BTC) only the PRO version is faster, has lower fees and is completely decentralized."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x723cbfc05e2cfcc71d3d89e770d32801a5eef5ab",
+    "url": "https://bitcoinpro.money",
+    "explorers": [
+        "http://51.15.10.250/chain/Bitcoinpro",
+        "https://etherscan.io/token/0x723cbfc05e2cfcc71d3d89e770d32801a5eef5ab",
+        "https://ethplorer.io/address/0x723cbfc05e2cfcc71d3d89e770d32801a5eef5ab"
+    ],
+    "twitter": "Bitcoin_Pro_",
+    "telegram": "bitcoinproofficial",
+    "github_org": "Bitcoin-PRO"
+}

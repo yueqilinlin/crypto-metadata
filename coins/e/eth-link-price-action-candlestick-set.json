@@ -1,0 +1,25 @@
+{
+    "id": "eth-link-price-action-candlestick-set",
+    "symbol": "linkethpa",
+    "name": "ETH/LINK Price Action Candlestick Set",
+    "platforms": {
+        "ethereum": "0x542156d51d10db5accb99f9db7e7c91b74e80a2c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "TokenSets"
+    ],
+    "description": {
+        "en": "This set will attempt to accumulate ETH by being long LINK when the LINK/ETH ratio looks bullish."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x542156d51d10db5accb99f9db7e7c91b74e80a2c",
+    "url": "https://www.tokensets.com/set/linkethpa",
+    "explorers": [
+        "https://etherscan.io/token/0x542156d51d10db5accb99f9db7e7c91b74e80a2c",
+        "https://ethplorer.io/address/0x542156d51d10db5accb99f9db7e7c91b74e80a2c"
+    ],
+    "twitter": "SetProtocol",
+    "github_org": "SetProtocol"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "gold",
+    "symbol": "gold",
+    "name": "GOLD",
+    "platforms": {
+        "ethereum": "0xe081b71ed098fbe1108ea48e235b74f122272e68"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GOLD (GOLD) is a non-government contro\u00adlled digital currency that allows people to send money anywh\u00adere in the world ins\u00adtantly, securely and at near zero cost."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe081b71ed098fbe1108ea48e235b74f122272e68",
+    "url": "https://www.gold-coin.money/Gold_Coin/",
+    "explorers": [
+        "https://etherscan.io/token/0xe081b71ed098fbe1108ea48e235b74f122272e68",
+        "https://ethplorer.io/address/0xe081b71ed098fbe1108ea48e235b74f122272e68"
+    ],
+    "twitter": "BobMoneyGold1"
+}

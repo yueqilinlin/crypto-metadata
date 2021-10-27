@@ -1,0 +1,27 @@
+{
+    "id": "azbit",
+    "symbol": "az",
+    "name": "Azbit",
+    "platforms": {
+        "ethereum": "0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Azbit Global Ltd Is a blockchain-based banking platform for crypto traders and crypto investors. Building a bridge between the world of traditional finance and cryptocurrencies."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99",
+    "url": "https://azbit.com",
+    "explorers": [
+        "https://etherscan.io/token/0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99",
+        "https://ethplorer.io/address/0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99"
+    ],
+    "twitter": "azbit_news",
+    "facebook": "azbit.news",
+    "telegram": "azbit_com",
+    "github_org": "azbit-com"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "identity",
+    "symbol": "idtt",
+    "name": "Identity",
+    "platforms": {
+        "ethereum": "0x6fb1e018f107d3352506c23777e4cd62e063584a",
+        "binance-smart-chain": "0x6fb1e018f107d3352506c23777e4cd62e063584a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "In the current KYC landscape, users need to go through numerous KYC attempts every time they want to use a product. The process is needlessly painfull. This is where Identity differes.\r\n\r\nWith Identity, platforms and products don't need to go through laborious KYC attempts. Instead, they can off-shift costs to users , and attain effortless KYC integration processes within minutes."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6fb1e018f107d3352506c23777e4cd62e063584a",
+    "url": "https://idtt.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x6fB1E018f107d3352506c23777e4cd62e063584a",
+        "https://ethplorer.io/address/0x6fb1e018f107d3352506c23777e4cd62e063584a"
+    ],
+    "twitter": "idtt_token",
+    "telegram": "idttio",
+    "reddit": "idtt"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "fire-bitcoin",
+    "symbol": "fbtc",
+    "name": "Fire Bitcoin",
+    "platforms": {
+        "binance-smart-chain": "0x3c492f060dca62d9ac2454681a2d258235d122d4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FBTC is Fire Bitcoin's BEP-20 native Binance Smart Chain Network Token.\r\n\r\nFBTC holders can stake FBTCs to help provide a backstop for the protocol. In return, stakers are rewarded with part of the transaction fees plus staking rewards."
+    },
+    "country_origin": "MY",
+    "genesis_date": null,
+    "contract_address": "0x3c492f060dca62d9ac2454681a2d258235d122d4",
+    "url": "https://firebitcoin.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x3c492f060dca62d9ac2454681a2d258235d122d4"
+    ],
+    "twitter": "FIREBITCOIN1",
+    "telegram": "FIRE_BITCOIN_Announcements"
+}

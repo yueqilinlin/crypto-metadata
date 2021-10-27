@@ -1,0 +1,24 @@
+{
+    "id": "peth18c",
+    "symbol": "peth18c",
+    "name": "pETH18C",
+    "platforms": {
+        "ethereum": "0xa15690e9205de386ce849889831c1668c300c1ad"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mars Project combines standardized hashrate product and liquidity mining together, packing POW mining into an on-chain protocol. It provides a consistent POW mining output which could be acutely calculated in the very beginning, offering an edge for users on mining stability. 1 pETH18C represents 1MH/s real-world Ether mining power. No more complicated variables on daily mining from now on. On the other hand, MARS token would be distributed to users in this project. Earning reward from staking and liquidity providing (LP), shorten the distance of DeFi to Bitcoin community."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xa15690e9205de386ce849889831c1668c300c1ad",
+    "url": "https://mars.poolin.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0xa15690e9205de386ce849889831c1668c300c1ad",
+        "https://ethplorer.io/address/0xa15690e9205de386ce849889831c1668c300c1ad"
+    ],
+    "twitter": "MarsProject2020",
+    "telegram": "marsproject1",
+    "github_org": "MarsFi"
+}

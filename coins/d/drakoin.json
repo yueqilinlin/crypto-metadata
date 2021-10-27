@@ -1,0 +1,26 @@
+{
+    "id": "drakoin",
+    "symbol": "drk",
+    "name": "Drakoin",
+    "platforms": {
+        "ethereum": "0x2369686fc9fb6e1fdc46541891568c2f341906ef",
+        "polygon-pos": "0xb6509cbd9e2d1cec787a7357eb1578b86a0c702d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Drakoin, an ERC-20 token designed and developed with the main purpose as an in-app virtual currency inside Drakons, a Decentralized Application (DApp). Drakoin is a deflationary token with a variable burn and staking rate."
+    },
+    "country_origin": "PH",
+    "genesis_date": null,
+    "contract_address": "0x2369686fc9fb6e1fdc46541891568c2f341906ef",
+    "url": "https://drakoin.drakons.io",
+    "explorers": [
+        "https://etherscan.io/token/0x2369686fc9fb6e1fdc46541891568c2f341906ef",
+        "https://ethplorer.io/address/0x2369686fc9fb6e1fdc46541891568c2f341906ef"
+    ],
+    "twitter": "DrakonsIO",
+    "telegram": "Drakoin"
+}

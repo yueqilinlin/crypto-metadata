@@ -1,0 +1,27 @@
+{
+    "id": "boringdao-ltc",
+    "symbol": "oltc",
+    "name": "BoringDAO LTC",
+    "platforms": {
+        "ethereum": "0x07c44b5ac257c2255aa0933112c3b75a6bff3cb1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x07c44b5ac257c2255aa0933112c3b75a6bff3cb1",
+    "url": "https://www.boringdao.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x07c44b5ac257c2255aa0933112c3b75a6bff3cb1",
+        "https://ethplorer.io/address/0x07c44b5ac257c2255aa0933112c3b75a6bff3cb1"
+    ],
+    "twitter": "TheBoringDAO",
+    "telegram": "boringDAO",
+    "github_org": "BoringDAO"
+}

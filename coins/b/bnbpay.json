@@ -1,0 +1,24 @@
+{
+    "id": "bnbpay",
+    "symbol": "bpay",
+    "name": "BNBPay",
+    "platforms": {
+        "binance-smart-chain": "0xebc76079da0c245fae7225b58a57a54809b40618"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BNBPay is a decentralised scalable crypto payment gateway tailored for merchant transactions. BNBPay incorporates the ERC-1363 protocol to enable users to pay expenses using $BPAY tokens and crypto tokens. On top of that, users are rewarded with $BPAY tokens as they spend their crypto tokens.\r\n\r\nBNBPay's objective to become the most widely used crypto payment for commerce. (Both eCommerce and brick and mortar shops). Transaction confirmation in each payment will be ready in less than 5 seconds which makes it well-suitable for any in-store purchase. \r\n\r\nThe BNBPay ecosystem is made up of 4 essential components: \r\n\u2022 BNBPay Wallet for Android and IOS\r\n\u2022 BNBPay eCommerce payment plugins for popular eCommerce platforms\r\n\u2022 BNBPay POS (Point of Sales) system\r\n\u2022 BNBPay reward system that will allow users to stake and earn $BPAY "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xebc76079da0c245fae7225b58a57a54809b40618",
+    "url": "https://www.bnbpay.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xeBC76079Da0c245faE7225b58a57A54809b40618"
+    ],
+    "twitter": "bnbpay",
+    "telegram": "bnbpay",
+    "reddit": "bnbpay/",
+    "github_org": "BNBPay"
+}

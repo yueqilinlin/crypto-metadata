@@ -1,0 +1,29 @@
+{
+    "id": "lition",
+    "symbol": "lit",
+    "name": "Lition",
+    "platforms": {
+        "ethereum": "0x763fa6806e1acf68130d2d0f0df754c93cc546b2"
+    },
+    "hashing_algorithm": "SHA-3",
+    "categories": [
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "Lition is a company developing private side chains with deletable data features on top of the Ethereum Blockchain. \r\nAlong with the proprietary layer 2 infrastructure co-innovated with SAP, the world's largest business software provider, we have developed three use cases:\r\n- P2P Energy dApp that currently supplies customers with electricity in over 100 cities in Germany\r\n- Syndicated loan dApp, together with VR-Bank\r\n- Infrastructure layer security tokens for private data management, in collaboration with Tokeny"
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x763fa6806e1acf68130d2d0f0df754c93cc546b2",
+    "url": "https://www.lition.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x763fa6806e1acf68130d2d0f0df754c93cc546b2",
+        "https://ethplorer.io/address/0x763fa6806e1acf68130d2d0f0df754c93cc546b2",
+        "https://explorer.binance.org/asset/LIT-099"
+    ],
+    "twitter": "Lition_Block",
+    "facebook": "LitionOfficial",
+    "telegram": "LitionEnergy",
+    "reddit": "https://www.reddit.com",
+    "github_org": "lition-blockchain"
+}

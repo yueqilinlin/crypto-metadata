@@ -1,0 +1,20 @@
+{
+    "id": "oec-eth",
+    "symbol": "ethk",
+    "name": "OEC ETH",
+    "platforms": {
+        "okex-chain": "0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c",
+    "url": "https://www.okex.com/okexchain",
+    "explorers": [
+        "https://www.oklink.com/okexchain/tokenAddr/0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c"
+    ]
+}

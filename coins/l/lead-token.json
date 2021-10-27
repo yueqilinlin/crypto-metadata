@@ -1,0 +1,26 @@
+{
+    "id": "lead-token",
+    "symbol": "lead",
+    "name": "Lead Token",
+    "platforms": {
+        "ethereum": "0x1dd80016e3d4ae146ee2ebb484e8edd92dacc4ce",
+        "binance-smart-chain": "0x2ed9e96edd11a1ff5163599a66fb6f1c77fa9c66"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"The Lead Token is the native currency that fuels the products and services that are delivered on Lead Wallet. Thereby making Lead token a utility token as it will be needed to access some major service areas of Lead Wallet application.\r\n\r\nThe Lead Token is minted on the Ethereum VM as an ERC20 standard token. There will only be a total of one billion Lead Token supply. The LEAD total supply is a fixed supply. It is designed with a deflationary monetary system whereby 30% of Lead Wallet quarterly profits are used to purchase LEAD from the exchanges and are permanently burnt. Lead Wallet revenue will be generated from all the services offered via the lead wallet with a quarterly audit report.\r\n\r\nEvery Quarter, Lead team will conduct an audit of all the earnings from Lead Wallet, after which 30% of the total net profit will be used to buy back a portion of the Lead token, which will be permanently burnt. This process will continue until only 30% of the total LEAD supply is left.\""
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "contract_address": "0x1dd80016e3d4ae146ee2ebb484e8edd92dacc4ce",
+    "url": "https://www.leadwallet.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x1dd80016e3d4ae146ee2ebb484e8edd92dacc4ce",
+        "https://ethplorer.io/address/0x1dd80016e3d4ae146ee2ebb484e8edd92dacc4ce",
+        "https://bscscan.com/token/0x2ed9e96edd11a1ff5163599a66fb6f1c77fa9c66"
+    ],
+    "twitter": "LeadWallet",
+    "telegram": "leadwallet",
+    "reddit": "https://www.reddit.com"
+}

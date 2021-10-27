@@ -1,0 +1,24 @@
+{
+    "id": "hanacoin",
+    "symbol": "hana",
+    "name": "Hanacoin",
+    "platforms": {},
+    "hashing_algorithm": "Lyra2REv3",
+    "categories": [
+        "Sports"
+    ],
+    "description": {
+        "en": "Hanacoin is a digital currency designed to be used for instant payments and storing wealth. The value of Hanacoin will slowly increase due to the number of coins generated decreasing over time, Hanacoin marketing increasing awareness of the coin and our ability to update the coin\u2019s algorithm. \r\nWe will update the algorithm to keep the network secure, avoid ASIC mining and deliver faster and cheaper transactions.\r\n\r\nThe main difference between Hanacoin and Bitcoin is our ability to resist centralized mining and our ability to quickly update Hanacoin to any new technology. Hanacoin has the flexibility to quickly adapt to the best technology available without the need for consensus from competing groups with their own motives. Many coins have fallen victim to centralized mining and have a number of parties trying to take the coin in different directions. This stifles innovation and the ability to quickly adapt to new technology."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "url": "https://www.hanacoin.com/",
+    "explorers": [
+        "https://pool-node.hanacoin.com/explorer",
+        "https://explorer.hanacoin.com/"
+    ],
+    "twitter": "hanacoin",
+    "facebook": "hanacoins",
+    "reddit": "HanacoinOfficial/",
+    "github_org": "hanacoinproject"
+}

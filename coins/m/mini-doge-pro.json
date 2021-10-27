@@ -1,0 +1,24 @@
+{
+    "id": "mini-doge-pro",
+    "symbol": "minidogepro",
+    "name": "Mini Doge Pro",
+    "platforms": {
+        "binance-smart-chain": "0x305ddf199398e308a59fb9ebc623c0aa2058ee91"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MiniDogePro has developed a new concept never seen before in the cryptosphere. Our hyper deflationary token does not only reward in Doge, but also other trendy tokens based on community voting. In our unique event \u201cDoge Night Party\u201d, community members are invited to vote for the token they would like to be used as a reward for the weekend. With MiniDogePRO you earn Doge during weekdays and other hot tokens during the weekends."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x305ddf199398e308a59fb9ebc623c0aa2058ee91",
+    "url": "https://minidogepro.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x305ddf199398e308a59fb9ebc623c0aa2058ee91"
+    ],
+    "twitter": "minidogepro",
+    "telegram": "minidogepro",
+    "reddit": "MiniDogeProOfficial/",
+    "github_org": "MiniDogePro"
+}

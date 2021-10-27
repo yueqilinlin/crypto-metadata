@@ -1,0 +1,26 @@
+{
+    "id": "true-seigniorage-dollar",
+    "symbol": "tsd",
+    "name": "True Seigniorage Dollar",
+    "platforms": {
+        "ethereum": "0x4846239fdf4d4c1aeb26729fa064b0205aca90e1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4846239fdf4d4c1aeb26729fa064b0205aca90e1",
+    "url": "https://truedollar.finance/#/",
+    "explorers": [
+        "https://etherscan.io/token/0x4846239fdf4d4c1aeb26729fa064b0205aca90e1",
+        "https://ethplorer.io/address/0x4846239fdf4d4c1aeb26729fa064b0205aca90e1"
+    ],
+    "twitter": "TrueSeigniorage",
+    "telegram": "TrueSeigniorageDollar",
+    "github_org": "TrueDollar"
+}

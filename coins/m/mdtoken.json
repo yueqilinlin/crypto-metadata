@@ -1,0 +1,26 @@
+{
+    "id": "mdtoken",
+    "symbol": "mdtk",
+    "name": "MDtoken",
+    "platforms": {
+        "waves": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "The MDToken was created in order to be used in the process of buying and selling products and services created by MDInvest an information technology division and all its partners, our team has more than 10 Years of experience in this market.\r\n\r\nThrough MDToken whether to receive global payments more efficiently and with less fees, providing greater flexibility and security of transactions."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "url": "https://mdtoken.net/",
+    "explorers": [
+        "https://dev.pywaves.org/assets/BzV9wieerzbAE53sYusbfos9xpTVMiotMr4V64JbqbVP",
+        "https://wavesdesk.com/asset/BzV9wieerzbAE53sYusbfos9xpTVMiotMr4V64JbqbVP",
+        "https://explorer.mdtoken.net"
+    ],
+    "twitter": "mdinvestnl",
+    "telegram": "mdtoken",
+    "github_org": "servidorescloud"
+}

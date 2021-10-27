@@ -1,0 +1,21 @@
+{
+    "id": "beyond-the-scene-coin",
+    "symbol": "btsc",
+    "name": "Beyond The Scene Coin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "Beyond The Scene Coin (BTSC) is a POS/Masternode cryptocurrency. Our main objective is to provide an application where everyone can offer and get services and KPOP Culture in real time, with the security and transparency of the blockchain."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "url": "https://www.btsc.pro",
+    "explorers": [
+        "http://66.42.72.101:8000/"
+    ],
+    "reddit": "https://www.reddit.com",
+    "github_org": "btscbtsc"
+}

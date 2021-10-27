@@ -1,0 +1,22 @@
+{
+    "id": "torchain",
+    "symbol": "tor",
+    "name": "Torchain",
+    "platforms": {
+        "ethereum": "0x4f5f2eea4ed3485e5e23a39704d5fd9d0a423886"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The hacker interstellar application uses Tor to encrypt through the application layer of the 5-tier protocol stack, thus realizing the technology of cracking blocks. Tor will crack data including blocks of the next node several times and submit it it through virtual algorithm. Each time, a layer of encrypted blocks is decrypted to know the degree of cracking, and the remaining number of cracks is sent back to Tor. The final relay decrypts the innermost encrypted data and, without leaking or knowing the source IP address, the reward for cracking the block occurs to the user."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4f5f2eea4ed3485e5e23a39704d5fd9d0a423886",
+    "url": "https://torchain.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0x4f5f2eea4ed3485e5e23a39704d5fd9d0a423886",
+        "https://ethplorer.io/address/0x4f5f2eea4ed3485e5e23a39704d5fd9d0a423886"
+    ],
+    "telegram": "torchainchat"
+}

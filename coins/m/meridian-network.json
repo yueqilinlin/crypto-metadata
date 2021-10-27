@@ -1,0 +1,23 @@
+{
+    "id": "meridian-network",
+    "symbol": "lock",
+    "name": "Meridian Network",
+    "platforms": {
+        "ethereum": "0x95172ccbe8344fecd73d0a30f54123652981bd6f"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "An Ethereum based token with a staking/deflationary mechanism soon to incorporate a community DAO and Dapps. First staking Dapp coming soon"
+    },
+    "country_origin": "PT",
+    "genesis_date": null,
+    "contract_address": "0x95172ccbe8344fecd73d0a30f54123652981bd6f",
+    "url": "https://meridian-network.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x95172ccBe8344fecD73D0a30F54123652981BD6F",
+        "https://ethplorer.io/address/0x95172ccBe8344fecD73D0a30F54123652981BD6F"
+    ],
+    "twitter": "networkmeridian",
+    "telegram": "meridiannetwork"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "qchi-chain",
+    "symbol": "qhc",
+    "name": "QChi Chain",
+    "platforms": {
+        "ethereum": "0x5df94780f00140fe72d239d0d261f7797e3fbd1b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5df94780f00140fe72d239d0d261f7797e3fbd1b",
+    "url": "https://www.qchichain.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x5df94780f00140FE72d239D0D261f7797E3Fbd1B",
+        "https://ethplorer.io/address/0x5df94780f00140FE72d239D0D261f7797E3Fbd1B"
+    ],
+    "twitter": "qchichain",
+    "telegram": "qchichain",
+    "github_org": "qch-qchi"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "govi",
+    "symbol": "govi",
+    "name": "Govi",
+    "platforms": {
+        "ethereum": "0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "$GOVI token is a governance token for CVI protocol and platform. CVI is a decentralized volatility index for the crypto space, powered by COTI network. Holders of $GOVI will vote on CVI key matters such as the tradable assets, leverage used, deposit amounts, platform fees and more"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107",
+    "url": "https://cvi.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107",
+        "https://ethplorer.io/address/0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107"
+    ],
+    "twitter": "official_cvi",
+    "telegram": "cviofficial",
+    "github_org": "coti-io"
+}

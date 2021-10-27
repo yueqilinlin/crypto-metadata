@@ -1,0 +1,24 @@
+{
+    "id": "ratoken",
+    "symbol": "ratoken",
+    "name": "Ratoken",
+    "platforms": {
+        "binance-smart-chain": "0x43c612590ad7ac3f5fc217bf71487b49a034e195"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ratoken is the first MMORPG-GameFi on the Binance Smart Chain Network, Combined deflationary mechanisms ratoken into the game."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x43c612590ad7ac3f5fc217bf71487b49a034e195",
+    "url": "https://ratoken.app",
+    "explorers": [
+        "https://bscscan.com/token/0x43c612590ad7ac3f5fc217bf71487b49a034e195"
+    ],
+    "twitter": "ranonlinetoken",
+    "telegram": "ranonlineofficial",
+    "reddit": "https://www.reddit.com",
+    "github_org": "idonthavegithub"
+}

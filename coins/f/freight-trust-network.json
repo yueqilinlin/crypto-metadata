@@ -1,0 +1,24 @@
+{
+    "id": "freight-trust-network",
+    "symbol": "edi",
+    "name": "Freight Trust Network",
+    "platforms": {
+        "ethereum": "0x79c5a1ae586322a07bfb60be36e1b31ce8c84a1e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "From an Industry Exclusive Automated Detention Claims & Same-day Invoicing to Automated Price Quoting and Dispatching, enable a seamless communications platform that integrates with your Transportation Management System, Accounting, Dispatching, ELD, & more."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x79c5a1ae586322a07bfb60be36e1b31ce8c84a1e",
+    "url": "https://freighttrust.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x79c5a1ae586322a07bfb60be36e1b31ce8c84a1e",
+        "https://ethplorer.io/address/0x79c5a1ae586322a07bfb60be36e1b31ce8c84a1e"
+    ],
+    "twitter": "freighttrustnet",
+    "telegram": "freighttrust",
+    "github_org": "freight-chain"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "megacryptopolis",
+    "symbol": "mega",
+    "name": "MegaCryptoPolis",
+    "platforms": {
+        "ethereum": "0x3218a02f8f8b5c3894ce30eb255f10bcba13e654"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Non-Fungible Tokens (NFT)",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "Decentralized city builder game resources index."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x3218a02f8f8b5c3894ce30eb255f10bcba13e654",
+    "url": "https://mcp3d.com",
+    "explorers": [
+        "https://etherscan.io/token/0x3218A02F8F8B5c3894ce30EB255F10Bcba13E654",
+        "https://ethplorer.io/address/0x3218a02f8f8b5c3894ce30eb255f10bcba13e654"
+    ],
+    "twitter": "megacryptopolis",
+    "telegram": "megacryptopolis"
+}

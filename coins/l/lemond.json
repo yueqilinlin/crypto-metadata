@@ -1,0 +1,24 @@
+{
+    "id": "lemond",
+    "symbol": "lemd",
+    "name": "Lemond",
+    "platforms": {
+        "ethereum": "0xf45f6c8bb3d77ea762175b8f7ca4d251941649fa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Lemond is a decentralized, open-source, autonomous non-custodial liquidity market protocol where users can participate as depositors or borrowers."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xf45f6c8bb3d77ea762175b8f7ca4d251941649fa",
+    "url": "https://www.lemond.money/",
+    "explorers": [
+        "https://etherscan.io/token/0xf45f6c8bb3d77ea762175b8f7ca4d251941649fa",
+        "https://ethplorer.io/address/0xf45f6c8bb3d77ea762175b8f7ca4d251941649fa"
+    ],
+    "twitter": "LemondFinance",
+    "telegram": "lemondok",
+    "github_org": "Lemond-finance"
+}

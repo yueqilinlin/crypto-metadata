@@ -1,0 +1,24 @@
+{
+    "id": "one-share",
+    "symbol": "ons",
+    "name": "One Share",
+    "platforms": {
+        "ethereum": "0x5bb29c33c4a3c29f56f8aca40b4db91d8a5fe2c5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The most daring and innovative experimental project for the Basis protocol"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5bb29c33c4a3c29f56f8aca40b4db91d8a5fe2c5",
+    "url": "https://onecash.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x5BB29c33C4A3C29f56F8ACa40B4dB91d8a5fe2c5",
+        "https://ethplorer.io/address/0x5BB29c33C4A3C29f56F8ACa40B4dB91d8a5fe2c5"
+    ],
+    "twitter": "AckmanMisa",
+    "telegram": "onecashfinance",
+    "github_org": "onecash"
+}

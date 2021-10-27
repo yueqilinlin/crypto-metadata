@@ -1,0 +1,22 @@
+{
+    "id": "photon",
+    "symbol": "pho",
+    "name": "Photon",
+    "platforms": {},
+    "hashing_algorithm": "Blake-256",
+    "categories": [
+        "Software"
+    ],
+    "description": {
+        "en": "Photon is a Cryptocurrency using the Blake 256 Algorithm. It is a new project designed to function well now and with future technology in mind.\r\n\r\nThe Blake-256 algorithm hash rate is just under 3x faster on the GPU and just over 2x on the FPGA compared with Bitcoin\r\n\r\nThe reward for mining Photon does NOT decrease over time, instead it increases with block height and difficulty\r\n\r\nThere are no restrictions on any platform as Photon does NOT include artificial *Security* or *Resistance* that reduce mining hash rate and power efficiency"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.photoncc.com/",
+    "explorers": [
+        "https://chainz.cryptoid.info/pho/"
+    ],
+    "twitter": "PhotonCoin",
+    "telegram": "Blake_Community",
+    "reddit": "Photon/"
+}

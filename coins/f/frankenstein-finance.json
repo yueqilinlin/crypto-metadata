@@ -1,0 +1,27 @@
+{
+    "id": "frankenstein-finance",
+    "symbol": "frank",
+    "name": "Frankenstein Finance",
+    "platforms": {
+        "binance-smart-chain": "0x129e6d84c6cab9b0c2f37ad1d14a9fe2e59dab09",
+        "fantom": "0xeb86b05cfee3e48db9a44275701ed099462c8ba0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fantom Ecosystem"
+    ],
+    "description": {
+        "en": "The First Yield Farming Optimizer For FTM & BSC With Referral System"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x129e6d84c6cab9b0c2f37ad1d14a9fe2e59dab09",
+    "url": "https://frankenstein.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x129e6d84c6cab9b0c2f37ad1d14a9fe2e59dab09",
+        "https://ftmscan.com/token/0xeb86b05cfee3e48db9a44275701ed099462c8ba0"
+    ],
+    "twitter": "FrankenDefi",
+    "telegram": "frankensteinfinance",
+    "github_org": "FrankenDefi"
+}

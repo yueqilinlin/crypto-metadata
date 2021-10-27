@@ -1,0 +1,24 @@
+{
+    "id": "ttanslateme-network-token",
+    "symbol": "TMN",
+    "name": "TranslateMe Network Token",
+    "platforms": {
+        "neo": "d613223fa138a1555ff711581982462acde209c5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The world\u2019s first decentralised translation network that rewards the user for correcting AI output. Our Unique algorithm will use correction data to fast track language processing. Millions of contributors can build dedicated data for their native language, feed this data into our algorithm and train new languages never supported."
+    },
+    "country_origin": "MU",
+    "genesis_date": null,
+    "contract_address": "d613223fa138a1555ff711581982462acde209c5",
+    "url": "https://translateme.network/",
+    "explorers": [
+        "https://neotracker.io/asset/d613223fa138a1555ff711581982462acde209c5",
+        "https://neoscan.io/asset/d613223fa138a1555ff711581982462acde209c5"
+    ],
+    "twitter": "translatemenet",
+    "facebook": "translatemenet",
+    "reddit": "TranslateMe/"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "cornichon",
+    "symbol": "corn",
+    "name": "Cornichon",
+    "platforms": {
+        "ethereum": "0xa456b515303b2ce344e9d2601f91270f8c2fea5e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa456b515303b2ce344e9d2601f91270f8c2fea5e",
+    "url": "https://cornichon.ape.tax/",
+    "explorers": [
+        "https://etherscan.io/token/0xa456b515303b2ce344e9d2601f91270f8c2fea5e",
+        "https://ethplorer.io/address/0xa456b515303b2ce344e9d2601f91270f8c2fea5e"
+    ],
+    "github_org": "banteg"
+}

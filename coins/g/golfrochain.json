@@ -1,0 +1,23 @@
+{
+    "id": "golfrochain",
+    "symbol": "golf",
+    "name": "Golfrochain",
+    "platforms": {
+        "ethereum": "0x996652b6c5c4b1154b25515db21b7bbadd40ddfa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Golfrochain is an integrated golf platform that utilizes blockchain technology. Golfrochain collects users' active data inside the ecosystem with G-Swing AI devices and records them on the blockchain to provide fair and diverse services based on reliable data. This can solve diverse issues in the current centralized golf market such as the irrationality of determining green fees, the difficulties in golf lesson matching, and manipulation of game data. Golfrochian provides diverse services starting from customized golf course bookings, reservations, customized lessons, traveling, shopping malls, golf tournaments, and golf course distribution investment services."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x996652b6c5c4b1154b25515db21b7bbadd40ddfa",
+    "url": "https://en.golfro.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x996652b6c5c4b1154b25515db21b7bbadd40ddfa",
+        "https://ethplorer.io/address/0x996652b6c5c4b1154b25515db21b7bbadd40ddfa"
+    ],
+    "twitter": "golfrochain",
+    "telegram": "golfro"
+}

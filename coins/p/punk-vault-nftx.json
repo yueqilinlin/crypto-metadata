@@ -1,0 +1,25 @@
+{
+    "id": "punk-vault-nftx",
+    "symbol": "punk",
+    "name": "Punk Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0x269616d549d7e8eaa82dfb17028d0b212d11232a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Punk Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x269616d549d7e8eaa82dfb17028d0b212d11232a",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x269616D549D7e8Eaa82DFb17028d0B212D11232A",
+        "https://ethplorer.io/address/0x269616d549d7e8eaa82dfb17028d0b212d11232a"
+    ],
+    "twitter": "nftx_"
+}

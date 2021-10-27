@@ -1,0 +1,22 @@
+{
+    "id": "usda",
+    "symbol": "usda",
+    "name": "USDA",
+    "platforms": {
+        "ethereum": "0x3c7b464376db7c9927930cf50eefdea2eff3a66a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "USDA is a traditional economic and encrypted currency exchange platform based on Block Chain Technology 3.0 issued by APDB for the natural economic regions of Asia-Pacific and its surrounding regions. Through USDA, users can import traditional money into the encrypted economy safely and flexibly, and conduct transnational and cross-regional transactions, investment and other finance more conveniently. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3c7b464376db7c9927930cf50eefdea2eff3a66a",
+    "url": "https://usda.cc/en",
+    "explorers": [
+        "https://etherscan.io/token/0x3c7b464376db7c9927930cf50eefdea2eff3a66a",
+        "https://ethplorer.io/address/0x3c7b464376db7c9927930cf50eefdea2eff3a66a"
+    ],
+    "facebook": "USDAsian"
+}

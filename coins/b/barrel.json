@@ -1,0 +1,23 @@
+{
+    "id": "barrel",
+    "symbol": "barrel",
+    "name": "Barrel",
+    "platforms": {
+        "binance-smart-chain": "0xdb1b7a685e6876d508de3c5160764b56577a83ae"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Project will revolve around an algorithm trading account (provided by Ganymedetoken.com) which gains will transform into buybacks and compound interests.\r\n\r\nCombined with this unique feature a 10% tax is applied on every sale of $BARREL, 40% go to marketing to increase visibility of the project and 60% are used to buyback $BARREL tokens.\r\n\r\nThe more weak hands sell, the more holders get rewarded with a price increase of the token.\r\nThis is what we call PumpEconomics by bernard.finance"
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0xdb1b7a685e6876d508de3c5160764b56577a83ae",
+    "url": "https://bernard.finance/barrel",
+    "explorers": [
+        "https://bscscan.com/token/0xdb1b7a685e6876d508de3c5160764b56577a83ae"
+    ],
+    "twitter": "bernardfinance",
+    "telegram": "bernardfinance",
+    "reddit": "BernardFinance/"
+}

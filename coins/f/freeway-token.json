@@ -1,0 +1,26 @@
+{
+    "id": "freeway-token",
+    "symbol": "fwt",
+    "name": "Freeway Token",
+    "platforms": {
+        "ethereum": "0xf151980e7a781481709e8195744bf2399fb3cba4",
+        "binance-smart-chain": "0x893169619461d3aba810a40b5403c62f27e703f9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Freeway Tokens (FWT) are the native utility tokens for AuBit Freeway \u2014 a ground-breaking new asset management platform built for greater total returns on the world\u2019s top investment products with no additional risk."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0xf151980e7a781481709e8195744bf2399fb3cba4",
+    "url": "https://aubit.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xf151980e7a781481709e8195744bf2399fb3cba4",
+        "https://ethplorer.io/address/0xf151980e7a781481709e8195744bf2399fb3cba4",
+        "https://bscscan.com/token/0x893169619461d3aba810a40b5403c62f27e703f9"
+    ],
+    "twitter": "aubitnetwork",
+    "facebook": "aubitnetwork",
+    "telegram": "AuBit_Official_Community"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "fuse-network-token",
+    "symbol": "fuse",
+    "name": "Fuse",
+    "platforms": {
+        "ethereum": "0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d",
+        "binance-smart-chain": "0x5857c96dae9cf8511b08cb07f85753c472d36ea3"
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Fuse is a network of communities operated by individuals and SMB's which is running on a public ledger and operated by validators worldwide.\r\nThe goal of the network is to lower barriers for entrepreneurs that are looking to run and operate digital businesses and allows the to reach clients with little or almost no effort.\r\n\r\nFuse is looking to provide entrepreneurs a cheap alternative to cloud computing and allows them to leverage smart contract architecture and open source battle tested tools to avoid the high costs of launching and maintaining online communities."
+    },
+    "country_origin": "IL",
+    "genesis_date": null,
+    "contract_address": "0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d",
+    "url": "https://fuse.io/",
+    "explorers": [
+        "https://explorer-v3.fuse.io",
+        "https://etherscan.io/token/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d",
+        "https://ethplorer.io/address/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d",
+        "https://bscscan.com/token/0x5857c96dae9cf8511b08cb07f85753c472d36ea3"
+    ],
+    "twitter": "Fuse_network",
+    "facebook": "fuseio",
+    "telegram": "fuseio",
+    "github_org": "fuseio"
+}

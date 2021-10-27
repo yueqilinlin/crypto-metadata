@@ -1,0 +1,24 @@
+{
+    "id": "stabinol",
+    "symbol": "stol",
+    "name": "Stabinol",
+    "platforms": {
+        "ethereum": "0x4ff5253e2304e3f5ed6547ac5d9952a62b91e3e8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Stabinol is an Ethereum cashback tokens that rewards users for their ETH spends."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4ff5253e2304e3f5ed6547ac5d9952a62b91e3e8",
+    "url": "https://stabilize.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x4ff5253e2304e3f5ed6547ac5d9952a62b91e3e8",
+        "https://ethplorer.io/address/0x4ff5253e2304e3f5ed6547ac5d9952a62b91e3e8"
+    ],
+    "twitter": "StabilizePro",
+    "telegram": "stabilizeprotocol",
+    "github_org": "stabilize-token"
+}

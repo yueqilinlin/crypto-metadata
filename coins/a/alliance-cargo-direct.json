@@ -1,0 +1,21 @@
+{
+    "id": "alliance-cargo-direct",
+    "symbol": "acd",
+    "name": "Alliance Cargo Direct",
+    "platforms": {
+        "ethereum": "0xe45fc4290fd3159588f532058592ea327d2e97d4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ACD is a blockchain project aims to optimize EC environment all over the world and improve the convenience and further development. We utilize blockchain and tokenization into EC and logistics industry, to realize EC deployment to international market more safely, reliably and speedily."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe45fc4290fd3159588f532058592ea327d2e97d4",
+    "url": "https://acd-coin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe45Fc4290fd3159588f532058592Ea327d2e97D4",
+        "https://ethplorer.io/address/0xe45fc4290fd3159588f532058592ea327d2e97d4"
+    ]
+}

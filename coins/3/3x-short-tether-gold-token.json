@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-tether-gold-token",
+    "symbol": "xautbear",
+    "name": "3X Short Tether Gold Token",
+    "platforms": {
+        "ethereum": "0x31cbf205e26ba63296fdbd254a6b1be3ed28ce47"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short Tether Gold Token (XAUTBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of Tether Gold."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x31cbf205e26ba63296fdbd254a6b1be3ed28ce47",
+    "url": "https://ftx.com/tokens/XAUTBEAR",
+    "explorers": [
+        "https://etherscan.io/token/0x31cbf205e26ba63296fdbd254a6b1be3ed28ce47",
+        "https://ethplorer.io/address/0x31cbf205e26ba63296fdbd254a6b1be3ed28ce47"
+    ]
+}

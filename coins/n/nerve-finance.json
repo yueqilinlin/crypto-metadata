@@ -1,0 +1,26 @@
+{
+    "id": "nerve-finance",
+    "symbol": "nrv",
+    "name": "Nerve Finance",
+    "platforms": {
+        "binance-smart-chain": "0x42f6f551ae042cbe50c739158b4f0cac0edb9096"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Nerve Finance is a stableswap AMM built on Binance Smart Chain designed to allow trading stablecoins and pegged synthetic assets quickly with minimal slippage and low fees. $NRV is the governance token of the Nerve Finance protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x42f6f551ae042cbe50c739158b4f0cac0edb9096",
+    "url": "https://nerve.fi",
+    "explorers": [
+        "https://bscscan.com/token/0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096"
+    ],
+    "twitter": "nervefinance",
+    "telegram": "nervefinance"
+}

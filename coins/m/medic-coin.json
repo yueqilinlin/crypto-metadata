@@ -1,0 +1,24 @@
+{
+    "id": "medic-coin",
+    "symbol": "medic",
+    "name": "Medic Coin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Medic Coin provides benefits to humanity through contributions to scientific research and donations to charities.  You can earn Medic Coins (MEDIC) through donating your GPU computational power to Stanford University\u2019s Folding@Home project. This project assists scientists to research cures for many diseases including diabetes, MLS, Alzheimer\u2019s, etc.   Medic Coin also sponsors charity events, providing microloans through Kiva, and sponsoring children through Children International."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://mediccoin.com/",
+    "explorers": [
+        "https://explorer.mediccoin.com/"
+    ],
+    "twitter": "mediccoin",
+    "facebook": "mediccoin",
+    "telegram": "mediccoins",
+    "reddit": "MedicCoin/",
+    "github_org": "MEDICCOIN"
+}

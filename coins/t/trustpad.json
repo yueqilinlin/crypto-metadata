@@ -1,0 +1,22 @@
+{
+    "id": "trustpad",
+    "symbol": "tpad",
+    "name": "TrustPad",
+    "platforms": {
+        "binance-smart-chain": "0xadcfc6bf853a0a8ad7f9ff4244140d10cf01363c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TrustPad is a decentralized multi-chain fundraising platform enabling projects to raise capital and promise safety to early stage investors. Stake TrustPad tokens to get priority-access to promising projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xadcfc6bf853a0a8ad7f9ff4244140d10cf01363c",
+    "url": "https://trustpad.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xADCFC6bf853a0a8ad7f9Ff4244140D10cf01363C"
+    ],
+    "twitter": "TrustPad",
+    "telegram": "TrustPad"
+}

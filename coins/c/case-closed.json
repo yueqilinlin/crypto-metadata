@@ -1,0 +1,23 @@
+{
+    "id": "case-closed",
+    "symbol": "$caseclosed",
+    "name": "Case Closed",
+    "platforms": {
+        "ethereum": "0xf9dbf4ca505b7a3285dcd0b8fdb2b4229de7d238"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$CASECLOSED is an ERC-20 token aimed to build a strong, anime-based community. Part of our tokenomics helps to increase our liquidity by adding part of sell transactions to LP! Reflections reward $caseclosed holders just for holding! "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf9dbf4ca505b7a3285dcd0b8fdb2b4229de7d238",
+    "url": "https://caseclosedcoin.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xf9dbf4ca505b7a3285dcd0b8fdb2b4229de7d238",
+        "https://ethplorer.io/address/0xf9dbf4ca505b7a3285dcd0b8fdb2b4229de7d238"
+    ],
+    "twitter": "CaseClosed_Eth",
+    "telegram": "CaseClosedETH"
+}

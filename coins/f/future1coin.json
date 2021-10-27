@@ -1,0 +1,27 @@
+{
+    "id": "future1coin",
+    "symbol": "f1c",
+    "name": "Future1Coin",
+    "platforms": {
+        "ethereum": "0xb0a0a070640b450eb136dc377208469ee4f49fbc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "Future1Coin envisions itself to be a singular marketplace providing all tools and functionalities required to participate in the world of cryptocurrencies. Future1Coin Forecast Engine delivers high accuracy forex & crypto forecasts for several timeframes. Future1Coin also provide advanced technical and analytical tools required by experienced traders to make better decisions."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xb0a0a070640b450eb136dc377208469ee4f49fbc",
+    "url": "http://future1coin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xb0a0a070640b450eb136dc377208469ee4f49fbc",
+        "https://ethplorer.io/address/0xb0a0a070640b450eb136dc377208469ee4f49fbc"
+    ],
+    "twitter": "kishoresg",
+    "facebook": "ChampionTradersAcademy",
+    "telegram": "future1coin",
+    "github_org": "future1coin"
+}

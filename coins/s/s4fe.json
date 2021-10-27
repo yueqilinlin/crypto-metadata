@@ -1,0 +1,30 @@
+{
+    "id": "s4fe",
+    "symbol": "s4f",
+    "name": "S4FE",
+    "platforms": {
+        "ethereum": "0xaec7d1069e3a914a3eb50f0bfb1796751f2ce48a",
+        "binance-smart-chain": "0x788d2780992222360f674cc12c36478870b8e6ed"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "S4FE is a freely accessible, blockchain based search engine dedicated to the protection of property.\r\n\r\nIt provides a global network for the registration of items and the recovery of lost or stolen property. "
+    },
+    "country_origin": "LI",
+    "genesis_date": null,
+    "contract_address": "0xaec7d1069e3a914a3eb50f0bfb1796751f2ce48a",
+    "url": "http://www.s4fe.org/ ",
+    "explorers": [
+        "https://etherscan.io/token/0xaec7d1069e3a914a3eb50f0bfb1796751f2ce48a",
+        "https://ethplorer.io/address/0xaec7d1069e3a914a3eb50f0bfb1796751f2ce48a",
+        "https://bscscan.com/token/0x788d2780992222360f674cc12c36478870b8e6ed"
+    ],
+    "twitter": "s4fe_i0",
+    "facebook": "s4fe.io",
+    "telegram": "s4fe_official",
+    "github_org": "s4fe-io"
+}

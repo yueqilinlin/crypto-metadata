@@ -1,0 +1,25 @@
+{
+    "id": "amepay",
+    "symbol": "ame",
+    "name": "Amepay",
+    "platforms": {
+        "ethereum": "0x12513335ffd5dafc2334e98625d27c1ca84bff86"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x12513335ffd5dafc2334e98625d27c1ca84bff86",
+    "url": "https://amepay.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x12513335ffD5DAfc2334e98625d27c1CA84bff86",
+        "https://ethplorer.io/address/0x12513335ffD5DAfc2334e98625d27c1CA84bff86"
+    ],
+    "twitter": "ame_pay",
+    "telegram": "amepay",
+    "reddit": "Amepay",
+    "github_org": "AMEPAY"
+}

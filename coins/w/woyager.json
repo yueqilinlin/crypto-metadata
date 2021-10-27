@@ -1,0 +1,25 @@
+{
+    "id": "woyager",
+    "symbol": "wyx",
+    "name": "Woyager",
+    "platforms": {
+        "ethereum": "0x05edffbda103d90d5040829a105f687443e0ca3e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Tourism"
+    ],
+    "description": {
+        "en": "Woyager is a decentralized ecosystem; wisely designed for travelers to search and buy flight tickets, bus tickets, hotel booking, car renting and insurence without any extra fees."
+    },
+    "country_origin": "PT",
+    "genesis_date": null,
+    "contract_address": "0x05edffbda103d90d5040829a105f687443e0ca3e",
+    "url": "https://www.woyagertoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x05edffbda103d90d5040829a105f687443e0ca3e",
+        "https://ethplorer.io/address/0x05edffbda103d90d5040829a105f687443e0ca3e"
+    ],
+    "twitter": "woyagertoken",
+    "telegram": "woyagertoken"
+}

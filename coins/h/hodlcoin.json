@@ -1,0 +1,20 @@
+{
+    "id": "hodlcoin",
+    "symbol": "hodl",
+    "name": "HOdlcoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2016-02-01",
+    "url": "http://hodlcoin.com/",
+    "explorers": [
+        "http://hodl.amit.systems:81/"
+    ],
+    "twitter": "hodlcoin",
+    "reddit": "HOdl",
+    "github_org": "HOdlcoin"
+}

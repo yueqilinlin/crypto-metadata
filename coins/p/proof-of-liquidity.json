@@ -1,0 +1,23 @@
+{
+    "id": "proof-of-liquidity",
+    "symbol": "pol",
+    "name": "Proof Of Liquidity",
+    "platforms": {
+        "tron": "TWcDDx1Q6QEoBrJi9qehtZnD4vcXXuVLer"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pool-X is an exchange that provides liquidity for staked crypto. It is a state of free market that enables the integration of diversified crypto assets and multi-node on the public chain. Users can trade the staked crypto assets in the platform and obtain liquidity. Furthermore, based on the nature of the Pool-X mechanism, the node can build up a connection with the Pool-X liquidity trading market to enhance its competitive strength and ultimately gather more node votes. Other types of staking digital assets will be progressively supported as the staking business matures."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TWcDDx1Q6QEoBrJi9qehtZnD4vcXXuVLer",
+    "url": "https://pool-x.io/staking",
+    "explorers": [
+        "https://tronscan.org/#/token20/TWcDDx1Q6QEoBrJi9qehtZnD4vcXXuVLer"
+    ],
+    "twitter": "pool_x_official",
+    "telegram": "PoolXOfficial",
+    "reddit": "poolx/"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "zerohybrid",
+    "symbol": "zht",
+    "name": "ZeroHybrid Network",
+    "platforms": {
+        "ethereum": "0x4b13a8a95da56773312ca0d4e0670530aa700fcf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ZeroHybrid is the industry's first ARM-based decentralized trusted computing network that can use mobile devices to provide computing power. ZeroHybrid utilized the wildly spread ARM chipsets to implement TEE, which guarantees the process of computation through the power of hardware, enabling a trusted environment not able to be modified by other software. With the diversity of ARM chips and wide range of application scenarios, to form a safe, credible and decentralized computing environment."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4b13a8a95da56773312ca0d4e0670530aa700fcf",
+    "url": "http://zerohybrid.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x4b13a8a95da56773312ca0d4e0670530aa700fcf",
+        "https://ethplorer.io/address/0x4b13a8a95da56773312ca0d4e0670530aa700fcf"
+    ],
+    "twitter": "ZeroHybridOffic",
+    "telegram": "ZeroHybridNetwork",
+    "github_org": "zerohybrid-network"
+}

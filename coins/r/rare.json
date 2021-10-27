@@ -1,0 +1,26 @@
+{
+    "id": "rare",
+    "symbol": "rare",
+    "name": "Rare",
+    "platforms": {
+        "ethereum": "0x81b1bfd6cb9ad42db395c2a27f73d4dcf5777e2d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Social Money"
+    ],
+    "description": {
+        "en": "Rare is the social money of artist Rare Designer"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x81b1bfd6cb9ad42db395c2a27f73d4dcf5777e2d",
+    "url": "https://app.tryroll.com/token/RARE",
+    "explorers": [
+        "https://etherscan.io/token/0x81B1bFD6CB9Ad42DB395c2a27F73D4DCf5777e2D",
+        "https://ethplorer.io/address/0x81b1bfd6cb9ad42db395c2a27f73d4dcf5777e2d"
+    ],
+    "twitter": "pepe_designer",
+    "telegram": "rare_designer"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "curvehash",
+    "symbol": "curve",
+    "name": "CURVEHASH",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CURVE is an evolution of Bitcoin core.\r\nCURVE is a payment system/store of value.\r\nCURVE is minable and stake-able.\r\nCURVE got a very singular algorithm for consensus."
+    },
+    "country_origin": "IT",
+    "genesis_date": "2020-11-15",
+    "url": "http://curvehashcoin.com/",
+    "explorers": [
+        "http://explorer.curvehash.com/"
+    ],
+    "twitter": "curvehash",
+    "telegram": "curvehashcoin",
+    "github_org": "curvehashcoin"
+}

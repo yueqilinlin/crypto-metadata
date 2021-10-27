@@ -1,0 +1,22 @@
+{
+    "id": "the-kraken",
+    "symbol": "krkn",
+    "name": "The Kraken",
+    "platforms": {
+        "binance-smart-chain": "0x24cbcaec5178a8bb455d07f14518f9e83f517970"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Kraken is a fully customized fork of the popular \u201cEverRise\u201d smart contract that we took one step further - we added x3 leverage and a practical use case."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x24cbcaec5178a8bb455d07f14518f9e83f517970",
+    "url": "https://www.krakenx3.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x24cbcaec5178a8bb455d07f14518f9e83f517970"
+    ],
+    "twitter": "Kraken_X3",
+    "telegram": "KrakenX3"
+}

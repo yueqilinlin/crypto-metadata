@@ -1,0 +1,23 @@
+{
+    "id": "chumhum-finance",
+    "symbol": "chum",
+    "name": "Chumhum Finance",
+    "platforms": {
+        "polygon-pos": "0x2e2dde47952b9c7defde7424d00dd2341ad927ca"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ChumHum Protocol (\u201cChumHum\u201d) is an algorithmic-basedmoney market system designed withan intent of enabling a complete decentralized finance-basedlending and credit system.ChumHum helps users make efficient use of their cryptocurrenciesby supplying collateral to thenetwork which can be borrowed by pledging over collateralizedcryptocurrencies. \r\n\r\nThis helps increating a secure lending ecosystem where the lenderreceives a compounded interest rateannually (APY) which is paid per block, while theborrower pays interest on the cryptocurrencyborrowed. The interest rates are defined by the protocolusing a curve yield, where the rates areautomated based on the demand of the specific market,such as Bitcoin.\r\n\r\nThe main difference ofChumHum from other money market protocols lies inthe ability to use the collateral supplied tothe market to not only borrow other assets but alsoto mint synthetic stablecoins withover-collateralized positions that helps in protectingthe protocol. These synthetic stablecoinsare just backed by a basket of fiat currencies butalso by a basket of cryptocurrencies."
+    },
+    "country_origin": "BZ",
+    "genesis_date": null,
+    "contract_address": "0x2e2dde47952b9c7defde7424d00dd2341ad927ca",
+    "url": "https://chumhum.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x2e2dde47952b9c7defde7424d00dd2341ad927ca"
+    ],
+    "twitter": "ChumhumFinance",
+    "telegram": "ChumhumFinance",
+    "github_org": "ChumHumFinance"
+}

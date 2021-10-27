@@ -1,0 +1,29 @@
+{
+    "id": "less-network",
+    "symbol": "less",
+    "name": "Less Network",
+    "platforms": {
+        "ethereum": "0x62786eeacc9246b4018e0146cb7a3efeacd9459d",
+        "binance-smart-chain": "0xb698ac9bc82c718d8eba9590564b9a5aa53d58e6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad",
+        "Governance"
+    ],
+    "description": {
+        "en": "LESS is the first-ever platform to offer cross-chain trading services in one place. Our distinctive and comprehensive platform allows you to trade smartly with real-time data, discover the best rates using integrated DEXes, as well as, launch and invest in new and promising projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x62786eeacc9246b4018e0146cb7a3efeacd9459d",
+    "url": "https://less.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0x62786eeacc9246b4018e0146cb7a3efeacd9459d",
+        "https://ethplorer.io/address/0x62786eeacc9246b4018e0146cb7a3efeacd9459d",
+        "https://bscscan.com/token/0xb698ac9bc82c718d8eba9590564b9a5aa53d58e6"
+    ],
+    "twitter": "LessToken",
+    "telegram": "lesstoken",
+    "github_org": "LESS-xyz"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "athletex",
+    "symbol": "AX",
+    "name": "AthleteX",
+    "platforms": {
+        "polygon-pos": "0x5617604ba0a30e0ff1d2163ab94e50d8b6d0b0df"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AX is the governance token for AthleteX DAO. AthleteX provides a system of smart contracts which enable Athlete Performance Tokens (APT's). APTs provide tokenized exposure to an athlete\u2019s statistical performance.\r\n\r\nExamples of APTs include, season long tokens, 1-game expiration tokens, career long tokens, umpire tokens that track correct balls and strikes percentage, among other APTs across different sports. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5617604ba0a30e0ff1d2163ab94e50d8b6d0b0df",
+    "url": "https://www.axmarkets.net/",
+    "explorers": [
+        "https://polygonscan.com/token/0x5617604BA0a30E0ff1d2163aB94E50d8b6D0B0Df"
+    ],
+    "twitter": "athletexmarkets",
+    "telegram": "axmarkets",
+    "github_org": "SportsToken"
+}

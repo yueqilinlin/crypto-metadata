@@ -1,0 +1,20 @@
+{
+    "id": "oec-shib",
+    "symbol": "shibk",
+    "name": "OEC SHIB",
+    "platforms": {
+        "okex-chain": "0xaa27badaa3c9ec9081b8f6c9cdd2bf375f143780"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaa27badaa3c9ec9081b8f6c9cdd2bf375f143780",
+    "url": "https://www.okex.com/okexchain",
+    "explorers": [
+        "https://www.oklink.com/okexchain/tokenAddr/0xaa27bADaa3C9ec9081b8f6C9cDd2bf375F143780"
+    ]
+}

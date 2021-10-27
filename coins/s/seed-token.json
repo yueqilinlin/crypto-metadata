@@ -1,0 +1,22 @@
+{
+    "id": "seed-token",
+    "symbol": "seed",
+    "name": "Seed Token",
+    "platforms": {
+        "binance-smart-chain": "0x4bc6e19ee0f1e034a927990c76b418c2a95e326f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SEED TOKEN AND APPLICATION IN THE GAME\r\n1. Shopping:\r\nPurchase of playable characters (unique, rare, collectible)\r\nGetting equipment (armor, helmets, weapons)\r\nPurchase of objects for the arena (covering, traps, decorations, places).\r\n\r\n2. Subscription\r\nAccess to game events and quests, unique characters and equipment, extended game possibilities.\r\n\r\n3. Advertising\r\nViewing ads for rewards (resources, in-game items, combat omissions).\r\n\r\n4. Commission\r\nPlatform commission (5-20%) from the battle contributions of players in the crypt, from which prize funds are being formed for winners of fights, tournaments and quests.\r\n\r\n5. Staking\r\nHold on the balance of a certain amount of crypt - for the opportunity gaining access to additional functionality - opportunities creating your own game events and challenges among players"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4bc6e19ee0f1e034a927990c76b418c2a95e326f",
+    "url": "https://safehamstersleague.games/",
+    "explorers": [
+        "https://bscscan.com/token/0x4bc6e19ee0f1e034a927990c76b418c2a95e326f"
+    ],
+    "twitter": "hamstersleague",
+    "telegram": "hamstersleague"
+}

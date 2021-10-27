@@ -1,0 +1,24 @@
+{
+    "id": "gatechain-token",
+    "symbol": "gt",
+    "name": "GateToken",
+    "platforms": {
+        "ethereum": "0xe66747a101bff2dba3697199dcce5b743b454759"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe66747a101bff2dba3697199dcce5b743b454759",
+    "url": "https://gatechain.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xe66747a101bff2dba3697199dcce5b743b454759",
+        "https://ethplorer.io/address/0xe66747a101bff2dba3697199dcce5b743b454759"
+    ]
+}

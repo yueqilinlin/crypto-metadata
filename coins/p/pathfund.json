@@ -1,0 +1,24 @@
+{
+    "id": "pathfund",
+    "symbol": "path",
+    "name": "PathFund",
+    "platforms": {
+        "binance-smart-chain": "0x9974f4e6ff49ac39469928e5d7cca3e8649ae6b8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A decentralised consulting platform for ICO participants, experts and investors."
+    },
+    "country_origin": "RO",
+    "genesis_date": null,
+    "contract_address": "0x9974f4e6ff49ac39469928e5d7cca3e8649ae6b8",
+    "url": "https://pathfund.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x9974F4E6FF49ac39469928E5d7cCa3E8649ae6b8"
+    ],
+    "twitter": "PathFund",
+    "facebook": "PathFund-106558451607751",
+    "telegram": "PathFund",
+    "github_org": "PathFund"
+}

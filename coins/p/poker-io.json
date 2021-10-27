@@ -1,0 +1,21 @@
+{
+    "id": "poker-io",
+    "symbol": "pok",
+    "name": "Poker.io",
+    "platforms": {
+        "ethereum": "0xbc8deee89f1cf4b661514185aa1ab780336c4c4a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Poker.io is a decentralized distributed block chain poker platform. Users around the world can easily create their own poker roomsusers based on Poker.io without programming and deployment. Based on block chain technology, community information, user information and ecological economic rules are written into the block chain to promote the spread of ecological value."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbc8deee89f1cf4b661514185aa1ab780336c4c4a",
+    "url": "http://poker.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xbc8deee89f1cf4b661514185aa1ab780336c4c4a",
+        "https://ethplorer.io/address/0xbc8deee89f1cf4b661514185aa1ab780336c4c4a"
+    ]
+}

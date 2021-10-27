@@ -1,0 +1,22 @@
+{
+    "id": "daddyshiba",
+    "symbol": "daddyshiba",
+    "name": "DaddyShiba",
+    "platforms": {
+        "binance-smart-chain": "0x96f3d51db08ffa73cf2ef0fcc86e24cb436737f4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x96f3d51db08ffa73cf2ef0fcc86e24cb436737f4",
+    "url": "https://www.daddyshiba.net",
+    "explorers": [
+        "https://bscscan.com/token/0x96f3d51db08ffa73cf2ef0fcc86e24cb436737f4"
+    ],
+    "twitter": "daddyshibabsc",
+    "telegram": "DaddyShibaOfficial"
+}

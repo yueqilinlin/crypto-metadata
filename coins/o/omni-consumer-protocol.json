@@ -1,0 +1,22 @@
+{
+    "id": "omni-consumer-protocol",
+    "symbol": "ocp",
+    "name": "Omni Consumer Protocol",
+    "platforms": {
+        "binance-smart-chain": "0x3c70260eee0a2bfc4b375feb810325801f289fbd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Omni Consumer Protocols (OCP) aims to be the first DeFi DAO conglomerate with multiple interlinked protocols under the same family.\r\n\r\nThis architecture from the outset allows our community to benefit not only from the underlying protocols, but the overall DAO as well.\r\n\r\nThe first to go live, OmniCOMP, is a synthetic currency minter. Users can supply assets to mint USDO, and other currencies, earning $OMNIC rewards for a supercharged yield.\r\n\r\nComing next is OmniTRADE a DEX with IL protection, tight slippage tolerance, and accurate pricing of assets.\r\n\r\nFinally, the jewel of OCP, Delta City. The promise of blockchain realized in a fully decentralized utopia. Create, trade, and buy your stake in the OCP universe with unique items such as APY boosters and virtual real estate via NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3c70260eee0a2bfc4b375feb810325801f289fbd",
+    "url": "https://ocp.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x3c70260eee0a2bfc4b375feb810325801f289fbd"
+    ],
+    "twitter": "omnic_pro",
+    "telegram": "ocpcorp"
+}

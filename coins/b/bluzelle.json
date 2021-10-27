@@ -1,0 +1,32 @@
+{
+    "id": "bluzelle",
+    "symbol": "blz",
+    "name": "Bluzelle",
+    "platforms": {
+        "ethereum": "0x5732046a883704404f284ce41ffadd5b007fd668",
+        "binance-smart-chain": "0x935a544bf5816e3a7c13db2efe3009ffda0acda2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem",
+        "Storage",
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "Bluzelle is a decentralized storage network for the creator economy.\r\n\r\nBluzelle delivers high security, un-matched availability, and is censorship resistant. Whether you are an artist, musician, scientist, publisher, or developer, Bluzelle protects the intellectual property of all creators. Bluzelle is data storage, file storage, oracles and specifically for NFTs and DeFi."
+    },
+    "country_origin": "SG",
+    "genesis_date": "2018-01-15",
+    "contract_address": "0x5732046a883704404f284ce41ffadd5b007fd668",
+    "url": "https://bluzelle.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x5732046a883704404f284ce41ffadd5b007fd668",
+        "https://ethplorer.io/address/0x5732046a883704404f284ce41ffadd5b007fd668",
+        "https://bigdipper.net.bluzelle.com/",
+        "https://bscscan.com/token/0x935a544bf5816e3a7c13db2efe3009ffda0acda2"
+    ],
+    "twitter": "BluzelleHQ",
+    "telegram": "bluzelle",
+    "reddit": "Bluzelle/",
+    "github_org": "njmurarka"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "chaincoin",
+    "symbol": "chc",
+    "name": "Chaincoin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Chaincoin offers global payments with private secure transactions backed by one of the largest community networks in digital currency"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://www.chaincoin.org/",
+    "explorers": [
+        "https://minkiz.co/acme/chc",
+        "https://altexplorer.co/coin/chc",
+        "https://explorer.chaincoin.org"
+    ],
+    "twitter": "chaincoin",
+    "telegram": "worldofchaincoin",
+    "github_org": "chaincoin"
+}

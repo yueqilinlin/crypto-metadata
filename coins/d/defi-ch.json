@@ -1,0 +1,23 @@
+{
+    "id": "defi-ch",
+    "symbol": "dfch",
+    "name": "DeFi.ch",
+    "platforms": {
+        "ethereum": "0xa92cdf011c895780733b2a6a6e15c4c1ed836148"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeFi's Decentralized Savings Platform enables it's users to get stable interest for their crypto holdings. Deposits can be withdrawn at any time - decentralized and trustless. Interest is calculated and paid in real time directly in the deposited currency. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa92cdf011c895780733b2a6a6e15c4c1ed836148",
+    "url": "https://www.defi.ch",
+    "explorers": [
+        "https://etherscan.io/token/0xa92cdf011c895780733b2a6a6e15c4c1ed836148",
+        "https://ethplorer.io/address/0xa92cdf011c895780733b2a6a6e15c4c1ed836148"
+    ],
+    "twitter": "defi_ch",
+    "telegram": "defi_ch"
+}

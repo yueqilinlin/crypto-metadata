@@ -1,0 +1,23 @@
+{
+    "id": "onlyup",
+    "symbol": "$UP",
+    "name": "OnlyUp",
+    "platforms": {
+        "binance-smart-chain": "0x5e12bb6ddd9214923d6c837ddf1ffb9c90f18883"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OnlyUP is the first rebase token to include rewards for holding. Hold $UP and receive BEP-20 ETH."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5e12bb6ddd9214923d6c837ddf1ffb9c90f18883",
+    "url": "https://www.onlyupbsc.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x5e12bb6ddd9214923d6c837ddf1ffb9c90f18883"
+    ],
+    "twitter": "OnlyUpToken",
+    "telegram": "onlyuptoken",
+    "github_org": "OnlyUpnow"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "mirrored-gamestop",
+    "symbol": "mgme",
+    "name": "Mirrored GameStop",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Mirrored Assets"
+    ],
+    "description": {
+        "en": "Mirrored GameStop - synthetic asset tracking the price of GameStop stock. "
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "url": "https://mirror.finance",
+    "explorers": [
+        "https://finder.terra.money/columbus-4/token/terra1m6j6j9gw728n82k78s0j9kq8l5p6ne0xcc820p"
+    ],
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol",
+    "github_org": "mirror-protocol"
+}

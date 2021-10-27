@@ -1,0 +1,27 @@
+{
+    "id": "jpyc",
+    "symbol": "jpyc",
+    "name": "JPY Coin",
+    "platforms": {
+        "ethereum": "0x2370f9d504c7a6e775bf6e14b3f12846b594cd53",
+        "polygon-pos": "0x6ae7dfc73e0dde2aa99ac063dcf7e8a63265108c",
+        "xdai": "0x417602f4fbdd471a431ae29fb5fe0a681964c11b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "Stablecoin project from Japan that is pegged to JPY."
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "contract_address": "0x2370f9d504c7a6e775bf6e14b3f12846b594cd53",
+    "url": "https://jpyc.jp/",
+    "explorers": [
+        "https://etherscan.io/token/0x2370f9d504c7a6e775bf6e14b3f12846b594cd53",
+        "https://ethplorer.io/address/0x2370f9d504c7a6e775bf6e14b3f12846b594cd53"
+    ],
+    "twitter": "jpy_coin",
+    "github_org": "jpycoin"
+}

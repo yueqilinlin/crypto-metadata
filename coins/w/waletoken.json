@@ -1,0 +1,27 @@
+{
+    "id": "waletoken",
+    "symbol": "wtn",
+    "name": "Waletoken",
+    "platforms": {
+        "ethereum": "0x0ea984e789302b7b612147e4e4144e64f21425eb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "\"Wal-e is social media project behind of WaleTokeN, we developing Live video streaming social network application, this application will allowed you connect with people through live videos and messaging.\r\n\r\nThis application is based on sharing live broadcasts that you can also join with just one click. Follow hundreds of people and channels and discover a whole new world of possibilities.\""
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0x0ea984e789302b7b612147e4e4144e64f21425eb",
+    "url": "http://www.waletoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x0ea984e789302b7b612147e4e4144e64f21425eb",
+        "https://ethplorer.io/address/0x0ea984e789302b7b612147e4e4144e64f21425eb"
+    ],
+    "twitter": "waletokenpro",
+    "facebook": "waletoken.project",
+    "telegram": "waletokenofficial",
+    "github_org": "waletoken"
+}

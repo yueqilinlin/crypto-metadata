@@ -1,0 +1,30 @@
+{
+    "id": "perth-mint-gold-token",
+    "symbol": "pmgt",
+    "name": "Perth Mint Gold Token",
+    "platforms": {
+        "ethereum": "0xaffcdd96531bcd66faed95fc61e443d08f79efef"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency",
+        "Tokenized Gold",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Perth Mint Gold Token (PMGT), launched in October 2018, is an ERC20 token developed and issued by Trovio (formerly InfiniGold). Each unit represents 1 fine troy ounce of physical gold securely stored in The Perth Mint's central bank grade vaults. PMGT is transferable peer to peer, and enables a smart contract proving your title of gold held at the Perth Mint.\r\n\r\nPMGT is 100% backed by gold held and stored in The Perth Mint\u2019s central bank grade vaults, where the weight and purity of every ounce is guaranteed by the Government of Western Australia. This makes PMGT the first gold-backed token on a public blockchain whereby the physical gold is government guaranteed.\r\n\r\nAs PMGT is a tokenised version of GoldPass certificates backed by physical gold held in The Perth Mint\u2019s inventory, the issuance of PMGT can seamlessly scale up to billions of dollars\u2019 worth of tokens.\r\n\r\nFree of recurring storage or management fees, PMGT offers institutional investors a competitive alternative to traditional gold products, with the additional benefits of real-time 24/7 trading, a cryptographically secure instant settlement enabled by blockchain technology, and fewer intermediaries."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0xaffcdd96531bcd66faed95fc61e443d08f79efef",
+    "url": "https://pmgt.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xaffcdd96531bcd66faed95fc61e443d08f79efef",
+        "https://ethplorer.io/address/0xaffcdd96531bcd66faed95fc61e443d08f79efef"
+    ],
+    "twitter": "pmgoldtoken",
+    "facebook": "pmgoldtoken",
+    "telegram": "pmgoldtoken",
+    "reddit": "pmgoldtoken/",
+    "github_org": "infinigold-pty-ltd"
+}

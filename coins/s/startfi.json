@@ -1,0 +1,23 @@
+{
+    "id": "startfi",
+    "symbol": "stfi",
+    "name": "StartFi",
+    "platforms": {
+        "ethereum": "0xfd9cd8c0d18cd7e06958f3055e0ec3adbdba0b17"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "StartFi is an NFT powered platform that aims to empower content creators with tools needed to incubate, manage and fund their content creation efforts while engaging their community for support and feedback."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfd9cd8c0d18cd7e06958f3055e0ec3adbdba0b17",
+    "url": "https://startfi.io",
+    "explorers": [
+        "https://etherscan.io/token/0xfd9cd8c0d18cd7e06958f3055e0ec3adbdba0b17",
+        "https://ethplorer.io/address/0xfd9cd8c0d18cd7e06958f3055e0ec3adbdba0b17"
+    ],
+    "twitter": "StartFinance",
+    "telegram": "StartFiChat"
+}

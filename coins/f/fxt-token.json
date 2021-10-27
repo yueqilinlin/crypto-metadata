@@ -1,0 +1,22 @@
+{
+    "id": "fxt-token",
+    "symbol": "fxt",
+    "name": "FXT Token",
+    "platforms": {
+        "ethereum": "0xf83bf320a4a3f4bf365c3114b6f19fc3f6b1228c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FXT provides a full-stack finance solution that enables the users to gain complete control over their assets. The platform provides a one-stop destination to store, exchange, trade, make vendor payments, and avail financial services in cryptocurrencies while surpassing cross-border regulatory restrictions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf83bf320a4a3f4bf365c3114b6f19fc3f6b1228c",
+    "url": "https://ico.fxttoken.com",
+    "explorers": [
+        "https://etherscan.io/token/0xf83bf320a4a3f4bf365c3114b6f19fc3f6b1228c",
+        "https://ethplorer.io/address/0xf83bf320a4a3f4bf365c3114b6f19fc3f6b1228c"
+    ],
+    "twitter": "TokenFxt"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "k21",
+    "symbol": "k21",
+    "name": "K21",
+    "platforms": {
+        "ethereum": "0xb9d99c33ea2d86ec5ec6b8a4dd816ebba64404af"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "K21 is a closed-end art vault that provides liquid exposure to a curated collection of 21 unique and original NFT artworks by a diverse roster of influential and pioneering contemporary, digital, and cryptonative artists. Engineered for composability, durability, and equity, K21 establishes a new protocol for art.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb9d99c33ea2d86ec5ec6b8a4dd816ebba64404af",
+    "url": "https://kanon.art/",
+    "explorers": [
+        "https://etherscan.io/token/0xb9d99c33ea2d86ec5ec6b8a4dd816ebba64404af",
+        "https://ethplorer.io/address/0xb9d99c33ea2d86ec5ec6b8a4dd816ebba64404af"
+    ],
+    "twitter": "KanonDotArt"
+}

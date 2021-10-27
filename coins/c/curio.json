@@ -1,0 +1,25 @@
+{
+    "id": "curio",
+    "symbol": "cur",
+    "name": "Curio",
+    "platforms": {
+        "ethereum": "0x13339fd07934cd674269726edf3b5ccee9dd93de"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Launched on 18/06/2019 by a team based in Switzerland. CurioInvest aims to provide a simple platform to invest in premium collectable cars. CurioInvest\u2019s team hand-pick vehicles based on their investment potential. The purchase price of the cars is crowdfunded by selling \u201cCar Tokens\u201d to investors on the platform. By purchasing Car Tokens, users gain the right to share in any profit when the vehicle is resold. In addition, users can diversify their portfolios by purchasing tokens in multiple cars. This way, users can invest in the virtual garage of their dreams, backed by tangible, real-world assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x13339fd07934cd674269726edf3b5ccee9dd93de",
+    "url": "https://curioinvest.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x13339fd07934cd674269726edf3b5ccee9dd93de",
+        "https://ethplorer.io/address/0x13339fd07934cd674269726edf3b5ccee9dd93de"
+    ],
+    "twitter": "curio_invest",
+    "facebook": "Curioinvest",
+    "telegram": "CurioInvestCommunity",
+    "github_org": "CurioTeam"
+}

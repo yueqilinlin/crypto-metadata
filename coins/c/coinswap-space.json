@@ -1,0 +1,23 @@
+{
+    "id": "coinswap-space",
+    "symbol": "css",
+    "name": "CoinSwap Space",
+    "platforms": {
+        "binance-smart-chain": "0x3bc5798416c1122bcfd7cb0e055d50061f23850d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CoinSwap is a DEX with a suite of products available in Decentralized Finance Environment. It is the perfect ecosystem for automated liquidity that is provisioned in the Binance chain icon in rounded square Binance Smart Chain, incentivizing community for their efforts to the AMM model."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3bc5798416c1122bcfd7cb0e055d50061f23850d",
+    "url": "https://coinswap.space/",
+    "explorers": [
+        "https://bscscan.com/token/0x3bc5798416c1122bcfd7cb0e055d50061f23850d"
+    ],
+    "twitter": "CoinSwap_Space",
+    "telegram": "CoinSwapSpace",
+    "github_org": "CoinSwap-Space"
+}

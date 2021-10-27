@@ -1,0 +1,24 @@
+{
+    "id": "filecoin-standard-hashrate-token",
+    "symbol": "filst",
+    "name": "Filecoin Standard Hashrate Token",
+    "platforms": {
+        "ethereum": "0x7346ad4c8cd1886ff6d16072bcea5dfc0bc24ca2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FILST(Filecoin Standard Hashrate Token) is a perpetual standard computing power token of FIL.Each FILST token is anchored to 1G computing power of FIL in full. Staking FILST, holders can obtain a corresponding amount of FIL mining output of computing power. FILST can also be used for pledge and transaction in secondary market. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7346ad4c8cd1886ff6d16072bcea5dfc0bc24ca2",
+    "url": "https://defil.org/#/home",
+    "explorers": [
+        "https://etherscan.io/token/0x7346aD4c8cD1886Ff6D16072bCeA5DFC0bc24Ca2",
+        "https://ethplorer.io/address/0x7346ad4c8cd1886ff6d16072bcea5dfc0bc24ca2"
+    ],
+    "twitter": "defilofficial",
+    "telegram": "defilorgEN",
+    "github_org": "DeFIL-org"
+}

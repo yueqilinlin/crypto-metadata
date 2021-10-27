@@ -1,0 +1,23 @@
+{
+    "id": "healing-potion",
+    "symbol": "hppot",
+    "name": "Healing Potion",
+    "platforms": {
+        "binance-smart-chain": "0xc974be717f52dcc701fe50fad36d163b1e9a3a82"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Major BSC Utility Token powering Brewlabs and The Bot Yard! Moonshot Priming."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc974be717f52dcc701fe50fad36d163b1e9a3a82",
+    "url": "https://www.healingpot.info/",
+    "explorers": [
+        "https://bscscan.com/token/0xc974be717f52dcc701fe50fad36d163b1e9a3a82"
+    ],
+    "twitter": "FinancePotion",
+    "telegram": "healingpot",
+    "reddit": "Healingpottoken"
+}

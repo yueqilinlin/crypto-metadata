@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-litecoin-token",
+    "symbol": "ltcbull",
+    "name": "3X Long Litecoin Token",
+    "platforms": {
+        "ethereum": "0xdb61354e9cf2217a29770e9811832b360a8daad3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Litecoin Token (LTCBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Litecoin."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdb61354e9cf2217a29770e9811832b360a8daad3",
+    "url": "https://ftx.com/tokens/LTCBULL",
+    "explorers": [
+        "https://etherscan.io/token/0xdb61354e9cf2217a29770e9811832b360a8daad3",
+        "https://ethplorer.io/address/0xdb61354e9cf2217a29770e9811832b360a8daad3"
+    ]
+}

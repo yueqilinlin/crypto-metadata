@@ -1,0 +1,28 @@
+{
+    "id": "symmetric",
+    "symbol": "symm",
+    "name": "Symmetric",
+    "platforms": {
+        "ethereum": "0x57db3ffca78dbbe0efa0ec745d55f62aa0cbd345",
+        "celo": "0x7c64ad5f9804458b8c9f93f7300c15d55956ac2a",
+        "xdai": "0xc45b3c1c24d5f54e7a2cf288ac668c74dd507a84"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Celo Ecosystem"
+    ],
+    "description": {
+        "en": "Symmetric is an Automated Market Maker (AMM) and a Decentralized Exchange (DEX), running on the Celo and xDai networks.\r\n\r\nSymmetric\u2019s roadmap includes further development of use-cases (such as a launchpad, crypto index funds, crypto ETFs & ESG funds) and support for more networks in the future."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x57db3ffca78dbbe0efa0ec745d55f62aa0cbd345",
+    "url": "https://symmetric.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x57db3ffca78dbbe0efa0ec745d55f62aa0cbd345",
+        "https://ethplorer.io/address/0x57db3ffca78dbbe0efa0ec745d55f62aa0cbd345"
+    ],
+    "twitter": "0xSymmetric",
+    "telegram": "SymmetricFinanceDiscussion",
+    "github_org": "centfinance"
+}

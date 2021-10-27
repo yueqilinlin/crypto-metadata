@@ -1,0 +1,23 @@
+{
+    "id": "method-fi",
+    "symbol": "mthd",
+    "name": "Method Finance",
+    "platforms": {
+        "ethereum": "0x84ba4aecfde39d69686a841bab434c32d179a169"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Through our Method NFT Vaults, Liquidity Providers can stake liquidity to their NFT, which then proves they are providing liquidity and should earn rewards, without needing to stake directly into a protocol\u2019s smart contract. This makes it a win-win for legitimate providers and protocols, while increasing confidence in the DeFi ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x84ba4aecfde39d69686a841bab434c32d179a169",
+    "url": "https://methodfi.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x84ba4aecfde39d69686a841bab434c32d179a169",
+        "https://ethplorer.io/address/0x84ba4aecfde39d69686a841bab434c32d179a169"
+    ],
+    "twitter": "Method_Finance",
+    "telegram": "method_finance"
+}

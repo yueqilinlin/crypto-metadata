@@ -1,0 +1,23 @@
+{
+    "id": "ustonks-apr21",
+    "symbol": "ustonks-apr21",
+    "name": "uSTONKS Index Token April 2021",
+    "platforms": {
+        "ethereum": "0xec58d3aefc9aaa2e0036fa65f70d569f49d9d1ed"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "uSTONKS is a synthetic that tracks an index of the ten most bullish Wall Street Bets stocks. Bullishness will be measured by the number of positive comments on the WSB subreddit, with data provided from Swaggy Stocks\u2019s trend tracking. A base date is set where the index is 100 and each stock represents 10 points on the index. Each token will be weighed equally in the uSTONKS Index."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xec58d3aefc9aaa2e0036fa65f70d569f49d9d1ed",
+    "url": "https://degenerative.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xec58d3aefc9aaa2e0036fa65f70d569f49d9d1ed",
+        "https://ethplorer.io/address/0xec58d3aefc9aaa2e0036fa65f70d569f49d9d1ed"
+    ],
+    "twitter": "yamfinance",
+    "github_org": "yam-finance"
+}

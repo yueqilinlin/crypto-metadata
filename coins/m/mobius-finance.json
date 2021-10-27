@@ -1,0 +1,23 @@
+{
+    "id": "mobius-finance",
+    "symbol": "mot",
+    "name": "Mobius Finance",
+    "platforms": {
+        "polygon-pos": "0x2db0db271a10661e7090b6758350e18f6798a49d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mobius Finance is a decentralized trading platform that can create and trade any synthetic asset, powered by our risk control algorithm. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2db0db271a10661e7090b6758350e18f6798a49d",
+    "url": "https://mobius.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x2db0Db271a10661e7090b6758350E18F6798a49D"
+    ],
+    "twitter": "mobius_finance",
+    "telegram": "mobius_finance",
+    "github_org": "mobiusfinance"
+}

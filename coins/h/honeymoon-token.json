@@ -1,0 +1,24 @@
+{
+    "id": "honeymoon-token",
+    "symbol": "moon",
+    "name": "HoneyMOON Token",
+    "platforms": {
+        "binance-smart-chain": "0xe8c93310af068aa50bd7bf0ebfa459df2a02ceba"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HoneyMOON is a native token of HoneyMoon - HoneyFarm's layer 3. HoneyFarm is a layered delegated farming project on BSC"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe8c93310af068aa50bd7bf0ebfa459df2a02ceba",
+    "url": "https://moon.honeyfarm.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xE8c93310af068aa50bd7bF0ebFa459Df2a02ceba"
+    ],
+    "twitter": "HoneyFarmFi",
+    "telegram": "HoneyFarmChat",
+    "reddit": "HoneyFarm_Official/",
+    "github_org": "HoneyFarmFi"
+}

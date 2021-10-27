@@ -1,0 +1,24 @@
+{
+    "id": "novadefi",
+    "symbol": "nmt",
+    "name": "NovaDeFi",
+    "platforms": {
+        "ethereum": "0xd9a6803f41a006cbf389f21e55d7a6079dfe8df3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NovaDeFi - The Interoperable DeFi Liquid Yield Generator. Interconnecting industrial mining capabilities with next generation decentralized finance solutions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd9a6803f41a006cbf389f21e55d7a6079dfe8df3",
+    "url": "https://novadefi.com",
+    "explorers": [
+        "https://etherscan.io/token/0xd9A6803f41A006CBf389f21e55D7A6079Dfe8DF3",
+        "https://ethplorer.io/address/0xd9a6803f41a006cbf389f21e55d7a6079dfe8df3"
+    ],
+    "twitter": "novadefi",
+    "telegram": "nova_defi",
+    "github_org": "novadefi"
+}

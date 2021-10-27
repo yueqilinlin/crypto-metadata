@@ -1,0 +1,24 @@
+{
+    "id": "londefy",
+    "symbol": "ldf",
+    "name": "Londefy",
+    "platforms": {
+        "binance-smart-chain": "0xffee80e4bc6767a89f897d10d6011c8c188e2a64"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A rebase token is an elastic supply smart contract that works in a way whereby the circulating supply expands or contracts due to changes in token price. Londefy rewards holders in a rising star of the defi space, Londex, and by holding Londex you\u2019ll also receive BEP20 Ethereum reflections.\r\n\r\nLondefy will aim to be the first fully verified rebase token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xffee80e4bc6767a89f897d10d6011c8c188e2a64",
+    "url": "https://londefy.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xffee80e4bc6767a89f897d10d6011c8c188e2a64"
+    ],
+    "twitter": "Londefy",
+    "telegram": "LonDefy",
+    "reddit": "Londefy",
+    "github_org": "LondefyDevs"
+}

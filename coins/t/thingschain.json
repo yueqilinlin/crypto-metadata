@@ -1,0 +1,24 @@
+{
+    "id": "thingschain",
+    "symbol": "tic",
+    "name": "Thingschain",
+    "platforms": {
+        "ethereum": "0x72430a612adc007c50e3b6946dbb1bb0fd3101d1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ThingsChain is a next-generation platform for IoT devices based on blockchain technology. It uses a multilayered architecture which provides a solution to the issues faced by current blockchains like lack of scalability and low transaction throughput rate."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x72430a612adc007c50e3b6946dbb1bb0fd3101d1",
+    "url": "https://thingschain.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x72430a612adc007c50e3b6946dbb1bb0fd3101d1",
+        "https://ethplorer.io/address/0x72430a612adc007c50e3b6946dbb1bb0fd3101d1"
+    ],
+    "twitter": "Things_chain",
+    "telegram": "thingschain_group",
+    "github_org": "TICnetwork"
+}

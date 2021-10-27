@@ -1,0 +1,25 @@
+{
+    "id": "etherrock-72",
+    "symbol": "pebble",
+    "name": "Etherrock #72",
+    "platforms": {
+        "ethereum": "0xdc98c5543f3004debfaad8966ec403093d0aa4a8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT"
+    ],
+    "description": {
+        "en": "Fractionalized Etherrock #72 and listed it on http://Fractional.art\r\n\r\nThis was done through an Emblem vault (ERC721 wrapper alternative), which now holds Etherrock #72. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdc98c5543f3004debfaad8966ec403093d0aa4a8",
+    "url": "https://fractional.art/vaults/0xDC98c5543F3004DEBfaad8966ec403093D0aa4A8",
+    "explorers": [
+        "https://etherscan.io/token/0xDC98c5543F3004DEBfaad8966ec403093D0aa4A8",
+        "https://ethplorer.io/address/0xDC98c5543F3004DEBfaad8966ec403093D0aa4A8"
+    ],
+    "twitter": "0xSisyphus",
+    "telegram": "pebble72"
+}

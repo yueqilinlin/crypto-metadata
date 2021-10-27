@@ -1,0 +1,23 @@
+{
+    "id": "balance-tokens",
+    "symbol": "baln",
+    "name": "Balance Tokens",
+    "platforms": {
+        "icon": "cxf61cd5a45dc9f91c15aa65831a30a90d59a09619"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The decentralized bank of ICON.\r\n\r\nThe best place to stake ICX, borrow synthetic assets, swap them, and supply liquidity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "cxf61cd5a45dc9f91c15aa65831a30a90d59a09619",
+    "url": "https://balanced.network/",
+    "explorers": [
+        "https://tracker.icon.foundation/token/cxf61cd5a45dc9f91c15aa65831a30a90d59a09619"
+    ],
+    "twitter": "BalancedDAO",
+    "telegram": "balanced_official",
+    "reddit": "BalancedNetwork/"
+}

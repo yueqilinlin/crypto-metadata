@@ -1,0 +1,23 @@
+{
+    "id": "soteria",
+    "symbol": "wsote",
+    "name": "Soteria",
+    "platforms": {
+        "binance-smart-chain": "0x541e619858737031a1244a5d0cd47e5ef480342c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Soteria is a blockchain based mutual to share the risks of DeFi"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x541e619858737031a1244a5d0cd47e5ef480342c",
+    "url": "https://soteria.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x541e619858737031a1244a5d0cd47e5ef480342c"
+    ],
+    "twitter": "soteriafinance",
+    "telegram": "SoteriaMutual",
+    "github_org": "Soteria-core"
+}

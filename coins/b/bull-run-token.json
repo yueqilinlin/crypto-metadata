@@ -1,0 +1,25 @@
+{
+    "id": "bull-run-token",
+    "symbol": "br",
+    "name": "Bull Run Finance",
+    "platforms": {
+        "binance-smart-chain": "0x25b070898a6c899b31e81de686b82241f5964ab4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bull Run Finance is Unique Concept it Self it Grows Community to increase audience of Crypto Industry to Create Biggest Bull Run Ever."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x25b070898a6c899b31e81de686b82241f5964ab4",
+    "url": "https://br.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x25b070898a6c899b31e81de686b82241f5964ab4"
+    ],
+    "twitter": "bullrunn_f",
+    "facebook": "BullRunToken",
+    "telegram": "BullRunOfficial",
+    "reddit": "BullRunn/",
+    "github_org": "BullRunn"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-exchange-token-index-token",
+    "symbol": "exchbull",
+    "name": "3X Long Exchange Token Index Token",
+    "platforms": {
+        "ethereum": "0x592ef68c18f05a22c5890263dea5d952dd140d2a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Exchange Token Index Token (EXCHBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Exchange Token Index."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x592ef68c18f05a22c5890263dea5d952dd140d2a",
+    "url": "https://ftx.com/tokens/EXCHBULL",
+    "explorers": [
+        "https://etherscan.io/token/0x592ef68c18f05a22c5890263dea5d952dd140d2a",
+        "https://ethplorer.io/address/0x592ef68c18f05a22c5890263dea5d952dd140d2a"
+    ]
+}

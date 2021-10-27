@@ -1,0 +1,25 @@
+{
+    "id": "green-light",
+    "symbol": "gl",
+    "name": "Green Light",
+    "platforms": {
+        "ethereum": "0x70fadbe1f2cccbaf98ac88fdcf94a0509a48e46d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Communication"
+    ],
+    "description": {
+        "en": "GreenLight Planet is a decentralized global application distribution center, a recreational and social gathering place, more importantly the client application for all GreenLight supporters to mine GL tokens."
+    },
+    "country_origin": "NZ",
+    "genesis_date": null,
+    "contract_address": "0x70fadbe1f2cccbaf98ac88fdcf94a0509a48e46d",
+    "url": "https://www.glpro.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x70fadbe1f2cccbaf98ac88fdcf94a0509a48e46d",
+        "https://ethplorer.io/address/0x70fadbe1f2cccbaf98ac88fdcf94a0509a48e46d"
+    ],
+    "twitter": "Greenlightpro2",
+    "telegram": "greenlightofficial"
+}

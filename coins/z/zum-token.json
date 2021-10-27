@@ -1,0 +1,28 @@
+{
+    "id": "zum-token",
+    "symbol": "zum",
+    "name": "ZUM TOKEN",
+    "platforms": {
+        "ethereum": "0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c",
+        "binance-smart-chain": "0x54c2c07b3af037567269ad6a168d5bd527867b58"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Other"
+    ],
+    "description": {
+        "en": "The encryption currency used in special tournaments for  games."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c",
+    "url": "https://zum-token.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c",
+        "https://ethplorer.io/address/0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c",
+        "https://bscscan.com/token/0x54c2c07b3af037567269ad6a168d5bd527867b58"
+    ],
+    "twitter": "Zum_Token",
+    "telegram": "ZumToken",
+    "github_org": "TournamentGameToken"
+}

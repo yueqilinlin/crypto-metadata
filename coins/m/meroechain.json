@@ -1,0 +1,22 @@
+{
+    "id": "meroechain",
+    "symbol": "mrc",
+    "name": "MeroeChain",
+    "platforms": {
+        "tron": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralizing sudan economy using blockchain."
+    },
+    "country_origin": "SD",
+    "genesis_date": null,
+    "url": "https://www.meroe.sd/",
+    "explorers": [
+        "https://tronscan.org/#/token/1003099"
+    ],
+    "twitter": "MeroeChain",
+    "facebook": "MeroeBlockchain",
+    "telegram": "meroechain"
+}

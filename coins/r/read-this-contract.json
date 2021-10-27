@@ -1,0 +1,24 @@
+{
+    "id": "read-this-contract",
+    "symbol": "rtc",
+    "name": "Read This Contract",
+    "platforms": {
+        "ethereum": "0x7f9a00e03c2e53a3af6031c17a150dbedaaab3dc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RTC started as a single ERC20 token contract with all the ecosystem rules explained right in the source code. By creating new tokens and new contracts, and building a vivd community around it, RTC evolved into a full-blown DeFi ecosystem. RTC encourages blockchain education, inviting crypto enthusiast to read contract source codes, interact directly with contract functions and more!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7f9a00e03c2e53a3af6031c17a150dbedaaab3dc",
+    "url": "https://swapship.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x7f9a00e03c2e53a3af6031c17a150dbedaaab3dc",
+        "https://ethplorer.io/address/0x7f9a00e03c2e53a3af6031c17a150dbedaaab3dc"
+    ],
+    "twitter": "RTC_Eco",
+    "telegram": "ReadThisContract",
+    "github_org": "rtc"
+}

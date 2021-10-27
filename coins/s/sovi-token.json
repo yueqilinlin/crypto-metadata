@@ -1,0 +1,23 @@
+{
+    "id": "sovi-token",
+    "symbol": "sovi",
+    "name": "Sovi Token",
+    "platforms": {
+        "huobi-token": "0x49e16563a2ba84e560780946f0fb73a8b32c841e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SOVI is the very first blockchain based Defi revolution simulation strategy game that allows you to build up your own army and apply your strategies in order to win the game and gain real valuable assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x49e16563a2ba84e560780946f0fb73a8b32c841e",
+    "url": "https://sovi.finance/",
+    "explorers": [
+        "https://hecoinfo.com/token/0x49e16563a2ba84e560780946f0fb73a8b32c841e"
+    ],
+    "twitter": "SoviFinance",
+    "telegram": "sovi_finance",
+    "github_org": "Sovi-Finance"
+}

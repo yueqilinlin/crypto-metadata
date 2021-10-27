@@ -1,0 +1,24 @@
+{
+    "id": "quiverx",
+    "symbol": "qrx",
+    "name": "QuiverX",
+    "platforms": {
+        "ethereum": "0x6e0dade58d2d89ebbe7afc384e3e4f15b70b14d8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "QuiverX is a utility token for the QuiverX Capital platform which is focused on tokenizing non-crypto related small and medium businesses."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6e0dade58d2d89ebbe7afc384e3e4f15b70b14d8",
+    "url": "https://quiverx.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x6e0dade58d2d89ebbe7afc384e3e4f15b70b14d8",
+        "https://ethplorer.io/address/0x6e0dade58d2d89ebbe7afc384e3e4f15b70b14d8"
+    ],
+    "twitter": "quiverx5",
+    "telegram": "QuiverXCapital",
+    "github_org": "QuiverX"
+}

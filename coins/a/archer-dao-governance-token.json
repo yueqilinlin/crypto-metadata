@@ -1,0 +1,27 @@
+{
+    "id": "archer-dao-governance-token",
+    "symbol": "arch",
+    "name": "Archer DAO Governance Token",
+    "platforms": {
+        "ethereum": "0x1f3f9d3068568f8040775be2e8c03c103c61f3af"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "MEV Protection",
+        "Infrastructure"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1f3f9d3068568f8040775be2e8c03c103c61f3af",
+    "url": "https://archerdao.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x1f3f9d3068568f8040775be2e8c03c103c61f3af",
+        "https://ethplorer.io/address/0x1f3f9d3068568f8040775be2e8c03c103c61f3af"
+    ],
+    "twitter": "archer_dao",
+    "telegram": "archerdao",
+    "github_org": "archerdao"
+}

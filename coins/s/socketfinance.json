@@ -1,0 +1,24 @@
+{
+    "id": "socketfinance",
+    "symbol": "sfi",
+    "name": "SocketFinance",
+    "platforms": {
+        "ethereum": "0xa6312567e419e73951c451feaba07b6d74a0e8ce"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Socket Finance is an experiment in DeFi world. It is a suite of decentralized finance (DeFi) products focused on creating a simple way to generate returns for our users. Future projects will involve Vaults, Swap, NFT, etc.\r\n\r\nhttps://socket.finance/#/about"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa6312567e419e73951c451feaba07b6d74a0e8ce",
+    "url": "https://socket.finance/#/",
+    "explorers": [
+        "https://etherscan.io/token/0xa6312567e419e73951c451feaba07b6d74a0e8ce",
+        "https://ethplorer.io/address/0xa6312567e419e73951c451feaba07b6d74a0e8ce"
+    ],
+    "twitter": "SocketFinance",
+    "telegram": "SocketFinanceOfficial",
+    "github_org": "socket-finance"
+}

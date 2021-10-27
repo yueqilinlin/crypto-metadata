@@ -1,0 +1,27 @@
+{
+    "id": "eosbet",
+    "symbol": "bet",
+    "name": "EarnBet",
+    "platforms": {
+        "eos": ""
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Gambling",
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "EOSBet is a provably fair licensed casino on the blockchain accepting multiple cryptocurrencies like BTC, LTC, BCH and EOS."
+    },
+    "country_origin": "AN",
+    "genesis_date": null,
+    "url": "https://earnbet.io/",
+    "explorers": [
+        "https://wax.bloks.io/account/betdividends",
+        "https://explorer.binance.org/asset/BET-844",
+        "http://etherscan.io/token/0xfdd4e938bb067280a52ac4e02aaf1502cc882ba6"
+    ],
+    "twitter": "EarnBetCasino",
+    "telegram": "EarnBetCasino",
+    "reddit": "EarnBet"
+}

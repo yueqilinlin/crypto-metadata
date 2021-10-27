@@ -1,0 +1,23 @@
+{
+    "id": "metagame",
+    "symbol": "seed",
+    "name": "MetaGame",
+    "platforms": {
+        "ethereum": "0x30cf203b48edaa42c3b4918e955fed26cd012a3f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SEED is a community currency for MetaGame"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x30cf203b48edaa42c3b4918e955fed26cd012a3f",
+    "url": "https://wiki.metagame.wtf",
+    "explorers": [
+        "https://etherscan.io/token/0x30cF203b48edaA42c3B4918E955fED26Cd012A3F",
+        "https://ethplorer.io/address/0x30cf203b48edaa42c3b4918e955fed26cd012a3f"
+    ],
+    "twitter": "MetaFam",
+    "github_org": "MetaFam"
+}

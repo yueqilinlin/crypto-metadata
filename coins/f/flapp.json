@@ -1,0 +1,25 @@
+{
+    "id": "flapp",
+    "symbol": "flap",
+    "name": "Flapp",
+    "platforms": {
+        "ethereum": "0xcfb72ed3647cc8e7fa52e4f121ecdabefc305e7f",
+        "binance-smart-chain": "0x5c6a58d670483e1211b131f0a6501849c77a77d5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Flapp is an ecosystem of dapps built to facilitate decentralized financial products and services."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcfb72ed3647cc8e7fa52e4f121ecdabefc305e7f",
+    "url": "https://flapptoken.io/",
+    "explorers": [
+        "https://etherscan.io/address/0xCfb72ED3647cC8E7FA52E4F121eCdAbEfC305e7f",
+        "https://ethplorer.io/address/0xCfb72ED3647cC8E7FA52E4F121eCdAbEfC305e7f",
+        "https://etherscan.io/token/0xCfb72ED3647cC8E7FA52E4F121eCdAbEfC305e7f"
+    ],
+    "twitter": "FlamaToken",
+    "github_org": "FlamaToken"
+}

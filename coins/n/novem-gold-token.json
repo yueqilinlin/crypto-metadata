@@ -1,0 +1,26 @@
+{
+    "id": "novem-gold-token",
+    "symbol": "nnn",
+    "name": "Novem Gold Token",
+    "platforms": {
+        "neo": "1e892bd588ea4ab409b3a93d3049d6115c6727f3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "NNN - the 999.9 token \u2013 is a gold-backed token. It is directly linked to physical gold. This means, it combines the flexibility of a blockchain token with the security of owning physical gold."
+    },
+    "country_origin": "LI",
+    "genesis_date": null,
+    "contract_address": "1e892bd588ea4ab409b3a93d3049d6115c6727f3",
+    "url": "https://novemgold.com/",
+    "explorers": [
+        "https://neotracker.io/asset/1e892bd588ea4ab409b3a93d3049d6115c6727f3"
+    ],
+    "twitter": "NovemGold",
+    "facebook": "NovemGoldAG",
+    "telegram": "NovemGold",
+    "reddit": "NovemGold/"
+}

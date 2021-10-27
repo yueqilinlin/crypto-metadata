@@ -1,0 +1,23 @@
+{
+    "id": "tcoin-fun",
+    "symbol": "tco",
+    "name": "Tcoin.fun",
+    "platforms": {
+        "ethereum": "0x00ff902d4b2bfdbd0db38887412447c30b565aa0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TCO is token that aims to propel that project to become a smart hybrid asset management platform that is driven by its strong adherence to inclusivity, profitability, security and urge to serve.\r\n\r\nThe smart hybrid assets management platform will include what is needed for users to complete transactions in different styles and with ease."
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0x00ff902d4b2bfdbd0db38887412447c30b565aa0",
+    "url": "https://tcoin.fun/",
+    "explorers": [
+        "https://etherscan.io/token/0x00ff902d4b2bfdbd0db38887412447c30b565aa0",
+        "https://ethplorer.io/address/0x00ff902d4b2bfdbd0db38887412447c30b565aa0"
+    ],
+    "twitter": "tcoinfun",
+    "telegram": "tcoin_fun"
+}

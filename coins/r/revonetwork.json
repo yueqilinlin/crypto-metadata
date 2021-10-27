@@ -1,0 +1,22 @@
+{
+    "id": "revonetwork",
+    "symbol": "revo",
+    "name": "RevoNetwork",
+    "platforms": {
+        "binance-smart-chain": "0x678e5f70b6b582dfadb3dbd68af17801d34555c5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Revo Network is designed to be a one-stop DeFi & NFT marketplace ecosystem for users to have a full permissionless and decentralized crypto market experience. Think of the RevoNetwork's application as your mobile window to all of the limitless opportunities that the DeFi market presents with a NFT marketplace.\r\n\r\nThe Revo Network is an all-in-one mobile qpplication designed to house an exhaustive bouquet of easy-to-use DeFi services and NFT marketplace. The Revo ecosystem's central-piece features are\u2014cross border, permissionless, trustless, and of course, decentralized user-experience. So users will be getting a complete DeFi & NFT marketplace experience, without losing sovereignty over their fund's private keys. The Revo services cut across the following categories:\r\n\r\n\u25cf Liquidity Mining and staking\r\n\u25cf RevoNetwork Dex for instant token swaps\r\n\u25cf Multi-chain wallet\r\n\u25cf Cross border crypto payment gateway\r\n\u25cf The Revo NFT marketplace"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x678e5f70b6b582dfadb3dbd68af17801d34555c5",
+    "url": "https://www.revonetwork.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x678e5f70b6b582dfadb3dbd68af17801d34555c5"
+    ],
+    "twitter": "RevoNetworkapp",
+    "telegram": "RevoNetworkapp"
+}

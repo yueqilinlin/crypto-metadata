@@ -1,0 +1,25 @@
+{
+    "id": "neo-holistic-coin",
+    "symbol": "nhc",
+    "name": "Neo Holistic Coin",
+    "platforms": {
+        "ethereum": "0x62947ff43626ea26427be5ae4c7dd03b4f1ca872"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Neo Holistic Coin, or NHCoin, is a Blockchain based Crypto Asset that simplifies the use of Crypto and Digital Assets for Saving, and Lending purposes for the everyday people. \r\n\r\nNHCoin aims to drive the more than 30 million Indonesians who are part of the Cooperative Banking industry and the billions in the world to use Crypto assets for their Saving, and Lending needs.\r\n\r\nNHC provides the simplest and most practical way for Crypto based saving and lending, and acts as a Digital Store of Value."
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0x62947ff43626ea26427be5ae4c7dd03b4f1ca872",
+    "url": "https://nhcoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x62947ff43626eA26427Be5aE4c7dD03b4f1cA872",
+        "https://ethplorer.io/address/0x62947ff43626eA26427Be5aE4c7dD03b4f1cA872"
+    ],
+    "twitter": "neoholistic",
+    "facebook": "nhtech.id",
+    "telegram": "NeoHolisticGroupID",
+    "github_org": "nhcoin"
+}

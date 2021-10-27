@@ -1,0 +1,28 @@
+{
+    "id": "chiliz",
+    "symbol": "chz",
+    "name": "Chiliz",
+    "platforms": {
+        "ethereum": "0x3506424f91fd33084466f402d5d97f05f8e3b4af"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Sports"
+    ],
+    "description": {
+        "en": "Chiliz is a fintech platform for the sports industry to allow global fans to get closer to their favorite sports teams and clubs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+    "url": "https://www.chiliz.com/",
+    "explorers": [
+        "https://explorer.binance.org/asset/CHZ-ECD",
+        "https://etherscan.io/token/0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+        "https://ethplorer.io/address/0x3506424f91fd33084466f402d5d97f05f8e3b4af"
+    ],
+    "twitter": "chiliz",
+    "facebook": "chilizdotcom",
+    "telegram": "chiliz_io"
+}

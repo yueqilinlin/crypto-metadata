@@ -1,0 +1,24 @@
+{
+    "id": "non-fungible-yearn",
+    "symbol": "nfy",
+    "name": "Non-Fungible Yearn",
+    "platforms": {
+        "ethereum": "0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Non-Fungible Yearn is a DeFi platform whose goal is to utilize the full potential of Non-Fungible Tokens (NFTs) in the DeFi sector."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc",
+    "url": "https://nfy.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc",
+        "https://ethplorer.io/address/0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc"
+    ],
+    "twitter": "NFYFinance",
+    "telegram": "NFYOfficialChat",
+    "github_org": "NFYFinance"
+}

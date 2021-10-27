@@ -1,0 +1,22 @@
+{
+    "id": "raven-x",
+    "symbol": "rx",
+    "name": "Raven X",
+    "platforms": {
+        "binance-smart-chain": "0x8891de345808e77228677f0efb56125db1e93a49"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Deflationary token on BSC with a 2% donation fee (Binance charity wallet), 2% burn and 2% redistribution to holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8891de345808e77228677f0efb56125db1e93a49",
+    "url": "https://ravenx.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x8891de345808e77228677f0efb56125db1e93a49"
+    ],
+    "twitter": "ravenxfin",
+    "telegram": "RavenXfin"
+}

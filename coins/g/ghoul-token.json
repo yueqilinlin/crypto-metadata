@@ -1,0 +1,25 @@
+{
+    "id": "ghoul-token",
+    "symbol": "ghoul",
+    "name": "Ghoul Token",
+    "platforms": {
+        "ethereum": "0x3bb86d867a9f3addf994cdadb210fa82f0d4157a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Poltergeist is a crypto currency exchange with a focus on anonymity and privacy coins. We launched a beta version of our exchange on Jan 31st 2020 and will be launching our fully decentralized cross chain privacy exchange at the end of the year. You have the right to be private and we want to help you ensure those rights are upheld. Trade on your terms.\r\n\r\nGHOUL holders will receive 100% of trading fees from the exchange, reduced trading fees, voting rights, staking rewards and more."
+    },
+    "country_origin": "AG",
+    "genesis_date": null,
+    "contract_address": "0x3bb86d867a9f3addf994cdadb210fa82f0d4157a",
+    "url": "https://ghoultoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3bb86d867a9f3addf994cdadb210fa82f0d4157a",
+        "https://ethplorer.io/address/0x3bb86d867a9f3addf994cdadb210fa82f0d4157a"
+    ],
+    "twitter": "PoltergeistDEX",
+    "telegram": "poltergeistexchange",
+    "reddit": "PoltergeistDEX/",
+    "github_org": "poltergeistexchange"
+}

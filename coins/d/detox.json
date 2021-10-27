@@ -1,0 +1,22 @@
+{
+    "id": "detox",
+    "symbol": "dtx",
+    "name": "Detox",
+    "platforms": {
+        "binance-smart-chain": "0x978e4e5b0586c848898eda9fbbb02eb4a207e7bc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Launched in 08/08/2021 by a diverse team based in Europe, Asia and America, Detox is a BEP-20 utility token on the Binance Smart Chain designed to serve as a medium of exchange with its numerous decentralised app solutions. Detox (DTX) is the sister coin of Toxic (TXC), and is designed to exponentially reward investors in the Toxic ecosystem. With a secure staking platform, a stablecoin auto-reward mechanism and a lottery all combined, this is the most potent token in the DeFi space. In addition, Detox also feeds to and maintains the mother-token Toxic, with its mission as a crypto-antidote to remedy pollution all around the world. \r\n\r\nThe token runs on a protocol that taxes a total of 13% for each transaction on Buys/Sells and returns a 4% dividend Paid in $BUSD to its holders, which aims to offer scalability, as well as assisting DTX and TXC in its growth.\r\n\r\nDETOX relies on the following principles: \r\n- 4% Dividend Paid in $BUSD: Up to 4% of every buy/sell is redistributed to the $TOXIC holders.\r\n- 2% will go as tokens to the staking pool\r\n- 2% will be added to the liquidity pool \r\n- 1.25% to the Lottery Pool"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x978e4e5b0586c848898eda9fbbb02eb4a207e7bc",
+    "url": "https://www.toxictoken.biz/detox",
+    "explorers": [
+        "https://bscscan.com/token/0x978e4e5b0586c848898eda9fbbb02eb4a207e7bc"
+    ],
+    "twitter": "DetoxToken",
+    "telegram": "Detox_Toxic"
+}

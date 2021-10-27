@@ -1,0 +1,23 @@
+{
+    "id": "zap-defi",
+    "symbol": "zap",
+    "name": "Zap DeFi",
+    "platforms": {
+        "ethereum": "0x7d7470bc321a60cb11c7989356ad66a161c56628"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ZAP is a novel DeFi protocol that generates passive yield for existing holders every time a new buy order executes. The yield is instantaneous and approximately 10,101% higher than the standard RFI contract.\r\n\r\nThe best part? There is zero transfer tax which means you don't lose any tokens when trading. Zero transfer tax also means ZAP can be easily integrated into existing DeFi protocols."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x7d7470bc321a60cb11c7989356ad66a161c56628",
+    "url": "https://www.zapdefi.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x7d7470bc321a60cb11c7989356ad66a161c56628",
+        "https://ethplorer.io/address/0x7d7470bc321a60cb11c7989356ad66a161c56628"
+    ],
+    "twitter": "ZapDefi",
+    "telegram": "zaptoken"
+}

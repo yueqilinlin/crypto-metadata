@@ -1,0 +1,23 @@
+{
+    "id": "nano-shiba-inu",
+    "symbol": "NanoShiba",
+    "name": "Nano Shiba Inu",
+    "platforms": {
+        "binance-smart-chain": "0x8da80544045480bc9e2109c91e9515c4823c5561"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Nano Shiba Inu is a one-of-a-kind reward and rebase token that uses a proprietary contract on the Binance Smart Chain. \r\n\r\nHolders of Nano Shiba Inu are rewarded in $SHIB token rewards that are distributed automatically through one of the contract\u2019s protocols.\r\n\r\nAt the center of it all, the goal remains to create a project that gives a voice to its holders by creating an unbreakable community foundation. \r\nCreating a community project is embracing and recognising that strength and growth does not come from a single perspective, but by creating a cohesive unit, where the sum of all parts come together to make it whole.\r\n\r\nFirst and foremost we are supporters and enthusiasts of cryptocurrency and decentralised finance, and the technology behind it, and it's ability to revolutionise the world.\r\n\r\nWe embrace all with open arms, our community is 100% dedicated to respect, equality, and there is no room for discrimination.\r\n\r\nWe are a team that understands the value in community and collaboration. We come together to share our ideas and content with our community and the world of DeFi, and also\r\nare a team that wants to help others, and keep the global adoption of DeFI as the overlaying goal for us all.\r\n\r\nAnd finally, we care about taking initiative and speaking with our actions. We see the potential this project has and we will do everything we can to make our vision a reality."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8da80544045480bc9e2109c91e9515c4823c5561",
+    "url": "https://www.nanoshibainu.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x8da80544045480bc9e2109c91e9515c4823c5561"
+    ],
+    "twitter": "nanoshibainubsc",
+    "telegram": "NanoShibaInuCoin",
+    "github_org": "NanoShibaInuDev"
+}

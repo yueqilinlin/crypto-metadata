@@ -1,0 +1,25 @@
+{
+    "id": "holyheld",
+    "symbol": "holy",
+    "name": "Holyheld (OLD)",
+    "platforms": {
+        "ethereum": "0x39eae99e685906ff1c11a962a743440d0a1a6e09"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Holyheld is a mobile-first financial services app that allows you to trade, store, send, and earn interest on crypto assets in a simple wallet with a debit card."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x39eae99e685906ff1c11a962a743440d0a1a6e09",
+    "url": "https://holyheld.com",
+    "explorers": [
+        "https://etherscan.io/token/0x39eAE99E685906fF1C11A962a743440d0a1A6e09",
+        "https://ethplorer.io/address/0x39eae99e685906ff1c11a962a743440d0a1a6e09"
+    ],
+    "twitter": "holyheld",
+    "facebook": "holyheldHQ",
+    "telegram": "holyheld",
+    "github_org": "Holyheld"
+}

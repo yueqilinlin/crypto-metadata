@@ -1,0 +1,25 @@
+{
+    "id": "storichain-token",
+    "symbol": "tori",
+    "name": "Storichain Token",
+    "platforms": {
+        "ethereum": "0xc71e20e54adfc415f79bf0a8f11122917920050e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Storichain is a DApp and storytellers agreement protocol that create stories, distribute and manage story IPs. It is also a protocol that provides a contract for story creation contracts. Users can change their positions in the story chain ecosystem as writers, producers, and readers, and participate in story creation before they are published as individual media such as movies, dramas, cartoons, and games. Also, if you can get a reward for the weekly contribution of the user before the sale of the copyright, and if the story you participated in is sold for the second production, such as publishing, video, etc., DApp) and Etherium as the main network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc71e20e54adfc415f79bf0a8f11122917920050e",
+    "url": "http://storichain.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xc71e20e54adfc415f79bf0a8f11122917920050e",
+        "https://ethplorer.io/address/0xc71e20e54adfc415f79bf0a8f11122917920050e"
+    ],
+    "twitter": "storichain",
+    "facebook": "storichain",
+    "telegram": "storichain_en",
+    "github_org": "storichain"
+}

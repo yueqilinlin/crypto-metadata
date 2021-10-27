@@ -1,0 +1,21 @@
+{
+    "id": "edc-blockchain",
+    "symbol": "edc",
+    "name": "EDC Blockchain",
+    "platforms": {},
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [],
+    "description": {
+        "en": "EDC Blockchain is a multifunctional blockchain platform which is based on the DPoS (Delegated-Proof-of-Steak) consensus algorithm. EDC Blockchain it\u2019s the tools platform for entrepreneurs based on blockchain. The goal is to create effective tools for the tokenization of private small and medium businesses and the global popularization of blockchain technology."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://blockchain.mn/",
+    "explorers": [
+        "https://explorer.blockchain.mn/"
+    ],
+    "twitter": "EDCBlockchain",
+    "facebook": "EDCBlockchain",
+    "telegram": "EDCBlockchain",
+    "github_org": "EDCBlockchain"
+}

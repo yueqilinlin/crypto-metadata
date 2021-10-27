@@ -1,0 +1,23 @@
+{
+    "id": "ifoswap-token",
+    "symbol": "h2o",
+    "name": "IFOSwap Token",
+    "platforms": {
+        "binance-smart-chain": "0x97641c20355571820f591839d972ad2d38ad9f00"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "IFOSwap will be powered by the Binance Smart Chain (BSC) which is a rich and growing digital asset ecosystem powered by Binance DEX, the leading decentralized exchange. \r\nContain cheap transaction fees that reach as low as 1 cent and have High performance with a network capable of producing a block every 3 seconds. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x97641c20355571820f591839d972ad2d38ad9f00",
+    "url": "https://ifoswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x97641c20355571820f591839d972ad2d38ad9f00"
+    ],
+    "twitter": "ifoswap_real",
+    "telegram": "ifoswap_official",
+    "github_org": "IFOSwap"
+}

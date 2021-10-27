@@ -1,0 +1,26 @@
+{
+    "id": "primedao",
+    "symbol": "prime",
+    "name": "PrimeDAO",
+    "platforms": {
+        "ethereum": "0xe59064a8185ed1fca1d17999621efedfab4425c9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem"
+    ],
+    "description": {
+        "en": "PRIME is the utility and reward token of PrimeDAO, a collective of builders and creators committed to the systemic innovation of open finance."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe59064a8185ed1fca1d17999621efedfab4425c9",
+    "url": "https://primedao.eth.link/#/",
+    "explorers": [
+        "https://etherscan.io/token/0xe59064a8185ed1fca1d17999621efedfab4425c9",
+        "https://ethplorer.io/address/0xe59064a8185ed1fca1d17999621efedfab4425c9"
+    ],
+    "twitter": "PrimeDAO_",
+    "telegram": "primedao",
+    "github_org": "PrimeDAO"
+}

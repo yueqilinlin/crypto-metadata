@@ -1,0 +1,26 @@
+{
+    "id": "zenon",
+    "symbol": "znn",
+    "name": "Zenon",
+    "platforms": {
+        "binance-smart-chain": "0x8a7ca49f42e5196c26bb00fa014352e5d065db4d"
+    },
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "Zenon is an evolutionary step in distributed ledger technology, enabling an efficient trust layer for transfer of value and data globally. \r\nBased on The Network of Momentum, it proposes a new type of architecture designed to overcome the limitations of current blockchain or DAG based cryptocurrencies."
+    },
+    "country_origin": "ZZ",
+    "genesis_date": null,
+    "contract_address": "0x8a7ca49f42e5196c26bb00fa014352e5d065db4d",
+    "url": "https://zenon.network/",
+    "explorers": [
+        "https://explore.zenon.network/",
+        "https://bscscan.com/token/0x8a7ca49f42e5196c26bb00fa014352e5d065db4d"
+    ],
+    "twitter": "Zenon_Network",
+    "telegram": "zenonnetwork",
+    "github_org": "zenonnetwork"
+}

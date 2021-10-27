@@ -1,0 +1,23 @@
+{
+    "id": "feta-token",
+    "symbol": "feta",
+    "name": "Feta Token",
+    "platforms": {
+        "binance-smart-chain": "0xcb5edcb7a2ade21ae4a695a5c7ffb7aa01dfaa5d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FetaToken uses the power of crypto to support charitable organizations while building for the future.\r\n\r\nThe FetaToken community holds events where a portion of tokens in the charity wallet gets donated to the community's decided charity organization. Anyone who holds FETA can participate in deciding the next charity to support by following any of the official FetaToken social media accounts. \r\n\r\nFETA, also known as the Fun Ethical Triangular Alt-coin, is a Binance Smart Chain deflationary token with non-custodial staking. FETA has an automatic 9% tax on every transaction, of which 3% is distributed to holders, 3% is burned and 3% is sent to the charity wallet."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xcb5edcb7a2ade21ae4a695a5c7ffb7aa01dfaa5d",
+    "url": "https://fetatoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xcB5EDCB7A2aDe21Ae4A695A5c7fFB7Aa01DFaA5d"
+    ],
+    "twitter": "FetaToken",
+    "telegram": "FetaToken",
+    "reddit": "FetaToken/"
+}

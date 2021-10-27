@@ -1,0 +1,24 @@
+{
+    "id": "stable-1inch",
+    "symbol": "one1inch",
+    "name": "Stable 1inch",
+    "platforms": {
+        "ethereum": "0x853bb55c1f469902f088a629db8c8803a9be3857"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "one1INCH, a stablecoin for the 1INCH Community. The 1inch Network unites decentralized protocols whose synergy enables the most lucrative, fastest and protected operations in the DeFi space. one1INCH will provide a stablecoin for this community that can be used to create USD exposure during these operations, help diversify the 1INCH at 1inch Foundation treasury that is the part of 1inch Network DAO, more easily pay operating costs, provide liquidity, and earn rewards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x853bb55c1f469902f088a629db8c8803a9be3857",
+    "url": "https://app.ichi.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x853Bb55c1f469902F088A629db8C8803A9BE3857",
+        "https://ethplorer.io/address/0x853Bb55c1f469902F088A629db8C8803A9BE3857"
+    ],
+    "twitter": "ichifarm",
+    "telegram": "ichifarm",
+    "github_org": "ichifarm"
+}

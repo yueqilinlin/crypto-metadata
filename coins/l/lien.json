@@ -1,0 +1,29 @@
+{
+    "id": "lien",
+    "symbol": "lien",
+    "name": "Lien",
+    "platforms": {
+        "ethereum": "0xab37e1358b639fd877f015027bb62d3ddaa7557e",
+        "binance-smart-chain": "0x5d684adaf3fcfe9cfb5cede3abf02f0cdd1012e3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Automated Market Maker (AMM)",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "A self-regulating protocol for creating unique derivative contracts"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xab37e1358b639fd877f015027bb62d3ddaa7557e",
+    "url": "https://lien.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xab37e1358b639fd877f015027bb62d3ddaa7557e",
+        "https://ethplorer.io/address/0xab37e1358b639fd877f015027bb62d3ddaa7557e"
+    ],
+    "twitter": "LienFinance",
+    "telegram": "Lien_Finance",
+    "github_org": "LienFinance"
+}

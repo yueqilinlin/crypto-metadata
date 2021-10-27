@@ -1,0 +1,22 @@
+{
+    "id": "the-portal",
+    "symbol": "portal",
+    "name": "The Portal",
+    "platforms": {
+        "ethereum": "0x1d9f8ab6dd1cf13874efce60fc35daf801c65d72"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Portal vault contains Portal #6 by artist Jeff Davis. Originally debuted at the Bright Moments gallery in Venice Beach LA, Portal is a series exploring generative light and color. As a 1/10, Portal is the most limited Art Blocks project to date."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1d9f8ab6dd1cf13874efce60fc35daf801c65d72",
+    "url": "https://fractional.art/vaults/0x1D9f8aB6DD1cF13874efce60FC35DaF801c65d72",
+    "explorers": [
+        "https://etherscan.io/token/0x1d9f8ab6dd1cf13874efce60fc35daf801c65d72",
+        "https://ethplorer.io/address/0x1d9f8ab6dd1cf13874efce60fc35daf801c65d72"
+    ],
+    "github_org": "jakerockland"
+}

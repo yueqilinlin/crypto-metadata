@@ -1,0 +1,24 @@
+{
+    "id": "ghost-by-mcafee",
+    "symbol": "ghost",
+    "name": "Ghost",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Cryptocurrency",
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "GHOST is a Proof of Stake privacy coin to help make you nothing but a \"ghost\" when transacting online!"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://ghostbyjohnmcafee.com/",
+    "explorers": [
+        "https://www.ghostscan.io",
+        "https://www.ghostin.io/"
+    ],
+    "twitter": "GhostbyMcAfee",
+    "telegram": "ghostcoinbymcafee",
+    "github_org": "ghost-coin"
+}

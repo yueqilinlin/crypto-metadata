@@ -1,0 +1,22 @@
+{
+    "id": "smilecoin",
+    "symbol": "sec",
+    "name": "Smilecoin",
+    "platforms": {
+        "ethereum": "0x75d669c53142302c8826d16b5689bffad50a7e18"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SmileCoin provides organizations with payment processing software and application programming interfaces for e-commerce websites and mobile applications. With SEC token, the company aims to streamline electronic money payments and run payment gateway for businesses. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x75d669c53142302c8826d16b5689bffad50a7e18",
+    "url": "https://smilecoin.trade/",
+    "explorers": [
+        "https://etherscan.io/token/0x75d669c53142302c8826d16b5689bffad50a7e18",
+        "https://ethplorer.io/address/0x75d669c53142302c8826d16b5689bffad50a7e18"
+    ],
+    "twitter": "coin_smile"
+}

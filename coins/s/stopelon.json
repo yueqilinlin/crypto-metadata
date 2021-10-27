@@ -1,0 +1,23 @@
+{
+    "id": "stopelon",
+    "symbol": "stopelon",
+    "name": "StopElon",
+    "platforms": {
+        "binance-smart-chain": "0xd83cec69ed9d8044597a793445c86a5e763b0e3d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A community driven movement to STOP one of the biggest market manipulators."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0xd83cec69ed9d8044597a793445c86a5e763b0e3d",
+    "url": "http://stopelon.space/",
+    "explorers": [
+        "https://bscscan.com/token/0xd83cec69ed9d8044597a793445c86a5e763b0e3d"
+    ],
+    "twitter": "STOPELON_BSC",
+    "telegram": "StopElon_BSC",
+    "reddit": "StopElonCoin/"
+}

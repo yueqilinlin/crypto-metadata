@@ -1,0 +1,23 @@
+{
+    "id": "greencandles",
+    "symbol": "green",
+    "name": "GreenCandles",
+    "platforms": {
+        "binance-smart-chain": "0xa3a02553bdf42be18b3563d5c7968768530f5a73"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A hyper deflationary token on BSC that rewards holders for holding tokens, whilst also incorporating the buyback approach whereby tokens are automatically bought and sent to a burn address by a designated wallet.\r\n\r\nGreenCandles is proud to announce the first ever buyback security sniper integrated into the contract\r\n\r\nWe strongly believe in the vision of the Eden Reforestation project to greatly reduce deforestation by plating trees to save lives. TrustSwap aims to plant 1million trees in 2021 and we\u2019re going to help accelerate that plan by allocating a 1% donation tax to the TrustSwap x Eden Reforestation Project."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xa3a02553bdf42be18b3563d5c7968768530f5a73",
+    "url": "https://www.greencandles.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xa3a02553bdf42be18b3563d5c7968768530f5a73"
+    ],
+    "twitter": "GreenCandlesBSC",
+    "telegram": "GreenCofficial",
+    "github_org": "greencandlesbsc"
+}

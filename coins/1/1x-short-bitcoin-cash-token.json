@@ -1,0 +1,22 @@
+{
+    "id": "1x-short-bitcoin-cash-token",
+    "symbol": "bchhedge",
+    "name": "1X Short Bitcoin Cash Token",
+    "platforms": {
+        "ethereum": "0x02e88a689fdfb920e7aa6174fb7ab72add3c5694"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "1X Short Bitcoin Cash Token (BCHHEDGE) is an ERC20 token which seeks a return that corresponds to -1 times the daily return of Bitcoin Cash."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x02e88a689fdfb920e7aa6174fb7ab72add3c5694",
+    "url": "https://ftx.com/tokens/BCHHEDGE",
+    "explorers": [
+        "https://etherscan.io/token/0x02e88a689fdfb920e7aa6174fb7ab72add3c5694",
+        "https://etherscan.io/token/0x02E88a689fdfB920e7Aa6174Fb7AB72add3C5694",
+        "https://ethplorer.io/address/0x02e88a689fdfb920e7aa6174fb7ab72add3c5694"
+    ]
+}

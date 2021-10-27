@@ -1,0 +1,23 @@
+{
+    "id": "polywave",
+    "symbol": "wave",
+    "name": "polyWAVE",
+    "platforms": {
+        "polygon-pos": "0x4de7fea447b837d7e77848a4b6c0662a64a84e14"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Polywave is a project backed by the surf.finance ecosystem. WAVE can initially be farmed by staking single assets or LP using matic/wave. Part of the fees generated will go to supporting the WAVE token and SURF assets. The other portion goes to the WAVE token vaults that are deployed into other protocols. There is 0 dev fee and 0 mint."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x4de7fea447b837d7e77848a4b6c0662a64a84e14",
+    "url": "https://polywave.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x4DE7FEA447b837d7E77848a4B6C0662a64A84E14"
+    ],
+    "twitter": "surf_defi",
+    "telegram": "surf_finance",
+    "github_org": "SURF-Finance"
+}

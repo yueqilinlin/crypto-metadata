@@ -1,0 +1,25 @@
+{
+    "id": "avastr-vault-nftx",
+    "symbol": "avastr",
+    "name": "AVASTR Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xdcdc1c1cc33aa817cbdbe8f5e2390bf7cc43dc4b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "AVASTR Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdcdc1c1cc33aa817cbdbe8f5e2390bf7cc43dc4b",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xdcdc1c1cc33aa817cbdbe8f5e2390bf7cc43dc4b",
+        "https://ethplorer.io/address/0xdcDc1c1cC33AA817CbDBe8F5E2390BF7cc43dc4B"
+    ],
+    "twitter": "nftx_"
+}

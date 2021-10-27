@@ -1,0 +1,22 @@
+{
+    "id": "cberry",
+    "symbol": "cby",
+    "name": "CBerry",
+    "platforms": {
+        "binance-smart-chain": "0xa667fe00e537673582cb703ecaec7722dfb9a2e3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CBerry is a content sharing and DeFi system on the Binance Smart Chain. Users are rewarded and can be tipped in for quality contents shared."
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "contract_address": "0xa667fe00e537673582cb703ecaec7722dfb9a2e3",
+    "url": "http://cberry.net",
+    "explorers": [
+        "https://bscscan.com/token/0xA667fe00E537673582cb703eCaeC7722dfB9a2E3"
+    ],
+    "twitter": "cberry_official",
+    "telegram": "CberryOfficial"
+}

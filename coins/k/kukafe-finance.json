@@ -1,0 +1,20 @@
+{
+    "id": "kukafe-finance",
+    "symbol": "kafe",
+    "name": "Kafe Finance",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x52f04c806eb82930f40d410259b7af8e18d3bdc9",
+    "url": "https://moon.kafe.finance/",
+    "explorers": [
+        "https://blockscout.moonriver.moonbeam.network/tokens/0x52f04C806EB82930F40D410259b7AF8E18d3BDc9/token-transfers"
+    ],
+    "twitter": "kafefinance",
+    "telegram": "kafedotfinance"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "llamaswap",
+    "symbol": "lama",
+    "name": "LlamaSwap",
+    "platforms": {
+        "binance-smart-chain": "0x0fc013e24ae732fcec9eb6bf8cae12782a56be7e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "LlamaSwap is the newest yield farm and staking platform on the BSC scene"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0fc013e24ae732fcec9eb6bf8cae12782a56be7e",
+    "url": "https://llamaswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x0FC013E24AE732fcEc9Eb6BF8CAE12782a56bE7E"
+    ],
+    "twitter": "llama_swap",
+    "telegram": "llamaswap",
+    "github_org": "Llamafinance"
+}

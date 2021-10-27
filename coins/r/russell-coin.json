@@ -1,0 +1,20 @@
+{
+    "id": "russell-coin",
+    "symbol": "rc",
+    "name": "RussellCoin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [],
+    "description": {
+        "en": "Russell Coin (referred to as RC) was created on November 21, 2017, with a total of 21 million Russell coins. RC adopts the fully decentralized master node reward scheme, the incentive mechanism of POW mining tax to the master node, combined with the latest X20R algorithm, to achieve lower energy consumption of computer mining, stronger ring encryption anonymity. Original android cell phone Wallet X20r Scientific Algorithm, the realization of the mobile anonymous block fast transfer technology.\r\nRC takes POW as the forerunner and improves the POW + MN mining mechanism on the basis of the main node system, that is, anyone who holds more than 1000 coins can build the main node to participate in mining incentives. POW mining awards 50% of the coins in the block, and the main node awards the remaining 50% of the coins in the block, so as to achieve the purpose of perfectly resisting double flowers and scientifically motivating the coin holders.\r\nEnglish name/Chinese name/abbreviation: Russell Coin/\u7f57\u7d20\u5e01/RC\u00a0Release time: November 21, 2017 Total amount/algorithm: 21 million /X20R Every two minutes a block, each block awards 20, half a year, half a year, after three times the same until the end of the excavation. \r\nRPC Port: 8321\u00a0\u00a0Mature: 51 blocks. \u00a0Transaction confirmation: 6 blocks "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.russellcoin.com",
+    "explorers": [
+        "http://block.russellcoin.com/"
+    ],
+    "twitter": "wlc1112",
+    "facebook": "100028568148759",
+    "github_org": "russellcoinpay"
+}

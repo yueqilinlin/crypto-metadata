@@ -1,0 +1,22 @@
+{
+    "id": "privi-trax",
+    "symbol": "trax",
+    "name": "Privi Trax",
+    "platforms": {
+        "binance-smart-chain": "0xd09d8d172dbb6b9209b1a9f8f7a67a6f1f99244a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Privi Zoo, a decentralized app store, is now live! \r\n\r\nPrivi is a collection of decentralized apps built-in one powerful ecosystem. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd09d8d172dbb6b9209b1a9f8f7a67a6f1f99244a",
+    "url": "https://www.privi.store/#/zoo/page/trax",
+    "explorers": [
+        "https://bscscan.com/token/0xd09d8d172dbb6b9209b1a9f8f7a67a6f1f99244a"
+    ],
+    "twitter": "priviprotocol",
+    "telegram": "protocolprivi"
+}

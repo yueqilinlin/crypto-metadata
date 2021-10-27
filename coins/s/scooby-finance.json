@@ -1,0 +1,23 @@
+{
+    "id": "scooby-finance",
+    "symbol": "sbd",
+    "name": "Scooby Finance",
+    "platforms": {
+        "binance-smart-chain": "0xf0ab4b8daa51f6abf6b4c9fef0cca5d127029aa9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SBD rewards its holders each weeks by paying them 2.25% of the total amount of transactions. They also redistribute 1% of all transactions, to the holders which allows them to accumulate over time.\r\nThe main purpose of SBD is to be a platform that gives financial opportunities to small holders. The project states, that they provide to their community an Anti-Whale feature that ensures any transaction superior to 0.05% of the total supply is rejected, which is an effective strategy to avoid the pump-dump exit whales from sabotaging the project."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0xf0ab4b8daa51f6abf6b4c9fef0cca5d127029aa9",
+    "url": "https://scooby.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xf0ab4b8daa51f6abf6b4c9fef0cca5d127029aa9"
+    ],
+    "twitter": "coinscooby",
+    "telegram": "ScoobyToken",
+    "reddit": "ScoobyCoin/"
+}

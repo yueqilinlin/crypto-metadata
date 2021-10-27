@@ -1,0 +1,25 @@
+{
+    "id": "arth",
+    "symbol": "arth",
+    "name": "ARTH",
+    "platforms": {
+        "polygon-pos": "0xe52509181feb30eb4979e29ec70d50fd5c44d590"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "ARTH is a next-generation digital currency known as a valuecoin in the MahaDAO protocol. ARTH is designed to tackle the depreciation of Fiat currencies and stablecoins (like US Dollar, Euro, DAI, USDT), but at the same time remain relatively stable (unlike Gold and Bitcoin).\r\n\r\nARTH does this by being pegged to a basket of assets that represent strong hedges of each other; so that if one asset depreciates in buying power, the other appreciates because it acts as a hedge against the first asset, keeping the net buying power of the entire basket unchanged.\r\n\r\nARTH is only minted when collateral is deposited into any one of the protocol pools. This ensures that every ARTH that is minted will always have some kind of backing to ensure its stability.\r\n\r\nARTH is burnt when it is redeemed for its underlying collateral."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe52509181feb30eb4979e29ec70d50fd5c44d590",
+    "url": "https://arthcoin.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0xe52509181feb30eb4979e29ec70d50fd5c44d590"
+    ],
+    "twitter": "TheMahaDAO",
+    "telegram": "MahaDAO",
+    "github_org": "mahadao"
+}

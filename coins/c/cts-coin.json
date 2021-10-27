@@ -1,0 +1,23 @@
+{
+    "id": "cts-coin",
+    "symbol": "ctsc",
+    "name": "Crypto Trading Solutions Coin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "CTSC is a group of dedicated developers and crypto enthusiasts, striving to make the crypto space a more user-friendly place. Our vision is to build tools that will help people maintain their portfolio as well as providing support when things go wrong. The mission is to build a single platform where people can obtain all the information needed to keep up to date, get instructions, raise issues, rate their experiences and better understand the coins that are available. We aim to be the no.1 place to go to when having your morning coffee, to build an easy to use tool that displays a summary of accumulated information from various sources, a tool that will save you time and money. So why the coin? Well, CTSC hopes to build interactive tools that will reward end users for their valuable contribution and time, we feel that everyone should be rewarded for participating in making the blockchain space a better place, even if you can\u2019t afford to buy, mine, stake or run a masternode. We at CTSC believe that with hard work and dedication, comes freedom and serenity."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "url": "http://ctscoin.net/",
+    "explorers": [
+        "http://explorer.ctscoin.net"
+    ],
+    "twitter": "CTSCOIN",
+    "facebook": "CTSCoin",
+    "telegram": "CTSCofficial",
+    "github_org": "ctscoin"
+}

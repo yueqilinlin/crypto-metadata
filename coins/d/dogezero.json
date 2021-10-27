@@ -1,0 +1,22 @@
+{
+    "id": "dogezero",
+    "symbol": "doge0",
+    "name": "DogeZero",
+    "platforms": {
+        "binance-smart-chain": "0xb93a1ea48f0a4fa0ff6080598d679375f9b4b1bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"DogeZero is a DOGE rewards token that has a 0% Buy Tax and a 16% sales tax with the taxes broken down based on the tokenomics shown on our website. Anyone holding DogeZero gets rewards in $DOGE which is driven by sales volume. The built-in buyback and burn mechanism makes DogeZero hyper-deflationary and increases the value of the token with each buyback.\r\n\r\nDogeZero will shortly launch a custom NFT collection and will be building in a Lottery system for community members to play. Future roadmap items includes a card payment gateway, farming and staking, a merchandise store and central exchange listings.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb93a1ea48f0a4fa0ff6080598d679375f9b4b1bd",
+    "url": "https://dogezero.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xb93a1EA48f0A4FA0Ff6080598d679375F9B4B1Bd"
+    ],
+    "twitter": "DogeZeroBSC",
+    "telegram": "DogeZeroOfficial"
+}

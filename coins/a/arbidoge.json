@@ -1,0 +1,24 @@
+{
+    "id": "arbidoge",
+    "symbol": "adoge",
+    "name": "ArbiDoge",
+    "platforms": {
+        "arbitrum-one": "0x155f0dd04424939368972f4e1838687d6a831151"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Arbitrum Ecosystem"
+    ],
+    "description": {
+        "en": "Arbidoge is the first Dogecoin fork as well as the first native token to launch on the newly released Arbitrum network. \r\nWe created transparent tokenomics for everyones benefit.\r\nWhile plenty of projects have intransparent tokenomics which are often not feasible, we kept things simple. Zero Tax. Zero Fee. Just like the original Dogecoin. \r\nThis token serves as an homage to Dogecoin, as well as a means of acquiring a symbolic piece of the legendary SOV that Dogecoin is, through the power of Arbitrum and its seamless and inexpensive transacting process.\r\nInitial Liquidity was permanently burned, along with 20% of the total supply, forever, making Arbidoge a 100% safe investment. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x155f0dd04424939368972f4e1838687d6a831151",
+    "url": "https://arbidoge.io/",
+    "explorers": [
+        "https://arbiscan.io/token/0x155f0dd04424939368972f4e1838687d6a831151"
+    ],
+    "twitter": "arbidogecoin",
+    "telegram": "arbidoge"
+}

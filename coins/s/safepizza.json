@@ -1,0 +1,22 @@
+{
+    "id": "safepizza",
+    "symbol": "pizza",
+    "name": "SafePizza",
+    "platforms": {
+        "binance-smart-chain": "0x72eb1afddb5652e0f5c7b9a6cc1c3241348b16c6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafePizza is a safe and community owned project. LP tokens have been 100% burnt and ownership has been renounced. Together we can make a difference!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x72eb1afddb5652e0f5c7b9a6cc1c3241348b16c6",
+    "url": "https://safe-pizza.com/home",
+    "explorers": [
+        "https://bscscan.com/token/0x72eb1afddb5652e0f5c7b9a6cc1c3241348b16c6"
+    ],
+    "twitter": "safe_pizza",
+    "telegram": "safepizza"
+}

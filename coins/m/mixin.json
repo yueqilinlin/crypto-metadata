@@ -1,0 +1,24 @@
+{
+    "id": "mixin",
+    "symbol": "xin",
+    "name": "Mixin",
+    "platforms": {},
+    "hashing_algorithm": "Directed Acyclic Graph (DAG)",
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Mixin Network is a free and lightning fast peer-to-peer transactional network for all digital assets. As an innovative underlying operating system, Mixin Network provides the best solution for distributed cross-chain. The goal is to solve the scalability problem of the blockchain. Based on TEE and BFT-DAG technology, Mixin Network solves the problems of transaction throughput and transaction speed of blockchain and makes other blockchain networks such as BTC/ETH achieve infinite concurrency and second level confirmation. It can make blockchain faster, simpler, and more widely used on a larger scale."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "url": "https://mixin.one/",
+    "explorers": [
+        "https://blockchair.com/mixin"
+    ],
+    "twitter": "Mixin_Network",
+    "facebook": "MixinNetwork",
+    "telegram": "MixinCommunity",
+    "reddit": "mixin",
+    "github_org": "MixinNetwork"
+}

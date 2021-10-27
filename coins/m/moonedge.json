@@ -1,0 +1,22 @@
+{
+    "id": "moonedge",
+    "symbol": "mooned",
+    "name": "MoonEdge",
+    "platforms": {
+        "polygon-pos": "0x7e4c577ca35913af564ee2a24d882a4946ec492b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MoonEdge is the first decentralized launch pad fully dedicated to project launches on Polygon (formally MATIC). MoonEdge\u2019s goal is to provide a seamless path for Polygon-built projects to make it to market. Through this, we are lowering the barrier to entry for all Polygon enthusiasts.\r\n\r\nThe MoonEdge allocation system involved guaranteed allocation for all investment classes. Our tiers are structured to ensure every size and type of investor has the opportunity to get involved in the growth and development of the Polygon platform\u2019s earliest projects.\r\n\r\nWe look to onboard users and projects onto the Polygon ecosystem. With greater fundraising access, we strive to protect all participants involved from scams and bad actors. Projects which are listed on MoonEdge are subjected to a thorough vetting process and undergoes detailed scrutiny. This is done via an elected MoonEdge committee, which consists of its partners and advisors."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x7e4c577ca35913af564ee2a24d882a4946ec492b",
+    "url": "https://moonedge.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x7e4c577ca35913af564ee2a24d882a4946ec492b"
+    ],
+    "twitter": "moon3dge",
+    "telegram": "moonedge"
+}

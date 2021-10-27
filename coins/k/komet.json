@@ -1,0 +1,23 @@
+{
+    "id": "komet",
+    "symbol": "komet",
+    "name": "Komet",
+    "platforms": {
+        "ethereum": "0x6cfb6df56bbdb00226aeffcdb2cd1fe8da1abda7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Komet Capital is a community-powered hedge fund, where anyone has the opportunity to become an investor or a portfolio manger (PM). Owned and operated by our users. Launching soon on Ethereum."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x6cfb6df56bbdb00226aeffcdb2cd1fe8da1abda7",
+    "url": "https://komet.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x6cfb6df56bbdb00226aeffcdb2cd1fe8da1abda7",
+        "https://ethplorer.io/address/0x6cfb6df56bbdb00226aeffcdb2cd1fe8da1abda7"
+    ],
+    "twitter": "KometCapital",
+    "telegram": "kometFinance"
+}

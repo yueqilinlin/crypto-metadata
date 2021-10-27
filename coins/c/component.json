@@ -1,0 +1,28 @@
+{
+    "id": "component",
+    "symbol": "cmp",
+    "name": "Component",
+    "platforms": {
+        "ethereum": "0x9f20ed5f919dc1c1695042542c13adcfc100dcab"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Automated Market Maker (AMM)",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9f20ed5f919dc1c1695042542c13adcfc100dcab",
+    "url": "https://component.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x9f20ed5f919dc1c1695042542c13adcfc100dcab",
+        "https://ethplorer.io/address/0x9f20ed5f919dc1c1695042542c13adcfc100dcab"
+    ],
+    "twitter": "componentx",
+    "github_org": "Componentfinance"
+}

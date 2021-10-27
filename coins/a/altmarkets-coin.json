@@ -1,0 +1,25 @@
+{
+    "id": "altmarkets-coin",
+    "symbol": "altm",
+    "name": "Altmarkets Coin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Finance / Banking",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Altmarkets Coin is a Utility Coin used within the eco-system of Altmarkets Exchange."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://altmarkets.io",
+    "explorers": [
+        "http://altmarketscoin.xyz:3001"
+    ],
+    "twitter": "altmarketsex",
+    "facebook": "altmarketsexchange",
+    "reddit": "altmarkets/",
+    "github_org": "altmarkets"
+}

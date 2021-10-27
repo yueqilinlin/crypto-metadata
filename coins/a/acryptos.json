@@ -1,0 +1,28 @@
+{
+    "id": "acryptos",
+    "symbol": "acs",
+    "name": "ACryptoS",
+    "platforms": {
+        "binance-smart-chain": "0x4197c6ef3879a08cd51e5560da5064b773aa1d29"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4197c6ef3879a08cd51e5560da5064b773aa1d29",
+    "url": "https://app.acryptos.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x4197C6EF3879a08cD51e5560da5064B773aa1d29"
+    ],
+    "twitter": "acryptosdao",
+    "telegram": "acryptos9",
+    "reddit": "ACryptoS/",
+    "github_org": "acryptosx"
+}

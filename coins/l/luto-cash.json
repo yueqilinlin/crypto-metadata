@@ -1,0 +1,22 @@
+{
+    "id": "luto-cash",
+    "symbol": "luto",
+    "name": "Luto Cash",
+    "platforms": {
+        "binance-smart-chain": "0xb1f0ba284811a649ea30240ea03a75496fa18998"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized Digital Asset for Gambling, Casino, Lotto startups as well as Gamblers, Crypto-Experts and Investors."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb1f0ba284811a649ea30240ea03a75496fa18998",
+    "url": "https://luto.xyz/",
+    "explorers": [
+        "https://bscscan.com/token/0xB1F0ba284811a649Ea30240Ea03A75496fa18998"
+    ],
+    "twitter": "lutocash",
+    "telegram": "lutocash"
+}

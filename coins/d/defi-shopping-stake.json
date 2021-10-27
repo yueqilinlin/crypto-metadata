@@ -1,0 +1,23 @@
+{
+    "id": "defi-shopping-stake",
+    "symbol": "dss",
+    "name": "Defi Shopping Stake",
+    "platforms": {
+        "ethereum": "0x213c53c96a01a89e6dcc5683cf16473203e17513"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DSS is a Defi-oriented enhancement of the Loyalty program system which each wallet address used for payment will automatically be used for bonus recognition after each order is completed. The customer's rewards points will be recognized with the smart contract and available for Spending at any time."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x213c53c96a01a89e6dcc5683cf16473203e17513",
+    "url": "https://defi.uquid.com",
+    "explorers": [
+        "https://etherscan.io/token/0x213c53c96a01a89e6dcc5683cf16473203e17513",
+        "https://ethplorer.io/address/0x213c53c96a01a89e6dcc5683cf16473203e17513"
+    ],
+    "twitter": "uquidcard",
+    "github_org": "uquid"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "dust",
+    "symbol": "dust",
+    "name": "Dust",
+    "platforms": {
+        "ethereum": "0xe2e109f1b4eaa8915655fe8fdefc112a34acc5f0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dynamic NFTs to build your community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe2e109f1b4eaa8915655fe8fdefc112a34acc5f0",
+    "url": "https://ether.cards/",
+    "explorers": [
+        "https://etherscan.io/token/0xe2e109f1b4eaa8915655fe8fdefc112a34acc5f0",
+        "https://ethplorer.io/address/0xe2e109f1b4eaa8915655fe8fdefc112a34acc5f0"
+    ],
+    "twitter": "ether_cards",
+    "reddit": "Ether_Cards/"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "door",
+    "symbol": "door",
+    "name": "DOOR",
+    "platforms": {
+        "ethereum": "0x7d48fbe0a877bb1f511fcf9b57f12420c75841e9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DOOR is the first lead exchange powered by crypto to reward consumers. DOOR rewards consumers every time advertisers access their data. Door removes the middleman and enables a direct connection between consumers and businesses.\r\n\r\nDOOR is the native utility token that is used for:\r\n\r\n* Rewards given to consumers who register their information and property\r\n* Businesses to access opt-in consumer data to sell products and services\r\n* To lock in the price of leads for Businesses to ensure an open and fair marketplace"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x7d48fbe0a877bb1f511fcf9b57f12420c75841e9",
+    "url": "https://doorcoin.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x7d48fbe0a877bb1f511fcf9b57f12420c75841e9",
+        "https://ethplorer.io/address/0x7d48fbe0a877bb1f511fcf9b57f12420c75841e9"
+    ],
+    "twitter": "door_coin",
+    "telegram": "doortokenchat",
+    "reddit": "DoorCoin/",
+    "github_org": "doorcoin"
+}

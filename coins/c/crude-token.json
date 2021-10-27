@@ -1,0 +1,23 @@
+{
+    "id": "crude-token",
+    "symbol": "crude",
+    "name": "Crude Token",
+    "platforms": {
+        "binance-smart-chain": "0x8db702d9d561921c45be8df38830a653e4bc0299"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$CRUDE is the native governance token where users can directly take part in the decision-making process by holding $CRUDE and staking to take part in the governance mechanisms.\r\n\r\nWhat we at CrudeOil finance has developed is a powerful tool, a protocol created to maximize profit by shifting the invested capital around to different pools, where the APY percentages and the expected profit is higher. By utilizing the power of smart contracts, we eliminate the need for manual research and allow users to earn a bigger income by optimizing the yields.\r\n\r\nOur immediate products to be launched include our own NFT marketplace, Lending platform and playground where users can play games to earn."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x8db702d9d561921c45be8df38830a653e4bc0299",
+    "url": "https://crudeoil.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x8db702d9d561921c45be8df38830a653e4bc0299"
+    ],
+    "twitter": "crudeoil_fi",
+    "telegram": "crudeoilfinance",
+    "github_org": "CrudeoilFi"
+}

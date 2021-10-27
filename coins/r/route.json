@@ -1,0 +1,28 @@
+{
+    "id": "route",
+    "symbol": "route",
+    "name": "Router Protocol",
+    "platforms": {
+        "ethereum": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+        "polygon-pos": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Cross-chain liquidity aggregator governance token"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+    "url": "https://www.routerprotocol.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+        "https://ethplorer.io/address/0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+        "https://polygonscan.com/token/0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4"
+    ],
+    "twitter": "routerprotocol",
+    "telegram": "routerprotocol",
+    "github_org": "router-protocol"
+}

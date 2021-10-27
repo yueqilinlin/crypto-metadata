@@ -1,0 +1,26 @@
+{
+    "id": "dracula-token",
+    "symbol": "drc",
+    "name": "Dracula Token",
+    "platforms": {
+        "ethereum": "0xb78b3320493a4efaa1028130c5ba26f0b6085ef8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "Vampire token that drains DeFi"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb78b3320493a4efaa1028130c5ba26f0b6085ef8",
+    "url": "https://dracula.sucks/",
+    "explorers": [
+        "https://etherscan.io/token/0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8",
+        "https://ethplorer.io/address/0xb78b3320493a4efaa1028130c5ba26f0b6085ef8"
+    ],
+    "twitter": "DraculaProtocol",
+    "telegram": "DraculaProtocol",
+    "github_org": "Dracula-Protocol"
+}

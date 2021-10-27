@@ -1,0 +1,23 @@
+{
+    "id": "yearn-finance-center",
+    "symbol": "yfc",
+    "name": "Yearn Finance Center",
+    "platforms": {
+        "ethereum": "0xe8ed08a581777f112654e28de507e11613da0379"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yearn Finance Center is a fork of Yearn Finance with native token YFC. Deposit of YFC tokens allows you to stake, borrow and vote."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xe8ed08a581777f112654e28de507e11613da0379",
+    "url": "https://yf.center/",
+    "explorers": [
+        "https://etherscan.io/token/0xE8ed08a581777f112654e28DE507e11613DA0379",
+        "https://ethplorer.io/address/0xe8ed08a581777f112654e28de507e11613da0379"
+    ],
+    "twitter": "CenterYearn",
+    "telegram": "yearnfc"
+}

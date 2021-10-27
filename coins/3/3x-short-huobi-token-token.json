@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-huobi-token-token",
+    "symbol": "htbear",
+    "name": "3X Short Huobi Token Token",
+    "platforms": {
+        "ethereum": "0x86eb791495be777db763142a2c547d1112554fb8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short Huobi Token Token (HTBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of Huobi Token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x86eb791495be777db763142a2c547d1112554fb8",
+    "url": "https://ftx.com/tokens/HTBEAR",
+    "explorers": [
+        "https://etherscan.io/token/0x86eb791495be777db763142a2c547d1112554fb8",
+        "https://ethplorer.io/address/0x86eb791495be777db763142a2c547d1112554fb8"
+    ]
+}

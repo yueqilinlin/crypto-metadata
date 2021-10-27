@@ -1,0 +1,22 @@
+{
+    "id": "pay-coin",
+    "symbol": "pci",
+    "name": "Paycoin",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": "We are a project that focuses on implementing blockchain into payment. We now have more than 10,000 merchants in Korea that accepts Paycoin, including 7-eleven, Domino's Pizza, KFC, and more. We aim to bring real use cases that can drive user adoption. "
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "url": "https://payprotocol.io/",
+    "explorers": [
+        "https://scan.payprotocol.io/"
+    ],
+    "twitter": "payprotocol",
+    "facebook": "payprotocol",
+    "telegram": "payprotocol",
+    "reddit": "payprotocol/",
+    "github_org": "payprotocol"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "whiteheart",
+    "symbol": "white",
+    "name": "Whiteheart",
+    "platforms": {
+        "ethereum": "0x5f0e628b693018f639d10e4a4f59bd4d8b2b6b44"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5f0e628b693018f639d10e4a4f59bd4d8b2b6b44",
+    "url": "https://www.whiteheart.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x5f0e628b693018f639d10e4a4f59bd4d8b2b6b44",
+        "https://ethplorer.io/address/0x5f0e628b693018f639d10e4a4f59bd4d8b2b6b44"
+    ],
+    "twitter": "WhiteheartDeFi"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "fisco",
+    "symbol": "fscc",
+    "name": "FISCO Coin",
+    "platforms": {
+        "ethereum": "0x0789dbae94fb18e5789b8e4489bcb7a1adb58622"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0789dbae94fb18e5789b8e4489bcb7a1adb58622",
+    "url": "https://fiscocoin.jp/index_en.html",
+    "explorers": [
+        "https://etherscan.io/token/0x0789dbAE94fb18e5789B8e4489BCB7A1ADB58622",
+        "https://ethplorer.io/address/0x0789dbae94fb18e5789b8e4489bcb7a1adb58622"
+    ],
+    "twitter": "fisco_jp",
+    "facebook": "fisco.jp"
+}

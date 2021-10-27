@@ -1,0 +1,25 @@
+{
+    "id": "warden",
+    "symbol": "wad",
+    "name": "Warden",
+    "platforms": {
+        "binance-smart-chain": "0x0feadcc3824e7f3c12f40e324a60c23ca51627fc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Wardenswap is the digital asset exchange platform by using Blockchain technology that relies on Binance Smart Chain (BSC). The big difference from the other swap on Binance Smart Chain is an algorithm to find the best rate for Binance Smart Chain automatically."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0feadcc3824e7f3c12f40e324a60c23ca51627fc",
+    "url": "https://www.wardenswap.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x0feadcc3824e7f3c12f40e324a60c23ca51627fc"
+    ],
+    "twitter": "WardenSwap",
+    "telegram": "wardenfi",
+    "github_org": "WardenSwap"
+}

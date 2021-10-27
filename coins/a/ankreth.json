@@ -1,0 +1,26 @@
+{
+    "id": "ankreth",
+    "symbol": "aethc",
+    "name": "Ankr Reward-Bearing Staked ETH",
+    "platforms": {
+        "ethereum": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Eth 2.0 Staking"
+    ],
+    "description": {
+        "en": "aETHc is a Reward-Bearing Staked ETH token from Ankr StakeFi. Ankr StakeFi is a platform providing an easy multi-chain staking experience through liquid staking and pooled staking solutions."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
+    "url": "https://stakefi.ankr.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
+        "https://ethplorer.io/address/0xe95a203b1a91a908f9b9ce46459d101078c2c3cb"
+    ],
+    "twitter": "ankr",
+    "telegram": "stkrsupport",
+    "github_org": "Ankr-network"
+}

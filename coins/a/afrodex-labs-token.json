@@ -1,0 +1,24 @@
+{
+    "id": "afrodex-labs-token",
+    "symbol": "afdlt",
+    "name": "AfroDex Labs Token",
+    "platforms": {
+        "ethereum": "0xd8a8843b0a5aba6b030e92b3f4d669fad8a5be50"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AfroDex Labs is a corporation which serves as a blockchain tech, launchpad, incubator  & accelerator focused on developing & deploying free or affordable technologies for easier Ethereum & ERC-20 tokens mass adoption."
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "contract_address": "0xd8a8843b0a5aba6b030e92b3f4d669fad8a5be50",
+    "url": "http://afrodexlabs.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd8a8843b0a5aba6b030e92b3f4d669fad8a5be50",
+        "https://ethplorer.io/address/0xd8a8843b0a5aba6b030e92b3f4d669fad8a5be50"
+    ],
+    "twitter": "DexAfro",
+    "facebook": "AfroDex1",
+    "telegram": "AfroDex"
+}

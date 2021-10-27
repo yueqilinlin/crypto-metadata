@@ -1,0 +1,24 @@
+{
+    "id": "ulti-arena",
+    "symbol": "ulti",
+    "name": "Ulti Arena",
+    "platforms": {
+        "binance-smart-chain": "0x42bfe4a3e023f2c90aebffbd9b667599fa38514f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ulti Arena is a GameFi/NFT project that aims to revolutionize NFT gaming space with their products:\r\n\r\n- NFT Marketplace for game assets, where buyers and sellers can trade unique 2D/3D assets, music, sound, and UI/HUD elements,\r\n- Proof-of-Gaming, a gaming client allowing players to earn ULTI tokens when playing games such as DOTA2, LOL, CSGO, PUBG, Mobile Legends, and more,\r\n- Crypto Trading Card game, built in collaboration with Remote Control Productions and Frag Games: Ultimate Battle Arena where every card is an NFT"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x42bfe4a3e023f2c90aebffbd9b667599fa38514f",
+    "url": "https://ultiarena.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x42bfe4a3e023f2c90aebffbd9b667599fa38514f"
+    ],
+    "twitter": "UltiArena",
+    "telegram": "ultiarena",
+    "reddit": "UltiArena_com/",
+    "github_org": "ultiarena"
+}

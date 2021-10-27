@@ -1,0 +1,23 @@
+{
+    "id": "coinmerge",
+    "symbol": "cmerge",
+    "name": "CoinMerge",
+    "platforms": {
+        "ethereum": "0x1190074795dad0e61b61270de48e108427f8f817"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CoinMerge is the revolutionary new token and platform that not only rewards holders in Ethereum just for holding, but is also building and expanding on a platform that combines all of the best charts and data from sites like DexTools with all of the Community chat features offered by programs like Telegram, into a single, seamless, easy to use platform."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x1190074795dad0e61b61270de48e108427f8f817",
+    "url": "https://www.coinmerge.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x1190074795dad0e61b61270de48e108427f8f817",
+        "https://ethplorer.io/address/0x1190074795dad0e61b61270de48e108427f8f817"
+    ],
+    "twitter": "coinmerge",
+    "telegram": "CoinMergeMain"
+}

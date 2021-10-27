@@ -1,0 +1,23 @@
+{
+    "id": "moonpot",
+    "symbol": "pots",
+    "name": "Moonpot",
+    "platforms": {
+        "binance-smart-chain": "0x3fcca8648651e5b974dd6d3e50f61567779772a8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Win-Win Prize Pots on #BinanceSmartChain Earn interest, win big crypto prizes \u2014 and always keep your deposit. Powered by @beefyfinance"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3fcca8648651e5b974dd6d3e50f61567779772a8",
+    "url": "https://moonpot.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x3fcca8648651e5b974dd6d3e50f61567779772a8"
+    ],
+    "twitter": "moonpotdotcom",
+    "telegram": "moonpotdotcom",
+    "github_org": "moonpotdev"
+}

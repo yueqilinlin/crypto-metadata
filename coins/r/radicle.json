@@ -1,0 +1,25 @@
+{
+    "id": "radicle",
+    "symbol": "rad",
+    "name": "Radicle",
+    "platforms": {
+        "ethereum": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+    "url": "https://radicle.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+        "https://ethplorer.io/address/0x31c8eacbffdd875c74b94b077895bd78cf1e64a3"
+    ],
+    "twitter": "radicle",
+    "github_org": "radicle-dev"
+}

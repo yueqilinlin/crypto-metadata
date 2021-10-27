@@ -1,0 +1,22 @@
+{
+    "id": "utip",
+    "symbol": "utip",
+    "name": "uTip",
+    "platforms": {},
+    "hashing_algorithm": "X13",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Its a Tipping coin of Unnamed Exchnage used for Bounties & Coin Listings"
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "url": "https://www.unnamed.exchange/",
+    "explorers": [
+        "http://159.89.89.240/richlist"
+    ],
+    "twitter": "ExchangeUnnamed",
+    "telegram": "UnnamedExchange",
+    "github_org": "Tillkoeln"
+}

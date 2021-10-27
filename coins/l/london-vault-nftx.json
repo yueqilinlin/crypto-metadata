@@ -1,0 +1,25 @@
+{
+    "id": "london-vault-nftx",
+    "symbol": "london",
+    "name": "LONDON Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0x295fc05d34fa93e92370c7706043e0705fc6acaa"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "LONDON Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x295fc05d34fa93e92370c7706043e0705fc6acaa",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x295FC05d34Fa93E92370C7706043e0705fc6AcaA",
+        "https://ethplorer.io/address/0x295fc05d34fa93e92370c7706043e0705fc6acaa"
+    ],
+    "twitter": "NFTX_"
+}

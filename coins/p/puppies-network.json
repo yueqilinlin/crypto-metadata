@@ -1,0 +1,23 @@
+{
+    "id": "puppies-network",
+    "symbol": "ppn",
+    "name": "Puppies Network",
+    "platforms": {
+        "ethereum": "0x95f49ae439537e50ced0374c1b52c42aa899741c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "No more scams, no more rug pulls, no more whales. $PPN tokens are entirely community-driven, and we make decisions together while keeping the future of our treasured puppies in mind.\r\n\r\n$PPN token will give all the holders an access to its vibrant ecosystem and multitude of woofing utilities."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x95f49ae439537e50ced0374c1b52c42aa899741c",
+    "url": "https://puppies.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x95f49ae439537e50CED0374c1B52C42AA899741C",
+        "https://ethplorer.io/address/0x95f49ae439537e50CED0374c1B52C42AA899741C"
+    ],
+    "twitter": "Puppies_Network",
+    "telegram": "PuppiesNetwork"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "elastic-bitcoin",
+    "symbol": "xbt",
+    "name": "Elastic Bitcoin",
+    "platforms": {
+        "ethereum": "0x64fb96d0395f6bf105f35233911e3df2c5bf4ce8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XBT \u00b7 Elastic Bitcoin with Adaptive Supply\r\n\r\nA rebasing  cryptocurrency runs on ethereum network.\r\n\r\nXBT is stabilized to Bitcoin's price by utilized the power of Ethereum's Smart Contract to adjust supply based on market condition."
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0x64fb96d0395f6bf105f35233911e3df2c5bf4ce8",
+    "url": "https://elasticbitcoin.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x64fB96d0395f6bf105F35233911e3dF2C5bf4Ce8",
+        "https://ethplorer.io/address/0x64fB96d0395f6bf105F35233911e3dF2C5bf4Ce8"
+    ],
+    "twitter": "elasticbitcoin",
+    "telegram": "elasticbitcoinxbt",
+    "github_org": "ElasticBTC-XBT"
+}

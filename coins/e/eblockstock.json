@@ -1,0 +1,24 @@
+{
+    "id": "eblockstock",
+    "symbol": "ebso",
+    "name": "eBlockStock",
+    "platforms": {
+        "ethereum": "0x866f8a50a64e68ca66e97e032c5da99538b3f942"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Blockben is building a bridge between the traditional financial world and the crypto space.The BlockBen ecosystem technical advantage is lying in its blockchain technology, which is a hybrid next generation blockchain called Natrix. \r\neBSO is the unique platform token of the BlockBen ecosystem. eBSO receives a percentage after every transaction happening in the BlockBen ecosystem which is credited in gold into the eBSO gold pool. eBSO has unlimited growth potential through its continuously growing gold pool."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x866f8a50a64e68ca66e97e032c5da99538b3f942",
+    "url": "https://blockben.com/products/ebso",
+    "explorers": [
+        "https://etherscan.io/token/0x866f8a50a64e68ca66e97e032c5da99538b3f942",
+        "https://ethplorer.io/address/0x866f8a50a64e68ca66e97e032c5da99538b3f942"
+    ],
+    "twitter": "BlockBen",
+    "telegram": "BlockBen_Official",
+    "github_org": "blockben-official"
+}

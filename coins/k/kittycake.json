@@ -1,0 +1,22 @@
+{
+    "id": "kittycake",
+    "symbol": "kcake",
+    "name": "KittyCake",
+    "platforms": {
+        "binance-smart-chain": "0xc22e8114818a918260662375450e19ac73d32852"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KittyCake is an advanced hyper-deflationary auto-rewards token on the Binance Smart Chain. KittyCake rewards holders with his favorite food, $CAKE, every hour! We also have a dashboard to track your $CAKE rewards"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xc22e8114818a918260662375450e19ac73d32852",
+    "url": "https://kittycake.app/",
+    "explorers": [
+        "https://bscscan.com/token/0xc22e8114818a918260662375450e19ac73d32852"
+    ],
+    "twitter": "kittycaketoken",
+    "telegram": "kittycakebsc"
+}

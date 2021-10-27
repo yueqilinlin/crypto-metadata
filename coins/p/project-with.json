@@ -1,0 +1,22 @@
+{
+    "id": "project-with",
+    "symbol": "wiken",
+    "name": "Project WITH",
+    "platforms": {
+        "klay-token": "0x275f942985503d8ce9558f8377cc526a3aba3566"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x275f942985503d8ce9558f8377cc526a3aba3566",
+    "url": "https://projectwith.io/",
+    "explorers": [
+        "https://scope.klaytn.com/token/0x275f942985503d8ce9558f8377cc526a3aba3566?tabId=tokenTransfer",
+        "https://etherscan.io/token/0xb7e77aebbe0687d2eff24cc90c41a3b6ea74bdab"
+    ],
+    "telegram": "projectwith_eng"
+}

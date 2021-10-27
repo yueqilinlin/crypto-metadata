@@ -1,0 +1,23 @@
+{
+    "id": "maticlaunch",
+    "symbol": "mtcl",
+    "name": "MaticLaunch",
+    "platforms": {
+        "polygon-pos": "0x3642c3c8ebe0b36a29e37809e1c9a7de06bc0b26"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MaticLaunch aims to disrupt the traditional fundraising process involving multiple investment rounds led by large-scale investors aka VCs by giving back power to the community.\r\n\r\nIt provides permissionless investment pool creation functionalities to blockchain entrepreneurs, diverting their skills into core product development while the community vets projects by autopilot governance events, allowing them to move projects into investment pools. Thanks to Polygon, the entire process will be effortless while consuming extremely low gas fees."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3642c3c8ebe0b36a29e37809e1c9a7de06bc0b26",
+    "url": "https://maticlaunch.org/",
+    "explorers": [
+        "https://polygonscan.com/token/0x3642c3c8eBe0b36a29e37809e1c9A7DE06BC0B26"
+    ],
+    "twitter": "maticlaunch",
+    "telegram": "maticlaunch",
+    "github_org": "maticlaunch"
+}

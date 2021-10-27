@@ -1,0 +1,24 @@
+{
+    "id": "civilization",
+    "symbol": "civ",
+    "name": "Civilization",
+    "platforms": {
+        "ethereum": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CIV aims at building the world\u2019s first Dex Fund: transforming the way how staking and investment are done, with 100% auditable code and, eventually, automated multi-strategy selection for maximum yield at minimum risk."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d",
+    "url": "https://civfund.com",
+    "explorers": [
+        "https://etherscan.io/token/0x37fe0f067fa808ffbdd12891c0858532cfe7361d",
+        "https://ethplorer.io/address/0x37fe0f067fa808ffbdd12891c0858532cfe7361d"
+    ],
+    "twitter": "token_civ",
+    "telegram": "civsettlers",
+    "github_org": "sator-settler"
+}

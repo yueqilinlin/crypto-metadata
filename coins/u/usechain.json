@@ -1,0 +1,28 @@
+{
+    "id": "usechain",
+    "symbol": "use",
+    "name": "Usechain",
+    "platforms": {
+        "ethereum": "0xd9485499499d66b175cf5ed54c0a19f1a6bcb61a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "Introduce a brand-new consensus mechanism, Randomized Proof of Work to perfectly balance high performance and strong security, and apply multi-level authentication and encryption mechanism, Zero Proof, Identity Virtual Machine (IVM), Identity Network Sharding (INS), Identity Transaction Sharding (ITS), Enhanced Smart Contract, and other innovative technologies to create a new generation of Blockchain, leading Blockchain 3.0."
+    },
+    "country_origin": "SG",
+    "genesis_date": "2018-08-29",
+    "contract_address": "0xd9485499499d66b175cf5ed54c0a19f1a6bcb61a",
+    "url": "https://www.usechain.net/",
+    "explorers": [
+        "https://etherscan.io/token/0xd9485499499d66b175cf5ed54c0a19f1a6bcb61a",
+        "https://ethplorer.io/address/0xd9485499499d66b175cf5ed54c0a19f1a6bcb61a"
+    ],
+    "twitter": "usechain",
+    "facebook": "UsechainFoundation",
+    "telegram": "usechaingroup",
+    "reddit": "UseChain/",
+    "github_org": "usechain"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "ausd",
+    "symbol": "ausd",
+    "name": "aUSD",
+    "platforms": {
+        "fantom": "0x41e3df7f716ab5af28c1497b354d79342923196a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Aquarius.fi is a decentralized borrowing protocol with interest-free loans, high capital efficiency. we expect Aquarius to be the next MakerDao in the Fantom."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x41e3df7f716ab5af28c1497b354d79342923196a",
+    "url": "https://aquarius.fi/",
+    "explorers": [
+        "https://ftmscan.com/token/0x41e3dF7f716aB5AF28c1497B354D79342923196a"
+    ],
+    "twitter": "Aquarius__F",
+    "telegram": "Aquariusfi",
+    "github_org": "AquariusFi"
+}

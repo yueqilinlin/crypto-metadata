@@ -1,0 +1,22 @@
+{
+    "id": "osmosis",
+    "symbol": "osmo",
+    "name": "Osmosis",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem"
+    ],
+    "description": {
+        "en": "Token of the Osmosis Hub, first DEX for IBC connected coins built on the Cosmos SDK"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://osmosis.zone/",
+    "explorers": [
+        "https://www.mintscan.io/osmosis"
+    ],
+    "twitter": "osmosiszone",
+    "telegram": "osmosis_chat",
+    "github_org": "osmosis-labs"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "bellcoin",
+    "symbol": "bell",
+    "name": "Bellcoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Software"
+    ],
+    "description": {
+        "en": "Bellcoin is a safe and revolutionary crypto currency and is resistant to ASIC and GPU mining.\r\n\r\nIt adopts a new algorithm \"YesPoWer\", and adopts \"LWMA\" as a difficulty algorithm.\r\n\r\nIt inherits technology based on Bitcoin, and has the most up-to-date features such as SegWit.\r\n\r\nBecause the block time is as fast as 60 seconds, it works with speedy transactions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://bellcoin.web4u.jp/",
+    "explorers": [
+        "https://explorer.bellcoin.web4u.jp/"
+    ],
+    "twitter": "bellcoin_crypto",
+    "github_org": "bellcoin-org"
+}

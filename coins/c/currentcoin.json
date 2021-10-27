@@ -1,0 +1,26 @@
+{
+    "id": "currentcoin",
+    "symbol": "cun",
+    "name": "CurrentCoin",
+    "platforms": {
+        "ethereum": "0x347a29ea126a746c70e1ead570fddf438e66231a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "CurrentCoin is an Ethereum-based token that will allow users from across the world to deploy software, buy from marketplaces, and create customized software solutions. We believe digital services should be as simple as clicking a button; through our Ethereum-based solution, we're making that happen.\r\nWe have deep experience in the space, through cryptocurrency companies and San Francisco startups, for a combined background going back decades; now that we've completed our ICO, we're looking to expand now to the world."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x347a29ea126a746c70e1ead570fddf438e66231a",
+    "url": "https://currentcoin.io/#/",
+    "explorers": [
+        "https://etherscan.io/token/0x347a29ea126a746c70e1ead570fddf438e66231a",
+        "https://ethplorer.io/address/0x347a29ea126a746c70e1ead570fddf438e66231a"
+    ],
+    "twitter": "currentcoin",
+    "telegram": "currentcoinchannel",
+    "github_org": "CurrentCoin"
+}

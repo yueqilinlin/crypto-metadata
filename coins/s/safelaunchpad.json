@@ -1,0 +1,24 @@
+{
+    "id": "safelaunchpad",
+    "symbol": "sld",
+    "name": "SafeLaunchpad",
+    "platforms": {
+        "binance-smart-chain": "0x8a9030c0ed9a5b9c7ab39ebfee11d90af9945f6f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "High Deflationary Project Incubator Utility Token SAFELAUNCHPAD"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8a9030c0ed9a5b9c7ab39ebfee11d90af9945f6f",
+    "url": "https://safelaunchpad.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x8A9030c0ED9A5b9C7Ab39EBfEE11D90aF9945f6F"
+    ],
+    "twitter": "safelaunchpad",
+    "telegram": "safelaunchpad",
+    "reddit": "SafeLaunchpad/",
+    "github_org": "safelaunchpad"
+}

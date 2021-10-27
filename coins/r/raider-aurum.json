@@ -1,0 +1,23 @@
+{
+    "id": "raider-aurum",
+    "symbol": "aurum",
+    "name": "Raider Aurum",
+    "platforms": {
+        "polygon-pos": "0x34d4ab47bee066f361fa52d792e69ac7bd05ee23"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "This is the in-game currency for the Crypto Raiders game. Players use it to recruit new characters, purchase characters and items in the in-game marketplace, and run more difficult dungeons. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x34d4ab47bee066f361fa52d792e69ac7bd05ee23",
+    "url": "https://cryptoraiders.xyz/",
+    "explorers": [
+        "https://polygonscan.com/token/0x34d4ab47Bee066F361fA52d792e69AC7bD05ee23",
+        "https://etherscan.io/token/0x34d4ab47bee066f361fa52d792e69ac7bd05ee23",
+        "https://ethplorer.io/address/0x34d4ab47bee066f361fa52d792e69ac7bd05ee23"
+    ],
+    "twitter": "crypto_raiders"
+}

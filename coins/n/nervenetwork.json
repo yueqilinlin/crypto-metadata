@@ -1,0 +1,22 @@
+{
+    "id": "nervenetwork",
+    "symbol": "nvt",
+    "name": "NerveNetwork",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "Nerve is a decentralized digital asset service network based on the NULS micro-services framework, which uses the NULS ChainBox to develop a blockchain cross-chain interaction protocol. The aim is to break the isolated blockchain value and establish a cross-chain asset exchange network to provide all the necessary underlying support for the Defi application ecosystem. Let every digital asset holder experiences a truly secure, free and transparent Defi application service."
+    },
+    "country_origin": "BO",
+    "genesis_date": null,
+    "url": "https://nerve.network/",
+    "explorers": [
+        "https://scan.nerve.network"
+    ],
+    "twitter": "nerve_network",
+    "telegram": "NerveNetwork",
+    "github_org": "NerveNetwork"
+}

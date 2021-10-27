@@ -1,0 +1,21 @@
+{
+    "id": "aston",
+    "symbol": "atx",
+    "name": "Aston",
+    "platforms": {
+        "ethereum": "0x1a0f2ab46ec630f9fd638029027b552afa64b94c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ASTON is a complete decentralized document authentication platform built on X-Chain, an innovative block-chain technology, and Smart PassOn, a leading security solution. All documents we thought we would need to issue or submit in hardcopy will disappear through ASTON."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1a0f2ab46ec630f9fd638029027b552afa64b94c",
+    "url": "https://www.aston.company/",
+    "explorers": [
+        "https://etherscan.io/token/0x1a0f2ab46ec630f9fd638029027b552afa64b94c",
+        "https://ethplorer.io/address/0x1a0f2ab46ec630f9fd638029027b552afa64b94c"
+    ]
+}

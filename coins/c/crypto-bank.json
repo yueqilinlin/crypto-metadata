@@ -1,0 +1,23 @@
+{
+    "id": "crypto-bank",
+    "symbol": "cbank",
+    "name": "Crypto Bank",
+    "platforms": {
+        "ethereum": "0xa5e412ba6fca1e07b15defcaa4236ff7b5a7f086"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crypto Bank, in simple terms, is an integrated virtual asset management platform, but on a deeper level, it is not a project aims to serve only the virtual asset users. Crypto Bank pursues the naturally induced popularization of the blockchain by adding the payment function to connect the blockchain ecosystem and the daily life to expand the boundaries of virtual assets. In other words, Crypto Bank is a blockchain project for everyone. C-BANK is a utility token that implements Crypto Bank 's blockchain philosophy."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa5e412ba6fca1e07b15defcaa4236ff7b5a7f086",
+    "url": "http://www.cryptobank.ventures/",
+    "explorers": [
+        "https://etherscan.io/token/0xa5e412ba6fca1e07b15defcaa4236ff7b5a7f086",
+        "https://ethplorer.io/address/0xa5e412ba6fca1e07b15defcaa4236ff7b5a7f086"
+    ],
+    "twitter": "CRYPTOBANK16",
+    "telegram": "cbankofficial"
+}

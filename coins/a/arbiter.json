@@ -1,0 +1,22 @@
+{
+    "id": "arbiter",
+    "symbol": "arb",
+    "name": "Arbiter",
+    "platforms": {
+        "harmony-shard-0": "0x044246137670a03ca790d7ed20af0c552c88117c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Harmony Universe is an ecosystem platform. it showcases a collection of projects on Harmony blockchain, with the ability for users to submit reviews for projects, use their NFTs as their profile pictures and tip other community members.\r\nProjects can request to verify their contracts, have their project featured and also buy ad space within the platform.\r\n\r\nThe utility token for Harmony Universe is ARB which is used mainly for all the transactions, that will be incorporated in the next version update."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x044246137670a03ca790d7ed20af0c552c88117c",
+    "url": "https://harmonyuniverse.one",
+    "explorers": [
+        "https://explorer.harmony.one/address/0x044246137670a03ca790d7ed20af0c552c88117c"
+    ],
+    "twitter": "harmonyunivrse",
+    "telegram": "harmonyunivers"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "hodl",
+    "symbol": "hodl",
+    "name": "HODL",
+    "platforms": {
+        "ethereum": "0xe2a083397521968eb05585932750634bed4b7d56"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$HODL\ud83d\udc8e is a community built around the culture of ERC-20 tokens, fueled by a safe & valuable token.  \r\n\r\nIt\u2019s simple, just HODL."
+    },
+    "country_origin": "IT",
+    "genesis_date": null,
+    "contract_address": "0xe2a083397521968eb05585932750634bed4b7d56",
+    "url": "https://joinhodl.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xE2a083397521968Eb05585932750634bED4b7D56",
+        "https://ethplorer.io/address/0xE2a083397521968Eb05585932750634bED4b7D56"
+    ],
+    "twitter": "HodlTokenETH",
+    "telegram": "HODLTokenFLC",
+    "github_org": "FairLaunchCalls"
+}

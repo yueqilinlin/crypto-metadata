@@ -1,0 +1,25 @@
+{
+    "id": "mandala-exchange-token",
+    "symbol": "mdx",
+    "name": "Mandala Exchange Token",
+    "platforms": {
+        "ethereum": "0x947aeb02304391f8fbe5b25d7d98d649b57b1788"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x947aeb02304391f8fbe5b25d7d98d649b57b1788",
+    "url": "https://trade.mandala.exchange/",
+    "explorers": [
+        "https://etherscan.io/token/0x947AEb02304391f8fbE5B25D7D98D649b57b1788",
+        "https://etherscan.io/address/0x947AEb02304391f8fbE5B25D7D98D649b57b1788",
+        "https://ethplorer.io/address/0x947AEb02304391f8fbE5B25D7D98D649b57b1788"
+    ],
+    "twitter": "mandalaex",
+    "facebook": "mandalaexchange",
+    "telegram": "mandalaexchange"
+}

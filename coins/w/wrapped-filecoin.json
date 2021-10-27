@@ -1,0 +1,26 @@
+{
+    "id": "wrapped-filecoin",
+    "symbol": "wfil",
+    "name": "Wrapped Filecoin",
+    "platforms": {
+        "ethereum": "0x6e1a19f235be7ed8e3369ef73b196c07257494de",
+        "polygon-pos": "0xede1b77c0ccc45bfa949636757cd2ca7ef30137f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Wrapped Filecoin is a 1:1 equivalent of Filecoin represented as an ERC-20 on Ethereum."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x6e1a19f235be7ed8e3369ef73b196c07257494de",
+    "url": "https://www.wrapped.com",
+    "explorers": [
+        "https://etherscan.io/token/0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
+        "https://ethplorer.io/address/0x6e1a19f235be7ed8e3369ef73b196c07257494de"
+    ],
+    "twitter": "wrappedfi",
+    "telegram": "wrappedfi"
+}

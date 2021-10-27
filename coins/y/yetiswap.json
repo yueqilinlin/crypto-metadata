@@ -1,0 +1,25 @@
+{
+    "id": "yetiswap",
+    "symbol": "yts",
+    "name": "YetiSwap",
+    "platforms": {
+        "avalanche": "0x488f73cddda1de3664775ffd91623637383d6404"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem"
+    ],
+    "description": {
+        "en": "YetiSwap is ERC20 dex on Avalanche c-chain"
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0x488f73cddda1de3664775ffd91623637383d6404",
+    "url": "https://www.yetiswap.app/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/address/0x488F73cddDA1DE3664775fFd91623637383D6404/transactions"
+    ],
+    "twitter": "YetiSwap",
+    "telegram": "YetiSwap",
+    "github_org": "YetiSwap"
+}

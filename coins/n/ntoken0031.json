@@ -1,0 +1,27 @@
+{
+    "id": "ntoken0031",
+    "symbol": "n0031",
+    "name": "nYFI",
+    "platforms": {
+        "ethereum": "0x075190c6130ea0a3a7e40802f1d77f4ea8f38fe2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "nYFI is the QP(quote pool) token of YFI/ETH pair on NEST Protocol. \r\n\r\nNEST Protocol is a distributed oracle network,also a permissionless community of token holders, data providers, and validators. As a oracle, NEST Protocol privide a creative solution to verficate onchain data, e.g. quotes of  digital assets. In NEST network, all data are directly generated on-chain: users(so called, Quote Miners) upload their own asset price quotes with certain amount of collateral , and the quotes will input to NEST's price chain after a fixed verification period. (During the verification period, the users' collateral are open for all forms of arbitrage, only the quotes with no collateral have been traded will be accepted).\r\n\r\nWhile the NEST\u2018s open network remaining permissionless and decentralized, the quotes and other onchain data\u2019s reliability and authenticity are secured by the game theroy between Quote miners, Verifiers and Price Callers.(The quote miners are rewarded with NEST token or a type of Ntoken; Verifiers earn profits directly based on the calculation of price deviation).\r\n\r\nSo far, NEST's quote miners are providing real time quotes for over 50 active trading pairs like ETH/USDT, YFI/ETH etc. Those quotes are accepted by many Open Price Feed format, and then be used by DEX/ reporters like Cofix and Coinbase Pro."
+    },
+    "country_origin": "MH",
+    "genesis_date": null,
+    "contract_address": "0x075190c6130ea0a3a7e40802f1d77f4ea8f38fe2",
+    "url": "https://nestprotocol.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x075190c6130ea0a3a7e40802f1d77f4ea8f38fe2",
+        "https://ethplorer.io/address/0x075190c6130ea0a3a7e40802f1d77f4ea8f38fe2"
+    ],
+    "twitter": "fan_nest",
+    "telegram": "nest_chat",
+    "reddit": "nestprotocol/",
+    "github_org": "NEST-Protocol"
+}

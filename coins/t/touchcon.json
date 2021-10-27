@@ -1,0 +1,27 @@
+{
+    "id": "touchcon",
+    "symbol": "toc",
+    "name": "TouchCon",
+    "platforms": {
+        "ethereum": "0x549905519f9e06d55d7dfcd4d54817780f6b93e8"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Ad Reward by Blockchain Smart QR Code "
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0x549905519f9e06d55d7dfcd4d54817780f6b93e8",
+    "url": "http://www.touchcon.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x549905519f9e06d55d7dfcd4d54817780f6b93e8",
+        "https://ethplorer.io/address/0x549905519f9e06d55d7dfcd4d54817780f6b93e8"
+    ],
+    "twitter": "TouchconInfo",
+    "facebook": "touchcoin",
+    "telegram": "touchconplatform",
+    "github_org": "touchconDev"
+}

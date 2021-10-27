@@ -1,0 +1,24 @@
+{
+    "id": "bobo-cash",
+    "symbol": "bobo",
+    "name": "Bobo Cash",
+    "platforms": {
+        "ethereum": "0xf53c24f7729c88c110265929c7124e6259efccab"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "Bobo Cash is a fully decentralized meme coin on the Ethereum network. It has multiple deflationary features and strong holding incentives. 1% of each transaction is burned and 4% are distributed as rewards to the holders. Bobo Cash's contract distributes 100% of the rewards to genuine holders. Further, Bobo Cash holders are eligible to future Bobo NFT Airdrops."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf53c24f7729c88c110265929c7124e6259efccab",
+    "url": "https://bobocash.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xF53c24f7729C88C110265929c7124E6259eFccAB",
+        "https://ethplorer.io/address/0xF53c24f7729C88C110265929c7124E6259eFccAB"
+    ],
+    "twitter": "bobocashcom"
+}

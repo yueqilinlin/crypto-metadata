@@ -1,0 +1,23 @@
+{
+    "id": "fruit-fighters",
+    "symbol": "foofight",
+    "name": "Fruit Fighters",
+    "platforms": {
+        "binance-smart-chain": "0x8c473a401e7ebde6dab178ea0bb5b35cde542c0e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fruit Fighters ($FOOFIGHT) is the next generation of gaming and rewards token on the BSC network. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8c473a401e7ebde6dab178ea0bb5b35cde542c0e",
+    "url": "https://fruitfightersgame.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8c473a401e7EBde6DAB178eA0bB5b35Cde542c0e"
+    ],
+    "twitter": "Fruit_Fighters",
+    "telegram": "fruitfightersgame",
+    "github_org": "FruitFighters-Org"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "global-crypto-alliance",
+    "symbol": "call",
+    "name": "Global Crypto Alliance",
+    "platforms": {
+        "ethereum": "0xbbe761ea1447a20b75aa485b7bcad4837415d7d7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "The Global Crypto Alliance constitutes a borderless organization that specializes in decentralized business development and blockchain ecosystems.\r\n\r\nThe CALL smart contract has rendered a multi-utility ERC777 token that will be leveraged both inside and outside the GCNews ecosystem, facilitating a smart voting platform hosted by an ERC777-based Dapp (among several partner entities) and expanding into additional business segments such as rental applications."
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "contract_address": "0xbbe761ea1447a20b75aa485b7bcad4837415d7d7",
+    "url": "https://gcalliance.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xbbe761ea1447a20b75aa485b7bcad4837415d7d7",
+        "https://ethplorer.io/address/0xbbe761ea1447a20b75aa485b7bcad4837415d7d7"
+    ],
+    "twitter": "gcnews_io",
+    "facebook": "GCA.Call.token",
+    "telegram": "Gcall777",
+    "reddit": "GlobalCryptoAlliance/",
+    "github_org": "Global-Crypto-Alliance"
+}

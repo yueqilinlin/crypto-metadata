@@ -1,0 +1,22 @@
+{
+    "id": "coin-discovery",
+    "symbol": "codi",
+    "name": "Coin Discovery",
+    "platforms": {
+        "binance-smart-chain": "0x4ac32178097c1f62beadcc2d215b54d6915013ee"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A platform to discover presales, new & trending coins."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4ac32178097c1f62beadcc2d215b54d6915013ee",
+    "url": "https://coindiscovery.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x4ac32178097c1f62beadcc2d215b54d6915013ee"
+    ],
+    "twitter": "CoinDiscoveryy",
+    "telegram": "coindiscovery_token"
+}

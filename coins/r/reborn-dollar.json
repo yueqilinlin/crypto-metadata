@@ -1,0 +1,21 @@
+{
+    "id": "reborn-dollar",
+    "symbol": "rebd",
+    "name": "Reborn Dollar",
+    "platforms": {
+        "ethereum": "0x7fea8dda7462ac9f2ce62cf52ce9840e0e6a8c3b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "REBORN' is the aftermarket platform of digital devices based on blockchain.\r\nThis project aims to create a new paradigm for aftermarket by applying the decentralized technology of blockchain to activities such as repair and inspection of digital devices, installation and recall, recycling, second-hand transactions and disposal, and by enhancing reliability among participants."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x7fea8dda7462ac9f2ce62cf52ce9840e0e6a8c3b",
+    "url": "https://reborn.foundation/",
+    "explorers": [
+        "https://etherscan.io/token/0x7fea8dda7462ac9f2ce62cf52ce9840e0e6a8c3b",
+        "https://ethplorer.io/address/0x7fea8dda7462ac9f2ce62cf52ce9840e0e6a8c3b"
+    ]
+}

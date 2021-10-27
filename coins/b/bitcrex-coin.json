@@ -1,0 +1,19 @@
+{
+    "id": "bitcrex-coin",
+    "symbol": "bic",
+    "name": "Bitcrex Coin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [],
+    "description": {
+        "en": "BIC is one Proof of Stake and Master node coin. BIC is a private, low fee and instant cryptocurrency.\r\n\r\nBIC is an instant coin and It uses peer-to-peer technology and managing transactions are carried out collectively by the network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://bitcrex.xyz/",
+    "explorers": [
+        "https://openchains.info/coin/bitcrexcoin/blocks"
+    ],
+    "twitter": "Bitcrex",
+    "github_org": "BITCREXCOIN"
+}

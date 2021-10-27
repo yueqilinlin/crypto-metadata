@@ -1,0 +1,26 @@
+{
+    "id": "equos-origin",
+    "symbol": "eqo",
+    "name": "EQO",
+    "platforms": {
+        "ethereum": "0x46e9fe43470fafd690100c86037f9e566e24d480"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)"
+    ],
+    "description": {
+        "en": "Launched on May 26th, 2020, EQONEX is a centralized crypto exchange based in Singapore. The parent company, Diginex, is the first company listed on Nasdaq with a crypto exchange (Nasdaq: EQOS).\r\n\r\nEQONEX operates out of Singapore under a temporary exemption from the Monetary Authority of Singapore pending its application for a license under the Money Services Act.\r\n\r\nEQONEX's first native token EQO, went live on April 8th, 2021. Holders of EQO receive numerous unique benefits, including reduced trading fees, access to future airdrops, staking rewards, collateral against derivatives transactions, and enhanced interest for crypto lending. \r\n"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x46e9fe43470fafd690100c86037f9e566e24d480",
+    "url": "https://eqonex.com",
+    "explorers": [
+        "https://etherscan.io/token/0x46e9fe43470fafd690100c86037f9e566e24d480",
+        "https://ethplorer.io/address/0x46e9fe43470fafd690100c86037f9e566e24d480"
+    ],
+    "twitter": "eqonex",
+    "facebook": "https://www.facebook.com/eqonexgroup/",
+    "telegram": "equosio"
+}

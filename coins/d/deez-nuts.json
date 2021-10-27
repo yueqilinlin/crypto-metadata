@@ -1,0 +1,23 @@
+{
+    "id": "deez-nuts",
+    "symbol": "deeznuts",
+    "name": "Deez Nuts",
+    "platforms": {
+        "binance-smart-chain": "0x741f72bc9e29f662f2eb41c5ab450a2ca33be57d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Description:\r\n\r\nDEEZNUTS is based on the popular \u201cDeez Nuts\u201d Internet meme but represents itself as a charity coin. DEEZNUTS was created to raise awareness and funds for cancer research, while also leveraging the viral and humorous aspect of the meme. The coin is now trending and supported by a list of celebrities and billionaires from around the world that are helping to promote the charitable cause.\r\n\r\nOn every transaction, DEEZNUTS charges a 10% tax:\u2028\r\n-3% added to the liquidity pool \u2028\r\n-3% moved to team marketing wallet\u2028\r\n-2% distributes to all holders \r\n-1% moved to charity wallet \u2028\r\n-1% moved to burn wallet\r\n\r\nWhere can I see the celebrities involved? DEEZNUTS has an active Telegram community that not only has celebrities in the community, but also allows the community to vote on what celebrities that they would like to see involved in the project."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x741f72bc9e29f662f2eb41c5ab450a2ca33be57d",
+    "url": "https://www.deeznutscoin.com",
+    "explorers": [
+        "https://bscscan.com/token/0x741F72BC9E29f662F2Eb41c5aB450A2cA33bE57D"
+    ],
+    "twitter": "DeezNuts",
+    "telegram": "deeznutscoin",
+    "reddit": "DeezNutsCoin/"
+}

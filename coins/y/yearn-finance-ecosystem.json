@@ -1,0 +1,24 @@
+{
+    "id": "yearn-finance-ecosystem",
+    "symbol": "yfiec",
+    "name": "Yearn Finance Ecosystem",
+    "platforms": {
+        "ethereum": "0x2e6e152d29053b6337e434bc9be17504170f8a5b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "contract_address": "0x2e6e152d29053b6337e434bc9be17504170f8a5b",
+    "url": "https://yfiec.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x2e6e152d29053b6337e434bc9be17504170f8a5b",
+        "https://ethplorer.io/address/0x2e6e152d29053b6337e434bc9be17504170f8a5b"
+    ],
+    "twitter": "YFIEC",
+    "telegram": "YFIEC",
+    "github_org": "Yfiec"
+}

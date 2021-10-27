@@ -1,0 +1,23 @@
+{
+    "id": "polyquokka-finance",
+    "symbol": "quokk",
+    "name": "PolyQuokka Finance",
+    "platforms": {
+        "polygon-pos": "0x9469603f3efbcf17e4a5868d81c701bdbd222555"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A polygon yield farm and yield aggregator"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9469603f3efbcf17e4a5868d81c701bdbd222555",
+    "url": "https://polyquokka.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x9469603f3efbcf17e4a5868d81c701bdbd222555"
+    ],
+    "twitter": "polyquokka",
+    "telegram": "polyquokka",
+    "github_org": "quokka-group"
+}

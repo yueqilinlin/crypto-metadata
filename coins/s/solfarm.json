@@ -1,0 +1,28 @@
+{
+    "id": "solfarm",
+    "symbol": "tulip",
+    "name": "Tulip Protocol",
+    "platforms": {
+        "solana": "TuLipcqtGVXP9XR62wM8WWCm6a9vhLs7T1uoWBk6FDs"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem",
+        "Yield Aggregator",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "Tulip Protocol is the first yield aggregator on Solana, averaging around 80mm-100mm TVL. Our first product is autocompounding vaults utilizing Raydium's farms."
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "TuLipcqtGVXP9XR62wM8WWCm6a9vhLs7T1uoWBk6FDs",
+    "url": "https://tulip.garden",
+    "explorers": [
+        "https://explorer.solana.com/address/TuLipcqtGVXP9XR62wM8WWCm6a9vhLs7T1uoWBk6FDs",
+        "https://solscan.io/token/TuLipcqtGVXP9XR62wM8WWCm6a9vhLs7T1uoWBk6FDs"
+    ],
+    "twitter": "tulipprotocol",
+    "telegram": "tulipprotocol",
+    "github_org": "sol-farm"
+}

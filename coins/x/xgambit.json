@@ -1,0 +1,20 @@
+{
+    "id": "xgambit",
+    "symbol": "xgmt",
+    "name": "xGambit",
+    "platforms": {
+        "binance-smart-chain": "0xe304ff0983922787fd84bc9170cd21bf78b16b10"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe304ff0983922787fd84bc9170cd21bf78b16b10",
+    "url": "https://gambit.financial/",
+    "explorers": [
+        "https://bscscan.com/token/0xe304ff0983922787fd84bc9170cd21bf78b16b10"
+    ]
+}

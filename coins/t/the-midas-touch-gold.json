@@ -1,0 +1,25 @@
+{
+    "id": "the-midas-touch-gold",
+    "symbol": "tmtg",
+    "name": "The Midas Touch Gold",
+    "platforms": {
+        "ethereum": "0x10086399dd8c1e3de736724af52587a2044c9fa2"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "The TMTG Project aims for a hyperconnected society and to construct an ecosystem that achieves effective values of real things through decentralized block chain.\r\n\r\nAs the first step, the TMTG Project will establish an ecosystem with a virtual currency with value that can be directly traded for actual goods\r\n\r\nDGE developed TMTG (The Midas Touch Gold) in order to expand upon real Gold, a tangible value asset, taking its potential to the next step of unlimited possibilities with cryptocurrency.\r\n\r\nThe Midas Touch Gold (TMTG) is a Cryptocurrency based on ETH (Ethereum). The Midas Touch Gold means, \"Everything you touch turns to gold.\""
+    },
+    "country_origin": "KR",
+    "genesis_date": "2018-07-22",
+    "contract_address": "0x10086399dd8c1e3de736724af52587a2044c9fa2",
+    "url": "https://dgex.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x10086399dd8c1e3de736724af52587a2044c9fa2",
+        "https://ethplorer.io/address/0x10086399dd8c1e3de736724af52587a2044c9fa2"
+    ],
+    "twitter": "tmtgdge",
+    "facebook": "TheMidasTouchGold",
+    "telegram": "officialtmtg",
+    "github_org": "DigitalGoldExchange"
+}

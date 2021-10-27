@@ -1,0 +1,19 @@
+{
+    "id": "helio",
+    "symbol": "hlo",
+    "name": "Helio",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [],
+    "description": {
+        "en": "Helio is built on a decentralized blockchain, as user adoption continues to grow, the Helio platform will continue to become distributed amongst more users, which in return will increase the security of the network."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "url": "https://helionetwork.org/",
+    "explorers": [
+        "https://chain.helionetwork.org/"
+    ],
+    "twitter": "NetworkHelio",
+    "github_org": "HelioNetwork"
+}

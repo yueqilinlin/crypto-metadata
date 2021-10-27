@@ -1,0 +1,23 @@
+{
+    "id": "stonks",
+    "symbol": "stonk",
+    "name": "STONKS",
+    "platforms": {
+        "ethereum": "0x60ca261e14f26e8daae8b1a7f8e783d64859126c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An Autonomous Risk Game That's 100% Community Owned and Governed."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x60ca261e14f26e8daae8b1a7f8e783d64859126c",
+    "url": "https://www.stonks.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x60ca261e14f26e8daae8b1a7f8e783d64859126c",
+        "https://ethplorer.io/address/0x60ca261e14f26e8daae8b1a7f8e783d64859126c"
+    ],
+    "twitter": "stonks_fi",
+    "telegram": "stonks_fi"
+}

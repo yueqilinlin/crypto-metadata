@@ -1,0 +1,27 @@
+{
+    "id": "derace",
+    "symbol": "derc",
+    "name": "DeRace",
+    "platforms": {
+        "ethereum": "0x9fa69536d1cda4a04cfb50688294de75b505a9ae",
+        "binance-smart-chain": "0x373e768f79c820aa441540d254dca6d045c6d25b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gaming"
+    ],
+    "description": {
+        "en": "DeRace is a virtual NFT horse racing universe built on blockchain and powered by DERC DeRace is a complete NFT horse racing ecosystem where you can participate in horse races, breed NFT horses with unique characteristics, build your own NFT hippodrome, bet on the races, and earn DERC while doing it. DeRace is breathing new life in the static NFT market allowing players to fully interact with their DNA enriched NFT horses and have total control over their hippodromes. Blockchain technology allows transparent horse racing outcomes which makes stakes on the DeRace platform reliable and safe. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9fa69536d1cda4a04cfb50688294de75b505a9ae",
+    "url": "http://derace.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x9fa69536d1cda4a04cfb50688294de75b505a9ae",
+        "https://ethplorer.io/address/0x9fa69536d1cda4a04cfb50688294de75b505a9ae",
+        "https://bscscan.com/token/0x373e768f79c820aa441540d254dca6d045c6d25b"
+    ],
+    "twitter": "deracenft",
+    "github_org": "Derace"
+}

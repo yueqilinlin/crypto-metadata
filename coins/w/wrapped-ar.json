@@ -1,0 +1,23 @@
+{
+    "id": "wrapped-ar",
+    "symbol": "war",
+    "name": "Wrapped AR",
+    "platforms": {
+        "ethereum": "0x4fadc7a98f2dc96510e42dd1a74141eeae0c1543"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wrapped AR introduces a new storage-based paradigm to Ethereum and the DeFi ecosystem. Thanks to it, even native Ethereum users and developers that have no experience with perpetual data storage and Web3 applications can bring wAR from Ethereum to Arweave through the DAO of everPay by converting it back to AR and use it to store data permanently through ArConnect."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4fadc7a98f2dc96510e42dd1a74141eeae0c1543",
+    "url": "https://ever.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x4fadc7a98f2dc96510e42dd1a74141eeae0c1543",
+        "https://ethplorer.io/address/0x4fadc7a98f2dc96510e42dd1a74141eeae0c1543"
+    ],
+    "twitter": "FinanceEver",
+    "github_org": "everFinance"
+}

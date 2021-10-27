@@ -1,0 +1,22 @@
+{
+    "id": "mrv",
+    "symbol": "mrv",
+    "name": "MRV",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "url": "https://mrvcoin.com",
+    "explorers": [
+        "http://blockchain.mrvcoin.com",
+        "http://explorer.mrvcoin.com"
+    ],
+    "twitter": "mrvcoin",
+    "github_org": "MRVofficial"
+}

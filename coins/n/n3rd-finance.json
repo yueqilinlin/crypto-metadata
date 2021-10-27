@@ -1,0 +1,26 @@
+{
+    "id": "n3rd-finance",
+    "symbol": "N3RDz",
+    "name": "N3RD Finance",
+    "platforms": {
+        "ethereum": "0x32c868f6318d6334b2250f323d914bc2239e4eee"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x32c868f6318d6334b2250f323d914bc2239e4eee",
+    "url": "https://n3rd.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x32c868f6318d6334b2250f323d914bc2239e4eee",
+        "https://ethplorer.io/address/0x32c868f6318d6334b2250f323d914bc2239e4eee"
+    ],
+    "twitter": "nerdfinance1",
+    "telegram": "nerdfinance",
+    "github_org": "N3RD-FINANCE"
+}

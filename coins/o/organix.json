@@ -1,0 +1,22 @@
+{
+    "id": "organix",
+    "symbol": "ogx",
+    "name": "Organix",
+    "platforms": {
+        "eos": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Organix is a decentralised synthetic asset issuance and trading protocol based on EOS, which can mint synths like fiat currencies, commodities, cryptocurrencies, inverse cryptocurrencies, and cryptocurrency indexes through staking OGX as the collateral."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "url": "https://ogx.network/",
+    "explorers": [
+        "https://bloks.io/tokens/OGX-eos-organixtoken"
+    ],
+    "twitter": "OrganixProtocol",
+    "telegram": "OrganixProtocol",
+    "github_org": "OrganixProtocol"
+}

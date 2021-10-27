@@ -1,0 +1,23 @@
+{
+    "id": "safedoge",
+    "symbol": "safedoge",
+    "name": "SafeDoge",
+    "platforms": {
+        "binance-smart-chain": "0x7b5beb86af822125762bd0e9eb0df3154ffbf640"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SAFEDOGE is a Frictionless Yield Auto Generation DEFI & NFT Protocol on Binance Smart Chain, where community gets rewarded in ecosystem tokens. Our focus is to build innovative products On #BSC We built this token on Binance Smart Chain. 10% Tax is Allocated on Every Transfer. (4% holders fee, 3% liquidity fee , 2% NFT lovers fee, 1% Burn fee)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7b5beb86af822125762bd0e9eb0df3154ffbf640",
+    "url": "https://www.safedoge.dog",
+    "explorers": [
+        "https://bscscan.com/token/0x7b5beb86af822125762bd0e9eb0df3154ffbf640"
+    ],
+    "twitter": "SafeDogeBNB",
+    "telegram": "SafeDogeBNB",
+    "github_org": "safedogee"
+}

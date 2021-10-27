@@ -1,0 +1,23 @@
+{
+    "id": "mars-token",
+    "symbol": "omt",
+    "name": "Mars Token",
+    "platforms": {
+        "ethereum": "0x4e30910845f0cb4f66781b35c832eafc09774022"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Official Mars Token is made to provide an interplanetary payment solution for a permanent settlement on Mars."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4e30910845f0cb4f66781b35c832eafc09774022",
+    "url": "https://www.marstoken.space/",
+    "explorers": [
+        "https://etherscan.io/token/0x4e30910845f0cb4f66781b35c832eafc09774022",
+        "https://ethplorer.io/address/0x4e30910845f0cb4f66781b35c832eafc09774022"
+    ],
+    "twitter": "MarsTokenOMT",
+    "telegram": "OfficialMarsToken"
+}

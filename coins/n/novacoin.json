@@ -1,0 +1,19 @@
+{
+    "id": "novacoin",
+    "symbol": "nvc",
+    "name": "Novacoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Novacoin is a hybrid Proof of work (POW) / Proof of stake (POS) decentralized peer-to-peer cryptocurrency.The Proof of Work part of Novacoin is based on the Scrypt hashing algorithm. Proof of Stake contributes to the coins energy efficiency, as there is no need for nodes to contribute mining power to part of the money creation process.\r\n\r\nAs of now, Novacoin is set to be capped at 2 billion coins. However Novacoin stated that the cap limit may be lifted if the situation requires it.\r\n\r\nIt looks very much like a variation of Sunny King Peercoin."
+    },
+    "country_origin": "",
+    "genesis_date": "2013-02-09",
+    "url": "https://novaco.in",
+    "explorers": [
+        "https://explorer.novaco.in"
+    ],
+    "reddit": "novacoin/",
+    "github_org": "novacoin-project"
+}

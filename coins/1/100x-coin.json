@@ -1,0 +1,22 @@
+{
+    "id": "100x-coin",
+    "symbol": "100x",
+    "name": "100xCoin",
+    "platforms": {
+        "binance-smart-chain": "0x016c285d5b918b92aa85ef1e147498badfe30d69"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x016c285d5b918b92aa85ef1e147498badfe30d69",
+    "url": "https://www.100xcoin.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x016C285d5b918B92aa85EF1e147498BADfe30d69"
+    ],
+    "twitter": "100XCoin_",
+    "telegram": "ELOofficialchat"
+}

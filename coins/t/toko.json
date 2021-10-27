@@ -1,0 +1,26 @@
+{
+    "id": "toko",
+    "symbol": "toko",
+    "name": "Tokoin",
+    "platforms": {
+        "ethereum": "0xa0f0546eb5e3ee7e8cfc5da12e5949f3ae622675"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Tokoin is a platform that establishes the digital business identity and reputation of micro, small & medium enterprises (MSME) as acceptable credibility scoring for suppliers and financial institutions.\r\n\r\nTokoin aims to:\r\n-\tBuild a digital business identity for MSME that represents a valid business reputation\r\n-\tBuild a digital ledger for MSME that records real-time transaction data and provides opportunities to distribute the data to the relevant parties in the ecosystem, hence monetizing their data. \r\n-\tBuild a digital ledger for MSME that records real-time transaction data and provides opportunities to distribute the data to the relevant parties in the ecosystem, hence monetizing their data. \r\n-\tGrow opportunities by lowering transaction costs, increasing buying power, and providing the previously inaccessibles access for business partnership\r\n-\tSuppress the financial inclusion barriers\r\n"
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0xa0f0546eb5e3ee7e8cfc5da12e5949f3ae622675",
+    "url": "https://www.tokoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa0F0546Eb5E3eE7e8cfC5DA12e5949F3AE622675",
+        "https://ethplorer.io/address/0xa0F0546Eb5E3eE7e8cfC5DA12e5949F3AE622675"
+    ],
+    "twitter": "Tokoinglobal",
+    "facebook": "TokoinOfficial",
+    "telegram": "tokoinglobal"
+}

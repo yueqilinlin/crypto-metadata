@@ -1,0 +1,23 @@
+{
+    "id": "dinosaureggs",
+    "symbol": "dsg",
+    "name": "Dinosaur Eggs Token",
+    "platforms": {
+        "binance-smart-chain": "0x9a78649501bbaac285ea4187299471b7ad4abd35"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Metaverse protocol \"dinosaurs\" on Binance Smart Chain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9a78649501bbaac285ea4187299471b7ad4abd35",
+    "url": "https://dsgmetaverse.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x9a78649501bbaac285ea4187299471b7ad4abd35"
+    ],
+    "twitter": "dsgmetaverse",
+    "telegram": "dinosaureggs",
+    "github_org": "dinosaur-eggs"
+}

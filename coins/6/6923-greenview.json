@@ -1,0 +1,27 @@
+{
+    "id": "6923-greenview",
+    "symbol": "realtoken-s-6923-greenview-ave-detroit-mi",
+    "name": "RealT Token - 6923 Greenview Ave, Detroit, MI 48228",
+    "platforms": {
+        "ethereum": "0xd08d2b199e9e5df407427d4085877d1fdff3b1d6",
+        "xdai": "0xd08d2b199e9e5df407427d4085877d1fdff3b1d6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd08d2b199e9e5df407427d4085877d1fdff3b1d6",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xD08d2b199E9E5df407427d4085877d1fDFf3b1d6",
+        "https://ethplorer.io/address/0xd08d2b199e9e5df407427d4085877d1fdff3b1d6"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

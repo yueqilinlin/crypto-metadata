@@ -1,0 +1,29 @@
+{
+    "id": "mirrored-invesco-qqq-trust",
+    "symbol": "mqqq",
+    "name": "Mirrored Invesco QQQ Trust",
+    "platforms": {
+        "ethereum": "0x13b02c8de71680e71f0820c996e4be43c2f57d15",
+        "binance-smart-chain": "0x1cb4183ac708e07511ac57a2e45a835f048d7c56"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Mirrored Assets"
+    ],
+    "description": {
+        "en": "Mirrored Invesco QQQ Trust - synthetic asset tracking the price of an Invesco QQQ Trust ETF."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x13b02c8de71680e71f0820c996e4be43c2f57d15",
+    "url": "https://mirror.finance",
+    "explorers": [
+        "https://finder.terra.money/columbus-4/token/terra1csk6tc7pdmpr782w527hwhez6gfv632tyf72cp",
+        "https://etherscan.io/token/0x13B02c8dE71680e71F0820c996E4bE43c2F57d15",
+        "https://ethplorer.io/address/0x13b02c8de71680e71f0820c996e4be43c2f57d15",
+        "https://bscscan.com/token/0x1Cb4183Ac708e07511Ac57a2E45A835F048D7C56"
+    ],
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol",
+    "github_org": "mirror-protocol"
+}

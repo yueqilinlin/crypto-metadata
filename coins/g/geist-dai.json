@@ -1,0 +1,20 @@
+{
+    "id": "geist-dai",
+    "symbol": "gdai",
+    "name": "Geist Dai",
+    "platforms": {
+        "fantom": "0x07e6332dd090d287d3489245038daf987955dcfb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x07e6332dd090d287d3489245038daf987955dcfb",
+    "url": "https://geist.finance/markets",
+    "explorers": [
+        "https://ftmscan.com/token/0x07E6332dD090D287d3489245038daF987955DCFB"
+    ]
+}

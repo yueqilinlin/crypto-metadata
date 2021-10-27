@@ -1,0 +1,22 @@
+{
+    "id": "gro-vault-token",
+    "symbol": "gvt",
+    "name": "Gro Vault Token",
+    "platforms": {
+        "ethereum": "0x3adb04e127b9c0a5d36094125669d4603ac52a0c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gro is a yield optimizer that enables leverage and protection through risk-tranching. Vault is Gro's product that offers DeFi yields with additional leverage for higher yield but more exotic risk such as the failure of a major stablecoin or protocol. Vault deposits are tokenised as GVT, which gradually increases in value by accruing yield."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3adb04e127b9c0a5d36094125669d4603ac52a0c",
+    "url": "https://www.gro.xyz",
+    "explorers": [
+        "https://etherscan.io/token/0x3adb04e127b9c0a5d36094125669d4603ac52a0c",
+        "https://ethplorer.io/address/0x3adb04e127b9c0a5d36094125669d4603ac52a0c"
+    ],
+    "telegram": "gro_discussion"
+}

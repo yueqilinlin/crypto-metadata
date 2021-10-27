@@ -1,0 +1,32 @@
+{
+    "id": "vite",
+    "symbol": "vite",
+    "name": "Vite",
+    "platforms": {
+        "ethereum": "0xadd5e881984783dd432f80381fb52f45b53f3e70",
+        "binance-smart-chain": "0x2794dad4077602ed25a88d03781528d1637898b4"
+    },
+    "hashing_algorithm": "Directed Acyclic Graph (DAG)",
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Vite has built the world\u2019s first DAG (Directed Acyclic Graph) based smart-contract platform, with a Snapshot Chain structure to facilitate zero-fee transactions and optimize transaction speed, reliability, and security. The Snapshot Chain of Vite utilizes Hierarchical Delegated Proof of Stake (\u201cHDPoS\u201d) to achieve network consensus. \r\n\r\nVite\u2019s current products include a truly trustless DEX (ViteX), a wallet-centric super-app (Vite App) and a Vite-based payment rail (VitePay).\r\n\r\nVite\u2019s next ambition is ViteBridge, a universal cross-chain solution that allows easy asset transfer between any two chains in a decentralized manner."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xadd5e881984783dd432f80381fb52f45b53f3e70",
+    "url": "https://www.vite.org/",
+    "explorers": [
+        "https://explorer.vite.net/",
+        "https://vitescan.io/",
+        "https://etherscan.io/token/0xadd5e881984783dd432f80381fb52f45b53f3e70",
+        "https://ethplorer.io/address/0xadd5e881984783dd432f80381fb52f45b53f3e70",
+        "https://bscscan.com/token/0x2794dad4077602ed25a88d03781528d1637898b4"
+    ],
+    "twitter": "vitelabs",
+    "telegram": "vite_en",
+    "reddit": "vitelabs/",
+    "github_org": "vitelabs"
+}

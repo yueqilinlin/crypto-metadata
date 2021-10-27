@@ -1,0 +1,24 @@
+{
+    "id": "definity",
+    "symbol": "defx",
+    "name": "DeFinity",
+    "platforms": {
+        "ethereum": "0x5f474906637bdcda05f29c74653f6962bb0f8eda"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeFinity is a decentralised DeFi exchange, specialised to trade traditional and digital FX via smart contracts, with a focus to provide real-time settlement and clearing for spot FX trading.\r\nBridging the power of decentralisation with a traditional broker and liquidity provider community, it is specifically tailored and geared towards the future support of CBDC\u2019s (central bank digital currencies) and decentralised financial services for FX."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x5f474906637bdcda05f29c74653f6962bb0f8eda",
+    "url": "https://definity.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x5F474906637bdCDA05f29C74653F6962bb0f8eDa",
+        "https://ethplorer.io/address/0x5F474906637bdCDA05f29C74653F6962bb0f8eDa"
+    ],
+    "twitter": "definitynetwork",
+    "facebook": "definitynetwork",
+    "telegram": "DeFinity_Community"
+}

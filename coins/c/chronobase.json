@@ -1,0 +1,23 @@
+{
+    "id": "chronobase",
+    "symbol": "tik",
+    "name": "ChronoBase",
+    "platforms": {
+        "ethereum": "0x0922f1d808adc3a4444bed2f73fac53a1a2a5859"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Global decentralised luxury watch database with provenance, cost and ownership verification. Reliable and accessible database with watches registered by manufacturers and luxury watch owners."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0922f1d808adc3a4444bed2f73fac53a1a2a5859",
+    "url": "https://chronobase.eu/",
+    "explorers": [
+        "https://etherscan.io/token/0x0922f1d808adc3a4444bed2f73fac53a1a2a5859",
+        "https://ethplorer.io/address/0x0922f1d808adc3a4444bed2f73fac53a1a2a5859"
+    ],
+    "twitter": "chronobaseeu",
+    "telegram": "chronobase"
+}

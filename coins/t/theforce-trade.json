@@ -1,0 +1,24 @@
+{
+    "id": "theforce-trade",
+    "symbol": "foc",
+    "name": "TheForce Trade",
+    "platforms": {
+        "binance-smart-chain": "0x3051cfb958dcd408fba70256073adba943fdf552"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A DeFi and NFT data aggregator and earning platform, accessible to all\r\nProviding customisable smart contracts to simplify the investment process of DeFI and NFT for users of all levels."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3051cfb958dcd408fba70256073adba943fdf552",
+    "url": "https://www.theforce.trade/",
+    "explorers": [
+        "https://www.bscscan.com/token/0x3051cfb958dcd408fba70256073adba943fdf552",
+        "https://bscscan.com/token/0x3051cfb958dcd408fba70256073adba943fdf552"
+    ],
+    "twitter": "TheforceTrade",
+    "telegram": "theforcetrade2",
+    "github_org": "TheForce-Trade"
+}

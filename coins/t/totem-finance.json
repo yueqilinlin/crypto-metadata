@@ -1,0 +1,22 @@
+{
+    "id": "totem-finance",
+    "symbol": "totem",
+    "name": "Totem Finance",
+    "platforms": {
+        "fantom": "0x31a37aedc0c18aa139e120e1cdc673bbb2063e6f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Totem Finance is a cross-chain infrastructure project that builds liquidity for layer-one blockchains, AMMs and partnering projects. Totem Finance benefits from Fantom blazing fast transaction and low fees.."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x31a37aedc0c18aa139e120e1cdc673bbb2063e6f",
+    "url": "https://totemfinance.app/",
+    "explorers": [
+        "https://ftmscan.com/token/0x31a37aedc0c18aa139e120e1cdc673bbb2063e6f"
+    ],
+    "twitter": "TotemFantom",
+    "telegram": "totemfinance"
+}

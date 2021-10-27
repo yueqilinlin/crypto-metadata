@@ -1,0 +1,24 @@
+{
+    "id": "kalao",
+    "symbol": "klo",
+    "name": "Kalao",
+    "platforms": {
+        "avalanche": "0xb27c8941a7df8958a1778c0259f76d1f8b711c35"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb27c8941a7df8958a1778c0259f76d1f8b711c35",
+    "url": "https://www.kalao.io/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35/token-transfers"
+    ],
+    "twitter": "GetKalao",
+    "telegram": "kalaoklo"
+}

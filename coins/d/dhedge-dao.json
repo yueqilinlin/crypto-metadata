@@ -1,0 +1,31 @@
+{
+    "id": "dhedge-dao",
+    "symbol": "dht",
+    "name": "dHEDGE DAO",
+    "platforms": {
+        "ethereum": "0xca1207647ff814039530d7d35df0e1dd2e91fa84",
+        "polygon-pos": "0x8c92e38eca8210f4fcbf17f0951b198dd7668292",
+        "arbitrum-one": "0x8038f3c971414fd1fc220ba727f2d4a0fc98cb65"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset Manager",
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)",
+        "Governance",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xca1207647ff814039530d7d35df0e1dd2e91fa84",
+    "url": "https://www.dhedge.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xca1207647ff814039530d7d35df0e1dd2e91fa84",
+        "https://ethplorer.io/address/0xca1207647ff814039530d7d35df0e1dd2e91fa84"
+    ],
+    "twitter": "dhedgeorg",
+    "telegram": "dhedge"
+}

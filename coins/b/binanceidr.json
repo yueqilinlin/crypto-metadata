@@ -1,0 +1,22 @@
+{
+    "id": "binanceidr",
+    "symbol": "bidr",
+    "name": "BIDR",
+    "platforms": {
+        "binancecoin": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BinanceIDR, is a stable digital currency anchored to the rupiah (IDR) supported by Binance and Tokocrypto, a regulated digital currency exchange in Indonesia. Issued in proportion to 1BIDR=1IDR."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.tokocrypto.com/",
+    "explorers": [
+        "https://explorer.binance.org/asset/BIDR-0E9"
+    ],
+    "twitter": "TokoCrypto",
+    "facebook": "TCDXOfficial",
+    "telegram": "TokocryptoOfficial"
+}

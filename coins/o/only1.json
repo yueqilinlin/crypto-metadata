@@ -1,0 +1,25 @@
+{
+    "id": "only1",
+    "symbol": "like",
+    "name": "Only1",
+    "platforms": {
+        "solana": "3bRTivrVsitbmCTGtqwp7hxXPsybkjn4XLNtPsHqa3zR"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "Buy and Sell NFTs from your favorite content creators, earn crypto by interacting with these creators, or mint your own NFTs and start earning rewards today. Powered by Solana."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "3bRTivrVsitbmCTGtqwp7hxXPsybkjn4XLNtPsHqa3zR",
+    "url": "https://only1.io/",
+    "explorers": [
+        "https://solscan.io/token/3bRTivrVsitbmCTGtqwp7hxXPsybkjn4XLNtPsHqa3zR"
+    ],
+    "twitter": "only1nft",
+    "telegram": "only1nft",
+    "github_org": "only1nft"
+}

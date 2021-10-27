@@ -1,0 +1,23 @@
+{
+    "id": "pinecone-finance",
+    "symbol": "pct",
+    "name": "Pinecone Finance",
+    "platforms": {
+        "binance-smart-chain": "0x4631d9d8b34f51b82958a19453bdc9ea0c4e49fc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pinecone Finance is a Yield Optimizer Protocol on Binance Smart Chain which aims to innovate yield farming by making it effortless, frictionless and sustainable.\r\nOn top of the Transfer Tax rewards, our token Holders also share the Performance Fee generated from our farming vaults, which will continue to increase proportionally with the growth of Pinecone ecosystem. \r\nWe differentiate ourselves from other Yield Optimizers and Reflection Tokens in the following perspectives:\r\n\r\n1. High Yield  Single Asset Farming. For the People. By the People\r\n2. One token. Dual rewards. Even without the need of staking!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4631d9d8b34f51b82958a19453bdc9ea0c4e49fc",
+    "url": "https://pinecone.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x4631d9D8b34f51B82958a19453bdc9eA0C4E49FC"
+    ],
+    "twitter": "PineconeFinance",
+    "telegram": "Pinecone_finance",
+    "github_org": "pinecone-finance"
+}

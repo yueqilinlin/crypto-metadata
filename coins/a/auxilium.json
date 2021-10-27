@@ -1,0 +1,22 @@
+{
+    "id": "auxilium",
+    "symbol": "aux",
+    "name": "Auxilium",
+    "platforms": {},
+    "hashing_algorithm": "Keccak",
+    "categories": [],
+    "description": {
+        "en": "Auxilium is based on the Ethereum code-base and is the first such currency to have launched with PoA (Proof of Authority) and the unique AID (Auxilium Interest Distribution) platform, rather than PoW or PoS.\r\n\r\n \r\n\r\nWe decided that as we\u2019re all about conservation, we\u2019d need to write a PoA implementation with AID platform into our code-base to back up our environmental and philanthropical position and standing.\r\n\r\n \r\n\r\nAs is the case with Ethereum, we have smart contracts, tokens and the ability for a developer to write dapps for use on the Auxilium blockchain."
+    },
+    "country_origin": "NL",
+    "genesis_date": "2018-06-18",
+    "url": "https://auxilium.global/",
+    "explorers": [
+        "https://explore.auxilium.global/blockchain"
+    ],
+    "twitter": "auxiliumglobal",
+    "facebook": "auxiliumglobal",
+    "telegram": "auxiliumcommunity",
+    "reddit": "auxiliumglobal/",
+    "github_org": "auxiliumglobal"
+}

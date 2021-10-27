@@ -1,0 +1,23 @@
+{
+    "id": "sovreign-governance-token",
+    "symbol": "reign",
+    "name": "Sovreign Governance Token",
+    "platforms": {
+        "ethereum": "0x17f59dd7fefc2f276509eed2ad6b65271458177e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sovreign is the protocol behind the SOV token, a novel stabilised asset backed by basket of Store-Of-Value tokens. The protocol and the composition of the SOV basket is governed by holders of the REIGN token.\r\nSovreign aims to provide an alternative to the USD pegged stablecoins that are inflating away in users wallets and DeFi accounts."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x17f59dd7fefc2f276509eed2ad6b65271458177e",
+    "url": "https://sovreign.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x17f59dd7fefc2f276509eed2ad6b65271458177e",
+        "https://ethplorer.io/address/0x17f59dd7fefc2f276509eed2ad6b65271458177e"
+    ],
+    "twitter": "Sovreign_org",
+    "github_org": "sovreign-protocol"
+}

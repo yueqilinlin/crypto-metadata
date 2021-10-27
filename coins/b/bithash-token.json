@@ -1,0 +1,25 @@
+{
+    "id": "bithash-token",
+    "symbol": "bt",
+    "name": "BitHash Token",
+    "platforms": {
+        "ethereum": "0x6628606c321faf52b7230a57b26c01b19aa68e82"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BitHash Exchange utility token"
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x6628606c321faf52b7230a57b26c01b19aa68e82",
+    "url": "https://www.bithash.net",
+    "explorers": [
+        "https://etherscan.io/token/0x6628606c321FaF52b7230A57b26c01B19aA68e82",
+        "https://ethplorer.io/address/0x6628606c321faf52b7230a57b26c01b19aa68e82"
+    ],
+    "twitter": "BitHash",
+    "telegram": "bithash_exchange",
+    "reddit": "https://www.reddit.com",
+    "github_org": "bithash-exchange"
+}

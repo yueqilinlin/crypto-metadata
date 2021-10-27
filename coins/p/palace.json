@@ -1,0 +1,21 @@
+{
+    "id": "palace",
+    "symbol": "paa",
+    "name": "Palace",
+    "platforms": {
+        "ethereum": "0x3d9ac8e7a9c9be11dfac1677dda901e28d44527f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The PAA Payment Platform consolidates crypto usability whether online, offline or for mobile purposes through an easy to use payment method. Prepaid cards enable users to experience the free market platform via the Palace Token and provide an alternative payment currency capable of cross-border payments. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3d9ac8e7a9c9be11dfac1677dda901e28d44527f",
+    "url": "http://paatoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3d9ac8e7a9c9be11dfac1677dda901e28d44527f",
+        "https://ethplorer.io/address/0x3d9ac8e7a9c9be11dfac1677dda901e28d44527f"
+    ]
+}

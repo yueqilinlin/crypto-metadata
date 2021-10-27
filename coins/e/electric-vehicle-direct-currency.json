@@ -1,0 +1,23 @@
+{
+    "id": "electric-vehicle-direct-currency",
+    "symbol": "evdc",
+    "name": "Electric Vehicle Direct Currency",
+    "platforms": {
+        "binance-smart-chain": "0xc3b4c4ef3fe02ad91cb57efda593ed07a9278cc0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EVDC application is the world\u2019s first EV charging application that supports its own crypto token. EVDC app will directly connect to the charging stations and let users pay using the EVDC tokens.\r\nOne of the things we are proud of is the ability to let you charge at a station without a membership account. The algorithm we developed for this creates a guest account for you and then lets you use the particular Charging Station. This happens without the user needing to interfere. We\u2019re trying our best to make the process as smooth as possible for our users."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xc3b4c4ef3fe02ad91cb57efda593ed07a9278cc0",
+    "url": "https://evdc.network/",
+    "explorers": [
+        "https://bscscan.com/token/0xC3B4C4eF3fE02aD91cB57efda593ed07A9278cc0"
+    ],
+    "twitter": "EvdcT",
+    "telegram": "evdctokenchat",
+    "reddit": "EVDCTOKEN/"
+}

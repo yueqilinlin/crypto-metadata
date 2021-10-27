@@ -1,0 +1,23 @@
+{
+    "id": "npo-coin",
+    "symbol": "npo",
+    "name": "NPO Coin",
+    "platforms": {
+        "tron": "TXVNa2f3sxLykasb6VuyNyUuYk4MWCBduG"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NPO Coin is a token from the Tron network focused on philanthropic initiatives, such as global donations, to bring the much-desired social equality to the world through the facilitating power of technology. The name comes from the term \"Nonprofit Organization\" used to classify organizations that aim to benefit and help the collective."
+    },
+    "country_origin": "PA",
+    "genesis_date": null,
+    "contract_address": "TXVNa2f3sxLykasb6VuyNyUuYk4MWCBduG",
+    "url": "https://npocoin.com/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TXVNa2f3sxLykasb6VuyNyUuYk4MWCBduG"
+    ],
+    "twitter": "npocoinn",
+    "facebook": "NpoCoin-103433984939984",
+    "telegram": "npocoinn"
+}

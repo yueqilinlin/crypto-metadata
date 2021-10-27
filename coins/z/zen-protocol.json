@@ -1,0 +1,21 @@
+{
+    "id": "zen-protocol",
+    "symbol": "zp",
+    "name": "Zen Protocol",
+    "platforms": {},
+    "hashing_algorithm": "SHA-3",
+    "categories": [],
+    "description": {
+        "en": "Zen is a decentralized financial platform, built from scratch with the goal of providing people with a secure, scalable and useful infrastructure for creating their own financial instruments, and trading them directly without intermediaries.The Zen blockchain is secured by multiple proof-of-work algorithms, with token-holder voting on the balance between them. Multi-hash mining creates robust incentives for miners to deliver efficient, reliable security.Zen smart contracts are written and secured by a subset of the F* functional programming language, allowing users to: A) Prove the amount of resources a contract will consume and provide the necessary fees for running the contract to miners, removing the need for a \u201cgas\u201d based system.B) Prove their contracts meet a given specification, meaning they can prove the contract will definitely do (or not do) something given a specific set of parameters.The Zen platform comes with a built-in solution for oracles, which provide contracts with useful real world data.Finally, Zen is integrated with the Bitcoin blockchain, allowing contracts to observe and respond to native bitcoin transactions"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.zenprotocol.com/",
+    "explorers": [
+        "https://zp.io/"
+    ],
+    "twitter": "zen_protocol",
+    "facebook": "thezenprotocol",
+    "telegram": "zenprotocol",
+    "github_org": "zenprotocol"
+}

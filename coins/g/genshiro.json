@@ -1,0 +1,24 @@
+{
+    "id": "genshiro",
+    "symbol": "gens",
+    "name": "Genshiro",
+    "platforms": {
+        "binance-smart-chain": "0x2cd14cba3f26254beed1d78158cd2b6f91809600"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2cd14cba3f26254beed1d78158cd2b6f91809600",
+    "url": "https://genshiro.equilibrium.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x2CD14cbA3F26254beeD1d78158cd2B6F91809600"
+    ],
+    "twitter": "GenshiroDeFi",
+    "telegram": "equilibrium_eosdt_official",
+    "reddit": "Equilibrium_DeFi/",
+    "github_org": "equilibrium-eosdt"
+}

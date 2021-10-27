@@ -1,0 +1,26 @@
+{
+    "id": "aave-ren",
+    "symbol": "aren",
+    "name": "Aave REN",
+    "platforms": {
+        "ethereum": "0xcc12abe4ff81c9378d670de1b57f8e0dd228d77a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Aave REN is an interest bearing token minted upon deposit and burned when redeemed. The aREN is pegged 1:1 to the value of the underlying REN that is deposited in Aave protocol. aREN, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aREN accrue interest in real time, directly in your wallet!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcc12abe4ff81c9378d670de1b57f8e0dd228d77a",
+    "url": "https://aave.com/atokens",
+    "explorers": [
+        "https://etherscan.io/token/0xcc12abe4ff81c9378d670de1b57f8e0dd228d77a",
+        "https://ethplorer.io/address/0xcc12abe4ff81c9378d670de1b57f8e0dd228d77a"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome"
+}

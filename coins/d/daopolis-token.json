@@ -1,0 +1,23 @@
+{
+    "id": "daopolis-token",
+    "symbol": "daos",
+    "name": "Daopolis Token",
+    "platforms": {
+        "binance-smart-chain": "0x6b7ccd19b78f57efaa89e6291b8834831c2f539f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6b7ccd19b78f57efaa89e6291b8834831c2f539f",
+    "url": "https://cybertime.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x6b7Ccd19B78F57EFaa89e6291b8834831C2F539f"
+    ],
+    "twitter": "cybertime_eth",
+    "telegram": "cybertime_eth",
+    "github_org": "cybertime-eth"
+}

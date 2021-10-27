@@ -1,0 +1,25 @@
+{
+    "id": "egold",
+    "symbol": "egold",
+    "name": "eGold",
+    "platforms": {
+        "ethereum": "0x6025f65f6b2f93d8ed1efedc752acfd4bdbcec3e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "eGold is an Ethereum-based ERC-20 Token that's faster and cheaper currency than Bitcoin, Litecoin and other cryptocurrencies,  which makes it perfect for fast payments."
+    },
+    "country_origin": null,
+    "genesis_date": "2017-10-08",
+    "contract_address": "0x6025f65f6b2f93d8ed1efedc752acfd4bdbcec3e",
+    "url": "https://egoldtoken.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x6025f65f6b2f93d8ed1efedc752acfd4bdbcec3e",
+        "https://ethplorer.io/address/0x6025f65f6b2f93d8ed1efedc752acfd4bdbcec3e"
+    ],
+    "twitter": "eGoldToken",
+    "github_org": "e-goldcoin"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "zerogoki",
+    "symbol": "rei",
+    "name": "Zerogoki",
+    "platforms": {
+        "ethereum": "0x011864d37035439e078d64630777ec518138af05",
+        "binance-smart-chain": "0x765b85839717ebfc84378b83381a4814897a0506",
+        "polygon-pos": "0xb9f9e37c2cdbaff928c3da730b02f06fe09ae70e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Zerogoki is a leveraged synthetic asset minting platform based on algorithm-pegging model from duetprotocol"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x011864d37035439e078d64630777ec518138af05",
+    "url": "https://zerogoki.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x011864d37035439e078d64630777ec518138af05",
+        "https://ethplorer.io/address/0x011864d37035439e078d64630777ec518138af05",
+        "https://polygonscan.com/token/0xb9f9e37c2cdbaff928c3da730b02f06fe09ae70e",
+        "https://bscscan.com/token/0x765B85839717Ebfc84378b83381A4814897A0506"
+    ],
+    "twitter": "0Zerogoki",
+    "telegram": "zerogokigroup",
+    "github_org": "duet-protocol"
+}

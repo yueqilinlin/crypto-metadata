@@ -1,0 +1,22 @@
+{
+    "id": "babyegg",
+    "symbol": "BABYEGG",
+    "name": "BabyEgg",
+    "platforms": {
+        "binance-smart-chain": "0x5ca0690a587202ff7dcb0934e070061687eab941"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BabyEgg is a Passive Income Token integrating NFT and Game-Fi. Token holders receive FREE BNB in their wallets automatically every 30mins."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5ca0690a587202ff7dcb0934e070061687eab941",
+    "url": "https://www.babyegg.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x5ca0690a587202ff7dcb0934e070061687eab941"
+    ],
+    "twitter": "babyeggofficial",
+    "telegram": "babyeggofficial"
+}

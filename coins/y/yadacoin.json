@@ -1,0 +1,20 @@
+{
+    "id": "yadacoin",
+    "symbol": "yda",
+    "name": "YadaCoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YadaCoin is an open source currency, payment network, and blockchain enabling access to your identity and relationships across devices and platforms."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://yadacoin.io",
+    "explorers": [
+        "https://yadacoin.io/explorer"
+    ],
+    "twitter": "yadablockchain",
+    "reddit": "yadacoin/",
+    "github_org": "pdxwebdev"
+}

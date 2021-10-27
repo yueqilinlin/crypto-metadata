@@ -1,0 +1,24 @@
+{
+    "id": "mercurity-finance",
+    "symbol": "mee",
+    "name": "Mercurity Finance",
+    "platforms": {
+        "ethereum": "0xe1b583dc66e0a24fd9af2dc665f6f5e48978e106"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mercurity.finance is an open DeFi platform powered by swap. Reuse LP tokens across different protocols to maximize yield."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe1b583dc66e0a24fd9af2dc665f6f5e48978e106",
+    "url": "https://www.mercurity.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xe1b583dc66e0a24fd9af2dc665f6f5e48978e106",
+        "https://ethplorer.io/address/0xe1b583dc66e0a24fd9af2dc665f6f5e48978e106"
+    ],
+    "twitter": "MercurityDefi",
+    "telegram": "mercurityfinance",
+    "github_org": "MER-DAO"
+}

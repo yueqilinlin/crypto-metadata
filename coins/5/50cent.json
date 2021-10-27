@@ -1,0 +1,25 @@
+{
+    "id": "50cent",
+    "symbol": "50c",
+    "name": "50Cent",
+    "platforms": {
+        "polygon-pos": "0x0102bbfddffbd8d28d3a1b9c47017f62f42768f2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "The main difference of 50C compared to other stablecoins is that instead of pegging to a dollar, 50C strives for half of that, being pegged to 50 cents. With the market volatility making waves on the price. 50C total supply will be adjusted accordingly every 6 hrs, through either increasing, halting or decreasing by an appropriate amount to keep the price at where it should be."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x0102bbfddffbd8d28d3a1b9c47017f62f42768f2",
+    "url": "https://50cent.network/",
+    "explorers": [
+        "https://polygonscan.com/token/0x0102bbfddffbd8d28d3a1b9c47017f62f42768f2"
+    ],
+    "github_org": "50centnetwork"
+}

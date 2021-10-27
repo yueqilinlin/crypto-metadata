@@ -1,0 +1,23 @@
+{
+    "id": "cryptozoo",
+    "symbol": "zoo",
+    "name": "CryptoZoo",
+    "platforms": {
+        "binance-smart-chain": "0x7ffc1243232da3ac001994208e2002816b57c669"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An autonomous ecosystem where ZOO owners breed, collect and trade exotic hybrid animals via NFTs!\r\n\r\nThe team consists of experts from across the field including Logan Paul, an NFT and Pokemon obsessive."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x7ffc1243232da3ac001994208e2002816b57c669",
+    "url": "https://cryptozoo.co/",
+    "explorers": [
+        "https://bscscan.com/token/0x7ffc1243232da3ac001994208e2002816b57c669"
+    ],
+    "twitter": "cryptozooco",
+    "telegram": "CryptoZooTelegram",
+    "reddit": "cryptozooco"
+}

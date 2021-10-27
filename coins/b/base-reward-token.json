@@ -1,0 +1,22 @@
+{
+    "id": "base-reward-token",
+    "symbol": "brt",
+    "name": "Base Reward Token",
+    "platforms": {
+        "binance-smart-chain": "0x0d499b25bce7aa72bb6c50e434e2ed26fe1e785d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Base reward token is a decentralized finance token that rewards its holders 60% of ecosystem as liquidity. Base Reward Token aims at reinventing the way customers get rewarded for their loyalty by earning BRT tokens on every transaction done within any of our services, and token holders get rewarded for Holding token by staking their tokens to mint more tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0d499b25bce7aa72bb6c50e434e2ed26fe1e785d",
+    "url": "https://basereward.online/",
+    "explorers": [
+        "https://bscscan.com/token/0x0d499b25bce7aa72bb6c50e434e2ed26fe1e785d"
+    ],
+    "twitter": "baserewardtoken",
+    "telegram": "BASEREWARDOFFICIAL"
+}

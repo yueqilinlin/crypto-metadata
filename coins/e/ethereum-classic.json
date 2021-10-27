@@ -1,0 +1,27 @@
+{
+    "id": "ethereum-classic",
+    "symbol": "etc",
+    "name": "Ethereum Classic",
+    "platforms": {},
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Ethereum Classic is a decentralized platform that runs <a href=\"https://www.coingecko.com/en?category_id=29\">smart contracts</a>: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.\r\nEthereum Classic is a continuation of the original <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain - the classic version preserving untampered history; free from external interference and subjective tampering of transactions.\r\n\r\n\r\nTransaction Finality\r\n\r\nEthereum Classic believes the core value proposition of any blockchain is immutability; valid transactions can never be erased or forgotten. Individuals interacting on Ethereum Classic are governed by this reality; \r\n\r\nCode is Law. This does not necessarily mean that code replaces existing laws, or that only code is law (there are many geographical jurisdictions), but it gives users the opportunity to enter into a new blockchain-based jurisdiction where agreements are governed by code.\r\n\r\nBy entering into contracts on Ethereum Classic, you can be certain that the network remains neutral. The outcome of transactions will be dictated by code you voluntarily interact with. Unless explicitly defined by the contract code, there are no reversals, no undos, no opt-outs.\r\n\r\nTransactions are final; applications are unstoppable.\r\n\r\n\r\nDecentralized Governance\r\n\r\nThere are many problems that fester due to centralization and opaqueness; corruption, unaccountability, nepotism, inefficiency and stagnation. Ultimately, centralization leads to fragility; only decentralized systems can stand the test of time.\r\n\r\nThese problems can be only solved by adhering to governance systems that do not rely on a central point of failure. Just like distributed networks and the consensus protocol itself, we believe that only truly decentralized projects can survive in the long run.\r\n\r\nEthereum Classic manifests these values by relinquishing control by a formalized central foundation. The only hierarchy is that of transparent meritocracy and mutual reputation. No backroom deals or behind-closed-doors unilateral decision making; just free and open discourse.\r\n"
+    },
+    "country_origin": "CH",
+    "genesis_date": "2015-07-30",
+    "url": "http://ethereumclassic.org",
+    "explorers": [
+        "https://blockscout.com/etc/mainnet",
+        "https://etc.tokenview.com/",
+        "https://expedition.dev/?network=mainnet",
+        "https://ethereumclassic.org/development/network-resources"
+    ],
+    "twitter": "eth_classic",
+    "facebook": "ethereumclassic",
+    "telegram": "ethclassic",
+    "reddit": "EthereumClassic",
+    "github_org": "ethereumclassic"
+}

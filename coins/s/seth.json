@@ -1,0 +1,28 @@
+{
+    "id": "seth",
+    "symbol": "seth",
+    "name": "sETH",
+    "platforms": {
+        "ethereum": "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
+        "optimistic-ethereum": "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synths",
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Synth sETH by Synthetix\r\nTracks the price of Ether through price feeds supplied by an oracle."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
+    "url": "https://www.synthetix.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
+        "https://ethplorer.io/address/0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb"
+    ],
+    "twitter": "synthetix_io",
+    "reddit": "synthetix_io"
+}

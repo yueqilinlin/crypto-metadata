@@ -1,0 +1,25 @@
+{
+    "id": "dogswap-token",
+    "symbol": "dog",
+    "name": "Dogeswap Token (HECO)",
+    "platforms": {
+        "huobi-token": "0x099626783842d35c221e5d01694c2b928eb3b0ad"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "HECO Chain Ecosystem"
+    ],
+    "description": {
+        "en": "DogeSwap is a DEX built on Huobi Eco Chain. It helps with new digital assets' growth and market liquidity. Through automated algorithmic rules, DogeSwap selects projects that are qualified to set up liquidity pool and single token pool, and achieve 100% decentralization. \r\n\r\nDogeSwap is now working on Cross-Chain Swap and setting up Board members as well as governance mechanisms. "
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x099626783842d35c221e5d01694c2b928eb3b0ad",
+    "url": "https://dogeswap.com/#/homepage",
+    "explorers": [
+        "https://hecoinfo.com/token/0x099626783842d35c221e5d01694c2b928eb3b0ad"
+    ],
+    "twitter": "DogeSwap_fans",
+    "telegram": "dogeswap_en",
+    "github_org": "Dogeswap-Fans"
+}

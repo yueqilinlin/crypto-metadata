@@ -1,0 +1,22 @@
+{
+    "id": "blink",
+    "symbol": "blk",
+    "name": "BLink",
+    "platforms": {
+        "binance-smart-chain": "0x63870a18b6e42b01ef1ad8a2302ef50b7132054f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BLINk is a partnership between WINk and Binance community. Together we\u2019ve created a brand new gaming platform running entirely on the Binance Smart Chain."
+    },
+    "country_origin": "CR",
+    "genesis_date": null,
+    "contract_address": "0x63870a18b6e42b01ef1ad8a2302ef50b7132054f",
+    "url": "https://blink.wink.org/",
+    "explorers": [
+        "http://bscscan.com/token/0x63870a18b6e42b01ef1ad8a2302ef50b7132054f",
+        "https://bscscan.com/token/0x63870a18b6e42b01ef1ad8a2302ef50b7132054f"
+    ],
+    "telegram": "blinkwinkorg"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "uniwhales",
+    "symbol": "uwl",
+    "name": "UniWhales",
+    "platforms": {
+        "ethereum": "0xdbdd6f355a37b94e6c7d32fef548e98a280b8df5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Analytics"
+    ],
+    "description": {
+        "en": "A tool to track and analyze large volume transactions, traders, and activity on Uniswap."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdbdd6f355a37b94e6c7d32fef548e98a280b8df5",
+    "url": "https://uniwhales.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xdbDD6F355A37b94e6C7D32fef548e98A280B8Df5",
+        "https://ethplorer.io/address/0xdbdd6f355a37b94e6c7d32fef548e98a280b8df5"
+    ],
+    "twitter": "uniwhalesio",
+    "telegram": "uniwhales"
+}

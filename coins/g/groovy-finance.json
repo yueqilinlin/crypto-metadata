@@ -1,0 +1,23 @@
+{
+    "id": "groovy-finance",
+    "symbol": "gvy",
+    "name": "Groovy Finance",
+    "platforms": {
+        "ethereum": "0x31be30217989766215672e88ed449913e05bf0f5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A gateway for NFTs redeemable as vinyl records."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x31be30217989766215672e88ed449913e05bf0f5",
+    "url": "https://groovy.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x31be30217989766215672e88ed449913e05bf0f5",
+        "https://ethplorer.io/address/0x31be30217989766215672e88ed449913e05bf0f5"
+    ],
+    "twitter": "financegroovy",
+    "telegram": "groovyfinancechat"
+}

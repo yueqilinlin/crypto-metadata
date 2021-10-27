@@ -1,0 +1,21 @@
+{
+    "id": "safemars",
+    "symbol": "safemars",
+    "name": "Safemars",
+    "platforms": {
+        "binance-smart-chain": "0x3ad9594151886ce8538c1ff615efa2385a8c3a88"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SAFEMARS is a yield and liquidity generation protocol. It taxes transactions and distributes 2% to holders and locks 2% to liquidity."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x3ad9594151886ce8538c1ff615efa2385a8c3a88",
+    "url": "https://www.safemarscrypto.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x3ad9594151886ce8538c1ff615efa2385a8c3a88"
+    ],
+    "telegram": "safemars"
+}

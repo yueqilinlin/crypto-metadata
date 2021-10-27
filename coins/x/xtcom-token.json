@@ -1,0 +1,22 @@
+{
+    "id": "xtcom-token",
+    "symbol": "xt",
+    "name": "XT.com Token",
+    "platforms": {
+        "ethereum": "0x4be10da47a07716af28ad199fbe020501bddd7af"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XT is XT.COM platform point based on ERC20 standard of Ethereum block chain, which bears community rights and interests, circulation attribute and value attribute."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4be10da47a07716af28ad199fbe020501bddd7af",
+    "url": "https://www.xt.com",
+    "explorers": [
+        "https://etherscan.io/token/0x4be10da47a07716af28ad199fbe020501bddd7af",
+        "https://ethplorer.io/address/0x4be10da47a07716af28ad199fbe020501bddd7af"
+    ],
+    "telegram": "XtChinsesGroupA"
+}

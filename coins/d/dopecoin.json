@@ -1,0 +1,22 @@
+{
+    "id": "dopecoin",
+    "symbol": "dope",
+    "name": "DopeCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2014-02-14",
+    "url": "http://www.dopecoin.com",
+    "explorers": [
+        "https://blockexperts.com/dope"
+    ],
+    "twitter": "dopecoins",
+    "facebook": "dopecoin",
+    "telegram": "dopecoin",
+    "reddit": "DopeCoin",
+    "github_org": "dopecoin-dev"
+}

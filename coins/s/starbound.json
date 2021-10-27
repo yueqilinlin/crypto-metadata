@@ -1,0 +1,24 @@
+{
+    "id": "starbound",
+    "symbol": "sbd",
+    "name": "Starbound",
+    "platforms": {
+        "binance-smart-chain": "0x3bf7e66b905bf2aaa08c45f0bdab0c4b26c36d4a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Starbound is the first DeFi ETF Exchange on BSC and first premier launchpad that rewards its holders in the launchpad tokens!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3bf7e66b905bf2aaa08c45f0bdab0c4b26c36d4a",
+    "url": "https://www.starboundfinance.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x3bf7e66b905bf2aaa08c45f0bdab0c4b26c36d4a"
+    ],
+    "twitter": "starboundfin",
+    "telegram": "StarboundOfficial",
+    "reddit": "StarboundOfficial/",
+    "github_org": "starboundfinance"
+}

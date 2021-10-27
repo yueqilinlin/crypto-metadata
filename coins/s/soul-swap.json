@@ -1,0 +1,23 @@
+{
+    "id": "soul-swap",
+    "symbol": "soul",
+    "name": "Soul Swap",
+    "platforms": {
+        "fantom": "0xe2fb177009ff39f52c0134e8007fa0e4baacbd07"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Soul is an algorithmic, cross-chain AMM and P2P lending protocol (on Fantom) built for traders, investors, developers, and visionaries seeking to unlock a universe of open financial applications."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe2fb177009ff39f52c0134e8007fa0e4baacbd07",
+    "url": "https://soul.sh/swap",
+    "explorers": [
+        "https://ftmscan.com/token/0xe2fb177009ff39f52c0134e8007fa0e4baacbd07"
+    ],
+    "twitter": "SoulSwapFinance",
+    "telegram": "SoulSwapDeFi",
+    "github_org": "SoulSwapFinance"
+}

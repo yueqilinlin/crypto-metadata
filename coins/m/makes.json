@@ -1,0 +1,25 @@
+{
+    "id": "makes",
+    "symbol": "mks",
+    "name": "Makes",
+    "platforms": {
+        "ethereum": "0xcff20ce22e71ecf2ea89c86ecbd4a3cf513768c7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MAKES is the native token fueling the CoinMargin.com crypto exchange."
+    },
+    "country_origin": "MY",
+    "genesis_date": null,
+    "contract_address": "0xcff20ce22e71ecf2ea89c86ecbd4a3cf513768c7",
+    "url": "https://coinmakes.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xcff20ce22e71ecf2ea89c86ecbd4a3cf513768c7",
+        "https://ethplorer.io/address/0xcff20ce22e71ecf2ea89c86ecbd4a3cf513768c7"
+    ],
+    "twitter": "coinmakes",
+    "facebook": "makescoin",
+    "telegram": "CoinMakes",
+    "reddit": "CoinMakes_MKS"
+}

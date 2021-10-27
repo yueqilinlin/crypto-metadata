@@ -1,0 +1,23 @@
+{
+    "id": "istardust",
+    "symbol": "isdt",
+    "name": "Istardust",
+    "platforms": {
+        "ethereum": "0xf2354f740f31704820f6fcfba70b9da065459b62"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0xf2354f740f31704820f6fcfba70b9da065459b62",
+    "url": "https://istardust.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xf2354F740f31704820f6FcfBA70B9dA065459b62",
+        "https://ethplorer.io/address/0xf2354f740f31704820f6fcfba70b9da065459b62"
+    ],
+    "telegram": "istardust_global",
+    "github_org": "IStardust-io"
+}

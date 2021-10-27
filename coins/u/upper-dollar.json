@@ -1,0 +1,23 @@
+{
+    "id": "upper-dollar",
+    "symbol": "usdu",
+    "name": "Upper Dollar",
+    "platforms": {
+        "ethereum": "0x41a03e41ef555392c9f0ad60f4f61e263078bf10"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Upper Token backed by Dollar - 100 million tokens from USDU (UPPER Dollar) - Stablecoin. "
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x41a03e41ef555392c9f0ad60f4f61e263078bf10",
+    "url": "https://uppers.io",
+    "explorers": [
+        "https://etherscan.io/token/0x41a03e41ef555392c9f0ad60f4f61e263078bf10",
+        "https://ethplorer.io/address/0x41a03e41ef555392c9f0ad60f4f61e263078bf10"
+    ],
+    "facebook": "Upper-Software-106093467886091",
+    "telegram": "uppersoftware"
+}

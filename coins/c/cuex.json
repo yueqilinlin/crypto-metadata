@@ -1,0 +1,22 @@
+{
+    "id": "cuex",
+    "symbol": "cuex",
+    "name": "Cuex",
+    "platforms": {
+        "binance-smart-chain": "0x899369213fa897a0611417c7abf413e464b10114"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CUEX is a taxed token (10%) in the CUE ecosystem that features an automatic market maker, providing liquidity to CUEX & CUE tokens via the tax. \r\n\r\nIn addition, it rewards the holders with both CUEX and CUE tokens through automated staking and buyback. Just hold CUEX in your wallet!\r\n\r\nIt also comes with the staking dapp (DeFi) where you can stake CUEX with CUE and other tokens and earn incredible rewards.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x899369213fa897a0611417c7abf413e464b10114",
+    "url": "https://cuex.cuep.io",
+    "explorers": [
+        "https://bscscan.com/token/0x899369213fa897a0611417c7abf413e464b10114"
+    ],
+    "twitter": "cueprotocol",
+    "telegram": "cueprotolchat"
+}

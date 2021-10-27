@@ -1,0 +1,23 @@
+{
+    "id": "helios-cash",
+    "symbol": "heo",
+    "name": "Helios Cash",
+    "platforms": {
+        "polygon-pos": "0x03aa5daf9fd5f7f33c67afbcd53c1c1e87c4c9f7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Helios Cash is a yield farming aggregator running on Polygon Chain (MATIC)\r\nThe DApp (Decentralised Application) was designed with the purpose of optimising DeFi (Decentralised Finance) users yields as they interact with the other DApps in the DeFi space."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x03aa5daf9fd5f7f33c67afbcd53c1c1e87c4c9f7",
+    "url": "https://www.helios.cash/",
+    "explorers": [
+        "https://polygonscan.com/token/0x03aa5daf9fd5f7f33c67afbcd53c1c1e87c4c9f7"
+    ],
+    "twitter": "helioscash",
+    "telegram": "HeliosCashOfficial",
+    "github_org": "helioscash"
+}

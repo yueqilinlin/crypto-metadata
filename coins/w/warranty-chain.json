@@ -1,0 +1,21 @@
+{
+    "id": "warranty-chain",
+    "symbol": "wac",
+    "name": "Warranty Chain",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "The Warranty Chain (WAC) project has a goal of implementing easy recording of warranty documents and service tags to blockchain \u2013 for the convenience of the users \u2013 and then persuading manufacturers and service companies to acknowledge this format of warranty related data.\r\n\r\nThe first stage of WAC project will be the creation of the possibility for anyone to upload a scan or other digital image of a product warranty to the blockchain.\r\n\r\nThe second stage of development will include the development of a convenient wallet with a database of your purchases, serial numbers, warranty documents and service tags.\r\n\r\nOn the third stage of project development our team will be communicating with vendors and service centers, trying to convince them to make blockchain recorded warranty documents and service tags official. Surely it won\u2019t be easy, but as cryptocurrencies and blockchain technologies are slowly but gradually becoming a part of everyday life, we believe that progress will be made. Ideally, for each product you will be able to obtain a QR code that could be scanned from the screen of your smartphone at a service center accepting Warranty Chain integration \u2013 or a specific digital key you could use in correspondence with the vendor or service center \u2013 without the need to ever keep a bunch of paper documents, systemize and search for them all around your place."
+    },
+    "country_origin": "AR",
+    "genesis_date": null,
+    "url": "https://warrantychain.info/",
+    "explorers": [
+        "https://explorer.warrantychain.info/"
+    ],
+    "twitter": "WarrantyChain",
+    "github_org": "WarrantyChain"
+}

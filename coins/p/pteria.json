@@ -1,0 +1,25 @@
+{
+    "id": "pteria",
+    "symbol": "pteria",
+    "name": "Pteria",
+    "platforms": {
+        "ethereum": "0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b",
+    "url": "https://pteria.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b",
+        "https://ethplorer.io/address/0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b"
+    ],
+    "twitter": "pteriaDAO",
+    "telegram": "pteria"
+}

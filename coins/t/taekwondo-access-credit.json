@@ -1,0 +1,22 @@
+{
+    "id": "taekwondo-access-credit",
+    "symbol": "tac",
+    "name": "Taekwondo Access Credit",
+    "platforms": {
+        "ethereum": "0xdeeb6091a5adc78fa0332bee5a38a8908b6b566e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TAC is a utility token developed for global Taekwondo athletes, school-owners / students and fans as its main users and Taekwondo Cooperative (\"TKD Coop\") is the autonomous association of which our token users can become members to participate in the governance and business activities of the organization. And \"Taction\" is the application which our users can use our token. On Taction, users would buy TAC from exchanges and use it to pay for various co-op activities such as sparrings (after which they earn token), tournament events (athletes compete to earn prize money in token), membership fees for their dojangs (Taekwondo schools), renting dojang facilities on weekends / holidays for amateur sporting events. First TKD Coop was established in Korea in 2018, and as of April 2021, we are in process of establishing U.S. TKD Coop as our second national co-op."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xdeeb6091a5adc78fa0332bee5a38a8908b6b566e",
+    "url": "https://www.tkd-coop.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xdeeb6091a5adc78fa0332bee5a38a8908b6b566e",
+        "https://ethplorer.io/address/0xdeeb6091a5adc78fa0332bee5a38a8908b6b566e"
+    ],
+    "github_org": "tkdcoop"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "nftmart-token",
+    "symbol": "nmt",
+    "name": "NFTMart Token",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NFTMart is a marketplace for NFTs which is based on blockchain. It is the first fractional trading NFTs marketplace in the Polkadot ecosystem, with its own public blockchain. And we committed to be the most professional NFT decentralised trading market."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd81b71cbb89b2800cdb000aa277dc1491dc923c3",
+    "url": "https://www.nftmart.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xd81b71cbb89b2800cdb000aa277dc1491dc923c3",
+        "https://ethplorer.io/address/0xd81b71cbb89b2800cdb000aa277dc1491dc923c3"
+    ],
+    "twitter": "NFTmartio",
+    "telegram": "NFTmart",
+    "github_org": "NFTT-studio"
+}

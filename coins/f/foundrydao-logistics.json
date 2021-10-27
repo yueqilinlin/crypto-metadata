@@ -1,0 +1,25 @@
+{
+    "id": "foundrydao-logistics",
+    "symbol": "fry",
+    "name": "FoundryDAO Logistics",
+    "platforms": {
+        "ethereum": "0x6c972b70c533e2e045f333ee28b9ffb8d717be69",
+        "fantom": "0x332730a4f6e03d9c55829435f10360e13cfa41ff"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Foundry: A DAO for Economic Freedom"
+    },
+    "country_origin": "GE",
+    "genesis_date": null,
+    "contract_address": "0x6c972b70c533e2e045f333ee28b9ffb8d717be69",
+    "url": "https://foundrydao.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6c972b70c533e2e045f333ee28b9ffb8d717be69",
+        "https://ethplorer.io/address/0x6c972b70c533e2e045f333ee28b9ffb8d717be69"
+    ],
+    "twitter": "foundrydao",
+    "telegram": "foundrycommunity",
+    "github_org": "team-toast"
+}

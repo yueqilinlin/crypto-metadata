@@ -1,0 +1,27 @@
+{
+    "id": "13114-glenfield",
+    "symbol": "realtoken-s-13114-glenfield-ave-detroit-mi",
+    "name": "RealT Token - 13114 Glenfield Ave, Detroit, MI 48213",
+    "platforms": {
+        "ethereum": "0x9f923653a19537b5a1b003854a1920fe67a8ffeb",
+        "xdai": "0x9f923653a19537b5a1b003854a1920fe67a8ffeb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9f923653a19537b5a1b003854a1920fe67a8ffeb",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x9F923653A19537b5a1b003854A1920fe67a8ffEB",
+        "https://ethplorer.io/address/0x9f923653a19537b5a1b003854a1920fe67a8ffeb"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "ombre",
+    "symbol": "omb",
+    "name": "Ombre",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [],
+    "description": {
+        "en": "Ombre is a cryptonote currency with solid strong security, privacy and untraceability features. Our mission is to enhance the cryptonote protocol to provide a fast, secure and user friendly coin.\r\n\r\nFast transactions - A 60 second block time increases transaction speed, without comprimising security.\r\nHigh level of privacy - An enforced ring-mixin size of 10 ensures safety from blockchain analysis.\r\nTransparent funding - An innovative developer funding system is build in the blockchain and ensures long-term active development without requiring trust from the community.\r\n\r\nWe do not have a premine. Instead we have a project development reward that causes coins to unlock with every block that is found. The algorithm will start with unlocking 6% of the block reward but gradually reduces to 0% in the next 10 years. In total a maximum of 2% of the total coin supply will be unlocked for development."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.ombre.io/",
+    "explorers": [
+        "https://explorer.ombre.io/"
+    ],
+    "reddit": "ombrecoin/",
+    "github_org": "ombre-projects"
+}

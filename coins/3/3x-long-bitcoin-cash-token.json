@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-bitcoin-cash-token",
+    "symbol": "bchbull",
+    "name": "3X Long Bitcoin Cash Token",
+    "platforms": {
+        "ethereum": "0x4c133e081dfb5858e39cca74e69bf603d409e57a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Bitcoin Cash Token (BCHBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Bitcoin Cash."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4c133e081dfb5858e39cca74e69bf603d409e57a",
+    "url": "https://ftx.com/tokens/BCHBULL",
+    "explorers": [
+        "https://etherscan.io/token/0x4c133e081dfb5858e39cca74e69bf603d409e57a",
+        "https://ethplorer.io/address/0x4c133e081dfb5858e39cca74e69bf603d409e57a"
+    ]
+}

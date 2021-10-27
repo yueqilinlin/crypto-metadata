@@ -1,0 +1,23 @@
+{
+    "id": "darkbundles",
+    "symbol": "dbund",
+    "name": "DarkBundles",
+    "platforms": {
+        "ethereum": "0xc6d19a604fbdb5c2eeb363255fd63c9eea29288e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Prediction based Staking platform with rewards from transaction fess"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xc6d19a604fbdb5c2eeb363255fd63c9eea29288e",
+    "url": "https://www.darkbundles.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xc6d19a604fbdb5c2eeb363255fd63c9eea29288e",
+        "https://ethplorer.io/address/0xc6d19a604fbdb5c2eeb363255fd63c9eea29288e"
+    ],
+    "twitter": "dark_bundles",
+    "telegram": "DarkBundlesChat"
+}

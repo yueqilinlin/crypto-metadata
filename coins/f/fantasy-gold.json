@@ -1,0 +1,23 @@
+{
+    "id": "fantasy-gold",
+    "symbol": "fgc",
+    "name": "Fantasy Gold",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Sports"
+    ],
+    "description": {
+        "en": "Fantasy Gold is built for the $7 Billion Fantasy Sports Industry and the $1.5 Billion Esports Industry"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://fantasygold.io",
+    "explorers": [
+        "http://fantasygold.network"
+    ],
+    "twitter": "fantasygoldcoin",
+    "facebook": "FantasyGoldCoin",
+    "reddit": "fantasygoldcoin/",
+    "github_org": "FantasyGold"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "dawn-protocol",
+    "symbol": "dawn",
+    "name": "Dawn Protocol",
+    "platforms": {
+        "ethereum": "0x580c8520deda0a441522aeae0f9f7a5f29629afa"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem"
+    ],
+    "description": {
+        "en": "Dawn is an open-source protocol for gaming and competitions.\r\n\r\nIts mission is to enable a fair, open and rewarding gaming ecosystem no matter what country or background users are from. Anyone whether you are a player, business or influencer can run competitions and earn cryptocurrencies on video games using Dawn. Game developers can integrate the open protocol in their games to allow gamers to compete.\r\n\r\nIf you participated in FirstBlood 2016 Crowdsale, you need to claim DAWN with your existing token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x580c8520deda0a441522aeae0f9f7a5f29629afa",
+    "url": "https://dawn.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x580c8520deda0a441522aeae0f9f7a5f29629afa",
+        "https://ethplorer.io/address/0x580c8520deda0a441522aeae0f9f7a5f29629afa"
+    ],
+    "twitter": "DawnProtocol",
+    "facebook": "dawnprotocol",
+    "telegram": "dawnprotocol",
+    "github_org": "Dawn-Protocol"
+}

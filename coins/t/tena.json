@@ -1,0 +1,25 @@
+{
+    "id": "tena",
+    "symbol": "tena",
+    "name": "TENA",
+    "platforms": {
+        "ethereum": "0xe14a603f7c77d4101a87859b8736a04cfd85c688"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "TENA is a payment protocol that pays in fiat currency and both the affiliate and customer are compensated with TENA coins. Payment mining expands people's use of payment as well as facilitating payment behavior. As the number of payment participants increases, TENA prices also become more stable, proving their value as money."
+    },
+    "country_origin": "SG",
+    "genesis_date": "2018-10-24",
+    "contract_address": "0xe14a603f7c77d4101a87859b8736a04cfd85c688",
+    "url": "https://tenaprotocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xE14A603f7c77d4101A87859b8736a04CFD85C688",
+        "https://ethplorer.io/address/0xe14a603f7c77d4101a87859b8736a04cfd85c688"
+    ],
+    "twitter": "tenaprotocol",
+    "facebook": "Tenaprotocol",
+    "telegram": "tenaprotocol_en",
+    "github_org": "tenaprotocol"
+}

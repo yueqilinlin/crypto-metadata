@@ -1,0 +1,24 @@
+{
+    "id": "strudel-finance",
+    "symbol": "trdl",
+    "name": "Strudel Finance",
+    "platforms": {
+        "ethereum": "0x297d33e17e61c2ddd812389c2105193f8348188a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Strudel is the first one-way, trustless bridge linking Bitcoin and Ethereum.\r\n\r\nThe bravest explorers that arrive on the other side will get extra $TRDL rewards.\r\n\r\nYou can only enter the Strudel from one direction so be aware! This action is irreversible."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x297d33e17e61c2ddd812389c2105193f8348188a",
+    "url": "https://strudel.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x297d33e17e61c2ddd812389c2105193f8348188a",
+        "https://ethplorer.io/address/0x297d33e17e61c2ddd812389c2105193f8348188a"
+    ],
+    "twitter": "EnterTheStrudel",
+    "telegram": "StrudelFinanceOfficial",
+    "github_org": "strudel-finance"
+}

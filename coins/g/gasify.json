@@ -1,0 +1,23 @@
+{
+    "id": "gasify",
+    "symbol": "gsfy",
+    "name": "Gasify",
+    "platforms": {
+        "ethereum": "0x02f3a1819851d127bcd6f468253d7a498567eee0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gasify is a Gas Farming aggregator that helps users maximize and multiply their returns from gas farming platforms."
+    },
+    "country_origin": "ZZ",
+    "genesis_date": null,
+    "contract_address": "0x02f3a1819851d127bcd6f468253d7a498567eee0",
+    "url": "https://gasify.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x02f3a1819851d127bcd6f468253d7a498567eee0",
+        "https://ethplorer.io/address/0x02f3a1819851d127bcd6f468253d7a498567eee0"
+    ],
+    "twitter": "gasifyio",
+    "telegram": "gasifyio"
+}

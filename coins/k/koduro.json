@@ -1,0 +1,22 @@
+{
+    "id": "koduro",
+    "symbol": "koduro",
+    "name": "Koduro",
+    "platforms": {
+        "binance-smart-chain": "0x26a4f25a411ef867972633e5fa410031d6346285"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Enabling clean energy through the blockchain.\r\n\r\nKoduro is an autonomous liquidity generation protocol with static farming that reinvests back into clean energy projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x26a4f25a411ef867972633e5fa410031d6346285",
+    "url": "https://www.koduro.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x26A4F25A411eF867972633E5FA410031D6346285"
+    ],
+    "twitter": "KoduroFi",
+    "telegram": "kodurofiv1"
+}

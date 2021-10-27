@@ -1,0 +1,22 @@
+{
+    "id": "babycare",
+    "symbol": "babycare",
+    "name": "BabyCare",
+    "platforms": {
+        "binance-smart-chain": "0x988300f65191c3a52ef59dbb5539c01b502787a9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We reward our holders on CAKE and Cardano, we help those in need for food clean water and shelter, some basics that we think every single human needs to have already did 2 donations on food and water in Cambodia."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x988300f65191c3a52ef59dbb5539c01b502787a9",
+    "url": "https://babycare.to/",
+    "explorers": [
+        "https://bscscan.com/token/0x988300f65191C3a52Ef59DBB5539C01b502787a9"
+    ],
+    "twitter": "babycarebsc",
+    "telegram": "babycarebsc"
+}

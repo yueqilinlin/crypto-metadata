@@ -1,0 +1,26 @@
+{
+    "id": "signaturechain",
+    "symbol": "sign",
+    "name": "SignatureChain",
+    "platforms": {
+        "waves": "9sQutD5HnRvjM1uui5cVC4w9xkMPAfYEV8ymug3Mon2Y"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Blockchain technology to ensure the existence, integrity and authenticity of electronic documents."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "9sQutD5HnRvjM1uui5cVC4w9xkMPAfYEV8ymug3Mon2Y",
+    "url": "https://www.signature-chain.com/",
+    "explorers": [
+        "https://wavesexplorer.com/assets/9sQutD5HnRvjM1uui5cVC4w9xkMPAfYEV8ymug3Mon2Y"
+    ],
+    "twitter": "SignatureChain",
+    "telegram": "SICA_official",
+    "reddit": "SignatureChain",
+    "github_org": "sicadev"
+}

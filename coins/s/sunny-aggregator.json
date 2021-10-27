@@ -1,0 +1,25 @@
+{
+    "id": "sunny-aggregator",
+    "symbol": "sunny",
+    "name": "Sunny Aggregator",
+    "platforms": {
+        "solana": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "Sunny is a composable DeFi yield aggregator powered by Solana. The Sunny Protocol is designed with composability as a core feature, enabling other applications and protocols to easily build on top of it. One such composability mechanism is Sunny\u2019s agTokens. The concept is similar to Yearn Finance\u2019s yTokens. When a user deposits money into a Sunny pool, they receive agTokens that represent a pro-rata share of that pool which will grow over time.\r\n\r\nThe Sunny Aggregator protocol is a decentralized protocol governed by the Sunny DAO. The Sunny Governance Token (\u201cSUNNY\u201d) will be used to make decisions about the future of the protocol. The Sunny Aggregator protocol is owned and governed by the DAO; the community decides what to do with the Sunny DAO money in a democratized way."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
+    "url": "https://sunny.ag",
+    "explorers": [
+        "https://solscan.io/token/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag"
+    ],
+    "twitter": "SunnyAggregator",
+    "reddit": "SunnyAggregator/",
+    "github_org": "SunnyAggregator"
+}

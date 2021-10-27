@@ -1,0 +1,22 @@
+{
+    "id": "firestarter",
+    "symbol": "flame",
+    "name": "FireStarter",
+    "platforms": {
+        "polygon-pos": "0x22e3f02f86bc8ea0d73718a2ae8851854e62adc5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An IDO Launchpad powered by Polygon and Arbitrum"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x22e3f02f86bc8ea0d73718a2ae8851854e62adc5",
+    "url": "https://firestarter.fi/",
+    "explorers": [
+        "https://polygonscan.com/token/0x22e3f02f86bc8ea0d73718a2ae8851854e62adc5"
+    ],
+    "twitter": "firestarter_fi",
+    "telegram": "Firestarter_finance"
+}

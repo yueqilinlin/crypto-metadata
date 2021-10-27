@@ -1,0 +1,24 @@
+{
+    "id": "tmc-niftygotchi",
+    "symbol": "tmc",
+    "name": "TMC NiftyGotchi",
+    "platforms": {
+        "ethereum": "0xe13559cf6edf84bd04bf679e251f285000b9305e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Currency coin for the NiFTygotchi universe"
+    },
+    "country_origin": "MY",
+    "genesis_date": null,
+    "contract_address": "0xe13559cf6edf84bd04bf679e251f285000b9305e",
+    "url": "https://www.niftygotchi.com",
+    "explorers": [
+        "https://etherscan.io/token/0xe13559cf6eDf84bD04bf679e251f285000B9305E",
+        "https://ethplorer.io/address/0xe13559cf6edf84bd04bf679e251f285000b9305e"
+    ],
+    "twitter": "niftygotchi",
+    "telegram": "niftygotchi",
+    "github_org": "niftygotchi"
+}

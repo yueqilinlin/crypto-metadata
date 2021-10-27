@@ -1,0 +1,25 @@
+{
+    "id": "cloakcoin",
+    "symbol": "cloak",
+    "name": "Cloakcoin",
+    "platforms": {},
+    "hashing_algorithm": "X13",
+    "categories": [
+        "Cryptocurrency",
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "Cloakcoin is a completely secure, fully private and untraceable digital cash with full fungibilty (all coins equivalent). Cloakcoin is able to achieve this privacy through the use of an offchain coin mixing system called \u201cEnigma\u201d.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/cloakcoin-cloak/\">CoinBureau</a> for the complete review on Cloakcoin."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-06-03",
+    "url": "https://cloakcoin.com/",
+    "explorers": [
+        "https://chainz.cryptoid.info/cloak/"
+    ],
+    "twitter": "CloakCoin",
+    "facebook": "CloakCoinOfficial",
+    "telegram": "cloakproject",
+    "reddit": "Cloak_Coin",
+    "github_org": "CloakProject"
+}

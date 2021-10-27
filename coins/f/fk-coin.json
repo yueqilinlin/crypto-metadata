@@ -1,0 +1,21 @@
+{
+    "id": "fk-coin",
+    "symbol": "fk",
+    "name": "FK Coin",
+    "platforms": {
+        "ethereum": "0x903d78ca7d892e4518586d0b64f418bd4ca9a82d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "With the FK Coin\u2019s top-notch engineers from Samsung SDS Co., Ltd, Korea\u2019s top company,FK Coin strive to provides customers with innovative and convenient services in diverse business areas such as finance, hotels, medical care and tourism, using blockchain\u2019s distributed data storage technology. FK Coin is the ultimate blockchain technology that shows transactions to all users involved and is designed so that all trading partners share information with each other to prevent data from tampering."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x903d78ca7d892e4518586d0b64f418bd4ca9a82d",
+    "url": "https://fkasset.co.kr/",
+    "explorers": [
+        "https://etherscan.io/token/0x903D78ca7D892e4518586d0b64F418bd4CA9a82d",
+        "https://ethplorer.io/address/0x903d78ca7d892e4518586d0b64f418bd4ca9a82d"
+    ]
+}

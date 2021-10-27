@@ -1,0 +1,26 @@
+{
+    "id": "zlot",
+    "symbol": "zlot",
+    "name": "zLOT",
+    "platforms": {
+        "ethereum": "0xa8e7ad77c60ee6f30bac54e2e7c0617bd7b5a03e",
+        "fantom": "0x2f60c28fb2fdc90a2a5644442d0f6d8998101e76"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "zLOT is the governance token for the zLOT Finance protocol. zLOT tokenholders are entitled to the protocol fees."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa8e7ad77c60ee6f30bac54e2e7c0617bd7b5a03e",
+    "url": "https://zlot.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xA8e7AD77C60eE6f30BaC54E2E7c0617Bd7B5A03E",
+        "https://ethplorer.io/address/0xa8e7ad77c60ee6f30bac54e2e7c0617bd7b5a03e"
+    ],
+    "twitter": "zLOTFinance",
+    "github_org": "zhegic"
+}

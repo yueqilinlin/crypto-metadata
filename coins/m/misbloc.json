@@ -1,0 +1,24 @@
+{
+    "id": "misbloc",
+    "symbol": "msb",
+    "name": "Misbloc",
+    "platforms": {
+        "ethereum": "0x84c722e6f1363e8d5c6db3ea600bef9a006da824"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MISBLOC (Medical Information Service with Blockchain) is a medical service ecosystem, which is based on blockchain technology. In short, MISBLOC offers a sustainable medical service ecosystem, by utilizing selected medication information in a combination with a blockchain technology in the MyData era, which is the era of big data of individual lifelog, that connects telecommunication-medical-financial spheres. "
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x84c722e6f1363e8d5c6db3ea600bef9a006da824",
+    "url": "http://misblock.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x84c722e6f1363e8d5c6db3ea600bef9a006da824",
+        "https://ethplorer.io/address/0x84c722e6f1363e8d5c6db3ea600bef9a006da824"
+    ],
+    "twitter": "misbloc",
+    "facebook": "Misbloc-103357971483544",
+    "telegram": "misbloc"
+}

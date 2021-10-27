@@ -1,0 +1,22 @@
+{
+    "id": "horuspay",
+    "symbol": "horus",
+    "name": "HorusPay",
+    "platforms": {
+        "eos": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HorusPay is a decentralized Global Payroll Portal that allows global entities to exchange private, encrypted, secured data with international payroll vendors using blockchain technology. As an alternative payroll solution, HorusPay offers distinct benefits. With HorusPay, global entities can: \r\n\r\nEliminate the middleman. By eliminating legacy payroll providers and aggregators, global entities can avoid high fees and inefficient, triangulated communications. \r\n\r\nChoose in-country vendors. HorusPay is the only Global Payroll Portal that allows global entities to bring their own payroll provider\u2014letting them select the best vendor. \r\n\r\nUse one global portal. Global entities can standardize the payroll process and reduce their workforce by consolidating their efforts with HorusPay\u2019s Global Payroll Portal. \r\n\r\nStreamline paying employees. Global entities can streamline payroll by paying employees with cryptocurrency. In the future, recipients will be able to convert cryptocurrency into fiat currency*. \r\n\r\nIntegrate with common Human Capital Management (HCM) systems*. In the future, data will flow automatically from HCM systems to the HorusPay portal\u2014reducing errors and delays. \r\n\r\nHorusPay is set to be the first Global Payroll Portal using blockchain technology and cryptocurrency\u2014revolutionizing the way global entities pay employees. This whitepaper outlines the problems with legacy global payroll providers and aggregators, the HorusPay solution, the token model, and the core benefits of using blockchain and HorusPay for global payroll."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://horuspay.io",
+    "explorers": [
+        "https://eosflare.io/token/horustokenio/HORUS",
+        "https://eospark.com/token/horus/horustokenio",
+        "https://bloks.io/tokens/HORUS-eos-horustokenio"
+    ],
+    "telegram": "horuspayUS"
+}

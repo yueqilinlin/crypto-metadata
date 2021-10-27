@@ -1,0 +1,24 @@
+{
+    "id": "stable-uni",
+    "symbol": "oneuni",
+    "name": "Stable UNI",
+    "platforms": {
+        "ethereum": "0x8290d7a64f25e6b5002d98367e8367c1b532b534"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$oneUNI was created on 08/23/2021 with the ICHI Factory, audited by Quantstamp and Solidified. It will become a new base asset on Uniswap. \r\n$oneUNI can be recommended to $UNI grant recipients who need USD exposure. For example, grants could be paid in $oneUNI, enabling grant recipients like the DeFi Alliance to pay for necessary operational expenses. You can deposit $oneUNI to earn $ICHI rewards on ichi.org."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8290d7a64f25e6b5002d98367e8367c1b532b534",
+    "url": "https://app.ichi.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x8290D7a64F25e6b5002d98367E8367c1b532b534",
+        "https://ethplorer.io/address/0x8290D7a64F25e6b5002d98367E8367c1b532b534"
+    ],
+    "twitter": "ichifarm",
+    "telegram": "ichifarm",
+    "github_org": "ichifarm"
+}

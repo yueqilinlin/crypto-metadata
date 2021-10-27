@@ -1,0 +1,18 @@
+{
+    "id": "historia",
+    "symbol": "hta",
+    "name": "Historia",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Historia is a consensus-based, immutable historical record blockchain and masternode system designed for record keeping of current events (future history) with emphasis on absolute accuracy and seeks to prevent all assimilations of falsehoods into the historical record."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://historia.network/",
+    "explorers": [
+        "https://blockexplorer.historia.network/"
+    ],
+    "github_org": "HistoriaOffical"
+}

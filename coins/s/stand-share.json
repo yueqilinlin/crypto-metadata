@@ -1,0 +1,27 @@
+{
+    "id": "stand-share",
+    "symbol": "sas",
+    "name": "Stand Share",
+    "platforms": {
+        "ethereum": "0x4c38d0e726b6c86f64c1b281348e725973542043"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4c38d0e726b6c86f64c1b281348e725973542043",
+    "url": "https://stand.cash/",
+    "explorers": [
+        "https://etherscan.io/token/0x4c38d0e726b6c86f64c1b281348e725973542043",
+        "https://ethplorer.io/address/0x4c38d0e726b6c86f64c1b281348e725973542043"
+    ],
+    "twitter": "StandCash",
+    "telegram": "standcash",
+    "github_org": "standcash"
+}

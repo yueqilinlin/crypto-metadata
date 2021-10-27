@@ -1,0 +1,22 @@
+{
+    "id": "imm",
+    "symbol": "imm",
+    "name": "IMM",
+    "platforms": {
+        "binance-smart-chain": "0x07bbbd89a1175aeb78050c1db1a9bebc336e7a83"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Insurance of Market Maker (IMM) is a DApp that uses Big Data, Data Analysts, and Artificial Intelligence technologies and that is built on two platforms: Ethereum Request for Comment (ERC-20) and Binance Smart Chain (BSC)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x07bbbd89a1175aeb78050c1db1a9bebc336e7a83",
+    "url": "https://imm.ltd/",
+    "explorers": [
+        "https://bscscan.com/token/0x07bbbd89a1175aeb78050c1db1a9bebc336e7a83"
+    ],
+    "twitter": "IMMglobal_ltd",
+    "telegram": "immchannel"
+}

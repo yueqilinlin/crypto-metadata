@@ -1,0 +1,25 @@
+{
+    "id": "candela-coin",
+    "symbol": "cla",
+    "name": "Candela Coin",
+    "platforms": {
+        "ethereum": "0xf7269a10e85d4aa8282529516cf86847748da2bf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Our vision is to create truly decentralized solar energy all across the world made up of we the people, not the power companies or middlemen. We have created IoT hardware and software for seamless peer-to-peer energy transfer. By using blockchain technology we enable owners of solar panels to sell their generated energy to other users, bringing in the best returns possible for their solar energy and the cheapest green energy on the market. People across the globe will be able to transfer solar energy to others in their communities using Candela Coin as a medium of exchange. Our decentralized system does not rely on the existing power grid infrastructure. In the event of inclement weather, power outages, or down power lines, decentralized solar power will still be able to be generated and provide electricity to the community. Candela is the impetus for the democratization of energy."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xf7269a10e85d4aa8282529516cf86847748da2bf",
+    "url": "https://www.candelacoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xF7269a10E85d4aa8282529516cf86847748Da2Bf",
+        "https://ethplorer.io/address/0xF7269a10E85d4aa8282529516cf86847748Da2Bf"
+    ],
+    "twitter": "candelacoin",
+    "facebook": "Candela-Coin-111118247315246",
+    "telegram": "candelacoindiscussion",
+    "reddit": "candelacoin/"
+}

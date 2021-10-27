@@ -1,0 +1,31 @@
+{
+    "id": "anrkey-x",
+    "symbol": "$anrx",
+    "name": "AnRKey X",
+    "platforms": {
+        "ethereum": "0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0",
+        "binance-smart-chain": "0xe2e7329499e8ddb1f2b04ee4b35a8d7f6881e4ea",
+        "polygon-pos": "0x554f074d9ccda8f483d1812d4874cbebd682644e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0",
+    "url": "https://anrkeyx.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0",
+        "https://ethplorer.io/address/0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0",
+        "https://polygonscan.com/token/0x554f074d9ccda8f483d1812d4874cbebd682644e",
+        "https://bscscan.com/token/0xe2e7329499e8ddb1f2b04ee4b35a8d7f6881e4ea"
+    ],
+    "twitter": "anrkeyx",
+    "telegram": "anrkeyxofficial"
+}

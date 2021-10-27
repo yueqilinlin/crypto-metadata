@@ -1,0 +1,24 @@
+{
+    "id": "spacedawgs",
+    "symbol": "dawgs",
+    "name": "SpaceDawgs",
+    "platforms": {
+        "ethereum": "0x9f8eef61b1ad834b44c089dbf33eb854746a6bf9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SpaceDawgs is building robust chain connectivity with an integrated Multi Chain Multi Asset DawgWallet.\r\n\r\nWith a 2.5% transaction fee, SpaceDawgs has both a deflationary and friction free distribution contract to encourage community DAWG pack growth.\r\n\r\nSpaceDawgs supports the Crypto Climate Accord, an effort to transition all blockchains to 100% renewable energy."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x9f8eef61b1ad834b44c089dbf33eb854746a6bf9",
+    "url": "https://www.spacedawgs.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9f8eef61b1ad834b44c089dbf33eb854746a6bf9",
+        "https://ethplorer.io/address/0x9f8eef61b1ad834b44c089dbf33eb854746a6bf9"
+    ],
+    "twitter": "spacedawgstoken",
+    "telegram": "SpaceDawgsCommunity",
+    "reddit": "DAWGPositivity/"
+}

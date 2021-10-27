@@ -1,0 +1,24 @@
+{
+    "id": "oneswap-dao-token",
+    "symbol": "ones",
+    "name": "OneSwap DAO Token",
+    "platforms": {
+        "ethereum": "0x0b342c51d1592c41068d5d4b4da4a68c0a04d5a4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A fully decentralized exchange protocol on Smart Contract, with permission-free token listing and automated market making, support limit order."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0x0b342c51d1592c41068d5d4b4da4a68c0a04d5a4",
+    "url": "https://www.oneswap.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x0b342c51d1592c41068d5d4b4da4a68c0a04d5a4",
+        "https://ethplorer.io/address/0x0b342c51d1592c41068d5d4b4da4a68c0a04d5a4"
+    ],
+    "twitter": "OneSwap",
+    "telegram": "OneSwap",
+    "github_org": "oneswap"
+}

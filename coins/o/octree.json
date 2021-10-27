@@ -1,0 +1,23 @@
+{
+    "id": "octree",
+    "symbol": "oct",
+    "name": "Octree",
+    "platforms": {
+        "binance-smart-chain": "0x49277cc5be56b519901e561096bfd416277b4f6d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BSC autofarming Octree token."
+    },
+    "country_origin": "HR",
+    "genesis_date": null,
+    "contract_address": "0x49277cc5be56b519901e561096bfd416277b4f6d",
+    "url": "https://octree.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x49277cc5be56b519901e561096bfd416277b4f6d"
+    ],
+    "twitter": "octree_bsc",
+    "telegram": "octree_bsc",
+    "github_org": "octree-finance"
+}

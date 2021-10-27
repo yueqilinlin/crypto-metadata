@@ -1,0 +1,22 @@
+{
+    "id": "babysun",
+    "symbol": "babysun",
+    "name": "BabySun",
+    "platforms": {
+        "binance-smart-chain": "0xca40882bec9b7e77401652e6d0bfec9c168bb56b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The new BNB reflection token and the with auto-claim feature. Simply hold $BabySun tokens in your wallet and you'll earn BNB.In addition, there is a novel lottery mechanism."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xca40882bec9b7e77401652e6d0bfec9c168bb56b",
+    "url": "https://babysuncoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xca40882bec9B7e77401652E6d0bfeC9C168BB56B"
+    ],
+    "twitter": "babysuncoin",
+    "telegram": "BabySunofficial"
+}

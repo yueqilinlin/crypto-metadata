@@ -1,0 +1,27 @@
+{
+    "id": "rocki",
+    "symbol": "rocki",
+    "name": "Rocki",
+    "platforms": {
+        "ethereum": "0xff44b937788215eca197baaf9af69dbdc214aa04",
+        "binance-smart-chain": "0xa01000c52b234a92563ba61e5649b7c76e1ba0f3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Music"
+    ],
+    "description": {
+        "en": "ROCKI is a next generation music streaming service and digital payments ecosystem designed to solve some of the most fundamental problems of the music industry. Powered by the ROCKS token, it is the first platform that rewards both the artists for their streams and the listeners for their participation.\r\n\r\nROCKI has launched two unique NFT's solutions for the music industry on the ROCKI platform, an ERC721 NFT for Royalty income rights of a song, and a ERC1155 NFT for exclusive listening access of music.\r\n\r\nTo find out more, please visit the fully working platform at www.ROCKI.app"
+    },
+    "country_origin": "SE",
+    "genesis_date": null,
+    "contract_address": "0xff44b937788215eca197baaf9af69dbdc214aa04",
+    "url": "https://rocki.app/",
+    "explorers": [
+        "https://etherscan.io/token/0xFf44b937788215ecA197BAaf9AF69dbdC214aa04",
+        "https://ethplorer.io/address/0xFf44b937788215ecA197BAaf9AF69dbdC214aa04",
+        "https://bscscan.com/token/0xa01000c52b234a92563ba61e5649b7c76e1ba0f3"
+    ],
+    "twitter": "rockiapp",
+    "telegram": "Rockiapp"
+}

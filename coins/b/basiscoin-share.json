@@ -1,0 +1,23 @@
+{
+    "id": "basiscoin-share",
+    "symbol": "bcs",
+    "name": "Basis Coin Share",
+    "platforms": {
+        "ethereum": "0x03066da434e5264ef0b32f787923f974a5726fdc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x03066da434e5264ef0b32f787923f974a5726fdc",
+    "url": "https://basiscoin.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x03066dA434e5264ef0B32f787923f974A5726fDc",
+        "https://ethplorer.io/address/0x03066dA434e5264ef0B32f787923f974A5726fDc"
+    ],
+    "twitter": "Basis_Coin",
+    "telegram": "basiscoin"
+}

@@ -1,0 +1,31 @@
+{
+    "id": "safeswap",
+    "symbol": "ssgt",
+    "name": "Safeswap",
+    "platforms": {
+        "ethereum": "0x2ecc48ba346a73d7d55aa5a46b5e314d9daa6161",
+        "polygon-pos": "0x914034f0ff781c430aa9594851cc95806fd19dc6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Polygon Ecosystem",
+        "Governance"
+    ],
+    "description": {
+        "en": "SSGT or SafeSwap Governance Token will, as the name suggests, provide a mechanism to streamline YFDAI governance voting. Additional utility baked in to SSGT is also designed to provide SafeSwap liquidity and deliver holders allocation boosts in LaunchPad presales as well as a range of additional platform benefits and rewards."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x2ecc48ba346a73d7d55aa5a46b5e314d9daa6161",
+    "url": "https://www.yfdai.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x2ecc48ba346a73d7d55aa5a46b5e314d9daa6161",
+        "https://ethplorer.io/address/0x2ecc48ba346a73d7d55aa5a46b5e314d9daa6161",
+        "https://polygonscan.com/token/0x914034f0ff781c430aa9594851cc95806fd19dc6"
+    ],
+    "twitter": "YfdaiF",
+    "telegram": "yfdaifinance",
+    "reddit": "YFDAI/",
+    "github_org": "yfdaifinance"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "ton-crystal",
+    "symbol": "ton",
+    "name": "TON Crystal",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "Free TON is based on a flexible multi-blockchain platform called TON Blockchain, capable of processing millions of transactions per second, with Turing-complete smart contracts, upgradable formal blockchain specifications, multi-cryptocurrency value transfer, support for micropayment channels and off-chain payment networks. TON Blockchain presents some new and unique features, such as the \"self-healing\" vertical blockchain mechanism and Instant Hypercube Routing, which enable it to be fast, reliable, scalable and self-consistent at the same time. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://freeton.org/",
+    "explorers": [
+        "https://ton.live/main",
+        "https://ton-explorer.com"
+    ],
+    "twitter": "CommunityTon",
+    "telegram": "TONCRYSTAL",
+    "reddit": "TONCRYSTAL/",
+    "github_org": "tonlabs"
+}

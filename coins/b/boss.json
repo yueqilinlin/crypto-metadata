@@ -1,0 +1,24 @@
+{
+    "id": "boss",
+    "symbol": "boss",
+    "name": "Boss",
+    "platforms": {
+        "binance-smart-chain": "0x49324d59327fb799813b902db55b2a118d601547"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "The Boss Token is a community driven & DeFi cryptocurrency looking to become the boss of all dogcoins! Three functions happen during a trade: Redistribution, LP Acquisition and Deflationary Burning."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x49324d59327fb799813b902db55b2a118d601547",
+    "url": "https://bosstoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x49324d59327fB799813B902dB55b2a118d601547"
+    ],
+    "twitter": "Boss__Token",
+    "telegram": "bosstokencrypto"
+}

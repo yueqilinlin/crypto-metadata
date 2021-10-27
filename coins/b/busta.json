@@ -1,0 +1,22 @@
+{
+    "id": "busta",
+    "symbol": "bust",
+    "name": "BUSTA",
+    "platforms": {
+        "binance-smart-chain": "0xfd0507fac1152faf870c778ff6beb1ca3b9f7a1f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BUSTA is a next generation GameFi platform and DEX built on Binance Smart Chain. It is an enormous and ambitious ecosystem which will soon be populated by multiple games and tokens. Accompanied by it's own niche DEX with customisable smart contracts for every token, Staking pools, Affiliate and Partner programs, and DAO, it is truly unique in it's intricately weaved architecture."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfd0507fac1152faf870c778ff6beb1ca3b9f7a1f",
+    "url": "https://www.busta.gg/",
+    "explorers": [
+        "https://bscscan.com/token/0xfd0507fac1152faf870c778ff6beb1ca3b9f7a1f"
+    ],
+    "twitter": "busta_gamefi",
+    "telegram": "BUSTa_official"
+}

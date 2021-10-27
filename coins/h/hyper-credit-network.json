@@ -1,0 +1,25 @@
+{
+    "id": "hyper-credit-network",
+    "symbol": "hpay",
+    "name": "Hyper Credit Network",
+    "platforms": {
+        "ethereum": "0xf83d7ff2e4b43ebad2fa534e621e31076f4d254c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HPAY is a utility ERC20 token that allows merchants and users payment solution. HPAY solution consists of ETHEURUM blockchain in ecommerce platform."
+    },
+    "country_origin": "FI",
+    "genesis_date": null,
+    "contract_address": "0xf83d7ff2e4b43ebad2fa534e621e31076f4d254c",
+    "url": "https://hypercreditnetwork.info/",
+    "explorers": [
+        "https://etherscan.io/token/0xF83d7fF2e4B43ebAd2fa534e621E31076f4d254C",
+        "https://ethplorer.io/address/0xF83d7fF2e4B43ebAd2fa534e621E31076f4d254C"
+    ],
+    "twitter": "HyperCredit",
+    "facebook": "Hyper-Credit-Network-104864968144238",
+    "telegram": "Hypercreditnetwork",
+    "github_org": "Hypercredittnetwork"
+}

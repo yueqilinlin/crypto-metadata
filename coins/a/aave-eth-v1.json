@@ -1,0 +1,30 @@
+{
+    "id": "aave-eth-v1",
+    "symbol": "aeth",
+    "name": "Aave ETH v1",
+    "platforms": {
+        "ethereum": "0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Aave Tokens",
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Aave ETH is an interest bearing token minted upon deposit and burned when redeemed. The aETH is pegged 1:1 to the value of the underlying ETH that is deposited in Aave protocol. aETH, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aETH accrue interest in real time, directly in your wallet!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04",
+    "url": "https://aave.com/atokens",
+    "explorers": [
+        "https://etherscan.io/token/0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04",
+        "https://ethplorer.io/address/0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "@Aavesome",
+    "reddit": "Aave_Official/",
+    "github_org": "aave"
+}

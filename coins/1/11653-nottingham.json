@@ -1,0 +1,26 @@
+{
+    "id": "11653-nottingham",
+    "symbol": "realtoken-s-11653-nottingham-rd-detroit-mi",
+    "name": "RealT Token - 11653 Nottingham Rd, Detroit, MI 48224",
+    "platforms": {
+        "xdai": "0x31820af2d43c08bd82bd94b08974062482bd98d3",
+        "ethereum": "0x31820af2d43c08bd82bd94b08974062482bd98d3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x31820af2d43c08bd82bd94b08974062482bd98d3",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://blockscout.com/xdai/mainnet/tokens/0x31820af2d43c08BD82Bd94B08974062482bD98D3/token-transfers"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

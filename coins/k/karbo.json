@@ -1,0 +1,24 @@
+{
+    "id": "karbo",
+    "symbol": "krb",
+    "name": "Karbo",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Cryptocurrency",
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "Karbo is a decentralized peer-to-peer exchange network and stable exchange medium, designed to be used by customers and merchants as private Internet money that respects and protects their privacy. It does not have centralized management or issuer and ensures privacy and anonymity of transactions without intermediaries and regulators. Its units of exchange are units of information, cryptographically protected (encrypted) from copying and counterfeiting by the blockchain technology."
+    },
+    "country_origin": "",
+    "genesis_date": "2016-05-30",
+    "url": "https://karbo.io/",
+    "explorers": [
+        "http://explorer.karbowanec.com/en/"
+    ],
+    "twitter": "krbcoin",
+    "telegram": "karbowanec",
+    "reddit": "Karbowanec",
+    "github_org": "seredat"
+}

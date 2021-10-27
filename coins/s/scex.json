@@ -1,0 +1,25 @@
+{
+    "id": "scex",
+    "symbol": "scex",
+    "name": "sCEX",
+    "platforms": {
+        "ethereum": "0xeabacd844a196d7faf3ce596edebf9900341b420"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synths",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Tracks the price of the index: Centralised Exchange Index (CEX) through price feeds supplied by an oracle. This index is made up of the following assets and weights: 17.88 of BNB (Binance Coin), 153.85 of LEO (UNUS SED LEO), 20.51 of HT (Huobi Token), 32.52 of OKB, 59.82 of KCS (KuCoin Shares)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeabacd844a196d7faf3ce596edebf9900341b420",
+    "url": "https://www.synthetix.io/tokens/",
+    "explorers": [
+        "https://etherscan.io/token/0xeABACD844A196D7Faf3CE596edeBF9900341B420",
+        "https://ethplorer.io/address/0xeabacd844a196d7faf3ce596edebf9900341b420"
+    ],
+    "twitter": "synthetix_io"
+}

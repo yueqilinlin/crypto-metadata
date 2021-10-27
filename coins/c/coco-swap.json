@@ -1,0 +1,23 @@
+{
+    "id": "coco-swap",
+    "symbol": "coco",
+    "name": "Coco Swap",
+    "platforms": {
+        "binance-smart-chain": "0x9aa6fc71aed1130dee06a91a487bf5ea481de80d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Coco Swap is the next generation autonomous yield and liquidity protocol which will include the Web 3.0 platform, iOS and Android decentralized application! The Coco Swap protocol will enable users to exchange cryptocurrencies, NFT's and other derivatives through it's autonomous yield protocol. The liquidity on the other hand, will enable seamless and easy staking option for users to incentive the network while earning rewards for their service."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9aa6fc71aed1130dee06a91a487bf5ea481de80d",
+    "url": "https://coco-swap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x9AA6FC71aed1130DeE06a91A487BF5eA481dE80D"
+    ],
+    "twitter": "coco_swap",
+    "telegram": "cocoswapofficial",
+    "github_org": "cocoswapfinance"
+}

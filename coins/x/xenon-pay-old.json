@@ -1,0 +1,22 @@
+{
+    "id": "xenon-pay-old",
+    "symbol": "x2p",
+    "name": "Xenon Pay [Old]",
+    "platforms": {
+        "binance-smart-chain": "0x53dcd4ef8e21fe014594a0854c4271a0623b31ec"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Passive Holding System \u2022 Xenon Pay functions as a sedentary way of income. You earn tokens because of other people's transaction fees. 10% of every transaction's fee gets redistributed through all the holders of X2P. This means that you will gain extra tokens no matter what, buy or sell orders as long as you hold. Some people even get 1% of their portfolio on a day with a high transaction volume. Because of these tokenomics, Xenon Pay is a perfect example of double passive earning. \r\n\r\nPayment Solution \u2022 The main goal for Xenon Pay in the future is to function as a payment solution. We are deployed on the Binance Smart Chain, which makes our transactions confirm very quickly. We offer a high transaction speed compared to ETH, BTC & other coins/tokens. Xenon Pay will develop their app shortly & there is a Payment Card coming in the later phase of the project. \r\n\r\nThe Dev's are currently considering on developing a Cross Chain platform to be able to buy X2P with other blockchain networks as well."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x53dcd4ef8e21fe014594a0854c4271a0623b31ec",
+    "url": "https://XenonPay.org",
+    "explorers": [
+        "https://bscscan.com/token/0x53dcd4ef8e21fe014594a0854c4271a0623b31ec"
+    ],
+    "twitter": "PayX2P",
+    "telegram": "xenonpaycommunity"
+}

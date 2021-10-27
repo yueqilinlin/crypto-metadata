@@ -1,0 +1,23 @@
+{
+    "id": "projekt-diamond",
+    "symbol": "diamnd",
+    "name": "Projekt Diamond",
+    "platforms": {
+        "ethereum": "0x53109fe9e044f2c324d00ad85bfb0b13ce379480"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Projekt Diamond is the first token to give you LIVE updates and complete freedom to withdraw ETH earnings simply for holding tokens. DIAMND debuted the FTP Eth Redist service. Earnings can be seen on a web3 dashboard at https://app.fairtokenproject.com"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x53109fe9e044f2c324d00ad85bfb0b13ce379480",
+    "url": "https://fairtokenproject.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x53109fe9e044f2c324d00ad85bfb0b13ce379480",
+        "https://ethplorer.io/address/0x53109fe9e044f2c324d00ad85bfb0b13ce379480"
+    ],
+    "twitter": "token_project",
+    "telegram": "projektdiamond"
+}

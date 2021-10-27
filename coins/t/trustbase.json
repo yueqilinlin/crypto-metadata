@@ -1,0 +1,23 @@
+{
+    "id": "trustbase",
+    "symbol": "tbe",
+    "name": "TrustBase",
+    "platforms": {
+        "huobi-token": "0x0e0ba709a042618eb0d1ad8109b5f0e7dfb6a6c3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TrustBase is a Polkadot parachain based on the Substrate framework that independently develops the Subscript smart contract language and supports multiple tool plug-ins and smart contract applications. As an infrastructure project for Polkadot Ecology, Trustbase has received a Web3 Foundation Grant.\r\n\r\nFocusing on providing a lighter language for traditional developers, enabling easy deployment of Polkadot native smart contracts,Help developers to participate in the ecological construction of Polkadot without barriers, and form a powerful ecosystem for the multi-development of Polkadot -- Trustbase parallel chain -- smart contract."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0e0ba709a042618eb0d1ad8109b5f0e7dfb6a6c3",
+    "url": "https://trustbase.network/",
+    "explorers": [
+        "https://hecoinfo.com/token/0x0e0ba709a042618eb0d1ad8109b5f0e7dfb6a6c3"
+    ],
+    "twitter": "TrustBase_Net",
+    "telegram": "TrustBasenetwork",
+    "github_org": "TrustBase"
+}

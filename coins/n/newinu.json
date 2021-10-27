@@ -1,0 +1,27 @@
+{
+    "id": "newinu",
+    "symbol": "newinu",
+    "name": "Newinu",
+    "platforms": {
+        "ethereum": "0x1997830b5beb723f5089bb8fc38766d419a0444d",
+        "binancecoin": "0x1997830b5beb723f5089bb8fc38766d419a0444d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The New Guinea Singing Inu ($NEWINU) is a deflationary meme DeFi coin with Automated Rewards Farming (ARF) technology built in. The longer you hold, the more $NEWINU will reward you!"
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x1997830b5beb723f5089bb8fc38766d419a0444d",
+    "url": "https://newinu.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x1997830b5beb723f5089bb8fc38766d419a0444d",
+        "https://ethplorer.io/address/0x1997830b5beb723f5089bb8fc38766d419a0444d",
+        "https://bscscan.com/token/0x1997830b5beb723f5089bb8fc38766d419a0444d"
+    ],
+    "twitter": "newinu_official",
+    "telegram": "NewGuineaSingingDog",
+    "reddit": "newinu",
+    "github_org": "newinu"
+}

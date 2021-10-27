@@ -1,0 +1,24 @@
+{
+    "id": "baguette-token",
+    "symbol": "bgtt",
+    "name": "Baguette Token",
+    "platforms": {
+        "ethereum": "0x7a545ed3863221a974f327199ac22f7f12535f11",
+        "avalanche": "0xa1144a6a1304bd9cbb16c800f7a867508726566e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7a545ed3863221a974f327199ac22f7f12535f11",
+    "url": "https://baguettetoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7a545Ed3863221A974F327199Ac22F7f12535F11",
+        "https://ethplorer.io/address/0x7a545ed3863221a974f327199ac22f7f12535f11"
+    ],
+    "twitter": "BaguetteToken",
+    "telegram": "BaguetteToken"
+}

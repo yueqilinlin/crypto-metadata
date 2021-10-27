@@ -1,0 +1,24 @@
+{
+    "id": "cheesefry",
+    "symbol": "cheese",
+    "name": "CheeseFry",
+    "platforms": {
+        "ethereum": "0x332e824e46fceeb9e59ba9491b80d3e6d42b0b59"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CHFRY Finance is a new DeFi lending platform with flash loans, self-repaying loans, zero liquidation risk, and future-yield-backed assets.\r\n\r\nThe protocol powers the automated repayment of debt through diversified high yield strategies. It allows users to deposit stablecoins (DAI, USDC, or USDT) as collateral to borrow against, and deploys this collateral into DeFi yield aggregators and utilizes it for flash loans to generate yield that will automatically pay off the loan. As such, a user takes a loan in the form of fUSD (a synthetic derivative that is pegged to a basket of top stablecoin assets at 1:1) that repays itself automatically, without risk of liquidation, and earns advances on the future yield through uncorrelated high yield strategies. \r\n\r\nCHFRY unlocks capital efficiency by combining yield aggregators with the yield-based debt model and diversifies the yield source by tapping into the potential of the flash loan applications. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x332e824e46fceeb9e59ba9491b80d3e6d42b0b59",
+    "url": "http://chfry.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x332E824e46FcEeB9E59ba9491B80d3e6d42B0B59",
+        "https://ethplorer.io/address/0x332e824e46fceeb9e59ba9491b80d3e6d42b0b59"
+    ],
+    "twitter": "ChfryFinance",
+    "telegram": "ChfryFinance",
+    "github_org": "chfry-finance"
+}

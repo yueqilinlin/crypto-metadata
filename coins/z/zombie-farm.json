@@ -1,0 +1,23 @@
+{
+    "id": "zombie-farm",
+    "symbol": "zombie",
+    "name": "Zombie Farm",
+    "platforms": {
+        "binance-smart-chain": "0x99d6b719d78f75a0a8f34d7443630df58973ff41"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Zombie Farm, The First Yield Farm in Zombie's World."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x99d6b719d78f75a0a8f34d7443630df58973ff41",
+    "url": "https://zombie-farm.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x99d6b719d78f75a0a8f34d7443630df58973ff41"
+    ],
+    "twitter": "ZombieFarm_en",
+    "telegram": "zombieFarm",
+    "github_org": "Zombiesfarm"
+}

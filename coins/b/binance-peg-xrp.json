@@ -1,0 +1,23 @@
+{
+    "id": "binance-peg-xrp",
+    "symbol": "xrp",
+    "name": "Binance-Peg XRP",
+    "platforms": {
+        "binance-smart-chain": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Tokens that are wrapped and pegged by Binance on a 1:1 ratio to the corresponding native token. Also supports BEP20 token deposits and withdrawals at Binance.com"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+    "url": "https://ripple.com/xrp/",
+    "explorers": [
+        "https://bscscan.com/token/0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe"
+    ],
+    "twitter": "Ripple"
+}

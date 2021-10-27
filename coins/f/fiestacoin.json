@@ -1,0 +1,24 @@
+{
+    "id": "fiestacoin",
+    "symbol": "fiesta",
+    "name": "FiestaCoin",
+    "platforms": {
+        "binance-smart-chain": "0xd66d1ae7714f37bb1eed02ea290830c06b75b8fd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The first token ever created for the events industry. FiestaCoin technology aims to be used for cruise ships, small and large events,resorts, adventure parks but also in many other situations. "
+    },
+    "country_origin": "RO",
+    "genesis_date": null,
+    "contract_address": "0xd66d1ae7714f37bb1eed02ea290830c06b75b8fd",
+    "url": "https://fiestacoin.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xd66d1ae7714f37bb1eed02ea290830c06b75b8fd"
+    ],
+    "twitter": "coin_fiesta",
+    "facebook": "FiestaCoin.org",
+    "telegram": "FiestaCoinOfficial",
+    "github_org": "fiestacoinadmin"
+}

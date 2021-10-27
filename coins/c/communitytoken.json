@@ -1,0 +1,23 @@
+{
+    "id": "communitytoken",
+    "symbol": "ct",
+    "name": "Cojam",
+    "platforms": {
+        "klay-token": "0x7f223b1607171b81ebd68d22f1ca79157fd4a44b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "This is a reward-type prediction platform where users who produce content and those who participate solve the answers, compete, and receive compensation based on the results."
+    },
+    "country_origin": "IE",
+    "genesis_date": null,
+    "contract_address": "0x7f223b1607171b81ebd68d22f1ca79157fd4a44b",
+    "url": "https://www.cojam.io/",
+    "explorers": [
+        "https://scope.klaytn.com/token/0x7f223b1607171b81ebd68d22f1ca79157fd4a44b?tabId=tokenTransfer"
+    ],
+    "twitter": "OfficialCojam",
+    "telegram": "cojamkorea",
+    "github_org": "cojam-limited"
+}

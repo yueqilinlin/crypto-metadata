@@ -1,0 +1,25 @@
+{
+    "id": "finswap",
+    "symbol": "fnsp",
+    "name": "Finswap",
+    "platforms": {
+        "ethereum": "0x3b78dc5736a49bd297dd2e4d62daa83d35a22749"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Finswap is a culmination of all the trading tools that are available on centralized exchanges but are not available on a decentralized exchange.Finswap aims to provide DEX users various advanced trading technique like stop loss and limit order."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3b78dc5736a49bd297dd2e4d62daa83d35a22749",
+    "url": "https://finswap.app",
+    "explorers": [
+        "https://etherscan.io/token/0x3B78dc5736a49BD297Dd2E4d62daA83D35A22749",
+        "https://ethplorer.io/address/0x3b78dc5736a49bd297dd2e4d62daa83d35a22749"
+    ],
+    "twitter": "finswapapp",
+    "telegram": "finswap",
+    "reddit": "FinSwap/",
+    "github_org": "finswap-app"
+}

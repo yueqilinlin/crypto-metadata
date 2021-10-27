@@ -1,0 +1,23 @@
+{
+    "id": "safenebula",
+    "symbol": "snbl",
+    "name": "Nebula Protocol",
+    "platforms": {
+        "binance-smart-chain": "0xa1fd60c51c0bdac1ff5bb6067a24d61441e39569"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Nebula Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, & Burn."
+    },
+    "country_origin": "AR",
+    "genesis_date": null,
+    "contract_address": "0xa1fd60c51c0bdac1ff5bb6067a24d61441e39569",
+    "url": "https://nebulaprotocol.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xa1fd60c51c0bdac1ff5bb6067a24d61441e39569"
+    ],
+    "twitter": "safe_nebula",
+    "telegram": "safenebula",
+    "reddit": "SafeNebula/"
+}

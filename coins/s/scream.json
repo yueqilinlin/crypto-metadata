@@ -1,0 +1,26 @@
+{
+    "id": "scream",
+    "symbol": "scream",
+    "name": "Scream",
+    "platforms": {
+        "fantom": "0xe0654c8e6fd4d733349ac7e09f6f23da256bf475"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Fantom Ecosystem"
+    ],
+    "description": {
+        "en": "Scream is a highly scalable decentralized lending protocol powered by fantom."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xe0654c8e6fd4d733349ac7e09f6f23da256bf475",
+    "url": "https://scream.sh/",
+    "explorers": [
+        "https://ftmscan.com/token/0xe0654C8e6fd4D733349ac7E09f6f23DA256bF475"
+    ],
+    "twitter": "screamdotsh",
+    "telegram": "screamsh",
+    "github_org": "scream-finance"
+}

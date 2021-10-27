@@ -1,0 +1,22 @@
+{
+    "id": "livetrade-token",
+    "symbol": "ltd",
+    "name": "LiveTrade Token",
+    "platforms": {
+        "binance-smart-chain": "0x0f7cd24e31293b162dcf6211c6ac5bd8efcb81f4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LiveTrade Token (LTD) is a utility token representing the decentralized platform LiveTrade Token (LTD).\r\n\r\nLTD tokens will be used in the three core products and services of LiveTrade, which will serve as the basis for transactions and conversions, growth in user numbers, use of premium features, and incentive to share in the community and create value through an attractive reward system.\r\n\r\nLTD Token aims to build a cycle for the development of the LiveTrade platform and the interests of LTD holders. LTD Token will be the keystone of the LiveTrade platform to provide open source technology and financial solutions."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x0f7cd24e31293b162dcf6211c6ac5bd8efcb81f4",
+    "url": "https://ltd.livetrade.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x0f7cd24e31293b162dcf6211c6ac5bd8efcb81f4"
+    ],
+    "twitter": "Livetrade_io",
+    "telegram": "LiveTrade_info"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "aga-carbon-credit",
+    "symbol": "agac",
+    "name": "AGA Carbon Credit",
+    "platforms": {
+        "polygon-pos": "0x669ddc70273084ea30e6cd4f28ca6e2c70735065"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AGA will assist miners in becoming Carbon Neutral, by calculating and auditing their carbon footprint and selling them Carbon Removal Tokens (CRTs). Dynamic NFTs will be used in a place of static-paper certificates and will be tied to off-chain carbon emissions data and on-chain CRT balance. Miners will stake our CRTs and tie them to the dynamic NFT to prove their ongoing compliance.\r\n\r\nAs part of this pilot we are minting AGAc (utility) and AGAcr (governance) tokens:\r\nAGAc will be a utility token used to represent one Kilogram of Carbon Removed, or 1,000 AGAc will equal one Carbon Removal Metric Tonne.\r\n\r\nAGAcr will serve as a Governance token for the AGA Carbon Project."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x669ddc70273084ea30e6cd4f28ca6e2c70735065",
+    "url": "https://agatoken.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0x669ddc70273084ea30e6cd4f28ca6e2c70735065"
+    ],
+    "twitter": "agatkn",
+    "facebook": "AGATokenSeattle",
+    "telegram": "agatokengroup",
+    "reddit": "agatoken"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "morty-token",
+    "symbol": "mrty",
+    "name": "Morty Token",
+    "platforms": {
+        "binance-smart-chain": "0xb76ec79ca2a3ecbc5f54c77bac782352c118e706"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MortyToken is a self deflationary token on the Binance Smart chain whose sole focus is, is to reward it's holders. This is done through reflections and random giveaways within the chat."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0xb76ec79ca2a3ecbc5f54c77bac782352c118e706",
+    "url": "https://www.mortytoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xB76eC79Ca2a3eCBc5F54C77baC782352C118E706"
+    ],
+    "twitter": "TokenMorty",
+    "telegram": "MortyBSC"
+}

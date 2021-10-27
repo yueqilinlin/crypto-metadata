@@ -1,0 +1,23 @@
+{
+    "id": "sokuswap",
+    "symbol": "soku",
+    "name": "SokuSwap",
+    "platforms": {
+        "binance-smart-chain": "0x0e4b5ea0259eb3d66e6fcb7cc8785817f8490a53"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Soku is the governance token for SokuSwap, a decentralized exchange that operates on the Binance Smart Chain and the Ethereum Blockchain.\r\n\r\nSoku is a completely decentralized BEP-20 token. There is no ownership. The token is non-mintable and non-burnable, with a set total amount at 222,222,222. \r\n\r\nIt's a governance token which means, it gives you the right to vote on future updates on SokuSwap."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0e4b5ea0259eb3d66e6fcb7cc8785817f8490a53",
+    "url": "https://sokuswap.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x0e4b5ea0259eb3d66e6fcb7cc8785817f8490a53"
+    ],
+    "twitter": "SokuSwap",
+    "telegram": "sokuswap",
+    "github_org": "Soku-Swap-Project"
+}

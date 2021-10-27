@@ -1,0 +1,23 @@
+{
+    "id": "polkatrain",
+    "symbol": "polt",
+    "name": "Polkatrain",
+    "platforms": {
+        "binance-smart-chain": "0x955d1032343dfe56dc324b0a980c25cb23f0a595"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Our product is polkatrain, it is a platform www.Polkatrain.com for Initial Dex Offering, it uses the cryptocurrency DOT released by Polkadot."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x955d1032343dfe56dc324b0a980c25cb23f0a595",
+    "url": "http://www.polkatrain.com/#/",
+    "explorers": [
+        "https://www.bscscan.com/token/0x955d1032343DFE56DC324b0A980C25cb23f0a595",
+        "https://bscscan.com/token/0x955d1032343DFE56DC324b0A980C25cb23f0a595"
+    ],
+    "twitter": "polkatrain",
+    "telegram": "mypolkatrain"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "bitcoinmoney",
+    "symbol": "bcm",
+    "name": "BitcoinMoney",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Become an early adopter and be one of the first to mine and HODL, if you believe in blockchain."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "url": "https://bitcoinmoney.digital/",
+    "explorers": [
+        "http://bitcoinmoneyexplorer.com/"
+    ],
+    "twitter": "BitcoinMoneyBCM",
+    "facebook": "bit.coinmoney.56",
+    "reddit": "BitcoinMoneyDigital/",
+    "github_org": "bitcoinmoneydigital"
+}

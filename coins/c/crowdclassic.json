@@ -1,0 +1,19 @@
+{
+    "id": "crowdclassic",
+    "symbol": "crcl",
+    "name": "CRowdCLassic",
+    "platforms": {},
+    "hashing_algorithm": "NeoScrypt",
+    "categories": [],
+    "description": {
+        "en": "Long story short: It is a successor of the Crowdcoin blockchain. They made a swap and moved to another algorithm so the old blockchain was abandoned. A decision was made to continue the support of it because the network proved herself to be reliable and trustworthy one.\r\n\r\nBut the main reason was to keep alive the original idea: to create a place were people, interested in crypto, meet people who want to share and develop their knowledge - to put it in layman`s terms - an academy and a platform for crowd-funding projects. And even to broaden it - to create a social network for the crypto realm.\r\n\r\nAnd at last but not at least: to put the technology first. Because it`s a way better to have sustainable demand created by the features given technology has and not by speculating with eventual future value.\r\n\r\nThe project will be community driven and supported by donations at first."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://crcl.cryptocrowdclub.com/",
+    "explorers": [
+        "http://explorer.crcl.cryptocrowdclub.com:3001/"
+    ],
+    "twitter": "cryptocrowdclub",
+    "github_org": "CRowdCLassic"
+}

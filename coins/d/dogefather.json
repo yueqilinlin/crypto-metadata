@@ -1,0 +1,22 @@
+{
+    "id": "dogefather",
+    "symbol": "dogefather",
+    "name": "Dogefather",
+    "platforms": {
+        "binance-smart-chain": "0x3d29aa78fb558f84112bbc48a84f371147a920c9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dogefather is a frictionless yield generation token hard-coded on its smart contract with a charity-based NFT marketplace coming soon. We built this token on Binance Smart Chain so people can buy Dogefather with cheaper gas fees compared to other tokens built on the Ethereum network. Welcome to the #DOGEFATHERFAMILY."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3d29aa78fb558f84112bbc48a84f371147a920c9",
+    "url": "https://dogefather.space/",
+    "explorers": [
+        "https://bscscan.com/token/0x3d29aa78fb558f84112bbc48a84f371147a920c9"
+    ],
+    "twitter": "dogefatherBSC_",
+    "telegram": "dogefatherBSC"
+}

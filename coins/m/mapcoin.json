@@ -1,0 +1,18 @@
+{
+    "id": "mapcoin",
+    "symbol": "mapc",
+    "name": "MapCoin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": null,
+    "genesis_date": "2015-09-06",
+    "explorers": [
+        "https://chainz.cryptoid.info/mapc/"
+    ],
+    "twitter": "mapcoinofficial",
+    "github_org": "mapcoindev"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "lossless",
+    "symbol": "lss",
+    "name": "Lossless",
+    "platforms": {
+        "ethereum": "0x3b9be07d622accaed78f479bc0edabfd6397e320",
+        "binance-smart-chain": "0xf7686f43591302cd9b4b9c4fe1291473fae7d9c9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "DaoMaker Ecosystem"
+    ],
+    "description": {
+        "en": "Lossless - hack mitigation tool for token creators. Lossless Protocol freezes fraudulent transaction based on a set of fraud identification parameters and returns stolen funds back to the owner\u2019s account."
+    },
+    "country_origin": "LT",
+    "genesis_date": null,
+    "contract_address": "0x3b9be07d622accaed78f479bc0edabfd6397e320",
+    "url": "https://lossless.cash/",
+    "explorers": [
+        "https://etherscan.io/token/0x3b9be07d622accaed78f479bc0edabfd6397e320",
+        "https://ethplorer.io/address/0x3b9be07d622accaed78f479bc0edabfd6397e320",
+        "https://bscscan.com/token/0xf7686F43591302Cd9B4b9c4FE1291473Fae7D9C9"
+    ],
+    "twitter": "losslessdefi",
+    "telegram": "losslesscash",
+    "github_org": "Lossless-Cash"
+}

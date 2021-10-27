@@ -1,0 +1,29 @@
+{
+    "id": "bscex",
+    "symbol": "bscx",
+    "name": "BSCEX",
+    "platforms": {
+        "binance-smart-chain": "0x5ac52ee5b2a633895292ff6d8a89bb9190451587"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "\"BSCex\u2019s mission is to make Binance\u2019s off-chain services available on the blockchain, develop the applications on BSC, and promote the features of decentralized finance that let our users earn tokens and gain many other economic benefits. \r\n\r\nWe're developing the first Cross-liquidity Layer 2 protocol on BSC. The BSCex Aggregating Engine will find the AMMs with the best liquidity among BSC's AMMs to divide, match, and execute user's orders. Most AMMs suffer from low liquidity and the big price impact (slippage) for the vast majority of transactions. Users cannot execute the order with high volume without causing a big slippage. The BSCex Aggregating Engine will divide the order into many parts and execute each part in different AMMs to lower the risk of price slippage\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5ac52ee5b2a633895292ff6d8a89bb9190451587",
+    "url": "http://bscex.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x5ac52ee5b2a633895292ff6d8a89bb9190451587"
+    ],
+    "twitter": "bscexofficial",
+    "telegram": "bscexann",
+    "github_org": "bscex"
+}

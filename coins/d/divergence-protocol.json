@@ -1,0 +1,24 @@
+{
+    "id": "divergence-protocol",
+    "symbol": "diver",
+    "name": "Divergence Protocol",
+    "platforms": {
+        "ethereum": "0xfb782396c9b20e564a64896181c7ac8d8979d5f4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Divergence is a decentralized platform for hedging, trading DeFi-native asset volatility, with its flagship product being an AMM-based marketplace trading synthetic binary options."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfb782396c9b20e564a64896181c7ac8d8979d5f4",
+    "url": "https://www.divergence-protocol.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xfb782396c9b20e564a64896181c7ac8d8979d5f4",
+        "https://ethplorer.io/address/0xfb782396c9b20e564a64896181c7ac8d8979d5f4"
+    ],
+    "twitter": "divergencedefi",
+    "telegram": "divergenceprotocol",
+    "github_org": "DivergenceProtocol"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "unagii-wrapped-bitcoin",
+    "symbol": "uwbtc",
+    "name": "Unagii Wrapped Bitcoin",
+    "platforms": {
+        "ethereum": "0x3af5ba94c29a8407785f5f6d90ef5d69a8eb2436"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3af5ba94c29a8407785f5f6d90ef5d69a8eb2436",
+    "url": "https://www.unagii.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3af5ba94c29a8407785f5f6d90ef5d69a8eb2436",
+        "https://ethplorer.io/address/0x3af5ba94c29a8407785f5f6d90ef5d69a8eb2436"
+    ],
+    "twitter": "unagiidotcom",
+    "telegram": "unagiidotcom",
+    "reddit": "https://www.reddit.com"
+}

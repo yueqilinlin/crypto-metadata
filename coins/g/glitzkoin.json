@@ -1,0 +1,26 @@
+{
+    "id": "glitzkoin",
+    "symbol": "gtn",
+    "name": "GlitzKoin",
+    "platforms": {
+        "stellar": "GTN-GARFMAHQM4JDI55SK2FGEPLOZU7BTEODS3Y5QNT3VMQQIU3WV2HTBA46"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Integrating the latest blockchain technology into the diamond industry supply chain. Changing the landscape of the $90 billion Diamond Industry, one diamond at a time."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "GTN-GARFMAHQM4JDI55SK2FGEPLOZU7BTEODS3Y5QNT3VMQQIU3WV2HTBA46",
+    "url": "https://www.glitzkoin.com/",
+    "explorers": [
+        "https://stellar.expert/explorer/public/asset/GTN-GARFMAHQM4JDI55SK2FGEPLOZU7BTEODS3Y5QNT3VMQQIU3WV2HTBA46"
+    ],
+    "twitter": "glitzkointoken",
+    "facebook": "Glitzkoin",
+    "telegram": "glitzkoin_token",
+    "reddit": "glitzkoin/"
+}

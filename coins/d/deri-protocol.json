@@ -1,0 +1,32 @@
+{
+    "id": "deri-protocol",
+    "symbol": "deri",
+    "name": "Deri Protocol",
+    "platforms": {
+        "ethereum": "0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9",
+        "binance-smart-chain": "0xe60eaf5a997dfae83739e035b005a33afdcc6df5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Perpetuals",
+        "Decentralized Exchange Token (DEX)",
+        "Options",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Deri is a decentralized protocol for users to exchange risk exposures precisely and capital-efficiently. It is the DeFi way to trade derivatives: to hedge, to speculate, to arbitrage, all on chain. This is achieved by liquidity pools playing the roles of counterparties for users. With Deri protocol, risk exposures are tokenized as NFTs so that they can be imported into other DeFi projects for their own financial purposes. Having provided an effective on-chain mechanism to exchange and hold risks, Deri protocol has minted one of the most important blocks of the DeFi infrastructure."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9",
+    "url": "https://deri.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9",
+        "https://ethplorer.io/address/0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9",
+        "https://bscscan.com/token/0xe60eaf5A997DFAe83739e035b005A33AfdCc6df5"
+    ],
+    "twitter": "DeriProtocol",
+    "telegram": "DeriProtocol",
+    "github_org": "deri-finance"
+}

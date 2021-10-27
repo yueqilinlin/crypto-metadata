@@ -1,0 +1,23 @@
+{
+    "id": "skyrim-finance",
+    "symbol": "skyrim",
+    "name": "Skyrim Finance",
+    "platforms": {
+        "ethereum": "0x2610f0bfc21ef389fe4d03cfb7de9ac1e6c99d6e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Skyrim Finance is the first multi-chain decentralized structured finance marketplace. Skyrim Finance aims to build the Robo-Advisor of DeFi eco. The objective of Skyrim Finance is to help investors of different profiles have risk-adjusted return through fixed-rate and leveraged-yield DeFi products.\r\n\r\nThe DeFi market consists of two types of DeFi investors. We aim to create a blended product that fits between these two target markets, so that participants can have a single touch hedged approach to DeFi."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2610f0bfc21ef389fe4d03cfb7de9ac1e6c99d6e",
+    "url": "https://skyrim.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x2610f0bfc21ef389fe4d03cfb7de9ac1e6c99d6e",
+        "https://ethplorer.io/address/0x2610f0bfc21ef389fe4d03cfb7de9ac1e6c99d6e"
+    ],
+    "twitter": "SkyrimFinance",
+    "telegram": "skyrimfinance"
+}

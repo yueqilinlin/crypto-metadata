@@ -1,0 +1,24 @@
+{
+    "id": "aave-uni",
+    "symbol": "auni",
+    "name": "Aave UNI",
+    "platforms": {
+        "ethereum": "0xb9d7cb55f463405cdfbe4e90a6d2df01c2b92bf1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb9d7cb55f463405cdfbe4e90a6d2df01c2b92bf1",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1",
+        "https://ethplorer.io/address/0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1"
+    ],
+    "twitter": "aaveaave"
+}

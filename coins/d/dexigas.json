@@ -1,0 +1,24 @@
+{
+    "id": "dexigas",
+    "symbol": "dxg",
+    "name": "Dexigas",
+    "platforms": {
+        "binance-smart-chain": "0x8236f1239530971868925e6017d4005763e9087f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8236f1239530971868925e6017d4005763e9087f",
+    "url": "https://dexioprotocol.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8236f1239530971868925e6017d4005763e9087f"
+    ],
+    "twitter": "dexioprotocol",
+    "telegram": "dexiochat",
+    "reddit": "dexioprotocoltoken/",
+    "github_org": "dexioprotocol"
+}

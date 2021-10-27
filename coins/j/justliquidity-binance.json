@@ -1,0 +1,25 @@
+{
+    "id": "justliquidity-binance",
+    "symbol": "julb",
+    "name": "JustLiquidity Binance",
+    "platforms": {
+        "binance-smart-chain": "0x32dffc3fe8e3ef3571bf8a72c0d0015c5373f41d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x32dffc3fe8e3ef3571bf8a72c0d0015c5373f41d",
+    "url": "https://justliquidity.org ",
+    "explorers": [
+        "https://bscscan.com/token/0x32dffc3fe8e3ef3571bf8a72c0d0015c5373f41d"
+    ],
+    "twitter": "JustLiquidity",
+    "telegram": "justliquidity",
+    "github_org": "justliquidity"
+}

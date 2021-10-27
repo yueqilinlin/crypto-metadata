@@ -1,0 +1,26 @@
+{
+    "id": "tercet-network",
+    "symbol": "tcnx",
+    "name": "Tercet Network",
+    "platforms": {
+        "ethereum": "0x28d7f432d24ba6020d1cbd4f28bedc5a82f24320"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "Empower mobile gamers with blockchain based incentivised ads."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x28d7f432d24ba6020d1cbd4f28bedc5a82f24320",
+    "url": "https://tercet.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x28d7f432d24ba6020d1cbd4f28bedc5a82f24320",
+        "https://ethplorer.io/address/0x28d7f432d24ba6020d1cbd4f28bedc5a82f24320"
+    ],
+    "twitter": "TercetN",
+    "facebook": "TercetN",
+    "telegram": "TercetN"
+}

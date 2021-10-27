@@ -1,0 +1,26 @@
+{
+    "id": "ormeuscoin",
+    "symbol": "orme",
+    "name": "Ormeus Coin",
+    "platforms": {
+        "ethereum": "0xc96df921009b790dffca412375251ed1a2b75c60",
+        "binance-smart-chain": "0x7e2afe446a30fa67600a5174df7f4002b8e15b03"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ormeus Coin is the name of a new cryptocurrency assembled a team of cryptocurrency experts, programmers, and developers."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-08-23",
+    "contract_address": "0xc96df921009b790dffca412375251ed1a2b75c60",
+    "url": "https://ormeuscoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xc96df921009b790dffca412375251ed1a2b75c60",
+        "https://ethplorer.io/address/0xc96df921009b790dffca412375251ed1a2b75c60"
+    ],
+    "twitter": "ormeusecosystem",
+    "facebook": "ormeusecosystem",
+    "telegram": "OrmeusEcoSystemDAO",
+    "reddit": "OrmeusEcosystem/"
+}

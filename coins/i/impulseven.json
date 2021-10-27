@@ -1,0 +1,23 @@
+{
+    "id": "impulseven",
+    "symbol": "i7",
+    "name": "ImpulseVen",
+    "platforms": {
+        "ethereum": "0x560cc7de81b2a594f6518713cbe122bcf297a6e8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ImpulseVen is a complete decentralized finance ecosystem that offers a range of solutions, including lending, staking, farming, trading and a decentralized exchange all in one suite."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x560cc7de81b2a594f6518713cbe122bcf297a6e8",
+    "url": "https://www.impulseven.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x560cC7De81B2A594F6518713cBE122bCF297A6E8",
+        "https://ethplorer.io/address/0x560cC7De81B2A594F6518713cBE122bCF297A6E8"
+    ],
+    "twitter": "Impulse_ven?s=09",
+    "telegram": "ImpulseVen"
+}

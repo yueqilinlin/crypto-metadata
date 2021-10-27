@@ -1,0 +1,24 @@
+{
+    "id": "wise-token11",
+    "symbol": "wise",
+    "name": "Wise",
+    "platforms": {
+        "ethereum": "0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",
+        "harmony-shard-0": "0xe7e3c4d1cfc722b45a428736845b6aff862842a1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wise is a decentralized Ether-backed investment tool programmed to earn users' interest when locked up over periods of time (similar to a bond)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",
+    "url": "https://wisetoken.net",
+    "explorers": [
+        "https://etherscan.io/token/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",
+        "https://ethplorer.io/address/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6"
+    ],
+    "telegram": "wisetoken",
+    "github_org": "wise-foundation"
+}

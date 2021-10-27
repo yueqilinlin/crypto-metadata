@@ -1,0 +1,26 @@
+{
+    "id": "intercrone",
+    "symbol": "icr",
+    "name": "InterCrone",
+    "platforms": {
+        "tron": "TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "What is ISwap?\r\nThe one stop swap, earn and gaming platform.\r\nISwap is a TRON-based exchange protocol for exchanges between TRC20 tokens. \r\n\r\nInterCrone (ICR) is an TRC-20 asset that empowers community governance of the InterCrone World Ecosystem. \r\n\r\nICR Holder are able to Vote on Changes in the ISwap Protocol."
+    },
+    "country_origin": "AT",
+    "genesis_date": "2018-06-14",
+    "contract_address": "TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7",
+    "url": "https://intercroneswap.finance",
+    "explorers": [
+        "https://tronscan.org/#/token20/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7"
+    ],
+    "twitter": "IntercroneWorld",
+    "facebook": "InterCrone",
+    "telegram": "intercroneworld",
+    "github_org": "EdJoWa"
+}

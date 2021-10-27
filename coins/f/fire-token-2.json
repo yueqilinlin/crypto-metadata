@@ -1,0 +1,22 @@
+{
+    "id": "fire-token-2",
+    "symbol": "fire",
+    "name": "Fire Token",
+    "platforms": {
+        "binance-smart-chain": "0xbacbf768795c50fc5e877830a127276741651d0a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FIRE Token is a deflationary BEP-20 that uses the reflection model to benefit holders and guarantee the project longevity. What makes Fire Token different from the rest of the BEP-20 is that it has a built-in mechanism to guarantee funding for marketing and does not have Safemoon issues with the Liquidity Pool Tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbacbf768795c50fc5e877830a127276741651d0a",
+    "url": "https://firetoken.xyz/",
+    "explorers": [
+        "https://bscscan.com/token/0xBaCbF768795C50FC5E877830A127276741651D0a"
+    ],
+    "twitter": "FireToken6",
+    "github_org": "Fire-Token-Crypto"
+}

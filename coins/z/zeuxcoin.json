@@ -1,0 +1,24 @@
+{
+    "id": "zeuxcoin",
+    "symbol": "zuc",
+    "name": "ZeuxCoin",
+    "platforms": {
+        "ethereum": "0x6b4689e4514957699edeb2ee91c947f18e439806"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Where money never sleeps The simpler way to pay, bank and invest\r\nWe charge no fees for account opening, monthly subscription, money transfer or foreign exchange."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6b4689e4514957699edeb2ee91c947f18e439806",
+    "url": "https://www.zeux.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6b4689e4514957699edeb2ee91c947f18e439806",
+        "https://ethplorer.io/address/0x6b4689e4514957699edeb2ee91c947f18e439806"
+    ],
+    "twitter": "zeuxapp",
+    "facebook": "ZeuxApp",
+    "telegram": "zeuxapp"
+}

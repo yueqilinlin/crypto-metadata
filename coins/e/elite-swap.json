@@ -1,0 +1,24 @@
+{
+    "id": "elite-swap",
+    "symbol": "elt",
+    "name": "Elite Swap",
+    "platforms": {
+        "ethereum": "0x380291a9a8593b39f123cf39cc1cc47463330b1f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Elite Swap is Complete Fork of Uniswap With Defi Dashboard and Multichain Swap Protocol.\r\n\r\nDeFi represents a broad category of financial applications that are being developed on top of open, trust-minimized, programmable and censorship resistant networks to improve upon the legacy financial system or create entirely new use-cases. Today most of these new financial experiments are deployed on Ethereum."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x380291a9a8593b39f123cf39cc1cc47463330b1f",
+    "url": "https://eliteswap.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x380291a9a8593b39f123cf39cc1cc47463330b1f",
+        "https://ethplorer.io/address/0x380291a9a8593b39f123cf39cc1cc47463330b1f"
+    ],
+    "twitter": "EliteSwap2020",
+    "telegram": "EliteSwap",
+    "github_org": "EthereumEliteswap"
+}

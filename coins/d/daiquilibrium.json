@@ -1,0 +1,27 @@
+{
+    "id": "daiquilibrium",
+    "symbol": "daiq",
+    "name": "Daiquilibrium",
+    "platforms": {
+        "ethereum": "0x73d9e335669462cbdd6aa3adafe9efee86a37fe9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "Daiquilibrium (DAIQ) is an algorithmic stablecoin forked from code written by the Empty Set Dollar (ESD) and Dynamic Det Dollar (DSD) devs.We\u2019ve implemented a few custom features with original code, as well as a redesigned bootstrapping method which gives everyone the opportunity to buy at the same price, maximally reflexive to demand."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x73d9e335669462cbdd6aa3adafe9efee86a37fe9",
+    "url": "https://daiq.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x73D9E335669462Cbdd6aa3AdaFe9efeE86a37Fe9",
+        "https://ethplorer.io/address/0x73D9E335669462Cbdd6aa3AdaFe9efeE86a37Fe9"
+    ],
+    "twitter": "daiquilibrium",
+    "telegram": "daiquilibrium",
+    "github_org": "daiquilibrium"
+}

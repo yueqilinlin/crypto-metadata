@@ -1,0 +1,23 @@
+{
+    "id": "aditus",
+    "symbol": "adi",
+    "name": "Aditus",
+    "platforms": {
+        "ethereum": "0x8810c63470d38639954c6b41aac545848c46484a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Founded by veteran entrepreneurs by luxury and tech, Aditus is the world's first luxury access platform for crypto-affluents, aiming to connect this new crypto-affluent community with the luxury lifestyle they desire.  Aditus is a platform where crypto-affluents can access Smart Invitations from luxury merchants to enjoy their products, services or establishments in complete privacy. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x8810c63470d38639954c6b41aac545848c46484a",
+    "url": "http://www.aditus.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x8810c63470d38639954c6b41aac545848c46484a",
+        "https://ethplorer.io/address/0x8810c63470d38639954c6b41aac545848c46484a"
+    ],
+    "telegram": "aditusnetwork",
+    "github_org": "aditus"
+}

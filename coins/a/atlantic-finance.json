@@ -1,0 +1,23 @@
+{
+    "id": "atlantic-finance",
+    "symbol": "atfi",
+    "name": "Atlantic Finance",
+    "platforms": {
+        "ethereum": "0x8c680d0de5a9a3f6a99649d0a000225054934742"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Atlantic Finance works on smart contracts - a digital contract is similar to the contract in the physical world but based on blockchain technology. A smart contract translates an agreement to computer code and runs on the blockchain. Simply put, it\u2019s some code written inside the blockchain."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x8c680d0de5a9a3f6a99649d0a000225054934742",
+    "url": "https://atlantic.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x8c680d0de5a9a3f6a99649d0a000225054934742",
+        "https://ethplorer.io/address/0x8c680d0de5a9a3f6a99649d0a000225054934742"
+    ],
+    "twitter": "ATFIdefi",
+    "telegram": "atlanticfinance"
+}

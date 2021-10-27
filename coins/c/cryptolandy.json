@@ -1,0 +1,27 @@
+{
+    "id": "cryptolandy",
+    "symbol": "crypl",
+    "name": "Cryptolandy",
+    "platforms": {
+        "ethereum": "0x1062fdf250b44697216d07e41df93824519f47aa",
+        "binance-smart-chain": "0xe981fb167ec130a1bf31510993e9b553092f0e4e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "Cryptolandy describes itself as an augmented reality game where game token owners control the development and management of the project. The game will pay prizes in the form of cryptocurrency to tournaments winners. The tournaments and payments themselves will be controlled by the 12 owners of the largest number of Cryptolandy tokens."
+    },
+    "country_origin": "ZZ",
+    "genesis_date": null,
+    "contract_address": "0x1062fdf250b44697216d07e41df93824519f47aa",
+    "url": "https://cryptolandy.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1062fdf250b44697216d07e41df93824519f47aa",
+        "https://ethplorer.io/address/0x1062fdf250b44697216d07e41df93824519f47aa"
+    ],
+    "twitter": "cryptolandy1",
+    "facebook": "cryptolandy",
+    "telegram": "cryptolandy"
+}

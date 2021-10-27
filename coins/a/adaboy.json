@@ -1,0 +1,23 @@
+{
+    "id": "adaboy",
+    "symbol": "adaboy",
+    "name": "ADABoy",
+    "platforms": {
+        "binance-smart-chain": "0x1e653794a6849bc8a78be50c4d48981afad6359d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ADABoy Token is a BEP-20 token that rewards holders Binance-Peg Cardano (ADA) automatically."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1e653794a6849bc8a78be50c4d48981afad6359d",
+    "url": "https://adaboytoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x1e653794a6849bc8a78be50c4d48981afad6359d"
+    ],
+    "twitter": "adaboytoken",
+    "telegram": "Adaboytoken",
+    "github_org": "RealADABoy"
+}

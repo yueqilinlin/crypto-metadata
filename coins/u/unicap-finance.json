@@ -1,0 +1,23 @@
+{
+    "id": "unicap-finance",
+    "symbol": "ucap",
+    "name": "Unicap.Finance",
+    "platforms": {
+        "ethereum": "0xbaa70614c7aafb568a93e62a98d55696bcc85dfe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crypto Exchange-Traded Multi Pool & DeFi ecosystem. \u0421ollateralized Swap Token UCAP."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xbaa70614c7aafb568a93e62a98d55696bcc85dfe",
+    "url": "https://unicap.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xbaA70614C7AAfB568a93E62a98D55696bcc85DFE",
+        "https://ethplorer.io/address/0xbaa70614c7aafb568a93e62a98d55696bcc85dfe"
+    ],
+    "twitter": "unicapfinance",
+    "telegram": "unicapfinance"
+}

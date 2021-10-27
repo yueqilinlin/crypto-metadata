@@ -1,0 +1,25 @@
+{
+    "id": "dbx-2",
+    "symbol": "dbx",
+    "name": "DBX",
+    "platforms": {
+        "ethereum": "0x3cbc780d2934d55a06069e837fabd3e6fc23dab0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DBX is a digital asset, open-source, decentralized POS & POW Blockchain technology.\r\n\r\nDBX Ecosystem is a fast service for digital community infrastructures."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0x3cbc780d2934d55a06069e837fabd3e6fc23dab0",
+    "url": "https://www.dbx.so/",
+    "explorers": [
+        "https://etherscan.io/token/0x3cbc780d2934d55a06069e837fabd3e6fc23dab0",
+        "https://ethplorer.io/address/0x3cbc780d2934d55a06069e837fabd3e6fc23dab0"
+    ],
+    "twitter": "dbx_network",
+    "facebook": "dbxecosystem",
+    "telegram": "dbx_network",
+    "github_org": "DBXnetwork"
+}

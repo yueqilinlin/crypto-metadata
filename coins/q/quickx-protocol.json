@@ -1,0 +1,28 @@
+{
+    "id": "quickx-protocol",
+    "symbol": "qcx",
+    "name": "QuickX Protocol",
+    "platforms": {
+        "ethereum": "0xf9e5af7b42d31d51677c75bbbd37c1986ec79aee"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "QuickX is a novel protocol designed specifically to cure the many fatal flaws that are hindering the mass adoption of Cryptocurrencies today. It performs transactions off the chain for same Blockchain assets and utilizes pooling facilitators who supply liquidity for cross chain transfers of crypto assets"
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "contract_address": "0xf9e5af7b42d31d51677c75bbbd37c1986ec79aee",
+    "url": "https://www.quickx.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xf9e5af7b42d31d51677c75bbbd37c1986ec79aee",
+        "https://ethplorer.io/address/0xf9e5af7b42d31d51677c75bbbd37c1986ec79aee"
+    ],
+    "twitter": "quickxprotocol",
+    "facebook": "quickxprotocol",
+    "telegram": "quickxprotocol",
+    "reddit": "QuickX",
+    "github_org": "quickxprotocol"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "pica",
+    "symbol": "pica",
+    "name": "PICA",
+    "platforms": {
+        "ethereum": "0x1ece1739dae08253ae582c404511b37355b42c84"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Social Money"
+    ],
+    "description": {
+        "en": "PICA is the social money of the online community \"Les Collectionneurs\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1ece1739dae08253ae582c404511b37355b42c84",
+    "url": "https://app.tryroll.com/token/PICA",
+    "explorers": [
+        "https://etherscan.io/token/0x1eCe1739DAE08253aE582C404511B37355B42C84",
+        "https://ethplorer.io/address/0x1eCe1739DAE08253aE582C404511B37355B42C84"
+    ],
+    "twitter": "Collections_NFT"
+}

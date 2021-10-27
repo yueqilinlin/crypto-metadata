@@ -1,0 +1,23 @@
+{
+    "id": "cy-finance",
+    "symbol": "cyf",
+    "name": "CY Finance",
+    "platforms": {
+        "ethereum": "0xdb33d49b5a41a97d296b7242a96ebd8ac77b3bb8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CY Finance (CYF) is a utility Token used in the CY Finance Investment Platform.\r\nThe CY Finance (CYF) allows you to access, manage, and transact with digital assets that are kept securely on the blockchain."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xdb33d49b5a41a97d296b7242a96ebd8ac77b3bb8",
+    "url": "https://cy.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xdB33d49b5a41A97D296B7242a96ebd8AC77B3Bb8",
+        "https://ethplorer.io/address/0xdb33d49b5a41a97d296b7242a96ebd8ac77b3bb8"
+    ],
+    "twitter": "CYFinanceLtd",
+    "telegram": "CYFinance"
+}

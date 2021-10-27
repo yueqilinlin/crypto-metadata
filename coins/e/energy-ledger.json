@@ -1,0 +1,24 @@
+{
+    "id": "energy-ledger",
+    "symbol": "elx",
+    "name": "Energy Ledger",
+    "platforms": {
+        "ethereum": "0x9048c33c7bae0bbe9ad702b17b4453a83900d154",
+        "binance-smart-chain": "0x896ffea66a487b183b4af9e75ba5922025994f08"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Energy Ledger is a company and token seeking to provide an energy value trade platform on the blockchain for the management of oil from ground to barrel to distribution."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x9048c33c7bae0bbe9ad702b17b4453a83900d154",
+    "url": "https://energyledger.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x9048c33c7bae0bbe9ad702b17b4453a83900d154",
+        "https://ethplorer.io/address/0x9048c33c7bae0bbe9ad702b17b4453a83900d154"
+    ],
+    "twitter": "energy_ledger",
+    "telegram": "ELXOFFICIALGROUP"
+}

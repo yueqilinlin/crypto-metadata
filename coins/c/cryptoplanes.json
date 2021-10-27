@@ -1,0 +1,23 @@
+{
+    "id": "cryptoplanes",
+    "symbol": "cpan",
+    "name": "CryptoPlanes",
+    "platforms": {
+        "binance-smart-chain": "0x04260673729c5f2b9894a467736f3d85f8d34fc8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CryptoPlanes is an expansion of the CryptoCity metaverse. The place where the famous NFT racing game CryptoCars was founded.\r\nWith this expansion, CryptoPlanes brings new experiences, beautiful NFT Planes, and exciting game modes."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x04260673729c5f2b9894a467736f3d85f8d34fc8",
+    "url": "https://cryptoplanes.me/",
+    "explorers": [
+        "https://bscscan.com/token/0x04260673729c5f2b9894a467736f3d85f8d34fc8"
+    ],
+    "twitter": "NFTCryptoPlanes",
+    "telegram": "CryptoPlanesGlobal",
+    "github_org": "cryptocitymetaverse"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "mr-burns-token",
+    "symbol": "burns",
+    "name": "Mr Burns Token",
+    "platforms": {
+        "binance-smart-chain": "0xef2b50f81b4cfae72bb1a6499a5980e665e2a0a7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mr. Burns is a community-driven and autonomous liquidity generation Defi protocol built on Binance Smart Chain. Mr. Burns brings the most revolutionary mechanism to the BSC ecosystem. With the help of Mr. Burns\u2019 revolutionary mechanism holders will have a chance to win a reward every 37 transactions.\r\nAll major decisions will be taken after taking the feedback from the community or by the community directly. Your responsibility is to buy more and sell little to ensure you always have a chance of winning the BURNS Lottery Pot.\r\nor every buy there is a sell and now a pre-burn and a post burn! Burn Burn Burn\u2026.Excellent! 25% of the total supply pool has already been permanently destroyed to increase its relative scarcity. This guarantees that the value of the coin will not get drowned out by its supply. And on every transaction, another 2% of the transaction amount is burned."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xef2b50f81b4cfae72bb1a6499a5980e665e2a0a7",
+    "url": "https://mrburns.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xef2b50f81b4cfae72bb1a6499a5980e665e2a0a7"
+    ],
+    "twitter": "MrBurnstoken",
+    "telegram": "mrburntoken"
+}

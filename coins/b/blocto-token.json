@@ -1,0 +1,23 @@
+{
+    "id": "blocto-token",
+    "symbol": "blt",
+    "name": "Blocto Token",
+    "platforms": {
+        "solana": "BLT1noyNr3GttckEVrtcfC6oyK6yV1DpPgSyXbncMwef"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Blocto is a cross-chain, integrated smart contract wallet service designed for both developers and users. In the vision we would like to be the Steam for dApps, A cross-chain dApp ecosystem for dApps to grow exponentially. \r\nBlocto token (BLT) is the utility and governance token of Blocto, which serves as the foundation of our ecosystem and the interconnective link between the wallet, Blocto-made products, and our users."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "BLT1noyNr3GttckEVrtcfC6oyK6yV1DpPgSyXbncMwef",
+    "url": "https://blocto.portto.com/",
+    "explorers": [
+        "https://solscan.io/token/BLT1noyNr3GttckEVrtcfC6oyK6yV1DpPgSyXbncMwef"
+    ],
+    "twitter": "BloctoApp",
+    "telegram": "blocto",
+    "github_org": "portto"
+}

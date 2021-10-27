@@ -1,0 +1,23 @@
+{
+    "id": "miss-doge",
+    "symbol": "mdoge",
+    "name": "Miss Doge",
+    "platforms": {
+        "binance-smart-chain": "0xa72ff2b799324b042ae379809ee54dace99db3a5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MissDoge is a project developed on the Binance Smart Chain platform with the goal of bringing value to the community through specific and transparent strategies."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa72ff2b799324b042ae379809ee54dace99db3a5",
+    "url": "https://missdoge.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xA72Ff2B799324B042AE379809eE54dACE99db3A5"
+    ],
+    "twitter": "DogeMiss",
+    "telegram": "missdoge",
+    "github_org": "MissDoge"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "ethereumsc",
+    "symbol": "ethsc",
+    "name": "EthereumSC",
+    "platforms": {
+        "ethereum": "0xcfd069247bd5f01a17f1ca76424c9e424256908d"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "ETHSC is a project that has been developed from January 2020. From the beginning of its creation up to its implementation, excellence has been the focus of each improvement.\r\n\r\nWe believe that the Blockchain technology can innovate and transform the financial market. Our goal is to speed the acceptance process of digital assets, creating a new product with a more accessible and beneficial value."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xcfd069247bd5f01a17f1ca76424c9e424256908d",
+    "url": "https://ethereumsc.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xcfd069247bd5f01a17f1ca76424c9e424256908d",
+        "https://ethplorer.io/address/0xcfd069247bd5f01a17f1ca76424c9e424256908d"
+    ]
+}

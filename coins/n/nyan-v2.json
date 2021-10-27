@@ -1,0 +1,25 @@
+{
+    "id": "nyan-v2",
+    "symbol": "nyan-2",
+    "name": "Nyan V2",
+    "platforms": {
+        "ethereum": "0xbf4a9a37ecfc21825011285222c36ab35de51f14"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "Nyan V2 is a decentralized governance token/ fund that allows stakers to vote on how contract funds are spent."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xbf4a9a37ecfc21825011285222c36ab35de51f14",
+    "url": "https://nyan.finance/landing/intro",
+    "explorers": [
+        "https://etherscan.io/token/0xbF4a9A37EcFc21825011285222c36aB35De51F14",
+        "https://ethplorer.io/address/0xbf4a9a37ecfc21825011285222c36ab35de51f14"
+    ],
+    "twitter": "nyanfinance",
+    "telegram": "nyanfinance"
+}

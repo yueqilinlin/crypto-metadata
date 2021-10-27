@@ -1,0 +1,32 @@
+{
+    "id": "peri-finance",
+    "symbol": "peri",
+    "name": "PERI Finance",
+    "platforms": {
+        "ethereum": "0x5d30ad9c6374bf925d0a75454fa327aacf778492",
+        "binance-smart-chain": "0xb49b7e0742ecb4240ffe91661d2a580677460b6a",
+        "polygon-pos": "0xdc0e17eae3b9651875030244b971fa0223a1764f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synthetic Issuer",
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "PERI Finance is a decentralized cross-chain synthetic issuance and derivative exchange protocol that provides unlimited liquidity on the Polkadot network. With PERI finance, anyone can access traditional financial products and crypto assets without hustles and bustles. Additionally, PERI Finance provides solutions to current issues suffering Defi-projects on Ethereum including absurdly high GAS fee, slow transaction speed and the possibility of various attacks such as front running and flash loan by harnessing Layer2 with OVM(Optimistic Virtual Machine).\r\n \r\nOn PERI Finance, anyone can enjoy the opportunity to accessing a wide range of traditional financial and crypto assets in the forms of both unleveraged and leveraged synthetic products by removing difficult procedures and inconvenient processes which are obligatory for anyone to be exposed to the investment assets in the traditional financial market. By simply staking PERI and minting pUSD, users can convert one asset to another or open long or short positions of leveraged contracts underlying various assets without any restriction. Pynth, stands for Peri Synthetic asset, is a synthetic asset that price follows the price of the underlying asset. Pynths currently provided by PERI Exchange are Forex, Crypto Currency and Commodity."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x5d30ad9c6374bf925d0a75454fa327aacf778492",
+    "url": "https://www.pynths.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x5d30aD9C6374Bf925D0A75454fa327AACf778492",
+        "https://ethplorer.io/address/0x5d30aD9C6374Bf925D0A75454fa327AACf778492",
+        "https://bscscan.com/token/0xb49b7e0742ecb4240ffe91661d2a580677460b6a",
+        "https://polygonscan.com/token/0xDC0E17eAE3B9651875030244b971fa0223a1764f"
+    ],
+    "twitter": "PERIfinance",
+    "telegram": "peri_global",
+    "reddit": "PERI_Finance/",
+    "github_org": "perifinance"
+}

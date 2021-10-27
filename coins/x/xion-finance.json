@@ -1,0 +1,25 @@
+{
+    "id": "xion-finance",
+    "symbol": "xgt",
+    "name": "Xion Finance",
+    "platforms": {
+        "binance-smart-chain": "0xc25af3123d2420054c8fcd144c21113aa2853f39"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem"
+    ],
+    "description": {
+        "en": "Xion is the next generation of payment portals. Bringing cross chain decentralised payments, loyalty and financial rewards to a global commerce industry. \r\n\r\nProblem: high transaction/gas fees, lack of loyalty programs, locked sales revenue and merchant underwriting processes.\r\n\r\nSolution: 0% transaction fees(micro transactions), 100% cashback rewards, loyalty programs, own access to funds and instant time to market.\r\n\r\nIt is the first ever cross-chain decentralized e-commerce and finance ecosystem that allows users to intuitively earn passive income, trading fees and cashback on their purchases.\r\n\r\nThis coupled with our all-star team with 30+ years of marketing experience, positions Xion to disrupt the payment system industry and become a true leader in the space.\r\n\r\nThink \u2018Stripe\u2019 for web3.\r\n\r\nBacked by industry leading experts: CertiK, GD10, Lupa X, Metrix Capital, SkyVision Capital, DarkPool liquidity, Twin Apex, Tokenova and more!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc25af3123d2420054c8fcd144c21113aa2853f39",
+    "url": "https://xion.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xc25af3123d2420054c8fcd144c21113aa2853f39"
+    ],
+    "twitter": "xionfinance",
+    "telegram": "xionglobal",
+    "github_org": "xion-global"
+}

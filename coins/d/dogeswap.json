@@ -1,0 +1,23 @@
+{
+    "id": "dogeswap",
+    "symbol": "doges",
+    "name": "Dogeswap",
+    "platforms": {
+        "ethereum": "0xb4fbed161bebcb37afb1cb4a6f7ca18b977ccb25"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "IT",
+    "genesis_date": null,
+    "contract_address": "0xb4fbed161bebcb37afb1cb4a6f7ca18b977ccb25",
+    "url": "https://www.doge-swap.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xb4FBed161bEbcb37afB1Cb4a6F7cA18b977cCB25",
+        "https://ethplorer.io/address/0xb4FBed161bEbcb37afB1Cb4a6F7cA18b977cCB25"
+    ],
+    "twitter": "dogeswap_",
+    "telegram": "dogeswap"
+}

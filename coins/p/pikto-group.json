@@ -1,0 +1,22 @@
+{
+    "id": "pikto-group",
+    "symbol": "pkp",
+    "name": "Pikto Group",
+    "platforms": {
+        "ethereum": "0x6a532b08c654a1a86069b74c560d8fa0ff842218"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0x6a532b08c654a1a86069b74c560d8fa0ff842218",
+    "url": "https://pkptoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6A532b08c654A1A86069b74C560d8Fa0ff842218",
+        "https://ethplorer.io/address/0x6A532b08c654A1A86069b74C560d8Fa0ff842218"
+    ],
+    "telegram": "PKPtoken"
+}

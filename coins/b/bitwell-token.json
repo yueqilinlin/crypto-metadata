@@ -1,0 +1,23 @@
+{
+    "id": "bitwell-token",
+    "symbol": "well",
+    "name": "Bitwell Token",
+    "platforms": {
+        "ethereum": "0x1b06b43f3b0bbad73784d858c782e029f3f5af14"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Issued by Bitwell Exchange, WELL (Bitwell Coin) is the cornerstone of the Bitwell ecosystem. WELL provides the underlying drive for the entire ecosystem.\r\nBitwell will ensure a reasonable and stable price of WELL, continuously improve its intrinsic value, maintain the health of the Bitwell ecosystem, expand its coverage, and provide more value links for all participants.\r\nWELL can be used Transaction fees for all products listed on Bitwell Exchange (including but not limited to the primary and secondary markets, and the OTC market); Initial margin for contracts; Community management measures (such as campaigns, and major issues voting); Means of payment for buying special derivatives and products/services provided by vendors."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x1b06b43f3b0bbad73784d858c782e029f3f5af14",
+    "url": "https://www.bitwellex.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1b06B43f3b0bBAd73784d858c782e029F3F5Af14",
+        "https://ethplorer.io/address/0x1b06B43f3b0bBAd73784d858c782e029F3F5Af14"
+    ],
+    "twitter": "BitwellGlobal",
+    "telegram": "BitWell_English"
+}

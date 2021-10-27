@@ -1,0 +1,29 @@
+{
+    "id": "husd",
+    "symbol": "husd",
+    "name": "HUSD",
+    "platforms": {
+        "ethereum": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+        "huobi-token": "0x0298c2b32eae4da002a15f36fdf7615bea3da047",
+        "sora": "0x008ba21aa988b21e86d5b25ed9ea690d28a6ba6c5ba9037424c215fd5b193c32"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "USD Stablecoin",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "HUSD Token is issued by Stable Universal, with a 1:1 USD peg. Paxos Trust Company will act as the USD asset custodian, and HUSD Token will be subject to a monthly attestations."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+    "url": "https://www.stcoins.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+        "https://ethplorer.io/address/0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+        "https://hecoinfo.com/token/0x0298c2b32eae4da002a15f36fdf7615bea3da047"
+    ],
+    "twitter": "Stablecoin_HUSD",
+    "github_org": "stcoins"
+}

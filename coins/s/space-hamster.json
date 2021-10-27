@@ -1,0 +1,23 @@
+{
+    "id": "space-hamster",
+    "symbol": "hams",
+    "name": "Space Hamster",
+    "platforms": {
+        "solana": "A2T2jDe2bxyEHkKtS8AtrTRmJ9VZRwyY8Kr7oQ8xNyfb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HAMS is a community, Solana blockchain token. It has a great use case.The token is fully community driven. So far we have built several ready to use products - Decentralized exchange and NFT Marketplace  and plan to develop further.HAMS also has its own unique NFT collection."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "A2T2jDe2bxyEHkKtS8AtrTRmJ9VZRwyY8Kr7oQ8xNyfb",
+    "url": "https://solhamster.space/",
+    "explorers": [
+        "https://solscan.io/token/A2T2jDe2bxyEHkKtS8AtrTRmJ9VZRwyY8Kr7oQ8xNyfb"
+    ],
+    "twitter": "sol_hamster",
+    "telegram": "SolHamster",
+    "github_org": "LeRoYGo"
+}

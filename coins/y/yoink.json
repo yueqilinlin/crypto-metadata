@@ -1,0 +1,23 @@
+{
+    "id": "yoink",
+    "symbol": "ynk",
+    "name": "Yoink",
+    "platforms": {
+        "ethereum": "0x87c00817abe35ed4c093e59043fae488238d2f74"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YOINK is a simple yet elegant protocol encompassing deflationary characteristics with a sneaky little twist."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x87c00817abe35ed4c093e59043fae488238d2f74",
+    "url": "https://yoink.rocks/",
+    "explorers": [
+        "https://etherscan.io/token/0x87c00817abe35ed4c093e59043fae488238d2f74",
+        "https://ethplorer.io/address/0x87c00817abe35ed4c093e59043fae488238d2f74"
+    ],
+    "twitter": "yoinknetwork",
+    "telegram": "yoinkofficial"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "bitcoin-scrypt",
+    "symbol": "btcs",
+    "name": "Bitcoin Scrypt",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Bitcoin Scrypt allows for decentralized development by allowing users to vote on development issues based on coin ownership percentages. This will prevent a situation similar to <a href=\"https://www.coingecko.com/en/price_charts/bitcoin/usd\">Bitcoin</a> where development follows a centralized approach. Users can also propose issues to vote on such as whether to change to hashing algorithm, introduce anonymity feature etc."
+    },
+    "country_origin": "",
+    "genesis_date": "2013-09-08",
+    "url": "https://bitcoinscrypt.io/",
+    "explorers": [
+        "http://btcs.altcoinwarz.com:3005/",
+        "http://blockchain-explorer.com/"
+    ],
+    "twitter": "theotherbitcoin",
+    "facebook": "theotherbitcoin",
+    "telegram": "BitcoinScryptOfficial",
+    "github_org": "bitcoin-scrypt"
+}

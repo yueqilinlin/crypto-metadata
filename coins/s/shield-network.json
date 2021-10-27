@@ -1,0 +1,22 @@
+{
+    "id": "shield-network",
+    "symbol": "shieldnet",
+    "name": "Shield Network",
+    "platforms": {
+        "binance-smart-chain": "0xf2e00684457de1a3c87361bc4bfe2de92342306c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf2e00684457de1a3c87361bc4bfe2de92342306c",
+    "url": "https://www.shieldnetwork.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xf2e00684457de1a3c87361bc4bfe2de92342306c"
+    ],
+    "twitter": "shieldnetio",
+    "telegram": "shieldnetio"
+}

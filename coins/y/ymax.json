@@ -1,0 +1,23 @@
+{
+    "id": "ymax",
+    "symbol": "ymax",
+    "name": "YMAX",
+    "platforms": {
+        "ethereum": "0x062f90480551379791fbe2ed74c1fe69821b30d3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yield Market Aggregator Exchange\r\n\r\nYMAX is designed to harvest the most attractive risk-adjusted yield across DeFi protocols. It will support major stablecoins. Depositing supported tokens into the yield markets, you will receive corresponding YMAX.YMAX token is for governance and ecosystem incentives"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x062f90480551379791fbe2ed74c1fe69821b30d3",
+    "url": "https://ymax.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x062f90480551379791FBe2ED74C1fe69821b30d3",
+        "https://ethplorer.io/address/0x062f90480551379791FBe2ED74C1fe69821b30d3"
+    ],
+    "twitter": "ymaxfinance",
+    "telegram": "ymaxfinance"
+}

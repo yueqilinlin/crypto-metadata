@@ -1,0 +1,33 @@
+{
+    "id": "snowball-token",
+    "symbol": "snob",
+    "name": "Snowball",
+    "platforms": {
+        "avalanche": "0xc38f41a296a4493ff429f1238e030924a1542e50"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Automated Market Maker (AMM)",
+        "Governance",
+        "Exchange-based Tokens",
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)",
+        "Avalanche Ecosystem",
+        "Yield Farming",
+        "Yield Aggregator"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc38f41a296a4493ff429f1238e030924a1542e50",
+    "url": "https://snowball.network/",
+    "explorers": [
+        "https://avascan.info/blockchain/c/token/0xc38f41a296a4493ff429f1238e030924a1542e50",
+        "https://cchain.explorer.avax.network/address/0xC38f41A296A4493Ff429F1238e030924A1542e50/transactions"
+    ],
+    "twitter": "snowballdefi",
+    "telegram": "throwsnowballs",
+    "github_org": "Snowball-Finance"
+}

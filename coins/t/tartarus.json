@@ -1,0 +1,23 @@
+{
+    "id": "tartarus",
+    "symbol": "tar",
+    "name": "Tartarus",
+    "platforms": {
+        "ethereum": "0xc567bca531992352166252ea5121e535432e81ed"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The central token of the Tartarus Network, bridging liquidity everywhere, always."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc567bca531992352166252ea5121e535432e81ed",
+    "url": "https://tartarus-group.com",
+    "explorers": [
+        "https://etherscan.io/token/0xc567bca531992352166252ea5121e535432e81ed",
+        "https://ethplorer.io/address/0xc567bca531992352166252ea5121e535432e81ed"
+    ],
+    "twitter": "GroupTartarus",
+    "telegram": "TartarusGroup"
+}

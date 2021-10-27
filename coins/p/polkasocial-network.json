@@ -1,0 +1,23 @@
+{
+    "id": "polkasocial-network",
+    "symbol": "psn",
+    "name": "Polkasocial Network",
+    "platforms": {
+        "binance-smart-chain": "0xadb005659b1b99cbecc8b706750938cad941290d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized Social Network \u201cLet\u2019s be social, but let\u2019s be decentralized!\u201d powered by Polkadot"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xadb005659b1b99cbecc8b706750938cad941290d",
+    "url": "https://polkasocial.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xadb005659b1b99cbecc8b706750938cad941290d"
+    ],
+    "twitter": "polkasocial",
+    "telegram": "polkasocial",
+    "github_org": "Polkasocial"
+}

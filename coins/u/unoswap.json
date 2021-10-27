@@ -1,0 +1,24 @@
+{
+    "id": "unoswap",
+    "symbol": "unos",
+    "name": "UnoSwap",
+    "platforms": {
+        "ethereum": "0xd18a8abed9274edbeace4b12d86a8633283435da"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Unos.finance is a permission-less decentralized DeFi protocol that combines spot trading services and money markets with lending and borrowing services through smart contracts. In the money markets, the interest rates and collateralization ratio are based on supply, demand, and other market forces and borrowing limits are decided by liquidity in the trading pairs. "
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0xd18a8abed9274edbeace4b12d86a8633283435da",
+    "url": "https://unos.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xd18A8abED9274eDBEace4B12D86A8633283435Da",
+        "https://ethplorer.io/address/0xd18A8abED9274eDBEace4B12D86A8633283435Da"
+    ],
+    "twitter": "UnosFinance",
+    "telegram": "unoswapfin",
+    "github_org": "unosadmins"
+}

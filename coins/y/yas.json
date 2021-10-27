@@ -1,0 +1,22 @@
+{
+    "id": "yas",
+    "symbol": "yas",
+    "name": "YAS",
+    "platforms": {
+        "eos": ""
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [],
+    "description": {
+        "en": "YAS token creation contract is now live. You simply send EIDOS tokens to the contract named yasminttoken and you will instantly be issued YAS. You can also send back your YAS to the same contract and you will be refunded EIDOS. Only 100M YAS will be minted. There will be no more YAS lockup. YAS token contract is in the account named yastokencode. YAS will be minted and burned on demand as users will interact with the contract."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://eidos.one/",
+    "explorers": [
+        "https://bloks.io/tokens/YAS-eos-yastokencode"
+    ],
+    "twitter": "enumivo",
+    "telegram": "eidosgroup",
+    "github_org": "enumivo"
+}

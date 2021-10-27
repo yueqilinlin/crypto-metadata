@@ -1,0 +1,29 @@
+{
+    "id": "origintrail",
+    "symbol": "trac",
+    "name": "OriginTrail",
+    "platforms": {
+        "ethereum": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem",
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "SI",
+    "genesis_date": "2018-01-24",
+    "contract_address": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+    "url": "https://origintrail.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+        "https://ethplorer.io/address/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f"
+    ],
+    "twitter": "origin_trail",
+    "facebook": "origintrail",
+    "telegram": "origintrail",
+    "reddit": "origintrail",
+    "github_org": "OriginTrail"
+}

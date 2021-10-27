@@ -1,0 +1,24 @@
+{
+    "id": "arcticcoin",
+    "symbol": "arc",
+    "name": "Advanced Technology Coin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "ARC - this private digital currency that allows you to make instant payments all over the world. ARC uses the rank 2 network architecture that ensures high network security, as well as the possibility of introducing unique improvements and developments. ARC allows you to make payments instantly and without limit, while maintaining high financial anonymity.\r\n\r\nAll transactions are published in the blockchain, making publicly available all the operations of sending and receiving money. But, unlike the Bitcoin, using ARC, through the use of built-in anonymization technology (SpySend), track user fees becomes practically impossible, thus ensuring maximum privacy.\r\n\r\nThe innovative architecture of the decentralized network Goldmine provides maximum network security, and enables money transfers almost instantly due to the new system of distributed network Goldmine confirm transactions. This provides a significant advantage over the Bitcoin, in which transactions are confirmed only Miner to that spent much more time."
+    },
+    "country_origin": "",
+    "genesis_date": "2016-08-07",
+    "url": "https://advtech.group/",
+    "explorers": [
+        "http://explorer.advtech.group/"
+    ],
+    "twitter": "ARC_Tech_Coin",
+    "facebook": "advtech.official",
+    "telegram": "Advanced_Technology_Coin",
+    "reddit": "ArcticCoin/",
+    "github_org": "AdvancedTechnologyCoin"
+}

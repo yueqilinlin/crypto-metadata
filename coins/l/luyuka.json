@@ -1,0 +1,23 @@
+{
+    "id": "luyuka",
+    "symbol": "lyk",
+    "name": "Luyuka",
+    "platforms": {
+        "avalanche": "0xb3f52c360201201d366efd2cda4db78e00cb9d5d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Luyuka is the logical evolution of decentralized finance, allowing everyone to tokenize their yield in order to hedge their risk, trade the volatility of APYs and take advantage of arbitrage opportunities. Luyuka will add a new dimension to the DeFi, which will result in a more efficient ecosystem.\r\n\r\nDespite the many developments in DeFi since its inception, the current ecosystem still suffers from a major problem: high fluctuation of yields. This high volatility results in a lack of predictability for investors, traders and farmers, which ultimately leads to inefficient decision making.\r\n\r\nLuyuka is a platform which allows anyone to tokenize his future yield directly on-chain.It allows anyone to sell the future yield tokens when the yields are high in order to get upfront cash for the unrealized yield and thus hedging their risk. With Luyuka, no more worries about the evolution of your APYs, you can finally sleep on your ears. Our protocol also enables people to speculate on future interest rates and gain exposure to the markets without owning capital-heavy assets, to perform arbitrage to take profit of the market inefficiencies and the volatility of the market, as well as to gain exposure in a more capital-efficient manner without the worry of collateralization and liquidation risk."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb3f52c360201201d366efd2cda4db78e00cb9d5d",
+    "url": "https://luyuka.xyz/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0xb3f52c360201201d366eFD2cDa4DB78e00cB9D5D/token-transfers"
+    ],
+    "twitter": "luyuka_defi",
+    "telegram": "luyukacom",
+    "github_org": "Luyuka"
+}

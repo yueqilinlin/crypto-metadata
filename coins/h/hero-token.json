@@ -1,0 +1,28 @@
+{
+    "id": "hero-token",
+    "symbol": "raise",
+    "name": "Raise Token",
+    "platforms": {
+        "ethereum": "0x10ba8c420e912bf07bedac03aa6908720db04e0c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x10ba8c420e912bf07bedac03aa6908720db04e0c",
+    "url": "https://raise.it/",
+    "explorers": [
+        "https://etherscan.io/token/0x10ba8c420e912bf07bedac03aa6908720db04e0c",
+        "https://ethplorer.io/address/0x10ba8c420e912bf07bedac03aa6908720db04e0c"
+    ],
+    "twitter": "raise_hq",
+    "facebook": "RaiseitHQ",
+    "telegram": "raisehq",
+    "reddit": "HeroToken/",
+    "github_org": "raisehq"
+}

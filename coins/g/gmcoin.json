@@ -1,0 +1,25 @@
+{
+    "id": "gmcoin",
+    "symbol": "gm",
+    "name": "GM Holding",
+    "platforms": {
+        "waves": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "GM Holding is Colombian company specialized in tokenization\r\nof projects and exploitation of the mining titles of the Colombian territory, exploitation of minerals such as Gold and Emeralds with their concessions.\r\n\r\nGMcoin was created to leverage mining activities, mainly on 2 mining titles in the territory of Colombia. GMcoin will be backed 100% with Colombian minerals"
+    },
+    "country_origin": "CO",
+    "genesis_date": null,
+    "url": "https://gmholding.info/",
+    "explorers": [
+        "https://wavesexplorer.com/tx/GCcQTo78M7GTMCKFmn4qULtw79SQfUio1cy8ZX1QjjLi",
+        "http://dev.pywaves.org/assets/GCcQTo78M7GTMCKFmn4qULtw79SQfUio1cy8ZX1QjjLi"
+    ],
+    "twitter": "GMHOLDING09",
+    "facebook": "GMHolding7",
+    "github_org": "Brunoziye"
+}

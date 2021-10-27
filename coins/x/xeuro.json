@@ -1,0 +1,27 @@
+{
+    "id": "xeuro",
+    "symbol": "xeuro",
+    "name": "XEuro",
+    "platforms": {
+        "ethereum": "0xe577e0b200d00ebdecbfc1cd3f7e8e04c70476be"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Stablecoin issued by Etna Development (STEX)"
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0xe577e0b200d00ebdecbfc1cd3f7e8e04c70476be",
+    "url": "https://xeuro.online/",
+    "explorers": [
+        "https://etherscan.io/token/0xe577e0B200d00eBdecbFc1cd3F7E8E04C70476BE",
+        "https://ethplorer.io/address/0xe577e0b200d00ebdecbfc1cd3f7e8e04c70476be"
+    ],
+    "twitter": "xEuroOnline",
+    "facebook": "xEuro",
+    "telegram": "xeuro",
+    "github_org": "xeuro"
+}

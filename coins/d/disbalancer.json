@@ -1,0 +1,26 @@
+{
+    "id": "disbalancer",
+    "symbol": "ddos",
+    "name": "disBalancer",
+    "platforms": {
+        "ethereum": "0x7fbec0bb6a7152e77c30d005b5d49cbc08a602c3",
+        "binance-smart-chain": "0x7fbec0bb6a7152e77c30d005b5d49cbc08a602c3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "disBalancer is a decentralized network protecting from DDoS attacks. It functions as a decentralized infrastructure load balancer with a built-in site where you can rent out excess bandwidth and storage as well as purchase content delivery and DDoS protection services."
+    },
+    "country_origin": "UA",
+    "genesis_date": null,
+    "contract_address": "0x7fbec0bb6a7152e77c30d005b5d49cbc08a602c3",
+    "url": "https://disbalancer.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7fbec0bb6a7152e77c30d005b5d49cbc08a602c3",
+        "https://ethplorer.io/address/0x7fbec0bb6a7152e77c30d005b5d49cbc08a602c3"
+    ],
+    "twitter": "thedisbalancer",
+    "telegram": "disbalancer_group",
+    "reddit": "disbalancer/",
+    "github_org": "thedisbalancer"
+}

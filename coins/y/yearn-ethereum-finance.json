@@ -1,0 +1,23 @@
+{
+    "id": "yearn-ethereum-finance",
+    "symbol": "yefi",
+    "name": "Yearn Ethereum Finance",
+    "platforms": {
+        "ethereum": "0xcf282ba0bc91d2aa6e775bcfd90da6b7912f1b1a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yearn Ethereum Finance is a platform on the Ethereum network that aims to reward holders with Ethereum. With Yearn Ethereum Finance, unbanked citizens can join banking with DeFi and do not need credit checks. \r\n\r\nYearn Ethereum Finance aims to eliminate financial barriers in developing countries by creating \"\"permission-less\"\" banking, thus allowing citizens to enter DeFi banking. YEFI token is used within the platform aimed to be one of the leading DeFi tokens in the market through buying and holding. Thus, the YEFI token can provide long-term profitability to its holders."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xcf282ba0bc91d2aa6e775bcfd90da6b7912f1b1a",
+    "url": "https://yearneth.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xcf282ba0bc91d2aa6e775bcfd90da6b7912f1b1a",
+        "https://ethplorer.io/address/0xcf282ba0bc91d2aa6e775bcfd90da6b7912f1b1a"
+    ],
+    "twitter": "YearnethF",
+    "telegram": "YEARNETH"
+}

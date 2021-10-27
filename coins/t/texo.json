@@ -1,0 +1,23 @@
+{
+    "id": "texo",
+    "symbol": "texo",
+    "name": "tEXO",
+    "platforms": {
+        "polygon-pos": "0xf1afb5674bf946458bd1163163f62de683b07d65"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "tEXO is the platform governance token that allows token holders to vote on proposals and approve new asset listings on ExoniumDEX. After initial equitable distribution of tEXO via a seed staking pool, tEXO will be the yield token to incentivise liquidity providers on ExoniumDEX. tEXO holders will be entitled to fees accrued on the platform for all the services provided. tEXO will also be one of the key collateral for tDollar - ExoniumDEX\u2019s stable coin. \r\ntEXO will conceptually derive its market value based on market forces and ecosystem size.\r\nExoniumDEX aims for tEXO fair distribution to a community with vested interest in the long term goals and success of ExoniumDEX.\r\nAfter mainnet launch of Exonium, tEXO holders would qualify for a share of additional transactional fees of swapping within ExoniumDEX as well as fees resulting from the usage of the ExoniumDEX satellite network inclusive of ExoniumBridge and ExoniumOracles. \r\nUse-cases for tEXO - \r\nGovernance on platform's development and new implementation \r\nCollateral for tDOLLAR - Platform's native stablecoin \r\nYield reward\r\nPerformance fee sharing to tEXO token holders from ExoniumDEX services offered in the present and future (not limited to) - \r\n1) Synthetic Assets \r\n2) Decentralised Exchange (AMM) \r\n3) Yield Optimiser \r\n4) Non-native farming \r\n5) Airdrop new partner tokens\r\n6) EXO-Launch\r\n7) ExoniumBridge\r\n8) ExoniumOracles\r\nCurrently, $tEXO does not have a maximum supply due to the need for a wide distribution of tokens to accommodate for utility within the range of DeFi product suites planned within the upcoming development roadmap.\r\nMultiple deflationary mechanism plans are in place to reduce supply and to maintain constant upwards price pressure:\r\nBuyback & Burn\r\nTaxation \r\nFurther deflationary mechanics to be introduced for $tEXO ecosystem to become deflationary"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf1afb5674bf946458bd1163163f62de683b07d65",
+    "url": "https://exonium.one/",
+    "explorers": [
+        "https://polygonscan.com/token/0xf1afb5674bf946458bd1163163f62de683b07d65"
+    ],
+    "twitter": "ExoniumDex",
+    "telegram": "exoniumofficial",
+    "github_org": "EXONIUM-DEX"
+}

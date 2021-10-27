@@ -1,0 +1,22 @@
+{
+    "id": "jejudoge-bsc",
+    "symbol": "jejudoge",
+    "name": "Jejudoge BSC",
+    "platforms": {
+        "binance-smart-chain": "0x2020eb9e26aa49c27ebb72c174cfbab851f7dde0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We are a project focused on revolutionizing safe and fun tokenomics with a focus on restructuring the \u201cmeme\u201d industry."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x2020eb9e26aa49c27ebb72c174cfbab851f7dde0",
+    "url": "https://www.jejudogebsc.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x2020eb9e26aa49c27ebb72c174cfbab851f7dde0"
+    ],
+    "twitter": "jejudoge",
+    "telegram": "JejuDogeBSC"
+}

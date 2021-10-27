@@ -1,0 +1,24 @@
+{
+    "id": "tenshi",
+    "symbol": "tenshi",
+    "name": "Tenshi v2",
+    "platforms": {
+        "ethereum": "0x52662717e448be36cb54588499d5a8328bd95292"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tenshi is the Sidekick of Kishu (made by world famous kishu devs) "
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "contract_address": "0x52662717e448be36cb54588499d5a8328bd95292",
+    "url": "https://kishu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x52662717e448be36cb54588499d5a8328bd95292",
+        "https://ethplorer.io/address/0x52662717e448be36cb54588499d5a8328bd95292"
+    ],
+    "twitter": "inukishu",
+    "telegram": "kishuinucommunity",
+    "reddit": "KishuInu/"
+}

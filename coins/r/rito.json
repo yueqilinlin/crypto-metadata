@@ -1,0 +1,21 @@
+{
+    "id": "rito",
+    "symbol": "rito",
+    "name": "Rito",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ritocoin is a fork of Ravencoin. Key changes from Ravencoin include a change to the X21S proof-of-work algorithm, a roadmap for masternodes to be added, and a strong community development emphasis placed on delivering easy to use end-user oriented features and add-on utilities. Full commitment to preventing FPGA, ASIC and even NiceHash from mining the coin."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://ritocoin.org/",
+    "explorers": [
+        "https://ritoexplorer.minermore.com/",
+        "https://ritocoin.asset-explorer.net/",
+        "https://blockbook.ritocoin.org/"
+    ],
+    "reddit": "ritocoin/",
+    "github_org": "RitoProject"
+}

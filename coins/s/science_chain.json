@@ -1,0 +1,23 @@
+{
+    "id": "science_chain",
+    "symbol": "scc",
+    "name": "Science Chain",
+    "platforms": {
+        "ethereum": "0x4a9f00de5d8a244944313faee23849ff725e680d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0x4a9f00de5d8a244944313faee23849ff725e680d",
+    "url": "http://www.sciencechain.store/",
+    "explorers": [
+        "https://etherscan.io/token/0x4a9f00de5d8a244944313faee23849ff725e680d",
+        "https://ethplorer.io/address/0x4a9f00de5d8a244944313faee23849ff725e680d"
+    ]
+}

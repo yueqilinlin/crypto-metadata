@@ -1,0 +1,22 @@
+{
+    "id": "csp-dao-network",
+    "symbol": "nebo",
+    "name": "CSP DAO Network",
+    "platforms": {
+        "ethereum": "0x7f0c8b125040f707441cad9e5ed8a8408673b455"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7f0c8b125040f707441cad9e5ed8a8408673b455",
+    "url": "https://cspdao.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x7f0c8b125040f707441cad9e5ed8a8408673b455",
+        "https://ethplorer.io/address/0x7f0c8b125040f707441cad9e5ed8a8408673b455"
+    ],
+    "twitter": "csp_dao"
+}

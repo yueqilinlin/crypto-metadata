@@ -1,0 +1,21 @@
+{
+    "id": "filenet",
+    "symbol": "fn",
+    "name": "Filenet",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Filenet is the incentive layer of the IPFS protocol. Its goal is to create a low-cost and efficient decentralized data distribution network and form a commercial closed loop with IPFS to"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://filenet.io/",
+    "explorers": [
+        "http://sn1.filenet.io/",
+        "http://scan.filenet.io/"
+    ],
+    "twitter": "Filenetglobal",
+    "telegram": "filenetcommunity",
+    "github_org": "filenet2018"
+}

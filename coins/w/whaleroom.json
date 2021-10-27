@@ -1,0 +1,25 @@
+{
+    "id": "whaleroom",
+    "symbol": "whl",
+    "name": "WhaleRoom",
+    "platforms": {
+        "ethereum": "0x2af72850c504ddd3c1876c66a914caee7ff8a46a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WhaleRoom is a chatroom app like Telegram with 3 major twists.\r\n\r\nProject rooms are curated by community voting.\r\nRoom participants must hold the project's token to participate in the conversation.\r\nWhaleRoom Members are prioritized in the app and experience huge membership point rewards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2af72850c504ddd3c1876c66a914caee7ff8a46a",
+    "url": "https://whaleroom.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x2af72850c504ddd3c1876c66a914caee7ff8a46a",
+        "https://ethplorer.io/address/0x2af72850c504ddd3c1876c66a914caee7ff8a46a"
+    ],
+    "twitter": "WhaleRooms",
+    "facebook": "WhaleRoom-107959774670490",
+    "telegram": "WhaleRooms",
+    "github_org": "whaleroom"
+}

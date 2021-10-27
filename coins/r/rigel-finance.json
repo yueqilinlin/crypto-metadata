@@ -1,0 +1,24 @@
+{
+    "id": "rigel-finance",
+    "symbol": "rigel",
+    "name": "Rigel Finance",
+    "platforms": {
+        "ethereum": "0x4ca0654f4fc1025cf1a17b7459c20ac0479522ad"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rigel Finance is an AMM Decentralized Exchange with Farming and Staking functions. You can create new pools or add liquidity on existing pools to start farming at Rigel Finance. By Staking Rigel, you will earn a portion of the swap fees. Max. Supply is 30.000 Rigel tokens, to be reached in December 2022. "
+    },
+    "country_origin": "BE",
+    "genesis_date": null,
+    "contract_address": "0x4ca0654f4fc1025cf1a17b7459c20ac0479522ad",
+    "url": "https://rigel.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x4ca0654f4fc1025cf1a17b7459c20ac0479522ad",
+        "https://ethplorer.io/address/0x4ca0654f4fc1025cf1a17b7459c20ac0479522ad"
+    ],
+    "twitter": "RigelFinance",
+    "telegram": "RigelFinance1",
+    "github_org": "RigelFinance"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "aave-knc",
+    "symbol": "aknc",
+    "name": "Aave KNC",
+    "platforms": {
+        "ethereum": "0x39c6b3e42d6a679d7d776778fe880bc9487c2eda"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Aave KNC is an interest bearing token minted upon deposit and burned when redeemed. The aKNC is pegged 1:1 to the value of the underlying KNC that is deposited in Aave protocol. aKNC, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aKNC accrue interest in real time, directly in your wallet!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x39c6b3e42d6a679d7d776778fe880bc9487c2eda",
+    "url": "https://aave.com/atokens",
+    "explorers": [
+        "https://etherscan.io/token/0x39c6b3e42d6a679d7d776778fe880bc9487c2eda",
+        "https://ethplorer.io/address/0x39c6b3e42d6a679d7d776778fe880bc9487c2eda"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome"
+}

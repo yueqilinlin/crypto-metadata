@@ -1,0 +1,26 @@
+{
+    "id": "plutopepe",
+    "symbol": "pluto",
+    "name": "PlutoPepe",
+    "platforms": {
+        "binance-smart-chain": "0x0c3ea5aac39101e5b3989b3f19181d8591b734d0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "PLUTO Protocol is an efficient BEP-20 token designed with built in gas-less yield rewards, stable holding incentives through liquidity, and deflationary fuel burn targets to accelerate Pepe\u2019s velocity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0c3ea5aac39101e5b3989b3f19181d8591b734d0",
+    "url": "https://www.plutopepe.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x0c3ea5aac39101e5b3989b3f19181d8591b734d0"
+    ],
+    "twitter": "plutopepe",
+    "telegram": "plutopepe",
+    "reddit": "PlutoPepe/",
+    "github_org": "pluto-protocol"
+}

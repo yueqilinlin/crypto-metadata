@@ -1,0 +1,24 @@
+{
+    "id": "load-network",
+    "symbol": "load",
+    "name": "LOAD Network",
+    "platforms": {
+        "ethereum": "0xa883e72c12473ded50a5fbffa60e4000fa5fe3c8",
+        "polygon-pos": "0x81c88f5cff4fd506df906cb32f8b02218701b0c7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ERC20 Token for the LOAD.network DeFi project. It introduces the concept of Forecast Sensitive Interest, which enables token holders to earn a higher percentage of daily dividends based on the accuracy of their price predictions. Phase 1 introduces the token through an ethical accumulation (only 25 eth OTC presale), Phase 2 introduces the FSI functionality, Phase 3 and beyond introduce further dApps, yield farming, and additional Forecasting pairs."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0xa883e72c12473ded50a5fbffa60e4000fa5fe3c8",
+    "url": "https://load.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xa883e72c12473ded50a5fbffa60e4000fa5fe3c8",
+        "https://ethplorer.io/address/0xa883e72c12473ded50a5fbffa60e4000fa5fe3c8"
+    ],
+    "twitter": "LOAD_Network",
+    "telegram": "LOADofficial"
+}

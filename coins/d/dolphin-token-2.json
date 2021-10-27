@@ -1,0 +1,25 @@
+{
+    "id": "dolphin-token-2",
+    "symbol": "dse",
+    "name": "Dolphin Token",
+    "platforms": {
+        "ethereum": "0x136bced3af8530b81e4c7ff45c9228376726d173"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dolphin Token is a project of the SUNI organization.\r\n\r\nIt was created with the objective of being aware of water pollution and hunting on dolphins.\r\n\r\nDolphin Token enables real solutions supporting organizations and foundations that care for and protect dolphins from hunters."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x136bced3af8530b81e4c7ff45c9228376726d173",
+    "url": "https://sunicoin.org",
+    "explorers": [
+        "https://etherscan.io/token/0x136bced3af8530b81e4c7ff45c9228376726d173",
+        "https://ethplorer.io/address/0x136bced3af8530b81e4c7ff45c9228376726d173"
+    ],
+    "twitter": "sunitoken",
+    "facebook": "sunitoken",
+    "telegram": "dolphinssuni",
+    "reddit": "SuniCoin/"
+}

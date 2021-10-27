@@ -1,0 +1,23 @@
+{
+    "id": "emojis-farm",
+    "symbol": "emoji",
+    "name": "Emojis Farm",
+    "platforms": {
+        "ethereum": "0xcbd380c2d84deafed09f79863705353505764f26"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The goal of Emojis.Farm is to create a self-sustaining community that will provide liquidity and  sustainability to both new and old DeFi projects. Through generous fixed 1000% yield incentivizations of APY and reward distributions of both individual LP tokens and $EMOJI, the farm ensures a steady pool of liquidity to support the ecosystem for the long run.\r\n\r\nConsentium aims to continue in becoming the premier chat platform and super-app for the DeFi space. Which in the future will see the adoption of $EMOJI tokens."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xcbd380c2d84deafed09f79863705353505764f26",
+    "url": "https://emojis.farm/",
+    "explorers": [
+        "https://etherscan.io/token/0xcbd380c2d84deafed09f79863705353505764f26",
+        "https://ethplorer.io/address/0xcbd380c2d84deafed09f79863705353505764f26"
+    ],
+    "twitter": "EmojisFarm",
+    "telegram": "emojisfarm_chat"
+}

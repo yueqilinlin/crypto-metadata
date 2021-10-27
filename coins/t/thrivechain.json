@@ -1,0 +1,24 @@
+{
+    "id": "thrivechain",
+    "symbol": "trvc",
+    "name": "TriveChain",
+    "platforms": {
+        "binance-smart-chain": "0x771cb7dd18072527ca412dddccce8a33b5f88219"
+    },
+    "hashing_algorithm": "x16r",
+    "categories": [],
+    "description": {
+        "en": "These coins have the potential to revolutionize the travel industry as it will allow travelers, agencies and transportation systems to come together in Trivecoin\u2019s self-regulated economic system with a global community. Thanks to the innovative business model underpinned by these Blockchain based coins, everyone in possession of Trivecoins will have the opportunity to enjoy unique benefits such as lower costs, avoidance of double lowest fees."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-03-01",
+    "url": "https://trivechain.com/",
+    "explorers": [
+        "https://insight.trivechain.com/",
+        "https://bscscan.com/token/0x771cb7dd18072527ca412dddccce8a33b5f88219"
+    ],
+    "twitter": "trivechain_trvc",
+    "facebook": "trivechain",
+    "telegram": "trivechain",
+    "github_org": "trivechain"
+}

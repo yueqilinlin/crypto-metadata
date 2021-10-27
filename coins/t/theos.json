@@ -1,0 +1,24 @@
+{
+    "id": "theos",
+    "symbol": "theos",
+    "name": "Theos",
+    "platforms": {
+        "ethereum": "0x9e10f61749c4952c320412a6b26901605ff6da1d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "THEOS is a decentralized hybrid NFT marketplace that delivers smart contract infrastructure capable of fusing the securitization practice from traditional finance and AMM logic to ultimately arrive at market mechanisms for instant liquidity for NFTs. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9e10f61749c4952c320412a6b26901605ff6da1d",
+    "url": "https://theos.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x9e10f61749c4952c320412a6b26901605ff6da1d",
+        "https://ethplorer.io/address/0x9e10f61749c4952c320412a6b26901605ff6da1d"
+    ],
+    "twitter": "theos_fi",
+    "telegram": "theos_fi",
+    "reddit": "TheosNFT/"
+}

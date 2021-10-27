@@ -1,0 +1,20 @@
+{
+    "id": "iousdc",
+    "symbol": "iousdc",
+    "name": "ioUSDC",
+    "platforms": {
+        "iotex": "0x3b2bf2b523f54c4e454f08aa286d03115aff326c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": " ioUSDC is a wrapped token that can be bridged to IoTeX from any networks via iotube."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3b2bf2b523f54c4e454f08aa286d03115aff326c",
+    "url": "https://iotube.org/",
+    "explorers": [
+        "https://iotexscan.io/token/0x3b2bf2b523f54c4e454f08aa286d03115aff326c"
+    ]
+}

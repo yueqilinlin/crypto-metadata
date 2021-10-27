@@ -1,0 +1,23 @@
+{
+    "id": "eth-26-ma-crossover-yield-ii",
+    "symbol": "ethemaapy",
+    "name": "ETH 26 EMA Crossover Yield II",
+    "platforms": {
+        "ethereum": "0x54e8371c1ec43e58fb53d4ef4ed463c17ba8a6be"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The ETH 26 Day EMA Crossover Yield Set attempts to capitalize on shorter term trends and accumulate ETH. ETHEMAAPY automatically triggers rebalances when the price of ETH crosses the 26 Day Exponential Moving Average (26 EMA) indicating a trend reversal. If the price of Ethereum crosses and stays below the 26 EMA, the Set rebalances from ETH into Compound USDC and automatically accrues interest on your dollars when the market is bearish. Link to more details."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x54e8371c1ec43e58fb53d4ef4ed463c17ba8a6be",
+    "url": "https://www.tokensets.com/set/ethemaapy-1",
+    "explorers": [
+        "https://www.etherscan.io/token/0x54e8371C1EC43e58fB53D4ef4eD463C17Ba8a6bE",
+        "https://etherscan.io/token/0x54e8371c1ec43e58fb53d4ef4ed463c17ba8a6be",
+        "https://ethplorer.io/address/0x54e8371c1ec43e58fb53d4ef4ed463c17ba8a6be"
+    ],
+    "twitter": "SetProtocol"
+}

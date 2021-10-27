@@ -1,0 +1,28 @@
+{
+    "id": "bitnautic",
+    "symbol": "btnt",
+    "name": "BitNautic",
+    "platforms": {
+        "ethereum": "0xd9964e1306dda055f5284c52048712c35ddb61fd"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Manufacturing"
+    ],
+    "description": {
+        "en": "BitNautic is a decentralized platform, based on the Ethereum Blockchain, for matching demand and supply of shipping services, for all the industry stakeholders: producers of goods, ship owners, charterers, brokers, importers and exporters.\r\n\r\nBitNautic comes with distinctive features like AI (Artificial Intelligence) based booking system, a real-time tracking of ships and cargo, and a wholesale e-commerce platform."
+    },
+    "country_origin": "CH",
+    "genesis_date": "2018-08-02",
+    "contract_address": "0xd9964e1306dda055f5284c52048712c35ddb61fd",
+    "url": "https://bitnautic.io",
+    "explorers": [
+        "https://etherscan.io/token/0xd9964e1306dda055f5284c52048712c35ddb61fd",
+        "https://ethplorer.io/address/0xd9964e1306dda055f5284c52048712c35ddb61fd"
+    ],
+    "twitter": "bitnautic",
+    "facebook": "bitnautic",
+    "telegram": "bitnautic",
+    "reddit": "BitNautic/",
+    "github_org": "Bitnautic"
+}

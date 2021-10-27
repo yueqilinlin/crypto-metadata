@@ -1,0 +1,25 @@
+{
+    "id": "jurasaur",
+    "symbol": "jrex",
+    "name": "Jurasaur",
+    "platforms": {
+        "ethereum": "0x638155f4bd8f85d401da32498d8866ee39a150b8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "JURA provides a FUSUS-powered blockchain technology that involves an individual account-based DAG-lattice that promotes increased data lookup speed and storage space. Along with a proof of utility (PoU) consensus for self-regulation and maximum security as well as efficient filtering through their PoVRT anti-spamming module, JURA aims to be the solution for efficient DApp deployment. "
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0x638155f4bd8f85d401da32498d8866ee39a150b8",
+    "url": "https://www.jura.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x638155f4bd8f85d401da32498d8866ee39a150b8",
+        "https://ethplorer.io/address/0x638155f4bd8f85d401da32498d8866ee39a150b8"
+    ],
+    "twitter": "juraprotocol",
+    "telegram": "juranetwork"
+}

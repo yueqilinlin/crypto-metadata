@@ -1,0 +1,24 @@
+{
+    "id": "funder-one",
+    "symbol": "fundx",
+    "name": "Funder One",
+    "platforms": {
+        "ethereum": "0x30d862bbbef3b75f700d6ba7d323b95708eaafaa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Funder One/FUNDX replaces the need for banks by making its members a true Trustor. Members can work with us to create the instruments necessary for a real estate transaction.\r\n\r\nFunder One/FUNDX can now tokenize the property, create liquidity, and eliminate the debt.\r\n\r\nA five year membership fee guarantees Funder One\u2019s members to own their home after the five years, without the fear of losing their home to foreclosure. After five years, the members will also be able to use all equity on their property."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x30d862bbbef3b75f700d6ba7d323b95708eaafaa",
+    "url": "http://fundx.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x30d862bbbef3b75f700d6ba7d323b95708eaafaa",
+        "https://ethplorer.io/address/0x30d862bbbef3b75f700d6ba7d323b95708eaafaa"
+    ],
+    "twitter": "Funder_One",
+    "facebook": "Funder-One-Capital-108213930753683",
+    "telegram": "FunderOne"
+}

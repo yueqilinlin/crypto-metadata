@@ -1,0 +1,36 @@
+{
+    "id": "0xmonero",
+    "symbol": "0xmr",
+    "name": "0xMonero",
+    "platforms": {
+        "ethereum": "0x035df12e0f3ac6671126525f1015e47d79dfeddf",
+        "binance-smart-chain": "0x22a213852cee93eb6d41601133414d180c5684c2",
+        "polygon-pos": "0x52ede6bba83b7b4ba1d738df0df713d6a2036b71",
+        "fantom": "0xab41861399eb56896b24fbaabaa8bce45e4a626b",
+        "xdai": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Number",
+        "Polygon Ecosystem",
+        "xDAI Ecosystem",
+        "Cryptocurrency",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "0xMR is a mineable privacy token on the Ethereum blockchain"
+    },
+    "country_origin": "NZ",
+    "genesis_date": null,
+    "contract_address": "0x035df12e0f3ac6671126525f1015e47d79dfeddf",
+    "url": "https://0xmonero.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x035dF12E0F3ac6671126525f1015E47D79dFEDDF",
+        "https://ethplorer.io/address/0x035dF12E0F3ac6671126525f1015E47D79dFEDDF",
+        "https://blockscout.com/xdai/mainnet/tokens/0x8c88eA1fD60462Ef7004B9e288afCB4680a3c50c/token-transfers",
+        "https://bscscan.com/token/0x22a213852cee93eb6d41601133414d180c5684c2",
+        "https://polygonscan.com/token/0x52ede6bba83b7b4ba1d738df0df713d6a2036b71"
+    ],
+    "twitter": "0xMonero",
+    "telegram": "Monero0xMR"
+}

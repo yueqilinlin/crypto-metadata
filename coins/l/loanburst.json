@@ -1,0 +1,24 @@
+{
+    "id": "loanburst",
+    "symbol": "lburst",
+    "name": "LoanBurst",
+    "platforms": {
+        "ethereum": "0x93ecd2ecdfb91ab2fee28a8779a6adfe2851cda6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Loanburst is a deflationary reward system where loans locked are rewarded through every sell, buy and transactions on the smart contract."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0x93ecd2ecdfb91ab2fee28a8779a6adfe2851cda6",
+    "url": "https://loanburst.co",
+    "explorers": [
+        "https://etherscan.io/token/0x93eCD2ecDFb91aB2fEe28A8779A6adfe2851cda6",
+        "https://ethplorer.io/address/0x93ecd2ecdfb91ab2fee28a8779a6adfe2851cda6"
+    ],
+    "twitter": "loanburst",
+    "telegram": "loanburst",
+    "github_org": "loanbursttoken"
+}

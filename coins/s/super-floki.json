@@ -1,0 +1,22 @@
+{
+    "id": "super-floki",
+    "symbol": "sloki",
+    "name": "Super Floki",
+    "platforms": {
+        "binance-smart-chain": "0xf7bf4507336aea836ab5575ec1801d96c3059483"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SuperFloki AutoBoost Protocol is built mathematically to do variable buybacks which adjust based on volume in order to maintain stability. AutoBoost will vary based on the transactions over the past 24 hours which will continue to adjust based on the volume. AutoBoost will buy back variable amounts every time a sale occurs with SLOKI Token. This is a one of a kind function which is more powerful than just a standard buyback System"
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xf7bf4507336aea836ab5575ec1801d96c3059483",
+    "url": "https://superfloki.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xf7bf4507336aea836ab5575ec1801d96c3059483"
+    ],
+    "twitter": "FlokiSuper",
+    "telegram": "SuperFlokiEn"
+}

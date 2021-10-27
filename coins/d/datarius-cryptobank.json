@@ -1,0 +1,25 @@
+{
+    "id": "datarius-cryptobank",
+    "symbol": "dtrc",
+    "name": "Datarius Credit",
+    "platforms": {
+        "ethereum": "0xc20464e0c373486d2b3335576e83a218b1618a5e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Datarius cryptobank is a decentralized partially closed system.\r\n\r\nAs a P2P platform, the system enables users to decide themselves whether to use any of variable services and applications. This in turn allows to almost completely reduce transaction costs.\r\n\r\nDatarius serves as a direct link between lenders, borrowers, and the related services \u2013 managers, analysts, insurance companies, funds, trading terminals.\r\n\r\nDatarius main task is to provide people from all over the world with a free and equal access to the maximum number of financial products. Our primary mission is to create an entirely new transparent financial product. To provide a customer with clear tools and greater opportunities. To ensure freedom of choice and action."
+    },
+    "country_origin": "CR",
+    "genesis_date": null,
+    "contract_address": "0xc20464e0c373486d2b3335576e83a218b1618a5e",
+    "url": "https://datarius.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xc20464e0c373486d2b3335576e83a218b1618a5e",
+        "https://ethplorer.io/address/0xc20464e0c373486d2b3335576e83a218b1618a5e"
+    ],
+    "twitter": "Datariuscrypto",
+    "facebook": "datariuscryptobank"
+}

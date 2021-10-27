@@ -1,0 +1,28 @@
+{
+    "id": "atomic-wallet-coin",
+    "symbol": "awc",
+    "name": "Atomic Wallet Coin",
+    "platforms": {
+        "ethereum": "0xad22f63404f7305e4713ccbd4f296f34770513f4"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cosmos Ecosystem"
+    ],
+    "description": {
+        "en": "The main idea of our team is creating a full ecosystem with a lot of specific features, functioning on the decentralized exchange basis. That\u2019s why we issued our own token, which will be used also as tradable asset.\r\n\r\nur token is called AWC (Atomic Wallet Coin). A strict limit of 100 000 000 AWC will be created, never to be increased. AWC will run natively on the Ethereum blockchain with ERC20 and issued to regulate Atomic Wallet service prices in a decentralized and egalitarian manner. Atomic Wallet Coin is a universal method of payment for cryptocurrency listing in Atomic Wallet, Currency promotion or Swap Order interface placement.\r\n\r\nAWC token will be used to pay for different fees on Atomic Wallet platform, including but not limited to:\r\n1. Listing new assets in Atomic Wallet - Each cryptocurrency, foundation or token will be able to purchase integration within the Atomic Wallet for the AWC-tokens. The price of integration will be 100,000 AWC-tokens. It will be a great possibility for the new coins and tokens to become a part of Atomic Wallet ecosystem\r\n\r\n2.Listing new assets in Atomic swap exchange - Each cryptocurrency, foundation or token will be able to purchase integration within the Atomic Wallet swap exchange market for the AWC-tokens. The price of integration will be 150,000 AWC-tokens.\r\n\r\n3.Highlights and featurings in Atomic Wallet interfaces  - Each cryptocurrency, foundation or token will be able to purchase promotion within the Atomic Wallet GUI for the AWC-tokens. The price of integration will be determined in each particular case AWC-tokens, and we are developing a lot of advertising possibilities for this goals.\r\n\r\n4. Atomic swap usage - For the swaps exceeding 1 BTC since the end of 3Q 2018 users will be obliged to have at least 0.5 AWC token on the same Ethereum address with the one used by the Atomic Wallet. This option will be helpful for users with big amount of transactions.\r\n\r\n5.Increasing atomic swap rating - Each customer will receive a public rating which will influence his/her position in Atomic Wallet Orderbook GUI. The rating will be determined on the basis of successfully completed swaps and the volume of trades. To boost his/her experience customer will be able to increase rating by paying in AWC-tokens. The rating mechanics will be announced in 3Q 2018."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-06-18",
+    "contract_address": "0xad22f63404f7305e4713ccbd4f296f34770513f4",
+    "url": "https://atomicwallet.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xad22f63404f7305e4713ccbd4f296f34770513f4",
+        "https://ethplorer.io/address/0xad22f63404f7305e4713ccbd4f296f34770513f4"
+    ],
+    "twitter": "atomicwallet",
+    "facebook": "atomicwallet",
+    "telegram": "atomicwalletchat",
+    "reddit": "atomicwallet/",
+    "github_org": "Atomicwallet"
+}

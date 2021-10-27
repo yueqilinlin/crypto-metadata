@@ -1,0 +1,22 @@
+{
+    "id": "etherback",
+    "symbol": "ethback",
+    "name": "EtherBack",
+    "platforms": {
+        "binance-smart-chain": "0x50229c02f6e1890986e4ccc7b9b13b5652592054"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EtherBack is the second token released by the DogeBack team and it builds on it's success but also rewards the community that helped build the brand, by providing a new split dividend mechanism rewarding EtherBack holders with Binance Pegged Ethereum and DogeBack. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x50229c02f6e1890986e4ccc7b9b13b5652592054",
+    "url": "https://www.ethback.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x50229c02f6e1890986e4ccc7b9b13b5652592054"
+    ],
+    "twitter": "EtherBackToken",
+    "telegram": "ethbackbsc"
+}

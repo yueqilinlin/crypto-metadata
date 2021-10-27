@@ -1,0 +1,23 @@
+{
+    "id": "latteswap",
+    "symbol": "latte",
+    "name": "LatteSwap",
+    "platforms": {
+        "binance-smart-chain": "0xef6f50fe05f4ead7805835fd1594406d31b96ed8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LatteSwap is a Decentralized Exchange, Yield Farming, and Staking platform running on Binance Smart Chain. It also has lots of other features which let you earn and win tokens. LatteSwap was built by DeFi Latte, in the interest of DeFi Latte."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0xef6f50fe05f4ead7805835fd1594406d31b96ed8",
+    "url": "https://latteswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xeF6f50FE05f4ead7805835Fd1594406D31B96ed8"
+    ],
+    "twitter": "latteswap",
+    "telegram": "latteswap",
+    "github_org": "latteswap"
+}

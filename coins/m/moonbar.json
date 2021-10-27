@@ -1,0 +1,22 @@
+{
+    "id": "moonbar",
+    "symbol": "moonbar",
+    "name": "MoonBar",
+    "platforms": {
+        "binance-smart-chain": "0x47e28936d9c7944d106e46295d87a8e4c1be818c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Moonbar is a community-driven, fair-launched DeFi project built on Binance Smart Chain.\r\nMoonbar presale will be launched on 07/06/2021 on dxSale\r\n\r\nThree (3) mechanisms are activated during every transaction: \r\n- $MOONBAR Redestribution\r\n- Liquidity Pool Acquisition\r\n- $BNB Redestribution\r\n\r\nBy simply holding the token you get access to the community pool of $BNB AND earn more Moonbars!\r\n\r\n$MOONBAR's mission is to truly become a decentralized project where every decision is taken by community poll. This helps the team to move $MOONBAR towards the right direction."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x47e28936d9c7944d106e46295d87a8e4c1be818c",
+    "url": "https://moonbar.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x47e28936D9c7944D106e46295d87A8E4c1Be818c"
+    ],
+    "twitter": "MoonbarFinance",
+    "telegram": "MoonBarFinance"
+}

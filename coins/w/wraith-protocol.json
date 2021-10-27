@@ -1,0 +1,24 @@
+{
+    "id": "wraith-protocol",
+    "symbol": "wraith",
+    "name": "Wraith Protocol",
+    "platforms": {
+        "binance-smart-chain": "0x8690cb98496ef0f8c6417d78b5e0e29907668808"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wraith Protocol strives to bring privacy and security to the community utilizing ZK Snark technology. From the founding of crypto, decentralization is key to the growth and prosperity of crypto currency"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8690cb98496ef0f8c6417d78b5e0e29907668808",
+    "url": "https://wraithprotocol.io",
+    "explorers": [
+        "https://bscscan.com/token/0x8690Cb98496EF0f8c6417D78b5e0E29907668808"
+    ],
+    "twitter": "WraithProtocol",
+    "telegram": "WraithOfficial",
+    "reddit": "WraithProtocol",
+    "github_org": "WraithProtocol"
+}

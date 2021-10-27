@@ -1,0 +1,20 @@
+{
+    "id": "100man",
+    "symbol": "man",
+    "name": "100Man",
+    "platforms": {
+        "kardiachain": "0x0acfaa0d0cca295672e09ad906240c03d54f286a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "100Man Cashback is the first cashback application in Vietnam that allows shopper to earn crypto-currency while shopping online on e-commerce sites such as Shopee, Lazada, Tiki and many others. For each successful transaction, shopper will be rewarded with a token of their choice between 5 different options."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0acfaa0d0cca295672e09ad906240c03d54f286a",
+    "url": "https://100man.io",
+    "explorers": [
+        "https://explorer.kardiachain.io/token/0x0acfaa0d0ccA295672E09ad906240C03D54F286a"
+    ]
+}

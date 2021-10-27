@@ -1,0 +1,23 @@
+{
+    "id": "spectrecoin",
+    "symbol": "alias",
+    "name": "Alias",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2016-11-20",
+    "url": "https://alias.cash",
+    "explorers": [
+        "https://chainz.cryptoid.info/spec/"
+    ],
+    "twitter": "alias_cash",
+    "facebook": "getalias",
+    "reddit": "AliasCash/",
+    "github_org": "aliascash"
+}

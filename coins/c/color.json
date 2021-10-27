@@ -1,0 +1,28 @@
+{
+    "id": "color",
+    "symbol": "clr",
+    "name": "Color Platform",
+    "platforms": {
+        "ethereum": "0x2396fbc0e2e3ae4b7206ebdb5706e2a5920349cb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "\"Color Platform is devoted to bringing the opportunities of a decentralized platform for daily life. Our unique parallel consensus algorithm, cloud-based blockchain, and advanced governance architecture solves the issues of existing decentralized systems.\r\n\r\nThe New Blockchain Standard. Think Color.\""
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x2396fbc0e2e3ae4b7206ebdb5706e2a5920349cb",
+    "url": "https://color-platform.org/~colors/en/",
+    "explorers": [
+        "https://etherscan.io/token/0x2396fbc0e2e3ae4b7206ebdb5706e2a5920349cb",
+        "https://ethplorer.io/address/0x2396fbc0e2e3ae4b7206ebdb5706e2a5920349cb"
+    ],
+    "twitter": "colorsorgmx",
+    "facebook": "colorsorgmx",
+    "telegram": "color_platform_en",
+    "reddit": "colorsorg",
+    "github_org": "ColorPlatform"
+}

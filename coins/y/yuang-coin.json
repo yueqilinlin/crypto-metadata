@@ -1,0 +1,23 @@
+{
+    "id": "yuang-coin",
+    "symbol": "yuang",
+    "name": "Yuang Coin",
+    "platforms": {
+        "binance-smart-chain": "0x2bf4fb066bc0f08f4723be2bdfc70bae8434757d",
+        "ethereum": "0x8ae005c97aa6853478c7f373b1d0f72aa92880a7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yuang is focused on reshaping and evolving how DeFi works completely while delivering the most robust ecosystem ever designed for DeFi's much needed advancements.\r\n\r\nAside of their own exchange for trading and swapping, YUANG is also targeting replacement of charting and information databases such as Dextools and Poocoin, and launching their own NFT trading platform to truly become DeFi\u2019s ultimate one-stop-shop. \r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2bf4fb066bc0f08f4723be2bdfc70bae8434757d",
+    "url": "https://yuangcoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x2bf4fb066bc0f08f4723be2bdfc70bae8434757d"
+    ],
+    "twitter": "coinyuang",
+    "telegram": "yuangcoin"
+}

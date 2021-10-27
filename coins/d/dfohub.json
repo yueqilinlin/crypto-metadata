@@ -1,0 +1,28 @@
+{
+    "id": "dfohub",
+    "symbol": "buidl",
+    "name": "dfohub",
+    "platforms": {
+        "ethereum": "0x7b123f53421b1bf8533339bfbdc7c98aa94163db"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform",
+        "Governance"
+    ],
+    "description": {
+        "en": "Thanks to the DFO Proxy Contract design, dapps can achieve more security and fast developing, like the standards in the Web2, but the real killer innovation is to make dapp upgradable by voting, for a new generation of Decentralized Applications independent from issuer's forks.\r\n\r\nThe governance Token of DFOhub, the On-Chain Github for Decentralised Flexible Organisations"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7b123f53421b1bf8533339bfbdc7c98aa94163db",
+    "url": "https://www.dfohub.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7b123f53421b1bF8533339BFBdc7C98aA94163db",
+        "https://ethplorer.io/address/0x7b123f53421b1bF8533339BFBdc7C98aA94163db"
+    ],
+    "twitter": "ethereansOS",
+    "facebook": "dfohub",
+    "reddit": "dfohub",
+    "github_org": "ethereansos"
+}

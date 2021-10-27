@@ -1,0 +1,26 @@
+{
+    "id": "linkcoin-token",
+    "symbol": "lkn",
+    "name": "LinkCoin Token",
+    "platforms": {
+        "ethereum": "0x9f549ebfd4974cd4ed4a1550d40394b44a7382aa"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "LKN is the platform token of LinkCoin (LinkCoin.pro), an OTC P2P Crypto-Fiat exchange platform. Users can buy or sell their digital assets on LinkCoin with the low transaction fee, which is 0.3% by holding LKN. "
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x9f549ebfd4974cd4ed4a1550d40394b44a7382aa",
+    "url": "https://www.linkcoin.pro/",
+    "explorers": [
+        "https://etherscan.io/token/0x9f549ebfd4974cd4ed4a1550d40394b44a7382aa",
+        "https://ethplorer.io/address/0x9f549ebfd4974cd4ed4a1550d40394b44a7382aa"
+    ],
+    "twitter": "LinkCoinLKN",
+    "facebook": "LinkCoinLKN",
+    "telegram": "LinkCoin"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "safevault",
+    "symbol": "vault",
+    "name": "SafeVault",
+    "platforms": {
+        "binance-smart-chain": "0xe2e6e66551e5062acd56925b48bba981696cccc2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeVault is a compounding interest token which rewards in BUSD. We have a buy fee of 2% and a sell fee of 30%. A large percent (74.35%) of all fees go towards the holders as rewards in BUSD. This happens every 12+ hours and is automatic.\r\n\r\nWe have a buyback and burn feature that is constantly buying and burning SafeVault making it a hyper-deflationary asset.\r\n\r\nWe are the same Dev Team as ETHVault and plan on building an entire system of compounding digital assets."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xe2e6e66551e5062acd56925b48bba981696cccc2",
+    "url": "https://safevaultcrypto.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xe2e6e66551E5062Acd56925B48bBa981696CcCC2"
+    ],
+    "twitter": "VaultDeFi",
+    "telegram": "Vault_DeFi"
+}

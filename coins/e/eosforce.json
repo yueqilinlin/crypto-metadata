@@ -1,0 +1,24 @@
+{
+    "id": "eosforce",
+    "symbol": "eosc",
+    "name": "EOSForce",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Based on the different governance concepts, the EOSC community has optimized the election mechanism of EOSIO, launched the EOSC mainnet at the genesis block height of one. Through persistently upgrading EOSC mainnet, which makes EOSC Network evolve toward the decentralized high-performance smart contract platform, establishing the basis for the mass implementation of crypto economy."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "url": "https://www.eosforce.io/",
+    "explorers": [
+        "http://explorer.eosforce.io/"
+    ],
+    "twitter": "eosforce",
+    "facebook": "eosforce.official",
+    "telegram": "eosforce_en",
+    "reddit": "https://www.reddit.com",
+    "github_org": "eosforce"
+}

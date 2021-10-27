@@ -1,0 +1,22 @@
+{
+    "id": "budacoin",
+    "symbol": "buda",
+    "name": "BudaCoin",
+    "platforms": {
+        "binance-smart-chain": "0x4b63f8c52e3286ca871cd66b7c84e26556b2de8e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BudaCoin aims to bring a sustainable solution to the mental health crisis."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x4b63f8c52e3286ca871cd66b7c84e26556b2de8e",
+    "url": "https://www.budacoin.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x4b63f8C52E3286CA871Cd66b7C84e26556b2DE8e"
+    ],
+    "twitter": "budacoin",
+    "telegram": "BudaCoinClan"
+}

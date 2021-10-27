@@ -1,0 +1,23 @@
+{
+    "id": "moonkat-finance",
+    "symbol": "mkat",
+    "name": "MoonKat Finance",
+    "platforms": {
+        "binance-smart-chain": "0x38bd8cd90374dbc903aed9d2ee28f5ab856342ce"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Moonkat is a next generation defi built on Binance Smart chain to reward token holders in $BNB while increasing in both liquidity and value, it does this by applying a 6% tax per transaction : 2% to liquidity and 4% converted to $BNB to reward holders."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x38bd8cd90374dbc903aed9d2ee28f5ab856342ce",
+    "url": "https://moonkat.net",
+    "explorers": [
+        "https://bscscan.com/token/0x38Bd8CD90374DBc903AeD9d2eE28f5Ab856342Ce"
+    ],
+    "twitter": "MoonkatBSC",
+    "telegram": "moonkatfinance",
+    "github_org": "MiniPadLaunchpad"
+}

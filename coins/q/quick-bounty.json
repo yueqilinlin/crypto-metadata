@@ -1,0 +1,22 @@
+{
+    "id": "quick-bounty",
+    "symbol": "qb",
+    "name": "Quick Bounty",
+    "platforms": {
+        "binance-smart-chain": "0x4ccbe073a58a574cac3ee69649e44728d2e2554c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "QuickBounty is a proprietary token on the BSC that is designed to continuously build buy pressure with a few mechanics baked into the code never before seen. The mechanics of QB reward buyers and holders while continuously \"\"punishing\"\" early sellers.\r\nThis is accomplished with three main functions:\r\n-NO buy taxes\r\n-Reducing sale taxes\r\n-A chance to win the bounty on every buy\r\n\r\nThe bounty is stocked with a portion of all sell taxes and every time a buy is made it has a chance to win 100% of the entire pot, which can be claimed through the official QuickBounty dApp. If you'd prefer to hold, you can stake your tokens and drain the staking bounty from sellers taxes as well."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x4ccbe073a58a574cac3ee69649e44728d2e2554c",
+    "url": "https://quickbounty.money/",
+    "explorers": [
+        "https://bscscan.com/token/0x4CcBe073a58A574CAC3eE69649E44728d2e2554c"
+    ],
+    "twitter": "quickbounty",
+    "telegram": "quickbounty"
+}

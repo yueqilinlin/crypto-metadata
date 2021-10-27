@@ -1,0 +1,25 @@
+{
+    "id": "i9-coin",
+    "symbol": "i9c",
+    "name": "i9 Coin",
+    "platforms": {
+        "ethereum": "0x7cf74238d48ce383db00a1efff8da99303552cb0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "i9 Bank / i9 Coin was designed to help your financial life.\r\n\r\nIt is a digital platform for buying and selling cryptocurrencies, inserting people in this market that grows every day. If you don\u2019t have an account yet, create for free on our website: www.i9bank.com."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0x7cf74238d48ce383db00a1efff8da99303552cb0",
+    "url": "http://i9coin.org",
+    "explorers": [
+        "https://etherscan.io/token/0x7cf74238d48ce383db00a1efff8da99303552cb0",
+        "https://ethplorer.io/address/0x7cf74238d48ce383db00a1efff8da99303552cb0"
+    ],
+    "twitter": "I9Coin",
+    "facebook": "inove.coin.9"
+}

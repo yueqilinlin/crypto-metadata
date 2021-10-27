@@ -1,0 +1,23 @@
+{
+    "id": "mchain",
+    "symbol": "mar",
+    "name": "Mchain",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Tourism"
+    ],
+    "description": {
+        "en": "Mchain is an open platform of smart governance destined to maximize the Blockchain technology development, its relationship with cryptocurrencies, the smart contracts world and the decentralized apps inside Smart Cities. "
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "url": "https://mchain.network/",
+    "explorers": [
+        "https://explorer.mchain.network/"
+    ],
+    "twitter": "mchainnetwork",
+    "facebook": "mchainnetwork",
+    "telegram": "mchainnetwork",
+    "github_org": "mchainnetwork"
+}

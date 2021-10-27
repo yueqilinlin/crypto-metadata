@@ -1,0 +1,24 @@
+{
+    "id": "darkbuild-v2",
+    "symbol": "db",
+    "name": "Dark.Build",
+    "platforms": {
+        "polygon-pos": "0x0e59d50add2d90f5111aca875bae0a72d95b4762"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0e59d50add2d90f5111aca875bae0a72d95b4762",
+    "url": "https://dark.build",
+    "explorers": [
+        "https://polygonscan.com/token/0x0e59d50add2d90f5111aca875bae0a72d95b4762"
+    ],
+    "twitter": "DarkBuild1",
+    "telegram": "darkbuildANN"
+}

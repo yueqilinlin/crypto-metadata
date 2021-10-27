@@ -1,0 +1,26 @@
+{
+    "id": "donkey",
+    "symbol": "donk",
+    "name": "Donkey",
+    "platforms": {
+        "ethereum": "0xe4f6d46c244bb7cf3e218cdfb5c35cf9a4d9c920"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Donkey is a decentralized token with a purpose! Donkey is an experiment in decentralized community building."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe4f6d46c244bb7cf3e218cdfb5c35cf9a4d9c920",
+    "url": "https://www.projectdonkey.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe4f6d46c244bb7cf3e218cdfb5c35cf9a4d9c920",
+        "https://ethplorer.io/address/0xe4f6d46c244bb7cf3e218cdfb5c35cf9a4d9c920"
+    ],
+    "twitter": "projectdonk",
+    "telegram": "donkeytoken"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "toshi-token",
+    "symbol": "toshi",
+    "name": "Toshimon",
+    "platforms": {
+        "ethereum": "0xf136d7b0b7ae5b86d21e7b78dfa95375a7360f19"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Each Toshimon you collect becomes available to battle in-game. Each battle brings you and your Toshimon closer. Each victory makes your Toshimon stronger.\r\n\r\nCrypto prize tournaments and wager battles make the path to Pro open for everyone.\r\n\r\nMany will be good, but only one can be the Champion."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf136d7b0b7ae5b86d21e7b78dfa95375a7360f19",
+    "url": "https://www.toshimon.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xf136d7b0b7ae5b86d21e7b78dfa95375a7360f19",
+        "https://ethplorer.io/address/0xf136d7b0b7ae5b86d21e7b78dfa95375a7360f19"
+    ],
+    "twitter": "Toshimon_",
+    "telegram": "TOSHIOFFICIAL"
+}

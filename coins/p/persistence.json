@@ -1,0 +1,25 @@
+{
+    "id": "persistence",
+    "symbol": "xprt",
+    "name": "Persistence",
+    "platforms": {
+        "osmosis": "IBC/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293"
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Cosmos Ecosystem"
+    ],
+    "description": {
+        "en": "Persistence is an interoperable protocol that provides sovereign environments to facilitate the creation of next-gen financial products. \r\nPersistence is a Delegated Proof-of-Stake chain that runs on Tendermint PBFT consensus algorithm\r\n- Role of XPRT in the Persistence ecosystem\r\n1. Staking Token: XPRT holders can stake their tokens to earn staking rewards while helping secure the Persistence Main-chain\r\n2. Work Token: Stakers of XPRT benefit from the economic activity within the Persistence ecosystem. DApps within the Persistence ecosystem share a portion of their revenue/fee with XPRT stakers and validators\r\n3. Chain Governance: The XPRT token secures the network through staking, is used to pay for fees, and defines the weightage of vote for governance proposals to take critical decisions regarding the evolution of the Persistence chain"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "url": "https://persistence.one/",
+    "explorers": [
+        "https://explorer.persistence.one"
+    ],
+    "twitter": "persistenceone",
+    "telegram": "PersistenceOneChat",
+    "reddit": "PersistenceOne/",
+    "github_org": "persistenceOne"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "kxusd",
+    "symbol": "kxusd",
+    "name": "kxUSD",
+    "platforms": {
+        "ethereum": "0x43244c686a014c49d3d5b8c4b20b4e3fab0cbda7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Platform for various synthetic assets based on an improved stabilization model with the implementation of a stabilization fund supporting the peg."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x43244c686a014c49d3d5b8c4b20b4e3fab0cbda7",
+    "url": "https://klondike.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x43244c686a014c49d3d5b8c4b20b4e3fab0cbda7",
+        "https://ethplorer.io/address/0x43244c686a014c49d3d5b8c4b20b4e3fab0cbda7"
+    ],
+    "twitter": "KlondikeFinance",
+    "telegram": "klondike_discussion",
+    "github_org": "klondike-finance"
+}

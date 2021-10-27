@@ -1,0 +1,23 @@
+{
+    "id": "hoopoe",
+    "symbol": "hoop",
+    "name": "Hoopoe",
+    "platforms": {
+        "avalanche": "0x0592af5414f2f8d90a5ae3c25e937804d3965c87"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hoopoe is a decentralized community backed deflationary finance protocol which gives precious crypto metals to Hoop token holders as a staking reward."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0592af5414f2f8d90a5ae3c25e937804d3965c87",
+    "url": "https://www.hoopoe.finance/",
+    "explorers": [
+        "https://avascan.info/blockchain/c/token/0x0592af5414F2f8d90a5ae3C25E937804D3965C87"
+    ],
+    "twitter": "hoopoe_finance",
+    "telegram": "hoopoefinance",
+    "github_org": "hoopoe-finance"
+}

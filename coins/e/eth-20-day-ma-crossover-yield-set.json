@@ -1,0 +1,25 @@
+{
+    "id": "eth-20-day-ma-crossover-yield-set",
+    "symbol": "ethmacoapy",
+    "name": "ETH 20 Day MA Crossover Yield Set",
+    "platforms": {
+        "ethereum": "0xef0fda1d4bd73ddc2f93a4e46e2e5adbc2d668f4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "TokenSets"
+    ],
+    "description": {
+        "en": "The ETH 20 Day MA Crossover Yield Set attempts to capitalize on shorter term trends and accumulate ETH. ETHMACOAPY automatically triggers rebalances when the price of ETH crosses the 20 Day Simple Moving Average (20 SMA) indicating a trend reversal."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xef0fda1d4bd73ddc2f93a4e46e2e5adbc2d668f4",
+    "url": "https://www.tokensets.com/set/ethmacoapy",
+    "explorers": [
+        "https://etherscan.io/token/0xeF0fDA1d4bd73DDC2f93A4e46E2E5aDBC2D668f4",
+        "https://ethplorer.io/address/0xef0fda1d4bd73ddc2f93a4e46e2e5adbc2d668f4"
+    ],
+    "twitter": "SetProtocol",
+    "github_org": "SetProtocol"
+}

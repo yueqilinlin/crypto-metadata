@@ -1,0 +1,24 @@
+{
+    "id": "conjure",
+    "symbol": "cnj",
+    "name": "Conjure",
+    "platforms": {
+        "ethereum": "0x00a55375002f3cda400383f479e7cd57bad029a9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Conjure allows anyone to permissionlessly create arbitrary Synthetic Assets, which tokenize the price for any asset they want. Users choose their oracles for price references, choose the asset type, name, symbol and can even have a small creator fee which they earn from everyone that mints their asset.\r\n\r\nConjure allow any possible asset wanted to be easily, permissionlessly and decentralized deployment onto the Ethereum network. Currencies, commodities, bananas or weather, you can now Conjure, mint, borrow and trade whatever you want."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x00a55375002f3cda400383f479e7cd57bad029a9",
+    "url": "https://conjure.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x00a55375002f3cda400383f479e7cd57bad029a9",
+        "https://ethplorer.io/address/0x00a55375002f3cda400383f479e7cd57bad029a9"
+    ],
+    "twitter": "ConjureFi",
+    "telegram": "ConjureFi",
+    "github_org": "ConjureFi"
+}

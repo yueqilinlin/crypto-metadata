@@ -1,0 +1,26 @@
+{
+    "id": "otcbtc-token",
+    "symbol": "otb",
+    "name": "OTCBTC Token",
+    "platforms": {
+        "ethereum": "0xa86a0da9d05d0771955df05b44ca120661af16de"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "OTCBTC is a blockchain OTC and crypto exchange platform. We are committed to improve blockchain asset liquidity and bring more people to the blockchain industry."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa86a0da9d05d0771955df05b44ca120661af16de",
+    "url": "https://otcbtc.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa86a0da9d05d0771955df05b44ca120661af16de",
+        "https://ethplorer.io/address/0xa86a0da9d05d0771955df05b44ca120661af16de"
+    ],
+    "twitter": "otcbtc",
+    "telegram": "otcbtc_en",
+    "reddit": "otcbtc/"
+}

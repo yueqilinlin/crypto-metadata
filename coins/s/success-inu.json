@@ -1,0 +1,22 @@
+{
+    "id": "success-inu",
+    "symbol": "SUCCESS",
+    "name": "SUCCESS INU",
+    "platforms": {
+        "binance-smart-chain": "0xce35f335b1bd0ec37651e15b030cdf83c95591df"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Success is a rewards token which distributes 1% of every transaction to holders wallets. Success will develop applications to make Crypto investing easy for beginners including a token sharing application to easily send tokens to friends, and family, and a token tracker application to view your tokens values, and redistribution from reward tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xce35f335b1bd0ec37651e15b030cdf83c95591df",
+    "url": "https://successinu.online/",
+    "explorers": [
+        "https://bscscan.com/token/0xce35f335b1bd0ec37651e15b030cdf83c95591df"
+    ],
+    "twitter": "SuccessInu",
+    "telegram": "SuccessInuOfficial"
+}

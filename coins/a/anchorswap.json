@@ -1,0 +1,23 @@
+{
+    "id": "anchorswap",
+    "symbol": "anchor",
+    "name": "AnchorSwap",
+    "platforms": {
+        "binance-smart-chain": "0x4aac18de824ec1b553dbf342829834e4ff3f7a9f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AnchorSwap is the first automatic liquidity acquisition yield farm and AMM decentralized exchange running on Binance Smart Chain with numerous creative features"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4aac18de824ec1b553dbf342829834e4ff3f7a9f",
+    "url": "https://anchorswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x4aac18de824ec1b553dbf342829834e4ff3f7a9f"
+    ],
+    "twitter": "AnchorSwap",
+    "telegram": "anchorswap",
+    "github_org": "anchorswap"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "barnbridge",
+    "symbol": "bond",
+    "name": "BarnBridge",
+    "platforms": {
+        "ethereum": "0x0391d2021f89dc339f60fff84546ea23e337750f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Polygon Ecosystem",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "A Cross Platform Protocol for Tokenizing Risk."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0391d2021f89dc339f60fff84546ea23e337750f",
+    "url": "https://barnbridge.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x0391D2021f89DC339F60Fff84546EA23E337750f",
+        "https://ethplorer.io/address/0x0391d2021f89dc339f60fff84546ea23e337750f"
+    ],
+    "twitter": "barn_bridge",
+    "github_org": "BarnBridge"
+}

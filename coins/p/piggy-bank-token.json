@@ -1,0 +1,24 @@
+{
+    "id": "piggy-bank-token",
+    "symbol": "piggy",
+    "name": "Piggy Bank Token",
+    "platforms": {
+        "binance-smart-chain": "0xcd2ecd5e06b1a330789b30e8ada3d11c51503a71"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Piggy Bank Token - Burning Tokenomics On BSC - Hyper-Deflationary / Automated Liquidity / Reflection Rewards For Holders on BSC"
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xcd2ecd5e06b1a330789b30e8ada3d11c51503a71",
+    "url": "https://piggybanktoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xcd2ecd5e06b1a330789b30e8ada3d11c51503a71"
+    ],
+    "twitter": "PiggyBankToken",
+    "telegram": "PiggyBankToken",
+    "reddit": "PiggyBankToken/",
+    "github_org": "piggybanktoken"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "kanpeki",
+    "symbol": "kae",
+    "name": "Kanpeki",
+    "platforms": {
+        "ethereum": "0x65def5029a0e7591e46b38742bfedd1fb7b24436"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Borrow and earn KAE, Deposit and earn fixed interest"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x65def5029a0e7591e46b38742bfedd1fb7b24436",
+    "url": "https://kanpeki.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x65def5029a0e7591e46b38742bfedd1fb7b24436",
+        "https://ethplorer.io/address/0x65def5029a0e7591e46b38742bfedd1fb7b24436"
+    ],
+    "twitter": "kanpeki_finance",
+    "telegram": "kanpeki_finance"
+}

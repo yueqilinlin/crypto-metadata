@@ -1,0 +1,24 @@
+{
+    "id": "stronghold-token",
+    "symbol": "shx",
+    "name": "Stronghold Token",
+    "platforms": {
+        "stellar": "SHX-GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Stronghold is a financial services platform that enables payments, trading, and USD reserves using our technology products like Stronghold USD and our platform APIs."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "SHX-GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH",
+    "url": "https://stronghold.co/stronghold-shx",
+    "explorers": [
+        "https://stellar.expert/explorer/public/asset/SHX-GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH"
+    ],
+    "twitter": "strongholdxchg",
+    "facebook": "strongholdxchg",
+    "telegram": "strongholdxchg",
+    "reddit": "strongholdxchg/"
+}

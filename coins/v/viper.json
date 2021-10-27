@@ -1,0 +1,32 @@
+{
+    "id": "viper",
+    "symbol": "viper",
+    "name": "Viper",
+    "platforms": {
+        "harmony-shard-0": "0xea589e93ff18b1a1f1e9bac7ef3e86ab62addc79"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Harmony Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Decentralized Exchange Token (DEX)",
+        "Exchange-based Tokens",
+        "Governance",
+        "Yield Farming",
+        "Automated Market Maker (AMM)"
+    ],
+    "description": {
+        "en": "The core foundation of the Viper Protocol is the Viper token. It is aimed to be fairly and widely distributed, with focus on rewarding early and active supporters of the protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xea589e93ff18b1a1f1e9bac7ef3e86ab62addc79",
+    "url": "https://viperswap.one/#/swap",
+    "explorers": [
+        "https://explorer.harmony.one/#/address/one1afvfayllrzc6ru0fhtr7705x4d32mhrewz4c77",
+        "https://explorer.harmony.one/#/address/0xea589e93ff18b1a1f1e9bac7ef3e86ab62addc79"
+    ],
+    "twitter": "venomdao?lang=en",
+    "telegram": "VenomDAO",
+    "github_org": "VenomProtocol"
+}

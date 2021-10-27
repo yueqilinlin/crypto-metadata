@@ -1,0 +1,22 @@
+{
+    "id": "arbimatter",
+    "symbol": "arbimatter",
+    "name": "ArbiMATTER",
+    "platforms": {
+        "arbitrum-one": "0xa7e1d00f1dc94040a8aad3ad993589f3e39a6b7a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ArbiMatter is an elastic supply token live on Arbitrum designed with a ever increasing price to its future peg of $1,000,000. Using a unique smart contract feature named ANTIMATTER which is hard coded in order to increase the price using negative rebases until it reaches $1,000,000 per token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa7e1d00f1dc94040a8aad3ad993589f3e39a6b7a",
+    "url": "https://arbimatter.com/",
+    "explorers": [
+        "https://arbiscan.io/token/0xa7e1d00f1dc94040a8aad3ad993589f3e39a6b7a"
+    ],
+    "twitter": "arbimatter",
+    "telegram": "arbimatter"
+}

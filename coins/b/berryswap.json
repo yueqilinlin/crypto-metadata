@@ -1,0 +1,23 @@
+{
+    "id": "berryswap",
+    "symbol": "berry",
+    "name": "BerrySwap",
+    "platforms": {
+        "binance-smart-chain": "0x8626f099434d9a7e603b8f0273880209eabfc1c5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Berryswapdex is a robust unique AMM system and a decentralized exchange platform built on the Binance smart chain network with seamless interoperability across the blockchain network and diverse contract systems.Berry is the native token of the BSE DEX, a core utility token with community participation. \r\n\r\n**OUR KEY FEATURES**\r\n--Swap dex system\r\n--IDO Launchpad system\r\n--Staking pool\r\n--Gaming platform \r\n--Farming pool\r\n--cross-chain Bridge  system for seamless interoperability across the blockchain networks and diverse contract systems. \r\n--NFT market \r\n--Lottery platform \r\n--Universal Berry wallet and mobile app with an electronic card system..\r\nWe hope to bring revolutionary transformations in to the Dex systems and ensure the decentralisation of the crypto ecosystem.."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8626f099434d9a7e603b8f0273880209eabfc1c5",
+    "url": "https://www.berryswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x8626f099434d9a7e603b8f0273880209eabfc1c5"
+    ],
+    "twitter": "berryswapdex",
+    "telegram": "berry_swap",
+    "github_org": "berryswap"
+}

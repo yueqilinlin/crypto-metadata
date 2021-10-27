@@ -1,0 +1,23 @@
+{
+    "id": "robot",
+    "symbol": "robot",
+    "name": "Robot",
+    "platforms": {
+        "ethereum": "0xfb5453340c03db5ade474b27e68b6a9c6b2823eb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The MetaFactory Governance Token."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xfb5453340c03db5ade474b27e68b6a9c6b2823eb",
+    "url": "https://metafactory.ai/",
+    "explorers": [
+        "https://etherscan.io/token/0xfb5453340c03db5ade474b27e68b6a9c6b2823eb",
+        "https://ethplorer.io/address/0xfb5453340c03db5ade474b27e68b6a9c6b2823eb"
+    ],
+    "twitter": "themetafactory",
+    "github_org": "MetaFactoryAI"
+}

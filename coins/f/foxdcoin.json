@@ -1,0 +1,22 @@
+{
+    "id": "foxdcoin",
+    "symbol": "foxd",
+    "name": "Foxdcoin",
+    "platforms": {},
+    "hashing_algorithm": "x16r",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "We are team of talented developers building cryptocurrency for communities"
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "url": "https://foxdcoin.com/",
+    "explorers": [
+        "https://explorer.foxdcoin.com/",
+        "https://explorer2.foxdcoin.com/"
+    ],
+    "twitter": "foxdcoin",
+    "github_org": "foxdproject"
+}

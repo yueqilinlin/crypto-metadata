@@ -1,0 +1,26 @@
+{
+    "id": "brz",
+    "symbol": "brz",
+    "name": "Brazilian Digital Token",
+    "platforms": {
+        "ethereum": "0x420412e765bfa6d85aaac94b4f7b708c89be2e2b",
+        "solana": "FtgGSFADXBtroxq8VCausXRr2of47QBf5AS1NtZCu4GD"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "BRZ is the first stable coin backed by Brazilian Reais (BRL). It'll allow Brazilian residents to directly ramp up in international exchanges and actively trade the Brazilian currency against pairs of different classes, including Bitcoin, other stable coins, utility and security tokens. It will be a powerful tool that will allow Brazilians to move and hedge Brazilians reais internationally. BRZ is always fully backed and holders can either purchase it for 1BRL or redeem it with a discount of 1% in Brazil."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x420412e765bfa6d85aaac94b4f7b708c89be2e2b",
+    "url": "https://www.brztoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x420412e765bfa6d85aaac94b4f7b708c89be2e2b",
+        "https://ethplorer.io/address/0x420412e765bfa6d85aaac94b4f7b708c89be2e2b"
+    ],
+    "twitter": "BrzToken",
+    "telegram": "brztoken"
+}

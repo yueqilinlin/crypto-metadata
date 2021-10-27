@@ -1,0 +1,23 @@
+{
+    "id": "waste-coin",
+    "symbol": "waco",
+    "name": "Waste Digital Coin",
+    "platforms": {
+        "ethereum": "0x910c4da718caf4ee38ce5c2490cddaeca689204e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WaCo (Waste digital coin) solution aims to integrate the consumer with the WaCo APP into the waste chain system. With WaCo, consumers enjoy benefits while disposing of wastes. The idea is to reward users with cryptocurrency tokens after successfully disposing of their waste. In exchange, crucial data will be obtained from consumers, such as customer patterns, accumulation and handling of waste, and availability of disposed products to feed the recycling industry. The information obtained from the consumers can be used by stakeholders such as the recycling industry, consumer goods manufacturers, and government bodies in charge of waste collection policies.\r\nThe WaCo project focuses on many different layers of impact, from social, ethnical, environmental and educational impact on one hand to business and revenues opportunity on the other. With one big impact, all the objectives are synchronized in the same direction of sustainability. WaCo aims to achieve a win win situation for every party involved in the project."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x910c4da718caf4ee38ce5c2490cddaeca689204e",
+    "url": "https://waco-token.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x910c4da718caf4ee38ce5c2490cddaeca689204e",
+        "https://ethplorer.io/address/0x910c4da718caf4ee38ce5c2490cddaeca689204e"
+    ],
+    "twitter": "WWastecoin",
+    "telegram": "WaCo_Coin"
+}

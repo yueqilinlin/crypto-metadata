@@ -1,0 +1,24 @@
+{
+    "id": "dexmex",
+    "symbol": "dexm",
+    "name": "Dexmex",
+    "platforms": {
+        "ethereum": "0x0020d80229877b495d2bf3269a4c13f6f1e1b9d3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dexmex is the first decentralized peer to peer leverage trading platform that allows to short and long any ERC20 token."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x0020d80229877b495d2bf3269a4c13f6f1e1b9d3",
+    "url": "https://app.dexmex.trade",
+    "explorers": [
+        "https://etherscan.io/token/0x0020d80229877b495d2bf3269a4c13f6f1e1b9d3",
+        "https://ethplorer.io/address/0x0020d80229877b495d2bf3269a4c13f6f1e1b9d3"
+    ],
+    "twitter": "OfficialDexMex",
+    "telegram": "DexMexofficial",
+    "github_org": "redtrapltr"
+}

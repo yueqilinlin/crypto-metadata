@@ -1,0 +1,24 @@
+{
+    "id": "moonbet",
+    "symbol": "mbet",
+    "name": "MoonBet",
+    "platforms": {
+        "binance-smart-chain": "0x44220eeb754ade4aa72b83d587c2c959d34560cf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Moonbet is the world's first community-driven decentralized iGaming ecosystem.\r\n\r\nIt allows the community to become owners of a world-class online sportsbook, casino, and eSports betting platfom through decentralized gaming. Our flagship Moonbet Sportsbook & Casino is currently live at www.moonbet.io and is fully licensed and regulated by the Curacao Gaming Control Board.\r\n\r\nThrough the MBET token based on the Binance Smart Chain, Moonbet allows holders to receive 50% of the profits from the Moonbet Sportsbook & Casino. The other 50% is reinvested to build an unmatched player experience. The 50% profit sharing for the community is distributed based on each holder's token percentage in relation to the circulating supply and will distributed via B-USD on the Binance Smart Chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x44220eeb754ade4aa72b83d587c2c959d34560cf",
+    "url": "https://www.moonbet.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x44220eeb754ade4aa72b83d587c2c959d34560cf"
+    ],
+    "twitter": "MOONBETofficial",
+    "telegram": "moonbetofficial",
+    "reddit": "Moonbet/",
+    "github_org": "Moonbet"
+}

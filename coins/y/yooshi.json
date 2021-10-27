@@ -1,0 +1,25 @@
+{
+    "id": "yooshi",
+    "symbol": "yooshi",
+    "name": "YooShi",
+    "platforms": {
+        "binance-smart-chain": "0x02ff5065692783374947393723dba9599e59f591"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "YooShi is a community-driven, fair launched MEME Token, which brings both fun and profits!\r\n100% Fair Launch\uff0cNo Team Allocation, No Presale, No One Own Contract Key.\r\nYooShi= Static Rewards, LP Acquisition, Manual Burn."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x02ff5065692783374947393723dba9599e59f591",
+    "url": "https://yooshi.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x02ff5065692783374947393723dba9599e59f591"
+    ],
+    "twitter": "yooshi_official",
+    "telegram": "yooshi_official",
+    "github_org": "Yooshi-io"
+}

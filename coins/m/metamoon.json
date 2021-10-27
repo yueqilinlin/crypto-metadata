@@ -1,0 +1,22 @@
+{
+    "id": "metamoon",
+    "symbol": "MetaMoon",
+    "name": "MetaMoon",
+    "platforms": {
+        "binance-smart-chain": "0xa1a0c7849e6916945a78f8af843738c051ab15f3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "PH",
+    "genesis_date": null,
+    "contract_address": "0xa1a0c7849e6916945a78f8af843738c051ab15f3",
+    "url": "https://metamoon.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xa1a0c7849e6916945a78f8af843738c051ab15f3"
+    ],
+    "twitter": "MetaMoon_io",
+    "telegram": "MetaMoon"
+}

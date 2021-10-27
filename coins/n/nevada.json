@@ -1,0 +1,22 @@
+{
+    "id": "nevada",
+    "symbol": "nevada",
+    "name": "Nevada",
+    "platforms": {
+        "binance-smart-chain": "0x52cf099d7c891951eace3e99abc580bda26912fc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Nevada team is developing a Binance Smart Chain project based on casino games and lottery concepts inspired by the casinos in the Las Vegas scene. Regular community activities are held on Nevada's socials such as Professional Poker Player Get-to-Know Sessions as well as Singing Competitions to promote community bonding.\r\n\r\nThe Nevada ecosystem is powered by its own $NEVADA token. The platform is funded and marketed through transaction taxes. Each transaction is subject to a 9% tax, of which 3% goes to the casino development, 2% to marketing and 3% to the weekly lottery. The final 2% is used for auto-LP, a function that adds BNB to the token reserves and makes the price floor more stable. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x52cf099d7c891951eace3e99abc580bda26912fc",
+    "url": "https://nevada.casino/",
+    "explorers": [
+        "https://bscscan.com/token/0x52cF099D7C891951eAce3E99ABC580BDa26912fC"
+    ],
+    "twitter": "NevadaCasinoBSC",
+    "telegram": "NevADAtoken"
+}

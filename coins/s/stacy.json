@@ -1,0 +1,25 @@
+{
+    "id": "stacy",
+    "symbol": "stacy",
+    "name": "Stacy",
+    "platforms": {
+        "ethereum": "0xf12ec0d3dab64ddefbdc96474bde25af3fe1b327"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "STACY is the governance token for ChadSwap, a cross-chain smart AMM."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf12ec0d3dab64ddefbdc96474bde25af3fe1b327",
+    "url": "https://chadswap.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xf12EC0D3Dab64DdEfBdC96474bDe25af3FE1B327",
+        "https://ethplorer.io/address/0xf12ec0d3dab64ddefbdc96474bde25af3fe1b327"
+    ],
+    "twitter": "chadsvc",
+    "telegram": "chads_vc"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "meliora",
+    "symbol": "mora",
+    "name": "Meliora",
+    "platforms": {
+        "ethereum": "0xb64cd4f56043f8d80691433e395d08b1bebdadf0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Meliora is a cross-chain atomic swap platform that provides from wallet to wallet, trust-less, permission-less and secure swaps."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0xb64cd4f56043f8d80691433e395d08b1bebdadf0",
+    "url": "https://meliora.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xb64cD4F56043F8d80691433e395d08B1bEBDADF0",
+        "https://ethplorer.io/address/0xb64cD4F56043F8d80691433e395d08B1bEBDADF0"
+    ],
+    "twitter": "meliorafinance",
+    "telegram": "meliorafinance",
+    "github_org": "meliora-finance"
+}

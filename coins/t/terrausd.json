@@ -1,0 +1,31 @@
+{
+    "id": "terrausd",
+    "symbol": "ust",
+    "name": "TerraUSD",
+    "platforms": {
+        "ethereum": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+        "sora": "0x00f8cfb462a824f37dcea67caae0d7e2f73ed8371e706ea8b1e1a7b0c357d5d4"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Seigniorage",
+        "Terra Ecosystem",
+        "USD Stablecoin",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "Terra USD (UST) is an algorithmic stablecoin that is pegged to the US"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+    "url": "https://terra.money",
+    "explorers": [
+        "https://finder.terra.money",
+        "https://etherscan.io/token/0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+        "https://ethplorer.io/address/0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+        "https://polygonscan.com/token/0x692597b009d13c4049a947cab2239b7d6517875f"
+    ],
+    "twitter": "terra_money",
+    "github_org": "terra-project"
+}

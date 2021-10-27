@@ -1,0 +1,20 @@
+{
+    "id": "oec-sushi",
+    "symbol": "sushik",
+    "name": "OEC SUSHI",
+    "platforms": {
+        "okex-chain": "0x2218e0d5e0173769f5b4939a3ae423f7e5e4eab7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2218e0d5e0173769f5b4939a3ae423f7e5e4eab7",
+    "url": "https://www.okex.com/okexchain",
+    "explorers": [
+        "https://www.oklink.com/okexchain/tokenAddr/0x2218e0d5e0173769f5b4939a3ae423f7e5e4eab7"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "waifer",
+    "symbol": "waifer",
+    "name": "Waifer",
+    "platforms": {
+        "binance-smart-chain": "0xea3d8c4fa272a81ed2a18dff43a98cebd3847c02"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Waifer is the official crypto currency of the social media platform Redwaif.com. The token can be used to make real world purchases through the Waifer ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xea3d8c4fa272a81ed2a18dff43a98cebd3847c02",
+    "url": "https://waifercoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xEA3d8c4fA272A81ED2a18dFf43A98cebD3847C02"
+    ],
+    "twitter": "waifercoin",
+    "telegram": "WaiferCoin"
+}

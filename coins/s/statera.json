@@ -1,0 +1,24 @@
+{
+    "id": "statera",
+    "symbol": "sta",
+    "name": "Statera",
+    "platforms": {
+        "ethereum": "0xa7de087329bfcda5639247f96140f9dabe3deed1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An Ethereum smart-contract token with a difference\r\n\r\nDeflationary\r\nStatera's core algorithm is designed to ensure that for every transaction, 1% of the amount transacted is destroyed.\r\n\r\nExchange\r\nSmart-exchange routing, including, but not limited to, Kyber, 0x Relays, Uniswap, Balancer & 1inch.\r\n\r\nPortfolio\r\nConstant arbitrage trading opportunities keep Statera's portfolio weights and tokens in a constant ratio.\r\n\r\n\r\nStatera rebalacing\r\nEvery trade for Statera creates an arbitrage opportunity. Trading attracts liquidity, which in-turn attracts trading. Liquidity ripples and the supply of Statera decreases.\r\n\r\n'statera' is derived from the Latin word for 'balance'"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa7de087329bfcda5639247f96140f9dabe3deed1",
+    "url": "https://stateratoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
+        "https://ethplorer.io/address/0xa7DE087329BFcda5639247F96140f9DAbe3DeED1"
+    ],
+    "twitter": "StateraProject",
+    "telegram": "stateratoken",
+    "github_org": "StateraProject"
+}

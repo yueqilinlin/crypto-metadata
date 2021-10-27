@@ -1,0 +1,27 @@
+{
+    "id": "apenft",
+    "symbol": "nft",
+    "name": "APENFT",
+    "platforms": {
+        "tron": "TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
+        "binance-smart-chain": "0x711d17c6eee1fa812db7a9e2eb9971e5d6252a05",
+        "huobi-token": "0x1a5364f782dbed4f69043b02b5c3870a10c23ed5",
+        "ethereum": "0xef40b859d21e4d566a3d713e756197c021bffaaa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "APENFT Fund was born with the mission to register world-class artworks as NFTs on-chain. It is built on top of TRON, one of the world's top three public chains, and is powered by the world's largest distributed data storage system BitTorrent.\r\n\r\nLike how blockchain democratizes finance like never before, APENFT, by turning top artists and art pieces into NFTs, not only upgrades the way artworks are hosted but also transforms them from being elite-exclusive items to something that truly belongs to the people and mirrors their aspirations. APENFT is the art for everyone."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
+    "url": "https://apenft.org/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
+        "https://etherscan.io/token/0xEF40B859D21e4d566a3d713e756197c021BffaAa",
+        "https://bscscan.com/token/0x1fc9004ec7e5722891f5f38bae7678efcb11d34d",
+        "https://hecoinfo.com/token/0x1a5364f782dbed4f69043b02b5c3870a10c23ed5"
+    ],
+    "twitter": "apenftorg"
+}

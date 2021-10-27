@@ -1,0 +1,31 @@
+{
+    "id": "polka-city",
+    "symbol": "polc",
+    "name": "Polkacity",
+    "platforms": {
+        "ethereum": "0xaa8330fb2b4d5d07abfe7a72262752a8505c6b37",
+        "binance-smart-chain": "0x6ae9701b9c423f40d54556c9a443409d79ce170a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Metaverse",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "Polkacity Is A New Fully Autonomous Contract Based NFT Platform That Allows You To Invest In Virtual Assets In The Form Of A Virtual City."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaa8330fb2b4d5d07abfe7a72262752a8505c6b37",
+    "url": "https://www.polkacity.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37",
+        "https://ethplorer.io/address/0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37",
+        "https://bscscan.com/token/0x6ae9701b9c423f40d54556c9a443409d79ce170a"
+    ],
+    "twitter": "PolkaCity",
+    "telegram": "Polkacity",
+    "reddit": "polkacity/",
+    "github_org": "POLKACITY"
+}

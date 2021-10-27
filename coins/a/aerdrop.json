@@ -1,0 +1,22 @@
+{
+    "id": "aerdrop",
+    "symbol": "aer",
+    "name": "Aerdrop",
+    "platforms": {
+        "binance-smart-chain": "0xc7ad2ce38f208eed77a368613c62062fce88f125"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Aerdrop, a new frictionless, yield-generating & reward contract.  The team is building Aerstation, the first defi token launchpad for free airdrops of any token!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc7ad2ce38f208eed77a368613c62062fce88f125",
+    "url": "https://www.aerdrop.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xc7ad2ce38f208eed77a368613c62062fce88f125"
+    ],
+    "twitter": "AerDropOfficial",
+    "telegram": "aerdropofficial"
+}

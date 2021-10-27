@@ -1,0 +1,25 @@
+{
+    "id": "near",
+    "symbol": "near",
+    "name": "Near",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Near Protocol Ecosystem",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "NEAR is a sharded, developer-friendly, proof-of-stake public blockchain, built by a world-class team that has built some of the world's only sharded databases at scale. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://nearprotocol.com/",
+    "explorers": [
+        "https://explorer.nearprotocol.com/",
+        "https://hubble.figment.io/near/chains/mainnet"
+    ],
+    "twitter": "nearprotocol",
+    "facebook": "NearProtocol/",
+    "telegram": "cryptonear",
+    "github_org": "near"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "credmark",
+    "symbol": "cmk",
+    "name": "Credmark",
+    "platforms": {
+        "ethereum": "0x68cfb82eacb9f198d508b514d898a403c449533e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Credmark data platform enables developers to build risk adjusted financial models on provable, high integrity data, and test and distribute their models to the public. The decentralized approach connects three communities of users to create a self-sustaining ecosystem: model contributors, who create predictive and statistical models; token holders, who govern the rules and inputs of the platform; and retail users who take financial positions through the platform and generate fees.\r\n\r\nThe platform leverages cloud and blockchain services to make high-quality, validated data available to model contributors with technical expertise. These models are consumed by retail users, Defi protocols and any interested party needing high integrity risk adjusted data."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x68cfb82eacb9f198d508b514d898a403c449533e",
+    "url": "https://credmark.com",
+    "explorers": [
+        "https://etherscan.io/token/0x68cfb82eacb9f198d508b514d898a403c449533e",
+        "https://ethplorer.io/address/0x68cfb82eacb9f198d508b514d898a403c449533e"
+    ],
+    "twitter": "credmarkhq",
+    "telegram": "credmark",
+    "reddit": "Credmark/",
+    "github_org": "credmark"
+}

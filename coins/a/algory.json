@@ -1,0 +1,26 @@
+{
+    "id": "algory",
+    "symbol": "alg",
+    "name": "Algory",
+    "platforms": {
+        "ethereum": "0x16b0a1a87ae8af5c792fabc429c4fe248834842b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Find the crypto that matter with Algory tools.\r\nThe most actionable and multifunctional cryptocurrency tools and\r\ncryptocurrency news aggregator ever built for individual crypto traders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x16b0a1a87ae8af5c792fabc429c4fe248834842b",
+    "url": "https://algory.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x16b0a1a87ae8af5c792fabc429c4fe248834842b",
+        "https://ethplorer.io/address/0x16b0a1a87ae8af5c792fabc429c4fe248834842b"
+    ],
+    "twitter": "AlgoryProject",
+    "facebook": "algoryproject",
+    "telegram": "AlgoryProject",
+    "reddit": "AlgoryProject/",
+    "github_org": "AlgoryProject"
+}

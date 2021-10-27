@@ -1,0 +1,26 @@
+{
+    "id": "veraone",
+    "symbol": "vro",
+    "name": "VeraOne",
+    "platforms": {
+        "ethereum": "0x10bc518c32fbae5e38ecb50a612160571bd81e44"
+    },
+    "hashing_algorithm": "SHA-3",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "VeraOne is a gold-backed stablecoin, made by the French leader in sales and safekeeping of physical gold and silver assets."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x10bc518c32fbae5e38ecb50a612160571bd81e44",
+    "url": "https://veraone.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x10BC518c32fbAE5e38Ecb50A612160571bD81e44",
+        "https://ethplorer.io/address/0x10BC518c32fbAE5e38Ecb50A612160571bD81e44"
+    ],
+    "twitter": "VROstablecoin",
+    "facebook": "VROstablecoin",
+    "telegram": "VROstablecoin"
+}

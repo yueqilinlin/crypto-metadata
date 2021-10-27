@@ -1,0 +1,21 @@
+{
+    "id": "idle-tusd-yield",
+    "symbol": "idleTUSDYield",
+    "name": "IdleTUSD (Best Yield)",
+    "platforms": {
+        "ethereum": "0xc278041fdd8249fe4c1aad1193876857eea3d68c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc278041fdd8249fe4c1aad1193876857eea3d68c",
+    "url": "https://idle.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xc278041fdd8249fe4c1aad1193876857eea3d68c",
+        "https://ethplorer.io/address/0xc278041fdd8249fe4c1aad1193876857eea3d68c"
+    ]
+}

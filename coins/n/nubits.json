@@ -1,0 +1,22 @@
+{
+    "id": "nubits",
+    "symbol": "usnbt",
+    "name": "NuBits",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "NuBits (NBT) are the world's first stable decentralized digital currency. One NuBit is designed to always be worth USD 1.00.\r\n\r\nNuBits was released on 23 September 2014 by a veteran group of Peercoin developers and community members led by Jordan Lee. It was developed from the same stable and secure code that Peercoin and Bitcoin use. A full white paper, FAQs, technical documentation, and other information are available on <a href=\"http://www.nubits.com\">www.nubits.com</a>.\r\n\r\nFor the first time in history, anyone can safely and privately store a digital currency that is stable in value by using NuBits.\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": "2014-08-03",
+    "url": "https://nubits.com/",
+    "explorers": [
+        "https://explorer.nubits.com"
+    ],
+    "twitter": "OfficialNuBits",
+    "facebook": "OfficialNuBits",
+    "reddit": "NuBits"
+}

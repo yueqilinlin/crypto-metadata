@@ -1,0 +1,21 @@
+{
+    "id": "dota-finance",
+    "symbol": "dota",
+    "name": "Dota Finance",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dota Finance is the first NFT marketplace for Dota fans on Binance Smart Chain. Dota Finance empowers both individual creators and Dota communities to create, discover, trade NFTs."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x9622ce95c731d1fc52768271c05a6d7c0f916d33",
+    "url": "https://dota.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x9622ce95c731d1fc52768271c05a6d7c0f916d33"
+    ],
+    "twitter": "DotaToken",
+    "telegram": "dota_token",
+    "github_org": "dota-finance"
+}

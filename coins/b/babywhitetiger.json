@@ -1,0 +1,22 @@
+{
+    "id": "babywhitetiger",
+    "symbol": "bwt",
+    "name": "BabyWhiteTiger",
+    "platforms": {
+        "binance-smart-chain": "0x4329f1fbb62dea8960237fd975a794a604c57ff7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BabyWhiteTiger is a token that combines liquidity pool + reflections tokenomics, with exclusive NFT collections."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4329f1fbb62dea8960237fd975a794a604c57ff7",
+    "url": "https://babywhitetiger.io/home/",
+    "explorers": [
+        "https://bscscan.com/token/0x4329f1fbb62dea8960237fd975a794a604c57ff7"
+    ],
+    "twitter": "babywhite_tiger",
+    "telegram": "babywhitetiger"
+}

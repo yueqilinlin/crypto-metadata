@@ -1,0 +1,22 @@
+{
+    "id": "adadex-tools",
+    "symbol": "adat",
+    "name": "Adadex Tools",
+    "platforms": {
+        "binance-smart-chain": "0xdce6380b9d2d8beac66b0fba2604c51519d24d77"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "First Pool Explorer for Cardano Decentralized Exchanges - The ADADEX TOOLS platform enables you to monitor trading in real-time and analyze a project during and after its launch on Cardano DEXes. ADAT will let you make informed decisions faster and get a full view of the token. Every metric you can imagine \u2013 every key decision-making metric, all in one view."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdce6380b9d2d8beac66b0fba2604c51519d24d77",
+    "url": "https://adadex.tools/",
+    "explorers": [
+        "https://bscscan.com/token/0xdce6380b9d2d8beac66b0fba2604c51519d24d77"
+    ],
+    "twitter": "Adadex_Tools",
+    "telegram": "adadextools"
+}

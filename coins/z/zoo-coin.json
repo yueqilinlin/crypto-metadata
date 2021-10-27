@@ -1,0 +1,25 @@
+{
+    "id": "zoo-coin",
+    "symbol": "zoo",
+    "name": "ZooCoin",
+    "platforms": {
+        "fantom": "0x09e145a1d53c0045f41aeef25d8ff982ae74dd56"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fantom Ecosystem"
+    ],
+    "description": {
+        "en": "Zoo is an ecosystem of decentralized applications powered by Fantom network. Primary project's token (ZOO) is utilized within the ecosystem among various of developed and planned projects - ZooWallet (portfolio monitoring), ZooPet (NFT marketplace), ZooCharts (charting provider), ZooDex (decentralized exchange), ZooTrade (trading insights).\r\n\r\nZoo is ERC20 token on Fantom Nerwork. Our products are written using different technologies - backend (node.js / PostgreSQL), frontend (React), smart-contracts (Solidity)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x09e145a1d53c0045f41aeef25d8ff982ae74dd56",
+    "url": "https://zoocoin.cash",
+    "explorers": [
+        "https://ftmscan.com/token/0x09e145a1d53c0045f41aeef25d8ff982ae74dd56#readContract"
+    ],
+    "twitter": "CoinZoo",
+    "telegram": "jointhezoo",
+    "github_org": "ZooEcosystem"
+}

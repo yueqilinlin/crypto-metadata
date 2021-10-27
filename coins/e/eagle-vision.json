@@ -1,0 +1,22 @@
+{
+    "id": "eagle-vision",
+    "symbol": "evi",
+    "name": "Eagle Vision",
+    "platforms": {
+        "binance-smart-chain": "0x6926be55c50c752b238ad85a86feeb278e991d81"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Eagle Vision aims to build a robust ecosystem of DeFi applications on Binance Smart Chain with cross chain support to ADA network. EagleSwap was successfully launched and offers Staking pools, Farming, and more features. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6926be55c50c752b238ad85a86feeb278e991d81",
+    "url": "https://eaglevisionada.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x6926be55c50c752B238ad85a86FEeb278E991d81"
+    ],
+    "twitter": "eaglevisionada",
+    "telegram": "eaglevisionBSCADA"
+}

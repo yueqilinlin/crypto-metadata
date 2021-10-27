@@ -1,0 +1,24 @@
+{
+    "id": "bitacium",
+    "symbol": "xbond",
+    "name": "Bitacium",
+    "platforms": {
+        "ethereum": "0x19d6c93f2d298362045d63c6e32f741954379a6f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x19d6c93f2d298362045d63c6e32f741954379a6f",
+    "url": "https://www.bitacium.money",
+    "explorers": [
+        "https://etherscan.io/token/0x19d6c93f2d298362045d63c6e32f741954379a6f",
+        "https://ethplorer.io/address/0x19d6c93f2d298362045d63c6e32f741954379a6f"
+    ],
+    "twitter": "BitaciumXBOND",
+    "telegram": "BitaciumXBOND",
+    "github_org": "BitaciumXBOND"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "supersonic-finance",
+    "symbol": "ssn",
+    "name": "Supersonic Finance",
+    "platforms": {
+        "binance-smart-chain": "0x89d453108bd94b497bbb4496729cd26f92aba533"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Supersonic Finance - The nexus of a multi-chain DEX and a self-service launchpad for developers. The vision is to offer a very simple interface for users to convert their crypto assets on-chain and in a decentralized way. In addition, developers can raise funds via SuperSale and add liquidity for their investors via SuperDEX. $SSN can be used for governance, and can be staked to earn a portion of the fees charged via SuperSale and many other use cases"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x89d453108bd94b497bbb4496729cd26f92aba533",
+    "url": "https://supersonic.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x89d453108bd94b497bbb4496729cd26f92aba533"
+    ],
+    "twitter": "supersonicfi",
+    "facebook": "supersonicfi",
+    "telegram": "supersonicfi",
+    "reddit": "supersonicfi",
+    "github_org": "supersonicfi"
+}

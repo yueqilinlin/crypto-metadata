@@ -1,0 +1,25 @@
+{
+    "id": "yvs-finance",
+    "symbol": "yvs",
+    "name": "YVS Finance",
+    "platforms": {
+        "ethereum": "0xec681f28f4561c2a9534799aa38e0d36a83cf478",
+        "polygon-pos": "0xb565cf70613ca464d68427106af80c67a8e4b801"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The first and only yield-farming, vaults and staking deflationary token with no admin control."
+    },
+    "country_origin": "IT",
+    "genesis_date": null,
+    "contract_address": "0xec681f28f4561c2a9534799aa38e0d36a83cf478",
+    "url": "https://yvs.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xEC681F28f4561c2a9534799AA38E0d36A83Cf478",
+        "https://ethplorer.io/address/0xEC681F28f4561c2a9534799AA38E0d36A83Cf478"
+    ],
+    "twitter": "YVSFinance",
+    "telegram": "YVSFinance",
+    "github_org": "yvs-finance"
+}

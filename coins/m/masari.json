@@ -1,0 +1,23 @@
+{
+    "id": "masari",
+    "symbol": "msr",
+    "name": "Masari",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "Masari describes itself as a fungible, secure, and private cryptocurrency based on Monero that was launched on 7 September 2017.\r\n\r\nIts primary focus is to research and implement scaling solutions that are a concern for all CryptoNote coins as the cryptocurrency space gets more mainstream. Combining current features such as a fully client-side web wallet, 60-second block time, and uncle mining (via the SECOR protocol) with future blocktree scaling, the goal is to empower users to quickly transact online without worrying about chain slowdowns or loss of anonymity.\r\n\r\nMasari aims to be simple, scalable, and secure. Learn more at https://getmasari.org"
+    },
+    "country_origin": "",
+    "genesis_date": "2017-09-02",
+    "url": "https://getmasari.org",
+    "explorers": [
+        "https://explorer.getmasari.org/"
+    ],
+    "twitter": "masaricurrency",
+    "telegram": "masaricurrency",
+    "reddit": "masari/",
+    "github_org": "masari-project"
+}

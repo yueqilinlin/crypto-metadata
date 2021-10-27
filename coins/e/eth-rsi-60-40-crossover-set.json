@@ -1,0 +1,26 @@
+{
+    "id": "eth-rsi-60-40-crossover-set",
+    "symbol": "ethrsi6040",
+    "name": "ETH RSI 60/40 Crossover Set",
+    "platforms": {
+        "ethereum": "0x93e01899c10532d76c0e864537a1d26433dbbddb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "TokenSets"
+    ],
+    "description": {
+        "en": "The ETH RSI 60/40 Crossover Set attempts to capitalize on trends by detecting the speed and change of price movements for ETH. ETHRSI6040 automatically triggers rebalances if the Relative Strength Index (RSI) crosses below support or above resistance to indicate the price momentum. If the ETH RSI falls below support at 40 in an existing uptrend, ETHRSI6040 rebalances ETH into cash (USDC)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x93e01899c10532d76c0e864537a1d26433dbbddb",
+    "url": "https://www.tokensets.com/set/ethrsi6040",
+    "explorers": [
+        "https://etherscan.io/token/0x93E01899c10532d76C0E864537a1D26433dBbDdB",
+        "https://ethplorer.io/address/0x93e01899c10532d76c0e864537a1d26433dbbddb"
+    ],
+    "twitter": "SetProtocol",
+    "github_org": "SetProtocol"
+}

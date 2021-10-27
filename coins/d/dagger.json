@@ -1,0 +1,24 @@
+{
+    "id": "dagger",
+    "symbol": "xdag",
+    "name": "Dagger",
+    "platforms": {},
+    "hashing_algorithm": "Directed Acyclic Graph (DAG)",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "\"XDAG is a novel application of Directed Acyclic Graph (DAG) technology that solves the issues currently facing blockchain technology.\r\nThe first mineable DAG based coin.\""
+    },
+    "country_origin": "RU",
+    "genesis_date": "2018-01-05",
+    "url": "https://xdag.io",
+    "explorers": [
+        "https://explorer.xdag.io/"
+    ],
+    "twitter": "XDAG_Community",
+    "facebook": "XDAG.Dagger.Community",
+    "telegram": "dagger_cryptocurrency",
+    "reddit": "xdag/",
+    "github_org": "XDagger"
+}

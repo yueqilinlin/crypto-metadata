@@ -1,0 +1,27 @@
+{
+    "id": "biocrypt",
+    "symbol": "bio",
+    "name": "BioCrypt",
+    "platforms": {
+        "ethereum": "0xf18432ef894ef4b2a5726f933718f5a8cf9ff831"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "BioCrypt uses RFID and NFC technology to make everyday tasks easier and more convenient. These include authentication and verification, essentially allowing keys to become obsolete; supply chain management and item tracking through destination scans; and many more."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xf18432ef894ef4b2a5726f933718f5a8cf9ff831",
+    "url": "https://BioCrypt.Tech",
+    "explorers": [
+        "https://etherscan.io/token/0xf18432ef894ef4b2a5726f933718f5a8cf9ff831",
+        "https://ethplorer.io/address/0xf18432ef894ef4b2a5726f933718f5a8cf9ff831"
+    ],
+    "twitter": "BioCryptTech",
+    "facebook": "BioCryptTech",
+    "telegram": "BioCryptTech",
+    "reddit": "BioCryptTech/"
+}

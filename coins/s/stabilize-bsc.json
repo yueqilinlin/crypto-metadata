@@ -1,0 +1,23 @@
+{
+    "id": "stabilize-bsc",
+    "symbol": "stbb",
+    "name": "Stabilize BSC",
+    "platforms": {
+        "binance-smart-chain": "0xe1316066af35fbff54f870ea6d1468255602a696"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Stabilize BSC is an arbitrage aggregator for the Binance Smart Chain network"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe1316066af35fbff54f870ea6d1468255602a696",
+    "url": "https://stabilize.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xE1316066af35fbfF54f870eA6d1468255602a696"
+    ],
+    "twitter": "StabilizePro",
+    "telegram": "stabilizeprotocol",
+    "github_org": "stabilize-token"
+}

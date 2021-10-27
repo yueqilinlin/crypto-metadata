@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-bnb-token",
+    "symbol": "bnbbear",
+    "name": "3X Short BNB Token",
+    "platforms": {
+        "ethereum": "0x6febdfc0a9d9502c45343fce0df08828def44795"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short BNB Token (BNBBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of Binance Coin."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6febdfc0a9d9502c45343fce0df08828def44795",
+    "url": "https://ftx.com/tokens/BNBBEAR",
+    "explorers": [
+        "https://etherscan.io/token/0x6febdfc0a9d9502c45343fce0df08828def44795",
+        "https://ethplorer.io/address/0x6febdfc0a9d9502c45343fce0df08828def44795"
+    ]
+}

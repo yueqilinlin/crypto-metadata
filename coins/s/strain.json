@@ -1,0 +1,23 @@
+{
+    "id": "strain",
+    "symbol": "strn",
+    "name": "Strain",
+    "platforms": {
+        "ethereum": "0x90b426067be0b0ff5de257bc4dd6a4815ea03b5f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Strain NFT utility token."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x90b426067be0b0ff5de257bc4dd6a4815ea03b5f",
+    "url": "https://strainnft.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x90b426067be0b0ff5de257bc4dd6a4815ea03b5f",
+        "https://ethplorer.io/address/0x90b426067be0b0ff5de257bc4dd6a4815ea03b5f"
+    ],
+    "twitter": "StrainNFT",
+    "github_org": "StrainNft"
+}

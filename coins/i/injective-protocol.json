@@ -1,0 +1,34 @@
+{
+    "id": "injective-protocol",
+    "symbol": "inj",
+    "name": "Injective Protocol",
+    "platforms": {
+        "ethereum": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+        "binance-smart-chain": "0xa2b726b1145a4773f68593cf171187d8ebe4d495"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Derivatives",
+        "Binance Smart Chain Ecosystem",
+        "Perpetuals",
+        "Decentralized Finance (DeFi)",
+        "Cosmos Ecosystem",
+        "Exchange-based Tokens",
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+    "url": "https://injectiveprotocol.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+        "https://ethplorer.io/address/0xe28b3b32b6c345a34ff64674606124dd5aceca30"
+    ],
+    "twitter": "InjectiveLabs",
+    "telegram": "joininjective",
+    "reddit": "injective/"
+}

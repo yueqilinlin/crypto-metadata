@@ -1,0 +1,21 @@
+{
+    "id": "crypto-raiders",
+    "symbol": "raider",
+    "name": "Crypto Raiders",
+    "platforms": {
+        "polygon-pos": "0xcd7361ac3307d1c5a46b63086a90742ff44c63b3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RAIDER is the governance and value token for the Crypto Raiders P2E game on Polygon."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcd7361ac3307d1c5a46b63086a90742ff44c63b3",
+    "url": "https://cryptoraiders.xyz/",
+    "explorers": [
+        "https://polygonscan.com/token/0xcd7361ac3307D1C5a46b63086a90742Ff44c63B3"
+    ],
+    "twitter": "crypto_raiders"
+}

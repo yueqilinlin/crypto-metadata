@@ -1,0 +1,23 @@
+{
+    "id": "lovechain",
+    "symbol": "lov",
+    "name": "LoveChain",
+    "platforms": {
+        "ethereum": "0xe3c864307b5592404431649de541c259497e2bd1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The LOV tokens powers the LoveChain social media and ecommerce platform and ecosystem"
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0xe3c864307b5592404431649de541c259497e2bd1",
+    "url": "https://www.thelovechain.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xe3c864307b5592404431649de541c259497e2bd1",
+        "https://ethplorer.io/address/0xe3c864307b5592404431649de541c259497e2bd1"
+    ],
+    "twitter": "the_lovechain",
+    "telegram": "thelovechainchat"
+}

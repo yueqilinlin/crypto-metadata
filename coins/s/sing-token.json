@@ -1,0 +1,23 @@
+{
+    "id": "sing-token",
+    "symbol": "sing",
+    "name": "Sing Token",
+    "platforms": {
+        "polygon-pos": "0xcb898b0efb084df14dd8e018da37b4d0f06ab26d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Multichain, Yield farming project with triple farming system deployed. Launched on Polygon, BSC, Avalanche"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcb898b0efb084df14dd8e018da37b4d0f06ab26d",
+    "url": "https://singular.farm/",
+    "explorers": [
+        "https://polygonscan.com/token/0xCB898b0eFb084Df14dd8E018dA37B4d0f06aB26D"
+    ],
+    "twitter": "singularfarm",
+    "telegram": "singularfarm",
+    "github_org": "singularfarm"
+}

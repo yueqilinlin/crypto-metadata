@@ -1,0 +1,26 @@
+{
+    "id": "evolution",
+    "symbol": "gen",
+    "name": "Evolution",
+    "platforms": {
+        "binance-smart-chain": "0xb0f2939a1c0e43683e5954c9fe142f7df9f8d967"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Automated Market Maker (AMM)",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "New generation of yield farming of Binance Smart Chain with revolutionary features."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb0f2939a1c0e43683e5954c9fe142f7df9f8d967",
+    "url": "https://evodefi.com",
+    "explorers": [
+        "https://bscscan.com/token/0xB0F2939A1c0e43683E5954c9Fe142F7df9F8D967"
+    ],
+    "twitter": "evolution_bsc",
+    "telegram": "evolution_bsc",
+    "github_org": "darwin-sudo"
+}

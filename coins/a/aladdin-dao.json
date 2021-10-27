@@ -1,0 +1,24 @@
+{
+    "id": "aladdin-dao",
+    "symbol": "ald",
+    "name": "Aladdin DAO",
+    "platforms": {
+        "ethereum": "0xb26c4b3ca601136daf98593feaeff9e0ca702a8d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AladdinDAO is a decentralized network to shift crypto investments from venture capitalists to wisdom of crowds through collective value discovery. At AladdinDAO, a group of world class experts in DeFi known as the AladdinDAO Boule identifies the most promising DeFi projects and enables AladdinDAO community members to enjoy the returns of their liquidity mining programs. As a result, the protocol will help to reduce information asymmetry and optimize asset allocations for the DeFi space overall. \r\nUsing a unique voting scheme, AladdinDAO hopes to identify, analyze, and provide quality DeFi projects to our community members. Boule Members earn AladdinDAO tokens (ALD) as results of their participation in the DAO."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb26c4b3ca601136daf98593feaeff9e0ca702a8d",
+    "url": "https://aladdin.club/",
+    "explorers": [
+        "https://etherscan.io/token/0xb26C4B3Ca601136Daf98593feAeff9E0CA702a8D",
+        "https://ethplorer.io/address/0xb26C4B3Ca601136Daf98593feAeff9E0CA702a8D"
+    ],
+    "twitter": "AladdinDAO",
+    "telegram": "aladdin_dao",
+    "github_org": "AladdinDAO"
+}

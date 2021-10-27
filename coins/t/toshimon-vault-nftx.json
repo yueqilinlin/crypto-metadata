@@ -1,0 +1,24 @@
+{
+    "id": "toshimon-vault-nftx",
+    "symbol": "toshimon",
+    "name": "TOSHIMON Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0x1b9aa0b63e0f025cd544e4d350ed81429b43b724"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "TOSHIMON Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1b9aa0b63e0f025cd544e4d350ed81429b43b724",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x1b9Aa0b63e0F025CD544E4d350ed81429b43b724",
+        "https://ethplorer.io/address/0x1b9aa0b63e0f025cd544e4d350ed81429b43b724"
+    ],
+    "twitter": "nftx_"
+}

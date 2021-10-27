@@ -1,0 +1,22 @@
+{
+    "id": "bullex",
+    "symbol": "blx",
+    "name": "BulleX",
+    "platforms": {
+        "binance-smart-chain": "0x9612f89f32c8a8419be7a65358e485b76db2d7f4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A revolutionary way in earning passive income.\r\n\r\nA Hyper-Deflationary Buy-Back token that automatically rewards holders with BNB.\r\n\r\nHold BulleX in your wallet and watch as BNB gets distributed amongst all holders within 30 minute intervals. Our Rewards Pool ensures that rewards remain flowing should there be low volume.\r\n\r\nIt doesn\u2019t stop there \u2013 the BulleX contract buys back any sells to the degree of upto 10 BNB at a time. You will never see 2 sells at once."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9612f89f32c8a8419be7a65358e485b76db2d7f4",
+    "url": "https://bullextoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x9612f89f32c8a8419be7a65358e485b76db2d7f4"
+    ],
+    "twitter": "bullextoken",
+    "telegram": "bullextoken"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "honey-defi",
+    "symbol": "honey",
+    "name": "Honey Defi",
+    "platforms": {
+        "ethereum": "0x5cb9b847fba8aadb8a943fe19c1cc8439d7e00c5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HONEY is the first deflationary token to reward investors with ERC-721 NFTs. The token is at the center of the Honey NFT ecosystem, which allows investors to boost rewards, decrease transaction fees, and participate in special events. Honey\u2019s procedurally generated NFTs can be minted using the native token, with proceeds being donated to partnered charities.\r\n\r\nHONEY\u2019s fully doxxed and audited team is partnering with the world\u2019s biggest bee charities to bring blockchain transparency and efficiency to the world of non-profits. Our mission is to save the declining bee population, while pioneering new ways to reward investors through the use of NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5cb9b847fba8aadb8a943fe19c1cc8439d7e00c5",
+    "url": "https://www.honeydefi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x5CB9B847FbA8aAdb8a943fE19C1cc8439d7e00C5",
+        "https://ethplorer.io/address/0x5CB9B847FbA8aAdb8a943fE19C1cc8439d7e00C5"
+    ],
+    "twitter": "honeydefi",
+    "telegram": "honeydefi",
+    "github_org": "HoneyDeFi"
+}

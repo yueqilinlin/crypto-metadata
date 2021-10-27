@@ -1,0 +1,23 @@
+{
+    "id": "brother-music-platform",
+    "symbol": "bmp",
+    "name": "Brother Music Platform",
+    "platforms": {
+        "ethereum": "0x01b23286ff60a543ec29366ae8d6b6274ca20541"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x01b23286ff60a543ec29366ae8d6b6274ca20541",
+    "url": "https://bmpbrave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x01b23286FF60a543ec29366aE8D6B6274cA20541",
+        "https://ethplorer.io/address/0x01b23286FF60a543ec29366aE8D6B6274cA20541"
+    ],
+    "twitter": "BMPfoundation",
+    "telegram": "BMP_Official_chat"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "moonmoon",
+    "symbol": "moonmoon",
+    "name": "MoonMoon",
+    "platforms": {
+        "binance-smart-chain": "0x0e0e877894a101ad8711ae3a0194fa44ca837a79"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Moonmoon harnesses the power of memes to increase project visibility and deliver value to token holders. Like Doge, but cuter! Each transaction redistributes tokens to holders and adds liquidity to pancakeswap. Like Safemoon, but without the chance of a rug! Moonmoon is designed to pump for the entire community.  Liquidity is locked so moonmoon is rug proof and funds are safu!\r\n\r\nEvery transaction (buy and sell) is taxed 8.40% where 4.20% goes to liquidity and 4.20% gets distributed to holders according to their stake."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0e0e877894a101ad8711ae3a0194fa44ca837a79",
+    "url": "https://www.moonmoon.cash/",
+    "explorers": [
+        "https://bscscan.com/token/0x0e0e877894a101Ad8711AE3A0194Fa44Ca837a79"
+    ],
+    "twitter": "MoonMoonCash",
+    "telegram": "moonmooncash"
+}

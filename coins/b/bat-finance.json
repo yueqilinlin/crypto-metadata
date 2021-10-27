@@ -1,0 +1,23 @@
+{
+    "id": "bat-finance",
+    "symbol": "bat",
+    "name": "Bat Finance",
+    "platforms": {
+        "binance-smart-chain": "0xe76804b43f17fc41f226d63fd2a676df409d4678"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bat is an experimental project and social practice on the Binance BSC chain that integrates \"BURN\" \"LP Acquisition\" \"Reflection\" \"LP Mining\" mechanism. Bat will bring \"meme token\"/\"Bat Swap\" to the community, and plans to launch NFT market with full set of NFT products based on project progress."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe76804b43f17fc41f226d63fd2a676df409d4678",
+    "url": "https://app.batex.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xe76804b43f17fc41f226d63fd2a676df409d4678"
+    ],
+    "twitter": "BatFinTech",
+    "telegram": "batfinanceproject",
+    "github_org": "BatFinance"
+}

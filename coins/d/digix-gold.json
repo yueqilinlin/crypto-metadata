@@ -1,0 +1,28 @@
+{
+    "id": "digix-gold",
+    "symbol": "dgx",
+    "name": "Digix Gold",
+    "platforms": {
+        "ethereum": "0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Tokenized Gold",
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "DIGIX DAO TOKENS. Our vision for the future is a world operating on Smart Contracts. Indeed, we think this vision will become a reality very soon.\r\nIn this world, a stable store of value is needed - that's why we created DGX.\r\nIn order to ensure the success of DGX, we also conceived DGD; a stake in a 'Distributed Autonomous Organisation' that rewards DGD holders based on DGX's success. By participating in the DAO and working on its behalf in curating proposals, you get rewarded based on the usage of DGX in the Ethereum ecosystem.\r\nDGD holders use their tokens to decide on proposals, and determine the best way forward for Digix."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf",
+    "url": "http://digix.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf",
+        "https://ethplorer.io/address/0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf"
+    ],
+    "twitter": "digixglobal",
+    "reddit": "digix/",
+    "github_org": "mrenoon"
+}

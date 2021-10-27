@@ -1,0 +1,28 @@
+{
+    "id": "midas-protocol",
+    "symbol": "mas",
+    "name": "Midas Protocol",
+    "platforms": {
+        "ethereum": "0x23ccc43365d9dd3882eab88f43d515208f832430"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Midas Protocol recognized these many pressing issues with cryptocurrency investment today, and is offering a complete solution. We are launching a platform that will allow investors to buy, sell, exchange and spend a whole array of crypto-assets all under one place. We provide a universal tool which helps the average person without much technical knowledge can take part in this revolution.\r\n"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x23ccc43365d9dd3882eab88f43d515208f832430",
+    "url": "https://midasprotocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x23ccc43365d9dd3882eab88f43d515208f832430",
+        "https://ethplorer.io/address/0x23ccc43365d9dd3882eab88f43d515208f832430"
+    ],
+    "twitter": "MidasProtocol",
+    "facebook": "midasprotocol.io",
+    "telegram": "midasprotocolglobal",
+    "github_org": "MidasCore"
+}

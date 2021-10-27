@@ -1,0 +1,22 @@
+{
+    "id": "gadoshi",
+    "symbol": "gadoshi",
+    "name": "Gadoshi",
+    "platforms": {
+        "binance-smart-chain": "0x619b20c554df4f915173a0f4f34c82e6c2cd944d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gadoshi has an 2% fee on all transactions, 1% will be burned the other 1% will be shared among all holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x619b20c554df4f915173a0f4f34c82e6c2cd944d",
+    "url": "https://gadoshi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x619b20c554df4f915173a0f4f34c82e6c2cd944d"
+    ],
+    "twitter": "GadoshiMoney",
+    "telegram": "gadoshigainz"
+}

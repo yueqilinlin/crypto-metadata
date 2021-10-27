@@ -1,0 +1,22 @@
+{
+    "id": "venus-dai",
+    "symbol": "vdai",
+    "name": "Venus DAI",
+    "platforms": {
+        "binance-smart-chain": "0x334b3ecb4dca3593bccc3c7ebd1a1c1d1780fbf1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Venus is an algorithmic money market and synthetic stablecoin decentralized finance protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x334b3ecb4dca3593bccc3c7ebd1a1c1d1780fbf1",
+    "url": "https://venus.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x334b3ecb4dca3593bccc3c7ebd1a1c1d1780fbf1"
+    ],
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+}

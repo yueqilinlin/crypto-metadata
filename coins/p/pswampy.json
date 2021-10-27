@@ -1,0 +1,23 @@
+{
+    "id": "pswampy",
+    "symbol": "pswamp",
+    "name": "pSwampy",
+    "platforms": {
+        "polygon-pos": "0x5f1657896b38c4761dbc5484473c7a7c845910b6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "pSwampy is a governance token native to the Swamp.finance ecosystem. It's a yield optimiser hosted on Polygon. pSwampy token\u2019s utility is for participation in voting on SwampDAO proposals where holders can vote on new vaults additions and changes to tokenomics."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x5f1657896b38c4761dbc5484473c7a7c845910b6",
+    "url": "https://swamp.finance/polygon/",
+    "explorers": [
+        "https://polygonscan.com/token/0x5f1657896b38c4761dbc5484473c7a7c845910b6"
+    ],
+    "twitter": "SwampFinance",
+    "telegram": "swampfinance",
+    "github_org": "swamp-finance"
+}

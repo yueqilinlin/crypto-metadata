@@ -1,0 +1,28 @@
+{
+    "id": "sentinel-group",
+    "symbol": "dvpn",
+    "name": "Sentinel [OLD]",
+    "platforms": {
+        "ethereum": "0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cosmos Ecosystem",
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "Secure and decentralized VPN for the blockchain age.\r\n\r\nA modern VPN backed by blockchain anonymity and security. \r\nShare & monetize your unused bandwidth and earn Sentinel tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037",
+    "url": "https://sentinel.co",
+    "explorers": [
+        "https://etherscan.io/token/0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037",
+        "https://ethplorer.io/address/0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037"
+    ],
+    "twitter": "Sentinel_co",
+    "telegram": "sentinel_co",
+    "reddit": "SENT",
+    "github_org": "sentinel-official"
+}

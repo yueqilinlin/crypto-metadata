@@ -1,0 +1,27 @@
+{
+    "id": "grow-token-2",
+    "symbol": "grow",
+    "name": "Grow Token",
+    "platforms": {
+        "binance-smart-chain": "0x081a4d4e4a0cc74d6a7a61578f86b8c93cc950a0",
+        "polygon-pos": "0xdcdc86a38d1dda13eeb346eebf34d0148c8197d9",
+        "ethereum": "0xf268fe3d6909508dda90dccf2bf69050d19f4cdd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Grow Mission is to promote the decentralisation of banking, DeFi, and work with our community. We will decentralize the system of governance for the GROW community over time so everyone in our ecosystem can addres the future development of the CANNAVERSE together. "
+    },
+    "country_origin": "CR",
+    "genesis_date": null,
+    "contract_address": "0x081a4d4e4a0cc74d6a7a61578f86b8c93cc950a0",
+    "url": "https://grow.house/",
+    "explorers": [
+        "https://bscscan.com/token/0x081a4d4e4a0cc74d6a7a61578f86b8c93cc950a0",
+        "https://polygonscan.com/token/0xdcdc86a38d1dda13eeb346eebf34d0148c8197d9",
+        "https://etherscan.io/token/0xf268fe3d6909508dda90dccf2bf69050d19f4cdd"
+    ],
+    "twitter": "Grow_House_",
+    "facebook": "GROW-HOUSE-110660044396090",
+    "telegram": "GROWCommunity"
+}

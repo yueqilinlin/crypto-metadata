@@ -1,0 +1,24 @@
+{
+    "id": "virgo",
+    "symbol": "vgo",
+    "name": "Virgo",
+    "platforms": {
+        "binance-smart-chain": "0xbee5e147e6e40433ff0310f5ae1a66278bc8d678"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Virgo creates a decentralized AppStore to drive dApps adoption,\r\na distributed ecosystem powered by a state-of-art cryptocurrency : fast, secure and scalable. Our innovative, open-source technology doesn\u2019t work with blocks, but a DAG; which means transactions don\u2019t need to wait for being included by miners anymore.\r\nCoupled with an ASIC-resistant Proof Of Work algorithm, it enables unparalleled speed, security, and reliability of transfers while remaining decentralized."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbee5e147e6e40433ff0310f5ae1a66278bc8d678",
+    "url": "https://virgo.net",
+    "explorers": [
+        "https://bscscan.com/token/0xbee5e147e6e40433ff0310f5ae1a66278bc8d678"
+    ],
+    "twitter": "virgo_coin",
+    "telegram": "virgo_io",
+    "reddit": "virgo_coin/",
+    "github_org": "virgoproject"
+}

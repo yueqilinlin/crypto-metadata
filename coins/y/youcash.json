@@ -1,0 +1,28 @@
+{
+    "id": "youcash",
+    "symbol": "youc",
+    "name": "YOUcash",
+    "platforms": {
+        "ethereum": "0x3d371413dd5489f3a04c07c0c2ce369c20986ceb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "A decentralized, tokenized advertising platform where over 200 million advertisers connect with 4 billion users who get paid to watch ads."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x3d371413dd5489f3a04c07c0c2ce369c20986ceb",
+    "url": "https://youengine.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3d371413dd5489f3a04c07c0c2ce369c20986ceb",
+        "https://ethplorer.io/address/0x3d371413dd5489f3a04c07c0c2ce369c20986ceb"
+    ],
+    "twitter": "younive87630435",
+    "facebook": "YouEngineOfficial",
+    "telegram": "YouEngineGroup",
+    "reddit": "YOUengineFANs/",
+    "github_org": "YOUengine"
+}

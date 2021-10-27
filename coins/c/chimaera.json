@@ -1,0 +1,30 @@
+{
+    "id": "chimaera",
+    "symbol": "chi",
+    "name": "XAYA",
+    "platforms": {
+        "ethereum": "0x6dc02164d75651758ac74435806093e421b64605"
+    },
+    "hashing_algorithm": "NeoScrypt",
+    "categories": [
+        "Polygon Ecosystem",
+        "Entertainment",
+        "Gaming",
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "In 2013 the XAYA team introduced the world to true blockchain gaming with the Huntercoin experiment. Since then, they have pushed blockchain technologies ahead with several unique innovations. Through several years of R&D, the team proudly presents this new platform where games can run serverless and unstoppable on the blockchain with countless thousands of games and millions of players."
+    },
+    "country_origin": "MT",
+    "genesis_date": "2018-07-03",
+    "url": "https://xaya.io",
+    "explorers": [
+        "https://explorer2.xaya.io/",
+        "https://etherscan.io/address/0x6dc02164d75651758ac74435806093e421b64605"
+    ],
+    "twitter": "XAYA_tech",
+    "facebook": "XAYAtech",
+    "telegram": "xaya_en",
+    "reddit": "chimaera/",
+    "github_org": "xaya"
+}

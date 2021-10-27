@@ -1,0 +1,24 @@
+{
+    "id": "power-block",
+    "symbol": "pow",
+    "name": "Power Block",
+    "platforms": {
+        "ethereum": "0x66e714bfb21f255f57c0682ac1e20254a7821779"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A POW block (or Power Block) is the strongest block in the Mario franchise. In all games they appear in, their effect when thrown to the ground or hit in the air will cause a large earthquake, causing all enemies on screen to get hurt.\r\n\r\nThis static token will later be used in defeating Bowser and other bosses that will be encountered as stages and worlds are cleared. What you do with this airdrop is up to you, but it will have inherent monetary value down the line for holders. This token will be used for NFT's, game passes, and our game studio currency, and much more. Airdrops will be processed slowly starting in mid October (trading of $POW will be halted, and slowly sent out due to fluctuating gas fees and to not cause any dumps in $MARIO)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x66e714bfb21f255f57c0682ac1e20254a7821779",
+    "url": "https://mariotoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x66e714bfb21f255f57c0682ac1e20254a7821779",
+        "https://ethplorer.io/address/0x66e714bfb21f255f57c0682ac1e20254a7821779"
+    ],
+    "twitter": "MarioToken",
+    "telegram": "mariotoken",
+    "github_org": "MarioTokenERC"
+}

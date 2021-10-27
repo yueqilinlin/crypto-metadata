@@ -1,0 +1,24 @@
+{
+    "id": "1x-long-btc-implied-volatility-token",
+    "symbol": "bvol",
+    "name": "Bitcoin Volatility Token",
+    "platforms": {
+        "ethereum": "0x81824663353a9d29b01b2de9dd9a2bb271d298cd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Bitcoin Volatility Token (BVOL) is an ERC20 token which attempts to track 1 times the implied volatility of Bitcoin"
+    },
+    "country_origin": "AG",
+    "genesis_date": null,
+    "contract_address": "0x81824663353a9d29b01b2de9dd9a2bb271d298cd",
+    "url": "https://ftx.com/trade/BVOL/USD",
+    "explorers": [
+        "https://etherscan.io/token/0x81824663353a9d29b01b2de9dd9a2bb271d298cd",
+        "https://ethplorer.io/address/0x81824663353a9d29b01b2de9dd9a2bb271d298cd"
+    ],
+    "telegram": "FTX_Official"
+}

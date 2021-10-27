@@ -1,0 +1,24 @@
+{
+    "id": "dui-token",
+    "symbol": "dui",
+    "name": "Dui Token",
+    "platforms": {
+        "binance-smart-chain": "0x8943b6d1677a4addbe5aa58f429e11e856746fba"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8943b6d1677a4addbe5aa58f429e11e856746fba",
+    "url": "https://www.duicrypto.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8943b6d1677a4addbe5aa58f429e11e856746fba"
+    ],
+    "twitter": "coin_dui",
+    "telegram": "DuiCoinOfficial"
+}

@@ -1,0 +1,31 @@
+{
+    "id": "mogul-productions",
+    "symbol": "stars",
+    "name": "Mogul Productions",
+    "platforms": {
+        "ethereum": "0xc55c2175e90a46602fd42e931f62b3acc1a013ca",
+        "binance-smart-chain": "0xbd83010eb60f12112908774998f65761cf9f6f9a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Non-Fungible Tokens (NFT)",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Mogul Productions is a decentralized film financing (DeFiFi) and movie-based NFT platform that connects creators, movie fans, and film financiers in one space to ensure the best films get made by giving everyone a voice. By leveraging blockchain technology, NFTs and a tokenized system, Mogul incentivizes participation and rewards engagement. Using the Mogul in-app payment and utility token (STARS), users can vote on, greenlight and participate in key decision-making aspects of production."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xc55c2175e90a46602fd42e931f62b3acc1a013ca",
+    "url": "https://www.mogulproductions.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xc55c2175E90A46602fD42e931f62B3Acc1A013Ca",
+        "https://ethplorer.io/address/0xc55c2175E90A46602fD42e931f62B3Acc1A013Ca",
+        "https://bscscan.com/token/0xbd83010eb60f12112908774998f65761cf9f6f9a"
+    ],
+    "twitter": "mogulofficial_",
+    "telegram": "mogulproductions",
+    "reddit": "mogulproductions/",
+    "github_org": "mogulproductions"
+}

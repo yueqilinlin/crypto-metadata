@@ -1,0 +1,23 @@
+{
+    "id": "treedefi",
+    "symbol": "seed",
+    "name": "TreeDefi",
+    "platforms": {
+        "binance-smart-chain": "0x40b34cc972908060d6d527276e17c105d224559d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x40b34cc972908060d6d527276e17c105d224559d",
+    "url": "https://treedefi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x40b34cc972908060d6d527276e17c105d224559d"
+    ],
+    "twitter": "treedefi",
+    "telegram": "treedefi",
+    "github_org": "treedefi"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "worldcore",
+    "symbol": "wrc",
+    "name": "Worldcore",
+    "platforms": {
+        "ethereum": "0x72adadb447784dd7ab1f472467750fc485e4cb2d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Worldcore had already been known as a successful payment institution, when Ethereum was just created. Since its launch, Worldcore has started offering wide range of payment products, won awards opened its virtual doors to thousands of customers around the world. Worldcore is a regulated payment institution with the EU license of National Bank of Czech Republic. The current annual transaction volume is expected to exceed EUR 100 million by the end of 2017."
+    },
+    "country_origin": "CZ",
+    "genesis_date": "2017-08-28",
+    "contract_address": "0x72adadb447784dd7ab1f472467750fc485e4cb2d",
+    "url": "https://worldcore.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x72adadb447784dd7ab1f472467750fc485e4cb2d",
+        "https://ethplorer.io/address/0x72adadb447784dd7ab1f472467750fc485e4cb2d"
+    ],
+    "twitter": "worldcoresocial",
+    "facebook": "worldcoresocial",
+    "telegram": "worldcore",
+    "reddit": "worldcore"
+}

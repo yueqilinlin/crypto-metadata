@@ -1,0 +1,23 @@
+{
+    "id": "thoreum",
+    "symbol": "thoreum",
+    "name": "Thoreum",
+    "platforms": {
+        "binance-smart-chain": "0x580de58c1bd593a43dadcf0a739d504621817c05"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Thoreum is the world first liquidity mining coin. Thoreum benefit holders by its static rewards of 2% tax fee automatically redistributed to holders. 8% tax fee automatically buy back & burn as Thoreum's mechanism to protect Thoreum price. Together with strategy of limited supply & strongly burnt, Thoreum price is expected not to be reduced gradually as popular farms, but stable & go up steadity along with rarer of Thoreum tokens. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x580de58c1bd593a43dadcf0a739d504621817c05",
+    "url": "https://thoreum.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x580de58c1bd593a43dadcf0a739d504621817c05"
+    ],
+    "twitter": "ThoreumFinance",
+    "telegram": "Thoreum",
+    "github_org": "ThoreumFinance"
+}

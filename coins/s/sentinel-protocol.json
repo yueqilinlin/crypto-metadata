@@ -1,0 +1,25 @@
+{
+    "id": "sentinel-protocol",
+    "symbol": "upp",
+    "name": "Sentinel Protocol",
+    "platforms": {
+        "ethereum": "0xc86d054809623432210c107af2e3f619dcfbf652"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "Operating on blockchain technology, Sentinel Protocol harnesses collective cyber security intelligence to protect crypto assets against hackers, scams and fraud."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xc86d054809623432210c107af2e3f619dcfbf652",
+    "url": "https://uppsalasecurity.com",
+    "explorers": [
+        "https://etherscan.io/token/0xc86d054809623432210c107af2e3f619dcfbf652",
+        "https://ethplorer.io/address/0xc86d054809623432210c107af2e3f619dcfbf652"
+    ],
+    "twitter": "UPPSentinel",
+    "facebook": "sentinelprotocol",
+    "telegram": "newofficialsentinelprotocol",
+    "reddit": "Sentinel_Protocol/"
+}

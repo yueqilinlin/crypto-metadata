@@ -1,0 +1,22 @@
+{
+    "id": "fewmans-gold",
+    "symbol": "fewgo",
+    "name": "Fewmans Gold",
+    "platforms": {
+        "ethereum": "0x60e46a4dd91d10506d8efa2caa266e7191fe7ea8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The First On-chain Evolution Lab"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x60e46a4dd91d10506d8efa2caa266e7191fe7ea8",
+    "url": "https://www.fewmans.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x60e46a4dd91d10506d8efa2caa266e7191fe7ea8",
+        "https://ethplorer.io/address/0x60e46a4dd91d10506d8efa2caa266e7191fe7ea8"
+    ],
+    "twitter": "fewmans"
+}

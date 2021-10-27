@@ -1,0 +1,20 @@
+{
+    "id": "swipp",
+    "symbol": "swipp",
+    "name": "Swipp",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Swipp is a modern cryptocurrency based on a secure hashing algorithm - offering blazingly fast anonymous transactions. The code base is actively developed by a skilled software engineering team with decades of experience.\r\n\r\nThe currency is a long-term project with a long-term development plan. The currency features sane returns and specifications intended to create a healthy cryptocurrency with longevity."
+    },
+    "country_origin": "SE",
+    "genesis_date": "2017-09-04",
+    "url": "http://www.swippcoin.com/",
+    "explorers": [
+        "http://explorer.swippcoin.com/"
+    ],
+    "github_org": "teamswipp"
+}

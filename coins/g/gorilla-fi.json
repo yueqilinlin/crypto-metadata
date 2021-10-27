@@ -1,0 +1,23 @@
+{
+    "id": "gorilla-fi",
+    "symbol": "g-fi",
+    "name": "Gorilla-Fi",
+    "platforms": {
+        "binance-smart-chain": "0xc82c80e03e491b252cae745575ea2d1c2fdde25a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gorilla-Fi is a comprehensive De-Fi earnings ecosystem that allows anyone with a smartphone to earn passive income."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc82c80e03e491b252cae745575ea2d1c2fdde25a",
+    "url": "https://www.gorillafi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xc82c80e03e491b252cae745575ea2d1c2fdde25a"
+    ],
+    "twitter": "_gorillafi",
+    "telegram": "GorillaFi",
+    "reddit": "GorillaFi/"
+}

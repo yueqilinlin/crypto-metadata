@@ -1,0 +1,24 @@
+{
+    "id": "hype",
+    "symbol": "hype",
+    "name": "Hype",
+    "platforms": {
+        "ethereum": "0x4ff7c227e1e7bd59351de8635381c379750a8040"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HYPE is a synthetic commodity currency that does not rely on the current world-based currency as a target price or value. Instead, HYPE is not centrally controlled and will be priced only by the needs of the customer.\r\n\r\nHYPE is a flexible supply digital asset that expands/contracts in response to price/demand in the market and tracks evolution lines from protocols such as YAM, SUSHI, etc. These types of assets belong to the Synthetic Community Money family. \r\n\r\nHYPE is an experimental, independent, self-sufficient, decentralized currency that is fully dependent on participants, built with the aim of further discovering and determining its value and use cases, expanding and developing them."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4ff7c227e1e7bd59351de8635381c379750a8040",
+    "url": "https://www.supremefinance.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4ff7c227e1e7bD59351de8635381C379750A8040",
+        "https://ethplorer.io/address/0x4ff7c227e1e7bD59351de8635381C379750A8040"
+    ],
+    "twitter": "SupremeFinance2",
+    "telegram": "supreme_finance",
+    "github_org": "supremefinance"
+}

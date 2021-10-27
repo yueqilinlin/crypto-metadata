@@ -1,0 +1,29 @@
+{
+    "id": "ichi-farm",
+    "symbol": "ichi",
+    "name": "ICHI",
+    "platforms": {
+        "ethereum": "0x903bef1736cddf2a537176cf3c64579c3867a881"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem",
+        "Yield Farming",
+        "Polkadot Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "ICHI is the governance token of the ichi.org community and platform.  The ICHI community has enabled many communities, including Bitcoin (oneBTC), Ethereum (oneETH), Chainlink (LINK), and more to govern their own in-house oneToken (ICHI stablecoin).  ICHI decides the allowed oracles, collateral, investment strategies, etc in exchange for protocol governance rewards.  The ICHI token is hard capped at 5M tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x903bef1736cddf2a537176cf3c64579c3867a881",
+    "url": "https://www.ichi.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x903bef1736cddf2a537176cf3c64579c3867a881",
+        "https://ethplorer.io/address/0x903bef1736cddf2a537176cf3c64579c3867a881"
+    ],
+    "twitter": "ichifarm",
+    "telegram": "ichifarm"
+}

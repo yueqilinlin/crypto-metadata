@@ -1,0 +1,27 @@
+{
+    "id": "beatzcoin",
+    "symbol": "btzc",
+    "name": "BeatzCoin",
+    "platforms": {
+        "tron": "1002413"
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "VibraVid is here to change the way consumers interact with digital content while increasing the revenue potential of content creators. It is a platform to view or listen to content created by artists on your desktop or mobile wherein creators and users are able to earn and spend revenue in a fair system that is user and creator-centric."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "1002413",
+    "url": "https://beatzcoin.io",
+    "explorers": [
+        "https://tronscan.org/#/token/1002413"
+    ],
+    "twitter": "BeatzCoin",
+    "facebook": "BeatzCoin",
+    "telegram": "beatzcoin1002413",
+    "reddit": "BeatzCoin/",
+    "github_org": "BeatzCoin"
+}

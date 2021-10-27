@@ -1,0 +1,23 @@
+{
+    "id": "chainpay",
+    "symbol": "cpay",
+    "name": "Chainpay",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Chain Pay The largest decentralized payment system provides a digital asset ecosystem that empowers you to control your own money."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0x5825fba40871aaacba45e4b34629abb86520b807",
+    "url": "https://chainpay.asia/",
+    "explorers": [
+        "https://etherscan.io/token/0x5825fBa40871aaaCba45E4b34629abB86520B807"
+    ],
+    "twitter": "chainpayproject",
+    "facebook": "chainpayofficial",
+    "telegram": "chainpayofficial"
+}

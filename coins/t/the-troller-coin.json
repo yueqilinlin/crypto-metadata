@@ -1,0 +1,21 @@
+{
+    "id": "the-troller-coin",
+    "symbol": "troller",
+    "name": "The Troller Coin",
+    "platforms": {
+        "binance-smart-chain": "0x2bfc8fbecbe66e0d27e11ed9e2f66acdcd058d17"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Troller is the first competition NFT Marketplace , Tournament gaming style and it is dedicated to themed Trolls & Memes NFTs , bringing talented NFT Artists to compete in order to create the best NFT Troll /Meme for the chosen ( Guest ) and win big prizes for the top winners."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2bfc8fbecbe66e0d27e11ed9e2f66acdcd058d17",
+    "url": "https://www.thetrollerart.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x2bfc8fbECBE66E0d27E11ed9e2f66ACDcd058D17"
+    ],
+    "twitter": "TheTrollercoin"
+}

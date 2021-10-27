@@ -1,0 +1,27 @@
+{
+    "id": "snowswap",
+    "symbol": "SNOW",
+    "name": "Snowswap",
+    "platforms": {
+        "ethereum": "0xfe9a29ab92522d14fc65880d817214261d8479ae"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "Snowswap is a decentralized exchange for swapping wrapped, yield-bearing tokens with minimal slippage. Snowswap supports wrapped token swaps for numerous Defi projects including Harvest finance, Yearn, ANKR, and CREAM. Initially, the focus was stablecoins but has since expanded to include wrapped bitcoin and ethereum 2.0 staking tokens as well."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfe9a29ab92522d14fc65880d817214261d8479ae",
+    "url": "https://snowswap.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xfe9a29ab92522d14fc65880d817214261d8479ae",
+        "https://ethplorer.io/address/0xfe9a29ab92522d14fc65880d817214261d8479ae"
+    ],
+    "twitter": "snow_swap",
+    "telegram": "Snowswap_community",
+    "reddit": "Snowswap/"
+}

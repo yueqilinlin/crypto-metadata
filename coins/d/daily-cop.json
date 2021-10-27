@@ -1,0 +1,21 @@
+{
+    "id": "daily-cop",
+    "symbol": "dlycop",
+    "name": "Daily COP",
+    "platforms": {
+        "polygon-pos": "0x1659ffb2d40dfb1671ac226a0d9dcc95a774521a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Daily is Colombia\u2019s first stable digital currency designed to facilitate P2P transactions using the decentralization of the polygon (matic) network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1659ffb2d40dfb1671ac226a0d9dcc95a774521a",
+    "url": "https://dlycrypto.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0x1659ffb2d40dfb1671ac226a0d9dcc95a774521a"
+    ],
+    "github_org": "miDaily"
+}

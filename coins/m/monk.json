@@ -1,0 +1,20 @@
+{
+    "id": "monk",
+    "symbol": "monk",
+    "name": "Monk",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "MONK's vision is to make Masternodes usable for everyone. MONK tries to help users to host and monitor their Masternodes without any technical knowledge."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-11-20",
+    "url": "https://www.monkey.vision/",
+    "explorers": [
+        "https://explorer.decenomy.net/MONK/blocks"
+    ],
+    "github_org": "MONKEYPROJECT"
+}

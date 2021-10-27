@@ -1,0 +1,19 @@
+{
+    "id": "audiocoin",
+    "symbol": "adc",
+    "name": "AudioCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "AudioCoin builds on the Peercoin protocol to provide a new way to consume music. It breaks down the barriers of traditional e-commerce systems and provides a new way for music fans and artists to engage in viral marketing. The main gain is that artists (producers) and music fans (consumers) are rewarded tangibly and thereby rendering the current streaming model both archaic and redundant."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://www.audiocoin.eu",
+    "explorers": [
+        "https://www.blockexperts.com/adc"
+    ],
+    "twitter": "ADCaudiocoin",
+    "github_org": "aurovine"
+}

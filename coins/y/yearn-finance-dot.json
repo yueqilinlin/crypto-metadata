@@ -1,0 +1,24 @@
+{
+    "id": "yearn-finance-dot",
+    "symbol": "yfdot",
+    "name": "Yearn Finance DOT",
+    "platforms": {
+        "ethereum": "0x2e6539edc3b76f1e21b71d214527faba875f70f3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yearn Finance Dot platform is powerful enough from a scalability, interoperability, developability and governance perspective to help make the vision of Web3 a reality that aims to get more value for an investment."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x2e6539edc3b76f1e21b71d214527faba875f70f3",
+    "url": "https://yfdot.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x2e6539edc3b76f1e21b71d214527faba875f70f3",
+        "https://ethplorer.io/address/0x2e6539edc3b76f1e21b71d214527faba875f70f3"
+    ],
+    "twitter": "Yfdotfinance",
+    "telegram": "YFDOT_Finance",
+    "github_org": "YFDOT"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "triforce-protocol",
+    "symbol": "tfc",
+    "name": "Triforce Protocol",
+    "platforms": {
+        "binance-smart-chain": "0x339f6e1553e923fd27412dfaf18b5721ea580a15"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Triforce is a decentralized protocol that seeks to encompass multi functional mechanisms such as auto liquidity generation, frictionless rewards to holders, token burn and an innovative rebalancer mechanism."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x339f6e1553e923fd27412dfaf18b5721ea580a15",
+    "url": "https://www.tfcprotocol.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x339f6e1553E923FD27412dfaF18b5721EA580A15"
+    ],
+    "twitter": "TFCProtocol",
+    "telegram": "TriforceProtocol",
+    "github_org": "triforce-proj"
+}

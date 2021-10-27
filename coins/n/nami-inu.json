@@ -1,0 +1,25 @@
+{
+    "id": "nami-inu",
+    "symbol": "nami",
+    "name": "Nami Inu",
+    "platforms": {
+        "ethereum": "0xe624a29cb327b03350820ef98584d56083eaf392"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe624a29cb327b03350820ef98584d56083eaf392",
+    "url": "https://www.namiinu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe624a29cb327b03350820ef98584d56083eaf392",
+        "https://ethplorer.io/address/0xe624a29cb327b03350820ef98584d56083eaf392"
+    ],
+    "twitter": "OfficialNamiInu",
+    "telegram": "NamiInu",
+    "reddit": "namiinu/",
+    "github_org": "namiinu"
+}

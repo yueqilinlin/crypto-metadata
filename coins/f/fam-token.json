@@ -1,0 +1,23 @@
+{
+    "id": "fam-token",
+    "symbol": "fam",
+    "name": "FAM Token",
+    "platforms": {
+        "binance-smart-chain": "0x4556a6f454f15c4cd57167a62bda65a6be325d1f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FAM is a crowdfunding and fan interaction investment platform that raises capital through token issuance for art projects similar to Platform-as-a-Service. FAM provides a platform for partners in the field of the arts, assists artists who have a large community to deploy capital raising, and provides overall support for art projects.\r\nIn addition, artists can use the FAM platform to raise capital by issuing tokens for themselves (this model is called personal token). This will be exchanged for profits or special privileges that the artist will deliver in the future.\r\nFAM Central also brings the world of decentralized finance (Defi) to the world of entertainment, changing the way capital is accessed and growing the fan community.\r\n\r\nFAM Central is based on blockchain to create financial tools that allow the fan community to tie its financial interests to the growth and development of their beloved artists and favorite projects.\r\nFAM Central provides B2B and B2B2C services for artists, projects that include: Tokenomics design, technology development, features, fundraising strategy consulting for branding, asset management, and other services."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4556a6f454f15c4cd57167a62bda65a6be325d1f",
+    "url": "https://famcentral.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x4556A6f454f15C4cD57167a62bdA65A6be325D1F"
+    ],
+    "twitter": "fam_central",
+    "telegram": "famcentral",
+    "github_org": "famcentral"
+}

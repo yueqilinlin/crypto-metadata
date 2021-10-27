@@ -1,0 +1,26 @@
+{
+    "id": "wallet-plus-x",
+    "symbol": "wpx",
+    "name": "Wallet Plus X",
+    "platforms": {
+        "ethereum": "0xb3bace433288645114fe8e8aa91f87659cbf665b"
+    },
+    "hashing_algorithm": "Keccak",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "WPLUS will provide secure and convenient digital crypto-wallet. It also provides crypto currency payment solution, various trading and crypto asset management services which is based on WPX Token. \r\nIn addition, WPLUS users will experiense credible blockchain based services throughout community service. \r\nWPLUS will develop world class \ufb01nancial services platform going forward."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xb3bace433288645114fe8e8aa91f87659cbf665b",
+    "url": "https://wplus.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xb3BACe433288645114FE8e8aA91F87659CBF665b",
+        "https://ethplorer.io/address/0xb3bace433288645114fe8e8aa91f87659cbf665b"
+    ],
+    "twitter": "wplusofficial",
+    "facebook": "wplusofficials",
+    "telegram": "wpx_with_wplus"
+}

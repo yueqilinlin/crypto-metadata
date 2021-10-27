@@ -1,0 +1,23 @@
+{
+    "id": "pwrd-stablecoin",
+    "symbol": "pwrd",
+    "name": "PWRD Stablecoin",
+    "platforms": {
+        "ethereum": "0xf0a93d4994b3d98fb5e3a2f90dbc2d69073cb86b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gro is a yield optimizer that enables leverage and protection through risk-tranching. PWRD is Gro's stablecoin token which offers DeFi yields with built-in deposit protection. The PWRD token is pegged to USD and receives yield as new stablecoins directly into wallets through a rebasing mechanism."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf0a93d4994b3d98fb5e3a2f90dbc2d69073cb86b",
+    "url": "https://www.gro.xyz",
+    "explorers": [
+        "https://etherscan.io/token/0xf0a93d4994b3d98fb5e3a2f90dbc2d69073cb86b",
+        "https://ethplorer.io/address/0xf0a93d4994b3d98fb5e3a2f90dbc2d69073cb86b"
+    ],
+    "twitter": "groprotocol",
+    "telegram": "gro_discussion"
+}

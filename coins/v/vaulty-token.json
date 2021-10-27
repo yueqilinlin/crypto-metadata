@@ -1,0 +1,23 @@
+{
+    "id": "vaulty-token",
+    "symbol": "vlty",
+    "name": "Vaulty Token",
+    "platforms": {
+        "binance-smart-chain": "0x38a5cbe2fb53d1d407dd5a22c4362daf48eb8526"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Every vault has its own smart contract with predetermited logic.\r\nChoose your vault and passively earn yields and NFT's stress-free. Vaults allows users to minimize networks fees and time spent researching the best instruments."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x38a5cbe2fb53d1d407dd5a22c4362daf48eb8526",
+    "url": "https://vaulty.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0x38a5cbe2fb53d1d407dd5a22c4362daf48eb8526"
+    ],
+    "twitter": "VaultyFi",
+    "telegram": "VaultyCHAT_new",
+    "github_org": "VaultyFinance"
+}

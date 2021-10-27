@@ -1,0 +1,23 @@
+{
+    "id": "farmers-only",
+    "symbol": "fox",
+    "name": "Farmers Only",
+    "platforms": {
+        "harmony-shard-0": "0x0159ed2e06ddcd46a25e74eb8e159ce666b28687"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We are a Farming and auto-compounding Vault DAPP starting out on Harmony chain and likely expanding cross-chain. Our primary goal is to be the go-to vault solution for Harmony's ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0159ed2e06ddcd46a25e74eb8e159ce666b28687",
+    "url": "https://app.farmersonly.fi/",
+    "explorers": [
+        "https://explorer.harmony.one/address/0x0159ed2e06ddcd46a25e74eb8e159ce666b28687"
+    ],
+    "twitter": "FarmersOnlyFi",
+    "telegram": "farmersonlyfi",
+    "github_org": "FarmersOnlyFi"
+}

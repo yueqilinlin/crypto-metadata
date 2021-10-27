@@ -1,0 +1,25 @@
+{
+    "id": "skincoin",
+    "symbol": "skin",
+    "name": "SkinCoin",
+    "platforms": {
+        "ethereum": "0x2bdc0d42996017fce214b21607a515da41a9e0c5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "SkinCoin high liquidity allows users to freely exchange skins for SkinCoin and vice versa on the SkinCoin Exchanger platform, or for Bitcoin on crypto-ex- change platforms. All transactions can be recorded in the block chain and tracked by a wallet number."
+    },
+    "country_origin": "RU",
+    "genesis_date": "2017-06-21",
+    "contract_address": "0x2bdc0d42996017fce214b21607a515da41a9e0c5",
+    "url": "https://skincoin.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x2bdc0d42996017fce214b21607a515da41a9e0c5",
+        "https://ethplorer.io/address/0x2bdc0d42996017fce214b21607a515da41a9e0c5"
+    ],
+    "twitter": "skincoin_org",
+    "github_org": "Steamtradenet"
+}

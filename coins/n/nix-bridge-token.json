@@ -1,0 +1,25 @@
+{
+    "id": "nix-bridge-token",
+    "symbol": "voice",
+    "name": "Voice Token",
+    "platforms": {
+        "ethereum": "0x2e2364966267b5d7d2ce6cd9a9b5bd19d9c7c6a9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2e2364966267b5d7d2ce6cd9a9b5bd19d9c7c6a9",
+    "url": "https://mute.io",
+    "explorers": [
+        "https://etherscan.io/token/0x2e2364966267B5D7D2cE6CD9A9B5bD19d9C7C6A9",
+        "https://ethplorer.io/address/0x2e2364966267B5D7D2cE6CD9A9B5bD19d9C7C6A9"
+    ],
+    "twitter": "mute_io",
+    "telegram": "mute_io",
+    "reddit": "nixplatform",
+    "github_org": "NixPlatform"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "touriva",
+    "symbol": "tour",
+    "name": "Touriva",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Tourism"
+    ],
+    "description": {
+        "en": "Touriva plans to create a global distributed travel and tourism network with independant providers around the world collaborating through the blockchain to provide a pleasing and uniform customer travel experience."
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "url": "https://touriva.info/",
+    "explorers": [
+        "https://explorer.touriva.info/blocks"
+    ],
+    "twitter": "TourivaOfficial",
+    "telegram": "touriva_tour",
+    "github_org": "Touriva"
+}

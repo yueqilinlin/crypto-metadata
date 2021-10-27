@@ -1,0 +1,25 @@
+{
+    "id": "honk-honk",
+    "symbol": "honk",
+    "name": "Honk Honk",
+    "platforms": {
+        "bitcoin-cash": ""
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "The cryptocurrency world, as observed today, has been increasingly devoid of any meaning or purpose, with its main exponent \u2013the mighty Bitcoin\u2013 being turned into a speculative asset with no spirit at all. While some people have embraced this state of affairs, we have chosen to revolt and ridicule the current world by naming it the Clown World."
+    },
+    "country_origin": "QU",
+    "genesis_date": null,
+    "url": "https://honkhonk.io",
+    "explorers": [
+        "https://simpleledger.info"
+    ],
+    "twitter": "tokenhonk",
+    "telegram": "honktoken",
+    "reddit": "honk/",
+    "github_org": "simpleledger"
+}

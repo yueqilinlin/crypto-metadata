@@ -1,0 +1,22 @@
+{
+    "id": "smile-coin",
+    "symbol": "smile",
+    "name": "Smile Coin",
+    "platforms": {
+        "algorand": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Smile Coin is a Web3 Project and dApp focused on powering the gaming industry through the first-ever DeFi gaming portfolio and payment infrastructure on #ALGO"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://smilecoin.us/",
+    "explorers": [
+        "https://algoexplorer.io/asset/300208676"
+    ],
+    "twitter": "SmilecoinUS",
+    "telegram": "smilecoin_invite",
+    "reddit": "SmileCoin/"
+}

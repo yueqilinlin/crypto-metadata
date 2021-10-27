@@ -1,0 +1,23 @@
+{
+    "id": "grandpa-doge",
+    "symbol": "grandpadoge",
+    "name": "Grandpa Doge",
+    "platforms": {
+        "binance-smart-chain": "0x326e1d2d9e7f8f3a4df13766aa3b3aef33546546"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GrandpaDoge is a meme-based project about the oldest, but also wisest member of the Doge family. The token is deflationary itself as it has a 12.5% tax, of which 8% will go directly into the liquidity, 4% reflection to holders, and 0.5% to a team marketing wallet. The project also features anti-dump and anti-whale mechanisms with a 1.5% supply max transaction and 2.5% max wallet limitation. With these tokenomics, GrandpaDoge is here to compete with the rest of the family!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x326e1d2d9e7f8f3a4df13766aa3b3aef33546546",
+    "url": "https://www.grandpadoge.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x326e1d2d9e7f8f3a4df13766aa3b3aef33546546"
+    ],
+    "twitter": "Grandpa_Doge",
+    "telegram": "MrGrandpaDoge",
+    "reddit": "GrandpaDoge/"
+}

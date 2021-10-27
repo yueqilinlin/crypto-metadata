@@ -1,0 +1,22 @@
+{
+    "id": "twirl-governance-token",
+    "symbol": "tgt",
+    "name": "Twirl Governance Token",
+    "platforms": {
+        "solana": "FciGvHj9FjgSGgCBF1b9HY814FM9D28NijDd5SJrKvPo"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Twirl Finance is an open source protocol that focuses to find endless capabilities of liquidity provision that enable multiple streams of yield on Solana"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "FciGvHj9FjgSGgCBF1b9HY814FM9D28NijDd5SJrKvPo",
+    "url": "https://www.twirlfinance.com/",
+    "explorers": [
+        "https://solscan.io/token/FciGvHj9FjgSGgCBF1b9HY814FM9D28NijDd5SJrKvPo"
+    ],
+    "twitter": "twirlfinance",
+    "github_org": "twirlfinance"
+}

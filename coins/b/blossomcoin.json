@@ -1,0 +1,23 @@
+{
+    "id": "blossomcoin",
+    "symbol": "blosm",
+    "name": "BlossomCoin",
+    "platforms": {
+        "binance-smart-chain": "0x8d03e069840d6fb103abc4f640c8cc07f7f4bc10"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BlossomCoin is a new charity token that aims to tackle the climate change and deforestation crisis, by donating a portion of all transactions to charities directly tackling these problems.\r\n\r\nTo sustainably achieve this we charge a 11% tax on all transactions. 5% is distributed to existing holders, 5% is burned and 1% is donated directly to the charity wallet."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x8d03e069840d6fb103abc4f640c8cc07f7f4bc10",
+    "url": "https://www.blossomco.in/",
+    "explorers": [
+        "https://bscscan.com/token/0x8d03e069840d6fb103abc4f640c8cc07f7f4bc10"
+    ],
+    "twitter": "TheBlossomCoin",
+    "telegram": "blossomcoin",
+    "reddit": "BlossomCoin"
+}

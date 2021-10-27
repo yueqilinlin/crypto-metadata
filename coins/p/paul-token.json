@@ -1,0 +1,22 @@
+{
+    "id": "paul-token",
+    "symbol": "paul",
+    "name": "PAUL Token",
+    "platforms": {
+        "tezos": "KT19DUSZw7mfeEATrbWVPHRrWNVbNnmfFAE6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Alien\u2019s Farm is an open-source project that lets users earn tokens by staking, yield farming, and in the future, vaulting PAUL tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT19DUSZw7mfeEATrbWVPHRrWNVbNnmfFAE6",
+    "url": "https://aliens.farm",
+    "explorers": [
+        "https://tzkt.io/KT19DUSZw7mfeEATrbWVPHRrWNVbNnmfFAE6/operations/"
+    ],
+    "twitter": "tezaliensfarm",
+    "telegram": "aliensfarm"
+}

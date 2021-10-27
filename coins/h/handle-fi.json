@@ -1,0 +1,23 @@
+{
+    "id": "handle-fi",
+    "symbol": "forex",
+    "name": "handle.fi",
+    "platforms": {
+        "ethereum": "0xdb298285fe4c5410b05390ca80e8fbe9de1f259b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "handle.fi is a decentralised multi currency stablecoin protocol which allows users to create and exchange multi-currency stablecoins; called fxTokens. fxTokens are collateral backed stablecoins representing, and soft pegged to, a range of currencies. users create fxTokens by depositing eligible collateral and minting stablecoins secured by this collateral."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdb298285fe4c5410b05390ca80e8fbe9de1f259b",
+    "url": "https://handle.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0xdb298285fe4c5410b05390ca80e8fbe9de1f259b",
+        "https://ethplorer.io/address/0xdb298285fe4c5410b05390ca80e8fbe9de1f259b"
+    ],
+    "twitter": "handle_fi",
+    "telegram": "handle_fi"
+}

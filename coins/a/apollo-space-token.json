@@ -1,0 +1,25 @@
+{
+    "id": "apollo-space-token",
+    "symbol": "ast",
+    "name": "Apollo Space Token",
+    "platforms": {
+        "binance-smart-chain": "0x4cae95d03c85ae462daec44d5426f547a26faf47"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Apollo Space Token is a deflationary token on the binance smart chain network. It is a transactional token that can be used to purchase naming rights and NFTs for our server."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x4cae95d03c85ae462daec44d5426f547a26faf47",
+    "url": "https://www.apollospacetoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x4cae95d03c85ae462daec44d5426f547a26faf47"
+    ],
+    "twitter": "ApolloMoonMen",
+    "facebook": "ApolloSpaceToken",
+    "telegram": "ApolloSpaceToken",
+    "reddit": "https://www.reddit.comApolloSpaceToken/",
+    "github_org": "moonmenast"
+}

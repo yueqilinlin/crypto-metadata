@@ -1,0 +1,22 @@
+{
+    "id": "starbaseuniverse",
+    "symbol": "suni",
+    "name": "StarbaseUniverse",
+    "platforms": {
+        "binance-smart-chain": "0xd5e3e1e39a5c57f27f8890d8b91e05039f6bace7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "StarbaseUniverse is a deflationary token on Binance Smart Chain (BSC) which works as a store of value. StarbaseUniverse aims to reward holders and make donations at the same time with its features."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0xd5e3e1e39a5c57f27f8890d8b91e05039f6bace7",
+    "url": "https://www.starbaseuniversetoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xd5e3e1e39a5c57f27f8890d8b91e05039f6bace7"
+    ],
+    "twitter": "StarbaseSUNI",
+    "telegram": "starbasecommunity"
+}

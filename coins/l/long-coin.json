@@ -1,0 +1,20 @@
+{
+    "id": "long-coin",
+    "symbol": "long",
+    "name": "LONG COIN",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": "Cryptocurrency and Social Blockchain Network"
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "url": "https://longcoin.online/",
+    "explorers": [
+        "http://longchain.crypton.cf/"
+    ],
+    "twitter": "coin_english",
+    "telegram": "longcoinofficial",
+    "github_org": "longnetwork"
+}

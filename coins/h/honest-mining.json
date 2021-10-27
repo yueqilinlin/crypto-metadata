@@ -1,0 +1,26 @@
+{
+    "id": "honest-mining",
+    "symbol": "hnst",
+    "name": "Honest",
+    "platforms": {
+        "binancecoin": "HNST-3C9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Honest (HNST) is the native currency of NOBI (formerly Honest Mining), a super app for you to grow your crypto - the easy way. NOBI offers algorithmic / robo trading,  DeFi powered crypto savings and staking services for many different coins. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "HNST-3C9",
+    "url": "https://usenobi.com",
+    "explorers": [
+        "https://explorer.binance.org/asset/HNST-3C9"
+    ],
+    "twitter": "usenobi",
+    "facebook": "usenobi",
+    "telegram": "usenobi",
+    "github_org": "honestmining"
+}

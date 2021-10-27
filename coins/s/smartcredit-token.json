@@ -1,0 +1,23 @@
+{
+    "id": "smartcredit-token",
+    "symbol": "smartcredit",
+    "name": "SmartCredit Token",
+    "platforms": {
+        "ethereum": "0x72e9d9038ce484ee986fea183f8d8df93f9ada13"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeFi lending; Low collateral for the borrower; Fixed Income Funds for the Lender"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x72e9d9038ce484ee986fea183f8d8df93f9ada13",
+    "url": "https://smartcredit.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x72e9d9038ce484ee986fea183f8d8df93f9ada13",
+        "https://ethplorer.io/address/0x72e9d9038ce484ee986fea183f8d8df93f9ada13"
+    ],
+    "twitter": "smartcredit_io",
+    "telegram": "SmartCredit_Community"
+}

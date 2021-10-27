@@ -1,0 +1,23 @@
+{
+    "id": "y-coin",
+    "symbol": "yco",
+    "name": "Y Coin",
+    "platforms": {
+        "ethereum": "0x3d0293f06daf4311b482564330d57c8db6c10893"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Y Coin is a brand new revolutionary community concept that aims to forever change the way we vote blockchain changes. Y Coins purpose is to have a fully decentralised coin by making blockchain votes more democratic. Each user will have one vote and unlike other coins this amount does not change according to your stake in the currency. We are giving full control of all future changes to the coins features into the hands of the people. Using the ERC20 framework we intend to optimise our coin to be the most user friendly and user oriented coin on the market with minimal compromises to other aspects. "
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x3d0293f06daf4311b482564330d57c8db6c10893",
+    "url": "https://www.ycoin.co.uk/",
+    "explorers": [
+        "https://etherscan.io/token/0x3D0293f06daF4311B482564330D57C8Db6C10893",
+        "https://ethplorer.io/address/0x3D0293f06daF4311B482564330D57C8Db6C10893"
+    ],
+    "telegram": "ycointelegram",
+    "reddit": "YCoin/"
+}

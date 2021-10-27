@@ -1,0 +1,22 @@
+{
+    "id": "crir-msh",
+    "symbol": "msh",
+    "name": "CRIR MSH",
+    "platforms": {
+        "binance-smart-chain": "0xeae2bbbc0000f605bd37a02c7fe346a3b68b03eb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A Fast & Secure Cryptocurrency and Multi chain DEX."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeae2bbbc0000f605bd37a02c7fe346a3b68b03eb",
+    "url": "https://www.crirmsh.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xeae2bbbc0000f605bd37a02c7fe346a3b68b03eb"
+    ],
+    "twitter": "CRIR_MSH",
+    "telegram": "MSH_WORLD_GROUP"
+}

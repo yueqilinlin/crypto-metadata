@@ -1,0 +1,32 @@
+{
+    "id": "prcy-coin",
+    "symbol": "prcy",
+    "name": "PRCY Coin",
+    "platforms": {
+        "ethereum": "0xdfc3829b127761a3218bfcee7fc92e1232c9d116",
+        "binance-smart-chain": "0xdfc3829b127761a3218bfcee7fc92e1232c9d116"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Masternodes",
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "PRCY is a privacy blockchain which is secure, scalable and contains the ultimate privacy features. PRCY is a fully anonymous staking coin and payment system. PRCY contains superior privacy technology like Bulletproof, Haprocates Protocol, mandatory stealth addresses and transactions, RingCT & Ring Signatures in a staking chain. With PRCY it is possible to stake, run masternodes and mine PoA blocks."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0xdfc3829b127761a3218bfcee7fc92e1232c9d116",
+    "url": "https://prcycoin.com/",
+    "explorers": [
+        "https://explorer.prcycoin.com/",
+        "https://etherscan.io/token/0xdfc3829b127761a3218bfcee7fc92e1232c9d116",
+        "https://bscscan.com/token/0xdfc3829b127761a3218bfcee7fc92e1232c9d116",
+        "https://ethplorer.io/address/0xdfc3829b127761a3218bfcee7fc92e1232c9d116"
+    ],
+    "twitter": "prcycoin",
+    "facebook": "Prcycoin-101534778505838",
+    "telegram": "prcycoinofficial",
+    "reddit": "PRCYCoin/",
+    "github_org": "PRCYCoin"
+}

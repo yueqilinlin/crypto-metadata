@@ -1,0 +1,24 @@
+{
+    "id": "binance-smart-chain-girl",
+    "symbol": "bscgirl",
+    "name": "Binance Smart Chain Girl",
+    "platforms": {
+        "binance-smart-chain": "0x5c6fb802f173dba15e2caada433032b1368af59f",
+        "polygon-pos": "0x4e9a46ea6a22f3894abee2302ad42fd3b69e21e2",
+        "ethereum": "0x4e9a46ea6a22f3894abee2302ad42fd3b69e21e2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Binance Smart Chain Girl Supports cross-chain bridge between Binance Smart Chain and Ethereum network and Polygon. We have developed a DeFi platform, NFT for music videos, and our own NFT platform."
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "contract_address": "0x5c6fb802f173dba15e2caada433032b1368af59f",
+    "url": "https://bscgirl.site/",
+    "explorers": [
+        "https://bscscan.com/token/0x5c6fb802f173dba15e2caada433032b1368af59f"
+    ],
+    "twitter": "BSC_Girl",
+    "telegram": "BSCGIRL"
+}

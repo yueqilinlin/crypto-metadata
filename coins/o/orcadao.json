@@ -1,0 +1,23 @@
+{
+    "id": "orcadao",
+    "symbol": "orca",
+    "name": "Orca DAO",
+    "platforms": {
+        "avalanche": "0x8b1d98a91f853218ddbb066f20b8c63e782e2430"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OrcaDAO is the first native Stablecoin (AVAI), and Governance token (ORCA) pair that allow for lending using crypto collateral at 0% interest, built on and for the Avalanche Network. The protocol centers around the production, maintenance, and sustained equilibrium of AVAI around a stable value, which will be used by the DeFi community for a multitude of use cases -  such as Loans and Yield Farming - with a high level of confidence. \r\n\r\nThe ORCA token is the big brother of the AVAI stablecoin, and is a governance token for the Orca DAO. ORCA is an ERC20 token, intended to make it's holders part owners of the DAO. It's primary function will be governance and ownership of the DAO, meaning governance abilities including proposing, and voting on initiatives intended to better the health and direction of the DAO. \r\n\r\nThe primary incentive for holding the ORCA token will be the reception of distributed revenue from ecosystem fees, and optimizing the DAO for long term sustainability. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8b1d98a91f853218ddbb066f20b8c63e782e2430",
+    "url": "https://www.avai.finance/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/token-transfers"
+    ],
+    "twitter": "OrcaDAO",
+    "telegram": "OrcaDAO_Official",
+    "github_org": "UrsaMaritimus"
+}

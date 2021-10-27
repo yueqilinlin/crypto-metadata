@@ -1,0 +1,24 @@
+{
+    "id": "elon-peg",
+    "symbol": "elonpeg",
+    "name": "Elon Peg",
+    "platforms": {
+        "binance-smart-chain": "0xc18994df2dfd0c2767bb1758bae83e95762bbea3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ElonPeg presents a new financial model for the now-common deflationary token: automated burn pegged to the Twitter account of the one and only Elon. Our system is unique, combining outside If-This-Then-That style API calls to scour Twitter regularly, highly secure serverless compute resources to take blockchain requests, and our specialized BurnUponTweeting contract to transparently execute burn upon tweeting.\r\n\r\nElon tweets are known to cause market volatility, both upward and downward trends. With every tweet, retweet, and reply our BurnUponTweeting contract will automatically send 0.5% of its supply to burn, which awards holders with reflections, deflates the supply, and contributes to liquidity all at the same time! Every burn also records the tweet ID in the transaction event log, for full on-chain transparency.\r\n\r\nWith its 9% fees (3% to holders, 3% to liquidity, 3% to marketing, events, and carbon offsetting) and automated deflation method, ElonPeg is the first Elon-Pegged crypto token and a hedge (or boost!) for volatility-inducing Elon tweets."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xc18994df2dfd0c2767bb1758bae83e95762bbea3",
+    "url": "https://elonpeg.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xc18994df2dfd0c2767bb1758bae83e95762bbea3"
+    ],
+    "twitter": "elonpeg",
+    "telegram": "elonpeg",
+    "reddit": "elonpeg",
+    "github_org": "Prism-Crypto"
+}

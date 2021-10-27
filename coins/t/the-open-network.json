@@ -1,0 +1,24 @@
+{
+    "id": "the-open-network",
+    "symbol": "toncoin",
+    "name": "The Open Network",
+    "platforms": {
+        "ethereum": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The next gen network to unite all blockchains and the existing Internet."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+    "url": "https://ton.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+        "https://ethplorer.io/address/0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+        "https://ton.sh/"
+    ],
+    "telegram": "tonblockchain",
+    "github_org": "newton-blockchain"
+}

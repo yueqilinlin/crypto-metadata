@@ -1,0 +1,22 @@
+{
+    "id": "safe-trip-finance",
+    "symbol": "stf",
+    "name": "Safe Trip Finance",
+    "platforms": {
+        "binance-smart-chain": "0xe3916a4dc3c952c78348379a62d66869d9b59942"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Safe trip is a community token that helps to create a unified financial umbrella that allows it\u2019s users to access all financial instruments at once, chopping off the time and impractical fees.\r\n\r\nHave a look at the prototype below, the platform is easy to use, allowing you to forego banks and multiple brokerages for various instruments in favor of Safe Trip, which will put everything under one big Financial Umbrella."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0xe3916a4dc3c952c78348379a62d66869d9b59942",
+    "url": "https://safetrip.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xe3916a4dc3c952c78348379a62d66869d9b59942"
+    ],
+    "twitter": "safetripfinance",
+    "telegram": "SafetripfinanceChat"
+}

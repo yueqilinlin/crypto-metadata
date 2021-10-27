@@ -1,0 +1,26 @@
+{
+    "id": "block-duelers",
+    "symbol": "bdt",
+    "name": "Block Duelers",
+    "platforms": {
+        "ethereum": "0x7bce667ef12023dc5f8577d015a2f09d99a5ef58"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "Block Duelers is the first decentralized finance project to create true utility for NFTs by utilizing an ever-evolving dueling platform, with an integrated wager system to bet on the outcome of live duels! The battle platform attaches custom fighting stats to your favorite NFTs in a Pay2Earn model. As you fight and win duels, the stats of your duelers go up and game changing upgrades become available!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7bce667ef12023dc5f8577d015a2f09d99a5ef58",
+    "url": "https://blockduelers.io",
+    "explorers": [
+        "https://etherscan.io/token/0x7bce667ef12023dc5f8577d015a2f09d99a5ef58",
+        "https://ethplorer.io/address/0x7bce667ef12023dc5f8577d015a2f09d99a5ef58"
+    ],
+    "twitter": "BlockDuelers",
+    "telegram": "blockduelers"
+}

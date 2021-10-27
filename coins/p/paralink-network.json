@@ -1,0 +1,27 @@
+{
+    "id": "paralink-network",
+    "symbol": "para",
+    "name": "Paralink Network",
+    "platforms": {
+        "ethereum": "0x3a8d5bc8a8948b68dfc0ce9c14ac4150e083518c",
+        "binance-smart-chain": "0x076ddce096c93dcf5d51fe346062bf0ba9523493"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Next generation Oracle system built on Polkadot."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3a8d5bc8a8948b68dfc0ce9c14ac4150e083518c",
+    "url": "https://paralink.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x3a8d5BC8A8948b68DfC0Ce9C14aC4150e083518c",
+        "https://ethplorer.io/address/0x3a8d5BC8A8948b68DfC0Ce9C14aC4150e083518c"
+    ],
+    "twitter": "ParalinkNetwork",
+    "telegram": "paralink_network",
+    "github_org": "paralink-network"
+}

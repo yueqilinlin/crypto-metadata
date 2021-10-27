@@ -1,0 +1,23 @@
+{
+    "id": "mars-ecosystem-token",
+    "symbol": "xms",
+    "name": "Mars Ecosystem Token",
+    "platforms": {
+        "binance-smart-chain": "0x7859b01bbf675d67da8cd128a50d155cd881b576"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mars Ecosystem is a new decentralized stablecoin paradigm, it integrates the creation and use of stablecoin into the same system.\r\nMars Ecosystem consists of three parts: Mars Treasury, Mars Stablecoin and Mars DeFi protocols, which together form a positive feedback loop. \r\nMars stablecoin is price-stable, capital-efficient, scalable and decentralized. \r\nThe goal of Mars Ecosystem is to build the central bank and reserve currency of the DeFi world.\r\n\r\nMars Ecosystem has the following unique innovations:\r\n-Treasury assets classification mechanism\r\n-Mintage control mechanism\r\n-Anti-\"bank run\" mechanism \r\n-The integration of DeFi protocols and stablecoin into the same system"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7859b01bbf675d67da8cd128a50d155cd881b576",
+    "url": "https://marsdao.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x7859b01bbf675d67da8cd128a50d155cd881b576"
+    ],
+    "twitter": "MarsEcosystem",
+    "telegram": "mars_ecosystem",
+    "github_org": "MarsEcosystem"
+}

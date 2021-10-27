@@ -1,0 +1,25 @@
+{
+    "id": "nftlaunch",
+    "symbol": "nftl",
+    "name": "NFTLaunch",
+    "platforms": {
+        "ethereum": "0xe7f72bc0252ca7b16dbb72eeee1afcdb2429f2dd",
+        "binance-smart-chain": "0xe7f72bc0252ca7b16dbb72eeee1afcdb2429f2dd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The FIRST deflationary NFT Launchpad that offers no gas wars, fair distribution and FREE NFT airdrops of new and upcoming NFT projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe7f72bc0252ca7b16dbb72eeee1afcdb2429f2dd",
+    "url": "https://www.nftlaunch.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xe7f72bc0252ca7b16dbb72eeee1afcdb2429f2dd",
+        "https://ethplorer.io/address/0xe7f72bc0252ca7b16dbb72eeee1afcdb2429f2dd",
+        "https://bscscan.com/token/0xe7f72bc0252ca7b16dbb72eeee1afcdb2429f2dd"
+    ],
+    "twitter": "NFT_LAUNCH",
+    "telegram": "NFTLaunchofficial"
+}

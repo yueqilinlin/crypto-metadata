@@ -1,0 +1,27 @@
+{
+    "id": "proswap",
+    "symbol": "pros",
+    "name": "ProSwap",
+    "platforms": {
+        "ethereum": "0x094f00cb5e31ab6164e3cacb654e8d6c2b3b471c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "ProSwap is a new Decentralized Finance platform created to help crypto traders deal with the volatility of this market. The PROS token is used as a fee for users to pay and sell a hedge."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x094f00cb5e31ab6164e3cacb654e8d6c2b3b471c",
+    "url": "http://www.proswap.com",
+    "explorers": [
+        "https://etherscan.io/token/0x094f00cb5e31ab6164e3cacb654e8d6c2b3b471c",
+        "https://ethplorer.io/address/0x094f00cb5e31ab6164e3cacb654e8d6c2b3b471c"
+    ],
+    "twitter": "proswapcom",
+    "facebook": "ProSwap-110452924440658",
+    "telegram": "proswapcommunity"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "mnmcoin",
+    "symbol": "mnmc",
+    "name": "MNMCoin",
+    "platforms": {
+        "ethereum": "0xf45091f25d374bbe956c0bb64bb85e02d07aa741"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "It is the first official cryptocurrency of the Broker MNMCapitals and with it the savings of its Investors are backed. A cryptocurrency endowed with 100% adoption and usability as a store of value, investment vehicle and digital money."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xf45091f25d374bbe956c0bb64bb85e02d07aa741",
+    "url": "http://www.mnmcoin.info",
+    "explorers": [
+        "https://etherscan.io/token/0xf45091f25d374bbe956c0bb64bb85e02d07aa741",
+        "https://ethplorer.io/address/0xf45091f25d374bbe956c0bb64bb85e02d07aa741"
+    ],
+    "twitter": "MNMCapitals",
+    "facebook": "MNMCapitals",
+    "telegram": "MNMCapitals"
+}

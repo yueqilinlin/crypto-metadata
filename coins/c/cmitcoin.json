@@ -1,0 +1,26 @@
+{
+    "id": "cmitcoin",
+    "symbol": "cmit",
+    "name": "CMITCOIN",
+    "platforms": {
+        "ethereum": "0xe11609b9a51caf7d32a55896386ac52ed90e66f1"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "CMITCOIN (The Commerce of the Inner Markets) is an Ethereum token designed to bring Japanese comics, anime, music (Vocaloid*), cosplay, and other fandoms to the world. CMITCOIN offers functionality that allows content creators to simultaneously secure new fans while also disseminating their content. Furthermore, fans and users of content can support only the content creators they feel are truly worth it. Through the use of purchase logs and feedback, they can engage with content creators and foment a global community of fans."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-06-13",
+    "contract_address": "0xe11609b9a51caf7d32a55896386ac52ed90e66f1",
+    "url": "https://cmitcoin.com/en/",
+    "explorers": [
+        "https://etherscan.io/token/0xe11609b9a51caf7d32a55896386ac52ed90e66f1",
+        "https://etherscan.io/token/0xe11609b9a51caf7d32a55896386ac52ed90e66f1",
+        "https://ethplorer.io/address/0xe11609b9a51caf7d32a55896386ac52ed90e66f1"
+    ],
+    "twitter": "cmitcoin",
+    "facebook": "CMITCOIN",
+    "telegram": "CMITCOIN_Official",
+    "github_org": "COMIKETCOINdev"
+}

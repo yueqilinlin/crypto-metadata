@@ -1,0 +1,25 @@
+{
+    "id": "voyr",
+    "symbol": "voyrme",
+    "name": "VOYR",
+    "platforms": {
+        "binance-smart-chain": "0x33a887cf76383be39dc51786e8f641c9d6665d84"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "VOYR is the first community that allows for direct creator engagement with their fans in a decentralized manner rewarding everyone for participating all enabled by the power of the blockchain.  \r\n\r\nThe platform rewards engagement by both creators and fans with financial rewards paid in $VOYR."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x33a887cf76383be39dc51786e8f641c9d6665d84",
+    "url": "https://voyr.me/",
+    "explorers": [
+        "https://bscscan.com/token/0x33a887Cf76383be39DC51786e8f641c9D6665D84"
+    ],
+    "twitter": "voyrme",
+    "facebook": "voyrme",
+    "telegram": "voyrme",
+    "reddit": "voyrme",
+    "github_org": "VOYR"
+}

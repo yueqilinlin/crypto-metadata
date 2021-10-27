@@ -1,0 +1,22 @@
+{
+    "id": "overlord",
+    "symbol": "lord",
+    "name": "Overlord",
+    "platforms": {
+        "binance-smart-chain": "0x2daf1a83aa348afbcbc73f63bb5ee3154d9f5776"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Overlord is a NFT-based mobile role playing game. It is built on the Binance Smart Chain (BSC) platform bringing the concept of play to earn (p2e) to users."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2daf1a83aa348afbcbc73f63bb5ee3154d9f5776",
+    "url": "https://overlord.world/",
+    "explorers": [
+        "https://bscscan.com/token/0x2daf1a83aa348afbcbc73f63bb5ee3154d9f5776"
+    ],
+    "twitter": "overlordbsc",
+    "telegram": "OverlordBSC"
+}

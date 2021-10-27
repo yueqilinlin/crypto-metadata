@@ -1,0 +1,25 @@
+{
+    "id": "fatcoin",
+    "symbol": "fat",
+    "name": "Fatcoin",
+    "platforms": {
+        "ethereum": "0x2ec95b8eda549b79a1248335a39d299d00ed314c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "A token of the FatBTC exchange."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2ec95b8eda549b79a1248335a39d299d00ed314c",
+    "url": "https://www.fatbtc.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x2ec95b8eda549b79a1248335a39d299d00ed314c",
+        "https://ethplorer.io/address/0x2ec95b8eda549b79a1248335a39d299d00ed314c"
+    ],
+    "twitter": "fatbtc",
+    "telegram": "fatbtc"
+}

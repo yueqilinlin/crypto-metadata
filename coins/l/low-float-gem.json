@@ -1,0 +1,24 @@
+{
+    "id": "low-float-gem",
+    "symbol": "lfg",
+    "name": "Low Float Gem",
+    "platforms": {
+        "ethereum": "0xdb7a1a851a2977a6f2ba064b2b76a0f79e5ca587"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Low Float Gem where the Wall Street short squeeze comes to Uniswap! LFG was created to get back to the \u201cgrass roots\u201d low supply mentality instead of quadrillions of circulating tokens like many projects. All while providing a modern twist to add a hyper-deflationary aspect. As an experiment in supply and demand in the Uniswap world, LFG proves to be an extremely rare token with an always decreasing supply, and always increasing in value!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdb7a1a851a2977a6f2ba064b2b76a0f79e5ca587",
+    "url": "https://www.lowfloatgem.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xdb7a1a851a2977a6f2ba064b2b76a0f79e5ca587",
+        "https://ethplorer.io/address/0xdb7a1a851a2977a6f2ba064b2b76a0f79e5ca587"
+    ],
+    "twitter": "lfg_token",
+    "telegram": "lowfloatgem",
+    "github_org": "LowFloat-Gem"
+}

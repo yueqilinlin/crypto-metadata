@@ -1,0 +1,22 @@
+{
+    "id": "hurricane",
+    "symbol": "hurricane",
+    "name": "Hurricane",
+    "platforms": {
+        "binance-smart-chain": "0x6a1341ca366280cde54d1c9f529c6b06bf3af9df"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hurricane is proof that a reliable community owned coin can exist and enjoy healthy and sustainable growth by delivering value to token holders."
+    },
+    "country_origin": "IL",
+    "genesis_date": null,
+    "contract_address": "0x6a1341ca366280cde54d1c9f529c6b06bf3af9df",
+    "url": "https://hurricane.community/",
+    "explorers": [
+        "https://bscscan.com/token/0x6a1341ca366280cde54d1c9f529c6b06bf3af9df"
+    ],
+    "twitter": "get_hurricane",
+    "telegram": "hurricanecommunity"
+}

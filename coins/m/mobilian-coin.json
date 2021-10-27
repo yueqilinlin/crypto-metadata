@@ -1,0 +1,23 @@
+{
+    "id": "mobilian-coin",
+    "symbol": "mbn",
+    "name": "Mobilian Coin",
+    "platforms": {
+        "ethereum": "0xaf80951201a0eff85a0fd3adf4c7043db856d3e6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mobilian is a blockchain network focusing on autonomous vehicle systems. Mobilian was established to accelerate and promote the development of autonomous vehicle innovation. The powerful security features provided by Mobilian will be sufficient to ensure vehicle AI control, data storage, and other decentralized platform networks that will be created on the same platform. Since data is critical to AI-driven vehicles, reliable blockchain-based data storage will help ensure the efficiency of autonomous vehicles."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaf80951201a0eff85a0fd3adf4c7043db856d3e6",
+    "url": "https://mobiliancoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xaf80951201a0eff85a0fd3adf4c7043db856d3e6",
+        "https://ethplorer.io/address/0xaf80951201a0eff85a0fd3adf4c7043db856d3e6"
+    ],
+    "facebook": "MobilianCoin",
+    "telegram": "mobiliancoin"
+}

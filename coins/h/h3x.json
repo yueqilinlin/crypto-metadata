@@ -1,0 +1,26 @@
+{
+    "id": "h3x",
+    "symbol": "h3x",
+    "name": "H3X",
+    "platforms": {
+        "ethereum": "0x85eba557c06c348395fd49e35d860f58a4f7c95a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "H3X is the first variable length certificate of deposit staking token"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x85eba557c06c348395fd49e35d860f58a4f7c95a",
+    "url": "https://h3x.exchange/",
+    "explorers": [
+        "https://etherscan.io/token/0x85eBa557C06c348395fD49e35d860F58a4F7c95a",
+        "https://ethplorer.io/address/0x85eBa557C06c348395fD49e35d860F58a4F7c95a"
+    ],
+    "twitter": "H3Xcrypto",
+    "telegram": "H3Xcrypto"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "brickchain-finance",
+    "symbol": "brick",
+    "name": "Brickchain Finance",
+    "platforms": {
+        "binance-smart-chain": "0xc4daa5a9f2b832ed0f9bc579662883cd53ea9d61"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We are not trying to replace the Swap & Exchange, but to add value into the system and provide a suitable and sustainable environment for people to yield farm with high APR."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xc4daa5a9f2b832ed0f9bc579662883cd53ea9d61",
+    "url": "https://brickchain.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xc4daa5a9f2b832ed0f9bc579662883cd53ea9d61"
+    ],
+    "twitter": "brickdefi",
+    "telegram": "brickchain_finance"
+}

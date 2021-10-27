@@ -1,0 +1,24 @@
+{
+    "id": "greenmoon",
+    "symbol": "grm",
+    "name": "GreenMoon",
+    "platforms": {
+        "binance-smart-chain": "0x7472e4f397e46eb371fe4c8e078cfda46d72415f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "GREEN MOON adopts a flexible money supply method, using negative rebases to reduce the total supply of money, so as to increase the market value of each currency over time. This means that the total amount of GREENMOON currency in your wallet will decrease over time, but the market value of each currency will increase."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7472e4f397e46eb371fe4c8e078cfda46d72415f",
+    "url": "https://www.greenmoontoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x7472E4F397E46eB371Fe4C8E078CFDa46D72415F"
+    ],
+    "twitter": "GreenMoonToken",
+    "telegram": "GreenMoon_Token"
+}

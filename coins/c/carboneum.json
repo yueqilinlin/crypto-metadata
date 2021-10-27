@@ -1,0 +1,28 @@
+{
+    "id": "carboneum",
+    "symbol": "c8",
+    "name": "Carboneum",
+    "platforms": {
+        "ethereum": "0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "Investment"
+    ],
+    "description": {
+        "en": "Carboneum is creating a decentralized social trading platform, named CoinRadars. Carboneum is an openly distributed protocol owned by every single user. Where traditional social trading platform helps solve complexity problem, it still lacks transparency and remains vulnerable to single point of failure risk. The platform will be completely immune to such problems. It is built to sustain and scale with a sound revenue model where perfect alignment of interests is structured."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d",
+    "url": "https://www.carboneum.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d",
+        "https://ethplorer.io/address/0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d"
+    ],
+    "twitter": "carboneum_io",
+    "facebook": "carboneum.io",
+    "telegram": "carboneum_io",
+    "github_org": "CarboneumProject"
+}

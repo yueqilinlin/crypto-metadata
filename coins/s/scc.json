@@ -1,0 +1,25 @@
+{
+    "id": "scc",
+    "symbol": "scc",
+    "name": "SCC",
+    "platforms": {
+        "tron": "1002670"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "SCC is the main coin for the https://digforit.win platform"
+    },
+    "country_origin": "ZZ",
+    "genesis_date": null,
+    "contract_address": "1002670",
+    "url": "https://scc.digforit.win",
+    "explorers": [
+        "https://tronscan.org/#/token/1002670"
+    ],
+    "twitter": "digforitgamehub",
+    "telegram": "DIGforIT",
+    "github_org": "digforit"
+}

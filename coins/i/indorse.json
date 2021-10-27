@@ -1,0 +1,26 @@
+{
+    "id": "indorse",
+    "symbol": "ind",
+    "name": "Indorse",
+    "platforms": {
+        "ethereum": "0xf8e386eda857484f5a12e4b5daa9984e06e73705"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Internet of Things (IOT)"
+    ],
+    "description": {
+        "en": "Ethereum based Decentralized Professional Network. Unlike traditional platforms, Indorse aims to give back ownership of the data to the user, and allow them to profit from sharing their skills and activities on the platform. Indorse uses internal reward system to incentivize users to add their skills / accomplishments and indorse those of others."
+    },
+    "country_origin": "SG",
+    "genesis_date": "2017-08-08",
+    "contract_address": "0xf8e386eda857484f5a12e4b5daa9984e06e73705",
+    "url": "https://indorse.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xf8e386eda857484f5a12e4b5daa9984e06e73705",
+        "https://ethplorer.io/address/0xf8e386eda857484f5a12e4b5daa9984e06e73705"
+    ],
+    "twitter": "joinindorse",
+    "telegram": "indorseio",
+    "reddit": "indorse"
+}

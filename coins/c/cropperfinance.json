@@ -1,0 +1,24 @@
+{
+    "id": "cropperfinance",
+    "symbol": "crp",
+    "name": "CropperFinance",
+    "platforms": {
+        "solana": "DubwWZNWiNGMMeeQHPnMATNj77YZPZSAz2WVR5WjLJqz"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "Permission less yield farming platform on #solana , enabling any SPL project to offer yield farming to their holders in a few clicks."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "DubwWZNWiNGMMeeQHPnMATNj77YZPZSAz2WVR5WjLJqz",
+    "url": "https://cropper.finance/",
+    "explorers": [
+        "https://solscan.io/token/DubwWZNWiNGMMeeQHPnMATNj77YZPZSAz2WVR5WjLJqz"
+    ],
+    "twitter": "CropperFinance",
+    "telegram": "CropperFinance"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "midas-dollar",
+    "symbol": "mdo",
+    "name": "Midas Dollar",
+    "platforms": {
+        "binance-smart-chain": "0x35e869b7456462b81cdb5e6e42434bd27f3f788c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Decentralized Stablecoin with an Algorithmic Central Bank."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x35e869b7456462b81cdb5e6e42434bd27f3f788c",
+    "url": "https://midasdollar.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0x35e869B7456462b81cdB5e6e42434bD27f3F788c"
+    ],
+    "twitter": "MidasDollar",
+    "telegram": "midasprotocolglobal",
+    "github_org": "MidasCore"
+}

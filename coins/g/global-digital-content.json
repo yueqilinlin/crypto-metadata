@@ -1,0 +1,24 @@
+{
+    "id": "global-digital-content",
+    "symbol": "gdc",
+    "name": "Global Digital Content",
+    "platforms": {
+        "ethereum": "0x301c755ba0fca00b1923768fffb3df7f4e63af31"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GDC is Global Digital Content token for millennials that is consumed in a variety of content services including media, digital commerce, game, and entertainment. GDC is used directly in the services we developed and partnered amid our constant efforts on enhancing use cases."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x301c755ba0fca00b1923768fffb3df7f4e63af31",
+    "url": "http://gdctoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x301c755ba0fca00b1923768fffb3df7f4e63af31",
+        "https://ethplorer.io/address/0x301c755ba0fca00b1923768fffb3df7f4e63af31"
+    ],
+    "facebook": "RankingBallSports",
+    "reddit": "rankingball/",
+    "github_org": "gdctoken"
+}

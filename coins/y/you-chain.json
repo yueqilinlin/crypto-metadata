@@ -1,0 +1,26 @@
+{
+    "id": "you-chain",
+    "symbol": "you",
+    "name": "YOU Chain",
+    "platforms": {
+        "ethereum": "0x34364bee11607b1963d66bca665fde93fca666a8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YOUChain is focused on carrying large-scale commercial applications, creates YPoS consensus mechanism and original investment model. YOUChain aims to forge a next generation of public blockchain with high-performance and scalability which will achieve the vision of \u201cOne Mobile Device One Node, Everyone Can Participate\u201d."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x34364bee11607b1963d66bca665fde93fca666a8",
+    "url": "https://www.youchain.cc/",
+    "explorers": [
+        "https://etherscan.io/token/0x34364bee11607b1963d66bca665fde93fca666a8",
+        "https://ethplorer.io/address/0x34364bee11607b1963d66bca665fde93fca666a8",
+        "https://test-explorer.iyouchain.com/"
+    ],
+    "twitter": "YOUChain_cc",
+    "facebook": "YOUChain.cc",
+    "telegram": "YOUChain_EN",
+    "reddit": "https://www.reddit.com"
+}

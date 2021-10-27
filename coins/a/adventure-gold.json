@@ -1,0 +1,24 @@
+{
+    "id": "adventure-gold",
+    "symbol": "agld",
+    "name": "Adventure Gold",
+    "platforms": {
+        "ethereum": "0x32353a6c91143bfd6c7d363b546e62a9a2489a20"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Governance"
+    ],
+    "description": {
+        "en": "Loot is randomized adventurer gear generated and stored on chain. Stats, images, and other functionality are intentionally omitted for others to interpret."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x32353a6c91143bfd6c7d363b546e62a9a2489a20",
+    "url": "https://www.lootproject.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x32353a6c91143bfd6c7d363b546e62a9a2489a20",
+        "https://ethplorer.io/address/0x32353a6c91143bfd6c7d363b546e62a9a2489a20"
+    ],
+    "twitter": "lootproject"
+}

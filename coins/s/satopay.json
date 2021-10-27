@@ -1,0 +1,23 @@
+{
+    "id": "satopay",
+    "symbol": "stop",
+    "name": "SatoPay",
+    "platforms": {
+        "ethereum": "0x8c3ee4f778e282b59d42d693a97b80b1ed80f4ee"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cutting edge crypto payment solution for all e-commerce platforms and e-shops with integrated major cryptocurrencies."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8c3ee4f778e282b59d42d693a97b80b1ed80f4ee",
+    "url": "https://satopay.network",
+    "explorers": [
+        "https://etherscan.io/token/0x8c3ee4f778e282b59d42d693a97b80b1ed80f4ee",
+        "https://ethplorer.io/address/0x8c3ee4f778e282b59d42d693a97b80b1ed80f4ee"
+    ],
+    "twitter": "Satopay1?s=09",
+    "telegram": "SatoPay"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "policedoge",
+    "symbol": "policedoge",
+    "name": "PoliceDOGE",
+    "platforms": {
+        "binance-smart-chain": "0x4186829914d1b7b130b5153f4aabd21142e8e658"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PoliceDOGE is a hyper-deflationary buyback token forked from RISE with improved functions to make it more secure.\r\nPoliceDOGE represents law enforcement and ensures users' safety with the callPolice function in the smart contract."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0x4186829914d1b7b130b5153f4aabd21142e8e658",
+    "url": "https://www.policedoge.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x4186829914D1B7B130b5153F4AaBd21142E8E658"
+    ],
+    "twitter": "police_doge",
+    "telegram": "Police_Doge"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "bitsonic-token",
+    "symbol": "bsc",
+    "name": "Bitsonic Token",
+    "platforms": {
+        "ethereum": "0xe541504417670fb76b612b41b4392d967a1956c7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Bitsonic Exchange Mainnet Token "
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0xe541504417670fb76b612b41b4392d967a1956c7",
+    "url": "https://bitsonic.co.kr",
+    "explorers": [
+        "https://etherscan.io/token/0xe541504417670fb76b612b41b4392d967a1956c7",
+        "https://ethplorer.io/address/0xe541504417670fb76b612b41b4392d967a1956c7"
+    ],
+    "twitter": "BitsonicKorea",
+    "facebook": "bitsonic.official",
+    "telegram": "bitsonicofficialkor"
+}

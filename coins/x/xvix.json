@@ -1,0 +1,24 @@
+{
+    "id": "xvix",
+    "symbol": "xvix",
+    "name": "XVIX",
+    "platforms": {
+        "ethereum": "0x4bae380b5d762d543d426331b8437926443ae9ec"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XVIX is a token that absorbs value from volatility, it is the first token to make use of non-uniform rebasing to incentivise liquidity provision without creating sell pressure"
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x4bae380b5d762d543d426331b8437926443ae9ec",
+    "url": "https://xvix.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x4bAE380B5D762D543d426331b8437926443ae9ec",
+        "https://ethplorer.io/address/0x4bae380b5d762d543d426331b8437926443ae9ec"
+    ],
+    "twitter": "XVIX_Finance",
+    "telegram": "XVIX_Finance",
+    "github_org": "xvi10"
+}

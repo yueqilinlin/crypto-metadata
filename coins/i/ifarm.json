@@ -1,0 +1,25 @@
+{
+    "id": "ifarm",
+    "symbol": "ifarm",
+    "name": "iFARM",
+    "platforms": {
+        "ethereum": "0x1571ed0bed4d987fe2b498ddbae7dfa19519f651",
+        "polygon-pos": "0xab0b2ddb9c7e440fac8e140a89c0dbcbf2d7bbff"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "iFARM is the interest-bearing version of Harvest\u2019s FARM rewards token; similar to xSUSHI or bBADGER, it is a receipt for depositing FARM into the Harvest Profitsharing pool, where it receives a steady flow of the protocol's farming profits and it is redeemable for the underlying FARM at an increasing rate."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1571ed0bed4d987fe2b498ddbae7dfa19519f651",
+    "url": "https://harvest.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x1571ed0bed4d987fe2b498ddbae7dfa19519f651",
+        "https://polygonscan.com/token/0x1571ed0bed4d987fe2b498ddbae7dfa19519f651}",
+        "https://ethplorer.io/address/0x1571ed0bed4d987fe2b498ddbae7dfa19519f651"
+    ],
+    "twitter": "harvest_finance",
+    "reddit": "HarvestFinance/"
+}

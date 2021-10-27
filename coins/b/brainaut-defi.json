@@ -1,0 +1,23 @@
+{
+    "id": "brainaut-defi",
+    "symbol": "brn",
+    "name": "Brainaut DeFi",
+    "platforms": {
+        "binance-smart-chain": "0x5749085c36a521f71ad2050cb600b2165aabdf68"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "On the Binance Smart Chain, Brainaut is a 3rd generation reflectionary,\r\ndeflationary, yield Farm token. A 4% fee is charged for each transaction, 2 % of every BSC transaction is redistributed over all holders and the remaining 2% is burned. Thus, Brainaut has the ability to reflect and burn tokens instantly.\r\n\r\nThe total supply begins with 100,000,000 tokens, when the total supply reaches 10,000,000 BRN, fees will not be charged, to insure the Brainaut\u2019s durability on listing with a constant max supply of 10,000,000 tokens."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x5749085c36a521f71ad2050cb600b2165aabdf68",
+    "url": "https://www.brainaut.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x5749085C36A521f71AD2050Cb600B2165aabdF68"
+    ],
+    "twitter": "brainaut1",
+    "telegram": "brainaut",
+    "github_org": "Brainaut"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "open-predict-token",
+    "symbol": "opt",
+    "name": "OpenPredict Token",
+    "platforms": {
+        "ethereum": "0x4fe5851c9af07df9e5ad8217afae1ea72737ebda"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Prediction Markets",
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "OpenPredict is the first DeFi protocol to turn live predictions into liquid assets. The protocol generates a tri-smart contract system for every event: one acts as an escrow for event predictors, second contract mints tokens that represent correct predictors, and third contract mint tokens that represent incorrect predictors."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4fe5851c9af07df9e5ad8217afae1ea72737ebda",
+    "url": "https://openpredict.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4FE5851C9af07df9e5AD8217aFAE1ea72737Ebda",
+        "https://ethplorer.io/address/0x4fe5851c9af07df9e5ad8217afae1ea72737ebda"
+    ],
+    "twitter": "OPTprotocol",
+    "telegram": "OpenPredictAnnouncements"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "btc-2x-flexible-leverage-index",
+    "symbol": "BTC2x-FLI",
+    "name": "BTC 2x Flexible Leverage Index",
+    "platforms": {
+        "ethereum": "0x0b498ff89709d3838a063f1dfa463091f9801c2b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "DeFi Index",
+        "Leveraged Token"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0b498ff89709d3838a063f1dfa463091f9801c2b",
+    "url": "https://www.tokensets.com/portfolio/btcfli",
+    "explorers": [
+        "https://etherscan.io/token/0x0b498ff89709d3838a063f1dfa463091f9801c2b",
+        "https://ethplorer.io/address/0x0b498ff89709d3838a063f1dfa463091f9801c2b"
+    ]
+}

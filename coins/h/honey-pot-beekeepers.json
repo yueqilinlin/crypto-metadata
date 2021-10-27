@@ -1,0 +1,23 @@
+{
+    "id": "honey-pot-beekeepers",
+    "symbol": "honey",
+    "name": "Honey Pot BeeKeepers",
+    "platforms": {
+        "arbitrum-one": "0xde31e75182276738b0c025daa8f80020a4f2fbfe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bringing Ethereum Degen Yield Farming back, on Arbitrum!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xde31e75182276738b0c025daa8f80020a4f2fbfe",
+    "url": "https://thehoneypot.finance/",
+    "explorers": [
+        "https://arbiscan.io/token/0xde31e75182276738b0c025daa8f80020a4f2fbfe"
+    ],
+    "twitter": "honeymoneyyield",
+    "telegram": "TheHoneyPotFinance",
+    "github_org": "TheHoneyPotFinance"
+}

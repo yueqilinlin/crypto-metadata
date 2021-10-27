@@ -1,0 +1,23 @@
+{
+    "id": "poet",
+    "symbol": "poe",
+    "name": "Po.et",
+    "platforms": {
+        "ethereum": "0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Po.et is a shared, universal ledger designed to track ownership and attribution for the world's digital creative assets."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-08-22",
+    "contract_address": "0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195",
+    "url": "https://po.et/",
+    "explorers": [
+        "https://etherscan.io/token/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195",
+        "https://ethplorer.io/address/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195"
+    ],
+    "reddit": "poetproject",
+    "github_org": "poetapp"
+}

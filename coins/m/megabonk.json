@@ -1,0 +1,25 @@
+{
+    "id": "megabonk",
+    "symbol": "mbonk",
+    "name": "megaBonk",
+    "platforms": {
+        "ethereum": "0xacfe45c352c902ae3a3f9b6bfe6ec994c5d791bf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "megaBONK is a community defi project focused on deploying NFTs using IPFS."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xacfe45c352c902ae3a3f9b6bfe6ec994c5d791bf",
+    "url": "https://www.megabonk.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xacfe45c352c902ae3a3f9b6bfe6ec994c5d791bf",
+        "https://ethplorer.io/address/0xacfe45c352c902ae3a3f9b6bfe6ec994c5d791bf"
+    ],
+    "twitter": "BonkToken",
+    "telegram": "bonktoken",
+    "reddit": "BONKtoken/",
+    "github_org": "bonktoken"
+}

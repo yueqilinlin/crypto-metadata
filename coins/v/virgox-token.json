@@ -1,0 +1,23 @@
+{
+    "id": "virgox-token",
+    "symbol": "vxt",
+    "name": "VirgoX Token",
+    "platforms": {
+        "ethereum": "0x8ba009cad493c7646e31d69428ab9a54f47b3779"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "VXT is the VirgoX Platform token.\r\nLower Your Trading Cost for Spot/Contract Markets. Trading Fees will be 50% off when you use VXT for transaction fee settlement.\r\nHigher Financial Product Yield, Higher Earning.\r\nUsers will receive yield-enhancements on all VirgoX financial products."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8ba009cad493c7646e31d69428ab9a54f47b3779",
+    "url": "VirgoX.com",
+    "explorers": [
+        "https://etherscan.io/token/0x8Ba009Cad493C7646e31D69428AB9A54F47B3779",
+        "https://ethplorer.io/address/0x8ba009cad493c7646e31d69428ab9a54f47b3779"
+    ],
+    "twitter": "VirgoX_Exchange",
+    "telegram": "VirgoX_official"
+}

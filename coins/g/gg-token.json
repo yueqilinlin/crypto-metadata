@@ -1,0 +1,27 @@
+{
+    "id": "gg-token",
+    "symbol": "ggtk",
+    "name": "GG Token",
+    "platforms": {
+        "ethereum": "0xfa99a87b14b02e2240c79240c5a20f945ca5ef76",
+        "polygon-pos": "0x49b1be61a8ca3f9a9f178d6550e41e00d9162159"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gaming"
+    ],
+    "description": {
+        "en": "GGDApp is a gaming ecosystem and DApp that rewards players, developers and investors."
+    },
+    "country_origin": "PT",
+    "genesis_date": null,
+    "contract_address": "0xfa99a87b14b02e2240c79240c5a20f945ca5ef76",
+    "url": "https://ggdapp.com",
+    "explorers": [
+        "https://etherscan.io/token/0xfa99a87b14b02e2240c79240c5a20f945ca5ef76",
+        "https://ethplorer.io/address/0xfa99a87b14b02e2240c79240c5a20f945ca5ef76",
+        "https://polygonscan.com/token/0x49b1be61a8ca3f9a9f178d6550e41e00d9162159"
+    ],
+    "twitter": "gg_dapp",
+    "telegram": "ggdappchat"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "genta",
+    "symbol": "gena",
+    "name": "Genta",
+    "platforms": {
+        "binance-smart-chain": "0x7f4959528d4c9c7379b3437c7eea40376fd96b8a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Genta (GENA) is a token with optional uses cases. It can be used for shares, stake, and converting liquid assets. Genta are backed by Tulsa Pro Project."
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0x7f4959528d4c9c7379b3437c7eea40376fd96b8a",
+    "url": [],
+    "explorers": [
+        "https://bscscan.com/token/0x7f4959528D4C9c7379b3437C7Eea40376fD96B8a"
+    ],
+    "twitter": "gentatoken",
+    "telegram": "gentagena",
+    "github_org": "gentatoken"
+}

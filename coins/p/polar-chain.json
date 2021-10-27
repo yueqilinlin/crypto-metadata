@@ -1,0 +1,21 @@
+{
+    "id": "polar-chain",
+    "symbol": "pola",
+    "name": "Polar Chain",
+    "platforms": {
+        "ethereum": "0xbbe5c81412bad19877300d63cc8d8264a154091e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The goal of Polar Chain is to make a more efficient, stable, and scientifically sound edge computing platform with blockchain technology. To comply with the original purpose of the blockchain \u201cEveryone is equal\u201d and realize the Proof of Useful Work (PoUW). Polar Chain collects idle resources such as bandwidth, computing, storage, etc., so that everyone becomes an edge computing node and each edge node can process, execute and gain revenue. We rely on a myriad of nodes to form a decentralized peer-to-peer edge computing platform, which eventually becomes the super edge cloud\u2014Polar Chain.\r\n\r\nPolar Chain is committed to building a complete ecosystem within the decentralized peer-to-peer edge platform, refactoring the existing Internet model, achieving value circulation and enhancement, and completing the \u201clast mile\u201d of Web 3.0."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbbe5c81412bad19877300d63cc8d8264a154091e",
+    "url": "http://www.polar-chain.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xbBE5C81412Bad19877300d63CC8D8264A154091E",
+        "https://ethplorer.io/address/0xbBE5C81412Bad19877300d63CC8D8264A154091E"
+    ]
+}

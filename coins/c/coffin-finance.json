@@ -1,0 +1,24 @@
+{
+    "id": "coffin-finance",
+    "symbol": "coffin",
+    "name": "Coffin Finance",
+    "platforms": {
+        "fantom": "0x593ab53baffaf1e821845cf7080428366f030a9c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fantom Ecosystem"
+    ],
+    "description": {
+        "en": "Coffin Finance is Partial Collateral Stable Token Project on Fantom Opera. COFFIN Token is reward token on the project. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x593ab53baffaf1e821845cf7080428366f030a9c",
+    "url": "https://coffin.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0x593ab53baffaf1e821845cf7080428366f030a9c"
+    ],
+    "twitter": "CoffinFinance",
+    "github_org": "CoffinFinance"
+}

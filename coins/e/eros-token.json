@@ -1,0 +1,22 @@
+{
+    "id": "eros-token",
+    "symbol": "eros",
+    "name": "Eros Token",
+    "platforms": {
+        "binance-smart-chain": "0xe0ca4724bc8b97b259d25596ee3cfab816629bad"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Erosswap - is an erotic yield farm platform running on Binance Smart Chain with fair launch on Pancake swap exchange. The most important features are: Referral Systems Trio(3% from every transaction, 3% from each exchange, 3% from harvests), auto buyback system integrated into farm with BNB/BUSD reward and anti whale + anti bot system. Our main goal in the future - creation of an erotic NFT marketplace and build a system around it."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe0ca4724bc8b97b259d25596ee3cfab816629bad",
+    "url": "https://bsc.erosswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xe0ca4724bc8b97b259d25596ee3cfab816629bad"
+    ],
+    "twitter": "erosswap",
+    "telegram": "erosswap"
+}

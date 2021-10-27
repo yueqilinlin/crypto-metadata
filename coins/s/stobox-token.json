@@ -1,0 +1,25 @@
+{
+    "id": "stobox-token",
+    "symbol": "stbu",
+    "name": "Stobox Token",
+    "platforms": {
+        "ethereum": "0x212dd60d4bf0da8372fe8116474602d429e5735f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "STBU is used to reward customers who bring most value to ecosystem and provide them with special terms. STBU allows to reduce fees using Stobox products like DS Swap, DS Dashboard, Stobox Exchange."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x212dd60d4bf0da8372fe8116474602d429e5735f",
+    "url": "https://www.stobox.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x212DD60D4Bf0DA8372fe8116474602d429E5735F",
+        "https://ethplorer.io/address/0x212DD60D4Bf0DA8372fe8116474602d429E5735F"
+    ],
+    "twitter": "StoboxCompany",
+    "facebook": "StoboxCompany",
+    "telegram": "stobox_community",
+    "github_org": "StoboxTechnologies"
+}

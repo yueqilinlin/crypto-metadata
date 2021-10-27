@@ -1,0 +1,25 @@
+{
+    "id": "dinger-token",
+    "symbol": "dinger",
+    "name": "Dinger Token",
+    "platforms": {
+        "ethereum": "0x9e5bd9d9fad182ff0a93ba8085b664bcab00fa68"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dinger Token is the next generation of meme culture. We will kick off a revolution where an average person can gain access to launching meme tokens and creating their own unique environments that will help their memes succeed. We are centered around investor protection and are creating our suite of products with that in mind."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9e5bd9d9fad182ff0a93ba8085b664bcab00fa68",
+    "url": "https://www.schrodingertoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x9e5bd9d9fad182ff0a93ba8085b664bcab00fa68",
+        "https://ethplorer.io/address/0x9e5bd9d9fad182ff0a93ba8085b664bcab00fa68"
+    ],
+    "twitter": "dingertoken",
+    "telegram": "dingertoken",
+    "reddit": "schrodinger/",
+    "github_org": "SchrodingerToken"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "bakerytoken",
+    "symbol": "bake",
+    "name": "BakerySwap",
+    "platforms": {
+        "binance-smart-chain": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
+        "harmony-shard-0": "0x4da9464daf2b878e32e29115e2cfd786fe84692a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
+    "url": "https://www.bakeryswap.org/#/home",
+    "explorers": [
+        "https://bscscan.com/token/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5"
+    ],
+    "twitter": "bakery_swap",
+    "telegram": "bakeryswap",
+    "github_org": "BakeryProject"
+}

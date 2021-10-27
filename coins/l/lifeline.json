@@ -1,0 +1,24 @@
+{
+    "id": "lifeline",
+    "symbol": "llt",
+    "name": "LifeLine",
+    "platforms": {
+        "binance-smart-chain": "0xd37c1417da7bf5b02ffdea8d5427022dc88a0ee2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A charity-oriented token for helping children\u2019s hospitals with cancer care."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0xd37c1417da7bf5b02ffdea8d5427022dc88a0ee2",
+    "url": "https://lifelinetoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xd37c1417da7bf5b02ffdea8d5427022dc88a0ee2"
+    ],
+    "twitter": "LifelineToken",
+    "telegram": "LifeLineToken",
+    "reddit": "LifeLineToken/",
+    "github_org": "lifelinetoken"
+}

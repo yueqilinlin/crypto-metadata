@@ -1,0 +1,24 @@
+{
+    "id": "coffe-1-st-round",
+    "symbol": "cff",
+    "name": "Coffe",
+    "platforms": {
+        "eos": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "COFFE is an EOS platform fork (an independent software development branch) that features modified DPOS-based consensus algorithms. COFFE has its CFF token issued in the COFFE and EOS blockchains. Considering the current issues in the EOS MainNet network, it becomes apparent that for the stable operation of the business, there has to be a backup version of the basic blockchain. There are plenty of forks that can be used for personal use. However, such forks are generally the exact copies of the EOS blockchain, which means that they have the very same vulnerabilities as their parent blockchain. The COFFE project offers to change the financial and economic blockchain model, designed to eliminate this vulnerability."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "url": "https://coffe.io",
+    "explorers": [
+        "https://coffe.bloks.io"
+    ],
+    "twitter": "Coffeionetwork",
+    "telegram": "coffeofficialgroup",
+    "github_org": "coffeio"
+}

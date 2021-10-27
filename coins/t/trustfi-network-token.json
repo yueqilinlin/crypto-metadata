@@ -1,0 +1,23 @@
+{
+    "id": "trustfi-network-token",
+    "symbol": "tfi",
+    "name": "TrustFi Network Token",
+    "platforms": {
+        "binance-smart-chain": "0x7565ab68d3f9dadff127f864103c8c706cf28235"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TrustFi Network is a decentralized BaaS solution for DeFi market based on the multichain environment, focusing on early crypto assets issuance, liquidity management, community activities and DAO governance to unlock the potential of DeFi."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x7565ab68d3f9dadff127f864103c8c706cf28235",
+    "url": "https://trustfi.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x7565ab68d3f9dadff127f864103c8c706cf28235"
+    ],
+    "twitter": "trustfiorg",
+    "telegram": "trustfi_fans",
+    "github_org": "TrustFiNetwork"
+}

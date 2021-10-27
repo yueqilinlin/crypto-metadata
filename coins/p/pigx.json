@@ -1,0 +1,21 @@
+{
+    "id": "pigx",
+    "symbol": "pigx",
+    "name": "PIGX",
+    "platforms": {
+        "ethereum": "0x47e820df943170b0e31f9e18ecd5bdd67b77ff1f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PIGX passed the \"blockchain + black pig\" traceability system, mainly through blockchain technology, detailed record of the whole cycle data chain of pig products, and the data protection and validity verification through encryption algorithm to solve the food safety last one. The problem of kilometers increases the brand value of the pigs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x47e820df943170b0e31f9e18ecd5bdd67b77ff1f",
+    "url": "http://city.pigice.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x47e820df943170b0e31f9e18ecd5bdd67b77ff1f",
+        "https://ethplorer.io/address/0x47e820df943170b0e31f9e18ecd5bdd67b77ff1f"
+    ]
+}

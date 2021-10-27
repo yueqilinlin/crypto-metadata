@@ -1,0 +1,23 @@
+{
+    "id": "cashhand",
+    "symbol": "chnd",
+    "name": "Cashhand",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Cashhand hopes to bring developing nations an alternative to normal fiat commerce with cryptocurrency."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "url": "https://www.cashhand.info/",
+    "explorers": [
+        "https://explorer.cashhand.info/"
+    ],
+    "twitter": "CASHHANDCOIN",
+    "facebook": "CashHandchnd",
+    "telegram": "cashhand",
+    "github_org": "Cashhand"
+}

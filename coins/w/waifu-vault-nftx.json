@@ -1,0 +1,24 @@
+{
+    "id": "waifu-vault-nftx",
+    "symbol": "waifu",
+    "name": "WAIFU Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xe7f4c89032a2488d327323548ab0459676269331"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "WAIFU Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe7f4c89032a2488d327323548ab0459676269331",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xE7F4c89032A2488D327323548AB0459676269331",
+        "https://ethplorer.io/address/0xe7f4c89032a2488d327323548ab0459676269331"
+    ],
+    "twitter": "nftx_"
+}

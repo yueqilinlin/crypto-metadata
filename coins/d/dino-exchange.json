@@ -1,0 +1,28 @@
+{
+    "id": "dino-exchange",
+    "symbol": "dino",
+    "name": "Dino Exchange",
+    "platforms": {
+        "binance-smart-chain": "0xf317932ee2c30fa5d0e14416775977801734812d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Automated Market Maker (AMM)",
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Dino.Exchange is an automated market-making (AMM) decentralized exchange (DEX) running on Binance Smart Chain with a lot of features that let you earn tokens by yield farming or playing games on our platform. We want to create an environment where people can do yield farming with sustainably high APR. Some of the Dino Exchange features include:\r\n\r\n1. Trade\r\n\r\nDinoExchange uses an automated market maker (AMM) model - allows digital assets to be traded without permission and automatically by using liquidity pools instead of a traditional market of buyers and sellers.\r\n\r\n2. Farm\r\n\r\nLiquidity mining is the best way to make passive income. Liquidity pools are very important for decentralized exchanges and this is exactly one of the key advantages you will have with Dino. With Dino, users can do liquidity mining in selected pools so that they can enjoy passive income. While someone provides liquidity for the designated pool he/she earns a Dino token as a reward"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf317932ee2c30fa5d0e14416775977801734812d",
+    "url": "https://dino.exchange/",
+    "explorers": [
+        "https://bscscan.com/token/0xf317932ee2C30fa5d0E14416775977801734812D"
+    ],
+    "twitter": "dinoexchange",
+    "telegram": "dinoexchange",
+    "github_org": "dino-exchange"
+}

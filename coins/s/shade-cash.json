@@ -1,0 +1,23 @@
+{
+    "id": "shade-cash",
+    "symbol": "shade",
+    "name": "Shade Cash",
+    "platforms": {
+        "fantom": "0x3a3841f5fa9f2c283ea567d5aeea3af022dd2262"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A decentralized protocol for private transactions on the Fantom Opera\r\n\r\nShade Cash improves transaction privacy by breaking the on-chain link between the sender and receivers address. It uses smart contracts that only accepts a fixed amount of FTM to be deposited that can then be withdrawn by a different address. To preserve privacy a relayer can be used to withdraw to an address with no FTM balance. There is no way to link the withdrawal to the deposit, ensuring absolute privacy."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3a3841f5fa9f2c283ea567d5aeea3af022dd2262",
+    "url": "https://shade.cash/",
+    "explorers": [
+        "https://ftmscan.com/token/0x3A3841f5fa9f2c283EA567d5Aeea3Af022dD2262"
+    ],
+    "twitter": "ShadeCash_",
+    "telegram": "ShadeCash",
+    "github_org": "shadecash"
+}

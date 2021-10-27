@@ -1,0 +1,26 @@
+{
+    "id": "rarible",
+    "symbol": "rari",
+    "name": "Rarible",
+    "platforms": {
+        "ethereum": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Governance"
+    ],
+    "description": {
+        "en": "Rarible is a creator-centric NFT marketplace and issuance platform. $RARI is a governance token with Marketplace Liquidity Mining program and the airdrop for the large NFT holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+    "url": "https://app.rarible.com/rari",
+    "explorers": [
+        "https://etherscan.io/token/0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+        "https://ethplorer.io/address/0xfca59cd816ab1ead66534d82bc21e7515ce441cf"
+    ],
+    "twitter": "rariblecom",
+    "telegram": "rarible"
+}

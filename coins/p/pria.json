@@ -1,0 +1,23 @@
+{
+    "id": "pria",
+    "symbol": "pria",
+    "name": "PRIA",
+    "platforms": {
+        "ethereum": "0xb9871cb10738eada636432e86fc0cb920dc3de24"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PRIA is a fully automated and decentralized digital asset that implements and manages a perpetual ultra-deflationary monetary policy favorable to inflation arbitrage by market participants."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0xb9871cb10738eada636432e86fc0cb920dc3de24",
+    "url": "https://pria.eth.link/",
+    "explorers": [
+        "https://etherscan.io/token/0xb9871cb10738eada636432e86fc0cb920dc3de24",
+        "https://ethplorer.io/address/0xb9871cb10738eada636432e86fc0cb920dc3de24"
+    ],
+    "twitter": "defi_labs_",
+    "telegram": "defilabs_community"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "pyxis-network",
+    "symbol": "pyx",
+    "name": "Pyxis Network",
+    "platforms": {
+        "binance-smart-chain": "0x3ebb316d8c387ef235baa38978cbb9b97c8c3017"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PYXIS Network is a decentralized finance staking platform on Binance Smart Chain.\r\n\r\nPYX Token is used for:\r\n\r\nStaking. People can lock the tokens for an amount of time and earn when the stake is matured.\r\nDApp charting tool. To unlock features on the dexchart.com for portfolio management and token price charting.\r\n\r\nPYXIS Network includes:\r\n\r\nBNB Staking People can use BNB to stake and earn.\r\nPYX Staking People can use PYX to stake and earn."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x3ebb316d8c387ef235baa38978cbb9b97c8c3017",
+    "url": "https://www.pyxis.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x3ebb316D8c387ef235BAa38978cbB9B97C8C3017"
+    ],
+    "twitter": "pyxiscommunity",
+    "telegram": "pyxiscommunity",
+    "reddit": "PyxisNetwork/",
+    "github_org": "pyxiscto"
+}

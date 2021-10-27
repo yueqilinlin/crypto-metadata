@@ -1,0 +1,26 @@
+{
+    "id": "genaro-network",
+    "symbol": "gnx",
+    "name": "Genaro Network",
+    "platforms": {
+        "ethereum": "0x6ec8a24cabdc339a06a172f8223ea557055adaa5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Genaro Network is the first Turing Complete Public Chain with Decentralized Storage Network, providing blockchain developers a one-stop solution to deploy smart contracts and store data simultaneously. Meanwhile, Genaro provides everyone with a trustworthy internet and a sharing community. As the creator behind the blockchain 3.0 concept, Genaro aims to contribute to blockchain infrastructure technology development. Through the Genaro Hub and Accelerator, we aim to foster thousands of DAPPS, to move applications from \"Cloud\" to \"Blockchain\u201d and thereby create a global blockchain ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-09-27",
+    "contract_address": "0x6ec8a24cabdc339a06a172f8223ea557055adaa5",
+    "url": "https://genaro.network/en",
+    "explorers": [
+        "https://etherscan.io/token/0x6ec8a24cabdc339a06a172f8223ea557055adaa5",
+        "https://ethplorer.io/address/0x6ec8a24cabdc339a06a172f8223ea557055adaa5"
+    ],
+    "twitter": "GenaroNetwork",
+    "facebook": "GenaroNetwork",
+    "telegram": "GenaroNetworkOfficial",
+    "reddit": "GenaroNetwork",
+    "github_org": "GenaroSanada"
+}

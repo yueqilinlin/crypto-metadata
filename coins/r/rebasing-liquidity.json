@@ -1,0 +1,24 @@
+{
+    "id": "rebasing-liquidity",
+    "symbol": "delta rlp",
+    "name": "Rebasing Liquidity",
+    "platforms": {
+        "ethereum": "0xfcfc434ee5bff924222e084a8876eee74ea7cfba"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Delta ecosystem started with a Limited Staking Window (LSW). Users were able to contribute Ethereum to the LSW which was used to create liquidity for the Ethereum / Delta Pair on Uniswap. rLP tokens were given in return to the participants. \r\nrLP tokens have a special attribute of periodically rebasing its underlying liquidity and therefore increasing their mint price exponentially. To create maximum value for our early community members, a special launching event was designed called Limited Staking Window. Participants staked Ethereum in the launch contract, in return they receive rLP tokens. After the LSW closes, liquidity rebasing will significantly increase the minting price (~150%), making participation in the LSW much more cost efficient, compared to minting rLP tokens post launch."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfcfc434ee5bff924222e084a8876eee74ea7cfba",
+    "url": "https://delta.financial/",
+    "explorers": [
+        "https://etherscan.io/token/0xfcfc434ee5bff924222e084a8876eee74ea7cfba",
+        "https://ethplorer.io/address/0xfcfc434ee5bff924222e084a8876eee74ea7cfba"
+    ],
+    "twitter": "Delta_Token",
+    "telegram": "Delta_Financial",
+    "github_org": "Delta-Financial"
+}

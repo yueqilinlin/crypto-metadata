@@ -1,0 +1,24 @@
+{
+    "id": "toll-free-swap",
+    "symbol": "toll",
+    "name": "Toll Free Swap",
+    "platforms": {
+        "ethereum": "0x609c711783295209d9f33f535a7ca55b8ff87af2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TollFreeSwap is a new cutting-edge decentralized gas fee  reclaim and gas fee refund protocol for swapping erc20 tokens. Tollfreeswap uses an automated market maker model to determine excess gas fee spent on each transaction carried out within the ecosystem and refund this excess or high gas fee spent on the network back to the user. \r\n\r\nBuilt on the ethereum network, tollfreeswap refunds fees on erc20 transfers and will integrate other gas consuming decentralized applications.\r\n\r\nAs a community-driven ecosystem, tollfreeswap is powered by its governance token TOLL which shapes and determines how the protocol operates.\r\n\r\nThe Toll token is utilized to the max in making sure for the smooth running and operation of the project and all related dApps and features that get integrated into it."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x609c711783295209d9f33f535a7ca55b8ff87af2",
+    "url": "https://tollfreeswap.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x609c711783295209d9f33f535a7ca55b8ff87af2",
+        "https://ethplorer.io/address/0x609c711783295209d9f33f535a7ca55b8ff87af2"
+    ],
+    "twitter": "tollfreeswap",
+    "telegram": "tollfreeswap",
+    "github_org": "tollswap"
+}

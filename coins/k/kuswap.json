@@ -1,0 +1,24 @@
+{
+    "id": "kuswap",
+    "symbol": "kus",
+    "name": "KuSwap",
+    "platforms": {
+        "kucoin-community-chain": "0x4a81704d8c16d9fb0d7f61b747d0b5a272badf14"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "First Kucoin Community Chain DEX"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4a81704d8c16d9fb0d7f61b747d0b5a272badf14",
+    "url": "https://kuswap.finance",
+    "explorers": [
+        "https://explorer.kcc.io/en/token/0x4a81704d8c16d9fb0d7f61b747d0b5a272badf14"
+    ],
+    "twitter": "kuswapfinance",
+    "telegram": "kuswapfinance",
+    "reddit": "KuSwapFinance/",
+    "github_org": "kuswap"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "ethereum-gold-project",
+    "symbol": "etgp",
+    "name": "Ethereum Gold Project",
+    "platforms": {
+        "ethereum": "0xa96f31f1c187c28980176c3a27ba7069f48abde4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ETGP is the update of ETG project with new roadmap , our vision is to facilitate & decentralize payment of companies & communities"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xa96f31f1c187c28980176c3a27ba7069f48abde4",
+    "url": "https://www.etgproject.org",
+    "explorers": [
+        "https://etherscan.io/token/0xa96f31f1c187c28980176c3a27ba7069f48abde4",
+        "https://ethplorer.io/address/0xa96f31f1c187c28980176c3a27ba7069f48abde4"
+    ],
+    "twitter": "ethereumgoldetg",
+    "facebook": "Ethereum-Gold-ETG-127521641285006",
+    "github_org": "EthereumGoldETG"
+}

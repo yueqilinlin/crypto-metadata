@@ -1,0 +1,29 @@
+{
+    "id": "venus",
+    "symbol": "xvs",
+    "name": "Venus",
+    "platforms": {
+        "binance-smart-chain": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Launchpool",
+        "Lending/Borrowing",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+    "url": "https://venus.io/",
+    "explorers": [
+        "https://bscscan.com/address/0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+        "https://bscscan.com/token/0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63"
+    ],
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol",
+    "github_org": "VenusProtocol"
+}

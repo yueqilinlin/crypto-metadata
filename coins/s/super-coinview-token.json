@@ -1,0 +1,27 @@
+{
+    "id": "super-coinview-token",
+    "symbol": "scv",
+    "name": "Super CoinView Token",
+    "platforms": {
+        "binance-smart-chain": "0x1ecec64957a7f83f90e77bd1b1816ab40df4f615"
+    },
+    "hashing_algorithm": "Keccak",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1ecec64957a7f83f90e77bd1b1816ab40df4f615",
+    "url": "https://scv.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x1eCEc64957A7f83F90e77bD1B1816Ab40DF4f615",
+        "https://etherscan.io/token/0x282417b21236ac01a3a3d7ba304ed8d284f48b4d"
+    ],
+    "twitter": "scv_finance",
+    "facebook": "coinjinja",
+    "telegram": "scv_finance",
+    "github_org": "scv-finance"
+}

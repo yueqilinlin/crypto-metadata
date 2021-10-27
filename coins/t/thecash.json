@@ -1,0 +1,25 @@
+{
+    "id": "thecash",
+    "symbol": "tch",
+    "name": "THECASH",
+    "platforms": {
+        "ethereum": "0xcd475371e39c0d94e82fccc9dd0ea710d0dc0c0b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "THECASH is mining coin, and was created based on the advantages of the master node's deposit compensation method and Ethereum's smart contract ledger method. The maximum supply of mining is 1 billion, and the entire distribution and ecosystem are maintained by the incineration system by mining and settlement. THE CASH adopts the'seesaw' mining method, so that the distribution volume is naturally controlled by supply and demand. The first stage mining volume is one million per day, and the mining volume is increased by 30% for each stage, and the distribution volume is reduced to 1/N depending on the total number of miners."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcd475371e39c0d94e82fccc9dd0ea710d0dc0c0b",
+    "url": "https://thecash.asia/",
+    "explorers": [
+        "https://etherscan.io/token/0xcd475371e39c0d94e82fccc9dd0ea710d0dc0c0b",
+        "https://ethplorer.io/address/0xcd475371e39c0d94e82fccc9dd0ea710d0dc0c0b"
+    ],
+    "telegram": "damda365",
+    "github_org": "thenode-foundation"
+}

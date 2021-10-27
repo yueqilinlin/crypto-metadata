@@ -1,0 +1,25 @@
+{
+    "id": "electra-protocol",
+    "symbol": "xep",
+    "name": "Electra Protocol",
+    "platforms": {
+        "binance-smart-chain": "0xb897d0a0f68800f8be7d69ffdd1c24b69f57bf3e"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "Electra Protocol is a truely decentralized community project which has +30.000 members from all over the world. Electra Protocol (XEP) has a PoS algorithm which is secure, fast and has near zero fee transactions. It has a 1500TPS speed and ideal for micro payments."
+    },
+    "country_origin": "ZZ",
+    "genesis_date": null,
+    "contract_address": "0xb897d0a0f68800f8be7d69ffdd1c24b69f57bf3e",
+    "url": "https://electraprotocol.com",
+    "explorers": [
+        "https://electraprotocol.network/",
+        "https://bscscan.com/token/0xb897d0a0f68800f8be7d69ffdd1c24b69f57bf3e"
+    ],
+    "twitter": "ElectraProtocol",
+    "telegram": "ElectraProtocol",
+    "reddit": "ElectraProtocol/",
+    "github_org": "ElectraProtocol"
+}

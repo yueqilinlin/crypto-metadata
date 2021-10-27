@@ -1,0 +1,22 @@
+{
+    "id": "mobius-money",
+    "symbol": "mobi",
+    "name": "Mobius Money",
+    "platforms": {
+        "celo": "0x73a210637f6f6b7005512677ba6b3c96bb4aa44b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mobius is an Automated Market Maker (AMM) built on a constant sum invariant that enables low-slippage swaps between price-stable and wrapped token pairs. Thereby paving the way for drastically more capital efficient trades between similarly priced tokens. At its core, the Mobius contracts are a variation of the Nerve Finance codebase. Let\u2019s discuss the specific areas Mobius specializes in: (1) price stable (2) pegged assets, and soon (4) interest bearing / liquid staking tokens and (4) capital efficient forex swaps."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x73a210637f6f6b7005512677ba6b3c96bb4aa44b",
+    "url": "https://www.mobius.money/",
+    "explorers": [
+        "https://explorer.celo.org/tokens/0x73a210637f6F6B7005512677Ba6B3C96bb4AA44B/token-transfers"
+    ],
+    "twitter": "MobiusMoney",
+    "github_org": "mobiusAMM"
+}

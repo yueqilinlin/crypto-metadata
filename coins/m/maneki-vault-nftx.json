@@ -1,0 +1,24 @@
+{
+    "id": "maneki-vault-nftx",
+    "symbol": "maneki",
+    "name": "MANEKI Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xc716cf01532999e5df45e1bd09743128c5932821"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "MANEKI Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs).\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc716cf01532999e5df45e1bd09743128c5932821",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xc716cf01532999e5df45e1bd09743128c5932821",
+        "https://ethplorer.io/address/0xc716cf01532999e5df45e1bd09743128c5932821"
+    ],
+    "twitter": "nftx_"
+}

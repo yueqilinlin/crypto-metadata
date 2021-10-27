@@ -1,0 +1,23 @@
+{
+    "id": "binance8",
+    "symbol": "b8",
+    "name": "Binance8",
+    "platforms": {
+        "binance-smart-chain": "0xf62a6268e3164926f8435de771706082c73bebd9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "B8 is a token based on the BSC public chain. The project is mainly used for casino games. B8 plays the role of a bargaining chip in the game. It is circulated and sold in the game. Holding B8 can enjoy a 6% dividend, which is written into the contract. Ownership has been given up. The B8 team hopes to combine tokens and games to realize real value and give digital currency a place in playing and earning games."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf62a6268e3164926f8435de771706082c73bebd9",
+    "url": "https://www.binance8.finance/",
+    "explorers": [
+        "https://www.bscscan.com/token/0xf62a6268e3164926f8435de771706082c73bebd9",
+        "https://bscscan.com/token/0xf62a6268e3164926f8435de771706082c73bebd9"
+    ],
+    "twitter": "Binance_B8",
+    "telegram": "Binance8_EN"
+}

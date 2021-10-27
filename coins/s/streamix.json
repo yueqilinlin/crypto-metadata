@@ -1,0 +1,26 @@
+{
+    "id": "streamix",
+    "symbol": "mixs",
+    "name": "Streamix",
+    "platforms": {
+        "ethereum": "0xb0bfb1e2f72511cf8b4d004852e2054d7b9a76e1",
+        "binance-smart-chain": "0x7f98ae8ed806713175d13d26386b34fa75db8893"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Streamix is a Gamified Social Network & Streaming platform. Streamix is where decentralized finance meets content creators, streamers, gamers, and mass adoption of cryptocurrency begins. Swap you time into crypto with Streamix. At Streamix we are building platform which will let users socialize, post images, post and stream videos, trade crypto, and earn cryptocurrencies as rewards at the same time."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xb0bfb1e2f72511cf8b4d004852e2054d7b9a76e1",
+    "url": "https://streamix.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xB0BFB1E2F72511cF8b4D004852E2054d7b9a76e1",
+        "https://ethplorer.io/address/0xb0bfb1e2f72511cf8b4d004852e2054d7b9a76e1"
+    ],
+    "twitter": "streamixio",
+    "facebook": "streamixio",
+    "telegram": "Streamix",
+    "github_org": "streamix-io"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "welnance-finance",
+    "symbol": "wel",
+    "name": "Welnance Finance",
+    "platforms": {
+        "binance-smart-chain": "0x854b4c305554c5fa72353e31b8480c0e5128a152"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x854b4c305554c5fa72353e31b8480c0e5128a152",
+    "url": "https://welnance.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x854B4c305554c5fa72353e31b8480c0e5128A152"
+    ],
+    "twitter": "WelnanceWorld",
+    "github_org": "Welnance"
+}

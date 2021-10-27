@@ -1,0 +1,27 @@
+{
+    "id": "monavale",
+    "symbol": "mona",
+    "name": "Monavale",
+    "platforms": {
+        "ethereum": "0x275f5ad03be0fa221b4c6649b8aee09a42d9412a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "MONA is the native ERC-20 token for the DIGITALAX platform. It is the platform's utility token and also serves as part of the platform's governance. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x275f5ad03be0fa221b4c6649b8aee09a42d9412a",
+    "url": "https://www.digitalax.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0x275f5Ad03be0Fa221B4C6649B8AeE09a42D9412A",
+        "https://ethplorer.io/address/0x275f5ad03be0fa221b4c6649b8aee09a42d9412a"
+    ],
+    "twitter": "DIGITALAX_",
+    "telegram": "digitalaxTG",
+    "github_org": "DIGITALAX"
+}

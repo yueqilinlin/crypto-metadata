@@ -1,0 +1,23 @@
+{
+    "id": "iron-bank-chf",
+    "symbol": "ibchf",
+    "name": "Iron Bank CHF",
+    "platforms": {
+        "ethereum": "0x1cc481ce2bd2ec7bf67d1be64d4878b16078f309"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fixed Forex is the collective name for USD, EUR, ZAR, JPY, CNY, AUD, AED, CAD, INR, and any other forex pairs launched under the Fixed Forex moniker."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1cc481ce2bd2ec7bf67d1be64d4878b16078f309",
+    "url": "https://fixedforex.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x1CC481cE2BD2EC7Bf67d1Be64d4878b16078F309",
+        "https://ethplorer.io/address/0x1cc481ce2bd2ec7bf67d1be64d4878b16078f309"
+    ],
+    "twitter": "thekeep3r",
+    "github_org": "keep3r-network"
+}

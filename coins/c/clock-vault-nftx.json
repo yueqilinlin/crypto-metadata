@@ -1,0 +1,24 @@
+{
+    "id": "clock-vault-nftx",
+    "symbol": "clock",
+    "name": "CLOCK Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xa4e4ff5a3aea352378a3bfefef13765130909376"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "CLOCK Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa4e4ff5a3aea352378a3bfefef13765130909376",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xA4e4fF5A3AeA352378a3bFefEf13765130909376",
+        "https://ethplorer.io/address/0xa4e4ff5a3aea352378a3bfefef13765130909376"
+    ],
+    "twitter": "NFTX_"
+}

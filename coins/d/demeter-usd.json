@@ -1,0 +1,22 @@
+{
+    "id": "demeter-usd",
+    "symbol": "dusd",
+    "name": "Demeter USD",
+    "platforms": {
+        "huobi-token": "0x9f5c80dc840f9cc60670a20c1e5d0fbd3e13b015"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized cryptocurrency market, collateralized stablecoin, lending market "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9f5c80dc840f9cc60670a20c1e5d0fbd3e13b015",
+    "url": "https://demeter.xyz/",
+    "explorers": [
+        "https://hecoinfo.com/token/0x9F5c80dc840f9cc60670a20c1e5d0fbD3E13B015"
+    ],
+    "twitter": "demetervip",
+    "telegram": "DemeterEN"
+}

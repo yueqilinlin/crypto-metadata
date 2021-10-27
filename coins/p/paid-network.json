@@ -1,0 +1,28 @@
+{
+    "id": "paid-network",
+    "symbol": "paid",
+    "name": "PAID Network",
+    "platforms": {
+        "ethereum": "0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787",
+        "binance-smart-chain": "0xad86d0e9764ba90ddd68747d64bffbd79879a238"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad",
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "PAID Network is a business toolkit for all your needs, encompassing SMART Agreements, escrow, reputation-scoring, dispute arbitration and resolution, as well as DeFi tools such as insurance, borrowing and lending. PAID aims to take the lawyers out of legal contracts, making simple, easy-to-use SMART Agreements available for users. Reputation-scoring tracks user behavior, while escrow and dispute arbitration/resolution ensure PAID users receive the value stipulated in their contract. DeFi tools work in concert with the aforementioned elements to provide a one-stop solution for conducting business transactions."
+    },
+    "country_origin": "PA",
+    "genesis_date": null,
+    "contract_address": "0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787",
+    "url": "https://paidnetwork.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787",
+        "https://ethplorer.io/address/0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787",
+        "https://bscscan.com/token/0xAD86d0E9764ba90DDD68747D64BFfBd79879a238"
+    ],
+    "twitter": "paid_network",
+    "telegram": "paidnetwork"
+}

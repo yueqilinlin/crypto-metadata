@@ -1,0 +1,26 @@
+{
+    "id": "own-token",
+    "symbol": "own",
+    "name": "OWN Token",
+    "platforms": {
+        "ethereum": "0xcc6f15be8573cb8243c42d300565566d328213dd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Charity"
+    ],
+    "description": {
+        "en": "Own Token to raise funds for Charities, Social cause, climate change,natural disastrous, diseases,  new inventions . The funds raised by Own Token go to start-ups first, who in-turn It is the first sustainable charity, and it creates new jobs in start-ups at the same time.\r\n\r\nNow that is a good thing for you, for charities, for start-ups and for the world."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0xcc6f15be8573cb8243c42d300565566d328213dd",
+    "url": "http://owntoken.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0xcc6f15be8573cb8243c42d300565566d328213dd",
+        "https://ethplorer.io/address/0xcc6f15be8573cb8243c42d300565566d328213dd"
+    ],
+    "twitter": "OwnToken",
+    "telegram": "tokenown",
+    "reddit": "owntoken/"
+}

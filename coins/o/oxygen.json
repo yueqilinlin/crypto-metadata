@@ -1,0 +1,27 @@
+{
+    "id": "oxygen",
+    "symbol": "oxy",
+    "name": "Oxygen",
+    "platforms": {
+        "solana": "z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M",
+        "ethereum": "0x965697b4ef02f0de01384d0d4f9f782b1670c163"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "The governance/utility token for Oxygen: the Prime Brokerage Protocol"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M",
+    "url": "https://www.oxygen.org/",
+    "explorers": [
+        "https://explorer.solana.com/address/z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M",
+        "https://etherscan.io/token/0x965697b4ef02f0de01384d0d4f9f782b1670c163",
+        "https://ethplorer.io/address/0x965697b4ef02f0de01384d0d4f9f782b1670c163",
+        "https://solscan.io/token/z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M"
+    ],
+    "twitter": "Oxygen_protocol"
+}

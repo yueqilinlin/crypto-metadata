@@ -1,0 +1,24 @@
+{
+    "id": "dero",
+    "symbol": "dero",
+    "name": "Dero",
+    "platforms": {},
+    "hashing_algorithm": "AstroBWT",
+    "categories": [
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "DERO is the first crypto project to combine a Proof of Work blockchain with a DAG block structure and private transactions using Homomorphic Encryption technology. The distributed ledger processes transactions with a twenty-seven average block time and is secure against 51% attacks. Dero aims to be the first layer one private blockchain to have smart contracts on its native chain. This means no extra layers or secondary blockchains. DERO was written in Golang from scratch to support billions of users with enhanced reliability, privacy, security, and usability. Balances and transactions are private on the DERO blockchain. The goal of the Dero project is to become a blockchain network that can serve a wide variety of users and use cases while allowing for secure, fast and anonymous transactions. In addition to this, it will provide smart contract execution and a secure services model."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-12-05",
+    "url": "https://dero.io/",
+    "explorers": [
+        "https://explorer.dero.io/",
+        "https://explorer.dero.network"
+    ],
+    "twitter": "DeroProject",
+    "telegram": "DeroProjectGroup",
+    "reddit": "DeroProject/",
+    "github_org": "deroproject"
+}

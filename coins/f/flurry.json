@@ -1,0 +1,26 @@
+{
+    "id": "flurry",
+    "symbol": "flurry",
+    "name": "Flurry Finance",
+    "platforms": {
+        "ethereum": "0x60f63b76e2fc1649e57a3489162732a90acf59fe",
+        "binance-smart-chain": "0x47c9bcef4fe2dbcdf3abf508f147f1bbe8d4fef2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FLURRY is the governance token of Flurry protocol, originated by Flurry Finance. Flurry is a DeFi protocol offering cross-chain yield aggregation with rhoToken, which is pegged 1:1 to its underlying stablecoin. It automatically farms for yields across different DeFi protocols without locking up funds or interest earned by diversifying DeFi product risk, resulting in lower gas fees."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x60f63b76e2fc1649e57a3489162732a90acf59fe",
+    "url": "https://www.flurry.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x60f63b76e2fc1649e57a3489162732a90acf59fe",
+        "https://ethplorer.io/address/0x60f63b76e2fc1649e57a3489162732a90acf59fe"
+    ],
+    "twitter": "FlurryFi",
+    "telegram": "FlurryFinance_Official",
+    "reddit": "FlurryFinance/",
+    "github_org": "FlurryFinance"
+}

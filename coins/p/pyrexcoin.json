@@ -1,0 +1,25 @@
+{
+    "id": "pyrexcoin",
+    "symbol": "gpyx",
+    "name": "GoldenPyrex",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Next Generation Anonymous cryptocurrency"
+    },
+    "country_origin": "KZ",
+    "genesis_date": null,
+    "contract_address": "0x3e3cda3218212503883c79f6d2feef29e6bbb87d",
+    "url": "https://gpyx.money/",
+    "explorers": [
+        "https://explorer.pyrexcoin.com/#/",
+        "https://etherscan.io/token/0x3e3cda3218212503883c79f6d2feef29e6bbb87d"
+    ],
+    "twitter": "gpyx3",
+    "telegram": "pyrexplatformint",
+    "reddit": "https://www.reddit.com",
+    "github_org": "pyrex-coin"
+}

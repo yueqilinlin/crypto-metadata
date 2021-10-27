@@ -1,0 +1,31 @@
+{
+    "id": "cryptokek",
+    "symbol": "kek",
+    "name": "Cryptokek",
+    "platforms": {
+        "ethereum": "0x3fa400483487a489ec9b1db29c4129063eec4654",
+        "binance-smart-chain": "0x627524d78b4fc840c887ffec90563c7a42b671fd",
+        "fantom": "0x627524d78b4fc840c887ffec90563c7a42b671fd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "xDAI Ecosystem",
+        "Fantom Ecosystem"
+    ],
+    "description": {
+        "en": "Cryptokek.com is a data analytics suite for cryptocurrencies."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3fa400483487a489ec9b1db29c4129063eec4654",
+    "url": "https://cryptokek.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3fa400483487A489EC9b1dB29C4129063EEC4654",
+        "https://ethplorer.io/address/0x3fa400483487A489EC9b1dB29C4129063EEC4654",
+        "https://ftmscan.com/token/0x627524d78b4fc840c887ffec90563c7a42b671fd",
+        "https://bscscan.com/token/0x627524d78B4fC840C887ffeC90563c7A42b671fD"
+    ],
+    "twitter": "kektoken",
+    "telegram": "cryptok3k"
+}

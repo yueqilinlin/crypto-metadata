@@ -1,0 +1,25 @@
+{
+    "id": "deepcloud-ai",
+    "symbol": "deep",
+    "name": "DeepCloud AI",
+    "platforms": {
+        "ethereum": "0x6cbedec4f1ac9d874987d2769596544e0d9161ab"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Artificial Intelligence"
+    ],
+    "description": {
+        "en": "DeepCloud AI is building an AI driven low latency decentralized cloud infrastructure for next generation of apps and IoT\r\n\r\nWe will provide a spot market for computing and storage resources for enterprise-level users and individuals, for the purpose of sharing their excess capacity on our decentralized cloud, and with our AI matching engine. Applications will execute in a secure sandbox on the peer-to-peer resources, and all transactions are managed on the blockchain via smart contracts.\r\n\r\nWe will also offer a DApps marketplace for developers with pre-validated applications to speed up the development of their end to end solutions."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x6cbedec4f1ac9d874987d2769596544e0d9161ab",
+    "url": "https://www.deepcloudai.com",
+    "explorers": [
+        "https://etherscan.io/token/0x6CbEDEc4F1ac9D874987D2769596544E0d9161ab",
+        "https://ethplorer.io/address/0x6cbedec4f1ac9d874987d2769596544e0d9161ab"
+    ],
+    "twitter": "DeepCloud_AI",
+    "telegram": "deepcloud_ai"
+}

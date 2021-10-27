@@ -1,0 +1,25 @@
+{
+    "id": "hitbtc-token",
+    "symbol": "hit",
+    "name": "HitBTC Token",
+    "platforms": {
+        "ethereum": "0x74b1af114274335598da72f5c6ed7b954a016eed"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HIT is the utility token of the largest spot trading exchange in the industry with over 800 trading pairs and 400+ spot instruments.\r\nWe have created HIT to provide you seamless HitBTC experience and exclusive benefits for our upcoming products."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x74b1af114274335598da72f5c6ed7b954a016eed",
+    "url": "https://hitbtc.com/hit",
+    "explorers": [
+        "https://etherscan.io/token/0x74b1af114274335598da72f5c6ed7b954a016eed",
+        "https://ethplorer.io/address/0x74b1af114274335598da72f5c6ed7b954a016eed"
+    ],
+    "twitter": "hitbtc",
+    "facebook": "hitbtc",
+    "telegram": "EN_HitBTC",
+    "reddit": "hitbtc/"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "chads-vc",
+    "symbol": "chads",
+    "name": "CHADS VC",
+    "platforms": {
+        "ethereum": "0x69692d3345010a207b759a7d1af6fc7f38b35c5e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "The CHADS token is a social experiment designed to teach virgins how to trade like a chad.  It is a deflationary coin utilizing a novel burn curve mechanism. The lower the price you sell or transfer CHADS, the more of your tokens are burnt."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x69692d3345010a207b759a7d1af6fc7f38b35c5e",
+    "url": "https://chads.vc",
+    "explorers": [
+        "https://etherscan.io/token/0x69692D3345010a207b759a7D1af6fc7F38b35c5E",
+        "https://ethplorer.io/address/0x69692d3345010a207b759a7d1af6fc7f38b35c5e"
+    ],
+    "twitter": "chadsvc",
+    "telegram": "chads_vc"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "bankless-bed-index",
+    "symbol": "bed",
+    "name": "Bankless BED Index",
+    "platforms": {
+        "ethereum": "0x2af1df3ab0ab157e1e2ad8f88a7d04fbea0c7dc6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The BED index is meant to track crypto\u2019s top 3 investable assets.\r\n\r\nThe proposed index is a full portfolio solution intended for beginners, or as part of a core-satellite construction for more advanced investors.\r\n\r\nIt seeks to give safe, passive access to a vehicle which captures equal-weighted upside from the most promising use cases and candidates around the theme of blockchain as a generationally disruptive technology: store of value, programmable money, and decentralized finance.\r\n\r\nBankless brings a strong reputation and expertise to the table and has an audience which represents the core personas this index seeks to serve. We have referred to this construction as the Bankless portfolio in the past.\r\n\r\nThe BED meme, a theoretical index now potentially brought to life by Index Coop, has captured the hearts of the Ethereum community. BED and Bankless have great brand recognition amongst our target personas and we expect Bankless can use it\u2019s media platform spanning video, podcasts, and articles to educate newcomers on the assets in the BED index.\r\n\r\nThe composition would be:\r\n\r\n33% Bitcoin\r\n\r\n33% Ether\r\n\r\n33% DPI\r\n\r\nRebalanced on a monthly basis"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2af1df3ab0ab157e1e2ad8f88a7d04fbea0c7dc6",
+    "url": "https://www.indexcoop.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x2af1df3ab0ab157e1e2ad8f88a7d04fbea0c7dc6",
+        "https://ethplorer.io/address/0x2af1df3ab0ab157e1e2ad8f88a7d04fbea0c7dc6"
+    ],
+    "twitter": "indexcoop"
+}

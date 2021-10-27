@@ -1,0 +1,22 @@
+{
+    "id": "moneytree",
+    "symbol": "money",
+    "name": "MoneyTree",
+    "platforms": {
+        "binance-smart-chain": "0x2d5b21074d81ae888c01722ec0657f20521be893"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Money Tree is a fair & fun deflationary blockchain gaming platform. Players keep 100% of the prizes in all of our statistically fair mini-game; there's no house-edge and no cuts are taken. Our 1 million NFTs have been randomly generated and are hosted on IPFS, these NFTs can be traded as well as upgraded and generate dividends for holders of Money Tree. All holders of Money Tree are also automatically entered for free in to a weekly lottery which pays out in BUSD. All of our games utilise Chainlink VRF."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2d5b21074d81ae888c01722ec0657f20521be893",
+    "url": "https://moneytreecoin.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x2d5b21074d81ae888c01722ec0657f20521be893"
+    ],
+    "twitter": "MoneyTreeCoin",
+    "telegram": "MoneyTreeCoin"
+}

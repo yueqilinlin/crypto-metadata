@@ -1,0 +1,25 @@
+{
+    "id": "dei-token",
+    "symbol": "dei",
+    "name": "DEI Token",
+    "platforms": {
+        "ethereum": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
+        "polygon-pos": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DEI is an advanced algorithmic cross-chain fractional-reserve stablecoin, with one native bridge that will connect to all chains within the DEUS ecosystem.\r\n\r\nDEI\u2019s composition is free-flowing, comprising roughly 10% DEUS tokens and 90% of another trusted stable, depending on the chain in question. The collateral ratio of DEI is constantly monitored and adjusted via arbitrage bots.\r\n\r\nDEI\u2019s mission is to bridge liquidity across all blockchains in a scalable and decentralized way. DEI will enable users to send a stablecoin to any chain and claim it on the other side with no slippage."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
+    "url": "https://deus.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3",
+        "https://ethplorer.io/address/0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3"
+    ],
+    "twitter": "DeusDao",
+    "telegram": "deusfinance",
+    "github_org": "deusfinance"
+}

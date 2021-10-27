@@ -1,0 +1,20 @@
+{
+    "id": "monspac",
+    "symbol": "mspc",
+    "name": "Monspac",
+    "platforms": {
+        "binance-smart-chain": "0xba509bdb71a29301860800e13867b59b461747af"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Monspac is a distributed data storage public chain without any central node. Its computing power depends on the calculation, storage and bandwidth shared by miners. \r\nWith blockchain technology, Monspac expects to establish a brand new global storage system that replaces the centralized storage mechanism. As a product of the new era, Monspac integrated cutting-edge technologies such as dual Sidechain Blockchain, Cross-chain, and smart contracts. The construction of the Monspac network aims to break the barriers on blockchain data, enable large-scale commercial applications, and build a new blockchain 3.0 ecosystem to empower the Web3.0 era."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xba509bdb71a29301860800e13867b59b461747af",
+    "url": "https://mspc.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xba509bdb71a29301860800e13867b59b461747af"
+    ]
+}

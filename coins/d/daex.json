@@ -1,0 +1,27 @@
+{
+    "id": "daex",
+    "symbol": "dax",
+    "name": "DAEX",
+    "platforms": {
+        "ethereum": "0x0b4bdc478791897274652dc15ef5c135cae61e60"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "DAEX is a clearing solution for centralized cryptocurrency trading exchanges. Its clearing service is based on distributed ledger technology. Clearing and settlement rules are preprogrammed into clearing smart contracts on the DAEX clearing chain. The clearing process is automatic without people\u2019s interference. The objectivity of clearing is guaranteed by the consensus mechanism on the clearing chain. Also, customers\u2019 digital assets are registered and stored on the DAEX\u2019s clearing chain. No other institutions or individuals can access these assets without the owner\u2019s permission.\r\n      "
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0x0b4bdc478791897274652dc15ef5c135cae61e60",
+    "url": "https://www.daex.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x0b4bdc478791897274652dc15ef5c135cae61e60",
+        "https://ethplorer.io/address/0x0b4bdc478791897274652dc15ef5c135cae61e60"
+    ],
+    "twitter": "daexblockchain",
+    "facebook": "daexblockchain",
+    "telegram": "DAEXOfficial_en",
+    "reddit": "DAEX_Blockchain/"
+}

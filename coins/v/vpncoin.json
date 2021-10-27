@@ -1,0 +1,20 @@
+{
+    "id": "vpncoin",
+    "symbol": "vash",
+    "name": "VPNCoin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2014-09-04",
+    "url": "http://www.bitnet.cc/",
+    "explorers": [
+        "http://blockexperts.com/vpn"
+    ],
+    "twitter": "vpn_dev",
+    "facebook": "BitNetTeam",
+    "github_org": "Bit-Net"
+}

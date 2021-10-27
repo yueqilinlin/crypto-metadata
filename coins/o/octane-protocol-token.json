@@ -1,0 +1,23 @@
+{
+    "id": "octane-protocol-token",
+    "symbol": "octane",
+    "name": "Octane Protocol Token",
+    "platforms": {
+        "binance-smart-chain": "0x5416ab2b4b5a40f740b67a83dc5939591b5c08be"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Octane is a decentralized limit order protocol on Binance Smart Chain. \r\n\r\nOctane brings the best of limit orders making them more smart and rewarding with the added benefits of decentralized finance. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5416ab2b4b5a40f740b67a83dc5939591b5c08be",
+    "url": "https://octane.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x5416AB2B4B5a40F740B67a83dc5939591B5c08BE"
+    ],
+    "twitter": "octane_finance",
+    "telegram": "octanefinance",
+    "github_org": "octanefinance"
+}

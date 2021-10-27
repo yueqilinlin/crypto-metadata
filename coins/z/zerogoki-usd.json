@@ -1,0 +1,28 @@
+{
+    "id": "zerogoki-usd",
+    "symbol": "zusd",
+    "name": "Zerogoki USD",
+    "platforms": {
+        "ethereum": "0x76417e660df3e5c90c0361674c192da152a806e4",
+        "binance-smart-chain": "0x92d499e9953979c1a18ae6ff1e952f2cfbdd172d",
+        "polygon-pos": "0x5668f6d40e15188045a1de6295054103c13ffac1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x76417e660df3e5c90c0361674c192da152a806e4",
+    "url": "https://zerogoki.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x76417e660df3e5c90c0361674c192da152a806e4",
+        "https://ethplorer.io/address/0x76417e660df3e5c90c0361674c192da152a806e4",
+        "https://bscscan.com/token/0x92d499e9953979c1a18ae6ff1e952f2cfbdd172d",
+        "https://polygonscan.com/token/0x5668f6d40e15188045a1de6295054103c13ffac1"
+    ],
+    "twitter": "0Zerogoki",
+    "telegram": "zerogokigroup",
+    "github_org": "duet-protocol"
+}

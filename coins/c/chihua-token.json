@@ -1,0 +1,25 @@
+{
+    "id": "chihua-token",
+    "symbol": "chihua",
+    "name": "Chihua Token",
+    "platforms": {
+        "ethereum": "0x26ff6d16549a00ba8b36ce3159b5277e6e798d18",
+        "binance-smart-chain": "0x26ff6d16549a00ba8b36ce3159b5277e6e798d18"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x26ff6d16549a00ba8b36ce3159b5277e6e798d18",
+    "url": "https://www.chihuatoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x26ff6d16549a00ba8b36ce3159b5277e6e798d18",
+        "https://ethplorer.io/address/0x26ff6d16549a00ba8b36ce3159b5277e6e798d18",
+        "https://bscscan.com/token/0x26ff6d16549a00ba8b36ce3159b5277e6e798d18"
+    ],
+    "twitter": "chihuatoken",
+    "telegram": "chihuatoken"
+}

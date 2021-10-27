@@ -1,0 +1,24 @@
+{
+    "id": "global-human-trust",
+    "symbol": "ght",
+    "name": "Global Human Trust",
+    "platforms": {
+        "ethereum": "0xbe30f684d62c9f7883a75a29c162c332c0d98f23"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The blockchain system to verify the trust of people-people and people-systems\r\nWe\u2019ve built a platform to bring the trust to the world. GHT emerges in the era of Blockchain to strengthen the bottom and interactive layer of the chain of cryptocurrency."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbe30f684d62c9f7883a75a29c162c332c0d98f23",
+    "url": "https://ght.dtsgroup.co.nz",
+    "explorers": [
+        "https://etherscan.io/token/0xbe30f684d62c9f7883a75a29c162c332c0d98f23",
+        "https://ethplorer.io/address/0xbe30f684d62c9f7883a75a29c162c332c0d98f23"
+    ],
+    "twitter": "GlobaHumanTrust",
+    "telegram": "GlobalGHTCommunity",
+    "github_org": "ght-dtsgroup"
+}

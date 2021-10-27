@@ -1,0 +1,33 @@
+{
+    "id": "sifchain",
+    "symbol": "erowan",
+    "name": "Sifchain",
+    "platforms": {
+        "ethereum": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
+        "polygon-pos": "0xa7051c5a22d963b81d71c2ba64d46a877fbc1821"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem",
+        "Decentralized Exchange Token (DEX)",
+        "Automated Market Maker (AMM)",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "Sifchain is the brainchild of Sif, the Norse goddess of earth, agriculture, fertility, family, and marriage. She brings abundance, pleasure, and wisdom wherever she goes. She has blessed a hearty band of 21st century humans with the task of instantiating Sifchain in our universe.\r\n\r\nSif represents the collaborative nature of the blockchain industry and the lush rewards that can be found in cultivating connections between multiple other chains. The vision of her moving gracefully through her fields, harvesting a bountiful array of crops, the culmination of all of her hard work and forethought, is what we strive to reproduce in our work on Sifchain. We hope you\u2019ll join us in these noble pursuits."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
+    "url": "https://sifchain.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
+        "https://ethplorer.io/address/0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
+        "https://polygonscan.com/token/0xa7051c5a22d963b81d71c2ba64d46a877fbc1821",
+        "https://www.mintscan.io/sifchain"
+    ],
+    "twitter": "sifchain",
+    "telegram": "sifchainann",
+    "github_org": "Sifchain"
+}

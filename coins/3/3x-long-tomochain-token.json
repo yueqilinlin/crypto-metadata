@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-tomochain-token",
+    "symbol": "tomobull",
+    "name": "3X Long TomoChain Token",
+    "platforms": {
+        "ethereum": "0xa38920c00d1a5303db538a3ea08da7a779e1f751"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long TomoChain Token (TOMOBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of TomoChain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa38920c00d1a5303db538a3ea08da7a779e1f751",
+    "url": "https://ftx.com/tokens/TOMOBULL",
+    "explorers": [
+        "https://etherscan.io/token/0xa38920C00D1a5303dB538A3Ea08da7a779e1F751",
+        "https://ethplorer.io/address/0xa38920c00d1a5303db538a3ea08da7a779e1f751"
+    ]
+}

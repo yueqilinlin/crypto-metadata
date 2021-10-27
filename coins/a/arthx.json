@@ -1,0 +1,25 @@
+{
+    "id": "arthx",
+    "symbol": "arthx",
+    "name": "ARTHX",
+    "platforms": {
+        "polygon-pos": "0xd354d56dae3588f1145dd664bc5094437b889d6f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "The ARTHX token is the third token in the MahaDAO protocol that allows the ARTH platform to scale efficiently. It is a special token designed to absorb the volatility of the ARTH token.\r\n\r\nARTHX is minted when a user decides to deposit collateral into the protocol to mint ARTH tokens. ARTHX is burned when a user decides to withdraw collateral from the protocol by burning ARTH tokens. \r\n\r\nARTHX besides having a utility within the ARTH ecosystem is also designed to be a deflationary token. When a user transacts with ARTHX by sending it from one wallet to another, a transaction fee is charged which is then redirected towards the staking pools or burnt off from the supply.\r\n\r\nThere is no max supply for the ARTHX token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd354d56dae3588f1145dd664bc5094437b889d6f",
+    "url": "https://arthcoin.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0xd354d56dae3588f1145dd664bc5094437b889d6f"
+    ],
+    "twitter": "TheMahaDAO",
+    "telegram": "MahaDAO",
+    "github_org": "mahadao"
+}

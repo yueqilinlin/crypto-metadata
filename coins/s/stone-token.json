@@ -1,0 +1,27 @@
+{
+    "id": "stone-token",
+    "symbol": "stn",
+    "name": "Stone Token",
+    "platforms": {
+        "ethereum": "0xe63d6b308bce0f6193aec6b7e6eba005f41e36ab",
+        "fantom": "0xfa9343c3897324496a05fc75abed6bac29f8a40f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Stone is a cross chain income aggregation platform based on POS asset liquidity token, focusing on the construction of income and liquidity aggregation platform, expanding into passive income platform, liquidity POS income platform, cross chain strategy platform and risk-adjusted index investment platform."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xe63d6b308bce0f6193aec6b7e6eba005f41e36ab",
+    "url": "https://www.stonedefi.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xe63d6B308BCe0F6193AeC6b7E6eBa005f41e36AB",
+        "https://ethplorer.io/address/0xe63d6B308BCe0F6193AeC6b7E6eBa005f41e36AB"
+    ],
+    "twitter": "DefiStone",
+    "telegram": "stonefortress",
+    "github_org": "stonedefi"
+}

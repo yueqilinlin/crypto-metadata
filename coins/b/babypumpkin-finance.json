@@ -1,0 +1,23 @@
+{
+    "id": "babypumpkin-finance",
+    "symbol": "bump",
+    "name": "BabyPumpkin Finance",
+    "platforms": {
+        "binance-smart-chain": "0x6401b1630b065db49c8f545384c652acd7a9fc7a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6401b1630b065db49c8f545384c652acd7a9fc7a",
+    "url": "https://babypumpkin.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x6401b1630b065db49c8f545384c652acd7a9fc7a"
+    ],
+    "twitter": "babypumpkindefi",
+    "telegram": "BabyPumpkinOfficial",
+    "reddit": "BabyPumpkinFinance/"
+}

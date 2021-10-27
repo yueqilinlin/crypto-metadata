@@ -1,0 +1,22 @@
+{
+    "id": "rhinos-finance",
+    "symbol": "rho",
+    "name": "Rhinos Finance",
+    "platforms": {
+        "binance-smart-chain": "0xabd29a5a984c97737707cc68d38c2903b8811061"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RHINOS FLYLAND is a game built on blockchain that allows players to earn income by breeding, training, battling, and trading digital pets, called RINOs. The more powerful RINOs you own, the more money you will make by selling them on the Marketplace."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xabd29a5a984c97737707cc68d38c2903b8811061",
+    "url": "https://rhinos.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xabd29a5a984c97737707cc68d38c2903b8811061"
+    ],
+    "twitter": "RhinosFinance",
+    "telegram": "Rhinosthegoatkillers"
+}

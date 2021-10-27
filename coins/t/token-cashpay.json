@@ -1,0 +1,26 @@
+{
+    "id": "token-cashpay",
+    "symbol": "tcp",
+    "name": "Token CashPay",
+    "platforms": {
+        "ethereum": "0x331a4589516eae384ea5f557853af6af73b9534e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Charity"
+    ],
+    "description": {
+        "en": "or participation in tenders, for exchanging for fiat, for paying for services on playgrounds, for replenishing deposits in bookmakers, online casinos, electronic wallets, etc."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0x331a4589516eae384ea5f557853af6af73b9534e",
+    "url": "https://tcpcoins.net",
+    "explorers": [
+        "https://etherscan.io/token/0x331A4589516EAE384eA5F557853AF6aF73B9534e",
+        "https://ethplorer.io/address/0x331A4589516EAE384eA5F557853AF6aF73B9534e"
+    ],
+    "twitter": "CashPay13",
+    "facebook": "TCashPay",
+    "telegram": "fatygroup"
+}

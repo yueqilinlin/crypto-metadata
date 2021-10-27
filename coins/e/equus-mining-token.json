@@ -1,0 +1,24 @@
+{
+    "id": "equus-mining-token",
+    "symbol": "eqmt",
+    "name": "Equus Mining Token",
+    "platforms": {
+        "ethereum": "0xa462d0e6bb788c7807b1b1c96992ce1f7069e195"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Equus Mining Token is used to generate/mine Equus Governance Tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa462d0e6bb788c7807b1b1c96992ce1f7069e195",
+    "url": "https://www.equus.dev",
+    "explorers": [
+        "https://etherscan.io/token/0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195",
+        "https://ethplorer.io/address/0xa462d0e6bb788c7807b1b1c96992ce1f7069e195"
+    ],
+    "twitter": "equusprotocol",
+    "telegram": "equus_protocol",
+    "github_org": "equusprotocol"
+}

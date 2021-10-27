@@ -1,0 +1,28 @@
+{
+    "id": "cat-token",
+    "symbol": "cat",
+    "name": "Cat Token",
+    "platforms": {
+        "ethereum": "0x56015bbe3c01fe05bc30a8a9a9fd9a88917e7db3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "We are a community meme token who happens to love cats. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x56015bbe3c01fe05bc30a8a9a9fd9a88917e7db3",
+    "url": "http://www.thecattoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x56015bbe3c01fe05bc30a8a9a9fd9a88917e7db3",
+        "https://ethplorer.io/address/0x56015bbe3c01fe05bc30a8a9a9fd9a88917e7db3"
+    ],
+    "twitter": "mooncatcrypto",
+    "telegram": "mycattoken",
+    "reddit": "https://www.reddit.com",
+    "github_org": "cattoken"
+}

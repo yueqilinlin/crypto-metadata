@@ -1,0 +1,22 @@
+{
+    "id": "metal-packaging-token",
+    "symbol": "mpt",
+    "name": "Metal Packaging Token",
+    "platforms": {
+        "eos": null
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Metal Packaging Token is a blockchain-based solution to improve cost-effectiveness within the metal packaging industry."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://www.metpacktoken.org/",
+    "explorers": [
+        "https://eosflare.io/token/metpacktoken/MPT"
+    ],
+    "twitter": "MetPackToken",
+    "reddit": "MetalPackagingToken/",
+    "github_org": "metpacktoken"
+}

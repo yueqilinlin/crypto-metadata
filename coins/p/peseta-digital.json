@@ -1,0 +1,21 @@
+{
+    "id": "peseta-digital",
+    "symbol": "ptd",
+    "name": "Peseta Digital",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Peseta Digital is inspired form Litecoin but is created to focus on the Spanish market. "
+    },
+    "country_origin": "",
+    "genesis_date": "2014-01-06",
+    "url": "https://www.pesetadigital.es/",
+    "explorers": [
+        "https://chainz.cryptoid.info/ptc/"
+    ],
+    "twitter": "PesetaDigital",
+    "facebook": "peseta.coin",
+    "reddit": "officialpesetacoin",
+    "github_org": "FundacionPesetacoin"
+}

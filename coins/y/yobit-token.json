@@ -1,0 +1,24 @@
+{
+    "id": "yobit-token",
+    "symbol": "yo",
+    "name": "Yobit Token",
+    "platforms": {
+        "ethereum": "0xebf4ca5319f406602eeff68da16261f1216011b5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "Official Token of Yobit.Net Exchange"
+    },
+    "country_origin": "PA",
+    "genesis_date": null,
+    "contract_address": "0xebf4ca5319f406602eeff68da16261f1216011b5",
+    "url": "https://yobit.net/en/",
+    "explorers": [
+        "https://etherscan.io/token/0xebf4ca5319f406602eeff68da16261f1216011b5",
+        "https://ethplorer.io/address/0xebf4ca5319f406602eeff68da16261f1216011b5"
+    ],
+    "twitter": "YobitExchange"
+}

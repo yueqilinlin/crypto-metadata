@@ -1,0 +1,25 @@
+{
+    "id": "cryptobet",
+    "symbol": "cbet",
+    "name": "CryptoBet",
+    "platforms": {
+        "ethereum": "0x35dd2ebf20746c6e658fac75cd80d4722fae62f6"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "Casino Cashback Rewards Coin"
+    },
+    "country_origin": "ZZ",
+    "genesis_date": null,
+    "contract_address": "0x35dd2ebf20746c6e658fac75cd80d4722fae62f6",
+    "url": "http://www.cryptobet.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x35dd2ebf20746C6e658fac75cd80D4722fae62f6",
+        "https://ethplorer.io/address/0x35dd2ebf20746C6e658fac75cd80D4722fae62f6"
+    ],
+    "twitter": "cryptobetcom",
+    "telegram": "cryptobetcom"
+}

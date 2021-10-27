@@ -1,0 +1,25 @@
+{
+    "id": "bittwatt",
+    "symbol": "bwt",
+    "name": "Bittwatt",
+    "platforms": {
+        "ethereum": "0xca3ea3061d638e02113aa960340c98343b5acd62"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bittwatt is a matchmaking platform that connects all market players (from DSOs to consumers) and provides a standardized blockchain protocol for sharing relevant business information, all the while creating a decentralized service for energy supply, billing and balancing. \r\n\r\nThe Bittwatt Platform is built to make do without useless bureaucracy by syncing consumption metrics and other relevant information within the blockchain. Bittwatt streamlines current-day operations by removing operational costs and transfer fees, all this within an automated workflow that also optimizes energy transfers on an hourly basis: it transforms normal consumers into smart consumers. \r\n\r\nOn top of that, Bittwatt is built with sustainability in mind: as yield on energy is increased through the Bittwatt blockchain for all participants, energy waste and misuse are stamped out.\r\n\r\nOur platform streamlines demand-response mechanisms in the grid through seamless transactions that aren\u2019t subject to issues of trust \u2013 all that thanks to blockchain technology. \r\n\r\nBittwatt encapsulates a series of core capabilities that enable scaling around the needs of each brand or each location in its network. With Bittwatt, power plants, suppliers, consumers and other operators can contribute in ensuring energy is no longer wasted. \r\n\r\nThe system also empowers all participants in creating sustainable and environment-friendly energy practices, that don\u2019t compromise on modern-day human comfort."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xca3ea3061d638e02113aa960340c98343b5acd62",
+    "url": "https://ico.bittwatt.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xf53c580bc4065405bc649cc077ff4f2f28528f4b",
+        "https://ethplorer.io/address/0xf53c580bc4065405bc649cc077ff4f2f28528f4b"
+    ],
+    "twitter": "BittwattPteLtd",
+    "telegram": "bittwatt",
+    "reddit": "Bittwatt/",
+    "github_org": "bittwatt"
+}

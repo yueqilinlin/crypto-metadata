@@ -1,0 +1,23 @@
+{
+    "id": "safebreastinu",
+    "symbol": "breast",
+    "name": "SafeBreastInu",
+    "platforms": {
+        "ethereum": "0x77a2bf0bda9775fb3524a6720dd3b16bd455e2c2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Half dog and half astronaut that donates and brings awareness to breast cancer."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x77a2bf0bda9775fb3524a6720dd3b16bd455e2c2",
+    "url": "https://safebreast.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x77a2bf0bda9775fb3524a6720dd3b16bd455e2c2",
+        "https://ethplorer.io/address/0x77a2bf0bda9775fb3524a6720dd3b16bd455e2c2"
+    ],
+    "twitter": "SafeBreastInu",
+    "telegram": "SafeBreast"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "polkafoundry",
+    "symbol": "pkf",
+    "name": "PolkaFoundry",
+    "platforms": {
+        "ethereum": "0x8b39b70e39aa811b69365398e0aace9bee238aeb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "What Is PolkaFoundry (PKF)?\r\nPolkaFoundry is a platform for building DeFi dapps for the Polkadot ecosystem. It includes:\r\n\r\nA blockchain which is built on Substrate, is EVM-compatible, and supports several UX-enabling features for dApps. The blockchain will work as a Polkadot parachain or parathread.\r\nA bunch of DeFi-friendly services for dapp builders. These include both built-in services and integration with external ones.\r\nWho is behind PolkaFoundry?\r\nPolkaFoundry was founded back in 2018 by Thi Truong, who was then a key member of Kyber Network's core team.\r\n\r\nThe PolkaFoundry team now consists of 20+ members located in several countries including Singapore, Vietnam, Japan, Canada, and India.\r\n\r\nAdvisory board includes the DuckDAO leaders; Garlam Won who is behind the marketing of Harmony, Mantra DAO, Kylin; and Lester Lim - founder of X21 Digital.\r\n\r\nWho is backing PolkaFoundry?\r\nPolkaFoundry has completed a $1.9M Private Sale Round, backed by DuckDAO, Signum Capital, Master Ventures, AU21 Capital, BlockDream Fund, Magnus Capital, X21 Digital, Rarestone Capital, PNYX Ventrues, and several other renown ventures.\r\n\r\nWhat Makes PolkaFoundry Unique?\r\nLeveraging the interoperability and scalability of the Substrate framework and the growing ecosystem of Polkadot\r\nEVM compatible, strait-forward to migrate DeFi dapps from Ethereum\r\nCome with DeFi-friendly services\r\nBuilt-in UX-enabling features which allow developers to build frictionless-UX so that dapps can approach normal people outside the crypto community. This is the key point for blockchain to reach mass adoption.\r\nWhat is the Tokenomics of PolkaFoundry (PKF) Tokens?\r\nToken Name: PolkaFoundry\r\nToken Symbol: PKF\r\nTotal Supply: 200,000,000\r\nPKF token is an Ethereum's ERC-20 token. In the future, when PolkaFoundry blockchain launches the mainnet, PKF token holders can swap ERC-20 PKF token for native PKF coin at the rate of 1 for 1.\r\n\r\nToken Utility:\r\n\r\nPayment for transaction fees\r\nStaking for collators to earn share of block rewards\r\nStaking to participate in the on-chain governance process and earn rewards for voting on proposals\r\nPayment for PolkaFoundry & partners' services"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+    "url": "https://polkafoundry.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+        "https://ethplorer.io/address/0x8b39b70e39aa811b69365398e0aace9bee238aeb"
+    ],
+    "twitter": "polkafoundry",
+    "telegram": "polkafoundry",
+    "github_org": "polkafoundry"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "dogebtc",
+    "symbol": "dogebtc",
+    "name": "DogeBTC",
+    "platforms": {
+        "binance-smart-chain": "0xb3fa62ed37e885e3f6b98f1bf9eaa724bb9aff39"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Earn BTC while Holding DogeBTC\r\nYes, our distribution is BITCOIN! 10% will be re-distributed among our community! \ud83d\udcb0"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xb3fa62ed37e885e3f6b98f1bf9eaa724bb9aff39",
+    "url": "https://dogebtc.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xb3fa62eD37e885e3F6b98F1Bf9EAa724BB9afF39"
+    ],
+    "twitter": "therealdogebtc",
+    "telegram": "TheRealDogeBTC",
+    "reddit": "TheRealDogeBTC/"
+}

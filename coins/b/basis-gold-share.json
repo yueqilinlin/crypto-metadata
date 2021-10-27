@@ -1,0 +1,24 @@
+{
+    "id": "basis-gold-share",
+    "symbol": "bsgs",
+    "name": "Basis Gold Share",
+    "platforms": {
+        "ethereum": "0xa9d232cc381715ae791417b624d7c4509d2c28db"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Basis Gold Shares \u2014 receive BSG during supply expansions when the price is above the target."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa9d232cc381715ae791417b624d7c4509d2c28db",
+    "url": "https://basis.gold/",
+    "explorers": [
+        "https://etherscan.io/token/0xA9d232cC381715aE791417B624D7C4509D2c28DB",
+        "https://ethplorer.io/address/0xa9d232cc381715ae791417b624d7c4509d2c28db"
+    ],
+    "twitter": "GoldBasis",
+    "telegram": "GoldBasis",
+    "github_org": "build-finance"
+}

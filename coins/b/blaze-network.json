@@ -1,0 +1,24 @@
+{
+    "id": "blaze-network",
+    "symbol": "BLZN",
+    "name": "Blaze Network",
+    "platforms": {
+        "ethereum": "0x70efdc485a10210b056ef8e0a32993bc6529995e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Blaze Network is a deflationary token which burns 2% on each transaction. It has a unique usercase which other deflationary don't have."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x70efdc485a10210b056ef8e0a32993bc6529995e",
+    "url": "https://www.blazenetwork.online/",
+    "explorers": [
+        "https://etherscan.io/token/0x70eFDc485a10210B056eF8e0A32993Bc6529995E",
+        "https://ethplorer.io/address/0x70efdc485a10210b056ef8e0a32993bc6529995e"
+    ],
+    "twitter": "BlazeNetwork10",
+    "telegram": "BlazeNetworkCom",
+    "github_org": "blazenetw"
+}

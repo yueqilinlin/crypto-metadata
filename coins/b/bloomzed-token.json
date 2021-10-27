@@ -1,0 +1,25 @@
+{
+    "id": "bloomzed-token",
+    "symbol": "blct",
+    "name": "Bloomzed Loyalty Club Ticket",
+    "platforms": {
+        "ethereum": "0x6d2c508fc4a588a41713ff59212f85489291d244"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BZT or Bloomzed Token is a cryptocurrency token, which is a \u201cticket\u201d to the closed part of the BZT Loyalty Club. By uploading 10 BZT membership tokens, you can become a member of the closed part of the club and get access to the tools available only to members of the closed part of the club.\r\n\r\n In fact, membership tokens are a tool that identifies the involvement in the closed part of the club and allows to get the corresponding opportunities, privileges according to the rules of participation in the BZT Loyalty Club.\r\n\r\nThe BZT tokens uploaded into the system are to be returned in accordance with the rules of participation in the BZT Loyalty Club.\r\n\r\nBZT tokens are issued by smart contract of the ERC 20 standard."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6d2c508fc4a588a41713ff59212f85489291d244",
+    "url": "https://bloomzed.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x6d2c508fc4a588a41713ff59212f85489291d244",
+        "https://ethplorer.io/address/0x6d2c508fc4a588a41713ff59212f85489291d244"
+    ],
+    "twitter": "BloomzedInfo",
+    "facebook": "bloomzedinfo",
+    "telegram": "bloomzed",
+    "reddit": "Bloomzed/"
+}

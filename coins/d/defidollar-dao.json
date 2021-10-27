@@ -1,0 +1,27 @@
+{
+    "id": "defidollar-dao",
+    "symbol": "dfd",
+    "name": "DefiDollar DAO",
+    "platforms": {
+        "ethereum": "0x20c36f062a31865bed8a5b1e512d9a1a20aa333a",
+        "binance-smart-chain": "0x9899a98b222fcb2f3dbee7df45d943093a4ff9ff"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "DFD is DefiDollar's governance token in which holders will be able to participate in protocol governance and act as a backstop for $DUSD to mitigate large peg deviations."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x20c36f062a31865bed8a5b1e512d9a1a20aa333a",
+    "url": "https://app.dusd.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x20c36f062a31865bED8a5B1e512D9a1A20AA333A",
+        "https://ethplorer.io/address/0x20c36f062a31865bed8a5b1e512d9a1a20aa333a"
+    ],
+    "twitter": "defidollar",
+    "telegram": "defidollar_community",
+    "github_org": "defidollar"
+}

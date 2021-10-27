@@ -1,0 +1,23 @@
+{
+    "id": "baby-boxer",
+    "symbol": "bboxer",
+    "name": "Baby Boxer",
+    "platforms": {
+        "binance-smart-chain": "0xed7ed82d5a0f1b363309223975f899e7bed5fea6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Baby Boxer is is a utility token on the Binance Smart Chain and is part of the Boxer Ecosystem. It has a 10% tax on every transfer. Part of that tax is burned forever making Baby Boxer a deflationary cryptocurrency asset."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0xed7ed82d5a0f1b363309223975f899e7bed5fea6",
+    "url": "https://babyboxer.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xed7ed82d5a0f1b363309223975f899e7bed5fea6"
+    ],
+    "twitter": "BoxerInuFinance",
+    "telegram": "BoxerInuOfficial",
+    "github_org": "BoxerInuOfficial"
+}

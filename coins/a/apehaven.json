@@ -1,0 +1,25 @@
+{
+    "id": "apehaven",
+    "symbol": "apes",
+    "name": "ApeHaven",
+    "platforms": {
+        "ethereum": "0x14dd7ebe6cb084cb73ef377e115554d47dc9d61e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x14dd7ebe6cb084cb73ef377e115554d47dc9d61e",
+    "url": "https://www.apehaven.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x14dd7ebe6cb084cb73ef377e115554d47dc9d61e",
+        "https://ethplorer.io/address/0x14dd7ebe6cb084cb73ef377e115554d47dc9d61e"
+    ],
+    "twitter": "ApeHaven",
+    "telegram": "ApeHaven",
+    "reddit": "ApeHaven/",
+    "github_org": "apehaven"
+}

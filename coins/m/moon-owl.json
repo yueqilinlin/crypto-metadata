@@ -1,0 +1,22 @@
+{
+    "id": "moon-owl",
+    "symbol": "mowl",
+    "name": "Moon Owl",
+    "platforms": {
+        "polygon-pos": "0x9c9c3d859a4c0dd0505ae57714f3231fe8a07149"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MoonOwl is a charity-oriented DeFi project built on multiple dApp oriented blockchain ecosystems\u2013currently Polygon\u2013with plans to expand to other DeFi networks. MoonOwl will provide charity to necessary causes, while executing necessary mechanics to ensure longevity of the token. These mechanics include: LP acquisition, reflection, and burn. A portion of each successful transaction will firstly provide liquidity to the corresponding decentralized exchange (DEX). Through reflection, all holders of the currency will receive a proportioned and redistributed amount of $MOWL. Furthermore, a burn is applied to ensure deflation of the currency, which maintains it\u2019s value and longevity. Finally, every selling transaction will provide to our community governed charity wallet, where we let stakeholders hold the power to decide which charity organizations to donate to."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x9c9c3d859a4c0dd0505ae57714f3231fe8a07149",
+    "url": "https://moonowl.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x9c9c3d859a4c0dd0505ae57714f3231fe8a07149"
+    ],
+    "twitter": "MoonOwlFinance",
+    "telegram": "MoonOwlFinance"
+}

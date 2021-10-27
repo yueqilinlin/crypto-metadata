@@ -1,0 +1,25 @@
+{
+    "id": "bitrue-token",
+    "symbol": "btr",
+    "name": "Bitrue Coin",
+    "platforms": {
+        "ethereum": "0xd433138d12beb9929ff6fd583dc83663eea6aaa5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bitrue is a forward-thinking cryptocurrency exchange platform dedicated to providing the most trustworthy digital asset management services in a simple, efficient and secure manner. Registered in Singapore in 2018, Bitrue offers worldwide services to cryptocurrency investors with offices across the globe. The company was built by a good mix of digital finance experts, cyber security specialists and blockchain developers, who share the same passion of redefining crypto trading experiences. Bitrue features no listing fee along with a very selective and serious vetting process. Although relatively new, Bitrue is backed by strong communities and is quickly becoming the one-stop platform for crypto traders around the world with its latest addition of fiat purchase."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd433138d12beb9929ff6fd583dc83663eea6aaa5",
+    "url": "https://www.bitrue.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd433138d12beB9929FF6fd583DC83663eea6Aaa5",
+        "https://ethplorer.io/address/0xd433138d12beB9929FF6fd583DC83663eea6Aaa5"
+    ],
+    "twitter": "BitrueOfficial",
+    "facebook": "BitrueOfficial",
+    "telegram": "BitrueOfficial",
+    "reddit": "BitrueOfficial/"
+}

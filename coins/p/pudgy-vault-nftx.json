@@ -1,0 +1,26 @@
+{
+    "id": "pudgy-vault-nftx",
+    "symbol": "pudgy",
+    "name": "PUDGY Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xabea7663c472648d674bd3403d94c858dfeef728"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Pudgy Penguins is a collection of 8,888 randomly generated Pudgy Penguin NFTs on the Ethereum and (Bsc) Smartchain blockchain. 8888 Pudgy Penguins make up our community known as The Huddle. Our penguins are chubby, cute, funny and a little silly. Pudgy Penguins are known for eating a lot of fish and creating legendary memes. You can join our telegram group to learn more details."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xabea7663c472648d674bd3403d94c858dfeef728",
+    "url": "pudgypenguins.io",
+    "explorers": [
+        "https://etherscan.io/token/0xAbeA7663c472648d674bd3403D94C858dFeEF728",
+        "https://ethplorer.io/address/0xabea7663c472648d674bd3403d94c858dfeef728"
+    ],
+    "twitter": "Pudgy_Penguins",
+    "telegram": "Pudgy_Penguins"
+}

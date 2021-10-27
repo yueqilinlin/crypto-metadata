@@ -1,0 +1,23 @@
+{
+    "id": "meshbox",
+    "symbol": "mesh",
+    "name": "MeshBox",
+    "platforms": {
+        "ethereum": "0xcf9fbffec9e0e5bbc62e79bf1965f5db76955661"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MeshBox combines network routing/storage/streaming to link all users without internet/telecom. Everyone can earn tokens as a local mesh network operator.\r\n\r\nMeshBox will represent the next generation of distributed HUAWEI and CISCO technologies."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcf9fbffec9e0e5bbc62e79bf1965f5db76955661",
+    "url": "https://meshbox.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xcf9fbffec9e0e5bbc62e79bf1965f5db76955661",
+        "https://ethplorer.io/address/0xcf9fbffec9e0e5bbc62e79bf1965f5db76955661"
+    ],
+    "twitter": "Mesh_Box",
+    "facebook": "MeshBoxFoundation"
+}

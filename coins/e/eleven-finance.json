@@ -1,0 +1,32 @@
+{
+    "id": "eleven-finance",
+    "symbol": "ele",
+    "name": "Eleven Finance",
+    "platforms": {
+        "binance-smart-chain": "0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0",
+        "avalanche": "0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Polygon Ecosystem",
+        "Avalanche Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Yield Aggregator",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Building a high APY vault ecosystem on Binance Smart Chain "
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0",
+    "url": "https://eleven.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+        "https://polygonscan.com/token/0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0",
+        "https://avascan.info/blockchain/c/token/0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0"
+    ],
+    "twitter": "ElevenFinance",
+    "telegram": "ElevenFinance"
+}

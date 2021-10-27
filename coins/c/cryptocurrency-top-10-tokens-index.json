@@ -1,0 +1,29 @@
+{
+    "id": "cryptocurrency-top-10-tokens-index",
+    "symbol": "cc10",
+    "name": "Cryptocurrency Top 10 Index",
+    "platforms": {
+        "ethereum": "0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3",
+        "polygon-pos": "0x9c49ba0212bb5db371e66b59d1565b7c06e4894e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "DeFi Index",
+        "Number"
+    ],
+    "description": {
+        "en": "CC10 is a passively managed, capitalization-weighted index that tracks the top 10 tokens by market cap from the Cryptocurrency market sector defined by NDX governance. It uses a high-fee AMM to rebalance gradually toward portfolio targets, which are set by a smart contract using price data from Uniswap."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3",
+    "url": "https://indexed.finance",
+    "explorers": [
+        "https://etherscan.io/address/0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3",
+        "https://ethplorer.io/address/0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3",
+        "https://etherscan.io/token/0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3"
+    ],
+    "twitter": "ndxfi",
+    "github_org": "indexed-finance"
+}

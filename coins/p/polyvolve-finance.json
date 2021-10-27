@@ -1,0 +1,23 @@
+{
+    "id": "polyvolve-finance",
+    "symbol": "spr",
+    "name": "PolyVolve Finance",
+    "platforms": {
+        "polygon-pos": "0x9d3ad47f8ddcbca3d72b3f36671a353379309042"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PolyVolve is the first evolution themed yield generation farm powered by Polygon.\r\n\r\nPolyVolve aims to introduce DeFi products within it's ecosystem as more market participants join in be it NFTs or synthetic assets, ultimately evolving into a whole ecosystem of assets built around Polygon\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9d3ad47f8ddcbca3d72b3f36671a353379309042",
+    "url": "https://polyvolve.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x9d3ad47f8ddcbca3d72b3f36671a353379309042"
+    ],
+    "twitter": "PolyVolve",
+    "telegram": "polyvolve",
+    "github_org": "polyVolve"
+}

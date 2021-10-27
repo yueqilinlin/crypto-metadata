@@ -1,0 +1,22 @@
+{
+    "id": "pangolinswap",
+    "symbol": "pangolin",
+    "name": "Pangolinswap",
+    "platforms": {
+        "binance-smart-chain": "0x86aefa44591c4e7fef4dbf64ca39e3e24cba3ef0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PangolinSwap is a cross-chain aggregation platform that integrates NFT, DEX, and Mining#BSC"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x86aefa44591c4e7fef4dbf64ca39e3e24cba3ef0",
+    "url": "https://www.pangolinswap.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x86aEFA44591c4E7fEf4dBf64ca39E3E24cBa3eF0"
+    ],
+    "twitter": "Bzzoneswap",
+    "telegram": "Bzzoneswap"
+}

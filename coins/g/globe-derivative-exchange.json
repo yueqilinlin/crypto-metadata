@@ -1,0 +1,23 @@
+{
+    "id": "globe-derivative-exchange",
+    "symbol": "gdt",
+    "name": "Globe Derivative Exchange",
+    "platforms": {
+        "ethereum": "0xc67b12049c2d0cf6e476bc64c7f82fc6c63cffc5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The globe's fairest & fastest crypto exchange built by @ycombinator alumni. Trade BTC, ETH & more with leverage! "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc67b12049c2d0cf6e476bc64c7f82fc6c63cffc5",
+    "url": "https://globedx.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xc67b12049c2d0cf6e476bc64c7f82fc6c63cffc5",
+        "https://ethplorer.io/address/0xc67b12049c2d0cf6e476bc64c7f82fc6c63cffc5"
+    ],
+    "twitter": "globedx",
+    "telegram": "GlobeOfficial"
+}

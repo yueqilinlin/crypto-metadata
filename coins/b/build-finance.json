@@ -1,0 +1,26 @@
+{
+    "id": "build-finance",
+    "symbol": "build",
+    "name": "BUILD Finance",
+    "platforms": {
+        "ethereum": "0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming",
+        "Governance"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739",
+    "url": "https://build.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739",
+        "https://ethplorer.io/address/0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739"
+    ],
+    "twitter": "finance_build",
+    "reddit": "https://www.reddit.com"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "axe",
+    "symbol": "axe",
+    "name": "Axe",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [
+        "Masternodes",
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "Decentralized blockchain with strong accent on speed and privacy."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://axerunners.com/",
+    "explorers": [
+        "https://insight.axecore.net/",
+        "http://axe-explorer.arcpool.com/",
+        "https://axe.cryptopowered.club/",
+        "https://axe.tokenview.com/"
+    ],
+    "twitter": "axerunners",
+    "facebook": "axe137",
+    "telegram": "axerunners",
+    "reddit": "AXErunners",
+    "github_org": "AXErunners"
+}

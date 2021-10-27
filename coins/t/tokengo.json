@@ -1,0 +1,28 @@
+{
+    "id": "tokengo",
+    "symbol": "gpt",
+    "name": "GoPower",
+    "platforms": {
+        "ethereum": "0xa00425d3e2d3e9ff74f3e112b4d3a7978d7d88c2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "TokenGo blockchain based business tokenization platform will facilitate introducing startups to the market by means of creating in-house tokens which allow investors to reduce the time of achieving liquidity and profitability in contrast to currently existing shares.\r\nInstantaneous financial payments and transfers, voting widgets, authentication, notarization and certification as well many other proprietary and connected options and services are available for all the TokenGo platform participants.\r\nTokenGo offers a consolidated web platform with personal cabinets and comprehensive information on connected and forthcoming services and projects, as well as the current ICO procedures.\r\nOwing to its architecture, the TokenGo technology concept provides for easy integration of any mobile or web application with blockchain functions through the simple TokenGo API. The unique TokenGo smart contract constructor minimizes the impact of the human factor on systematization and regulation of ICO procedures.\r\nThe TokenGo consensus utilizes the customized modified DPoP (Delegated Proof of Power) algorithm which is based on DPoS/PoW hybrid algorithm.\r\nGoPower (GPT) is a token emitted on the Ethereum blockchain. GoPower is the fundamental highly liquid unit of the platform TokenGo. GoPower has paramount importance when distributing GoCoins (GOC) \u2013 TokenGo\u2019s in-house cryptocurrency. Up to 90% of all produced GoCoins will be distributed among GoPower token holders."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xa00425d3e2d3e9ff74f3e112b4d3a7978d7d88c2",
+    "url": "https://tokengoplatform.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa00425d3e2d3e9ff74f3e112b4d3a7978d7d88c2",
+        "https://ethplorer.io/address/0xa00425d3e2d3e9ff74f3e112b4d3a7978d7d88c2"
+    ],
+    "twitter": "Token_Go",
+    "facebook": "tokengoplatform",
+    "telegram": "TokenGo_EN",
+    "reddit": "Tokengo",
+    "github_org": "TokenGo"
+}

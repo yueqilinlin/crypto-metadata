@@ -1,0 +1,26 @@
+{
+    "id": "pamp-network",
+    "symbol": "pamp",
+    "name": "Pamp Network",
+    "platforms": {
+        "ethereum": "0xf0fac7104aac544e4a7ce1a55adf2b5a25c65bd1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "The Pamp Network is the world's first price-reactive cryptocurrency. The PAMP token smart contract rewards holders when the price inreases and penalizes sellers when it does not."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf0fac7104aac544e4a7ce1a55adf2b5a25c65bd1",
+    "url": "https://pamp.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xf0fac7104aac544e4a7ce1a55adf2b5a25c65bd1",
+        "https://ethplorer.io/address/0xf0fac7104aac544e4a7ce1a55adf2b5a25c65bd1"
+    ],
+    "twitter": "PampNetwork",
+    "telegram": "pampnetwork",
+    "github_org": "Pamp-Network"
+}

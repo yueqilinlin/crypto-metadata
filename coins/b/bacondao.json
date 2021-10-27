@@ -1,0 +1,26 @@
+{
+    "id": "bacondao",
+    "symbol": "bacon",
+    "name": "BaconDAO",
+    "platforms": {
+        "ethereum": "0x34f797e7190c131cf630524655a618b5bd8738e7",
+        "binance-smart-chain": "0x0615dbba33fe61a31c7ed131bda6655ed76748b1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BaconDAO (BACON) is a Decentralized Autonomous Organization (DAO) for collaborative learning and investing in Cryptocurrencies. The mission of the organization is to create the largest and most knowledgeable Crypto community, harnessing its group knowledge to help members learn and profit from Cryptocurrencies. BACON token holders have access to its membership content such as daily IDO s, Bitcoin and Altcoin Technical Analysis, Educational curriculum, Alpha s, NFTs and private sale deals. BACON is the governance token which will allow members to vote on the content and deals offered in the community. BaconDAO plans to build a NFT launchpad with NFT Tickets representing vested private sale tokens. BaconDAO will use the power of a Decentralized Autonomous Organization (DAO) to amass the largest community and simultaneously improve the group\u2019s content, services, and investment opportunities."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x34f797e7190c131cf630524655a618b5bd8738e7",
+    "url": "https://bacondao.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x34f797e7190c131cf630524655a618b5bd8738e7",
+        "https://ethplorer.io/address/0x34f797e7190c131cf630524655a618b5bd8738e7",
+        "https://bscscan.com/token/0x0615Dbba33Fe61a31c7eD131BDA6655Ed76748B1"
+    ],
+    "twitter": "BaconDAO_",
+    "telegram": "BaconDAO",
+    "github_org": "BaconDAO"
+}

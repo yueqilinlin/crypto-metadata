@@ -1,0 +1,30 @@
+{
+    "id": "lto-network",
+    "symbol": "lto",
+    "name": "LTO Network",
+    "platforms": {
+        "ethereum": "0x3db6ba6ab6f95efed1a6e794cad492faaabf294d",
+        "binance-smart-chain": "0x857b222fc79e1cbbf8ca5f78cb133d1b7cf34bbd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "LTO Network is a blockchain platform for creating decentralized workflow applications, while maintaining data privacy and GDPR compliance. Developers and enterprises can use the LTO toolkit to either create new, or integrate existing solutions \u2014 and run them in a transparent, secure and decentralized way."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x3db6ba6ab6f95efed1a6e794cad492faaabf294d",
+    "url": "https://www.ltonetwork.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3db6ba6ab6f95efed1a6e794cad492faaabf294d",
+        "http://explorer.LTO.network",
+        "https://ethplorer.io/address/0x3db6ba6ab6f95efed1a6e794cad492faaabf294d",
+        "https://bscscan.com/token/0x857b222fc79e1cbbf8ca5f78cb133d1b7cf34bbd"
+    ],
+    "twitter": "TheLTONetwork",
+    "telegram": "LTOnetwork",
+    "reddit": "LTONetwork/",
+    "github_org": "ltonetwork"
+}

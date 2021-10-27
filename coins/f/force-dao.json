@@ -1,0 +1,26 @@
+{
+    "id": "force-dao",
+    "symbol": "force",
+    "name": "Force DAO",
+    "platforms": {
+        "ethereum": "0x2c31b10ca416b82cec4c5e93c615ca851213d48d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Force is a protocol and DAO dedicated to producing superior returns by adhering to community-proposed strategies and rewarding the strategists with powerful incentives.\r\n\r\nWe leverage high returns from yield-bearing DeFi protocols to provide investors with permissionless, secure, and innovative finance that can\u2019t be stopped.\r\n\r\nForce DAO is a DAO for strategists, building the people\u2019s gateway to quant finance. Built on decentralized blockchains, Force DAO brings strategists together with community investors to find yield-bearing DeFi opportunities."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2c31b10ca416b82cec4c5e93c615ca851213d48d",
+    "url": "https://forcedao.com",
+    "explorers": [
+        "https://etherscan.io/token/0x2c31b10ca416b82cec4c5e93c615ca851213d48d",
+        "https://ethplorer.io/address/0x2c31b10ca416b82cec4c5e93c615ca851213d48d"
+    ],
+    "twitter": "force_dao",
+    "telegram": "forcedao"
+}

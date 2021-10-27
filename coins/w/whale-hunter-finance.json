@@ -1,0 +1,22 @@
+{
+    "id": "whale-hunter-finance",
+    "symbol": "$moby",
+    "name": "Whale Hunter Finance",
+    "platforms": {
+        "binance-smart-chain": "0x13c8044e76e5961107779c8809b9e2daac3ef6df"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WhaleHunter (MOBY) is a token, community and platform that helps members trade with the market movers of the cryptocurrency environment (Whales). Being a whale refers to holders of large wallets. Whales often are skilled traders, have some type of insider information are gambling or got lucky. WhaleHunter selects the proven historically successful whale wallets to trade with. Whale trades often move the market. This is especially true for smaller cryptocurrency projects. The WhaleHunter team andits community take publicly available whale wallet addresses, analyze the wallet trading history, select those wallet addresses with a historical profitable trading history andthen track that wallets movements. When the selected wallets make trades, WhaleHunter automated bots will trade with them."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x13c8044e76e5961107779c8809b9e2daac3ef6df",
+    "url": "https://whalehunter.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x13c8044e76e5961107779c8809b9e2daac3ef6df"
+    ],
+    "telegram": "whalehunterfinancechat",
+    "reddit": "whalehunterfinance"
+}

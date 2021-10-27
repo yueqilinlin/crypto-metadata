@@ -1,0 +1,21 @@
+{
+    "id": "carr-finance",
+    "symbol": "crt",
+    "name": "Carrot Finance",
+    "platforms": {
+        "tron": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "It's just like Yield Farming Project."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://carr.finance",
+    "explorers": [
+        "https://tronscan.org/#/token20/TZ7EvoZdEet2P9E2DKf9CtKf6EAyFwRAS3"
+    ],
+    "twitter": "CarrotFinance",
+    "github_org": "carrotFinance"
+}

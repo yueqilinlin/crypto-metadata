@@ -1,0 +1,27 @@
+{
+    "id": "doge-strap",
+    "symbol": "drap",
+    "name": "Doge Strap",
+    "platforms": {
+        "ethereum": "0x80c74b9166b2faa5dc6a950f741f59a80026cda0",
+        "binance-smart-chain": "0x80c74b9166b2faa5dc6a950f741f59a80026cda0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Community Driven Meme Token, With near future utilities such as : Strap-Gaming ( PlayToEarn ) and Strap-Learning ( LearnToEarn ) systems "
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "contract_address": "0x80c74b9166b2faa5dc6a950f741f59a80026cda0",
+    "url": "https://www.dogestrap.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x80c74b9166b2faa5dc6a950f741f59a80026cda0",
+        "https://ethplorer.io/address/0x80c74b9166b2faa5dc6a950f741f59a80026cda0",
+        "https://bscscan.com/token/0x80c74b9166b2faa5dc6a950f741f59a80026cda0?a=0xec5b255fad93c0e7f19b5ab09f726d49eaa3fb3d"
+    ],
+    "twitter": "DogeStrap",
+    "telegram": "dogestrap",
+    "reddit": "Americanshiba/",
+    "github_org": "Dogestrap"
+}

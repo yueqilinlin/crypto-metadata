@@ -1,0 +1,26 @@
+{
+    "id": "index-cooperative",
+    "symbol": "index",
+    "name": "Index Cooperative",
+    "platforms": {
+        "ethereum": "0x0954906da0bf32d5479e25f46056d22f08464cab"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset Manager",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0954906da0bf32d5479e25f46056d22f08464cab",
+    "url": "https://www.indexcoop.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x0954906da0Bf32d5479e25f46056d22f08464cab",
+        "https://ethplorer.io/address/0x0954906da0bf32d5479e25f46056d22f08464cab"
+    ],
+    "twitter": "indexcoop"
+}

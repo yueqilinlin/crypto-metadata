@@ -1,0 +1,24 @@
+{
+    "id": "cue-protocol",
+    "symbol": "cue",
+    "name": "CUE Protocol",
+    "platforms": {
+        "binance-smart-chain": "0x9b9d617d3445f0147ece2322bace8db2768d2770"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "A community driven protocol with deflationary mechanics.\r\n\r\n2.5% of every transaction is collected by the governance wallet.\r\n\r\nThe token holders can vote on the use of the governance wallet such as burn or other spending.\r\n\r\nCUE Dapps which will utilise the CUE token."
+    },
+    "country_origin": "ZZ",
+    "genesis_date": null,
+    "contract_address": "0x9b9d617d3445f0147ece2322bace8db2768d2770",
+    "url": "https://cuep.io",
+    "explorers": [
+        "https://bscscan.com/token/0x9b9d617d3445f0147ece2322bace8db2768d2770"
+    ],
+    "twitter": "cueprotocol",
+    "telegram": "cueprotolchat"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "cryptospot-token",
+    "symbol": "spot",
+    "name": "Cryptospot Token",
+    "platforms": {
+        "tron": "1001308"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Internet of Things (IOT)"
+    ],
+    "description": {
+        "en": "Interactive map of businesses that accept cryptocurrency, and a community powered asset hub built for real world navigation and augmented reality exploration."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "1001308",
+    "url": "https://cryptospots.app/",
+    "explorers": [
+        "https://tronscan.org/#/token/1001308/"
+    ],
+    "twitter": "cryptospotsdapp",
+    "facebook": "cryptospots",
+    "telegram": "CryptospotsDApp",
+    "github_org": "CryptoSpotsApp"
+}

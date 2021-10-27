@@ -1,0 +1,25 @@
+{
+    "id": "wall-street-bets-dapp",
+    "symbol": "wsb",
+    "name": "WallStreetBets DApp",
+    "platforms": {
+        "binance-smart-chain": "0x22168882276e5d5e1da694343b41dd7726eeb288"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "The WSB movement for financial democracy started on Reddit and became a global phenomenon. This is why (we, the apes) created a Decentralized Application to give our community a tool to voice their opinions as retail investors."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x22168882276e5d5e1da694343b41dd7726eeb288",
+    "url": "https://www.wsbdapp.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x22168882276e5d5e1da694343b41dd7726eeb288"
+    ],
+    "twitter": "WSBDapp",
+    "telegram": "wallstreetbets"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "poolstake",
+    "symbol": "psk",
+    "name": "PoolStake",
+    "platforms": {
+        "ethereum": "0x3f84c4184b35c488f7fe4a12469610c9b1cb03c9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PoolStake PSK by PeetDefi is a staking token for use in our multichain staking pools. Users deposit PSK in our dapp and are rewarded in any supported crypto they choose. PSK represent your share of the pool and therefore your share of the rewards. Deposit PSK from any blockchain and receive any supported asset as a reward. \r\nNote: PSK may trade as PLSK on certain centralized exchanges."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x3f84c4184b35c488f7fe4a12469610c9b1cb03c9",
+    "url": "https://psk.peetdecentralized.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x3f84c4184b35c488f7fe4a12469610c9b1cb03c9",
+        "https://ethplorer.io/address/0x3f84c4184b35c488f7fe4a12469610c9b1cb03c9"
+    ],
+    "twitter": "peet_fi",
+    "telegram": "peetdefi",
+    "github_org": "PeetFinanceDefi"
+}

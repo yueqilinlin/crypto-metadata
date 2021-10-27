@@ -1,0 +1,35 @@
+{
+    "id": "woo-network",
+    "symbol": "woo",
+    "name": "WOO Network",
+    "platforms": {
+        "ethereum": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+        "binance-smart-chain": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+        "solana": "E5rk3nmgLUuKUiS94gg4bpWwWwyjCMtddsAXkTFLtHEy",
+        "huobi-token": "0x3befb2308bce92da97264077faf37dcd6c8a75e6",
+        "arbitrum-one": "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Polygon Ecosystem",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "WOO Network is a deep liquidity network connecting traders, exchanges, institutions, and DeFi platforms with democratized access to the best-in-class liquidity and trading execution at lower or zero cost. WOO Token is used in the network\u2019s CeFi and DeFi products for staking and fee discounts."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+    "url": "https://woo.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+        "https://ethplorer.io/address/0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+        "https://hecoinfo.com/token/0x3beFB2308bcE92dA97264077fAf37dcd6C8A75E6",
+        "https://polygonscan.com/token/0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
+        "https://solscan.io/token/E5rk3nmgLUuKUiS94gg4bpWwWwyjCMtddsAXkTFLtHEy"
+    ],
+    "twitter": "WOOnetwork",
+    "facebook": "Wootrade",
+    "telegram": "woonetwork"
+}

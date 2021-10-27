@@ -1,0 +1,28 @@
+{
+    "id": "the-transfer-token",
+    "symbol": "ttt",
+    "name": "The Transfer Token",
+    "platforms": {
+        "ethereum": "0x2494a68c1484376fef880b4c24d91f049d29b02a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "The Transfer Token (TTT) is an ERC-20 based cryptocurrency developed by Atom Solutions. It is intended to be utilized as a gateway for currency exchange and overseas remittance. One of the main features of TTT is that, 50% of the fees incurred by trading and exchanging using Eternal Wallet are returned to the users, accordingly to the amount of TTT they hold within Eternal Wallet. Another feature is that Eternal Wallet, through using TTT, can provide users with the world\u2019s most affordable currency exchange and overseas remittance, making it a revolutionary innovation in the current global state of currency exchanges."
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "contract_address": "0x2494a68c1484376fef880b4c24d91f049d29b02a",
+    "url": "https://www.atom-solutions.jp/en/xecttt/index.php",
+    "explorers": [
+        "https://etherscan.io/token/0x2494a68C1484376fEf880b4c24D91f049d29B02A",
+        "https://ethplorer.io/address/0x2494a68C1484376fEf880b4c24D91f049d29B02A"
+    ],
+    "twitter": "AtomOfficialSNS",
+    "facebook": "AtomOfficialSNS",
+    "telegram": "AtomOfficialSNS",
+    "reddit": "AtomSolutions/",
+    "github_org": "atom-solutions"
+}

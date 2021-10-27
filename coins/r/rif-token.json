@@ -1,0 +1,26 @@
+{
+    "id": "rif-token",
+    "symbol": "rif",
+    "name": "RSK Infrastructure Framework",
+    "platforms": {
+        "rootstock": "0x2acc95758f8b5f583470ba265eb685a8f45fc9d5"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "RSK Infrastructure Framework (RIF) is a token developed on the RSK platform allowing holders to consume (and interact with) services within the RIFOS framework. The RIFOS framework, also built upon RSK, is a suite of distributed protocols built to enable fast, simple and scalable development of distributed applications within a highly-scalable, secure and unified environment.\r\n\r\nThe RSK framework, in combination with the RIF token, allows developers to deploy and interact with the applications built atop the RIFOS framework. These include, amongst other things, third-party developed infrastructure services, as well as any additional applications deployed on the RSK framework.\r\n\r\nThe RIF Token is intended to allow any token holder to consume any services that are compatible with RIF OS Protocols. Such services may include third party-developed infrastructure services, and any other apps that might be deployed on our framework that agrees to accept rif Tokens as a means of accessing / consuming the service or app."
+    },
+    "country_origin": "AR",
+    "genesis_date": null,
+    "contract_address": "0x2acc95758f8b5f583470ba265eb685a8f45fc9d5",
+    "url": "https://www.rifos.org/",
+    "explorers": [
+        "https://explorer.rsk.co/address/0x2acc95758f8b5f583470ba265eb685a8f45fc9d5"
+    ],
+    "twitter": "rif_os",
+    "telegram": "rif_os_community",
+    "reddit": "rootstock/",
+    "github_org": "riflabs"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "tacotoken",
+    "symbol": "taco",
+    "name": "TacoToken",
+    "platforms": {
+        "ethereum": "0x41c028a4c1f461ebfc3af91619b240004ebad216"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TacoSwap is a Dex Defi protocol & Yield Farm, designed to be the next evolution. Taking Sushiswap\u2019s liquidity focused strategy, they have added fiat on-ramp and off-ramp and rewards for liquidity providers while improving the payout rate to 0.5%. The project is integrated under the Ethereum Smart Chain. Its token eTaco-V2 has a limited supply of 395 million tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x41c028a4c1f461ebfc3af91619b240004ebad216",
+    "url": "https://www.tacoswap.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x41c028a4c1f461ebfc3af91619b240004ebad216",
+        "https://ethplorer.io/address/0x41c028a4c1f461ebfc3af91619b240004ebad216"
+    ],
+    "twitter": "Tacoswap_io",
+    "telegram": "Tacoswap_announcements_official",
+    "github_org": "TacoswapCRD"
+}

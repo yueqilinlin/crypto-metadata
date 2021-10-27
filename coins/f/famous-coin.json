@@ -1,0 +1,24 @@
+{
+    "id": "famous-coin",
+    "symbol": "famous",
+    "name": "Famous Coin",
+    "platforms": {
+        "ethereum": "0x4838903d6319e483ab82ae3f09a1ec36489a4193"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Famous token ICO Mining is a peer-to-peer computer process used to secure and verify Famous token ICO transactions\u2014ayments from one user to another on a decentralized network.Mining involves adding Famous token ICO transaction data to Famous token ICO's global public ledger of past transactions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4838903d6319e483ab82ae3f09a1ec36489a4193",
+    "url": "https://www.famouscoin.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x4838903d6319E483AB82Ae3f09A1Ec36489A4193",
+        "https://ethplorer.io/address/0x4838903d6319E483AB82Ae3f09A1Ec36489A4193"
+    ],
+    "twitter": "famousCoin",
+    "facebook": "famouscoinpage",
+    "telegram": "famouscoin"
+}

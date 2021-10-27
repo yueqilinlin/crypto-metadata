@@ -1,0 +1,23 @@
+{
+    "id": "game1network",
+    "symbol": "game1",
+    "name": "Game1Network",
+    "platforms": {
+        "binance-smart-chain": "0x0e52d24c87a5ca4f37e3ee5e16ef5913fb0cceeb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "iGaming multi-earning platform with hyper deflationary in-game token currency for play and payouts"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0e52d24c87a5ca4f37e3ee5e16ef5913fb0cceeb",
+    "url": "https://game1network.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x0e52d24c87a5ca4f37e3ee5e16ef5913fb0cceeb"
+    ],
+    "twitter": "game1network",
+    "telegram": "game1networkchat",
+    "github_org": "Game1NetworkCom"
+}

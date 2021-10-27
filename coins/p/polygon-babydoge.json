@@ -1,0 +1,23 @@
+{
+    "id": "polygon-babydoge",
+    "symbol": "polybabydoge",
+    "name": "Polygon BabyDoge",
+    "platforms": {
+        "polygon-pos": "0xdf2140dee6b07ae495382bc1cd446f7b328f63e3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PolyBabyDoge has learned a few tricks and lessons from his brother BabyDoge and his father Doge. His holders benefit through static rewards and also through the automatic Buy-Back process built into the contract. Together, we are building strong ecosystem including dencentralized exchange (DEX), NFT market and BSC-Polygon cross-chain bridge. \r\n\r\nTransaction Fee BreakDown: \r\n2% REWARDS TO HOLDERS,\r\n3% DEVELOPMENT TAX,\r\n6% BUYBACK TAX"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdf2140dee6b07ae495382bc1cd446f7b328f63e3",
+    "url": "https://polybabydoge.online",
+    "explorers": [
+        "https://polygonscan.com/token/0xdf2140dee6b07ae495382bc1cd446f7b328f63e3"
+    ],
+    "twitter": "BabyDoge_Killer",
+    "telegram": "PolyBabyDoge_chat",
+    "github_org": "PolyBabyDoge"
+}

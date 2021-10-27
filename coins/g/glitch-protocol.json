@@ -1,0 +1,27 @@
+{
+    "id": "glitch-protocol",
+    "symbol": "glch",
+    "name": "Glitch Protocol",
+    "platforms": {
+        "ethereum": "0x038a68ff68c393373ec894015816e33ad41bd564",
+        "polygon-pos": "0xbe5cf150e1ff59ca7f2499eaa13bfc40aae70e78"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Glitch is a blockchain agnostic super protocol, purpose-built to facilitate trust-less money markets."
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0x038a68ff68c393373ec894015816e33ad41bd564",
+    "url": "https://glitch.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x038a68ff68c393373ec894015816e33ad41bd564",
+        "https://ethplorer.io/address/0x038a68ff68c393373ec894015816e33ad41bd564",
+        "https://polygonscan.com/token/0xbe5cf150e1ff59ca7f2499eaa13bfc40aae70e78"
+    ],
+    "twitter": "GlitchProtocol",
+    "telegram": "glitchprotocol"
+}

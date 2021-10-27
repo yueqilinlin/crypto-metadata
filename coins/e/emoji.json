@@ -1,0 +1,19 @@
+{
+    "id": "emoji",
+    "symbol": "emoj",
+    "name": "Emoji",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [],
+    "description": {
+        "en": "An indepentend Project for all masternode projects:  Each project get listed with a listing fee paid in their own coins, Bitcoin, Ethereum or with Emoji Coins."
+    },
+    "country_origin": "VU",
+    "genesis_date": null,
+    "url": "https://emojiproject.net/",
+    "explorers": [
+        "http://explorer.emojiproject.net/"
+    ],
+    "twitter": "emojiprojects",
+    "github_org": "emojiproject"
+}

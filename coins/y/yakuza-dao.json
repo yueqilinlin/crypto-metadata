@@ -1,0 +1,24 @@
+{
+    "id": "yakuza-dao",
+    "symbol": "ykz",
+    "name": "Yakuza DFO",
+    "platforms": {
+        "ethereum": "0x87047986e8e4961c11d2edcd94285e3a1331d97b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yakuza DFO offers a community driven token with yield farming built on the DFO platform."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x87047986e8e4961c11d2edcd94285e3a1331d97b",
+    "url": "http://YKZ.network",
+    "explorers": [
+        "https://etherscan.io/token/0x87047986E8e4961c11d2EdcD94285E3A1331d97B",
+        "https://ethplorer.io/address/0x87047986e8e4961c11d2edcd94285e3a1331d97b"
+    ],
+    "twitter": "yakuza_dfo",
+    "telegram": "YKZ_DFO",
+    "github_org": "Yakuza-DFO"
+}

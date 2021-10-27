@@ -1,0 +1,26 @@
+{
+    "id": "global-defi",
+    "symbol": "gdefi",
+    "name": "Global DeFi",
+    "platforms": {
+        "ethereum": "0xb5e88b229b18e748e3aa16a1c2bfefdfc8a5560d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Global DeFi is a community-led decentralized ecosystem built on the Ethereum blockchain that offers a wide range of DeFi solutions on a single platform.\r\n\r\nGlobal DeFi (GDeFi) is developing an intuitive decentralized protocol that has the potential to restructure the crypto market as we know it. Our platform, bolstered with incentivized liquidity pools, sidechains and state channels will facilitate the flow of crypto assets between lenders and borrowers seamlessly in no time. Security, speed, and accessibility will be at the core of the project.\r\n\r\nThe shortcomings of existing DeFi approaches have been solved by\r\nenabling a safe and secure platform for asset holdings and investment through multiple stages of auditing. We aim to accelerate liquidity in the crypto market and increase trading volumes through our foolproof smart contracts. Moreover, based on supply and demand in the market, the interest rates are algorithmically set for the timely exchange of crypto assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb5e88b229b18e748e3aa16a1c2bfefdfc8a5560d",
+    "url": "https://gdefi.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xb5e88b229b18e748e3aa16a1c2bfefdfc8a5560d",
+        "https://ethplorer.io/address/0xb5e88b229b18e748e3aa16a1c2bfefdfc8a5560d"
+    ],
+    "twitter": "gdefifinance",
+    "facebook": "globaldefi",
+    "telegram": "GDeFiFinance",
+    "reddit": "GdefiFinance/",
+    "github_org": "gdefifinance"
+}

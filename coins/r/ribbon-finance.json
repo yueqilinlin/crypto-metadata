@@ -1,0 +1,28 @@
+{
+    "id": "ribbon-finance",
+    "symbol": "rbn",
+    "name": "Ribbon Finance",
+    "platforms": {
+        "ethereum": "0x6123b0049f904d730db3c36a31167d9d4121fa6b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Structured Products",
+        "Options",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "Ribbon Finance is a new protocol that helps users access crypto structured products for DeFi. It combines options, futures, and fixed income to improve a portfolio's risk-return profile."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+    "url": "https://www.ribbon.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x6123B0049F904d730dB3C36a31167D9d4121fA6B",
+        "https://ethplorer.io/address/0x6123B0049F904d730dB3C36a31167D9d4121fA6B"
+    ],
+    "twitter": "ribbonfinance",
+    "github_org": "ribbon-finance"
+}

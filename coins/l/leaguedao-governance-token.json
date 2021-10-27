@@ -1,0 +1,23 @@
+{
+    "id": "leaguedao-governance-token",
+    "symbol": "leag",
+    "name": "LeagueDAO Governance Token",
+    "platforms": {
+        "ethereum": "0x7b39917f9562c8bc83c7a6c2950ff571375d505d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LeagueDAO is a community-driven initiative which aims to merge the concepts of decentralization and tokenization with fantasy sports.\r\n\r\nLeagueDAO enables a global community of fans to collectively play, build, and define the future of fantasy gaming.\r\n\r\nLeagueDAO includes play-to-earn gaming, and NFTs to create a web3 fantasy gaming reality where users can own and trade the players on their team and where on-chain scoring is based on real-world stats."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7b39917f9562c8bc83c7a6c2950ff571375d505d",
+    "url": "https://leaguedao.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7b39917f9562c8bc83c7a6c2950ff571375d505d",
+        "https://ethplorer.io/address/0x7b39917f9562c8bc83c7a6c2950ff571375d505d"
+    ],
+    "twitter": "leaguedao",
+    "github_org": "LeagueDAO"
+}

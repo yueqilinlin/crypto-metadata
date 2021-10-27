@@ -1,0 +1,24 @@
+{
+    "id": "unagii-eth",
+    "symbol": "ueth",
+    "name": "Unagii ETH",
+    "platforms": {
+        "ethereum": "0x77607588222e01bf892a29abab45796a2047fc7b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x77607588222e01bf892a29abab45796a2047fc7b",
+    "url": "https://www.unagii.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x77607588222e01bf892a29abab45796a2047fc7b",
+        "https://ethplorer.io/address/0x77607588222e01bf892a29abab45796a2047fc7b"
+    ],
+    "twitter": "unagiidotcom",
+    "telegram": "unagiidotcom",
+    "reddit": "https://www.reddit.com"
+}

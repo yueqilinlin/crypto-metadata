@@ -1,0 +1,21 @@
+{
+    "id": "raven-dark",
+    "symbol": "xrd",
+    "name": "Raven Dark",
+    "platforms": {},
+    "hashing_algorithm": "x16r",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Raven Dark is a GPU secured blockchain with privacy."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "http://www.raven-dark.com",
+    "explorers": [
+        "http://explorer.raven-dark.com"
+    ],
+    "twitter": "ravendark_xrd",
+    "github_org": "raven-dark"
+}

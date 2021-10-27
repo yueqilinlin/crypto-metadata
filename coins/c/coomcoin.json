@@ -1,0 +1,23 @@
+{
+    "id": "coomcoin",
+    "symbol": "coom",
+    "name": "CoomCoin",
+    "platforms": {
+        "ethereum": "0x2f3e054d233c93c59140c0905227c7c607c70cbb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2f3e054d233c93c59140c0905227c7c607c70cbb",
+    "url": "https://coomer.cash/",
+    "explorers": [
+        "https://etherscan.io/token/0x2f3e054D233c93C59140c0905227c7C607c70cbb",
+        "https://ethplorer.io/address/0x2f3e054d233c93c59140c0905227c7c607c70cbb"
+    ],
+    "twitter": "coomcoin1",
+    "telegram": "coomcoinchat"
+}

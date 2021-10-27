@@ -1,0 +1,24 @@
+{
+    "id": "cope",
+    "symbol": "cope",
+    "name": "Cope",
+    "platforms": {
+        "solana": "8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "COPE is a project that has two phases. Phase 1 of COPE involves seeking to ascertain and evaluate trader weaknesses and failings retrospectively based on trader calls made about crypto markets and provide reporting on this for self analysis.\r\nTop Call Makers are evaluated based on their call accuracy which along with other parameters results in a COPE score given to them. The top 100 Call Makers are embraced within a COPE index ranking them by their COPE score. \r\nOnce a consistent list of the top 100 has been generated with the monthly 'reformation' kicking out, introducing new Top Call Makers into the index it provides a narrative for a new type of investment product based on top trader calls as measured using a reliable and accurate mechanism, which leads to phase 2."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh",
+    "url": "https://www.unlimitedcope.com/",
+    "explorers": [
+        "https://explorer.solana.com/address/8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh",
+        "https://solscan.io/token/8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh"
+    ],
+    "twitter": "unlimitedcope "
+}

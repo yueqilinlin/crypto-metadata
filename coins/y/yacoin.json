@@ -1,0 +1,20 @@
+{
+    "id": "yacoin",
+    "symbol": "yac",
+    "name": "YACoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt-N",
+    "categories": [],
+    "description": {
+        "en": "YACoin is robust, secure and reliable open source software that is run by a community of volunteers. Anyone is welcome to add to YACoin, whether by contributing code, or if that's not your thing, translations, how-to's or anything else you can think of to benefit YAC.YACoin is the original creator of Scrypt-N Proof of Work. YACoin chose a PoW algoritm SHA-3 KECCAK to further distance itself from other coin creation schemes. YACoin uses Proof of Stake to secure itself from pure PoW attacks."
+    },
+    "country_origin": "",
+    "genesis_date": "2013-08-05",
+    "url": "http://www.yacoin.org/",
+    "explorers": [
+        "http://explore.grokonet.com/"
+    ],
+    "twitter": "YACoinJoe",
+    "reddit": "yacoin",
+    "github_org": "yacoin"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "weecoins",
+    "symbol": "wcs",
+    "name": "Weecoins",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [],
+    "description": {
+        "en": "Weecoins is a currency created for use in e-commerce. Earned weecoins can be redeemed on the weesale platform. You can buy many products on this platform with wcs.You can stack Weecoins. You can earn up to 570 weecoins per month by renting a masternode with 7500 weecoins."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "url": "https://weecoins.org/",
+    "explorers": [
+        "https://weecoins.io/"
+    ],
+    "twitter": "WeecoinsWeecomi",
+    "facebook": "weecomiinternational",
+    "telegram": "weecoins",
+    "github_org": "weecoins"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "belt",
+    "symbol": "belt",
+    "name": "Belt",
+    "platforms": {
+        "binance-smart-chain": "0xe0e514c71282b6f4e823703a39374cf58dc3ea4f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe0e514c71282b6f4e823703a39374cf58dc3ea4f",
+    "url": "https://beta.belt.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f"
+    ],
+    "twitter": "BELT_Finance",
+    "telegram": "BeltFinance"
+}

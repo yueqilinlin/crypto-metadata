@@ -1,0 +1,28 @@
+{
+    "id": "total-crypto-market-cap-token",
+    "symbol": "tcap",
+    "name": "Total Crypto Market Cap",
+    "platforms": {
+        "ethereum": "0x16c52ceece2ed57dad87319d91b5e3637d50afa4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "DeFi Index"
+    ],
+    "description": {
+        "en": "TCAP is a fully decentralized ERC-20 compatible smart contract that tokenizes real-time Total Market Capitalization from ALL cryptocurrencies and tokens listed on the largest crypto data providers in the world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x16c52ceece2ed57dad87319d91b5e3637d50afa4",
+    "url": "https://cryptex.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4",
+        "https://ethplorer.io/address/0x16c52ceece2ed57dad87319d91b5e3637d50afa4"
+    ],
+    "twitter": "cryptexfinance",
+    "telegram": "cryptexfinance",
+    "reddit": "TotalCryptoMarketCap/",
+    "github_org": "cryptexfinance"
+}

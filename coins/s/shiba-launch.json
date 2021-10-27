@@ -1,0 +1,23 @@
+{
+    "id": "shiba-launch",
+    "symbol": "shibal",
+    "name": "Shiba Launch",
+    "platforms": {
+        "ethereum": "0x77f39c61ddac121ca1b24fdea984fab734fdce8f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shiba Launch is the new alternative coin towards $Shib after the unpredictable actions of the co-creator of Ethereum, Vitalik Buterin, dumping a majority of his coins. With approx ~50% of the total supply sent to Vitalik Buterin, this action could be repeated at any time, basically making $Shib a very dangerous buy. With $ShibM, 50% of the total supply will rather be sent to a burn address, and instead secure the growth and moon of the coin $Shib."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x77f39c61ddac121ca1b24fdea984fab734fdce8f",
+    "url": "https://www.shibalaunch.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x77f39c61ddac121ca1b24fdea984fab734fdce8f",
+        "https://ethplorer.io/address/0x77f39c61ddac121ca1b24fdea984fab734fdce8f"
+    ],
+    "twitter": "ShibaLaunch",
+    "telegram": "shibarelaunch "
+}

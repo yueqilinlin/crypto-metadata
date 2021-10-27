@@ -1,0 +1,27 @@
+{
+    "id": "benqi",
+    "symbol": "qi",
+    "name": "BENQI",
+    "platforms": {
+        "avalanche": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Avalanche Ecosystem",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "BENQI is a decentralized non-custodial liquidity market protocol, built on Avalanche. The protocol enables users to effortlessly lend, borrow, and earn interest with their digital assets. Depositors providing liquidity to the protocol may earn passive income, while borrowers are able to borrow in an over-collateralized manner."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+    "url": "https://app.benqi.fi/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5"
+    ],
+    "twitter": "BenqiFinance",
+    "telegram": "BenqiFinance"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "brokoli",
+    "symbol": "brkl",
+    "name": "Brokoli",
+    "platforms": {
+        "ethereum": "0x4674a4f24c5f63d53f22490fb3a08eaaad739ff8",
+        "binance-smart-chain": "0x66cafcf6c32315623c7ffd3f2ff690aa36ebed38"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Brokoli is an impact-to-earn NFT tree metaverse. Here, every DeFi function is climate positive at no extra cost for the user. Users can make, own, and trade the positive impact they make by using Brokoli's green DeFi products. Brokoli's core platform: a green aggregator for token swaps, lending and yield farming. It makes every DeFi transaction climate positive at no extra cost for the user. API: Any GameFi and DeFi platform can implement the Brokoli API to make their transactions climate positive, generating more revenue, brand awareness and users for Brokoli. NFT Digital Forests: Users can receive seeds by using Brokoli's green products or by completing quests. These seeds are turned into NFT trees after the DAO vote. Digital NFT forests will be tradable as Brokoli Impact Credits with other users that want to move up the leaderboard of impact, and with corporates that want CSR (corporate social responsibility) - it's a decentralized alternative to carbon credits. Governing the protocol is the decentralized autonomous organization (DAO) model that controls 100% of the climate offset funding, with the BRKL token at its core. This mechanism distributes the funds collected between Tree Planting, Renewable Energy and Electronic Waste Collection projects around the globe, with token holders having 100% control of the fund allocations. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4674a4f24c5f63d53f22490fb3a08eaaad739ff8",
+    "url": "https://brokoli.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x4674a4F24C5f63D53F22490Fb3A08eAAAD739ff8",
+        "https://ethplorer.io/address/0x4674a4f24c5f63d53f22490fb3a08eaaad739ff8",
+        "https://bscscan.com/token/0x66cafcf6c32315623c7ffd3f2ff690aa36ebed38"
+    ],
+    "twitter": "BrokoliNetwork",
+    "telegram": "brokolinetwork"
+}

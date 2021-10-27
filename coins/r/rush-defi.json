@@ -1,0 +1,22 @@
+{
+    "id": "rush-defi",
+    "symbol": "rush",
+    "name": "Rush DeFi",
+    "platforms": {
+        "ethereum": "0x5e17a18b3984f1d0db9efa8e13a1091ab7adcb30"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized gaming"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5e17a18b3984f1d0db9efa8e13a1091ab7adcb30",
+    "url": "http://rushdefi.com",
+    "explorers": [
+        "https://etherscan.io/token/0x5e17a18b3984f1d0db9efa8e13a1091ab7adcb30",
+        "https://ethplorer.io/address/0x5e17a18b3984f1d0db9efa8e13a1091ab7adcb30"
+    ],
+    "twitter": "rushdefi"
+}

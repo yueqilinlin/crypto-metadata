@@ -1,0 +1,27 @@
+{
+    "id": "12334-lansdowne",
+    "symbol": "realtoken-s-12334-lansdowne-street-detroit-mi",
+    "name": "RealT Token - 12334 Lansdowne Street, Detroit, MI 48224",
+    "platforms": {
+        "ethereum": "0xee2f2212a64ec3f6bc0f7580e10c53cb38b57508",
+        "xdai": "0xee2f2212a64ec3f6bc0f7580e10c53cb38b57508"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xee2f2212a64ec3f6bc0f7580e10c53cb38b57508",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xEe2f2212a64Ec3f6BC0F7580e10c53CB38B57508",
+        "https://ethplorer.io/address/0xee2f2212a64ec3f6bc0f7580e10c53cb38b57508"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

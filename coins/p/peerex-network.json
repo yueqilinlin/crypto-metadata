@@ -1,0 +1,25 @@
+{
+    "id": "peerex-network",
+    "symbol": "PERX",
+    "name": "PeerEx Network",
+    "platforms": {
+        "ethereum": "0x3c6ff50c9ec362efa359317009428d52115fe643",
+        "binance-smart-chain": "0xcb6409696c58aa777317dbdfaa8bab4ac8e39eea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Peerex is a non-custodial decentralised market for peer-to-peer Erc20 token exchange and collateral based lending platform."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x3c6ff50c9ec362efa359317009428d52115fe643",
+    "url": "https://peerex.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x3C6ff50c9Ec362efa359317009428d52115fe643",
+        "https://ethplorer.io/address/0x3c6ff50c9ec362efa359317009428d52115fe643",
+        "https://bscscan.com/token/0xcb6409696c58aa777317dbdfaa8bab4ac8e39eea"
+    ],
+    "twitter": "PeerExNetwork",
+    "telegram": "PeerEx_Network"
+}

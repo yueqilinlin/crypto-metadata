@@ -1,0 +1,23 @@
+{
+    "id": "pitquidity",
+    "symbol": "pitqd",
+    "name": "Pitquidity",
+    "platforms": {
+        "ethereum": "0xe825020e2f60331fe86a61b9ad15e123a45b25a6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pitquidity is a low tax Ethereum reflection token that is designed for trading and holding simultaniously.  Because there is a low tax for buys and sells in the reflection market,  traders can make profits with a thinner margin than most tokens in the market, and while the trade isn't complete to exit, the trader holding the tokens will gain ethereum reflections.  There is also an equity side to the token that looks for income that produces passive income for holders with vehicles such as nodes, staking pools, and staking coins."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe825020e2f60331fe86a61b9ad15e123a45b25a6",
+    "url": "https://www.pitquidity.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xe825020e2f60331fe86a61b9ad15e123a45b25a6",
+        "https://ethplorer.io/address/0xe825020e2f60331fe86a61b9ad15e123a45b25a6"
+    ],
+    "twitter": "pitquidity",
+    "telegram": "Pitquidity"
+}

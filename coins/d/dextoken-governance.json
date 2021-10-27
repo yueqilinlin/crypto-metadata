@@ -1,0 +1,27 @@
+{
+    "id": "dextoken-governance",
+    "symbol": "dexg",
+    "name": "Dextoken Governance",
+    "platforms": {
+        "ethereum": "0xb81d70802a816b5dacba06d708b5acf19dcd436d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Governance"
+    ],
+    "description": {
+        "en": "Decentralized Token Swap Protocol with Speculative AMM"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb81d70802a816b5dacba06d708b5acf19dcd436d",
+    "url": "https://dextoken.io",
+    "explorers": [
+        "https://etherscan.io/token/0xb81d70802a816b5dacba06d708b5acf19dcd436d",
+        "https://ethplorer.io/address/0xb81d70802a816b5dacba06d708b5acf19dcd436d"
+    ],
+    "twitter": "DextokenG",
+    "facebook": "flowchain",
+    "telegram": "Dextoken_Official_Announcement",
+    "github_org": "flowchain"
+}

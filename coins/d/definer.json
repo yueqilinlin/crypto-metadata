@@ -1,0 +1,26 @@
+{
+    "id": "definer",
+    "symbol": "fin",
+    "name": "DeFiner",
+    "platforms": {
+        "ethereum": "0x054f76beed60ab6dbeb23502178c52d6c5debe40"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x054f76beed60ab6dbeb23502178c52d6c5debe40",
+    "url": "https://definer.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x054f76beed60ab6dbeb23502178c52d6c5debe40",
+        "https://ethplorer.io/address/0x054f76beed60ab6dbeb23502178c52d6c5debe40"
+    ],
+    "twitter": "DeFinerOrg",
+    "telegram": "DeFiner"
+}

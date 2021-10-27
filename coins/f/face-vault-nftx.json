@@ -1,0 +1,24 @@
+{
+    "id": "face-vault-nftx",
+    "symbol": "face",
+    "name": "FACE Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xcd46d92c46be1dbbd5ccc497e95611abe9d507bc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "FACE Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcd46d92c46be1dbbd5ccc497e95611abe9d507bc",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xcd46d92c46be1dbbd5ccc497e95611abe9d507bc",
+        "https://ethplorer.io/address/0xcd46d92c46be1dbbd5ccc497e95611abe9d507bc"
+    ],
+    "twitter": "nftx_"
+}

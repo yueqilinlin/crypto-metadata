@@ -1,0 +1,24 @@
+{
+    "id": "obic",
+    "symbol": "obic",
+    "name": "OBIC",
+    "platforms": {
+        "ethereum": "0xa8b6d0bd067ce5b2e4e9e225b2e0ff5eb74ded8a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OBIC COIN , solution based on secondary market and commodities !"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xa8b6d0bd067ce5b2e4e9e225b2e0ff5eb74ded8a",
+    "url": "https://orionblackic.com",
+    "explorers": [
+        "https://etherscan.io/token/0xa8b6d0bD067ce5B2e4E9e225b2e0fF5eb74DEd8A",
+        "https://ethplorer.io/address/0xa8b6d0bD067ce5B2e4E9e225b2e0fF5eb74DEd8A"
+    ],
+    "facebook": "orionblackic",
+    "telegram": "OBIC_Oficial",
+    "github_org": "obic-token"
+}

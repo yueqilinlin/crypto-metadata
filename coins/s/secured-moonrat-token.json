@@ -1,0 +1,25 @@
+{
+    "id": "secured-moonrat-token",
+    "symbol": "smrat",
+    "name": "Secured MoonRat Token",
+    "platforms": {
+        "binance-smart-chain": "0x68590a47578e5060a29fd99654f4556dbfa05d10"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "The Secured MoonRat Token brings the most revolutionary mechanism to BSC ecosystem: Earn $BNB just by holding SMRAT token\r\n\r\nThe Secured MoonRat Token is the stablest and the most secured version to Earn BNB\r\n\r\nSecured MoonRat Token is a community-driven, fair launched DeFi project built on Binance Smart Chain #BSC. Three functions occur during each trade: Reflection, LP Acquisition, & Burn"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x68590a47578e5060a29fd99654f4556dbfa05d10",
+    "url": "http://moonrat.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x68590a47578e5060a29fd99654f4556dbfa05d10"
+    ],
+    "twitter": "MoonRatFinance",
+    "telegram": "MoonRatFinance",
+    "github_org": "MoonRat-Finance"
+}

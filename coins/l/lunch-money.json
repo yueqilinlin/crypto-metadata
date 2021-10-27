@@ -1,0 +1,28 @@
+{
+    "id": "lunch-money",
+    "symbol": "lmy",
+    "name": "Lunch Money",
+    "platforms": {
+        "ethereum": "0x66fd97a78d8854fec445cd1c80a07896b0b4851f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Restaurant P.I. is a SaaS secret shopper platform connecting businesses to its consumers. Are you a restaurant or other food business looking for increased exposure and customer recognition? Are you a patron interested in trying various types of foods? Use this powerful app to exchange exclusive deals and discounts for your valuable feedback. Earn Lunch Money tokens every time that you complete a mystery shop and redeem a deal. Help us improve the customer experience at food serving businesses by providing your valuable feedback."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x66fd97a78d8854fec445cd1c80a07896b0b4851f",
+    "url": "http://lunchmoney.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x66fd97a78d8854fec445cd1c80a07896b0b4851f",
+        "https://ethplorer.io/address/0x66fd97a78d8854fec445cd1c80a07896b0b4851f"
+    ],
+    "twitter": "LunchToken",
+    "facebook": "LunchMoneyToken",
+    "telegram": "lunchmoneytoken",
+    "reddit": "lunchmoney_io",
+    "github_org": "lunchmoneytoken"
+}

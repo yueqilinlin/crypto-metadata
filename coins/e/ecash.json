@@ -1,0 +1,23 @@
+{
+    "id": "ecash",
+    "symbol": "xec",
+    "name": "eCash",
+    "platforms": {
+        "arbitrum-one": "0x1d2ed7eba253253be9dfa61dd272769d64f202ad"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Derived from one of the most trusted names in the cryptocurrency space, what was once known as BCHA is now eCash. \r\n \r\neCash is the natural continuation of the Bitcoin Cash project. Realizing the vision of the legendary Milton Friedman, eCash follows through on key promises such as the innovative Avalanche consensus layer while also introducing concepts never before seen in a Bitcoin project such as staking, fork-free network upgrades, and subchains. \r\n\r\nLook for the ticker symbol XEC on exchanges, wallets, or price charts, and take your first step towards true financial freedom."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://e.cash/",
+    "explorers": [
+        "https://explorer.bitcoinabc.org/"
+    ],
+    "twitter": "ecashofficial",
+    "telegram": "ecash_official",
+    "reddit": "ecash/",
+    "github_org": "bitcoin-abc"
+}

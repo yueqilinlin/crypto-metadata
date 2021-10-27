@@ -1,0 +1,31 @@
+{
+    "id": "cyclone-protocol",
+    "symbol": "cyc",
+    "name": "Cyclone Protocol",
+    "platforms": {
+        "iotex": "io1f4acssp65t6s90egjkzpvrdsrjjyysnvxgqjrh",
+        "binance-smart-chain": "0x810ee35443639348adbbc467b33310d2ab43c168",
+        "polygon-pos": "0xcfb54a6d2da14abecd231174fc5735b4436965d8",
+        "ethereum": "0x8861cff2366c1128fd699b68304ad99a0764ef9a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Cyclone is a multi-chain, non-custodial, privacy-preserving protocol. Cyclone applies zkSNARKs to enable transactional privacy by breaking the on-chain link between depositor and recipient addresses. It uses a smart contract that accepts coins/tokens deposits, which can be withdrawn by a different address. Whenever an asset is withdrawn from Cyclone, there is no way to link the withdrawal to the deposit for absolute privacy."
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "contract_address": "io1f4acssp65t6s90egjkzpvrdsrjjyysnvxgqjrh",
+    "url": "https://cyclone.xyz/",
+    "explorers": [
+        "https://iotexscan.io/token/io1f4acssp65t6s90egjkzpvrdsrjjyysnvxgqjrh",
+        "https://etherscan.io/address/0x8861cff2366c1128fd699b68304ad99a0764ef9a",
+        "https://bscscan.com/address/0x810ee35443639348adbbc467b33310d2ab43c168",
+        "https://polygonscan.com/token/0xcFb54a6D2dA14ABeCD231174FC5735B4436965D8"
+    ],
+    "twitter": "cycloneprotocol",
+    "telegram": "cycloneprotocol",
+    "github_org": "cycloneprotocol"
+}

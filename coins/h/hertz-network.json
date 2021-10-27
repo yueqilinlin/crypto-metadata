@@ -1,0 +1,21 @@
+{
+    "id": "hertz-network",
+    "symbol": "htz",
+    "name": "Hertz Network",
+    "platforms": {},
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [],
+    "description": {
+        "en": "HERTZ NETWORK is a fast and feeless blockchain protocol, powered by EOSIO, allowing users to create custom tokens with ease. HTZ coin is the native chain of Hertz Network blockchain.\r\n\r\nFAST \u2013 Taking only half a second to receive and 50 seconds to confirm, Hertz Network is among the fastest blockchain networks in the market.\r\n\r\nFEELESS - Everyone can easily send and receive feeless transactions on the Hertz Network with user-friendly HTZ desktop, mobile or web wallet.\r\n\r\nPOWERFUL - Fast, scalable and equipped with smart contract capabilities; Hertz Network can be used for various purposes and large-scale adoption."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://hertz-network.com/",
+    "explorers": [
+        "https://explorer.hertz-network.com/"
+    ],
+    "twitter": "hertz_network",
+    "facebook": "HertzNetwork",
+    "telegram": "hertznetwork",
+    "github_org": "hertznetwork"
+}

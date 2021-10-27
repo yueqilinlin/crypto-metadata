@@ -1,0 +1,23 @@
+{
+    "id": "bep20-leo",
+    "symbol": "bLEO",
+    "name": "BEP20 LEO",
+    "platforms": {
+        "binance-smart-chain": "0x6421531af54c7b14ea805719035ebf1e3661c44a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LeoFinance is a social media community that distributes LEO/wLEO/bLEO to authors and curators as tokenized rewards. The bLEO token is a BSC-bridge to our main chain token (LEO) on the Hive blockchain. Users earn tokenized rewards on our platform and can withdraw them as either wLEO (ERC20), bLEO(BSC) or LEO (Hive)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6421531af54c7b14ea805719035ebf1e3661c44a",
+    "url": "https://leofinance.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x6421531AF54C7B14Ea805719035EBf1e3661c44A"
+    ],
+    "twitter": "financeleo",
+    "telegram": "leofinanceio",
+    "github_org": "steemleo"
+}

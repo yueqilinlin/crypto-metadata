@@ -1,0 +1,28 @@
+{
+    "id": "ethorse",
+    "symbol": "horse",
+    "name": "Ethorse",
+    "platforms": {
+        "ethereum": "0x5b0751713b2527d7f002c0c4e2a37e1219610a6b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "Ethorse is an Ethereum Smart Contract based DApp for betting on the price of Cryptocurrencies and win from everyone who bets against you. Users bet on a coin/token that performs the best among all the other competing ones in a specific time period. Bets are placed and rewards are claimed using Metamask plugin for Chrome/Firefox or the Ethereum based Mist browser. Being completely secured by the blockchain, no one has control over the race or user funds once a contract is deployed and a race is announced"
+    },
+    "country_origin": "KY",
+    "genesis_date": "2018-01-09",
+    "contract_address": "0x5b0751713b2527d7f002c0c4e2a37e1219610a6b",
+    "url": "https://ethorse.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x5b0751713b2527d7f002c0c4e2a37e1219610a6b",
+        "https://ethplorer.io/address/0x5b0751713b2527d7f002c0c4e2a37e1219610a6b"
+    ],
+    "twitter": "EthorseTeam",
+    "facebook": "Ethorse-137754290239208",
+    "telegram": "ethorse",
+    "reddit": "ethorse",
+    "github_org": "ethorse"
+}

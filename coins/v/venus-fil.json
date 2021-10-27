@@ -1,0 +1,22 @@
+{
+    "id": "venus-fil",
+    "symbol": "vfil",
+    "name": "Venus FIL",
+    "platforms": {
+        "binance-smart-chain": "0xf91d58b5ae142dacc749f58a49fcbac340cb0343"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Venus is an algorithmic money market and synthetic stablecoin decentralized finance protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf91d58b5ae142dacc749f58a49fcbac340cb0343",
+    "url": "https://venus.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xf91d58b5ae142dacc749f58a49fcbac340cb0343"
+    ],
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+}

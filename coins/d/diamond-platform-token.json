@@ -1,0 +1,28 @@
+{
+    "id": "diamond-platform-token",
+    "symbol": "dpt",
+    "name": "Diamond Platform Token",
+    "platforms": {
+        "ethereum": "0x10c71515602429c19d53011ea7040b87a4894838"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Diamond Platform Token gives access to our platform and its services. DPT will also be used to pay the fees for the services."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x10c71515602429c19d53011ea7040b87a4894838",
+    "url": "https://cdiamondcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x10c71515602429c19d53011ea7040b87a4894838",
+        "https://ethplorer.io/address/0x10c71515602429c19d53011ea7040b87a4894838"
+    ],
+    "twitter": "cdiamondcoin",
+    "facebook": "Cdiamondcoin/",
+    "telegram": "cdiamondcoin",
+    "reddit": "cdiamondcoin/",
+    "github_org": "Cdiamondcoin"
+}

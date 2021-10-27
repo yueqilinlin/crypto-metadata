@@ -1,0 +1,24 @@
+{
+    "id": "dacsee",
+    "symbol": "dacs",
+    "name": "Dacsee",
+    "platforms": {
+        "ethereum": "0xa31108e5bab5494560db34c95492658af239357c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "The DACSEE platform (\"Decentralized Alternative Cabs Serving & Empowering Everyone\") is the world\u2019s first fully decentralized and autonomous social ride-sharing service. DACSEE drivers purchase DACSEE Token (a cryptocurrency token on the Ethereum blockchain) but may accept fares from passengers with the same token or any other traditional fiat method. When a fare is collected, almost all of it is returned to the platform stakeholders which consists of drivers, passengers and government authorities. This unique design enables DACSEE to expand virally without assistance or control from any corporate entity. The peer-to-peer payment methods and ability for drivers to use the platform to foster their own income-producing Circle of Friends\u2122 of drivers allows DACSEE to spread autonomously into new markets around the world, disrupting the current ride-hailing landscape."
+    },
+    "country_origin": "MY",
+    "genesis_date": null,
+    "contract_address": "0xa31108e5bab5494560db34c95492658af239357c",
+    "url": "https://dacsee.io/#/",
+    "explorers": [
+        "https://etherscan.io/token/0xa31108e5bab5494560db34c95492658af239357c",
+        "https://ethplorer.io/address/0xa31108e5bab5494560db34c95492658af239357c"
+    ],
+    "telegram": "dacsee"
+}

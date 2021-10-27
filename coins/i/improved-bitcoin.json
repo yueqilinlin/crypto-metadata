@@ -1,0 +1,19 @@
+{
+    "id": "improved-bitcoin",
+    "symbol": "iBTC",
+    "name": "Improved Bitcoin",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2020-03-16",
+    "url": "http://ibtc.network",
+    "explorers": [
+        "http://explorer.ibtc.network"
+    ],
+    "twitter": "ImprovedBitcoin",
+    "github_org": "NullFunctor"
+}

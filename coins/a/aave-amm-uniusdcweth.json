@@ -1,0 +1,25 @@
+{
+    "id": "aave-amm-uniusdcweth",
+    "symbol": "aAmmUniUSDCWETH",
+    "name": "Aave AMM UniUSDCWETH",
+    "platforms": {
+        "ethereum": "0x391e86e2c002c70dee155eaceb88f7a3c38f5976"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x391e86e2c002c70dee155eaceb88f7a3c38f5976",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/address/0x391E86e2C002C70dEe155eAceB88F7A3c38f5976",
+        "https://etherscan.io/token/0x391E86e2C002C70dEe155eAceB88F7A3c38f5976",
+        "https://ethplorer.io/address/0x391e86e2c002c70dee155eaceb88f7a3c38f5976"
+    ],
+    "twitter": "aaveaave"
+}

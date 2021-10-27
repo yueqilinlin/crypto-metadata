@@ -1,0 +1,23 @@
+{
+    "id": "peaches-finance",
+    "symbol": "pchs",
+    "name": "Peaches.Finance",
+    "platforms": {
+        "ethereum": "0xa4c6984e817c086ddc3ebaeedbdcc01469586918"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Peaches Protocol is a decentralized Synthetic Stock Tokens (pToken) issuance protocol built on Ethereum. These synthetic stock tokens are collateralized by the Stablecoins like DAI, USDt, USDc or corresponding Stablecoin ULPs and SLPs which when locked in the contract enable the issuance of pTokens. Synthetic Stock Tokens mimic the price behavior of real-world stocks and give traders anywhere in the world open access to price exposure without the  implications of owning or trading real stocks.\r\nThe minting of pTokens is decentralized and is handled by users of the protocol. Peaches.Finance ensures that there is always sufficient collateral within the protocol to cover pTokens.\r\nThe Peaches Token (PCHS) is minted by the protocol and distributed as an award to support conduct that secures the ecosystem. Peaches Protocol ensures liquid pToken markets by rewarding PCHS to users who stake LPs obtained through providing liquidity. Moreover Peaches Protocol will buy Peaches for generated fees, burn half and then transfer the rest for distribution to the Master Garden. Generating buying and deflationary pressure, making Peaches not only delicious, but also profitable."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa4c6984e817c086ddc3ebaeedbdcc01469586918",
+    "url": "https://peaches.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xa4c6984e817c086ddc3ebaeedbdcc01469586918",
+        "https://ethplorer.io/address/0xa4c6984e817c086ddc3ebaeedbdcc01469586918"
+    ],
+    "twitter": "PeachesFinance",
+    "telegram": "PeachesFinance"
+}

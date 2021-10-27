@@ -1,0 +1,21 @@
+{
+    "id": "iab",
+    "symbol": "iab",
+    "name": "IAB",
+    "platforms": {
+        "ethereum": "0xded2583b3fbf4b381851f5031188a5a3562ab2cd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xded2583b3fbf4b381851f5031188a5a3562ab2cd",
+    "url": "http://www.iabchain.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xded2583b3fbf4b381851f5031188a5a3562ab2cd",
+        "https://ethplorer.io/address/0xded2583b3fbf4b381851f5031188a5a3562ab2cd"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "unbox-art",
+    "symbol": "uba",
+    "name": "Unbox Art",
+    "platforms": {
+        "ethereum": "0x817e2addceaa4907623666a7800b1553ca21192d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A novel curation solution for NFT creators and collectors that also allows batched NFTs conversion to ERC20 tokens solving price discovery, fractionalization and capital efficiency for creative NFTs."
+    },
+    "country_origin": "ZA",
+    "genesis_date": null,
+    "contract_address": "0x817e2addceaa4907623666a7800b1553ca21192d",
+    "url": "https://unbox.art",
+    "explorers": [
+        "https://etherscan.io/token/0x817e2addceaa4907623666a7800b1553ca21192d",
+        "https://ethplorer.io/address/0x817e2addceaa4907623666a7800b1553ca21192d"
+    ],
+    "twitter": "unbox_art",
+    "telegram": "unboxart",
+    "github_org": "degen-vc"
+}

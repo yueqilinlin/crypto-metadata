@@ -1,0 +1,25 @@
+{
+    "id": "zkswap",
+    "symbol": "zks",
+    "name": "ZKSwap",
+    "platforms": {
+        "ethereum": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "ZKSwap is a layer2 DEX based on the ZK-Rollup technology and using the AMM model. ZKSwap provides zero-gas fee swapping and instantaneous confirmation, solving the scaling issues, with peak TVL over $1 billion. Unlike other layer2 solutions, the withdrawal from ZKSwap to layer1 is also very quick, taking approximately 40 minutes. \r\n\r\nCurrently live on Ethereum, ZKSwap will soon be implemented on BSC, HECO and OKEX Chain, #layer2_for_all. ZKSwap V2 is launching soon in June, enabling unlimited listing! After V2, we will launch #layer2_for_all and soon NFT swapping on layer2. \r\n\r\nThere are on-going liquidity mining and staking campaigns on ZKSwap, check it out now! "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
+    "url": "https://zks.org/en",
+    "explorers": [
+        "https://etherscan.io/token/0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
+        "https://ethplorer.io/address/0xe4815ae53b124e7263f08dcdbbb757d41ed658c6"
+    ],
+    "twitter": "ZKSwapOfficial",
+    "telegram": "zkswapofficial"
+}

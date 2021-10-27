@@ -1,0 +1,27 @@
+{
+    "id": "clover-finance",
+    "symbol": "clv",
+    "name": "Clover Finance",
+    "platforms": {
+        "ethereum": "0x80c62fe4487e1351b47ba49809ebd60ed085bf52",
+        "binance-smart-chain": "0x09e889bb4d5b474f561db0491c38702f367a4e4d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Clover is a Substrate-based DeFi service platform built on Polkadot. Clover provides an easy-to-use interoperable blockchain infrastructure through its extensive support for Ethereum\u2019s EVM-based applications and a wide range of implemented developer tools. Through its smart core, like Clover Scan and Clover multi-chain extension wallet, Clover will bring the smoothest and most advanced DeFi experience to its users."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x80c62fe4487e1351b47ba49809ebd60ed085bf52",
+    "url": "https://clover.finance",
+    "explorers": [
+        "https://clover.subscan.io/",
+        "https://etherscan.io/token/0x80C62FE4487E1351b47Ba49809EBD60ED085bf52",
+        "https://bscscan.com/token/0x09E889BB4D5b474f561db0491C38702F367A4e4d",
+        "https://ethplorer.io/address/0x80C62FE4487E1351b47Ba49809EBD60ED085bf52"
+    ],
+    "twitter": "clover_finance",
+    "telegram": "clover_en",
+    "github_org": "clover-network"
+}

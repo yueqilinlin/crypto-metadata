@@ -1,0 +1,20 @@
+{
+    "id": "hawaii-coin",
+    "symbol": "hwi",
+    "name": "Hawaii Coin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Tourism"
+    ],
+    "description": {
+        "en": "A coin for the Hawaii island"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "explorers": [
+        "https://www.coinexplorer.net/HWI"
+    ],
+    "twitter": "Hawaiicoin1",
+    "github_org": "MeetingInHawaii"
+}

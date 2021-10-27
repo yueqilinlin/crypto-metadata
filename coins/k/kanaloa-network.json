@@ -1,0 +1,23 @@
+{
+    "id": "kanaloa-network",
+    "symbol": "kana",
+    "name": "Kanaloa Network",
+    "platforms": {
+        "binance-smart-chain": "0x0328a69b363a16f66810b23cb0b8d32abadb203d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kanaloa network is a decentralized finance token and blockchain solutions provider focused on lowering the technical barrier and broadening the gateway into the world of defi. Kanaloa network is the \u201cnebula of defi\u201d, providing casual users an array of user-friendly products and the ability to safely participate in the exciting world of blockchain and decentralized finance with ease."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0328a69b363a16f66810b23cb0b8d32abadb203d",
+    "url": "https://kanaloa.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x0328a69b363a16f66810b23cb0b8d32abadb203d"
+    ],
+    "twitter": "KanaloaNetwork",
+    "telegram": "KanaloaNetwork",
+    "github_org": "kanaloa-network"
+}

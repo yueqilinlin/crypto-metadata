@@ -1,0 +1,23 @@
+{
+    "id": "balanced-dollars",
+    "symbol": "bnUSD",
+    "name": "Balanced Dollars",
+    "platforms": {
+        "icon": "cx88fd7df7ddff82f7cc735c871dc519838cb235bb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "cx88fd7df7ddff82f7cc735c871dc519838cb235bb",
+    "url": "https://balanced.network",
+    "explorers": [
+        "https://tracker.icon.foundation/token/cx88fd7df7ddff82f7cc735c871dc519838cb235bb"
+    ],
+    "twitter": "BalancedDao",
+    "telegram": "balanced_official",
+    "reddit": "BalancedNetwork/"
+}

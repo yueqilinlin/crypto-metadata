@@ -1,0 +1,29 @@
+{
+    "id": "piedao-btc",
+    "symbol": "btc++",
+    "name": "PieDAO BTC++",
+    "platforms": {
+        "ethereum": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "Tokenized BTC",
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+    "url": "http://btc.piedao.org",
+    "explorers": [
+        "https://etherscan.io/token/0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
+        "https://ethplorer.io/address/0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd"
+    ],
+    "twitter": "PieDAO_DeFi",
+    "telegram": "piedao",
+    "github_org": "pie-dao"
+}

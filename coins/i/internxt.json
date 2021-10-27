@@ -1,0 +1,27 @@
+{
+    "id": "internxt",
+    "symbol": "inxt",
+    "name": "Internxt",
+    "platforms": {
+        "ethereum": "0xa8006c4ca56f24d6836727d106349320db7fef82"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Internet of Things (IOT)"
+    ],
+    "description": {
+        "en": "Internxt is a Peer-To-Peer cloud computing network that allows users from all over the globe to cooperate in the creation of a distributed internet. Users can sell the resources of their machines to those looking to host their data in a more private, secure and efficient network. Make the transition to the most intuitive and complete distributed cloud platform."
+    },
+    "country_origin": "ES",
+    "genesis_date": "2017-09-07",
+    "contract_address": "0xa8006c4ca56f24d6836727d106349320db7fef82",
+    "url": "https://internxt.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa8006c4ca56f24d6836727d106349320db7fef82",
+        "https://ethplorer.io/address/0xa8006c4ca56f24d6836727d106349320db7fef82"
+    ],
+    "twitter": "Internxt",
+    "telegram": "https://t.me/internxt",
+    "reddit": "internxt",
+    "github_org": "internxt"
+}

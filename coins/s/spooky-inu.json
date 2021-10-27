@@ -1,0 +1,22 @@
+{
+    "id": "spooky-inu",
+    "symbol": "spook",
+    "name": "Spooky Inu",
+    "platforms": {
+        "fantom": "0x1f7cfc9c6954ecec7122d8c7e4e4e50df52f1c98"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$SPOOK is the first, community-driven dog token operating on the $FTM ecosystem.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1f7cfc9c6954ecec7122d8c7e4e4e50df52f1c98",
+    "url": "https://spookyinu.com",
+    "explorers": [
+        "https://ftmscan.com/token/0x1f7cfc9c6954ecec7122d8c7e4e4e50df52f1c98"
+    ],
+    "twitter": "SpookyInu",
+    "telegram": "SpookyInu"
+}

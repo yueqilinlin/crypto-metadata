@@ -1,0 +1,26 @@
+{
+    "id": "banksocial",
+    "symbol": "bsl",
+    "name": "BankSocial",
+    "platforms": {
+        "ethereum": "0x0af55d5ff28a3269d69b98680fd034f115dd53ac",
+        "binance-smart-chain": "0x0af55d5ff28a3269d69b98680fd034f115dd53ac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BankSocial\u2122 is a first-of-its-kind Decentralized Financed (\u201cDeFi\u201d) peer-to-peer lending platform built on Ethereum. Initially, members will be encouraged to hold $BSOCIAL crypto by redistribution of all token sales. Our vision is to build a proprietary BLOCKSCORE\u2122 social credit scoring system and social consensus lending pool, built with the security of smart contracts, to provide asset backed lending to the world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0af55d5ff28a3269d69b98680fd034f115dd53ac",
+    "url": "https://banksocial.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x0af55d5ff28a3269d69b98680fd034f115dd53ac",
+        "https://ethplorer.io/address/0x0af55d5ff28a3269d69b98680fd034f115dd53ac"
+    ],
+    "twitter": "BANKSOCIALio",
+    "facebook": "BankSocialOfficial",
+    "telegram": "banksocial",
+    "reddit": "BankSocial/"
+}

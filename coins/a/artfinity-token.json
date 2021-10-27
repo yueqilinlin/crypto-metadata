@@ -1,0 +1,21 @@
+{
+    "id": "artfinity-token",
+    "symbol": "at",
+    "name": "Artfinity Token",
+    "platforms": {
+        "ethereum": "0xe54b3458c47e44c37a267e7c633afef88287c294"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Chinese leading blockchain based ecosystem of artwork origin, security and exchange. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe54b3458c47e44c37a267e7c633afef88287c294",
+    "url": "http://www.jueyi.art/",
+    "explorers": [
+        "https://etherscan.io/token/0xe54b3458c47e44c37a267e7c633afef88287c294",
+        "https://ethplorer.io/address/0xe54b3458c47e44c37a267e7c633afef88287c294"
+    ]
+}

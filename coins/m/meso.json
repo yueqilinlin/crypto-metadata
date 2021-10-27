@@ -1,0 +1,23 @@
+{
+    "id": "meso",
+    "symbol": "meso",
+    "name": "Meso",
+    "platforms": {
+        "fantom": "0x4d9361a86d038c8ada3db2457608e2275b3e08d4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "fMESO, is the current yield token for the Meso Farms of the Meso Finance protocol, a multichain project that launched initially in Polygon mainnet for yield optimization services. In Fantom Opera Mainnet, it has launched as a yield farm rewarding investors with interests on their deposits either in native tokens or non-natives that users already have."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4d9361a86d038c8ada3db2457608e2275b3e08d4",
+    "url": "https://www.meso.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0x4d9361a86d038c8ada3db2457608e2275b3e08d4"
+    ],
+    "twitter": "mesofinance",
+    "telegram": "mesofinance",
+    "github_org": "MesoFinance"
+}

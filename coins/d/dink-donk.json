@@ -1,0 +1,23 @@
+{
+    "id": "dink-donk",
+    "symbol": "dink",
+    "name": "Dink Doink",
+    "platforms": {
+        "binance-smart-chain": "0xefd39883adb365fbf591bc0d624c9e1b12aea35f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dink Doink is a community Meme token forked from Australian Safe Shepherd ($ASS). Dink Doink is blurring the lines between entertainment and crypto. The token was fair launched, and every trade contributes toward automatically generating liquidity locked inside of PancakeSwap's liquidity pool. Holders are rewarded by earning passive rewards through static reflection!"
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xefd39883adb365fbf591bc0d624c9e1b12aea35f",
+    "url": "https://www.dinkdoink.xyz/",
+    "explorers": [
+        "https://bscscan.com/token/0xEfd39883aDb365fbf591bC0d624c9e1b12AEA35f"
+    ],
+    "twitter": "DinkDoink69",
+    "telegram": "DinkDoinkBSC",
+    "github_org": "DinkDoink"
+}

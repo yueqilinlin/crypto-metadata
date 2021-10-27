@@ -1,0 +1,28 @@
+{
+    "id": "bitblocks-project",
+    "symbol": "bbk",
+    "name": "BitBlocks",
+    "platforms": {
+        "binance-smart-chain": "0x9045b0eda6b6a556cf9b3d81c2db47411714f847"
+    },
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "BITBLOCKS is a business-oriented cryptocurrency directed towards entertainment, especially in video games and other areas that revolve around this current industry, such as championships, events, fairs, conferences, and game development among others. We know that this business is in rapid expansion worldwide and that video games have not ceased to be something exclusively marketed to target age groups. The climbing value of the gamer world has reached such a point of professionalism that there arecurrently athletes and video game teams, tournament achievements that are transmitted in real time on the internet and even on television."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "url": "http://bitblocksproject.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x9045b0eda6b6a556cf9b3d81c2db47411714f847",
+        "https://chainz.cryptoid.info/bbk/",
+        "http://bbk.ccore.online/"
+    ],
+    "twitter": "BitBlocks_",
+    "facebook": "BitBlocks-209330362976708",
+    "telegram": "BitblocksOfficial",
+    "reddit": "https://www.reddit.com",
+    "github_org": "BitBlocksProject"
+}

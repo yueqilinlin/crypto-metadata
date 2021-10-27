@@ -1,0 +1,23 @@
+{
+    "id": "sing-token-avalanche",
+    "symbol": "sing",
+    "name": "Sing Token (Avalanche)",
+    "platforms": {
+        "avalanche": "0xf9a075c9647e91410bf6c402bdf166e1540f67f0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Multichain, Yield farming project with triple farming system deployed. Launched on Polygon, BSC, Avalanche"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf9a075c9647e91410bf6c402bdf166e1540f67f0",
+    "url": "https://singular.farm/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0xF9A075C9647e91410bF6C402bDF166e1540f67F0/token-transfers"
+    ],
+    "twitter": "singularfarm",
+    "telegram": "singularfarm",
+    "github_org": "singularfarm"
+}

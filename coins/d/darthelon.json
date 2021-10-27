@@ -1,0 +1,22 @@
+{
+    "id": "darthelon",
+    "symbol": "darthelon",
+    "name": "DarthElon",
+    "platforms": {
+        "binance-smart-chain": "0xeb08ef74268cda2811025179b22bc63c410bd06e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Darth Elon is a community-led deflationary token on the Binance Smart Chain where the token holders get rewarded for holding tokens. With Darth Elon, holding is rewarded. From all transactions, 1% will be redistributed to all Darth Elon holders as passive income rewards.\r\n\r\nWhen joining Darth Elon, transactions have a limit in order to protect holders and investors from whales looking to gain unfair advantage in their holdings. This added feature has been put in place to also ensure that there exit-dumps do not take place, ensuring the longevity of the project.\r\n\r\nIn order to ensure constant liquidity in the pool, Darth Elon has been designed to add to the liquidity pool with every transaction. When holding Darth Elon, 3% of all transactions go towards adding liquidity. In order to ensure safety and transparency for all holders, the liquidity of Darth Elon has been locked."
+    },
+    "country_origin": "PK",
+    "genesis_date": null,
+    "contract_address": "0xeb08ef74268cda2811025179b22bc63c410bd06e",
+    "url": "https://darthelon.space/",
+    "explorers": [
+        "https://bscscan.com/token/0xeb08ef74268cda2811025179b22bc63c410bd06e"
+    ],
+    "twitter": "darth_elon",
+    "telegram": "DarthElon"
+}

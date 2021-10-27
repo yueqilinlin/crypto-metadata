@@ -1,0 +1,25 @@
+{
+    "id": "genesis-vision",
+    "symbol": "gvt",
+    "name": "Genesis Vision",
+    "platforms": {
+        "ethereum": "0x103c3a209da59d3e7c4a89307e66521e081cfdf0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Genesis Vision is the platform for the private trust management market, built on Blockchain technology and Smart Contracts. We combine exchanges, brokers, traders and investors into a decentralized, open and honest network, making the financial market even more global."
+    },
+    "country_origin": "RU",
+    "genesis_date": "2017-10-15",
+    "contract_address": "0x103c3a209da59d3e7c4a89307e66521e081cfdf0",
+    "url": "https://genesis.vision/",
+    "explorers": [
+        "https://etherscan.io/token/0x103c3a209da59d3e7c4a89307e66521e081cfdf0",
+        "https://ethplorer.io/address/0x103c3a209da59d3e7c4a89307e66521e081cfdf0"
+    ],
+    "twitter": "genesis_vision",
+    "telegram": "genesisvision",
+    "reddit": "genesisvision",
+    "github_org": "GenesisVision"
+}

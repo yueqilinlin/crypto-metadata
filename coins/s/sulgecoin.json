@@ -1,0 +1,22 @@
+{
+    "id": "sulgecoin",
+    "symbol": "sug",
+    "name": "Sulgecoin",
+    "platforms": {
+        "binance-smart-chain": "0x668a5163991662ca5098b2c1357cb73bbcb88a4f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sulge is an automated market-making DEX that rewards users just for holding SUG on their wallet. It's also mobile minable and uses an advanced technology, to allow users mine cryptocurrency on their phone. Users earns unlimited new tokens from Sulge's partners using Minedrop Dapp. The ecosystem comprises of SugMiner, SugSwap, SugNFT, SugLoan and Minedrop."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x668a5163991662ca5098b2c1357cb73bbcb88a4f",
+    "url": "https://sulge.org",
+    "explorers": [
+        "https://bscscan.com/token/0x668a5163991662ca5098b2c1357cb73bbcb88a4f"
+    ],
+    "twitter": "sulgecoin",
+    "telegram": "sulge"
+}

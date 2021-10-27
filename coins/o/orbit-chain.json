@@ -1,0 +1,25 @@
+{
+    "id": "orbit-chain",
+    "symbol": "orc",
+    "name": "Orbit Chain",
+    "platforms": {
+        "ethereum": "0x662b67d00a13faf93254714dd601f5ed49ef2f51"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Orbit Chain is an Inter-Chain Protocol, such that all ecosystem participants build together. Your choices, contribution, and interests can affect in the success and failure of the Orbit Chain. So, your \u2018vote\u2019 and \u2018participation\u2019 are more important than ever.\r\nThe first vote for the ORC holders will start by choosing the Genesis Validators. The nodes that will be selected as the 7 Genesis Validator will be responsible for producing blocks, verifying transactions, and more tasks related to operating the blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x662b67d00a13faf93254714dd601f5ed49ef2f51",
+    "url": "https://orbitchain.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x662b67d00a13faf93254714dd601f5ed49ef2f51",
+        "https://ethplorer.io/address/0x662b67d00a13faf93254714dd601f5ed49ef2f51"
+    ],
+    "twitter": "Orbit_Chain",
+    "telegram": "OrbitChainGlobal"
+}

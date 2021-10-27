@@ -1,0 +1,24 @@
+{
+    "id": "kompass",
+    "symbol": "komp",
+    "name": "Kompass",
+    "platforms": {
+        "ethereum": "0x41bc0913ed789428e107c4ea9ed007815c5a8230"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kompass platform currency, KOMP, will rely on Kompass wallet to establish a simple, accurate and safe investment platform through cryptocurrency. Therefore investors can not only invest in domestic investment targets in Korea but also various overseas high-quality investment targets. We will act as a decentralized connector in the early stage, and the user's USDT will not be retained on the platform. Later, with the development of the platform ecology, KOMP will be used to incentivize users in the ecology to build a decentralized smart financial investment platform. Users recommend assets by themselves, list assets through community and committees discussions, and continuously adjust the priority of various assets. In the end, just like the pos mechanism, different token holders govern the entire ecology according to their holdings, creating a decentralized autonomous ecology."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x41bc0913ed789428e107c4ea9ed007815c5a8230",
+    "url": "http://kompasswallet.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x41Bc0913ED789428E107C4eA9ED007815c5A8230",
+        "https://ethplorer.io/address/0x41Bc0913ED789428E107C4eA9ED007815c5A8230"
+    ],
+    "twitter": "Kompasswallet",
+    "facebook": "Kompass.wallet",
+    "telegram": "kompassofficial"
+}

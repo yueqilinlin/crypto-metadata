@@ -1,0 +1,23 @@
+{
+    "id": "nezuko-inu",
+    "symbol": "nezuko",
+    "name": "Nezuko Inu",
+    "platforms": {
+        "ethereum": "0xbc298dfaa2edda095b924f1390cc38fb7c5f6250"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Nezuko Inu aims to be the a leading distributor and publisher for aspiring doujinshi creators. Grassroot mangakas and animators are highly encouraged to submit their work in order to be accepted into the Nezuko Library."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbc298dfaa2edda095b924f1390cc38fb7c5f6250",
+    "url": "https://nezukoinu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xbc298dfaa2edda095b924f1390cc38fb7c5f6250",
+        "https://ethplorer.io/address/0xbc298dfaa2edda095b924f1390cc38fb7c5f6250"
+    ],
+    "telegram": "nezukoinu",
+    "github_org": "NezukoInu"
+}

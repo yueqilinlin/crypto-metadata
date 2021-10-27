@@ -1,0 +1,25 @@
+{
+    "id": "ibuffer-token",
+    "symbol": "ibfr",
+    "name": "iBuffer Token",
+    "platforms": {
+        "binance-smart-chain": "0xa296ad1c47fe6bdc133f39555c1d1177bd51fbc5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Options"
+    ],
+    "description": {
+        "en": "Buffer is a gamified options trading platform that empowers anyone around the world to buy and settle options on multiple assets directly against a liquidity pool."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa296ad1c47fe6bdc133f39555c1d1177bd51fbc5",
+    "url": "https://www.buffer.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xa296aD1C47FE6bDC133f39555C1D1177BD51fBc5"
+    ],
+    "twitter": "Buffer_Finance",
+    "telegram": "bufferfinance",
+    "github_org": "Buffer-Finance"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "devery",
+    "symbol": "eve",
+    "name": "Devery",
+    "platforms": {
+        "ethereum": "0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Retail"
+    ],
+    "description": {
+        "en": "As a business, you can only ensure produce is authentic through finding trusted suppliers. Devery allows organisations selling products via e-commerce to ensure their supply chain is secure. This prevents counterfeits and ensures supply agreements are honoured. The Devery protocol requires the EVE token to fuel the verification process. Suppliers will spend EVE tokens to mark unique identifiers for each product and record them on the blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-01-18",
+    "contract_address": "0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c",
+    "url": "https://devery.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c",
+        "https://ethplorer.io/address/0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c"
+    ],
+    "twitter": "deveryofficial",
+    "facebook": "devery.io",
+    "telegram": "deverychat",
+    "reddit": "deveryofficial/",
+    "github_org": "devery"
+}

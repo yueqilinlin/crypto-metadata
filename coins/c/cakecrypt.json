@@ -1,0 +1,22 @@
+{
+    "id": "cakecrypt",
+    "symbol": "cakecrypt",
+    "name": "CakeCrypt",
+    "platforms": {
+        "binance-smart-chain": "0x7683a961f87ef190cf7ba76b86cb2ee2de04e54f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hyper-optimized yield farming aggregator & locker on BSC and Pancakeswap"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7683a961f87ef190cf7ba76b86cb2ee2de04e54f",
+    "url": "https://cakecrypt.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x7683a961f87ef190cf7ba76b86cb2ee2de04e54f"
+    ],
+    "twitter": "cakecrypt",
+    "telegram": "cakecrypt"
+}

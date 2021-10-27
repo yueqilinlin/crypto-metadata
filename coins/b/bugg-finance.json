@@ -1,0 +1,23 @@
+{
+    "id": "bugg-finance",
+    "symbol": "bugg",
+    "name": "BUGG Finance",
+    "platforms": {
+        "binance-smart-chain": "0x7d62d515ca6dd901fc920e361559fd394eef3d52"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BUGG Finance (BUGG) is a community-focused, decentralized cryptocurrency with instant rewards for holders. BUGG Finance is a project on Binance Smart Chain to add value to the blockchain ecosystem through its passionate community and rewarding the community back through its decentralized protocol.\r\n\r\nBUGG Finance has witnessed very high growth rates in holders and the community which makes it stand apart from the crowd."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7d62d515ca6dd901fc920e361559fd394eef3d52",
+    "url": "https://bugg.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x7d62d515ca6dd901fc920e361559fd394eef3d52"
+    ],
+    "twitter": "BuggFinance",
+    "telegram": "BuggFinance",
+    "reddit": "BUGG_Finance/"
+}

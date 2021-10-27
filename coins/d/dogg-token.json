@@ -1,0 +1,24 @@
+{
+    "id": "dogg-token",
+    "symbol": "dogg",
+    "name": "DOGG Token",
+    "platforms": {
+        "ethereum": "0x559efe1d7a54fb1c7f25a036952f8498cdf02edb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$DOGG team will create a decentralized, stable, and secure ecosystem, and an artist incubator with focus on NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x559efe1d7a54fb1c7f25a036952f8498cdf02edb",
+    "url": "https://doggtoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x559efe1d7a54fb1c7f25a036952f8498cdf02edb",
+        "https://ethplorer.io/address/0x559efe1d7a54fb1c7f25a036952f8498cdf02edb"
+    ],
+    "twitter": "doggtoken?s=21",
+    "facebook": "doggToken",
+    "reddit": "https://www.reddit.com"
+}

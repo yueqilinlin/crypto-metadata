@@ -1,0 +1,26 @@
+{
+    "id": "coinnec",
+    "symbol": "coi",
+    "name": "Coinnec",
+    "platforms": {
+        "ethereum": "0x8a1a9477a710d470575b1da335e524b27e8091ab"
+    },
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Coinnec is a blockchain powered anonymous decentralized platform with personalized token based on Ethereum's smart contract ecosystem for transactions with ERC20 standard. Coinnec is an innovative cryptocurrency powered solution for the business that allows service providers and clients to send and receive payments in a collaborative P2P network platform. \r\n\r\nCoinnec is an innovative cryptocurrency powered solution for the business that allows service providers and clients to send and receive payments in a collaborative P2P network platform."
+    },
+    "country_origin": "PL",
+    "genesis_date": null,
+    "contract_address": "0x8a1a9477a710d470575b1da335e524b27e8091ab",
+    "url": "http://coinnec.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8a1a9477a710d470575b1da335e524b27e8091ab",
+        "https://ethplorer.io/address/0x8a1a9477a710d470575b1da335e524b27e8091ab"
+    ],
+    "twitter": "coinnec",
+    "facebook": "coinnec",
+    "telegram": "Coinnec"
+}

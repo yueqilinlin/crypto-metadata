@@ -1,0 +1,23 @@
+{
+    "id": "hex-money",
+    "symbol": "hxy",
+    "name": "HXY Money",
+    "platforms": {
+        "ethereum": "0xf3a2ace8e48751c965ea0a1d064303aca53842b9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HXY Money is an ERC20 token that is part of hex.business, an ecosystem built entirely around HEX."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf3a2ace8e48751c965ea0a1d064303aca53842b9",
+    "url": "https://hxy.business",
+    "explorers": [
+        "https://etherscan.io/token/0xf3a2ace8e48751c965ea0a1d064303aca53842b9",
+        "https://ethplorer.io/address/0xf3a2ace8e48751c965ea0a1d064303aca53842b9"
+    ],
+    "twitter": "HXYbusiness",
+    "telegram": "hexmobileapp"
+}

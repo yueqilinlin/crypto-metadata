@@ -1,0 +1,31 @@
+{
+    "id": "waves",
+    "symbol": "waves",
+    "name": "Waves",
+    "platforms": {
+        "ethereum": "0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Solana Ecosystem",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Waves is an open blockchain protocol and development toolset for Web 3.0 applications and decentralized solutions, aiming to raise security, reliability and speed of IT systems. It enables anyone to build their apps, fostering mass adoption of blockchain."
+    },
+    "country_origin": "CH",
+    "genesis_date": "2016-06-12",
+    "contract_address": "0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a",
+    "url": "https://waves.tech/",
+    "explorers": [
+        "http://wavesexplorer.com/",
+        "http://wavesgo.com/",
+        "https://wavesdesk.com",
+        "https://etherscan.io/token/0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a",
+        "https://ethplorer.io/address/0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a"
+    ],
+    "twitter": "wavesprotocol",
+    "telegram": "wavesnews",
+    "reddit": "Wavesplatform/",
+    "github_org": "wavesplatform"
+}

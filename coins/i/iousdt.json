@@ -1,0 +1,20 @@
+{
+    "id": "iousdt",
+    "symbol": "iousdt",
+    "name": "ioUSDT",
+    "platforms": {
+        "iotex": "0x6fbcdc1169b5130c59e72e51ed68a84841c98cd1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ioUSDT is a wrapped token that can be bridged to IoTeX from any networks via iotube."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6fbcdc1169b5130c59e72e51ed68a84841c98cd1",
+    "url": "https://iotube.org/",
+    "explorers": [
+        "https://iotexscan.io/token/0x6fbcdc1169b5130c59e72e51ed68a84841c98cd1"
+    ]
+}

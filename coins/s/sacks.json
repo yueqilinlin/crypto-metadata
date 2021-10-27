@@ -1,0 +1,25 @@
+{
+    "id": "sacks",
+    "symbol": "sacks",
+    "name": "Sacks",
+    "platforms": {
+        "ethereum": "0xa6610ed604047e7b76c1da288172d15bcda57596"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Tokenized Products",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa6610ed604047e7b76c1da288172d15bcda57596",
+    "url": "https://gitcoin.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xa6610Ed604047e7B76C1DA288172D15BcdA57596",
+        "https://ethplorer.io/address/0xa6610Ed604047e7B76C1DA288172D15BcdA57596"
+    ],
+    "reddit": "gitcoincommunity"
+}

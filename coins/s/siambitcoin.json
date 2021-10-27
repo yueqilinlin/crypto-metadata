@@ -1,0 +1,26 @@
+{
+    "id": "siambitcoin",
+    "symbol": "sbtc",
+    "name": "SiamBitcoin",
+    "platforms": {
+        "ethereum": "0xb8e103b60a33597136ea9511f46b6dbeb643a3a5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Communication"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "TH",
+    "genesis_date": null,
+    "contract_address": "0xb8e103b60a33597136ea9511f46b6dbeb643a3a5",
+    "url": "https://www.siambitcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xb8e103b60a33597136ea9511f46b6dbeb643a3a5",
+        "https://ethplorer.io/address/0xb8e103b60a33597136ea9511f46b6dbeb643a3a5"
+    ],
+    "twitter": "siambitcoin",
+    "facebook": "SiamBitcoin",
+    "telegram": "siambitcoin"
+}

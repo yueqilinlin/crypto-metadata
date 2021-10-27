@@ -1,0 +1,25 @@
+{
+    "id": "wrapped-cryptokitties",
+    "symbol": "wck",
+    "name": "Wrapped CryptoKitties",
+    "platforms": {
+        "ethereum": "0x09fe5f0236f0ea5d930197dce254d77b04128075"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Wrapped-Tokens",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "Each WCK Token backed by real cryptokitty. You can find them at this address:\r\nhttps://www.cryptokitties.co/profile/0x09fE5f0236F0Ea5D930197DCE254d77B04128075"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x09fe5f0236f0ea5d930197dce254d77b04128075",
+    "url": "https://wrappedkitties.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x09fE5f0236F0Ea5D930197DCE254d77B04128075",
+        "https://ethplorer.io/address/0x09fe5f0236f0ea5d930197dce254d77b04128075"
+    ]
+}

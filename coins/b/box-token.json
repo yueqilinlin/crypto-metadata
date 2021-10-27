@@ -1,0 +1,26 @@
+{
+    "id": "box-token",
+    "symbol": "box",
+    "name": "BOX Token",
+    "platforms": {
+        "ethereum": "0xe1a178b681bd05964d3e3ed33ae731577d9d96dd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Enterprise Token Safe Box Enterprise-grade management system for crypto assets BOX offers a secure, convenient and streamlined crypto asset management system for institutional investment, audit risk control, exchange platforms and custody services."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe1a178b681bd05964d3e3ed33ae731577d9d96dd",
+    "url": "https://box.la",
+    "explorers": [
+        "https://etherscan.io/token/0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD",
+        "https://ethplorer.io/address/0xe1a178b681bd05964d3e3ed33ae731577d9d96dd"
+    ],
+    "twitter": "boxla888",
+    "facebook": "www.box.la",
+    "telegram": "safeboxla",
+    "reddit": "boxla888/",
+    "github_org": "boxproject"
+}

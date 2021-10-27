@@ -1,0 +1,18 @@
+{
+    "id": "darklisk",
+    "symbol": "disk",
+    "name": "DarkLisk",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dark Lisk is a PoW/PoS hybrid that will change to full PoS when 100000 are mined, awarding users with a 200% annual interest for Proof of Stake Mining. Dark Lisk uses the algorithm X11, which provides fast and anonymous transactions."
+    },
+    "country_origin": null,
+    "genesis_date": null,
+    "url": [],
+    "explorers": [
+        "http://rainz.xyz:3006/"
+    ],
+    "github_org": "diskdev"
+}

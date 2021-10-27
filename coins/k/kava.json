@@ -1,0 +1,31 @@
+{
+    "id": "kava",
+    "symbol": "kava",
+    "name": "Kava",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem",
+        "Lending/Borrowing",
+        "Finance / Banking",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Kava is a cross-chain DeFi Hub for decentralized financial services and applications. The Kava DeFi Hub operates like a decentralized bank for digital assets connecting users with products like stablecoins, loans, and interest-bearing accounts so that they can do more and earn more with their digital assets.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KAVA-10C",
+    "url": "https://www.kava.io/",
+    "explorers": [
+        "https://www.mintscan.io/kava",
+        "https://kava.bigdipper.live/",
+        "https://hubble.figment.network/kava/chains/kava-2",
+        "https://explorer.binance.org/asset/KAVA-10C",
+        "https://kavascan.com/"
+    ],
+    "twitter": "kava_platform",
+    "telegram": "kavalabs",
+    "reddit": "https://www.reddit.com",
+    "github_org": "Kava-Labs"
+}

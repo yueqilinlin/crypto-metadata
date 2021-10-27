@@ -1,0 +1,19 @@
+{
+    "id": "predator-coin",
+    "symbol": "prd",
+    "name": "Predator Coin",
+    "platforms": {},
+    "hashing_algorithm": "Lyra2z",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://predatorcoin.online/",
+    "explorers": [
+        "http://explorer.predatorcoin.online/"
+    ],
+    "twitter": "PredatorCoin",
+    "github_org": "predatorcrypto"
+}

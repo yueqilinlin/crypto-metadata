@@ -1,0 +1,28 @@
+{
+    "id": "cryptobonusmiles",
+    "symbol": "cbm",
+    "name": "CryptoBonusMiles",
+    "platforms": {
+        "ethereum": "0x95efd1fe6099f65a7ed524def487483221094947",
+        "binancecoin": "CBM-4B2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CryptoBonusMiles helps to save on travelling even more, by adding CBM reward points to standard airline loyalty programs. CryptoBonusMiles expands Aeron solution to the mass market for millions of people who have ever flown, bringing convenience to the air travelers\r\n\r\nCryptoBonusMiles users are rewarded with native reward points (CBM tokens). A user gets CBM tokens for all activities on the platform, which accrue together with airline bonus miles. These tokens serve as extra rewards that flyers will be able to use on discounts for flight tickets or products at partner shops. It is tightly integrated with Aeron, offering extra benefits for Aeron (ARN) token holders. A platform user can earn even more CBM tokens through the referral program."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x95efd1fe6099f65a7ed524def487483221094947",
+    "url": "https://cryptobonusmiles.com/",
+    "explorers": [
+        "https://explorer.binance.org/asset/CBM-4B2",
+        "https://etherscan.io/token/0x95efd1fe6099f65a7ed524def487483221094947",
+        "https://ethplorer.io/address/0x95eFD1Fe6099F65a7ED524DEF487483221094947"
+    ],
+    "twitter": "aeron_aero",
+    "facebook": "aeronpublic",
+    "telegram": "aeronaero",
+    "reddit": "AeronAero/",
+    "github_org": "aeronaero"
+}

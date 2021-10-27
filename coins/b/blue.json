@@ -1,0 +1,23 @@
+{
+    "id": "blue",
+    "symbol": "blue",
+    "name": "Blue Protocol",
+    "platforms": {
+        "ethereum": "0x539efe69bcdd21a83efd9122571a64cc25e0282b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized 2-Factor Authentication, Blacklisting, Whitelisting, Auto Smart Contract Scanning, & more."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-10-18",
+    "contract_address": "0x539efe69bcdd21a83efd9122571a64cc25e0282b",
+    "url": "https://www.blueprotocol.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x539efe69bcdd21a83efd9122571a64cc25e0282b",
+        "https://ethplorer.io/address/0x539efe69bcdd21a83efd9122571a64cc25e0282b"
+    ],
+    "twitter": "blue_protocol",
+    "github_org": "BlueCrypto"
+}

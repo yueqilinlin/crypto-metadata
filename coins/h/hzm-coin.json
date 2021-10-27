@@ -1,0 +1,23 @@
+{
+    "id": "hzm-coin",
+    "symbol": "hzm",
+    "name": "HZM Coin",
+    "platforms": {
+        "ethereum": "0xec1b7eb3d3cfac7027fa60b5376e5eadef4f1300"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HZM Coin is a decentralized cryptocurrency built on Ethereum (ERC-20) blockchain. The coin was created with the purpose of global circulation and is intended for use in daily, real-life transactions. The coin is currently being launched on several platforms to help meet the goal of making the currency available to as many users as possible."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xec1b7eb3d3cfac7027fa60b5376e5eadef4f1300",
+    "url": "https://hzmcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xec1b7eb3d3cfac7027fa60b5376e5eadef4f1300",
+        "https://ethplorer.io/address/0xec1b7eb3d3cfac7027fa60b5376e5eadef4f1300"
+    ],
+    "twitter": "HZMCoin",
+    "telegram": "HZMcoinOfficial"
+}

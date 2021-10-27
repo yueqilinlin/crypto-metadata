@@ -1,0 +1,27 @@
+{
+    "id": "torum",
+    "symbol": "xtm",
+    "name": "Torum",
+    "platforms": {
+        "ethereum": "0xcd1faff6e578fa5cac469d2418c95671ba1a62fe",
+        "binance-smart-chain": "0xcd1faff6e578fa5cac469d2418c95671ba1a62fe",
+        "polygon-pos": "0xe1c42be9699ff4e11674819c1885d43bd92e9d15"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Torum is a social media platform that is specially designed for cryptocurrency users and projects.\r\n\r\nTorum empowers projects with a one-stop crypto marketing suite that enables them to expand their market reach to the right audience, while connecting users through a social media platform and fulfilling their crypto-focused needs through the integration of NFT, DeFi and aggregated industry data (market cap & news)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcd1faff6e578fa5cac469d2418c95671ba1a62fe",
+    "url": "https://www.torum.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xcd1faff6e578fa5cac469d2418c95671ba1a62fe",
+        "https://ethplorer.io/address/0xcd1faff6e578fa5cac469d2418c95671ba1a62fe",
+        "https://bscscan.com/token/0xcd1faff6e578fa5cac469d2418c95671ba1a62fe"
+    ],
+    "twitter": "torum_official",
+    "telegram": "torum_official_group_en",
+    "reddit": "torumtech/"
+}

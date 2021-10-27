@@ -1,0 +1,23 @@
+{
+    "id": "real-trump-token",
+    "symbol": "rtt",
+    "name": "Real Trump Token v2",
+    "platforms": {
+        "binance-smart-chain": "0xf41082c4cb71fb4628a9b17214b2624e0e2048a9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Real Trump Token is a project that aims to support re-election efforts of 45! Not only are holders rewarded, they will have access to our unique NFT store that allows custom art to be used on custom merchandise through our merchandise store! Holders will also take advantage of quarterly token burns!"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xf41082c4cb71fb4628a9b17214b2624e0e2048a9",
+    "url": "https://realtrumptoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xf41082c4cb71fb4628a9b17214b2624e0e2048a9"
+    ],
+    "twitter": "realtrumptoken",
+    "telegram": "realtrumptokenchat",
+    "github_org": "realtrumptoken"
+}

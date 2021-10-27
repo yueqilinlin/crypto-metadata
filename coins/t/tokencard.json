@@ -1,0 +1,29 @@
+{
+    "id": "tokencard",
+    "symbol": "tkn",
+    "name": "Monolith",
+    "platforms": {
+        "ethereum": "0xaaaf91d9b90df800df4f55c205fd6989c977e73a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Non-custodial contract wallet paired with a debit card to spend your ETH & ERC-20 in real life."
+    },
+    "country_origin": "GB",
+    "genesis_date": "2017-05-06",
+    "contract_address": "0xaaaf91d9b90df800df4f55c205fd6989c977e73a",
+    "url": "https://monolith.xyz",
+    "explorers": [
+        "https://etherscan.io/token/0xaaaf91d9b90df800df4f55c205fd6989c977e73a",
+        "https://ethplorer.io/address/0xaaaf91d9b90df800df4f55c205fd6989c977e73a"
+    ],
+    "twitter": "monolith_web3",
+    "facebook": "MonolithWeb3",
+    "telegram": "Monolith_Web3",
+    "reddit": "Monolith_Web3/",
+    "github_org": "tokencard"
+}

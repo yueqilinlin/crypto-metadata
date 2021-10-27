@@ -1,0 +1,24 @@
+{
+    "id": "suncontract",
+    "symbol": "snc",
+    "name": "SunContract",
+    "platforms": {
+        "ethereum": "0xf4134146af2d511dd5ea8cdb1c4ac88c57d60404"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SunContract is an energy trading platform that utilizes blockchain technology to create a new business model for buying and selling electricity. If you believe that blockchain technology can solve many of today's problems and that we are the team to take it to the energy sector, you are welcome to contribute.\r\n\r\n"
+    },
+    "country_origin": "SI",
+    "genesis_date": "2017-06-28",
+    "contract_address": "0xf4134146af2d511dd5ea8cdb1c4ac88c57d60404",
+    "url": "https://suncontract.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xF4134146AF2d511Dd5EA8cDB1C4AC88C57D60404",
+        "https://ethplorer.io/address/0xf4134146af2d511dd5ea8cdb1c4ac88c57d60404"
+    ],
+    "twitter": "sun_contract",
+    "reddit": "suncontract",
+    "github_org": "SunContract"
+}

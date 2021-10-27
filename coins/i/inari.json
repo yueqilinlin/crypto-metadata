@@ -1,0 +1,23 @@
+{
+    "id": "inari",
+    "symbol": "inari",
+    "name": "Inari",
+    "platforms": {
+        "ethereum": "0xca75c43f8c9afd356c585ce7aa4490b48a95c466"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Inari is a reflective ERC-20 community token with a dynamic fee structure, buyback, and black hole mechanics, which rewards holders, especially when whales take profit. \r\nThe token is characterized by two taxes both on buys and sells: the liquidity fee is split between buyback funds and marketing wallet; the redistribution is reflected to holders.\r\nThe difference between the two taxes is that the buy tax is fixed, while the sell tax is directly proportional to a sell's price impact, with minimum of 10% fee and maximum of 40% fee.\r\nEvery time a sell occurs, the contract buys back an amount of tokens proportional to the price impact as well. \r\nThis amount is determined as follows: buyback = baseAmount * (1 + (dynamicFee - staticFee) / staticFee) * K.\r\nAll the tokens bought back are sent to the dead address to be burned.\r\nFinally, since 60% of the initial supply was burned upon launch, and since the dead address also collects fees, as well as receiving the burned tokens, Inari is ultimate hyper-deflationary undumpable token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xca75c43f8c9afd356c585ce7aa4490b48a95c466",
+    "url": "https://inaritoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xca75c43f8c9afd356c585ce7aa4490b48a95c466",
+        "https://ethplorer.io/address/0xca75c43f8c9afd356c585ce7aa4490b48a95c466"
+    ],
+    "twitter": "TokenInari",
+    "telegram": "InariToken"
+}

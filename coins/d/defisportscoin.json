@@ -1,0 +1,24 @@
+{
+    "id": "defisportscoin",
+    "symbol": "dsc",
+    "name": "DefiSportsCoin",
+    "platforms": {
+        "binance-smart-chain": "0x662cbbeb9872251a795f85648333be0dbfcad653"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DefiSports is a registered Tech Company developing an ecosystem that incentivizes stakeholders through the hybrid platform with gaming and NFT and has signed professional athletes on board as ambassadors."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x662cbbeb9872251a795f85648333be0dbfcad653",
+    "url": "https://defisportscoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x662cbbeb9872251a795f85648333be0dbfcad653"
+    ],
+    "twitter": "DefiSportsCoin",
+    "telegram": "DefiSportsLLC",
+    "reddit": "DefiSports/",
+    "github_org": "DefiSportsCoin"
+}

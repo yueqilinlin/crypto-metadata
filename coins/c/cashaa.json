@@ -1,0 +1,26 @@
+{
+    "id": "cashaa",
+    "symbol": "cas",
+    "name": "Cashaa",
+    "platforms": {
+        "binance-smart-chain": "0x780207b8c0fdc32cf60e957415bfa1f2d4d9718c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Cashaa claims to be the largest crypto-friendly neo-bank based in the UK, providing services to hundreds of crypto businesses around the world. CAS powers the Cashaa banking ecosystem. As the native coin of the Cashaa platform, CAS has multiple utilities such as speedy application processing, discounted set up fees, cheaper international wire cost, rebate in exchange, and transaction fees, with exclusive crypto-friendly banking services restricted for CAS holders."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x780207b8c0fdc32cf60e957415bfa1f2d4d9718c",
+    "url": "https://www.cashaa.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x780207b8c0fdc32cf60e957415bfa1f2d4d9718c"
+    ],
+    "twitter": "yourCashaa",
+    "facebook": "cashaaLtd",
+    "telegram": "cashaanews",
+    "github_org": "cashaadev"
+}

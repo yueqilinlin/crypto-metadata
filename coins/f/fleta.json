@@ -1,0 +1,29 @@
+{
+    "id": "fleta",
+    "symbol": "fleta",
+    "name": "FLETA",
+    "platforms": {
+        "ethereum": "0x40897c872214303b6f479a37e549ee1516b264a2",
+        "binance-smart-chain": "0xff8152f09e0fddd1ce1577ef6eba72f3a7c2e7db"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "FLETA is a blockchain platform that aims to offer infrastructure that can be applied to real-world business models.  FLETA has its own core blockchain technologies like Level Tree Validation, Parallel Sharding, Independent multi-chain Structure, Block Redesign, and PoF(Proof-of-Formulation) which is its own consensus algorithm. With them, it aims to solve problems that existing platforms have such as slow speeds, scalability limitation, and excessive fees and provide a flexible development environment."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x40897c872214303b6f479a37e549ee1516b264a2",
+    "url": "https://fleta.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x40897c872214303b6f479a37e549ee1516b264a2",
+        "https://ethplorer.io/address/0x40897C872214303b6F479a37E549eE1516B264A2",
+        "https://bscscan.com/token/0xff8152f09e0fddd1ce1577ef6eba72f3a7c2e7db"
+    ],
+    "twitter": "fletachain",
+    "telegram": "FLETAofficialGroup",
+    "reddit": "fletachain/",
+    "github_org": "fletaio"
+}

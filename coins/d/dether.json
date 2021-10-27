@@ -1,0 +1,28 @@
+{
+    "id": "dether",
+    "symbol": "DTH",
+    "name": "Dether",
+    "platforms": {
+        "ethereum": "0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Dether is a decentralized and user friendly mobile app that enables to trade ether for cash. Dether is building a P2P ecosystem of crypto buyers, sellers and physical shops willing to trade ether and tokens for fiat currency without any middleman."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190",
+    "url": "https://dether.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190",
+        "https://ethplorer.io/address/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190"
+    ],
+    "twitter": "dether_io",
+    "facebook": "dether.io",
+    "telegram": "Dether_io",
+    "reddit": "Dether/",
+    "github_org": "dethertech"
+}

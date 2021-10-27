@@ -1,0 +1,23 @@
+{
+    "id": "crowdhero",
+    "symbol": "crwd",
+    "name": "CrowdHero",
+    "platforms": {
+        "binance-smart-chain": "0xca76a652ac3c3f3b8669bd41e22a9257bc6a6bc6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crowdfunding platform for NFT projects"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xca76a652ac3c3f3b8669bd41e22a9257bc6a6bc6",
+    "url": "https://www.crowdhero.co",
+    "explorers": [
+        "https://bscscan.com/token/0xca76a652ac3c3f3b8669bd41e22a9257bc6a6bc6"
+    ],
+    "twitter": "Crowdheroco",
+    "telegram": "crowdhero",
+    "github_org": "klabs-hoa"
+}

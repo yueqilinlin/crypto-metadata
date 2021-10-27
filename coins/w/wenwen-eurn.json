@@ -1,0 +1,24 @@
+{
+    "id": "wenwen-eurn",
+    "symbol": "eurn",
+    "name": "WENWEN EURN",
+    "platforms": {
+        "ethereum": "0x96dc9e0fe87eef0b48f88d6ac541ba4f9992aac6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The WENWEN Protocol is an algorithmic stablecoin protocol that operates via the central bank model. The ultimate goal of the WENWEN Protocol is to provide a highly scalable, decentralized algorithmic currency without collateral.\r\nEURN is one of the stablecoins in the WENWEN protocol that is pegged to the Euro."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x96dc9e0fe87eef0b48f88d6ac541ba4f9992aac6",
+    "url": "https://wenwen.money/",
+    "explorers": [
+        "https://etherscan.io/token/0x96dc9e0fE87EEf0b48f88d6aC541ba4F9992aac6",
+        "https://ethplorer.io/address/0x96dc9e0fe87eef0b48f88d6ac541ba4f9992aac6"
+    ],
+    "twitter": "wenwenprotocol",
+    "telegram": "wenwenprotocol",
+    "github_org": "wenwenprotocol"
+}

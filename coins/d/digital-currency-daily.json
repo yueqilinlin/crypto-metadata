@@ -1,0 +1,22 @@
+{
+    "id": "digital-currency-daily",
+    "symbol": "dcd",
+    "name": "Digital Currency Daily",
+    "platforms": {
+        "tron": "TNp9BX9NMjsmWPZugw13VisP1oVJT2pMDv"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Digital Currency is the native asset to the Digital Currency Daily ecosystem. It is solely utilized for engagement of the gamified experiences and transactions within the platform, assisting new users to get comfortable with Blockchain technology."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "TNp9BX9NMjsmWPZugw13VisP1oVJT2pMDv",
+    "url": "https://www.digitalcurrencydaily.com/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TNp9BX9NMjsmWPZugw13VisP1oVJT2pMDv"
+    ],
+    "twitter": "digitalcdaily",
+    "telegram": "digitalcurrencydaily"
+}

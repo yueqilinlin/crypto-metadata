@@ -1,0 +1,21 @@
+{
+    "id": "melonheadsprotocol",
+    "symbol": "mhsp",
+    "name": "MelonHeadSProtocol",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "A currency based off the value of gemstones."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://www.melonheads.org/",
+    "explorers": [
+        "https://blockexplorer.melonheads.org/"
+    ],
+    "twitter": "MHSP_Official",
+    "github_org": "MelonousHeadous"
+}

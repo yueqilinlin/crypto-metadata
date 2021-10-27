@@ -1,0 +1,23 @@
+{
+    "id": "antique-zombie-shards",
+    "symbol": "zomb",
+    "name": "Antique Zombie Shards",
+    "platforms": {
+        "ethereum": "0x78175901e9b04090bf3b3d3cb7f91ca986fb1af6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Fractions of a rare zombie CryptoPunk. Fewer than 1% of CryptoPunks are of the zombie type, with a current price floor of more than $13,000 USD per zombie. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x78175901e9b04090bf3b3d3cb7f91ca986fb1af6",
+    "url": "https://www.niftex.com/launches/details/ZOMB",
+    "explorers": [
+        "https://etherscan.io/token/0x78175901e9B04090Bf3B3D3cB7f91CA986fb1aF6",
+        "https://ethplorer.io/address/0x78175901e9b04090bf3b3d3cb7f91ca986fb1af6"
+    ]
+}

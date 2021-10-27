@@ -1,0 +1,22 @@
+{
+    "id": "babylink",
+    "symbol": "bblink",
+    "name": "BabyLink",
+    "platforms": {
+        "binance-smart-chain": "0xdb5bd5763c16e90f1d5b5947e1b9e2c278f054d9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The First Token To Reward Holders With CHAINLINK [Binance-PEG ChainLink] Directly To Your Wallet."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdb5bd5763c16e90f1d5b5947e1b9e2c278f054d9",
+    "url": "https://babylink.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xdb5bd5763c16e90f1d5b5947e1b9e2c278f054d9"
+    ],
+    "twitter": "babylinkbsc",
+    "telegram": "BabyLinkOfficial"
+}

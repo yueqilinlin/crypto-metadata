@@ -1,0 +1,24 @@
+{
+    "id": "apix",
+    "symbol": "apix",
+    "name": "APIX",
+    "platforms": {
+        "ethereum": "0xf51ebf9a26dbc02b13f8b3a9110dac47a4d62d78"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf51ebf9a26dbc02b13f8b3a9110dac47a4d62d78",
+    "url": "https://apisplatform.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78",
+        "https://ethplorer.io/address/0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78"
+    ],
+    "twitter": "Apis11Official",
+    "telegram": "TheApisplatform",
+    "github_org": "APIS-Platform"
+}

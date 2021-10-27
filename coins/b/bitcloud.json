@@ -1,0 +1,22 @@
+{
+    "id": "bitcloud",
+    "symbol": "btdx",
+    "name": "Bitcloud",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Bitcloud is a new type of decentralized currency. Not minted or endorsed by any nation, but by users across the globe. Anywhere there is internet, you can send or receive Bitclouds. Even in outer space. There are very little rules for Bitcloud. To prevent inflation only a limited supply of 200 million Bitclouds will ever exist. Bitclouds are mined by users at a set rate for decades into the future. You can get Bitclouds for free by mining or trading for them on an exchange."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-08-15",
+    "url": "https://bit-cloud.info/",
+    "explorers": [
+        "https://chainz.cryptoid.info/btdx/"
+    ],
+    "twitter": "Bitcloud_BTD",
+    "reddit": "bitcloud",
+    "github_org": "LIMXTEC"
+}

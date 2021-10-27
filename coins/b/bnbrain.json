@@ -1,0 +1,23 @@
+{
+    "id": "bnbrain",
+    "symbol": "brain",
+    "name": "BnbRain",
+    "platforms": {
+        "binance-smart-chain": "0xd53f89a893c825c09afd39e02369ca0bcf27d03d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BnbRain, community driven protocol that offers highest BNB Yields with BnbRain frictionless reward! Core functions of BNBRAIN are auto liquidity function and a passive disbursement yield whereby 18% of every sell transfer equally will be redistributed to the BRAIN BNB holders.\r\nThe longer you hold $BRAIN tokens, the more you earn in rewards! Simply buy & hold $BRAIN and you\u2019ll get 18% BNB airdropped to your wallet every 4 hours automagically!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd53f89a893c825c09afd39e02369ca0bcf27d03d",
+    "url": "https://bnbrain.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xd53f89a893c825c09afd39e02369ca0bcf27d03d"
+    ],
+    "twitter": "BnBrainCoin",
+    "telegram": "BnbRainCoin",
+    "github_org": "BnbRain"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "krown",
+    "symbol": "krw",
+    "name": "KROWN",
+    "platforms": {
+        "binance-smart-chain": "0x1446f3cedf4d86a9399e49f7937766e6de2a3aab"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KingDeFi is a DeFi project combining two main areas: analytics and monitoring where we provide a market overview, liquidity pool search engine and portfolio tracking to users and farming as we are a yield optimizer project on BSC and Solana.\r\n\u00a0\r\nIt offers its Knights (= users) an a) Earnings and b) Monitoring function.\r\n\u00a0\r\nWith the Earnings function, Knights can earn KROWN tokens by providing liquidity and staking directly on the KingDeFi platform.\r\n\u00a0\r\nWith the Monitoring function, Knights have an overview about all major yield platforms on BSC and Solana and receive automatic suggestions where to receive the best yields based on their token holdings in their wallet. With one click, Knights are easily directed to the best yielding platforms. Knights also have a dashboard showing all key statistics of all major platforms such as highest/lowest APYs, TVL and more.\r\n\u00a0\r\nIn combination, KingDeFi is the only \"\"go to\"\" place you need in order to optimize your farming and staking yields for both, BSC and Solana"
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x1446f3cedf4d86a9399e49f7937766e6de2a3aab",
+    "url": "https://kingdefi.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x1446f3cedf4d86a9399e49f7937766e6de2a3aab"
+    ],
+    "twitter": "KingDefi2",
+    "telegram": "KingDefi_Community",
+    "github_org": "kingdefi"
+}

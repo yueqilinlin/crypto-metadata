@@ -1,0 +1,23 @@
+{
+    "id": "caash",
+    "symbol": "cash",
+    "name": "Caash",
+    "platforms": {
+        "binance-smart-chain": "0x18950820a9108a47295b40b278f243dfc5d327b5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Caash is a tech startup building a user-friendly DeFi ecosystem, powered by $CASH. Caash Solutions are the utility. $CASH is the native asset. Our mission is to bring DeFi to the mainstream by building additional functionality on top of the Binance Smart Chain to make the overall crypto experience seamless.\r\n\r\nWe want Caash Solutions to be useful, easy, fast, and fun to use. We're determined to remove complexity and empower people that have never been exposed to crypto to not only feel comfortable, but confident while transacting."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x18950820a9108a47295b40b278f243dfc5d327b5",
+    "url": "https://www.caash.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x18950820A9108A47295b40B278F243DfC5D327B5"
+    ],
+    "twitter": "CaashTeam",
+    "telegram": "caashio",
+    "reddit": "Caash/"
+}

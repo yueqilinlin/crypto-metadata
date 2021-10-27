@@ -1,0 +1,28 @@
+{
+    "id": "stand-cash",
+    "symbol": "sac",
+    "name": "Stand Cash",
+    "platforms": {
+        "ethereum": "0xacd8f2523a4613eee78904354187c81bb05ae2b8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Yield Farming",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xacd8f2523a4613eee78904354187c81bb05ae2b8",
+    "url": "https://stand.cash/",
+    "explorers": [
+        "https://etherscan.io/token/0xacd8f2523a4613eee78904354187c81bb05ae2b8",
+        "https://ethplorer.io/address/0xacd8f2523a4613eee78904354187c81bb05ae2b8"
+    ],
+    "twitter": "StandCash",
+    "telegram": "standcash",
+    "github_org": "standcash"
+}

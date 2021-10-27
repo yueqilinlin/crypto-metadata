@@ -1,0 +1,24 @@
+{
+    "id": "tunnel-protocol",
+    "symbol": "tni",
+    "name": "Tunnel Protocol",
+    "platforms": {
+        "ethereum": "0xa5a2af22eac6f050227d844b108c2b2a011fd329"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tunnel the liquidity protocol connecting DeFi projects."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0xa5a2af22eac6f050227d844b108c2b2a011fd329",
+    "url": "https://tunnelprotocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa5a2Af22EAc6f050227d844B108c2B2A011FD329",
+        "https://ethplorer.io/address/0xa5a2af22eac6f050227d844b108c2b2a011fd329"
+    ],
+    "twitter": "Tunnelprotocol",
+    "telegram": "tunnelprotocol",
+    "github_org": "tunnelprotocol"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "sone-finance",
+    "symbol": "sone",
+    "name": "S-ONE Finance",
+    "platforms": {
+        "ethereum": "0xf5c771e0b749444eaec5c1f7ef5c0b93200bb0e4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "S-ONE FINANCE Platform is the decentralized solution for token swapping and staking.\r\nStore, Transfer, Exchange and Manage your crypto assets. In the easiesS-ONE FINANCE aims to be an ecosystem that is easy to handle even for the general public."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf5c771e0b749444eaec5c1f7ef5c0b93200bb0e4",
+    "url": "https://s-one.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xf5c771e0b749444eaec5c1f7ef5c0b93200bb0e4",
+        "https://ethplorer.io/address/0xf5c771e0b749444eaec5c1f7ef5c0b93200bb0e4"
+    ],
+    "twitter": "Sone_finance",
+    "telegram": "sone_finance",
+    "github_org": "S-ONE-Finance"
+}

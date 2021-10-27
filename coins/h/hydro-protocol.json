@@ -1,0 +1,25 @@
+{
+    "id": "hydro-protocol",
+    "symbol": "hot",
+    "name": "Hydro Protocol",
+    "platforms": {
+        "ethereum": "0x9af839687f6c94542ac5ece2e317daae355493a1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Hydro Protocol defines the rules for executing decentralized orders and provides the mechanism for order matching. Hydro utilizes \u201cFederated Liquidity Pools\u201d (FLP) to address the issue of liquidity sharing among various decentralized exchanges. "
+    },
+    "country_origin": "",
+    "genesis_date": "2018-01-16",
+    "contract_address": "0x9af839687f6c94542ac5ece2e317daae355493a1",
+    "url": "https://hydroprotocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9af839687f6c94542ac5ece2e317daae355493a1",
+        "https://ethplorer.io/address/0x9af839687f6c94542ac5ece2e317daae355493a1"
+    ],
+    "twitter": "protocol_hydro",
+    "telegram": "hydroprotocol"
+}

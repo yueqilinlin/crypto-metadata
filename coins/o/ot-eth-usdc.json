@@ -1,0 +1,23 @@
+{
+    "id": "ot-eth-usdc",
+    "symbol": "ot-ethusdc-29dec2022",
+    "name": "OT-ETH/USDC",
+    "platforms": {
+        "ethereum": "0x322d6c69048330247165231eb7848a5c80a48878"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x322d6c69048330247165231eb7848a5c80a48878",
+    "url": "https://www.pendle.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x322d6c69048330247165231eb7848a5c80a48878",
+        "https://ethplorer.io/address/0x322d6c69048330247165231eb7848a5c80a48878"
+    ],
+    "twitter": "pendle_fi",
+    "github_org": "pendle-finance"
+}

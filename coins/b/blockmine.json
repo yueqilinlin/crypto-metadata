@@ -1,0 +1,23 @@
+{
+    "id": "blockmine",
+    "symbol": "nugget",
+    "name": "Blockmine",
+    "platforms": {
+        "binance-smart-chain": "0xe0b58022487131ec9913c1f3acfd8f74fc6a6c7e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sustainable Liquidity Mining"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe0b58022487131ec9913c1f3acfd8f74fc6a6c7e",
+    "url": "https://block-mine.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xE0B58022487131eC9913C1F3AcFD8F74FC6A6C7E"
+    ],
+    "twitter": "blockmine_io",
+    "telegram": "blockmine_io",
+    "reddit": "Blockmine/"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "mirrored-amc-entertainment",
+    "symbol": "mamc",
+    "name": "Mirrored AMC Entertainment",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Mirrored Assets"
+    ],
+    "description": {
+        "en": "Mirrored AMC Entertainment - synthetic asset tracking the price of an AMC Entertainment stock. "
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "url": "https://mirror.finance",
+    "explorers": [
+        "https://finder.terra.money/columbus-4/token/terra1qelfthdanju7wavc5tq0k5r0rhsyzyyrsn09qy"
+    ],
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol",
+    "github_org": "mirror-protocol"
+}

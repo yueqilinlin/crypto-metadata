@@ -1,0 +1,19 @@
+{
+    "id": "pfzer-coin",
+    "symbol": "pfzr",
+    "name": "Pfzer Coin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [],
+    "description": {
+        "en": "Revolution In medical coin. You can deposit coin and get a vaccination, test, genuine papers in anonimity way."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "url": "https://www.pfzr.online/",
+    "explorers": [
+        "http://51.91.74.223:9203/"
+    ],
+    "twitter": "pfzercoin",
+    "github_org": "PFZER777"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "burndoge",
+    "symbol": "burndoge",
+    "name": "BurnDoge",
+    "platforms": {
+        "binance-smart-chain": "0xb73569a56614867601cd330dea8ab5a8f5570a2c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BurnDoge has learned a few tips and tricks from his meme father, Doge. BurnDoge seeks to impress his father by showing his new, improved transaction speeds & fierceness. BurnDoge is a hyper deflationary project that includes automatic rewards and automatic burn into its system.One of the most exciting aspects of BurnDoge token is the redistribution and auto burn mechanism that rewards 4% of every transaction directly to existing holders while burning 4% automatically. Its burning mechanism locks a certain amount of tokens for a period of time, and when it unlocks by phases, all of the tokens are sent to the burn address. BurnDoge's community is big and they need to sure that they grow and burn together!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb73569a56614867601cd330dea8ab5a8f5570a2c",
+    "url": "https://burndoge.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xb73569a56614867601cd330dea8ab5a8f5570a2c"
+    ],
+    "twitter": "burn_doge",
+    "telegram": "BurnDogeCommunity",
+    "reddit": "BurnDogeOfficial/",
+    "github_org": "BurnDoge"
+}

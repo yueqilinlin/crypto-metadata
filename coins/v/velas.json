@@ -1,0 +1,32 @@
+{
+    "id": "velas",
+    "symbol": "vlx",
+    "name": "Velas",
+    "platforms": {
+        "ethereum": "0x8c543aed163909142695f2d2acd0d55791a9edb9",
+        "binance-smart-chain": "0xe9c803f48dffe50180bd5b01dc04da939e3445fc"
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Solana Ecosystem",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "\"Velas AG, headquartered in Switzerland, is a new AI-operated dPoS (delegated proof of stake) blockchain project and an ecosystem on which one can build AI projects, dApps, smart contracts, etc. It is founded by the CEO of the world\u2019s first and biggest altcoin payment processor platform from 2013 \u2013 Coinpayments.net \u2013 Alex Alexandrov. Coinpayments created a CPS coin to provide its active merchants and users of 3'000 000 000 a discount token for transactions and fees, and earn staking rewards vaulting their CPS coin. The development of Velas rooted from CPS, as the founders saw an opportunity to create an own proprietary AI enhanced Blockhain and consensus protocol, rather than using a third party solution which still has flaws. Development of Velas started 2 years ago. \r\n\r\nCoinpayments Coin to Velas coin (VLX) was done via Coinpayments platform on the 4th of July 2019 and will mark the day of Velas independence from original token. This will also launch first Stage described in Technical Paper.\r\n\r\nThe purpose of Velas is to address and fix existing issues and challenges faced by most existing Blockchains, like centralization, 51% attack, nothing at stake problem, scalability, security, high upfront expenses, etc. It does so by using neural networks optimized by artificial intuition to enhance its consensus algorithm.\""
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x8c543aed163909142695f2d2acd0d55791a9edb9",
+    "url": "https://www.velas.com/",
+    "explorers": [
+        "https://explorer.velas.com/",
+        "https://bscscan.com/token/0xE9C803F48dFFE50180Bd5B01dC04DA939E3445Fc",
+        "https://etherscan.io/token/0x8c543aed163909142695f2d2acd0d55791a9edb9",
+        "https://ethplorer.io/address/0x8c543aed163909142695f2d2acd0d55791a9edb9"
+    ],
+    "twitter": "VelasBlockchain",
+    "facebook": "velasblockchain",
+    "telegram": "velascommunity",
+    "reddit": "Velas/",
+    "github_org": "velas"
+}

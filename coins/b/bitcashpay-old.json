@@ -1,0 +1,26 @@
+{
+    "id": "bitcashpay-old",
+    "symbol": "bcp",
+    "name": "BitcashPay (Old)",
+    "platforms": {
+        "ethereum": "0xe047705117eb07e712c3d684f5b18e74577e83ac",
+        "binance-smart-chain": "0xb44a9b6905af7c801311e8f4e76932ee959c663c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Staking and Yield Farming, Decentralized Lending, DEX with FIAT Cash-in/Cash-out, Crypto Academy, Payment Solution, Remittance.\r\nThe ALL-in-ONE DEFI PLATFORM."
+    },
+    "country_origin": "PH",
+    "genesis_date": null,
+    "contract_address": "0xe047705117eb07e712c3d684f5b18e74577e83ac",
+    "url": "https://bitcashpay.net/",
+    "explorers": [
+        "https://etherscan.io/token/0xe047705117eb07e712c3d684f5b18e74577e83ac",
+        "https://ethplorer.io/address/0xe047705117eb07e712c3d684f5b18e74577e83ac",
+        "https://bscscan.com/token/0xB44a9B6905aF7c801311e8F4E76932ee959c663C"
+    ],
+    "twitter": "Bitcashpay1",
+    "telegram": "BitcashpayOfficialgroup",
+    "github_org": "bitcashpay-dev"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "imagecoin",
+    "symbol": "img",
+    "name": "ImageCoin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [
+        "Media"
+    ],
+    "description": {
+        "en": "Proof of existence , Buy and Sell Images"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://imagecoin.imagehosty.com",
+    "explorers": [
+        "https://chainmapper.com/img"
+    ],
+    "twitter": "imagehosty",
+    "telegram": "ImageCoin_Official",
+    "github_org": "mceme"
+}

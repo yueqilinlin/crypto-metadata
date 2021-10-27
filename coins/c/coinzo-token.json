@@ -1,0 +1,26 @@
+{
+    "id": "coinzo-token",
+    "symbol": "cnz",
+    "name": "Coinzo Token",
+    "platforms": {
+        "ethereum": "0xc1965d7d18f37062b18ab3d5d1fe7f69873b30dd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "What is CNZ Token?\r\n- CNZ is crypto currency that formed with ERC20 protocol by Coinzo.\r\n- Supply quantity is fixed with a total of 400 million units.\r\n- CNZ is not an ICO. It\u2019s distributed to users with campaigns.\r\n- CNZ is supported by the Ethereum Wallets.\r\n\r\nWhat is the Purpose of CNZ Token?\r\nCNZ is designed to reflect the advantages of the Coinzo Platform to the users and to increase the efficiency of the platform.\r\nIncrease of CNZ price has been planned as a result, not a goal."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc1965d7d18f37062b18ab3d5d1fe7f69873b30dd",
+    "url": "https://www.coinzo.com/cnz",
+    "explorers": [
+        "https://etherscan.io/token/0xc1965d7d18f37062b18ab3d5d1fe7f69873b30dd",
+        "https://ethplorer.io/address/0xc1965d7d18f37062b18ab3d5d1fe7f69873b30dd"
+    ],
+    "twitter": "coinzocom",
+    "facebook": "coinzocom"
+}

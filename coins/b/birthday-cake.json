@@ -1,0 +1,22 @@
+{
+    "id": "birthday-cake",
+    "symbol": "bday",
+    "name": "Birthday Cake",
+    "platforms": {
+        "binance-smart-chain": "0x645748fa7e54a818310afdad898410bcb54fc4e0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The future of AMM and yield farming on Binance Smart Chain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x645748fa7e54a818310afdad898410bcb54fc4e0",
+    "url": "https://birthdaycake.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x645748fa7e54a818310afdad898410bcb54fc4e0"
+    ],
+    "twitter": "BdayCakeFinance",
+    "telegram": "birthdaycakefinance"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "rayons-energy",
+    "symbol": "rayons",
+    "name": "Rayons Energy",
+    "platforms": {
+        "binance-smart-chain": "0x81b24bd68791f970dbe0cff281445e3486866b4c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rayons Energy is a technology company focused on solar energy generation and its applications, seeking to consolidate the use of clean energy in the market. Initially, we are going to create a photovoltaic plant to use the energy to mine cryptocurrencies. In a second stage, we are going create a large-scale solar plant to sell the energy generated to companies via a consortium. In the third stage, we are going to create a business condominium within the plant so that companies that demand high energy consumption migrate their operations to the condominium and, by renting our warehouses, reduce their costs with the energy bill, in addition to contributing to sustainability and may receive government incentives for using energy from renewable sources."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x81b24bd68791f970dbe0cff281445e3486866b4c",
+    "url": "https://rayonsenergy.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x81b24bd68791f970dbe0cff281445e3486866b4c"
+    ],
+    "twitter": "en_rayons",
+    "telegram": "RayonsEnergy_USA",
+    "reddit": "RayonsEnergy/"
+}

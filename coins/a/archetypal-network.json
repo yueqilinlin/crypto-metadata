@@ -1,0 +1,26 @@
+{
+    "id": "archetypal-network",
+    "symbol": "actp",
+    "name": "Archetypal Network",
+    "platforms": {
+        "ethereum": "0x7b2df125567815ac9b57da04b620f50bc93b320c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Archetypal Network is a decentralized currency governed by ecosystem on the blockchain and serves as global payment system. Companies,individuals and business partners can send and \r\n\r\nreceive funds globally using ACTP digital currency as of payments."
+    },
+    "country_origin": "PH",
+    "genesis_date": null,
+    "contract_address": "0x7b2df125567815ac9b57da04b620f50bc93b320c",
+    "url": "https://archetypal.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x7b2df125567815ac9b57da04b620f50bc93b320c",
+        "https://ethplorer.io/address/0x7b2df125567815ac9b57da04b620f50bc93b320c"
+    ],
+    "twitter": "ArchetypalNet",
+    "telegram": "ArchetypalNetwork_Group",
+    "github_org": "ACTP"
+}

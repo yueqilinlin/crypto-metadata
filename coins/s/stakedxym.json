@@ -1,0 +1,25 @@
+{
+    "id": "stakedxym",
+    "symbol": "stxym",
+    "name": "stakedXYM",
+    "platforms": {
+        "ethereum": "0x8f5e78888f8933ed676a62bb6b58a4b279abe408"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "stakedXYM (stXYM) from the partnership between StakeHound and NEM is a tokenized 1:1 representation of XYM being staked with StakeHound. Staking rewards are distributed directly into holders' wallets. Holders can also access the DeFi ecosystem with stXYM."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x8f5e78888f8933ed676a62bb6b58a4b279abe408",
+    "url": "https://stakehound.com",
+    "explorers": [
+        "https://etherscan.io/token/0x8f5e78888f8933ed676a62bb6b58a4b279abe408",
+        "https://ethplorer.io/address/0x8f5e78888f8933ed676a62bb6b58a4b279abe408"
+    ],
+    "twitter": "stakedTokens",
+    "facebook": "StakeHound",
+    "telegram": "stakehound",
+    "github_org": "stakehound"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "bollo-token",
+    "symbol": "bolo",
+    "name": "Bollo Token",
+    "platforms": {
+        "binance-smart-chain": "0x1921168344840d1ca5acd82e8815f24582d4ad27"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "contract_address": "0x1921168344840d1ca5acd82e8815f24582d4ad27",
+    "url": "https://bollo.me/",
+    "explorers": [
+        "https://bscscan.com/token/0x1921168344840d1ca5acd82e8815f24582d4ad27"
+    ],
+    "telegram": "bolloswap"
+}

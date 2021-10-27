@@ -1,0 +1,27 @@
+{
+    "id": "qusd-stablecoin",
+    "symbol": "qusd",
+    "name": "QUSD Stablecoin",
+    "platforms": {
+        "ethereum": "0x59d4ccc94a9c4c3d3b4ba2aa343a9bdf95145dd1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "USD Stablecoin",
+        "Decentralized Finance (DeFi)",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "QUSD\u00a0is the first kind of stablecoin of QIAN protocol."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x59d4ccc94a9c4c3d3b4ba2aa343a9bdf95145dd1",
+    "url": "https://qian.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x59d4CCC94A9C4C3d3b4bA2Aa343a9bDF95145DD1",
+        "https://ethplorer.io/address/0x59d4ccc94a9c4c3d3b4ba2aa343a9bdf95145dd1"
+    ],
+    "twitter": "QIAN_Stablecoin",
+    "github_org": "QIAN-Protocol"
+}

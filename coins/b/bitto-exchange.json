@@ -1,0 +1,29 @@
+{
+    "id": "bitto-exchange",
+    "symbol": "BITTO",
+    "name": "BITTO",
+    "platforms": {
+        "ethereum": "0x55a290f08bb4cae8dcf1ea5635a3fcfd4da60456",
+        "binance-smart-chain": "0x816e9e589f8c07149da4e2496c547952338b27e2"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "We are a Global International Cryptocurrency Exchange that provides Signal Trading, Proof Of Stake Dividends and More within a safe and secure platform."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x55a290f08bb4cae8dcf1ea5635a3fcfd4da60456",
+    "url": "https://www.bitto.tech/",
+    "explorers": [
+        "https://etherscan.io/token/0x55a290f08bb4cae8dcf1ea5635a3fcfd4da60456",
+        "https://ethplorer.io/address/0x55a290f08bb4cae8dcf1ea5635a3fcfd4da60456"
+    ],
+    "twitter": "bittoexchange",
+    "facebook": "bittoexchange",
+    "telegram": "BittoExchangeOfficial",
+    "reddit": "bittoexchange",
+    "github_org": "BittoExchange"
+}

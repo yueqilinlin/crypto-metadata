@@ -1,0 +1,24 @@
+{
+    "id": "yfuel",
+    "symbol": "yfuel",
+    "name": "YFUEL",
+    "platforms": {
+        "ethereum": "0xbd301be09eb78df47019aa833d29edc5d815d838"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YFUEL is the governance. The project aims to bring the true value of yearn finance accessible to all users, regardless of whether you are a big whale or small minnow, via its unique features, namely the voting of the inflationary rate of the supply and a referral system with automatic burning done fully on-chain."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xbd301be09eb78df47019aa833d29edc5d815d838",
+    "url": "https://home.yfuel.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xbd301be09eb78df47019aa833d29edc5d815d838",
+        "https://ethplorer.io/address/0xbd301be09eb78df47019aa833d29edc5d815d838"
+    ],
+    "twitter": "yfuelfinance",
+    "telegram": "yfuelfinance",
+    "github_org": "yfueldev"
+}

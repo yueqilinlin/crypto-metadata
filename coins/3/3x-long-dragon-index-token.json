@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-dragon-index-token",
+    "symbol": "drgnbull",
+    "name": "3X Long Dragon Index Token",
+    "platforms": {
+        "ethereum": "0x3335f16af9008bfd32f1ee6c2be5d4f84fa0b9da"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Dragon Index Token (DRGNBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Dragon Index."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3335f16af9008bfd32f1ee6c2be5d4f84fa0b9da",
+    "url": "https://ftx.com/tokens/DRGNBULL",
+    "explorers": [
+        "https://etherscan.io/token/0x3335f16AF9008bFd32f1eE6C2Be5d4f84FA0b9da",
+        "https://ethplorer.io/address/0x3335f16af9008bfd32f1ee6c2be5d4f84fa0b9da"
+    ]
+}

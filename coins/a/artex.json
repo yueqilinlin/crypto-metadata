@@ -1,0 +1,23 @@
+{
+    "id": "artex",
+    "symbol": "artex",
+    "name": "Artex",
+    "platforms": {
+        "binance-smart-chain": "0xf1b032e7225d1c9068ce317a956a0e8007591ba0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Artex is the world's first and only blockchain-based art investment platform that you can easily trade and manage your fine art investments anytime."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0xf1b032e7225d1c9068ce317a956a0e8007591ba0",
+    "url": "https://artex.app/",
+    "explorers": [
+        "https://bscscan.com/token/0xf1b032e7225d1c9068ce317a956a0e8007591ba0"
+    ],
+    "twitter": "artexcommunity",
+    "telegram": "artexcommunity",
+    "github_org": "artexapp"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "hegic",
+    "symbol": "hegic",
+    "name": "Hegic",
+    "platforms": {
+        "ethereum": "0x584bc13c7d411c00c01a62e8019472de68768430",
+        "fantom": "0x44b26e839eb3572c5e959f994804a5de66600349"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Options",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x584bc13c7d411c00c01a62e8019472de68768430",
+    "url": "https://www.hegic.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x584bc13c7d411c00c01a62e8019472de68768430",
+        "https://ethplorer.io/address/0x584bc13c7d411c00c01a62e8019472de68768430"
+    ],
+    "twitter": "HegicOptions",
+    "telegram": "HegicOptions",
+    "github_org": "hegic"
+}

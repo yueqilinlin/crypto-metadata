@@ -1,0 +1,24 @@
+{
+    "id": "hermez-network-token",
+    "symbol": "hez",
+    "name": "Hermez Network",
+    "platforms": {
+        "ethereum": "0xeef9f339514298c6a857efcfc1a762af84438dee"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hermez is a decentralized zk-rollup focused on scaling payments and token transfers on top of Ethereum."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0xeef9f339514298c6a857efcfc1a762af84438dee",
+    "url": "https://hermez.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xeef9f339514298c6a857efcfc1a762af84438dee",
+        "https://ethplorer.io/address/0xeef9f339514298c6a857efcfc1a762af84438dee"
+    ],
+    "twitter": "PolygonHermez",
+    "telegram": "polygonhermez",
+    "github_org": "hermeznetwork"
+}

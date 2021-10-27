@@ -1,0 +1,21 @@
+{
+    "id": "bean-cash",
+    "symbol": "bitb",
+    "name": "Bean Cash",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": "Bean Cash has a maximum coin supply of 50 billion virtual beans, approximately 2380 times more than Bitcoin's supply. It will take 96 years before all of Bitbean's supply is fully available. It is the first cryptocurrency to implement a 20MB block size limit. Bitbean has a confirmation time of 1 minute."
+    },
+    "country_origin": "",
+    "genesis_date": "2015-02-14",
+    "url": "http://beancash.org/",
+    "explorers": [
+        "https://chainz.cryptoid.info/bean/",
+        "https://beancash.info"
+    ],
+    "twitter": "BeanCash_BEAN",
+    "reddit": "BeanCashOfficial",
+    "github_org": "TeamBitBean"
+}

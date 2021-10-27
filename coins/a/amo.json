@@ -1,0 +1,28 @@
+{
+    "id": "amo",
+    "symbol": "amo",
+    "name": "AMO Coin",
+    "platforms": {
+        "ethereum": "0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Big Data"
+    ],
+    "description": {
+        "en": "AMO is a blockchain infrastructure for the efficient exchange and sharing of all CAR DATA powering the next generation of automobiles. For car users, manufacturers, and relevant service providers, this means that data will no longer be under the centralized control of specific companies, but rather become public assets that allow for valuable services to be made available. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169",
+    "url": "https://amo.foundation/",
+    "explorers": [
+        "https://etherscan.io/token/0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169",
+        "https://ethplorer.io/address/0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169"
+    ],
+    "twitter": "amoblockchain",
+    "facebook": "amoblockchain",
+    "telegram": "amo_official",
+    "reddit": "amoblockchain",
+    "github_org": "AMO-Project"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "rowan-coin",
+    "symbol": "rwn",
+    "name": "Rowan Coin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Energy"
+    ],
+    "description": {
+        "en": "Rowan Energy Blockchain is the world's first community supported Green Energy Blockchain. Our blockchain is based on the low powered Proof of Authority consensus mechanism, Where each of our members takes a role either validating the energy transactions or generating renewable electricity and selling it back to the community."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://rowanenergy.com/",
+    "explorers": [
+        "http://rowanenergyblockchain.com/",
+        "http://178.128.167.244/"
+    ],
+    "twitter": "RowanEnergy",
+    "facebook": "Rowanenergycompany",
+    "telegram": "rowanenergy",
+    "github_org": "QuestgltNew"
+}

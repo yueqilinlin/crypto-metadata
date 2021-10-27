@@ -1,0 +1,27 @@
+{
+    "id": "eurocoinpay",
+    "symbol": "ecte",
+    "name": "EurocoinToken",
+    "platforms": {
+        "ethereum": "0xe9fa21e671bcfb04e6868784b89c19d5aa2424ea"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "The EurocoinToken (ECTE) was created for micropayments and international transactions. We would like to have our main customer pool in B2C market. Our main target are brick  and  mortar  businesses with their customers. They are interested in using cryptocurrencies as a means of payment for goods/services, so they will benefit from our reliable, fast, secure and transparent payment gateway. Other enterprise which will benefit from the advantages of Eurocoinpay offers are B2B businesses, online or offline and web-based B2C companies. Our end-users are sellers merchants paying for products/services  of  the  company,  as  both  will  use  the  payment  app  and  its  wallets."
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0xe9fa21e671bcfb04e6868784b89c19d5aa2424ea",
+    "url": "https://eurocoinpay.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xe9fa21e671bcfb04e6868784b89c19d5aa2424ea",
+        "https://ethplorer.io/address/0xe9fa21e671bcfb04e6868784b89c19d5aa2424ea"
+    ],
+    "twitter": "eurocoinpay",
+    "facebook": "eurocoinpay",
+    "telegram": "eurocoinpay_io",
+    "github_org": "EurocoinpayOK"
+}

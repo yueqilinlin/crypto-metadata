@@ -1,0 +1,24 @@
+{
+    "id": "sabaka-inu",
+    "symbol": "SABAKA INU",
+    "name": "Sabaka Inu",
+    "platforms": {
+        "binance-smart-chain": "0xc30f12cd65f61ded24db6c415c84f999c9704ebc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "PL",
+    "genesis_date": null,
+    "contract_address": "0xc30f12cd65f61ded24db6c415c84f999c9704ebc",
+    "url": "https://sabakatoken.com/",
+    "explorers": [
+        "https://www.bscscan.com/token/0xc30f12cd65f61ded24db6c415c84f999c9704ebc",
+        "https://bscscan.com/token/0xc30f12cd65f61ded24db6c415c84f999c9704ebc"
+    ],
+    "twitter": "sabakatoken",
+    "telegram": "sabakatokenchat",
+    "reddit": "https://www.reddit.com"
+}

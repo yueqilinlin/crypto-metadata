@@ -1,0 +1,22 @@
+{
+    "id": "tools",
+    "symbol": "tools",
+    "name": "TOOLS",
+    "platforms": {
+        "binance-smart-chain": "0x1311b352467d2b5c296881badea82850bcd8f886"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The first and most advanced Decentralized Finance (DeFi) dashboard that aims at supercharging your trading experience on Binance Smart Chain (BSC).\r\n\r\nThe main goal is to provide traders and investors with the possibility to monitor your favorite BSC pairs and create advanced trading strategies without having to search for the information in a wide range of non-standardized platforms and websites.\r\n\r\nBSC.Tools shares with traders on-chain and live trading data from DeFi exchanges based on the Binance Smart Chain. In this way, users can get access to deep historical data, chart candles and the transactions that have been recorded on each of the platforms."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1311b352467d2b5c296881badea82850bcd8f886",
+    "url": "https://bsc.tools/",
+    "explorers": [
+        "https://bscscan.com/token/0x1311b352467d2B5c296881BaDEA82850bcd8f886"
+    ],
+    "twitter": "bscdottools",
+    "telegram": "bscdottoolschat"
+}

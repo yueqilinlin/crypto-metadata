@@ -1,0 +1,24 @@
+{
+    "id": "afin-coin",
+    "symbol": "afin",
+    "name": "Asian Fintech",
+    "platforms": {
+        "ethereum": "0xee9e5eff401ee921b138490d00ca8d1f13f67a72"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AFIN Coin aims to bridge the gap between cryptocurrency and sustainability, allowing users to be involved in cryptocurrency whilst being socially and environmentally responsible and accountable at the same time. Essentially, it is a cryptocurrency with a conscience. Along with owning Green Bitcoin, a bitcoin which utilizes clean energy such as solar, wind, hydro to mine."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xee9e5eff401ee921b138490d00ca8d1f13f67a72",
+    "url": "https://www.afincoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xee9e5eff401ee921b138490d00ca8d1f13f67a72",
+        "https://ethplorer.io/address/0xee9e5eff401ee921b138490d00ca8d1f13f67a72"
+    ],
+    "twitter": "AfinCoin",
+    "facebook": "asianfintech",
+    "telegram": "AfinCoin"
+}

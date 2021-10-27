@@ -1,0 +1,22 @@
+{
+    "id": "boxaxis",
+    "symbol": "baxs",
+    "name": "BoxAxis",
+    "platforms": {
+        "ethereum": "0xacf3d402e5e2c3edd5b8129e966017d293f12a4c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BoxAxis is an economical-driven blockchain application platform and interaction standard for the Internet of Things. The parallel chain structure\r\nconnects devices to each other to form a distributed network, and the consensus algorithm is used to ensure the legal\r\ntrustworthiness of transactions between devices. At the same time, different types of equipment can access differentparallel chains to avoid the\r\nexplosive growth of the general ledger."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xacf3d402e5e2c3edd5b8129e966017d293f12a4c",
+    "url": "http://www.boxaxis.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xacf3d402e5e2c3edd5b8129e966017d293f12a4c",
+        "https://ethplorer.io/address/0xacf3d402e5e2c3edd5b8129e966017d293f12a4c"
+    ],
+    "telegram": "boxaxis"
+}

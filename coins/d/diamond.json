@@ -1,0 +1,24 @@
+{
+    "id": "diamond",
+    "symbol": "dmd",
+    "name": "Diamond",
+    "platforms": {},
+    "hashing_algorithm": "Groestl",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Founded in 2013, DMD Diamond is constantly evolving and upgrading to new market conditions.\r\n\r\nIts 2021 upgrade \u2014 DMD v4 \u2014 features true decentralization, on-chain governance, fast transaction times, low fees, low carbon footprint, security, interoperability, and smart contracts deployment. DMD v4 utilizes the world\u2019s first blockchain with a cooperative HBBFT consensus supplemented by a dPOS-based validator election.  On top of that, DMD v4 is the first blockchain to implement a sustainable and endless reward mechanic with a low max finite supply of just 4.38 million coins."
+    },
+    "country_origin": "",
+    "genesis_date": "2013-07-13",
+    "url": "http://bit.diamonds/",
+    "explorers": [
+        "http://diamond.danbo.bg:2750/chain/Diamond",
+        "https://dmd.tokenview.com/"
+    ],
+    "twitter": "dmdcoin",
+    "facebook": "dmdcoin",
+    "reddit": "dmd",
+    "github_org": "DMDcoin"
+}

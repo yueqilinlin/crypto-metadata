@@ -1,0 +1,23 @@
+{
+    "id": "hoodrat-finance",
+    "symbol": "hoodrat",
+    "name": "Hoodrat Finance",
+    "platforms": {
+        "binance-smart-chain": "0xb54a58cdc7d3fefd93ea4454e0c1a23da8bedc6f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hoodrat is a BEP-20 project built on the Binance Smart Chain in May 12th 2021. \r\n\r\nHoodrat's main use case is tackling a key issue that everybody faces in the Defi sphere, which is to prevent rug-pulls from happening.\r\n\r\nWith a proprietary rug-pull assessment tool in the works, backed by a team of talented developers, finance and project managers, Hoodrat's ambitions aim to benefit the whole cryptosphere. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xb54a58cdc7d3fefd93ea4454e0c1a23da8bedc6f",
+    "url": "https://hoodrat.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xb54a58cdc7d3fefd93ea4454e0c1a23da8bedc6f"
+    ],
+    "twitter": "FinanceHoodrat",
+    "telegram": "HoodratToken",
+    "reddit": "HoodRatToken/"
+}

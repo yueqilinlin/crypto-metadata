@@ -1,0 +1,22 @@
+{
+    "id": "hecofi",
+    "symbol": "hfi",
+    "name": "HecoFi",
+    "platforms": {
+        "huobi-token": "0x98fc3b60ed4a504f588342a53746405e355f9347"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "HECO Chain Ecosystem"
+    ],
+    "description": {
+        "en": "HecoFi helps you earn better yield much easier"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x98fc3b60ed4a504f588342a53746405e355f9347",
+    "url": "https://hecofi.com/",
+    "explorers": [
+        "https://scan.hecochain.com/token/0x98fc3b60ed4a504f588342a53746405e355f9347"
+    ]
+}

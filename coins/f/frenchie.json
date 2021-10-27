@@ -1,0 +1,23 @@
+{
+    "id": "frenchie",
+    "symbol": "fren",
+    "name": "Frenchie",
+    "platforms": {
+        "binance-smart-chain": "0x13958e1eb63dfb8540eaf6ed7dcbbc1a60fd52af"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x13958e1eb63dfb8540eaf6ed7dcbbc1a60fd52af",
+    "url": "https://frenchie.tech",
+    "explorers": [
+        "https://bscscan.com/token/0x13958e1eb63dfb8540eaf6ed7dcbbc1a60fd52af"
+    ],
+    "twitter": "FrenchieToken",
+    "telegram": "FrenchieNetwork",
+    "reddit": "https://www.reddit.com"
+}

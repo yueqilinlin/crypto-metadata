@@ -1,0 +1,23 @@
+{
+    "id": "mvp",
+    "symbol": "mvp",
+    "name": "MVP",
+    "platforms": {
+        "ethereum": "0x65fc94d99cb301c5630c485d312e6ff5edde13d0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Toshify Finance is a community driven project to build real DeFi products."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x65fc94d99cb301c5630c485d312e6ff5edde13d0",
+    "url": "https://Toshify.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x65fc94d99cb301c5630c485d312e6ff5edde13d0",
+        "https://ethplorer.io/address/0x65fc94d99cb301c5630c485d312e6ff5edde13d0"
+    ],
+    "twitter": "toshifyfinance",
+    "telegram": "toshifyfinance"
+}

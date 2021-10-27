@@ -1,0 +1,26 @@
+{
+    "id": "armor",
+    "symbol": "armor",
+    "name": "ARMOR",
+    "platforms": {
+        "ethereum": "0x1337def16f9b486faed0293eb623dc8395dfe46a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Insurance",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Armor is the first insurance aggregator for DeFi. Leveraging the underwriting capability of Nexus Mutual, it offers pay-as-you-go insurance products and the ability to buy insurance covers without KYC.\r\n\r\nIt is the second iteration of the yInsure product from Yearn Finance. The first iteration of yInsure failed after the yInsure\u2019s founders had a fallout. Yearn Finance chose to partner with COVER instead after the event and leave the yInsure product to Armor.\u00a0\r\n\r\nDuring launch, there are four main products, arNXM, arNFT, arCORE and arSHIELD.\u00a0"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1337def16f9b486faed0293eb623dc8395dfe46a",
+    "url": "https://armor.fi",
+    "explorers": [
+        "https://etherscan.io/token/0x1337def16f9b486faed0293eb623dc8395dfe46a",
+        "https://ethplorer.io/address/0x1337def16f9b486faed0293eb623dc8395dfe46a"
+    ],
+    "twitter": "armorfi",
+    "telegram": "ArmorFi"
+}

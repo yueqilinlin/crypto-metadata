@@ -1,0 +1,27 @@
+{
+    "id": "ieth",
+    "symbol": "ieth",
+    "name": "iETH",
+    "platforms": {
+        "ethereum": "0xa9859874e1743a32409f75bb11549892138bba1e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synths",
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Inverse Ethereum by Synthetix.\r\n\r\nInversely tracks the price of Ether through price feeds supplied by an oracle. Its value freezes when it reaches its upper limit of $390 (i.e. when Ether\u2019s value reaches $130) or its lower limit of $130 (i.e. when Ether\u2019s value reaches $390). If it reaches either of its limits and gets frozen, it will no longer be able to be purchased on Synthetix.Exchange, but can still be traded for other Synths at its frozen value. At some point after it has reached either of its limits, it will be substituted for another iETH with different limits.\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa9859874e1743a32409f75bb11549892138bba1e",
+    "url": "https://www.synthetix.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xA9859874e1743A32409f75bB11549892138BBA1E",
+        "https://ethplorer.io/address/0xa9859874e1743a32409f75bb11549892138bba1e"
+    ],
+    "twitter": "synthetix_io",
+    "reddit": "synthetix_io"
+}

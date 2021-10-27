@@ -1,0 +1,23 @@
+{
+    "id": "viking-swap",
+    "symbol": "viking",
+    "name": "Viking Swap",
+    "platforms": {
+        "binance-smart-chain": "0x896ede222d3f7f3414e136a2791bdb08aaa25ce0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Second generation AMM with a deflationary governance token model. Our contracts are unashamedly forked from GooseFinance, and we have introduced similar security protocols such as a 24 hour timelock, and complete removal of the migrator code so that you can farm in peace."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x896ede222d3f7f3414e136a2791bdb08aaa25ce0",
+    "url": "https://www.vikingswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x896eDE222D3f7f3414e136a2791BDB08AAa25Ce0"
+    ],
+    "twitter": "vikingswap",
+    "telegram": "VikingSwap",
+    "github_org": "VikingDefi"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ubu",
+    "symbol": "ubu",
+    "name": "UBU",
+    "platforms": {
+        "ethereum": "0x6b74dd5d01f8320081247f5cf1f7a48324700db6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "UBU is an ERC-20 token which runs natively on the Ethereum blockchain. UBU did not raise funds through any ICO sales. UBU token is generated through mining trading rewards. The transaction rate is 0.1% for all Taker/Maker trades. You will receive a certain amount of UBU as reward for trading on the platform. The transaction mine reward percentage will decrease day by day.\r\n\r\nBitUBU clients using UBU are paying 30% less commission fee, by clicking the switch button on the setting page. Please make sure that you have UBU tokens on your account.\r\n\r\nUsers can vote coins with UBU on voting page. Every 15 days first coin will get list on BitUBU. All vote amount will burn. Burning UBU will announce on social media."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0x6b74dd5d01f8320081247f5cf1f7a48324700db6",
+    "url": "https://bitubu.com/ubu",
+    "explorers": [
+        "https://etherscan.io/token/0x6b74dd5d01f8320081247f5cf1f7a48324700db6",
+        "https://ethplorer.io/address/0x6b74dd5d01f8320081247f5cf1f7a48324700db6"
+    ],
+    "twitter": "ubu_official",
+    "telegram": "bitubu"
+}

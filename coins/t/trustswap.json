@@ -1,0 +1,31 @@
+{
+    "id": "trustswap",
+    "symbol": "swap",
+    "name": "Trustswap",
+    "platforms": {
+        "ethereum": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+        "binance-smart-chain": "0x82443a77684a7da92fdcb639c8d2bd068a596245",
+        "avalanche": "0xc7b5d72c836e718cda8888eaf03707faef675079",
+        "polygon-pos": "0x3809dcdd5dde24b37abe64a5a339784c3323c44f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem",
+        "Launchpad",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "An Evolution in Defi Transactions\r\nEscrow | Time-Release | Smart Swaps | Tokens & Tokenized Assets\r\n\r\nTrustswap is an easy way for you and anyone in the world to make safe cryptocurrency transactions together.\r\n\r\nEvery transaction paid in SWAP rewards stakers and liquidity providers with 80% of the transaction fee. 10% is burned, and 10% goes to the foundation\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+    "url": "https://trustswap.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+        "https://ethplorer.io/address/0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+        "https://bscscan.com/token/0x82443a77684a7da92fdcb639c8d2bd068a596245"
+    ],
+    "twitter": "trustswap",
+    "telegram": "TrustSwap"
+}

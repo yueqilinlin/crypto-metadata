@@ -1,0 +1,22 @@
+{
+    "id": "aca-token",
+    "symbol": "aca",
+    "name": "ACA Token",
+    "platforms": {
+        "binance-smart-chain": "0x9eb6935aea6afb5bc6d1a74be0c2f78280ab6448"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ACA Token is a cryptocurrency token that powers all AdvanceCryptoAcademy protocols. 1st Protocol: HedgeBoard"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9eb6935aea6afb5bc6d1a74be0c2f78280ab6448",
+    "url": "https://acatoken.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x9eb6935aea6afb5bc6d1a74be0c2f78280ab6448"
+    ],
+    "twitter": "acatoken_io",
+    "telegram": "officialACAToken"
+}

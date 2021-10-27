@@ -1,0 +1,21 @@
+{
+    "id": "idle-usdt-yield",
+    "symbol": "idleUSDTYield",
+    "name": "IdleUSDT (Yield)",
+    "platforms": {
+        "ethereum": "0xf34842d05a1c888ca02769a633df37177415c2f8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf34842d05a1c888ca02769a633df37177415c2f8",
+    "url": "https://idle.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xf34842d05a1c888ca02769a633df37177415c2f8",
+        "https://ethplorer.io/address/0xf34842d05a1c888ca02769a633df37177415c2f8"
+    ]
+}

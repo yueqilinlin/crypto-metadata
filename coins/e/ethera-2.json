@@ -1,0 +1,24 @@
+{
+    "id": "ethera-2",
+    "symbol": "eta",
+    "name": "Ethera",
+    "platforms": {
+        "binance-smart-chain": "0x90727c1195fb2246fd758172f9253873790d06a4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A new innovative yield farming protocol designed to reward its holders through passive staking. With a suite of BSC tools in development and other crypto variations in the pipeline."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x90727c1195fb2246fd758172f9253873790d06a4",
+    "url": "https://ethera.cc/",
+    "explorers": [
+        "https://bscscan.com/token/0x90727c1195fb2246fd758172f9253873790d06a4"
+    ],
+    "twitter": "Etheratoken",
+    "telegram": "EtheraETA",
+    "reddit": "Ethera/",
+    "github_org": "Etheratoken"
+}

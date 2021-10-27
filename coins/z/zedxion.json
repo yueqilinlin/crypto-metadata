@@ -1,0 +1,25 @@
+{
+    "id": "zedxion",
+    "symbol": "zedxion",
+    "name": "Zedxion",
+    "platforms": {
+        "binance-smart-chain": "0xfbc4f3f645c4003a2e4f4e9b51077d2daa9a9341",
+        "ethereum": "0xfbc4f3f645c4003a2e4f4e9b51077d2daa9a9341"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Zedxion offers a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto powered ecosystem comprising Zedxion Token.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfbc4f3f645c4003a2e4f4e9b51077d2daa9a9341",
+    "url": "https://zedxion.io",
+    "explorers": [
+        "https://bscscan.com/token/0xfbc4f3f645c4003a2e4f4e9b51077d2daa9a9341",
+        "https://etherscan.io/token/0xfbc4f3f645c4003a2e4f4e9b51077d2daa9a9341"
+    ],
+    "twitter": "zedxionc",
+    "telegram": "Zedxion",
+    "github_org": "zedxioncryptocurrency"
+}

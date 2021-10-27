@@ -1,0 +1,30 @@
+{
+    "id": "akash-network",
+    "symbol": "akt",
+    "name": "Akash Network",
+    "platforms": {
+        "osmosis": "IBC/1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem",
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "Akash is the world's first decentralized cloud computing marketplace, and the DeCloud for DeFi"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://akash.network",
+    "explorers": [
+        "https://akash.bigdipper.live",
+        "https://akash.aneka.io/",
+        "https://akash.ping.pub/",
+        "https://www.mintscan.io/akash"
+    ],
+    "twitter": "akashnet_",
+    "facebook": "akashnw",
+    "telegram": "akashnw",
+    "reddit": "akashnetwork/",
+    "github_org": "ovrclk"
+}

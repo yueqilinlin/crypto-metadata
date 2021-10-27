@@ -1,0 +1,34 @@
+{
+    "id": "mcdex",
+    "symbol": "mcb",
+    "name": "MCDEX",
+    "platforms": {
+        "ethereum": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+        "binance-smart-chain": "0x5fe80d2cd054645b9419657d3d10d26391780a7b",
+        "arbitrum-one": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Perpetuals",
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2020-07-04",
+    "contract_address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+    "url": "https://mcdex.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+        "https://ethplorer.io/address/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+        "https://arbiscan.io/token/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"
+    ],
+    "twitter": "MonteCarloDEX",
+    "telegram": "Mcdex",
+    "reddit": "https://www.reddit.com",
+    "github_org": "mcdexio"
+}

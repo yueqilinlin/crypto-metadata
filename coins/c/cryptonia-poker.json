@@ -1,0 +1,27 @@
+{
+    "id": "cryptonia-poker",
+    "symbol": "cnp",
+    "name": "Cryptonia Poker",
+    "platforms": {
+        "ethereum": "0x0809bd190c94f4408e691c410e67bff0df5d225d"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "Cryptonia Poker brings together the thrill of poker with the transparency and value of cryptocurrency in an online poker room that is based on blockchain technology. You can now use Cryptonia, your own poker cryptocurrency, to play poker online in a flexible manner.\r\n\r\nCryptonia Poker\u2019s online poker room can be accessed worldwide. You can join a poker room from anywhere, and play with your tokens, while being sure of fairness in the game and transparency and safety of your funds.\r\n\r\nThe blockchain technology powering our cryptocurrency will help you make easy transactions from anywhere in the world. It ensures that the data about all the transactions is decentralised to ensure complete transparency in all transactions."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x0809bd190c94f4408e691c410e67bff0df5d225d",
+    "url": "http://www.cryptonia.poker",
+    "explorers": [
+        "https://etherscan.io/token/0x0809bd190c94f4408e691c410e67bff0df5d225d",
+        "https://ethplorer.io/address/0x0809bd190c94f4408e691c410e67bff0df5d225d"
+    ],
+    "twitter": "CryptoniaPoker",
+    "facebook": "cryptoniapoker",
+    "telegram": "cryptonia_poker_chat",
+    "github_org": "OnGridSystems"
+}

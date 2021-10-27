@@ -1,0 +1,22 @@
+{
+    "id": "shibacorgi",
+    "symbol": "shico",
+    "name": "ShibaCorgi",
+    "platforms": {
+        "binance-smart-chain": "0x092bbec1342afffd16cfb41b56343d5a299cdf0d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ShibaCorgi is a MEME token inspired by Shiba INU and DOGE. ShiCo has 4% tax on each transaction which 2% goes to holders and 2% will be burned instantly."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x092bbec1342afffd16cfb41b56343d5a299cdf0d",
+    "url": "https://shibacorgi.dog",
+    "explorers": [
+        "https://bscscan.com/token/0x092bbec1342afffd16cfb41b56343d5a299cdf0d"
+    ],
+    "twitter": "shibacorgidog",
+    "telegram": "shibacorgidog"
+}

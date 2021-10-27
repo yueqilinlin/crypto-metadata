@@ -1,0 +1,24 @@
+{
+    "id": "holderswap",
+    "symbol": "hfs",
+    "name": "HolderSwap",
+    "platforms": {
+        "binance-smart-chain": "0x9412f9ab702afbd805dece8e0627427461ef0602"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Holder Finance builds an innovative plugin platform to enhance any DEX features on the Ethereum and BSC Networks with 4 exclusive services:\r\n\u2022 HolderSwap OTC Desk \u2013 (please read the OTC explainer document on our website)\r\n\u2022 HolderLimit protocol \u2013 Order Limits with charting, metadata structure & automated arbitrage trading.\r\n\u2022 Dynamic trading fee adjustment \u2013 (Rewards HFi & HFS holders, Traders & Liquidity providers)\r\n\u2022 Liquidity providing cap \u2013 (Incentivize HFi holders with reserved seats for LP)\r\n\r\nThe utility token HFS for HolderSwap token rewards all HFi and HFS holders through a minting process trading on HolderSwap platform and a farming program."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x9412f9ab702afbd805dece8e0627427461ef0602",
+    "url": "https://holder.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x9412F9AB702AfBd805DECe8e0627427461eF0602",
+        "https://ethplorer.io/address/0x578301f78b7269261cea3c968f0643fb1a101e5e",
+        "https://etherscan.io/token/0x578301f78b7269261cea3c968f0643fb1a101e5e"
+    ],
+    "twitter": "HolderFinance",
+    "telegram": "holder_finance"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "origin-protocol",
+    "symbol": "ogn",
+    "name": "Origin Protocol",
+    "platforms": {
+        "ethereum": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+        "sora": "0x0064c02f602195e298780323c79a0eb5b4fd0ffcad68d440a7ca7725bc79d912"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Origin Protocol provides a platform for building peer-to-peer marketplaces and e-commerce applications. Users can buy or sell goods and services on these marketplaces, and developers can create their own applications powered by the Origin blockchain. The Origin token (\u201cOGN\u201d) is used as an incentive, payment, and governance token in the Origin ecosystem.\r\n"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+    "url": "http://www.originprotocol.com",
+    "explorers": [
+        "https://etherscan.io/token/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+        "https://ethplorer.io/address/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26"
+    ],
+    "twitter": "originprotocol",
+    "facebook": "originprotocol",
+    "telegram": "originprotocol",
+    "reddit": "originprotocol/",
+    "github_org": "OriginProtocol"
+}

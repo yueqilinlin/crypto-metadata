@@ -1,0 +1,19 @@
+{
+    "id": "gsmcoin",
+    "symbol": "gsm",
+    "name": "GSMcoin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [],
+    "description": {
+        "en": "GSMcoin is created to provide a service for users to unlock mobile devices that are locked to a certain network operator. By unlocking you mobile phone, you may swithc to a different operator with possibly lower costs. Users pay for the unlock service using GSMcoins. There is a 0.8% premine."
+    },
+    "country_origin": null,
+    "genesis_date": "2015-02-22",
+    "url": "http://gsmcoin.info/",
+    "explorers": [
+        "http://107.170.243.113:2750/chain/gsm"
+    ],
+    "twitter": "gsmcoin",
+    "github_org": "gsmcoin"
+}

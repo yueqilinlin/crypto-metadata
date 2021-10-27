@@ -1,0 +1,24 @@
+{
+    "id": "holographic-doge",
+    "symbol": "hodo",
+    "name": "Holographic Doge",
+    "platforms": {
+        "ethereum": "0x92c8525d925d2eb6a3108458d2cdb3a795d457d2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Holographic Doge (HODO) team launched their HODO token and an NFT lineup that commemorates and pays respects to all the badass memecoins of the 2021 bull run (from eth & bsc)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x92c8525d925d2eb6a3108458d2cdb3a795d457d2",
+    "url": "https://www.hodotoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x92c8525d925d2eb6a3108458d2cdb3a795d457d2",
+        "https://ethplorer.io/address/0x92c8525d925d2eb6a3108458d2cdb3a795d457d2"
+    ],
+    "twitter": "holodoge",
+    "telegram": "holographicdoge",
+    "github_org": "hodotoken"
+}

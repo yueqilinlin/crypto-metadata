@@ -1,0 +1,26 @@
+{
+    "id": "spiderdao",
+    "symbol": "spdr",
+    "name": "SpiderDAO",
+    "platforms": {
+        "ethereum": "0xbcd4b7de6fde81025f74426d43165a5b0d790fdd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "SpiderDAO innovates the DAO concept by introducing a dual-governance model which bundles together hardware and software tools with on-chain elements, providing a \u201cwhale-resistant\u201d governance solution."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xbcd4b7de6fde81025f74426d43165a5b0d790fdd",
+    "url": "https://spiderdao.io",
+    "explorers": [
+        "https://etherscan.io/token/0xbcd4b7de6fde81025f74426d43165a5b0d790fdd",
+        "https://ethplorer.io/address/0xbcd4b7de6fde81025f74426d43165a5b0d790fdd"
+    ],
+    "twitter": "spiderdao",
+    "telegram": "SpiderDAO",
+    "github_org": "SpiderDAO"
+}

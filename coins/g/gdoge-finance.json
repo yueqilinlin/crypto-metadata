@@ -1,0 +1,24 @@
+{
+    "id": "gdoge-finance",
+    "symbol": "gdoge",
+    "name": "GDOGE Finance",
+    "platforms": {
+        "binance-smart-chain": "0xdeb9aca4f54abd9b82ca91b52fcccf869882b9fe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0xdeb9aca4f54abd9b82ca91b52fcccf869882b9fe",
+    "url": "https://gdoge.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xdeb9aca4f54abd9b82ca91b52fcccf869882b9fe"
+    ],
+    "twitter": "gdogefinance",
+    "telegram": "GDOGEFINANCE",
+    "reddit": "GDOGE/",
+    "github_org": "gdogefinance"
+}

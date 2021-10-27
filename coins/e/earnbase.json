@@ -1,0 +1,24 @@
+{
+    "id": "earnbase",
+    "symbol": "ENB",
+    "name": "Earnbase",
+    "platforms": {
+        "ethereum": "0xa6fb1df483b24eeab569e19447e0e107003b9e15"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "SE",
+    "genesis_date": null,
+    "contract_address": "0xa6fb1df483b24eeab569e19447e0e107003b9e15",
+    "url": "https://earnbase.org",
+    "explorers": [
+        "https://etherscan.io/token/0xa6FB1DF483b24EEAB569e19447E0e107003B9E15",
+        "https://ethplorer.io/address/0xa6fb1df483b24eeab569e19447e0e107003b9e15"
+    ],
+    "twitter": "earnbasefinance",
+    "telegram": "earnbasefinance",
+    "github_org": "earnbasefinance"
+}

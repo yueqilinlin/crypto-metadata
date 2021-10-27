@@ -1,0 +1,24 @@
+{
+    "id": "ytsla-finance",
+    "symbol": "ytsla",
+    "name": "yTSLA Finance",
+    "platforms": {
+        "ethereum": "0x5322a3556f979ce2180b30e689a9436fddcb1021"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "yTSLA is a 100% community driven project that we forked out of the MEME community. We use rebase 1:100 to peg price of yTSLA to TSLA share! "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5322a3556f979ce2180b30e689a9436fddcb1021",
+    "url": "https://ytsla.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x5322a3556f979ce2180b30e689a9436fddcb1021",
+        "https://ethplorer.io/address/0x5322a3556f979ce2180b30e689a9436fddcb1021"
+    ],
+    "twitter": "YTSLAFinance",
+    "telegram": "ytslatoken",
+    "github_org": "SavageryOrZen"
+}

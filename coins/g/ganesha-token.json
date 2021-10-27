@@ -1,0 +1,25 @@
+{
+    "id": "ganesha-token",
+    "symbol": "gnsh",
+    "name": "Ganesha Token",
+    "platforms": {
+        "ethereum": "0x7c5ff719a6c76fe643e9ecd0f11f146a2de05f14",
+        "binance-smart-chain": "0x9679ec22d9ac0cb99ef0be55b778280a3756975b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ganesha Token is an emerging industry leader in blockchain gaming and NFT collectible markets. A key priority of Ganesha Token is to document the development lifecycle of each game, ensuring that our growing community is brought along for the journey. This includes posting regular progress updates, videos, and learning materials for core aspects of the game design lifecycle. (Check out \u201cThe Penguins\u201d on the Ganesha Website for a sneak-peak!)\r\n\r\nThe Ganesha Token (GNSH) will be an integral part of all created games and their in-game economies. The primary use-case will be for in-game purchases, staking rewards, and participating in NFT collectible promotions. The project roadmap also includes plans for a \u201cGaneshaSwap\u201d exchange, an ETH-BSC bridge to reduce transaction fees, and the roll-out of a Ganesha Token \u201cVirtual Hub\u201d within a well-known blockchain game.\r\n\r\nThe Ganesha Team also has an active NFT Collectible Market on OpenSea which is ever-growing and expanding. Some NFTs even have rewards associated, including future airdrops of GNSH tokens and eligibility for upcoming promotions. Selected in-game items will be minted as NFTs during the roll-out phase, which will be owned and freely tradeable by the players on secondary markets."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x7c5ff719a6c76fe643e9ecd0f11f146a2de05f14",
+    "url": "https://ganeshatoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7c5ff719a6c76fe643e9ecd0f11f146a2de05f14",
+        "https://ethplorer.io/address/0x7c5ff719a6c76fe643e9ecd0f11f146a2de05f14",
+        "https://bscscan.com/token/0x9679ec22d9ac0cb99ef0be55b778280a3756975b"
+    ],
+    "twitter": "GaneshaToken",
+    "telegram": "gnshdiscussions"
+}

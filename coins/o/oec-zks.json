@@ -1,0 +1,20 @@
+{
+    "id": "oec-zks",
+    "symbol": "zksk",
+    "name": "OEC ZKS",
+    "platforms": {
+        "okex-chain": "0xcd08d321f6bc10a10f094e4b2e6c9b8bf9906401"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcd08d321f6bc10a10f094e4b2e6c9b8bf9906401",
+    "url": "https://www.okex.com/okexchain",
+    "explorers": [
+        "https://www.oklink.com/okexchain/tokenAddr/0xcd08d321f6bc10a10f094e4b2e6c9b8bf9906401"
+    ]
+}

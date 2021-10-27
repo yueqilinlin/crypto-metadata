@@ -1,0 +1,23 @@
+{
+    "id": "loterra",
+    "symbol": "lota",
+    "name": "LoTerra",
+    "platforms": {
+        "terra": "terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LoTerra is a gaming platform completely decentralized and open-source. The ecosystem is entirely managed by a Decentralized Autonomous Organization (DAO) which governs the games thanks to a system of votes according to the possibilities authorized by the smart contract."
+    },
+    "country_origin": "AD",
+    "genesis_date": null,
+    "contract_address": "terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr",
+    "url": "https://mobile.loterra.io",
+    "explorers": [
+        "https://finder.terra.money/columbus-4/account/terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr"
+    ],
+    "twitter": "LoTerra_LOTA",
+    "telegram": "LoTerra",
+    "github_org": "LoTerra"
+}

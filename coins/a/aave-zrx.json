@@ -1,0 +1,26 @@
+{
+    "id": "aave-zrx",
+    "symbol": "azrx",
+    "name": "Aave ZRX",
+    "platforms": {
+        "ethereum": "0xdf7ff54aacacbff42dfe29dd6144a69b629f8c9e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Aave ZRX is an interest bearing token minted upon deposit and burned when redeemed. The aZRX is pegged 1:1 to the value of the underlying ZRX that is deposited in Aave protocol. aZRX, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aZRX accrue interest in real time, directly in your wallet!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdf7ff54aacacbff42dfe29dd6144a69b629f8c9e",
+    "url": "https://aave.com/atokens",
+    "explorers": [
+        "https://etherscan.io/token/0xdf7ff54aacacbff42dfe29dd6144a69b629f8c9e",
+        "https://ethplorer.io/address/0xdf7ff54aacacbff42dfe29dd6144a69b629f8c9e"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome"
+}

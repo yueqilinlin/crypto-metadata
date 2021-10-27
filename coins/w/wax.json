@@ -1,0 +1,25 @@
+{
+    "id": "wax",
+    "symbol": "waxp",
+    "name": "WAX",
+    "platforms": {},
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Protocol",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "WAX is a purpose-built blockchain and protocol token designed to make e-commerce transactions faster, easier, and safer for all participants. The WAX Blockchain uses Delegated Proof of Stake (DPoS) as its consensus mechanism and is fully backward compatible with EOS. The custom features and incentive mechanisms developed by WAX are designed to optimize the blockchain's usability in e-commerce, and encourage voting on guilds and proposals.\r\n\r\nWAX has created a suite of blockchain-based tools upon which dApps, marketplaces, and native non-fungible tokens (NFTs) are built. These tools include services to support e-commerce operations such as the WAX Cloud Wallet, SSO and OAUTH, a native RNG service, and a developer portal. The resulting technology reportedly represents a blockchain architecture with 500 millisecond block times, is fee-less for customers, and leverages voting rewards to incentivize participation in the selection of block producers and proposals"
+    },
+    "country_origin": "",
+    "genesis_date": "2017-12-19",
+    "url": "https://wax.io/",
+    "explorers": [
+        "http://wax.bloks.io"
+    ],
+    "twitter": "WAX_io",
+    "telegram": "wax_io",
+    "reddit": "WAX_io",
+    "github_org": "worldwide-asset-exchange"
+}

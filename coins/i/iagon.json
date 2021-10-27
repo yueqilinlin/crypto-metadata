@@ -1,0 +1,30 @@
+{
+    "id": "iagon",
+    "symbol": "iag",
+    "name": "Iagon",
+    "platforms": {
+        "ethereum": "0x40eb746dee876ac1e78697b7ca85142d178a1fc8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Big Data",
+        "Infrastructure",
+        "Storage"
+    ],
+    "description": {
+        "en": "IAGON enables users and enterprises to store big data files and repositories, as well as smaller scales files, to carry out complex computational processes, such as those needed for artificial intelligence and machine learning operations, within a fully secure and encrypted platform that integrates blockchain, cryptographic and AI technologies in a user- friendly way."
+    },
+    "country_origin": "NO",
+    "genesis_date": null,
+    "contract_address": "0x40eb746dee876ac1e78697b7ca85142d178a1fc8",
+    "url": "https://www.iagon.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x40eb746dee876ac1e78697b7ca85142d178a1fc8",
+        "https://ethplorer.io/address/0x40eb746dee876ac1e78697b7ca85142d178a1fc8"
+    ],
+    "twitter": "IagonOfficial",
+    "facebook": "IagonOfficial",
+    "telegram": "Iagon_official",
+    "reddit": "iagon/",
+    "github_org": "Iagonorg"
+}

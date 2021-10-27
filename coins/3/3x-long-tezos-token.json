@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-tezos-token",
+    "symbol": "xtzbull",
+    "name": "3X Long Tezos Token",
+    "platforms": {
+        "ethereum": "0x8af17a6396c8f315f6b6dbc6aa686c85f9b3e554"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Tezos Token (XTZBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Tezos."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8af17a6396c8f315f6b6dbc6aa686c85f9b3e554",
+    "url": "https://ftx.com/tokens/XTZBULL",
+    "explorers": [
+        "https://etherscan.io/token/0x8AF17a6396c8f315f6b6DBC6AA686C85f9b3E554",
+        "https://ethplorer.io/address/0x8AF17a6396c8f315f6b6DBC6AA686C85f9b3E554"
+    ]
+}

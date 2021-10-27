@@ -1,0 +1,21 @@
+{
+    "id": "defidrop",
+    "symbol": "drops",
+    "name": "DefiDrop",
+    "platforms": {
+        "binance-smart-chain": "0x4d2e266267f756d54c09afd1d1473c7739eb7020"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeFi Launchpad that caters to decentralized, anon platforms. Launching on Binance Smart Chain with multi-chain integration coming."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4d2e266267f756d54c09afd1d1473c7739eb7020",
+    "url": "https://defidrop.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x4d2e266267f756d54c09afd1d1473c7739eb7020"
+    ],
+    "telegram": "DefiDropOfficial"
+}

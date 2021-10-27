@@ -1,0 +1,23 @@
+{
+    "id": "civitas-protocol",
+    "symbol": "cvt",
+    "name": "Civitas Protocol",
+    "platforms": {
+        "ethereum": "0x88930072f583936f506ce1f1d5fe69290c2d6a2a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Civitas Protocol is a community-driven project governed by CVT, an ERC20 token, that when transacted applies a 2% absorption to each transaction. The 2% absorption per-transaction mechanism aims at providing a reduction to the amount of CVT tokens in the circulating supply over time, thus increasing the price of each token in the liquidity pool."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x88930072f583936f506ce1f1d5fe69290c2d6a2a",
+    "url": "https://civitas-protocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x88930072f583936f506ce1f1d5fe69290c2d6a2a",
+        "https://ethplorer.io/address/0x88930072f583936f506ce1f1d5fe69290c2d6a2a"
+    ],
+    "twitter": "CivitasProtocol",
+    "telegram": "CivitasProtocol"
+}

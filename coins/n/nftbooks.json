@@ -1,0 +1,24 @@
+{
+    "id": "nftbooks",
+    "symbol": "nftbs",
+    "name": "NFTBooks",
+    "platforms": {
+        "binance-smart-chain": "0x3279510e89600ee1767a037dbd0ad49c974063ae"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NFTBooks (NFTBS) is a BSC token that was launched on 7th June 2021. NFTBS not only allows readers to read a book at the lowest cost but also helps author to earn more profits. NFTBS is created to bridge the gap between readers and authors while giving investors an opportunity to make profits by buying and holding the token in their wallets; 2% of every buy, and sell is redistributed between holders. NFTBS envisions to transform the world of book-readings, making it become more affordable and more accessible to many people."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x3279510e89600ee1767a037dbd0ad49c974063ae",
+    "url": "https://nftbooks.info/",
+    "explorers": [
+        "https://bscscan.com/token/0x3279510e89600ee1767a037dbd0ad49c974063ae"
+    ],
+    "twitter": "nftbstoken",
+    "telegram": "nftbs",
+    "reddit": "Nftbooks/",
+    "github_org": "nftbs"
+}

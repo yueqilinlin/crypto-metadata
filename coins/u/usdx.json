@@ -1,0 +1,22 @@
+{
+    "id": "usdx",
+    "symbol": "usdx",
+    "name": "USDX",
+    "platforms": {
+        "kava": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "USD Stablecoin",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "USDX is the crypto-backed native stablecoin of the Kava DeFi hub."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.kava.io/overview",
+    "explorers": [
+        "https://www.mintscan.io/kava"
+    ]
+}

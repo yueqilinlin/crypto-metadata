@@ -1,0 +1,29 @@
+{
+    "id": "growth-defi",
+    "symbol": "gro",
+    "name": "GROWTH DeFi",
+    "platforms": {
+        "binance-smart-chain": "0x336ed56d8615271b38ecee6f4786b55d0ee91b96",
+        "avalanche": "0x72699ba15cc734f8db874fa9652c8de12093f187"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "GROWTH's purpose is creating an ecosystem where both GRO holders and gToken holders can benefit from the positive effects of compounded interest, high liquidity and a share of arbitragers profit without suffering from impermanent loss."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x336ed56d8615271b38ecee6f4786b55d0ee91b96",
+    "url": "https://growthdefi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x336ed56d8615271b38ecee6f4786b55d0ee91b96",
+        "https://cchain.explorer.avax.network/token/0x72699ba15CC734F8db874fa9652c8DE12093F187/token-transfers"
+    ],
+    "twitter": "GrowthDefi",
+    "telegram": "growthdefi",
+    "github_org": "GrowthDeFi"
+}

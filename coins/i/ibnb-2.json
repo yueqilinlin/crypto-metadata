@@ -1,0 +1,23 @@
+{
+    "id": "ibnb-2",
+    "symbol": "ibnb",
+    "name": "iBNB",
+    "platforms": {
+        "binance-smart-chain": "0x830f7a104a3df30879d526031d57daa44bf85686"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "iBNB is the first token ever to introduce a Dynamic Tax Protocol, which will ensure the sustainability of this project even after the initial hype is over. Moreover, this project aims to create the BIGGEST BNB reward pool of any token.\r\n\r\nIt is the first Dynamic DeFi token that adjusts tax rates to sustain and rejuvenate supply pools, building upon existing transaction tax systems used by a large number of existing DeFi tokens. Depending on the state of the Liquidity Pool relative to the Market Cap, the tax rate is automatically\r\nadjusted so that the priority may be shifted to the LP or to the Reward Pool, as need be.\r\n\r\nAs a fully dynamic token, DTP will always aim to prioritise 9.9% of the transaction tax to the reward pool. DTP will ensure there is a healthy supply of liquidity to perform trades, such that it can readjust and guarantee the maximum amount of tax directed towards the reward pool."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x830f7a104a3df30879d526031d57daa44bf85686",
+    "url": "https://ibnb.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x830f7a104a3df30879d526031d57daa44bf85686"
+    ],
+    "twitter": "iBNBfinance",
+    "telegram": "IBNBFinance",
+    "reddit": "iBNB/"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "poly-peg-mdex",
+    "symbol": "hmdx",
+    "name": "Poly-Peg Mdex",
+    "platforms": {
+        "binance-smart-chain": "0xaee4164c1ee46ed0bbc34790f1a3d1fc87796668"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaee4164c1ee46ed0bbc34790f1a3d1fc87796668",
+    "url": "https://bsc.mdex.com/#/",
+    "explorers": [
+        "https://bscscan.com/token/0xAEE4164c1ee46ed0bbC34790f1a3d1Fc87796668"
+    ]
+}

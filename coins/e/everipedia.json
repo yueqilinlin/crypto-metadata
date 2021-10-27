@@ -1,0 +1,33 @@
+{
+    "id": "everipedia",
+    "symbol": "iq",
+    "name": "Everipedia",
+    "platforms": {
+        "ethereum": "0x579cea1889991f68acc35ff5c3dd0621ff29b0c9",
+        "binance-smart-chain": "0x0e37d70b51ffa2b98b4d34a5712c5291115464e3",
+        "polygon-pos": "0xb9638272ad6998708de56bbc0a290a1de534a578"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Media"
+    ],
+    "description": {
+        "en": "Everipedia is the next generation encyclopedia rebuilt for the modern age. With over 6 million articles and counting, it's already the world's largest English encyclopedia by content. Everipedia is free from ads and free to use for everyone under creative commons."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x579cea1889991f68acc35ff5c3dd0621ff29b0c9",
+    "url": "https://everipedia.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x579cea1889991f68acc35ff5c3dd0621ff29b0c9",
+        "https://bscscan.com/address/0x0e37d70b51ffa2b98b4d34a5712c5291115464e3",
+        "https://polygonscan.com/token/0x579cea1889991f68acc35ff5c3dd0621ff29b0c9",
+        "https://bloks.io/tokens/IQ-eos-everipediaiq",
+        "https://ethplorer.io/address/0x579cea1889991f68acc35ff5c3dd0621ff29b0c9"
+    ],
+    "twitter": "everipedia",
+    "facebook": "everipedia",
+    "telegram": "everipedia",
+    "reddit": "Everipedia/",
+    "github_org": "EveripediaNetwork"
+}

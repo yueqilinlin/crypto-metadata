@@ -1,0 +1,22 @@
+{
+    "id": "soak-token",
+    "symbol": "soak",
+    "name": "Soak Token",
+    "platforms": {
+        "binance-smart-chain": "0x849233ff1aea15d80ef658b2871664c9ca994063"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Governance token of Sponge.finance. It will generate buyback on $SPONGE token."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x849233ff1aea15d80ef658b2871664c9ca994063",
+    "url": "https://sponge.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x849233FF1aea15D80EF658B2871664C9Ca994063"
+    ],
+    "twitter": "nojobfinance",
+    "telegram": "SpongeFinanceChat"
+}

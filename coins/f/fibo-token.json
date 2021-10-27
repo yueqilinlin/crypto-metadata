@@ -1,0 +1,23 @@
+{
+    "id": "fibo-token",
+    "symbol": "fibo",
+    "name": "FibSwap DEX",
+    "platforms": {
+        "binance-smart-chain": "0x5067c6e9e6c443372f2e62946273abbf3cc2f2b3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FibSwap is the worlds first cross blockchain dex allowing traders to swap any coin between BSC and ETH blockchains.\r\n\r\nWe would like to introduce you to the future of Crypto. \r\n\r\nFor the first time ever we have swapped two different blockchains using IMBS and FibSWAP DEx SMART algorithms. Thanks to $FIBO and FibSwap DEx, we are writing a new chapter in Crypto history. First you had the Bancor AMM in 2017, then came Uniswap in 2018, now in 2021 we have FibSwap; A DEx that can swap tokens easily between chains.\r\n\r\nWe would like to thank all of our supporters who have helped make this possible. \r\n\r\nFibSwap is the future for web and smartphone DEx."
+    },
+    "country_origin": "GE",
+    "genesis_date": null,
+    "contract_address": "0x5067c6e9e6c443372f2e62946273abbf3cc2f2b3",
+    "url": "https://fibswap.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x5067c6e9E6c443372f2E62946273ABbF3Cc2f2B3"
+    ],
+    "twitter": "FibSwap",
+    "telegram": "FibSwapOfficial",
+    "reddit": "FibswapDEx"
+}

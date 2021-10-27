@@ -1,0 +1,27 @@
+{
+    "id": "jboxcoin",
+    "symbol": "jbx",
+    "name": "JBOX",
+    "platforms": {
+        "ethereum": "0x884e3902c4d5cfa86de4ace7a96aa91ebc25c0ff"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "JBOX is a decentralized blockchain video streaming platform designed to provide customers with a   huge sense of value for their leisure time\r\nvia a well-augmented dual mining process (Proof of   Upload and Proof of View).\r\n\r\nThis program is designed to benefit token user for downloading and streaming videos of all   varieties on the JBOX platforms."
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "contract_address": "0x884e3902c4d5cfa86de4ace7a96aa91ebc25c0ff",
+    "url": "https://jboxcoin.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x884e3902c4d5cfa86de4ace7a96aa91ebc25c0ff",
+        "https://ethplorer.io/address/0x884e3902c4d5cfa86de4ace7a96aa91ebc25c0ff"
+    ],
+    "twitter": "jbox_coin",
+    "facebook": "jboxcommunity",
+    "telegram": "jboxcoin",
+    "github_org": "Jboxoincorp"
+}

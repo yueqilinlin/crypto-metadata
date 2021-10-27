@@ -1,0 +1,25 @@
+{
+    "id": "sense",
+    "symbol": "sense",
+    "name": "Sense",
+    "platforms": {
+        "eos": "sensegenesis"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sense creates blockchain based smart contracts in chat and rewards humans for the contributions they make to one another conversationally, across Sensay and other messenger applications. Humans can monetize their proof of intelligence in the data used to train A.I. applications and agents. Sensay, the first application, creates a marketplace for peer to peer conversations.\r\n\r\n"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "sensegenesis",
+    "url": "https://sensetoken.com/",
+    "explorers": [
+        "https://bloks.io/tokens/SENSE-eos-sensegenesis"
+    ],
+    "twitter": "SenseToken",
+    "facebook": "SenseChatApp",
+    "telegram": "sensetoken",
+    "reddit": "sensetoken/",
+    "github_org": "sensay"
+}

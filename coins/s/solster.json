@@ -1,0 +1,23 @@
+{
+    "id": "solster",
+    "symbol": "str",
+    "name": "Solster",
+    "platforms": {
+        "solana": "9zoqdwEBKWEi9G5Ze8BSkdmppxGgVv1Kw4LuigDiNr9m"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Solster IDO Launchpad is a decentralized platform for fundraising which is built on the Solana blockchain with guaranteed token allocation to participants. \r\n\r\nSolster ecosystem incorporate decentralized exchange (DEX) for crypto trading, token swap, token staking, token vesting and lottery platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "9zoqdwEBKWEi9G5Ze8BSkdmppxGgVv1Kw4LuigDiNr9m",
+    "url": "https://solster.finance/",
+    "explorers": [
+        "https://solscan.io/token/9zoqdwEBKWEi9G5Ze8BSkdmppxGgVv1Kw4LuigDiNr9m"
+    ],
+    "twitter": "solster_finance",
+    "telegram": "solster_finance_chat",
+    "github_org": "solster-finance"
+}

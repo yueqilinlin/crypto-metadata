@@ -1,0 +1,36 @@
+{
+    "id": "insurace",
+    "symbol": "insur",
+    "name": "InsurAce",
+    "platforms": {
+        "ethereum": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+        "binance-smart-chain": "0x3192ccddf1cdce4ff055ebc80f3f0231b86a7e30",
+        "avalanche": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+        "polygon-pos": "0x8a0e8b4b0903929f47c3ea30973940d4a9702067"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Insurance",
+        "Solana Ecosystem",
+        "Polygon Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "The INSUR token is the governance token for InsurAce protocol, a DeFi insurance protocol. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+    "url": "https://www.insurace.io",
+    "explorers": [
+        "https://etherscan.io/token/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
+        "https://ethplorer.io/address/0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+        "https://bscscan.com/token/0x3192CCDdf1CDcE4Ff055EbC80f3F0231b86A7E30",
+        "https://polygonscan.com/token/0x8a0e8b4b0903929f47C3ea30973940D4a9702067",
+        "https://avascan.info/blockchain/c/token/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429"
+    ],
+    "twitter": "InsurAce_io",
+    "telegram": "insurace_protocol",
+    "reddit": "https://www.reddit.comInsurAce/",
+    "github_org": "InsurAce-Protocol"
+}

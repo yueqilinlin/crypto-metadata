@@ -1,0 +1,22 @@
+{
+    "id": "yes",
+    "symbol": "yes",
+    "name": "YES",
+    "platforms": {
+        "binance-smart-chain": "0x164fa1e6cf4125769df68245e942ea2f456ad47c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$YES is an experimental protocol which makes use of the innovative Rebalancer function. By combining the Rebalancer function with a tax on all transactions which adds to $YES\u2019s underlying BNB liquidity, $YES is a self-sufficient and autonomous protocol complete at release."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x164fa1e6cf4125769df68245e942ea2f456ad47c",
+    "url": "https://oh.yes.mom/#/",
+    "explorers": [
+        "https://bscscan.com/token/0x164fa1e6cf4125769df68245e942ea2f456ad47c"
+    ],
+    "twitter": "YES4Monies",
+    "telegram": "youreearlysweetie"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "hype-finance",
+    "symbol": "hype",
+    "name": "Hype Finance",
+    "platforms": {
+        "ethereum": "0x610c67be018a5c5bdc70acd8dc19688a11421073"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hype Finance is a fully decentralized gambling and Defi ecosystem where token holders receive profits from the Casino.  An innovative approach to online gambling where your tokens allow you to participate in the rewards."
+    },
+    "country_origin": "VI",
+    "genesis_date": null,
+    "contract_address": "0x610c67be018a5c5bdc70acd8dc19688a11421073",
+    "url": "https://hype-finance.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x610c67be018a5c5bdc70acd8dc19688a11421073",
+        "https://ethplorer.io/address/0x610c67be018a5c5bdc70acd8dc19688a11421073"
+    ],
+    "twitter": "HypeDefi",
+    "telegram": "HypeFinanceofficial"
+}

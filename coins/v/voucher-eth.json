@@ -1,0 +1,24 @@
+{
+    "id": "voucher-eth",
+    "symbol": "veth",
+    "name": "Voucher ETH",
+    "platforms": {
+        "ethereum": "0xc3d088842dcf02c13699f936bb83dfbbc6f721ab"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "vETH is a ETC-20 decentralized yield bearing token that allows anyone can participate ETH 2.0 deposit in at least 0.1 ETH without any technical knowledge and claim the reward at any time. \r\n\r\nWhy use vETH?\r\n1. Low stake threshold (minimum 0.1 ETH)\r\n2. You can claim your staking rewards every day, and it is compound interest.\r\n3. Totally decentralization and you don\u2019t need to know how to run a node or a validator.\r\n4. vETH as a ERC-20 token, you can participate in any DeFi applications.\r\n5. vETH is going to be dual-protocol asset of ERC-20 and Substrate Base, via the Ethereum <-> Polkadot transfer bridge.\r\n\r\nAdditional details about vETH can be found here:\r\nhttps://bifrost.finance/drop\r\nhttps://medium.com/bifrost-finance/bifrost-veth-successfully-completed-multisig-deposit-36b45486e024\r\nhttps://medium.com/bifrost-finance/bifrost-the-achievement-of-decentralization-from-eth-to-veth-29d048cec065\r\nhttps://medium.com/bifrost-finance/bifrost-and-loopring-jointly-build-liquidity-for-derivatives-4c0c45480862\r\n\r\nvETH is fully open source and has been audited by Certik. See details here: https://github.com/bifrost-finance/bifrost-mint-drop/blob/master/audit/certik_final_report_for_biforst.pdf"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc3d088842dcf02c13699f936bb83dfbbc6f721ab",
+    "url": "https://bifrost.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xc3d088842dcf02c13699f936bb83dfbbc6f721ab",
+        "https://ethplorer.io/address/0xc3d088842dcf02c13699f936bb83dfbbc6f721ab"
+    ],
+    "twitter": "bifrost_finance",
+    "telegram": "bifrost_finance",
+    "github_org": "bifrost-finance"
+}

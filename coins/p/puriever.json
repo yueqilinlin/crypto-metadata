@@ -1,0 +1,23 @@
+{
+    "id": "puriever",
+    "symbol": "pure",
+    "name": "Puriever",
+    "platforms": {
+        "ethereum": "0x2904b9b16652d7d0408eccfa23a19d4a3358230f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Puriever is building an air quality data analytics platform on the blockchain to empower people to live better lives by having greater awareness of the environment that they live in. We provide real-time data on indoor and outdoor conditions verified by our devices and recorded on the blockchain for trusted and accessible information. "
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x2904b9b16652d7d0408eccfa23a19d4a3358230f",
+    "url": "https://puriever.com",
+    "explorers": [
+        "https://etherscan.io/token/0x2904b9b16652d7d0408eccfa23a19d4a3358230f",
+        "https://ethplorer.io/address/0x2904b9b16652d7d0408eccfa23a19d4a3358230f"
+    ],
+    "twitter": "puriever",
+    "telegram": "puriever"
+}

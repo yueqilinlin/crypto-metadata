@@ -1,0 +1,25 @@
+{
+    "id": "stable-asset",
+    "symbol": "sta",
+    "name": "STABLE ASSET",
+    "platforms": {
+        "ethereum": "0xd7d05bda4bf5876ba1254b3eaaf8b47d2f5676eb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "STABLE project aims for stable and secure possession of crypto assets. The project restores \u2018user rights\u2019 through commonly-known services from financial instruments and suggest standard of co-operative exchange."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0xd7d05bda4bf5876ba1254b3eaaf8b47d2f5676eb",
+    "url": "https://stable.trade/",
+    "explorers": [
+        "https://etherscan.io/token/0xd7d05bda4bf5876ba1254b3eaaf8b47d2f5676eb",
+        "https://ethplorer.io/address/0xd7d05bda4bf5876ba1254b3eaaf8b47d2f5676eb"
+    ],
+    "twitter": "StableProject",
+    "facebook": "stableOfficial"
+}

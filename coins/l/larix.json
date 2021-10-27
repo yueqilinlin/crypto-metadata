@@ -1,0 +1,23 @@
+{
+    "id": "larix",
+    "symbol": "larix",
+    "name": "Larix",
+    "platforms": {
+        "solana": "Lrxqnh6ZHKbGy3dcrCED43nsoLkM1LTzU2jRfWe8qUC"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Larix is the lending protocol where users can participate as supplyers or borrowers. we adopted a dynamic interest rate model and created more capital-efficient risk management pools, as such a broad selection of collateral types can be fully utilized in a safe way. Furthermore, LARIX token based on a delicately designed token economy enables continuous incentive allocation to boost real demands. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "Lrxqnh6ZHKbGy3dcrCED43nsoLkM1LTzU2jRfWe8qUC",
+    "url": "https://projectlarix.com/",
+    "explorers": [
+        "https://solscan.io/token/Lrxqnh6ZHKbGy3dcrCED43nsoLkM1LTzU2jRfWe8qUC"
+    ],
+    "twitter": "ProjectLarix",
+    "telegram": "projectlarix",
+    "github_org": "ProjectLarix"
+}

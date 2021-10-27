@@ -1,0 +1,25 @@
+{
+    "id": "solape-token",
+    "symbol": "solape",
+    "name": "SOLAPE Token",
+    "platforms": {
+        "solana": "GHvFFSZ9BctWsEc5nujR1MTmmJWY7tgQz2AXE6WVFtGN"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "SOLAPE is a fixed supply SPL token that incorporates deflationary mechanics and runs natively on Solana's high-performance blockchain. Our systems are able to execute multiple required on-chain actions without stressing about fees or network congestion. \r\n \r\nThe token is backed by the SOLAPE decentralized exchange that currently has over 20,000+ daily users with an emphasis on UX and widespread adoption. All trading fee rebates are used to generate buy-side liquidity as well as performing periodic burns. Additional token utility is provided through the Solape Finance NFT store and the ability to earn token rewards through the Raydium LP Pools. The native token will also provide value in our blockchain gaming platform arriving early 2022."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "GHvFFSZ9BctWsEc5nujR1MTmmJWY7tgQz2AXE6WVFtGN",
+    "url": "https://www.solape.io/",
+    "explorers": [
+        "https://solscan.io/token/GHvFFSZ9BctWsEc5nujR1MTmmJWY7tgQz2AXE6WVFtGN"
+    ],
+    "twitter": "SolApeFinance",
+    "telegram": "SolApeOfficial",
+    "github_org": "solapefinance"
+}

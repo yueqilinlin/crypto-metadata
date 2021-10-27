@@ -1,0 +1,24 @@
+{
+    "id": "lp-renbtc-curve",
+    "symbol": "renbtcCurve",
+    "name": "LP renBTC Curve",
+    "platforms": {
+        "ethereum": "0x49849c98ae39fff122806c06791fa73784fb3675"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "LP Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x49849c98ae39fff122806c06791fa73784fb3675",
+    "url": "https://www.curve.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x49849c98ae39fff122806c06791fa73784fb3675",
+        "https://ethplorer.io/address/0x49849c98ae39fff122806c06791fa73784fb3675"
+    ]
+}

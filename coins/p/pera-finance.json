@@ -1,0 +1,24 @@
+{
+    "id": "pera-finance",
+    "symbol": "pera",
+    "name": "Pera Finance",
+    "platforms": {
+        "binance-smart-chain": "0xb9d8592e16a9c1a3ae6021cddb324eac1cbc70d6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pera Finance is a multi-layered and sustainable trading & yield farming protocol integrated with a fully-decentralized daily trading competition."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb9d8592e16a9c1a3ae6021cddb324eac1cbc70d6",
+    "url": "https://pera.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xb9D8592E16A9c1a3AE6021CDDb324EaC1Cbc70d6"
+    ],
+    "twitter": "perafinance",
+    "telegram": "perafinance",
+    "reddit": "perafinance/",
+    "github_org": "perafinance"
+}

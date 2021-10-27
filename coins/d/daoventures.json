@@ -1,0 +1,29 @@
+{
+    "id": "daoventures",
+    "symbol": "dvd",
+    "name": "DAOventures",
+    "platforms": {
+        "ethereum": "0x77dce26c03a9b833fc2d7c31c22da4f42e9d9582"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset Manager",
+        "Polygon Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Daoventures is a DeFi robo-advisor and automated money manager."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x77dce26c03a9b833fc2d7c31c22da4f42e9d9582",
+    "url": "https://www.daoventures.co",
+    "explorers": [
+        "https://etherscan.io/token/0x77dce26c03a9b833fc2d7c31c22da4f42e9d9582",
+        "https://ethplorer.io/address/0x77dce26c03a9b833fc2d7c31c22da4f42e9d9582"
+    ],
+    "twitter": "VenturesDao",
+    "telegram": "DAOventures",
+    "reddit": "DAOVentures/",
+    "github_org": "daoventures"
+}

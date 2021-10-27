@@ -1,0 +1,27 @@
+{
+    "id": "compound-wrapped-btc",
+    "symbol": "cwbtc",
+    "name": "cWBTC",
+    "platforms": {
+        "ethereum": "0xccf4429db6322d5c611ee964527d42e5d685dd6a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xccf4429db6322d5c611ee964527d42e5d685dd6a",
+    "url": "https://compound.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xccf4429db6322d5c611ee964527d42e5d685dd6a",
+        "https://ethplorer.io/address/0xccf4429db6322d5c611ee964527d42e5d685dd6a"
+    ],
+    "twitter": "compoundfinance",
+    "reddit": "Compound/"
+}

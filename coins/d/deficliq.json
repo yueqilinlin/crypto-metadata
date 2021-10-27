@@ -1,0 +1,26 @@
+{
+    "id": "deficliq",
+    "symbol": "cliq",
+    "name": "DefiCliq",
+    "platforms": {
+        "ethereum": "0x0def8d8adde14c9ef7c2a986df3ea4bd65826767",
+        "binance-smart-chain": "0xe795347731bc547f4e4643f7945738ce2bc18529"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "DefiCliq is the first company to provide both collateralized and uncollateralized loans that, too in both p2p and traditional ways, with more features like DAO (off-chain governance), staking, interoperability in one place as a Polkadot Substrate Project, thus becoming a leading competitor in the fintech space."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x0def8d8adde14c9ef7c2a986df3ea4bd65826767",
+    "url": "https://www.deficliq.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x0Def8d8addE14c9eF7c2a986dF3eA4Bd65826767",
+        "https://ethplorer.io/address/0x0def8d8adde14c9ef7c2a986df3ea4bd65826767"
+    ],
+    "twitter": "deficliq",
+    "telegram": "deficliq"
+}

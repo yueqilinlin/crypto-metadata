@@ -1,0 +1,27 @@
+{
+    "id": "lotto",
+    "symbol": "lotto",
+    "name": "Lotto",
+    "platforms": {
+        "ethereum": "0xb0dfd28d3cf7a5897c694904ace292539242f858",
+        "binance-smart-chain": "0xf301c8435d4dfa51641f71b0615add794b52c8e9",
+        "harmony-shard-0": "0x1f7178d868ed7da31f8e8a15d9f499bcbdaefff2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LOTTO is a token that automatically enters all holders into a lottery once per day. LOTTO performs a rebase that removes 1 token from all holders, pools those tokens together, and gives them to one random participant. The lottery occurs once every 24 hours and can be initiated by anyone."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb0dfd28d3cf7a5897c694904ace292539242f858",
+    "url": "https://lotto.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xb0dFd28d3CF7A5897C694904Ace292539242f858",
+        "https://ethplorer.io/address/0xb0dFd28d3CF7A5897C694904Ace292539242f858",
+        "https://bscscan.com/token/0xf301c8435d4dfa51641f71b0615add794b52c8e9"
+    ],
+    "twitter": "LottoFinance",
+    "telegram": "lottofinance",
+    "reddit": "https://www.reddit.com"
+}

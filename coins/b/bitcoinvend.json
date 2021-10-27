@@ -1,0 +1,24 @@
+{
+    "id": "bitcoinvend",
+    "symbol": "bcvt",
+    "name": "BitcoinVend",
+    "platforms": {
+        "ethereum": "0x8d717ab5eac1016b64c2a7fd04720fd2d27d1b86"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BitcoinVend is for everyone. It unifies current crypto users, businesses and newcomers \u2013 together we can create the future of finance, payments & online marketplaces."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x8d717ab5eac1016b64c2a7fd04720fd2d27d1b86",
+    "url": "https://bitcoinvend.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8d717ab5eac1016b64c2a7fd04720fd2d27d1b86",
+        "https://ethplorer.io/address/0x8d717ab5eac1016b64c2a7fd04720fd2d27d1b86"
+    ],
+    "twitter": "Bitcoinvendapp",
+    "facebook": "bitcoinvendapp",
+    "telegram": "bitcoinvend"
+}

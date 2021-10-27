@@ -1,0 +1,25 @@
+{
+    "id": "mintyswap",
+    "symbol": "mintys",
+    "name": "MintySwap",
+    "platforms": {
+        "ethereum": "0xbbd900e05b4af2124390d206f70bc4e583b1be85"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MintySwap, a Platform to Mint NFTs and Swap Tokens. They are assembling a community of creators and supporters who want to establish and grow an innovative economy via the Blockchain. Create connections. Become allies. Get involved in the massive creative movement on MintySwap! They aim to provide consumers access to cryptocurrency-based financial services, allowing them to exchange, or \u2018swap\u2019, various digital assets. MintySwap facilitates cross-chain Dex between ETH and BNB and cross-chain swaps to conduct exchange settlements beyond the limitations of a typical isolated Blockchain network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbbd900e05b4af2124390d206f70bc4e583b1be85",
+    "url": "https://mintyswap.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xbbd900e05b4af2124390d206f70bc4e583b1be85",
+        "https://ethplorer.io/address/0xbbd900e05b4af2124390d206f70bc4e583b1be85"
+    ],
+    "twitter": "mintyswap",
+    "telegram": "mintyswap",
+    "reddit": "MintySwap/",
+    "github_org": "MintySwap"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "silent-notary",
+    "symbol": "ubsn",
+    "name": "Silent Notary",
+    "platforms": {
+        "ethereum": "0x2859021ee7f2cb10162e67f33af2d22764b31aff"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SilentNotary is a multiplatform decentralized service for confirmation of event existence. SilentNotary converts an event into legally significant evidence, excluding the possibility of falsification."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0x2859021ee7f2cb10162e67f33af2d22764b31aff",
+    "url": "https://silentnotary.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x2859021ee7f2cb10162e67f33af2d22764b31aff",
+        "https://ethplorer.io/address/0x2859021ee7f2cb10162e67f33af2d22764b31aff"
+    ],
+    "twitter": "SilentNotary",
+    "facebook": "SilentNotary",
+    "telegram": "silentnotary",
+    "reddit": "SilentNotary/",
+    "github_org": "SilentNotaryEcosystem"
+}

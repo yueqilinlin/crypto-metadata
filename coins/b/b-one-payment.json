@@ -1,0 +1,26 @@
+{
+    "id": "b-one-payment",
+    "symbol": "b1p",
+    "name": "B ONE PAYMENT",
+    "platforms": {
+        "ethereum": "0x4b742b5bdb1d252907ae7f399a891d4a178dbc24"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "B1P is a user friendly crypto wallet app.\r\n\r\nWe have more than 60 coins and tokens supported.\r\nIn 2020 we plan to support more chains and build a bigger community.\r\n\r\nFurther we are developing POS devices so shops can easily use B ONE PAYMENT and accept crypto as easy payment."
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "contract_address": "0x4b742b5bdb1d252907ae7f399a891d4a178dbc24",
+    "url": "https://www.bonepayment.com",
+    "explorers": [
+        "https://etherscan.io/token/0x4b742b5bdb1d252907ae7f399a891d4a178dbc24",
+        "https://ethplorer.io/address/0x4b742b5bdb1d252907ae7f399a891d4a178dbc24"
+    ],
+    "twitter": "BonePayment",
+    "facebook": "B1PWALLET",
+    "telegram": "bonepayment"
+}

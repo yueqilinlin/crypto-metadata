@@ -1,0 +1,25 @@
+{
+    "id": "sbnb",
+    "symbol": "sbnb",
+    "name": "sBNB",
+    "platforms": {
+        "ethereum": "0x617aecb6137b5108d1e7d4918e3725c8cebdb848"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synths",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Synthetic BNB by Synthetix\r\n\r\nTracks the price of Binance Coin through price feeds supplied by an oracle.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x617aecb6137b5108d1e7d4918e3725c8cebdb848",
+    "url": "https://etherscan.io/token/0x013ae307648f529aa72c5767a334ddd37aab43c3",
+    "explorers": [
+        "https://etherscan.io/token/0x617aeCB6137B5108D1E7D4918e3725C8cEbdB848",
+        "https://ethplorer.io/address/0x617aecb6137b5108d1e7d4918e3725c8cebdb848"
+    ],
+    "twitter": "synthetix_io"
+}

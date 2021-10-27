@@ -1,0 +1,23 @@
+{
+    "id": "exrt-network",
+    "symbol": "exrt",
+    "name": "EXRT Network",
+    "platforms": {
+        "ethereum": "0xb20043f149817bff5322f1b928e89abfc65a9925"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EXRT Network is a highly scalable innovative blockchain \r\nthat is developed to support & secure ecosystem of decentralized crosschain applications.\r\n\r\nFast Finality\r\nSub-second block times ensure high throughput (1,000 TPS - 100,000 TPS) needed for EXRNchain crosschain ecosystem and massive scalability for smart contracts and DApps.\r\n\r\nDecentralized Applications\r\nEXRT VM is based on Ethereum Virtual Machine (EVM) codebase which allows for support of reliable decentralized applications and cross-blockchain DApps (running on EXRNchain).\r\n\r\nInnovative Consensus Algorithm\r\nEXRT Network is exploring different consensus algorithms (DPOS, Threshold Relay, Tendermint, Casper POS) and will be based on the most secure and reliable of them (after sufficient amount of testing). \r\n\r\nCrosschain Interoperability\r\nEXRT Network is the core securing the EXRNchain ecosystem that allows for crosschain transactions and has dozens of use cases. This allows EXRT network to be an interoperable blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb20043f149817bff5322f1b928e89abfc65a9925",
+    "url": "https://exrt.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xb20043F149817bff5322F1b928e89aBFC65A9925",
+        "https://ethplorer.io/address/0xb20043f149817bff5322f1b928e89abfc65a9925"
+    ],
+    "twitter": "EXRNtoken",
+    "reddit": "EXRNchain/"
+}

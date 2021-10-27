@@ -1,0 +1,32 @@
+{
+    "id": "opium",
+    "symbol": "opium",
+    "name": "Opium",
+    "platforms": {
+        "ethereum": "0x888888888889c00c67689029d7856aac1065ec11",
+        "binance-smart-chain": "0x566cedd201f67e542a6851a2959c1a449a041945"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Polygon Ecosystem",
+        "xDAI Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "Opium is a decentralized derivative protocol.\u00a0\r\n\r\nIt offers two products: USDT de-pegging insurance and a fixed interest rate investment product.\u00a0"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x888888888889c00c67689029d7856aac1065ec11",
+    "url": "https://www.opium.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x888888888889c00c67689029d7856aac1065ec11",
+        "https://ethplorer.io/address/0x888888888889c00c67689029d7856aac1065ec11"
+    ],
+    "twitter": "Opium_Network",
+    "telegram": "opium_network",
+    "reddit": "https://www.reddit.com",
+    "github_org": "OpiumProtocol"
+}

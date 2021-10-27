@@ -1,0 +1,22 @@
+{
+    "id": "shapepay",
+    "symbol": "spp",
+    "name": "ShapePay",
+    "platforms": {
+        "binance-smart-chain": "0x5e2f2c0e63ace6b7ddcb426d30eff4f81f75e566"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ShapePay is a revolutionary digital Payment System and its aiming to enables you to transfer, borrow, send, receive and trade in any fiat currency, anywhere. It also working to Collaborate with other cryptopay currencies"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x5e2f2c0e63ace6b7ddcb426d30eff4f81f75e566",
+    "url": "https://shapepay.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x5E2f2C0e63Ace6B7dDCb426D30eFf4f81F75e566"
+    ],
+    "twitter": "Shape_Pay",
+    "telegram": "ShapePay"
+}

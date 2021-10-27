@@ -1,0 +1,26 @@
+{
+    "id": "momento",
+    "symbol": "momento",
+    "name": "Momento",
+    "platforms": {
+        "ethereum": "0x0ae8b74cd2d566853715800c9927f879d6b76a37",
+        "binance-smart-chain": "0x1b9a8c4f2df5dc7b8744b1a170d8d727360c67ee"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A DEFI+NFT project that aims to portray some of the most iconic and fascinating moments of the past decade that helps you to earn through the NFTs you buy.\r\nWe have 2 broad categories of NFTs:\r\na. General Category - Where we depict some of the most talked about moments of the past decade\r\nb. Cryptocurrencies - Where we depict the journey of some of the most prominent and upcoming cryptocurrencies.\r\n\r\nThrough our NFTs, people will be able to earn through multiple forms.\r\n\r\na. There is a 3% redistribution per transaction. So you earn just by holding.\r\nb. You can stake the NFTs you own with just a couple of clicks and start earning staking rewards\r\nc. The subsequent NFT sales get redistributed to the initial holders so more income from just holding the NFTs. \r\n\r\nThere is a 10% tax per buy/sell:\r\n\r\n3% - Liquidity (Increased the price floor over time)\r\n3% - Redistributed to holders (Passive income)\r\n4% - Buyback and burn (Anti-dump measure)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0ae8b74cd2d566853715800c9927f879d6b76a37",
+    "url": "https://livemoment.to/",
+    "explorers": [
+        "https://etherscan.io/token/0x0ae8b74cd2d566853715800c9927f879d6b76a37",
+        "https://ethplorer.io/address/0x0ae8b74cd2d566853715800c9927f879d6b76a37",
+        "https://bscscan.com/token/0x1b9a8c4f2df5dc7b8744b1a170d8d727360c67ee"
+    ],
+    "twitter": "Livemoment_to",
+    "telegram": "MomentoToken",
+    "reddit": "https://www.reddit.comhttps://www.reddit.com/user/Livemoment_to"
+}

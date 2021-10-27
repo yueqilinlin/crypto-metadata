@@ -1,0 +1,24 @@
+{
+    "id": "revolution-populi",
+    "symbol": "rvp",
+    "name": "Revolution Populi",
+    "platforms": {
+        "ethereum": "0x17ef75aa22dd5f6c2763b8304ab24f40ee54d48a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A decentralized user-controlled layer 1 blockchain database maintained by a DAO.\r\nOn top of layer 1 will be built an ecosystem of DApps from social networking, gaming, financial (DeFi), and even a crypto clearing house with yield generating settlements - all overseen by user controlled DAO."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x17ef75aa22dd5f6c2763b8304ab24f40ee54d48a",
+    "url": "https://revolutionpopuli.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x17ef75aa22dd5f6c2763b8304ab24f40ee54d48a",
+        "https://ethplorer.io/address/0x17ef75aa22dd5f6c2763b8304ab24f40ee54d48a"
+    ],
+    "twitter": "Rev_Populi",
+    "telegram": "revpopofficial",
+    "github_org": "Revolution-Populi"
+}

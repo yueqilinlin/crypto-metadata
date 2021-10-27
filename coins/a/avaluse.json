@@ -1,0 +1,23 @@
+{
+    "id": "avaluse",
+    "symbol": "aval",
+    "name": "Avaluse",
+    "platforms": {
+        "ethereum": "0xbcf9dbf8b14ed096b2ba08b7269356197fdd1b5d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Avaluse is a company dedicated to backing and releasing crypto-related projects"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xbcf9dbf8b14ed096b2ba08b7269356197fdd1b5d",
+    "url": "https://avaluse.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xbcf9dbf8b14ed096b2ba08b7269356197fdd1b5d",
+        "https://ethplorer.io/address/0xbcf9dbf8b14ed096b2ba08b7269356197fdd1b5d"
+    ],
+    "twitter": "avaluse",
+    "telegram": "avaluse"
+}

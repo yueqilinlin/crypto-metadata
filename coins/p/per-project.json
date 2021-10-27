@@ -1,0 +1,22 @@
+{
+    "id": "per-project",
+    "symbol": "per",
+    "name": "PER Project",
+    "platforms": {
+        "klay-token": "0x7eee60a000986e9efe7f5c90340738558c24317b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Digital asset used as a point system on Autonomous advertisement platform SUPER COMMUNITY and Digital asset community CIS community by PER ecosystem."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x7eee60a000986e9efe7f5c90340738558c24317b",
+    "url": "https://www.perproject.io/",
+    "explorers": [
+        "https://scope.klaytn.com/token/0x7eee60a000986e9efe7f5c90340738558c24317b?tabId=tokenTransfer"
+    ],
+    "twitter": "community_super",
+    "telegram": "cicsignal"
+}

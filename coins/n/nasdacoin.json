@@ -1,0 +1,23 @@
+{
+    "id": "nasdacoin",
+    "symbol": "nsd",
+    "name": "Nasdacoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Nasdacoin is an encrypted and decentralized Virtual Currency, open source, point-to-point, developed with the scrypt algorithm in the POW/POS Hybrid format that allows people with an entrepreneurial and passionate profile about the financial and technology market to store and invest their wealth in a safe currency not controlled by the government and even gain a substantial investment interest."
+    },
+    "country_origin": "BR",
+    "genesis_date": "2017-12-21",
+    "url": "https://nasdacoin.io/",
+    "explorers": [
+        "http://nasdacoin.info/"
+    ],
+    "twitter": "nasdacoin_io",
+    "facebook": "nasdacoin",
+    "telegram": "NasdaCoin",
+    "github_org": "Nasdacoin"
+}

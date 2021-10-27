@@ -1,0 +1,29 @@
+{
+    "id": "woofy",
+    "symbol": "woofy",
+    "name": "Woofy",
+    "platforms": {
+        "ethereum": "0xd0660cd418a64a1d44e9214ad8e459324d8157f1",
+        "polygon-pos": "0xd0660cd418a64a1d44e9214ad8e459324d8157f1",
+        "fantom": "0xd0660cd418a64a1d44e9214ad8e459324d8157f1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yearn Ecosystem",
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "Woofy is blue dog companion token of YFI (Wifey)\r\n\r\nIt utilizes a special Woof bonding curve which allows two-way conversion between the tokens. That means you can be exposed both to a lighthearted dog coin and the DeFi darling blue chip at the same time.\r\n\r\nCall woof to convert YFI into WOOFY.\r\nCall unwoof to convert WOOFY back to YFI.\r\n\r\nThe ratio is always 1 YFI = 1,000,000 WOOFY. Woofy is always fully backed by YFI."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd0660cd418a64a1d44e9214ad8e459324d8157f1",
+    "url": "https://woofy.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xd0660cd418a64a1d44e9214ad8e459324d8157f1",
+        "https://ethplorer.io/address/0xd0660cd418a64a1d44e9214ad8e459324d8157f1",
+        "https://ftmscan.com/token/0xd0660cd418a64a1d44e9214ad8e459324d8157f1",
+        "https://polygonscan.com/token/0xd0660cd418a64a1d44e9214ad8e459324d8157f1"
+    ],
+    "github_org": "yearn"
+}

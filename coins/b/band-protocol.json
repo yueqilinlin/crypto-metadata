@@ -1,0 +1,35 @@
+{
+    "id": "band-protocol",
+    "symbol": "band",
+    "name": "Band Protocol",
+    "platforms": {
+        "ethereum": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+        "fantom": "0x46e7628e8b4350b2716ab470ee0ba1fa9e76c6c5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Near Protocol Ecosystem",
+        "Cosmos Ecosystem",
+        "Oracle",
+        "Decentralized Finance (DeFi)",
+        "Business Services"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+    "url": "https://bandprotocol.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+        "https://cosmoscan.io/",
+        "https://band.bigdipper.live/",
+        "https://ethplorer.io/address/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55"
+    ],
+    "twitter": "bandprotocol",
+    "telegram": "bandprotocol",
+    "reddit": "bandprotocol",
+    "github_org": "bandprotocol"
+}

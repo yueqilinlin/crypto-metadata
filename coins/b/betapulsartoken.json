@@ -1,0 +1,23 @@
+{
+    "id": "betapulsartoken",
+    "symbol": "bpul",
+    "name": "BetaPulsarToken",
+    "platforms": {
+        "polygon-pos": "0x68f044b59d96ec856ac72c29df997348c8c1fff3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Polypulsar is a yield farming platform with PvE and PvP games. The platform aims to integrate block chains games with yield farming to offer a different yield farming experience. \r\n\r\nUsers can yield farm and play games with their earnings to try and get extra rewards, or sell them for a profit. Players are rewarded with native tokens as well as USDC each day if they are in top 20. \r\n\r\nThe ultimate goal of the project involves creating an MMORPG game with a sandbox ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x68f044b59d96ec856ac72c29df997348c8c1fff3",
+    "url": "https://www.polypulsar.farm/",
+    "explorers": [
+        "https://polygonscan.com/token/0x68f044B59D96ec856aC72C29Df997348c8C1fFf3"
+    ],
+    "twitter": "FarmPulsar",
+    "telegram": "PulsarFarm",
+    "github_org": "PulsarFarm"
+}

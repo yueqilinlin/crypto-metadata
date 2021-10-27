@@ -1,0 +1,23 @@
+{
+    "id": "space-doge",
+    "symbol": "spacedoge",
+    "name": "Space Doge",
+    "platforms": {
+        "ethereum": "0xaa2409594dc0aef63c0f367e30f6b51149cbe613"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SpaceDoge is a community driven deflationary token built around memes and astronautics on the Ethereum blockchain (ERC-20). As every transaction happens, the total supply of SpaceDoge is reduced, and each token you hold gets more scarce than before. This is made possible thanks to the deflationary burn mechanism we have implemented. On top of that, there is a redistribution system happening on every sell transaction, which means that by holding SpaceDoge over time, you\u2019ll get more SpaceDoge without having to do anything else."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xaa2409594dc0aef63c0f367e30f6b51149cbe613",
+    "url": "https://spacedoge.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xaa2409594dc0aef63c0f367e30f6b51149cbe613",
+        "https://ethplorer.io/address/0xaa2409594dc0aef63c0f367e30f6b51149cbe613"
+    ],
+    "twitter": "The_Space_Doge",
+    "reddit": "Space_Doge/"
+}

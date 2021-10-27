@@ -1,0 +1,22 @@
+{
+    "id": "swap",
+    "symbol": "xwp",
+    "name": "Swap",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "A community developed crypto coin striving for robust privacy, ecosystem fairness, full transparency, secure blockchain, and easy use. Swap was created without a pre-mine, governance fees, or founders rewards. It has a custom 15 second block time and is the first CryptoNote coin using a Cuckoo Cycle variant as PoW algorithm, Cuckaroo29s."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-11-16",
+    "url": "https://xwp.one/",
+    "explorers": [
+        "https://explorer.xwp.one/"
+    ],
+    "twitter": "Swap_Community",
+    "reddit": "SwapProject",
+    "github_org": "swap-dev"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "greed",
+    "symbol": "$greed",
+    "name": "Greed",
+    "platforms": {
+        "binance-smart-chain": "0x5905df3d03e29a22e22462d3257e6ac731e22c15"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5905df3d03e29a22e22462d3257e6ac731e22c15",
+    "url": "https://www.greedtoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x5905df3D03E29a22e22462D3257E6AC731E22C15"
+    ],
+    "twitter": "GreedEcosystem",
+    "telegram": "GREEDOFFICIAL"
+}

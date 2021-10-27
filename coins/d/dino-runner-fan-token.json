@@ -1,0 +1,22 @@
+{
+    "id": "dino-runner-fan-token",
+    "symbol": "drft",
+    "name": "Dino Runner Fan Token",
+    "platforms": {
+        "binance-smart-chain": "0x0ebfb3ce3d3f33d75a45ed35cd1ac39fd45b3cff"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dino Runner Fan Token is a community-driven DeFi with a very funny and unique mascot! 3 functions occurring during each transaction: distribution between holders, auto LP, and burn."
+    },
+    "country_origin": "GR",
+    "genesis_date": null,
+    "contract_address": "0x0ebfb3ce3d3f33d75a45ed35cd1ac39fd45b3cff",
+    "url": "https://dinorunner.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x0ebfb3ce3d3f33d75a45ed35cd1ac39fd45b3cff"
+    ],
+    "twitter": "runner_dino",
+    "telegram": "Dinorunnerfuntoken"
+}

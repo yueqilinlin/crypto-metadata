@@ -1,0 +1,27 @@
+{
+    "id": "franklin",
+    "symbol": "fly",
+    "name": "Franklin",
+    "platforms": {
+        "ethereum": "0x85f6eb2bd5a062f5f8560be93fb7147e16c81472",
+        "binance-smart-chain": "0x681fd3e49a6188fc526784ee70aa1c269ee2b887"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Fly token was designed to provide customers with an opportunity for discounts and additional benefits from the VRM and Black Ocean ecosystems.\r\n\r\nVRM is a proprietary HFT company founded in August 2018, it focuses on trading AI-based quantitative HF strategies on the crypto market and provide MM solutions to digital asset exchanges. The company works on all major trading venues, such as BitMEX, Bitflyer, OKEx, Huobi, Binance, Derebit, Bit.com, Bithumb, Liquid, BTSE with a market share ranging from 6.2% to 49% each, their daily average trading volume is around 15-20  Billion USD. In addition, VRM has multiple businesses in its ecosystem including VRM Research, VRM Capital Management, VRM Mining and etc.\r\n\r\nBlack Ocean is a liquidity-provision platform for institutional customers and crypto trading venues.\r\nThe liquidity pool provides retail-oriented trading venues with liquidity and order execution.\r\nThe dark pool provides institutional users with a trading venue for the execution of large orders exceeding 5 BTC/300k USD without a counter-party risk and influence on the market."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x85f6eb2bd5a062f5f8560be93fb7147e16c81472",
+    "url": "https://tokenfly.co/",
+    "explorers": [
+        "https://etherscan.io/address/0x85f6eb2bd5a062f5f8560be93fb7147e16c81472#code",
+        "https://etherscan.io/token/0x85f6eb2bd5a062f5f8560be93fb7147e16c81472",
+        "https://ethplorer.io/address/0x85f6eb2bd5a062f5f8560be93fb7147e16c81472",
+        "https://bscscan.com/token/0x681fd3e49a6188fc526784ee70aa1c269ee2b887"
+    ],
+    "twitter": "FrankLinYield",
+    "telegram": "fly_global ",
+    "github_org": "tokenfly"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "adax",
+    "symbol": "adax",
+    "name": "ADAX",
+    "platforms": {
+        "cardano": "0c78f619e54a5d00e143f66181a2c500d0c394b38a10e86cd1a23c5f41444158"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ADAX is an automated liquidity protocol that facilitates trades within the Cardano ecosystem in a completely decentralized and non-custodial way. ADAX has no order book -- we eliminate all intermediaries, complexity, and cumbersome procedures from the equation, offering users untrammeled freedom to trade without censorship or loss of control over their assets. Users can maintain full control of their tokens and are not required to give up their private keys so that their orders can be logged as they are on a centralized exchange."
+    },
+    "country_origin": "CY",
+    "genesis_date": null,
+    "contract_address": "0c78f619e54a5d00e143f66181a2c500d0c394b38a10e86cd1a23c5f41444158",
+    "url": "https://adax.pro/",
+    "explorers": [
+        "https://cardanoscan.io/token/0c78f619e54a5d00e143f66181a2c500d0c394b38a10e86cd1a23c5f41444158"
+    ],
+    "twitter": "adax_pro",
+    "telegram": "adaxcommunity",
+    "reddit": "ADAXPRO/"
+}

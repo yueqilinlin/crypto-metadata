@@ -1,0 +1,24 @@
+{
+    "id": "basid-coin",
+    "symbol": "basid",
+    "name": "Basid Coin",
+    "platforms": {
+        "ethereum": "0xe33f363351186e185470f35f6deb94aba44347d8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BASID will introduce a payment gateway that will be its main feature. Subsequently, it has developed a website plugin, the BASID account portal, and the Merchant\u2019s Wallet."
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "contract_address": "0xe33f363351186e185470f35f6deb94aba44347d8",
+    "url": "https://basidcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe33f363351186e185470f35F6DeB94ABa44347D8",
+        "https://ethplorer.io/address/0xe33f363351186e185470f35f6deb94aba44347d8"
+    ],
+    "twitter": "basidcoin",
+    "facebook": "basidcoin",
+    "telegram": "basidcoin"
+}

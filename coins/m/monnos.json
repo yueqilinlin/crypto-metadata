@@ -1,0 +1,24 @@
+{
+    "id": "monnos",
+    "symbol": "mns",
+    "name": "Monnos",
+    "platforms": {
+        "ethereum": "0x53884b61963351c283118a8e1fc05ba464a11959"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Synchronize with crypto trader's strategies and earn.\r\nYou don't need to have time or be an expert to make gains in the cryptocurrency market, at Monnos you synchronize your funds with traders strategies that fit perfectly for you."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0x53884b61963351c283118a8e1fc05ba464a11959",
+    "url": "https://monnos.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x53884b61963351C283118a8E1Fc05BA464a11959",
+        "https://ethplorer.io/address/0x53884b61963351C283118a8E1Fc05BA464a11959"
+    ],
+    "twitter": "MonnosGlobal",
+    "facebook": "MonnosGlobal",
+    "telegram": "monnos_english"
+}

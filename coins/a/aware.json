@@ -1,0 +1,22 @@
+{
+    "id": "aware",
+    "symbol": "at",
+    "name": "AWARE",
+    "platforms": {
+        "qtum": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AWARE is a decentralized token investment-management community (TIC) aiming to make innovative assets more liquid and to serve blockchain entrepreneurs and investors across the globe. As the first fund product of AWARE community, AWARE Innovation (AWI) focuses on discovering and funding China\u2019s blockchain start-up projects and helps them to integrate into global cryptocurrency capital market."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-06-02",
+    "url": "https://at.top",
+    "explorers": [
+        "https://explorer.qtum.org/token/49665919e437a4bedb92faa45ed33ebb5a33ee63"
+    ],
+    "twitter": "AWARE__Official",
+    "telegram": "AWARECn",
+    "github_org": "AwareFoundation"
+}

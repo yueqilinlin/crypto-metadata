@@ -1,0 +1,22 @@
+{
+    "id": "finexbox-token",
+    "symbol": "fnb",
+    "name": "FinexboxToken",
+    "platforms": {
+        "ethereum": "0xe6d2c3cb986db66818c14c7032db05d1d2a6ee74"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Finexbox is a global P2P cryptocurrency trading exchange."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0xe6d2c3cb986db66818c14c7032db05d1d2a6ee74",
+    "url": "https://www.finexbox.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe6d2c3cb986db66818c14c7032db05d1d2a6ee74",
+        "https://ethplorer.io/address/0xe6d2c3cb986db66818c14c7032db05d1d2a6ee74"
+    ],
+    "twitter": "finexbox"
+}

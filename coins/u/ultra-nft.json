@@ -1,0 +1,23 @@
+{
+    "id": "ultra-nft",
+    "symbol": "unft",
+    "name": "Ultra NFT",
+    "platforms": {
+        "binance-smart-chain": "0xdb29192fc2b487bb5185e155752328d4f249743c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ultra NFT is an NFT Market"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdb29192fc2b487bb5185e155752328d4f249743c",
+    "url": "https://ultranft.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xdb29192fc2b487bb5185e155752328d4f249743c"
+    ],
+    "twitter": "ultranftfinance",
+    "telegram": "ultranftcommunity",
+    "github_org": "ultranft"
+}

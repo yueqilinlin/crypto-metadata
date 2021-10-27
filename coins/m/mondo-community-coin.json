@@ -1,0 +1,24 @@
+{
+    "id": "mondo-community-coin",
+    "symbol": "mndcc",
+    "name": "Mondo Community Coin",
+    "platforms": {
+        "ethereum": "0xcdb9d30a3ba48cdfcb0ecbe19317e6cf783672f1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mondo thrives from the innovative strength of its ecosystem, the advantages of the blockchain and the community of people worldwide. With over 10,000 members in more than 40 countries. Regardless of whether you are an entrepreneur, employee or freelancer \u2013 if your ideals match our visions, we have the unique opportunity to work together for a better world of tomorrow."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcdb9d30a3ba48cdfcb0ecbe19317e6cf783672f1",
+    "url": "https://www.mondo-coin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xcdb9d30a3ba48cdfcb0ecbe19317e6cf783672f1",
+        "https://ethplorer.io/address/0xcdb9d30a3ba48cdfcb0ecbe19317e6cf783672f1"
+    ],
+    "twitter": "mondocoin",
+    "telegram": "mondocoin",
+    "github_org": "mondo-blockchain"
+}

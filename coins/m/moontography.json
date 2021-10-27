@@ -1,0 +1,23 @@
+{
+    "id": "moontography",
+    "symbol": "mtgy",
+    "name": "Moontography",
+    "platforms": {
+        "binance-smart-chain": "0x025c9f1146d4d94f8f369b9d98104300a3c8ca23"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The moontography project aims to provide a suite of decentralized tools, services, and products that the crypto community finds real-world, meaningful value in."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x025c9f1146d4d94f8f369b9d98104300a3c8ca23",
+    "url": "https://moontography.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x025c9f1146d4d94F8F369B9d98104300A3c8ca23"
+    ],
+    "twitter": "themoontography",
+    "telegram": "moontographyproject",
+    "github_org": "moontography"
+}

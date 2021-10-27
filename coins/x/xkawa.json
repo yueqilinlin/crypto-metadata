@@ -1,0 +1,28 @@
+{
+    "id": "xkawa",
+    "symbol": "xkawa",
+    "name": "xKAWA",
+    "platforms": {
+        "ethereum": "0xdc386452f9ffda7f0d2940e5c60dc0f9469b1097"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens",
+        "Yield Farming",
+        "Governance"
+    ],
+    "description": {
+        "en": "xKAWA token is the governance token of the Kawakami ecosystem, required to participate in the DAO and KawaSeed. Revenue from Kawaseed is distributed to xKAWA holders.\r\n\r\nIt is an auto-staking (distribution) token and can be purchased on an exchange or rewarded for free by staking tokens on KawaFarm.\r\n\r\nIt is envisioned as the reward for those who participate in governing the Kawakami ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdc386452f9ffda7f0d2940e5c60dc0f9469b1097",
+    "url": "https://kawatoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xdc386452f9ffda7f0d2940e5c60dc0f9469b1097",
+        "https://ethplorer.io/address/0xdc386452f9ffda7f0d2940e5c60dc0f9469b1097"
+    ],
+    "twitter": "Kawakami_Inu",
+    "telegram": "kawatoken",
+    "github_org": "kawatoken"
+}

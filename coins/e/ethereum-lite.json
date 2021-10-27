@@ -1,0 +1,22 @@
+{
+    "id": "ethereum-lite",
+    "symbol": "elite",
+    "name": "Ethereum Lite",
+    "platforms": {
+        "ethereum": "0x0a76aad21948ea1ef447d26dee91a54370e151e0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ethereum Lite is an Ethereum-based ERC-20 Token that focuses on being a faster and cheaper currency than Bitcoin, Litecoin and other cryptocurrencies, while being distributed equally between all users that signed up for the airdrop."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-10-06",
+    "contract_address": "0x0a76aad21948ea1ef447d26dee91a54370e151e0",
+    "url": "http://www.ethereumlite.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x0a76aad21948ea1ef447d26dee91a54370e151e0",
+        "https://ethplorer.io/address/0x0a76aad21948ea1ef447d26dee91a54370e151e0"
+    ],
+    "twitter": "ethereumlite"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "spartancoin",
+    "symbol": "spn",
+    "name": "SpartanCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "SpartanCoin is a decentralized cryptocurrency flying on the Internet. One of SpartanCoin advantage is that the SpartanCoin block transaction is very fast only needs 120 seconds. Another advantage is that the difficulty retargets every block using Kimoto's Gravity Well. The third advantage is the permissive and final fixed circulation which let you enter at any time. The SpartanCoin currency swap symbol is SPN."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://spartancoin.ooo",
+    "explorers": [
+        "https://spartancoin.ooo/explorer",
+        "https://cryptoblocks.site/spn"
+    ],
+    "twitter": "SpartanCoin",
+    "facebook": "spartancoins",
+    "github_org": "spartancoin-online"
+}

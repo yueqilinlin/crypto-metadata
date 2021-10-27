@@ -1,0 +1,25 @@
+{
+    "id": "crossing-the-yellow-blocks",
+    "symbol": "cbk",
+    "name": "Crossing the Yellow Blocks",
+    "platforms": {
+        "ethereum": "0x87761e886399ef8e1624cb0db3230b075a322c88",
+        "binance-smart-chain": "0x4f60a160d8c2dddaafe16fcc57566db84d674bd6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Blockchain Docuseries on Google Play & Apple TV+"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x87761e886399ef8e1624cb0db3230b075a322c88",
+    "url": "https://www.crossingtheyellowblocks.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x87761e886399ef8e1624cb0db3230b075a322c88",
+        "https://ethplorer.io/address/0x87761e886399ef8e1624cb0db3230b075a322c88"
+    ],
+    "twitter": "theyellowblocks",
+    "telegram": "cbkcommunityfans",
+    "github_org": "Crossing-the-Yellow-Blocks"
+}

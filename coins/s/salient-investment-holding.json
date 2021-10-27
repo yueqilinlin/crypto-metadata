@@ -1,0 +1,24 @@
+{
+    "id": "salient-investment-holding",
+    "symbol": "sih",
+    "name": "Salient Investment Holding",
+    "platforms": {
+        "ethereum": "0x6d728ff862bfe74be2aba30537e992a24f259a22"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SIH is a blockchain investment system. There's no need to sell off your SIH tokens for profit, monthly returns are paid directly to your wallet in stablecoins!"
+    },
+    "country_origin": "ZA",
+    "genesis_date": null,
+    "contract_address": "0x6d728ff862bfe74be2aba30537e992a24f259a22",
+    "url": "https://salientinvestmentholding.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6D728fF862Bfe74be2aba30537E992A24F259a22",
+        "https://ethplorer.io/address/0x6D728fF862Bfe74be2aba30537E992A24F259a22"
+    ],
+    "twitter": "HoldingSalient",
+    "facebook": "SIHtoken",
+    "github_org": "ClintonK227"
+}

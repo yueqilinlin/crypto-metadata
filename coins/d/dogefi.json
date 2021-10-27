@@ -1,0 +1,25 @@
+{
+    "id": "dogefi",
+    "symbol": "dogefi",
+    "name": "DogeFi",
+    "platforms": {
+        "ethereum": "0x9b9087756eca997c5d595c840263001c9a26646d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9b9087756eca997c5d595c840263001c9a26646d",
+    "url": "https://www.dogefi.army/",
+    "explorers": [
+        "https://etherscan.io/token/0x9b9087756eca997c5d595c840263001c9a26646d",
+        "https://ethplorer.io/address/0x9b9087756eca997c5d595c840263001c9a26646d"
+    ],
+    "twitter": "DOGEFI_army",
+    "telegram": "DOGEFI_army"
+}

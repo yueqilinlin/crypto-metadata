@@ -1,0 +1,24 @@
+{
+    "id": "orbicular",
+    "symbol": "orbi",
+    "name": "Orbicular",
+    "platforms": {
+        "ethereum": "0x2de27d3432d3188b53b02137e07b47896d347d45"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Orbicular is a token whose supply rises and falls cyclically, with the cycle resetting every two weeks. A week of rising supply will always be followed by a week of falling supply, and vice versa."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2de27d3432d3188b53b02137e07b47896d347d45",
+    "url": "https://orbicular.io",
+    "explorers": [
+        "https://etherscan.io/token/0x2de27d3432d3188b53b02137e07b47896d347d45",
+        "https://ethplorer.io/address/0x2de27d3432d3188b53b02137e07b47896d347d45"
+    ],
+    "twitter": "CryptoOrbicular",
+    "telegram": "OfficialOrbicular",
+    "github_org": "OrbicularH4H"
+}

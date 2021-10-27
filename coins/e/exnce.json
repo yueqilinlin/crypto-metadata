@@ -1,0 +1,28 @@
+{
+    "id": "exnce",
+    "symbol": "xnc",
+    "name": "EXNCE",
+    "platforms": {
+        "ethereum": "0x8317b216d7c3f9a5b8401e4b6814d13a7be390ec"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "EXNCE (XNC) is a cryptocurrency token issued on the Ethereum platform. "
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x8317b216d7c3f9a5b8401e4b6814d13a7be390ec",
+    "url": "https://www.exnce.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8317b216D7c3F9a5B8401E4b6814D13A7BE390ec",
+        "https://ethplorer.io/address/0x8317b216d7c3f9a5b8401e4b6814d13a7be390ec"
+    ],
+    "twitter": "exncecom",
+    "facebook": "exncecom",
+    "telegram": "exnceofficial",
+    "reddit": "EXNCE/",
+    "github_org": "exnce"
+}

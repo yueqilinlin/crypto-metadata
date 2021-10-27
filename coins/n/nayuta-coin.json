@@ -1,0 +1,21 @@
+{
+    "id": "nayuta-coin",
+    "symbol": "nc",
+    "name": "Nayuta Coin",
+    "platforms": {
+        "enq-enecuum": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NAYUTA is the first company in the network marketing industry to produce beauty and health products and which has released its own cryptocurrency."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "url": "https://nayutacoin.info/",
+    "explorers": [
+        "https://pulse.enecuum.com/#!/token/bcbb425dcbd104fc1a63f37a1926bf94c989198d132b8c25db17ddc7cc096745"
+    ],
+    "facebook": "Nayuta-Coin-101559351813832",
+    "telegram": "nayutacoin"
+}

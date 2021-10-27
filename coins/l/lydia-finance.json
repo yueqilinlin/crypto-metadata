@@ -1,0 +1,26 @@
+{
+    "id": "lydia-finance",
+    "symbol": "lyd",
+    "name": "Lydia Finance",
+    "platforms": {
+        "avalanche": "0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem"
+    ],
+    "description": {
+        "en": "DeX and Yield Farming on Avalanche"
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084",
+    "url": "https://lydia.finance",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/token-transfers",
+        "https://avascan.info/blockchain/c/token/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084"
+    ],
+    "twitter": "LydiaFinance",
+    "telegram": "lydiafinance",
+    "github_org": "lydiafinance"
+}

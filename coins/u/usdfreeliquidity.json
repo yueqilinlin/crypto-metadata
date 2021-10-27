@@ -1,0 +1,24 @@
+{
+    "id": "usdfreeliquidity",
+    "symbol": "usdfl",
+    "name": "USDFreeLiquidity",
+    "platforms": {
+        "ethereum": "0x2b4200a8d373d484993c37d63ee14aee0096cd12"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Stablecoin of the decentralized lending platform, Freeliquid."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2b4200a8d373d484993c37d63ee14aee0096cd12",
+    "url": "https://freeliquid.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x2b4200a8d373d484993c37d63ee14aee0096cd12",
+        "https://ethplorer.io/address/0x2b4200a8d373d484993c37d63ee14aee0096cd12"
+    ],
+    "twitter": "freeliquidUSDFL",
+    "telegram": "freeliquid",
+    "github_org": "Freeliquid"
+}

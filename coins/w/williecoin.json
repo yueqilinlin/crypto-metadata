@@ -1,0 +1,24 @@
+{
+    "id": "williecoin",
+    "symbol": "willie",
+    "name": "Williecoin",
+    "platforms": {
+        "binance-smart-chain": "0xe2d5f82fcac139e1e5fdb9c6ac63bc6443f00890"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Williecoin is an ocean preservation project, with a mission to save planet Earth."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xe2d5f82fcac139e1e5fdb9c6ac63bc6443f00890",
+    "url": "https://williecoin.org",
+    "explorers": [
+        "https://bscscan.com/token/0xe2D5F82fcaC139e1E5fDb9C6Ac63BC6443f00890"
+    ],
+    "twitter": "williecoinorg",
+    "telegram": "WillieCoinOfficial",
+    "reddit": "WillieCoin/",
+    "github_org": "WillieCoinDev"
+}

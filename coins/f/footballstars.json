@@ -1,0 +1,22 @@
+{
+    "id": "footballstars",
+    "symbol": "fts",
+    "name": "FootballStars",
+    "platforms": {
+        "binance-smart-chain": "0x6507458bb53aec6be863161641ec28739c41cc97"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We connect fans, players and clubs around the globe to provide a seamless virtual integration of all their top leagues, cups and championships."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x6507458bb53aec6be863161641ec28739c41cc97",
+    "url": "https://footballstars.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x6507458BB53aec6Be863161641ec28739C41cC97"
+    ],
+    "twitter": "FootballStarsIO",
+    "telegram": "FootballStarsIO"
+}

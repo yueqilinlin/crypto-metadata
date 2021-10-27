@@ -1,0 +1,22 @@
+{
+    "id": "norse-finance",
+    "symbol": "nfi",
+    "name": "Norse Finance",
+    "platforms": {
+        "binance-smart-chain": "0x43f001914c7d347d152f296e8539086fe49f8bd6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Norse Finance is a DeFi project built on the BSC Blockchain system that provides a secured platform which allows users to farm tokens by staking their $NFI"
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x43f001914c7d347d152f296e8539086fe49f8bd6",
+    "url": "https://norse.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x43f001914c7d347d152f296e8539086fe49f8bd6"
+    ],
+    "twitter": "NorseFinance",
+    "telegram": "NorseFinance"
+}

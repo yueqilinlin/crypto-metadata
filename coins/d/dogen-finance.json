@@ -1,0 +1,24 @@
+{
+    "id": "dogen-finance",
+    "symbol": "dogen",
+    "name": "Dogen Finance",
+    "platforms": {
+        "ethereum": "0x17eb50fdd2995696ee82912a80a9766fcbb0ecca",
+        "harmony-shard-0": "0x93c10c4a4436c8f6e5a9d1325b570e84df7fcedb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dogen Finance is a decentralized autonomous organization with the purpose of bringing Doges into DeFi. Dogen Finance provides a place for all doge-type tokens to generate yield. \r\n\r\nDOGEN token launched on Ethereum at 4:20pm PST on April 20th via yield farming with Uniswap LP tokens for doge-type token pairs. DOGEN farmers earn by combining their DOGE-related tokens such as renDOGE, SHIB, and AKITA with ETH in Uniswap and staking the resulting pool token in a Dogen Finance dog park on the \"\"Parks\"\" page. \r\n\r\nDogen Finance is community-governed and works together to crowdsourced yield generation strategies. Based on the model of BadgerDAO, whose purpose is bringing Bitcoin to DeFi, Dogen Finance brings Doges to DeFi."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x17eb50fdd2995696ee82912a80a9766fcbb0ecca",
+    "url": "https://dogen.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x17eb50FDD2995696eE82912a80a9766fCBb0ECcA",
+        "https://ethplorer.io/address/0x17eb50fdd2995696ee82912a80a9766fcbb0ecca"
+    ],
+    "twitter": "Dogenfinance",
+    "telegram": "dogenfinance"
+}

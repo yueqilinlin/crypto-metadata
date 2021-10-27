@@ -1,0 +1,22 @@
+{
+    "id": "ryo",
+    "symbol": "ryo",
+    "name": "Ryo Currency",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [],
+    "description": {
+        "en": "Ryo is one of very few cryptonote currencies that does actual, rapid development. Its team is led by fireice_uk and psychocrypt, who are the developers of xmr-stak mining software and the cryptonight-heavy algo which has been used by several Cryptonote projects and pioneered first in industry floating point mining algo Cryptonight-GPU. Another lead developer - mosu_forge introduced first GUI Wallet with SOLO mining features among any Cryptonote projects."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://ryo-currency.com/",
+    "explorers": [
+        "https://explorer.ryo-currency.com/"
+    ],
+    "twitter": "RyocurrencyO",
+    "facebook": "RyoCurrency",
+    "telegram": "ryo_currency",
+    "reddit": "ryocurrency/",
+    "github_org": "ryo-currency"
+}

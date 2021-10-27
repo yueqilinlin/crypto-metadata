@@ -1,0 +1,23 @@
+{
+    "id": "nagaswap",
+    "symbol": "bnw",
+    "name": "NagaSwap",
+    "platforms": {
+        "binance-smart-chain": "0xa15083664eb19899885ccc2b4fd03977b26d3a2d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NagaSwap is the world's first completely decentralized derivatives exchange with trustless cross-chain trading."
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "contract_address": "0xa15083664eb19899885ccc2b4fd03977b26d3a2d",
+    "url": "https://nagaswap.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xa15083664eb19899885ccc2b4fd03977b26d3a2d"
+    ],
+    "twitter": "SwapNaga",
+    "telegram": "NAGASWAP",
+    "github_org": "nagaswap20"
+}

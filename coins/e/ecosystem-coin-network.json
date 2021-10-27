@@ -1,0 +1,23 @@
+{
+    "id": "ecosystem-coin-network",
+    "symbol": "ecn",
+    "name": "Ecosystem Coin Network",
+    "platforms": {
+        "ethereum": "0xca47bc04ecfcd324b238ed411741efb65b3c777b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ECN is a decentralized prediction market network where users can make a bet on any prediction, without any limitation"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xca47bc04ecfcd324b238ed411741efb65b3c777b",
+    "url": "https://ecn.global/",
+    "explorers": [
+        "https://etherscan.io/token/0xca47bc04ecfcd324b238ed411741efb65b3c777b",
+        "https://ethplorer.io/address/0xca47bc04ecfcd324b238ed411741efb65b3c777b"
+    ],
+    "twitter": "EcnToken",
+    "telegram": "ecncoin_ann"
+}

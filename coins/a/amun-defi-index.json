@@ -1,0 +1,26 @@
+{
+    "id": "amun-defi-index",
+    "symbol": "dfi",
+    "name": "Amun DeFi Index",
+    "platforms": {
+        "ethereum": "0xa9536b9c75a9e0fae3b56a96ac8edf76abc91978"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "DeFi Index"
+    ],
+    "description": {
+        "en": "\"Amun\u2019s DeFi Index Token (DFI) is composed of the top eight DeFi tokens in the Ethereum ecosystem by market capitalization. DFI provides investors with exposure to protocols that provide trading, lending and borrowing, yield farming, data oracles, insurance, prediction markets, and synthetic assets. The index\u2019s components are equally weighted and rebalances monthly. Holders of DFI own fractions of the underlying tokens, which can be redeemed by burning the index token.\""
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0xa9536b9c75a9e0fae3b56a96ac8edf76abc91978",
+    "url": "https://tokens.amun.com/defi-basket",
+    "explorers": [
+        "https://etherscan.io/token/0xa9536b9c75a9e0fae3b56a96ac8edf76abc91978",
+        "https://ethplorer.io/address/0xa9536b9c75a9e0fae3b56a96ac8edf76abc91978"
+    ],
+    "twitter": "AmunTokens",
+    "telegram": "AmunTokens",
+    "github_org": "amun"
+}

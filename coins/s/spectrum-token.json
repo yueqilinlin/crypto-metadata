@@ -1,0 +1,26 @@
+{
+    "id": "spectrum-token",
+    "symbol": "spec",
+    "name": "Spectrum Token",
+    "platforms": {
+        "terra": "terra1s5eczhe0h0jutf46re52x5z4r03c8hupacxmdr"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Terra Ecosystem"
+    ],
+    "description": {
+        "en": "The first and innovative yield optimizer on Terra Ecosystem, auto-compound and auto-stake your Mirror, Anchor, and Pylon farm rewards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "terra1s5eczhe0h0jutf46re52x5z4r03c8hupacxmdr",
+    "url": "https://spec.finance/",
+    "explorers": [
+        "https://finder.terra.money/columbus-5/address/terra1s5eczhe0h0jutf46re52x5z4r03c8hupacxmdr"
+    ],
+    "twitter": "SpecProtocol",
+    "telegram": "spectrum_protocol_annoucement",
+    "github_org": "spectrumprotocol"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "orca",
+    "symbol": "orca",
+    "name": "Orca",
+    "platforms": {
+        "solana": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem",
+        "Decentralized Exchange Token (DEX)",
+        "Automated Market Maker (AMM)",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Orca is the most user-friendly DEX on Solana.\r\n\r\nOrca is one of the first general-purpose AMMs launched on Solana. Users can swap assets, provide liquidity, and earn yield through an easy-to-use interface. Projects can use Orca as a money-lego to easily integrate swapping, farming, or on-chain data into their dApp.\r\n\r\nOrca strives to provide easy and effective financial tools for everyone, bringing DeFi to the masses."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
+    "url": "https://www.orca.so/",
+    "explorers": [
+        "https://solscan.io/token/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE"
+    ],
+    "twitter": "orca_so",
+    "telegram": "orca_so",
+    "reddit": "orca_so/",
+    "github_org": "orca-so"
+}

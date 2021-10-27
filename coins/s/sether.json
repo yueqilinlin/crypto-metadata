@@ -1,0 +1,26 @@
+{
+    "id": "sether",
+    "symbol": "seth",
+    "name": "Sether",
+    "platforms": {
+        "ethereum": "0x78b039921e84e726eb72e7b1212bb35504c645ca"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Big Data"
+    ],
+    "description": {
+        "en": "Sether is the first smart social media data oracle. Existing data oracles move data between any external source and the blockchain. Sether moves, monitors and analyses social media data for the blockchain, automating integration with social networks."
+    },
+    "country_origin": "RO",
+    "genesis_date": null,
+    "contract_address": "0x78b039921e84e726eb72e7b1212bb35504c645ca",
+    "url": "https://www.sether.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x78b039921e84e726eb72e7b1212bb35504c645ca",
+        "https://ethplorer.io/address/0x78b039921e84e726eb72e7b1212bb35504c645ca"
+    ],
+    "twitter": "setherplatform",
+    "facebook": "setherplatform",
+    "github_org": "mware-solutions"
+}

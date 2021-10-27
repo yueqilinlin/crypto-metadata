@@ -1,0 +1,25 @@
+{
+    "id": "structure-finance",
+    "symbol": "stf",
+    "name": "Structure Finance",
+    "platforms": {
+        "ethereum": "0x1f4cb968b76931c494ff92ed80ccb169ad641cb1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Structured Products"
+    ],
+    "description": {
+        "en": "Decentralized blockchain-based platform for structured financial products"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1f4cb968b76931c494ff92ed80ccb169ad641cb1",
+    "url": "https://structure.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x1f4cb968b76931c494ff92ed80ccb169ad641cb1",
+        "https://ethplorer.io/address/0x1f4cb968b76931c494ff92ed80ccb169ad641cb1"
+    ],
+    "twitter": "Structure_fin",
+    "telegram": "StructureOfficial"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "seal-finance",
+    "symbol": "seal",
+    "name": "Seal Finance",
+    "platforms": {
+        "ethereum": "0x33c2da7fd5b125e629b3950f3c38d7f721d7b30d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "SEAL \u2014 An experimental protocol that serves as an intermediary between major DeFi protocol tokens, creating deeper liquidity in between.\r\n\r\nThe mission of Seal Finance is to stabilize fluctuating major DeFi protocol tokens by providing incentives for token holders to add liquidity. Seal Finance introduces a brand new way of yield farming: \u201cFixed APY\u201d and compound interest to incentivize the liquidity providers."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x33c2da7fd5b125e629b3950f3c38d7f721d7b30d",
+    "url": "https://seal.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x33c2DA7Fd5B125E629B3950f3c38d7f721D7B30D",
+        "https://ethplorer.io/address/0x33c2da7fd5b125e629b3950f3c38d7f721d7b30d"
+    ],
+    "twitter": "seal_finance",
+    "telegram": "SealFinance",
+    "github_org": "sealfinance"
+}

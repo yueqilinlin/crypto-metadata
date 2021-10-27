@@ -1,0 +1,23 @@
+{
+    "id": "ryi-platinum",
+    "symbol": "ryip",
+    "name": "RYI Platinum",
+    "platforms": {
+        "ethereum": "0xd78e5b24aae1bd03a488af642770e2abb986f9d5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RYI Platinum is a cross-chain Automated Market Maker (AMM) connector that provides a decentralized Liquidity Tap for various tokens. The Liquidity Tap is the powerhouse of Liquidity Pools, deploying a dynamic algorithm that provides Liquidity Providers with fairer and more efficient incentives overtime."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xd78e5b24aae1bd03a488af642770e2abb986f9d5",
+    "url": "https://ryi-unity.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd78e5b24aae1bd03a488af642770e2abb986f9d5",
+        "https://ethplorer.io/address/0xd78e5b24aae1bd03a488af642770e2abb986f9d5"
+    ],
+    "twitter": "RYI_Unity",
+    "telegram": "RYIUNITY"
+}

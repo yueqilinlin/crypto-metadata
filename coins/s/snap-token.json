@@ -1,0 +1,23 @@
+{
+    "id": "snap-token",
+    "symbol": "snap",
+    "name": "SNAP!",
+    "platforms": {
+        "ethereum": "0x4c5813b8c6fbbac76caa148aaf8910f236b56fdf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Snap is building out a brand new universe for comic lovers and NFT collectors, everything will be voted on and influenced directly by the community!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4c5813b8c6fbbac76caa148aaf8910f236b56fdf",
+    "url": "https://snaptoken.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x4c5813b8c6fbbac76caa148aaf8910f236b56fdf",
+        "https://ethplorer.io/address/0x4c5813b8c6fbbac76caa148aaf8910f236b56fdf"
+    ],
+    "twitter": "SNAP_Official_",
+    "telegram": "snapuniverse"
+}

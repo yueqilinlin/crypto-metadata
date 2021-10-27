@@ -1,0 +1,23 @@
+{
+    "id": "hardcore-finance",
+    "symbol": "hcore",
+    "name": "Hardcore Finance",
+    "platforms": {
+        "ethereum": "0x60a995cebcd44ca566ae22a9666ed28c67b598a1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x60a995cebcd44ca566ae22a9666ed28c67b598a1",
+    "url": "https://hcore.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x60a995cebcd44ca566ae22a9666ed28c67b598a1",
+        "https://ethplorer.io/address/0x60a995cebcd44ca566ae22a9666ed28c67b598a1"
+    ],
+    "twitter": "hcorefinance",
+    "telegram": "hcorefinance"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "token-tkx",
+    "symbol": "tkx",
+    "name": "Token TKX",
+    "platforms": {
+        "binance-smart-chain": "0x4d864e4f542b4b40acb3151c9dad2e2c9236a88f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The story of XIXO originates from the desire to create a digital economic ecosystem for the Real Estate, Construction, and Industrial sectors. Our ecosystem makes it simple and easy for communities, businesses, organizations, and individuals to conduct transactions and implement real estate, construction, and industrial development and save time, improving efficiency, labor productivity and investment efficiency."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4d864e4f542b4b40acb3151c9dad2e2c9236a88f",
+    "url": "https://www.xixochain.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x4d864e4f542b4b40acb3151c9dad2e2c9236a88f"
+    ],
+    "twitter": "xixo_ecosystem",
+    "telegram": "xixoecosystem_official"
+}

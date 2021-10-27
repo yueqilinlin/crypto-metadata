@@ -1,0 +1,29 @@
+{
+    "id": "tornado-cash",
+    "symbol": "torn",
+    "name": "Tornado Cash",
+    "platforms": {
+        "ethereum": "0x77777feddddffc19ff86db637967013e6c6a116c",
+        "binance-smart-chain": "0x1ba8d3c4c219b124d351f603060663bd1bcd9bbf"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x77777feddddffc19ff86db637967013e6c6a116c",
+    "url": "https://tornado.cash/",
+    "explorers": [
+        "https://etherscan.io/token/0x77777feddddffc19ff86db637967013e6c6a116c",
+        "https://ethplorer.io/address/0x77777feddddffc19ff86db637967013e6c6a116c",
+        "https://bscscan.com/token/0x1ba8d3c4c219b124d351f603060663bd1bcd9bbf"
+    ],
+    "twitter": "TornadoCash",
+    "telegram": "TornadoCashOfficial",
+    "github_org": "tornadocash"
+}

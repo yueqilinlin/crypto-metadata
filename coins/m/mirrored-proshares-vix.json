@@ -1,0 +1,29 @@
+{
+    "id": "mirrored-proshares-vix",
+    "symbol": "mvixy",
+    "name": "Mirrored ProShares VIX",
+    "platforms": {
+        "ethereum": "0xf72fcd9dcf0190923fadd44811e240ef4533fc86",
+        "binance-smart-chain": "0x92e744307694ece235cd02e82680ec37c657d23e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Mirrored Assets"
+    ],
+    "description": {
+        "en": "Mirrored ProShares VIX - synthetic asset tracking the price of a ProShares VIX ETF."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf72fcd9dcf0190923fadd44811e240ef4533fc86",
+    "url": "https://mirror.finance",
+    "explorers": [
+        "https://finder.terra.money/columbus-4/token/terra1zp3a6q6q4953cz376906g5qfmxnlg77hx3te45",
+        "https://etherscan.io/token/0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86",
+        "https://ethplorer.io/address/0xf72fcd9dcf0190923fadd44811e240ef4533fc86",
+        "https://bscscan.com/token/0x92E744307694Ece235cd02E82680ec37c657D23E"
+    ],
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol",
+    "github_org": "mirror-protocol"
+}

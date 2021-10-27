@@ -1,0 +1,24 @@
+{
+    "id": "nestree",
+    "symbol": "egg",
+    "name": "Nestree",
+    "platforms": {
+        "ethereum": "0x65ccd72c0813ce6f2703593b633202a0f3ca6a0c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x65ccd72c0813ce6f2703593b633202a0f3ca6a0c",
+    "url": "https://www.nestree.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x65ccd72c0813ce6f2703593b633202a0f3ca6a0c",
+        "https://ethplorer.io/address/0x65ccd72c0813ce6f2703593b633202a0f3ca6a0c"
+    ],
+    "twitter": "nestree_io",
+    "facebook": "nestree.io",
+    "telegram": "nestree_en"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "ioeth",
+    "symbol": "ioeth",
+    "name": "ioETH",
+    "platforms": {
+        "iotex": "0x0258866edaf84d6081df17660357ab20a07d0c80"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ioETH is a wrapped token that can be bridged to IoTeX from any networks via iotube."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0258866edaf84d6081df17660357ab20a07d0c80",
+    "url": "https://iotube.org/",
+    "explorers": [
+        "https://iotexscan.io/address/0x0258866edaf84d6081df17660357ab20a07d0c80"
+    ]
+}

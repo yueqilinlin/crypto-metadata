@@ -1,0 +1,25 @@
+{
+    "id": "bayc-vault-nftx",
+    "symbol": "bayc",
+    "name": "BAYC Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xea47b64e1bfccb773a0420247c0aa0a3c1d2e5c5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "BAYC Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xea47b64e1bfccb773a0420247c0aa0a3c1d2e5c5",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xea47b64e1bfccb773a0420247c0aa0a3c1d2e5c5",
+        "https://ethplorer.io/address/0xea47b64e1bfccb773a0420247c0aa0a3c1d2e5c5"
+    ],
+    "twitter": "nftx_"
+}

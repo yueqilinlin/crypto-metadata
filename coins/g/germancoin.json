@@ -1,0 +1,23 @@
+{
+    "id": "germancoin",
+    "symbol": "gcx",
+    "name": "GermanCoin",
+    "platforms": {
+        "ethereum": "0x44a67c8570a61a28bafd0035042f2f0a73a64428"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The value of GermanCoin is determined by the demand for GermanCoin, as with gold or silver.\r\nThe price can go up or down, but on average the value of GermanCoin will go up with growing Community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x44a67c8570a61a28bafd0035042f2f0a73a64428",
+    "url": "https://germancoin.info/",
+    "explorers": [
+        "https://etherscan.io/token/0x44a67c8570a61a28bafd0035042f2f0a73a64428",
+        "https://ethplorer.io/address/0x44a67c8570a61a28bafd0035042f2f0a73a64428"
+    ],
+    "telegram": "GermanCoin_GCX",
+    "github_org": "engenie"
+}

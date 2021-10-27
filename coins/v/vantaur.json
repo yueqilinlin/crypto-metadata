@@ -1,0 +1,22 @@
+{
+    "id": "vantaur",
+    "symbol": "vtar",
+    "name": "Vantaur",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Vantaur (VTAR) is a cryptocurrency \u2013 a form of digital currency secured and issued by a cryptographic process known as mining. Vantaur's code is based on DASH, thus introducing InstantX and DarkSend transactions, as well as Masternode technology supporting network stability, providing extra services to the network and rewarding masternode holders (approximately 75% of the block reward)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://vantaur.tk/",
+    "explorers": [
+        "http://92.42.47.93:3001/"
+    ],
+    "twitter": "vantaur",
+    "facebook": "Vantaur-330663630788882",
+    "github_org": "vantaur"
+}

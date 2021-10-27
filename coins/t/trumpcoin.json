@@ -1,0 +1,25 @@
+{
+    "id": "trumpcoin",
+    "symbol": "trump",
+    "name": "Trumpcoin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "TrumpCoin is a digital cryptocurrency recognizing and supporting Patriots and conservatives worldwide. It provides privacy, crowdfunding with governance, Patriotnode master nodes and a large global support organization. "
+    },
+    "country_origin": "US",
+    "genesis_date": "2016-04-11",
+    "url": "http://www.trumpcoin.com/",
+    "explorers": [
+        "https://chainz.cryptoid.info/trump/#",
+        "http://chain.trumpcoin.com/ext/getmoneysupply"
+    ],
+    "twitter": "trumpcoinww",
+    "facebook": "trumpcoinworldwide",
+    "telegram": "TrumpCoinWorldWide",
+    "reddit": "trumpcoin",
+    "github_org": "trumpcoinsupport"
+}

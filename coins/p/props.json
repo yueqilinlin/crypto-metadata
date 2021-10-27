@@ -1,0 +1,28 @@
+{
+    "id": "props",
+    "symbol": "props",
+    "name": "Props Token",
+    "platforms": {
+        "ethereum": "0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Polygon Ecosystem",
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "The Props Project is intended to empower the people who help digital communities thrive, and create better alignment between app developers and their users. Props\u2019 open-source infrastructure creates a decentralized network of apps operated by independent developers, who share an underlying token, benefiting from collective network effects. Props abstracts blockchain\u2019s technological and regulatory complexity for apps, enabling them to easily plug Props Tokens into any app in the network, in order to grant their users unique benefits and a financial stake in the very networks they help grow. Props is backed by Union Square Ventures, Venrock, Comcast Ventures, Zeev Ventures, and others."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41",
+    "url": "https://www.propsproject.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41",
+        "https://ethplorer.io/address/0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41"
+    ],
+    "twitter": "propsproject",
+    "telegram": "propsproject",
+    "reddit": "PROPSProject/",
+    "github_org": "propsproject"
+}

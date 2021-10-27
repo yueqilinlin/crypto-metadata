@@ -1,0 +1,25 @@
+{
+    "id": "vera",
+    "symbol": "vera",
+    "name": "Vera",
+    "platforms": {
+        "ethereum": "0xd7f0cc50ad69408ae58be033f4f85d2367c2e468",
+        "binance-smart-chain": "0x4a0a3902e091cdb3aec4279a6bfac50297f0a79e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Vera is the most powerful open financial platform for non-fungible token (NFT) assets. Vera offers decentralized financing, leasing, lending, and other essential financial services for any NFT marketplace, game, or application. Founded in 2021 and backed by notable investors in the decentralized fintech space such as Animoca Brands (leader in blockchain gaming and NFTs; key investor in Axie Infinity, Open Sea, Dapper Labs, CryptoKitties, and much more) and the Web3 Foundation, Vera\u2019s mission is simple: To build open, secure, and powerful NFT financial products that are equally available to everyone everywhere."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd7f0cc50ad69408ae58be033f4f85d2367c2e468",
+    "url": "https://vera.financial/",
+    "explorers": [
+        "https://etherscan.io/token/0xd7f0cc50ad69408ae58be033f4f85d2367c2e468",
+        "https://ethplorer.io/address/0xd7f0cc50ad69408ae58be033f4f85d2367c2e468",
+        "https://bscscan.com/token/0x4a0a3902e091cdb3aec4279a6bfac50297f0a79e"
+    ],
+    "twitter": "veradefi",
+    "telegram": "veranetwork"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "insight-protocol",
+    "symbol": "inx",
+    "name": "Insight Protocol",
+    "platforms": {
+        "ethereum": "0x84fe25f3921f3426395c883707950d0c00367576"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "The first dApp 'BLOCKINSIGHT' released by INSIGHT PROTOCOL confirms real-time information of cryptocurrency provided by Upbit and provides users with high-quality blockchain information. Users take the reward to their activities."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x84fe25f3921f3426395c883707950d0c00367576",
+    "url": "http://inxprotocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x84fE25f3921f3426395c883707950d0c00367576",
+        "https://ethplorer.io/address/0x84fE25f3921f3426395c883707950d0c00367576"
+    ],
+    "twitter": "inxprotocol",
+    "telegram": "blockinsigjt",
+    "github_org": "insightprotocol"
+}

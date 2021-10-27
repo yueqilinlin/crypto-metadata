@@ -1,0 +1,30 @@
+{
+    "id": "virtue-poker",
+    "symbol": "vpp",
+    "name": "Virtue Poker Points",
+    "platforms": {
+        "ethereum": "0x5eeaa2dcb23056f4e8654a349e57ebe5e76b5e6e",
+        "binance-smart-chain": "0xe069af87450fb51fc0d0e044617f1c134163e591"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Virtue Poker is blockchain poker application with decentralize shuffling of the cards that works on the Ethereum Blockchain. Also the gameplay is descentralize and all the steps of the game are agree between all the peers.\r\nAnother important topic is that Virtue Poker is the first blockchain poker application to get a tier 1 gambling license from the MGA (Malta Gambling Authority)\r\nVirtue Poker use a sidechain to solve the scalability issues in layer 1. \r\nYou can play Virtue Poker using Ethereum or our token VPP.\r\n"
+    },
+    "country_origin": "GI",
+    "genesis_date": null,
+    "contract_address": "0x5eeaa2dcb23056f4e8654a349e57ebe5e76b5e6e",
+    "url": "https://virtue.poker/",
+    "explorers": [
+        "https://etherscan.io/token/0x5eeaa2dcb23056f4e8654a349e57ebe5e76b5e6e",
+        "https://ethplorer.io/address/0x5eeaa2dcb23056f4e8654a349e57ebe5e76b5e6e",
+        "https://bscscan.com/token/0xe069af87450fb51fc0d0e044617f1c134163e591"
+    ],
+    "twitter": "virtue_poker",
+    "facebook": "VirtuePoker",
+    "telegram": "virtue_poker",
+    "reddit": "virtuepoker/",
+    "github_org": "Virtue-Gaming"
+}

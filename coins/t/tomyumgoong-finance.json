@@ -1,0 +1,23 @@
+{
+    "id": "tomyumgoong-finance",
+    "symbol": "goong",
+    "name": "TomYumGoong Finance",
+    "platforms": {
+        "binance-smart-chain": "0x2afab709feac97e2263bed78d94ac2951705db50"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tomyumgoong Finance is a yield farming project running on Binance Smart Chain and Pancake swap exchange. With our unique features, users are allowed to deposit their fund without a fee when they locked Goong in our secure smart contract. Moreover, this mechanic provides an option for users to avoid losing their initial balance due to free of charge. "
+    },
+    "country_origin": "TH",
+    "genesis_date": null,
+    "contract_address": "0x2afab709feac97e2263bed78d94ac2951705db50",
+    "url": "https://tomyumgoong.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x2afAB709fEAC97e2263BEd78d94aC2951705dB50"
+    ],
+    "twitter": "TomyumgoongF",
+    "telegram": "tomyumgoongfinance",
+    "github_org": "TomYumGoongFinance"
+}

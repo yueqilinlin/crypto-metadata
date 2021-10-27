@@ -1,0 +1,22 @@
+{
+    "id": "crunch",
+    "symbol": "crunch",
+    "name": "Crunchy",
+    "platforms": {
+        "binance-smart-chain": "0x1164e6eaef5d6b57eb6e44db9cf593abe2f5fa82"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crunch is the world's first multi-reflectionary token on the Binance Smart Chain. Earn CAKE, BNB & BUSD by holding $CRUNCH."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1164e6eaef5d6b57eb6e44db9cf593abe2f5fa82",
+    "url": "https://binancecrunch.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x1164e6eaef5d6b57eb6e44db9cf593abe2f5fa82"
+    ],
+    "twitter": "crunch_binance",
+    "telegram": "Binance_Crunch"
+}

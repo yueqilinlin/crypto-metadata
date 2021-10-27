@@ -1,0 +1,26 @@
+{
+    "id": "suretly",
+    "symbol": "sur",
+    "name": "Suretly",
+    "platforms": {
+        "ethereum": "0xe120c1ecbfdfea7f0a8f0ee30063491e8c26fedf"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Suretly is a provider of an international crowd vouching platform. The company offers users an investment alternative called crowdvouching, which allows customers to make money vouching for people who need an urgent loan"
+    },
+    "country_origin": "RU",
+    "genesis_date": "2017-08-13",
+    "contract_address": "0xe120c1ecbfdfea7f0a8f0ee30063491e8c26fedf",
+    "url": "https://www.suretly.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe120c1ecbfdfea7f0a8f0ee30063491e8c26fedf",
+        "https://ethplorer.io/address/0xe120c1ecbfdfea7f0a8f0ee30063491e8c26fedf"
+    ],
+    "twitter": "suretly_com",
+    "facebook": "suretly",
+    "github_org": "SURETLY"
+}

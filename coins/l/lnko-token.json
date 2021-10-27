@@ -1,0 +1,22 @@
+{
+    "id": "lnko-token",
+    "symbol": "lnko",
+    "name": "LNKO Token",
+    "platforms": {
+        "ethereum": "0x11afe7fa792589dd1236257f99ba09f510460ad9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The next generation of leading DeFi application development and ecology construction blockchain platform"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x11afe7fa792589dd1236257f99ba09f510460ad9",
+    "url": "https://www.lnko.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x11afe7fa792589dd1236257f99ba09f510460ad9",
+        "https://ethplorer.io/address/0x11afe7fa792589dd1236257f99ba09f510460ad9"
+    ],
+    "telegram": "LNKOEva"
+}

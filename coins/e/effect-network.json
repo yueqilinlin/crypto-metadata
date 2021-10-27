@@ -1,0 +1,27 @@
+{
+    "id": "effect-network",
+    "symbol": "efx",
+    "name": "Effect Network",
+    "platforms": {
+        "eos": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Artificial Intelligence"
+    ],
+    "description": {
+        "en": "The first Blockchain-based framework for the Future-of-Work"
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "url": "https://effect.network",
+    "explorers": [
+        "https://bloks.io/account/effecttokens",
+        "https://neotracker.io/asset/acbc532904b6b51b5ea6d19b803d78af70e7e6f9"
+    ],
+    "twitter": "effectaix",
+    "facebook": "effectai",
+    "telegram": "effectai",
+    "reddit": "effectai",
+    "github_org": "effectai"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "aave-yfi",
+    "symbol": "aYFI",
+    "name": "Aave YFI",
+    "platforms": {
+        "ethereum": "0x5165d24277cd063f5ac44efd447b27025e888f37"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5165d24277cd063f5ac44efd447b27025e888f37",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x5165d24277cD063F5ac44Efd447B27025e888f37",
+        "https://ethplorer.io/address/0x5165d24277cD063F5ac44Efd447B27025e888f37"
+    ],
+    "twitter": "aaveaave"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "tixl-new",
+    "symbol": "txl",
+    "name": "Tixl",
+    "platforms": {
+        "ethereum": "0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41",
+        "binance-smart-chain": "0x1ffd0b47127fdd4097e54521c9e2c7f0d66aafc5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "With interoperable Smart Contracts & dApps, the German Tixl Organization builds a single high-performance network for all tokens - for a new era of DeFi, payments & banking. At the core of Tixl is the interoperable layer 1 Autobahn Network with instant & minimal-fee-transactions for any transfer of data, not just digital assets or tokens."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41",
+    "url": "https://tixl.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
+        "https://ethplorer.io/address/0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41"
+    ],
+    "twitter": "TixlOrg",
+    "telegram": "tixlOrg",
+    "reddit": "tixl",
+    "github_org": "tixl"
+}

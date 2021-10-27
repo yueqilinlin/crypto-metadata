@@ -1,0 +1,23 @@
+{
+    "id": "solyard-finance",
+    "symbol": "yard",
+    "name": "Solyard Finance",
+    "platforms": {
+        "solana": "8RYSc3rrS4X4bvBCtSJnhcpPpMaAJkXnVKZPzANxQHgz"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Solyard Finance is the new leveraged yield farming on Solana. It helps lenders earn safe and stable yields, and offers borrowers undercollateralized loans for leveraged yield farming positions, vastly multiplying their farming principals and resulting profits."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "8RYSc3rrS4X4bvBCtSJnhcpPpMaAJkXnVKZPzANxQHgz",
+    "url": "https://solyard.finance/",
+    "explorers": [
+        "https://solscan.io/token/8RYSc3rrS4X4bvBCtSJnhcpPpMaAJkXnVKZPzANxQHgz"
+    ],
+    "twitter": "SolyardFinance",
+    "telegram": "solyard",
+    "github_org": "SolyardFinance"
+}

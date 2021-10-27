@@ -1,0 +1,27 @@
+{
+    "id": "bomb",
+    "symbol": "bomb",
+    "name": "BOMB",
+    "platforms": {
+        "ethereum": "0x1c95b093d6c236d3ef7c796fe33f9cc6b8606714"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "The world's first self-destructing currency.\r\n\r\nBOMB is a social experiment and financial case study to measure the feasibility of a deflationary currency.\u00a0 The rules are simple.\r\n\r\n1) There were originally 1,000,000 Bomb in existence.\r\n\r\n2) Each time a Bomb is transferred, 1% of the transaction is destroyed.\r\n\r\n3) There will never be newly minted Bomb.\r\n\r\nThe intention is\u00a0not\u00a0to be used as a transactional currency, but rather a consistent and decentralized store of value. Through a system of immutable smart contracts and continuous hyperdeflation,\u00a0BOMB is the world\u2019s first self-destructing currency."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x1c95b093d6c236d3ef7c796fe33f9cc6b8606714",
+    "url": "https://www.bombtoken.com",
+    "explorers": [
+        "https://etherscan.io/token/0x1C95b093d6C236d3EF7c796fE33f9CC6b8606714",
+        "https://ethplorer.io/address/0x1C95b093d6C236d3EF7c796fE33f9CC6b8606714",
+        "https://etherscan.io/token/0xbbb38be7c6d954320c0297c06ab3265a950cdf89"
+    ],
+    "twitter": "bombtoken",
+    "telegram": "bombtoken",
+    "reddit": "bombtoken"
+}

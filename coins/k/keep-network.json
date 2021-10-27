@@ -1,0 +1,30 @@
+{
+    "id": "keep-network",
+    "symbol": "keep",
+    "name": "Keep Network",
+    "platforms": {
+        "ethereum": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+        "harmony-shard-0": "0x43bf77db5e784b263a459141bdcdf5cf6987936d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Protocol",
+        "Decentralized Finance (DeFi)",
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "A keep is an off-chain container for private data. Keeps help contracts harness the full power of the public blockchain \u2014 enabling deep interactivity with private data.\r\n\r\nKeep Network aims to provide an off-chain \u201ccontainers\u201d\u200a\u2014\u200acalled keeps\u200a\u2014\u200athat should keep private data safe from the public blockchain, thereby enabling smart contracts to maximize the full potential of blockchain tech without compromising on transparency or privacy. Keeps will be used to encrypt and store private data, and the keeps are to be protected by secure multi-party computation (sMPC) that allows generating, storing, encrypting and transmitting of data among different users."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+    "url": "https://keep.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+        "https://ethplorer.io/address/0x85eee30c52b0b379b046fb0f85f4f3dc3009afec"
+    ],
+    "twitter": "keep_project",
+    "telegram": "KeepNetworkOfficial",
+    "reddit": "KeepNetwork",
+    "github_org": "keep-network"
+}

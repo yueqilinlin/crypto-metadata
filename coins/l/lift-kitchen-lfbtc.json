@@ -1,0 +1,24 @@
+{
+    "id": "lift-kitchen-lfbtc",
+    "symbol": "lfbtc",
+    "name": "Lift.Kitchen BTC",
+    "platforms": {
+        "ethereum": "0xafce9b78d409bf74980cacf610afb851bf02f257"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A new type of venture fund backed by the crypto and traditional community and distributed as a Decentralized Autonomous Organization (DAO), producing products based on blockchain technology that improve the human experience."
+    },
+    "country_origin": "KN",
+    "genesis_date": null,
+    "contract_address": "0xafce9b78d409bf74980cacf610afb851bf02f257",
+    "url": "https://lift.kitchen",
+    "explorers": [
+        "https://etherscan.io/token/0xafcE9B78D409bF74980CACF610AFB851BF02F257",
+        "https://ethplorer.io/address/0xafcE9B78D409bF74980CACF610AFB851BF02F257"
+    ],
+    "twitter": "liftdao",
+    "telegram": "liftkitchendao",
+    "github_org": "Lift-Kitchen"
+}

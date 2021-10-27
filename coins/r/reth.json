@@ -1,0 +1,23 @@
+{
+    "id": "reth",
+    "symbol": "reth",
+    "name": "rETH",
+    "platforms": {
+        "ethereum": "0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "rToken is short for reward-Token. When users stake PoS tokens through StaFi, they will receive an equal amount of rToken in return. For example, rETH represents staked ETH, while rXTZ represents staked XTZ. rToken allows users to receive staking rewards and access liquidity any time by trading rTokens directly. Users also have the right to redeem the corresponding amount of staked tokens at any time.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593",
+    "url": "https://www.stafi.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593",
+        "https://ethplorer.io/address/0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593"
+    ],
+    "twitter": "Stafi_Protocol",
+    "telegram": "stafi_protocol"
+}

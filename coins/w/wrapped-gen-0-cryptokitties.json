@@ -1,0 +1,24 @@
+{
+    "id": "wrapped-gen-0-cryptokitties",
+    "symbol": "wg0",
+    "name": "Wrapped Gen-0 CryptoKitties",
+    "platforms": {
+        "ethereum": "0xa10740ff9ff6852eac84cdcff9184e1d6d27c057"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "Wrapped Gen 0 (WG0) is an ERC20 token backed 1:1 by an ERC721 Generation 0 CryptoKitty."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa10740ff9ff6852eac84cdcff9184e1d6d27c057",
+    "url": "https://www.wrappered.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa10740ff9ff6852eac84cdcff9184e1d6d27c057",
+        "https://ethplorer.io/address/0xa10740ff9ff6852eac84cdcff9184e1d6d27c057"
+    ]
+}

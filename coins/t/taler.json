@@ -1,0 +1,24 @@
+{
+    "id": "taler",
+    "symbol": "tlr",
+    "name": "Taler",
+    "platforms": {},
+    "hashing_algorithm": "Lyra2z",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "\"February 10 took place on the cryptocurrency fork Taler. https://talercrypto.com/#modal    \r\n\u25cf PoW/PoS algorithm - Lyra2z\r\n\u25cf Issue - 23,333,333 coins\r\n\u25cf Unit time - 1 minute\r\n\u25cf Remuneration - 7 TLR coins\r\n\u25cf Mining Hardware - CPU, GPU, PoS\r\n\u25cf Difficulty adjustment - every block\r\n\u25cf Atomic swaps\r\n\u25cf Segwit & Lightning\r\n\u25cf Replay protection\r\n\u25cf Unique address format Bech32\r\n\""
+    },
+    "country_origin": "BY",
+    "genesis_date": "2017-09-13",
+    "url": "http://talercrypto.com ",
+    "explorers": [
+        "https://explorer.talercrypto.com/"
+    ],
+    "twitter": "talerminsk",
+    "facebook": "cryptotaler",
+    "telegram": "Taler_English",
+    "reddit": "TalerCoin",
+    "github_org": "TalerTeam"
+}

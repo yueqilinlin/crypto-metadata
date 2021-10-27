@@ -1,0 +1,27 @@
+{
+    "id": "cipher-core-token",
+    "symbol": "ciphc",
+    "name": "Cipher Core Token",
+    "platforms": {
+        "ethereum": "0x83eb94cb563146a42fe0a8b3d051f2387a7fb81f"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Provides a next generation evolutionary cash platform that can issue crypto token/coin which is regarded as the historical final form.\r\n"
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x83eb94cb563146a42fe0a8b3d051f2387a7fb81f",
+    "url": "https://www.cipher-core.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x83eB94cB563146a42Fe0a8b3D051F2387A7FB81f",
+        "https://ethplorer.io/address/0x83eb94cb563146a42fe0a8b3d051f2387a7fb81f"
+    ],
+    "twitter": "CryptoC63943050",
+    "facebook": "cryptocash.space",
+    "telegram": "cryptocash_official",
+    "github_org": "cipher-core"
+}

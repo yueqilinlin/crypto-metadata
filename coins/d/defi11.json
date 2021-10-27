@@ -1,0 +1,22 @@
+{
+    "id": "defi11",
+    "symbol": "d11",
+    "name": "DeFi11",
+    "platforms": {
+        "ethereum": "0x9bf02cf6b0435a0523e6f6e0d2f35a920144f5fa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeFi11 is a defi powered gaming ecosystem for fantasy sports, NFT virtual hybrid world, Marketplace, P2P predictions and betting. The entire platform runs as a chain agnostic solution with a decentralised mobile application with an in-built smart wallet. It has a deflationary token model for $D11 tokens, the value for what is increased with every game being played on the application.\r\n\r\n$D11 token is the utility token of the platform which is an ERC-20 token. The token is built as a unique gaming utility token on top of D11 Protocol which you can use to pay contest fees, buy assets, redeem game rewards, etc into D11 token for fiat swap or redemption.\r\n\r\nThe token facilitates additional functions as both deterrent to bad actors (via its staking function) and as payment option, offering additional discounts to its users. Here is a detailed overview of the token\u2019s functions: 1. Fee settlement 2. Staking upon registration 3. Reward claiming 4. Game Dev Financing and Loyalty payments (for Game Players / D11 Users) 5. Get users attention and financing (for game devs)\r\n\r\nDeFi11 aims to completely decentralise the fantasy sports industry and create a fraud proof platform for the gamers. Few of the pain points of centralised fantasy sports being solved :\r\n- creation of Dummy Winners \r\n- manipulation of game data \r\n- unaccountable distribution of reward pool funds \r\n- no user anonymity \r\n- misuse of information by company employees"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9bf02cf6b0435a0523e6f6e0d2f35a920144f5fa",
+    "url": "https://defieleven.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x9bf02cF6B0435A0523E6f6e0D2f35A920144F5FA",
+        "https://ethplorer.io/address/0x9bf02cF6B0435A0523E6f6e0D2f35A920144F5FA"
+    ],
+    "twitter": "defi_11"
+}

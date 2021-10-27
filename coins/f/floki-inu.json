@@ -1,0 +1,27 @@
+{
+    "id": "floki-inu",
+    "symbol": "floki",
+    "name": "Floki Inu",
+    "platforms": {
+        "ethereum": "0x43f11c02439e2736800433b4594994bd43cd066d",
+        "binance-smart-chain": "0x2b3f34e9d4b127797ce6244ea341a83733ddd6e4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "Floki is the name Elon Musk wishes to give to his future pet Shiba. Floki Inu has a token burn of 1% each transaction, transaction fees of 5%, and a transaction redistribution to holders of 5%."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x43f11c02439e2736800433b4594994bd43cd066d",
+    "url": "https://theflokiinu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x43f11c02439e2736800433b4594994bd43cd066d",
+        "https://ethplorer.io/address/0x43f11c02439e2736800433b4594994bd43cd066d",
+        "https://bscscan.com/token/0x2b3f34e9d4b127797ce6244ea341a83733ddd6e4"
+    ],
+    "twitter": "realflokiinu",
+    "telegram": "FlokiInuToken"
+}

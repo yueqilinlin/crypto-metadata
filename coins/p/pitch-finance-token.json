@@ -1,0 +1,22 @@
+{
+    "id": "pitch-finance-token",
+    "symbol": "pft",
+    "name": "Pitch Finance Token",
+    "platforms": {
+        "binance-smart-chain": "0x8806a68bc665baaefae1f716da42a2443c15bb2f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pitch Finance is an ecosystem of products designed  for presale launching. Build, design, connect, collect and trade all kinds of assets, tokens and NFTs across multiple blockchains.\r\n\r\nPFT  is Pitch Finance Finance Utility token"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8806a68bc665baaefae1f716da42a2443c15bb2f",
+    "url": "https://pitchfinance.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x8806a68bc665baaefae1f716da42a2443c15bb2f"
+    ],
+    "twitter": "Pitch_Finance",
+    "telegram": "pitchfinancecommunity"
+}

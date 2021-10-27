@@ -1,0 +1,22 @@
+{
+    "id": "octocoin",
+    "symbol": "888",
+    "name": "Octocoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2014-03-08",
+    "url": "http://octocoinfoundation.org/",
+    "explorers": [
+        "https://chainz.cryptoid.info/octo/"
+    ],
+    "twitter": "octocoin888",
+    "reddit": "OctoCoin",
+    "github_org": "octocoin-project"
+}

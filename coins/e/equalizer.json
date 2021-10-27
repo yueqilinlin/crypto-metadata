@@ -1,0 +1,29 @@
+{
+    "id": "equalizer",
+    "symbol": "eqz",
+    "name": "Equalizer",
+    "platforms": {
+        "ethereum": "0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0",
+        "binance-smart-chain": "0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "DeFi Flash Loans Made Easy\r\nThe first dedicated platform that equalizes the decentralized markets\r\n\r\nEqualizer is the first dedicated flash loan marketplace built on top of a multi-chain infrastructure that can handle the rising demand of decentralized lending and borrowing, which can boost any listed asset\u2019s trading volume. It offers top benefits over the popular do-it-all DeFi protocols and sets itself a class apart by offering lower fees, a virtually unlimited choice of token vaults, high liquidity through yield farming, and scalable infrastructure.\r\n\r\nEqualizer represents the next generation marketplace for flash loans, a dedicated platform that brings together liquidity providers and borrowers. On one side, we incentivize LPs to staking their funds in secure vaults by receiving more tokens from the fees of the flash loans provided. Additionally, the LPs are part of the yield farming program, designed to stimulate long-term liquidity providers. On the other side, borrowers are provided with a plethora of liquid pools (vaults) that bring more advantages than any other competitor in the market: lower fees, a wider range of tokens, a minimum level of available liquidity, reliability in all market conditions, available on multiple chains"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0",
+    "url": "https://equalizer.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0",
+        "https://ethplorer.io/address/0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0",
+        "https://bscscan.com/token/0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0"
+    ],
+    "twitter": "EqualizerFlash",
+    "telegram": "EqualizerFlash"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "ayfi-v1",
+    "symbol": "ayfi",
+    "name": "Aave YFI v1",
+    "platforms": {
+        "ethereum": "0x12e51e77daaa58aa0e9247db7510ea4b46f9bead"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Aave YFI is an interest bearing token minted upon deposit and burned when redeemed. The aYFI is pegged 1:1 to the value of the underlying YFI that is deposited in Aave protocol. aYFI, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aYFI accrue interest in real time, directly in your wallet!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x12e51e77daaa58aa0e9247db7510ea4b46f9bead",
+    "url": "https://aave.com/atokens",
+    "explorers": [
+        "https://etherscan.io/token/0x12e51E77DAAA58aA0E9247db7510Ea4B46F9bEAd",
+        "https://ethplorer.io/address/0x12e51e77daaa58aa0e9247db7510ea4b46f9bead"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome",
+    "reddit": "https://www.reddit.comr/Aave_Official/"
+}

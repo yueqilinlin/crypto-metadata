@@ -1,0 +1,22 @@
+{
+    "id": "wownero",
+    "symbol": "wow",
+    "name": "Wownero",
+    "platforms": {},
+    "hashing_algorithm": "Random-WOW",
+    "categories": [],
+    "description": {
+        "en": "Wownero is a fairly launched privacy-centric meme coin with no premine. It has a relatively flat emission curve with a capped supply and is the first cryptocurrency to use bulletproofs to reduce transaction size on a mainnet."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-04-01",
+    "url": "http://wownero.org/",
+    "explorers": [
+        "https://explore.wownero.com/",
+        "https://explorer.wownero.fyi"
+    ],
+    "twitter": "w0wn3r0",
+    "telegram": "wownero",
+    "reddit": "Wownero/",
+    "github_org": "wownero"
+}

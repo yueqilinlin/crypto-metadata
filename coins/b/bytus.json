@@ -1,0 +1,28 @@
+{
+    "id": "bytus",
+    "symbol": "byts",
+    "name": "Bytus",
+    "platforms": {
+        "ethereum": "0x87f14e9460cecb789f1b125b2e3e353ff8ed6fcd"
+    },
+    "hashing_algorithm": "SHA-3",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Bytus aims to revolutionize the payment system. Bytus app claims to be embedded with an inbuilt exchange which can reportedly fast-track POS transactions. Bytus app claims to change this scenario to the traders and end-users advantage. The app claims to be able to instantly make payments with cryptocurrency or fiat currency."
+    },
+    "country_origin": "US",
+    "genesis_date": "2018-10-04",
+    "contract_address": "0x87f14e9460cecb789f1b125b2e3e353ff8ed6fcd",
+    "url": "http://bytus.io",
+    "explorers": [
+        "https://etherscan.io/token/0x87f14e9460cecb789f1b125b2e3e353ff8ed6fcd",
+        "https://ethplorer.io/address/0x87f14e9460cecb789f1b125b2e3e353ff8ed6fcd"
+    ],
+    "twitter": "BYTUSTOKEN",
+    "facebook": "Bytus",
+    "telegram": "bytustoken",
+    "reddit": "Bytus/",
+    "github_org": "globaldigitalpayment"
+}

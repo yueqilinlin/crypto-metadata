@@ -1,0 +1,24 @@
+{
+    "id": "daps-token",
+    "symbol": "daps",
+    "name": "DAPS Coin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "DAPS is a privacy coin that aims to be the most private and secure privacy coin on the market in a hybrid chain of PoW, PoSv3 and PoA. We aim to set our protocol to become the new standard of privacy coins.\r\n\r\nWhat makes DAPS special is that DAPS is the first to solve the \"trust problem\" for fully private chains with our PoA (Proof of Audit) algorithm which audits the chain for any abnormalities without compromising the chain's anonymity features."
+    },
+    "country_origin": "",
+    "genesis_date": "2019-09-29",
+    "url": "https://officialdapscoin.com/",
+    "explorers": [
+        "http://explorer.dapscoin.com"
+    ],
+    "twitter": "DAPScoin",
+    "facebook": "officialDAPScoin/",
+    "telegram": "dapscoin",
+    "reddit": "DAPSCoin/",
+    "github_org": "DAPSCoin"
+}

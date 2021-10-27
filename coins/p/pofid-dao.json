@@ -1,0 +1,25 @@
+{
+    "id": "pofid-dao",
+    "symbol": "pfid",
+    "name": "Pofid Dao",
+    "platforms": {
+        "ethereum": "0x87c4bd3038176301e81e6682ce51a6fdaefabd0c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Privacy-Oriented Financial Instrument Distribution DAO"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x87c4bd3038176301e81e6682ce51a6fdaefabd0c",
+    "url": "http://pofid.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x87c4bd3038176301e81e6682ce51a6fdaefabd0c",
+        "https://ethplorer.io/address/0x87c4bd3038176301e81e6682ce51a6fdaefabd0c"
+    ],
+    "twitter": "pofiddao",
+    "facebook": "pofiddao",
+    "telegram": "pofid",
+    "github_org": "pofid-dao"
+}

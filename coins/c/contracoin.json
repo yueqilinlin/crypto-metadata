@@ -1,0 +1,26 @@
+{
+    "id": "contracoin",
+    "symbol": "ctcn",
+    "name": "Contracoin",
+    "platforms": {
+        "ethereum": "0xfd6c31bb6f05fc8db64f4b740ab758605c271fd8"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Real Estate"
+    ],
+    "description": {
+        "en": "Launched on the 05/06/2018 by a team based in Australia to address the problems with the sale and purchase of real estate globally using the Contracoin CTCN Token as the method of payment."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0xfd6c31bb6f05fc8db64f4b740ab758605c271fd8",
+    "url": "https://contracoin.asia/",
+    "explorers": [
+        "https://etherscan.io/token/0xfd6c31bb6f05fc8db64f4b740ab758605c271fd8",
+        "https://ethplorer.io/address/0xfd6c31bb6f05fc8db64f4b740ab758605c271fd8"
+    ],
+    "twitter": " https://twitter.com/InfoContracoin",
+    "facebook": "contracoinofficial",
+    "telegram": "contracoin"
+}

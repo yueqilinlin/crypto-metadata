@@ -1,0 +1,25 @@
+{
+    "id": "dola-usd",
+    "symbol": "dola",
+    "name": "Dola USD Stablecoin",
+    "platforms": {
+        "ethereum": "0x865377367054516e17014ccded1e7d814edc9ce4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x865377367054516e17014ccded1e7d814edc9ce4",
+    "url": "https://inverse.finance/banking",
+    "explorers": [
+        "https://etherscan.io/address/0x865377367054516e17014ccded1e7d814edc9ce4",
+        "https://etherscan.io/token/0x865377367054516e17014ccded1e7d814edc9ce4",
+        "https://ethplorer.io/address/0x865377367054516e17014ccded1e7d814edc9ce4"
+    ],
+    "twitter": "InverseFinance",
+    "telegram": "InverseFinance",
+    "github_org": "InverseFinance"
+}

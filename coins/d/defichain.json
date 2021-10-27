@@ -1,0 +1,24 @@
+{
+    "id": "defichain",
+    "symbol": "dfi",
+    "name": "DeFiChain",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "DeFiChain is a decentralized blockchain platform dedicated to enable fast, intelligent, and transparent decentralized financial services. \r\nUnlike most of the other DeFi projects that are built on the Ethereum network, DeFiChain is built on bitcoin (as a software fork), and is anchored to the bitcoin blockchain (via merkle root) every few minutes for maximum security \r\n\r\nDeFiChain is designed to be non-Turing complete to reduce smart contract errors (extremely important for finance transactions) and its op codes only allow run decentralized finance dapps. \r\nThis ensures that only financial transactions are possible, instead of having games and casinos clogging the ecosystem and causing high transaction fees.\r\n\r\nUpcoming features of the DeFiChain include Decentralized:\r\nLending, Wrapping of Tokens, Pricing Oracles, Exchanges, Transferable Debts and Receivables, Non-Collateralized Debt, Asset Tokenization, Distribution of Dividends, and YIELD FARMING!"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "url": "https://defichain.com/",
+    "explorers": [
+        "http://explorer.defichain.io/"
+    ],
+    "twitter": "defichain",
+    "facebook": "cakedefi",
+    "telegram": "defiblockchain",
+    "reddit": "defiblockchain",
+    "github_org": "DeFiCh"
+}

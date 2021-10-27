@@ -1,0 +1,24 @@
+{
+    "id": "electric-arena",
+    "symbol": "earena",
+    "name": "Electric Arena",
+    "platforms": {
+        "ethereum": "0xc30590a879c7dd78bcd9a18e48de446a3c7c98b8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "eArena is building a community platform where members create and join peer to peer wagers around sports, world events, pop culture."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc30590a879c7dd78bcd9a18e48de446a3c7c98b8",
+    "url": "https://electricarena.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xc30590a879c7dd78bcd9a18e48de446a3c7c98b8",
+        "https://ethplorer.io/address/0xc30590a879c7dd78bcd9a18e48de446a3c7c98b8"
+    ],
+    "twitter": "eArena_",
+    "telegram": "eArenaPortal",
+    "github_org": "ElectricArena"
+}

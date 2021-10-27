@@ -1,0 +1,25 @@
+{
+    "id": "sltc",
+    "symbol": "sltc",
+    "name": "sLTC",
+    "platforms": {
+        "ethereum": "0xc14103c2141e842e228fbac594579e798616ce7a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Tracks the price of Litecoin (LTC) through price feeds supplied by an oracle.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc14103c2141e842e228fbac594579e798616ce7a",
+    "url": "https://www.synthetix.io/tokens/",
+    "explorers": [
+        "https://etherscan.io/token/0xC14103C2141E842e228FBaC594579e798616ce7A",
+        "https://ethplorer.io/address/0xc14103c2141e842e228fbac594579e798616ce7a"
+    ],
+    "twitter": "synthetix_io",
+    "reddit": "synthetix_io/"
+}

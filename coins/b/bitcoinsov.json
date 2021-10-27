@@ -1,0 +1,27 @@
+{
+    "id": "bitcoinsov",
+    "symbol": "bsov",
+    "name": "BitcoinSoV",
+    "platforms": {
+        "ethereum": "0x26946ada5ecb57f3a1f91605050ce45c482c9eb1"
+    },
+    "hashing_algorithm": "SHA-3",
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "BitcoinSoV: A Proof of Work Decentralized, Fungible, Censorship Free, Deflationary Currency. Providing any one in the world with a true Store of Value protected from inflation. BitcoinSov is mined using a simple Keccak256 (Sha3) algorithm. There is No ICO, No Pre-mine, and No Governance. This allows for BSoV to be completely decentralized and fairly distributed. With each transfer of BSoV tokens, 1% of the total transaction is burned forever. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x26946ada5ecb57f3a1f91605050ce45c482c9eb1",
+    "url": "https://www.btcsov.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x26946ada5ecb57f3a1f91605050ce45c482c9eb1",
+        "https://ethplorer.io/address/0x26946ada5ecb57f3a1f91605050ce45c482c9eb1"
+    ],
+    "twitter": "BSOV_",
+    "facebook": "bitcoinsov",
+    "telegram": "BitcoinSoVCommunity",
+    "reddit": "BitcoinSoV/"
+}

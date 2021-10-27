@@ -1,0 +1,25 @@
+{
+    "id": "apiary-fund-coin",
+    "symbol": "afc",
+    "name": "Apiary Fund Coin",
+    "platforms": {
+        "ethereum": "0xf576ff0d7e4c1e8f27dbd50321e95e36a965985f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Apiary Fund Coin Network has been established to initially work in partnership with A.F.M.C Ltd to provide an additional form of payment to our members and investors. Should they wish they can now also become a stakeholder of AFC Coin. Their involvement will not only assist in creating a new cryptocurrency on the global market but will also bring them fruitful returns. AFC Coin contract is on the Ethereum platform."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xf576ff0d7e4c1e8f27dbd50321e95e36a965985f",
+    "url": "https://afcoin.uk/",
+    "explorers": [
+        "https://etherscan.io/token/0xf576ff0d7e4c1e8f27dbd50321e95e36a965985f",
+        "https://ethplorer.io/address/0xf576ff0d7e4c1e8f27dbd50321e95e36a965985f"
+    ],
+    "twitter": "apiaryfund1",
+    "facebook": "afcoin.uk",
+    "telegram": "afcoin1",
+    "github_org": "exchangecoinman"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "safedog-protocol",
+    "symbol": "safedog",
+    "name": "Safedog Protocol",
+    "platforms": {
+        "binance-smart-chain": "0xcc551a78bc19900d7908b854f98e1993dc189647"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeDog Protocol is a project inspired by SafeMoon protocol that aims to provide solutions to existing dilemma SafeMoon is facing right now. 100% community-driven project to contribute to decentralization. Contract ownership is renounced. We at SafeDog Protocol decentralization as the future of our finances. \r\n\r\nSafeDog Protocol aims to build a decentralized exchange where liquidity pool providers has option to lock the LP within the platform itself."
+    },
+    "country_origin": "PH",
+    "genesis_date": null,
+    "contract_address": "0xcc551a78bc19900d7908b854f98e1993dc189647",
+    "url": "https://www.safedogprotocol.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xCC551A78Bc19900D7908B854f98e1993dC189647"
+    ],
+    "twitter": "SafedogProtocol",
+    "telegram": "SafeDogCommunity"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "wrapped-ducatusx",
+    "symbol": "wducx",
+    "name": "Wrapped DucatusX",
+    "platforms": {
+        "binance-smart-chain": "0xeac4cc67f1200d24c1ef6cfb96db6f51cb62b6e2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DucatusX is a fork of Ethereum using POA consensus algorithm and is an expansion of the Ducatus vision of creating user-oriented blockchains that offer transparency and accessibility to every type of user. It complements Ducatus Coin (DUC) in the Ducatus cashless economy.  The first Ducatus blockchain for Ducatus Coin (DUC) was launched and the first live public Ducatus transaction was executed by CEO Ronny Tome with Dustin Trammell in October 2017 in Rome.\r\n \r\nDucatus Coin (DUC) is a fork of Bitcoin designed to be a payment coin used in everyday life.  In support of DUC, the company has introduced a group of Ducatus affiliate brick and mortar businesses that allow people to use cashless payments, including DUC -- from buying coffee through Ducatus Caf\u00e9 to purchasing dream homes from Ducatus Property, holiday packages through Ducatus Travel, and more. It is also actively recruiting merchants who are open to receiving alternative forms of cashless payments through Ducatus Merchant partnerships.\r\n\r\nIn 2020, DucatusX, a fork of Ethereum was created to maximise the potential of smart contracts and the use of blockchain as a way to push boundaries in various business models and applications. \r\nDUCX complements DUC perfectly as it serves as the blockchain of record of Ducatus-related platforms, such as Lease & Earn, a crowdfunding venture where everyday people can lease parts of high-value properties and earn DUC during the process uses the DUCX blockchain, and Proof of Gold, a platform that sells the hybrid gold+crypto Ducatus Prime gold coins and bars using the DUCX blockchain.  Unlike Ethereum, DUCX uses a Proof of Authority consensus algorithm, which significantly reduces its maintenance cost.  In the future, it is envisioned to switch to \u201cProof of Stake\u201d, giving users even more confidence in choosing the DucatusX blockchain for their projects.  On DucatusX, the blocks are produced regularly by 3 proven and secured nodes, resulting in stable cost and reliable speed of block production.  The maximum number of coins is fixed at 777,874,204.\r\n\r\nDucatusX has low fees, smart contracts available, and we will enable only trusted project tokens.  DucatusX has a strong supporting community and is currently trading on the decentralised exchange PancakeSwap."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeac4cc67f1200d24c1ef6cfb96db6f51cb62b6e2",
+    "url": "https://www.ducatuscoins.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xeac4cc67f1200d24c1ef6cfb96db6f51cb62b6e2"
+    ],
+    "twitter": "DUCATUSX",
+    "telegram": "ducatuscommunities",
+    "github_org": "DUCATUS-revival"
+}

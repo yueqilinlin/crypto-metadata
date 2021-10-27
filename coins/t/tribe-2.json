@@ -1,0 +1,27 @@
+{
+    "id": "tribe-2",
+    "symbol": "tribe",
+    "name": "Tribe",
+    "platforms": {
+        "ethereum": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "TRIBE is the governance token which will allow community members to vote on the future direction / upgrades for the platform and control the DAO treasury."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+    "url": "https://fei.money/",
+    "explorers": [
+        "https://etherscan.io/token/0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
+        "https://ethplorer.io/address/0xc7283b66eb1eb5fb86327f08e1b5816b0720212b"
+    ],
+    "twitter": "feiprotocol",
+    "telegram": "feiprotocol ",
+    "github_org": "fei-protocol"
+}

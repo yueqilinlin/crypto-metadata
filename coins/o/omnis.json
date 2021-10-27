@@ -1,0 +1,23 @@
+{
+    "id": "omnis",
+    "symbol": "omnis",
+    "name": "OMNIS",
+    "platforms": {
+        "binance-smart-chain": "0x85d8fb55ecccefafc4a0624ea5e4be6f521e7117"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OMNIS is a deflationary BEP-20 token based on Binance Smart Chain that rewards its holder by burning 4% of the tokens out of a total of 500,000,000,000 by each transaction. This means that for each token holder, the share of the total volume of the token increases from day to day. OMNIS is different than all the others BEP-20 based tokens in many ways, because the main wallet which holds the total volume of the token holder, is blocked for at least 5 years. This means that neither the devs (owners) nor anyone else can get the equivalent of the volume. This offers the maximum possible security for each investor. Furthermore \u201comnis\u201d in Latin means \u201call\u201d and that is what OMNIS token stands for. The OMNIS token offers its token holder mechanisms that are unique on the market."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x85d8fb55ecccefafc4a0624ea5e4be6f521e7117",
+    "url": "https://www.omnistoken.ch/",
+    "explorers": [
+        "https://bscscan.com/token/0x85d8fb55ecccefafc4a0624ea5e4be6f521e7117"
+    ],
+    "twitter": "omnistoken",
+    "telegram": "omnistoken_chat",
+    "reddit": "Omnistoken/"
+}

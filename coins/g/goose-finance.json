@@ -1,0 +1,27 @@
+{
+    "id": "goose-finance",
+    "symbol": "egg",
+    "name": "Goose Finance",
+    "platforms": {
+        "binance-smart-chain": "0xf952fc3ca7325cc27d15885d37117676d25bfda6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Goose Finance is a decentralized exchange running on Binance Smart Chain and Pancake swap exchange, with lots of other features that let you earn and win tokens.\r\nWhat we are trying to do is create a perpetual deflation token, the Golden Egg, that allows a constant price pump with a sufficient burn mechanism. We are not trying to replace the swap & exchange but to add value into the system and create a suitable and sustainable environment for people to yield farm with high APR."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf952fc3ca7325cc27d15885d37117676d25bfda6",
+    "url": "https://www.goosedefi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6"
+    ],
+    "twitter": "Goosedefi",
+    "telegram": "goosedefi",
+    "reddit": "https://www.reddit.com",
+    "github_org": "goosedefi"
+}

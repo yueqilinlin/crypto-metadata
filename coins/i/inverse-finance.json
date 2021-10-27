@@ -1,0 +1,28 @@
+{
+    "id": "inverse-finance",
+    "symbol": "inv",
+    "name": "Inverse Finance",
+    "platforms": {
+        "ethereum": "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Yield Aggregator",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Inverse Finance is a yield aggregator and a lending protocol.\u00a0\u00a0"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68",
+    "url": "https://inverse.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68",
+        "https://ethplorer.io/address/0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68"
+    ],
+    "twitter": "InverseFinance",
+    "telegram": "InverseFinance",
+    "github_org": "InverseFinance"
+}

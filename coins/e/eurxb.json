@@ -1,0 +1,24 @@
+{
+    "id": "eurxb",
+    "symbol": "eurxb",
+    "name": "EURxb",
+    "platforms": {
+        "ethereum": "0x0bead9a1bcc1b84d06e3f2df67e3549fd55ab054"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EURxb is a EURO stablecoin yielding real time interest of 7% (by holding it in your wallet) backed by ISIN registered senior secured bonds. "
+    },
+    "country_origin": "ZA",
+    "genesis_date": null,
+    "contract_address": "0x0bead9a1bcc1b84d06e3f2df67e3549fd55ab054",
+    "url": "https://eurxb.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x0beAD9a1bcc1b84D06E3f2df67E3549Fd55aB054",
+        "https://ethplorer.io/address/0x0beAD9a1bcc1b84D06E3f2df67E3549Fd55aB054"
+    ],
+    "twitter": "EURxbfinance",
+    "telegram": "eurxbfinance",
+    "github_org": "EURxbfinance"
+}

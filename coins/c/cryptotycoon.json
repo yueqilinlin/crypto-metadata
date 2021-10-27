@@ -1,0 +1,23 @@
+{
+    "id": "cryptotycoon",
+    "symbol": "ctt",
+    "name": "CryptoTycoon",
+    "platforms": {
+        "binance-smart-chain": "0x464863745ed3af8b9f8871f1082211c55f8f884d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CryptoTycoon is a gaming platform based on BSC (Binance Smart Chain). Players can spend BNB, BUSD and other BSC-based tokens in the game to get the chance to roll the dice and build houses or shops on the grid to participate in game yield farming. The game system has a great token deflation mechanism and dividend bonus model, for example, if a house or shop fails to pay taxes on time, it will be liquidated. The total amount of CTT tokens is 1 million, and 5% of the on-chain transaction amount will be burnt."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x464863745ed3af8b9f8871f1082211c55f8f884d",
+    "url": "https://cryptotycoon.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x464863745ed3af8b9f8871f1082211c55f8f884d"
+    ],
+    "twitter": "CryptoTycoon_GP",
+    "telegram": "CryptoTycoonCTT",
+    "github_org": "CryptoTycoon"
+}

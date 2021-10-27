@@ -1,0 +1,23 @@
+{
+    "id": "silver-token",
+    "symbol": "silver",
+    "name": "Silver Token",
+    "platforms": {
+        "polygon-pos": "0xbc7cb585346f4f59d07121bb9ed7358076243539"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AFKsystem.Finance is a Decentralized Yield Farming Aggregator created by Yield Farmers, for Yield Farmers. \r\n\r\nOur $SILVER token ensures that AFKsystem.Finance is owned by its users. $SILVER will only be rewarded to users who benefit the protocol, thus there will be no single asset farming pools, only single asset Missions (AAVE Vaults)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbc7cb585346f4f59d07121bb9ed7358076243539",
+    "url": "https://afksystem.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0xbc7cb585346f4f59d07121bb9ed7358076243539"
+    ],
+    "twitter": "afksystemfi",
+    "telegram": "afksystemfi",
+    "github_org": "AFKSystemFi"
+}

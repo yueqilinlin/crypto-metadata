@@ -1,0 +1,22 @@
+{
+    "id": "decentrahub-coin",
+    "symbol": "dcntr",
+    "name": "Decentrahub Coin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "Powered with cold staking technology, our gamers don\u2019t need to be online always to stake their wins or masternode coins. T simply store their winnings and cold stake them without having to worry about reserves, transfers, multiple wallets or transactional security."
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "url": "https://decentrahub.io/",
+    "explorers": [
+        "https://explorer.decentrahub.io/"
+    ],
+    "twitter": "DecentraHub",
+    "telegram": "DecentraHub",
+    "github_org": "decentrahub"
+}

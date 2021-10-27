@@ -1,0 +1,26 @@
+{
+    "id": "dynamic-set-dollar",
+    "symbol": "dsd",
+    "name": "Dynamic Set Dollar",
+    "platforms": {
+        "ethereum": "0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "\r\n\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3",
+    "url": "https://dsd.finance/app/#/",
+    "explorers": [
+        "https://etherscan.io/token/0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3",
+        "https://ethplorer.io/address/0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3"
+    ],
+    "twitter": "dsdproject",
+    "telegram": "dynamicsetdollar"
+}

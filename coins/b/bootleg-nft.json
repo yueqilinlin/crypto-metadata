@@ -1,0 +1,22 @@
+{
+    "id": "bootleg-nft",
+    "symbol": "boot",
+    "name": "Bootleg NFT",
+    "platforms": {
+        "ethereum": "0xc8ce75f643ecad864fc625902a6a07371f38320d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc8ce75f643ecad864fc625902a6a07371f38320d",
+    "url": "https://bootleg.market/",
+    "explorers": [
+        "https://etherscan.io/token/0xc8ce75f643ecad864fc625902a6a07371f38320d",
+        "https://ethplorer.io/address/0xc8ce75f643ecad864fc625902a6a07371f38320d"
+    ],
+    "twitter": "bootlegNFT"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "digital-rand",
+    "symbol": "dzar",
+    "name": "Digital Rand",
+    "platforms": {
+        "ethereum": "0x9cb2f26a23b8d89973f08c957c4d7cdf75cd341c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "South Africa's first digital asset pegged 1:1 to the Rand"
+    },
+    "country_origin": "ZA",
+    "genesis_date": null,
+    "contract_address": "0x9cb2f26a23b8d89973f08c957c4d7cdf75cd341c",
+    "url": "https://digitalrand.co.za/",
+    "explorers": [
+        "https://etherscan.io/token/0x9cb2f26a23b8d89973f08c957c4d7cdf75cd341c",
+        "https://ethplorer.io/address/0x9cb2f26a23b8d89973f08c957c4d7cdf75cd341c"
+    ],
+    "twitter": "DigitalRandZAR",
+    "facebook": "Digital-Rand-101861164513259",
+    "telegram": "DigitalRandZAR"
+}

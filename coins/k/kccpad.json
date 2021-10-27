@@ -1,0 +1,21 @@
+{
+    "id": "kccpad",
+    "symbol": "kccpad",
+    "name": "KCCPad",
+    "platforms": {
+        "binance-smart-chain": "0x11582ef4642b1e7f0a023804b497656e2663bc9b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Trusted launchpad on the KuCoin Community Chain to bring fair opportunity to token holders"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x11582ef4642b1e7f0a023804b497656e2663bc9b",
+    "url": "https://kccpad.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x11582Ef4642B1e7F0a023804B497656E2663bC9B"
+    ],
+    "twitter": "KCCPad_Official"
+}

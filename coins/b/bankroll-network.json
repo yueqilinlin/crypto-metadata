@@ -1,0 +1,24 @@
+{
+    "id": "bankroll-network",
+    "symbol": "bnkr",
+    "name": "Bankroll Network",
+    "platforms": {
+        "tron": "TNo59Khpq46FGf4sD7XSWYFNfYfbc8CqNK"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Bankroll is a social experiment on the TRON blockchain to implement a voluntary, sustainable, and permissionless universal basic income. Through a network of social games the platform provides daily dividends based on simple, permissionless, economic incentives... that are fun to play and win!!!"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "TNo59Khpq46FGf4sD7XSWYFNfYfbc8CqNK",
+    "url": "https://bankroll.network/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TNo59Khpq46FGf4sD7XSWYFNfYfbc8CqNK"
+    ],
+    "twitter": "Bankroll_Status",
+    "telegram": "bankrollnetwork"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ludena-protocol",
+    "symbol": "ldn",
+    "name": "Ludena Protocol",
+    "platforms": {
+        "ethereum": "0xb29663aa4e2e81e425294193616c1b102b70a158"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ludena Protocol is the first comprehensive gamified social platform, connecting gamers, from around the world, to a single application where they can play, trade and share all things gaming. Its first Dapp, GameTalkTalk, uses gamer big data to match gaming companies to target demographics and rewards users with digital assets, such as LDN, for completing missions in and/or downloading new games. GameTalkTalk has over 200 game publisher clients from around the world and over 3 million users, particularly made up of passionate South Korean gamers."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xb29663aa4e2e81e425294193616c1b102b70a158",
+    "url": "https://www.ludenaprotocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xb29663Aa4E2e81e425294193616c1B102B70a158",
+        "https://ethplorer.io/address/0xb29663Aa4E2e81e425294193616c1B102B70a158"
+    ],
+    "twitter": "ludenaprotocol",
+    "telegram": "ludenaprotocol",
+    "reddit": "LudenaProtocol/",
+    "github_org": "ludena-protocol"
+}

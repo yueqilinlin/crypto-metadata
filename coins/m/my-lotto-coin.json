@@ -1,0 +1,24 @@
+{
+    "id": "my-lotto-coin",
+    "symbol": "myl",
+    "name": "My Lotto Coin",
+    "platforms": {
+        "ethereum": "0xc110e8d4d7f4a319a1a8f16ca94b3afde7665595"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A lottery platform that is conventionally ruled, anonymously played, and autonomously operated, MyLottoCoin aims to be a disruptive solution to official and online lottery problems, a truly decentralized gaming platform designed to empower players and reconstruct the lottery concept from a gambling nature to a safe bet DeFi-powered feature while trying to maintain the joy of traditional experience. \r\n\r\nMyLottoCoin has introduced a reward program (staking +) powered by project\u2019s native token, MYL. MYL token was originally created to facilitate the reward program. MYL holders receive 10% of total ticket sales in ETH in proportion to the tokens in circulation, autonomously every 3 months. From the total supply of MYL (100 million), 50% is locked in the games smart contracts for free redistribution among users."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc110e8d4d7f4a319a1a8f16ca94b3afde7665595",
+    "url": "https://www.mylottocoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xc110e8d4d7f4a319a1a8f16ca94b3afde7665595",
+        "https://ethplorer.io/address/0xc110e8d4d7f4a319a1a8f16ca94b3afde7665595"
+    ],
+    "twitter": "MyLottoCoin",
+    "telegram": "mylottocoin",
+    "github_org": "MyLottoCoinProject"
+}

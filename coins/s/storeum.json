@@ -1,0 +1,25 @@
+{
+    "id": "storeum",
+    "symbol": "sto",
+    "name": "Storeum",
+    "platforms": {
+        "ethereum": "0xcb39c3502415152b2ec90ff07ee18cc94f681a72"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "storeum is a decentralised marketplace that allows anyone to buy and sell products or services for cryptocurrencies on a global scale. The marketplace will support thousands of merchants and millions of listings, with its primary focus on no fees."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0xcb39c3502415152b2ec90ff07ee18cc94f681a72",
+    "url": "http://storeum.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xcb39c3502415152b2ec90ff07ee18cc94f681a72",
+        "https://ethplorer.io/address/0xcb39c3502415152b2ec90ff07ee18cc94f681a72"
+    ],
+    "twitter": "storeum",
+    "github_org": "storeum"
+}

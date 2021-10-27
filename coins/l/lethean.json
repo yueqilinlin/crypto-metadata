@@ -1,0 +1,25 @@
+{
+    "id": "lethean",
+    "symbol": "lthn",
+    "name": "Lethean",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Technology & Science",
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "Blockchain backed peer to peer VPN and proxy coin."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://lt.hn",
+    "explorers": [
+        "https://lt.hn/en/explorer"
+    ],
+    "twitter": "LetheanVPN",
+    "facebook": "lethean.io",
+    "telegram": "letheanVPN",
+    "reddit": "lethean",
+    "github_org": "letheanVPN"
+}

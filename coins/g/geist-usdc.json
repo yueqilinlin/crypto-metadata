@@ -1,0 +1,20 @@
+{
+    "id": "geist-usdc",
+    "symbol": "gusdc",
+    "name": "Geist USDC",
+    "platforms": {
+        "fantom": "0xe578c856933d8e1082740bf7661e379aa2a30b26"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe578c856933d8e1082740bf7661e379aa2a30b26",
+    "url": "https://geist.finance/markets",
+    "explorers": [
+        "https://ftmscan.com/token/0xe578C856933D8e1082740bf7661e379Aa2A30b26"
+    ]
+}

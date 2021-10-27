@@ -1,0 +1,24 @@
+{
+    "id": "dukascoin",
+    "symbol": "duk+",
+    "name": "Dukascoin",
+    "platforms": {
+        "ethereum": "0x73f2651ea38d48b3b808ffddbd398fd600ab5ba7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dukascoin is the first cryptocurrency in the world issued by a regulated bank on a public blockchain. It has been launched as ERC-20 Ethereum token on 28/12/2019 by Dukascopy Bank SA, a fully regulated Swiss bank (www.dukascopy.com, www.dukascopy.bank, www.dukascoin.com). Dukascoin has been classified as payment token by Swiss regulator FINMA. The initial purpose of Dukascoin introduction is to reward new users of Dukascopy Connect 911 messenger and the associated Multi-Currency Accounts (MCA) of the Bank. Dukascoin, designed as a crypto means of payment, is issued in limited quantity to serve as both payment and speculation. The value of the token is supported by the trustworthiness of Dukascopy Bank SA and unique combination of term and holding rewards available for Dukascoin investors."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x73f2651ea38d48b3b808ffddbd398fd600ab5ba7",
+    "url": "https://www.dukascoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x73f2651ea38d48b3b808ffddbd398fd600ab5ba7",
+        "https://ethplorer.io/address/0x73f2651ea38d48b3b808ffddbd398fd600ab5ba7"
+    ],
+    "twitter": "Dukascoin",
+    "facebook": "Dukascoin",
+    "telegram": "dukascoin_airdrop"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "mbitbooks",
+    "symbol": "mbit",
+    "name": "MBitBooks",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "MBitBooks is a P2P cryptocurrency which secures sharing of music and books by users on the blockchain. MBIT enables artists and authors to own and control their content and be paid directly for sharing their content online on MBitBooks platform. Users are able to buy the content from artists and authors of their choice on the distributed ledger. Artists and authors are able to protect their content online by flagging and reporting content which is plagiarized and infringes copyright violation."
+    },
+    "country_origin": null,
+    "genesis_date": "2017-03-23",
+    "url": "http://www.mbitbooks.co/",
+    "explorers": [
+        "http://blockexp.com:8029/"
+    ],
+    "github_org": "mbitbooks"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "crypto-bay",
+    "symbol": "pearl",
+    "name": "Crypto Bay",
+    "platforms": {
+        "binance-smart-chain": "0x118b60763002f3ba7603a3c17f946a0c7dab789f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Play To Earn",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "Cryptobay is a play-to-earn metaverse game platform on BSC. Users can buy and build ships, fight against pirates in adventure, fight against players in arena, participate in boss battles, build their own harbors, recruit captains and raise pets, and participate in other interesting daily missions to build your own kingdom ."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x118b60763002f3ba7603a3c17f946a0c7dab789f",
+    "url": "https://cryptobay.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x118b60763002f3ba7603a3c17f946a0c7dab789f"
+    ],
+    "twitter": "CryptobayVip",
+    "telegram": "CryptoBay_Official",
+    "github_org": "cryptobayvip"
+}

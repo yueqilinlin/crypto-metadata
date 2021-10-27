@@ -1,0 +1,23 @@
+{
+    "id": "obtoken",
+    "symbol": "obt",
+    "name": "OBToken",
+    "platforms": {
+        "binance-smart-chain": "0x8da6113655309f84127e0837fcf5c389892578b3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OB Trader is an innovative trading AI, that lets people easily create trading bots on their favorite exchanges with one click of a button. Moreover, OB Trader is the first public automated trading tool that uses only AI for decision-making. OB Trader is an AI that actually trades for users.\r\n\r\nOB Trader aims to solve 2 problems:\r\n\r\n- The complexity of crypto investing.\r\n\r\n- Low returns of existing trading platforms or while holding cryptocurrencies.\r\n\r\nAt OB, a person can find a variety of pre-trained AI trading strategies adapted for different markets. The single goal of the trading AI is to outperform the underlying assets. So the primary reason for a person to use the bots is to get a bigger return on his/her investment in crypto."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8da6113655309f84127e0837fcf5c389892578b3",
+    "url": "https://www.onebutton.trade/token",
+    "explorers": [
+        "https://bscscan.com/token/0x8da6113655309f84127e0837fcf5c389892578b3"
+    ],
+    "twitter": "onebuttontrade",
+    "telegram": "onebuttontrade",
+    "github_org": "ob-trading"
+}

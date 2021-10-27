@@ -1,0 +1,23 @@
+{
+    "id": "acet-token",
+    "symbol": "act",
+    "name": "Acet",
+    "platforms": {
+        "binance-smart-chain": "0x9f3bcbe48e8b754f331dfc694a894e8e686ac31d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ACT (Acet) is DeFansFi Token. It is initiated on the concept of \u201cZero Initial Supply\u201d; in the belief that to be a digital asset, the initial amount of supply should start at \u201c0\u201d, and the amount of the token should only be generated based on the holders\u2019 demand."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9f3bcbe48e8b754f331dfc694a894e8e686ac31d",
+    "url": "https://acet.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x9f3bcbe48e8b754f331dfc694a894e8e686ac31d"
+    ],
+    "twitter": "ACTDeFansFi",
+    "telegram": "acetdefansfi",
+    "github_org": "acetdefi"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "origin-sport",
+    "symbol": "ors",
+    "name": "Origin Sport",
+    "platforms": {
+        "ethereum": "0xeb9a4b185816c354db92db09cc3b50be60b901b6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The purpose of the Origin Sport platform is to introduce a decentralized method of conducting sports bets. Our smart contracts are pre-scheduled and ensure results and winnings distributions are tamper-proof. The goal of the system is to allow anyone to host their own bets while ensuring the integrity of the placed bets. As such, the increased transparency of the system will allow us to work with regulators in identifying potential money laundering fraud on our platform as well as monitoring user betting quotas through a combination of real-name systems. We believe this will go a long way towards bringing this industry into the light and encouraging governments to revisit legislation regarding sports betting. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xeb9a4b185816c354db92db09cc3b50be60b901b6",
+    "url": "https://originsport.io",
+    "explorers": [
+        "https://etherscan.io/token/0xeb9a4b185816c354db92db09cc3b50be60b901b6",
+        "https://ethplorer.io/address/0xeb9a4b185816c354db92db09cc3b50be60b901b6"
+    ],
+    "twitter": "OriginSport_io",
+    "facebook": "originsport.io",
+    "telegram": "OriginSport_EN",
+    "reddit": "OriginSport/",
+    "github_org": "OriginSport"
+}

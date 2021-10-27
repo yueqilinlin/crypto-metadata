@@ -1,0 +1,22 @@
+{
+    "id": "empire-token",
+    "symbol": "empire",
+    "name": "Empire Token",
+    "platforms": {
+        "binance-smart-chain": "0x293c3ee9abacb08bb8ced107987f00efd1539288"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Built as a super token, Empire is the first token to merge innovative real world value generating use cases with the crypto world. \r\n\r\nWith the first application being an NFT Smart Platform, Empire is introducing previously unheard of revenue streams in the NFT space, starting with the capability to license NFTs to publishers, thereby allowing NFT owners to generate revenue. \r\nEndless applications are to follow, from integration with real life businesses such as ride hailing apps, to paying discounted prices for services such as airline tickets or accommodation bookings using our own search engine."
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "contract_address": "0x293c3ee9abacb08bb8ced107987f00efd1539288",
+    "url": "https://empiretoken.world/",
+    "explorers": [
+        "https://bscscan.com/token/0x293C3Ee9ABaCb08BB8ceD107987F00EfD1539288"
+    ],
+    "twitter": "realempiretoken",
+    "telegram": "empiretokenworld"
+}

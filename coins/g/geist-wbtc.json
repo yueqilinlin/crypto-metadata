@@ -1,0 +1,20 @@
+{
+    "id": "geist-wbtc",
+    "symbol": "gwbtc",
+    "name": "Geist WBTC",
+    "platforms": {
+        "fantom": "0x38aca5484b8603373acc6961ecd57a6a594510a3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x38aca5484b8603373acc6961ecd57a6a594510a3",
+    "url": "https://geist.finance/markets",
+    "explorers": [
+        "https://ftmscan.com/token/0x38aCa5484B8603373Acc6961Ecd57a6a594510A3"
+    ]
+}

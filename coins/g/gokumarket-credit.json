@@ -1,0 +1,23 @@
+{
+    "id": "gokumarket-credit",
+    "symbol": "gmc",
+    "name": "GokuMarket Credit",
+    "platforms": {
+        "binance-smart-chain": "0xd3e7c41b39bb252d909fb64d2433abf225eaf49e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GMC is the world\u2019s #1 utility token that enables the GokuMarket blockchain economy with crypto debit cards, e-commerce, flight & hotel bookings, freelancers, social media entrepreneurs, and much more.\r\n\r\nThe purpose of GMC is to give the community an incentive to buy, store, and primarily use it at a minimum rate of $0.50 per GMC for purchase of goods and services as well as enjoy reduced transaction fees and discounts.\r\n\r\nGMC is initially paired against BTC with more to come\u2026\r\nGokuMarketEnjoy trading GMC like a pro now! "
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0xd3e7c41b39bb252d909fb64d2433abf225eaf49e",
+    "url": "https://www.gokumarket.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xd3e7c41b39bb252d909fb64d2433abf225eaf49e"
+    ],
+    "twitter": "GokuMarket",
+    "facebook": "gokumarket",
+    "telegram": "gokumarket_official"
+}

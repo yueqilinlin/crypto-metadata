@@ -1,0 +1,23 @@
+{
+    "id": "addict-finance",
+    "symbol": "addict",
+    "name": "Addict Finance",
+    "platforms": {
+        "binance-smart-chain": "0x982c826326acc28a6aa46fc318955329d2169bac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Addict Finance is a Binance based  lottery coin. It was developed to give back to the addicts who lost money on the 50% dip of BTC. On every transaction a 4% tax of the sum will go to a Lottery Wallet.\r\n\r\nEvery couple of days the lottery wallet will be distributed to Addict Finance holders chosen by a lottery system."
+    },
+    "country_origin": "FI",
+    "genesis_date": null,
+    "contract_address": "0x982c826326acc28a6aa46fc318955329d2169bac",
+    "url": "https://www.addict.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x982c826326acc28a6aa46fc318955329d2169bac"
+    ],
+    "twitter": "addict_finance",
+    "telegram": "addictfinance",
+    "github_org": "KevinB0T"
+}

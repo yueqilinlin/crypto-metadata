@@ -1,0 +1,25 @@
+{
+    "id": "variable-time-dollar",
+    "symbol": "vtd",
+    "name": "Variable Time Dollar",
+    "platforms": {
+        "ethereum": "0xf0e3543744afced8042131582f2a19b6aeb82794"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf0e3543744afced8042131582f2a19b6aeb82794",
+    "url": "https://vtd.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xf0E3543744AFcEd8042131582f2A19b6AEb82794",
+        "https://ethplorer.io/address/0xf0e3543744afced8042131582f2a19b6aeb82794"
+    ],
+    "telegram": "vtdfinance",
+    "github_org": "variabletime"
+}

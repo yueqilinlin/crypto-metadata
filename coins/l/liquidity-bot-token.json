@@ -1,0 +1,24 @@
+{
+    "id": "liquidity-bot-token",
+    "symbol": "liq",
+    "name": "Liquidity Bot Token",
+    "platforms": {
+        "ethereum": "0x44fd55aeb7420b4fd275e19d6f0674a6f91ad356"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Token that represent shares in the funds of our liquidity bot."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x44fd55aeb7420b4fd275e19d6f0674a6f91ad356",
+    "url": "https://www.liquiditybot.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x44fd55aeb7420b4fd275e19d6f0674a6f91ad356",
+        "https://ethplorer.io/address/0x44fd55aeb7420b4fd275e19d6f0674a6f91ad356"
+    ],
+    "twitter": "liquiditybot"
+}

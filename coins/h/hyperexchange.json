@@ -1,0 +1,23 @@
+{
+    "id": "hyperexchange",
+    "symbol": "hx",
+    "name": "HyperExchange",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "After the launch of HCASH mainnet v2.0, features such as post-quantum cryptographic signatures and a hybrid PoW+PoS consensus mechanism will be fully implemented and operable. From here, developers focusing on HyperCash will begin to develop blockchain technologies that fulfil its objectives.\r\n\r\nHyperExchange, the other mainchain in HCASH system will be launched too, acting as the first system to achieve interoperability using a Blockchain Multi Tunnel (BMT) protocol, HyperExchange Axis, Indicator, smart contracts and other blockchain innovations. HyperExchange lays the foundation for building cross- chain distributed commercial applications in its ecosystem."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "url": "http://hx.cash/",
+    "explorers": [
+        "http://explorer.hx.cash/"
+    ],
+    "twitter": "HyperExchange",
+    "facebook": "HyperExchange-1249780921843607",
+    "telegram": "hyperexchange001",
+    "github_org": "HcashOrg"
+}

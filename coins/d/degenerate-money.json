@@ -1,0 +1,23 @@
+{
+    "id": "degenerate-money",
+    "symbol": "degenr",
+    "name": "Degenerate Money",
+    "platforms": {
+        "binance-smart-chain": "0x4d6d0335e3b715341eb4f10b5751771cbcb7cea3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "One of the biggest NFT marketplaces on BSC. Fully operational marketplace (website) since March 2021 with numerous partnerships besides the NFT's created in-house. NFT's can be acquired by staking the native token DEGENR.\r\nToken has 4% redistributed to holders and 3% burned for every transaction."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4d6d0335e3b715341eb4f10b5751771cbcb7cea3",
+    "url": "https://degenerate.money/",
+    "explorers": [
+        "https://bscscan.com/token/0x4d6d0335e3b715341eb4f10b5751771cbcb7cea3"
+    ],
+    "twitter": "DegenMoney",
+    "telegram": "degeneratemoney",
+    "github_org": "degeneratemoney"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "launchx",
+    "symbol": "lnchx",
+    "name": "LaunchX",
+    "platforms": {
+        "binance-smart-chain": "0xc43570263e924c8cf721f4b9c72eed1aec4eb7df"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad"
+    ],
+    "description": {
+        "en": "LaunchX is a multi-chain decentralized IDO launchpad platform. It drives the next generation of projects to launch in an equitable and decentralized manner across multiple blockchains.\r\nLaunchX is community-driven, governance-based, and transparent. Our community runs LaunchX through a first-of-its-kind DAO protocol, so you can actually engage with the projects to dictate how they are launched (and if they will get launched at all)."
+    },
+    "country_origin": "LC",
+    "genesis_date": null,
+    "contract_address": "0xc43570263e924c8cf721f4b9c72eed1aec4eb7df",
+    "url": "https://launchx.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xc43570263e924c8cf721f4b9c72eed1aec4eb7df"
+    ],
+    "twitter": "LaunchX_",
+    "telegram": "weLaunchX"
+}

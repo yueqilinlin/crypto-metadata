@@ -1,0 +1,22 @@
+{
+    "id": "vulkania",
+    "symbol": "vlk",
+    "name": "Vulkania",
+    "platforms": {
+        "binance-smart-chain": "0x0921d788e7f7498f80adb0a0a62b8a9476f2db92"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Vulkania app allows you to create a fully functional blockchain dashboard for a specific token. We call it DAAS (Dashboard As A Service). Dashboards come with a set of tools and can be fully personalized. In the end, every token will have a unique website with aggregated data coming from a lot of sources, including decentralized (blockchain) and centralized data (APIs).\r\nDashboard creation is available for crypto founders or their community. What we are building offers the following advantages for both:\r\n\u2022 Token visibility\r\n\u2022 Community engagement\r\n\u2022 Data tracking\r\n\u2022 Time saving (zero development)\r\n\u2022 Easy to set up (two clics)"
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x0921d788e7f7498f80adb0a0a62b8a9476f2db92",
+    "url": "http://www.vulkania.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x0921d788e7f7498f80adb0a0a62b8a9476f2db92"
+    ],
+    "twitter": "VulkaniaApp",
+    "telegram": "vulkaniannouncements"
+}

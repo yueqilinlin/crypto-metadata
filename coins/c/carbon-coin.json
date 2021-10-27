@@ -1,0 +1,23 @@
+{
+    "id": "carbon-coin",
+    "symbol": "cbc",
+    "name": "Carbon Coin",
+    "platforms": {
+        "binance-smart-chain": "0x793cea0f1003411396b3a81a77d92fe37015e7a9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "In the simplest of terms, carbon neutrality means having net-zero carbon dioxide emissions. To achieve this, you have to balance carbon emissions with carbon removal. For every amount of carbon, a company or country produces, it should be taking steps to remove the same amount of carbon from the atmosphere if it wants to achieve carbon neutrality.\r\n\r\n$CBC (Carbon Coin) is released on the basis of BINANCE SMART CHAIN platform and fully complies with BSC20* standard. $CBC is completely decentralized, and all decisions are made by a community poll. Our goal is to reduce pollution by donating to organizations involved in promoting carbon neutrality. These organizations will be voted by the community."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x793cea0f1003411396b3a81a77d92fe37015e7a9",
+    "url": "https://carbon-netrual.global/",
+    "explorers": [
+        "https://bscscan.com/token/0x793cEa0F1003411396b3A81A77d92Fe37015E7A9"
+    ],
+    "twitter": "cnesofficial",
+    "telegram": "CNESCommunity",
+    "reddit": "CNESCommunity/"
+}

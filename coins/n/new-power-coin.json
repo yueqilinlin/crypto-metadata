@@ -1,0 +1,22 @@
+{
+    "id": "new-power-coin",
+    "symbol": "npw",
+    "name": "New Power Coin",
+    "platforms": {},
+    "hashing_algorithm": "NeoScrypt",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "New Power Coin - A new masternode-enabled cryptocurrency that drives online traffic into a new era of decentralization.\r\n\r\nNew Power Coin will serve as the underlying foundation of the blockchain to provide a new source of traffic for the Internet. By using blockchain technology, internet traffic targeting will never be more accurate, and your data will never be owned by anyone.\r\n\r\nTo make this goal more achivable, the New Power Coin has taken use of existing technologies and provided own technplogies to maximal ensure every feature has its powerful use: to make cryptocurrency more easy and usable.\r\n\r\nBased on these features, we will soon build up a decentralized traffic platform using New Power Coin as the foundation block chain technology."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-05-25",
+    "url": "http://npw.live",
+    "explorers": [
+        "http://explorer.npw.live:8080"
+    ],
+    "twitter": "NewPowerCoin",
+    "telegram": "newpowercoin",
+    "github_org": "NPW-Project"
+}

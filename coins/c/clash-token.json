@@ -1,0 +1,28 @@
+{
+    "id": "clash-token",
+    "symbol": "sct",
+    "name": "Clash Token",
+    "platforms": {
+        "ethereum": "0x6fa0952355607dfb2d399138b7fe10eb90f245e4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Collectibles",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "Clash Token (SCT) is a deflationary ERC-20 token made for Spirit Clash. Its main properties include: Unique store items, controlled burns, yield farming, and governance."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6fa0952355607dfb2d399138b7fe10eb90f245e4",
+    "url": "https://www.spiritclash.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6fa0952355607dfb2d399138b7fe10eb90f245e4",
+        "https://ethplorer.io/address/0x6fa0952355607dfb2d399138b7fe10eb90f245e4"
+    ],
+    "twitter": "spiritclashccg",
+    "facebook": "spiritclash",
+    "telegram": "SpiritClash"
+}

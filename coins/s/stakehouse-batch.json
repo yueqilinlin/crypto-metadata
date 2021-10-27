@@ -1,0 +1,23 @@
+{
+    "id": "stakehouse-batch",
+    "symbol": "shb",
+    "name": "StakeHouse Batch",
+    "platforms": {
+        "ethereum": "0x7c3e3bdcec89a3f706c9a02797ec427ffa596787"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "StakeHouse Batch - SHB  token is a Batch minters token that has a native yield and exclusivity to mint Batches for Stakehouses in Blockswap CommunityNet.\r\n\r\nStakehouse is a smart contract suite that brings an automated coordination layer on Ethereum for staked ETH2 liquidity accessible on ERC20 tokens trustlessly. SHB tokens are used to mint batches within the Stakehouse resembling 32ETH deposit simulation. This is part of Blockswap protocol market fit exercise, stress testing its contracts in realtime environment."
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0x7c3e3bdcec89a3f706c9a02797ec427ffa596787",
+    "url": "https://blockswap.network",
+    "explorers": [
+        "https://etherscan.io/token/0x7c3e3bdcec89a3f706c9a02797ec427ffa596787",
+        "https://ethplorer.io/address/0x7c3e3bdcec89a3f706c9a02797ec427ffa596787"
+    ],
+    "twitter": "Blockswap_team",
+    "telegram": "bsnchat"
+}

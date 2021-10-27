@@ -1,0 +1,22 @@
+{
+    "id": "shibarocket",
+    "symbol": "shibarocket",
+    "name": "ShibaRocket",
+    "platforms": {
+        "binance-smart-chain": "0x782d8c5c0150bedc70d94fe6737763ede839f205"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x782d8c5c0150bedc70d94fe6737763ede839f205",
+    "url": "https://shibarocket.dog/",
+    "explorers": [
+        "https://bscscan.com/token/0x782d8c5c0150bedc70d94fe6737763ede839f205"
+    ],
+    "twitter": "ShibaRocketDog",
+    "telegram": "ShibaRocketDog"
+}

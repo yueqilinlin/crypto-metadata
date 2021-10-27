@@ -1,0 +1,22 @@
+{
+    "id": "small-doge",
+    "symbol": "sdog",
+    "name": "Small Doge",
+    "platforms": {
+        "ethereum": "0x537edd52ebcb9f48ff2f8a28c51fcdb9d6a6e0d4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x537edd52ebcb9f48ff2f8a28c51fcdb9d6a6e0d4",
+    "url": "https://smalldogecoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x537edd52ebcb9f48ff2f8a28c51fcdb9d6a6e0d4",
+        "https://ethplorer.io/address/0x537edd52ebcb9f48ff2f8a28c51fcdb9d6a6e0d4"
+    ],
+    "twitter": "Smalldoge_zoom"
+}

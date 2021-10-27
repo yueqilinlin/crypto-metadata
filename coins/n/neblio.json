@@ -1,0 +1,23 @@
+{
+    "id": "neblio",
+    "symbol": "nebl",
+    "name": "Neblio",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Neblio (NEBL) is a project that is developing an open source enterprise blockchain solution. This solution will be a secure and distributed platform upon which businesses can develop their own applications. Neblio is joining a long list of other projects such as <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum's</a> Enterprise Ethereum Alliance (EEA), Hyperledger Fabric and R3 Corda that are working on similar enterprise blockchain development networks.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/neblio-nebl/\">CoinBureau</a> for the full review of Neblio project.\r\n\r\n"
+    },
+    "country_origin": "US",
+    "genesis_date": "2017-07-25",
+    "url": "https://nebl.io/",
+    "explorers": [
+        "http://explorer.nebl.io/",
+        "https://nebl.tokenview.com/"
+    ],
+    "twitter": "NeblioTeam",
+    "reddit": "neblio",
+    "github_org": "NeblioTeam"
+}

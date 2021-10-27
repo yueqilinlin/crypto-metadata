@@ -1,0 +1,23 @@
+{
+    "id": "yfi-business",
+    "symbol": "yfib",
+    "name": "YFI Business",
+    "platforms": {
+        "ethereum": "0x47632da9227e322eda59f9e7691eacc6430ac87c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x47632da9227e322eda59f9e7691eacc6430ac87c",
+    "url": "https://yfibusiness.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x47632da9227e322eda59f9e7691eacc6430ac87c",
+        "https://ethplorer.io/address/0x47632da9227e322eda59f9e7691eacc6430ac87c"
+    ],
+    "twitter": "yfibusiness",
+    "telegram": "yfibfinance"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "gemspree",
+    "symbol": "gems",
+    "name": "GemSpree",
+    "platforms": {
+        "binance-smart-chain": "0x48a64f116ce221fd7c1119775ba7892701f9911d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An NFT marketplace combined with Advertising platform & charity donations focusing on kids with Cancer around the world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x48a64f116ce221fd7c1119775ba7892701f9911d",
+    "url": "https://gemspree.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x48a64f116ce221fd7c1119775ba7892701f9911d"
+    ],
+    "twitter": "gemspree",
+    "facebook": "gemspreeofficial",
+    "telegram": "gemspreeeofficial"
+}

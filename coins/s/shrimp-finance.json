@@ -1,0 +1,26 @@
+{
+    "id": "shrimp-finance",
+    "symbol": "shrimp",
+    "name": "Shrimp Finance",
+    "platforms": {
+        "ethereum": "0x38c4102d11893351ced7ef187fcf43d33eb1abe6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x38c4102d11893351ced7ef187fcf43d33eb1abe6",
+    "url": "https://shrimp.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x38c4102d11893351ced7ef187fcf43d33eb1abe6",
+        "https://ethplorer.io/address/0x38c4102d11893351ced7ef187fcf43d33eb1abe6"
+    ],
+    "twitter": "FinanceShrimp",
+    "telegram": "shrimping",
+    "github_org": "shrimp-finance"
+}

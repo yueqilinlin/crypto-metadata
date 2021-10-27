@@ -1,0 +1,22 @@
+{
+    "id": "crypto-cars-world",
+    "symbol": "cars",
+    "name": "Crypto Cars World",
+    "platforms": {
+        "binance-smart-chain": "0x1228fb5ef4c98cabd696ba1bd4819e050389d21a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crypto Cars World is a video game based on NFT Blockchain technology, inspired by Need For Speed or Gran Turismo, in which players compete in races within circuits where the fastest is the winner. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1228fb5ef4c98cabd696ba1bd4819e050389d21a",
+    "url": "https://www.cryptocarsworld.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x1228fb5ef4c98cabd696ba1bd4819e050389d21a"
+    ],
+    "twitter": "CryptoCarsWorld",
+    "telegram": "cryptocarsworld"
+}

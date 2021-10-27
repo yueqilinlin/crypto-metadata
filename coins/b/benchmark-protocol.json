@@ -1,0 +1,30 @@
+{
+    "id": "benchmark-protocol",
+    "symbol": "mark",
+    "name": "Benchmark Protocol",
+    "platforms": {
+        "ethereum": "0x67c597624b17b16fb77959217360b7cd18284253",
+        "harmony-shard-0": "0xe52c7144fed0aeca882dd93bc76c9135f5598ddd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Rebase Tokens",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Benchmark Protocol is a Supply Elastic Collateral and Hedging Device, Driven by the Volatility Index."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x67c597624b17b16fb77959217360b7cd18284253",
+    "url": "https://benchmarkprotocol.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x67c597624b17b16fb77959217360b7cd18284253",
+        "https://ethplorer.io/address/0x67c597624b17b16fb77959217360b7cd18284253"
+    ],
+    "twitter": "Benchmark_DeFi",
+    "telegram": "benchmark_protocol",
+    "github_org": "benchmarkprotocol"
+}

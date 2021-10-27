@@ -1,0 +1,29 @@
+{
+    "id": "seigniorage-shares",
+    "symbol": "share",
+    "name": "Seigniorage Shares",
+    "platforms": {
+        "ethereum": "0x39795344cbcc76cc3fb94b9d1b15c23c2070c66d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Rebase Tokens",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x39795344cbcc76cc3fb94b9d1b15c23c2070c66d",
+    "url": "https://dollarprotocol.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D",
+        "https://ethplorer.io/address/0x39795344cbcc76cc3fb94b9d1b15c23c2070c66d"
+    ],
+    "twitter": "DollarProtocol",
+    "telegram": "dollarprotocol",
+    "reddit": "https://www.reddit.com",
+    "github_org": "Dollar-Protocol"
+}

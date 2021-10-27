@@ -1,0 +1,24 @@
+{
+    "id": "meta-vault-nftx",
+    "symbol": "meta",
+    "name": "META Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0x2f5c3dd519e8a502c48c9fc104eee64fdff05f03"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "META Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs).\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2f5c3dd519e8a502c48c9fc104eee64fdff05f03",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x2f5c3dd519e8a502c48c9fc104eee64fdff05f03",
+        "https://ethplorer.io/address/0x2f5c3dd519e8a502c48c9fc104eee64fdff05f03"
+    ],
+    "twitter": "nftx_"
+}

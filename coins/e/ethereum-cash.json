@@ -1,0 +1,24 @@
+{
+    "id": "ethereum-cash",
+    "symbol": "ecash",
+    "name": "Ethereum Cash",
+    "platforms": {
+        "ethereum": "0x5d21ef5f25a985380b65c8e943a0082feda0db84"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A more viable currency for Ethereum"
+    },
+    "country_origin": "",
+    "genesis_date": "2017-10-10",
+    "contract_address": "0x5d21ef5f25a985380b65c8e943a0082feda0db84",
+    "url": "https://www.ethereumcash.technology/",
+    "explorers": [
+        "https://etherscan.io/token/0x5d21ef5f25a985380b65c8e943a0082feda0db84",
+        "https://ethplorer.io/address/0x5d21ef5f25a985380b65c8e943a0082feda0db84"
+    ],
+    "twitter": "EthereumCash_",
+    "reddit": "EthereumCash",
+    "github_org": "ethereumcashdev"
+}

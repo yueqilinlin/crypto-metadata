@@ -1,0 +1,24 @@
+{
+    "id": "topia",
+    "symbol": "topia",
+    "name": "TOPIA",
+    "platforms": {
+        "tron": "TGpP9GPsjyq2yo4WrwSJvqYwqZLKRnSzE8"
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "TRONtopia is a fully decentralized e-Gaming platform running on the TRON blockchain."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "TGpP9GPsjyq2yo4WrwSJvqYwqZLKRnSzE8",
+    "url": "https://www.trontopia.co/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TGpP9GPsjyq2yo4WrwSJvqYwqZLKRnSzE8"
+    ],
+    "twitter": "TRON_topia",
+    "telegram": "trontopia"
+}

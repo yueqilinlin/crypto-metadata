@@ -1,0 +1,27 @@
+{
+    "id": "julswap",
+    "symbol": "juld",
+    "name": "JulSwap",
+    "platforms": {
+        "binance-smart-chain": "0x5a41f637c3f7553dba6ddc2d3ca92641096577ea",
+        "harmony-shard-0": "0x504d7d5bd2075fa782fbd0be9bea4cdc7e25f5a1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "JulD is the Community Token from JulSwap which allows you to participate in special events on JulSwap. JulD is built to introduce crypto to all people worldwide and to build one of the biggest crypto communities."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5a41f637c3f7553dba6ddc2d3ca92641096577ea",
+    "url": "https://info.julswap.com ",
+    "explorers": [
+        "https://bscscan.com/token/0x5a41f637c3f7553dba6ddc2d3ca92641096577ea"
+    ],
+    "twitter": "JulSwap",
+    "telegram": "justliquidity",
+    "github_org": "justliquidity"
+}

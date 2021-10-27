@@ -1,0 +1,24 @@
+{
+    "id": "dogewarrior",
+    "symbol": "dwr",
+    "name": "DogeWarrior",
+    "platforms": {
+        "binance-smart-chain": "0x5f49f9024d5dec860b110eca79e5b805c14b5b8c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DogeWarrior is a fusion between gaming and crypto. DogeWarrior's multiplayer online game uses the DogeWarrior Token (DWR), deployed on BSC. This token offers features such as autoburn, a liquidity generation mechanism, and rewards its holders with every transaction. \r\nBesides DogeWarrior's card-based fighting game, Team has also started development on products which they will release in the next quarter such as an NFT Marketplace, DEX and a gaming platform with dozens of games. \r\nDWR's Team is commited to this project and have a very specific goal in mind: to develop an easy to pick up and play card game with full crypto integration!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5f49f9024d5dec860b110eca79e5b805c14b5b8c",
+    "url": "https://dogewarrior.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x5f49f9024d5dec860b110eca79e5b805c14b5b8c"
+    ],
+    "twitter": "DogeWarriorBSC",
+    "telegram": "dogewarriorofficial",
+    "reddit": "DogeWarrior/",
+    "github_org": "DogeWarrior"
+}

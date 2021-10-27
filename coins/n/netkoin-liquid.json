@@ -1,0 +1,26 @@
+{
+    "id": "netkoin-liquid",
+    "symbol": "liquid",
+    "name": "Netkoin Liquid",
+    "platforms": {
+        "ethereum": "0xac2385e183d9301dd5e2bb08da932cbf9800dc9c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Retail"
+    ],
+    "description": {
+        "en": "Netkoin Liquid is a utility token designed to enhance and optimise the functionality of the NTK token and Netkoin ecosystem. \r\n\r\nA two-token (dual token) system is made possible by introducing a secondary utility token; Netkoin Liquid. This token will compliment the NTK token, enhancing and optimising the functionality of the Netkoin ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xac2385e183d9301dd5e2bb08da932cbf9800dc9c",
+    "url": "https://www.netkoin.com/liquid/",
+    "explorers": [
+        "https://etherscan.io/token/0xac2385e183d9301dd5e2bb08da932cbf9800dc9c",
+        "https://ethplorer.io/address/0xac2385e183d9301dd5e2bb08da932cbf9800dc9c"
+    ],
+    "twitter": "netkoin",
+    "facebook": "Netkoin",
+    "telegram": "netkoindiscussion"
+}

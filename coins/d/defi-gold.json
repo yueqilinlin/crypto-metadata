@@ -1,0 +1,23 @@
+{
+    "id": "defi-gold",
+    "symbol": "dfgl",
+    "name": "DeFi Gold",
+    "platforms": {
+        "ethereum": "0xe3a64a3c4216b83255b53ec7ea078b13f21a7dad"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe3a64a3c4216b83255b53ec7ea078b13f21a7dad",
+    "url": "https://defigold.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD",
+        "https://ethplorer.io/address/0xe3a64a3c4216b83255b53ec7ea078b13f21a7dad"
+    ],
+    "twitter": "Defigold",
+    "telegram": "defigold_main"
+}

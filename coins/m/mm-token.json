@@ -1,0 +1,28 @@
+{
+    "id": "mm-token",
+    "symbol": "mm",
+    "name": "MM Token",
+    "platforms": {
+        "ethereum": "0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304",
+        "fantom": "0xbfaf328fe059c53d936876141f38089df0d1503d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "yet another crypto earning vault with focus on seeking sustainable profit in DeFi universe"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304",
+    "url": "https://mushrooms.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304",
+        "https://ethplorer.io/address/0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304"
+    ],
+    "twitter": "MushroomsFinan1",
+    "telegram": "mushroomsfinance",
+    "github_org": "mushroomsforest"
+}

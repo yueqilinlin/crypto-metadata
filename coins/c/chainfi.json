@@ -1,0 +1,23 @@
+{
+    "id": "chainfi",
+    "symbol": "cnfi",
+    "name": "ChainFi",
+    "platforms": {
+        "binance-smart-chain": "0x4293c4c9a75d5554da71a5746dd8560453fd3ca7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Chainfi is a MultiChain Decentralized exchange kicking off on the Binance SmartChain,and then according to our road map  on the Ethereum,Kucoin community chain,Huobi Eco chain, and the Polygon network\r\nThe ChainFi token launching first on the Binance SmartChain is the community token and official governance token of the ChainFi network on all blockchain we are launching on,\r\nChainFi is also going to have a token bridge\r\nBetween all the blockchain we are launching on, at launch the total supply of the token 80,000,000 will be on the binance SmartChain and at launch of our products on each chain there will be a bridge available on our platform"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4293c4c9a75d5554da71a5746dd8560453fd3ca7",
+    "url": "https://chainfi.tech/",
+    "explorers": [
+        "https://bscscan.com/token/0x4293c4c9a75D5554Da71a5746Dd8560453FD3ca7"
+    ],
+    "twitter": "chainfi_io",
+    "telegram": "chainfi_io",
+    "github_org": "chainfiio"
+}

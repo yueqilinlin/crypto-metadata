@@ -1,0 +1,22 @@
+{
+    "id": "octopus-protocol",
+    "symbol": "ops",
+    "name": "Octopus Protocol",
+    "platforms": {
+        "binance-smart-chain": "0x14fc542fd0364ad8361274657cab141a8c8820e0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Octopus is an open-source protocol for issuing, trading, managing, and exchanging synthetic assets in a fair, and equally accessible financial ecosystem on Binance Smart Chain. The ecosystem encompasses a multitude of innovative products that facilitate the trading and management of synthetic assets under one universal platform. The products include issuance of decentralized derivatives, trading derivatives on Octopus Exchange, Decentralized Asset management of synthetic assets, social trading, and Options trading. We intend to create a universal platform with availability of tools and resources that facilitate each process - from creation to management of decentralized derivatives."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x14fc542fd0364ad8361274657cab141a8c8820e0",
+    "url": "https://octopus.exchange/",
+    "explorers": [
+        "https://bscscan.com/token/0x14fC542fd0364Ad8361274657CaB141A8C8820E0"
+    ],
+    "twitter": "octopusprotocol",
+    "telegram": "OctopusProtocol"
+}

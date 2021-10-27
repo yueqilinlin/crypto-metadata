@@ -1,0 +1,23 @@
+{
+    "id": "captain",
+    "symbol": "capt",
+    "name": "Captain",
+    "platforms": {
+        "binance-smart-chain": "0xdf5301b96ceccb9c2a61505b3a7577111056a4c5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Captain token is the main token and store of value for CaptainSwap and will also be used to create value for CaptainSwap's utility token $CREW. $CREW will be tethered to the price of $CAPT which in turn adds incentive for people to HODL $CAPT\r\n\r\nCaptain token was started by our Captain, Capt. George. Capt. was tired of rugrulls on the BSC so he set out to create a token that his crew could trust..."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdf5301b96ceccb9c2a61505b3a7577111056a4c5",
+    "url": "https://www.capttoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xdf5301b96ceccb9c2a61505b3a7577111056a4c5"
+    ],
+    "twitter": "Capt_Token",
+    "telegram": "CaptToken",
+    "reddit": "CaptToken/"
+}

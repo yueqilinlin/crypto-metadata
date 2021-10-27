@@ -1,0 +1,29 @@
+{
+    "id": "boringdao",
+    "symbol": "boring",
+    "name": "BoringDAO",
+    "platforms": {
+        "ethereum": "0xbc19712feb3a26080ebf6f2f7849b417fdd792ca",
+        "binance-smart-chain": "0xffeecbf8d7267757c2dc3d13d730e97e15bfdf7f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbc19712feb3a26080ebf6f2f7849b417fdd792ca",
+    "url": "https://www.boringdao.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xbc19712feb3a26080ebf6f2f7849b417fdd792ca",
+        "https://bscscan.com/token/0xffeecbf8d7267757c2dc3d13d730e97e15bfdf7f",
+        "https://ethplorer.io/address/0xBC19712FEB3a26080eBf6f2F7849b417FdD792CA"
+    ],
+    "twitter": "TheBoringDAO",
+    "telegram": "boringDAO",
+    "github_org": "BoringDAO"
+}

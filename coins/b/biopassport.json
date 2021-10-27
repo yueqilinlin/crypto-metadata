@@ -1,0 +1,25 @@
+{
+    "id": "biopassport",
+    "symbol": "biot",
+    "name": "Bio Passport",
+    "platforms": {
+        "ethereum": "0xc07a150ecadf2cc352f5586396e344a6b17625eb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Safely manage your health with Bio Passport, a telehealth platform that can remotely monitor personal health in the post-corona era, COVID-19, lung cancer and atopic test kits"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc07a150ecadf2cc352f5586396e344a6b17625eb",
+    "url": "https://biopassport.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xc07A150ECAdF2cc352f5586396e344A6b17625EB",
+        "https://ethplorer.io/address/0xc07A150ECAdF2cc352f5586396e344A6b17625EB"
+    ],
+    "twitter": "Biopassport1",
+    "facebook": "BIOToken",
+    "telegram": "biopassportofficial",
+    "github_org": "biopassport"
+}

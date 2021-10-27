@@ -1,0 +1,22 @@
+{
+    "id": "mirrored-airbnb",
+    "symbol": "mabnb",
+    "name": "Mirrored Airbnb",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Mirrored Assets"
+    ],
+    "description": {
+        "en": "Mirrored Airbnb- synthetic asset tracking the price of an Airbnb stock. "
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "url": "https://mirror.finance",
+    "explorers": [
+        "https://finder.terra.money/columbus-4/token/terra1g4x2pzmkc9z3mseewxf758rllg08z3797xly0n"
+    ],
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol",
+    "github_org": "mirror-protocol"
+}

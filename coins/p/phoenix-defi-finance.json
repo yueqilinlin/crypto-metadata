@@ -1,0 +1,24 @@
+{
+    "id": "phoenix-defi-finance",
+    "symbol": "pnixs",
+    "name": "Phoenix Defi Finance",
+    "platforms": {
+        "binance-smart-chain": "0x509949c4ee0c1c2c765cf9b23c75d823981e22ae"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PhoenixDefi is an incredibly promising project, goal achieving success on the Binance Smart Chain. Our aim is to maximize your investment with yield farming mechanism that provides sustainable and profitable yields combined with transparent security features."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x509949c4ee0c1c2c765cf9b23c75d823981e22ae",
+    "url": "https://phoenixdefi.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x509949c4ee0c1c2c765cf9b23c75d823981e22ae"
+    ],
+    "twitter": "phoenixdefi",
+    "telegram": "PhoenixDefiFinanceCommunity",
+    "reddit": "PhoenixDefiFinance",
+    "github_org": "phoenixdefi"
+}

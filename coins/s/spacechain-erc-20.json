@@ -1,0 +1,26 @@
+{
+    "id": "spacechain-erc-20",
+    "symbol": "spc",
+    "name": "SpaceChain (ERC-20)",
+    "platforms": {
+        "ethereum": "0x86ed939b500e121c0c5f493f399084db596dad20"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The key to Space Chain is to deploy all blockchain nodes on satellites so as to bring blockchain technology into space, adding a new dimension to blockchain\u2019s core concept of distributed ledger by making use of space technology and advantages of space resources. \r\nAs a space blockchain platform featuring data collecting, computing, application and storage, Space Chain uses satellites as its blockchain nodes for realizing direct on-satellite data processing and secure in-space data storage through cryptographic technologies such as quantum communications. Different from ground-network-based blockchain technology, Space chain provides a broader coverage and is based on a network of LEO satellites for achieving broad-based connectivity so that anyone and anything could become the user of blockchain technology anywhere and anytime. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x86ed939b500e121c0c5f493f399084db596dad20",
+    "url": "http://spacechain.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x86ed939b500e121c0c5f493f399084db596dad20",
+        "https://ethplorer.io/address/0x86ed939b500e121c0c5f493f399084db596dad20"
+    ],
+    "twitter": "SpaceChain",
+    "facebook": "spacechainfound",
+    "telegram": "SpaceChainOfficial_EN",
+    "reddit": "SpaceChain/",
+    "github_org": "spacechain"
+}

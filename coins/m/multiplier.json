@@ -1,0 +1,25 @@
+{
+    "id": "multiplier",
+    "symbol": "mxx",
+    "name": "Multiplier",
+    "platforms": {
+        "ethereum": "0x8a6f3bf52a26a21531514e23016eeae8ba7e7018"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "No pre-mined, No pre-sale, and no ICO. Only through Minting"
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x8a6f3bf52a26a21531514e23016eeae8ba7e7018",
+    "url": "https://multiplier.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x8a6f3bf52a26a21531514e23016eeae8ba7e7018",
+        "https://ethplorer.io/address/0x8a6f3bf52a26a21531514e23016eeae8ba7e7018"
+    ],
+    "twitter": "MultiplierMXX",
+    "facebook": "themultiplierio",
+    "telegram": "themultiplierio",
+    "github_org": "Multiplier-Finance"
+}

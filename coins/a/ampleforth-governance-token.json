@@ -1,0 +1,27 @@
+{
+    "id": "ampleforth-governance-token",
+    "symbol": "forth",
+    "name": "Ampleforth Governance Token",
+    "platforms": {
+        "ethereum": "0x77fba179c79de5b7653f68b5039af940ada60ce0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Near Protocol Ecosystem",
+        "Governance"
+    ],
+    "description": {
+        "en": "FORTH is the native governance token that powers Ampleforth, a protocol that automatically adjusts the supply of its native token, AMPL, in response to demand. FORTH holders can vote on proposed changes to the Ampleforth protocol or delegate their votes to representatives who vote on their behalf."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
+    "url": "https://www.ampleforth.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x77fba179c79de5b7653f68b5039af940ada60ce0",
+        "https://ethplorer.io/address/0x77fba179c79de5b7653f68b5039af940ada60ce0"
+    ],
+    "twitter": "AmpleforthOrg",
+    "telegram": "Ampleforth",
+    "github_org": "ampleforth"
+}

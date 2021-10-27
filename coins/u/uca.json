@@ -1,0 +1,20 @@
+{
+    "id": "uca",
+    "symbol": "uca",
+    "name": "UCA Coin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Coin of the United Crypto Alliance"
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "url": "https://ucacoin.com",
+    "explorers": [
+        "https://blockexplorer.ucacoin.cash"
+    ],
+    "github_org": "ucacoin"
+}

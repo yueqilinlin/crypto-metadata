@@ -1,0 +1,22 @@
+{
+    "id": "guardian-token",
+    "symbol": "guard",
+    "name": "Guardian Token",
+    "platforms": {
+        "binance-smart-chain": "0xf606bd19b1e61574ed625d9ea96c841d4e247a32"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Guardian is the 2nd token within the Wolf Den ecosystem. It serves as the farming token with the purpose of helping investors build a legacy of wealth while helping them mitigate the risks of the typical crypto spacing through education. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf606bd19b1e61574ed625d9ea96c841d4e247a32",
+    "url": "https://www.wolfdencrypto.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xf606bd19b1e61574ed625d9ea96c841d4e247a32"
+    ],
+    "twitter": "wolfdencrypto",
+    "telegram": "wolfiestokenchat"
+}

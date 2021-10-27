@@ -1,0 +1,25 @@
+{
+    "id": "beowulf",
+    "symbol": "bwf",
+    "name": "Beowulf",
+    "platforms": {
+        "ethereum": "0xf7e04d8a32229b4ca63aa51eea9979c7287fea48"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Beowulf is a B2B decentralized cloud platform built by combining global computing resources into a supercomputer network on the blockchain for communication services."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xf7e04d8a32229b4ca63aa51eea9979c7287fea48",
+    "url": "https://beowulfchain.com",
+    "explorers": [
+        "https://etherscan.io/token/0xF7E04D8a32229B4cA63aA51eEA9979C7287FEa48",
+        "https://ethplorer.io/address/0xf7e04d8a32229b4ca63aa51eea9979c7287fea48"
+    ],
+    "twitter": "BeowulfChain",
+    "facebook": "beowulfchain",
+    "telegram": "BeowulfBlockChain",
+    "github_org": "beowulf-foundation"
+}

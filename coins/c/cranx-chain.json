@@ -1,0 +1,24 @@
+{
+    "id": "cranx-chain",
+    "symbol": "granx",
+    "name": "GranX Chain",
+    "platforms": {
+        "ethereum": "0xbd668ec47e10d3bf23b1d68139e545162a0dfcfa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Super-connected platform that connects all the values of the world around Focusing on the unique \"me\u201c\r\n\r\nGenerating Real Authentication & Connection"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbd668ec47e10d3bf23b1d68139e545162a0dfcfa",
+    "url": "http://granc-chain.com/home_eng",
+    "explorers": [
+        "https://etherscan.io/token/0xbd668ec47e10d3bf23b1d68139e545162a0dfcfa",
+        "https://ethplorer.io/address/0xbd668ec47e10d3bf23b1d68139e545162a0dfcfa"
+    ],
+    "twitter": "granxchain",
+    "telegram": "granx_chain",
+    "github_org": "granx-chain"
+}

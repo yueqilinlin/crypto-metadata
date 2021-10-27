@@ -1,0 +1,25 @@
+{
+    "id": "foresight",
+    "symbol": "fors",
+    "name": "Foresight",
+    "platforms": {
+        "ethereum": "0xb1ec548f296270bc96b8a1b3b3c8f3f04b494215"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Insurance"
+    ],
+    "description": {
+        "en": "Secure your funds with Foresight - bringing insurance to DeFi, preventing scammers."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb1ec548f296270bc96b8a1b3b3c8f3f04b494215",
+    "url": "https://foresightdefi.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xb1EC548F296270BC96B8A1b3b3C8F3f04b494215",
+        "https://ethplorer.io/address/0xb1ec548f296270bc96b8a1b3b3c8f3f04b494215"
+    ],
+    "twitter": "ForesightDeFi",
+    "telegram": "ForeSightCrypto"
+}

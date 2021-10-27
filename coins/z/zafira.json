@@ -1,0 +1,23 @@
+{
+    "id": "zafira",
+    "symbol": "zfai",
+    "name": "Zafira",
+    "platforms": {
+        "binance-smart-chain": "0x205cd59eea8e8c5083f16d20e1050fd4a7d72037"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x205cd59eea8e8c5083f16d20e1050fd4a7d72037",
+    "url": "https://zaigar.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x205cD59eEA8e8c5083f16D20e1050fD4a7d72037"
+    ],
+    "twitter": "ZaigarF",
+    "telegram": "zaigarbounty",
+    "github_org": "zaigar-finance"
+}

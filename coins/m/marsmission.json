@@ -1,0 +1,24 @@
+{
+    "id": "marsmission",
+    "symbol": "marsm",
+    "name": "MarsMission",
+    "platforms": {
+        "binance-smart-chain": "0x82eb29d3eb0719af341f6b18c0d9d749c0cd16b6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MarsMission is community driven and deployed on the BinanceSmartChain to ensure a seamless experience where everyone can trade with low gas fees. It is also 100% community driven so everyone is welcome to contribute without asking the permission from the dev."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x82eb29d3eb0719af341f6b18c0d9d749c0cd16b6",
+    "url": "https://marsmission.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x82eb29d3eb0719af341f6b18c0d9d749c0cd16b6"
+    ],
+    "twitter": "MarsMissionBSC",
+    "telegram": "marsmission_financeBSC",
+    "reddit": "CryptoMarsMission/",
+    "github_org": "marsmissionSolidity"
+}

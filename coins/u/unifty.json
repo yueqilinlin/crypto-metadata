@@ -1,0 +1,27 @@
+{
+    "id": "unifty",
+    "symbol": "nif",
+    "name": "Unifty",
+    "platforms": {
+        "ethereum": "0x7e291890b01e5181f7ecc98d79ffbe12ad23df9e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "xDAI Ecosystem",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "NIF is a utility token for the Unifty NFT ecosystem."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x7e291890b01e5181f7ecc98d79ffbe12ad23df9e",
+    "url": "https://unifty.io",
+    "explorers": [
+        "https://etherscan.io/token/0x7e291890b01e5181f7ecc98d79ffbe12ad23df9e",
+        "https://ethplorer.io/address/0x7e291890b01e5181f7ecc98d79ffbe12ad23df9e"
+    ],
+    "twitter": "unifty_com",
+    "telegram": "unifty"
+}

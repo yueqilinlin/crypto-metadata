@@ -1,0 +1,23 @@
+{
+    "id": "faircoin",
+    "symbol": "fair",
+    "name": "Faircoin",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": "FairCoin uses a 'Proof-of-Cooperation' (PoC) mechanism, which reportedly consumes less energy and enables faster transactions. The project aims to be the most ecologically-friendly and resilient cryptocurrency."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-03-04",
+    "url": "https://fairco.in/",
+    "explorers": [
+        "https://explorer.fairco.in/",
+        "https://chain.fair.to/"
+    ],
+    "twitter": "FairCoinTeam",
+    "facebook": "FairCoinOfficial",
+    "telegram": "faircoineconomy",
+    "reddit": "faircoin",
+    "github_org": "faircoin"
+}

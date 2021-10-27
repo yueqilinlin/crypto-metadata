@@ -1,0 +1,27 @@
+{
+    "id": "ardcoin",
+    "symbol": "ardx",
+    "name": "ArdCoin",
+    "platforms": {
+        "ethereum": "0xb8e2e2101ed11e9138803cd3e06e16dd19910647"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "ArdCoin (ARDX) - is an innovative blockchain-based loyalty program that has been integrated into a mobile super wallet which is backed by an existing financial infrastructure which includes banking services, insurance provider, stock brokerage, investment banking and a pension fund. Ard App offers e-commerce on top of financial services and is supported by a nationwide network of postal branches. \r\nArdCoin will serve as a blockchain-based loyalty program for all existing and future services and products of Ard Financial Group (Ard Holdings), its subsidiaries and ArdCoin merchants."
+    },
+    "country_origin": "MN",
+    "genesis_date": null,
+    "contract_address": "0xb8e2e2101ed11e9138803cd3e06e16dd19910647",
+    "url": "https://ardcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xb8e2e2101ed11e9138803cd3e06e16dd19910647",
+        "https://ethplorer.io/address/0xb8e2e2101ed11e9138803cd3e06e16dd19910647"
+    ],
+    "twitter": "ard_coin",
+    "facebook": "ardbitglobal",
+    "telegram": "ardcoin",
+    "github_org": "ArdCoin"
+}

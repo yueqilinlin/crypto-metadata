@@ -1,0 +1,22 @@
+{
+    "id": "mmacoin",
+    "symbol": "MMA",
+    "name": "MMACoin",
+    "platforms": {
+        "binance-smart-chain": "0x270a84dcdfb305cc68be21e767ef11aac5dc5cf0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$MMA is a deflationary cryptocurrency on the Binance Smart Chain (BSC)\r\n\r\nVision\r\nTo become the official cryptocurrency of MMA\r\n\r\nMission\r\nMMACOIN will provide charitable contributions to children\u2019s charities on a regular basis, bring the MMA industry into the crypto world, help fighters earn money via NFTs, and provide passive income and rewards to $MMA holders"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x270a84dcdfb305cc68be21e767ef11aac5dc5cf0",
+    "url": "https://www.mmacoin.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x270a84dcdfb305cc68be21e767ef11aac5dc5cf0"
+    ],
+    "twitter": "MMACoinOfficial",
+    "telegram": "MMACOINOfficial1"
+}

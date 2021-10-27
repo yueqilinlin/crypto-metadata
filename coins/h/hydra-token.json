@@ -1,0 +1,22 @@
+{
+    "id": "hydra-token",
+    "symbol": "hyd",
+    "name": "Hydraledger",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": "It\u2019s time to reverse the centralisation, the indiscriminate commodification of data, and in particular the erosion of personal privacy that sadly have become hallmarks of today\u2019s digital world. It is time for the open, borderless, and secure identity verification of self-sovereign identity.\r\n\r\nThe IOP Network is the new open standard for digital identity \u2013 built on fundamentals provided by organizations such as W3C to provide decentralized self-sovereign identity and trust solutions via an interdependent ecosystem of open protocols, decentralized tools, and services built with the latest cryptographic technologies and secured by the permissionless Hydra blockchain and token.\r\n\r\nThe IOP stack give anyone full control over their identities and their personal and professional connections. Anyone can use IOP to present verifiable claims without the need for a third party or compromising their privacy. This will revolutionize a wide range of industries, as well as providing access to proof of identity, credentials, and ownership to billions of currently underserved people.\r\n\r\n\u201cSelf-sovereign\u201d means self-ownership of the individual identity holder.\r\nIt is a model for managing digital identities in which an individual or entity has sole ownership over the ability to control their accounts and personal data."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "url": "http://hydraledger.io/",
+    "explorers": [
+        "https://explorer.hydraledger.io/"
+    ],
+    "twitter": "hydraledger",
+    "facebook": "IoPGlobal",
+    "telegram": "hydraledger",
+    "reddit": "IoP_Community/",
+    "github_org": "Internet-of-People"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "cvcoin",
+    "symbol": "cvn",
+    "name": "CVCoin",
+    "platforms": {
+        "bitshares": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CVCoin is a unique crypto-token designed for the new generation of encrypted instant communication networks"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://crypviser.network/",
+    "explorers": [
+        "https://openledger.io/asset/CVN",
+        "https://cryptofresh.com/"
+    ],
+    "twitter": "cvcoin_ico",
+    "telegram": "crypviser_group",
+    "reddit": "Crypviser"
+}

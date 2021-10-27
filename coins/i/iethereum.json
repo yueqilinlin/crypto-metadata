@@ -1,0 +1,24 @@
+{
+    "id": "iethereum",
+    "symbol": "ieth",
+    "name": "iEthereum",
+    "platforms": {
+        "ethereum": "0xc71d8baaa436aa7e42da1f40bec48f11ab3c9e4a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "iEthereum is decentralized worldwide cryptocurrency, based on the Ethereum structure.\r\nIt enables real-time, peer-to-peer value exchange and payment services across both fiat money and decentralized currencies,\r\nalso across jurisdictions and organizational silos. iETH provides a next-generation value transfer service operating across currencies and asset types.\r\nThrough the iEthereum, anyone will be able to conduct financial transactions such as payments, remittances, payroll deposit, B2B commerce,\r\nsupply-chain finance, loyalty programs, asset management and trading, and other on-demand services, in a completely decentralized and inexpensive way.\r\nAlso, it\u2019s fully compatible with all Ethereum wallets which support ERC20 Tokens or smart-contracts that uses the ERC20 Standard."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-10-13",
+    "contract_address": "0xc71d8baaa436aa7e42da1f40bec48f11ab3c9e4a",
+    "url": "https://iethereum.trade/",
+    "explorers": [
+        "https://etherscan.io/token/0xc71d8baaa436aa7e42da1f40bec48f11ab3c9e4a",
+        "https://ethplorer.io/address/0xc71d8baaa436aa7e42da1f40bec48f11ab3c9e4a"
+    ],
+    "twitter": "iethereum",
+    "telegram": "iethereum_official",
+    "github_org": "ethereumfan"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "starminer-ore-token",
+    "symbol": "ore",
+    "name": "StarMiner ORE Token",
+    "platforms": {
+        "binance-smart-chain": "0xd50f71d0cc64c228074332cd3c597a63556bdb67"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "StarMiner is a Play-to-Earn NFT mining game built on the Binance Smart Chain platform. The game revolves around gaining ore resources by acquiring miners to mine. Players can use their assets to buy miners, enter space, and earn ORE Token. StarMiner Characters are NFTs owned by players and minted according to the ERC-721 standard, which can be exchanged on the proprietary market.\r\nAll StarMiner Characters are born from the BOXes, Players must first purchase the Box with the $ORE token. Once a Box is opened, a unique StarMiner Character (SMC) NFT is minted. Each SMC has a unique genome that defines how it looks and how rare it is.\r\nStarMiner has 4 mineral planets: Murchison, Allende, Peekskill, Orgueil. You can choose any of them for mining. Winning rate is crucial for more rewards, you\u2019d better pay attention to calculate it and choose the mineral planet wisely to get more rewards!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd50f71d0cc64c228074332cd3c597a63556bdb67",
+    "url": "https://starminer.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xD50f71d0Cc64C228074332cd3c597a63556BdB67"
+    ],
+    "twitter": "StarMiner_io",
+    "telegram": "StarMiner_io_Official",
+    "reddit": "StarMiner_IO",
+    "github_org": "StarMinerIO"
+}

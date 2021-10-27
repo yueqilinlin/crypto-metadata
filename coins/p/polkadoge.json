@@ -1,0 +1,27 @@
+{
+    "id": "polkadoge",
+    "symbol": "pdoge",
+    "name": "PolkaDoge",
+    "platforms": {
+        "ethereum": "0x1be66c15731788bae659b4bdd40d4aa9b3bbca94"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Multichain NFT Market on ETH,XDAI,MATIC BNB and soon on many network"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1be66c15731788bae659b4bdd40d4aa9b3bbca94",
+    "url": "https://polkadoge.info/",
+    "explorers": [
+        "https://etherscan.io/token/0x1be66c15731788bae659b4bdd40d4aa9b3bbca94",
+        "https://ethplorer.io/address/0x1be66c15731788bae659b4bdd40d4aa9b3bbca94"
+    ],
+    "twitter": "polkadogee",
+    "telegram": "polkadogee",
+    "reddit": "polkadoge/"
+}

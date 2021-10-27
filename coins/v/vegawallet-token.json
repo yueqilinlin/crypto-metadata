@@ -1,0 +1,26 @@
+{
+    "id": "vegawallet-token",
+    "symbol": "vgw",
+    "name": "VegaWallet Token",
+    "platforms": {
+        "ethereum": "0x94236591125e935f5ac128bb3d5062944c24958c"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "VegaWallet is a Global Leader in Providing Real World Applications for Blockchain Based Payment Systems. The Backbone of Our Platform is Powered By Our VGW Token."
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "contract_address": "0x94236591125e935f5ac128bb3d5062944c24958c",
+    "url": "https://vegawallet.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x94236591125e935f5ac128bb3d5062944c24958c",
+        "https://ethplorer.io/address/0x94236591125e935f5ac128bb3d5062944c24958c"
+    ],
+    "twitter": "VegaWallet",
+    "facebook": "VegaWallet",
+    "telegram": "VegaWalletSupport",
+    "reddit": "VegaWallet",
+    "github_org": "VegaWallet"
+}

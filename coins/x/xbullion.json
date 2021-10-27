@@ -1,0 +1,23 @@
+{
+    "id": "xbullion",
+    "symbol": "gold",
+    "name": "XBullion",
+    "platforms": {
+        "ethereum": "0x670f9d9a26d3d42030794ff035d35a67aa092ead"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bullion is a coin that is backed by gold that exists in the real world, essentially making it a tokenized form of a real world asset. Gold bullion can be redeemed using GOLD tokens, and all gold is audited by BDO to ensure that ownership is legitimate. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x670f9d9a26d3d42030794ff035d35a67aa092ead",
+    "url": "https://xbullion.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x670f9d9a26d3d42030794ff035d35a67aa092ead",
+        "https://ethplorer.io/address/0x670f9d9a26d3d42030794ff035d35a67aa092ead"
+    ],
+    "twitter": "x_bullion",
+    "facebook": "xbullion"
+}

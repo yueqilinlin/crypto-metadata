@@ -1,0 +1,26 @@
+{
+    "id": "holdtowin",
+    "symbol": "7add",
+    "name": "Holdtowin",
+    "platforms": {
+        "ethereum": "0xed36482c7f8e5850e91ac0cf6bf2130a1aa2df92"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xed36482c7f8e5850e91ac0cf6bf2130a1aa2df92",
+    "url": "https://holdtowin.eth.link/",
+    "explorers": [
+        "https://etherscan.io/token/0xEd36482c7F8E5850e91aC0Cf6BF2130A1aA2DF92",
+        "https://ethplorer.io/address/0xed36482c7f8e5850e91ac0cf6bf2130a1aa2df92"
+    ],
+    "twitter": "hold_win",
+    "telegram": "sevenADDtoken",
+    "github_org": "7ADD-TOKEN"
+}

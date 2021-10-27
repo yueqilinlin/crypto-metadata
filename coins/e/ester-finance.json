@@ -1,0 +1,24 @@
+{
+    "id": "ester-finance",
+    "symbol": "est",
+    "name": "Ester Finance",
+    "platforms": {
+        "fantom": "0x181f3f22c9a751e2ce673498a03e1fdfc0ebbfb6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fantom Ecosystem"
+    ],
+    "description": {
+        "en": "Ester.Finance is a Decentralized Finance (DeFi) Yield Optimizer project on the Fantom Opera Blockchain. Ester can make you earn more crypto with crypto. Through a set of smart contracts and several investment strategies, Ester.Finance automatically maximizes the user rewards from various liquidity pools (LPs), automated market making (AMM) projects, and other yield farming opportunities in the DeFi ecosystem. This provides a huge advantage over attempting to do this manually yourself.\r\nThe project consists of an anonymous team, directly inspired by the yield optimization projects that had been developed on the Ethereum and Binance Smart Chain such as Yearn, Auto and Beefy."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x181f3f22c9a751e2ce673498a03e1fdfc0ebbfb6",
+    "url": "https://ester.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0x181f3f22c9a751e2ce673498a03e1fdfc0ebbfb6"
+    ],
+    "twitter": "EsterFinance",
+    "github_org": "esterfinance"
+}

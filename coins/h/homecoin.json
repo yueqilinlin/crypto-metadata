@@ -1,0 +1,25 @@
+{
+    "id": "homecoin",
+    "symbol": "home",
+    "name": "HomeCoin",
+    "platforms": {
+        "ethereum": "0xaf585c15dab8c363087c572758ac75e82c467579"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The RuufPay Protocol is being designed to bridge the gap between real estate and cryptocurrency. The first leg of growth is from the RuufPay Wallet, a mobile application being designed with a simple user interface for landlords and tenants to collect and pay rent with RuufPay's native token, Home Coin, in a seamless fashion. Users will be able to stake Home Coin in the mobile wallet and apply staking rewards directly towards rental payments, giving them a discount on their monthly rent."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaf585c15dab8c363087c572758ac75e82c467579",
+    "url": "https://ruufpay.app/",
+    "explorers": [
+        "https://etherscan.io/token/0xAF585c15daB8C363087c572758AC75E82C467579",
+        "https://ethplorer.io/address/0xAF585c15daB8C363087c572758AC75E82C467579"
+    ],
+    "twitter": "ruufpay",
+    "telegram": "ruufpay_app",
+    "reddit": "ruufpay/",
+    "github_org": "ruufpay"
+}

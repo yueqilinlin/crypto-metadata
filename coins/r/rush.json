@@ -1,0 +1,24 @@
+{
+    "id": "rush",
+    "symbol": "ruc",
+    "name": "Rush",
+    "platforms": {
+        "ethereum": "0x395768aeb16484e5785612a98e9408e4cc1269ec"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rush is an ERC-20 token backed by aggregate quarries to provide stability that is not common among cryptocurrencies. While other assets are prone to market volatility, Rush can establish a stable price due to being backed by a consistently valued asset.\r\n\r\nRush is a mintable ERC-20 token which enables the creation of new tokens to be added to the currency\u2019s max supply, while the supply of other ERC-20 tokens is fixed. This function opens up a range of very promising possibilities for Rush tokens."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x395768aeb16484e5785612a98e9408e4cc1269ec",
+    "url": "https://therush.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x395768AeB16484E5785612a98E9408e4Cc1269Ec",
+        "https://ethplorer.io/address/0x395768AeB16484E5785612a98E9408e4Cc1269Ec"
+    ],
+    "twitter": "rushmintable",
+    "facebook": "Rush-Mintable-101301968400935",
+    "telegram": "RUSHCOINGLOBAL"
+}

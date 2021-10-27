@@ -1,0 +1,23 @@
+{
+    "id": "xp-network",
+    "symbol": "xpnet",
+    "name": "XP Network",
+    "platforms": {
+        "binance-smart-chain": "0x8cf8238abf7b933bf8bb5ea2c7e4be101c11de2a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XP.network is the first blockchain-agnostic NFT ecosystem. It enables multichain support out of the box for any minted NFT, dApp or use case, allowing NFTs and funds to flow freely between networks and wallets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8cf8238abf7b933bf8bb5ea2c7e4be101c11de2a",
+    "url": "https://xp.network",
+    "explorers": [
+        "https://bscscan.com/token/0x8cf8238abf7b933Bf8BB5Ea2C7E4Be101c11de2A"
+    ],
+    "twitter": "xpnetwork_",
+    "telegram": "xp_network",
+    "github_org": "xp-network"
+}

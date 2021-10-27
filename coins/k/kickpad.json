@@ -1,0 +1,24 @@
+{
+    "id": "kickpad",
+    "symbol": "kpad",
+    "name": "KickPad",
+    "platforms": {
+        "binance-smart-chain": "0xcfefa64b0ddd611b125157c41cd3827f2e8e8615"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad"
+    ],
+    "description": {
+        "en": "The native token of the KickPad ecosystem. A high-powered IDO Launchpad that allows KPAD holders access to private sale rounds, as well as a rugpull-mitigating open-source DEX."
+    },
+    "country_origin": "GE",
+    "genesis_date": null,
+    "contract_address": "0xcfefa64b0ddd611b125157c41cd3827f2e8e8615",
+    "url": "https://thekickpad.com",
+    "explorers": [
+        "https://bscscan.com/token/0xcfefa64b0ddd611b125157c41cd3827f2e8e8615"
+    ],
+    "twitter": "kickpad_org",
+    "telegram": "kick_pad"
+}

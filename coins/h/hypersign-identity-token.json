@@ -1,0 +1,27 @@
+{
+    "id": "hypersign-identity-token",
+    "symbol": "hid",
+    "name": "Hypersign Identity Token",
+    "platforms": {
+        "ethereum": "0xb14ebf566511b9e6002bb286016ab2497b9b9c9d",
+        "polygon-pos": "0x87847703d4bb4fcd42db887ffdcb94496e77e3ab"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Hypersign is a decentralised Identity & Access Management Security solution that is simple to use and stores user data in a manner that is ONLY accessible by the owner and it's intended recipients."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0xb14ebf566511b9e6002bb286016ab2497b9b9c9d",
+    "url": "https://hypersign.id/",
+    "explorers": [
+        "https://etherscan.io/token/0xb14ebf566511b9e6002bb286016ab2497b9b9c9d",
+        "https://ethplorer.io/address/0xb14ebf566511b9e6002bb286016ab2497b9b9c9d"
+    ],
+    "twitter": "hypersignchain",
+    "telegram": "hypersignchain",
+    "github_org": "hypersign-protocol"
+}

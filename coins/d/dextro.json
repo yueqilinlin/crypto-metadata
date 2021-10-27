@@ -1,0 +1,21 @@
+{
+    "id": "dextro",
+    "symbol": "dxo",
+    "name": "Dextro",
+    "platforms": {},
+    "hashing_algorithm": "Skunkhash",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "url": "https://dextro.io/",
+    "explorers": [
+        "http://explorer.dextro.io/"
+    ],
+    "twitter": "dextro_core",
+    "github_org": "dextrocoin"
+}

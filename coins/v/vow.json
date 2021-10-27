@@ -1,0 +1,22 @@
+{
+    "id": "vow",
+    "symbol": "vow",
+    "name": "Vow",
+    "platforms": {
+        "ethereum": "0x1bbf25e71ec48b84d773809b4ba55b6f4be946fb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Vow aims to change the world by decentralizing the issuance of currency."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1bbf25e71ec48b84d773809b4ba55b6f4be946fb",
+    "url": "https://vowcurrency.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1BBf25e71EC48B84d773809B4bA55B6F4bE946Fb",
+        "https://ethplorer.io/address/0x1BBf25e71EC48B84d773809B4bA55B6F4bE946Fb"
+    ],
+    "twitter": "vowcurrency"
+}

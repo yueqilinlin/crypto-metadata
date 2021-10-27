@@ -1,0 +1,27 @@
+{
+    "id": "bunicorn",
+    "symbol": "buni",
+    "name": "Bunicorn",
+    "platforms": {
+        "binance-smart-chain": "0x0e7beec376099429b85639eb3abe7cf22694ed49"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "Bunicorn is an intense DEFI Game platform that elevates DEFI and blockchain gaming experience to the next level. \r\n\r\nWithin Bunicorn Ecosystem \r\n* Bunicorn RPG game is designed for the \u201cPlay to earn\u201d purpose while teleporting users to a magical \u201cBunicorn\u201d world with exquisite NFT collectibles.\r\n* Bunicorn exchange is a highly performed AMM DEX that offers investors yield-earning opportunities through liquidity pools and liquidity farm mining with unique time-locked rewards wrapped into tradable NFTs."
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0x0e7beec376099429b85639eb3abe7cf22694ed49",
+    "url": "https://buni.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x0e7beec376099429b85639eb3abe7cf22694ed49"
+    ],
+    "twitter": "bunicornswap",
+    "telegram": "bunicornswap_en",
+    "github_org": "bunicorndefi"
+}

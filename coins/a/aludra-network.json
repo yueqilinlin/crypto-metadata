@@ -1,0 +1,26 @@
+{
+    "id": "aludra-network",
+    "symbol": "ald",
+    "name": "Aludra Network",
+    "platforms": {
+        "ethereum": "0xb339fca531367067e98d7c4f9303ffeadff7b881"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Aludra is a decentralized network where financial instruments are traded. We provide services and trust in OTC sales for cryptocurrency. And is prioritized to make services that are easy for all users, especially to buy coins or cryptocurrency tokens that are safe in OTC sales. Using Aludra Network (ALD) tokens will certainly have its own advantages in OTC transactions.\r\n\r\nThe Aludra Network platform uses an OTC sales system with enhanced security features that are maintained, and creates trust between buyers and sellers."
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0xb339fca531367067e98d7c4f9303ffeadff7b881",
+    "url": "https://aludra.network",
+    "explorers": [
+        "https://etherscan.io/token/0xb339FcA531367067e98d7c4f9303Ffeadff7B881",
+        "https://ethplorer.io/address/0xb339FcA531367067e98d7c4f9303Ffeadff7B881"
+    ],
+    "twitter": "AludraNetwork",
+    "telegram": "AludraNetwork",
+    "github_org": "aludra-network"
+}

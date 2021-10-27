@@ -1,0 +1,25 @@
+{
+    "id": "comsa",
+    "symbol": "cms",
+    "name": "COMSA",
+    "platforms": {
+        "ethereum": "0xf83301c5cd1ccbb86f466a6b3c53316ed2f8465a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf83301c5cd1ccbb86f466a6b3c53316ed2f8465a",
+    "url": "https://comsa.io/en/",
+    "explorers": [
+        "https://etherscan.io/token/0xf83301c5cd1ccbb86f466a6b3c53316ed2f8465a",
+        "https://ethplorer.io/address/0xf83301c5cd1ccbb86f466a6b3c53316ed2f8465a"
+    ],
+    "twitter": "comsaglobal",
+    "facebook": "comsaio",
+    "telegram": "comsaio",
+    "reddit": "COMSA"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "sxrp",
+    "symbol": "sxrp",
+    "name": "sXRP",
+    "platforms": {
+        "ethereum": "0xa2b0fde6d710e201d0d608e924a484d1a5fed57c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synths",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Tracks the price of Ripple (XRP) through price feeds supplied by an oracle.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa2b0fde6d710e201d0d608e924a484d1a5fed57c",
+    "url": "https://www.synthetix.io/tokens/",
+    "explorers": [
+        "https://etherscan.io/token/0xa2B0fDe6D710e201d0d608e924A484d1A5fEd57c",
+        "https://ethplorer.io/address/0xa2b0fde6d710e201d0d608e924a484d1a5fed57c"
+    ],
+    "twitter": "synthetix_io",
+    "reddit": "synthetix_io"
+}

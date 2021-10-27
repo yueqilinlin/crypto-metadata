@@ -1,0 +1,25 @@
+{
+    "id": "smscodes",
+    "symbol": "smsct",
+    "name": "SMSCodes",
+    "platforms": {
+        "ethereum": "0x668f7dfb8c8d716839fa5dbea317d8723ebe6110"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SMSCodes.io not only provides their users with the utmost privacy and protection while navigating the world wide web by providing private phone numbers, but now also offers a way to purchase additional privacy and protection using the SMSCodes.io Token while having the added ability to store wealth in a non-government controlled crypto currency."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x668f7dfb8c8d716839fa5dbea317d8723ebe6110",
+    "url": "https://crypto.smscodes.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x668f7dfb8c8d716839fa5dbea317d8723ebe6110",
+        "https://ethplorer.io/address/0x668f7dfb8c8d716839fa5dbea317d8723ebe6110"
+    ],
+    "twitter": "SMSCodesio",
+    "telegram": "smscodesio",
+    "reddit": "SMSCodesio/",
+    "github_org": "Globalebill"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "sqgl-vault-nftx",
+    "symbol": "sqgl",
+    "name": "SQGL Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0x8d137e3337eb1b58a222fef2b2cc7c423903d9cf"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "SQGL Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8d137e3337eb1b58a222fef2b2cc7c423903d9cf",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x8d137e3337eb1B58A222Fef2B2Cc7C423903d9cf",
+        "https://ethplorer.io/address/0x8d137e3337eb1b58a222fef2b2cc7c423903d9cf"
+    ],
+    "twitter": "nftx_"
+}

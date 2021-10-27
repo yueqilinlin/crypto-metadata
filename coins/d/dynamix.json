@@ -1,0 +1,24 @@
+{
+    "id": "dynamix",
+    "symbol": "dyna",
+    "name": "Dynamix",
+    "platforms": {
+        "binance-smart-chain": "0xc41689a727469c1573009757200371edf36d540e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dynamix, The first token created with an evolving algorithm based on events. Increases Rewards system, Decreases Sell fees, Scalable buyback and burn system."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc41689a727469c1573009757200371edf36d540e",
+    "url": "https://dynamix.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xc41689A727469C1573009757200371edf36D540e"
+    ],
+    "twitter": "Dynamixarmy",
+    "telegram": "DynamixToken",
+    "reddit": "Dynamixarmy/",
+    "github_org": "dynamixtoken"
+}

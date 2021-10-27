@@ -1,0 +1,23 @@
+{
+    "id": "polybeta-finance",
+    "symbol": "beta",
+    "name": "PolyBeta Finance",
+    "platforms": {
+        "polygon-pos": "0xac3090b7042fca2cdbf233022e4a9823a032600c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PolyBeta Finance is the second layer (L2) of PolyAlpha Finance's community-led stable-yield farming protocol established exclusively on the Polygon ecosystem. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xac3090b7042fca2cdbf233022e4a9823a032600c",
+    "url": "https://polybeta.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0xac3090b7042fca2cdbf233022e4a9823a032600c"
+    ],
+    "twitter": "PolyAlphaFi",
+    "telegram": "PolyAlphaFi",
+    "github_org": "PolyAlphaFinance"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "gulden",
+    "symbol": "nlg",
+    "name": "Gulden",
+    "platforms": {},
+    "hashing_algorithm": "Sigma",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Gulden is a second-generation peer-to-peer cryptocurrency which was created to provide a secure, simple and fast method of performing financial transactions between private individuals, customers & service providers and also corporate entities. Like many recent cryptocurrencies, the primary design criteria were to improve the security and usability of the currency and its underlying transaction authorisation technology (when compared to the original cryptocurrency - <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>). The purpose of these changes was to simplify use and increase its adoption as a convenient, cheap and safe form of payment.\r\n\r\nThe original initiative for this currency came from Rijk Plasman with the first working implementation released on the 4th April 2014. Initially called the \u201cGulden coin\u201d, this was subsequently abbreviated in October 2015 to \u201cGulden\u201d. The name Gulden comes from the German and Dutch term for \u201cgold coin\u201d and is the Dutch name of the Dutch guilder, the pre-euro currency of the Netherlands.\r\n\r\nGulden Coin is the currency that enables the user to pay safely, conveniently and quickly. Moreover, it is a lucrative investment opportunity at the moment, considering that since entering the market in 2016 the developers have increased to a market capital of 39,883,259 USD with about 800,000 USD. The model of making cryptocurrencies accessible to ordinary consumers in the future holds enormous potential in the fintech sector."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-03-29",
+    "url": "https://gulden.com/",
+    "explorers": [
+        "https://dactual.com/",
+        "https://explorer.gulden.com/",
+        "https://nlg.tokenview.com/"
+    ],
+    "twitter": "gulden",
+    "facebook": "guldencoin",
+    "telegram": "guldentalk",
+    "reddit": "GuldenCommunity",
+    "github_org": "Gulden"
+}

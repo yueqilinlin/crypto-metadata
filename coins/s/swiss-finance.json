@@ -1,0 +1,24 @@
+{
+    "id": "swiss-finance",
+    "symbol": "swiss",
+    "name": "swiss.finance",
+    "platforms": {
+        "ethereum": "0x692eb773e0b5b7a79efac5a015c8b36a2577f65c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "What is SWISS ?\r\n\u2022 SWISS is a farming protocol implementing liquidity and price arbitrages features in its own ecosystem thanks to new concepts such as Proof of Volume.\r\n\r\nHow does it work ?\r\n\u2022 SWISS allows users to farm while the protocol arbitrates in price and liquidity for the ecosystem to grow making it not only a deflationary farming platform but also delivering an exponential growth to the ecosystem.\r\n\r\nWhat is the added value for users ?\r\n\u2022 Each time a user buys or sells SWISS, 3% is withdrawn in the form of SWISS and put back into two wallets (2% and 1%) that arbitrages automatically thanks to a code."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x692eb773e0b5b7a79efac5a015c8b36a2577f65c",
+    "url": "http://swissfarming.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x692eb773e0b5b7a79efac5a015c8b36a2577f65c",
+        "https://ethplorer.io/address/0x692eb773e0b5b7a79efac5a015c8b36a2577f65c"
+    ],
+    "twitter": "swiss__finance",
+    "telegram": "swissfinancefarming",
+    "github_org": "swiss-finance"
+}

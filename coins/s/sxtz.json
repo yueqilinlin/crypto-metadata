@@ -1,0 +1,26 @@
+{
+    "id": "sxtz",
+    "symbol": "sxtz",
+    "name": "sXTZ",
+    "platforms": {
+        "ethereum": "0xf45b14ddabf0f0e275e215b94dd24ae013a27f12"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synths",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Synthetic XTZ by Synthetix\r\n\r\nTracks the price of Tezos through price feeds supplied by an oracle.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf45b14ddabf0f0e275e215b94dd24ae013a27f12",
+    "url": "https://www.synthetix.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xF45B14ddaBF0F0e275E215b94dD24Ae013a27F12",
+        "https://ethplorer.io/address/0xf45b14ddabf0f0e275e215b94dd24ae013a27f12"
+    ],
+    "twitter": "synthetix_io",
+    "reddit": "synthetix_io"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "dogemongo-solana",
+    "symbol": "dogo",
+    "name": "DogemonGo Solana",
+    "platforms": {
+        "solana": "5LSFpvLDkcdV2a3Kiyzmg5YmJsj2XDLySaXvnfP1cgLT"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "5LSFpvLDkcdV2a3Kiyzmg5YmJsj2XDLySaXvnfP1cgLT",
+    "url": "https://dogemongo.com/",
+    "explorers": [
+        "https://solscan.io/token/5LSFpvLDkcdV2a3Kiyzmg5YmJsj2XDLySaXvnfP1cgLT"
+    ],
+    "twitter": "DogemonGoApp",
+    "telegram": "dogemongoapp",
+    "reddit": "dogemongoapp"
+}

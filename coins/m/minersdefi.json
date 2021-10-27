@@ -1,0 +1,23 @@
+{
+    "id": "minersdefi",
+    "symbol": "miners",
+    "name": "MinersDefi",
+    "platforms": {
+        "binance-smart-chain": "0xeb6b00f8c7e1da78fb919c810c30dde95475bdde"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$MINERS is a utility token for the Bitcoin mining community, powering the first algorithmic decentralized collective for hydropower-fueled Bitcoin mining. Each transaction has a tax which is put into a dedicated Bitcoin Wallet which is then used to purchase BTC Mining equipment to mine BTC. All profits from mining BTC are used to re-purchase and burn $MINERS tokens, raising the value for all token holders, providing reflections in BTC and increasing the liquidity of the $MINERS token. In addition, $MINERS plans on launching a community app for voting, NFT platform, and game utilizing the NFTs minted.\r\n\r\nMINERS is a BSC utility token that is used for:\r\n* Receiving a share in the Bitcoin rewards from our mining, in proportion to the number of $MINERS tokens held.\r\n* Will be used for future community voting and governance purposes.\r\n* Will be used to purchase collectible NFT\u2019s in the future  \r\n* Will be required to play the future $MINERS game"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeb6b00f8c7e1da78fb919c810c30dde95475bdde",
+    "url": "https://minersdefi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xeb6b00f8c7e1da78fb919c810c30dde95475bdde"
+    ],
+    "twitter": "MinersDefi",
+    "telegram": "minersofficial",
+    "reddit": "minersdefi/"
+}

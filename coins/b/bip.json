@@ -1,0 +1,25 @@
+{
+    "id": "bip",
+    "symbol": "bip",
+    "name": "Minter",
+    "platforms": {},
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Minter is a blockchain network that lets people, projects, and companies create and manage their own coins and exchange them at a fair price with absolute and instant liquidity.\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": "2019-05-15",
+    "url": "https://minter.org/",
+    "explorers": [
+        "https://explorer.minter.network/",
+        " https://chainik.io/"
+    ],
+    "twitter": "MinterTeam",
+    "facebook": "MinterNetwork",
+    "telegram": "MinterTeam",
+    "reddit": "Minter/",
+    "github_org": "MinterTeam"
+}

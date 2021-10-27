@@ -1,0 +1,26 @@
+{
+    "id": "ethereum-money",
+    "symbol": "ethmny",
+    "name": "Ethereum Money",
+    "platforms": {
+        "ethereum": "0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Software"
+    ],
+    "description": {
+        "en": "Erc20 design for mass adoption \r\n"
+    },
+    "country_origin": "MX",
+    "genesis_date": null,
+    "contract_address": "0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa",
+    "url": "https://ethmny.net/",
+    "explorers": [
+        "https://etherscan.io/token/0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa",
+        "https://ethplorer.io/address/0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa"
+    ],
+    "twitter": "ethmny",
+    "telegram": "ethereummoneytoken",
+    "github_org": "ethmny"
+}

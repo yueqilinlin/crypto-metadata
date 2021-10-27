@@ -1,0 +1,23 @@
+{
+    "id": "sypool",
+    "symbol": "syp",
+    "name": "Sypool",
+    "platforms": {
+        "solana": "FnKE9n6aGjQoNWRBZXy4RW6LZVao7qwBonUbiD7edUmZ"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Synthetic Asset Pools Management"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "FnKE9n6aGjQoNWRBZXy4RW6LZVao7qwBonUbiD7edUmZ",
+    "url": "https://sypool.io/",
+    "explorers": [
+        "https://solscan.io/token/FnKE9n6aGjQoNWRBZXy4RW6LZVao7qwBonUbiD7edUmZ"
+    ],
+    "twitter": "SYP_Protocol",
+    "telegram": "sypool_protocol",
+    "github_org": "SypoolProtocol"
+}

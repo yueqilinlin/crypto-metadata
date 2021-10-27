@@ -1,0 +1,24 @@
+{
+    "id": "vena-network",
+    "symbol": "vena",
+    "name": "Vena Network",
+    "platforms": {
+        "tron": "TUL5yxRKeSWvceLZ3BSU5iNJcQmNxkWayh"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The main role of the Vena node network is to promote the liquidity of Vena Network, Vena node can use Vena SDK to customize and provide users with comprehensive transaction services including but not limited to lending, asset transactions, credit evaluation, contract plug-in transaction, etc., and earn profit by collecting fees"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TUL5yxRKeSWvceLZ3BSU5iNJcQmNxkWayh",
+    "url": "https://vena.network/en.html",
+    "explorers": [
+        "https://tronscan.org/#/token20/TUL5yxRKeSWvceLZ3BSU5iNJcQmNxkWayh/"
+    ],
+    "twitter": "VenaProtocol",
+    "facebook": "venanetwork",
+    "telegram": "vena_network",
+    "github_org": "venanetwork"
+}

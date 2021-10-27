@@ -1,0 +1,23 @@
+{
+    "id": "memenopoly-money",
+    "symbol": "mnop",
+    "name": "Memenopoly Money",
+    "platforms": {
+        "binance-smart-chain": "0x435d4fd0bfdeb588626fe5abf6a6eb2ef2e26988"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Memenopoly is the next evolution in NFT yield generation with a true use case for every NFT on the platform. Each NFT gives a daily reward that is multiplied when you complete a set. Stake your Properties to earn passive rent from other players. Stake Player NFTs to unlock new in-game models. Roll the dice to play up to 6 times a day! Land on instant rewards or claim the Moon Jackpot! Just don't get sent to Pepe Jail! With Chainlink VFR integrated into our Randomized NFT Packs, and to randomize our dice rolls, it's a transparent and fair experience honoring the old classic!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x435d4fd0bfdeb588626fe5abf6a6eb2ef2e26988",
+    "url": "https://memenopoly.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x435d4fd0bfdeb588626fe5abf6a6eb2ef2e26988"
+    ],
+    "twitter": "Memenopoly",
+    "telegram": "Memenopoly",
+    "github_org": "Memenopoly"
+}

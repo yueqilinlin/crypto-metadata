@@ -1,0 +1,23 @@
+{
+    "id": "upcoin",
+    "symbol": "upcoin",
+    "name": "Upcoin",
+    "platforms": {
+        "binance-smart-chain": "0x191deb496940b830df8d52b3c0f0b09fc36f5b74"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Upcoin is a decentralized peer to peer community driven token designed for tipping your favorite creators, celebrities, and so much more. Upcoin is fee-free and built on the binance smart chain."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x191deb496940b830df8d52b3c0f0b09fc36f5b74",
+    "url": "https://www.upcoin.world/",
+    "explorers": [
+        "https://bscscan.com/token/0x191deb496940b830df8d52b3c0f0b09fc36f5b74"
+    ],
+    "twitter": "UpcoinWorld",
+    "telegram": "UpcoinToken",
+    "reddit": "UpcoinWorld/"
+}

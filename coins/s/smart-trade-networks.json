@@ -1,0 +1,25 @@
+{
+    "id": "smart-trade-networks",
+    "symbol": "stn5",
+    "name": "Smart Trade Networks",
+    "platforms": {
+        "ethereum": "0x55150e8378b81f930f310d4b62ab7e1252c30b9b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "STN5 is a digitised investment unit, originated under license as a registered managed investment scheme in Australia. The scheme provides asset-backed supply chain finance opportunities, providing investors access to diverse projects with a focus on Regenerative Food Systems. The STN5 are secured by real supply chain assets, including in the first instance beef cattle and portioned beef products serving export and domestic markets, and other assets (eg. cryptocurrencies, fiat currencies, feed stock, data collection equipment and data etc.),. Secured assets can be viewed from the link below. The STN5 Token is expected to grow in value as more assets are added and revenue growth activity intensifies."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x55150e8378b81f930f310d4b62ab7e1252c30b9b",
+    "url": "https://stn5.smarttradenetworks.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x55150e8378b81f930f310d4b62ab7e1252c30b9b",
+        "https://ethplorer.io/address/0x55150e8378b81f930f310d4b62ab7e1252c30b9b"
+    ],
+    "twitter": "networks_trade",
+    "telegram": "SmartTradeNetworks",
+    "reddit": "SmartTradeNetworks/",
+    "github_org": "Smart-Trade-Networks"
+}

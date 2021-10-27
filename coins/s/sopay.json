@@ -1,0 +1,22 @@
+{
+    "id": "sopay",
+    "symbol": "sop",
+    "name": "SoPay",
+    "platforms": {
+        "ethereum": "0x076641af1b8f06b7f8c92587156143c109002cbe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Payment Service Platform on Blockchain;Integration within 6 days for developer to access digital currency;Safe,convenient and efficient, making digital transactions easier"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x076641af1b8f06b7f8c92587156143c109002cbe",
+    "url": "https://sopay.org/en",
+    "explorers": [
+        "https://etherscan.io/token/0x076641af1b8f06b7f8c92587156143c109002cbe",
+        "https://ethplorer.io/address/0x076641af1b8f06b7f8c92587156143c109002cbe"
+    ],
+    "telegram": "sopay_en"
+}

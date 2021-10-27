@@ -1,0 +1,24 @@
+{
+    "id": "linkbased",
+    "symbol": "lbd",
+    "name": "LinkBased",
+    "platforms": {
+        "ethereum": "0xb15ae165000c8d7b69d2a82e425e110668c73ad5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LinkBased (LBD), is an experimental protocol with the token pegged to the total market cap of Chainlink, and a 3% tax on transfers paid to liquidity providers."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xb15ae165000c8d7b69d2a82e425e110668c73ad5",
+    "url": "https://linkbased.org",
+    "explorers": [
+        "https://etherscan.io/token/0xb15ae165000c8d7b69d2a82e425e110668c73ad5",
+        "https://ethplorer.io/address/0xb15ae165000c8d7b69d2a82e425e110668c73ad5"
+    ],
+    "twitter": "LinkBasedApp",
+    "telegram": "LinkBasedChat",
+    "github_org": "LinkBased"
+}

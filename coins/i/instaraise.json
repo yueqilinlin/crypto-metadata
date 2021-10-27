@@ -1,0 +1,22 @@
+{
+    "id": "instaraise",
+    "symbol": "insta",
+    "name": "Instaraise",
+    "platforms": {
+        "tezos": "KT19y6R8x53uDKiM46ahgguS6Tjqhdj2rSzZ"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tezos's decentralised fundraising and Incubation platform. Aim to empower projects with fundraising ability while developing loyal users, at the same time, allowing retailer investors and potential users to access early investment deals. We have IDO Launchpad for facilitating Token Sale in our platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT19y6R8x53uDKiM46ahgguS6Tjqhdj2rSzZ",
+    "url": "https://www.instaraise.io",
+    "explorers": [
+        "https://tzkt.io/KT19y6R8x53uDKiM46ahgguS6Tjqhdj2rSzZ/operations/"
+    ],
+    "twitter": "Instaraise",
+    "telegram": "Instaraise"
+}

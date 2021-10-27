@@ -1,0 +1,24 @@
+{
+    "id": "chainbing",
+    "symbol": "cbg",
+    "name": "Chainbing",
+    "platforms": {
+        "ethereum": "0x1900e8b5619a3596745f715d0427fe617c729ba9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Chainbing is dedicated to storing, indexing, analyzing, and sharing data on the blockchain to provide users with fast and accurate information."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1900e8b5619a3596745f715d0427fe617c729ba9",
+    "url": "https://www.chainbing.io/#/",
+    "explorers": [
+        "https://etherscan.io/token/0x1900E8B5619a3596745F715d0427Fe617c729BA9",
+        "https://ethplorer.io/address/0x1900E8B5619a3596745F715d0427Fe617c729BA9"
+    ],
+    "twitter": "Chain_Bing",
+    "telegram": "ChainbingOfficial",
+    "github_org": "chainbing"
+}

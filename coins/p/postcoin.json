@@ -1,0 +1,20 @@
+{
+    "id": "postcoin",
+    "symbol": "post",
+    "name": "PostCoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PostCoin is a crypto currency that combines a payment service and an investment company.\r\nOur main goal is to maximize the coin's infrastructure and simplify payment operations. PostCoin Business wallet contains online stores integration functionality, supports instant transactions, PostCoin codes. Cellular communication payments, QIWI, Yandex Money and WebMoney wallet recharges are active at the moment, online stores connection functionality is under testing.\r\nNew technologies are widely used in PostCoin development.\r\nPostCoin developers are interested in keeping coins on wallets providing the network stability, so all long-term PostCoin holders are able to make profit from the pool of developers. To receive these payments you need to register on the PostCoin website and get the rank."
+    },
+    "country_origin": "",
+    "genesis_date": "2016-03-18",
+    "url": "https://postcoin.top/",
+    "explorers": [
+        "https://explorer.postcoin.top/"
+    ],
+    "twitter": "POSTcoinRU",
+    "telegram": "officialpostcoin",
+    "github_org": "PostCoinDevelopers"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "kper-network",
+    "symbol": "kper",
+    "name": "Kper Network",
+    "platforms": {
+        "ethereum": "0xc89b4a8a121dd3e726fe7515e703936cf83e3350"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kper Network is a decentralized keeper network"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc89b4a8a121dd3e726fe7515e703936cf83e3350",
+    "url": "https://kper.network",
+    "explorers": [
+        "https://etherscan.io/token/0xc89b4a8a121dd3e726fe7515e703936cf83e3350",
+        "https://ethplorer.io/address/0xc89b4a8a121dd3e726fe7515e703936cf83e3350"
+    ],
+    "twitter": "kpernetwork",
+    "telegram": "KperNetworkANN",
+    "github_org": "kperNetwork"
+}

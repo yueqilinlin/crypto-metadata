@@ -1,0 +1,23 @@
+{
+    "id": "baby-dogo-coin",
+    "symbol": "babydogo",
+    "name": "Baby Dogo Coin",
+    "platforms": {
+        "binance-smart-chain": "0x6eb52af9541bc5a7e9f671daecd300cb55831a1e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BabyDogo Coin aims to offer a blockchain-based farm, betting, mining and gaming platform on the BEP20 network, which is completely decentralized and operates on smart contracts."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x6eb52af9541bc5a7e9f671daecd300cb55831a1e",
+    "url": "https://babydogo.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x6eb52af9541bc5a7e9f671daecd300cb55831a1e"
+    ],
+    "twitter": "BabyDogoCoin",
+    "telegram": "babydogocoin",
+    "github_org": "BabyDogoCoin"
+}

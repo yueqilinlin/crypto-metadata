@@ -1,0 +1,23 @@
+{
+    "id": "deimos-token",
+    "symbol": "dio",
+    "name": "Deimos Token",
+    "platforms": {
+        "binance-smart-chain": "0xb80a8edd3730d82a941a1cdd7547e843fd5ca65c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Deimos Token is an open-source platform that uses the distribution and decentralized nature of blockchain technology to facilitate more adoptions for the different asset classes in the Binance Smart Chain ecosystem."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0xb80a8edd3730d82a941a1cdd7547e843fd5ca65c",
+    "url": "https://www.deimostoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xb80a8edd3730d82a941a1cdd7547e843fd5ca65c"
+    ],
+    "twitter": "DeimosToken",
+    "telegram": "DeimosToken",
+    "github_org": "DeimosToken"
+}

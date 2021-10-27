@@ -1,0 +1,26 @@
+{
+    "id": "payaccept",
+    "symbol": "payt",
+    "name": "PayAccept",
+    "platforms": {
+        "ethereum": "0x8ef47555856f6ce2e0cd7c36aef4fab317d2e2e2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PayAccept is a Blockchain technology company headquartered in the Netherlands that combines traditional and Decentralized Finance (DeFi) to offer its clients access to cryptocurrency and fiat management, crypto-lending, card issuances, and risk management services."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x8ef47555856f6ce2e0cd7c36aef4fab317d2e2e2",
+    "url": "https://www.payaccept.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x8ef47555856f6ce2e0cd7c36aef4fab317d2e2e2",
+        "https://ethplorer.io/address/0x8ef47555856f6ce2e0cd7c36aef4fab317d2e2e2"
+    ],
+    "twitter": "payaccept",
+    "facebook": "payaccept.net",
+    "telegram": "Payaccept",
+    "reddit": "PayAccept/",
+    "github_org": "payaccept"
+}

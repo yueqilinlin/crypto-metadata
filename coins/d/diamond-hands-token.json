@@ -1,0 +1,23 @@
+{
+    "id": "diamond-hands-token",
+    "symbol": "dhc",
+    "name": "Diamond Hands Token",
+    "platforms": {
+        "binance-smart-chain": "0x4b747b2ed0c445bd52a3a559ff12700689870ca9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Diamond Hands (DHC) is a BEP-20 token designed for the holder by the holder. The purpose of Diamond Hands is to come together as a community to raise money to donate to charities to help save lives! Diamond Hands will be integrating a debit card mechanism to allow people to use their DHC to make real life transactions as well as well as an apparel shop to allow community members to purchase Diamond Hands merchandise! Diamond Hands has been partnering with professional MMA fighters of Bellator and looks to continue marketing with other large influencers all while not impacting price to help bring everyone together to donate to charity and have a real life use function in the debit card."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4b747b2ed0c445bd52a3a559ff12700689870ca9",
+    "url": "http://dhcoin.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x4b747b2ed0c445bd52a3a559ff12700689870ca9"
+    ],
+    "twitter": "DHCcoin",
+    "telegram": "DHCCRYPTO",
+    "reddit": "DHCCoin/"
+}

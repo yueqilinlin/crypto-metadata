@@ -1,0 +1,23 @@
+{
+    "id": "privcy",
+    "symbol": "priv",
+    "name": "PRiVCY",
+    "platforms": {},
+    "hashing_algorithm": "X13",
+    "categories": [],
+    "description": {
+        "en": "Privcy is a POS/POW hybrid privacy coin utilizing the X13 algorithm"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://privcy.eu",
+    "explorers": [
+        "http://explorer.privcy.eu/",
+        "https://www.blockexperts.com/priv"
+    ],
+    "twitter": "PRiVCY_COIN",
+    "facebook": "PRiVCYCOIN",
+    "telegram": "PRiVCY_announcements",
+    "reddit": "PRiVCY/",
+    "github_org": "privcycoin"
+}

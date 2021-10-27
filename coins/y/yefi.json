@@ -1,0 +1,22 @@
+{
+    "id": "yefi",
+    "symbol": "yefi",
+    "name": "YeFi",
+    "platforms": {
+        "binance-smart-chain": "0x193b8230f594f63da50876eaf362177d1dca4a45"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YeFi.one is a platform that emerged at the crossroads of two dominant players in the digital world arena \u2013 Decentralized data storage and Decentralized finance. YeFi.one developers have combined the best of the two phenomena to create a unique DeFi product with the aim to support the development of decentralized data storage systems through decentralized finance."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x193b8230f594f63da50876eaf362177d1dca4a45",
+    "url": "https://yefi.one/",
+    "explorers": [
+        "https://bscscan.com/token/0x193b8230f594f63da50876eaf362177d1dca4a45"
+    ],
+    "twitter": "yefi_platform",
+    "telegram": "YeFiGlobalCommunity"
+}

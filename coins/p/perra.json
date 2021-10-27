@@ -1,0 +1,21 @@
+{
+    "id": "perra",
+    "symbol": "perra",
+    "name": "Perra",
+    "platforms": {
+        "binance-smart-chain": "0x5f31233683c125fc254f1ac856d63b812fdf9a3f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PERRA is the Governance Token of PerraSwap a Dex platform for Staking and Farming that rewards Perra."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5f31233683c125fc254f1ac856d63b812fdf9a3f",
+    "url": "https://perraswap.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x5F31233683c125Fc254f1aC856D63B812fDF9a3f"
+    ],
+    "twitter": "PerraSwap"
+}

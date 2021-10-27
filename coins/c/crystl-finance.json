@@ -1,0 +1,24 @@
+{
+    "id": "crystl-finance",
+    "symbol": "crystl",
+    "name": "Crystl Finance",
+    "platforms": {
+        "polygon-pos": "0x76bf0c28e604cc3fe9967c83b3c3f31c213cfe64"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crystl Finance is a decentralized yield farm that runs on Polygon and ApeSwap Polygon Exchange."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x76bf0c28e604cc3fe9967c83b3c3f31c213cfe64",
+    "url": "https://www.crystl.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x76bf0c28e604cc3fe9967c83b3c3f31c213cfe64"
+    ],
+    "twitter": "CrystlFinance",
+    "telegram": "CrystlFinance",
+    "reddit": "crystlfinance/",
+    "github_org": "polycrystal"
+}

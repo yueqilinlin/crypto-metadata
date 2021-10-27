@@ -1,0 +1,24 @@
+{
+    "id": "yfarm-token",
+    "symbol": "yfarm",
+    "name": "YFARM Token",
+    "platforms": {
+        "ethereum": "0xf5d0fefaab749d8b14c27f0de60cc6e9e7f848d1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YFarm is known as a DeFi App, being technically supported by Sushiswap with smart contracts"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xf5d0fefaab749d8b14c27f0de60cc6e9e7f848d1",
+    "url": "https://farm.yffs.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xf5d0fefaab749d8b14c27f0de60cc6e9e7f848d1",
+        "https://ethplorer.io/address/0xf5d0fefaab749d8b14c27f0de60cc6e9e7f848d1"
+    ],
+    "twitter": "yffsfinance",
+    "telegram": "yffsfinance",
+    "github_org": "yffsfinance"
+}

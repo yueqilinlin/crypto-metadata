@@ -1,0 +1,29 @@
+{
+    "id": "monetha",
+    "symbol": "mth",
+    "name": "Monetha",
+    "platforms": {
+        "ethereum": "0xaf4dce16da2877f8c9e00544c93b62ac40631f16"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services",
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Monetha is a self-sovereign digital identity designed to ease and safeguard your interactions in the digital world while enabling users to utilize your data's value."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-08-31",
+    "contract_address": "0xaf4dce16da2877f8c9e00544c93b62ac40631f16",
+    "url": "https://www.monetha.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xaf4dce16da2877f8c9e00544c93b62ac40631f16",
+        "https://ethplorer.io/search/0xaf4dce16da2877f8c9e00544c93b62ac40631f16",
+        "https://ethplorer.io/address/0xaf4dce16da2877f8c9e00544c93b62ac40631f16"
+    ],
+    "twitter": "Monetha_io",
+    "telegram": "monetha_io",
+    "reddit": "Monetha",
+    "github_org": "monetha"
+}

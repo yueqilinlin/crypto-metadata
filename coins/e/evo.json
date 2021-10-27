@@ -1,0 +1,24 @@
+{
+    "id": "evo",
+    "symbol": "evo",
+    "name": "EVO",
+    "platforms": {
+        "ethereum": "0xefbd6d7def37ffae990503ecdb1291b2f7e38788"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EVO grants you the ability to quickly transfer CryptoMoney (CryptoCurrency based Fiat Money) around the world without fees for the first time. It's our mission to add 1.8 Billion unbanked people to the global economy via our application."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xefbd6d7def37ffae990503ecdb1291b2f7e38788",
+    "url": "https://evolutionos.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xefbd6d7def37ffae990503ecdb1291b2f7e38788",
+        "https://ethplorer.io/address/0xefbd6d7def37ffae990503ecdb1291b2f7e38788"
+    ],
+    "twitter": "eoschain",
+    "telegram": "evolutionos",
+    "reddit": "EvolutionOS"
+}

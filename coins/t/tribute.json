@@ -1,0 +1,23 @@
+{
+    "id": "tribute",
+    "symbol": "trbt",
+    "name": "Tribute",
+    "platforms": {
+        "ethereum": "0x7031ab87dcc46818806ec07af46fa8c2ad2a2bfc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TRIBUTE is a DeFi ecosystem developed with focus on community empowerment and game theory analysis. The TRIBUTE community will shape how the project evolves and will be involved in the study of the interplay between TRIBUTE's deflationary token and the native dapps as well as their role in the larger DeFi space."
+    },
+    "country_origin": "KW",
+    "genesis_date": null,
+    "contract_address": "0x7031ab87dcc46818806ec07af46fa8c2ad2a2bfc",
+    "url": "https://tributedefi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7031ab87dcc46818806ec07af46fa8c2ad2a2bfc",
+        "https://ethplorer.io/address/0x7031ab87dcc46818806ec07af46fa8c2ad2a2bfc"
+    ],
+    "twitter": "TributeDefi",
+    "telegram": "tributedefi"
+}

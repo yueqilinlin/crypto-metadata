@@ -1,0 +1,24 @@
+{
+    "id": "avaxlauncher",
+    "symbol": "avxl",
+    "name": "Avaxlauncher",
+    "platforms": {
+        "binance-smart-chain": "0xbd29490383edfd560426c3b63d01534408bc2da6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem"
+    ],
+    "description": {
+        "en": "AvaXlauncher is the first Incubator + launchpad for the Avalanche ecosystem. AvaXlauncher offers a fast, secure, and efficient platform for decentralized fundraising."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbd29490383edfd560426c3b63d01534408bc2da6",
+    "url": "https://avaxlauncher.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xbd29490383edfd560426c3b63d01534408bc2da6"
+    ],
+    "twitter": "AvaXlauncher",
+    "telegram": "Avaxlauncher"
+}

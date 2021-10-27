@@ -1,0 +1,27 @@
+{
+    "id": "benepit",
+    "symbol": "bnp",
+    "name": "BenePit",
+    "platforms": {
+        "ethereum": "0xd27d76a1ba55ce5c0291ccd04febbe793d22ebf4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "The BenePit Protocol solves the problems of global advertising market by digitizing telephone records. For decades, companies have used a variety of devices to analyze customer behavior, and smartphones that are used by 7.3 billion people around the world are a means of delivering superior analytical information over any device. In addition to the weblogs used by existing advertising platforms, BenePit analyzes phone usage patterns and analyzes people\u2019s behavior patterns and creates insights about their preferred customers. BenePit is the world\u2019s first blockchain-based rewarding platform to replace existing global advertising platforms by linking these insights with token rewards, service recommendations, and targeted advertising. BenePit will utilize token reimbursement to bring global smartphone users into BenePit\u2019s ecosystem. The BenePit Protocol will securely pay a BenePit token (BNP) to the user who satisfies the reward conditions, while BenePit\u2019s decentralized ad platform provides advertisers with information on exhaustion, thereby preventing exhaustion of fraudulent advertising budgets and providing a means to measure more objective effects."
+    },
+    "country_origin": "PH",
+    "genesis_date": null,
+    "contract_address": "0xd27d76a1ba55ce5c0291ccd04febbe793d22ebf4",
+    "url": "https://www.benepit.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xd27d76a1ba55ce5c0291ccd04febbe793d22ebf4",
+        "https://ethplorer.io/address/0xd27d76a1ba55ce5c0291ccd04febbe793d22ebf4"
+    ],
+    "twitter": "BenepitOfficial",
+    "facebook": "BenePit.io",
+    "telegram": "BenePit_global",
+    "github_org": "benepit"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "mixty-finance",
+    "symbol": "mxf",
+    "name": "Mixty Finance",
+    "platforms": {
+        "binance-smart-chain": "0xdf065aa3a18ae67055ff44bd26506fde6ce13312"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mixty Finance is an open network for an emerging world of digital assets and decentralized applications. We propose the concept of integrating all elements of financial to expanding the service model and scope of a financial product thereby creating a micro-ecosystem driven by the main token, MXF."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdf065aa3a18ae67055ff44bd26506fde6ce13312",
+    "url": "https://staking.mixty.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xdf065aa3a18ae67055ff44bd26506fde6ce13312"
+    ],
+    "twitter": "mixtyfinance",
+    "telegram": "MixtyFinanceChat",
+    "github_org": "MixtyFinance"
+}

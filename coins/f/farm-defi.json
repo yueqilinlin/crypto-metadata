@@ -1,0 +1,25 @@
+{
+    "id": "farm-defi",
+    "symbol": "pfarm",
+    "name": "Farm Defi",
+    "platforms": {
+        "ethereum": "0x6a8c66cab4f766e5e30b4e9445582094303cc322"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A decentralized yield farm product for PLAAS Farmers Token & ecosystem with the highest APY on real farm products."
+    },
+    "country_origin": "BW",
+    "genesis_date": null,
+    "contract_address": "0x6a8c66cab4f766e5e30b4e9445582094303cc322",
+    "url": "https://farm.plaas.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x6a8C66Cab4F766E5E30b4e9445582094303cc322",
+        "https://ethplorer.io/address/0x6a8C66Cab4F766E5E30b4e9445582094303cc322"
+    ],
+    "twitter": "PlaasChain",
+    "facebook": "plaas.io",
+    "telegram": "Plaas2018",
+    "github_org": "plaasio"
+}

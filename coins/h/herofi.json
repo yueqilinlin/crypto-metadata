@@ -1,0 +1,23 @@
+{
+    "id": "herofi",
+    "symbol": "heroegg",
+    "name": "HeroFi",
+    "platforms": {
+        "binance-smart-chain": "0xcfbb1bfa710cb2eba070cc3bec0c35226fea4baf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HeroFi is an aRPG game based on blockchain technology. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcfbb1bfa710cb2eba070cc3bec0c35226fea4baf",
+    "url": "https://www.herofi.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xcfBb1BfA710cb2ebA070CC3beC0C35226FeA4BAF"
+    ],
+    "twitter": "HeroFiio",
+    "telegram": "herofiofficial",
+    "github_org": "HeroFi"
+}

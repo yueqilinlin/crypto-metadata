@@ -1,0 +1,27 @@
+{
+    "id": "somidax",
+    "symbol": "smdx",
+    "name": "SOMIDAX",
+    "platforms": {
+        "ethereum": "0x7e8539d1e5cb91d63e46b8e188403b3f262a949b"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "SOMIDAX is offering a decentralized social interactive marketplace service platform that utilizes blockchain technology to create a new business model for social P2P interaction as well as buying and selling of products and service"
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "contract_address": "0x7e8539d1e5cb91d63e46b8e188403b3f262a949b",
+    "url": "https://somidax.net",
+    "explorers": [
+        "https://etherscan.io/token/0x7e8539d1e5cb91d63e46b8e188403b3f262a949b",
+        "https://ethplorer.io/address/0x7e8539d1e5cb91d63e46b8e188403b3f262a949b"
+    ],
+    "twitter": "somidax",
+    "facebook": "SomidaxMarketplace",
+    "telegram": "somidax",
+    "github_org": "somidax"
+}

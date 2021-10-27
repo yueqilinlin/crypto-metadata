@@ -1,0 +1,23 @@
+{
+    "id": "2-chains",
+    "symbol": "2chainlinks",
+    "name": "2 Chains",
+    "platforms": {
+        "binance-smart-chain": "0xb6974a91ca27b5872404cd695d930e6b990cc4b3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "2CHAINLINKS is the first deflationary community that pays you in CHAINLINK reflection. Hold $2CHAINLINKS and yield $CHAINLINK. Redistribution of $CHAINLINK goes directly into your wallet."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb6974a91ca27b5872404cd695d930e6b990cc4b3",
+    "url": "https://2chainlinks.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xb6974a91ca27b5872404cd695d930e6b990cc4b3"
+    ],
+    "twitter": "2chainlinkscoin",
+    "telegram": "twochainlinkscoin",
+    "github_org": "2CHAINLINKS-COM"
+}

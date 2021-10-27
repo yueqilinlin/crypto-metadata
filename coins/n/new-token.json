@@ -1,0 +1,24 @@
+{
+    "id": "new-token",
+    "symbol": "newb",
+    "name": "Newb Token",
+    "platforms": {
+        "binance-smart-chain": "0xa43779cc2f221b0e41d107ae1fc757e470d41e50"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NEWb is a deflationary token built on BSC. We believe that providing new investors with education and support through the community will empower their investment decisions.\r\n\r\nNEWb aspires to be the one-stop-shop for crypto education. NEWB token is so much more than just a cryptocurrency, it\u2019s an educational platform with that aimed to reestablish trust and strengthen investor confidence by implementing a fully functional website that features an earn-while-you-learn which mainly focuses on understanding the crypto history, blockchain, trading simulation and scam prevention education where users can be rewarded with Newb Token for educating themselves. Also, an NFT play-to-earn concept, a resource center for crypto trading. A community driven project that helps one another along their crypto journey while being transparent."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xa43779cc2f221b0e41d107ae1fc757e470d41e50",
+    "url": "https://newbfinance.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xa43779cc2f221b0e41d107ae1fc757e470d41e50"
+    ],
+    "twitter": "Newb_Token",
+    "facebook": "newbofficial",
+    "telegram": "newbtokencommunity",
+    "github_org": "NewbTokenOfficial"
+}

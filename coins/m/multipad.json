@@ -1,0 +1,22 @@
+{
+    "id": "multipad",
+    "symbol": "mpad",
+    "name": "MultiPad",
+    "platforms": {
+        "binance-smart-chain": "0x11d1ac5ec23e3a193e8a491a198f5fc9ee715839"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MultiPad is a community-governed decentralized multi-chain powered launchpad, enabling upcoming promising projects to raise funds. MultiPad will also partner with these projects and help them with marketing, go-to-market strategies, technical advice and assistance wherever needed."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x11d1ac5ec23e3a193e8a491a198f5fc9ee715839",
+    "url": "https://multipad.co/",
+    "explorers": [
+        "https://bscscan.com/token/0x11d1ac5ec23e3a193E8a491a198f5fc9ee715839"
+    ],
+    "twitter": "multi_pad",
+    "telegram": "multipad_official"
+}

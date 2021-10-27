@@ -1,0 +1,22 @@
+{
+    "id": "bsclaunch",
+    "symbol": "bsl",
+    "name": "BSClaunch",
+    "platforms": {
+        "binance-smart-chain": "0xb60501346240fcde1615de56ea9fff1ac1da5673"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BSCLaunch is a smart investment platform based on Binance Smart Chain, enabling projects to raise capital on a decentralized environment, and the community to invest with safety, freedom, and equal opportunity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb60501346240fcde1615de56ea9fff1ac1da5673",
+    "url": "https://bsclaunch.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xb60501346240fcde1615de56ea9fff1ac1da5673"
+    ],
+    "twitter": "BSClaunchorg",
+    "telegram": "Bsclaunchchannel"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "matrixswap",
+    "symbol": "matrix",
+    "name": "Matrixswap",
+    "platforms": {
+        "ethereum": "0xc8d3dcb63c38607cb0c9d3f55e8ecce628a01c36",
+        "polygon-pos": "0x211f4e76fcb811ed2b310a232a24b3445d95e3bc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"Matrixswap is a fully decentralized virtual-AMM-based perpetual futures trading protocol and a DEX aggregator deployed on the Polygon, Polkadot and the Cardano blockchain. \r\nUnlike traditional AMMs, Matrixswap offers leveraged trades for assets with guaranteed on-chain liquidity. Matrixswap's DEX aggregator finds the best pricing for users when performing AMM spot trades and it allows traders execute single-to-multiple, multiple-to-single token swaps. Matrixswap's DEX aggregator also features an Emergency Nuke Button that allows users to convert all tokens into stable coin under one transaction.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc8d3dcb63c38607cb0c9d3f55e8ecce628a01c36",
+    "url": "https://www.matrixswap.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xc8d3dcb63c38607cb0c9d3f55e8ecce628a01c36",
+        "https://ethplorer.io/address/0xc8d3dcb63c38607cb0c9d3f55e8ecce628a01c36",
+        "https://polygonscan.com/token/0x211f4e76fcb811ed2b310a232a24b3445d95e3bc"
+    ],
+    "twitter": "matrixswap",
+    "telegram": "matrixswapofficial",
+    "github_org": "Matrixswap"
+}

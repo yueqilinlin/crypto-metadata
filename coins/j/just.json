@@ -1,0 +1,24 @@
+{
+    "id": "just",
+    "symbol": "jst",
+    "name": "JUST",
+    "platforms": {
+        "tron": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "JUST is a smart contract-powered decentralized lending ecosystem on the TRON network. Acting as a decentralized stablecoin system, it has introduced the first decentralized stablecoin, USDJ, on the TRON network. Pegged at 1:1 with USD, USDJ is issued by collateralizing sufficient TRX on JUST, while the other token JST is used for decentralized governance and paying stability fees.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+    "url": "https://www.just.network/#/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9"
+    ],
+    "twitter": "DeFi_JUST",
+    "telegram": "just_defi"
+}

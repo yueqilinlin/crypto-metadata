@@ -1,0 +1,23 @@
+{
+    "id": "shadowswap",
+    "symbol": "shadow",
+    "name": "ShadowSwap",
+    "platforms": {
+        "fantom": "0x4e8348fdd1b6619a95334fe08a82872047154cb3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ShadowSwap is a yieldfarm for the Fantom Opera network with an automatic $FTM vault. \r\nWe are aiming to become an all-in-one platform that allows you to enjoy every feature of DEFI based on cheap gas price of Fantom network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4e8348fdd1b6619a95334fe08a82872047154cb3",
+    "url": "https://shadowswap.app/",
+    "explorers": [
+        "https://ftmscan.com/token/0x4e8348fdd1b6619a95334fe08a82872047154cb3"
+    ],
+    "twitter": "Shadow_Swap",
+    "telegram": "shadow_swap",
+    "github_org": "shadow-swap"
+}

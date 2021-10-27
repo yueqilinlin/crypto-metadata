@@ -1,0 +1,25 @@
+{
+    "id": "thore-exchange",
+    "symbol": "thex",
+    "name": "Thore Exchange Token",
+    "platforms": {
+        "ethereum": "0x3204dcde0c50b7b2e606587663a0fe2ee8dfb6bf"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "Thore Exchange is part of the #Thore projects long term visions to create an own exchange platform."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x3204dcde0c50b7b2e606587663a0fe2ee8dfb6bf",
+    "url": "https://www.thoreexchange.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3204dcde0c50b7b2e606587663a0fe2ee8dfb6bf",
+        "https://ethplorer.io/address/0x3204dcde0c50b7b2e606587663a0fe2ee8dfb6bf",
+        "https://tronscan.org/#/token/1000069"
+    ],
+    "telegram": "Thoreexchange"
+}

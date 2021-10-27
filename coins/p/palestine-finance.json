@@ -1,0 +1,22 @@
+{
+    "id": "palestine-finance",
+    "symbol": "pal",
+    "name": "Palestine Finance",
+    "platforms": {
+        "binance-smart-chain": "0x569641e97cf794fedc6277b490337654bea58942"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SAVEPALESTINE ($PAL) is a community-driven token that rewards holders while at the same time provides much needed donations to Palestine for humanitarian causes. Every week, a donation will be made based on the project\u2019s market cap. "
+    },
+    "country_origin": "PS",
+    "genesis_date": null,
+    "contract_address": "0x569641e97cf794fedc6277b490337654bea58942",
+    "url": "https://palestine.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x569641e97cf794fedc6277b490337654bea58942"
+    ],
+    "twitter": "palestinefin",
+    "telegram": "palestinefinance"
+}

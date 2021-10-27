@@ -1,0 +1,26 @@
+{
+    "id": "money-party",
+    "symbol": "party",
+    "name": "MONEY PARTY",
+    "platforms": {
+        "ethereum": "0x314bd765cab4774b2e547eb0aa15013e03ff74d2"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Communication"
+    ],
+    "description": {
+        "en": "MONEY PARTY is a private community of proven crypto investors & founders, sharing news, signals and PARTIES in world locations. Every member requires 250,000 $PARTY in their MetaMask wallet to remain in the group. Founders of new projects regularly join and pitch to the group, and the group is constantly sharing opportunities. The group holds MONEY PARTIES in different cities around the world, which are open to Money Party members only. Any holder with over 250,000 tokens may join the MONEY PARTY telegram group after entering the waitlist, @moneypartywaitlist. The token $PARTY is an ERC20 token with 888 million supply, enough for only 3,552 memberships, and is used as a DAO token for the group."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x314bd765cab4774b2e547eb0aa15013e03ff74d2",
+    "url": "https://moneyparty.vip/",
+    "explorers": [
+        "https://etherscan.io/token/0x314bd765cab4774b2e547eb0aa15013e03ff74d2",
+        "https://ethplorer.io/address/0x314bd765cab4774b2e547eb0aa15013e03ff74d2"
+    ],
+    "twitter": "moneypartyvip",
+    "telegram": "moneypartywaitlist",
+    "reddit": "moneyparty"
+}

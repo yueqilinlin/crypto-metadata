@@ -1,0 +1,25 @@
+{
+    "id": "unvest",
+    "symbol": "unv",
+    "name": "Unvest",
+    "platforms": {
+        "ethereum": "0xf009f5531de69067435e32c4b9d36077f4c4a673",
+        "binance-smart-chain": "0xf915fdda4c882731c0456a4214548cd13a822886"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Securely trade your locked tokens with Unvest NFTs & LVTs.\r\n\r\nUnvest is the open multi-chain DeFi protocol for trading locked tokens. Free, fully customizable Vesting and Distribution for project owners."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf009f5531de69067435e32c4b9d36077f4c4a673",
+    "url": "https://unvest.io",
+    "explorers": [
+        "https://etherscan.io/token/0xf009f5531de69067435e32c4b9d36077f4c4a673",
+        "https://ethplorer.io/address/0xf009f5531de69067435e32c4b9d36077f4c4a673",
+        "https://bscscan.com/token/0xf915fdda4c882731c0456a4214548cd13a822886"
+    ],
+    "twitter": "unvest_io",
+    "telegram": "unvest_io"
+}

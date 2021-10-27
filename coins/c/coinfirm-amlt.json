@@ -1,0 +1,25 @@
+{
+    "id": "coinfirm-amlt",
+    "symbol": "amlt",
+    "name": "AMLT Network",
+    "platforms": {
+        "ethereum": "0xca0e7269600d353f70b14ad118a49575455c0f2f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Created by the recognized Blockchain Regtech leader Coinfirm, AMLT is the first dedicated token that will ensure transparency and democratization of the financial system by allowing market participants to help determine the potential risk of others."
+    },
+    "country_origin": "GB",
+    "genesis_date": "2017-11-10",
+    "contract_address": "0xca0e7269600d353f70b14ad118a49575455c0f2f",
+    "url": "https://amlt.coinfirm.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xca0e7269600d353f70b14ad118a49575455c0f2f",
+        "https://ethplorer.io/address/0xca0e7269600d353f70b14ad118a49575455c0f2f"
+    ],
+    "twitter": "AMLT_Token2",
+    "facebook": "AMLToken",
+    "telegram": "AMLT_Coinfirm",
+    "reddit": "AMLT/"
+}

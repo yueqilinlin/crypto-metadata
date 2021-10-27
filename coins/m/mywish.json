@@ -1,0 +1,31 @@
+{
+    "id": "mywish",
+    "symbol": "wish",
+    "name": "MyWish",
+    "platforms": {
+        "binancecoin": "WISH-2D5",
+        "binance-smart-chain": "0x8aed24bf6e0247be51c57d68ad32a176bf86f4d9",
+        "ethereum": "0xd123575d94a7ad9bff3ad037ae9d4d52f41a7518"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "MyWish platform is an ecosystem of smart contracts accumulating a complex of blockchain solutions designed to integrate high technologies into the real sector.\r\n\r\n"
+    },
+    "country_origin": "RU",
+    "genesis_date": "2017-10-20",
+    "contract_address": "WISH-2D5",
+    "url": "https://mywish.io/index.html",
+    "explorers": [
+        "https://explorer.binance.org/asset/WISH-2D5",
+        "https://etherscan.io/token/0xd123575D94A7aD9Bff3ad037aE9d4d52f41a7518",
+        "https://bscscan.com/token/0x8AeD24Bf6E0247bE51c57D68ad32A176bF86F4d9"
+    ],
+    "twitter": "mywishplatform",
+    "facebook": "MyWish.io",
+    "telegram": "MyWish_platform",
+    "reddit": "https://www.reddit.com",
+    "github_org": "mywishplatform"
+}

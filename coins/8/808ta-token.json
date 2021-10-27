@@ -1,0 +1,28 @@
+{
+    "id": "808ta-token",
+    "symbol": "808ta",
+    "name": "808TA Token",
+    "platforms": {
+        "ethereum": "0x5b535edfa75d7cb706044da0171204e1c48d00e8",
+        "binance-smart-chain": "0xfd93917257b33c6d64dc24f7a60982589823e0cb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5b535edfa75d7cb706044da0171204e1c48d00e8",
+    "url": "https://808exchange.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x5b535edfa75d7cb706044da0171204e1c48d00e8",
+        "https://ethplorer.io/address/0x5b535edfa75d7cb706044da0171204e1c48d00e8",
+        "https://bscscan.com/token/0xfd93917257b33c6d64dc24f7a60982589823e0cb"
+    ],
+    "twitter": "808TA_",
+    "telegram": "ETH808TA",
+    "github_org": "808TA"
+}

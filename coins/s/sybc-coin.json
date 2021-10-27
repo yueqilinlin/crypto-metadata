@@ -1,0 +1,23 @@
+{
+    "id": "sybc-coin",
+    "symbol": "sybc",
+    "name": "SYBC Coin",
+    "platforms": {
+        "ethereum": "0x69428bb4272e3181de9e3cab461e19b0131855c8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Food, Shelter and Housing as the adage goes are the three pillars of an average person's life. In the context of Shelter, home ownership plays an important role in the lives of most family's in modern day living. SYBC Token is a cryptocurrency token and platform whose goal it is to make the process of home ownership more inclusive, by opening up a new way to facilitate real estate transactions to reach cryptocurrency holders outside of the traditional financial options.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x69428bb4272e3181de9e3cab461e19b0131855c8",
+    "url": "https://www.sybrealestate.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x69428bb4272e3181de9e3cab461e19b0131855c8",
+        "https://ethplorer.io/address/0x69428bb4272e3181de9e3cab461e19b0131855c8"
+    ],
+    "twitter": "real_syb",
+    "github_org": "SYB22"
+}

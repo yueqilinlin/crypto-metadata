@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-bitcoin-sv-token",
+    "symbol": "bsvbull",
+    "name": "3X Long Bitcoin SV Token",
+    "platforms": {
+        "ethereum": "0x6e13a9e4ae3d0678e511fb6d2ad531fcf0e247bf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Bitcoin SV Token (BSVBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Bitcoin SV."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6e13a9e4ae3d0678e511fb6d2ad531fcf0e247bf",
+    "url": "https://ftx.com/tokens/BSVBULL",
+    "explorers": [
+        "https://etherscan.io/token/0x6e13a9e4ae3d0678e511fb6d2ad531fcf0e247bf",
+        "https://ethplorer.io/address/0x6e13a9e4ae3d0678e511fb6d2ad531fcf0e247bf"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "stonkinu",
+    "symbol": "stonk",
+    "name": "StonkInu",
+    "platforms": {
+        "binance-smart-chain": "0x735757db5fffa9620bdb279d01a9cfcc016ab61b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "StonIinu is a community drive, DeFi Token. With Buyback mechanics and advanced token functions in place, Stonkinu is set to always remain deflationary.\r\n\r\nStonkInu plans on adding a utility to its platform so users are able to play on our Stonking platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x735757db5fffa9620bdb279d01a9cfcc016ab61b",
+    "url": "https://www.stonkinu.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x735757Db5FfFA9620BDB279d01A9cFCc016ab61b"
+    ],
+    "twitter": "StonkInu",
+    "telegram": "StonkInu"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "cryptosphere-token",
+    "symbol": "cry",
+    "name": "Cryptosphere Token",
+    "platforms": {
+        "binance-smart-chain": "0x5c2c6c0fde46fb928cd60c9cbc6f9a94775c12b1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cryptospace is a Yield Farming platform (CRY is the native token) where users can place assets in liquidity pools or in staking and receive rewards in CRY.\r\nThe platform will also offer new products: Lottery, Gambling games, NFTs, Launchpad, etc. This will help strengthen the use of the CRY token and burn the tokens used to increase its rarity and maintain its price.\r\nThe CRY token has transaction fees of 2%, 1% is burn and 1% returns to liquidity. Manual burns are also done by the dev team to reduce the number of tokens in circulation.\r\nIn the long term, the objective is to develop other platforms (not necessarily in finance) which will use the CRY token and which will help to develop an ecosystem around the token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5c2c6c0fde46fb928cd60c9cbc6f9a94775c12b1",
+    "url": "https://cryptospace.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x5C2C6c0FdE46fb928cD60C9cbc6f9A94775C12B1"
+    ],
+    "twitter": "CryptospaceApp",
+    "telegram": "cryptospaceFR"
+}

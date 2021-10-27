@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-pax-gold-token",
+    "symbol": "paxgbull",
+    "name": "3X Long PAX Gold Token",
+    "platforms": {
+        "ethereum": "0x81f09ed4b98b1c8e99b1fa838b72acb842afe94c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long PAX Gold Token (PAXGBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of PAX Gold."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x81f09ed4b98b1c8e99b1fa838b72acb842afe94c",
+    "url": "https://ftx.com/tokens/PAXGBULL",
+    "explorers": [
+        "https://etherscan.io/token/0x81f09eD4b98B1c8e99b1Fa838B72acB842AFE94c",
+        "https://ethplorer.io/address/0x81f09ed4b98b1c8e99b1fa838b72acb842afe94c"
+    ]
+}

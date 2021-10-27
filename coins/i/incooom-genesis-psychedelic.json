@@ -1,0 +1,22 @@
+{
+    "id": "incooom-genesis-psychedelic",
+    "symbol": "pcooom",
+    "name": "Incooom Genesis Psychedelic",
+    "platforms": {
+        "ethereum": "0x8e45115181f8a01acca317a9af83707649cebfe0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PCOOOM is an ERC-20 representing underlying Psychedelic Incooom NFTs in an NFTX vault."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8e45115181f8a01acca317a9af83707649cebfe0",
+    "url": "https://www.incooom.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8e45115181f8a01acca317a9af83707649cebfe0",
+        "https://ethplorer.io/address/0x8e45115181f8a01acca317a9af83707649cebfe0"
+    ],
+    "twitter": "incooomfinance"
+}

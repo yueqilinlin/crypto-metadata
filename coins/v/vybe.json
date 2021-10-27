@@ -1,0 +1,24 @@
+{
+    "id": "vybe",
+    "symbol": "vybe",
+    "name": "Vybe",
+    "platforms": {
+        "ethereum": "0x3a1c1d1c06be03cddc4d3332f7c20e1b37c97ce9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Vybe is a modular, decentralized finance protocol built on the Ethereum blockchain. Together, multiple vybe modules form a unified step forward for the industry. All contracts were built from the ground up with upgradability in mind, which uniquely positions Vybe for flexibility in the future."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x3a1c1d1c06be03cddc4d3332f7c20e1b37c97ce9",
+    "url": "https://vybe.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x3A1c1d1c06bE03cDDC4d3332F7C20e1B37c97CE9",
+        "https://ethplorer.io/address/0x3a1c1d1c06be03cddc4d3332f7c20e1b37c97ce9"
+    ],
+    "twitter": "VybeToken",
+    "telegram": "vybetoken",
+    "github_org": "vybetoken"
+}

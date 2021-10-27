@@ -1,0 +1,24 @@
+{
+    "id": "yearn-finance-management",
+    "symbol": "yefim",
+    "name": "Yearn Finance Management",
+    "platforms": {
+        "ethereum": "0x4b34c0cbeef271f895d339c5f76322d71a60782b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YeFiM is a fork of Yearn Finance with its own YeFiM token, designed to meet the demand for financial innovation and improve the efficiency of the financial system using Defi and blockchain technology. The team is tackling the challenge of creating a decentralized financial ecosystem by offering a full range of Defi-based products and solutions. The YeFiM platform will integrate Defi's various products and solutions into a single ecosystem, allowing consumers to conduct financial activities in a cost-effective and reliable way in one place. It is important to note that in order to ensure complete decentralization within the ecosystem, voting will be implemented, which gives the community full authority to decide which distribution the operating group deserves."
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0x4b34c0cbeef271f895d339c5f76322d71a60782b",
+    "url": "https://yfi.management/",
+    "explorers": [
+        "https://etherscan.io/token/0x4B34c0CBeEF271F895d339c5F76322d71A60782B",
+        "https://ethplorer.io/address/0x4B34c0CBeEF271F895d339c5F76322d71A60782B"
+    ],
+    "twitter": "YFi_Management",
+    "telegram": "YFI_Management",
+    "github_org": "Yefim-YFM"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "cryptocars",
+    "symbol": "ccar",
+    "name": "CryptoCars",
+    "platforms": {
+        "binance-smart-chain": "0x50332bdca94673f33401776365b66cc4e81ac81d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CryptoCars is inspired by a movie Cars - A 2006 American computer-animated sports comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures and the NFT Blockchain Technology that helps to prove your ownership of digital assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x50332bdca94673f33401776365b66cc4e81ac81d",
+    "url": "https://cryptocars.me/",
+    "explorers": [
+        "https://bscscan.com/token/0x50332bdca94673f33401776365b66cc4e81ac81d"
+    ],
+    "twitter": "cryptocarsgame",
+    "telegram": "Crypto_Cars_Official"
+}

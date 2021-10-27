@@ -1,0 +1,22 @@
+{
+    "id": "1x-short-eos-token",
+    "symbol": "eoshedge",
+    "name": "1X Short EOS Token",
+    "platforms": {
+        "ethereum": "0xb38f206615325306dddeb0794a6482486b6b78b8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "1X Short EOS Token (EOSHEDGE) is an ERC20 token which seeks a return that corresponds to -1 times the daily return of EOS."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb38f206615325306dddeb0794a6482486b6b78b8",
+    "url": "https://ftx.com/tokens/EOSHEDGE",
+    "explorers": [
+        "https://etherscan.io/token/0xb38f206615325306dddeb0794a6482486b6b78b8",
+        "https://etherscan.io/token/0xb38f206615325306DddEB0794A6482486B6B78b8",
+        "https://ethplorer.io/address/0xb38f206615325306dddeb0794a6482486b6b78b8"
+    ]
+}

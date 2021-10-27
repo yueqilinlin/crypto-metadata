@@ -1,0 +1,28 @@
+{
+    "id": "iron-bsc",
+    "symbol": "iron",
+    "name": "Iron BSC",
+    "platforms": {
+        "binance-smart-chain": "0x7b65b489fe53fce1f6548db886c08ad73111ddd8",
+        "fantom": "0x260b3e40c714ce8196465ec824cd8bb915081812"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Decentralized Finance (DeFi)",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "Stablecoin - a digital asset that is pegged to fiat currency - is considered as the most important cornerstone in DeFi. Stablecoins provide an excellent method to park money during trading or to use as a base currency. The most prominent use case of stablecoins is stability and how it helps cryptocurrency users, especially traders, hedge against volatility.\r\n\r\nThere are several types of stablecoins, including fiat-backed, crypto-collateralized, and algorithmically stabilized stablecoins. While fiat-backed stablecoins are not 100% decentralized, crypto-collateralized stablecoins like DAI have issues of over-collateralization. On the other hand, purely algorithmic protocols such as Basis, ESD, DSD and others provide a very noble solution to establish stablecoins with no backed assets. The issue with purely algorithmic protocols is their ability to react on volatility, which results in many of these algo-stablecoins ending up in deadzone.\r\nInspired by FRAX - the unique fractional-algorithmic stablecoin on Ethereum, using the same design, we\u2019d like to introduce IRON, the first partial-collateralized stablecoin on Binance Smart Chain.\r\n\r\nIron protocol will have 2 tokens: IRON and STEEL.\r\nSTEEL - Iron Share - is the algorithmic token which accrues seigniorage revenue and excess collateral value.\r\nIRON is a stablecoin pegged to $1, partially backed by collateral like BUSD, USDT and partially backed algorithmically by STEEL. The ratio of collateralized and algorithmic, so called Collateral Ratio (CR), depends on the market pricing of IRON.\r\nThe ratio of collateralized and algorithmic assets will depend on the market price of IRON. If IRON > $1, meaning the market's demand for IRON is high, the system can de-collateralize by decreasing the CR. If IRON"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7b65b489fe53fce1f6548db886c08ad73111ddd8",
+    "url": "https://iron.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x7b65b489fe53fce1f6548db886c08ad73111ddd8"
+    ],
+    "twitter": "IronFinance",
+    "telegram": "ironfinance",
+    "github_org": "IronFinance"
+}

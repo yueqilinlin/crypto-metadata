@@ -1,0 +1,23 @@
+{
+    "id": "only-1-token",
+    "symbol": "o1t",
+    "name": "Only 1 Token",
+    "platforms": {
+        "binance-smart-chain": "0xbb994e80e2edc45dce9065bda73adc7e9337b64f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A single DeFi token that rewards holders and liquidity providers"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbb994e80e2edc45dce9065bda73adc7e9337b64f",
+    "url": "https://only1token.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xbb994e80e2edc45dce9065bda73adc7e9337b64f"
+    ],
+    "twitter": "OnlyOneToken",
+    "telegram": "only1token",
+    "reddit": "only1token/"
+}

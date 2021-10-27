@@ -1,0 +1,24 @@
+{
+    "id": "aura-protocol",
+    "symbol": "aura",
+    "name": "Aura Protocol",
+    "platforms": {
+        "ethereum": "0x6417e8673dedd7a0471a87804bf85a559fd8bcc2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Aura is a deflationary passive yield generating token with a unique buyback mechanism"
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x6417e8673dedd7a0471a87804bf85a559fd8bcc2",
+    "url": "https://auraprotocol.io",
+    "explorers": [
+        "https://etherscan.io/token/0x6417e8673dedd7a0471a87804bf85a559fd8bcc2",
+        "https://ethplorer.io/address/0x6417e8673dedd7a0471a87804bf85a559fd8bcc2"
+    ],
+    "twitter": "auraprotocol",
+    "telegram": "auraprotocol",
+    "github_org": "DevMontyA"
+}

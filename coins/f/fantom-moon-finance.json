@@ -1,0 +1,22 @@
+{
+    "id": "fantom-moon-finance",
+    "symbol": "fmf",
+    "name": "Fantom-moon.finance",
+    "platforms": {
+        "fantom": "0xef656b9eb5a039e46d3a68a9a8614f1a40b0d77c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fantom-moon.finance (FMF) is an Eth layer 2 token that provides passive income to its holders with FTM tokens. Investors. Users can keep track of their earnings by accessing the dashboard avaible on the website. Fantom-moon also exhibits hyperdeflationary characteristics as a portion of each transaction is used to buyback and burn FMF tokens. Furthermore, every transaction is used to generate more liquidity for the pool that helps with centralized exchange listings down the road. \r\n\r\nThe Fantom-moon ecosystem comprises of a liquidity locker. This locker can be used by any project to lock up their LP tokens on the FANTOM network with an easy and intuitive user interface. A portion of the lockup fee is sent to the reward pool that redistributes FANTOM back into holders' wallets.\r\n\r\nThe Fantom-moon launchpad will allow users to launch their own token projects on the FANTOM network in just a few clicks."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xef656b9eb5a039e46d3a68a9a8614f1a40b0d77c",
+    "url": "https://fantom-moon.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0xef656b9eb5a039e46d3a68a9a8614f1a40b0d77c"
+    ],
+    "twitter": "fantommoon2",
+    "telegram": "FANTOMMOON"
+}

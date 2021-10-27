@@ -1,0 +1,23 @@
+{
+    "id": "ally-direct",
+    "symbol": "drct",
+    "name": "Ally Direct",
+    "platforms": {
+        "ethereum": "0x9d561d63375672abd02119b9bc4fb90eb9e307ca"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ally is a software-as-a-service platform that directly connects businesses, service providers (drivers at the moment), and customers built on blockchain. The platform provides enterprise technology to merchants and service providers that remove unnecessary costs and maximize profits.\r\n\r\nBusinesses get access to Branded iOS, Android, and Web technologies that help them take back their customers from third-party marketplaces.  Service providers have full transparency - they see all orders and have the opportunity to take whatever works best for them. Merchants and service providers keep 100% of the revenue, resulting in cheaper prices for customers. \r\n\r\nThe token will be used throughout the whole platform for the transfer of value, escrows, arbitration, dispute resolution, NFTs, reputation, and validation. The token will allow the platform to be completely decentralized allowing the whole world to have equal access to the technology. Ally is determined to bring our solution to every part of the world and empower everyone to work together."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x9d561d63375672abd02119b9bc4fb90eb9e307ca",
+    "url": "https://direct.allynow.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x9d561d63375672ABd02119b9Bc4FB90EB9E307Ca",
+        "https://ethplorer.io/address/0x9d561d63375672abd02119b9bc4fb90eb9e307ca"
+    ],
+    "twitter": "orderally",
+    "telegram": "AllyNow"
+}

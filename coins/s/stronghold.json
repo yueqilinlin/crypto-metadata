@@ -1,0 +1,23 @@
+{
+    "id": "stronghold",
+    "symbol": "strng",
+    "name": "StrongHold",
+    "platforms": {
+        "ethereum": "0x350a6a30c79df3600c4e0e67deab0a64b645e2c2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x350a6a30c79df3600c4e0e67deab0a64b645e2c2",
+    "url": "https://thestronghold.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x350a6a30c79df3600c4e0e67deab0a64b645e2c2",
+        "https://ethplorer.io/address/0x350a6a30c79df3600c4e0e67deab0a64b645e2c2"
+    ],
+    "twitter": "yTheStrongHold",
+    "telegram": "TheStrongHold"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "snowgecoin",
+    "symbol": "snowge",
+    "name": "SnowgeCoin",
+    "platforms": {
+        "binance-smart-chain": "0x5e9280d53f28281ce098c8f64e49f5f5dc9ea185"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Snowge Token utility is intended threefold, currently as a deflationary auto-staking currency, with a randomized transaction fee, later as a Governance token, and very soon used to Mint Community NFTs to fund charity donations to community elected Animal shelters as well as funding Snowge community eSports tournament prize pools.  No fees are paid to the developers or the team. Liquidity is locked and renounced. Further Goals and Applications for [Snowge] is to be later determined by the community.\r\n\r\nThe Community NFTs will commemorate donations and will also be available for trading on the Snowge platform. The selection process consists of community nominated charities/shelters selected quarterly, and will be selected via the governance contract using [Snowge]. The selected charities/shelters are then designated the project focus for that quarter, and users can donate [Snowge] to receive unique NFTs based on the project. At the end of the quarter the charities will receive the donations as well as any and all interest accrued within their respective donation accounts. The committed tokens will be converted to either major accepted cryptocurrencies or fiat based on the requirements of the charity projects of the quarter.\r\n\r\nFor eSports Tournament funding, the process is more straightforward. Similar to the Charity NFT contract, the eSports Tournament contract will allow for [Snowge] donations into the tournament prize pool in exchange for unique NFTs. The splitting of prize [Snowge] per placement will be determined by the community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5e9280d53f28281ce098c8f64e49f5f5dc9ea185",
+    "url": "https://snowgecoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x5e9280d53f28281ce098c8f64e49f5f5dc9ea185"
+    ],
+    "twitter": "snowgecoin",
+    "telegram": "snowgecoin",
+    "reddit": "SnowgeCoin/",
+    "github_org": "snowgecoin"
+}

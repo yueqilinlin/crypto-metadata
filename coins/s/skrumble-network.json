@@ -1,0 +1,27 @@
+{
+    "id": "skrumble-network",
+    "symbol": "skm",
+    "name": "Skrumble Network",
+    "platforms": {
+        "ethereum": "0x048fe49be32adfc9ed68c37d32b5ec9df17b3603"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Communication"
+    ],
+    "description": {
+        "en": "With Skrumble Network, we\u2019re currently in the process of building a completely decentralized social media communication application. Incorporating the traditional messaging, audio and video calling for peer-to-peer and groups, it will also include the ability to send cryptocurrencies in-app, and more. It is Skrumble Network\u2019s mission to innovate methods of communication and create opportunities for people to connect globally on the most secure networks possible, which is why we\u2019ll also be building our very own blockchain that is uniquely optimized for communication connections and transactions and cannot be blocked by any firewall. "
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x048fe49be32adfc9ed68c37d32b5ec9df17b3603",
+    "url": "https://skrumble.network",
+    "explorers": [
+        "https://etherscan.io/token/0x048fe49be32adfc9ed68c37d32b5ec9df17b3603",
+        "http://ethplorer.io/address/0x048fe49be32adfc9ed68c37d32b5ec9df17b3603",
+        "https://ethplorer.io/address/0x048fe49be32adfc9ed68c37d32b5ec9df17b3603"
+    ],
+    "twitter": "SkrumbleNetwork",
+    "telegram": "skrumble",
+    "github_org": "Skrumble"
+}

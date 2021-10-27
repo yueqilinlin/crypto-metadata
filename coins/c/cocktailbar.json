@@ -1,0 +1,22 @@
+{
+    "id": "cocktailbar",
+    "symbol": "coc",
+    "name": "cocktailbar.finance",
+    "platforms": {
+        "ethereum": "0x22b6c31c2beb8f2d0d5373146eed41ab9ede3caf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x22b6c31c2beb8f2d0d5373146eed41ab9ede3caf",
+    "url": "https://cocktail.money/",
+    "explorers": [
+        "https://etherscan.io/token/0x22b6c31c2beb8f2d0d5373146eed41ab9ede3caf",
+        "https://ethplorer.io/address/0x22b6c31c2beb8f2d0d5373146eed41ab9ede3caf"
+    ],
+    "telegram": "CocktailBar_Discussion"
+}

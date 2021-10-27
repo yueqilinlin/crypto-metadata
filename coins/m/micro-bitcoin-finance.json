@@ -1,0 +1,23 @@
+{
+    "id": "micro-bitcoin-finance",
+    "symbol": "mbtc",
+    "name": "Micro Bitcoin Finance",
+    "platforms": {
+        "binance-smart-chain": "0xe77011ed703ed06927dbd78e60c549bababf913e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Micro Bitcoin mBTC is frictionless mining generation mBTC hard-coded on its smart contract to use as future store of value currency.\r\n\r\nmBTC is a community driven, fair launched DeFi Token. Two simple functions occur during each trade: Reflection, LP Acquisition."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe77011ed703ed06927dbd78e60c549bababf913e",
+    "url": "https://mbitcoin.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xe77011ed703ed06927dBd78e60c549baBAbF913e"
+    ],
+    "twitter": "mbitcoin_mbtc",
+    "telegram": "micro_btc",
+    "github_org": "mbitcoin-finance"
+}

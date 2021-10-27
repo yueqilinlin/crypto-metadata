@@ -1,0 +1,29 @@
+{
+    "id": "musd",
+    "symbol": "musd",
+    "name": "mStable USD",
+    "platforms": {
+        "ethereum": "0xe2f2a5c287993345a840db3b0845fbc70f5935a5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "USD Stablecoin",
+        "Decentralized Finance (DeFi)",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "mUSD is a meta-stablecoin with a native yield "
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0xe2f2a5c287993345a840db3b0845fbc70f5935a5",
+    "url": "http://mstable.org",
+    "explorers": [
+        "https://etherscan.io/token/0xe2f2a5c287993345a840db3b0845fbc70f5935a5",
+        "https://ethplorer.io/address/0xe2f2a5c287993345a840db3b0845fbc70f5935a5"
+    ],
+    "twitter": "mstable_",
+    "telegram": "mstableofficial",
+    "github_org": "mstable"
+}

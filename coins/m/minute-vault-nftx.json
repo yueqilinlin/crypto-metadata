@@ -1,0 +1,25 @@
+{
+    "id": "minute-vault-nftx",
+    "symbol": "minute",
+    "name": "MINUTE Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xcda16f62a8d3127ea0aebfacb221c1cc41b8e488"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "MINUTE Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs).\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcda16f62a8d3127ea0aebfacb221c1cc41b8e488",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xcda16f62a8d3127ea0aebfacb221c1cc41b8e488",
+        "https://ethplorer.io/address/0xcda16f62a8d3127ea0aebfacb221c1cc41b8e488"
+    ],
+    "twitter": "nftx_"
+}

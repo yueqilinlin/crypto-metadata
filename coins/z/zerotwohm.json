@@ -1,0 +1,22 @@
+{
+    "id": "zerotwohm",
+    "symbol": "z2o",
+    "name": "ZeroTwOhm",
+    "platforms": {
+        "arbitrum-one": "0xdb96f8efd6865644993505318cc08ff9c42fb9ac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ZeroTwOhm is the first decentralized reserve currency protocol natively built on the Arbitrum One Network. ZeroTwOhm is built around the Z2O token, which is backed by a basket of assets providing it a value floor which it cannot fall below. ZeroTwOhm utilizes economic and game-theoretical mechanics through its bonding and staking mechanisms.\r\n\r\nThe goal of the ZeroTwOhm protocol is to create a trustless, protocol-controlled, decentralized currency on the Arbitrum One Network. By utilizing stability controls, we hope to develop Z2O to eventually be a highly liquid medium of exchange for the Arbitrum Network. In the near-term, the system is configured to prioritize growth and distribution to gain adoption. We hope to form mutually beneficial relationships throughout the Decentralized Finance ecosystem!\r\nPurchasing, bonding, or staking Z2O in the growth phase is a bet on the further growth and development of the Arbi's Universe. 20% of ZeroTwOhm's treasury revenue will go directly to the stARBIS pool, and 5% will go to the Arbi's Finance treasury. Rent ain't free at the Arbi's Food Court.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdb96f8efd6865644993505318cc08ff9c42fb9ac",
+    "url": "https://zerotwohm.finance/",
+    "explorers": [
+        "https://arbiscan.io/token/0xdb96f8efd6865644993505318cc08ff9c42fb9ac"
+    ],
+    "twitter": "arbis_finance",
+    "github_org": "Arbi-s"
+}

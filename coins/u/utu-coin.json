@@ -1,0 +1,28 @@
+{
+    "id": "utu-coin",
+    "symbol": "utu",
+    "name": "UTU Coin",
+    "platforms": {
+        "ethereum": "0xa58a4f5c4bb043d2cc1e170613b74e767c94189b",
+        "binance-smart-chain": "0xed4bb33f20f32e989af975196e86019773a7cff0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Oracle"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa58a4f5c4bb043d2cc1e170613b74e767c94189b",
+    "url": "https://utu.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa58a4f5c4bb043d2cc1e170613b74e767c94189b",
+        "https://ethplorer.io/address/0xa58a4f5c4bb043d2cc1e170613b74e767c94189b",
+        "https://bscscan.com/token/0xed4bb33f20f32e989af975196e86019773a7cff0"
+    ],
+    "twitter": "utu_trust",
+    "telegram": "UTUtrust",
+    "github_org": "utu-protocol"
+}

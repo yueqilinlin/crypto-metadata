@@ -1,0 +1,23 @@
+{
+    "id": "limon-group",
+    "symbol": "limon",
+    "name": "Limon Group",
+    "platforms": {
+        "binance-smart-chain": "0x712c0a4659a7c31a81fd5a47a2d83c63a07d7d06"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Our system generates NFT Tokens based on Binance Smart Chain. LIMON NFT Tokens are interconnected to digital products and commercial physical products (EAN - European Article Number). Our upcoming DEX exchange (P2P) owns an automatic market maker (AMM) for exchanging BEP-20 tokens. Liquidity pools and locks, farming and staking functionalities will be included.\r\n\r\nOur LIMON GROUP exchange can also be used as a payment gateway in online shops and applications. Next to the mobile exchange version a version for iOS and Android is already planned."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x712c0a4659a7c31a81fd5a47a2d83c63a07d7d06",
+    "url": "https://limon.group/",
+    "explorers": [
+        "https://bscscan.com/token/0x712C0a4659a7C31A81FD5A47a2D83c63A07d7D06"
+    ],
+    "twitter": "thelimongroup",
+    "telegram": "limongroup",
+    "github_org": "limontoken"
+}

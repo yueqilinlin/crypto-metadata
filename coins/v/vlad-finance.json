@@ -1,0 +1,22 @@
+{
+    "id": "vlad-finance",
+    "symbol": "vlad",
+    "name": "Vlad Finance",
+    "platforms": {
+        "binance-smart-chain": "0x279d41f3f78fe5c1f0ba41ae963d6e545113c973"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "VLAD is a deflationary reflect token issued on BSC. It has a 1.000.000 max supply and a progressive burn mechanism. It rewards its holders by redistributing a 2% of all transactions, while another 2% is immediately burned. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x279d41f3f78fe5c1f0ba41ae963d6e545113c973",
+    "url": "https://vlad.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x279d41f3f78fe5C1f0BA41aE963d6E545113C973"
+    ],
+    "twitter": "VladFinance",
+    "telegram": "VladFinanceOfficial"
+}

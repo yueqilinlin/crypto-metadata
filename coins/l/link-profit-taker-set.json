@@ -1,0 +1,24 @@
+{
+    "id": "link-profit-taker-set",
+    "symbol": "linkpt",
+    "name": "LINK Profit Taker Set",
+    "platforms": {
+        "ethereum": "0x78e29d35573bea6265aedfcb9f45481b717ebfde"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "TokenSets"
+    ],
+    "description": {
+        "en": "This Set aims to achieve one simple goal: Maintain majority exposure to LINK to capture its upside while simultaneously taking profits occasionally during price discovery to hedge against the downside. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x78e29d35573bea6265aedfcb9f45481b717ebfde",
+    "url": "https://www.tokensets.com/set/linkpt",
+    "explorers": [
+        "https://etherscan.io/token/0x78e29d35573bea6265aedfcb9f45481b717ebfde",
+        "https://ethplorer.io/address/0x78e29d35573bea6265aedfcb9f45481b717ebfde"
+    ],
+    "twitter": "SetProtocol"
+}

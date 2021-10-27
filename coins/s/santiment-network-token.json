@@ -1,0 +1,23 @@
+{
+    "id": "santiment-network-token",
+    "symbol": "san",
+    "name": "Santiment Network Token",
+    "platforms": {
+        "ethereum": "0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Today\u2019s crypto-markets are driven by crowd sentiment. Hype and fear dominate the price action. Santiment delivers clarity, with market sentiment content and datafeeds that can\u2019t be found anywhere else."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-07-12",
+    "contract_address": "0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098",
+    "url": "https://santiment.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098",
+        "https://ethplorer.io/address/0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098"
+    ],
+    "twitter": "santimentfeed",
+    "github_org": "santiment"
+}

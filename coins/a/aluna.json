@@ -1,0 +1,26 @@
+{
+    "id": "aluna",
+    "symbol": "aln",
+    "name": "Aluna",
+    "platforms": {
+        "ethereum": "0x8185bc4757572da2a610f887561c32298f1a5748",
+        "polygon-pos": "0xa8fcee762642f156b5d757b6fabc36e06b6d4a1a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Aluna.Social is a gamified social trading terminal for managing multiple exchange accounts from one place. With a transparent social environment, top traders are rewarded monetary and reputationally, and beginner traders can learn from experts and automatically mirror trades."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x8185bc4757572da2a610f887561c32298f1a5748",
+    "url": "https://aluna.social/",
+    "explorers": [
+        "https://etherscan.io/token/0x8185bc4757572da2a610f887561c32298f1a5748",
+        "https://ethplorer.io/address/0x8185bc4757572da2a610f887561c32298f1a5748",
+        "https://polygonscan.com/token/0xa8fcee762642f156b5d757b6fabc36e06b6d4a1a"
+    ],
+    "twitter": "alunasocial",
+    "telegram": "aluna_ann",
+    "github_org": "alunacrypto"
+}

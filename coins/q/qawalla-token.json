@@ -1,0 +1,22 @@
+{
+    "id": "qawalla-token",
+    "symbol": "qwla",
+    "name": "Qawalla Token",
+    "platforms": {
+        "ethereum": "0x1d96fd43ee07aa79f8fd003cbdf404fb5ce41ad2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "QWLA Token enables holders a lower entry price for community ownership over the traded fund. The Qawalla is the decentralized exchange-traded fund. Its users can buy, hold, and sell the share of fund, instead of contributing to many different crypto assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1d96fd43ee07aa79f8fd003cbdf404fb5ce41ad2",
+    "url": "https://qwla.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x1d96fd43ee07aa79f8fd003cbdf404fb5ce41ad2",
+        "https://ethplorer.io/address/0x1d96fd43ee07aa79f8fd003cbdf404fb5ce41ad2"
+    ],
+    "twitter": "QWLA_io"
+}

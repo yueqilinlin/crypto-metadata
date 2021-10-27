@@ -1,0 +1,23 @@
+{
+    "id": "dforce-btc",
+    "symbol": "xbtc",
+    "name": "dForce BTC",
+    "platforms": {
+        "binance-smart-chain": "0x20ecc92f0a33e16e8cf0417dfc3f586cf597f3a9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "dForce is a lending and synthetic asset protocol, a global pool-based lending protocol where users can mint a variety of synthetic assets against yield-on collaterals to achieve better capital efficiency."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x20ecc92f0a33e16e8cf0417dfc3f586cf597f3a9",
+    "url": "https://dforce.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x20Ecc92F0a33e16e8cf0417DFc3F586cf597F3a9"
+    ],
+    "twitter": "dForcenet",
+    "telegram": "dforcenet",
+    "github_org": "dforce-network"
+}

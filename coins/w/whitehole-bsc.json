@@ -1,0 +1,24 @@
+{
+    "id": "whitehole-bsc",
+    "symbol": "whole",
+    "name": "WhiteHole_BSC",
+    "platforms": {
+        "binance-smart-chain": "0x2dbb6cb0e9796d80a12820722c71961866c220c8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "First DeFi \"Farm to Trade\" token. Every tx has a fee that is distributed to next 5 transactions. Buyers have more weightage. Sellers have less. Burns on each transactions also occur for those that don't farm."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2dbb6cb0e9796d80a12820722c71961866c220c8",
+    "url": "https://wormhole.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x2dbB6CB0E9796D80a12820722c71961866c220C8",
+        "https://bscscan.com/token/0x2dbB6CB0E9796D80a12820722c71961866c220C8"
+    ],
+    "twitter": "devdegen",
+    "telegram": "whitehole_bsc",
+    "github_org": "devDegen"
+}

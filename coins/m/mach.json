@@ -1,0 +1,24 @@
+{
+    "id": "mach",
+    "symbol": "mach",
+    "name": "MACH Project",
+    "platforms": {
+        "ethereum": "0xb119ce94d098c18fe380904c24e358bd887f00be"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MACH aims to create a P2P asset trading platform. Users will be able to trade their assets such as online/offline goods and crypto-currencies. It is reportedly supported by an escrow system and AI-Chatbot."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb119ce94d098c18fe380904c24e358bd887f00be",
+    "url": "https://mymach.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xB119Ce94D098C18fe380904c24e358bd887F00BE",
+        "https://ethplorer.io/address/0xb119ce94d098c18fe380904c24e358bd887f00be"
+    ],
+    "twitter": "MACH99077436",
+    "facebook": "MarketMACH",
+    "telegram": "marketmachcom"
+}

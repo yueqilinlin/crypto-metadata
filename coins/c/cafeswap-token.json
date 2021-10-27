@@ -1,0 +1,23 @@
+{
+    "id": "cafeswap-token",
+    "symbol": "brew",
+    "name": "CafeSwap Token",
+    "platforms": {
+        "binance-smart-chain": "0x790be81c3ca0e53974be2688cdb954732c9862e1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BREW is native token on cafeswap.finance platform"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x790be81c3ca0e53974be2688cdb954732c9862e1",
+    "url": "https://cafeswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x790be81c3ca0e53974be2688cdb954732c9862e1"
+    ],
+    "twitter": "CafeSwapFinance",
+    "telegram": "CafeSwap",
+    "github_org": "CafeSwap"
+}

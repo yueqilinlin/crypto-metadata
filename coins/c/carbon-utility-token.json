@@ -1,0 +1,23 @@
+{
+    "id": "carbon-utility-token",
+    "symbol": "cut",
+    "name": "Carbon Utility Token",
+    "platforms": {
+        "ethereum": "0xe2da716381d7e0032cecaa5046b34223fc3f218d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "This project aims to give climate action a real value. CUT creates real tangible impact on the planet. It has a value that can be measured in terms of its precise scientific benefits, and can be tracked per gram back to the place of origin for any specific Carbon Offset."
+    },
+    "country_origin": "LI",
+    "genesis_date": null,
+    "contract_address": "0xe2da716381d7e0032cecaa5046b34223fc3f218d",
+    "url": "https://www.cut.eco/",
+    "explorers": [
+        "https://etherscan.io/token/0xe2da716381d7e0032cecaa5046b34223fc3f218d",
+        "https://ethplorer.io/address/0xe2da716381d7e0032cecaa5046b34223fc3f218d"
+    ],
+    "twitter": "retireCUT",
+    "facebook": "retireCUT"
+}

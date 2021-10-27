@@ -1,0 +1,23 @@
+{
+    "id": "projekt-gold",
+    "symbol": "gold",
+    "name": "Projekt Gold",
+    "platforms": {
+        "ethereum": "0xdfc628a33c18e856cd1c59583cb5ace8db706f14"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Projekt Gold is the utility token that is used as an API Key for the public FTPAntiBot service. GOLD debuted the FTPAntiBot service that absolutely decimated bot actiivity. FairTokenProject is the leading force in fighting bots and exploiters(multi transaction single block). In order for other devs to use FTPAntiBot API the contract will have to hold GOLD, providing the utility feature for this token. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xdfc628a33c18e856cd1c59583cb5ace8db706f14",
+    "url": "https://fairtokenproject.com",
+    "explorers": [
+        "https://etherscan.io/token/0xdfc628a33c18e856cd1c59583cb5ace8db706f14",
+        "https://ethplorer.io/address/0xdfc628a33c18e856cd1c59583cb5ace8db706f14"
+    ],
+    "twitter": "token_project",
+    "telegram": "projektgold"
+}

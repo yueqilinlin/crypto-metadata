@@ -1,0 +1,24 @@
+{
+    "id": "youlive-coin",
+    "symbol": "uc",
+    "name": "YouLive Coin",
+    "platforms": {
+        "ethereum": "0xf84df2db2c87dd650641f8904af71ebfc3dde0ea"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "YouLive's vision is to build the world's first truly decentralized live broadcast social platform through blockchain technology and to achieve real-time sharing, social and circle building with community-based autonomy, allowing all participants to directly obtain the value affirmation from each other in the ecosystem through subversive value recognition and value allocation mechanism.\r\n\r\nYouLive focuses on Influencers and Viewers, allowing the community participants\u2019 payment and rewards to be fair, reasonable and free from exploitation in a decentralized and trustworthy way.\r\n\r\nYouLive will completely reshape the operating model of existing live broadcast industry and transform the economic incentive system itself into a system that can circulate within the system to create a completely decentralized community ecosystem. YouLive will be a completely open community ecosystem that transcends borders and has super communities with tens of millions / hundreds of millions of members, and each community participant can get the corresponding value expression."
+    },
+    "country_origin": "SG",
+    "genesis_date": "2018-01-16",
+    "contract_address": "0xf84df2db2c87dd650641f8904af71ebfc3dde0ea",
+    "url": "http://www.youlive.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xF84df2db2C87dd650641f8904aF71EbFC3ddE0Ea",
+        "https://ethplorer.io/address/0xf84df2db2c87dd650641f8904af71ebfc3dde0ea"
+    ],
+    "twitter": "OfficialYouLive",
+    "facebook": "YouLiveOfficial",
+    "telegram": "OfficialYouLive"
+}

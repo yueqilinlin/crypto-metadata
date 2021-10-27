@@ -1,0 +1,26 @@
+{
+    "id": "fastswap",
+    "symbol": "fast",
+    "name": "FastSwap",
+    "platforms": {
+        "ethereum": "0xc888a0ab4831a29e6ca432babf52e353d23db3c2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "FastSwap A decentralized exchange for erc20 Token and cross-chain swap powered by Polkadot. FastSwap is a bundle of different dapps in one place, from token swap to p2p, nft, vaults etc. Just like Sushiswap Fastswap share trading fees with Fast Holders."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xc888a0ab4831a29e6ca432babf52e353d23db3c2",
+    "url": "https://fastswap.exchange/",
+    "explorers": [
+        "https://etherscan.io/token/0xc888a0ab4831a29e6ca432babf52e353d23db3c2",
+        "https://ethplorer.io/address/0xc888a0ab4831a29e6ca432babf52e353d23db3c2"
+    ],
+    "twitter": "fastswapdex",
+    "telegram": "fastswapdex",
+    "github_org": "toshifyfinance"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "terablock",
+    "symbol": "tbc",
+    "name": "TeraBlock",
+    "platforms": {
+        "binance-smart-chain": "0x9798df2f5d213a872c787bd03b2b91f54d0d04a1",
+        "ethereum": "0x9798df2f5d213a872c787bd03b2b91f54d0d04a1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TeraBlock is a Cryptocurrency Financial Platform enabling users to buy, sell, hold, exchange and manage their cryptocurrency portfolio powered by the TeraBlock Token (TBC). With advanced machine learning algorithm capabilities for trading, TeraBlock aims to simplify the way users trade crypto. \r\n\r\nWith TeraBlock, users will be able to purchase crypto through the TeraBlock exchange with any debit or credit card issued by a bank, and easily manage the assets through trade automation. TeraBlock also offers four predefined indices with different risk-reward profiles. These indices will be based on total market capitalization, asset performance, project overview and statistical data. The index offers a transparent view into its previous performance. Once an index is selected and confirmed, the platform will automatically buy and trade the funds, looking for the best opportunity to exit at the time of market correction to safeguard funds against high volatility.\r\n\r\nFor more advanced users, TeraBlock offers the automated portfolio trading tool. Here, users are able to set their own strategies, choosing from a list of predefined options or defining their own custom strategy. Once selected, users can see the backtest of their strategy with the click of one button."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9798df2f5d213a872c787bd03b2b91f54d0d04a1",
+    "url": "https://terablock.ai/",
+    "explorers": [
+        "https://bscscan.com/token/0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1",
+        "https://etherscan.io/token/0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1"
+    ],
+    "twitter": "MyTeraBlock",
+    "telegram": "TeraBlock",
+    "github_org": "TeraBlock"
+}

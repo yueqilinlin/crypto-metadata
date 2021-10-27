@@ -1,0 +1,25 @@
+{
+    "id": "treatdao",
+    "symbol": "treat",
+    "name": "TreatDAO",
+    "platforms": {
+        "binance-smart-chain": "0xac0c7d9b063ed2c0946982ddb378e03886c064e6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "TreatDAO is a platform that partners with models weekly to release exclusive limited NFTs that are both SFW and NSFW."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xac0c7d9b063ed2c0946982ddb378e03886c064e6",
+    "url": "https://treatdao.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xac0c7d9b063ed2c0946982ddb378e03886c064e6"
+    ],
+    "twitter": "treatdao",
+    "telegram": "treatdao",
+    "github_org": "TreatDAO"
+}

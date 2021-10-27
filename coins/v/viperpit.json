@@ -1,0 +1,26 @@
+{
+    "id": "viperpit",
+    "symbol": "xviper",
+    "name": "ViperPit",
+    "platforms": {
+        "harmony-shard-0": "0xe064a68994e9380250cfee3e8c0e2ac5c0924548"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Harmony Ecosystem"
+    ],
+    "description": {
+        "en": "xVIPER is ViperSwap's version of SushiSwap's xSUSHI. 1/3rd of all trading fees (0.1%) are used to continuously market buy VIPER and distribute the proceeds to xVIPER holders/stakers."
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "contract_address": "0xe064a68994e9380250cfee3e8c0e2ac5c0924548",
+    "url": "https://viper.exchange/#/viperPit",
+    "explorers": [
+        "https://explorer.harmony.one/#/address/0xe064a68994e9380250cfee3e8c0e2ac5c0924548"
+    ],
+    "twitter": "VenomDAO",
+    "telegram": "VenomDAO",
+    "reddit": "ViperSwap/",
+    "github_org": "VenomProtocol"
+}

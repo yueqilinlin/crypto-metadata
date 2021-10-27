@@ -1,0 +1,24 @@
+{
+    "id": "babyfeg",
+    "symbol": "bbfeg",
+    "name": "Babyfeg",
+    "platforms": {
+        "binance-smart-chain": "0x5e8f1ac3930461a467c3a4fa349d7cfa6f211c8f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Babyfeg is the future of autodistribution tokens and yield-generating contract on the Binance Smart Chain. Instead of receiving our own BABYFEG token for holding, our community is rewarded in FEG tokens, depending on the volume and the amount of BABYFEG in their wallet. A 7\u00a0% tax on every transaction brings a continuous buy of FEG token that is dropped directly into our users wallets. This concept comes directly from the various BABY tokens using this system, like BABYCAKE. We kept the best of these and improved it."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5e8f1ac3930461a467c3a4fa349d7cfa6f211c8f",
+    "url": "https://babyfeg.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x5e8f1ac3930461a467c3a4fa349d7cfa6f211c8f"
+    ],
+    "twitter": "baby_feg",
+    "telegram": "baby_feg",
+    "reddit": "BABYFEG",
+    "github_org": "BBFEG"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "cudl-finance",
+    "symbol": "cudl",
+    "name": "Cudl Finance",
+    "platforms": {
+        "ethereum": "0xecd20f0ebc3da5e514b4454e3dc396e7da18ca6a",
+        "arbitrum-one": "0x0f4676178b5c53ae0a655f1b19a96387e4b8b5f2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gaming"
+    ],
+    "description": {
+        "en": "Cudl Finance is an experimental game and currently in beta developed by the VeryNifty the team, who is also behind NFT20 .\r\nPet your MoonCat to earn $CUDL."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xecd20f0ebc3da5e514b4454e3dc396e7da18ca6a",
+    "url": "https://cudl.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xeCD20F0EBC3dA5E514b4454E3dc396E7dA18cA6A",
+        "https://ethplorer.io/address/0xeCD20F0EBC3dA5E514b4454E3dc396E7dA18cA6A",
+        "https://arbiscan.io/token/0x0f4676178b5c53Ae0a655f1B19A96387E4b8B5f2"
+    ],
+    "twitter": "niftymuseum",
+    "telegram": "cudlfinance",
+    "github_org": "verynifty"
+}

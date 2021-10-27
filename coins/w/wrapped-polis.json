@@ -1,0 +1,23 @@
+{
+    "id": "wrapped-polis",
+    "symbol": "polis",
+    "name": "Wrapped Polis",
+    "platforms": {
+        "ethereum": "0x622f2962ae78e8686ecc1e30cf2f9a6e5ac35626"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x622f2962ae78e8686ecc1e30cf2f9a6e5ac35626",
+    "url": "https://polispay.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x622f2962ae78e8686ecc1e30cf2f9a6e5ac35626",
+        "https://ethplorer.io/address/0x622f2962ae78e8686ecc1e30cf2f9a6e5ac35626"
+    ],
+    "twitter": "PolisBlockchain",
+    "github_org": "polispay"
+}

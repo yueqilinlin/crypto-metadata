@@ -1,0 +1,24 @@
+{
+    "id": "autocrypto",
+    "symbol": "au",
+    "name": "AutoCrypto",
+    "platforms": {
+        "binance-smart-chain": "0x8ea2f890cb86dfb0e376137451c6fd982afefc15"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AutoCrypto is an automated broker app managed by an Artificial Intelligence that combines mathematical extrapolation polynomials alongside a pre-trained time-series prediction neuronal network to predict very precisely the evolution of the top 200 cryptocurrencies and investing automatically for you.\r\n\r\nInvest in one of our TIERS start earning passive income with no effort."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8ea2f890cb86dfb0e376137451c6fd982afefc15",
+    "url": "https://autocrypto.ai",
+    "explorers": [
+        "https://bscscan.com/token/0x8Ea2f890CB86DFb0E376137451c6fD982AFefc15"
+    ],
+    "twitter": "AutoCrypto_AI",
+    "telegram": "AutoCryptoInternational",
+    "reddit": "AutoCrypto/",
+    "github_org": "AutoCrypto"
+}

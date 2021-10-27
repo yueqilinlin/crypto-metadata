@@ -1,0 +1,25 @@
+{
+    "id": "scanetchain",
+    "symbol": "swc",
+    "name": "Scanetchain",
+    "platforms": {
+        "ethereum": "0xadf8b8050639b6236915f7516d69de714672f0bf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Scanetchain is a decentralized open platform where users can freely define and sell their contents and products for royalty and disclosure fee. It is structured to seamlessly bring together advertisements, products, and contents to form an interlinked ecosystem of multiple platforms.\r\n\r\nScanetchain uses augmented reality (AR) technology to ensure interoperability of advertising, shopping, contents, social networking services in both online and offline setting, without a glitch in transition.\r\n\r\nScanetchain offers a user-friendly interface by reserving a separate off-chain area for faster transactions, enhanced editing and deleting functionality while the On-chain counterpart is dedicated for the decentralization within the blockchain network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xadf8b8050639b6236915f7516d69de714672f0bf",
+    "url": "https://www.scanetchain.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xadf8b8050639b6236915f7516d69de714672f0bf",
+        "https://ethplorer.io/address/0xadf8b8050639b6236915f7516d69de714672f0bf"
+    ],
+    "twitter": "Scanetchain_SWC",
+    "facebook": "Scanetchain-566992760335424",
+    "telegram": "scanetchain",
+    "github_org": "Scanetchain"
+}

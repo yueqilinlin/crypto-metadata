@@ -1,0 +1,27 @@
+{
+    "id": "travelnote",
+    "symbol": "tvnt",
+    "name": "TravelNote",
+    "platforms": {
+        "ethereum": "0x5635ddeabf9cdda686995fe90beb5411831563fc"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Tourism"
+    ],
+    "description": {
+        "en": "TravelNote is a business associated with travelling and has been operating since year 2015. It offers a variety of services, which include purchasing airline tickets, making hotel reservations, creating itineraries for tour (or special packages) and providing information about specific destinations. It also provides car and motorbike renting services. TravelNote has experienced in serving major group tour, private tour, family and even corporations.\r\n"
+    },
+    "country_origin": "ID",
+    "genesis_date": "2018-10-26",
+    "contract_address": "0x5635ddeabf9cdda686995fe90beb5411831563fc",
+    "url": "https://ico.travelnote.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x5635ddeabf9cdda686995fe90beb5411831563fc",
+        "https://ethplorer.io/address/0x5635ddeabf9cdda686995fe90beb5411831563fc"
+    ],
+    "twitter": "TravelNote2",
+    "facebook": "TravelNoteTVNT",
+    "telegram": "TravelnoteICO",
+    "github_org": "TVNT"
+}

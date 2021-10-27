@@ -1,0 +1,22 @@
+{
+    "id": "htm",
+    "symbol": "htm",
+    "name": "HTM",
+    "platforms": {
+        "huobi-token": "0x80c66d460e2bb9d31a8de54b4016fca986d0811f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HTM is a one-stop service platform for DeFi financial traffic. It will provide services such as liquid mining, basic stablecoins, application of NFT, IDO one-stop services, aggregate wallets, and privacy expansion."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0x80c66d460e2bb9d31a8de54b4016fca986d0811f",
+    "url": "https://www.htmbtc.com/",
+    "explorers": [
+        "https://hecoinfo.com/token/0x80c66d460e2bb9d31a8de54b4016fca986d0811f"
+    ],
+    "twitter": "HTMplatform",
+    "telegram": "htmdefi"
+}

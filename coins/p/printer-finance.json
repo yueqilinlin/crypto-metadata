@@ -1,0 +1,23 @@
+{
+    "id": "printer-finance",
+    "symbol": "print",
+    "name": "Printer.Finance",
+    "platforms": {
+        "ethereum": "0x54b8c98268da0055971652a95f2bfd3a9349a38c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Printer.finance is a community driven yield farming protocol. It allows PRINT tokenholders to stake liquidity tokens on printer.finance to earn PRINT. It implements a burn and a reduced token reward rate, aimed at curbing supply inflation and allowing tokens to preserve their long-term value."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x54b8c98268da0055971652a95f2bfd3a9349a38c",
+    "url": "https://printer.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x54b8c98268da0055971652a95f2bfd3a9349a38c",
+        "https://ethplorer.io/address/0x54b8c98268da0055971652a95f2bfd3a9349a38c"
+    ],
+    "twitter": "Printer_Finance",
+    "telegram": "printer_finance"
+}

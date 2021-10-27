@@ -1,0 +1,22 @@
+{
+    "id": "ubiquity-algorithmic-dollar",
+    "symbol": "uad",
+    "name": "Ubiquity Algorithmic Dollar",
+    "platforms": {
+        "ethereum": "0x0f644658510c95cb46955e55d7ba9dda9e9fbec6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0f644658510c95cb46955e55d7ba9dda9e9fbec6",
+    "url": "https://ubq.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x0f644658510c95cb46955e55d7ba9dda9e9fbec6",
+        "https://ethplorer.io/address/0x0f644658510c95cb46955e55d7ba9dda9e9fbec6"
+    ],
+    "twitter": "UbiquityDAO"
+}

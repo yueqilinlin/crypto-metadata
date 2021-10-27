@@ -1,0 +1,26 @@
+{
+    "id": "insula",
+    "symbol": "isla",
+    "name": "Insula",
+    "platforms": {
+        "ethereum": "0x697ef32b4a3f5a4c39de1cb7563f24ca7bfc5947"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Insul\u03b1 is a decentralized autonomous corporation focused on cryptoasset management for professional investors."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x697ef32b4a3f5a4c39de1cb7563f24ca7bfc5947",
+    "url": "https://www.insulainvestments.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x697ef32b4a3f5a4c39de1cb7563f24ca7bfc5947",
+        "https://ethplorer.io/address/0x697ef32b4a3f5a4c39de1cb7563f24ca7bfc5947"
+    ],
+    "twitter": "insula_im",
+    "telegram": "insulacrypto",
+    "reddit": "Insula_Cryptocurrency/"
+}

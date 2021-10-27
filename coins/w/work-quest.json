@@ -1,0 +1,26 @@
+{
+    "id": "work-quest",
+    "symbol": "wqt",
+    "name": "Work Quest",
+    "platforms": {
+        "ethereum": "0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf",
+        "binance-smart-chain": "0xe89508d74579a06a65b907c91f697cf4f8d9fac7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WorkQuest is the online Marketplace and decentralized Payment Provider connecting employers with employees anywhere in the world powered by Smart Contracts governed by DAO.\r\n\r\nThe platform incentivizes employers and employees to deal honestly and prudently using its Rating System with all the feedback is stored in a blockchain. As platforms act as a facilitator of transactions between employer and the employee, different DeFi products available for platform participants, such as Savings, Retirement & Disability Insurance, Liquidity mining and Lending"
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf",
+    "url": "https://workquest.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf",
+        "https://ethplorer.io/address/0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf",
+        "https://bscscan.com/token/0xe89508d74579a06a65b907c91f697cf4f8d9fac7"
+    ],
+    "twitter": "workquest_co",
+    "telegram": "WorkQuestChat",
+    "github_org": "WorkQuest"
+}

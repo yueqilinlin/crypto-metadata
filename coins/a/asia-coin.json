@@ -1,0 +1,24 @@
+{
+    "id": "asia-coin",
+    "symbol": "ASIA",
+    "name": "Asia Coin",
+    "platforms": {
+        "ethereum": "0xf519381791c03dd7666c142d4e49fd94d3536011"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Asia Coin(ASIA) is the native token of Asia Exchange and aiming to be widely used in Asian markets among diamond-Gold and crypto dealers.\r\nAsiaX is now offering crypto trading combined with 260,000+ loose diamonds stock."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf519381791c03dd7666c142d4e49fd94d3536011",
+    "url": "https://www.asiax.live",
+    "explorers": [
+        "https://etherscan.io/token/0xf519381791c03dd7666c142d4e49fd94d3536011",
+        "https://ethplorer.io/address/0xf519381791c03dd7666c142d4e49fd94d3536011"
+    ],
+    "twitter": "asiandollar",
+    "telegram": "asiacoingroup",
+    "github_org": "AsiaX1"
+}

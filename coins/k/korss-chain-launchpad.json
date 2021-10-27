@@ -1,0 +1,22 @@
+{
+    "id": "korss-chain-launchpad",
+    "symbol": "kclp",
+    "name": "Kross Chain Launchpad",
+    "platforms": {
+        "binance-smart-chain": "0x47b8806c2891c4a92b5c590c32cfe1eb617648ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KCLP has found a solution to bring incentive by rewarding all token holders in a way that is inclusive with a low barrier to entry.\r\n\r\nThe fundamental flaws of the existing launchpad concept is that acquiring enough tokens to participate in the ecosystem is prohibitive and even if you do hold the tokens, you are not guaranteed an allocation spot. Most of the launchpads we see today are \"first-come, first-served\" basis, where bots can fill the spots in a fraction of a second. We have created a fair decentralized launchpad that avoids this problem altogether.\r\n\r\nKCLP will have 3 round sale system that provides every tier level guaranteed allocation.\r\n\r\n\u2022 No bots \u2022 No luck \u2022 No lotteries\r\n\r\nNothing but fair and equal opportunity distribution to all our #KCLP investors."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x47b8806c2891c4a92b5c590c32cfe1eb617648ef",
+    "url": "http://www.kclpad.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x47b8806c2891c4a92b5c590c32cfe1eb617648ef"
+    ],
+    "twitter": "kclpad",
+    "telegram": "kclpad"
+}

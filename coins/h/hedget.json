@@ -1,0 +1,28 @@
+{
+    "id": "hedget",
+    "symbol": "hget",
+    "name": "Hedget",
+    "platforms": {
+        "ethereum": "0x7968bc6a03017ea2de509aaa816f163db0f35148"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Decentralized Exchange Token (DEX)",
+        "Options",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7968bc6a03017ea2de509aaa816f163db0f35148",
+    "url": "https://www.hedget.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7968bc6a03017ea2de509aaa816f163db0f35148",
+        "https://ethplorer.io/address/0x7968bc6a03017ea2de509aaa816f163db0f35148"
+    ],
+    "twitter": "team_hedget",
+    "telegram": "hedgetofficial"
+}

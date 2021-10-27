@@ -1,0 +1,22 @@
+{
+    "id": "kfan-token",
+    "symbol": "kfan",
+    "name": "KFan Token",
+    "platforms": {
+        "binance-smart-chain": "0x8efef94ea1b04aa02814f0f5c7a7389dabdb6d6a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$KPOP Fan Tokens give you exclusive access to special promotions, VIP events, licensed digital photos and moments from your favorite KPOP idols,and a chance to win a FULL KPOP experience in Korea!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8efef94ea1b04aa02814f0f5c7a7389dabdb6d6a",
+    "url": "https://kpop-digital.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8efef94ea1b04aa02814f0f5c7a7389dabdb6d6a"
+    ],
+    "twitter": "KpopToken",
+    "telegram": "KPOPtoken"
+}

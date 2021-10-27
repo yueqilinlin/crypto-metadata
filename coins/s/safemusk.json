@@ -1,0 +1,22 @@
+{
+    "id": "safemusk",
+    "symbol": "safemusk",
+    "name": "SafeMusk",
+    "platforms": {
+        "binance-smart-chain": "0x7aa0f568a5cc0b5395694cb5ad8c9423f8c41a80"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeMusk - Auto-generating liquidity protocol / Static farming."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x7aa0f568a5cc0b5395694cb5ad8c9423f8c41a80",
+    "url": "https://www.safemusk.com/",
+    "explorers": [
+        "https://bscscan.com/token/https://bscscan.com/token/0x7aa0f568a5cc0b5395694cb5ad8c9423f8c41a80"
+    ],
+    "twitter": "SafeMusk",
+    "telegram": "safemusk"
+}

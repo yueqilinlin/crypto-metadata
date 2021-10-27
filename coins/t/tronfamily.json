@@ -1,0 +1,22 @@
+{
+    "id": "tronfamily",
+    "symbol": "fat",
+    "name": "TRONFamily",
+    "platforms": {
+        "tron": ""
+    },
+    "hashing_algorithm": "SHA-3",
+    "categories": [],
+    "description": {
+        "en": "FAT is distributed as Rewards to the Tron-Family voters in the TRON Super Representative Election. FAT is used as a payment in the TRON-Family products."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "url": "http://tron-family.de/",
+    "explorers": [
+        "https://tronscan.org/#/token/1002939"
+    ],
+    "twitter": "tron_family",
+    "telegram": "tron_family",
+    "github_org": "tronfamily"
+}

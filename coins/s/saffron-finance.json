@@ -1,0 +1,28 @@
+{
+    "id": "saffron-finance",
+    "symbol": "sfi",
+    "name": "saffron.finance",
+    "platforms": {
+        "ethereum": "0xb753428af26e81097e7fd17f40c88aaa3e04902c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb753428af26e81097e7fd17f40c88aaa3e04902c",
+    "url": "https://saffron.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xb753428af26e81097e7fd17f40c88aaa3e04902c",
+        "https://ethplorer.io/address/0xb753428af26e81097e7fd17f40c88aaa3e04902c"
+    ],
+    "twitter": "saffronfinance_",
+    "telegram": "saffronfinance",
+    "github_org": "saffron-finance"
+}

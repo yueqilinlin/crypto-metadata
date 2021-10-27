@@ -1,0 +1,22 @@
+{
+    "id": "lildoge",
+    "symbol": "lildoge",
+    "name": "LilDoge",
+    "platforms": {
+        "binance-smart-chain": "0x6a350b5d1110f8c8044c31eddee1773592def9b4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Lil Doge is a REAL community token where the community actually has a say in deciding what we do, as the community wallet fills as we gain traction we will hold polls periodically in our telegram chat where you can vote for where you would like the funds spent so we can all work together to take Lil Doge to meet his Father!"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x6a350b5d1110f8c8044c31eddee1773592def9b4",
+    "url": "https://lildogebsc.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x6a350b5d1110f8c8044c31eddee1773592def9b4"
+    ],
+    "twitter": "LilDoge_BSC",
+    "telegram": "OfficialLilDoge"
+}

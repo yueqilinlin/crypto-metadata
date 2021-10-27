@@ -1,0 +1,25 @@
+{
+    "id": "robet-coin",
+    "symbol": "robet",
+    "name": "RoBet Coin",
+    "platforms": {
+        "ethereum": "0x2344871f523cbb28a4f60045531184cf1f03ad24"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "RoBET is an Ethereum-based sportsbook platform regulated by smart contracts.\r\n\r\nEmploying state-of-the-art blockchain technologies, the RoBET platform is able to offer a truly decentralized betting experience, unlimited betting opportunities, and unbeatable low fees. No more house-favored odds, overpriced fees, and winning limits - RoBET is the ultimate solution for sports betting."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x2344871f523cbb28a4f60045531184cf1f03ad24",
+    "url": "https://www.robetcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x2344871f523cbb28a4f60045531184cf1f03ad24",
+        "https://ethplorer.io/address/0x2344871f523cbb28a4f60045531184cf1f03ad24"
+    ],
+    "twitter": "RoBET_Coin",
+    "telegram": "RobetCoin"
+}

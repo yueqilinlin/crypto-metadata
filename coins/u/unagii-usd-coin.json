@@ -1,0 +1,24 @@
+{
+    "id": "unagii-usd-coin",
+    "symbol": "uusdc",
+    "name": "Unagii USD Coin",
+    "platforms": {
+        "ethereum": "0xbc5991ccd8caceba01edc44c2bb9832712c29cab"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbc5991ccd8caceba01edc44c2bb9832712c29cab",
+    "url": "https://www.unagii.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xbc5991ccd8caceba01edc44c2bb9832712c29cab",
+        "https://ethplorer.io/address/0xbc5991ccd8caceba01edc44c2bb9832712c29cab"
+    ],
+    "twitter": "unagiidotcom",
+    "telegram": "unagiidotcom",
+    "reddit": "https://www.reddit.com"
+}

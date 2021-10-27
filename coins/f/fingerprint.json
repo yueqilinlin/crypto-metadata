@@ -1,0 +1,27 @@
+{
+    "id": "fingerprint",
+    "symbol": "fgp",
+    "name": "FingerPrint",
+    "platforms": {
+        "ethereum": "0xd9a8cfe21c232d485065cb62a96866799d4645f7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "The purpose of the icon is to reflect the current crypto money directly to the current life."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0xd9a8cfe21c232d485065cb62a96866799d4645f7",
+    "url": "https://fingerprintcoin.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xd9a8cfe21c232d485065cb62a96866799d4645f7",
+        "https://ethplorer.io/address/0xd9a8cfe21c232d485065cb62a96866799d4645f7"
+    ],
+    "twitter": "fingerprintcoin",
+    "facebook": "fingerprintcoin",
+    "telegram": "FingerPrintCoin",
+    "github_org": "FGPTEAM"
+}

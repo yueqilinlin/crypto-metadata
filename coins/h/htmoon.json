@@ -1,0 +1,25 @@
+{
+    "id": "htmoon",
+    "symbol": "htmoon",
+    "name": "HTMoon",
+    "platforms": {
+        "huobi-token": "0xb62e3b6a3866f5754fdefcf82e733310e2851043"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "HECO Chain Ecosystem"
+    ],
+    "description": {
+        "en": "HTMoon is the first community token issued based on the HTMoon Protocol. The HTMoon Protocol was developed by an anonymous team. The background of the HTMoon Protocol development is that the HTMoon team believes that the value of HT Token is seriously underestimated!"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xb62e3b6a3866f5754fdefcf82e733310e2851043",
+    "url": "https://htmoon.finance/",
+    "explorers": [
+        "https://hecoinfo.com/token/0xb62e3b6a3866f5754fdefcf82e733310e2851043"
+    ],
+    "twitter": "HTMoon_Finance",
+    "telegram": "HTMoonFinance",
+    "github_org": "htmoon"
+}

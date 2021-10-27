@@ -1,0 +1,24 @@
+{
+    "id": "elon-doge-token",
+    "symbol": "edoge",
+    "name": "ElonDoge Token",
+    "platforms": {
+        "binance-smart-chain": "0x163f182c32d24a09d91eb75820cde9fd5832b329"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "ELONDOGE is a project that takes the mission to prepare society for the Mars colony seriously. With $EDOGE, we can power the Mars society with a universal basic income thru the reflectivity mechanism, expanding liquidity while producing endless ELON+DOGE NFTs as a proof of culture. These NFTs are the golden tickets for those chosen to be on the first MARS journey."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x163f182c32d24a09d91eb75820cde9fd5832b329",
+    "url": "https://elondoge.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x163f182c32d24a09d91eb75820cde9fd5832b329"
+    ],
+    "twitter": "elondogeio",
+    "telegram": "elondogeio"
+}

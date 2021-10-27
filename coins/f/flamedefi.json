@@ -1,0 +1,22 @@
+{
+    "id": "flamedefi",
+    "symbol": "fdao",
+    "name": "FlameDefi",
+    "platforms": {
+        "tezos": "KT1KPoyzkj82Sbnafm6pfesZKEhyCpXwQfMc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FlameDefi is a project based on the Tezos blockchain that combines:\r\n\r\n- Yield farming (SpaceFarm)\r\n- Decentralized Exchange (FlameDEX)\r\n- NFT & Gaming (SpaceFarmer)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT1KPoyzkj82Sbnafm6pfesZKEhyCpXwQfMc",
+    "url": "https://flame.spacefarm.xyz",
+    "explorers": [
+        "https://tzkt.io/KT1KPoyzkj82Sbnafm6pfesZKEhyCpXwQfMc/operations/"
+    ],
+    "twitter": "flamedefi",
+    "telegram": "FLAMEtokenFarm"
+}

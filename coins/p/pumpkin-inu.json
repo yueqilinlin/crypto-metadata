@@ -1,0 +1,22 @@
+{
+    "id": "pumpkin-inu",
+    "symbol": "pumpkin",
+    "name": "Pumpkin Inu",
+    "platforms": {
+        "binance-smart-chain": "0x5619c8eaa4b45af1199c179a6ec77bceb7c38103"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5619c8eaa4b45af1199c179a6ec77bceb7c38103",
+    "url": "https://www.pumpkininu.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x5619c8eAA4B45af1199c179a6ec77BCEb7c38103"
+    ],
+    "twitter": "PumpKinInu",
+    "telegram": "PumpKinInu"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "shibapup",
+    "symbol": "shibapup",
+    "name": "ShibaPup",
+    "platforms": {
+        "binance-smart-chain": "0x8203612382f61bafae549fbf31efbf70992fa289"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "Shiba PUP is BSC based MEME token. Shiba Inu in young ages..."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x8203612382f61bafae549fbf31efbf70992fa289",
+    "url": "https://shibapup.dog",
+    "explorers": [
+        "https://bscscan.com/token/0x8203612382f61bafae549fbf31efbf70992fa289"
+    ],
+    "twitter": "shibapupdog",
+    "telegram": "shibapupdog"
+}

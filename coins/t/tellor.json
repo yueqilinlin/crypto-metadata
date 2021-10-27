@@ -1,0 +1,31 @@
+{
+    "id": "tellor",
+    "symbol": "trb",
+    "name": "Tellor",
+    "platforms": {
+        "ethereum": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Business Services",
+        "Decentralized Finance (DeFi)",
+        "Oracle"
+    ],
+    "description": {
+        "en": "Smart contracts on Ethereum are fully self contained and any information or access to off-chain data is restricted.  Tellor solves this problem by creating a system where parties can request the value of an off-chain data point (e.g. ETH/USD) and miners compete to add this value to an on-chain data bank, accessible by all Ethereum smart contracts.  Inputs to a data series are secured by a network of staked miners. The main Tellor smart contract creates a time series of each requested data series and aims to become the standard source of high value data for decentralized applications. This oracle, \u201cTellor\u201d,  utilizes similar incentive mechanisms to other cryptocurrency systems through the issuance of Tellor\u2019s token, Tributes, that are used to request a particular data series from miners.  "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
+    "url": "http://www.tellor.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
+        "https://ethplorer.io/address/0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
+        "https://disputes.tellorscan.com/",
+        "https://prices.tellorscan.com/"
+    ],
+    "twitter": "WeAreTellor",
+    "telegram": "tellor",
+    "github_org": "tellor-io"
+}

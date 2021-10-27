@@ -1,0 +1,25 @@
+{
+    "id": "ix-swap",
+    "symbol": "ixs",
+    "name": "IX Swap",
+    "platforms": {
+        "ethereum": "0x73d7c860998ca3c01ce8c808f5577d94d545d1b4",
+        "polygon-pos": "0x1ba17c639bdaecd8dc4aac37df062d17ee43a1b8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "IX Swap is the \u201cUniswap\u201d for security tokens (STO) and tokenized stocks (TSO). IX Swap will be the FIRST platform to provide liquidity pools and automated market making functions for the security token (STO) & tokenized stock industry (TSO).\r\n\r\nThe platform will be the first DeFi platform to facilitate the trading of security tokens through licensed custodians and security brokers which will provide actual ownership and claim over these real world assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x73d7c860998ca3c01ce8c808f5577d94d545d1b4",
+    "url": "http://ixswap.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x73d7c860998ca3c01ce8c808f5577d94d545d1b4",
+        "https://ethplorer.io/address/0x73d7c860998ca3c01ce8c808f5577d94d545d1b4",
+        "https://polygonscan.com/token/0x1ba17c639bdaecd8dc4aac37df062d17ee43a1b8"
+    ],
+    "twitter": "IxSwap",
+    "telegram": "ixswapofficial"
+}

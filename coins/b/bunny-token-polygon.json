@@ -1,0 +1,22 @@
+{
+    "id": "bunny-token-polygon",
+    "symbol": "polybunny",
+    "name": "Pancake Bunny Polygon",
+    "platforms": {
+        "polygon-pos": "0x4c16f69302ccb511c5fac682c7626b9ef0dc126a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PancakeBunny on MATIC."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4c16f69302ccb511c5fac682c7626b9ef0dc126a",
+    "url": "https://polygon.pancakebunny.finance/pool",
+    "explorers": [
+        "https://polygonscan.com/token/0x4c16f69302ccb511c5fac682c7626b9ef0dc126a"
+    ],
+    "twitter": "PancakeBunnyFin",
+    "telegram": "pancakebunny_fin"
+}

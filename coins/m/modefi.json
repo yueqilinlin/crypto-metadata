@@ -1,0 +1,30 @@
+{
+    "id": "modefi",
+    "symbol": "mod",
+    "name": "Modefi",
+    "platforms": {
+        "ethereum": "0xea1ea0972fa092dd463f2968f9bb51cc4c981d71",
+        "binance-smart-chain": "0xd4fbc57b6233f268e7fba3b66e62719d74deecbc",
+        "polygon-pos": "0x8346ab8d5ea7a9db0209aed2d1806afa0e2c4c21",
+        "fantom": "0xe64b9fd040d1f9d4715c645e0d567ef69958d3d9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fantom Ecosystem",
+        "Oracle"
+    ],
+    "description": {
+        "en": "Modefi provides a truly decentralized, secure and precise Oracle Solutions Platform."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0xea1ea0972fa092dd463f2968f9bb51cc4c981d71",
+    "url": "https://modefi.io",
+    "explorers": [
+        "https://etherscan.io/token/0xea1ea0972fa092dd463f2968f9bb51cc4c981d71",
+        "https://ethplorer.io/address/0xea1ea0972fa092dd463f2968f9bb51cc4c981d71",
+        "https://bscscan.com/token/0xd4fbc57b6233f268e7fba3b66e62719d74deecbc"
+    ],
+    "twitter": "Modefi_Official",
+    "telegram": "modefi_official"
+}

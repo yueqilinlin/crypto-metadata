@@ -1,0 +1,21 @@
+{
+    "id": "to-the-mars",
+    "symbol": "mars",
+    "name": "To The Mars",
+    "platforms": {
+        "binance-smart-chain": "0x4ec57b0156564dddea375f313927ec2ddc975d69"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeFi platform on the Binance Smart Chain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4ec57b0156564dddea375f313927ec2ddc975d69",
+    "url": "https://tothemars.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x4eC57B0156564DDdEa375F313927ec2DDc975D69"
+    ],
+    "telegram": "mars_chat"
+}

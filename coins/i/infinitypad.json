@@ -1,0 +1,22 @@
+{
+    "id": "infinitypad",
+    "symbol": "infp",
+    "name": "InfinityPad",
+    "platforms": {
+        "binance-smart-chain": "0xfe82eff54a58c21ffc9523c4998d5dad84dcbd50"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "InfinityPad is Chain agnostic, Decentralized, Community-Owned Protocol Powered by BSC.\r\n\r\nInfinityPad ($INFP) is a next level launchpad to help raise capital across multiple blockchains on a single platform in a fully transparent and decentralized way by connecting projects and communities."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfe82eff54a58c21ffc9523c4998d5dad84dcbd50",
+    "url": "https://infinitypad.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xfe82eff54a58c21ffc9523c4998d5dad84dcbd50"
+    ],
+    "twitter": "InfinityPad_io",
+    "telegram": "infinitypad"
+}

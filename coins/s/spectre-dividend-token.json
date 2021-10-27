@@ -1,0 +1,25 @@
+{
+    "id": "spectre-dividend-token",
+    "symbol": "sxdt",
+    "name": "Spectre.ai Dividend Token",
+    "platforms": {
+        "ethereum": "0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The future of Digital Options, Forex and CFD trading is here. SPECTRE, short for speculative tokenised trading exchange, is a financial prediction market platform backed by a tokenised liquidity pool. Built on the Ethereum blockchain, SPECTRE's platform combined with the decentralised and autonomous liquidity pool owned by the token sale investors takes the broker out of the equation completely resulting in a revolutionary change in the trading world and a new level of transparency. "
+    },
+    "country_origin": "",
+    "genesis_date": "2017-12-11",
+    "contract_address": "0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf",
+    "url": "http://www.spectre.ai/",
+    "explorers": [
+        "https://etherscan.io/token/0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf",
+        "https://ethplorer.io/address/0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf"
+    ],
+    "twitter": "SpectreAI",
+    "facebook": "spectrepage",
+    "reddit": "Spectre_ai/",
+    "github_org": "spectre-ai"
+}

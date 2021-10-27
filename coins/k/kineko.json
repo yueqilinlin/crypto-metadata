@@ -1,0 +1,25 @@
+{
+    "id": "kineko",
+    "symbol": "kko",
+    "name": "Kineko",
+    "platforms": {
+        "ethereum": "0x368c5290b13caa10284db58b4ad4f3e9ee8bf4c9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x368c5290b13caa10284db58b4ad4f3e9ee8bf4c9",
+    "url": "https://kineko.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x368c5290b13caa10284db58b4ad4f3e9ee8bf4c9",
+        "https://ethplorer.io/address/0x368c5290b13caa10284db58b4ad4f3e9ee8bf4c9"
+    ],
+    "twitter": "KinekoDefi",
+    "telegram": "KinekoDefi"
+}

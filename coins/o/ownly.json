@@ -1,0 +1,24 @@
+{
+    "id": "ownly",
+    "symbol": "own",
+    "name": "Ownly",
+    "platforms": {
+        "binance-smart-chain": "0x7665cb7b0d01df1c9f9b9cc66019f00abd6959ba"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OWNLY is a governance, token-based NFT platform that enable creators and collectors optimize the authentic value of NFT assets. Ownly is created to be a meeting place of artworks and collectors in the crypto space.\r\n\r\nOWN Token is the native utility token of Ownly, users are able to buy, own, collect, and trade 1 of 1 edition crypto artworks by talented artists. Own the only true copy and there's nothing else like that in the world -- as if it's made just for you."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7665cb7b0d01df1c9f9b9cc66019f00abd6959ba",
+    "url": "https://ownly.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x7665cb7b0d01df1c9f9b9cc66019f00abd6959ba"
+    ],
+    "twitter": "ownlyio",
+    "telegram": "ownlyio",
+    "reddit": "Ownly/",
+    "github_org": "ownlyio"
+}

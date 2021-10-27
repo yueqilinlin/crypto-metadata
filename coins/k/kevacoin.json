@@ -1,0 +1,20 @@
+{
+    "id": "kevacoin",
+    "symbol": "kva",
+    "name": "Kevacoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kevacoin is a cryptocurrency used in blockchain. An easy-to-use and easy-to-use blockchain database, encrypted assets and blockchain public data storage for developers and the entire population Data storage is easy to add, update, and access; no programming skills are required, nor do smart contracts and their associated complexity and risks.\r\n\r\nUsing CPU-friendly mining algorithms, there is no mining, no founder rewards and no ICO. We developed Kevacoin as an open source project. It is not funded by any company or foundation. We invite anyone interested in the project to join us."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://kevacoin.org/",
+    "explorers": [
+        "https://explorer.kevacoin.org/",
+        "https://insight.kevacoin.org/#/KVA/mainnet/home"
+    ],
+    "twitter": "kevacoin",
+    "github_org": "kevacoin-project"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "aldrin",
+    "symbol": "rin",
+    "name": "Aldrin",
+    "platforms": {
+        "solana": "E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem",
+        "Decentralized Exchange Token (DEX)",
+        "Automated Market Maker (AMM)"
+    ],
+    "description": {
+        "en": "Aldrin\u2019s mission is to simplify DeFi and create powerful tools for all traders to succeed.\r\nLive Solana DEX & launching CEX soon."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp",
+    "url": "https://aldrin.com/",
+    "explorers": [
+        "https://solscan.io/token/E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp"
+    ],
+    "twitter": "Aldrin_Exchange",
+    "telegram": "Aldrin_Exchange",
+    "github_org": "Cryptocurrencies-AI"
+}

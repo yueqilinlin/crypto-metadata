@@ -1,0 +1,24 @@
+{
+    "id": "interlude",
+    "symbol": "ish",
+    "name": "Interlude",
+    "platforms": {
+        "binance-smart-chain": "0xe377462302280136d7987720267fc4315b557b93"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Interlude is the scavenger hunt protocol: a protocol that allows game developers to connect their game to a smart contract, which then automatically creates scavenger hunts with crypto prizes over this network of games. The protocol has its own native (BEP20) cryptocurrency, the Shell (ISH). It is a utility token that is used to buy tickets for the hunt, register keys, and participate in the network's governance."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe377462302280136d7987720267fc4315b557b93",
+    "url": "https://interlude.gg",
+    "explorers": [
+        "https://bscscan.com/token/0xe377462302280136d7987720267fc4315b557b93"
+    ],
+    "twitter": "ProjInterlude",
+    "telegram": "ProjectInterlude",
+    "reddit": "ProjectInterlude/",
+    "github_org": "ProjectInterlude"
+}

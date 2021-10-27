@@ -1,0 +1,25 @@
+{
+    "id": "eunomia",
+    "symbol": "ents",
+    "name": "EUNOMIA",
+    "platforms": {
+        "ethereum": "0x0f612a09ead55bb81b6534e80ed5a21bf0a27b16"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "EUNOMIA is a decentralized marketing ecosystem. Utilizing blockchain technology, it builds an online marketplace that allows merchants  to tokenize their products, sell it  and promote their products efficiently. We try to help SME\u2019S (UKM) in INDONESIA in order to be able to market its in online, not only in Indonesia but also International."
+    },
+    "country_origin": "ID",
+    "genesis_date": "2018-09-15",
+    "contract_address": "0x0f612a09ead55bb81b6534e80ed5a21bf0a27b16",
+    "url": "https://ent.zone/",
+    "explorers": [
+        "https://etherscan.io/token/0x0f612a09ead55bb81b6534e80ed5a21bf0a27b16",
+        "https://ethplorer.io/address/0x0f612a09ead55bb81b6534e80ed5a21bf0a27b16"
+    ],
+    "twitter": "EunomiaToken",
+    "facebook": "eunomiatoken",
+    "telegram": "eunomiaglobal",
+    "github_org": "ENTSProject"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "french-ico-coin",
+    "symbol": "fico",
+    "name": "French ICO Coin",
+    "platforms": {
+        "ethereum": "0x7e442206da059905050ba02be63cbb85c559eb04"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FRENCH ICO is a ICO plateform."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x7e442206da059905050ba02be63cbb85c559eb04",
+    "url": "https://www.french-ico.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7e442206da059905050ba02be63cbb85c559eb04",
+        "https://ethplorer.io/address/0x7e442206da059905050ba02be63cbb85c559eb04"
+    ],
+    "twitter": "IcoFrench",
+    "facebook": "FRENCHICOcom"
+}

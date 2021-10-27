@@ -1,0 +1,25 @@
+{
+    "id": "polkawar",
+    "symbol": "pwar",
+    "name": "PolkaWar",
+    "platforms": {
+        "binance-smart-chain": "0x16153214e683018d5aa318864c8e692b66e16778"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gaming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x16153214e683018d5aa318864c8e692b66e16778",
+    "url": "https://polkawar.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x16153214e683018d5aa318864c8e692b66e16778"
+    ],
+    "twitter": "polkawarnft",
+    "telegram": "polkawarchat",
+    "github_org": "polkawar"
+}

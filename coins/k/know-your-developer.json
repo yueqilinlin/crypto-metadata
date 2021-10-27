@@ -1,0 +1,22 @@
+{
+    "id": "know-your-developer",
+    "symbol": "kydc",
+    "name": "Know Your Developer",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Technology & Science",
+        "Masternodes"
+    ],
+    "description": {
+        "en": "\"Know Your Developer (KYD) - Trust between community and developer!\r\n\r\nKYD is a platform that allows users of cryptocurrency to find and verify blockchain developers to create trust for investors, developers and projects.\""
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "url": "https://kydcoin.io",
+    "explorers": [
+        "http://explorer.kydcoin.io/"
+    ],
+    "twitter": "KYDcoin",
+    "github_org": "kydcoin"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "kokomo-token",
+    "symbol": "kokomo",
+    "name": "Kokomo Token",
+    "platforms": {
+        "binance-smart-chain": "0x9a7b87651c6c93cedb831b2b3b5549142a813cfe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A fun & easy AMM DEX on Binance Smart Chain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9a7b87651c6c93cedb831b2b3b5549142a813cfe",
+    "url": "https://kokomoswap.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x9a7b87651c6c93cedb831b2b3b5549142a813cfe"
+    ],
+    "twitter": "kokomoswap",
+    "telegram": "kokomo_community",
+    "github_org": "KokomoSwap"
+}

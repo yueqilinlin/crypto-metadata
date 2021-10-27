@@ -1,0 +1,22 @@
+{
+    "id": "safezone",
+    "symbol": "safezone",
+    "name": "SafeZone",
+    "platforms": {
+        "binance-smart-chain": "0x10f181b87e2a4af6120452a29570fcf74b082c16"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hold SafeZone Tokens in Your Wallet and Watch Your Balance increase."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x10f181b87e2a4af6120452a29570fcf74b082c16",
+    "url": "https://safezone.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x10f181b87e2a4af6120452a29570fcf74b082c16"
+    ],
+    "twitter": "Safezonefinance",
+    "telegram": "safezonefinance"
+}

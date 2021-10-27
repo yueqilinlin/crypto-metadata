@@ -1,0 +1,22 @@
+{
+    "id": "stonkbase",
+    "symbol": "sbf",
+    "name": "StonkBase",
+    "platforms": {
+        "ethereum": "0x2697e0974e4fd348869d9cd414b7eaad8ee35c6e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Governance token for the stonkbase.org protocol, a synthetic stock trading platform"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2697e0974e4fd348869d9cd414b7eaad8ee35c6e",
+    "url": "https://stonkbase.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x2697e0974e4fd348869d9cd414b7eaad8ee35c6e",
+        "https://ethplorer.io/address/0x2697e0974e4fd348869d9cd414b7eaad8ee35c6e"
+    ],
+    "twitter": "StonkBase"
+}

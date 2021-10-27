@@ -1,0 +1,23 @@
+{
+    "id": "defistarter",
+    "symbol": "dfi",
+    "name": "DfiStarter",
+    "platforms": {
+        "binance-smart-chain": "0x239ec95667e37929d33066a8df8ddc9444dbcbca"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DfiStarter is the First Project Accelerator for Dfinity.\r\n\r\nDfiStarter brings crowdfunding, PR, marketing, and tech support services to the Dfinity ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x239ec95667e37929d33066a8df8ddc9444dbcbca",
+    "url": "https://dfistarter.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x239ec95667e37929d33066a8df8ddc9444dbcbca"
+    ],
+    "twitter": "DfiStarterPad",
+    "telegram": "DfiStarterOfficial",
+    "github_org": "DfiStarter"
+}

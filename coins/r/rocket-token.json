@@ -1,0 +1,24 @@
+{
+    "id": "rocket-token",
+    "symbol": "rckt",
+    "name": "Rocket Token",
+    "platforms": {
+        "ethereum": "0x78571accaf24052795f98b11f093b488a2d9eaa4",
+        "tezos": "KT19JYndHaesXpvUfiwgg8BtE41HKkjjGMRC"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x78571accaf24052795f98b11f093b488a2d9eaa4",
+    "url": "https://rockettoken.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x78571accaf24052795f98b11f093b488a2d9eaa4",
+        "https://ethplorer.io/address/0x78571accaf24052795f98b11f093b488a2d9eaa4"
+    ],
+    "twitter": "RocketToken",
+    "telegram": "RocketToken"
+}

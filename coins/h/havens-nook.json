@@ -1,0 +1,25 @@
+{
+    "id": "havens-nook",
+    "symbol": "hxn",
+    "name": "Havens Nook",
+    "platforms": {
+        "ethereum": "0x0e1fe60bc4ac0e3102343752ae7e49d01d444c0b",
+        "polygon-pos": "0x175bdc4e52eecb675b86fc4c9a3ea3f80adbb610"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Havens Nook (HXN) is an Ethereum-based token that introduces a new concept proof of fun (POF)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0e1fe60bc4ac0e3102343752ae7e49d01d444c0b",
+    "url": "https://havensnook.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x0E1fe60bc4aC0e3102343752ae7E49d01d444c0b",
+        "https://ethplorer.io/address/0x0E1fe60bc4aC0e3102343752ae7E49d01d444c0b"
+    ],
+    "twitter": "Havens_Nook",
+    "telegram": "havensnook",
+    "github_org": "Havensnook"
+}

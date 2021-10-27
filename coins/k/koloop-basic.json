@@ -1,0 +1,23 @@
+{
+    "id": "koloop-basic",
+    "symbol": "kpc",
+    "name": "Koloop Basic",
+    "platforms": {
+        "binance-smart-chain": "0xa511768003d01eaa0f464feeea4b1cddc4254b4f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A powerful chain for trusted and decentralized casino gaming combined with the Live Dealer module is Koloop Basic (KPC). KOLOOP BASIC (KPC) is a platform currency representing value and wealth in the decentralized economy used for the exchange of values between KOLOOP BASIC companies, employees, customers, and other third-party entities.\r\nKOLOOP BASIC is a new form of governance system, a think-tank where innovation, entrepreneurship, and technological advancements are the priority, creating a much needed utility focus to the blockchain space."
+    },
+    "country_origin": "BD",
+    "genesis_date": null,
+    "contract_address": "0xa511768003d01eaa0f464feeea4b1cddc4254b4f",
+    "url": "https://koloop.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xa511768003d01eaa0f464feeea4b1cddc4254b4f"
+    ],
+    "twitter": "KoloopB",
+    "telegram": "KPC_SUPPORT",
+    "github_org": "KPC-TOKEN"
+}

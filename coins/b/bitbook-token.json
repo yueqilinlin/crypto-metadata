@@ -1,0 +1,23 @@
+{
+    "id": "bitbook-token",
+    "symbol": "bbt",
+    "name": "BitBook",
+    "platforms": {
+        "binance-smart-chain": "0xd48474e7444727bf500a32d5abe01943f3a59a64"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BitBook is the travel platform where people can book accommodation and earn tokens in the process. With our Token Reward program, not only will we drive adoption of the platform by incentivizing users to bring their friends onboard, but also we drive organic traffic by rewarding users who create remarkable travel content.\r\n\r\nThe creation of BitBook Token is what allows us to bring this project from a concept to a platform that will be able to disrupt the current market leaders. Our initial target market stretches across two huge industries: the hotel industry, valued at $528 billion, and the crypto industry valued at $2 trillion. Other crypto companies make the mistake of not having a solid working growth model.\r\n\r\nBitBook, on the contrary, is built with a focus on growth where everyone benefits: users are rewarded with tokens when they use our platform, and accommodation providers benefit from a lower commission structure solving their biggest challenge."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0xd48474e7444727bf500a32d5abe01943f3a59a64",
+    "url": "https://www.bitbook.network/",
+    "explorers": [
+        "https://bscscan.com/token/0xd48474e7444727bf500a32d5abe01943f3a59a64"
+    ],
+    "twitter": "BitbookT",
+    "facebook": "BitBookTravel",
+    "telegram": "bitbooknetwork"
+}

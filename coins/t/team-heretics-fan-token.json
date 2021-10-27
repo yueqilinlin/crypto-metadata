@@ -1,0 +1,23 @@
+{
+    "id": "team-heretics-fan-token",
+    "symbol": "th",
+    "name": "Team Heretics Fan Token",
+    "platforms": {
+        "chiliz": "0x76af7f5ad0c02587b302e5933ecc9ba5f40604ce"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fan Token"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x76af7f5ad0c02587b302e5933ecc9ba5f40604ce",
+    "url": "https://teamheretics.com/",
+    "explorers": [
+        "https://explorer.chiliz.com/address/0x76af7f5ad0c02587b302e5933ecc9ba5f40604ce"
+    ],
+    "twitter": "teamheretics"
+}

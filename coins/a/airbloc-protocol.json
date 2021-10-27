@@ -1,0 +1,26 @@
+{
+    "id": "airbloc-protocol",
+    "symbol": "abl",
+    "name": "Airbloc",
+    "platforms": {
+        "ethereum": "0xf8b358b3397a8ea5464f8cc753645d42e14b79ea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Airbloc Protocol redefines how data is collected, monetized and utilized. Leveraging blockchain technology and token economics, it seeks to facilitate more transparent data flows between data owners, data providers and data consumers. \r\n\r\nUltimately, it aims to return data ownership back to data owners, provide applications with tools to collect and monetize data legitimately, and allow data consumers to purchase explicitly consented data with an auditable source of provenance for their business intelligence, research, and targeted marketing purposes."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xf8b358b3397a8ea5464f8cc753645d42e14b79ea",
+    "url": "https://www.airbloc.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xf8b358b3397a8ea5464f8cc753645d42e14b79EA",
+        "https://ethplorer.io/address/0xf8b358b3397a8ea5464f8cc753645d42e14b79ea"
+    ],
+    "twitter": "AirblocOfficial",
+    "facebook": "AirblocOfficial",
+    "telegram": "airbloc",
+    "reddit": "airbloc",
+    "github_org": "airbloc"
+}

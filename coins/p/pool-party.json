@@ -1,0 +1,24 @@
+{
+    "id": "pool-party",
+    "symbol": "pp",
+    "name": "Pool Party",
+    "platforms": {
+        "binance-smart-chain": "0xd4b52510719c594514ce7fed6cc876c03278ccf8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pool Party token provides a unique take on rewards tokens. The two key components of it's ecosystem are the Pool Party Loyalty Staking Program & the investment pools the program is connected to. Which both are fully automated to ensure longevity of the project.\r\n\r\nThe Pool Party Loyalty Staking Program allows holders of the token to stake them & earn rewards weekly. The amount of rewards they receive are calculated by the amount of tokens they hold & the duration of their stake. The rewards for these tokens are sourced by pooled investments which a portion of every buy & sell transaction adds to. \r\n\r\nRather than transaction volume the yield from these investment pools is what drive the rewards that participants in the Loyalty Staking Program earn weekly. Additionally, a portion of the yield from these investment pools is used to auto-compound back into the investment pools, burn tokens, add to liquidity, and generate marketing funds."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd4b52510719c594514ce7fed6cc876c03278ccf8",
+    "url": "https://www.poolparty.investments/",
+    "explorers": [
+        "https://bscscan.com/token/0xd4b52510719c594514ce7fed6cc876c03278ccf8"
+    ],
+    "twitter": "PoolPartyInvest",
+    "telegram": "poolpartyinvestmentsgroup",
+    "reddit": "PoolPartyInvestments/",
+    "github_org": "poolpartydev"
+}

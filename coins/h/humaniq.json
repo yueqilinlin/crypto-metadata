@@ -1,0 +1,27 @@
+{
+    "id": "humaniq",
+    "symbol": "hmq",
+    "name": "Humaniq",
+    "platforms": {
+        "ethereum": "0xcbcc0f036ed4788f63fc0fee32873d6a7487b908"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Humaniq is a financial ecosystem built on blockchain, focused on simply and quickly connecting unbanked people to the global economy. It combines blockchain bank as a core platform for financial services and technology start-ups, biometrics that replaces passports and signatures, ICO and distributed ownership instead of shareholders, and an investment fund for third-party start-up acquisition and acceleration"
+    },
+    "country_origin": "GB",
+    "genesis_date": "2017-05-08",
+    "contract_address": "0xcbcc0f036ed4788f63fc0fee32873d6a7487b908",
+    "url": "https://humaniq.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xcbcc0f036ed4788f63fc0fee32873d6a7487b908",
+        "https://ethplorer.io/address/0xcbcc0f036ed4788f63fc0fee32873d6a7487b908"
+    ],
+    "twitter": "Humaniq_co",
+    "facebook": "humaniq.co",
+    "reddit": "Humaniq",
+    "github_org": "humaniq"
+}

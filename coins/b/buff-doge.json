@@ -1,0 +1,24 @@
+{
+    "id": "buff-doge",
+    "symbol": "buffdoge",
+    "name": "Buff Doge",
+    "platforms": {
+        "ethereum": "0x0a7e4d70e10b63fef9f8dd19fba3818d15154d2f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$BuffDoge is a fair-launched community token, designed to get stronger without surprises. Revolutionary anti-whale mechanics protect your hard-earned gains by preventing price dumps."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x0a7e4d70e10b63fef9f8dd19fba3818d15154d2f",
+    "url": "https://www.buffdoge.online/",
+    "explorers": [
+        "https://etherscan.io/token/0x0A7e4D70e10b63FeF9F8dD19FbA3818d15154d2F",
+        "https://ethplorer.io/address/0x0A7e4D70e10b63FeF9F8dD19FbA3818d15154d2F"
+    ],
+    "twitter": "buffdogefounder",
+    "telegram": "BuffDogeAnnouncements",
+    "github_org": "buffdoge"
+}

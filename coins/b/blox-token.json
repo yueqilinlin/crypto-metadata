@@ -1,0 +1,22 @@
+{
+    "id": "blox-token",
+    "symbol": "blox",
+    "name": "Blox Token",
+    "platforms": {
+        "zilliqa": "zil1gf5vxndx44q6fn025fwdaajnrmgvngdzel0jzp"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BLOX is a software development kit which aims at assisting video game developers with integrating the blockchain into their applications. Developing a decentralized application requires a lot of knowledge of blockchain technology such as wallets, transaction GAS fees, smart contracts et cetera.\r\n\r\nThe BLOX SDK aims to simplify the blockchain for both users and developers, providing a smooth website-builder like experience."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "zil1gf5vxndx44q6fn025fwdaajnrmgvngdzel0jzp",
+    "url": "https://zilliqaroyale.com/",
+    "explorers": [
+        "https://viewblock.io/zilliqa/address/zil1gf5vxndx44q6fn025fwdaajnrmgvngdzel0jzp"
+    ],
+    "twitter": "blox_sdk",
+    "telegram": "zilliqaroyale_discussion"
+}

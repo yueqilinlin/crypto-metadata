@@ -1,0 +1,22 @@
+{
+    "id": "blockchain-quotations-index-token",
+    "symbol": "bqt",
+    "name": "Blockchain Quotations Index Token",
+    "platforms": {
+        "ethereum": "0x5eb87caa0105a63aa87a36c7bd2573bd13e84fae"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Your window into the world of cryptocurrency, gathering data from more than 100 exchanges to bring you real-time prices and historical charts for over 2400 coins. You can add your favourite cryptocurrencies to a handy watchlist, making it easy to follow the coins that are most relevant to you. If you want to track the performance of your coins more closely, you can add them to our intuitive portfolio feature. Staying informed about upcoming tokens is easy with our ICO calendar, which features information on a wide selection of upcoming and completed token sales. CoinCodex is not just designed for use with a personal computer, but is also optimized for mobile devices, so you can check out what\u2019s going on with the cryptocurrency market anywhere, anytime. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5eb87caa0105a63aa87a36c7bd2573bd13e84fae",
+    "url": "https://www.bqi.com/cn/",
+    "explorers": [
+        "https://etherscan.io/token/0x5eb87caa0105a63aa87a36c7bd2573bd13e84fae",
+        "https://ethplorer.io/address/0x5eb87caa0105a63aa87a36c7bd2573bd13e84fae"
+    ],
+    "telegram": "bqi_en"
+}

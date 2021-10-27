@@ -1,0 +1,24 @@
+{
+    "id": "block-commerce-protocol",
+    "symbol": "bcp",
+    "name": "Block Commerce Protocol",
+    "platforms": {
+        "ethereum": "0x4612021c75809160be60db21fbc9d6add0b32def"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Block Commerce Protocol creates new added value and online transaction innovation by fusing block chain with the rapidly emerging live. Block Commerce Protocol, which stands for an all-in-one live commerce platform.\r\nWe aim to take charge of everything from development to live commerce.\r\nThis aims to globalize the live commerce industry and streaming services."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x4612021c75809160be60db21fbc9d6add0b32def",
+    "url": "https://bcprotocol.io",
+    "explorers": [
+        "https://etherscan.io/token/0x4612021c75809160be60db21fbc9d6add0b32def",
+        "https://ethplorer.io/address/0x4612021c75809160be60db21fbc9d6add0b32def"
+    ],
+    "twitter": "bcp_block",
+    "telegram": "bcp_official_channel",
+    "github_org": "JoshepJang"
+}

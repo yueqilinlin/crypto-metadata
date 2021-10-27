@@ -1,0 +1,23 @@
+{
+    "id": "hummingbird-egg-token",
+    "symbol": "hegg",
+    "name": "Hummingbird Egg Token",
+    "platforms": {
+        "binance-smart-chain": "0x778682c19797d985c595429fbc51d67736013a86"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Trade and earn crypto on the new big thing in a decentralized forest."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x778682c19797d985c595429fbc51d67736013a86",
+    "url": "https://nestswap.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x778682c19797d985c595429fbc51d67736013a86"
+    ],
+    "twitter": "HmngBsc",
+    "telegram": "hummingbirdbsc",
+    "reddit": "HmngBsc/"
+}

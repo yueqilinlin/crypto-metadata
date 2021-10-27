@@ -1,0 +1,22 @@
+{
+    "id": "scan-defi",
+    "symbol": "scan",
+    "name": "Scan DeFi",
+    "platforms": {
+        "binance-smart-chain": "0xccce542413528cb57b5761e061f4683a1247adcb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We are creating a platform to detect scams in the world of cryptocurrencies, the user will be able to report scammers and thus warn other users of the danger. In addition, the platform will have different sections and projects (NFTs, gaming section, staking, battle etc etc)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xccce542413528cb57b5761e061f4683a1247adcb",
+    "url": "https://scandefi.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xccce542413528cb57b5761e061f4683a1247adcb"
+    ],
+    "twitter": "ScanDefi",
+    "telegram": "scandefi"
+}

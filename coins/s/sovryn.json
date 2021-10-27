@@ -1,0 +1,26 @@
+{
+    "id": "sovryn",
+    "symbol": "sov",
+    "name": "Sovryn",
+    "platforms": {
+        "ethereum": "0xbdab72602e9ad40fc6a6852caf43258113b8f7a5",
+        "rootstock": "0xefc78fc7d48b64958315949279ba181c2114abbd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sovryn is a non-custodial and permission-less smart contract based system for bitcoin lending, borrowing and margin trading."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbdab72602e9ad40fc6a6852caf43258113b8f7a5",
+    "url": "https://sovryn.app",
+    "explorers": [
+        "https://etherscan.io/token/0xbdab72602e9ad40fc6a6852caf43258113b8f7a5",
+        "https://ethplorer.io/address/0xbdab72602e9ad40fc6a6852caf43258113b8f7a5"
+    ],
+    "twitter": "SovrynBTC",
+    "telegram": "SovrynBitcoin",
+    "reddit": "Sovryn/",
+    "github_org": "DistributedCollective"
+}

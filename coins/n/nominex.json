@@ -1,0 +1,26 @@
+{
+    "id": "nominex",
+    "symbol": "nmx",
+    "name": "Nominex",
+    "platforms": {
+        "binance-smart-chain": "0xd32d01a43c869edcd1117c640fbdcfcfd97d9d65"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd32d01a43c869edcd1117c640fbdcfcfd97d9d65",
+    "url": "https://nominex.io/defi-nmx",
+    "explorers": [
+        "https://bscscan.com/token/0xD32D01A43C869EDCD1117C640FBDCFCFD97D9D65"
+    ],
+    "twitter": "NominexExchange",
+    "telegram": "nominex_announcements",
+    "github_org": "nominex"
+}

@@ -1,0 +1,41 @@
+{
+    "id": "yearn-finance",
+    "symbol": "yfi",
+    "name": "yearn.finance",
+    "platforms": {
+        "ethereum": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+        "huobi-token": "0xb4f019beac758abbee2f906033aaa2f0f6dacb35",
+        "avalanche": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
+        "polygon-pos": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
+        "fantom": "0x29b0da86e484e1c0029b56e817912d778ac0ec69",
+        "harmony-shard-0": "0xa0dc05f84a27fccbd341305839019ab86576bc07",
+        "arbitrum-one": "0x82e3a8f066a6989666b031d916c43672085b1582",
+        "sora": "0x002676c3edea5b08bc0f9b6809a91aa313b7da35e28b190222e9dc032bf1e662",
+        "xdai": "0xbf65bfcb5da067446cee6a706ba3fe2fb1a9fdfd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yearn Ecosystem",
+        "Yield Aggregator",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "Yearn Finance is a suite of products in Decentralized Finance (DeFi) that provides lending aggregation, yield generation, and insurance on the Ethereum blockchain. The protocol is maintained by various independent developers and is governed by YFI holders.\r\n\r\nIt started out as a passion project by Andre Cronje to automate the process of switching capital between lending platforms in search of the best yield offered, as the lending yield is a floating rate rather than fixed rate. Funds are shifted between dYdX, AAVE, and Compound automatically as interest rates change between these protocols.\u00a0\r\n\r\nThe service offered includes major USD tokens such as DAI, USDT, USDC, and TUSD. For example, if a user deposits DAI into yearn.finance, the user will receive yDAI token in return, which is a yield-bearing DAI token.\u00a0\r\n\r\nLater on, it collaborated with Curve Finance to release a yield-bearing USD tokens pool that includes four y-tokens: yDAI, yUSDT, yUSDC and yTUSD, it is named as yUSD.\u00a0\r\n\r\nYearn Finance debuted the vault feature after its token launch, igniting a frenzy on automated yield farming and is considered the initiator of the category of yield farming aggregator. Basically, the vault will help users to claim yield farming rewards and sell it for the underlying assets.\u00a0\r\n\r\nVaults benefit users by socializing gas costs, automating the yield generation and rebalancing process, and automatically shifting capital as opportunities arise. End users also do not need to have proficient knowledge of the underlying protocols involved or DeFi, thus the Vaults represent a passive-investing strategy. It is akin to a crypto hedge fund where the aim is to increase the amount of assets that users deposited.\r\n\r\n\r\n\r\n"
+    },
+    "country_origin": "ZA",
+    "genesis_date": null,
+    "contract_address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+    "url": "https://yearn.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+        "https://ethplorer.io/address/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+        "https://blockscout.com/poa/xdai/tokens/0xbf65bfcb5da067446CeE6A706ba3Fe2fB1a9fdFd/token-transfers",
+        "https://arbiscan.io/token/0x82e3a8f066a6989666b031d916c43672085b1582"
+    ],
+    "twitter": "iearnfinance",
+    "telegram": "yearnfinance",
+    "reddit": "yearn_finance/",
+    "github_org": "iearn-finance"
+}

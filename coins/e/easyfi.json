@@ -1,0 +1,32 @@
+{
+    "id": "easyfi",
+    "symbol": "ez",
+    "name": "EasyFi V2",
+    "platforms": {
+        "ethereum": "0x00aba6fe5557de1a1d565658cbddddf7c710a1eb",
+        "binance-smart-chain": "0x5512014efa6cd57764fa743756f7a6ce3358cc83",
+        "polygon-pos": "0x34c1b299a74588d6abdc1b85a53345a48428a521"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Polygon Ecosystem",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Layer 2 Defi Lending Protocol for Digital Assets"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x00aba6fe5557de1a1d565658cbddddf7c710a1eb",
+    "url": "https://easyfi.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x00aba6fe5557de1a1d565658cbddddf7c710a1eb",
+        "https://ethplorer.io/address/0x00aba6fe5557de1a1d565658cbddddf7c710a1eb",
+        "https://polygonscan.com/token/0x34c1b299a74588d6abdc1b85a53345a48428a521",
+        "https://bscscan.com/token/0x5512014efa6Cd57764Fa743756F7a6Ce3358cC83"
+    ],
+    "twitter": "EasyfiNetwork",
+    "telegram": "easyfiNetwork"
+}

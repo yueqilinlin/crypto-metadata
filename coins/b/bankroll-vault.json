@@ -1,0 +1,26 @@
+{
+    "id": "bankroll-vault",
+    "symbol": "vlt",
+    "name": "Bankroll Vault",
+    "platforms": {
+        "ethereum": "0x6b785a0322126826d8226d77e173d75dafb84d11"
+    },
+    "hashing_algorithm": "SHA-3",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Bankroll Vault Token is the official store of value for the network on the Ethereum blockhain. Supply is capped at 1.8M and the liquidity pool is perpetually supported by the Bankroll ecosystem."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x6b785a0322126826d8226d77e173d75dafb84d11",
+    "url": "https://bankroll.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x6b785a0322126826d8226d77e173d75dafb84d11",
+        "https://ethplorer.io/address/0x6b785a0322126826d8226d77e173d75dafb84d11"
+    ],
+    "twitter": "Bankroll_Status",
+    "telegram": "bankrollnetwork",
+    "github_org": "bankrollnetwork"
+}

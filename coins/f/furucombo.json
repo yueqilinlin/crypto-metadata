@@ -1,0 +1,29 @@
+{
+    "id": "furucombo",
+    "symbol": "combo",
+    "name": "Furucombo",
+    "platforms": {
+        "ethereum": "0xffffffff2ba8f66d4e51811c5190992176930278",
+        "polygon-pos": "0x6ddb31002abc64e1479fc439692f7ea061e78165",
+        "harmony-shard-0": "0x5693fe17ad04f0d8f768ceeb863e62b522901440"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Furucombo is a drag-and-drop tool that allows users to build and customize different DeFi combinations (\u2018combos\u2019 or \u2018cubes\u2019). These combos/cubes represent multiple protocol actions bundled into one transaction executed by Furucombo.\u00a0\r\n\r\nAs one of the most comprehensive DeFi aggregators, Furucombo connects different DeFi protocols such as Uniswap, Compound, and Aave in one place. Its lego-like interface simplifies the complexity in DeFi, allowing many lay-man users to reap the benefits of DeFi using Furucombo without coding knowledge.\r\n\u00a0\r\nInstead of clicking and confirming five Ethereum transactions, users of Furucombo will need to confirm only one - saving time and steps and simultaneously optimizing users\u2019 actions to save on gas fees.\u00a0"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xffffffff2ba8f66d4e51811c5190992176930278",
+    "url": "https://furucombo.app/",
+    "explorers": [
+        "https://etherscan.io/token/0xfFffFffF2ba8F66D4e51811C5190992176930278",
+        "https://ethplorer.io/address/0xfFffFffF2ba8F66D4e51811C5190992176930278",
+        "https://polygonscan.com/token/0x6ddb31002abc64e1479fc439692f7ea061e78165"
+    ],
+    "twitter": "furucombo",
+    "telegram": "furucombo"
+}

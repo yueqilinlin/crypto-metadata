@@ -1,0 +1,27 @@
+{
+    "id": "ndex",
+    "symbol": "ndx",
+    "name": "nDEX",
+    "platforms": {
+        "ethereum": "0x1966d718a565566e8e202792658d7b5ff4ece469"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "nDEX next generation ethereum token exchange. nDEX offer a live fast, secure and flexible decentralized ERC20 token exchange. nDEX have a 8000+ community members and continue growing."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x1966d718a565566e8e202792658d7b5ff4ece469",
+    "url": "https://ndexnetwork.com",
+    "explorers": [
+        "https://etherscan.io/token/0x1966d718A565566e8E202792658D7b5Ff4ECe469",
+        "https://ethplorer.io/address/0x1966d718a565566e8e202792658d7b5ff4ece469"
+    ],
+    "twitter": "NdexOfficial",
+    "facebook": "ndexnetwork",
+    "telegram": "ndexofficial",
+    "github_org": "ndexnetwork"
+}

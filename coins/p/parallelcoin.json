@@ -1,0 +1,20 @@
+{
+    "id": "parallelcoin",
+    "symbol": "duo",
+    "name": "ParallelCoin",
+    "platforms": {},
+    "hashing_algorithm": "Multiple Algorithms",
+    "categories": [],
+    "description": {
+        "en": "Parallelcoin is an new digital currency that enables instant payments to anyone, anywhere in the world. Parallelcoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Parallelcoin is also the name of the open source software which enables the use of this currency."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-08-02",
+    "url": "http://www.parallelcoin.io/",
+    "explorers": [
+        "https://prohashing.com/explorer/Parallelcoin/"
+    ],
+    "twitter": "parallelcoinduo",
+    "facebook": "DuoCoin",
+    "github_org": "p9c"
+}

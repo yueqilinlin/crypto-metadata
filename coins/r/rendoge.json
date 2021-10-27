@@ -1,0 +1,29 @@
+{
+    "id": "rendoge",
+    "symbol": "rendoge",
+    "name": "renDOGE",
+    "platforms": {
+        "ethereum": "0x3832d2f059e55934220881f831be501d180671a7",
+        "polygon-pos": "0xce829a89d4a55a63418bcc43f00145adef0edb8e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Wrapped-Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Dogecoin, wrapped on Ethereum, as an ERC-20 token, through the Ren project."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3832d2f059e55934220881f831be501d180671a7",
+    "url": "https://renproject.io/ ",
+    "explorers": [
+        "https://etherscan.io/token/0x3832d2F059E55934220881F831bE501D180671A7",
+        "https://ethplorer.io/address/0x3832d2f059e55934220881f831be501d180671a7"
+    ],
+    "twitter": "renprotocol",
+    "telegram": "renproject",
+    "reddit": "RenProject/",
+    "github_org": "renproject"
+}

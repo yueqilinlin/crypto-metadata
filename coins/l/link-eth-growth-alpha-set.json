@@ -1,0 +1,24 @@
+{
+    "id": "link-eth-growth-alpha-set",
+    "symbol": "lega",
+    "name": "LINK/ETH Growth Alpha Set",
+    "platforms": {
+        "ethereum": "0xc166f976ce9926a3205b145af104eb0e4b38b5c0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "TokenSets"
+    ],
+    "description": {
+        "en": "The LINK/ETH Growth Alpha set (LEGA) is a new strategy developed by Alphachain Capital specifically for TokenSets. The goal of the strategy is to increase holdings of ETH while providing 100% exposure to cryptocurrency prices at all times. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc166f976ce9926a3205b145af104eb0e4b38b5c0",
+    "url": "https://www.tokensets.com/set/lega",
+    "explorers": [
+        "https://etherscan.io/token/0xc166f976ce9926a3205b145af104eb0e4b38b5c0",
+        "https://ethplorer.io/address/0xc166f976ce9926a3205b145af104eb0e4b38b5c0"
+    ],
+    "twitter": "SetProtocol"
+}

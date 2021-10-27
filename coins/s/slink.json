@@ -1,0 +1,27 @@
+{
+    "id": "slink",
+    "symbol": "slink",
+    "name": "sLINK",
+    "platforms": {
+        "ethereum": "0xbbc455cb4f1b9e4bfc4b73970d360c8f032efee6",
+        "optimistic-ethereum": "0xc5db22719a06418028a40a9b5e9a7c02959d0d08"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synths",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Tracks the price of Chainlink (LINK) through price feeds supplied by an oracle."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbbc455cb4f1b9e4bfc4b73970d360c8f032efee6",
+    "url": "https://www.synthetix.io/tokens/",
+    "explorers": [
+        "https://etherscan.io/token/0xbBC455cb4F1B9e4bFC4B73970d360c8f032EfEE6",
+        "https://ethplorer.io/address/0xbbc455cb4f1b9e4bfc4b73970d360c8f032efee6"
+    ],
+    "twitter": "synthetix_io",
+    "reddit": "synthetix_io/"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "cirquity",
+    "symbol": "cirq",
+    "name": "Cirquity",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Cirquity is a private, fast, secure and easy way to send money to friends and businesses. Allowing you to be your own bank."
+    },
+    "country_origin": "IT",
+    "genesis_date": null,
+    "url": "https://cirquity.com/",
+    "explorers": [
+        "https://explorer.cirquity.com/"
+    ],
+    "twitter": "cirquity",
+    "facebook": "cirquity",
+    "telegram": "cirquity",
+    "github_org": "cirquity"
+}

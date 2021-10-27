@@ -1,0 +1,27 @@
+{
+    "id": "tokes",
+    "symbol": "tks",
+    "name": "Tokes",
+    "platforms": {
+        "waves": ""
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Multichain Ventures is the parent company of several underlying entities including; The Tokes Platform, Cubed, and EDEN. These brands produce blockchain focused products including, but not limited to, cryptocurrency based payment processing and supply chain visibility tools. The Tokes Platform provides an ecosystem of cryptocurrency payment processing services primarily targeting the legal cannabis industry including cryptocurrency point-of-sale, ecommerce integrations, mobile wallets, and Smart ATM integrations for in store acquisition of tokens. Cubed serves as a white-label division for similar technology solutions, but in a general merchant package ready for immediate customer deployment, or with the option to rebrand and license the software for a particular customer segment or retail sector. EPCIS Decentralized Network or EDEN produces supply chain visibility tools using blockchain for data storage and verification of the provenance of goods. The Tokes Platform serves as a sales arm of EDEN deployable specifically for the legal cannabis vertical, however EDEN is fundamentally an industry agnostic toolset which can improve supply chain visibility for any number of industries. Multichain Ventures\u2019 diverse product array serves businesses of any size, across multiple sectors, leveraging blockchain to increase accessibility of emerging payment trends and visibility of both payments and goods. \r\n\r\nIn the process of building a scalable software and blockchain infrastructure, Reli.cloud was born. As a sister company to Multichain Ventures, Reli - meaning Reliable - is a managed DevOps service leveraging containerized cloud computing infrastructure for high-availability and scalability of applications. All products within the Multichain Ventures ecosystem are hosted on Reli.cloud."
+    },
+    "country_origin": "US",
+    "genesis_date": "2016-04-15",
+    "url": "https://multichain.ventures",
+    "explorers": [
+        "https://wavesexplorer.com/tx/ATrsNse6UZwNSMruNKsR4bnoTsp89BvLMmBZECRcPoif",
+        "https://explore.tokesplatform.org/"
+    ],
+    "twitter": "Multichain_Vent",
+    "facebook": "multichainventures",
+    "telegram": "multichainventures",
+    "reddit": "MultichainVentures/",
+    "github_org": "tksventures"
+}

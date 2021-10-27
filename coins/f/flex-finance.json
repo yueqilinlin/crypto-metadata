@@ -1,0 +1,22 @@
+{
+    "id": "flex-finance",
+    "symbol": "flex",
+    "name": "Flex Finance",
+    "platforms": {
+        "binance-smart-chain": "0xa806c32e7d7324f8b0bdceb2209e3fc59d3926b2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Flex Finance is a new DeFi project made by an experienced team of community admins, investors and ambitious developers. Staking in the Flex Vault, partnerships with other safely made BSC tokens to allow staking of their assets, and promoting a healthy long-term investment strategy among the community is Flex's goal. Currently two Dapps (Staking And Charts) are in development, to be released Q3. The $FLEX token itself features a 15% tax, redistributed to holders and to liquidity, and will have an evolving usecase after the release of staking on BSC MainNet, followed by bringing Flex to Android and iPhone. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa806c32e7d7324f8b0bdceb2209e3fc59d3926b2",
+    "url": "https://www.flexfinance.network/",
+    "explorers": [
+        "https://bscscan.com/token/0xa806c32e7d7324f8b0bdceb2209e3fc59d3926b2"
+    ],
+    "twitter": "flex_finance_",
+    "telegram": "flexfinancebsc"
+}

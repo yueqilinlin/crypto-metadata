@@ -1,0 +1,22 @@
+{
+    "id": "swiftmoon",
+    "symbol": "smoon",
+    "name": "SwiftMoon",
+    "platforms": {
+        "binance-smart-chain": "0xb47d8d9cd415dae40e364b140ae6af186e2332f4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SWIFTMOON combines automatic liquidity generation, rebasing tech, reflection and deflation all in one token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb47d8d9cd415dae40e364b140ae6af186e2332f4",
+    "url": "https://swiftmoon.online/",
+    "explorers": [
+        "https://bscscan.com/token/0xb47d8d9cd415dae40e364b140ae6af186e2332f4"
+    ],
+    "twitter": "swiftmoonbsc",
+    "telegram": "swiftmoonbsc"
+}

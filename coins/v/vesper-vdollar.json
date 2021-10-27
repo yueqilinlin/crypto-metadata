@@ -1,0 +1,24 @@
+{
+    "id": "vesper-vdollar",
+    "symbol": "vusd",
+    "name": "Vesper V-Dollar",
+    "platforms": {
+        "ethereum": "0x677ddbd918637e5f2c79e164d402454de7da8619"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x677ddbd918637e5f2c79e164d402454de7da8619",
+    "url": "https://vesper.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x677ddbd918637e5f2c79e164d402454de7da8619",
+        "https://ethplorer.io/address/0x677ddbd918637e5f2c79e164d402454de7da8619"
+    ],
+    "twitter": "VesperFi",
+    "telegram": "vesperfinance",
+    "github_org": "vesperfi"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "umbrellacoin",
+    "symbol": "umc",
+    "name": "Umbrella Coin",
+    "platforms": {
+        "ethereum": "0x190fb342aa6a15eb82903323ae78066ff8616746"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x190fb342aa6a15eb82903323ae78066ff8616746",
+    "url": "https://www.unitymatrixcommons.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x190fb342aa6a15eb82903323ae78066ff8616746",
+        "https://ethplorer.io/address/0x190fb342aa6a15eb82903323ae78066ff8616746"
+    ],
+    "twitter": "um_coin",
+    "facebook": "UnityMatrixCommons",
+    "github_org": "umccoin"
+}

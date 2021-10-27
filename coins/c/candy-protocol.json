@@ -1,0 +1,24 @@
+{
+    "id": "candy-protocol",
+    "symbol": "cad",
+    "name": "Candy Protocol",
+    "platforms": {
+        "ethereum": "0x2029017f38128bfefaa6c7b9cdd1b680ce8e5c03"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Blockchain based live commercial platform"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2029017f38128bfefaa6c7b9cdd1b680ce8e5c03",
+    "url": "http://candyprotocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x2029017f38128bFeFaA6C7B9cDd1b680cE8E5c03",
+        "https://ethplorer.io/address/0x2029017f38128bFeFaA6C7B9cDd1b680cE8E5c03"
+    ],
+    "twitter": "candy_protocol",
+    "facebook": "candy.protocol",
+    "telegram": "Candyprotocol"
+}

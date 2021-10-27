@@ -1,0 +1,24 @@
+{
+    "id": "clucoin",
+    "symbol": "clu",
+    "name": "CluCoin",
+    "platforms": {
+        "binance-smart-chain": "0x1162e2efce13f99ed259ffc24d99108aaa0ce935"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CLU (Community, Love, Unity) is one of the fastest growing and most expansive blockchain communities to enter the crypto space! CLU is an auto-generating liquidity protocol with a hyperdeflationary burn mechanism. CLUcoin holders are rewarded with special perks and unique experiences through events, NFTs, and an incredible community. Join us for exclusive streams, live shows, and vote to donate to charities each month!"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x1162e2efce13f99ed259ffc24d99108aaa0ce935",
+    "url": "https://www.clucoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x1162e2efce13f99ed259ffc24d99108aaa0ce935"
+    ],
+    "twitter": "clucoin",
+    "facebook": "CluCoin",
+    "telegram": "clucoin",
+    "reddit": "clucoin/"
+}

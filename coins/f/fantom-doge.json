@@ -1,0 +1,24 @@
+{
+    "id": "fantom-doge",
+    "symbol": "rip",
+    "name": "Fantom Doge",
+    "platforms": {
+        "fantom": "0x1d43697d67cb5d0436cc38d583ca473a1bfebc7a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "The fair-launched hyper-deflationary DOGE on Fantom. \r\nLP tokens burned and ownership renounced."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1d43697d67cb5d0436cc38d583ca473a1bfebc7a",
+    "url": "https://ripdoge.io/",
+    "explorers": [
+        "https://ftmscan.com/token/0x1D43697D67cB5D0436cc38d583Ca473a1bFEbC7a"
+    ],
+    "twitter": "fantom_doge",
+    "telegram": "ripfantomdoge"
+}

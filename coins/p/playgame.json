@@ -1,0 +1,25 @@
+{
+    "id": "playgame",
+    "symbol": "pxg",
+    "name": "PlayGame",
+    "platforms": {
+        "ethereum": "0x47e67ba66b0699500f18a53f94e2b9db3d47437e"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "PlayGame Token is an ERC20 cryptocurrency token with smart contract platform enabling game publishers, developers and communities to monetise directly from cryptocurrency crowds all over the world. \r\n\r\nOur SDK will enable any game publisher or developer to implement their own token economy in their games. Enabling all games to have features like rewarding loyal users with tokens, implement pool prize on multiplayer games, tournaments and many more."
+    },
+    "country_origin": "ID",
+    "genesis_date": "2018-07-05",
+    "contract_address": "0x47e67ba66b0699500f18a53f94e2b9db3d47437e",
+    "url": "https://its.playgame.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x47e67ba66b0699500f18a53f94e2b9db3d47437e",
+        "https://ethplorer.io/address/0x47e67ba66b0699500f18a53f94e2b9db3d47437e"
+    ],
+    "twitter": "playgame_pxg",
+    "facebook": "PlaygamePXG",
+    "telegram": "playgameICO",
+    "github_org": "playgame-global"
+}

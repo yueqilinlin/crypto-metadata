@@ -1,0 +1,42 @@
+{
+    "id": "the-graph",
+    "symbol": "grt",
+    "name": "The Graph",
+    "platforms": {
+        "ethereum": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+        "avalanche": "0x8a0cac13c7da965a312f08ea4229c37869e85cb9",
+        "polygon-pos": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
+        "harmony-shard-0": "0x002fa662f2e09de7c306d2bab0085ee9509488ff",
+        "arbitrum-one": "0x23a941036ae778ac51ab04cea08ed6e2fe103614",
+        "sora": "0x00d1fb79bbd1005a678fbf2de9256b3afe260e8eead49bb07bd3a566f9fe8355"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem",
+        "Near Protocol Ecosystem",
+        "Polygon Ecosystem",
+        "Binance Smart Chain Ecosystem",
+        "Solana Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Infrastructure",
+        "Business Services",
+        "Analytics"
+    ],
+    "description": {
+        "en": "The Graph is an indexing protocol and global API for organizing blockchain data and making it easily accessible with GraphQL. Developers can use Graph Explorer to search, find, and publish all the public data they need to build decentralized applications. The Graph Network makes it possible to build serverless dApps that run entirely on public infrastructure.\r\n\r\nGRT is the native token of the network that\u2019s used to coordinate work. GRT is an ERC20 token. Node operators, called Indexers, stake and earn GRT for processing queries. Anyone can delegate GRT to Indexers to secure the network and earn rewards. Curators organize data on The Graph by signaling GRT on useful APIs, called subgraphs. Indexers, Delegators, and Curators work together to organize the data for the crypto economy and maintain a useful global API for DeFi and Web3.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+    "url": "https://thegraph.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+        "https://ethplorer.io/address/0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+        "https://polygonscan.com/token/0x5fe2b58c013d7601147dcdd68c143a77499f5531",
+        "https://arbiscan.io/token/0x23a941036ae778ac51ab04cea08ed6e2fe103614"
+    ],
+    "twitter": "graphprotocol",
+    "telegram": "graphprotocol",
+    "reddit": "thegraph",
+    "github_org": "graphprotocol"
+}

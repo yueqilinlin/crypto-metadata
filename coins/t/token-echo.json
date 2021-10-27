@@ -1,0 +1,24 @@
+{
+    "id": "token-echo",
+    "symbol": "echo",
+    "name": "Token Echo",
+    "platforms": {
+        "binance-smart-chain": "0xb646eb2146e770bf1c675c54969c7830a57a88e9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "TokenEcho is a tracker of DeFi projects with exclusive real-time tools for their analysis. We want our users to make data-driven decisions faster than others, as soon as the DeFi project is on the chain. We make this possible through the EchoQL protocol.\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb646eb2146e770bf1c675c54969c7830a57a88e9",
+    "url": "https://tokenecho.com",
+    "explorers": [
+        "https://bscscan.com/token/0xb646EB2146e770bF1c675C54969C7830A57A88E9"
+    ],
+    "twitter": "TokenEchoCom",
+    "telegram": "TokenEchoOfficial"
+}

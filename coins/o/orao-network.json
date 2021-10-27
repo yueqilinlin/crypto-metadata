@@ -1,0 +1,22 @@
+{
+    "id": "orao-network",
+    "symbol": "orao",
+    "name": "ORAO Network",
+    "platforms": {
+        "ethereum": "0xee1cea7665ba7aa97e982edeaecb26b59a04d035"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A Polkadot-Native Oracle Service for Custom Data Feeds\r\nOur substrate based blockchain provides a large variety of secure data at high speed in real-time, everything from local weather data to the outcome of football matches with maximum scalability for any blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://orao.network/",
+    "explorers": [
+        "https://blockexplorer.orao.network/",
+        "https://etherscan.io/address/0xee1cea7665ba7aa97e982edeaecb26b59a04d035"
+    ],
+    "twitter": "OraoNetwork",
+    "telegram": "ORAOcommunity"
+}

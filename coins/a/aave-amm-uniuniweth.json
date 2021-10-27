@@ -1,0 +1,24 @@
+{
+    "id": "aave-amm-uniuniweth",
+    "symbol": "aAmmUniUNIWETH",
+    "name": "Aave AMM UniUNIWETH",
+    "platforms": {
+        "ethereum": "0x3d26dcd840fcc8e4b2193ace8a092e4a65832f9f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3d26dcd840fcc8e4b2193ace8a092e4a65832f9f",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3D26dcd840fCC8e4B2193AcE8A092e4a65832F9f",
+        "https://ethplorer.io/address/0x3D26dcd840fCC8e4B2193AcE8A092e4a65832F9f"
+    ],
+    "twitter": "aaveaave"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "safetoken",
+    "symbol": "safetoken",
+    "name": "SafeToken",
+    "platforms": {
+        "binance-smart-chain": "0x31045e7023e6c388f9447e632a3f9eaff90393fa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeToken is a next-gen cryptocurrency that combines auto-liquidity, frictionless yield, and token burn."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x31045e7023e6c388f9447e632a3f9eaff90393fa",
+    "url": "https://safetoken.xyz/",
+    "explorers": [
+        "https://bscscan.com/token/0x31045e7023e6c388f9447e632a3f9eaff90393fa"
+    ],
+    "twitter": "SafeTokenTeam",
+    "telegram": "safetokenbsc",
+    "reddit": "SafeToken/"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "paprprintr-finance",
+    "symbol": "papr",
+    "name": "Paprprintr Finance",
+    "platforms": {
+        "binance-smart-chain": "0x246475df8703be0c2ba2f8d0fb7248d95cc1ba26"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PAPR is the main token of the paprprintr.finance protocol. This is the first algorithmic stablecoin with an elastic supply and burn.\r\n\r\nIt's main purpose is to get as close as possible to the $1 threshold, and depending on the price, more or less PAPR will be minted by the algorithm.\r\n\r\nThis token works alongside with 2 other tokens (PRNTR/INK) that help regulating the total supply of PAPR by printing in consideration of the demand."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x246475df8703be0c2ba2f8d0fb7248d95cc1ba26",
+    "url": "https://paprprintr.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x246475dF8703BE0C2bA2f8d0fb7248D95Cc1Ba26"
+    ],
+    "twitter": "paprprintr",
+    "telegram": "paprprintr"
+}

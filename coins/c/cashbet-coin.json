@@ -1,0 +1,25 @@
+{
+    "id": "cashbet-coin",
+    "symbol": "cbc",
+    "name": "CBC.network",
+    "platforms": {
+        "ethereum": "0x26db5439f651caf491a87d48799da81f191bdb6b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Casino Betting Coin is an ERC-20 and BEP-20 cryptocurrency designed to supercharge iGaming and NFT gaming via the blockchain. Its team works closely with some of the biggest companies in the gaming space to create real-world utility designed to benefit both customers and operators.\r\n\r\nSupported by a team of blockchain and igaming industry veterans, CBCnetwork is pioneering new use cases for the technology with a focus on building customer loyalty, engagement, and NFT gaming for some of the world\u2019s most successful brands. For more information about CBCnetwork, please visit: http://cbc.network/."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x26db5439f651caf491a87d48799da81f191bdb6b",
+    "url": "https://cbc.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x26DB5439F651CAF491A87d48799dA81F191bDB6b",
+        "https://ethplorer.io/address/0x26DB5439F651CAF491A87d48799dA81F191bDB6b",
+        "https://bscscan.com/token/0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b"
+    ],
+    "twitter": "getcbc",
+    "telegram": "cbcnetwork",
+    "reddit": "cbcnetwork/"
+}

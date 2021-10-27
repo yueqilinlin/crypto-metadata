@@ -1,0 +1,26 @@
+{
+    "id": "cryptobuyer-token",
+    "symbol": "xpt",
+    "name": "Cryptobuyer Token",
+    "platforms": {
+        "ethereum": "0x08aa0ed0040736dd28d4c8b16ab453b368248d19"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Cryptobuyer, is a cryptoasset company running since 2015 that allows for the integration of digital currencies in daily life, by enabling digital payments, exchange of digital currencies, BTM multi-asset machine solutions, and BitATM franchises without going through a third party financial institution."
+    },
+    "country_origin": "PA",
+    "genesis_date": null,
+    "contract_address": "0x08aa0ed0040736dd28d4c8b16ab453b368248d19",
+    "url": "https://cryptobuyer.io",
+    "explorers": [
+        "https://etherscan.io/token/0x08aa0ed0040736dd28d4c8b16ab453b368248d19",
+        "https://ethplorer.io/address/0x08aa0ed0040736dd28d4c8b16ab453b368248d19"
+    ],
+    "twitter": "cryptobuyer",
+    "facebook": "cryptobuyer",
+    "telegram": "CryptobuyerEn"
+}

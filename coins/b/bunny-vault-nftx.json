@@ -1,0 +1,24 @@
+{
+    "id": "bunny-vault-nftx",
+    "symbol": "bunny",
+    "name": "BUNNY Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0x33e70c9efabdf151f5c674a4addc104874980c3f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x33e70c9efabdf151f5c674a4addc104874980c3f",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x33e70c9efabdf151f5c674a4addc104874980c3f",
+        "https://ethplorer.io/address/0x33e70c9efabdf151f5c674a4addc104874980c3f"
+    ],
+    "twitter": "nftx_"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "safexi",
+    "symbol": "sxi",
+    "name": "SafeXI",
+    "platforms": {
+        "binance-smart-chain": "0xa327179d47fad68d09e4501a838daaaf74fabb7c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeXI is an autonomous yield and liquidity generation protocol. Simply hold SafeXI in your wallet and you will get more. On each transaction has a tax - the protocol automatically distributes 5% rewards to holders as well as locks 3% to liquidity forever."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa327179d47fad68d09e4501a838daaaf74fabb7c",
+    "url": "https://safe-xi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xa327179d47fad68d09e4501a838daaaf74fabb7c"
+    ],
+    "twitter": "Safe_XI",
+    "facebook": "SafeXIOfficial",
+    "telegram": "safexi",
+    "reddit": "SafeXI/",
+    "github_org": "safe-xi-dev"
+}

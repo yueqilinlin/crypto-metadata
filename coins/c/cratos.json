@@ -1,0 +1,23 @@
+{
+    "id": "cratos",
+    "symbol": "crts",
+    "name": "Cratos",
+    "platforms": {
+        "ethereum": "0x678e840c640f619e17848045d23072844224dd37"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CRATOS is an ERC-20 utility token designed to facilitate citizen participation in the CRATOS mobile app, a real-time live vote platform. CRATOS has achieved 200K+ downloads, and 40K users on the app, and Users can earn the CRTS tokens based on their activities.\r\n\r\n \r\n\r\nTotal Supply: 100,000,000,000 CRTS\r\n\r\nCirculating Supply: 56,000,000,000 CRTS"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x678e840c640f619e17848045d23072844224dd37",
+    "url": "https://www.cratostoken.com",
+    "explorers": [
+        "https://etherscan.io/token/0x678e840c640f619e17848045d23072844224dd37",
+        "https://ethplorer.io/address/0x678e840c640f619e17848045d23072844224dd37"
+    ],
+    "twitter": "cratostoken",
+    "telegram": "CratosToken"
+}

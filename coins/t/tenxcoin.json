@@ -1,0 +1,23 @@
+{
+    "id": "tenxcoin",
+    "symbol": "txc",
+    "name": "TenXCoin",
+    "platforms": {
+        "ethereum": "0xc11551bb497875050b69a2fdccc20a53a9a70263"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TenXcoin aims to connect blockchain technology to the real world by providing a robust economic model bringing a fair and user-oriented model for digital services to the market."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc11551bb497875050b69a2fdccc20a53a9a70263",
+    "url": "https://tenxcoin.eu/",
+    "explorers": [
+        "https://etherscan.io/token/0xc11551bb497875050b69a2fdccc20a53a9a70263",
+        "https://ethplorer.io/address/0xc11551bb497875050b69a2fdccc20a53a9a70263"
+    ],
+    "twitter": "10xcoin",
+    "facebook": "tenxcoin"
+}

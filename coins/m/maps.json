@@ -1,0 +1,26 @@
+{
+    "id": "maps",
+    "symbol": "maps",
+    "name": "MAPS",
+    "platforms": {
+        "solana": "MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "Maps.me is the ultimate travel companion and your passport to the new financial system. MAPS token is the cornerstone of Maps.me, binding 100M+ users. It powers this vision and captures its value."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb",
+    "url": "https://maps.me/token/",
+    "explorers": [
+        "https://explorer.solana.com/address/MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb",
+        "https://etherscan.io/token/0x2b915b505c017abb1547aa5ab355fbe69865cc6d",
+        "https://solscan.io/token/MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb"
+    ],
+    "twitter": "MAPS_ME",
+    "telegram": "Maps_Official"
+}

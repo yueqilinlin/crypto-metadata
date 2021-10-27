@@ -1,0 +1,23 @@
+{
+    "id": "hdac",
+    "symbol": "hdac",
+    "name": "HDAC",
+    "platforms": {},
+    "hashing_algorithm": "Skunkhash",
+    "categories": [
+        "Internet of Things (IOT)"
+    ],
+    "description": {
+        "en": "Hdac Private Blockchain [HdacT], a blockchain based smart transaction method on the Hdac platform, is designed to perform a given task under the various commanding conditions in the IoT environment. HdacT provides these M2M transaction functions and a simple transaction service environment, and with the rationality and efficiency that the Hdac platform pursues, it will be the platform of choice for use and control with IoT devices.\r\n\r\nIn addition, Hdac will evolve into a hybrid blockchain platform by providing a hardware wallet for user security and transaction convenience in service of the aforementioned communication and transactions between IoT devices."
+    },
+    "country_origin": "CH",
+    "genesis_date": "2017-11-23",
+    "url": "https://www.hdactech.com/en/index.do",
+    "explorers": [
+        "https://explorer.as.hdactech.com/hdac-explorer/"
+    ],
+    "facebook": "hdactech",
+    "telegram": "Hdac_TGE",
+    "reddit": "HDAC/",
+    "github_org": "Hdactech"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "webflix",
+    "symbol": "wfx",
+    "name": "WebFlix",
+    "platforms": {
+        "ethereum": "0xba1ed22c69ad00739ee2b4abd70e270be9e87ee2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Webflix describes itself as a blockchain-based broadcasting platform that connects broadcasters with users."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xba1ed22c69ad00739ee2b4abd70e270be9e87ee2",
+    "url": "http://www.webflix.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xba1ed22c69ad00739ee2b4abd70e270be9e87ee2",
+        "https://ethplorer.io/address/0xba1ed22c69ad00739ee2b4abd70e270be9e87ee2"
+    ],
+    "twitter": "WebflixO",
+    "telegram": "webflix1"
+}

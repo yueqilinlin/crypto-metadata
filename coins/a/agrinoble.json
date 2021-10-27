@@ -1,0 +1,24 @@
+{
+    "id": "agrinoble",
+    "symbol": "agn",
+    "name": "Agrinoble",
+    "platforms": {
+        "binance-smart-chain": "0x2317f8c321954070b57019bfbd9a1fae1f3c04d9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The flexible multilingual digital platform dedicated to agriculture adapted to face agricultural, food and climate oriented challenges."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2317f8c321954070b57019bfbd9a1fae1f3c04d9",
+    "url": "https://agrinoble.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x2317f8c321954070b57019bfbd9a1fae1f3c04d9"
+    ],
+    "twitter": "agrinoble_llc",
+    "telegram": "agrinoble",
+    "reddit": "Agrinoble/",
+    "github_org": "AgrinobleAGN"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "kind-ads-token",
+    "symbol": "kind",
+    "name": "Kind Ads Token",
+    "platforms": {
+        "ethereum": "0x4618519de4c304f3444ffa7f812dddc2971cc688"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kind Ads is an advertising platform that serves user-friendly ads through more effective channels like email and push notifications. Advertisers save money. Publishers keep more of what they earn. Users aren't barraged with annoying and irrelevant ads.\r\n\r\nKind Ads Ecosystem\r\n- Kind Ads will show you more relevant ads through channels like email marketing and push notifications.\r\n- Users will be able to specify exactly how their data will be used, and be incentivized more to allow access via a tokenized rewards pool.\r\n- We're allowing publishers to easily sell access to their subscribers directly to advertisers.\r\n- Advertisers will be able to find the publishers based on subscriber quality and run campaigns with confidence.\r\n- The tokenized rewards pool is allocated daily to publishers, users AND app partners."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4618519de4c304f3444ffa7f812dddc2971cc688",
+    "url": "https://kindads.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4618519de4c304f3444ffa7f812dddc2971cc688",
+        "https://ethplorer.io/address/0x4618519de4c304f3444ffa7f812dddc2971cc688"
+    ],
+    "twitter": "KindAdsNetwork",
+    "telegram": "kindads",
+    "reddit": "KindAds/",
+    "github_org": "kindads"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "blank",
+    "symbol": "blank",
+    "name": "Blank",
+    "platforms": {
+        "ethereum": "0x41a3dba3d677e573636ba691a70ff2d606c29666"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Blank is the most private, non-custodial Ethereum browser extension wallet.\r\n\r\nBlank allows the user to easily interact with privacy smart contracts on Ethereum to hide the amounts and the origins of cryptocurrency held, in a decentralized, non-custodial, and frictionless manner.\r\n\r\nBlank solves the problem of privacy in crypto transactions. Each time you want to make a withdrawal, Blank will create a new wallet address for you with the amount of crypto that you requested. This address originates from the smart contract where everyone\u2019s funds are pooled. All of this is achieved using cryptographic proofs to ensure that the user cannot be linked with the original depositing address."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x41a3dba3d677e573636ba691a70ff2d606c29666",
+    "url": "https://www.goblank.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x41a3dba3d677e573636ba691a70ff2d606c29666",
+        "https://ethplorer.io/address/0x41a3dba3d677e573636ba691a70ff2d606c29666"
+    ],
+    "twitter": "BlankWallet",
+    "telegram": "blankwallet",
+    "github_org": "Blank-Wallet"
+}

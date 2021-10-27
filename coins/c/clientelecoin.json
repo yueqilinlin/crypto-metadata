@@ -1,0 +1,23 @@
+{
+    "id": "clientelecoin",
+    "symbol": "clt",
+    "name": "ClienteleCoin",
+    "platforms": {
+        "ethereum": "0xe5db2c3e2ceff742e5306bcfc12622f5e2d14e98"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Launched in 18/07/2021 by a team based in the United States, ClienteleCoin is an ERC20 utility token on the Ethereum Chain designed to serve as a medium of exchange in the Streetwear Retail Industry. ClienteleCoin is backed by Clientele, a Streetwear Retail Chain with 3 stores located in NJ, United States. The token runs on a proprietary method that taxes each transaction on Buys/Sells and returns a 2.5% dividend Paid in $ETH to its holders, which aims to offer scalability, as well as assisting CLT in its growth.\r\n\r\nCLT relies on the following principles: \r\n- 2.5% Dividend Paid in $ETH: Up to 2.5% of every buy/sell is redistributed to the $CLT holders.\r\n- Payment Processing: Holders will be able to use $CLT as a form of payment in all 3 of the Clientele store locations\r\n- ClienteleCoin Kiosk: Ability to purchase ClienteleCoin via the kiosks installed in Clientele's stores, using cash or cryptocurrency.\r\n\r\nClientele, originally known as East Coast Boutique, was founded in 2013 by Adam Gage. It started as a small sneaker consignment shop in Rahway, NJ. After seeing the growth and potential of the resale sneaker and clothing industry, Adam decided to partner with Frank Richardson in 2016, and move the store into Menlo Park Mall in Edison, New Jersey, where the pair opened the states first complete lifestyle boutique."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xe5db2c3e2ceff742e5306bcfc12622f5e2d14e98",
+    "url": "https://www.clientelecoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe5db2c3e2ceff742e5306bcfc12622f5e2d14e98",
+        "https://ethplorer.io/address/0xe5db2c3e2ceff742e5306bcfc12622f5e2d14e98"
+    ],
+    "twitter": "clientele_coin",
+    "telegram": "ClienTelegram"
+}

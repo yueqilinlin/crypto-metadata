@@ -1,0 +1,29 @@
+{
+    "id": "eurbase",
+    "symbol": "ebase",
+    "name": "EURBASE",
+    "platforms": {
+        "ethereum": "0xa689dcea8f7ad59fb213be4bc624ba5500458dc6"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cryptocurrency",
+        "EUR Stablecoin",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "EURBASE is a hybrid EUR based stable coin with anti inflationary features. Partially collateralized by EUR deposits and partially in Bitcoin and other cryptocurrencies. You can change EBASE to EUR and vice versa at any time on ETERBASE exchange with its integrated IBAN accounts. EURBASE falls under the definition of a payment token under the ESMA definition. EURBASE is fully compliant with AMLD5 and GDPR within the code structure."
+    },
+    "country_origin": "SK",
+    "genesis_date": null,
+    "contract_address": "0xa689dcea8f7ad59fb213be4bc624ba5500458dc6",
+    "url": "https://eurbase.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa689dcea8f7ad59fb213be4bc624ba5500458dc6",
+        "https://ethplorer.io/address/0xa689dcea8f7ad59fb213be4bc624ba5500458dc6"
+    ],
+    "twitter": "eterbase",
+    "facebook": "eterbase",
+    "telegram": "EterbaseExchange",
+    "github_org": "eterbase"
+}

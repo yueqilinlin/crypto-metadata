@@ -1,0 +1,24 @@
+{
+    "id": "whitecoin",
+    "symbol": "xwc",
+    "name": "Whitecoin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Whitecoin is a public blockchain that realizes interconnection of value between blockchains through Multi Tunnel Blockchain Communication Protocal (MTBCP). As an important part of the Whitecoin ECO, we have constructed a cross-chain blockchain ecological complex through Random Proof of Stake\uff08RPOS\uff09Consensus, Whitecoin Axis, Whitecoin wallet, decentralized mining pool, and smart contract platform."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-04-14",
+    "url": "http://whitecoin.info/",
+    "explorers": [
+        "https://explorer.whitecoin.info/?lang=en#/"
+    ],
+    "twitter": "whitecoiner",
+    "facebook": "whitecoinfoundation",
+    "telegram": "whitecoincn",
+    "reddit": "whitecoin",
+    "github_org": "Whitecoin-org"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "peanut",
+    "symbol": "nux",
+    "name": "Peanut",
+    "platforms": {
+        "ethereum": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
+        "binance-smart-chain": "0x6d8734002fbffe1c86495e32c95f732fc77f6f2a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Everyone wants to buy cheaper and sell higher. But the volatility and imperfect mechanisms of AMMs make trading on DEXs less profitable due to significant slippage. As a result, users overpay even for minor trades.\r\n\r\nThese are the problems that Peanut solves!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
+    "url": "https://peanut.trade/",
+    "explorers": [
+        "https://etherscan.io/token/0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
+        "https://ethplorer.io/address/0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
+        "https://bscscan.com/token/0x6d8734002fbffe1c86495e32c95f732fc77f6f2a"
+    ],
+    "twitter": "PeanutTrade",
+    "telegram": "peanuttrade"
+}

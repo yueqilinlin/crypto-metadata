@@ -1,0 +1,24 @@
+{
+    "id": "synth-soil",
+    "symbol": "soil",
+    "name": "Synth sOIL",
+    "platforms": {
+        "ethereum": "0x6d16cf3ec5f763d4d99cb0b0b110eefd93b11b56"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tracks the price of Perpetual Oil Futures (OIL) through price feeds supplied by an oracle."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6d16cf3ec5f763d4d99cb0b0b110eefd93b11b56",
+    "url": "https://docs.synthetix.io/tokens/list/#perpetual-oil-futures-soil",
+    "explorers": [
+        "https://etherscan.io/token/0x6d16cf3ec5f763d4d99cb0b0b110eefd93b11b56",
+        "https://ethplorer.io/address/0x6d16cf3ec5f763d4d99cb0b0b110eefd93b11b56"
+    ],
+    "twitter": "synthetix_io",
+    "reddit": "synthetix_io/",
+    "github_org": "synthetixio"
+}

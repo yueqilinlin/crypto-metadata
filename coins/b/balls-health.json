@@ -1,0 +1,21 @@
+{
+    "id": "balls-health",
+    "symbol": "balls",
+    "name": "Balls Health",
+    "platforms": {
+        "binance-smart-chain": "0x06454b893dadf2bb5cc00d3cadd5905cdb6ac102"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The crypto that promotes men\u2019s health and well-being\r\nA revolutionary token that helps men lead happier, healthier lives."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x06454b893dadf2bb5cc00d3cadd5905cdb6ac102",
+    "url": "https://balls.health",
+    "explorers": [
+        "https://bscscan.com/token/0x06454B893DAdF2bb5cC00D3caDd5905Cdb6AC102"
+    ],
+    "twitter": "BallsHealth"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "mymn",
+    "symbol": "mymn",
+    "name": "MyMN",
+    "platforms": {
+        "nxt": ""
+    },
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Simple and personalized masternodes. Our goal here at MyMN is simple, we strive to design a platform where running a masternode will be as simple as it can be without the hassle of renting out a vps and installing and managing their masternodes themselves"
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "url": "https://mymn.cf/",
+    "explorers": [
+        "https://explorer.mymn.cf"
+    ],
+    "twitter": "MyMNProject",
+    "telegram": "mymnproject",
+    "github_org": "MyMNProject"
+}

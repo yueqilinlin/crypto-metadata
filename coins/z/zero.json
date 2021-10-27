@@ -1,0 +1,24 @@
+{
+    "id": "zero",
+    "symbol": "zer",
+    "name": "Zero",
+    "platforms": {},
+    "hashing_algorithm": "Equihash",
+    "categories": [
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "ZERO is born from Zcash and includes the best privacy and anonymity technology available today. Be a part of the journey."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-02-19",
+    "url": "https://zerocurrency.io/",
+    "explorers": [
+        "https://insight.zerocurrency.io/insight/",
+        "https://insight.zeromachine.io/insight/"
+    ],
+    "twitter": "ZeroCurrencies",
+    "telegram": "zerocurrency",
+    "reddit": "ZeroCoins/",
+    "github_org": "zerocurrencycoin"
+}

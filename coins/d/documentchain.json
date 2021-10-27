@@ -1,0 +1,20 @@
+{
+    "id": "documentchain",
+    "symbol": "dms",
+    "name": "Documentchain",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Documentchain is a decentralized blockchain solution for document management systems. Important properties of the document file are stored in the blockchain in a revision-proof manner, safe from manipulation, so that you can easily prove the copyright of your document, your invention, songs or construction.\r\n\r\nDMS is the native currency of the Documentchain. With DMS you will be able to authorise transactions on the blockchain and store document records worldwide in an accessible and decentralised manner."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "url": "https://documentchain.org/",
+    "explorers": [
+        "https://documentchain.org/explorer/"
+    ],
+    "twitter": "documentchain",
+    "telegram": "documentchain",
+    "github_org": "Krekeler"
+}

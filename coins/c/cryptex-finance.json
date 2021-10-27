@@ -1,0 +1,25 @@
+{
+    "id": "cryptex-finance",
+    "symbol": "ctx",
+    "name": "Cryptex Finance",
+    "platforms": {
+        "ethereum": "0x321c2fe4446c7c963dc41dd58879af648838f98d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CTX is a governance token that powers and secures the Cryptex protocol. Holders of CTX can vote on protocol upgrades for TCAP as well as all future products within the Cryptex ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x321c2fe4446c7c963dc41dd58879af648838f98d",
+    "url": "https://cryptex.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x321c2fe4446c7c963dc41dd58879af648838f98d",
+        "https://ethplorer.io/address/0x321c2fe4446c7c963dc41dd58879af648838f98d"
+    ],
+    "twitter": "cryptexfinance",
+    "telegram": "cryptexfinance",
+    "reddit": "cryptex",
+    "github_org": "cryptexfinance"
+}

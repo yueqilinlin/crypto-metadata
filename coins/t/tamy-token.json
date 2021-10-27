@@ -1,0 +1,23 @@
+{
+    "id": "tamy-token",
+    "symbol": "tmt",
+    "name": "Tamy Token",
+    "platforms": {
+        "ethereum": "0xb9cb7905981198add8059114b3b7dc7042b52f7b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TMT provides blockchain technology and economy based on a real-life business in Korea, ThanksAngel.  Rather than just maintenance, ThanksAngel provides a ONE-STOP for consumers to live in their homes and provide all necessary repairs, home care, and cleaning through a single service provider."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xb9cb7905981198add8059114b3b7dc7042b52f7b",
+    "url": "https://tamy.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xb9cb7905981198add8059114b3b7dc7042b52f7b",
+        "https://ethplorer.io/address/0xb9cb7905981198add8059114b3b7dc7042b52f7b"
+    ],
+    "telegram": "tamytoken",
+    "github_org": "blobs-coin"
+}

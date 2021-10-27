@@ -1,0 +1,25 @@
+{
+    "id": "daosquare",
+    "symbol": "rice",
+    "name": "DAOSquare",
+    "platforms": {
+        "ethereum": "0xbd9908b0cdd50386f92efcc8e1d71766c2782df0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbd9908b0cdd50386f92efcc8e1d71766c2782df0",
+    "url": "https://www.daosquare.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xbd9908b0cdd50386f92efcc8e1d71766c2782df0",
+        "https://ethplorer.io/address/0xbd9908b0cdd50386f92efcc8e1d71766c2782df0"
+    ],
+    "twitter": "DAOSquare",
+    "telegram": "DAOSquareOffic"
+}

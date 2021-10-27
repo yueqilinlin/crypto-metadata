@@ -1,0 +1,24 @@
+{
+    "id": "ethereum-platinum",
+    "symbol": "eplat",
+    "name": "Ethereum Platinum",
+    "platforms": {
+        "ethereum": "0x57b3140f522a3ef2f98c046f78e0d03075908591"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Spear heading the industry in anti-inflation tokenomics for a long term sustainable economic structure."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x57b3140f522a3ef2f98c046f78e0d03075908591",
+    "url": "https://www.ethereumplatinum.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x57b3140f522a3ef2f98c046f78e0d03075908591",
+        "https://ethplorer.io/address/0x57b3140f522a3ef2f98c046f78e0d03075908591"
+    ],
+    "twitter": "ethplatinum",
+    "telegram": "ePlatcommunity",
+    "github_org": "ePlatinum"
+}

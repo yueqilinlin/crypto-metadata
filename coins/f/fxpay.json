@@ -1,0 +1,28 @@
+{
+    "id": "fxpay",
+    "symbol": "fxp",
+    "name": "FXPay",
+    "platforms": {
+        "ethereum": "0x14ddda446688b73161aa1382f4e4343353af6fc8"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "FXP is a gateway solution which will unify the Ecosystem and Forex industry based on the blockchain technology. "
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x14ddda446688b73161aa1382f4e4343353af6fc8",
+    "url": "https://fxpay.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x14ddda446688b73161aa1382f4e4343353af6fc8",
+        "https://ethplorer.io/address/0x14ddda446688b73161aa1382f4e4343353af6fc8"
+    ],
+    "twitter": "fxpayglobal",
+    "facebook": "fxpayglobal",
+    "telegram": "fxpglobal",
+    "reddit": "FXPayGlobal/",
+    "github_org": "fxpayglobal"
+}

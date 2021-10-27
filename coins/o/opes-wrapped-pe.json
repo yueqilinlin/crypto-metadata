@@ -1,0 +1,25 @@
+{
+    "id": "opes-wrapped-pe",
+    "symbol": "wpe",
+    "name": "OPES (Wrapped PE)",
+    "platforms": {
+        "ethereum": "0xd075e95423c5c4ba1e122cae0f4cdfa19b82881b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OPES Community Nodes launched a Defi protocol on the Etheruem blockchain. Using this unique Defi model, nodes will yield their mined PE to the Etheruem blockchain's liquidity miners. PE (wPE) a Governance and Resource Token on the OPES blockchain protocol.  "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xd075e95423c5c4ba1e122cae0f4cdfa19b82881b",
+    "url": "https://opes.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xd075e95423c5c4ba1e122cae0f4cdfa19b82881b",
+        "https://ethplorer.io/address/0xd075e95423c5c4ba1e122cae0f4cdfa19b82881b"
+    ],
+    "twitter": "opes_finance",
+    "telegram": "OpesDotFinance",
+    "reddit": "BeesSocial/",
+    "github_org": "opesfinance"
+}

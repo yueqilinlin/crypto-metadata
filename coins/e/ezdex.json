@@ -1,0 +1,24 @@
+{
+    "id": "ezdex",
+    "symbol": "ezx",
+    "name": "EZDex",
+    "platforms": {
+        "ethereum": "0x9e8bfe46f9af27c5ea5c9c72b86d71bb86953a0c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EZDex development team united with community development forces to deeply cultivate the underlying technology, and through the value transfer protocol \"Value Transfer Protocol\", proposed and implemented a series of technological upgrades and innovative solutions. Build a sustainable public blockchain."
+    },
+    "country_origin": "TW",
+    "genesis_date": null,
+    "contract_address": "0x9e8bfe46f9af27c5ea5c9c72b86d71bb86953a0c",
+    "url": "https://ezdex.market/",
+    "explorers": [
+        "https://etherscan.io/token/0x9e8bfe46f9af27c5ea5c9c72b86d71bb86953a0c",
+        "https://ethplorer.io/address/0x9e8bfe46f9af27c5ea5c9c72b86d71bb86953a0c"
+    ],
+    "twitter": "ExchangeEzdex",
+    "telegram": "EZX_Exchange",
+    "github_org": "ezdex-service"
+}

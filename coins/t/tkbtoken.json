@@ -1,0 +1,23 @@
+{
+    "id": "tkbtoken",
+    "symbol": "tkb",
+    "name": "TKBToken",
+    "platforms": {
+        "binance-smart-chain": "0x3ef99822759a2192e7a82f64484e79e89cd90d52"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TKBTonke is an ecological token with NFT game, players can collect the Three Kingdoms hero cards, mine in the farm, and fight with enemies in the battlefield."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3ef99822759a2192e7a82f64484e79e89cd90d52",
+    "url": "https://tkbgame.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x3Ef99822759A2192e7A82f64484e79e89cd90d52"
+    ],
+    "twitter": "Tkbgame2021",
+    "telegram": "TKBAPP",
+    "reddit": "TKBGAME/"
+}

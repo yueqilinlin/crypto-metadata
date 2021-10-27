@@ -1,0 +1,22 @@
+{
+    "id": "raya-crypto",
+    "symbol": "raya",
+    "name": "RAYA Crypto",
+    "platforms": {
+        "binance-smart-chain": "0x57d26959be4e348b218f9c623bf508a3ba0c62d2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RAYA Crypto will create a new platform which is able to be \u2018Connected\u2019 to different blockchains, allowing value and information to circulate freely between networks, redefining the value of a blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x57d26959be4e348b218f9c623bf508a3ba0c62d2",
+    "url": "https://rayacrypto.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x57d26959be4e348b218f9c623bf508a3ba0c62d2"
+    ],
+    "twitter": "RayaCrypto",
+    "telegram": "RAYA_Crypto"
+}

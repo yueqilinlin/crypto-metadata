@@ -1,0 +1,20 @@
+{
+    "id": "thebigcoin",
+    "symbol": "big",
+    "name": "TheBigCoin",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "http://thebigcoin.online/",
+    "explorers": [
+        "http://explorer.thebigcoin.online/"
+    ],
+    "twitter": "thebigcoin",
+    "telegram": "thebigcoinpt",
+    "github_org": "David-BIG"
+}

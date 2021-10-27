@@ -1,0 +1,23 @@
+{
+    "id": "mini-cardano",
+    "symbol": "mada",
+    "name": "Mini Cardano",
+    "platforms": {
+        "binance-smart-chain": "0xf70c14ad93905f39ee3df2d4fb92b87c31d779e0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"The first and biggest Cardano ADA reflection token and the with auto-claim feature. Simply hold $MADA tokens in your wallet and you'll earn ADA.In addition, there is a massive lottery mechanism.\r\nAuto paid\r\nEvery 60 minutes\r\nFor the first time ever, you don\u2019t need to claim your earned ADA.\r\nIt\u2019s automatically sent to your wallet every 6 hours.\r\n\r\nMADA Lottery\r\n3% of each buy/sell is converted into ADA and put into a MAD lottery pool! Every time we hit 5,000 ADA, we\u2019ll do random lottery\r\n\r\nMarketing\r\n3% handling fee to ensure that we have the ability to support the team and marketing expenses in the future.\r\n\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf70c14ad93905f39ee3df2d4fb92b87c31d779e0",
+    "url": "https://minicardano.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xf70c14ad93905f39ee3df2d4fb92b87c31d779e0"
+    ],
+    "twitter": "minicardano",
+    "telegram": "mini_cardano",
+    "github_org": "Mini-Cardano"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "mykey",
+    "symbol": "key",
+    "name": "MYKEY",
+    "platforms": {
+        "eos": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MYKEY (mykey.org) is a self-sovereign identity system implemented on multiple public blockchains. The underlying protocol is called KEY ID. This white paper elaborates on design details of the asset management functionality, as well as briefly describes future development of MYKEY on two other aspects, namely social relationship and data protection. When it comes to asset management, MYKEY is a multi-chain wallet that gives users full control over their assets. Users are able to freeze and restore accounts when private keys get lost. MYKEY is also a building block of Web of Trust. Furthermore, in the context of Web 3.0, MYKEY turns data ownership back to users, protecting user privacy from the ground up."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://mykey.org/",
+    "explorers": [
+        "https://eospark.com/token/key/mkstaketoken"
+    ],
+    "twitter": "mykey_lab",
+    "telegram": "mykey_lab",
+    "github_org": "mykeylab"
+}

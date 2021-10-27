@@ -1,0 +1,23 @@
+{
+    "id": "green-energy-coin",
+    "symbol": "gec",
+    "name": "Green Energy Coin",
+    "platforms": {
+        "binance-smart-chain": "0x0965d7717068ff4f8f302556316f7b8e8661e485"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$GEC will play an extremely important role in CNES DEX (tentatively named EcoSwap):\r\n\u2b50 The reward of LP liquidity mining with $GEC will be much higher than that of other LPs;\r\n\u2b50 The reward of $GEC pledge mining is at least N times that of other single cryptocurrency pledges in CNES DEX;\r\n\u2b50 Other offline mining modes (such as the step-count mining corresponding to Footprint Coin) must pledge or freeze $GEC, and obtain reward according to the pledge ratio.\r\n\r\nIn the future, whether it is DEX or other CNES coins, and even all behaviors that are beneficial to the earth's ecology, it will be carried out around $GEC."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0965d7717068ff4f8f302556316f7b8e8661e485",
+    "url": "https://carbon-neutral.earth/",
+    "explorers": [
+        "https://bscscan.com/token/0x0965d7717068ff4f8f302556316f7b8e8661e485"
+    ],
+    "twitter": "CNESOfficial",
+    "telegram": "CNESCommunity",
+    "reddit": "CNESCommunity/"
+}

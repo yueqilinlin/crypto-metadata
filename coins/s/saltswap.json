@@ -1,0 +1,23 @@
+{
+    "id": "saltswap",
+    "symbol": "salt",
+    "name": "SaltSwap",
+    "platforms": {
+        "binance-smart-chain": "0x2849b1ae7e04a3d9bc288673a92477cf63f28af4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The saltiest yield farm on Binance Smart Chain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2849b1ae7e04a3d9bc288673a92477cf63f28af4",
+    "url": "https://www.saltswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x2849b1aE7E04A3D9Bc288673A92477CF63F28aF4"
+    ],
+    "twitter": "saltswap",
+    "telegram": "saltswap",
+    "github_org": "saltswap"
+}

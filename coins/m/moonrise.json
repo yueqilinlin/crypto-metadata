@@ -1,0 +1,22 @@
+{
+    "id": "moonrise",
+    "symbol": "moonrise",
+    "name": "MoonRise",
+    "platforms": {
+        "binance-smart-chain": "0x7ee7f14427cc41d6db17829eb57dc74a26796b9d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MoonRise is an improved fork of the wildly-successful EverRise token, with a suite of improved features and tokenomics. Community members will be able to participate in \"Moon Shots\" using the Whale Wallet's BNB. MoonShots will be activated at holder milestones during MoonRise's launch phase, but eventually will be controlled through a community-consensus based dApp."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7ee7f14427cc41d6db17829eb57dc74a26796b9d",
+    "url": "https://moonrisecoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x7ee7f14427cc41d6db17829eb57dc74a26796b9d"
+    ],
+    "twitter": "MoonRise_BSC",
+    "telegram": "MoonRise_BSC"
+}

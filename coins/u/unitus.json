@@ -1,0 +1,20 @@
+{
+    "id": "unitus",
+    "symbol": "uis",
+    "name": "Unitus",
+    "platforms": {},
+    "hashing_algorithm": "Multiple Algorithms",
+    "categories": [],
+    "description": {
+        "en": "Unitus comes from the English word United. The name was inspired by the idea of bringing together smaller cryptocurrencies and its communities into a larger group. Unitus runs on multiple algorithms - Lyra2RE2, Skein, Qubit, X11 and Yescrypt. All algorithms can be merge-mined (AuxPoW). There is a 1 minute block time for Unitus with each algorithm having its turn after every 5 minutes. There is no pre-mine or ICO for Unitus and the coins were distributed purely from mining rewards."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-12-28",
+    "url": "https://unituscurrency.com/",
+    "explorers": [
+        "https://explorer.unitus.network/"
+    ],
+    "twitter": "UnitusCoin",
+    "reddit": "unitus",
+    "github_org": "unitusdev"
+}

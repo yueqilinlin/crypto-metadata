@@ -1,0 +1,24 @@
+{
+    "id": "balkari-token",
+    "symbol": "bkr",
+    "name": "Balkari Token",
+    "platforms": {
+        "ethereum": "0x77271813bd9167e75b5df9c230cf58d64f0a58fd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Balkari Project is aiming for high-speed blockchain centent integration platform.\r\nBalkari platform seeks to create a hyper-intelligent society in which users can safely experience the entirety of the production, supply, and consumption process through decentralized financial system based on \u201cKARMA\u201d, high-speed blockchain content integration platform.\r\nUsers can protect their personal data through the DID (Decentralized Identity), and safely use O2M services such as accommodation / tourism / shopping  through KARMA\u2019s payment service.\r\nBalkari's first metaverse mobile game, Noriter is a virtual space where Balkari token is\r\ncreated as a commodity (mining and distribution), enabling the expression of one\u2019s unique identity. \r\nIn BKR project, BKR token will play an important role of future key cryptocurrency in the high-speed blockchain-based content integration platform that Balkari dreams of. In 'KARMA' app, its enterprise ERP, mobile game 'NORITER', its game assets, and various services can be paid and traded with BKR token.  "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x77271813bd9167e75b5df9c230cf58d64f0a58fd",
+    "url": "https://balkari.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x77271813bd9167e75b5df9c230cf58d64f0a58fd",
+        "https://ethplorer.io/address/0x77271813bd9167e75b5df9c230cf58d64f0a58fd"
+    ],
+    "twitter": "balkaritoken",
+    "telegram": "balkaricoin",
+    "github_org": "balkari"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "rewards",
+    "symbol": "rwd",
+    "name": "Rewards",
+    "platforms": {
+        "ethereum": "0xd80f72a6558ec337e0d4cf76b8752b17fa770860",
+        "binance-smart-chain": "0x036bdd5ba9619ee0a895f8dc02867ebf453cb352"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rewards RWD is a cross-chain token that aims to reinvent how customer rewards are distributed, exchanged, stored, and managed. Using blockchain technology to create a rewards network, unifying brands and customers globally.\r\n\r\nRewards (RWD) Benefits\r\n\r\n- Less clutter: customers receive rewards all in a single digital wallet!\r\n- Interoperable: RWD tokens are interoperable across multiple blockchains and customer rewards programs.\r\n- More flexibility: RWD can be redeemed at accepting stores, exchanged for crypto or fiat, stored for later, or sent to friends and family.\r\n- Happier customers: greater ownership and flexibility over their rewards.\r\n- Lower costs: easier implementation for businesses of all sizes.\r\n- Global: businesses instantly gain access to a global ecosystem of potential customers, and a network of partnerships.\r\n\r\nThis project was built by the makers of MyCryptoCheckout, a peer-to-peer crypto payment gateway that has been operating in the crypto space since 2017. With Rewards RWD, the founders are now building a new way for companies to set up rewards programs and earn customer loyalty. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xd80f72a6558ec337e0d4cf76b8752b17fa770860",
+    "url": "https://rwd.global/",
+    "explorers": [
+        "https://etherscan.io/token/0xd80f72a6558ec337e0d4cf76b8752b17fa770860",
+        "https://ethplorer.io/address/0xd80f72a6558ec337e0d4cf76b8752b17fa770860"
+    ],
+    "twitter": "rewards_token",
+    "telegram": "rewards_token",
+    "github_org": "MyCryptoCheckout"
+}

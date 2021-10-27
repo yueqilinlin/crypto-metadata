@@ -1,0 +1,27 @@
+{
+    "id": "shibance-token",
+    "symbol": "woof",
+    "name": "Shibance Token",
+    "platforms": {
+        "binance-smart-chain": "0x9e26c50b8a3b7652c3fd2b378252a8647a0c9268"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "We are a Decentralised Exchange, offering farming rewards on Meme Token pairings, as well as Single-Sided WOOF Staking\r\n\r\nIn the future we will be implementing a LaunchPad- dedicated to launching new Meme Tokens.\r\n\r\nThe Shibance Token is the farming rewards token for our platform. It will ultimately be our Governance Token, as well as receive profits from the platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9e26c50b8a3b7652c3fd2b378252a8647a0c9268",
+    "url": "https://shibance.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x9e26c50b8a3b7652c3fd2b378252a8647a0c9268"
+    ],
+    "twitter": "shibance",
+    "telegram": "Shibance",
+    "reddit": "Shibance/",
+    "github_org": "shibance"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "evanesco-network",
+    "symbol": "eva",
+    "name": "Evanesco Network",
+    "platforms": {
+        "ethereum": "0xd6caf5bd23cf057f5fccce295dcc50c01c198707"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EVA provides a decentralized, flexible, and secure network infrastructure for the encryption ecosystem, which provides an easy-to-use and unified security fortress privacy protocol layer middleware product for multiple chains. In the multi-chain ecology, EVA completes a scalable, high-efficiency, heterogeneous cross-chain privacy asset agreement. As a result, EVA can provide safe, reliable, and efficient network access and encrypted financial services for many ecosystems such as Web3.0 applications, NFT, and DeFi."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd6caf5bd23cf057f5fccce295dcc50c01c198707",
+    "url": "https://www.evanesco.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xd6caf5bd23cf057f5fccce295dcc50c01c198707",
+        "https://ethplorer.io/address/0xd6caf5bd23cf057f5fccce295dcc50c01c198707"
+    ],
+    "twitter": "evanescoio",
+    "telegram": "EvanescoIO",
+    "github_org": "Evanesco-Labs"
+}

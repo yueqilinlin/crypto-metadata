@@ -1,0 +1,23 @@
+{
+    "id": "nodeseeds",
+    "symbol": "nds",
+    "name": "Nodeseeds",
+    "platforms": {
+        "ethereum": "0x747f564d258612ec5c4e24742c5fd4110bcbe46b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We tokenize private sales and seed rounds so every investor can be exposed to these. We invest in seeds round and private presales and 40% of our revenues are used to buy&burn the NDS token. Thus, we give the money back to our community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x747f564d258612ec5c4e24742c5fd4110bcbe46b",
+    "url": "https://nodeseeds.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x747f564d258612ec5c4e24742c5fd4110bcbe46b",
+        "https://ethplorer.io/address/0x747f564d258612ec5c4e24742c5fd4110bcbe46b"
+    ],
+    "twitter": "nodeseeds",
+    "telegram": "nodeseeds"
+}

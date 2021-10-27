@@ -1,0 +1,22 @@
+{
+    "id": "midas-cash",
+    "symbol": "mcash",
+    "name": "Mcashchain",
+    "platforms": {},
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "MCashChain, a Decentralized and Social e-Payment Platform with Zero Fee and Lighting Speed, which aims to Enable Frictionless Digital Economy. MCashChain  possesses the most aspired characters for high throughput dApps required by Midas Ecosystem and our dApps extension allies. By learning from all existing dPos Chains, MCashChain eliminates the pain points, and the instability of previous chains developed. 10k TPS with LightningSend feature enabled from day 1, 3-second block confirmation time, zero-fee for ordinary users, fully integrated with Midas Wallet, listed on Vinex Network and UniDex."
+    },
+    "country_origin": "SG",
+    "genesis_date": "2019-06-26",
+    "url": "https://www.mcash.network",
+    "explorers": [
+        "https://www.mcashscan.io"
+    ],
+    "twitter": "MCashToken",
+    "telegram": "mcashchain",
+    "github_org": "MidasCore"
+}

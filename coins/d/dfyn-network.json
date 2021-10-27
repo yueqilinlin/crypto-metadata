@@ -1,0 +1,28 @@
+{
+    "id": "dfyn-network",
+    "symbol": "dfyn",
+    "name": "Dfyn Network",
+    "platforms": {
+        "ethereum": "0x9695e0114e12c0d3a3636fab5a18e6b737529023",
+        "polygon-pos": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Dfyn is a multi-chain AMM DEX currently functional on the Polygon network. Dfyn nodes on various chains act as liquidity entry and exit points into the cross-chain liquidity super mesh that is being enabled by Router Protocol."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x9695e0114e12c0d3a3636fab5a18e6b737529023",
+    "url": "https://dfyn.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x9695e0114e12c0d3a3636fab5a18e6b737529023",
+        "https://ethplorer.io/address/0x9695e0114e12c0d3a3636fab5a18e6b737529023"
+    ],
+    "twitter": "_dfyn",
+    "telegram": "Dfyn_HQ",
+    "github_org": "dfyn"
+}

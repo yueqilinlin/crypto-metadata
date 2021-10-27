@@ -1,0 +1,24 @@
+{
+    "id": "meter-stable",
+    "symbol": "mtr",
+    "name": "Meter Stable",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Meter is a Proof-of-Work-mined, permissionless, stable cryptocurrency that eliminates counterparty, regulatory, and oracle risks found with crypto- and fiat-backed coins."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://www.meter.io/",
+    "explorers": [
+        "http://scan.meter.io/"
+    ],
+    "twitter": "Meter_IO",
+    "facebook": "MeterFoundation",
+    "telegram": "meter_io",
+    "reddit": "Meter_io/",
+    "github_org": "meterio"
+}

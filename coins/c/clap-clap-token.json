@@ -1,0 +1,23 @@
+{
+    "id": "clap-clap-token",
+    "symbol": "cct",
+    "name": "Clap Clap Token",
+    "platforms": {
+        "ethereum": "0x0f00c8dd21da51bc6a6ac07f491a7dbe69746f16"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Clap Clap Token (CCT) is a simple and transparent tipping token dedicated to street art and urban culture.\r\n\r\nArt metropolis like Melbourne or Berlin attract hordes of tourists every year and offer a visual feast for the public. The city becomes the canvas of talented artists coming from all over the world.\r\n\r\nCCT intends to valorize these open-air galleries and gives the opportunity to reward street artists for their exceptional work. Visitors can leave a tip as a virtual form of appreciation for the urban discoveries on offer."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0f00c8dd21da51bc6a6ac07f491a7dbe69746f16",
+    "url": "https://www.clapclaptoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x0f00c8dd21da51bc6a6ac07f491a7dbe69746f16",
+        "https://ethplorer.io/address/0x0f00c8dd21da51bc6a6ac07f491a7dbe69746f16"
+    ],
+    "twitter": "ClapClapToken",
+    "telegram": "clapclaptoken"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "uze-token",
+    "symbol": "uze",
+    "name": "Uze Tokens",
+    "platforms": {
+        "ethereum": "0xbdcd5fafe4336a844233ebb0aff845d6b2100899"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Uze Exchange token"
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0xbdcd5fafe4336a844233ebb0aff845d6b2100899",
+    "url": "https://uze.exchange/",
+    "explorers": [
+        "https://etherscan.io/token/0xbdcd5fafe4336a844233ebb0aff845d6b2100899",
+        "https://ethplorer.io/address/0xbdcd5fafe4336a844233ebb0aff845d6b2100899"
+    ],
+    "twitter": "UzeExchange",
+    "facebook": "uze.exchange",
+    "telegram": "uzeservices"
+}

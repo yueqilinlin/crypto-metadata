@@ -1,0 +1,29 @@
+{
+    "id": "mirrored-tesla",
+    "symbol": "mtsla",
+    "name": "Mirrored Tesla",
+    "platforms": {
+        "ethereum": "0x21ca39943e91d704678f5d00b6616650f066fd63",
+        "binance-smart-chain": "0xf215a127a196e3988c09d052e16bcfd365cd7aa3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Mirrored Assets"
+    ],
+    "description": {
+        "en": " Mirrored Tesla - synthetic asset tracking the price of a Tesla stock."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x21ca39943e91d704678f5d00b6616650f066fd63",
+    "url": "https://mirror.finance",
+    "explorers": [
+        "https://finder.terra.money/columbus-4/token/terra14y5affaarufk3uscy2vr6pe6w6zqf2wpjzn5sh",
+        "https://etherscan.io/token/0x21cA39943E91d704678F5D00b6616650F066fD63",
+        "https://ethplorer.io/address/0x21ca39943e91d704678f5d00b6616650f066fd63",
+        "https://bscscan.com/token/0xF215A127A196e3988C09d052e16BcFD365Cd7AA3"
+    ],
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol",
+    "github_org": "mirror-protocol"
+}

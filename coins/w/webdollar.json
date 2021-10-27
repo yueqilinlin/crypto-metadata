@@ -1,0 +1,25 @@
+{
+    "id": "webdollar",
+    "symbol": "webd",
+    "name": "webdollar",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "WebDollar is a cryptocurrency fully native to the World Wide Web, entirely written in JavaScript, built around the concepts of simplicity, lightness and portability.\r\n\r\nWebDollar mission is to foster the mainstream adoption of cryptocurrency.\r\n\r\nIn order to make that vision a reality, we're addressing to address all kinds of users, not just the tech savvy, like most of the other cryptos do. For that, we've created the simplest possible user experience for a cryptocurrency:\r\n\u2022 No Installations\r\n\u2022 No Downloads\r\n\u2022 No account creation or complicated configurations.\r\n\u2022 Wallet is safely created automatically and stored locally. "
+    },
+    "country_origin": "RO",
+    "genesis_date": null,
+    "url": "https://webdollar.io",
+    "explorers": [
+        "https://www.webdscan.io",
+        "https://webdollar.network/"
+    ],
+    "twitter": "WebDollar_io",
+    "facebook": "webdollar.io",
+    "telegram": "webdollar",
+    "reddit": "webdollar/",
+    "github_org": "WebDollar"
+}

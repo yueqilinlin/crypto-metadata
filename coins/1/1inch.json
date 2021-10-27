@@ -1,0 +1,37 @@
+{
+    "id": "1inch",
+    "symbol": "1inch",
+    "name": "1inch",
+    "platforms": {
+        "ethereum": "0x111111111117dc0aa78b770fa6a738034120c302",
+        "binance-smart-chain": "0x111111111117dc0aa78b770fa6a738034120c302",
+        "avalanche": "0xd501281565bf7789224523144fe5d98e8b28f267",
+        "polygon-pos": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
+        "harmony-shard-0": "0x58f1b044d8308812881a1433d9bbeff99975e70c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Number",
+        "Binance Smart Chain Ecosystem",
+        "Automated Market Maker (AMM)",
+        "Decentralized Finance (DeFi)",
+        "Decentralized Exchange Token (DEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x111111111117dc0aa78b770fa6a738034120c302",
+    "url": "https://1inch.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x111111111117dc0aa78b770fa6a738034120c302",
+        "https://ethplorer.io/address/0x111111111117dc0aa78b770fa6a738034120c302",
+        "https://bscscan.com/token/0x111111111117dc0aa78b770fa6a738034120c302"
+    ],
+    "twitter": "1inch",
+    "telegram": "OneInchNetwork",
+    "github_org": "1inch-exchange"
+}

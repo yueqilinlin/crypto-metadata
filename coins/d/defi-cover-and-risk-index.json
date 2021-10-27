@@ -1,0 +1,23 @@
+{
+    "id": "defi-cover-and-risk-index",
+    "symbol": "dcvr",
+    "name": "DeFi Cover and Risk Index",
+    "platforms": {
+        "ethereum": "0xf44ad89bcb12fbe8910def9f9529ce91885ad99d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The DeFi ecosystem is underinsured.  Without significant financial and property loss insurance capacity, DeFi growth will stall. The DeFi Cover and Risk Index (DCVR) is a professionally-managed abstracted decentralized index token fund created to attract professional investment to the DeFi cover, risk, and insurance sector.  \r\n\r\nRiskPad Finance is a research, investment management, and technology company.  DCVR tracks the financial and economic performance of decentralized finance cover, insurance, and risk management protocols, digital assets, and projects. RiskPad Finance creates and manages indexes utilizing the Set protocol network. The Set protocol enables the creation of trustless and fully collateralized abstracted token indexes. See Setprotocol.com for more details.\r\n\r\nThe team at RiskPad Finance is comprised of award-winning blockchain, insurance, risk management, and capital markets professionals with proven track records at Citibank, Swiss Re, AB Bernstein, Ernst & Young, ConsenSys, Fidelity Investments, Moody\u2019s, AIG, and PWC."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf44ad89bcb12fbe8910def9f9529ce91885ad99d",
+    "url": "https://www.riskpad.io",
+    "explorers": [
+        "https://etherscan.io/token/0xf44ad89bcb12fbe8910def9f9529ce91885ad99d",
+        "https://ethplorer.io/address/0xf44ad89bcb12fbe8910def9f9529ce91885ad99d"
+    ],
+    "twitter": "HCXI13",
+    "github_org": "SetProtocol"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "insurex",
+    "symbol": "ixt",
+    "name": "iXledger",
+    "platforms": {
+        "ethereum": "0xfca47962d45adfdfd1ab2d972315db4ce7ccf094"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Other"
+    ],
+    "description": {
+        "en": "iXledger is a groundbreaking platform for insurance utilising blockchain. iXledger is founded in London 2017, through encouragement of clients interested in efficiencies enabled through innovative technology. Our aim is to create an alternative insurance platform. The architecture utilises a cutting edge stack consisting of React, NodeJS, Ethereum and OrientDB.\r\n\r\nBlockchain Insurance\r\nGetting insurance for your blockchain business presents various challenges: where to start, how to find the right specialist insurers, and how to ensure you have the right cover. By sourcing your insurance via iXledger you can:\r\n\r\nManage the risks your business faces\r\nIncrease the legitimacy of your venture\r\nShow potential investors and other interested third parties your smart insurance contract on the Ethereum"
+    },
+    "country_origin": "GB",
+    "genesis_date": "2017-07-11",
+    "contract_address": "0xfca47962d45adfdfd1ab2d972315db4ce7ccf094",
+    "url": "https://www.ixledger.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xfca47962d45adfdfd1ab2d972315db4ce7ccf094",
+        "https://ethplorer.io/address/0xfca47962d45adfdfd1ab2d972315db4ce7ccf094"
+    ],
+    "twitter": "insurextech",
+    "telegram": "insurex",
+    "reddit": "insureX"
+}

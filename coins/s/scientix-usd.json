@@ -1,0 +1,23 @@
+{
+    "id": "scientix-usd",
+    "symbol": "scusd",
+    "name": "Scientix USD",
+    "platforms": {
+        "binance-smart-chain": "0x0e5c2b15666eee4b66788e45cf4da0392c070fa7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0e5c2b15666eee4b66788e45cf4da0392c070fa7",
+    "url": [],
+    "explorers": [
+        "https://bscscan.com/token/0x0E5C2b15666EEE4b66788E45CF4Da0392C070fa7"
+    ],
+    "twitter": "ScientixFinance",
+    "telegram": "scientixfi",
+    "github_org": "ScientixFinance"
+}

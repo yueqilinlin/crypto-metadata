@@ -1,0 +1,22 @@
+{
+    "id": "coin-guardian",
+    "symbol": "cgd",
+    "name": "Coin Guardian",
+    "platforms": {
+        "binance-smart-chain": "0xebf66828c3d2f86e3bd59222bd7570973800c26b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WHO IS COINGUARDIAN?\r\n\r\nCGD token holders are not only benefited through static rewards but also by the Buy-Back process of the contract. As part of Buy-Back process, contract takes care of buying back some of the tokens and burn them whenever a sell happens.\r\n\r\nIn a nutshell, 98% of the time, you will not see 2 sell transactions at any time and there will never be three sell transactions continuously at any time"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xebf66828c3d2f86e3bd59222bd7570973800c26b",
+    "url": "https://coin-guardian.com",
+    "explorers": [
+        "https://bscscan.com/token/0xebf66828c3d2f86e3bd59222bd7570973800c26b"
+    ],
+    "twitter": "CoinGuardianBSC",
+    "telegram": "CoinGuardianOfficial"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "tendies",
+    "symbol": "tend",
+    "name": "Tendies",
+    "platforms": {
+        "ethereum": "0x1453dbb8a29551ade11d89825ca812e05317eaeb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Next Generation Autonomous and Hyper Deflationary Coin\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1453dbb8a29551ade11d89825ca812e05317eaeb",
+    "url": "https://tendies.dev/",
+    "explorers": [
+        "https://etherscan.io/token/0x1453dbb8a29551ade11d89825ca812e05317eaeb",
+        "https://ethplorer.io/address/0x1453dbb8a29551ade11d89825ca812e05317eaeb"
+    ],
+    "twitter": "TendiesCrypto",
+    "telegram": "tendies1"
+}

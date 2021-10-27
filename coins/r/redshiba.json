@@ -1,0 +1,24 @@
+{
+    "id": "redshiba",
+    "symbol": "redshiba",
+    "name": "RedShiba",
+    "platforms": {
+        "binance-smart-chain": "0xf57d0b57074a5cf1cb0dd9453eb5af4e5174d157"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RedShiba will be a utility token as we are building an ecosystem that encompasses gaming and NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf57d0b57074a5cf1cb0dd9453eb5af4e5174d157",
+    "url": "https://www.shiba.red/",
+    "explorers": [
+        "https://www.bscscan.com/token/0xf57d0b57074a5cf1cb0dd9453eb5af4e5174d157",
+        "https://bscscan.com/token/0xf57d0b57074a5cf1cb0dd9453eb5af4e5174d157"
+    ],
+    "twitter": "Red_Shiba_Inu",
+    "telegram": "RedShibaInu",
+    "github_org": "RedTeam-Blockchain"
+}

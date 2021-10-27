@@ -1,0 +1,23 @@
+{
+    "id": "whale-fall",
+    "symbol": "whale",
+    "name": "Whale Fall",
+    "platforms": {
+        "binance-smart-chain": "0x587c16b84c64751760f6e3e7e32f896634704352"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A decentralized community movement experiment to eliminate the oppression of the financial class is about to start."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x587c16b84c64751760f6e3e7e32f896634704352",
+    "url": "https://whalefall.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x587C16b84c64751760f6e3e7e32F896634704352"
+    ],
+    "twitter": "whalefall_WHALE",
+    "telegram": "whalefall_group1",
+    "github_org": "WhaleFall-Official"
+}

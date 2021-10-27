@@ -1,0 +1,23 @@
+{
+    "id": "pluto",
+    "symbol": "plut",
+    "name": "Pluto",
+    "platforms": {
+        "ethereum": "0xf38011f9153acffaca3fbfc42ddfa766c980d967"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PLUTO (hereinafter referred to as PLUTO) is a secure and productive chain to support cryptocurrency market users which is the very basis of the whole blockchain industry. Pluto Chain is developing \u2018Coin Surf\u2019, a comprehensive cryptocurrency investment platform and \u2018PlutoNode\u2019, an all-in-one node rewarding program for everyday users."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0xf38011f9153acffaca3fbfc42ddfa766c980d967",
+    "url": "http://www.plutochain.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xF38011F9153aCFfACa3fBFC42Ddfa766C980d967",
+        "https://ethplorer.io/address/0xF38011F9153aCFfACa3fBFC42Ddfa766C980d967"
+    ],
+    "twitter": "ChainPluto",
+    "telegram": "pluto_ann"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "cashcow",
+    "symbol": "cow",
+    "name": "CashCow",
+    "platforms": {
+        "binance-smart-chain": "0x8b6fa031c7d2e60fbfe4e663ec1b8f37df1ba483"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CashCow Protocol is a community driven, fair launched hyper-deflationary DeFi Token.\r\n\r\nCashCow Protocol is a project with the vision of creating an NFT based Play to Earn Blockchain Game."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8b6fa031c7d2e60fbfe4e663ec1b8f37df1ba483",
+    "url": "https://cashcowprotocol.com",
+    "explorers": [
+        "https://bscscan.com/token/0x8b6fa031c7d2e60fbfe4e663ec1b8f37df1ba483"
+    ],
+    "twitter": "CashCowProtocol",
+    "telegram": "cashcowprotocol",
+    "github_org": "CashCowProject"
+}

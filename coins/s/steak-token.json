@@ -1,0 +1,24 @@
+{
+    "id": "steak-token",
+    "symbol": "steak",
+    "name": "Steak Token",
+    "platforms": {
+        "fantom": "0x05848b832e872d9edd84ac5718d58f21fd9c9649"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fantom Ecosystem"
+    ],
+    "description": {
+        "en": "StakeSteak is a suite of financial products centered around fUSD, including but not limited to interest-bearing assets, liquidity pools, auto-compounding vaults, and loaning/borrowing."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x05848b832e872d9edd84ac5718d58f21fd9c9649",
+    "url": "https://stakesteak.app/",
+    "explorers": [
+        "https://ftmscan.com/token/0x05848b832e872d9edd84ac5718d58f21fd9c9649"
+    ],
+    "twitter": "stake_steak",
+    "github_org": "xam-darnold"
+}

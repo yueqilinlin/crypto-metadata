@@ -1,0 +1,24 @@
+{
+    "id": "canyacoin",
+    "symbol": "can",
+    "name": "CanYaCoin",
+    "platforms": {
+        "binance-smart-chain": "0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CanYa is a peer to peer market of skilled services - where users are instantly connected to service providers. Unlike most ICO's we already have a working product, high user growth and an experienced team. We launched our initial product to Australia earlier this year and now we're conducting an ICO to fund expansion into the international market as well as launching CAN token. CanYa has again raised the bar for ICOs following a major acquisition of Bountysource and its passionate 46,000 open-source developer community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56",
+    "url": "https://canya.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56"
+    ],
+    "twitter": "canyacoin",
+    "facebook": "CanYaCoin",
+    "telegram": "canyacoin",
+    "github_org": "CanYaCoinSale"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "beverage",
+    "symbol": "beverage",
+    "name": "BEVERAGE",
+    "platforms": {
+        "bitshares": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "url": "https://www.beveragesystem.net/",
+    "explorers": [
+        "http://dev.pywaves.org/assets/6vJYDXrt6kWeDAEKp3FmiSkUHqSePvNF3m8ZQ1Uy22cU"
+    ],
+    "twitter": "BeverageToken",
+    "telegram": "beveragetoken"
+}

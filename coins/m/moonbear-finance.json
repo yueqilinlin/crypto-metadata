@@ -1,0 +1,24 @@
+{
+    "id": "moonbear-finance",
+    "symbol": "mbf",
+    "name": "MoonBear Finance",
+    "platforms": {
+        "binance-smart-chain": "0xe2997ae926c7a76af782923a7fef89f36d86c98f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MoonBear Finance ($MBF) is a community-driven, fair launched, decentralized finance (DeFi) cryptocurrency token with supercharged tokenomics that can accumulate wealth, even in a bear market."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe2997ae926c7a76af782923a7fef89f36d86c98f",
+    "url": "https://moonbear.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xe2997ae926C7a76aF782923a7fEf89f36d86C98F"
+    ],
+    "twitter": "MoonBearFinance",
+    "telegram": "MoonBearFinanceOfficial",
+    "reddit": "MoonBearFinance",
+    "github_org": "MoonBearFinance"
+}

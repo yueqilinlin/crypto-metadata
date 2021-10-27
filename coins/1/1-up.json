@@ -1,0 +1,24 @@
+{
+    "id": "1-up",
+    "symbol": "1-up",
+    "name": "1-UP",
+    "platforms": {
+        "ethereum": "0xc86817249634ac209bc73fca1712bbd75e37407d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A blockchain based game that lets users wager against each other in battle royale matches to compete and earn tokens."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0xc86817249634ac209bc73fca1712bbd75e37407d",
+    "url": "https://1-up.fun/",
+    "explorers": [
+        "https://etherscan.io/token/0xC86817249634ac209bc73fCa1712bBd75E37407d",
+        "https://ethplorer.io/address/0xC86817249634ac209bc73fCa1712bBd75E37407d"
+    ],
+    "twitter": "game1uptoken",
+    "telegram": "game1up",
+    "github_org": "1-up-platform"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "yuan",
+    "symbol": "yuan",
+    "name": "YUAN",
+    "platforms": {
+        "ethereum": "0x4a3e164684812dfb684ac36457e7fa805087c68e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "First-ever Elastic Token that Tracks Chinese Yuan\u2019s Exchange Rate against USD"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4a3e164684812dfb684ac36457e7fa805087c68e",
+    "url": "https://1yuan.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x4A3e164684812DfB684AC36457E7fA805087c68E",
+        "https://ethplorer.io/address/0x4A3e164684812DfB684AC36457E7fA805087c68E"
+    ],
+    "twitter": "1YuanFinance",
+    "telegram": "YuanFinance"
+}

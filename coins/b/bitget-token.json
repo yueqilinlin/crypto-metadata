@@ -1,0 +1,23 @@
+{
+    "id": "bitget-token",
+    "symbol": "bgb",
+    "name": "Bitget Token",
+    "platforms": {
+        "ethereum": "0x19de6b897ed14a376dda0fe53a5420d2ac828a28"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "About BGB:\r\n\r\nBGB (Bitget Token) is an upgraded platform token of Bitget trading platform. In order to adapt to the development of the existing platform, more utilities has been added to BGB in comparison to the original platform token BFT (Bitget Defi Token).\r\n\r\nAs an utility token of the Bitget platform, BGB will be applied to other business scenarios such as contract transactions, spot transactions, KOL cooperation, merchant cooperation, and social interaction.\r\n\r\n2. The specific issuance rules of BGB\r\n\r\nThe total supply of BGB is 2,000,000,000, all of which will be swapped to the BFT holders, 25% (500,000,000) will be used for swapping of existing circulating BFT, and the remaining 75% (1,500,000,000) will be distributed as follows:\r\n\r\na. 15% will be used on community and acquisition of new user, with a maximum of 4% will be released every year;\r\n\r\nb. 15% will be used for branding, including rewards and remuneration for those KOLs, media, and communities who have contributed to the Bitget, with a maximum of 3% released each year;\r\n\r\nc. 15% will be used for ecological investment funds for development of Bitget\u2019s ecosystem;\r\n\r\nd. 20% will be used for core team motivation, 2% will be unlocked in every 6 months, and completed in 5 years (60 months);\r\n\r\ne. 10% will be used for the investor protection fund, which will only be unlocked according to the actual payment amount when the user compensation plan is launched. Potential compensation scenarios include cryptocurrency theft and debt in margin call due to platform security issues;\r\n\r\n3. Application scenarios of BGB\r\n\r\nStaking BGB, you will be entitled the following benefits:\r\n\r\n\u2474Futures transaction fee discount: Using BGB as a contract margin can enjoy a discount on contract transaction fees (the current discount rate is 15%);\r\n\r\n\u2475Spot transaction fee discount: Use BGB to pay for spot transaction fees and enjoy discounts (the current discount rate is 30%);\r\n\r\n\u2476KOL partnership reward: Use BGB as a guarantee deposit to enjoy more partnership rewards;\r\n\r\n\u2477OTC merchant reward: Use BGB as guarantee deposit to enjoy more partnership rewards;\r\n\r\n\u2478 Other business scenarios\uff1afor instance, BGB can be used as proof of rights and interests for users of different levels in the future, and it can also be used as a social token for the interaction between fans and copy traders. Use case scenarios include but not limited to transaction strategy subscription, trading trial bonus, private social circle tickets and red package etc.\r\n\r\n4. BGB buyback and destruction\r\nEvery quarter, Bitget will use 30% of the profit from the total transaction fees for the buyback of BGB and destroy it, and all the blockchain records of the destruction will be announced on the platform.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x19de6b897ed14a376dda0fe53a5420d2ac828a28",
+    "url": "https://www.bitget.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x19de6b897ed14a376dda0fe53a5420d2ac828a28",
+        "https://ethplorer.io/address/0x19de6b897ed14a376dda0fe53a5420d2ac828a28"
+    ],
+    "twitter": "bitgetglobal",
+    "facebook": "BitgetGlobal"
+}

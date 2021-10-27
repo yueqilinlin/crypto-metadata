@@ -1,0 +1,22 @@
+{
+    "id": "pancaketools",
+    "symbol": "tcake",
+    "name": "PancakeTools",
+    "platforms": {
+        "binance-smart-chain": "0x3b831d36ed418e893f42d46ff308c326c239429f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pancaketools binance chain pair and pool explorer based on data form PancakeSwap.\r\nPancaketools launch 20 May 2021 and will offer : \r\n- Pair&Pool explorer\r\n- Calendar with upcoming listing in PancakeSwap\r\n- Rating upcoming listing in PancakeSwap\r\n- Staking "
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x3b831d36ed418e893f42d46ff308c326c239429f",
+    "url": "https://www.tcake.io",
+    "explorers": [
+        "https://bscscan.com/token/0x3b831d36ed418e893f42d46ff308c326c239429f"
+    ],
+    "twitter": "tcake_official",
+    "telegram": "tcake_announcements"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "boliecoin",
+    "symbol": "bolc",
+    "name": "Boliecoin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "BolieCoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. BolieCoin is an open source, global payment network that is fully decentralized without any central authorities."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://boliecoin.com/",
+    "explorers": [
+        "https://explorer.boliecoin.com/"
+    ],
+    "twitter": "BoliesTV",
+    "facebook": "BoliesTV",
+    "telegram": "boliecoin"
+}

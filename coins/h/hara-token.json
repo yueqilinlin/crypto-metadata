@@ -1,0 +1,27 @@
+{
+    "id": "hara-token",
+    "symbol": "hart",
+    "name": "Hara Token",
+    "platforms": {
+        "ethereum": "0x52928c95c4c7e934e0efcfab08853a0e4558861d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Big Data"
+    ],
+    "description": {
+        "en": "Our mission began within the agriculture and food sector and continues toward overall sustainability for the world\u2019s most socially impactful sectors. The potential impacts of a global and transparent data access on agriculture and food sector are increase in productivity, supply-chain and market efficiencies. The growth in this sector directly influences the health sector, for instance, improvement in household ability to purchase and consume cheaper and better food.\r\n\r\nAccess to location specific data also enables well-targeted infrastructure development that will impact the transportation sector. Overall, a global and transparent data exchange platform will improve the welfare of agriculture workers and provide a trigger for remarkable economic growth and expansion to other sectors, particularly in developing countries where agriculture plays a pivotal role to the country\u2019s economic development."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x52928c95c4c7e934e0efcfab08853a0e4558861d",
+    "url": "https://haratoken.io/index.html",
+    "explorers": [
+        "https://etherscan.io/token/0x52928c95c4c7e934e0efcfab08853a0e4558861d",
+        "https://ethplorer.io/address/0x52928c95c4c7e934e0efcfab08853a0e4558861d"
+    ],
+    "twitter": "haratoken",
+    "facebook": "HARAToken",
+    "telegram": "HARAToken",
+    "github_org": "dattabot-blockchain"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sbland-vault-nftx",
+    "symbol": "sbland",
+    "name": "SBLAND Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0x63aa9d05c025279f8e963ba784f1254814c1e12b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "SBLAND Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs).\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x63aa9d05c025279f8e963ba784f1254814c1e12b",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x63aa9d05c025279f8e963ba784f1254814c1e12b",
+        "https://ethplorer.io/address/0x63aa9d05c025279f8e963ba784f1254814c1e12b"
+    ],
+    "reddit": "https://www.reddit.com"
+}

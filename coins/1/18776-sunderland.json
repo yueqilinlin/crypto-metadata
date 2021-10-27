@@ -1,0 +1,26 @@
+{
+    "id": "18776-sunderland",
+    "symbol": "realtoken-s-18776-sunderland-rd-detroit-mi",
+    "name": "RealT Token - 18776 Sunderland Rd, Detroit, MI 48219",
+    "platforms": {
+        "xdai": "0xba07997f594a52df179620284b52b50a4e66227d",
+        "ethereum": "0x2c6f00a020b613c9419bb6c1ac220036dbe9e622"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xba07997f594a52df179620284b52b50a4e66227d",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://blockscout.com/xdai/mainnet/tokens/0xBA07997F594A52DF179620284B52B50A4E66227D/token-transfers"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

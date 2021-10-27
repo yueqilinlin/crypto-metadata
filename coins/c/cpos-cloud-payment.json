@@ -1,0 +1,23 @@
+{
+    "id": "cpos-cloud-payment",
+    "symbol": "cpos",
+    "name": "CPOS Cloud Payment",
+    "platforms": {
+        "binance-smart-chain": "0xc0dc5adfae1dada9111f376810d772cabd9b6f13"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Crypto POS system is user-friendly and intuitive, so your employees can use it without training. The steps are simple to follow, and there are no major changes to your business.\r\nIf any issues arise, there is quick access to additional support materials as well as a support team at hand to help you resolve it."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc0dc5adfae1dada9111f376810d772cabd9b6f13",
+    "url": "https://cpos.cloud/",
+    "explorers": [
+        "https://bscscan.com/token/0xc0dc5adfae1dada9111f376810d772cabd9b6f13"
+    ],
+    "twitter": "cposcloud",
+    "telegram": "cposcloud",
+    "github_org": "Cpos-Finance-Dev"
+}

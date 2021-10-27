@@ -1,0 +1,24 @@
+{
+    "id": "paper",
+    "symbol": "paper",
+    "name": "Paper",
+    "platforms": {
+        "ethereum": "0xddce093888c8dc636677cd29bc6c68d35cfdac33"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PAPER is the native governance token of flush.lol project"
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0xddce093888c8dc636677cd29bc6c68d35cfdac33",
+    "url": "https://fomoapp.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xddce093888c8dc636677cd29bc6c68d35cfdac33",
+        "https://ethplorer.io/address/0xddce093888c8dc636677cd29bc6c68d35cfdac33"
+    ],
+    "twitter": "fomoapp_io",
+    "telegram": "fomoapp_io",
+    "github_org": "flushlol"
+}

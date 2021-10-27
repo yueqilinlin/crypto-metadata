@@ -1,0 +1,24 @@
+{
+    "id": "jfin-coin",
+    "symbol": "jfin",
+    "name": "JFIN Coin",
+    "platforms": {
+        "ethereum": "0x940bdcb99a0ee5fb008a606778ae87ed9789f257"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Utility token for the JFin ecosystem."
+    },
+    "country_origin": "TH",
+    "genesis_date": null,
+    "contract_address": "0x940bdcb99a0ee5fb008a606778ae87ed9789f257",
+    "url": "https://www.jfincoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x940bdcb99a0ee5fb008a606778ae87ed9789f257",
+        "https://ethplorer.io/address/0x940bdcb99a0ee5fb008a606778ae87ed9789f257"
+    ],
+    "twitter": "JFinCoin",
+    "facebook": "JFINofficial",
+    "telegram": "Jfincoin"
+}

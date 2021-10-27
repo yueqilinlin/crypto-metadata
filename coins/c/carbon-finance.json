@@ -1,0 +1,21 @@
+{
+    "id": "carbon-finance",
+    "symbol": "carbon",
+    "name": "Carbon Finance",
+    "platforms": {
+        "arbitrum-one": "0xfa42da1bd08341537a44a4ca9d236d1c00a98b40"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfa42da1bd08341537a44a4ca9d236d1c00a98b40",
+    "url": "https://carbonfi.io/",
+    "explorers": [
+        "https://arbiscan.io/token/0xfa42da1bd08341537a44a4ca9d236d1c00a98b40"
+    ],
+    "twitter": "carbonfi_io"
+}

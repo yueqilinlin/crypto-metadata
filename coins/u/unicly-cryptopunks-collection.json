@@ -1,0 +1,25 @@
+{
+    "id": "unicly-cryptopunks-collection",
+    "symbol": "upunk",
+    "name": "Unicly CryptoPunks Collection",
+    "platforms": {
+        "ethereum": "0x8d2bffcbb19ff14a698c424fbcdcfd17aab9b905"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "uTokens",
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "The First and Largest Collection of LarvaLabs CryptoPunks. CryptoPunks are one of the earliest NFTs created on Ethereum and the largest by Marketcap. The real OG NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8d2bffcbb19ff14a698c424fbcdcfd17aab9b905",
+    "url": "https://www.app.unic.ly/#/utoken-contract/0x8d2bffcbb19ff14a698c424fbcdcfd17aab9b905",
+    "explorers": [
+        "https://etherscan.io/token/0x8d2bffcbb19ff14a698c424fbcdcfd17aab9b905",
+        "https://ethplorer.io/address/0x8d2bffcbb19ff14a698c424fbcdcfd17aab9b905"
+    ]
+}

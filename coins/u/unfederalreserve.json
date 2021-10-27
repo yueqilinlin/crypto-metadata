@@ -1,0 +1,30 @@
+{
+    "id": "unfederalreserve",
+    "symbol": "ersdl",
+    "name": "unFederalReserve",
+    "platforms": {
+        "ethereum": "0x5218e472cfcfe0b64a064f055b43b4cdc9efd3a6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "The eRSDL ecosystem is like a safe-harbor where sophisticated parties are the \"pricing oracles\" and ordinary people can participate alongside with a reduced chance of being gamed by experts."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x5218e472cfcfe0b64a064f055b43b4cdc9efd3a6",
+    "url": "https://www.unfederalreserve.com",
+    "explorers": [
+        "https://etherscan.io/token/0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6",
+        "https://ethplorer.io/address/0x5218e472cfcfe0b64a064f055b43b4cdc9efd3a6"
+    ],
+    "twitter": "Unfederalreser1",
+    "telegram": "unfedres_staking",
+    "reddit": "unFederalReserve/",
+    "github_org": "UnFederalReserve"
+}

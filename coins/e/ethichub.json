@@ -1,0 +1,28 @@
+{
+    "id": "ethichub",
+    "symbol": "ethix",
+    "name": "EthicHub",
+    "platforms": {
+        "ethereum": "0xfd09911130e6930bf87f2b0554c44f400bd80d3e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "xDAI Ecosystem"
+    ],
+    "description": {
+        "en": "Ethic Hub is a transnational decentralised Crowd-Lending platform that directly connects investors from around the world with groups of unbanked agricultural producers. We are the only platform that charges commissions only in case of success, that is, once the loan has been paid. Unlike other platforms, our risk assessment is carried out by people who personally know the borrower (Ethic partner/project collector)."
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0xfd09911130e6930bf87f2b0554c44f400bd80d3e",
+    "url": "https://www.ethichub.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xfd09911130e6930bf87f2b0554c44f400bd80d3e",
+        "https://ethplorer.io/address/0xfd09911130e6930bf87f2b0554c44f400bd80d3e"
+    ],
+    "twitter": "ethichub",
+    "facebook": "EthicHubPlatform",
+    "telegram": "ethichubeng",
+    "github_org": "EthicHub"
+}

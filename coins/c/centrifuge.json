@@ -1,0 +1,18 @@
+{
+    "id": "centrifuge",
+    "symbol": "cfg",
+    "name": "Centrifuge",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The centrifuge token model powers centrifuge, providing the framework needed to run the platform without reliance on a single point of failure, including the centrifuge team or\r\nCompany, and to accelerate its utility. To accomplish this, centrifuge leverages the cryptoeconomic primitives of a native token called the centrifuge token (cfg), a nominated-proof-of-stake consensus algorithm that employs centrifuge to stake value, rewards for centrifuge adoption, and an on-chain governance mechanism that empowers centrifuge holders to guide the development of centrifuge."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://centrifuge.io/",
+    "explorers": [],
+    "twitter": "centrifuge",
+    "telegram": "centrifuge_chat",
+    "github_org": "centrifuge"
+}

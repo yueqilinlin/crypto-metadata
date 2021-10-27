@@ -1,0 +1,24 @@
+{
+    "id": "updog",
+    "symbol": "updog",
+    "name": "UpDog",
+    "platforms": {
+        "binance-smart-chain": "0x400613f184d1207f5c07a67d67040a4e23e92feb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "Static yield Auto-generating liquidity protocol by holding which also contain deflationary token modal. Automatic Liquidity provision which takes place as every trade contributes towards automatically generating liquidity that goes into pools. Autonomous static Yield is earned by holders as passive rewards from the deflationary taxes per transactions. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x400613f184d1207f5c07a67d67040a4e23e92feb",
+    "url": "https://updog.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x400613f184D1207f5C07a67D67040A4e23E92feB"
+    ],
+    "twitter": "updogBSC",
+    "telegram": "UpDogBsc"
+}

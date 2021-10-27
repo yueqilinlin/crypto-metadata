@@ -1,0 +1,25 @@
+{
+    "id": "master-contract-token",
+    "symbol": "mct",
+    "name": "Master Contract Token",
+    "platforms": {
+        "neo": "a87cc2a513f5d8b4a42432343687c2127c60bc3f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "The NEO Smart Economy has a major limitation in that although smart contracts can receive funds (system assets like NEO or GAS) they cannot send funds without intervention of off-chain code that responds to events emitted by the smart contract and creates and broadcasts new transactions.\r\n\r\nThe introduction of NEP-7 in Neo 2.7.5 has eased some of the difficulties with receiving system assets by a smart contract. Now a contract will be able to be triggered upon receiving NEO/GAS, giving the contract the opportunity to perform actions or reject the transfer. The problem of the inability to send NEO/GAS in a single operation still remains, however.\r\n\r\nCurrent NEP-5 tokens have more limitations than system assets:\r\n\r\nThe smart contract will receive no notification that the tokens were sent\r\nThe smart contract will not be able to spend tokens it holds without coordination from an off-chain wallet holding the owner's key\r\nA change is needed to foster automated exchange of value between smart contracts and users. As a result of this need, we have created the Master Contract Token (MCT).\r\n\r\nMCT is a NEP-5-compatible token implementation with some additional features. The most notable being the ability for third-party smart contracts to send, receive, and hold it."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "a87cc2a513f5d8b4a42432343687c2127c60bc3f",
+    "url": "https://splyse.tech/#projects",
+    "explorers": [
+        "https://neotracker.io/asset/a87cc2a513f5d8b4a42432343687c2127c60bc3f"
+    ],
+    "twitter": "MCT_Token",
+    "reddit": "MasterContractToken/",
+    "github_org": "Splyse"
+}

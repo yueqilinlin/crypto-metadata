@@ -1,0 +1,30 @@
+{
+    "id": "shroom-finance",
+    "symbol": "shroom",
+    "name": "Niftyx Protocol",
+    "platforms": {
+        "ethereum": "0xed0439eacf4c4965ae4613d77a5c2efe10e5f183"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem",
+        "Non-Fungible Tokens (NFT)",
+        "Yield Farming",
+        "Gaming",
+        "Governance"
+    ],
+    "description": {
+        "en": "Niftyx is building a decentralised protocol for NFT trading and minting.\r\n\r\nThe project is building the infrastructure required to easily deploy and connect niche-focused global NFT markets ensuring a neutral playing field for creators, users and private firms.\r\n\r\nSolutions for several market verticals are being deployed, starting with Gaming and with upcoming services for Music and Fashion NFTs among others.\r\n\r\nThe protocol uses EVM-compatible standards and operates under a DAO model, being 100% community-owned and driven."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xed0439eacf4c4965ae4613d77a5c2efe10e5f183",
+    "url": "https://www.niftyx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xed0439eacf4c4965ae4613d77a5c2efe10e5f183",
+        "https://ethplorer.io/address/0xed0439eacf4c4965ae4613d77a5c2efe10e5f183"
+    ],
+    "twitter": "NiftyxProtocol",
+    "telegram": "niftyxprotocol",
+    "github_org": "shroom-finance"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "world-token",
+    "symbol": "world",
+    "name": "World Token",
+    "platforms": {
+        "ethereum": "0xbf494f02ee3fde1f20bee6242bce2d1ed0c15e47",
+        "binance-smart-chain": "0x31ffbe9bf84b4d9d02cd40eccab4af1e2877bbc6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Global digital marketplace rewarding both users and merchants on every transaction. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbf494f02ee3fde1f20bee6242bce2d1ed0c15e47",
+    "url": "https://worldtoken.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xbf494f02ee3fde1f20bee6242bce2d1ed0c15e47",
+        "https://ethplorer.io/address/0xbf494f02ee3fde1f20bee6242bce2d1ed0c15e47",
+        "https://bscscan.com/token/0x31ffbe9bf84b4d9d02cd40eccab4af1e2877bbc6"
+    ],
+    "twitter": "worldtoken_",
+    "telegram": "worldtokenofficial",
+    "github_org": "worldtoken"
+}

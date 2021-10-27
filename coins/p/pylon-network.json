@@ -1,0 +1,28 @@
+{
+    "id": "pylon-network",
+    "symbol": "pylnt",
+    "name": "Pylon Network",
+    "platforms": {
+        "ethereum": "0xd8924385cd46e6af6f377871c732bde2f8e9dd18"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Energy"
+    ],
+    "description": {
+        "en": "Pylon Network's blockchain is designed to play the role of the digital communication platform in the energy sector, simplifying communication processes between all its stakeholders. Essentially, Pylon Network is a Neutral Energy DataHub, supported by its decentralized Federated Nodes.\r\n\r\nAll Federated Nodes of Pylon Network are required to stake Pylon Tokens ($PYLNT) for becoming part of the network and will receive 80% of the rewards in the form of Pyloncoin ($PYLNC) - the utility coin of Pylon's Neutral Data Hub."
+    },
+    "country_origin": "ES",
+    "genesis_date": "2017-09-26",
+    "contract_address": "0xd8924385cd46e6af6f377871c732bde2f8e9dd18",
+    "url": "https://pylon.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xd8924385cd46e6af6f377871c732bde2f8e9dd18",
+        "https://ethplorer.io/address/0xd8924385cd46e6af6f377871c732bde2f8e9dd18"
+    ],
+    "twitter": "pylon_network",
+    "facebook": "KlenergyTechOfficial",
+    "telegram": "pylonnetworkofficialtelegram",
+    "reddit": "PylonNetwork/",
+    "github_org": "klenergy"
+}

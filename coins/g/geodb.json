@@ -1,0 +1,27 @@
+{
+    "id": "geodb",
+    "symbol": "geo",
+    "name": "GeoDB",
+    "platforms": {
+        "ethereum": "0x147faf8de9d8d8daae129b187f0d02d819126750",
+        "binance-smart-chain": "0xc342774492b54ce5f8ac662113ed702fc1b34972"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "GeoDB is a decentralized peer-to-peer big data sharing ecosystem, which returns value to its creators, the users. GeoDB\u2019s mission is to democratize the 260bn Big Data industry, building an open ecosystem in which to establish better and trusted relationships between market participants while giving back control and value to data generators, the users. GeoDB is using blockchain technology to eliminate intermediation in a huge industry and allow a faster growth an adoption.\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x147faf8de9d8d8daae129b187f0d02d819126750",
+    "url": "https://geodb.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x147faf8de9d8d8daae129b187f0d02d819126750",
+        "https://ethplorer.io/address/0x147faf8de9d8d8daae129b187f0d02d819126750"
+    ],
+    "twitter": "GeoDataBlock",
+    "facebook": "GeoDataBlock",
+    "telegram": "GeoDBgroup"
+}

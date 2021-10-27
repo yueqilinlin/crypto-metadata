@@ -1,0 +1,24 @@
+{
+    "id": "xwin-finance",
+    "symbol": "xwin",
+    "name": "xWIN Finance",
+    "platforms": {
+        "binance-smart-chain": "0xd88ca08d8eec1e9e09562213ae83a7853ebb5d28"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "xWin is the decentralized fund management platform built on Binance Smart Chain. It enables everyone who is confident in their trading/fund management skills to open their own funds. Platform users can then subscribe to those funds and earn profits. Our goal was to create one-stop DeFi protocol, where even total beginners can earn profits."
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "contract_address": "0xd88ca08d8eec1e9e09562213ae83a7853ebb5d28",
+    "url": "https://xwin.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xd88ca08d8eec1e9e09562213ae83a7853ebb5d28"
+    ],
+    "twitter": "xwinfinance",
+    "facebook": "xwinfinanceofficial",
+    "telegram": "xwinfinance",
+    "github_org": "xwinfinance"
+}

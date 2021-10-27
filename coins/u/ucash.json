@@ -1,0 +1,24 @@
+{
+    "id": "ucash",
+    "symbol": "ucash",
+    "name": "U.CASH",
+    "platforms": {
+        "ethereum": "0x92e52a1a235d9a103d970901066ce910aacefd37"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x92e52a1a235d9a103d970901066ce910aacefd37",
+    "url": "https://u.cash",
+    "explorers": [
+        "https://etherscan.io/token/0x92e52a1a235d9a103d970901066ce910aacefd37",
+        "https://ethplorer.io/address/0x92e52a1a235d9a103d970901066ce910aacefd37"
+    ],
+    "twitter": "udotcash",
+    "reddit": "ucash/",
+    "github_org": "udotcash"
+}

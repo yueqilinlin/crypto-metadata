@@ -1,0 +1,22 @@
+{
+    "id": "moneydefiswap",
+    "symbol": "msd",
+    "name": "MoneydefiSwap",
+    "platforms": {
+        "binance-smart-chain": "0xfa5d78d4517d2c5ccbad2e56fa8fc321d6544f2b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Moneydefiswap is an innovative BEP-20 token that uses complex algorithms to generate automatic gas-less yield rewards, incentivizes holding while stabilizing the price through automatically generating liquidity, providing an unbreakable price floor. What makes Moneydefiswap truly\u00a0Money Shot growing up \u00a0is the automatic market making mechanisms that guarantees an ever-lasting baseline liquidity (basically a price floor) that inches higher on each trade executed. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfa5d78d4517d2c5ccbad2e56fa8fc321d6544f2b",
+    "url": "https://moneydefiswap.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xfa5d78d4517d2c5ccbad2e56fa8fc321d6544f2b"
+    ],
+    "twitter": "MoneydefiSwap",
+    "telegram": "MoneydefiSwap"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "kuro-shiba",
+    "symbol": "kuro",
+    "name": "Kuro Shiba",
+    "platforms": {
+        "harmony-shard-0": "0x3e018675c0ef63eb361b9ef4bfea3a3294c74c7b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kuro Shiba is an NFT-powered browser game that lets you buy treasures, toys, and treats with $KURO tokens, and set them in your yard to attract visits from Shibas and friends. Befriend and collect each pup!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3e018675c0ef63eb361b9ef4bfea3a3294c74c7b",
+    "url": "https://www.kuroshiba.one/",
+    "explorers": [
+        "https://explorer.harmony.one/address/0x3e018675c0ef63eb361b9ef4bfea3a3294c74c7b"
+    ],
+    "twitter": "KuroShibaONE",
+    "github_org": "kuroshibaone"
+}

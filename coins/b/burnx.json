@@ -1,0 +1,22 @@
+{
+    "id": "burnx",
+    "symbol": "burnx",
+    "name": "BurnX",
+    "platforms": {
+        "binance-smart-chain": "0xd24a388f61cfe76e0cc842f23eb6d3d2243d9d2f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd24a388f61cfe76e0cc842f23eb6d3d2243d9d2f",
+    "url": "https://burnx.live/",
+    "explorers": [
+        "https://bscscan.com/token/0xd24a388f61cfe76e0cc842f23eb6d3d2243d9d2f"
+    ],
+    "twitter": "TheBurnX",
+    "telegram": "BurnXtoken"
+}

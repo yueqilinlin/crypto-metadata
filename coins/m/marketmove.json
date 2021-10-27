@@ -1,0 +1,23 @@
+{
+    "id": "marketmove",
+    "symbol": "move",
+    "name": "MarketMove",
+    "platforms": {
+        "binance-smart-chain": "0x231cf6f78620e42fe00d0c5c3088b427f355d01c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MarketMove is a one-stop shop for AI-driven cryptocurrency research and investment. From discovering new safe gems based on combined social media and BSC data, AI contract audits, through limit and stop-loss trailing orders, to whale watchers and custom email notifications."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x231cf6f78620e42fe00d0c5c3088b427f355d01c",
+    "url": "https://marketmove.ai/",
+    "explorers": [
+        "https://bscscan.com/token/0x231cf6f78620e42fe00d0c5c3088b427f355d01c"
+    ],
+    "twitter": "MarketMoveAI",
+    "telegram": "MarketMoveAI",
+    "github_org": "MarketMoveAI"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "kpop-coin",
+    "symbol": "kpop",
+    "name": "KPOP Coin",
+    "platforms": {
+        "ethereum": "0x7b7983967409fce461ea8bbdf9ed37631b1d59c9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "With K-POP serving as Korea's flagship brand and icon, KPOPHOLDINGS will utilize the synergy between the industry and K-POP tokens including gamification elements and a global shopping platform to effectively promote a global sharing economy."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x7b7983967409fce461ea8bbdf9ed37631b1d59c9",
+    "url": "http://kpopfoundation.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7b7983967409fce461ea8bbdf9ed37631b1d59c9",
+        "https://ethplorer.io/address/0x7b7983967409fce461ea8bbdf9ed37631b1d59c9"
+    ],
+    "telegram": "Kpopcoin1",
+    "github_org": "kpoptoken"
+}

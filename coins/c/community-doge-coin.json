@@ -1,0 +1,23 @@
+{
+    "id": "community-doge-coin",
+    "symbol": "ccdoge",
+    "name": "Community Doge Coin",
+    "platforms": {
+        "binance-smart-chain": "0x99e3259d1d780746c62b4a90833d607b40fb36ce"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CCDOGE is the world\u2019s first 3A type token with auto-deflation, auto-farming, and auto-market-maker mechanisms. Users could get rewards simply by holding it, and CCDOGE will be added to liquidity and burn address automatically at the same time of each transaction. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x99e3259d1d780746c62b4a90833d607b40fb36ce",
+    "url": "https://dogecoin.cc",
+    "explorers": [
+        "https://bscscan.com/token/0x99E3259d1D780746c62B4a90833d607b40Fb36Ce"
+    ],
+    "twitter": "CCdogecoin",
+    "telegram": "ccdogeofficial",
+    "reddit": "CCDOGE/"
+}

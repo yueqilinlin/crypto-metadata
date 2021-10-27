@@ -1,0 +1,22 @@
+{
+    "id": "particle-2",
+    "symbol": "prtcle",
+    "name": "Particle",
+    "platforms": {
+        "xdai": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SHE integrates social networks, DAOs and NFTs between individual athletes and their respective fanbases."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://she.energy/",
+    "explorers": [
+        "https://blockscout.com/xdai/mainnet/address/0xB5d592f85ab2D955c25720EbE6FF8D4d1E1Be300/transactions"
+    ],
+    "twitter": "She_Dapp",
+    "facebook": "shenanigan.dapp",
+    "github_org": "ShenaniganDApp"
+}

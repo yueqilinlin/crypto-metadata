@@ -1,0 +1,27 @@
+{
+    "id": "fred-energy-erc20",
+    "symbol": "fredx",
+    "name": "FRED Energy (ERC-20)",
+    "platforms": {
+        "ethereum": "0xd8e2b153e94daec5fe657a49ff59bb68fa67f126",
+        "binance-smart-chain": "0x321614eb36245bf2e2f2e58badaaaad1475e1026"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Energy"
+    ],
+    "description": {
+        "en": "\"UK based and founded in 2018, FRED Energy aims to promote and facilitate greater adoption and generation of alternative energy by consumers and Fund Research into Energy Devices (FRED). Rising energy costs, fuel poverty, and access to support and funding for energy device innovators are some of the problems FRED Energy aims to help solve. Development of green energy related projects and an eco focussed marketplace that went live in Q1 2020, shop.fredenergy.org is one of the earliest adoptors of crypto payments for real world products.\r\n\r\nFurther projects scheduled for 2021 include a JV product development with battery pack tracking to enable reuse and recycling on the Stellar blockchain using our token FACT, a non-tradeable token.\r\n\r\nThe project launched FREDx on the Ethereum blockchain in January 2021 in an effort to increase awareness and liquidity of its green energy related projects making FRED Energy a dual blockchain project.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd8e2b153e94daec5fe657a49ff59bb68fa67f126",
+    "url": "http://fredenergy.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xd8e2b153e94daec5fe657a49ff59bb68fa67f126",
+        "https://ethplorer.io/address/0xd8e2b153e94daec5fe657a49ff59bb68fa67f126"
+    ],
+    "twitter": "energy_fred",
+    "telegram": "FREDEnergycommunity",
+    "github_org": "fredenrg"
+}

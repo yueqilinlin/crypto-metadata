@@ -1,0 +1,25 @@
+{
+    "id": "insured-finance",
+    "symbol": "infi",
+    "name": "Insured Finance",
+    "platforms": {
+        "ethereum": "0x159751323a9e0415dd3d6d42a1212fe9f4a0848c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Insurance"
+    ],
+    "description": {
+        "en": "Insured Finance is Building the Future of Digital Asset Insurance. Insured Finance is an upcoming crypto insurance solution that will allow its users to secure comprehensive coverage on their digital asset holdings. Market participants can easily request or provide coverage on a wide variety of cryptocurrency assets. Claims are fully collateralized and payouts are instant."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x159751323a9e0415dd3d6d42a1212fe9f4a0848c",
+    "url": "https://insured.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x159751323a9e0415dd3d6d42a1212fe9f4a0848c",
+        "https://ethplorer.io/address/0x159751323a9e0415dd3d6d42a1212fe9f4a0848c"
+    ],
+    "twitter": "InsuredFin",
+    "telegram": "insuredfinance"
+}

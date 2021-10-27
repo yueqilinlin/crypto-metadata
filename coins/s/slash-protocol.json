@@ -1,0 +1,24 @@
+{
+    "id": "slash-protocol",
+    "symbol": "slash",
+    "name": "Slash Protocol",
+    "platforms": {
+        "ethereum": "0x755e83f560335e6bb8e45e44460ec4af598e24c9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Slash Protocol combines best of defi infrastructure including Cross Chain Swap, Decentralized Exchange, On Chain Option Trading, Largest NFT Marketplace, Charts On Layer 2"
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x755e83f560335e6bb8e45e44460ec4af598e24c9",
+    "url": "https://slashprotocol.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x755e83f560335e6bb8e45e44460ec4af598e24c9",
+        "https://ethplorer.io/address/0x755e83f560335e6bb8e45e44460ec4af598e24c9"
+    ],
+    "twitter": "slashprotocol",
+    "telegram": "slashprotocol",
+    "github_org": "slashprotocol"
+}

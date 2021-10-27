@@ -1,0 +1,25 @@
+{
+    "id": "wrapped-ilcoin",
+    "symbol": "wilc",
+    "name": "Wrapped ILCOIN",
+    "platforms": {
+        "ethereum": "0xc98a910ede52e7d5308525845f19e17470dbccf7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The ILCOIN blockchain is a revolutionary on-chain data storage system; developed not only to provide a strong foundation for the ILCOIN cryptocurrency, but also to open up a wide range of possibilities for exceptionally safe yet transparent data storage, establishment of various smart contract systems and the launch of innovative decentralized applications running on our blockchain systems."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc98a910ede52e7d5308525845f19e17470dbccf7",
+    "url": "https://wilc.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xc98a910ede52e7d5308525845f19e17470dbccf7",
+        "https://ethplorer.io/address/0xc98a910ede52e7d5308525845f19e17470dbccf7"
+    ],
+    "twitter": "W_ILC_",
+    "telegram": "wilc_ilcoin",
+    "reddit": "WILC/",
+    "github_org": "ILCOINDevelopmentTeam"
+}

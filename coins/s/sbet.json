@@ -1,0 +1,24 @@
+{
+    "id": "sbet",
+    "symbol": "sbet",
+    "name": "SBET",
+    "platforms": {
+        "eos": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "sportbet.one is the first decentralized sports-betting platform built on the EOS blockchain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://sportbet.one/",
+    "explorers": [
+        "https://bloks.io/tokens/SBET-eos-sportbetsbet"
+    ],
+    "twitter": "SportBetOne",
+    "telegram": "SportBetOfficial",
+    "github_org": "sportbetone"
+}

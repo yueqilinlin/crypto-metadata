@@ -1,0 +1,25 @@
+{
+    "id": "rangers-protocol-gas",
+    "symbol": "rpg",
+    "name": "Rangers Protocol",
+    "platforms": {
+        "ethereum": "0x0e5c8c387c5eba2ecbc137ad012aed5fe729e251",
+        "binance-smart-chain": "0xc2098a8938119a52b1f7661893c0153a6cb116d5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rangers Protocol is a virtual world's blockchain infrastructure. It is fully compatible with Ethereum, professionally supports NFT and complex applications, and integrates and expands cross-chain, NFT, EVM, and distributed network protocols. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0e5c8c387c5eba2ecbc137ad012aed5fe729e251",
+    "url": "https://rangersprotocol.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x0E5C8C387C5EBa2eCbc137aD012aeD5Fe729e251",
+        "https://ethplorer.io/address/0x0e5c8c387c5eba2ecbc137ad012aed5fe729e251"
+    ],
+    "twitter": "rangersprotocol",
+    "telegram": "RangersProtocol",
+    "github_org": "rangersprotocol"
+}

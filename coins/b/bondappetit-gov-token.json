@@ -1,0 +1,26 @@
+{
+    "id": "bondappetit-gov-token",
+    "symbol": "bag",
+    "name": "BondAppetit Governance Token",
+    "platforms": {
+        "ethereum": "0x28a06c02287e657ec3f8e151a13c36a1d43814b0",
+        "binance-smart-chain": "0x1ad0132d8b5ef3cebda1a9692f36ac30be871b6b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BondApp\u00e9tit - The first DeFi protocol that connects real-world debt instruments with the Ethereum ecosystem.\r\n\r\nThe main tool for decision-making in the protocol is the BondApp\u00e9tit Governance (BAG), which also acts as the main reward and incentivization tool for participants of the protocol and the community."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0x28a06c02287e657ec3f8e151a13c36a1d43814b0",
+    "url": "https://bondappetit.io",
+    "explorers": [
+        "https://etherscan.io/token/0x28a06c02287e657ec3f8e151a13c36a1d43814b0",
+        "https://ethplorer.io/address/0x28a06c02287e657ec3f8e151a13c36a1d43814b0",
+        "https://bscscan.com/token/0x1ad0132d8b5ef3cebda1a9692f36ac30be871b6b"
+    ],
+    "twitter": "DefiBonds",
+    "telegram": "BondAppetitEn",
+    "github_org": "bondappetit"
+}

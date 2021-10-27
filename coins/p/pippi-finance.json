@@ -1,0 +1,25 @@
+{
+    "id": "pippi-finance",
+    "symbol": "pipi",
+    "name": "Pippi Finance",
+    "platforms": {
+        "huobi-token": "0xaaae746b5e55d14398879312660e9fde07fbc1dc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "HECO Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Pippi Finance is a decentralized exchange running on Huobi ECO Chain, with lots of features that let you earn and win tokens. It is fast, cheap and easily accessible as it is not difficult to use. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xaaae746b5e55d14398879312660e9fde07fbc1dc",
+    "url": "https://pippi.finance/",
+    "explorers": [
+        "https://hecoinfo.com/token/0xaAaE746b5e55D14398879312660e9fDe07FBC1DC"
+    ],
+    "twitter": "pippishrimpswap",
+    "telegram": "pippishrimp_swap",
+    "github_org": "Shrimp-Labs"
+}

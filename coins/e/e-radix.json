@@ -1,0 +1,25 @@
+{
+    "id": "e-radix",
+    "symbol": "exrd",
+    "name": "e-Radix",
+    "platforms": {
+        "ethereum": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414",
+    "url": "https://www.radixdlt.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6468e79a80c0eab0f9a2b574c8d5bc374af59414",
+        "https://ethplorer.io/address/0x6468e79a80c0eab0f9a2b574c8d5bc374af59414"
+    ],
+    "twitter": "RadixDLT",
+    "telegram": "radix_dlt",
+    "reddit": "Radix/",
+    "github_org": "radixdlt"
+}

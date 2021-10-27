@@ -1,0 +1,27 @@
+{
+    "id": "save-token-us",
+    "symbol": "save",
+    "name": "SaveToken",
+    "platforms": {
+        "ethereum": "0xc1eecf1f4af8eb9a2a19f6c26b434aa96ce859e1"
+    },
+    "hashing_algorithm": "Equihash",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "SaveToken is a decentralized finance platform for modern firms.\r\n\r\nOur Defi solutions include decentralized trading of goods/services with a reputation system, as well as our SBI tools to help firms with practical decisions.\r\n\r\nBring true \"\"real-world adoption\"\" of cryptocurrency."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0xc1eecf1f4af8eb9a2a19f6c26b434aa96ce859e1",
+    "url": "http://savetoken.us/",
+    "explorers": [
+        "https://etherscan.io/token/0xc1eecf1f4af8eb9a2a19f6c26b434aa96ce859e1",
+        "https://ethplorer.io/address/0xc1eecf1f4af8eb9a2a19f6c26b434aa96ce859e1"
+    ],
+    "twitter": "savetokenteam",
+    "facebook": "SaveToken-256660028210482",
+    "telegram": "savetokenus",
+    "github_org": "SaveTokenus"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "mirrored-twitter",
+    "symbol": "mtwtr",
+    "name": "Mirrored Twitter",
+    "platforms": {
+        "ethereum": "0xedb0414627e6f1e3f082de65cd4f9c693d78cca9",
+        "binance-smart-chain": "0x7426ab52a0e057691e2544fae9c8222e958b2cfb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Mirrored Assets"
+    ],
+    "description": {
+        "en": "Mirrored Twitter - synthetic asset tracking the price of a Twitter stock."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xedb0414627e6f1e3f082de65cd4f9c693d78cca9",
+    "url": "https://mirror.finance",
+    "explorers": [
+        "https://finder.terra.money/columbus-4/token/terra1cc3enj9qgchlrj34cnzhwuclc4vl2z3jl7tkqg",
+        "https://etherscan.io/token/0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9",
+        "https://ethplorer.io/address/0xedb0414627e6f1e3f082de65cd4f9c693d78cca9",
+        "https://bscscan.com/token/0x7426Ab52A0e057691E2544fae9C8222e958b2cfB"
+    ],
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol",
+    "github_org": "mirror-protocol"
+}

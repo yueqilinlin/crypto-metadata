@@ -1,0 +1,28 @@
+{
+    "id": "ucot",
+    "symbol": "uct",
+    "name": "Ubique Chain of Things (UCOT)",
+    "platforms": {
+        "ethereum": "0x3c4bea627039f0b7e7d21e34bb9c9fe962977518"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Ubique Chain of Things (UCOT) is a digitized supply chain ecosystem powered by the latest 5G/IoT telecommunications and Blockchain technologies. In UCOT, IoT tracks the commodity flows, while Blockchain guarantees tamperproof data sharing and interoperability across the supply chains. UCOT is designed to ensure transparent and undisputable view of all the actions and transactions by all the parties along the supply chain, achieving ultimate transparency, eliminating discrepancy, inefficiency, and fraud. "
+    },
+    "country_origin": "AU",
+    "genesis_date": "2018-01-30",
+    "contract_address": "0x3c4bea627039f0b7e7d21e34bb9c9fe962977518",
+    "url": "https://www.ucot.world",
+    "explorers": [
+        "https://etherscan.io/token/0x3c4bEa627039F0B7e7d21E34bB9C9FE962977518",
+        "https://ethplorer.io/address/0x3c4bea627039f0b7e7d21e34bb9c9fe962977518"
+    ],
+    "twitter": "UcotMedia",
+    "facebook": "UCOT-128764251169363",
+    "telegram": "ucot_official_international",
+    "reddit": "UCOT/",
+    "github_org": "UCOT"
+}

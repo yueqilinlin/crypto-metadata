@@ -1,0 +1,25 @@
+{
+    "id": "boxer-inu",
+    "symbol": "boxer",
+    "name": "Boxer Inu",
+    "platforms": {
+        "binance-smart-chain": "0x192e9321b6244d204d4301afa507eb29ca84d9ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "Boxer Inu is a token on the Binance Smart Chain that offers features like auto burns, auto-liquidity generating mechanism, and static rewards on every transaction.\r\n\r\nThe products include an NFT Marketplace, a Decentralized Exchange with features such as Yield Farming, Staking and Lottery, and a crypto games platform that will propose a gamified version of growing. After this comes a fully customized mobile app that will allow user to trade $BOXER effortlessly right in the app."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0x192e9321b6244d204d4301afa507eb29ca84d9ef",
+    "url": "https://boxerinu.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x192E9321b6244D204D4301AfA507EB29CA84D9ef"
+    ],
+    "twitter": "BoxerInuFinance",
+    "telegram": "BoxerInuOfficial",
+    "github_org": "BoxerInuOfficial"
+}

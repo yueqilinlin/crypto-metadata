@@ -1,0 +1,25 @@
+{
+    "id": "prime-dai",
+    "symbol": "pdai",
+    "name": "Prime DAI",
+    "platforms": {
+        "ethereum": "0x9043d4d51c9d2e31e3f169de4551e416970c27ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Omega Protocol is Southeast Asian First DeFi Protocol Project.\r\n\r\nOmega Protocol is decentralized finance (Open finance) refers to the crypto (digital) assets and ethereum smart contracts, protocols, and decentralized application (dApp) built on ethereum.\r\n\r\nPrime DAI (pDAI) is a stable assets for OMGSwap & O-DEX."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x9043d4d51c9d2e31e3f169de4551e416970c27ef",
+    "url": "https://omgswap.in/",
+    "explorers": [
+        "https://etherscan.io/token/0x9043d4d51c9d2e31e3f169de4551e416970c27ef",
+        "https://ethplorer.io/address/0x9043d4d51c9d2e31e3f169de4551e416970c27ef"
+    ],
+    "twitter": "omegadefi",
+    "facebook": "omegadefi",
+    "telegram": "omegadefi",
+    "github_org": "omgswap"
+}

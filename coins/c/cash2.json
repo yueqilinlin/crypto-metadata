@@ -1,0 +1,23 @@
+{
+    "id": "cash2",
+    "symbol": "cash2",
+    "name": "Cash2",
+    "platforms": {},
+    "hashing_algorithm": "Blake2b",
+    "categories": [
+        "Number",
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Cash2 is a new CryptoNote cryptocurrency with all the useful properties of cash but with added beneficial features. The goal is for Cash2 to become mainstream digital money used for day-to-day purchases. Cash2 has no premine and was launched on December 5, 2018."
+    },
+    "country_origin": "US",
+    "genesis_date": "2018-12-05",
+    "url": "https://cash2.org",
+    "explorers": [
+        "https://blocks.cash2.org"
+    ],
+    "twitter": "aphivantrakul",
+    "reddit": "https://www.reddit.com",
+    "github_org": "cash2"
+}

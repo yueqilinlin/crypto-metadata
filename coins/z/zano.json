@@ -1,0 +1,27 @@
+{
+    "id": "zano",
+    "symbol": "zano",
+    "name": "Zano",
+    "platforms": {
+        "ethereum": "0xdb85f6685950e285b1e611037bebe5b34e2b7d78"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency",
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "Zano is the development of a scalable and secure coin, designed for use in e-commerce. The technology behind our blockchain provides reliability, security, and flexibility\u2014a perfect option for P2P transactions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://zano.org",
+    "explorers": [
+        "https://explorer.zano.org/",
+        "https://etherscan.io/token/0xdb85f6685950e285b1e611037bebe5b34e2b7d78"
+    ],
+    "twitter": "zano_project",
+    "telegram": "zanocoin",
+    "reddit": "zano/",
+    "github_org": "hyle-team"
+}

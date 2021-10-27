@@ -1,0 +1,24 @@
+{
+    "id": "ainu-token",
+    "symbol": "ainu",
+    "name": "Ainu Token",
+    "platforms": {
+        "binance-smart-chain": "0x2db0d5cb907014c67dc201886624716fb5c71123"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AINU Token is an all-new BEP20 token that is an automatic liquidity-providing protocol that gives out static rewards (5% of each tx) to HODLers while deflating."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2db0d5cb907014c67dc201886624716fb5c71123",
+    "url": "https://www.ainutoken.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x2Db0d5Cb907014C67Dc201886624716fb5c71123"
+    ],
+    "twitter": "tokenainu",
+    "telegram": "ainutoken",
+    "reddit": "AinuTokenCommunity/",
+    "github_org": "AinuTokenOfficial"
+}

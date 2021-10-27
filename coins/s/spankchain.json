@@ -1,0 +1,25 @@
+{
+    "id": "spankchain",
+    "symbol": "spank",
+    "name": "SpankChain",
+    "platforms": {
+        "ethereum": "0x42d6622dece394b54999fbd73d108123806f6a18"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A \u200bcryptoeconomic \u200bpowered \u200badult \u200bentertainment \u200becosystem built \u200bon \u200bthe \u200bEthereum \u200bnetwork."
+    },
+    "country_origin": "US",
+    "genesis_date": "2017-11-20",
+    "contract_address": "0x42d6622dece394b54999fbd73d108123806f6a18",
+    "url": "https://spankchain.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x42d6622dece394b54999fbd73d108123806f6a18",
+        "https://ethplorer.io/address/0x42d6622dece394b54999fbd73d108123806f6a18"
+    ],
+    "twitter": "spankchain",
+    "facebook": "spankchain",
+    "reddit": "SpankChain",
+    "github_org": "spankchain"
+}

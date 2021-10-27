@@ -1,0 +1,23 @@
+{
+    "id": "xdai-native-comb",
+    "symbol": "xcomb",
+    "name": "xDai Native Comb",
+    "platforms": {
+        "xdai": "0x38fb649ad3d6ba1113be5f57b927053e97fc5bf7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x38fb649ad3d6ba1113be5f57b927053e97fc5bf7",
+    "url": "https://honeyswap.org/",
+    "explorers": [
+        "https://blockscout.com/xdai/mainnet/tokens/0x38Fb649Ad3d6BA1113Be5F57B927053E97fC5bF7/token-transfers"
+    ],
+    "twitter": "Honeyswap"
+}

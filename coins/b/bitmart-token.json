@@ -1,0 +1,28 @@
+{
+    "id": "bitmart-token",
+    "symbol": "bmx",
+    "name": "BitMart Token",
+    "platforms": {
+        "ethereum": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "BMX is an ERC20 based token issued by BitMart Exchange with total volume of 1,000,000,000. First issued as BMC in December 2017, BitMart changed the name of the token in January 2018 as BMX. You may find that the symbol name displayed in the smart contract and block explorer as BMC, but the actual symbol name we use is BMX. The reason is: our toke was named BMC, but then we find that  \"BMC\" has been used by another project, so we have to change the symbol name of our token to \"BMX\". "
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8",
+    "url": "https://www.bitmart.com/trade/en",
+    "explorers": [
+        "https://etherscan.io/token/0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
+        "https://ethplorer.io/address/0x986ee2b944c42d017f52af21c4c69b84dbea35d8"
+    ],
+    "twitter": "BitMartExchange",
+    "facebook": "bitmartexchange",
+    "telegram": "BitMartExchange",
+    "reddit": "BitMartExchange/"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "subgame",
+    "symbol": "sgb",
+    "name": "SubGame",
+    "platforms": {
+        "ethereum": "0x4b4eb5c44d50bfd44124688c6754633f7e258b01"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SubGame is a public chain development team based on the Polkadot Para chain. It hopes to build a public chain with cross-chain interoperability. In addition to creating game applications, it can also build various types of application scenarios to create a common cross-chain industry. The blockchain infrastructure provides unlimited possibilities for distributed mobile applications."
+    },
+    "country_origin": "TW",
+    "genesis_date": null,
+    "contract_address": "0x4b4eb5c44d50bfd44124688c6754633f7e258b01",
+    "url": "https://www.subgame.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x4b4eb5c44d50bfd44124688c6754633f7e258b01",
+        "https://ethplorer.io/address/0x4b4eb5c44d50bfd44124688c6754633f7e258b01"
+    ],
+    "twitter": "SubgameBase",
+    "facebook": "SubGame.netwrok",
+    "telegram": "subgamenetwork",
+    "github_org": "SubGame-Network"
+}

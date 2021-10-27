@@ -1,0 +1,23 @@
+{
+    "id": "starship-token",
+    "symbol": "stars",
+    "name": "StarShip Token",
+    "platforms": {
+        "ethereum": "0x7ccfeef4f0ff48b0e0abd19bbbebae90939f180d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "This is a decentralized starship taking all holders to a mission. The mission depends on the contract we will further deploy. For example it can be a Starbase where people need to hold or burn an amount of tokens to be able to trade the next Contract. Also it is community driven and a community token so all people can create Stations as in Contracts to interact with $STARSHIP. Its an adventure."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x7ccfeef4f0ff48b0e0abd19bbbebae90939f180d",
+    "url": "http://starstoken.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x7ccfeef4f0ff48b0e0abd19bbbebae90939f180d",
+        "https://ethplorer.io/address/0x7ccfeef4f0ff48b0e0abd19bbbebae90939f180d"
+    ],
+    "twitter": "StarShip_Token",
+    "telegram": "Real_Starship"
+}

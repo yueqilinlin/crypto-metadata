@@ -1,0 +1,24 @@
+{
+    "id": "pocmon-2",
+    "symbol": "mon",
+    "name": "PocMon",
+    "platforms": {
+        "binance-smart-chain": "0x8888818f35bbed1c632364bf1b15446fad088888"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The PocMon Gaming NFT Ecosystem is designed to meet all kinds of decentralised gaming requests: from NFTs discovery, minting and trading to game currencies exchange, lootboxes and blockchain games store."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8888818f35bbed1c632364bf1b15446fad088888",
+    "url": "https://pocmons.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8888818f35BbeD1C632364bf1b15446FAD088888"
+    ],
+    "twitter": "pocmoncom",
+    "telegram": "pocmoncom",
+    "reddit": "pocmoncom/",
+    "github_org": "Pocmoncom"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "reaper-token",
+    "symbol": "reaper",
+    "name": "Reaper Token",
+    "platforms": {
+        "fantom": "0x117db78176c8ede4f12fcd29d85cd96b91a4cbbb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "REAPER is the Grim Finance farming token and will be linked to our Game Model, Index Funds, and Farming Pools. That being said, we have future use cases for REAPER in the future including attracting partnerships via farm listings."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x117db78176c8ede4f12fcd29d85cd96b91a4cbbb",
+    "url": "https://app.grim.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0x117dB78176C8eDe4F12fCd29d85Cd96b91A4cbBb"
+    ],
+    "twitter": "financegrim",
+    "telegram": "financegrim",
+    "github_org": "Grim-Finance"
+}

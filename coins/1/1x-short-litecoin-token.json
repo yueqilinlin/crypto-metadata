@@ -1,0 +1,21 @@
+{
+    "id": "1x-short-litecoin-token",
+    "symbol": "ltchedge",
+    "name": "1X Short Litecoin Token",
+    "platforms": {
+        "ethereum": "0xd0c64d6c0e9aa53fffd8b80313e035f7b83083f3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "1X Short Litecoin Token (LTCHEDGE) is an ERC20 token which seeks a return that corresponds to -1 times the daily return of Litecoin."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd0c64d6c0e9aa53fffd8b80313e035f7b83083f3",
+    "url": "https://ftx.com/tokens/LTCHEDGE",
+    "explorers": [
+        "https://etherscan.io/token/0xd0c64d6c0e9aa53fffd8b80313e035f7b83083f3",
+        "https://ethplorer.io/address/0xd0c64d6c0e9aa53fffd8b80313e035f7b83083f3"
+    ]
+}

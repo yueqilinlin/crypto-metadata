@@ -1,0 +1,35 @@
+{
+    "id": "centric-cash",
+    "symbol": "cns",
+    "name": "Centric Swap",
+    "platforms": {
+        "binance-smart-chain": "0xf6cb4ad242bab681effc5de40f7c8ff921a12d63"
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Binance Smart Chain Ecosystem",
+        "Governance",
+        "Non-Fungible Tokens (NFT)",
+        "Business Services",
+        "Decentralized Finance (DeFi)",
+        "Yield Farming",
+        "Cryptocurrency",
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "What Is Centric Swap (CNS)?\r\n\r\nCentric Swap (CNS) was first conceived in December 2017. CNS is a Binance Smart Chain-based token that serves as the Centric Network\u2019s on- and off-ramp. Centric Network itself is a dual-cryptocurrency payment network.\r\nCNS can be traded freely on cryptocurrency exchanges and offers users access to Centric Rise (CNR) along with liquidity. A decentralized protocol governs the exchange between these tokens and self-regulates the supply to meet the changes in demand.\r\nThe vision of Centric is to alleviate what they see as the largest obstacle to the mass adoption of cryptocurrencies, which is price volatility. The Centric Foundation was established to advance the adoption of Centric Rise (CNR) and Centric Swap (CNS).\r\nCentric has a dual-token model that rewards adoption and stabilizes over time due to its self-regulating supply. The idea behind the model is that, when a user purchases Centric Swap from a trusted cryptocurrency exchange, they can convert it to Centric Rise and benefit from its hourly growth.\r\nThis leads to the fact that at every moment when the Centric Rise is worth slightly more than Centric Swap, the user can convert CNR back to CNS and reap the rewards. This dual token system creates the conditions for a synthetic stable currency and can regulate the supply of Centric Rise to drive the market price of Centric Swap towards $1.\r\n\r\nWho heads Centric Swap?\r\n\r\nJoel Clelland is the CEO of the Centric Foundation and a member of its board of directors. Joel emphasizes investor education and engagement, strategic partnerships, and market cap growth as key components to expedite protocol consensus.\r\n\r\nWhat Makes Centric Swap Unique?\r\n\r\nThe two tokens that make up the Centric dual-token model include the Centric Rise (CNR) and the Centric Swap (CNS).\r\nCNR trades at a fixed price and has hourly growth, while CNS trades at the price set by the market. At any point in time, Centric Rise can be redeemed for Centric Swap and vice versa.\r\nHolding Centric Rise grants a user predetermined hourly earnings on their investment in Centric Swap, ensured by the fact that the value of Centric Rise is constantly increasing in relation to Centric Swap. CNR trades at a predetermined price that is enforced by the Centric protocol and increases every hour when the protocol self-balances. 1 CNS will always convert to CNR at a fixed exchange rate of $1 USD of CNR.\r\nIn other words, Centric Rise (CNR) stores value, is a transactional currency, has a deflationary supply and an inflationary price and an hourly yield. Centric Swap (CNS) has liquidity, is traded on exchanges, has an elastic supply and a demand indicator. The Centric Protocol governs the token exchange, regulates the supply, is immutable, is censorship-resistant and is independently audited."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xf6cb4ad242bab681effc5de40f7c8ff921a12d63",
+    "url": "https://www.centric.com/",
+    "explorers": [
+        "https://bscscan.com//token/0xF6Cb4ad242BaB681EfFc5dE40f7c8FF921a12d63",
+        "https://explorer.centric.com/",
+        "https://bscscan.com/token/0xF6Cb4ad242BaB681EfFc5dE40f7c8FF921a12d63"
+    ],
+    "twitter": "CentricRise",
+    "telegram": "centric_camp",
+    "reddit": "https://www.reddit.comu/joincentric",
+    "github_org": "Centric-Org"
+}

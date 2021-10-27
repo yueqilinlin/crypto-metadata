@@ -1,0 +1,24 @@
+{
+    "id": "vampire-protocol",
+    "symbol": "vamp",
+    "name": "Vampire Protocol",
+    "platforms": {
+        "ethereum": "0xb2c822a1b923e06dbd193d2cfc7ad15388ea09dd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"Vampire Protocol is an intersection of the most interesting financial\r\ngames in cryptocurrency today. Farming, staking and rebase events join\r\ntogether to create a novel experience. Build your army of VAMP through\r\npresale and farming. Stake your VAMP for vMANA in the Summoner \u2013 use\r\nyour vMANA to Enhance the rebase.\""
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xb2c822a1b923e06dbd193d2cfc7ad15388ea09dd",
+    "url": "https://vampire.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xb2c822a1b923e06dbd193d2cfc7ad15388ea09dd",
+        "https://ethplorer.io/address/0xb2c822a1b923e06dbd193d2cfc7ad15388ea09dd"
+    ],
+    "twitter": "ethtari",
+    "telegram": "vampireprotocol",
+    "github_org": "Ethtari"
+}

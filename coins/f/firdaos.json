@@ -1,0 +1,23 @@
+{
+    "id": "firdaos",
+    "symbol": "fdo",
+    "name": "Firdaos",
+    "platforms": {
+        "ethereum": "0x361887c1d1b73557018c47c8001711168128cf69"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Firdaos is a decentralized finance platform that enables real-estate assets to convert into liquidity pools where users can participate and earn yields as the asset appreciates in value in the real world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x361887c1d1b73557018c47c8001711168128cf69",
+    "url": "https://firdaos.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x361887c1d1b73557018c47c8001711168128cf69",
+        "https://ethplorer.io/address/0x361887c1d1b73557018c47c8001711168128cf69"
+    ],
+    "twitter": "zelaapay",
+    "github_org": "ZelaaPayUAE"
+}

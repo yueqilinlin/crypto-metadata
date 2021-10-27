@@ -1,0 +1,25 @@
+{
+    "id": "dehive",
+    "symbol": "dhv",
+    "name": "DeHive",
+    "platforms": {
+        "ethereum": "0x62dc4817588d53a056cbbd18231d91ffccd34b2a",
+        "polygon-pos": "0x5fcb9de282af6122ce3518cde28b7089c9f97b26"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeHive is a multi-chain asset management protocol that provides smart asset management of tokenized portfolios. DeHive decentralized protocol provides top DeFi asset management through accumulating them into clusters. Thus it helps to amplify the profit while minimizing the risks of loss.\r\n\r\nThe assets are combined and represented by a cluster or different clusters reflecting the state of different market segments. This cluster can be perceived as an index that comprises leading DeFi assets which serve as a benchmark for the economic health of the crypto market in general. Therefore, such a cluster can be seen as a tool for market assessment and reasonable DeFi portfolio management."
+    },
+    "country_origin": "UA",
+    "genesis_date": null,
+    "contract_address": "0x62dc4817588d53a056cbbd18231d91ffccd34b2a",
+    "url": "https://dehive.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x62Dc4817588d53a056cBbD18231d91ffCcd34b2A",
+        "https://ethplorer.io/address/0x62Dc4817588d53a056cBbD18231d91ffCcd34b2A",
+        "https://polygonscan.com/token/0x5fcb9de282af6122ce3518cde28b7089c9f97b26"
+    ],
+    "twitter": "dehive_finance",
+    "telegram": "DeHive_chat"
+}

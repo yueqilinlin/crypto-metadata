@@ -1,0 +1,24 @@
+{
+    "id": "candybooty",
+    "symbol": "booty",
+    "name": "CandyBooty",
+    "platforms": {
+        "ethereum": "0xd9b48548de7710519221207d70e40aa24d7d1985"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A place to meet new friends who enjoy crypto as much as other users!\r\n\r\nMeet new friends and sign up today! Users can use $BOOTY on Candy Booty to send drinks, food, exclusive in-app specialties, and emotes!"
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xd9b48548de7710519221207d70e40aa24d7d1985",
+    "url": "https://www.candybooty.net/",
+    "explorers": [
+        "https://etherscan.io/token/0xd9B48548DE7710519221207D70E40aa24D7d1985",
+        "https://ethplorer.io/address/0xd9B48548DE7710519221207D70E40aa24D7d1985"
+    ],
+    "twitter": "CandyBootyToken",
+    "telegram": "CandyBootyToken",
+    "github_org": "CandyBooty"
+}

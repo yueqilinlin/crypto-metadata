@@ -1,0 +1,23 @@
+{
+    "id": "degen-arts",
+    "symbol": "dac",
+    "name": "Degen Arts",
+    "platforms": {
+        "ethereum": "0x8281ee37f164c0e26e6b6f87e7695baac256df07"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crypto platform for sourcing digital art and farming NFT's. By staking DAC tokens users can mine NFTs on the Degen Arts farming platform.\r\nThe Degen Arts is an NFT platform for Real World/NFT Crossovers, NFT game development, pulling in artistic talent from the non-crypto world and experimenting with new forms of digital art."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8281ee37f164c0e26e6b6f87e7695baac256df07",
+    "url": "https://www.degenarts.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8281ee37f164c0e26e6b6f87e7695baac256df07",
+        "https://ethplorer.io/address/0x8281ee37f164c0e26e6b6f87e7695baac256df07"
+    ],
+    "twitter": "ArtsDegen",
+    "telegram": "degenarts"
+}

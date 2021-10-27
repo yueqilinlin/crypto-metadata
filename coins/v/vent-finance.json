@@ -1,0 +1,24 @@
+{
+    "id": "vent-finance",
+    "symbol": "vent",
+    "name": "Vent Finance",
+    "platforms": {
+        "ethereum": "0x5f0bc16d50f72d10b719dbf6845de2e599eb5624",
+        "binance-smart-chain": "0x872d068c25511be88c1f5990c53eeffcdf46c9b4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "VENT is the first full-stack Cardano-Polygon community launchpad ecosystem that enables sustainable growth. The platform will open up new investment opportunities and make DeFi accessible to everyone. Combining simplicity, security, and transparency, VENT aims to reset the world's expectations of what a decentralized launchpad is and help evolve the reputation and maturity of the DeFi space and crypto ecosystem as a whole.\r\n\r\nVentUp Launchpad, the first offering within the platform is where founders share innovative blockchain projects with the communities that will join forces to fund them.\r\n\r\n- Platform-level identity verification: simple, one-time process.\r\n- Customer support throughout all stages of registration, KYC, and investment.\r\n- Projects selected by the community and vetted by the team.\r\n- Flexible Fundraising Mechanisms (IDO, Private Rounds, ISPO)\r\n- Innovative P.A.S. (Point Allocation System) allocation mechanism to reward long-term holders, true community members while enabling new users to participate.\r\n- Social features that invite verified users to interact with each other and exchange ideas with project creators.\r\n- Secure environment for trusted partners and community members to transact.\r\n- Trusted entity & team in compliance with international regulations.\r\n- Transfer functionality to allow whitelists to be delegated to eligible members.\r\n- Project Support through Incubation Partners."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5f0bc16d50f72d10b719dbf6845de2e599eb5624",
+    "url": "https://www.vent.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x5F0bc16D50F72d10b719dBF6845DE2E599eb5624",
+        "https://ethplorer.io/address/0x5f0bc16d50f72d10b719dbf6845de2e599eb5624"
+    ],
+    "twitter": "VentFinance",
+    "telegram": "ventcommunity"
+}

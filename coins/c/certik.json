@@ -1,0 +1,25 @@
+{
+    "id": "certik",
+    "symbol": "ctk",
+    "name": "CertiK",
+    "platforms": {},
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Binance Launchpool",
+        "Cosmos Ecosystem",
+        "Polygon Ecosystem",
+        "Business Services"
+    ],
+    "description": {
+        "en": "A Cross-Chain Protocol with Security Scoring and Decentralized Reimbursements for Building Secure dApps."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "url": "https://www.certik.foundation/",
+    "explorers": [
+        "https://www.explorer.certik.foundation"
+    ],
+    "twitter": "certikorg",
+    "telegram": "certikfoundation",
+    "github_org": "certikfoundation"
+}

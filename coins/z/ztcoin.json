@@ -1,0 +1,26 @@
+{
+    "id": "ztcoin",
+    "symbol": "zt",
+    "name": "ZBG Token",
+    "platforms": {
+        "ethereum": "0xfe39e6a32acd2af7955cb3d406ba2b55c901f247"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "ZBG Token (ZT) is the native token of ZBG.com platform. ZT can be used to vote on exchange decisions, gain early access to special ZBG launchpad events, and trade with other cryptocurrencies listed on the ZBG exchange. Additional information about ZTCoin (ZT) can be found at https://www.zbg.com/"
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0xfe39e6a32acd2af7955cb3d406ba2b55c901f247",
+    "url": "https://www.zbg.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xfe39e6a32acd2af7955cb3d406ba2b55c901f247",
+        "https://ethplorer.io/address/0xfe39e6a32acd2af7955cb3d406ba2b55c901f247"
+    ],
+    "twitter": "ZBGloble",
+    "facebook": "ZBGGlobal/",
+    "telegram": "zbg_official"
+}

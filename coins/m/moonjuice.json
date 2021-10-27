@@ -1,0 +1,24 @@
+{
+    "id": "moonjuice",
+    "symbol": "mojo",
+    "name": "MoonJuice",
+    "platforms": {
+        "binance-smart-chain": "0x8087e4c1735c1373f0d04b88d4dbe1fae1149123"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8087e4c1735c1373f0d04b88d4dbe1fae1149123",
+    "url": "https://www.moonjuice.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x8087e4c1735c1373f0d04b88d4dbe1fae1149123"
+    ],
+    "twitter": "themoonjuice",
+    "telegram": "moonjuiceofficial",
+    "reddit": "https://www.reddit.comr/MoonJuiceOfficial/",
+    "github_org": "MoonJuiceOfficial"
+}

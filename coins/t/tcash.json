@@ -1,0 +1,28 @@
+{
+    "id": "tcash",
+    "symbol": "tcash",
+    "name": "TCASH",
+    "platforms": {
+        "ethereum": "0x7051620d11042c4335069aaa4f10cd3b4290c681"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "TCASH is an ERC-20 Token for EtherFlyer Exchange."
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "contract_address": "0x7051620d11042c4335069aaa4f10cd3b4290c681",
+    "url": "https://www.etherflyer.com/index.html",
+    "explorers": [
+        "https://etherscan.io/token/0x7051620d11042c4335069AaA4f10Cd3B4290C681",
+        "https://ethplorer.io/address/0x7051620d11042c4335069aaa4f10cd3b4290c681"
+    ],
+    "twitter": "etherflyercom",
+    "facebook": "flyer.ether.5",
+    "telegram": "etherFlyer",
+    "reddit": "EtherFlyer/",
+    "github_org": "EtherFlyer"
+}

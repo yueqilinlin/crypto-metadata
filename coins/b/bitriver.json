@@ -1,0 +1,24 @@
+{
+    "id": "bitriver",
+    "symbol": "btr",
+    "name": "Bitriver",
+    "platforms": {
+        "ethereum": "0xcce63fd31e9053c110c74cebc37c8e358a6aa5bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Founded by Igor Runets in 2017 and headquartered in Moscow, BitRiver LLC provides hosting services and turnkey solutions for large-scale cryptocurrency mining operations to institutional investors around the world. BitRiver employs over 100 full-time staff in three offices across Russia and full-time sales\u2019 representatives in China, Japan, Central Europe, UAE, USA and South Korea. With a vision of powering the most promising tech of today and tomorrow through low cost and sustainable energy, BitRiver currently utilizes only surplus hydroelectric power to operate the largest data center that offers co-location services for cryptocurrency mining in Russia and the CIS region."
+    },
+    "country_origin": "GI",
+    "genesis_date": null,
+    "contract_address": "0xcce63fd31e9053c110c74cebc37c8e358a6aa5bd",
+    "url": "https://bitriver.farm/en/",
+    "explorers": [
+        "https://etherscan.io/token/0xcce63fD31e9053c110c74CEbc37C8e358A6AA5bD",
+        "https://ethplorer.io/address/0xcce63fD31e9053c110c74CEbc37C8e358A6AA5bD"
+    ],
+    "twitter": "BitRiverMining",
+    "facebook": "BitRiverMining",
+    "telegram": "bitriver_btr_english"
+}

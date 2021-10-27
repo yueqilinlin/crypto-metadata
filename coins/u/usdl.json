@@ -1,0 +1,24 @@
+{
+    "id": "usdl",
+    "symbol": "usdl",
+    "name": "USDL",
+    "platforms": {
+        "ethereum": "0x3e991dbec296e00626e58c33b62e53bec9d54636"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "USDL combines the stability of USD with the utility of gas tokens on LGCY.Network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3e991dbec296e00626e58c33b62e53bec9d54636",
+    "url": "https://lgcy.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x3e991dbec296e00626e58c33b62e53bec9d54636",
+        "https://ethplorer.io/address/0x3e991dbec296e00626e58c33b62e53bec9d54636"
+    ],
+    "twitter": "LGCYNetwork",
+    "telegram": "LGCYNetwork",
+    "github_org": "lgcy-legacy"
+}

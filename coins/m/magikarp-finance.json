@@ -1,0 +1,22 @@
+{
+    "id": "magikarp-finance",
+    "symbol": "magi",
+    "name": "Magikarp Finance",
+    "platforms": {
+        "binance-smart-chain": "0xc603b1fba6a5b502be4f1ab27591bf4e75a3460c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RFI token, Magikarp splashes into the water and distributes $MAGI to all holders and burns. The tax is variable (with a maximum of 9%) and will changes by community vote. When Magikarp reaches level 20. Storm mode is enabled."
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0xc603b1fba6a5b502be4f1ab27591bf4e75a3460c",
+    "url": "https://magikarp.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xc603b1fba6a5b502be4f1ab27591bf4e75a3460c"
+    ],
+    "twitter": "MagikarpFinance",
+    "telegram": "magikarpfinance"
+}

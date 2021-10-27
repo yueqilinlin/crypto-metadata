@@ -1,0 +1,20 @@
+{
+    "id": "kava-swap",
+    "symbol": "swp",
+    "name": "Kava Swap",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.kava.io/swap",
+    "explorers": [
+        "https://www.mintscan.io/"
+    ],
+    "twitter": "kava_swap",
+    "telegram": "kavalabs",
+    "github_org": "Kava-Labs"
+}

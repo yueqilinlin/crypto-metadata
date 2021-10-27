@@ -1,0 +1,23 @@
+{
+    "id": "duke-token",
+    "symbol": "duke",
+    "name": "Duke Token",
+    "platforms": {
+        "binance-smart-chain": "0xaee234825dc4687fae606485c1ebd06336052bcc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Duke Token is a decentralized meme token to incentivize the crypto space. Duke tokens is an experimental community driven project and the first with underlying utility & products."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0xaee234825dc4687fae606485c1ebd06336052bcc",
+    "url": "https://duketoken.com",
+    "explorers": [
+        "https://bscscan.com/token/0xaee234825dc4687fae606485c1ebd06336052bcc"
+    ],
+    "twitter": "duketokens",
+    "telegram": "duketokencom",
+    "github_org": "toshifyfinance"
+}

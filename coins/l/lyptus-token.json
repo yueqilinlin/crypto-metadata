@@ -1,0 +1,23 @@
+{
+    "id": "lyptus-token",
+    "symbol": "lyptus",
+    "name": "Lyptus Token",
+    "platforms": {
+        "binance-smart-chain": "0xba26397cdff25f0d26e815d218ef3c77609ae7f1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Koala DeFi Finance is a yield farming dapp with an improved buy and burn model."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xba26397cdff25f0d26e815d218ef3c77609ae7f1",
+    "url": "https://koaladefi.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xba26397cdff25f0d26e815d218ef3c77609ae7f1"
+    ],
+    "twitter": "KoalaDefi",
+    "telegram": "koaladefi",
+    "github_org": "koaladefi"
+}

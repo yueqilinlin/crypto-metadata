@@ -1,0 +1,27 @@
+{
+    "id": "maya-preferred-223",
+    "symbol": "mayp",
+    "name": "Maya Preferred",
+    "platforms": {
+        "ethereum": "0x7cda79830faf07ed696fe220566116951ced36a7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Maya Preferred 223 is backed by gold and silver reserves, making it one of the first cryptocurrencies to actually have real, tanagable assets behind it. The Maya Preferred 223 token is a faster implementation on a real, decentralized immutable blockchain (Ethereum Classic) with usable smart contracts running on the Ethereum Classic Blockchain.\r\nIt is designed to be used as a decentralized \u2018Stable crypto asset\u2019 within the Ethereum Classic ecosystem and beyond. It\u2019s meant to avoid problems related to centralization as seen on Ethereum and security because it is powered by the Ethereum Classic Network and by globally distributed anonymous miners."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x7cda79830faf07ed696fe220566116951ced36a7",
+    "url": "https://mayapreferred.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x7CDA79830Faf07Ed696Fe220566116951CED36A7",
+        "https://ethplorer.io/address/0x7CDA79830Faf07Ed696Fe220566116951CED36A7"
+    ],
+    "twitter": "maya_preferred",
+    "telegram": "mayapreferred223",
+    "reddit": "MayaPreferred223/",
+    "github_org": "MayaCoin"
+}

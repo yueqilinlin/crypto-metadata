@@ -1,0 +1,23 @@
+{
+    "id": "social-finance",
+    "symbol": "sofi",
+    "name": "Social Finance",
+    "platforms": {
+        "ethereum": "0xaea5e11e22e447fa9837738a0cd2848857748adf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SocialFinance is coming in the cryptographic financial ecosystem with a simple and effective approach. SOFI token is a tool for transferring value and making payments between two parties by eliminating the middleman and third parties like traditional financial systems and banking related money transfer services. This provides security, speed, and reliability at lower costs. \r\n\r\nNo tools to generate more tokens. The supply will not increase by the means of staking rewards, farming, or rebases. Straight forward fixed supply. Price can only be affected by investors transactions."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xaea5e11e22e447fa9837738a0cd2848857748adf",
+    "url": "https://socialfi.org",
+    "explorers": [
+        "https://etherscan.io/token/0xaea5e11e22e447fa9837738a0cd2848857748adf",
+        "https://ethplorer.io/address/0xaea5e11e22e447fa9837738a0cd2848857748adf"
+    ],
+    "twitter": "socialfinance00",
+    "telegram": "SocialFinance"
+}

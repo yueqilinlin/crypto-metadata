@@ -1,0 +1,24 @@
+{
+    "id": "rizen-coin",
+    "symbol": "rzn",
+    "name": "Rizen Coin (Old)",
+    "platforms": {
+        "ethereum": "0xd8c82fbc4d8ed0644a7ec04cf973e84c6153c1d7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "First experimental community driven defi project with POL + POT + POS concept. Rizen gives you lifetime passive reward. The more transactions happen the more reward you will get from staking. Also, There is 1% weekly holding reward."
+    },
+    "country_origin": "TN",
+    "genesis_date": null,
+    "contract_address": "0xd8c82fbc4d8ed0644a7ec04cf973e84c6153c1d7",
+    "url": "https://rizencoin.com",
+    "explorers": [
+        "https://etherscan.io/token/0xd8c82fbc4d8ed0644a7ec04cf973e84c6153c1d7",
+        "https://ethplorer.io/address/0xd8c82FbC4D8Ed0644a7eC04cF973e84c6153c1d7"
+    ],
+    "twitter": "coinrizen",
+    "telegram": "coinrizen",
+    "github_org": "Rizencoin"
+}

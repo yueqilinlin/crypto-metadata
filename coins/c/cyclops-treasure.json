@@ -1,0 +1,24 @@
+{
+    "id": "cyclops-treasure",
+    "symbol": "cytr",
+    "name": "Cyclops Treasure",
+    "platforms": {
+        "ethereum": "0xbd05cee8741100010d8e93048a80ed77645ac7bf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cyclops Finance is a Defi project that evolved out of the typical Defi yield farming project but in a different direction. It is a hybrid of yield and NFT farming that is coded into a game and puzzle logic."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xbd05cee8741100010d8e93048a80ed77645ac7bf",
+    "url": "https://cyclops.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xbd05cee8741100010d8e93048a80ed77645ac7bf",
+        "https://ethplorer.io/address/0xbd05cee8741100010d8e93048a80ed77645ac7bf"
+    ],
+    "twitter": "CyclopsFinance",
+    "telegram": "CyclopsFinance",
+    "github_org": "CyclopsFinance"
+}

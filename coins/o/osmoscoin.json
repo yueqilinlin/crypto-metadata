@@ -1,0 +1,23 @@
+{
+    "id": "osmoscoin",
+    "symbol": "os",
+    "name": "OsmosCoin",
+    "platforms": {
+        "ethereum": "0x7a597fb40f54a5e5ad189991dedc8d7881e447ee"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Built on the robust Ethereum network, and launched in 2021, the Native Corvus token is meant to be a store-of-value digital asset. Value that can be realized via transactions on our network of applications or exchanged for other ETH-based tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7a597fb40f54a5e5ad189991dedc8d7881e447ee",
+    "url": "https://www.osmoscoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7a597fb40f54A5E5Ad189991deDc8D7881E447ee",
+        "https://ethplorer.io/address/0x7a597fb40f54a5e5ad189991dedc8d7881e447ee"
+    ],
+    "twitter": "Osmos59967211",
+    "telegram": "osmoscoins"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "lp-3pool-curve",
+    "symbol": "3crv",
+    "name": "LP 3pool Curve",
+    "platforms": {
+        "ethereum": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "LP Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+    "url": "https://www.curve.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+        "https://ethplorer.io/address/0x6c3f90f043a72fa612cbac8115ee7e52bde6e490"
+    ]
+}

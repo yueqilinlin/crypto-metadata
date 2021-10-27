@@ -1,0 +1,22 @@
+{
+    "id": "inflation-hedging-coin",
+    "symbol": "ihc",
+    "name": "Inflation Hedging Coin",
+    "platforms": {
+        "binance-smart-chain": "0x86a53fcd199212fea44fa7e16eb1f28812be911d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Inflation is a continuous rise in the price level. Inflation means the value of money will fall and purchase relatively fewer goods than previously. Gas prices are rising. Real estate prices are soaring. Consumer goods companies are charging more for household basics like toilet paper, peanut butter and soft drinks. \r\nAll of which is resurrecting fears of an economic threat that has all but disappeared over the past generation: Runaway inflation. And truth be told, inflation is rising throughout the world, with little solutions/benefits for the everyday Joes."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x86a53fcd199212fea44fa7e16eb1f28812be911d",
+    "url": "https://www.ihcoin.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x86a53fcd199212FEa44FA7e16EB1f28812be911D"
+    ],
+    "twitter": "IHCoinofficial",
+    "reddit": "IHCofficial/"
+}

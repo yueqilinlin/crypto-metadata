@@ -1,0 +1,25 @@
+{
+    "id": "instadapp",
+    "symbol": "inst",
+    "name": "Instadapp",
+    "platforms": {
+        "ethereum": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "On Instadapp, users and developers manage and build their DeFi portfolio - the world's most advanced platform to start leveraging the full potential of Decentralized Finance."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb",
+    "url": "https://instadapp.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
+        "https://ethplorer.io/address/0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb"
+    ],
+    "twitter": "instadapp",
+    "github_org": "instadapp"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "tower-finance",
+    "symbol": "tower",
+    "name": "Tower Finance",
+    "platforms": {
+        "polygon-pos": "0x8201532917e55ba29674ef4e88ffe0b775f1bae8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8201532917e55ba29674ef4e88ffe0b775f1bae8",
+    "url": "https://towerfinance.io/",
+    "explorers": [
+        "https://polygonscan.com/token/0x8201532917e55bA29674Ef4E88FFe0b775f1BaE8"
+    ],
+    "twitter": "tower_finance",
+    "github_org": "towerfinance"
+}

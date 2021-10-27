@@ -1,0 +1,28 @@
+{
+    "id": "catex-token",
+    "symbol": "catt",
+    "name": "Catex Token",
+    "platforms": {
+        "ethereum": "0x6e605c269e0c92e70beeb85486f1fc550f9380bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "What is the Catex Exchange?\r\n\r\nThe Catex Exchange distributes 80% of its daily revenue through the mining logic to those holding the catt token. Our  exchange is newly opened and provides high daily income. You can earn up to 10% of your catt that you hold your wallet by mining hourly."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6e605c269e0c92e70beeb85486f1fc550f9380bd",
+    "url": "https://www.catex.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x6e605c269e0c92e70beeb85486f1fc550f9380bd",
+        "https://ethplorer.io/address/0x6e605c269e0c92e70beeb85486f1fc550f9380bd"
+    ],
+    "twitter": "catexofficial",
+    "facebook": "officialcatex",
+    "telegram": "catex_group",
+    "reddit": "Catex/",
+    "github_org": "Catexexchange"
+}

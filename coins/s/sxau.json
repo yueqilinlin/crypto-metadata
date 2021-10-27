@@ -1,0 +1,26 @@
+{
+    "id": "sxau",
+    "symbol": "sxau",
+    "name": "sXAU",
+    "platforms": {
+        "ethereum": "0x261efcdd24cea98652b9700800a13dfbca4103ff"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Tokenized Gold",
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Synthetic Gold by Synthetix,\r\n\r\nTracks the price of Gold Ounce (XAU) through price feeds supplied by an oracle.\r\n"
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x261efcdd24cea98652b9700800a13dfbca4103ff",
+    "url": "https://www.synthetix.io/tokens/",
+    "explorers": [
+        "https://etherscan.io/token/0x261EfCdD24CeA98652B9700800a13DfBca4103fF",
+        "https://ethplorer.io/address/0x261efcdd24cea98652b9700800a13dfbca4103ff"
+    ],
+    "twitter": "synthetix_io"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "rapdoge",
+    "symbol": "rapdoge",
+    "name": "RapDoge",
+    "platforms": {
+        "ethereum": "0xd8dae35b487e3453cffd998c6754713c81b0f200"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The RapDoge Application, will be an iOS application for iPhone and Android, available in the app store and Google Play store. The streaming app is designed to have live streaming, the ability to post pictures like Instagram, a profile page where users can be public or be anonymous. We are also designing communication tools into the application to have private chats like WhatsApp and Discord. In order to register for the app you must hold any amount of RapDoge. Think an all in one application of: Instagram, Facebook, WhatsApp, Discord, TikTok, with verified celebrity pages! The celebrities will drive traffic to the app because they will all be holders of this coin! You will also be able to login and see the balance of your RapDoge in your connected wallet.\r\n\r\nThe RapDoge supply is 100 Trillion coins on the Ethererum Blockchain via ERC20 coin protocol. The holders recieve 2% of the daily volume - distributed to everybody so you earn coins just for holding. The coin is deflationary and 2% of the supply also goes towards the liquidity. There is no mint function, so there will never be any additional RapDoge minted - unlike DogeCoin which has no limitations and can be continuously minted."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd8dae35b487e3453cffd998c6754713c81b0f200",
+    "url": "https://rapdoge.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd8dae35b487e3453cffd998c6754713c81b0f200",
+        "https://ethplorer.io/address/0xd8dae35b487e3453cffd998c6754713c81b0f200"
+    ],
+    "twitter": "rapdoge?s=21",
+    "telegram": "rapdoge"
+}

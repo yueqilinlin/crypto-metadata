@@ -1,0 +1,26 @@
+{
+    "id": "metaverse-nft-index",
+    "symbol": "PLAY",
+    "name": "Metaverse NFT Index",
+    "platforms": {
+        "ethereum": "0x33e18a092a93ff21ad04746c7da12e35d34dc7c4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "NFT Index"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x33e18a092a93ff21ad04746c7da12e35d34dc7c4",
+    "url": "https://www.piedao.org/#/pie/0x33e18a092a93ff21ad04746c7da12e35d34dc7c4",
+    "explorers": [
+        "https://etherscan.io/token/0x33e18a092a93ff21ad04746c7da12e35d34dc7c4",
+        "https://ethplorer.io/address/0x33e18a092a93ff21ad04746c7da12e35d34dc7c4"
+    ],
+    "twitter": "PieDAO_DeFi",
+    "telegram": "piedao"
+}

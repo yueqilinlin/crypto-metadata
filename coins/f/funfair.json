@@ -1,0 +1,26 @@
+{
+    "id": "funfair",
+    "symbol": "fun",
+    "name": "FUNToken",
+    "platforms": {
+        "ethereum": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2017-06-23",
+    "contract_address": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
+    "url": "http://funtoken.io",
+    "explorers": [
+        "https://etherscan.io/token/0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
+        "https://ethplorer.io/address/0x419d0d8bdd9af5e606ae2232ed285aff190e711b"
+    ],
+    "twitter": "FUNtoken_io",
+    "telegram": "officialFUNToken",
+    "reddit": "FUN_Token/"
+}

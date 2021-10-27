@@ -1,0 +1,32 @@
+{
+    "id": "chain-guardians",
+    "symbol": "cgg",
+    "name": "Chain Guardians",
+    "platforms": {
+        "ethereum": "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
+        "binance-smart-chain": "0x1613957159e9b0ac6c80e824f7eea748a32a0ae2",
+        "polygon-pos": "0x2ab4f9ac80f33071211729e45cfc346c1f8446d5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "ChainGuardians is a platform which combines traditional gaming concepts with blockchain technologies to enable player-driven economies.\r\n\r\nWithin the ChainGuardians ecosystem, players can participate in our free-to-play NFT Mining Platform and Role-Playing Game; both of which allow players to earn income, turning your time and energy into tangible rewards."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
+    "url": "https://chainguardians.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
+        "https://ethplorer.io/address/0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
+        "https://bscscan.com/token/0x1613957159e9b0ac6c80e824f7eea748a32a0ae2",
+        "https://polygonscan.com/token/0x2Ab4f9aC80F33071211729e45Cfc346C1f8446d5"
+    ],
+    "twitter": "Chain_Guardians",
+    "telegram": "ChainGuardians",
+    "github_org": "ChainGuardians"
+}

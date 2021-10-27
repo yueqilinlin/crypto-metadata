@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-xrp-token",
+    "symbol": "xrpbear",
+    "name": "3X Short XRP Token",
+    "platforms": {
+        "ethereum": "0x94fc5934cf5970e944a67de806eeb5a4b493c6e6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short XRP Token (XRPBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of XRP."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x94fc5934cf5970e944a67de806eeb5a4b493c6e6",
+    "url": "https://ftx.com/tokens/XRPBEAR",
+    "explorers": [
+        "https://etherscan.io/token/0x94fc5934cf5970e944a67de806eeb5a4b493c6e6",
+        "https://ethplorer.io/address/0x94fc5934cf5970e944a67de806eeb5a4b493c6e6"
+    ]
+}

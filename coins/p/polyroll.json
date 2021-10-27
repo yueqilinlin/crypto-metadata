@@ -1,0 +1,23 @@
+{
+    "id": "polyroll",
+    "symbol": "roll",
+    "name": "Polyroll",
+    "platforms": {
+        "polygon-pos": "0xc68e83a305b0fad69e264a1769a0a070f190d2d6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized casino powered by Polygon and Chainlink with only 1% house edge. No more black boxes. Provably fair games that powered by transparent and immutable smart contracts."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc68e83a305b0fad69e264a1769a0a070f190d2d6",
+    "url": "https://polyroll.org/",
+    "explorers": [
+        "https://polygonscan.com/token/0xc68e83a305b0fad69e264a1769a0a070f190d2d6"
+    ],
+    "twitter": "PolyrollOrg",
+    "telegram": "polyroll",
+    "github_org": "polyroll"
+}

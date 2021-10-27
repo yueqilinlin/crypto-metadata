@@ -1,0 +1,23 @@
+{
+    "id": "mute",
+    "symbol": "mute",
+    "name": "Mute",
+    "platforms": {
+        "ethereum": "0xa49d7499271ae71cd8ab9ac515e6694c755d400c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MUTE is one half of the dual-token mechanics powering the Mute.io ZK-Rollup ecosystem.\r\n\r\nMUTE is the gas that facilitates growth of the ecosystem via the DAO, funding proposals and benefitting directly through a 'buyback and make' initiative. Liquidity providers are also rewarded thanks to a 1% transaction fee, guarding against impermeant loss and paid out incrementally via the MuteVault contract. \r\n\r\nMute Switch, an easy to use swap-style ZK-Rollup DEX, is the first Dapp in the ecosystem. This will be running on ZK-Rollup infrastructure meaning trading will be cheaper and more scalable, but not just that - transactions will be zero knowledge, ensuring nobody can see into your wallet history. Power users of the DEX will qualify for reduced fees by locking a specified amount of MUTE in their wallet.\r\n\r\nThe non-inflationary supply is complimented by an innovative economic model that includes the combination of buy backs, coin burns, a smart treasury and vaults."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa49d7499271ae71cd8ab9ac515e6694c755d400c",
+    "url": "https://mute.io",
+    "explorers": [
+        "https://etherscan.io/token/0xa49d7499271ae71cd8ab9ac515e6694c755d400c",
+        "https://ethplorer.io/address/0xa49d7499271ae71cd8ab9ac515e6694c755d400c"
+    ],
+    "twitter": "mute_io",
+    "telegram": "mute_io"
+}

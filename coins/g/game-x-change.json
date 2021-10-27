@@ -1,0 +1,23 @@
+{
+    "id": "game-x-change",
+    "symbol": "exp",
+    "name": "Game X Change",
+    "platforms": {
+        "binance-smart-chain": "0x639d4c62f58a4048ad0f69b8ce675db1a3e8e00e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Game X Change is a gaming platform where users can move assets (virtual cash and NFTs) from one platform, game or blockchain to another in a safe and controlled way. Convert and transfer in-game currencies and NFTs from one game to another!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x639d4c62f58a4048ad0f69b8ce675db1a3e8e00e",
+    "url": "https://gamexchange.app",
+    "explorers": [
+        "https://bscscan.com/token/0x639d4c62f58a4048ad0f69b8ce675db1a3e8e00e"
+    ],
+    "twitter": "GameX_Change",
+    "telegram": "GameXChange",
+    "reddit": "GameXChangeApp/"
+}

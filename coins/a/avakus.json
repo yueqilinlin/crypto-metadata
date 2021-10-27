@@ -1,0 +1,24 @@
+{
+    "id": "avakus",
+    "symbol": "avak",
+    "name": "Avakus",
+    "platforms": {
+        "ethereum": "0x724dd18be5de3ed3d6ad7bb46d7387d867cdbdcc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Avakus token project is the utility token for the Avakus Wallet Management application currently under development. Beta testing for the app is scheduled for December 2021. Beta testers can sign up for testing at Avakuswallet.com. The wallet management application will help users research, trade, stake, and hold Tokens and NFTs. The Avakus token is the utility token for the application. Avakus holders will verify their AVAK holdings through the wallet and have access to advanced features."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x724dd18be5de3ed3d6ad7bb46d7387d867cdbdcc",
+    "url": "https://avakus.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x724dd18be5de3ed3d6ad7bb46d7387d867cdbdcc",
+        "https://ethplorer.io/address/0x724dd18be5de3ed3d6ad7bb46d7387d867cdbdcc"
+    ],
+    "twitter": "AvakusOfficial",
+    "telegram": "AvakusToken",
+    "reddit": "AvakusOfficial/"
+}

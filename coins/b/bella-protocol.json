@@ -1,0 +1,30 @@
+{
+    "id": "bella-protocol",
+    "symbol": "bel",
+    "name": "Bella Protocol",
+    "platforms": {
+        "ethereum": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
+        "binance-smart-chain": "0x8443f091997f06a61670b735ed92734f5628692f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Launchpool",
+        "Yield Aggregator",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "The Bella Protocol offers a suite of DeFi products for streamlined crypto-banking experience. The core concept of Bella\u2019s product design is 1-Click. Bella provides automated services, subsidizes gas fees, and caters to both new and experienced users either on-chain or via Bella\u2019s custodian service.\r\n\r\nWith Bella, users can save gas fees and time and enjoy high yields from sophisticated strategies. The current product lineups include Bella Liquidity Mining, Flex Savings, One-Click Portal, and Lending."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
+    "url": "https://bella.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
+        "https://ethplorer.io/address/0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
+        "https://bscscan.com/token/0x8443f091997f06a61670b735ed92734f5628692f"
+    ],
+    "twitter": "BellaProtocol",
+    "telegram": "bellaprotocol"
+}

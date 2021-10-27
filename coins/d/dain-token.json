@@ -1,0 +1,22 @@
+{
+    "id": "dain-token",
+    "symbol": "dain",
+    "name": "Dain Token",
+    "platforms": {
+        "ethereum": "0xd7d706ed3598a354a4adfce5d8c5383df99a4461"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DAIN Co., Ltd is a local company located in Deajeon, Korea. DAIN Co., Ltd is planning to launch a DAIN platform that provides a variety of services like funeral, healing, wedding program from partners inexpensively and easily."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xd7d706ed3598a354a4adfce5d8c5383df99a4461",
+    "url": "https://daintoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd7d706ED3598a354A4aDFce5D8C5383dF99a4461",
+        "https://ethplorer.io/address/0xd7d706ED3598a354A4aDFce5D8C5383dF99a4461"
+    ],
+    "telegram": "daintoken"
+}

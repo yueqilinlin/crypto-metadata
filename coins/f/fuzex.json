@@ -1,0 +1,25 @@
+{
+    "id": "fuzex",
+    "symbol": "fxt",
+    "name": "FuzeX",
+    "platforms": {
+        "ethereum": "0x1829aa045e21e0d59580024a951db48096e01782"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x1829aa045e21e0d59580024a951db48096e01782",
+    "url": "https://www.fuzex.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x1829aa045e21e0d59580024a951db48096e01782",
+        "https://ethplorer.io/address/0x1829aa045e21e0d59580024a951db48096e01782"
+    ],
+    "telegram": "FuzeX",
+    "github_org": "fuzex"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "bulldogswap",
+    "symbol": "budg",
+    "name": "BullDogSwap",
+    "platforms": {
+        "binance-smart-chain": "0x446320c9ffa57030ca977a1f90f8049df4004647"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bulldogswap is a foundational layer in decentralized finance, enabling safe, and customizable transactions for the global crypto."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x446320c9ffa57030ca977a1f90f8049df4004647",
+    "url": "https://bulldogswap.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x446320c9ffa57030ca977a1f90f8049df4004647"
+    ],
+    "twitter": "BulldogSwap",
+    "telegram": "BUDGswap",
+    "github_org": "bulldog-swap"
+}

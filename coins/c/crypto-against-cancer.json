@@ -1,0 +1,22 @@
+{
+    "id": "crypto-against-cancer",
+    "symbol": "cact",
+    "name": "Crypto Against Cancer",
+    "platforms": {
+        "binance-smart-chain": "0x6fbff934ec9d724450e66d9ace621cb7e67ceb5a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crypto Against Cancer (CACT) has been created by experienced members of the crypto community who wanted to make a real impact to cancer research and treatment around the world. It is one of the first tokens to reward holders with BNB through a reward pool, automatically generated through the smart contract. With every transaction 8.5% is collected and stored within the contract's BNB reward pool and is then made available for token holders to claim from periodically. In addition1% of transactions is reflected to holders. A further 8.5% is automatically added to the liquidity pool, 0.5% used for development and marketing and most importantly of all, 1.5% for our cancer charity fund."
+    },
+    "country_origin": "TH",
+    "genesis_date": null,
+    "contract_address": "0x6fbff934ec9d724450e66d9ace621cb7e67ceb5a",
+    "url": "https://cryptoagainstcancer.fund/",
+    "explorers": [
+        "https://bscscan.com/token/0x6fbFf934ec9D724450E66d9AcE621cb7E67CeB5A"
+    ],
+    "twitter": "crypto_cancer",
+    "telegram": "CryptoAgainstCancerToken"
+}

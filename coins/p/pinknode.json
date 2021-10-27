@@ -1,0 +1,26 @@
+{
+    "id": "pinknode",
+    "symbol": "pnode",
+    "name": "Pinknode",
+    "platforms": {
+        "ethereum": "0xaf691508ba57d416f895e32a1616da1024e882d2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "Pinknode is an \"infrastructure-as-a-service\" project for Polkadot networks, providing secure, reliable and scalable API endpoints and node operation services to developers and projects.\r\n\r\nPinknode will also be consolidating Polkadot's multitude of parachain nodes under 1 operator for ease of access and simplified solutions, essentially making inter-parachain communication seamless. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xaf691508ba57d416f895e32a1616da1024e882d2",
+    "url": "https://pinknode.io",
+    "explorers": [
+        "https://etherscan.io/token/0xAF691508BA57d416f895e32a1616dA1024e882D2",
+        "https://ethplorer.io/address/0xaf691508ba57d416f895e32a1616da1024e882d2",
+        "https://apps.pinknode.io/#/explorer"
+    ],
+    "twitter": "official_pnode",
+    "telegram": "pinknode"
+}

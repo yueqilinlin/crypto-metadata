@@ -1,0 +1,23 @@
+{
+    "id": "pofi",
+    "symbol": "pofi",
+    "name": "PoFi",
+    "platforms": {
+        "binance-smart-chain": "0x461f6c9ae13a7dac7055c73fbf8dab529d667041"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pollo is a DeFi Project being offered over BSC which aims to make Basic Income a reality. Since starting Pollo Swap on 17 March 2021, it is offering innovative protocols in rapid succession."
+    },
+    "country_origin": "MD",
+    "genesis_date": null,
+    "contract_address": "0x461f6c9ae13a7dac7055c73fbf8dab529d667041",
+    "url": "https://official.pollo.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x461f6c9ae13a7dac7055c73fbf8dab529d667041"
+    ],
+    "twitter": "FinancePollo",
+    "telegram": "pollofi",
+    "github_org": "pollofinance"
+}

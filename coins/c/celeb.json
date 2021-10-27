@@ -1,0 +1,23 @@
+{
+    "id": "celeb",
+    "symbol": "celeb",
+    "name": "Celeb",
+    "platforms": {
+        "ethereum": "0xa3e53fe692eeda3502cf5ccfd8a535e1f93d23dd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Celeb connects SNS (Instagram, Facebook, YouTube, etc.) accounts on SNS platforms to the number of followers, views, comments, and likes. Unlike traditional advertising agencies that provide only surface indicators, they provide advertisers with social graph data (Celeb Index) that can prove their influence by measuring celebrity activity index through independent evaluation algorithms, so that \"fake followers\" and \"like bots\" are completely excluded from the data collection process. In addition, advertisers and celebrities have the advantage of automating rewards using smart contract technology according to mutually agreed conditions and incentives within the Celeb Plus platform, eliminating elements of misunderstanding and conflict that can arise from human intervention."
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0xa3e53fe692eeda3502cf5ccfd8a535e1f93d23dd",
+    "url": "http://celpl.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa3e53fe692eeda3502cf5ccfd8a535e1f93d23dd",
+        "https://ethplorer.io/address/0xa3e53fe692eeda3502cf5ccfd8a535e1f93d23dd"
+    ],
+    "telegram": "celebnotice",
+    "github_org": "celebplus"
+}

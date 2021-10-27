@@ -1,0 +1,28 @@
+{
+    "id": "bethereum",
+    "symbol": "bether",
+    "name": "Bethereum",
+    "platforms": {
+        "ethereum": "0x14c926f2290044b647e1bf2072e67b495eff1905"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "Bethereum uses concepts including gamification, user-friendly UX and simple account creation to create a unique betting platform for everyone. Bethereum is much more than just sports betting. In addition to limitless scalability, the platform can also handle additional items such as eSports, fantasy sports and casino-type games. \r\n\r\nWe are already alpha testing the use of Smart Contracts for betting on the Ethereum test chain. Our goal is to eventually deliver instant payouts, unlimited winnings and transparency in fund management through our use of Ethereum technology. We\u2019ve already registered more than 15,000 sports bets placed in our Alpha build.\r\n\r\nOur project has been met with widespread acclaim. We were among the finalists of the 2018 ICO Race, an event where over 150 projects applied. Bethereum also placed top 3 at Malta\u2019s d10e Conference pitch contest."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x14c926f2290044b647e1bf2072e67b495eff1905",
+    "url": "https://www.bethereum.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x14C926F2290044B647e1Bf2072e67B495eff1905",
+        "https://ethplorer.io/address/0x14c926f2290044b647e1bf2072e67b495eff1905"
+    ],
+    "twitter": "bethereumteam",
+    "facebook": "bethereumproject",
+    "telegram": "bethereum",
+    "reddit": "bethereum/",
+    "github_org": "bethereumproject"
+}

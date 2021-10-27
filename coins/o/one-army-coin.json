@@ -1,0 +1,22 @@
+{
+    "id": "one-army-coin",
+    "symbol": "oac",
+    "name": "One Army Coin",
+    "platforms": {
+        "ethereum": "0xf17e9e4e32d842e4ddfbed5750a26f7bd77777ee"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "One Army Coin (OAC) is set up to empower green projects and the people involved. The utility value is to reward people who collect plastic for recycling and people who purchase recycled products. Also, the token is used to reward early adopters."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf17e9e4e32d842e4ddfbed5750a26f7bd77777ee",
+    "url": "https://www.onearmy.earth/",
+    "explorers": [
+        "https://etherscan.io/token/0xf17e9e4e32d842e4ddfbed5750a26f7bd77777ee",
+        "https://ethplorer.io/address/0xf17e9e4e32d842e4ddfbed5750a26f7bd77777ee"
+    ],
+    "github_org": "ONEARMY"
+}

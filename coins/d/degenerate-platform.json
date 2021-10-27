@@ -1,0 +1,26 @@
+{
+    "id": "degenerate-platform",
+    "symbol": "sbx",
+    "name": "Sports Betting Marketplace",
+    "platforms": {
+        "ethereum": "0x2579bb08387f0de7ab135edd6c2a985a3f577b6b",
+        "binance-smart-chain": "0x552d641eaa73622ec37191fa348c4f2c5c70c056"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "Degen team is developing the sports betting marketplace where users can buy and sell sports picks and cards. Sports consultants and pick providers will now be able to sell their picks in a decentralized environment with our sports betting marketplace."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2579bb08387f0de7ab135edd6c2a985a3f577b6b",
+    "url": "https://sbxtoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x2579bb08387f0de7ab135edd6c2a985a3f577b6b",
+        "https://ethplorer.io/address/0x2579bb08387f0de7ab135edd6c2a985a3f577b6b"
+    ],
+    "twitter": "SBXtoken",
+    "telegram": "SBXtoken"
+}

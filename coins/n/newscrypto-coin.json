@@ -1,0 +1,32 @@
+{
+    "id": "newscrypto-coin",
+    "symbol": "nwc",
+    "name": "Newscrypto Coin",
+    "platforms": {
+        "stellar": "NWC-GDZJD363YP7P3TNYDK3ZD6GLXFMAI3GLVIH7CGFLNZWIZBQUCVE6PTU7",
+        "binance-smart-chain": "0x968f6f898a6df937fc1859b323ac2f14643e3fed",
+        "ethereum": "0x968f6f898a6df937fc1859b323ac2f14643e3fed"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Education"
+    ],
+    "description": {
+        "en": "The NewsCrypto token (NWC) is the native token of the NewsCrypto ecosystem, which offers a comprehensive set of indicators, educational resources and entertainment for everyone from novice traders to experts in crypto. The project aims to offer everything that a crypto trader needs in one place, while also creating a community-focused ecosystem where users can learn from each other and earn NWC for posting quality content.\r\n\r\nThe NWC token is used to unlock access to the online platform, which is focused on interactive education on blockchain technology and cryptocurrency trading, as well as for additional features on the NewsCrypto mobile app, which also includes entertainment (i.e. crypto games) and a community section apart from educational resources and market tracking software.\r\n\r\nThe token has a hard cap of 280 million NWC and it follows a deflationary model, with 20% of all subscription fees being automatically burned by a smart contract. Apart from the platform membership fees, the token is also used for transfers of value and awards to community members for their contribution to the ecosystem. Its growth is entirely driven by the community, as NewsCrypto is completely self-funded and therefore independent of any external capital, which means that everyone is incentivized to act in the best interest of the entire community and to provide trustworthy and valuable content.\r\n\r\nWhile NWC was originally built on the Stellar blockchain, in early 2021 it also became available on Ethereum and the Binance Smart Chain. A cross-chain swap solution made by newscrypto, enabling users to swap between different versions of NWC on the three different chains, is available on the NewsCrypto website."
+    },
+    "country_origin": "SK",
+    "genesis_date": null,
+    "contract_address": "NWC-GDZJD363YP7P3TNYDK3ZD6GLXFMAI3GLVIH7CGFLNZWIZBQUCVE6PTU7",
+    "url": "https://newscrypto.io/",
+    "explorers": [
+        "https://stellar.expert/explorer/public/asset/NWC-GAAPUOQWOZAG3PENRN7FEPYWXVGJBJVBL6EUE2ZHN5TSY7WBXQDO7AY2-1",
+        "https://etherscan.io/token/0x968f6f898a6df937fc1859b323ac2f14643e3fed",
+        "https://explorer.binance.org/asset/NWC-BBAM",
+        "https://bscscan.com/token/0x968f6f898a6df937fc1859b323ac2f14643e3fed"
+    ],
+    "twitter": "@NwcPublic",
+    "facebook": "Newscrypto.io",
+    "telegram": "NWC_Public",
+    "reddit": "https://www.reddit.com",
+    "github_org": "itsBunneh"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "diamond-token",
+    "symbol": "diamond",
+    "name": "Diamond Token",
+    "platforms": {
+        "binance-smart-chain": "0x3e8cfdd483c5818c5a4a799cbaae324002d086ad"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Diamond token aims to provide early access to game changing crypto assets across the globe without barriers."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3e8cfdd483c5818c5a4a799cbaae324002d086ad",
+    "url": "https://diamondtoken.cash/",
+    "explorers": [
+        "https://bscscan.com/token/0x3e8cfdd483c5818c5a4a799cbaae324002d086ad"
+    ],
+    "twitter": "DiamondToken1",
+    "telegram": "TheDiamondToken",
+    "github_org": "diamond-token"
+}

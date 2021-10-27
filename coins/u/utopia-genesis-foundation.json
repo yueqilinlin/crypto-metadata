@@ -1,0 +1,27 @@
+{
+    "id": "utopia-genesis-foundation",
+    "symbol": "uop",
+    "name": "Utopia Genesis Foundation",
+    "platforms": {
+        "ethereum": "0xe4ae84448db5cfe1daf1e6fb172b469c161cb85f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Music",
+        "Non-Fungible Tokens (NFT)",
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "The Utopia Genesis Foundation was founded with a mission to establish an open and standardized process for the music industry to track, process and tokenize rights. By introducing a universal blockchain protocol for anyone who wants to run commercial projects in the modern music industry, the Foundation aims to provide the infrastructure and tools needed for the development, maintenance and growth of the ecosystem. To add transparency to all these processes, the Foundation is launching its own cryptocurrency, the Utopia Open Platform (UOP) Token. The Token seeks to improve the profitability of the global music industry by eliminating conversion costs and middlemen by unifying the industry onto one common platform."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0xe4ae84448db5cfe1daf1e6fb172b469c161cb85f",
+    "url": "https://utopiagenesis.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe4ae84448db5cfe1daf1e6fb172b469c161cb85f",
+        "https://ethplorer.io/address/0xe4ae84448db5cfe1daf1e6fb172b469c161cb85f"
+    ],
+    "twitter": "UtopiaGenesis",
+    "telegram": "UtopiaGenesisFound"
+}

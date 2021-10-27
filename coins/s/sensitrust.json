@@ -1,0 +1,25 @@
+{
+    "id": "sensitrust",
+    "symbol": "sets",
+    "name": "Sensitrust",
+    "platforms": {
+        "ethereum": "0x04e0af0af1b7f0023c6b12af5a94df59b0e8cf59",
+        "binance-smart-chain": "0xe95fd76cf16008c12ff3b3a937cb16cd9cc20284"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sensitrust is a platform where customers and professionals get in touch, make deals and design new projects. Every phase exploits blockchain technologies, managed by Smart Contracts, and supported by Artificial Intelligence."
+    },
+    "country_origin": "IT",
+    "genesis_date": null,
+    "contract_address": "0x04e0af0af1b7f0023c6b12af5a94df59b0e8cf59",
+    "url": "https://www.sensitrust.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x04E0Af0af1b7f0023c6B12af5a94Df59B0e8cF59",
+        "https://ethplorer.io/address/0x04E0Af0af1b7f0023c6B12af5a94Df59B0e8cF59",
+        "https://bscscan.com/token/0xe95fd76cf16008c12ff3b3a937cb16cd9cc20284"
+    ],
+    "twitter": "sensitrust",
+    "telegram": "sensitrust"
+}

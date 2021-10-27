@@ -1,0 +1,23 @@
+{
+    "id": "staysbase",
+    "symbol": "sbs",
+    "name": "StaysBASE",
+    "platforms": {
+        "binance-smart-chain": "0xc1d99537392084cc02d3f52386729b79d01035ce"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The StaysBASE protocol is the first rebase protocol built on Binance Smart Chain and acts as a one-stop trading instrument which allows holders to speculate on the entire crypto industry, World Stock market and Gold Market simultaneously, rather than just one token or a select portfolio of multiple. StaysBASE is supposed to be a more holistic reflection of all the three markets."
+    },
+    "country_origin": "QU",
+    "genesis_date": null,
+    "contract_address": "0xc1d99537392084cc02d3f52386729b79d01035ce",
+    "url": "https://staysbase.org",
+    "explorers": [
+        "https://bscscan.com/token/0xc1d99537392084cc02d3f52386729b79d01035ce"
+    ],
+    "twitter": "StaysBASE",
+    "telegram": "StaysBASE",
+    "github_org": "staysbase"
+}

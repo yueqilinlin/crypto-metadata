@@ -1,0 +1,23 @@
+{
+    "id": "upshib",
+    "symbol": "upshib",
+    "name": "upShib",
+    "platforms": {
+        "binance-smart-chain": "0x795d38678d5a3f7ad80dded5e27644e9c0352904"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"A community built and driven static protocol with reflective rewards, reliquidation pool, and an autonomous yield mechanism.\r\n\r\nupShib frictionless farming reflects a 3% based tax fee from every single transaction a distributes it to wallet holders. The liquidity is also constantly increasing in token amounts as upShib distributes based fees from transactions to the liquidity pool.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x795d38678d5a3f7ad80dded5e27644e9c0352904",
+    "url": "https://www.upshib.space/",
+    "explorers": [
+        "https://bscscan.com/token/0x795D38678D5a3f7Ad80DDED5e27644e9c0352904"
+    ],
+    "twitter": "upshib",
+    "telegram": "upshibofficial",
+    "reddit": "upShib/"
+}

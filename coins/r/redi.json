@@ -1,0 +1,28 @@
+{
+    "id": "redi",
+    "symbol": "redi",
+    "name": "REDi",
+    "platforms": {
+        "ethereum": "0xebdf9a7ae0009b958c6d09501eb9ac1dafeb31ab"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Energy"
+    ],
+    "description": {
+        "en": "REDi pursues a blockchain-based data marketplace for the global renewable energy industry. The REDi Infranet will empower various renewable energy producers, consumers, and industry experts to consolidate, verify, and distribute data in the search for improved productivity and efficiency of the industry."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xebdf9a7ae0009b958c6d09501eb9ac1dafeb31ab",
+    "url": "https://redi.io/en",
+    "explorers": [
+        "https://etherscan.io/token/0xebdf9a7ae0009b958c6d09501eb9ac1dafeb31ab",
+        "https://ethplorer.io/address/0xebdf9a7ae0009b958c6d09501eb9ac1dafeb31ab"
+    ],
+    "twitter": "REDi_infranet",
+    "facebook": "REDi.infranet",
+    "telegram": "redi_en",
+    "reddit": "redichainio/",
+    "github_org": "redi-infranet"
+}

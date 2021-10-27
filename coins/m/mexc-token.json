@@ -1,0 +1,26 @@
+{
+    "id": "mexc-token",
+    "symbol": "mexc",
+    "name": "MEXC Token",
+    "platforms": {
+        "ethereum": "0x7de2d123042994737105802d2abd0a10a7bde276"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The MEXC Token is created to fill the gap in the Medical industry, especially by using Blockchain technology for transparent, immutable records and secure transactions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7de2d123042994737105802d2abd0a10a7bde276",
+    "url": "https://mexc.life/",
+    "explorers": [
+        "https://etherscan.io/token/0x7de2d123042994737105802d2abd0a10a7bde276",
+        "https://ethplorer.io/address/0x7de2d123042994737105802d2abd0a10a7bde276"
+    ],
+    "twitter": "mexc_life",
+    "facebook": "mexc.life",
+    "telegram": "mexclife",
+    "reddit": "mexc/",
+    "github_org": "MEXClife"
+}

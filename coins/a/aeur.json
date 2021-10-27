@@ -1,0 +1,23 @@
+{
+    "id": "aeur",
+    "symbol": "aeur",
+    "name": "AEUR",
+    "platforms": {
+        "ardor": ""
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "AEUR is pegged to EUR coin on 1:1 basis, running as separate AEUR child chain on Ardor platform."
+    },
+    "country_origin": "LT",
+    "genesis_date": null,
+    "url": "https://www.ardorgate.eu/",
+    "explorers": [
+        "https://ardor.tools/"
+    ],
+    "twitter": "Ardorgate",
+    "facebook": "Ardorgate"
+}

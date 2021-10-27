@@ -1,0 +1,23 @@
+{
+    "id": "covicoin",
+    "symbol": "cvc",
+    "name": "CoviCoin",
+    "platforms": {
+        "binance-smart-chain": "0xc6f0a9b75fa529dcc0f90459e30684e7ed9a9ea6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CoviCoin is the brainchild of a diverse team that comprises individuals from different parts of the globe. Each member comes equipped with his or her own unique expertise in the areas of blockchain, finance, healthcare and marketing."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc6f0a9b75fa529dcc0f90459e30684e7ed9a9ea6",
+    "url": "https://www.covicoin.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xc6f0a9b75fa529dcc0f90459e30684e7ed9a9ea6"
+    ],
+    "twitter": "covicoin",
+    "telegram": "covicoinofficial",
+    "reddit": "covicoin/"
+}

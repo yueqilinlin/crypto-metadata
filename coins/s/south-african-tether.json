@@ -1,0 +1,22 @@
+{
+    "id": "south-african-tether",
+    "symbol": "xzar",
+    "name": "South African Tether",
+    "platforms": {
+        "ethereum": "0x48f07301e9e29c3c38a80ae8d9ae771f224f1054"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "xZAR is a South African stablecoin pegged 1:1 with the South African Rand (ZAR).\r\n\r\nThe uses for xZAR are only limited by one's imagination. You can use this coin with the full assurance that you will always be able to quickly convert it back into Rands (ZAR) via AltCoinTrader.co.za, South Africa's premier crypto and gold exchange."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x48f07301e9e29c3c38a80ae8d9ae771f224f1054",
+    "url": "http://www.xzar.co.za/",
+    "explorers": [
+        "https://etherscan.io/token/0x48f07301e9e29c3c38a80ae8d9ae771f224f1054",
+        "https://ethplorer.io/address/0x48f07301e9e29c3c38a80ae8d9ae771f224f1054"
+    ],
+    "twitter": "xZAR_SA"
+}

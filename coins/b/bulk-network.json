@@ -1,0 +1,25 @@
+{
+    "id": "bulk-network",
+    "symbol": "bulk",
+    "name": "Bulk Network",
+    "platforms": {
+        "ethereum": "0xa143ac515dca260a46c742c7251ef3b268639593",
+        "binance-smart-chain": "0xa143ac515dca260a46c742c7251ef3b268639593"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bulk Network is is a community-driven Decentralized Venture Platform.  By combining the power of our community, our media outreach and technical expertise we offer extensive support to our partner projects."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0xa143ac515dca260a46c742c7251ef3b268639593",
+    "url": "https://bulknetwork.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0xa143ac515dca260a46c742c7251ef3b268639593",
+        "https://ethplorer.io/address/0xa143ac515dca260a46c742c7251ef3b268639593",
+        "https://bscscan.com/token/0xa143ac515dca260a46c742c7251ef3b268639593"
+    ],
+    "twitter": "BulkNetwork",
+    "telegram": "bulknetwork"
+}

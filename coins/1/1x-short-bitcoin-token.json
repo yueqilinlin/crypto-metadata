@@ -1,0 +1,25 @@
+{
+    "id": "1x-short-bitcoin-token",
+    "symbol": "hedge",
+    "name": "1X Short Bitcoin Token",
+    "platforms": {
+        "ethereum": "0x1fa3bc860bf823d792f04f662f3aa3a500a68814"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Leveraged Token"
+    ],
+    "description": {
+        "en": "1X Short Bitcoin Token (HEDGE) is an ERC20 token which seeks a return that corresponds to -1 times the daily return of Bitcoin."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1fa3bc860bf823d792f04f662f3aa3a500a68814",
+    "url": "https://ftx.com/tokens/HEDGE",
+    "explorers": [
+        "https://etherscan.io/token/0x1fa3bc860bf823d792f04f662f3aa3a500a68814",
+        "https://ethplorer.io/address/0x1fa3bc860bf823d792f04f662f3aa3a500a68814",
+        "https://etherscan.io/token/0x1FA3bc860bF823d792f04F662f3AA3a500a68814"
+    ],
+    "github_org": "ftexchange"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "radio-caca",
+    "symbol": "raca",
+    "name": "Radio Caca",
+    "platforms": {
+        "binance-smart-chain": "0x12bb890508c125661e03b09ec06e404bc9289040",
+        "ethereum": "0x12bb890508c125661e03b09ec06e404bc9289040"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x12bb890508c125661e03b09ec06e404bc9289040",
+    "url": "https://www.radiocaca.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x12BB890508c125661E03b09EC06E404bc9289040",
+        "https://etherscan.io/token/0x12BB890508c125661E03b09EC06E404bc9289040"
+    ],
+    "twitter": "RadioCacaNFT",
+    "telegram": "RadioCaca",
+    "reddit": "RadioCacaNFT",
+    "github_org": "radiocaca"
+}

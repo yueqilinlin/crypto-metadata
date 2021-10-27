@@ -1,0 +1,22 @@
+{
+    "id": "cord-finance",
+    "symbol": "cord",
+    "name": "CORD.Finance",
+    "platforms": {
+        "binance-smart-chain": "0xa3506a4f978862a296b29816c4e65cf1a6f54aaa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CORD.Finance is a decentralized finance project hosted on Binance Smart Chain, that uses a unique combination of smart contract technology plus real world networking to provide varied income streams and capital appreciation for its holders. The worldwide team of six project leaders has a variety of expertise that collectively supports this goal. The team includes a PhD statistician and developer with 25 years experience, tokenomics experts who understand the economics of digital assets, networking experts with international connections in such diverse areas as finance, farming, and charity, as well as both ERC20 and NFT developers. On the DeFi side, CORD.Finance runs staking pools/vaults on an ongoing basis for CORD holders (and its deflationary pairing token VACC). The CORD.Finance team actively seeks out staking partnerships with other projects, as this can provide a synergistic benefit to both projects by increasing exposure and economies of scale. Other real-world partnerships being cultivated by the CORD.Finance team include those in charity, farming and banking."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0xa3506a4f978862a296b29816c4e65cf1a6f54aaa",
+    "url": "https://cord.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xa3506a4f978862a296b29816c4e65cf1a6f54aaa"
+    ],
+    "twitter": "cordfinance",
+    "telegram": "cordfinance"
+}

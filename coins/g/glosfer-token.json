@@ -1,0 +1,24 @@
+{
+    "id": "glosfer-token",
+    "symbol": "glo",
+    "name": "Glosfer Token",
+    "platforms": {
+        "ethereum": "0xc0e6737a29de7a00e2f6011924eb257106cb082f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Creator of a number of DApps,\r\n\r\nGLOSFER aims to increase the number of DApps that can be used in everyday life."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc0e6737a29de7a00e2f6011924eb257106cb082f",
+    "url": "https://www.glosfer.io/en/",
+    "explorers": [
+        "https://etherscan.io/token/0xc0e6737a29de7a00e2f6011924eb257106cb082f",
+        "https://ethplorer.io/address/0xc0e6737a29de7a00e2f6011924eb257106cb082f"
+    ],
+    "twitter": "glosfer",
+    "facebook": "GLOSFER",
+    "telegram": "GlosferG"
+}

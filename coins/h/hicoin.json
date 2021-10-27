@@ -1,0 +1,17 @@
+{
+    "id": "hicoin",
+    "symbol": "xhi",
+    "name": "HiCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://xhicoin.com/",
+    "explorers": [
+        "http://explorer.xhicoin.com/"
+    ]
+}

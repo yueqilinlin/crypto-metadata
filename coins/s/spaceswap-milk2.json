@@ -1,0 +1,28 @@
+{
+    "id": "spaceswap-milk2",
+    "symbol": "milk2",
+    "name": "Spaceswap MILK2",
+    "platforms": {
+        "ethereum": "0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de",
+        "binance-smart-chain": "0x4a5a34212404f30c5ab7eb61b078fa4a55adc5a5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de",
+    "url": "https://spaceswap.app/",
+    "explorers": [
+        "https://etherscan.io/token/0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de",
+        "https://ethplorer.io/address/0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de",
+        "https://bscscan.com/token/0x4a5a34212404f30c5ab7eb61b078fa4a55adc5a5"
+    ],
+    "twitter": "spaceswapdefi",
+    "telegram": "spaceswap",
+    "github_org": "spaceswap"
+}

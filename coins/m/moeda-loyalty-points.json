@@ -1,0 +1,26 @@
+{
+    "id": "moeda-loyalty-points",
+    "symbol": "mda",
+    "name": "Moeda Loyalty Points",
+    "platforms": {
+        "ethereum": "0x51db5ad35c671a87207d88fc11d593ac0c8415bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Moeda is a Moeda, a MasterCard Start Path company,  is building a more inclusive and egalitarian world - starting with finance. Moeda's suite of blockchain-based digital banking, payments and microcredit services humanizes finance and expands access to capital for the people, companies and projects that need it most. banking system powered by blockchain, built for everyone"
+    },
+    "country_origin": "",
+    "genesis_date": "2017-08-27",
+    "contract_address": "0x51db5ad35c671a87207d88fc11d593ac0c8415bd",
+    "url": "https://moedaseeds.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x51db5ad35c671a87207d88fc11d593ac0c8415bd",
+        "https://ethplorer.io/address/0x51db5ad35c671a87207d88fc11d593ac0c8415bd"
+    ],
+    "twitter": "moedaseeds/",
+    "facebook": "moedaseeds/",
+    "telegram": "moedaproject",
+    "reddit": "MoedaBanking",
+    "github_org": "moedabank"
+}

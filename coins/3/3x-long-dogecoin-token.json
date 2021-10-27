@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-dogecoin-token",
+    "symbol": "dogebull",
+    "name": "3X Long Dogecoin Token",
+    "platforms": {
+        "ethereum": "0x7aa6b33fb7f395ddbca7b7a33264a3c799fa626f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Dogecoin Token (DOGEBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Dogecoin."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7aa6b33fb7f395ddbca7b7a33264a3c799fa626f",
+    "url": "https://ftx.com/tokens/DOGEBULL",
+    "explorers": [
+        "https://etherscan.io/token/0x7AA6b33fB7F395DDBca7b7A33264A3c799Fa626f",
+        "https://ethplorer.io/address/0x7aa6b33fb7f395ddbca7b7a33264a3c799fa626f"
+    ]
+}

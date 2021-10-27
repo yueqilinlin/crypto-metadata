@@ -1,0 +1,27 @@
+{
+    "id": "xtoken",
+    "symbol": "xtk",
+    "name": "xToken",
+    "platforms": {
+        "ethereum": "0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb",
+    "url": "https://xtoken.market/",
+    "explorers": [
+        "https://etherscan.io/token/0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb",
+        "https://ethplorer.io/address/0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb"
+    ],
+    "twitter": "xtokenmarket",
+    "github_org": "xtokenmarket"
+}

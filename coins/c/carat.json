@@ -1,0 +1,28 @@
+{
+    "id": "carat",
+    "symbol": "carat",
+    "name": "CARAT",
+    "platforms": {
+        "ethereum": "0x19ea630bcbc1a511a16e65b6ecd447c92e1c087c"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Carats.io is tokenizing the world\u2019s most precious commodity \u2014 diamonds. We're building a liquid method to exchange diamonds\u2019 digital value with a real-world usage and exposure to the diamond and jewelry industries."
+    },
+    "country_origin": "GB",
+    "genesis_date": "2018-09-06",
+    "contract_address": "0x19ea630bcbc1a511a16e65b6ecd447c92e1c087c",
+    "url": "https://carats.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x19ea630bcbc1a511a16e65b6ecd447c92e1c087c",
+        "https://ethplorer.io/address/0x19ea630bcbc1a511a16e65b6ecd447c92e1c087c"
+    ],
+    "twitter": "Caratsio",
+    "facebook": "carats.io",
+    "telegram": "caratsio",
+    "reddit": "DigitalDiamonds/",
+    "github_org": "caratsio"
+}

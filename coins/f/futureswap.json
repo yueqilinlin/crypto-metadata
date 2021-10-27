@@ -1,0 +1,28 @@
+{
+    "id": "futureswap",
+    "symbol": "fst",
+    "name": "Futureswap",
+    "platforms": {
+        "ethereum": "0x0e192d382a36de7011f795acc4391cd302003606"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Perpetuals",
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0e192d382a36de7011f795acc4391cd302003606",
+    "url": "https://www.futureswap.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x0e192d382a36de7011f795acc4391cd302003606",
+        "https://ethplorer.io/address/0x0e192d382a36de7011f795acc4391cd302003606"
+    ],
+    "twitter": "futureswapx"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "api3",
+    "symbol": "api3",
+    "name": "API3",
+    "platforms": {
+        "ethereum": "0x0b38210ea11411557c13457d4da7dc6ea731b88a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "Polygon Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Oracle"
+    ],
+    "description": {
+        "en": "API3 builds blockchain-native, decentralized APIs with DAO-governance and quantifiable security."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0b38210ea11411557c13457d4da7dc6ea731b88a",
+    "url": "https://api3.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
+        "https://ethplorer.io/address/0x0b38210ea11411557c13457d4da7dc6ea731b88a"
+    ],
+    "twitter": "API3DAO",
+    "telegram": "API3DAO",
+    "reddit": "API3/",
+    "github_org": "api3dao"
+}

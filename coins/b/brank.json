@@ -1,0 +1,23 @@
+{
+    "id": "brank",
+    "symbol": "brnk",
+    "name": "Brank",
+    "platforms": {
+        "ethereum": "0x9fe9c37f999096df31b5ae9a7734392b2afda375",
+        "binance-smart-chain": "0x39ae9a782b1f9c60d0f1839ef4c2d0174c5edae4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crypto trading education in a simulated setting allowing users to learn, play and explore digital currency without risk. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9fe9c37f999096df31b5ae9a7734392b2afda375",
+    "url": "https://brank.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9fe9c37f999096df31b5ae9a7734392b2afda375",
+        "https://ethplorer.io/address/0x9fe9c37f999096df31b5ae9a7734392b2afda375"
+    ],
+    "twitter": "IoBrank"
+}

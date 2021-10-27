@@ -1,0 +1,22 @@
+{
+    "id": "ethvault",
+    "symbol": "ethvault",
+    "name": "ETHVault",
+    "platforms": {
+        "binance-smart-chain": "0x63d55ecdebf08f93d0f2d5533035ddccaa997d7a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ETHVault is a 23.3% SurgeEth and 3.5% SafeVault rewarding token with a buy fee of 5% and a sell fee of 30%. 20% of the Sell fee gets distributed back to all the holders as SurgeEth every 12 from when they buy in and automatically and SafeVault as a manual claim.\r\n\r\nOur biggest whale at Launch was SurgeEths Burn wallet which also accumluates SurgeEth Rewards. So we are constantly burning and buying SurgeEth."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x63d55ecdebf08f93d0f2d5533035ddccaa997d7a",
+    "url": "https://vaultdefi.com/ethvault",
+    "explorers": [
+        "https://bscscan.com/token/0x63d55ecDEbF08f93D0F2D5533035ddcCaa997d7A"
+    ],
+    "twitter": "Safe_Vault",
+    "telegram": "SafeVault1"
+}

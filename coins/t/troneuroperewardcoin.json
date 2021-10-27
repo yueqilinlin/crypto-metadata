@@ -1,0 +1,23 @@
+{
+    "id": "troneuroperewardcoin",
+    "symbol": "terc",
+    "name": "TronEuropeRewardCoin",
+    "platforms": {
+        "tron": "1000226"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TronEuropeRewardCoin (TERC) is the token from SR TRON-Europe. It is only distributed for voting for TRON-EUROPE as a Super Representative on the TRON Network. TERC a community rewards coin that gives the opportunity to participate and invest in great projects promoted by the TRON-Europe organization.\r\n\r\nTERC has been integrated into several projects which at the moment are in development (March 2019). In these projects you will be able to use both TERC and TRX. The value of TERC will be 1:1, meaning that 1 TERC = 1 TRX."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "1000226",
+    "url": "https://tron-europe.org/terc",
+    "explorers": [
+        "https://tronscan.org/#/token/1000226"
+    ],
+    "twitter": "europe_tron",
+    "facebook": "SR.TRON.EUROPE",
+    "telegram": "Tron_Europe"
+}

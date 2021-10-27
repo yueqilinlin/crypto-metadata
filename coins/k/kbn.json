@@ -1,0 +1,23 @@
+{
+    "id": "kbn",
+    "symbol": "kbn",
+    "name": "Koban",
+    "platforms": {
+        "binance-smart-chain": "0x030708208dc29b1688b212081f31cdb59097a67d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A dApp platform for yield farming and gaming. Built-in native exchange with AMM and rewards generated in the form of 3D NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x030708208dc29b1688b212081f31cdb59097a67d",
+    "url": "https://pokemoon.io",
+    "explorers": [
+        "https://bscscan.com/token/0x030708208dc29b1688b212081f31cdb59097a67d"
+    ],
+    "twitter": "PokeMoonDeFi",
+    "telegram": "pokemoondefi",
+    "reddit": "PokeMoonApp/"
+}

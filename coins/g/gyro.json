@@ -1,0 +1,25 @@
+{
+    "id": "gyro",
+    "symbol": "gyro",
+    "name": "Gyro",
+    "platforms": {
+        "binance-smart-chain": "0x1b239abe619e74232c827fbe5e49a4c072bd869d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Gyro is a decentralized currency that isn't pegged to any fiat currency. By using algorithmic control of market dynamics, Gyro's stable-currency aims to curb inflation and give users the same purchasing power tomorrow as they do today"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1b239abe619e74232c827fbe5e49a4c072bd869d",
+    "url": "https://gyro.money/",
+    "explorers": [
+        "https://bscscan.com/token/0x1b239abe619e74232c827fbe5e49a4c072bd869d"
+    ],
+    "twitter": "GyroDAO",
+    "telegram": "GyroDAO"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "plotx",
+    "symbol": "plot",
+    "name": "PlotX",
+    "platforms": {
+        "ethereum": "0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
+        "polygon-pos": "0xe82808eaa78339b06a691fd92e1be79671cad8d3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Prediction Markets",
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "PlotX is a DeFi Prediction Market protocol built for crypto traders. It enables users to earn rewards on high-yield prediction markets.\r\n\r\nPlotX enables crypto-asset predictions, like \u201cWhat will be the price of BTC/USDT in the next 4 hours?\u201d\r\n\r\nDubbed as the Uniswap of Prediction Markets, PlotX uses an Automated Market Making (AMM) algorithm to settle markets and distribute rewards on the Ethereum Blockchain without counterparty risk."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
+    "url": "https://plotx.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
+        "https://ethplorer.io/address/0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
+        "https://polygonscan.com/token/0xe82808eaa78339b06a691fd92e1be79671cad8d3"
+    ],
+    "twitter": "TryPlotX",
+    "telegram": "plotx_official",
+    "reddit": "https://www.reddit.com",
+    "github_org": "plotx"
+}

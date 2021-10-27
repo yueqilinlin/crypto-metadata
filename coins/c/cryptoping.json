@@ -1,0 +1,25 @@
+{
+    "id": "cryptoping",
+    "symbol": "ping",
+    "name": "CryptoPing",
+    "platforms": {
+        "ethereum": "0x21cd6af01383651ed10554394c0497f9db5e5dbc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Software"
+    ],
+    "description": {
+        "en": "CryptoPing is a brand-new alternative cryptocurrency intelligence bot. It constantly monitors altcoin markets, generates trading signals and notifies subscribers in Telegram. The project has attracted more than 4000 active users within a week."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x21cd6af01383651ed10554394c0497f9db5e5dbc",
+    "url": "https://cryptoping.tech/",
+    "explorers": [
+        "https://etherscan.io/token/0x21cd6af01383651ed10554394c0497f9db5e5dbc",
+        "https://ethplorer.io/address/0x21cd6af01383651ed10554394c0497f9db5e5dbc"
+    ],
+    "twitter": "cryptoping",
+    "telegram": "cryptopingfree"
+}

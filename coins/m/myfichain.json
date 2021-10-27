@@ -1,0 +1,25 @@
+{
+    "id": "myfichain",
+    "symbol": "myfi",
+    "name": "MyFiChain",
+    "platforms": {
+        "ethereum": "0x0dfdd839cde95dabf56f0b5c5698e0159138930d"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "MyFiChain, or simply MyFi: a low volatility cryptocurrency that brings sweeping changes to current payment systems. We connected the financial and blockchain worlds to create a unique solution to solve critical crypto-challenges."
+    },
+    "country_origin": null,
+    "genesis_date": null,
+    "contract_address": "0x0dfdd839cde95dabf56f0b5c5698e0159138930d",
+    "url": "https://myfichain.com/",
+    "explorers": [
+        "https://ethplorer.io/address/0x0dfdd839cde95dabf56f0b5c5698e0159138930d",
+        "https://etherscan.io/token/0x0dfdd839cde95dabf56f0b5c5698e0159138930d"
+    ],
+    "twitter": "myfichain",
+    "github_org": "myfichain"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "sbank",
+    "symbol": "sts",
+    "name": "SBank",
+    "platforms": {
+        "ethereum": "0x4c14114c107d6374ec31981f5f6cc27a13e22f9a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SBank is a professional Capital \u2013 Management tool which is operated by a team of experts in Forex, Crypto, Stock, \u2026 trading globally.\r\n\r\nSBank is a useful tool for people that do not really trust their ability when they join this field.\r\n\r\nSBank creates a network of professional traders from different areas, who make profit source for users."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4c14114c107d6374ec31981f5f6cc27a13e22f9a",
+    "url": "https://www.sbankcapital.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x4c14114c107d6374ec31981f5f6cc27a13e22f9a",
+        "https://ethplorer.io/address/0x4c14114c107d6374ec31981f5f6cc27a13e22f9a"
+    ],
+    "facebook": "sbankcapital",
+    "telegram": "sbankcapital"
+}

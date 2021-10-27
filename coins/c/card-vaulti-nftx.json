@@ -1,0 +1,24 @@
+{
+    "id": "card-vaulti-nftx",
+    "symbol": "card",
+    "name": "CARD Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xd6f7db7db116170ecb1c3b35f12c1e693ba70586"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "CARD Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd6f7db7db116170ecb1c3b35f12c1e693ba70586",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xD6F7dB7dB116170ecb1c3b35F12c1E693bA70586",
+        "https://ethplorer.io/address/0xd6f7db7db116170ecb1c3b35f12c1e693ba70586"
+    ],
+    "twitter": "nftx_"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "cash-global-coin",
+    "symbol": "cgc",
+    "name": "Cash Global Coin",
+    "platforms": {
+        "ethereum": "0xcbb20d755abad34cb4a9b5ff6dd081c76769f62e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcbb20d755abad34cb4a9b5ff6dd081c76769f62e",
+    "url": "https://cgc.capital/",
+    "explorers": [
+        "https://etherscan.io/token/0xcbb20d755abad34cb4a9b5ff6dd081c76769f62e",
+        "https://ethplorer.io/address/0xcbb20d755abad34cb4a9b5ff6dd081c76769f62e"
+    ],
+    "telegram": "cgcchannel"
+}

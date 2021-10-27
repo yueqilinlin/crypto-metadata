@@ -1,0 +1,28 @@
+{
+    "id": "polker",
+    "symbol": "pkr",
+    "name": "Polker",
+    "platforms": {
+        "ethereum": "0x001a8ffcb0f03e99141652ebcdecdb0384e3bd6c",
+        "binance-smart-chain": "0xc49dde62b4a0810074721faca54aab52369f486a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Play To Earn",
+        "Gaming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x001a8ffcb0f03e99141652ebcdecdb0384e3bd6c",
+    "url": "https://pkr.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xc49DDe62B4A0810074721fAcA54Aab52369f486a",
+        "https://etherscan.io/token/0x001a8ffcb0f03e99141652ebcdecdb0384e3bd6c",
+        "https://ethplorer.io/address/0x001a8ffcb0f03e99141652ebcdecdb0384e3bd6c"
+    ],
+    "twitter": "polker_PKR",
+    "telegram": "polkercrew"
+}

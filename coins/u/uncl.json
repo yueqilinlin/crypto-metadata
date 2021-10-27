@@ -1,0 +1,24 @@
+{
+    "id": "uncl",
+    "symbol": "uncl",
+    "name": "UNCL",
+    "platforms": {
+        "ethereum": "0x2f4eb47a1b1f4488c71fc10e39a4aa56af33dd49",
+        "binance-smart-chain": "0x0e8d5504bf54d9e44260f8d153ecd5412130cabb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "UNCL is the liquidity farming and NFT token of the UniCrypt platform."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x2f4eb47a1b1f4488c71fc10e39a4aa56af33dd49",
+    "url": "https://unicrypt.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x2f4eb47a1b1f4488c71fc10e39a4aa56af33dd49",
+        "https://ethplorer.io/address/0x2f4eb47a1b1f4488c71fc10e39a4aa56af33dd49"
+    ],
+    "twitter": "UNCX_token",
+    "telegram": "uncx_token"
+}

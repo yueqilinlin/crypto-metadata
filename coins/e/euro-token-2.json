@@ -1,0 +1,22 @@
+{
+    "id": "euro-token-2",
+    "symbol": "euro",
+    "name": "Euro Token",
+    "platforms": {
+        "binance-smart-chain": "0x3c2c8fc79d37c97cf41d0a2e0a4c89953e49cc4e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EURO Token is The World's First Decentralized Betting Platform. Along with the goal of spreading and connecting football passion, EURO token has developed special applications such as Betting, NFT,.on the Binance Smart Chain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3c2c8fc79d37c97cf41d0a2e0a4c89953e49cc4e",
+    "url": "https://eurotoken.co/",
+    "explorers": [
+        "https://bscscan.com/token/0x3c2C8FC79d37C97cF41d0a2E0a4C89953E49cc4e"
+    ],
+    "twitter": "eurotoken_co",
+    "telegram": "eurotoken_co"
+}

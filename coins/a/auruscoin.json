@@ -1,0 +1,25 @@
+{
+    "id": "auruscoin",
+    "symbol": "awx",
+    "name": "AurusDeFi",
+    "platforms": {
+        "ethereum": "0xa51fc71422a30fa7ffa605b360c3b283501b5bf6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AurusDeFi (AWX) is a revenue-sharing token limited to a total supply of 30,000,000 units that derives 70% of the revenues generated from the usage of AurusGOLD (AWG), paid to its holders in AurusGOLD (AWG)."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xa51fc71422a30fa7ffa605b360c3b283501b5bf6",
+    "url": "https://www.aurus.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa51fc71422a30fa7ffa605b360c3b283501b5bf6",
+        "https://ethplorer.io/address/0xa51fc71422a30fa7ffa605b360c3b283501b5bf6"
+    ],
+    "twitter": "AurusOfficial",
+    "facebook": "aurustokens",
+    "telegram": "AurusOfficial",
+    "reddit": "Aurus/"
+}

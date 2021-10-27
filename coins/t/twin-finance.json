@@ -1,0 +1,23 @@
+{
+    "id": "twin-finance",
+    "symbol": "twin",
+    "name": "Twin Finance",
+    "platforms": {
+        "binance-smart-chain": "0x62907ad5c2d79e2a4f048a90ae2b49d062a773f3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Twin is a DeFi protocol powered by smart contracts on the Binance Smart Chain network that enables the creation of synthetic assets called Twin Assets (T-Assets)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x62907ad5c2d79e2a4f048a90ae2b49d062a773f3",
+    "url": "https://twin.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x62907ad5c2d79e2a4f048a90ae2b49d062a773f3"
+    ],
+    "twitter": "TwinFinance",
+    "telegram": "TwinFinance",
+    "github_org": "twin-finance"
+}

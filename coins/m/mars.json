@@ -1,0 +1,24 @@
+{
+    "id": "mars",
+    "symbol": "mars",
+    "name": "Mars",
+    "platforms": {
+        "ethereum": "0x66c0dded8433c9ea86c8cf91237b14e10b4d70b7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The protocol consists of pBTC35A tokens and MARS tokens. Each pBTC35A token represents 1TH/s hashrate with pre-determined power ratio, mining rigs would be in Poolin Superhashrate\u2019s custody during life cycle. While net profit on wBTC would be distributed per minutes."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x66c0dded8433c9ea86c8cf91237b14e10b4d70b7",
+    "url": "https://mars.poolin.fi",
+    "explorers": [
+        "https://etherscan.io/token/0x66C0DDEd8433c9EA86C8cf91237B14e10b4d70B7",
+        "https://ethplorer.io/address/0x66C0DDEd8433c9EA86C8cf91237B14e10b4d70B7"
+    ],
+    "twitter": "MarsProject2020",
+    "telegram": "marsproject1",
+    "github_org": "MarsFi"
+}

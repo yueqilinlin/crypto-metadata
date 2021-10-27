@@ -1,0 +1,26 @@
+{
+    "id": "die",
+    "symbol": "die",
+    "name": "Die",
+    "platforms": {
+        "ethereum": "0x15f5f5f29a819bf7b4b80bf55352e1e42707c94e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "Yield farming, NFT MINTING "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x15f5f5f29a819bf7b4b80bf55352e1e42707c94e",
+    "url": "https://glitchr.finance",
+    "explorers": [
+        "https://etherscan.io/address/0x15f5f5f29a819bf7b4b80bf55352e1e42707c94e",
+        "https://etherscan.io/token/0x15f5f5f29a819bf7b4b80bf55352e1e42707c94e",
+        "https://ethplorer.io/address/0x15f5f5f29a819bf7b4b80bf55352e1e42707c94e"
+    ],
+    "twitter": "Glitchr_Finance",
+    "telegram": "GlitchrFinance"
+}

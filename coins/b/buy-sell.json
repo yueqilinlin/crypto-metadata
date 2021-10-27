@@ -1,0 +1,24 @@
+{
+    "id": "buy-sell",
+    "symbol": "bse",
+    "name": "Buy-Sell",
+    "platforms": {
+        "ethereum": "0xa30189d8255322a2f8b2a77906b000aeb005570c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Buy-Sell is a DeFi and non-custodial ecosystem that brings services such as aggregated decentralized and synthetic asset swap, governance, staking, farming, lending, and borrowing through a BSE membership mechanism."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa30189d8255322a2f8b2a77906b000aeb005570c",
+    "url": "https://buy-sell.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa30189d8255322a2f8b2a77906b000aeb005570c",
+        "https://ethplorer.io/address/0xa30189d8255322a2f8b2a77906b000aeb005570c"
+    ],
+    "twitter": "BuySell_Network",
+    "telegram": "buysell_network",
+    "reddit": "BuySell_Network/"
+}

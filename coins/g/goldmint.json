@@ -1,0 +1,28 @@
+{
+    "id": "goldmint",
+    "symbol": "mntp",
+    "name": "Goldmint",
+    "platforms": {
+        "ethereum": "0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "GoldMint Company is a global network of Custody Bot terminals, both proprietary and franchised. They are designed to implement the exchange of physical gold to local fiat currency or GOLD cryptocurrency and vice versa. GoldMint will be earning commissions on both exchange operations in terminals and transactions in our own blockchain network. And, of course, our partners will be able to earn with us - terminals franchisees, owners of the utility MNTP cryptocurrency and thousands of our clients, who will buy, sell, pawn and transfer physical and digital gold using the infrastructure we created - just as current operations with fiat cash and digital money.\r\n \r\nThe uniqueness of GOLD token which combines the properties of physical gold and cryptocurrencies along with Custody Bot terminal of own design gives us advantages to develop global, profitable and transparent business.\r\n\r\nMNTP use cases:\r\n\u2022 It is necessary to record data in the MINT blockchain.\r\n\u2022 It gives discounts on the GOLD transactions in the MINT blockchain network.\r\n\u2022 It allows the owner to receive a part of network-wide GOLD commissions.\r\n\u2022 MNTP owner is allowed to obtain a franchise for the Custody Bot."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc",
+    "url": "https://www.goldmint.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc",
+        "https://ethplorer.io/address/0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc"
+    ],
+    "twitter": "goldmint_io",
+    "facebook": "goldmint.io",
+    "telegram": "goldmintio",
+    "reddit": "goldmintio/",
+    "github_org": "Goldmint"
+}

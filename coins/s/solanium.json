@@ -1,0 +1,26 @@
+{
+    "id": "solanium",
+    "symbol": "slim",
+    "name": "Solanium",
+    "platforms": {
+        "solana": "xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW",
+    "url": "https://www.solanium.io/",
+    "explorers": [
+        "https://explorer.solana.com/address/xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW",
+        "https://solscan.io/token/xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW"
+    ],
+    "twitter": "solanium_io",
+    "telegram": "solanium_io",
+    "github_org": "solanium-io"
+}

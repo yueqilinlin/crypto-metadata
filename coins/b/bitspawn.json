@@ -1,0 +1,26 @@
+{
+    "id": "bitspawn",
+    "symbol": "spwn",
+    "name": "Bitspawn",
+    "platforms": {
+        "ethereum": "0xe516d78d784c77d479977be58905b3f2b1111126"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "Bitspawn is a gaming blockchain protocol built for digital athletes and social gamers."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe516d78d784c77d479977be58905b3f2b1111126",
+    "url": "https://bitspawn.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xe516d78d784c77d479977be58905b3f2b1111126",
+        "https://ethplorer.io/address/0xe516d78d784c77d479977be58905b3f2b1111126"
+    ],
+    "twitter": "BitspawnGG",
+    "telegram": "bitspawnprotocol",
+    "reddit": "Bitspawn/"
+}

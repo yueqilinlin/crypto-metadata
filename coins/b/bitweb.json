@@ -1,0 +1,20 @@
+{
+    "id": "bitweb",
+    "symbol": "bte",
+    "name": "Bitweb",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bitweb is based on bitcoin and inherits all the characteristics of bitcoin system --- security, stability and efficiency.\r\n\r\nBitweb's supply is limited, with a maximum supply of 84 million coins, unaffected by inflation.\r\n\r\nIt supports legacy, p2sh segwit and bech32 addresses to protect privacy"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "url": "https://bitwebcore.org/",
+    "explorers": [
+        "https://explorer.bitwebcore.org/"
+    ],
+    "twitter": "BitwebBTE",
+    "reddit": "BitwebBTE",
+    "github_org": "bitweb-project"
+}

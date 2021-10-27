@@ -1,0 +1,23 @@
+{
+    "id": "holydoge",
+    "symbol": "hdoge",
+    "name": "HolyDoge",
+    "platforms": {
+        "binance-smart-chain": "0xeeca2da13907c50308dc6d6fe68e6fe5abffcf78"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeeca2da13907c50308dc6d6fe68e6fe5abffcf78",
+    "url": "https://www.holydoge.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xeeca2da13907c50308dc6d6fe68e6fe5abffcf78"
+    ],
+    "twitter": "Holydogeio",
+    "telegram": "holydogeio",
+    "reddit": "holydogeio/"
+}

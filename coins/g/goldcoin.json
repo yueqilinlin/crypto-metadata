@@ -1,0 +1,20 @@
+{
+    "id": "goldcoin",
+    "symbol": "glc",
+    "name": "Goldcoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Goldcoin is a digital cryptocurrency based on the Scrypt hashing algorithm. Goldcoin plans to leverage on its recognizable name, that is \"Gold\" which is easily recognizable by the global population as a store of value.\r\n\r\nGoldcoin claimed to have a multi-pool resistant client that would help secure the network from a 51% attack.\r\n\r\nYou can download a Goldcoin wallet on all major platforms namely, Windows, OSX, Linux, and Android.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": "2013-05-15",
+    "url": "https://www.goldcoinproject.org/",
+    "explorers": [
+        "https://chainz.cryptoid.info/glc/"
+    ],
+    "twitter": "goldcoin",
+    "reddit": "goldcoin",
+    "github_org": "goldcoin"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "commercium",
+    "symbol": "cmm",
+    "name": "Commercium",
+    "platforms": {},
+    "hashing_algorithm": "Equihash",
+    "categories": [],
+    "description": {
+        "en": "The development of blockchain technologies is fluid and Commercium is dedicated to delivering a simple, secure and accessible platform, designed for individuals to seamlessly integrate with distributed ledger technologies through the push of a button.\r\n\r\nCommercium (i) or CMM, empowers consumers and adopters with a balance of integrity and security. As an entirely new genesis of the Bitcoin codebase, CMM implements the Zerocoin protocol, making supply fully auditable while still affording users personal privacy and security through RSA encryption methods that protect transaction data."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.commercium.net/",
+    "explorers": [
+        "https://explorer.commercium.net/"
+    ],
+    "twitter": "CMMBlockchain",
+    "facebook": "CMMBlockchain",
+    "telegram": "CommerciumOfficial",
+    "github_org": "CommerciumBlockchain"
+}

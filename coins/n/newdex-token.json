@@ -1,0 +1,29 @@
+{
+    "id": "newdex-token",
+    "symbol": "dex",
+    "name": "Newdex Token",
+    "platforms": {
+        "binance-smart-chain": "0x996f56299a5b7c4f825a44886e07dafc4660b794",
+        "eos": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Newdex platform Ecological Token, an ecological Token that was issued based on the EOS main net, which can be applied to many scenarios on Newdex. The total volume of NDX distributions is limited to 10 billion and will never be issued again. The value of Newdex platform ecological Token includes: repurchase and destruction, staking concessions, Token airdrop, advertise bidding, independent listing, etc."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x996f56299a5b7c4f825a44886e07dafc4660b794",
+    "url": "https://newdex.io/",
+    "explorers": [
+        "https://www.bloks.io/tokens/DEX-eos-token.newdex",
+        "https://bscscan.com/token/0x996f56299a5b7c4f825a44886e07dafc4660b794#balances"
+    ],
+    "twitter": "NewdexOfficial",
+    "telegram": "newdexofficialEN"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "deipool",
+    "symbol": "dip",
+    "name": "Deipool",
+    "platforms": {
+        "ethereum": "0xd1517663883e2acc154178fb194e80e8bbc29730"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Deipool is a community governance smart contract platform based on the DAO mechanism, creating a decentralized wallet, lending, financing, transactions, predictions, asset management brokers and other DeFi technology facilities that integrate cross-chain financial technology services."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd1517663883e2acc154178fb194e80e8bbc29730",
+    "url": "https://www.deipool.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xd1517663883e2acc154178fb194e80e8bbc29730",
+        "https://ethplorer.io/address/0xd1517663883e2acc154178fb194e80e8bbc29730"
+    ],
+    "telegram": "deipool",
+    "github_org": "Deipool"
+}

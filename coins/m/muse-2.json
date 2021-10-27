@@ -1,0 +1,26 @@
+{
+    "id": "muse-2",
+    "symbol": "muse",
+    "name": "Muse",
+    "platforms": {
+        "ethereum": "0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81",
+    "url": "https://nft20.io",
+    "explorers": [
+        "https://etherscan.io/token/0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81",
+        "https://ethplorer.io/address/0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81"
+    ],
+    "twitter": "niftymuseum",
+    "telegram": "nft20",
+    "github_org": "verynifty"
+}

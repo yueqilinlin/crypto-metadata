@@ -1,0 +1,23 @@
+{
+    "id": "puglife",
+    "symbol": "pugl",
+    "name": "PugLife",
+    "platforms": {
+        "ethereum": "0xdb69c3f8977f78952303987e87153c1988cf65a9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PugLife is a community-driven DeFi token with 2% redistribution on each transaction, as well as making your coin more valuable with a 0.5% burn on transactions."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xdb69c3f8977f78952303987e87153c1988cf65a9",
+    "url": "https://puglife.io",
+    "explorers": [
+        "https://etherscan.io/token/0xdb69c3f8977f78952303987e87153c1988cf65a9",
+        "https://ethplorer.io/address/0xdb69c3f8977f78952303987e87153c1988cf65a9"
+    ],
+    "twitter": "puglife_token",
+    "github_org": "PuglifeToken"
+}

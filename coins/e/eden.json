@@ -1,0 +1,26 @@
+{
+    "id": "eden",
+    "symbol": "eden",
+    "name": "EDEN",
+    "platforms": {
+        "ethereum": "0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "MEV Protection"
+    ],
+    "description": {
+        "en": "Eden is a priority transaction network that protects traders from frontrunning, aligns incentives for block producers, and redistributes miner extractable value."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559",
+    "url": "https://www.edennetwork.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559",
+        "https://ethplorer.io/address/0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559"
+    ],
+    "twitter": "edennetwork",
+    "telegram": "archerdao",
+    "github_org": "eden-network"
+}

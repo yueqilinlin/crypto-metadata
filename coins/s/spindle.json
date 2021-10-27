@@ -1,0 +1,27 @@
+{
+    "id": "spindle",
+    "symbol": "spd",
+    "name": "SPINDLE",
+    "platforms": {
+        "ethereum": "0x1dea979ae76f26071870f824088da78979eb91c8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "SPINDLE is the official utility token to be used on the blockchain-based investment / asset management platform SPINDLE, a comprehensive space which aims to act as a gateway creating access to various investment options at a high level of transparency. SPINDLE believes that establishing a fair relationship between investors and asset managers is the best way to remove investors\u2019 vague sense of unease about investment and encourage involvement in proactive asset management. With this in mind, SPINDLE aims to serve as a bridge providing transparent access to cryptocurrency fund investment for individual users, and extended exposure to cryptocurrency fund managers."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x1dea979ae76f26071870f824088da78979eb91c8",
+    "url": "https://spindle.zone/en/",
+    "explorers": [
+        "https://etherscan.io/token/0x1dEa979ae76f26071870F824088dA78979eb91C8",
+        "https://ethplorer.io/address/0x1dEa979ae76f26071870F824088dA78979eb91C8"
+    ],
+    "twitter": "spindlezone",
+    "facebook": "spindlespd",
+    "telegram": "spindlezone",
+    "github_org": "spindlezone"
+}

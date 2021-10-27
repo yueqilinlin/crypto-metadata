@@ -1,0 +1,25 @@
+{
+    "id": "freecash",
+    "symbol": "fch",
+    "name": "Freecash",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Freely Evolved Crypto Currency"
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "url": "https://freecash.org/",
+    "explorers": [
+        "https://freecash.info/pindex",
+        "https://ifblock.io/fch",
+        "http://fch.world/"
+    ],
+    "twitter": "freecashfirst",
+    "facebook": "ridenode.tokens",
+    "telegram": "freecashfirst",
+    "github_org": "freecashorg"
+}

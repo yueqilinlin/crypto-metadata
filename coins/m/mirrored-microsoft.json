@@ -1,0 +1,29 @@
+{
+    "id": "mirrored-microsoft",
+    "symbol": "mmsft",
+    "name": "Mirrored Microsoft",
+    "platforms": {
+        "ethereum": "0x41bbedd7286daab5910a1f15d12cbda839852bd7",
+        "binance-smart-chain": "0x0ab06caa3ca5d6299925efaa752a2d2154ece929"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Mirrored Assets"
+    ],
+    "description": {
+        "en": "Mirrored assets are blockchain tokens that behave like \"mirror\" versions of real-world assets by reflecting the exchange prices on-chain. They give traders the price exposure to real assets while enabling fractional ownership, open access and censorship resistance as any other cryptocurrency. Unlike traditional tokens which serve to represent a real, underlying asset, mAssets are purely synthetic and only capture the price movement of the corresponding asset."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x41bbedd7286daab5910a1f15d12cbda839852bd7",
+    "url": "https://mirror.finance/",
+    "explorers": [
+        "https://finder.terra.money/columbus-4/token/terra1227ppwxxj3jxz8cfgq00jgnxqcny7ryenvkwj6",
+        "https://etherscan.io/token/0x41BbEDd7286dAab5910a1f15d12CBda839852BD7",
+        "https://ethplorer.io/address/0x41bbedd7286daab5910a1f15d12cbda839852bd7",
+        "https://bscscan.com/token/0x0ab06caa3Ca5d6299925EfaA752A2D2154ECE929"
+    ],
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol",
+    "github_org": "mirror-protocol"
+}

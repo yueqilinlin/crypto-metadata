@@ -1,0 +1,24 @@
+{
+    "id": "zantepay",
+    "symbol": "zantepay",
+    "name": "Zantepay",
+    "platforms": {
+        "ethereum": "0xeffea57067e02999fdcd0bb45c0f1071a29472d9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BE YOUR OWN BANK!\r\n\r\nZantepay decentralised wallet is simple and easy to use wallet to buy, hold, send and receive BTC, BCH, ETH and ZPAY."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeffea57067e02999fdcd0bb45c0f1071a29472d9",
+    "url": "https://zantepay.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xeffea57067e02999fdcd0bb45c0f1071a29472d9",
+        "https://ethplorer.io/address/0xeffea57067e02999fdcd0bb45c0f1071a29472d9"
+    ],
+    "twitter": "zantepay",
+    "facebook": "ZANTEPAY",
+    "telegram": "zantepay"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "unilord",
+    "symbol": "peer",
+    "name": "Unilord",
+    "platforms": {
+        "ethereum": "0x5dd115eb39a0fc5da9022e4bbb8e8679ca066a74"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A decentalized, reliable and sustainable De-Fi made for a digital economy.\r\n\r\nPEER is a critical component of the Unilord Protocol, which allows anyone to leverage their crypto assets by balancing dual-control assets Unipeer (Non-Governance Token) and Unilord (Governance Token) in the market and the products. These dual assets can be utilized as universal, low volatility collateral that can maintain its value and other decentralized finance protocols from sudden market shifts."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5dd115eb39a0fc5da9022e4bbb8e8679ca066a74",
+    "url": "https://unilord.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x5dd115eb39a0fc5da9022e4bbb8e8679ca066a74",
+        "https://ethplorer.io/address/0x5dd115eb39a0fc5da9022e4bbb8e8679ca066a74"
+    ],
+    "twitter": "OfficialUnilord",
+    "telegram": "Unilord_Chat",
+    "github_org": "Dev-Unilord"
+}

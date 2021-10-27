@@ -1,0 +1,23 @@
+{
+    "id": "donutcat",
+    "symbol": "dcat",
+    "name": "DonutCat",
+    "platforms": {
+        "binance-smart-chain": "0xb6cf9444994f0d5d7c8956d13e661f8649a4e98a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Community Owned BSC Token "
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0xb6cf9444994f0d5d7c8956d13e661f8649a4e98a",
+    "url": "https://www.donutcat.xyz",
+    "explorers": [
+        "https://bscscan.com/token/0xb6cf9444994f0d5d7c8956d13e661f8649a4e98a"
+    ],
+    "twitter": "cat_bsc",
+    "telegram": "DonutCatBSC",
+    "reddit": "DonutCatBSC/"
+}

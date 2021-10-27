@@ -1,0 +1,27 @@
+{
+    "id": "bright-token",
+    "symbol": "bright",
+    "name": "Bright Token",
+    "platforms": {
+        "ethereum": "0x5dd57da40e6866c9fcc34f4b6ddc89f1ba740dfe",
+        "xdai": "0x83ff60e2f93f8edd0637ef669c69d5fb4f64ca8e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem"
+    ],
+    "description": {
+        "en": "A DAO powered by 1Hive Gardens and Aragon technologies is the best structure to achieve this.\r\n$BRIGHT is the token that makes BrightDAO work.\r\nA fairdrop and ongoing fair distribution mechanisms (think BrightID-enabled faucets) are the best ways to allocate $BRIGHT. (A \u201cfairdrop\u201d simply means some or all rewards are given per person instead of per address.)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5dd57da40e6866c9fcc34f4b6ddc89f1ba740dfe",
+    "url": "https://www.brightid.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x5dd57da40e6866c9fcc34f4b6ddc89f1ba740dfe",
+        "https://ethplorer.io/address/0x5dd57da40e6866c9fcc34f4b6ddc89f1ba740dfe",
+        "https://blockscout.com/xdai/mainnet/token/0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E/token-transfers"
+    ],
+    "twitter": "BrightIDProject",
+    "telegram": "brightidofficial"
+}

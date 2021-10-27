@@ -1,0 +1,25 @@
+{
+    "id": "vspy",
+    "symbol": "vspy",
+    "name": "vSPY",
+    "platforms": {
+        "ethereum": "0x3e1e15afd5d50b090adcc88160dd84a48ea1b80e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "vSPY tokenizes the S&P 500 index for trading as an ERC-20 token."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x3e1e15afd5d50b090adcc88160dd84a48ea1b80e",
+    "url": "https://itovault.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3e1e15afd5d50b090adcc88160dd84a48ea1b80e",
+        "https://ethplorer.io/address/0x3e1e15afd5d50b090adcc88160dd84a48ea1b80e"
+    ],
+    "facebook": "itovault",
+    "telegram": "itovault",
+    "reddit": "ItoVault/",
+    "github_org": "itovault"
+}

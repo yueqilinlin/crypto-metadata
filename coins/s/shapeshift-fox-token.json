@@ -1,0 +1,25 @@
+{
+    "id": "shapeshift-fox-token",
+    "symbol": "fox",
+    "name": "ShapeShift FOX Token",
+    "platforms": {
+        "ethereum": "0xc770eefad204b5180df6a14ee197d99d808ee52d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Olympus Pro"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc770eefad204b5180df6a14ee197d99d808ee52d",
+    "url": "https://shapeshift.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xc770eefad204b5180df6a14ee197d99d808ee52d",
+        "https://ethplorer.io/address/0xc770eefad204b5180df6a14ee197d99d808ee52d"
+    ],
+    "twitter": "ShapeShift_io",
+    "telegram": "shapeshiftofficial"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "dogdeficoin",
+    "symbol": "dogdefi",
+    "name": "DogDeFiCoin",
+    "platforms": {
+        "ethereum": "0x80bb277f4355a43cdbb86a82f9876c946476d9eb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x80bb277f4355a43cdbb86a82f9876c946476d9eb",
+    "url": "https://dogdeficoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x80bb277f4355A43CDbB86a82F9876C946476d9Eb",
+        "https://ethplorer.io/address/0x80bb277f4355a43cdbb86a82f9876c946476d9eb"
+    ],
+    "twitter": "DogDeFiCoin",
+    "telegram": "DogDefiCoin"
+}

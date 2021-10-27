@@ -1,0 +1,24 @@
+{
+    "id": "crypto-accept",
+    "symbol": "acpt",
+    "name": "Crypto Accept",
+    "platforms": {
+        "ethereum": "0xcad2d4c4469ff09ab24d02a63bcedfcd44be0645"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crypto Accept is a platform to help ETH blockchain based projects accept cryptocurrency payments seamlessly. The $ACPT token is used in the app ecosystem."
+    },
+    "country_origin": "DK",
+    "genesis_date": null,
+    "contract_address": "0xcad2d4c4469ff09ab24d02a63bcedfcd44be0645",
+    "url": "https://www.crypto-accept.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xcAd2d4C4469fF09aB24d02A63BCeDfCD44bE0645",
+        "https://ethplorer.io/address/0xcAd2d4C4469fF09aB24d02A63BCeDfCD44bE0645"
+    ],
+    "twitter": "CryptoAccept",
+    "telegram": "cryptoacceptCHAT",
+    "github_org": "cryptoaccept"
+}

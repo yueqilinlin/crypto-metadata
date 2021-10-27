@@ -1,0 +1,22 @@
+{
+    "id": "alchemix-eth",
+    "symbol": "aleth",
+    "name": "Alchemix ETH",
+    "platforms": {
+        "ethereum": "0x0100546f2cd4c9d97f798ffc9755e47865ff7ee6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0100546f2cd4c9d97f798ffc9755e47865ff7ee6",
+    "url": "app.alchemix.fi",
+    "explorers": [
+        "https://etherscan.io/token/0x0100546f2cd4c9d97f798ffc9755e47865ff7ee6",
+        "https://ethplorer.io/address/0x0100546f2cd4c9d97f798ffc9755e47865ff7ee6"
+    ],
+    "twitter": "AlchemixFi"
+}

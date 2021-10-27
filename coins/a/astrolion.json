@@ -1,0 +1,24 @@
+{
+    "id": "astrolion",
+    "symbol": "astrolion",
+    "name": "AstroLion",
+    "platforms": {
+        "ethereum": "0xf9e3a323957b172fdb2dd89c30bbda980cfac395"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "IT",
+    "genesis_date": null,
+    "contract_address": "0xf9e3a323957b172fdb2dd89c30bbda980cfac395",
+    "url": "https://astrolion.net/",
+    "explorers": [
+        "https://etherscan.io/token/0xf9e3a323957b172fdb2dd89c30bbda980cfac395",
+        "https://ethplorer.io/address/0xf9e3a323957b172fdb2dd89c30bbda980cfac395"
+    ],
+    "twitter": "AstroLionToken",
+    "telegram": "AstrolionToken",
+    "github_org": "astro-lion"
+}

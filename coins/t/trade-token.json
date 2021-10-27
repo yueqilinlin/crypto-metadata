@@ -1,0 +1,29 @@
+{
+    "id": "trade-token",
+    "symbol": "tiox",
+    "name": "Trade Token X",
+    "platforms": {
+        "ethereum": "0xd947b0ceab2a8885866b9a04a06ae99de852a3d4"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Trade.io uses a peer-to-peer platforms to support the trading of a wide range of assets, and will be launching our own cryptocurrency, the Trade Token, which will be available to purchase via PRE-ICO from 7 November, 2017.\r\n\r\nThe Trade Token is a utility token that enables frictionless transactions of a wide range of assets on the trade.io exchange whilst also acting as a medium of exchange and a store of value that could become more valuable in line with the growth of users and increasing use of the trading platform.\r\n"
+    },
+    "country_origin": "CH",
+    "genesis_date": "2018-10-24",
+    "contract_address": "0xd947b0ceab2a8885866b9a04a06ae99de852a3d4",
+    "url": "https://trade.io",
+    "explorers": [
+        "https://etherscan.io/token/0xd947b0ceab2a8885866b9a04a06ae99de852a3d4",
+        "https://ethplorer.io/address/0xd947b0ceab2a8885866b9a04a06ae99de852a3d4"
+    ],
+    "twitter": "TradeToken",
+    "facebook": "trade.io",
+    "telegram": "TradeToken",
+    "reddit": "TradeIOICO/",
+    "github_org": "trade-io"
+}

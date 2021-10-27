@@ -1,0 +1,27 @@
+{
+    "id": "robocalls",
+    "symbol": "rc20",
+    "name": "RoboCalls",
+    "platforms": {
+        "ethereum": "0x61b2d3ea9f1c6b387c985c73d40e8fbfb284e5c7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "Communication"
+    ],
+    "description": {
+        "en": "By coupling the capabilities of artificial intelligence (AI) and blockchain technology, Robocalls 2.0 will use its unique AI algorithm to scan through its user established and blockchain secured spam call ID database, to predict unwanted calls based on inbound dialing patterns. The structure relies on the Ethereum blockchain to validate, notify, and block this activity. Leveraging this powerful technology, our algorithm will create the biggest predicted black list database of unwanted and scam numbers in the blockchain."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x61b2d3ea9f1c6b387c985c73d40e8fbfb284e5c7",
+    "url": "https://robocalls.io",
+    "explorers": [
+        "https://etherscan.io/token/0x61b2d3ea9f1c6b387c985c73d40e8fbfb284e5c7",
+        "https://ethplorer.io/address/0x61b2d3ea9f1c6b387c985c73d40e8fbfb284e5c7"
+    ],
+    "twitter": "robocallsio",
+    "facebook": "NoSpam2.0",
+    "telegram": "httprc20token"
+}

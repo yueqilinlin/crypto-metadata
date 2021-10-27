@@ -1,0 +1,24 @@
+{
+    "id": "blackswan",
+    "symbol": "swan",
+    "name": "Blackswan",
+    "platforms": {
+        "polygon-pos": "0xab7589de4c581db0fb265e25a8e7809d84ccd7e8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cryptocurrency markets are heavily correlated and full of downside tail risk. While there are many tokens competing to achieve the highest positive growth during these periods, virtually none of the projects plan for the opposite, extreme contraction during market cycles.\r\n\r\nBlackswan maintains stability not only during market growth cycles but unleashes growth during contractionary market periods with the aim to move as an anti-fragile asset or uncertainty index."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xab7589de4c581db0fb265e25a8e7809d84ccd7e8",
+    "url": "https://blackswan.network/",
+    "explorers": [
+        "https://polygonscan.com/token/0xab7589dE4C581Db0fb265e25a8e7809D84cCd7E8"
+    ],
+    "twitter": "blackswantoken",
+    "telegram": "blackswantoken",
+    "reddit": "blackswantoken/",
+    "github_org": "blackswanfinance"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "dhd-coin",
+    "symbol": "dhd",
+    "name": "DHD Coin",
+    "platforms": {
+        "ethereum": "0x20b4b41ddaecd180798bd4322ba971fa1a54e512"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "One Coin, Limitless Power\r\nThey say, \u2018With great power, comes great responsibility.\u2019 We say it should even be reliable, revolutionary and ready for the future. Meet DHD Coin, a coin that empowers you various forms of payments and moreover, it empowers you as a person with our advanced blockchain technology."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x20b4b41ddaecd180798bd4322ba971fa1a54e512",
+    "url": "https://dhdcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x20B4B41DDaECD180798bd4322BA971FA1A54e512",
+        "https://ethplorer.io/address/0x20B4B41DDaECD180798bd4322BA971FA1A54e512"
+    ],
+    "twitter": "DHD_X_EXCHANGE",
+    "facebook": "DHD.X.EXCHANGE",
+    "telegram": "DHD_X_EXCHANGE"
+}

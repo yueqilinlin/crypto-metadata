@@ -1,0 +1,22 @@
+{
+    "id": "treeb",
+    "symbol": "treeb",
+    "name": "Treeb",
+    "platforms": {
+        "fantom": "0xc60d7067dfbc6f2caf30523a064f416a5af52963"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Retreeb is a new decentralized way to pay that allows its users to act in accordance with today\u2019s universal values of ethics, sharing and solidarity.\r\nRetreeb is built on the Fantom blockchain, using a fork \u201cFantom Opera\u201d, with a DAG consensus.\r\nOur vision is to build a better future by a better distribution of value using payment.\r\n\r\nHow ?\r\nBy removing the middleman, which are the banks, retreeb is able to free itself and merchants from interbank fees.\r\nThrough its economic model as well as its technical infrastructure, we are opting for unprecedented transparency in a particularly opaque sector.\r\nFinally, we approach payment by placing corporate social and environmental responsibility (CSR) at the heart of our business model.\r\nFor each payment made on the network, retreeb charges the merchant fees (from 0.9% to 1.5%) that are lower than those charged on the market and with no fixed fees, this is a very\r\nattractive source of savings for the merchant. \r\nOne third of this income is donated by retreeb to the social project selected by the user issuing the transaction. This economic model is not based on any direct financial contribution from the user. It is only retreeb that chooses to donate a third of its revenues.\r\n\r\nThe (S)treeb - Are multi-local stablecoins which are not subject to any form of speculation. They are backed by the user\u2019s currency so 1 FIAT = 1 (S)treeb.\r\nThe (U)treeb - Is a governance token utility for the Retreeb community. It has a fixed offer and variable value. It\u2019s main role concerns governance in the selection of CSR projects for funding. The system uses a proof of-stake mechanism to select validators to participate in these governance decisions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc60d7067dfbc6f2caf30523a064f416a5af52963",
+    "url": "https://retreeb.io/",
+    "explorers": [
+        "https://ftmscan.com/token/0xc60d7067dfbc6f2caf30523a064f416a5af52963"
+    ],
+    "twitter": "retreeb_io",
+    "telegram": "retreebnetwork"
+}

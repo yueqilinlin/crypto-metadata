@@ -1,0 +1,28 @@
+{
+    "id": "audius",
+    "symbol": "audio",
+    "name": "Audius",
+    "platforms": {
+        "ethereum": "0x18aaa7115705e8be94bffebde57af9bfc265b998"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem",
+        "Music",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "AUDIO is the native platform token of the Audius streaming protocol. AUDIO is staked for security, feature access and governance and earned by artists, fans and node operators who drive Audius."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+    "url": "https://audius.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x18aaa7115705e8be94bffebde57af9bfc265b998",
+        "https://ethplorer.io/address/0x18aaa7115705e8be94bffebde57af9bfc265b998"
+    ],
+    "twitter": "AudiusProject",
+    "reddit": "audius/",
+    "github_org": "AudiusProject"
+}

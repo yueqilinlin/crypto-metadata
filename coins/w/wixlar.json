@@ -1,0 +1,27 @@
+{
+    "id": "wixlar",
+    "symbol": "wix",
+    "name": "Wixlar",
+    "platforms": {
+        "ethereum": "0x7ba19b7f7d106a9a1e0985397b94f38eee0b555e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Wixlar is the only Digital Currency offering 12 Services to the public, 5 International Physical Offices https://wixlar.com/offices , Sponsoring Major Blockchain, Charity, Sports and Fashion Events, as well as its own TV Broadcasting Channel 24/7."
+    },
+    "country_origin": "CY",
+    "genesis_date": null,
+    "contract_address": "0x7ba19b7f7d106a9a1e0985397b94f38eee0b555e",
+    "url": "https://wixlar.com",
+    "explorers": [
+        "https://etherscan.io/token/0x7ba19b7f7d106a9a1e0985397b94f38eee0b555e",
+        "https://ethplorer.io/address/0x7ba19b7f7d106a9a1e0985397b94f38eee0b555e"
+    ],
+    "twitter": "WixlarCoin",
+    "facebook": "WixlarCoin",
+    "telegram": "wixlar",
+    "github_org": "wixlar"
+}

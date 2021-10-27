@@ -1,0 +1,27 @@
+{
+    "id": "shuffle-monster",
+    "symbol": "shuf",
+    "name": "Shuffle Monster",
+    "platforms": {
+        "ethereum": "0x3a9fff453d50d4ac52a6890647b823379ba36b9e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "The Shuffle Monster token is an experimental ERC20 token that shuffles 1% of each token transfer, and burns another 1%."
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0x3a9fff453d50d4ac52a6890647b823379ba36b9e",
+    "url": "https://shuffle.monster/",
+    "explorers": [
+        "https://etherscan.io/token/0x3a9fff453d50d4ac52a6890647b823379ba36b9e",
+        "https://ethplorer.io/address/0x3a9fff453d50d4ac52a6890647b823379ba36b9e"
+    ],
+    "twitter": "ShuffleToken",
+    "telegram": "shuftoken",
+    "reddit": "ShuffleMonster/",
+    "github_org": "ShuffleMonster"
+}

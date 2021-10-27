@@ -1,0 +1,23 @@
+{
+    "id": "shibamax",
+    "symbol": "smax",
+    "name": "ShibaMax",
+    "platforms": {
+        "ethereum": "0x8fa025e8342ead1037d2954b95333ff2bf57162b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shiba Max ($SMAX) is the community-focused, decentralized cryptocurrency with rewards for holders. We are inspired by ShibaInu token and EthereumMax. We have put a lot of effort in perfecting our code. We have locked liquidity and renounced ownership."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x8fa025e8342ead1037d2954b95333ff2bf57162b",
+    "url": "https://www.shibamax.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x8fa025E8342EaD1037d2954b95333FF2Bf57162b",
+        "https://ethplorer.io/address/0x8fa025E8342EaD1037d2954b95333FF2Bf57162b"
+    ],
+    "twitter": "ShibaMaxToken",
+    "telegram": "ShibaMaxtoken"
+}

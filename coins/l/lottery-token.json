@@ -1,0 +1,23 @@
+{
+    "id": "lottery-token",
+    "symbol": "lot",
+    "name": "Lottery Token",
+    "platforms": {
+        "binance-smart-chain": "0x4e7ae924fd9a5d60b56be486b2900efe0c6a9ca7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4e7ae924fd9a5d60b56be486b2900efe0c6a9ca7",
+    "url": "https://lotterytoken.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x4e7ae924fd9a5d60b56be486b2900efe0c6a9ca7"
+    ],
+    "twitter": "lottery_token",
+    "telegram": "lotterytokenchat",
+    "reddit": "lottery_token/"
+}

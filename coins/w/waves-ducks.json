@@ -1,0 +1,31 @@
+{
+    "id": "waves-ducks",
+    "symbol": "egg",
+    "name": "Waves Ducks",
+    "platforms": {
+        "waves": "C1iWsKGqLwjHUndiQ7iXpdmPum9PeCDFfyXBdJJosDRS",
+        "binance-smart-chain": "0x889efce29fa0bb9b26be9fda17a8003f4e8da4de",
+        "ethereum": "0xc2708a3a4ba7f64bddc1a49f92f941bc77cad23a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Collectibles",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "Waves Ducks is a game focused on collectible digital duck images in the NFT format.\r\n\r\nYou can collect ducks and share them with other players, as well as breed ducks to get a unique, highly valuable item."
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "contract_address": "C1iWsKGqLwjHUndiQ7iXpdmPum9PeCDFfyXBdJJosDRS",
+    "url": "https://wavesducks.com/",
+    "explorers": [
+        "https://wavesexplorer.com/assets/C1iWsKGqLwjHUndiQ7iXpdmPum9PeCDFfyXBdJJosDRS",
+        "https://etherscan.io/token/0xc2708a3a4ba7f64bddc1a49f92f941bc77cad23a",
+        "https://bscscan.com/token/0x889efce29fa0bb9b26be9fda17a8003f4e8da4de"
+    ],
+    "twitter": "wavesducks",
+    "telegram": "duckshunters",
+    "github_org": "vlzhr"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "thunder-swap",
+    "symbol": "tndr",
+    "name": "Thunder Swap",
+    "platforms": {
+        "binance-smart-chain": "0x7cc46141ab1057b1928de5ad5ee78bb37efc4868"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A next generation yield farm with Auto Emission Reduction, Buyback Burning and On-Chain Referral Program on BSC."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7cc46141ab1057b1928de5ad5ee78bb37efc4868",
+    "url": "https://thunderswap.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x7cc46141ab1057b1928de5ad5ee78bb37efc4868"
+    ],
+    "twitter": "thunder_swap",
+    "telegram": "thunder_swap",
+    "github_org": "thunder-swap-finance"
+}

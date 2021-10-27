@@ -1,0 +1,25 @@
+{
+    "id": "tierion",
+    "symbol": "tnt",
+    "name": "Tierion",
+    "platforms": {
+        "ethereum": "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tierion is launching a universal platform for data verification that operates at massive scale. Businesses safeguard and notarize important documents such as property titles and contracts to ensure anyone can prove their veracity. Surprisingly, there isn\u2019t a universal equivalent for safeguarding digital data. Companies in healthcare, insurance, and financial services are trusted with safeguarding huge volumes of critical data. Proving the authenticity of information within these industries is currently cumbersome, expensive, and in many cases impossible.\r\n\r\n"
+    },
+    "country_origin": "US",
+    "genesis_date": "2017-08-25",
+    "contract_address": "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8",
+    "url": "https://tierion.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8",
+        "https://ethplorer.io/address/0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8"
+    ],
+    "twitter": "Tierion",
+    "telegram": "tierion",
+    "reddit": "tierion",
+    "github_org": "tierion"
+}

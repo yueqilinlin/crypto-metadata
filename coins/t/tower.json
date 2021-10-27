@@ -1,0 +1,29 @@
+{
+    "id": "tower",
+    "symbol": "tower",
+    "name": "Tower",
+    "platforms": {
+        "ethereum": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b",
+        "binance-smart-chain": "0xe7c9c6bc87b86f9e5b57072f907ee6460b593924"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Collectibles",
+        "Non-Fungible Tokens (NFT)",
+        "Governance"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b",
+    "url": "https://www.crazydefenseheroes.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1c9922314ed1415c95b9fd453c3818fd41867d0b",
+        "https://ethplorer.io/address/0x1c9922314ed1415c95b9fd453c3818fd41867d0b",
+        "https://bscscan.com/token/0xe7c9c6bc87b86f9e5b57072f907ee6460b593924"
+    ],
+    "twitter": "CrazyDefenseEN",
+    "telegram": "TowerToken"
+}

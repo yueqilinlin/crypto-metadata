@@ -1,0 +1,22 @@
+{
+    "id": "moonwolf-io",
+    "symbol": "wolf",
+    "name": "moonwolf.io",
+    "platforms": {
+        "polygon-pos": "0x8f18dc399594b451eda8c5da02d0563c0b2d0f16"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fiat money is hyper-inflationary, issued by a centralized, non-transparent entity. WOLF is a deflationary, decentralized, transparent token. We want to reduce the money our users waste by minimizing gas fees, while maintaining decentralization."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8f18dc399594b451eda8c5da02d0563c0b2d0f16",
+    "url": "https://moonwolf.io/",
+    "explorers": [
+        "https://polygonscan.com/token/0x8f18dc399594b451eda8c5da02d0563c0b2d0f16"
+    ],
+    "twitter": "moonwolf_io",
+    "reddit": "Moonwolf_io/"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "refork",
+    "symbol": "efk",
+    "name": "ReFork",
+    "platforms": {
+        "ethereum": "0x6653c0d21507573cc39ead1e609d74d5e0ca16e2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EFK token functions represent the relationship of individuals and companies to the ReFork project and are applied on the ReFork platform. Each individual / company has the opportunity to interact with ReFork at different levels, according to their participation in the ReFork project. These levels will be graded according to the current number of EFK tokens held or, in limited cases, also on the basis of the seized goods paid for in exchange."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x6653c0d21507573cc39ead1e609d74d5e0ca16e2",
+    "url": "https://refork.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x6653c0d21507573cc39ead1e609d74d5e0ca16e2",
+        "https://ethplorer.io/address/0x6653c0d21507573cc39ead1e609d74d5e0ca16e2"
+    ],
+    "twitter": "refork",
+    "facebook": "refork.official",
+    "telegram": "reforkcommunity",
+    "reddit": "ReFork/",
+    "github_org": "refork-org"
+}

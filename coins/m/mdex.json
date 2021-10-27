@@ -1,0 +1,27 @@
+{
+    "id": "mdex",
+    "symbol": "mdx",
+    "name": "Mdex",
+    "platforms": {
+        "huobi-token": "0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c",
+        "binance-smart-chain": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "HECO Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Mdex is an automatic market-making decentralized exchange based on the concept of fund pools. It is similar in function to some DEXs on the market, but on this basis, it proposes and implements a dual-chain DEX model based on the Huobi Eco Chain and Ethereum . It combines the advantages of the low transaction fees of the Huobi Eco Chain and the prosperity of the Ethereum ecosystem, and supports the dual mining mechanism of liquidity and transactions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c",
+    "url": "https://mdex.co/#/",
+    "explorers": [
+        "https://hecoinfo.com/token/0x25D2e80cB6B86881Fd7e07dd263Fb79f4AbE033c",
+        "https://bscscan.com/token/0x9c65ab58d8d978db963e63f2bfb7121627e3a739"
+    ],
+    "twitter": "Mdexswap",
+    "telegram": "MixDex",
+    "github_org": "mdexSwap"
+}

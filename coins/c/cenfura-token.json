@@ -1,0 +1,26 @@
+{
+    "id": "cenfura-token",
+    "symbol": "xcf",
+    "name": "Cenfura Token",
+    "platforms": {
+        "ethereum": "0x010d14d36c3ea6570d240ae3ac9d660398f7c48e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Energy"
+    ],
+    "description": {
+        "en": "Cenfura is an independent power producer, established to accelerate the adoption of distributed renewable energy across the globe.  Cenfura builds and owns next generation green energy assets and operates them using the Cenfura Platform,  a new architecture that tightly integrates state-of-the-art energy production, control, and trading technologies. Cenfura\u2019s global renewable energy assets use XCF tokens to facilitate the buying, selling and storage of energy.  Every transaction occurring on the Cenfura Platform is managed with a combination of AI and Smart Contracts and is settled using XCF tokens."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x010d14d36c3ea6570d240ae3ac9d660398f7c48e",
+    "url": "https://xcf-token.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x010d14d36c3ea6570d240ae3ac9d660398f7c48e",
+        "https://ethplorer.io/address/0x010d14d36c3ea6570d240ae3ac9d660398f7c48e"
+    ],
+    "twitter": "XCFtoken",
+    "facebook": "cenfura",
+    "telegram": "CenfuraEnergy"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "bytedex",
+    "symbol": "bext",
+    "name": "ByteDex",
+    "platforms": {
+        "tron": "TUtTUSMH1fMJJyANcrLSNLEbK7sieJeeeK",
+        "binance-smart-chain": "0x72a634a80d7dd48f83785bcd04fc603418f99ef7",
+        "ethereum": "0xe22c4e46c6f54e72315ca6eda934e7b766b0173d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ByteDex is an ecosytem including Byte Cryptocurrency wallet, Non-custodial Byte Exchange and Byte Swap platform for secure cryptocurrency trading, a blockchain solution to decentralize the Exchange activities named Byte Chain, BEXT token as an ecosystem utility token and ByteDex communities.\r\nBEXT Token is mainly used for;\r\n-\tTo reward Exchange and ecosystem users\r\n-\tTo circulate ecosystem tokenomics\r\n-\tTo collect fees and payments from users\r\n-\tParticipation of ByteDex community on ecosytem management\r\n\r\nByte Exchange: Byte Exchange is designed as a non-custodial Exchange to secure cryptocurrency trading with rich features. \r\nByte Wallet: Byte Wallet is a non-custodial cryptocurrency wallet that users can be able to connect Byte Exchange for trading\r\nBEXT Token: Bext token is the main unit of the ByteDex in TRC-20, ERC-20, BEP-20 format\r\nByteChain: Proposed blockchain with a dual layer system to decentralize Exchange transactions and open lock of DeFi features on ByteDex Ecosystem\r\nByteDex Communities: ByteDex is an community driven ecosystem aims to create ByteDex communities all around the globe. Community elections will be held according to minimum participant number in the countries. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TUtTUSMH1fMJJyANcrLSNLEbK7sieJeeeK",
+    "url": "https://www.bytedex.io",
+    "explorers": [
+        "https://tronscan.org/#/token20/TUtTUSMH1fMJJyANcrLSNLEbK7sieJeeeK",
+        "https://bscscan.com/token/0x72a634a80d7dd48f83785bcd04fc603418f99ef7",
+        "https://etherscan.io/token/0xe22c4e46c6f54e72315ca6eda934e7b766b0173d"
+    ],
+    "twitter": "ByteExchange",
+    "telegram": "ByteDexGlobal",
+    "github_org": "Bytedex"
+}

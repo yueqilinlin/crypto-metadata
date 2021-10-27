@@ -1,0 +1,27 @@
+{
+    "id": "deligence",
+    "symbol": "ira",
+    "name": "Diligence",
+    "platforms": {
+        "ethereum": "0xade7b5f4a421d81ddad8ce86f77a0efe8921e9cc"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Diligence is an Erc20 used to recognize the effort made by IRA platform users"
+    },
+    "country_origin": "TZ",
+    "genesis_date": null,
+    "contract_address": "0xade7b5f4a421d81ddad8ce86f77a0efe8921e9cc",
+    "url": "https://ira-africa.com",
+    "explorers": [
+        "https://etherscan.io/token/0xade7b5f4a421d81ddad8ce86f77a0efe8921e9cc",
+        "https://ethplorer.io/address/0xade7b5f4a421d81ddad8ce86f77a0efe8921e9cc"
+    ],
+    "twitter": "iradiligence",
+    "facebook": "Incentive-research-Africa",
+    "telegram": "iradiligence",
+    "github_org": "IRA-AFRICA"
+}

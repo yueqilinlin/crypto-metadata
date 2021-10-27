@@ -1,0 +1,19 @@
+{
+    "id": "oraclechain",
+    "symbol": "oct",
+    "name": "OracleChain",
+    "platforms": {
+        "bitshares": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2017-06-14",
+    "url": "http://oraclechain.io/",
+    "explorers": [
+        "http://cryptofresh.com/a/OCT"
+    ]
+}

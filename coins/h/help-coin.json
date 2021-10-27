@@ -1,0 +1,23 @@
+{
+    "id": "help-coin",
+    "symbol": "hlp",
+    "name": "HLP Token",
+    "platforms": {
+        "ethereum": "0x308564dc5217c39386f5eae96545159e1d396661"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The HLP Token Crowdfunding ecosystem works for financial inclusion and social equality, generating opportunities through social programs, encouraging sustainable, long-term practices to promote community growth and development."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x308564dc5217c39386f5eae96545159e1d396661",
+    "url": "https://hlptoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x308564dc5217c39386f5eae96545159e1d396661",
+        "https://ethplorer.io/address/0x308564dc5217c39386f5eae96545159e1d396661"
+    ],
+    "twitter": "hlptoken",
+    "telegram": "Hlptoken"
+}

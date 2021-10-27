@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-leo-token",
+    "symbol": "leobear",
+    "name": "3X Short LEO Token",
+    "platforms": {
+        "ethereum": "0x3c955e35b6da1ff623d38d750c85b3aed89a10c1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short LEO Token (LEOBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of LEO."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3c955e35b6da1ff623d38d750c85b3aed89a10c1",
+    "url": "https://ftx.com/tokens/LEOBEAR",
+    "explorers": [
+        "https://etherscan.io/token/0x3c955e35b6da1ff623d38d750c85b3aed89a10c1",
+        "https://ethplorer.io/address/0x3c955e35b6da1ff623d38d750c85b3aed89a10c1"
+    ]
+}

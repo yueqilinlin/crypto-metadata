@@ -1,0 +1,22 @@
+{
+    "id": "pokelon-finance",
+    "symbol": "pokelon",
+    "name": "Pokelon.Finance",
+    "platforms": {
+        "binance-smart-chain": "0x781db23d430e7dc3908ff4b2830246e3bc8842d8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$POKELON is an NFT-based token that distributes custom, holographic NFTs to holders, multiple times a week. A combination of Elon Musk and Pokemon, we introduced the BSC market to a world of bizarre, tradeable monsters. And did $1 million in volume in our first hour.\r\n\r\n150,000 tokens burned at launch."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x781db23d430e7dc3908ff4b2830246e3bc8842d8",
+    "url": "http://pokelon.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x781dB23d430E7Dc3908FF4b2830246e3Bc8842d8"
+    ],
+    "twitter": "Pokelontoken",
+    "telegram": "pokelonfinance"
+}

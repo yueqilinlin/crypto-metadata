@@ -1,0 +1,22 @@
+{
+    "id": "gif-dao",
+    "symbol": "gif",
+    "name": "GIF DAO",
+    "platforms": {
+        "tezos": "KT1XTxpQvo7oRCqp85LikEZgAZ22uDxhbWJv"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "crossing NFTs and Dapps to make fun and interactive worlds where users can collect, earn, and build new virtual worlds!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT1XTxpQvo7oRCqp85LikEZgAZ22uDxhbWJv",
+    "url": "https://gif.games/",
+    "explorers": [
+        "https://tzkt.io/KT1XTxpQvo7oRCqp85LikEZgAZ22uDxhbWJv/operations/"
+    ],
+    "twitter": "gifdotgames",
+    "telegram": "gifgames"
+}

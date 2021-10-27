@@ -1,0 +1,28 @@
+{
+    "id": "zippie",
+    "symbol": "zipt",
+    "name": "Zippie",
+    "platforms": {
+        "ethereum": "0xedd7c94fd7b4971b916d15067bc454b9e1bad980"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Communication"
+    ],
+    "description": {
+        "en": "Zippie makes storing and sending digital currencies, such as ether, easier than ever. Using your Zippie Card, it takes just a single tap to your phone to confirm large payments. NFC technology ensures that only you can move your funds. To guarantee maximum security, convenience and control, your private key is split automatically between your phone and safe cloud storage.\r\n\r\nZippie provides you the only identity and wallet you need to use decentralized apps. There\u2019s no installations, no plugins and no downloads. Just a few taps and you\u2019re good to go. Importantly, you fully control your identity and funds.\r\n\r\nWith Zippie, you\u2019ll also soon be able to start earning digital currencies simply by using your phone. Whether it\u2019s earning bonuses for online purchases or voluntarily sharing your data, you\u2019ll be able to use your bonuses for purchase or convert them to cash."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xedd7c94fd7b4971b916d15067bc454b9e1bad980",
+    "url": "https://zippie.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xedd7c94fd7b4971b916d15067bc454b9e1bad980",
+        "https://ethplorer.io/address/0xedd7c94fd7b4971b916d15067bc454b9e1bad980"
+    ],
+    "twitter": "zippiehq",
+    "facebook": "zippiehq",
+    "telegram": "zippiehq",
+    "reddit": "Zippie/",
+    "github_org": "zippiehq"
+}

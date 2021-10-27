@@ -1,0 +1,23 @@
+{
+    "id": "volatility-protocol-token",
+    "symbol": "vol",
+    "name": "Volatility Protocol Token",
+    "platforms": {
+        "ethereum": "0x5166e09628b696285e3a151e84fb977736a83575"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Volatility Protocol is DeFi's home for composable volatility. We create volatility models for popular DeFi protocols and publish real-time volatility indices for many types of assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5166e09628b696285e3a151e84fb977736a83575",
+    "url": "https://volatility.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x5166e09628b696285e3a151e84fb977736a83575",
+        "https://ethplorer.io/address/0x5166e09628b696285e3a151e84fb977736a83575"
+    ],
+    "twitter": "DeFiVolatility",
+    "telegram": "volatilityprotocol"
+}

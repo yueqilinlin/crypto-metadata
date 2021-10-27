@@ -1,0 +1,24 @@
+{
+    "id": "truegbp",
+    "symbol": "tgbp",
+    "name": "TrueGBP",
+    "platforms": {
+        "ethereum": "0x00000000441378008ea67f4284a57932b1c000a5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tokenized version of the GBP"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x00000000441378008ea67f4284a57932b1c000a5",
+    "url": "http://trusttoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x00000000441378008ea67f4284a57932b1c000a5",
+        "https://ethplorer.io/address/0x00000000441378008ea67f4284a57932b1c000a5"
+    ],
+    "twitter": "TrustToken",
+    "telegram": "E76cWETja1gnr2JNfZxPQg",
+    "reddit": "TrustToken/"
+}

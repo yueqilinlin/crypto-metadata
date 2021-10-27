@@ -1,0 +1,24 @@
+{
+    "id": "super-mario",
+    "symbol": "MARIO",
+    "name": "SUPER MARIO",
+    "platforms": {
+        "ethereum": "0xc8cf9b8ccfb4c53c052427e98669ff28b6f7e301"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We are trying to find princess peach, but we must gather our strength to get there and defeat Bowser!\r\n\r\nVolume will progress us further and further into Mushroom Kingdom, and we will bring back Princess Peach, my love.\r\n\r\nEvery world will have a boss battle. After clearing every world, ALL holders will be rewarded through airdrops from our reward token allocation."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc8cf9b8ccfb4c53c052427e98669ff28b6f7e301",
+    "url": "https://mariotoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xc8cf9b8ccfb4c53c052427e98669ff28b6f7e301",
+        "https://ethplorer.io/address/0xc8cf9b8ccfb4c53c052427e98669ff28b6f7e301"
+    ],
+    "twitter": "MarioToken",
+    "telegram": "MarioToken",
+    "github_org": "MarioTokenERC"
+}

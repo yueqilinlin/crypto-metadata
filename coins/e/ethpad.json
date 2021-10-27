@@ -1,0 +1,25 @@
+{
+    "id": "ethpad",
+    "symbol": "ethpad",
+    "name": "ETHPad",
+    "platforms": {
+        "ethereum": "0x8db1d28ee0d822367af8d220c0dc7cb6fe9dc442",
+        "binance-smart-chain": "0x8db1d28ee0d822367af8d220c0dc7cb6fe9dc442"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The team behind the record-breaking BSCPad and TronPad are bringing their full expertise, marketing power and superior IDO infrastructure to the Ethereum blockchain.\r\n\r\nETHPad will give our team full control of cross-platform launches, enabling liquidity sniping bot protection, our cross-chain bridge and proven staking systems\r\n\r\nInspired by EIP-1559, ETHPad will have several deflationary triggers tied to selling, staking and IDO participation.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8db1d28ee0d822367af8d220c0dc7cb6fe9dc442",
+    "url": "https://Ethpad.network",
+    "explorers": [
+        "https://etherscan.io/token/0x8dB1D28Ee0d822367aF8d220C0dc7cB6fe9DC442",
+        "https://ethplorer.io/address/0x8db1d28ee0d822367af8d220c0dc7cb6fe9dc442",
+        "https://bscscan.com/token/0x8dB1D28Ee0d822367aF8d220C0dc7cB6fe9DC442"
+    ],
+    "twitter": "ethpadofficial",
+    "telegram": "ethpad"
+}

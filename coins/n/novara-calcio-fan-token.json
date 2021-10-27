@@ -1,0 +1,23 @@
+{
+    "id": "novara-calcio-fan-token",
+    "symbol": "nov",
+    "name": "Novara Calcio Fan Token",
+    "platforms": {
+        "chiliz": "0x96f499cfb9bc23ee7bad894fe9e8dd77d31dc86b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fan Token",
+        "Sports"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x96f499cfb9bc23ee7bad894fe9e8dd77d31dc86b",
+    "url": "https://www.socios.com/",
+    "explorers": [
+        "https://explorer.chiliz.com/address/0x96f499Cfb9bc23EE7Bad894FE9E8Dd77D31DC86b/transactions"
+    ]
+}

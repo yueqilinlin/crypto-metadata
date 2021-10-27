@@ -1,0 +1,24 @@
+{
+    "id": "coinone-token",
+    "symbol": "cone",
+    "name": "CoinOne Token",
+    "platforms": {
+        "binance-smart-chain": "0x9628735017f1a985ebaac0b203efb9e8d3ed0fef"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CoinOne is a decentralized One-Stop Defi service platform on Binance Smart Chain (BSC). CoinOne is based on Automated Market Maker (AMM) algorithm mechanism, conversion of digital currency, liquidity mining, leverage mining and other mining mechanisms."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9628735017f1a985ebaac0b203efb9e8d3ed0fef",
+    "url": "https://coinone.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0x9628735017F1a985eBaaC0b203Efb9e8D3eD0Fef"
+    ],
+    "twitter": "coinoneswap",
+    "telegram": "coinonemain",
+    "reddit": "Coin_One/",
+    "github_org": "coinoneswap"
+}

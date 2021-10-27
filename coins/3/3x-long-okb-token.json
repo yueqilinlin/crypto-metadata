@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-okb-token",
+    "symbol": "okbbull",
+    "name": "3X Long OKB Token",
+    "platforms": {
+        "ethereum": "0x8af785687ee8d75114b028997c9ca36b5cc67bc4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long OKB Token (OKBBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of OKB."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8af785687ee8d75114b028997c9ca36b5cc67bc4",
+    "url": "https://ftx.com/tokens/OKBBULL",
+    "explorers": [
+        "https://etherscan.io/token/0x8aF785687ee8D75114B028997c9ca36b5CC67Bc4",
+        "https://ethplorer.io/address/0x8af785687ee8d75114b028997c9ca36b5cc67bc4"
+    ]
+}

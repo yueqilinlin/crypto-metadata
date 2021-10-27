@@ -1,0 +1,21 @@
+{
+    "id": "martexcoin",
+    "symbol": "mxt",
+    "name": "MarteXcoin",
+    "platforms": {},
+    "hashing_algorithm": "X13",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2014-10-24",
+    "url": "http://martexcoin.org/",
+    "explorers": [
+        "http://be.martexcoin.org:3001/"
+    ],
+    "twitter": "MarteXcoin",
+    "facebook": "martexcoin",
+    "telegram": "martexcoin",
+    "github_org": "martexcoin"
+}

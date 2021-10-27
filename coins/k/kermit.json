@@ -1,0 +1,21 @@
+{
+    "id": "kermit",
+    "symbol": "kermit",
+    "name": "Kermit Finance",
+    "platforms": {
+        "solana": "7xzovRepzLvXbbpVZLYKzEBhCNgStEv1xpDqf1rMFFKX"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kermit Finance aims to create a decentralized peer-to-peer protocol that eases the interaction between the user and the blockchain. In the world of DeFi, where finance and money does not rely on central financial intermediaries such as exchanges, brokerages and banks, it is important for users to have an experience where they can have seamless control of their money and assets. Kermit is built on Serum, the flagship DEX on Solana to provide the users and artists with the best trading experience that allows them to trade their favourite token/NFT on the most user-friendly UI."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "7xzovRepzLvXbbpVZLYKzEBhCNgStEv1xpDqf1rMFFKX",
+    "url": "https://kermitfinance.com/",
+    "explorers": [
+        "https://solscan.io/token/7xzovRepzLvXbbpVZLYKzEBhCNgStEv1xpDqf1rMFFKX"
+    ],
+    "twitter": "KermitFinance"
+}

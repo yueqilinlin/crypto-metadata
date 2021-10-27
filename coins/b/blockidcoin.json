@@ -1,0 +1,22 @@
+{
+    "id": "blockidcoin",
+    "symbol": "bid",
+    "name": "Blockidcoin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [],
+    "description": {
+        "en": "Secured Fingerprints Central Ledger On Blockchain. Implementing immutable fingerprints identity & Protection on Blockchain."
+    },
+    "country_origin": "LU",
+    "genesis_date": null,
+    "url": "https://www.blockidchain.com/",
+    "explorers": [
+        "https://bid.cryptoscope.cc/",
+        "https://openchains.info/coin/blockidcoin/blocks"
+    ],
+    "twitter": "blockidcoin",
+    "facebook": "blockid.chain",
+    "telegram": "blockidcoin",
+    "github_org": "blockidchain"
+}

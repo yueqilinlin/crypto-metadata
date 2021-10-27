@@ -1,0 +1,27 @@
+{
+    "id": "wrapped-ecomi",
+    "symbol": "womi",
+    "name": "Wrapped ECOMI",
+    "platforms": {
+        "ethereum": "0x04969cd041c0cafb6ac462bd65b536a5bdb3a670"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Collectibles",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "ECOMI\u2019s mission is to create the world\u2019s best platform to purchase, protect and collect premium licensed digital collectibles using Distributed Ledger Technology."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x04969cd041c0cafb6ac462bd65b536a5bdb3a670",
+    "url": "https://www.ecomi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x04969cd041c0cafb6ac462bd65b536a5bdb3a670",
+        "https://ethplorer.io/address/0x04969cd041c0cafb6ac462bd65b536a5bdb3a670"
+    ],
+    "twitter": "ecomi_",
+    "telegram": "ecomi",
+    "github_org": "Ecomi-Ecosystem"
+}

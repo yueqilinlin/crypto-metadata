@@ -1,0 +1,22 @@
+{
+    "id": "cbd-coin",
+    "symbol": "cbd",
+    "name": "CBD Coin",
+    "platforms": {
+        "binance-smart-chain": "0x19ace850213c518e3b29b57f4aab4a0fb60acdb9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CBD Coin is the crypto payment provider for the CBD industry. \r\n\r\nThe world\u2019s first CBD coin that donates CBD products to the less fortunate that can\u2019t afford natural medicine to treat their ailments.\r\n\r\nEvery CBD Coin transaction has an automatic 9% transaction fee, which is then divided 3% to the Liquidity Pool, 3% for marketing, and 3% deposited for Charity Funds.\r\nNatural medicine can be rather expensive for those on SSDI, disability, government assistance and more. 3% of fees will cover the costs and will provide CBD to those in need to treat their ailments."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x19ace850213c518e3b29b57f4aab4a0fb60acdb9",
+    "url": "https://cbdcoin.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x19ace850213c518e3b29b57f4aab4a0fb60acdb9"
+    ],
+    "twitter": "cbd_coin",
+    "reddit": "CBD_Coin/"
+}

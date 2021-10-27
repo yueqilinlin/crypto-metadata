@@ -1,0 +1,27 @@
+{
+    "id": "block-array",
+    "symbol": "ary",
+    "name": "Block Array",
+    "platforms": {
+        "ethereum": "0xa5f8fc0921880cb7342368bd128eb8050442b1a1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Block Array is a blockchain-based startup focused on providing vertically integrated solutions from the protocol layer to mobile applications for the supply chain and logistics industry. BlockArray can revolutionize businesses\u2019 supply chain operations product, shipment changes of custody, business processes, and traceability events. Block Array also can provide increased business intelligence and chain of custody logs via actionable analytics, demand forecasting and alerts."
+    },
+    "country_origin": "US",
+    "genesis_date": "2017-12-23",
+    "contract_address": "0xa5f8fc0921880cb7342368bd128eb8050442b1a1",
+    "url": "https://www.blockarray.com",
+    "explorers": [
+        "https://etherscan.io/token/0xa5f8fc0921880cb7342368bd128eb8050442b1a1",
+        "https://ethplorer.io/address/0xa5f8fc0921880cb7342368bd128eb8050442b1a1"
+    ],
+    "twitter": "blockarraygroup",
+    "telegram": "blockarraygroup",
+    "reddit": "blockarraygroup/",
+    "github_org": "blockarraygroup"
+}

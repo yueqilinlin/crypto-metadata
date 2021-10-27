@@ -1,0 +1,22 @@
+{
+    "id": "tai",
+    "symbol": "tai",
+    "name": "tBridge Token",
+    "platforms": {
+        "tron": "TRwS7apsNdRGzMBfhB2hVC4RhqfubUYZ8P"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Enjoy the low cost and fast speed of decentralized finance(Defi) and applications (dApp) on Tron Network using BTC, ETH, DOT and more. Welcome to the TronFi.io ecosystem!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TRwS7apsNdRGzMBfhB2hVC4RhqfubUYZ8P",
+    "url": "https://tbridge.io/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TRwS7apsNdRGzMBfhB2hVC4RhqfubUYZ8P"
+    ],
+    "twitter": "TronFi_io",
+    "telegram": "TronFi_io"
+}

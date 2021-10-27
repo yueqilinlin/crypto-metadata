@@ -1,0 +1,22 @@
+{
+    "id": "incooom-genesis",
+    "symbol": "cooom",
+    "name": "Incooom Genesis",
+    "platforms": {
+        "ethereum": "0x25b539b1c179fbe2af92abdfdc7e152cbc97addc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "COOOM is an ERC-20 representing the INCOOOM Genesis NFTX vault. The token can be used to redeem NFTS stored in the vault."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x25b539b1c179fbe2af92abdfdc7e152cbc97addc",
+    "url": "https://www.incooom.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x25b539b1c179fbe2af92abdfdc7e152cbc97addc",
+        "https://ethplorer.io/address/0x25b539b1c179fbe2af92abdfdc7e152cbc97addc"
+    ],
+    "twitter": "incooomfinance"
+}

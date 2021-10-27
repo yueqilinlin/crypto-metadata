@@ -1,0 +1,25 @@
+{
+    "id": "usd-bancor",
+    "symbol": "usdb",
+    "name": "USD Bancor",
+    "platforms": {
+        "ethereum": "0x309627af60f0926daa6041b8279484312f2bf060"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "USDB is a stabletoken backed by BNT (Bancor Network Token), and utilized in relays on the Bancor network."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x309627af60f0926daa6041b8279484312f2bf060",
+    "url": "https://usdb.peg.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x309627af60f0926daa6041b8279484312f2bf060",
+        "https://ethplorer.io/address/0x309627af60f0926daa6041b8279484312f2bf060"
+    ],
+    "telegram": "pegnetwork",
+    "github_org": "zachdoty"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "compound-basic-attention-token",
+    "symbol": "cbat",
+    "name": "cBAT",
+    "platforms": {
+        "ethereum": "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Decentralized Finance (DeFi)",
+        "Compound Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Compound protocol balance token"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e",
+    "url": "https://compound.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e",
+        "https://ethplorer.io/address/0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e"
+    ],
+    "twitter": "compoundfinance",
+    "reddit": "compound"
+}

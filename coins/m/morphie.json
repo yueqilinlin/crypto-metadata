@@ -1,0 +1,22 @@
+{
+    "id": "morphie",
+    "symbol": "mrfi",
+    "name": "Morphie",
+    "platforms": {
+        "binance-smart-chain": "0xaf1167b1f90e4f27d9f520a4cd3a1e452e011cea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DApps (Smartchain applications) need real world data. Morphie provides that. Morphie is a Decentralised Community-driven Oracle for Avalanche ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaf1167b1f90e4f27d9f520a4cd3a1e452e011cea",
+    "url": "https://morphie.network/",
+    "explorers": [
+        "https://bscscan.com/token/0xaf1167b1f90e4f27d9f520a4cd3a1e452e011cea"
+    ],
+    "twitter": "morphie_network",
+    "telegram": "MorphieNetwork"
+}

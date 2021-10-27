@@ -1,0 +1,28 @@
+{
+    "id": "sentinel-chain",
+    "symbol": "senc",
+    "name": "Sentinel Chain",
+    "platforms": {
+        "ethereum": "0xa13f0743951b4f6e3e3aa039f682e17279f52bc3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "The Sentinel Chain is a B2B marketplace specifically designed to provide affordable and secure financial services to the unbanked.\r\n\r\nSentinel Chain aims to solve the following\r\n1. Insurance\r\n2. Loans\r\n3. Collateral\r\n4. Crowdfunding \r\n5. Community Projects\r\n6. E-Payments\r\n\r\nThe project sees 2 major investors namely Fenbushi Capital and iGlobe Partners. There are also partnerships formed with Maybank, Medishares, Crowdo, and Vechain.\r\n"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xa13f0743951b4f6e3e3aa039f682e17279f52bc3",
+    "url": "https://sentinel-chain.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xa13f0743951b4f6e3e3aa039f682e17279f52bc3",
+        "https://ethplorer.io/address/0xa13f0743951b4f6e3e3aa039f682e17279f52bc3"
+    ],
+    "twitter": "sentinelchain",
+    "facebook": "sentinelchain",
+    "telegram": "sentinelchain",
+    "reddit": "SentinelChain/",
+    "github_org": "InfoCorp-Technologies"
+}

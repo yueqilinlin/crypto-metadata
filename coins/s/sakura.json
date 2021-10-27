@@ -1,0 +1,20 @@
+{
+    "id": "sakura",
+    "symbol": "sku",
+    "name": "Sakura",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sakura is a substrate-based parachain candidate specifically built for the cross-chain DeFi ecosystem on Kusama. Building on the success of the Rococo testnet, the stage for Kusama has been set as the first \u201cmainnet\u201d to utilize the power of Substrate."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://clover.finance/sakura",
+    "explorers": [
+        "https://sakura.subscan.io/"
+    ],
+    "twitter": "clover_finance",
+    "telegram": "clover_en",
+    "github_org": "clover-network"
+}

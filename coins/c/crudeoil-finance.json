@@ -1,0 +1,22 @@
+{
+    "id": "crudeoil-finance",
+    "symbol": "oil",
+    "name": "Oil Token",
+    "platforms": {
+        "binance-smart-chain": "0xb1b17dff66d75b29d34f0bf8622c406d8219b507"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Crudeoil Finance is a next generation deflationary farming platform built on Binance Smart Chain #BSC. \r\n\r\nMoreover,  Traditional staking gigs require an infinite supply. New tokens need to be minted in order to keep the users staking. This \"\"inflationary staking\"\" causes a lot of sell pressure, and diminishes the value of the token. This is where Crudeoil Finance comes into play. Once the total supply 100,000 OIL is minted, No new tokens will ever be minted again. Infact Total supply will keep reducing. There is a burn for every transfer, that is gone forever. \r\n\r\nHolders will have a chance to Stake/Farm Binance smart chain assets (BEP20) and get staking/farming rewards from OIL tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb1b17dff66d75b29d34f0bf8622c406d8219b507",
+    "url": "http://crudeoil.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xb1b17dff66d75b29d34f0bf8622c406d8219b507"
+    ],
+    "twitter": "crudeoil_fi",
+    "telegram": "crudeoilfinance"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "aurix",
+    "symbol": "aur",
+    "name": "Aurix",
+    "platforms": {
+        "ethereum": "0x6e98e5401adcb0d76f4debfc3d794b3031f48790"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Aur is Aurix exchange token AURIX ECOSYSTEM Fast Trading, De-Fi Cashback."
+    },
+    "country_origin": "RO",
+    "genesis_date": null,
+    "contract_address": "0x6e98e5401adcb0d76f4debfc3d794b3031f48790",
+    "url": "https://www.aurix.exchange",
+    "explorers": [
+        "https://etherscan.io/token/0x6E98E5401ADCB0D76F4DEBfc3d794B3031F48790",
+        "https://ethplorer.io/address/0x6E98E5401ADCB0D76F4DEBfc3d794B3031F48790"
+    ],
+    "twitter": "aurixexchange",
+    "facebook": "aurix.exchange",
+    "telegram": "aurix_exchange"
+}

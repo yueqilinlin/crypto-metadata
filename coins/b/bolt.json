@@ -1,0 +1,24 @@
+{
+    "id": "bolt",
+    "symbol": "bolt",
+    "name": "Bolt",
+    "platforms": {
+        "ethereum": "0xd5930c307d7395ff807f2921f12c5eb82131a789"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BOLT Global is a blockchain-based media and fin-tech ecosystem consisting of:\r\n\r\nBOLT+ (a live streaming service which hosts TV networks, streamers and creators)\r\nBOLT X (crypto wallet and DeFi services)\r\nBOLT XChange (cross-chain liquidity protocol)\r\n\r\nThe BOLT Token (our utility token which powers the BOLT Global ecosystem)\r\n\r\nLearn more:  \r\nwww.bolt.global  \r\nwww.boltx.app  \r\nwww.boltplus.tv \r\n\r\nThrough engagement programmes powered by decentralised finance and financial rewards, the BOLT ecosystem makes it easier than ever before for users, creators and brands alike to create and grow value on the new web.\r\n\r\nOur partnerships with leading telco networks (such as Telenor and MTN Group) allow for mobile-native users across the globe to stream and transact on the go. Our inclusion within home entertainment systems (such as Hisense Smart TVs) allow for further awareness of the new web through media and entertainment.\r\n\r\nThrough our ecosystem, our vision is to enable creative and financial freedom for users and brands across the world.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd5930c307d7395ff807f2921f12c5eb82131a789",
+    "url": "https://bolt.global",
+    "explorers": [
+        "https://etherscan.io/token/0xd5930c307d7395ff807f2921f12c5eb82131a789",
+        "https://ethplorer.io/address/0xd5930c307d7395ff807f2921f12c5eb82131a789"
+    ],
+    "twitter": "Bolt_Global",
+    "telegram": "BoltGlobal",
+    "github_org": "BOLT-Ops"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "5942-audubon",
+    "symbol": "realtoken-s-5942-audubon-rd-detroit-mi",
+    "name": "RealT Token - 5942 Audubon Rd, Detroit, MI 48224",
+    "platforms": {
+        "ethereum": "0x6db6d540f5614e6bab7475af3f430f46a0b083e2",
+        "xdai": "0x6db6d540f5614e6bab7475af3f430f46a0b083e2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6db6d540f5614e6bab7475af3f430f46a0b083e2",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x6Db6d540F5614e6BaB7475Af3F430F46a0B083e2",
+        "https://ethplorer.io/address/0x6db6d540f5614e6bab7475af3f430f46a0b083e2"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

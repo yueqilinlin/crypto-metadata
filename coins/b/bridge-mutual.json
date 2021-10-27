@@ -1,0 +1,26 @@
+{
+    "id": "bridge-mutual",
+    "symbol": "bmi",
+    "name": "Bridge Mutual",
+    "platforms": {
+        "ethereum": "0x725c263e32c72ddc3a19bea12c5a0479a81ee688"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Insurance",
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "Bridge Mutual is a decentralized, discretionary p2p/p2b insurance platform that provides coverage for stablecoins, centralized exchanges, and smart contracts. Its platform allows users to provide insurance coverage, decide on insurance payouts, and get compensated for taking part in the ecosystem."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x725c263e32c72ddc3a19bea12c5a0479a81ee688",
+    "url": "https://bridgemutual.io",
+    "explorers": [
+        "https://etherscan.io/token/0x725c263e32c72ddc3a19bea12c5a0479a81ee688",
+        "https://ethplorer.io/address/0x725c263e32c72ddc3a19bea12c5a0479a81ee688"
+    ],
+    "twitter": "Bridge_Mutual",
+    "telegram": "bridge_mutual"
+}

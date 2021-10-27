@@ -1,0 +1,21 @@
+{
+    "id": "wiseavax",
+    "symbol": "wiseavax",
+    "name": "WiseAvax",
+    "platforms": {
+        "avalanche": "0xb86688eb60be8c6fc09afcc32a9cf4b0b6decffd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "On WiseAvax you will be able to stake LP tokens in our yield optimized farm pools to collected earnings in WISE token(s). Our multipliers are set up in a manner such that providing liquidity is highly incentivized and will most likely result in a positive ROI. WiseAvax community members can also stake farm tokens, well-established blue-chip cryptocurrencies, and/or stable coins in our yield optimized single-stake pools. Single-staking pools are a popular & relatively safe way to invest in the Defi as this method does not expose investors to the risks involving impermanent loss."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb86688eb60be8c6fc09afcc32a9cf4b0b6decffd",
+    "url": "https://wiseavax.finance/",
+    "explorers": [],
+    "twitter": "polywisefinance",
+    "telegram": "polywisedefi",
+    "github_org": "polywise"
+}

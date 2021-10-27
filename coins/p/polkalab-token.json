@@ -1,0 +1,22 @@
+{
+    "id": "polkalab-token",
+    "symbol": "pbl",
+    "name": "Polkalab Token",
+    "platforms": {
+        "binance-smart-chain": "0x39a2ce8187119c564b71f8bdff93ce01662d2d1c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Polkalab is a platform currency representing value and wealth in the decentralized economy used for the exchange of values between PBL"
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x39a2ce8187119c564b71f8bdff93ce01662d2d1c",
+    "url": "https://polkalab.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x39a2ce8187119c564b71f8bdff93ce01662d2d1c"
+    ],
+    "twitter": "realPolkalab",
+    "telegram": "Polkalabnews"
+}

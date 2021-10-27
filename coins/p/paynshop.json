@@ -1,0 +1,22 @@
+{
+    "id": "paynshop",
+    "symbol": "payns",
+    "name": "Paynshop",
+    "platforms": {
+        "binance-smart-chain": "0xcb6b5d0562bb2acbd930c3112857e5121a02b522"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PaynShop is a ecommerce built on blockchain technology that will offer fantastic value for shoppers and casual purchasers."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xcb6b5d0562bb2acbd930c3112857e5121a02b522",
+    "url": "https://paynshop.store/",
+    "explorers": [
+        "https://bscscan.com/token/0xcb6b5d0562bb2acbd930c3112857e5121a02b522"
+    ],
+    "twitter": "Paynshop1",
+    "telegram": "Paynshop"
+}

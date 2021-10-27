@@ -1,0 +1,24 @@
+{
+    "id": "yfos-finance",
+    "symbol": "YFOS",
+    "name": "YFOS.finance",
+    "platforms": {
+        "ethereum": "0xcd254568ebf88f088e40f456db9e17731243cb25"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Get Rewards Instantly, Stake and Unstake Anytime."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcd254568ebf88f088e40f456db9e17731243cb25",
+    "url": "https://yfos.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xCd254568EBF88f088E40f456db9E17731243cb25",
+        "https://ethplorer.io/address/0xcd254568ebf88f088e40f456db9e17731243cb25"
+    ],
+    "twitter": "yfosfinance",
+    "telegram": "yfosfinance",
+    "github_org": "yfosproject"
+}

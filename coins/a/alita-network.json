@@ -1,0 +1,22 @@
+{
+    "id": "alita-network",
+    "symbol": "alita",
+    "name": "Alita Network",
+    "platforms": {
+        "ethereum": "0x9c659cb48c4406cd2857aeceff1609b2db280d0e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Alita Network is an edge cloud computing and big data service provider that makes use of idle resources of edge terminals. It is the first cross-platform heterogeneous edge big data computing system that supports Android phones and supports complete cloud native and data privacy protection."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9c659cb48c4406cd2857aeceff1609b2db280d0e",
+    "url": "https://alita.services/",
+    "explorers": [
+        "https://etherscan.io/token/0x9c659CB48c4406Cd2857aEcEfF1609b2dB280d0E",
+        "https://ethplorer.io/address/0x9c659CB48c4406Cd2857aEcEfF1609b2dB280d0E"
+    ],
+    "twitter": "globalalita"
+}

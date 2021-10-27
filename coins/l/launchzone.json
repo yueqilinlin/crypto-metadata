@@ -1,0 +1,23 @@
+{
+    "id": "launchzone",
+    "symbol": "lz",
+    "name": "LaunchZone",
+    "platforms": {
+        "binance-smart-chain": "0x3b78458981eb7260d1f781cb8be2caac7027dbe2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LaunchZone - The Ultimate DeFi Platform"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3b78458981eb7260d1f781cb8be2caac7027dbe2",
+    "url": "https://lz.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x3b78458981eb7260d1f781cb8be2caac7027dbe2"
+    ],
+    "twitter": "launchzoneann",
+    "telegram": "lzofficial",
+    "github_org": "launchzone"
+}

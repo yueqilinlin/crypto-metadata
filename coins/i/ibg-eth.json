@@ -1,0 +1,24 @@
+{
+    "id": "ibg-eth",
+    "symbol": "ibg",
+    "name": "iBG (ETH)",
+    "platforms": {
+        "ethereum": "0xf16cd087e1c2c747b2bdf6f9a5498aa400d99c24"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "iBG is a Decentralized Finance (DeFi) wealth management platform designed to bring simplicity to users interested in entering the cryptocurrency and the DeFi market. iBG is equipped with the latest Robo Advisory technology to offer algorithm-driven recommendations. \r\n\r\niBG App is a smart yield aggregator platform providing an intuitive user experience to make it easy for all users to benefit from their digital tokens/cryptocurrencies."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf16cd087e1c2c747b2bdf6f9a5498aa400d99c24",
+    "url": "https://eth.ibg.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xF16CD087e1C2C747b2bDF6f9A5498AA400D99C24",
+        "https://ethplorer.io/address/0xF16CD087e1C2C747b2bDF6f9A5498AA400D99C24"
+    ],
+    "twitter": "IbgFinance",
+    "telegram": "ibgfinance",
+    "github_org": "IBG-Finance-Defi"
+}

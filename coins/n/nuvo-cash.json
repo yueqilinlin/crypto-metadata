@@ -1,0 +1,24 @@
+{
+    "id": "nuvo-cash",
+    "symbol": "nuvo",
+    "name": "Nuvo Cash",
+    "platforms": {
+        "ethereum": "0xe2db94e8d4e4144c336e45668a792d17d48a482c"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Media"
+    ],
+    "description": {
+        "en": "Nuvo Cash is a blockchain network for decentralized social networking. "
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xe2db94e8d4e4144c336e45668a792d17d48a482c",
+    "url": "https://jamaa.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe2db94e8d4e4144c336e45668a792d17d48a482c",
+        "https://ethplorer.io/address/0xe2db94e8d4e4144c336e45668a792d17d48a482c"
+    ],
+    "telegram": "NUVOcash"
+}

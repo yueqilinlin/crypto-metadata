@@ -1,0 +1,22 @@
+{
+    "id": "supernova-protocol",
+    "symbol": "supern",
+    "name": "SuperNova Protocol",
+    "platforms": {
+        "binance-smart-chain": "0x0c038bc02c8c9945f194b17c703f800526900a74"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SUPERN holders we built PooCoin Promoted Alert Bot that notifies within seconds when a new coin gets promoted on PooCoin website. Hold 5000 $Supern tokens in your wallet to get an access to PooBot and receive notifications about all promoted coins before anyone else."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x0c038bc02c8c9945f194b17c703f800526900a74",
+    "url": "https://www.supernovaprotocol.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x0c038bc02c8c9945f194b17c703f800526900a74"
+    ],
+    "twitter": "SupernBsc",
+    "telegram": "supernovaprotocolbsc"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "yield-goat",
+    "symbol": "ygoat",
+    "name": "Yield Goat",
+    "platforms": {
+        "binance-smart-chain": "0x47ff6511939ab379d7756b003f61010b9eab3077"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Automated instant yield platform on Binance Smart Chain"
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x47ff6511939ab379d7756b003f61010b9eab3077",
+    "url": "https://yieldgoat.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x47ff6511939ab379d7756b003f61010b9eab3077"
+    ],
+    "twitter": "YgoatF",
+    "telegram": "YieldGoatFinance"
+}

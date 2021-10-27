@@ -1,0 +1,23 @@
+{
+    "id": "paddycoin",
+    "symbol": "paddy",
+    "name": "Paddycoin",
+    "platforms": {
+        "binance-smart-chain": "0x980a7a2060e5f849d9bd26bb6b266b1ba205e123"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PADDYCOIN is a revolutionary, community-driven cryptocurrency that aims to give professional mental health services to people in need all over the world. \r\n\r\nThese tokens will be used to access mental health services on our app, such as counselling, therapy, meditation. The app is currently in production and will launch in Q4. \r\n\r\nThe app will run entirely on tokens, and will provide invaluable services for people who desperately need it. And most importantly, it will be affordable for EVERYONE. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x980a7a2060e5f849d9bd26bb6b266b1ba205e123",
+    "url": "https://paddycoin.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x980a7a2060e5f849d9bd26bb6b266b1ba205e123"
+    ],
+    "twitter": "paddycoinhq",
+    "facebook": "paddycoinhq",
+    "reddit": "PADDYCOIN/"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "blue-baikal",
+    "symbol": "bbc",
+    "name": "Blue Baikal",
+    "platforms": {
+        "ethereum": "",
+        "klay-token": "0x321bc0b63efb1e4af08ec6d20c85d5e94ddaaa18"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "BLUE BAIKAL is a blockchain platform that connects entertainment content producers, individual content media (influencers), and content consumers to maximize the growth and profits of the entertainment business, and provides an ideal ecosystem for fair distribution of profits."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "url": "https://www.bluebaikal.io/",
+    "explorers": [
+        "https://scope.klaytn.com/token/0x321bc0b63efb1e4af08ec6d20c85d5e94ddaaa18?tabId=tokenTransfer",
+        "https://scope.klaytn.com/token/0x321bc0b63efb1e4af08ec6d20c85d5e94ddaaa18?tabId=tokenTransfer"
+    ],
+    "twitter": "Blue_Baikal",
+    "facebook": "BlueBaikalProject",
+    "telegram": "bluebaikal_eng"
+}

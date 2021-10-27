@@ -1,0 +1,27 @@
+{
+    "id": "lido-dao",
+    "symbol": "ldo",
+    "name": "Lido DAO",
+    "platforms": {
+        "ethereum": "0x5a98fcbea516cf06857215779fd812ca3bef1b32"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+    "url": "https://stake.lido.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+        "https://ethplorer.io/address/0x5a98fcbea516cf06857215779fd812ca3bef1b32"
+    ],
+    "twitter": "lidofinance",
+    "telegram": "lidofinance",
+    "github_org": "lidofinance"
+}

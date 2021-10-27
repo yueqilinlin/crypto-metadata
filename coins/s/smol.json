@@ -1,0 +1,26 @@
+{
+    "id": "smol",
+    "symbol": "smol",
+    "name": "smol",
+    "platforms": {
+        "ethereum": "0x2216e873ea4282ebef7a02ac5aea220be6391a7c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "its very smol"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2216e873ea4282ebef7a02ac5aea220be6391a7c",
+    "url": "https://www.smol.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x2216e873ea4282ebef7a02ac5aea220be6391a7c",
+        "https://ethplorer.io/address/0x2216e873ea4282ebef7a02ac5aea220be6391a7c"
+    ],
+    "twitter": "smolfinance",
+    "telegram": "smol_tok",
+    "github_org": "smolfinance"
+}

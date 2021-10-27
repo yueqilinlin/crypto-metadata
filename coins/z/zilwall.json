@@ -1,0 +1,22 @@
+{
+    "id": "zilwall",
+    "symbol": "zwall",
+    "name": "ZilWall",
+    "platforms": {
+        "zilliqa": "zil1xswavlggsqmkd9kddcp0ulceqm9ht36gqkt8ua"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "zil1xswavlggsqmkd9kddcp0ulceqm9ht36gqkt8ua",
+    "url": "https://zilwall.com/",
+    "explorers": [
+        "https://viewblock.io/zilliqa/address/zil1xswavlggsqmkd9kddcp0ulceqm9ht36gqkt8ua"
+    ],
+    "twitter": "zwall_zpaint",
+    "telegram": "zilwall_community"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "dfuture",
+    "symbol": "dft",
+    "name": "dfuture",
+    "platforms": {
+        "binance-smart-chain": "0x42712df5009c20fee340b245b510c0395896cf6e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DFT is the platform token of dFuture platform, and its value support comes from part of the transaction fees of the platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x42712df5009c20fee340b245b510c0395896cf6e",
+    "url": "https://www.dfuture.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x42712dF5009c20fee340B245b510c0395896cF6e",
+        "https://hecoinfo.com/token/0x42712dF5009c20fee340B245b510c0395896cF6e"
+    ],
+    "twitter": "dFuture_finance",
+    "telegram": "dfutureglobal",
+    "github_org": "dFuture-finance"
+}

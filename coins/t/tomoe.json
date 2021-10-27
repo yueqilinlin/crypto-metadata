@@ -1,0 +1,24 @@
+{
+    "id": "tomoe",
+    "symbol": "tomoe",
+    "name": "TomoChain ERC-20",
+    "platforms": {
+        "ethereum": "0x05d3606d5c81eb9b7b18530995ec9b29da05faba"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x05d3606d5c81eb9b7b18530995ec9b29da05faba",
+    "url": "https://tomochain.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x05d3606d5c81eb9b7b18530995ec9b29da05faba",
+        "https://ethplorer.io/address/0x05d3606d5c81eb9b7b18530995ec9b29da05faba"
+    ],
+    "twitter": "TomoChainANN",
+    "telegram": "TomoChainChannel",
+    "github_org": "tomochain"
+}

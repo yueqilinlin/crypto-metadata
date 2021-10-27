@@ -1,0 +1,22 @@
+{
+    "id": "baby-starlink-doge",
+    "symbol": "starlinkdoge",
+    "name": "Baby Starlink Doge",
+    "platforms": {
+        "binance-smart-chain": "0x325956bd5491fa4aefec665c028d4bca5acfdd1d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Baby Starlink Doge is a community-focused, decentralized cryptocurrency with instant feedback to active users."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x325956bd5491fa4aefec665c028d4bca5acfdd1d",
+    "url": "https://starlink.london/#/",
+    "explorers": [
+        "https://bscscan.com/token/0x325956bd5491fa4aefec665c028d4bca5acfdd1d"
+    ],
+    "twitter": "BabyStarlkDoge",
+    "telegram": "StarlinkDogecoin"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "amon",
+    "symbol": "amn",
+    "name": "Amon",
+    "platforms": {
+        "ethereum": "0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We are a Crypto Debit Card like Monaco, TenX and Bitpay but with powerful AI, quicker transactions and simpler fees. Amon Card has a multi-cryptocurrency wallet. We enable crypto spending in everyday life. Conversions from Crypto to fiat during payment with our card are real time while our AI mitigates crypto volatility for the user."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c",
+    "url": "https://amon.tech/",
+    "explorers": [
+        "https://etherscan.io/token/0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c",
+        "http://ethplorer.io/address/0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c",
+        "https://ethplorer.io/address/0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c"
+    ],
+    "twitter": "amonwallet",
+    "facebook": "amonwallet",
+    "telegram": "amontech",
+    "github_org": "amontech"
+}

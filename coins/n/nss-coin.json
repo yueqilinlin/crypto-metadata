@@ -1,0 +1,21 @@
+{
+    "id": "nss-coin",
+    "symbol": "nss",
+    "name": "NSS Coin",
+    "platforms": {
+        "ethereum": "0x4e3bddd468abfc6c88bc25daa5d894380ced5bc8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NSS (New energy science and technology chain, New energy KeJiLian) is based on the New energy technology, unique blocks to chain {BlockChian} decentralized technology of distributed database to identify, record and spread information of intelligent peer-to-peer networks and decentralized peer-to-peer networks, using open source software to cryptography combined mech"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4e3bddd468abfc6c88bc25daa5d894380ced5bc8",
+    "url": "http://www.nsscoin.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x4e3bddd468abfc6c88bc25daa5d894380ced5bc8",
+        "https://ethplorer.io/address/0x4e3bddd468abfc6c88bc25daa5d894380ced5bc8"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "14078-carlisle",
+    "symbol": "realtoken-s-14078-carlisle-st-detroit-mi",
+    "name": "RealT Token - 14078 Carlisle St, Detroit, MI 48205",
+    "platforms": {
+        "ethereum": "0x315699f1ba88383cff2f2f30fcad187adb2e4d72",
+        "xdai": "0x315699f1ba88383cff2f2f30fcad187adb2e4d72"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x315699f1ba88383cff2f2f30fcad187adb2e4d72",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x315699f1BA88383CFF2F2f30FcaD187aDb2E4D72",
+        "https://ethplorer.io/address/0x315699f1ba88383cff2f2f30fcad187adb2e4d72"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

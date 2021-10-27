@@ -1,0 +1,24 @@
+{
+    "id": "beshare-token",
+    "symbol": "bst",
+    "name": "Beshare Token",
+    "platforms": {
+        "ethereum": "0x0b4680e848f842b86e4df38d9fa0d9f9419f37ec"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Blockchain-based E-sharing economy platform"
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x0b4680e848f842b86e4df38d9fa0d9f9419f37ec",
+    "url": "https://www.beshare-token.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x0b4680e848f842b86e4df38d9fa0d9f9419f37ec",
+        "https://ethplorer.io/address/0x0b4680e848f842b86e4df38d9fa0d9f9419f37ec"
+    ],
+    "twitter": "BeShareToken",
+    "telegram": "BeShareToken",
+    "github_org": "Beshare-token"
+}

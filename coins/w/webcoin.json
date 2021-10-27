@@ -1,0 +1,29 @@
+{
+    "id": "webcoin",
+    "symbol": "web",
+    "name": "Webcoin",
+    "platforms": {
+        "ethereum": "0xf344490abd414dafa97f34c8ca501b0aa5bf8873",
+        "binance-smart-chain": "0x7786b28826e2dda4dbe344be66a0bfbff3d3362f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Webcoin connects the worlds of digital marketing, blockchain technology and cryptocurrency. Webcoin is a utility ERC20 token based on the Ethereum blockchain and serves the purpose of a unified currency for buying and selling services within the Webhits.io platform. Webcoin pioneers the technological dawn of global marketing digitalization. Webcoin connects the dots between the worlds of digital marketing, blockchain technology and cryptocurrencies. Webcoin is a utility ERC20 token based on the Ethereum Blockchain. The Webcoin token will be used as a unified currency to buy and sell services within the Webhits.io platform."
+    },
+    "country_origin": "BG",
+    "genesis_date": null,
+    "contract_address": "0xf344490abd414dafa97f34c8ca501b0aa5bf8873",
+    "url": "https://webcoin.today/#/",
+    "explorers": [
+        "https://etherscan.io/token/0xf344490abd414dafa97f34c8ca501b0aa5bf8873",
+        "https://ethplorer.io/address/0xf344490abd414dafa97f34c8ca501b0aa5bf8873"
+    ],
+    "twitter": "webcointoday",
+    "facebook": "webcoinico",
+    "telegram": "webcoin",
+    "reddit": "https://www.reddit.com",
+    "github_org": "webcoinico"
+}

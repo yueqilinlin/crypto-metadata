@@ -1,0 +1,31 @@
+{
+    "id": "harvest-finance",
+    "symbol": "farm",
+    "name": "Harvest Finance",
+    "platforms": {
+        "ethereum": "0xa0246c9032bc3a600820415ae600c6388619a14d",
+        "binance-smart-chain": "0x4b5c23cac08a567ecf0c1ffca8372a45a5d33743"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "Harvest automatically farms the highest yields in DeFi\r\n\r\n"
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
+    "url": "https://harvest.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388619A14D",
+        "https://ethplorer.io/address/0xa0246c9032bc3a600820415ae600c6388619a14d",
+        "https://bscscan.com/token/0x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743"
+    ],
+    "twitter": "harvest_finance",
+    "telegram": "Breadforthepeople",
+    "github_org": "harvest-finance"
+}

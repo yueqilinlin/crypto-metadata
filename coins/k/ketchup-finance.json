@@ -1,0 +1,23 @@
+{
+    "id": "ketchup-finance",
+    "symbol": "ketchup",
+    "name": "Ketchup Finance",
+    "platforms": {
+        "binance-smart-chain": "0x714a84632ed7edbbbfeb62dacf02db4beb4c69d9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x714a84632ed7edbbbfeb62dacf02db4beb4c69d9",
+    "url": "https://ketchupfinance.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x714a84632ed7edbbbfeb62dacf02db4beb4c69d9"
+    ],
+    "twitter": "KetchupSwap",
+    "telegram": "KetchupSwap",
+    "github_org": "KetchupFinance"
+}

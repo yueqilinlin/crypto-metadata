@@ -1,0 +1,23 @@
+{
+    "id": "moon-yfi",
+    "symbol": "myfi",
+    "name": "Moon YFI",
+    "platforms": {
+        "ethereum": "0x1efb2286bf89f01488c6b2a22b2556c0f45e972b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Utility staking token with a burn function."
+    },
+    "country_origin": "BG",
+    "genesis_date": null,
+    "contract_address": "0x1efb2286bf89f01488c6b2a22b2556c0f45e972b",
+    "url": "https://moonyfi.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x1Efb2286BF89F01488C6B2a22B2556C0f45e972b",
+        "https://ethplorer.io/address/0x1efb2286bf89f01488c6b2a22b2556c0f45e972b"
+    ],
+    "twitter": "moon_yfi",
+    "telegram": "moonYFI"
+}

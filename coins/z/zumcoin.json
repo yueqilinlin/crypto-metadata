@@ -1,0 +1,22 @@
+{
+    "id": "zumcoin",
+    "symbol": "zum",
+    "name": "ZumCoin",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "ZumCoin- Simplified Private Digital Currency- is a robust blockchain technology designed to provide decentralized cross-border payments; faster, cheaper, and secure. It is an open-source project; being developed by a diverse team of technically competent individuals who are well-versed in distributed ledger technologies, cryptography, and economics. The project is aimed to develop a multi-layer robust blockchain ecosystem that is founded on three basic tenets: PRIVACY \u2014 FREEDOM \u2014 EQUALITY"
+    },
+    "country_origin": "SZ",
+    "genesis_date": null,
+    "url": "https://zumcoin.org/",
+    "explorers": [
+        "http://explorer.zumcoin.org"
+    ],
+    "twitter": "ZumCoin_org",
+    "telegram": "zumcoin",
+    "github_org": "zumcoin"
+}

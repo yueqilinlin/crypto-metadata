@@ -1,0 +1,24 @@
+{
+    "id": "tolar",
+    "symbol": "tol",
+    "name": "Tolar",
+    "platforms": {
+        "ethereum": "0xd07d9fe2d2cc067015e2b4917d24933804f42cfa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "What is HashNET?\r\nHashNET is a scalable, fast, secure, and fair decentralized- beyond blockchain project, leveraging Distributed Ledger Technology (DLT) and consensus algorithm which keeps all positive characteristics of a blockchain technology while increasing throughput to more than 200,000 transactions per second. Network is using Proof-of-Stake with masternodes, which eliminates the need for a massive energy consumption."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd07d9fe2d2cc067015e2b4917d24933804f42cfa",
+    "url": "https://www.tolar.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xd07d9fe2d2cc067015e2b4917d24933804f42cfa",
+        "https://ethplorer.io/address/0xd07d9fe2d2cc067015e2b4917d24933804f42cfa"
+    ],
+    "twitter": "TolarHashNET",
+    "facebook": "TolarHashNET",
+    "telegram": "tolarofficial"
+}

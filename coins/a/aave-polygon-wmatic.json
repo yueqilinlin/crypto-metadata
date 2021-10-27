@@ -1,0 +1,24 @@
+{
+    "id": "aave-polygon-wmatic",
+    "symbol": "amWMATIC",
+    "name": "Aave Polygon WMATIC",
+    "platforms": {
+        "polygon-pos": "0x8df3aad3a84da6b69a4da8aec3ea40d9091b2ac4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8df3aad3a84da6b69a4da8aec3ea40d9091b2ac4",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0x8dF3aad3a84da6b69A4DA8aeC3eA40d9091B2Ac4"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome"
+}

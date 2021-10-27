@@ -1,0 +1,25 @@
+{
+    "id": "magnachain",
+    "symbol": "mgc",
+    "name": "Magnachain",
+    "platforms": {
+        "ethereum": "0xa6eb54102f20095679882db4c84e72e65ab782a4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MagnaChain is a completely new, built from scratch, public Blockchain and related integration toolset used for distributed application (dApp) development."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa6eb54102f20095679882db4c84e72e65ab782a4",
+    "url": "https://magnachain.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xa6eb54102f20095679882db4c84e72e65ab782a4",
+        "https://ethplorer.io/address/0xa6eb54102f20095679882db4c84e72e65ab782a4"
+    ],
+    "twitter": "magnachain",
+    "facebook": "magnachain",
+    "telegram": "magnachain",
+    "reddit": "magnachain"
+}

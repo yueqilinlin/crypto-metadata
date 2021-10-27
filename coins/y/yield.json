@@ -1,0 +1,26 @@
+{
+    "id": "yield",
+    "symbol": "yld",
+    "name": "Yield",
+    "platforms": {
+        "ethereum": "0xdcb01cc464238396e213a6fdd933e36796eaff9f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdcb01cc464238396e213a6fdd933e36796eaff9f",
+    "url": "http://yield.credit",
+    "explorers": [
+        "https://etherscan.io/token/0xdcb01cc464238396e213a6fdd933e36796eaff9f",
+        "https://ethplorer.io/address/0xdcb01cc464238396e213a6fdd933e36796eaff9f"
+    ],
+    "twitter": "YieldCredit",
+    "telegram": "yieldchat"
+}

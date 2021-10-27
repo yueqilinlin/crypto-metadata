@@ -1,0 +1,23 @@
+{
+    "id": "trade-butler-bot",
+    "symbol": "tbb",
+    "name": "Trade Butler Bot",
+    "platforms": {
+        "ethereum": "0x4a7adcb083fe5e3d6b58edc3d260e2e61668e7a2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4a7adcb083fe5e3d6b58edc3d260e2e61668e7a2",
+    "url": "https://tradebutler.tools/",
+    "explorers": [
+        "https://etherscan.io/token/0x4a7adcb083fe5e3d6b58edc3d260e2e61668e7a2",
+        "https://ethplorer.io/address/0x4a7adcb083fe5e3d6b58edc3d260e2e61668e7a2"
+    ],
+    "twitter": "TradeButlerBot",
+    "telegram": "tradebutlerbot_chat"
+}

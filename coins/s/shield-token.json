@@ -1,0 +1,23 @@
+{
+    "id": "shield-token",
+    "symbol": "sid",
+    "name": "Shield Token",
+    "platforms": {
+        "binance-smart-chain": "0x9dadf352e3f997616f2562dd4af246c971f6cb67"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We are a defi platform where users could trade synthetic assets (stocks at this stage, such as sGoogle, sTesla, sApple, etc). The price of sAssets mirrored that in the real world. Users could also profit from providing liquidity and earn rewards. They can also choose to lock their rewards and earn extra interest."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9dadf352e3f997616f2562dd4af246c971f6cb67",
+    "url": "https://www.shieldex.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x9dadf352e3f997616f2562dd4af246c971f6cb67"
+    ],
+    "twitter": "Shield_Finance",
+    "telegram": "ShieldProtocolOfficial",
+    "github_org": "ShieldProtocol"
+}

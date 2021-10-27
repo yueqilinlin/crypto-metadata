@@ -1,0 +1,23 @@
+{
+    "id": "keytango",
+    "symbol": "tango",
+    "name": "keyTango",
+    "platforms": {
+        "ethereum": "0x182f4c4c97cd1c24e1df8fc4c053e5c47bf53bef"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "keyTango aims to be the easiest way for newbies to get into DeFi. Currently the DeFi user experience is broken and keyTango will solve this by building a platform that will help users to discover new opportunities in DeFi, learn more about them and then make informed investments."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x182f4c4c97cd1c24e1df8fc4c053e5c47bf53bef",
+    "url": "https://www.keytango.io",
+    "explorers": [
+        "https://etherscan.io/token/0x182F4c4C97cd1c24E1Df8FC4c053E5C47bf53Bef",
+        "https://ethplorer.io/address/0x182f4c4c97cd1c24e1df8fc4c053e5c47bf53bef"
+    ],
+    "twitter": "TangoKey",
+    "telegram": "keyTango"
+}

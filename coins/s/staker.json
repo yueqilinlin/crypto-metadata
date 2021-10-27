@@ -1,0 +1,27 @@
+{
+    "id": "staker",
+    "symbol": "str",
+    "name": "Staker Token",
+    "platforms": {
+        "ethereum": "0x426567f78e74577f8a6233b635970eb729631e05"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Staker Token is the Next Proof-of-Stake Smart Contract Token on Ethereum platform. It\u2019s based on the ERC20 Token Standard and implements all standard methods. As an Ethereum token, Staker first implements the Proof-of-Stake mechanism, meaning that holders of Staker Token can earn some extra tokens just by holding Staker Token for a period of time, greater than or equal to The Minimum Coin Age.\r\n\r\nStaker is a service which provides a provably fair and transparent, web based Ethereum dice gambling Dapp. Staker game code is decentralized and immutable. Players can play on staker website knowing that Staker behaves in a provably fair manner, thanks to the nature of the Ethereum blockchain.Our smart contract layer runs entirely on the Ethereum Blockchain."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x426567f78e74577f8a6233b635970eb729631e05",
+    "url": "https://staker.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xbae235823d7255d9d48635ced4735227244cd583",
+        "https://ethplorer.io/address/0xbae235823d7255d9d48635ced4735227244cd583"
+    ],
+    "twitter": "StakerToken",
+    "facebook": "Staker-Token-1664753403621055",
+    "telegram": "stakertoken",
+    "github_org": "stakertoken"
+}

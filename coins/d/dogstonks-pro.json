@@ -1,0 +1,23 @@
+{
+    "id": "dogstonks-pro",
+    "symbol": "dogpro",
+    "name": "DogStonks Pro",
+    "platforms": {
+        "ethereum": "0xe7a7ef72466167ff78e08ad76b12ca0c13c496e1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DogStonks Pro is the next generation of the original DogStonks protocol.\r\n\r\nDogStonks is a token that can be bought at any price, but can only be sold for profit. If you attempt to sell at a cost lower than you bought, the contract won\u2019t allow it.\r\n\r\nAnti-whale mechanics ensure that no single person owns too much of the supply. Only a maximum of 0.5% of the supply can be purchased per transaction.\r\n\r\nThere is a 5 minute cooldown between transactions, which acts as an anti-bot mechanism.\r\n\r\nTo reward loyal holders, the remaining liquidity pool unlocks and distributes to every holder if the price ever fails to make a new all-time high for one full week. It\u2019s a built-in safety net!\r\n\r\nAll liquidity is locked into the contract. Any LP you add will always belong to you and will not be distributed."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xe7a7ef72466167ff78e08ad76b12ca0c13c496e1",
+    "url": "https://dogstonks.com",
+    "explorers": [
+        "https://etherscan.io/token/0xE7a7ef72466167fF78e08ad76b12CA0C13C496E1",
+        "https://ethplorer.io/address/0xE7a7ef72466167fF78e08ad76b12CA0C13C496E1"
+    ],
+    "twitter": "stonks_dog",
+    "telegram": "dogstonks_official"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "gemguardian",
+    "symbol": "gemg",
+    "name": "GemGuardian",
+    "platforms": {
+        "binance-smart-chain": "0x885c5fb8f0e67b2b0cf3a437e6cc6ebc0f9f9014"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Binance PlayToEarn NFT Card Game"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x885c5fb8f0e67b2b0cf3a437e6cc6ebc0f9f9014",
+    "url": "https://gemguardian.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x885c5fb8f0e67b2b0cf3a437e6cc6ebc0f9f9014"
+    ],
+    "twitter": "GemGuardianNFT",
+    "telegram": "GemGuardianOfficialChat"
+}

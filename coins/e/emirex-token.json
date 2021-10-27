@@ -1,0 +1,23 @@
+{
+    "id": "emirex-token",
+    "symbol": "emrx",
+    "name": "Emirex Token",
+    "platforms": {
+        "ethereum": "0xbdbc2a5b32f3a5141acd18c39883066e4dab9774"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Emirex Token (EMRX) powers The Infrastructure for the New Digital Economy proudly brought to you by the Emirex Group. As the native token of the Emirex Ecosystem, EMRX has multiple use cases: listing fees for placement of tokenised assets, transactional fees from buy/sell transactions, custody and servicing fees, commission and partner incentive schemes, and others as the offering develops"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbdbc2a5b32f3a5141acd18c39883066e4dab9774",
+    "url": "https://emirex.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xbdbC2a5B32F3a5141ACd18C39883066E4daB9774",
+        "https://ethplorer.io/address/0xbdbc2a5b32f3a5141acd18c39883066e4dab9774"
+    ],
+    "twitter": "EMIREX_OFFICIAL",
+    "facebook": "emirex.official"
+}

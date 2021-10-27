@@ -1,0 +1,24 @@
+{
+    "id": "interest-bearing-eth",
+    "symbol": "ibETH",
+    "name": "Interest Bearing ETH",
+    "platforms": {
+        "ethereum": "0x67b66c99d3eb37fa76aa3ed1ff33e8e39f0b9c7a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x67b66c99d3eb37fa76aa3ed1ff33e8e39f0b9c7a",
+    "url": "https://alphafinance.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x67B66C99D3Eb37Fa76Aa3Ed1ff33E8e39F0b9c7A",
+        "https://ethplorer.io/address/0x67b66c99d3eb37fa76aa3ed1ff33e8e39f0b9c7a"
+    ],
+    "twitter": "alphafinancelab",
+    "telegram": "AlphaFinanceLab",
+    "github_org": "AlphaFinanceLab"
+}

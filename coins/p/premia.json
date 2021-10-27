@@ -1,0 +1,29 @@
+{
+    "id": "premia",
+    "symbol": "premia",
+    "name": "Premia",
+    "platforms": {
+        "ethereum": "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70",
+        "fantom": "0x3028b4395f98777123c7da327010c40f3c7cc4ef",
+        "arbitrum-one": "0x51fc0f6660482ea73330e414efd7808811a57fa2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Options",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Next-generation options and meta-vaults"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70",
+    "url": "https://premia.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70",
+        "https://ethplorer.io/address/0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70"
+    ],
+    "twitter": "PremiaFinance",
+    "github_org": "PremiaFinance"
+}

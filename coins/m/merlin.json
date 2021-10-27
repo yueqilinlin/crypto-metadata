@@ -1,0 +1,24 @@
+{
+    "id": "merlin",
+    "symbol": "merl",
+    "name": "Merlin",
+    "platforms": {
+        "binance-smart-chain": "0xda360309c59cb8c434b28a91b823344a96444278"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Merlin is an auto-compounding yield aggregator with an ecosystem optimized to focus on safe and sustainable maximum yield return."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xda360309c59cb8c434b28a91b823344a96444278",
+    "url": "https://merlinlab.com/farm",
+    "explorers": [
+        "https://bscscan.com/token/0xda360309c59cb8c434b28a91b823344a96444278"
+    ],
+    "twitter": "merlinlab_",
+    "telegram": "merlinlab",
+    "reddit": "merlinlab",
+    "github_org": "merlin-the-best"
+}

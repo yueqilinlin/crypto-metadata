@@ -1,0 +1,26 @@
+{
+    "id": "neumark",
+    "symbol": "neu",
+    "name": "Neumark",
+    "platforms": {
+        "ethereum": "0xa823e6722006afe99e91c30ff5295052fe6b8e32"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Neufund is a community-owned fundraising platform bridging the worlds of venture capital and blockchain space. Any company in the world can launch Equity Token Offering (ETO) on the Neufund Platform and anyone can be an investor. NEU token entitles to economic co-ownership of the platform: token holders receive success fee on each finished ETO and a share of all equity tokens created on the platform."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-11-12",
+    "contract_address": "0xa823e6722006afe99e91c30ff5295052fe6b8e32",
+    "url": "https://neufund.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xa823e6722006afe99e91c30ff5295052fe6b8e32",
+        "https://ethplorer.io/address/0xa823e6722006afe99e91c30ff5295052fe6b8e32"
+    ],
+    "twitter": "neufundorg",
+    "facebook": "neufundorg",
+    "telegram": "neufund",
+    "reddit": "neufund",
+    "github_org": "Neufund"
+}

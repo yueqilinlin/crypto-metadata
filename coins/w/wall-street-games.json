@@ -1,0 +1,22 @@
+{
+    "id": "wall-street-games",
+    "symbol": "wsg",
+    "name": "Wall Street Games",
+    "platforms": {
+        "binance-smart-chain": "0xa58950f05fea2277d2608748412bf9f802ea4901"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wall Street Games is a hybrid blockchain-based online gaming platform where players battle each other in fun simple games for rewards in cryptocurrencies."
+    },
+    "country_origin": "SI",
+    "genesis_date": null,
+    "contract_address": "0xa58950f05fea2277d2608748412bf9f802ea4901",
+    "url": "https://wsg.gg",
+    "explorers": [
+        "https://bscscan.com/token/0xa58950f05fea2277d2608748412bf9f802ea4901"
+    ],
+    "twitter": "WSGToken",
+    "telegram": "WSGToken"
+}

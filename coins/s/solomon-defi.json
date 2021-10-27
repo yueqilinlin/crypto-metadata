@@ -1,0 +1,24 @@
+{
+    "id": "solomon-defi",
+    "symbol": "slm",
+    "name": "Solomon Defi",
+    "platforms": {
+        "ethereum": "0x07a0ad7a9dfc3854466f8f29a173bf04bba5686e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Solomon Token grants holders access to features and collected fees in relation to the Solomon ecommerce plugin. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x07a0ad7a9dfc3854466f8f29a173bf04bba5686e",
+    "url": "https://solomondefi.com",
+    "explorers": [
+        "https://etherscan.io/token/0x07a0ad7a9dfc3854466f8f29a173bf04bba5686e",
+        "https://ethplorer.io/address/0x07a0ad7a9dfc3854466f8f29a173bf04bba5686e"
+    ],
+    "twitter": "solomondefi",
+    "telegram": "solomondefiproject",
+    "github_org": "solomondefi"
+}

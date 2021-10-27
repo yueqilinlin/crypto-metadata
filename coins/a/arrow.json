@@ -1,0 +1,21 @@
+{
+    "id": "arrow",
+    "symbol": "arw",
+    "name": "Arrow",
+    "platforms": {},
+    "hashing_algorithm": "Equihash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Fully private p2p transactions based on zk-snarks"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://www.arrowchain.io/",
+    "explorers": [
+        "http://explorer.arrowchain.net/"
+    ],
+    "twitter": "arrowcrypto",
+    "github_org": "Arrowchain"
+}

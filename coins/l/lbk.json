@@ -1,0 +1,24 @@
+{
+    "id": "lbk",
+    "symbol": "lbk",
+    "name": "LBK",
+    "platforms": {
+        "ethereum": "0x9cb1aeafcc8a9406632c5b084246ea72f62d37b6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LBank ganna release its own exchange token \"LBK\" on August 1, 2019, with a total circulation of 2 billion, which will never be issued additionally. The initial issue includes 3 rounds, with a total number of 1.2 billion LBK. Currently, the LBK token is a decentralized blockchain digital asset based on Ethereum, which is a standard token based on the Ethereum ERC20 protocol. In the future, LBK will benefit from the blockchain technology and digital financial operation capabilities of LBank, and combined with the community-based autonomy concept, mapped to the emerging blockchain network that is in line with LBK's financial ecology, for free circulation and credibility. exchange."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9cb1aeafcc8a9406632c5b084246ea72f62d37b6",
+    "url": "https://www.lbank.info/",
+    "explorers": [
+        "https://etherscan.io/token/0x9cb1aeafcc8a9406632c5b084246ea72f62d37b6",
+        "https://ethplorer.io/address/0x9cb1aeafcc8a9406632c5b084246ea72f62d37b6"
+    ],
+    "twitter": "LBank_Exchange",
+    "telegram": "LBank_en",
+    "github_org": "LBank-exchange"
+}

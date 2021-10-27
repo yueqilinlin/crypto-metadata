@@ -1,0 +1,28 @@
+{
+    "id": "ares-protocol",
+    "symbol": "ares",
+    "name": "Ares Protocol",
+    "platforms": {
+        "ethereum": "0x358aa737e033f34df7c54306960a38d09aabd523"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services",
+        "Polkadot Ecosystem",
+        "Oracle"
+    ],
+    "description": {
+        "en": "Ares is an on-chain-verified oracle protocol that provides secure and reliable data services for the Polkadot DeFi ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x358aa737e033f34df7c54306960a38d09aabd523",
+    "url": "https://www.aresprotocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x358aa737e033f34df7c54306960a38d09aabd523",
+        "https://ethplorer.io/address/0x358aa737e033f34df7c54306960a38d09aabd523"
+    ],
+    "twitter": "AresProtocolLab",
+    "telegram": "aresprotocol",
+    "github_org": "aresprotocols"
+}

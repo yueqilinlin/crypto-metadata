@@ -1,0 +1,29 @@
+{
+    "id": "honey",
+    "symbol": "hny",
+    "name": "Honey",
+    "platforms": {
+        "xdai": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9",
+        "ethereum": "0xc3589f56b6869824804a5ea29f2c9886af1b0fce"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "xDAI Ecosystem"
+    ],
+    "description": {
+        "en": "Honey is a governance token issued by 1hive (the team behind Honeyswap.org). Honeyswap is a fork of Uniswap on the xDAI chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9",
+    "url": "https://1hive.org/#/home",
+    "explorers": [
+        "https://blockscout.com/poa/xdai/tokens/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
+        "https://etherscan.io/token/0xc3589f56b6869824804a5ea29f2c9886af1b0fce"
+    ],
+    "twitter": "Honeyswap",
+    "telegram": "honeyswapdex",
+    "reddit": "hny",
+    "github_org": "1Hive"
+}

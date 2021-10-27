@@ -1,0 +1,25 @@
+{
+    "id": "moon-rabbit",
+    "symbol": "aaa",
+    "name": "Moon Rabbit",
+    "platforms": {
+        "ethereum": "0x8c6bf16c273636523c29db7db04396143770f6a0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Moon Rabbit has built a Substrate-based Layer0 and Layer1 infrastructure to enable any projects in the world to launch their own Jurisdiction (blockchain or crypto, be it general purpose, DeFi, NFT, eSports or anything else). Our flagship project is Longevity DAO, which seeks to use Web3 and crypto to empower longevity ecosystem.\r\nOur network is live at hole.moonrabbit.com and we are launching new Jurisdictions every week. Founded by serial entrepreneur and Forbes List awardee, Angel Versetti, Moon Rabbit aims to become a vibrant crypto ecosystem and a Longevity powerhouse!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8c6bf16c273636523c29db7db04396143770f6a0",
+    "url": "https://moonrabbit.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8c6bf16c273636523c29db7db04396143770f6a0",
+        "https://ethplorer.io/address/0x8c6bf16c273636523c29db7db04396143770f6a0",
+        "https://hole.moonrabbit.com/"
+    ],
+    "twitter": "moonrabbitAZ",
+    "telegram": "moonrabbitcom",
+    "github_org": "MoonRabbitAZ"
+}

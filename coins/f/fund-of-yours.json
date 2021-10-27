@@ -1,0 +1,24 @@
+{
+    "id": "fund-of-yours",
+    "symbol": "foy",
+    "name": "Fund Of Yours",
+    "platforms": {
+        "ethereum": "0xaf91e8afbe87642dc628786188a54b78580a4d76"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Foy Digital Software Services Company \u201cFoundation Of Yours (FOY)\u201d aims to bring together tens of thousands of digital content producers and more than 3.5 billion fans of social media users in the same market on an affordable and reliable network."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0xaf91e8afbe87642dc628786188a54b78580a4d76",
+    "url": "https://foydigital.com",
+    "explorers": [
+        "https://etherscan.io/token/0xaf91e8afbe87642dc628786188a54b78580a4d76",
+        "https://ethplorer.io/address/0xaf91e8afbe87642dc628786188a54b78580a4d76"
+    ],
+    "twitter": "FundOfYours",
+    "telegram": "FundOfYoursChat",
+    "github_org": "fundofyours"
+}

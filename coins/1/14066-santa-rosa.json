@@ -1,0 +1,26 @@
+{
+    "id": "14066-santa-rosa",
+    "symbol": "realtoken-s-14066-santa-rosa-dr-detroit-mi",
+    "name": "RealT Token - 14066 Santa Rosa Dr, Detroit, MI 48238",
+    "platforms": {
+        "xdai": "0xe887dc4fcb5240c0c080aeab8870421d3ebd0b28",
+        "ethereum": "0xe887dc4fcb5240c0c080aeab8870421d3ebd0b28"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe887dc4fcb5240c0c080aeab8870421d3ebd0b28",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://blockscout.com/xdai/mainnet/tokens/0xe887DC4fcb5240c0c080AEAb8870421d3ebd0B28/token-transfers"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

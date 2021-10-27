@@ -1,0 +1,24 @@
+{
+    "id": "bitbase-token",
+    "symbol": "btbs",
+    "name": "BitBase Token",
+    "platforms": {
+        "ethereum": "0x32e6c34cd57087abbd59b5a4aecc4cb495924356",
+        "binance-smart-chain": "0x6fefd97f328342a8a840546a55fdcfee7542f9a8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bitbase exchange token"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x32e6c34cd57087abbd59b5a4aecc4cb495924356",
+    "url": "https://www.bitbase.es/",
+    "explorers": [
+        "https://etherscan.io/token/0x32e6c34cd57087abbd59b5a4aecc4cb495924356",
+        "https://ethplorer.io/address/0x32e6c34cd57087abbd59b5a4aecc4cb495924356"
+    ],
+    "twitter": "bitbase_es",
+    "telegram": "BitBaseOfficial_ENG"
+}

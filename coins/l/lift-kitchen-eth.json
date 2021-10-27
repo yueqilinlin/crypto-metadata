@@ -1,0 +1,24 @@
+{
+    "id": "lift-kitchen-eth",
+    "symbol": "lfeth",
+    "name": "Lift.Kitchen ETH",
+    "platforms": {
+        "ethereum": "0xe09b10efa59f6e17052e9a2d947bad6214e7cc90"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Lift.Kitchen has two other tokens on CoinGecko.  We are a blockchain product incubator building new products on top of multiple blockchain technologies. "
+    },
+    "country_origin": "KN",
+    "genesis_date": null,
+    "contract_address": "0xe09b10efa59f6e17052e9a2d947bad6214e7cc90",
+    "url": "https://app.lift.kitchen/",
+    "explorers": [
+        "https://etherscan.io/token/0xE09B10EFA59F6E17052E9A2D947bAd6214E7CC90",
+        "https://ethplorer.io/address/0xE09B10EFA59F6E17052E9A2D947bAd6214E7CC90"
+    ],
+    "twitter": "liftdao",
+    "telegram": "liftkitchendao",
+    "github_org": "Lift-Kitchen"
+}

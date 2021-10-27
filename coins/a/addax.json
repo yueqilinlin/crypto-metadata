@@ -1,0 +1,24 @@
+{
+    "id": "addax",
+    "symbol": "adx",
+    "name": "Addax",
+    "platforms": {
+        "binance-smart-chain": "0xce666d0e507c5f2afe0671ee29a99cfa97954c48"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Addax is a crypto currency with a purpose to tackle real world problems such as climate change, famine, public healthcare, poverty, children in need, education, gender inequality, marine conservation and wildlife conservation through every transaction."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xce666d0e507c5f2afe0671ee29a99cfa97954c48",
+    "url": "https://addaxtoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xce666d0e507c5f2afe0671ee29a99cfa97954c48"
+    ],
+    "twitter": "AddaxToken",
+    "telegram": "AddaxToken",
+    "reddit": "AddaxToken/",
+    "github_org": "AddaxToken"
+}

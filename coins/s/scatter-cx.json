@@ -1,0 +1,26 @@
+{
+    "id": "scatter-cx",
+    "symbol": "stt",
+    "name": "Scatter.cx",
+    "platforms": {
+        "ethereum": "0xac9bb427953ac7fddc562adca86cf42d988047fd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "\"Scatter is an ERC20 virus on the Ethereum blockchain.\r\n\r\nScatter is not mined or staked, it is only minted. Anyone can mint scatter, but you must play the game to be rewarded.\r\n\r\nPlay the game by infecting healthy ETH wallets with STT.\""
+    },
+    "country_origin": "AR",
+    "genesis_date": null,
+    "contract_address": "0xac9bb427953ac7fddc562adca86cf42d988047fd",
+    "url": "https://scatter.cx/",
+    "explorers": [
+        "https://etherscan.io/token/0xac9bb427953ac7fddc562adca86cf42d988047fd",
+        "https://ethplorer.io/address/0xac9bb427953ac7fddc562adca86cf42d988047fd"
+    ],
+    "twitter": "icarus_crypto",
+    "telegram": "scattertoken",
+    "github_org": "CryptoIcarus"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "thirm-protocol",
+    "symbol": "thirm",
+    "name": "Thirm Protocol",
+    "platforms": {
+        "ethereum": "0xb526fd41360c98929006f3bdcbd16d55de4b0069"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb526fd41360c98929006f3bdcbd16d55de4b0069",
+    "url": "https://thirm.com",
+    "explorers": [
+        "https://etherscan.io/token/0xb526FD41360c98929006f3bDcBd16d55dE4b0069",
+        "https://ethplorer.io/address/0xb526fd41360c98929006f3bdcbd16d55de4b0069"
+    ],
+    "twitter": "thirmprotocol",
+    "telegram": "thirm",
+    "github_org": "thirmprotocol"
+}

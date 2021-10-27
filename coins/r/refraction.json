@@ -1,0 +1,22 @@
+{
+    "id": "refraction",
+    "symbol": "REFRACTION",
+    "name": "Refraction",
+    "platforms": {
+        "ethereum": "0x21a870c7fce1bce5d88bdf845ac332c76204a9a0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Refraction is a collectively owned yet individually influenced NFT experiment.\r\n\r\nOne NFT Artwork, assembled from 1 Master & 100 Layers.\r\nSharded into 100 Tokens, connected to one Layer each.\r\nThe Tokens are traded on a Decentralized Exchange (DEX) where the price of one token is determined by supply & demand on a bonding curve.\r\nWhenever a token is getting bought (or sold) on the DEX, one random layer is turned on (or off).\r\n\r\nThe project is a collaboration between crypto artist, Sven Eberwein and DAOfi.\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x21a870c7fce1bce5d88bdf845ac332c76204a9a0",
+    "url": "https://refraction.art/",
+    "explorers": [
+        "https://etherscan.io/token/0x21a870c7fce1bce5d88bdf845ac332c76204a9a0",
+        "https://ethplorer.io/address/0x21a870c7fce1bce5d88bdf845ac332c76204a9a0"
+    ],
+    "twitter": "daofidex"
+}

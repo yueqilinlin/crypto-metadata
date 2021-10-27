@@ -1,0 +1,23 @@
+{
+    "id": "pokedx",
+    "symbol": "pdx",
+    "name": "PokeDX",
+    "platforms": {
+        "binance-smart-chain": "0x43a0c5eb1763a211aa3c05849a617f2ee0452767"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PokeDX is bringing sophisticated trading capabilities to DeFi by rethinking how DEX aggregators operate. Experience best-in-class trading tools, real-time charts and portfolio management all wrapped in a simple yet powerful UI. Powered by the $PDX reflect token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x43a0c5eb1763a211aa3c05849a617f2ee0452767",
+    "url": "https://pokedx.app",
+    "explorers": [
+        "https://bscscan.com/token/0x43a0c5eb1763a211aa3c05849a617f2ee0452767"
+    ],
+    "twitter": "pokedxapp",
+    "telegram": "dextalks",
+    "reddit": "PokeDx/"
+}

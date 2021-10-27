@@ -1,0 +1,23 @@
+{
+    "id": "dogefather-ecosystem",
+    "symbol": "dogefather",
+    "name": "Dogefather Ecosystem",
+    "platforms": {
+        "ethereum": "0x73c61dd9e121de834a4f3ed607263ee33b308c06"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Dogefather EcoSystem, created on 29 April 2021, is a decentralized application ecosystem powered by a DeFi (frictionless yield generation) token built on the Ethereum network.\r\n\r\nThe $DGFTHR token is deflationary, with each transaction having a tax of 2% that is redistributed amongst the holders. The popular redistribution approach incentivizes every investor to HODL and generates tokens in return. The max total supply is 100 quadrillion $DGFTHR, of which 49.7487% was burned to a dead address.\r\n\r\nThe Dogefather EcoSystem is the native utility token that is used inside of our ecosystem that consists of:\r\n\r\n- Decentralized Exchange (DEX)\r\n- NFT Generator Platform\r\n- NFT Marketplace\r\n- Decentralized Autonomous Organization (DAO)\r\n- Dogefather Tap & Dogefather Falcon, first of their kind uniquely developed games for a token on Telegram"
+    },
+    "country_origin": "CR",
+    "genesis_date": null,
+    "contract_address": "0x73c61dd9e121de834a4f3ed607263ee33b308c06",
+    "url": "https://thedogefather.community/",
+    "explorers": [
+        "https://etherscan.io/token/0x73c61dd9e121de834a4f3ed607263ee33b308c06",
+        "https://ethplorer.io/address/0x73c61dd9e121de834a4f3ed607263ee33b308c06"
+    ],
+    "twitter": "dogefatheroneth",
+    "telegram": "originaldogefather"
+}

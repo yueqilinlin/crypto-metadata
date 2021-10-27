@@ -1,0 +1,22 @@
+{
+    "id": "masterchef2",
+    "symbol": "masterchef2",
+    "name": "MASTERCHEF2",
+    "platforms": {
+        "binance-smart-chain": "0x9c56d0dc5aac6f23d18f990f3e4783a2f1be2dba"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Community chosen reward token"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9c56d0dc5aac6f23d18f990f3e4783a2f1be2dba",
+    "url": "https://master-chef.app",
+    "explorers": [
+        "https://bscscan.com/token/0x9c56d0dc5aac6f23d18f990f3e4783a2f1be2dba"
+    ],
+    "twitter": "MASTERCHEFBsc",
+    "telegram": "MASTERCHEFbsc"
+}

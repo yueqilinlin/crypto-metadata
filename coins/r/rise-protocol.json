@@ -1,0 +1,25 @@
+{
+    "id": "rise-protocol",
+    "symbol": "rise",
+    "name": "Rise Protocol",
+    "platforms": {
+        "ethereum": "0x3fa807b6f8d4c407e6e605368f4372d14658b38c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "Rise Protocol is the worlds most advanced rebase token. Though initially pegged to 0.01 ETH, Rise has the ability, through governance, to adapt and be dynamically pegged to any asset class depending on investor and market sentiment. This allows for a level of flexibility and adaptability never seen before."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3fa807b6f8d4c407e6e605368f4372d14658b38c",
+    "url": "https://riseprotocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3fa807b6f8d4c407e6e605368f4372d14658b38c",
+        "https://ethplorer.io/address/0x3fa807b6f8d4c407e6e605368f4372d14658b38c"
+    ],
+    "twitter": "RiseProtocol",
+    "telegram": "RiseProtocolOfficial"
+}

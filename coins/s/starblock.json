@@ -1,0 +1,26 @@
+{
+    "id": "starblock",
+    "symbol": "stb",
+    "name": "StarBlock",
+    "platforms": {
+        "ethereum": "0xc48b1ac1417db27c4e2c2ed3dae5a3d2fbb07dc5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "The idea for StarBlock (STB) was born the creation of \u2018HeroXchange\u2019. Our development team had to register and integrate a dozen exchanges into our platform. Some exchanges required verification, and some did not even have API for all the currencies we wanted to incorporate into the exchanger. The creation of a blockchain based cryptocurrency exchange became our dream, and now we want it to make it come true."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0xc48b1ac1417db27c4e2c2ed3dae5a3d2fbb07dc5",
+    "url": "https://www.starblockofficial.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xc48b1ac1417db27c4e2c2ed3dae5a3d2fbb07dc5",
+        "https://ethplorer.io/address/0xc48b1ac1417db27c4e2c2ed3dae5a3d2fbb07dc5"
+    ],
+    "facebook": "StarblockCoin",
+    "telegram": "starblock",
+    "github_org": "starblockdevteam"
+}

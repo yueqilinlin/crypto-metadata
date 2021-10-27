@@ -1,0 +1,31 @@
+{
+    "id": "adshares",
+    "symbol": "ads",
+    "name": "Adshares",
+    "platforms": {
+        "ethereum": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
+        "binance-smart-chain": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
+        "polygon-pos": "0x598e49f01befeb1753737934a5b11fea9119c796"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Adshares Network is a decentralized, peer-to-peer market for programmatic advertising. Adshares gives advertisers and publishers ability to trade directly without the need for centralized ad exchanges."
+    },
+    "country_origin": "MH",
+    "genesis_date": "2018-08-28",
+    "contract_address": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
+    "url": "https://adshares.net/",
+    "explorers": [
+        "https://etherscan.io/token/0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
+        "https://operator.adshares.net/blockexplorer",
+        "https://ethplorer.io/address/0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
+        "https://polygonscan.com/token/0x598e49f01befeb1753737934a5b11fea9119c796"
+    ],
+    "twitter": "adsharesNet",
+    "telegram": "adshares",
+    "reddit": "adshares",
+    "github_org": "adshares"
+}

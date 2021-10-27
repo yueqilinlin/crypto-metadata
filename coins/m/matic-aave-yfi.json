@@ -1,0 +1,25 @@
+{
+    "id": "matic-aave-yfi",
+    "symbol": "mayfi",
+    "name": "Matic Aave Interest Bearing YFI",
+    "platforms": {
+        "polygon-pos": "0xe20f7d1f0ec39c4d5db01f53554f2ef54c71f613"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Wrapped-Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe20f7d1f0ec39c4d5db01f53554f2ef54c71f613",
+    "url": "https://www.aavegotchi.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0xe20f7d1f0ec39c4d5db01f53554f2ef54c71f613"
+    ],
+    "twitter": "aavegotchi",
+    "github_org": "aavegotchi"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "moonshield-finance",
+    "symbol": "mshld",
+    "name": "Moonshield Finance",
+    "platforms": {
+        "binance-smart-chain": "0xf565aaf0b8eb813a1c8c956d2c59f1ce27fd2366"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MoonShield is a community driven DeFi project on the Binance Smart Chain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf565aaf0b8eb813a1c8c956d2c59f1ce27fd2366",
+    "url": "https://www.moonshield.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xf565aaf0b8eb813a1c8c956d2c59f1ce27fd2366"
+    ],
+    "twitter": "MoonShieldFi",
+    "facebook": "MoonShieldDefi",
+    "telegram": "MoonShieldFinance",
+    "reddit": "MoonShieldFinance/"
+}

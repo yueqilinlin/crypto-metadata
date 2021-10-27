@@ -1,0 +1,28 @@
+{
+    "id": "auction",
+    "symbol": "auction",
+    "name": "Bounce",
+    "platforms": {
+        "ethereum": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad",
+        "Binance Smart Chain Ecosystem",
+        "Polkadot Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
+    "url": "https://bounce.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
+        "https://ethplorer.io/address/0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096"
+    ],
+    "twitter": "bounce_finance",
+    "telegram": "bounce_finance"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "coinalpha",
+    "symbol": "alp",
+    "name": "CoinAlpha",
+    "platforms": {
+        "binance-smart-chain": "0x6775729fad1438116b2e3b4fb2878539795297a7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cryptocurrency market overview \u2014 altcoins coin price and market cap."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6775729fad1438116b2e3b4fb2878539795297a7",
+    "url": "https://coinalpha.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x6775729fad1438116b2e3b4fb2878539795297a7"
+    ],
+    "twitter": "CoinAlpha3",
+    "telegram": "coinalpha_x100",
+    "reddit": "coinalpha_x100/"
+}

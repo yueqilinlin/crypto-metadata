@@ -1,0 +1,25 @@
+{
+    "id": "tama-egg-niftygotchi",
+    "symbol": "tme",
+    "name": "TAMA EGG NiftyGotchi",
+    "platforms": {
+        "ethereum": "0x6e742e29395cf5736c358538f0f1372ab3dfe731"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Eggs of the NiftyGotchi ecosystem."
+    },
+    "country_origin": "MY",
+    "genesis_date": null,
+    "contract_address": "0x6e742e29395cf5736c358538f0f1372ab3dfe731",
+    "url": "https://niftygotchi.com",
+    "explorers": [
+        "https://etherscan.io/token/0x6e742e29395cf5736c358538f0f1372ab3dfe731",
+        "https://ethplorer.io/address/0x6e742e29395cf5736c358538f0f1372ab3dfe731"
+    ],
+    "twitter": "niftygotchi",
+    "telegram": "niftygotchi"
+}

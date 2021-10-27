@@ -1,0 +1,22 @@
+{
+    "id": "royal-doge",
+    "symbol": "rdoge",
+    "name": "Royal Doge",
+    "platforms": {
+        "binance-smart-chain": "0xc80f6c08df38da4b1b0377748a9cf7196954c676"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Royal Doge is a BNB reflection token with an online poker room that runs on our token RDOGE. RDOGE is a BEP20 token and runs on the Binance Smart Chain. We built our poker room compatible to accept our BEP20 token before launch, because utility is what our team values the highest."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xc80f6c08df38da4b1b0377748a9cf7196954c676",
+    "url": "https://www.royaldogetoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xc80f6c08df38da4b1b0377748a9cf7196954c676"
+    ],
+    "twitter": "royaldoge_bsc",
+    "telegram": "royaldogearmy"
+}

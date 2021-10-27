@@ -1,0 +1,24 @@
+{
+    "id": "carboneco",
+    "symbol": "c0",
+    "name": "CarbonEco",
+    "platforms": {
+        "ethereum": "0xbb3c2a170fbb8988cdb41c04344f9863b0f71c20"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CarbonEco (c0) is a modern cap and trade market to prevent and mitigate the worst outcomes of climate change. Our market uses Ethereum\u2019s ERC-721 smart contract to establish a non-fungible token (NFT) budget for carbon dioxide (CO2). We are using the Ethereum blockchain to build a cap and trade system for greenhouse gases."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbb3c2a170fbb8988cdb41c04344f9863b0f71c20",
+    "url": "https://www.carboneco.trade",
+    "explorers": [
+        "https://etherscan.io/token/0xbb3c2a170fbb8988cdb41c04344f9863b0f71c20",
+        "https://ethplorer.io/address/0xbb3c2a170fbb8988cdb41c04344f9863b0f71c20"
+    ],
+    "twitter": "absorbco2",
+    "telegram": "carbon_0",
+    "github_org": "orgs"
+}

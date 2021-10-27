@@ -1,0 +1,22 @@
+{
+    "id": "solarmoon",
+    "symbol": "solar",
+    "name": "Solarmoon",
+    "platforms": {
+        "binance-smart-chain": "0x5f00052b8c81a799b4f3bbc9ea2a1b7ecd06fba6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The first decentralized, community solar mining platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5f00052b8c81a799b4f3bbc9ea2a1b7ecd06fba6",
+    "url": "https://www.solarmoon.today/",
+    "explorers": [
+        "https://bscscan.com/token/0x5f00052b8c81a799b4f3bbc9ea2a1b7ecd06fba6"
+    ],
+    "twitter": "SolarMoonToken",
+    "telegram": "SolarMoonCoin"
+}

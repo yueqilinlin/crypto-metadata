@@ -1,0 +1,27 @@
+{
+    "id": "cover-protocol",
+    "symbol": "cover",
+    "name": "Cover Protocol",
+    "platforms": {
+        "ethereum": "0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713",
+        "fantom": "0xb01e8419d842beebf1b70a7b5f7142abbaf7159d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Insurance",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "\r\nCover Protocol is a peer-to-peer insurance market, where the way it operates is more similar to prediction market. Unlike other insurance protocols, the governance token is not used for underwriting risk.\u00a0\r\n\r\nTo bootstrap coverage for a new protocol, market makers will need to be incentivized to stake collateral of DAI/yDAI to mint CLAIM and NOCLAIM tokens. All series covers a specified protocol and have a specified expiry date. During the expiry date, either CLAIM or NOCLAIM will have the full claim to the collaterals.\u00a0\r\n\r\nFor example, if 100 DAI is used to provide coverage for Compound protocol until an expiry date, it will yield 100 CLAIM and 100 NOCLAIM tokens. On the expiry date, if there is a valid claim event, every CLAIM token will receive 1 DAI while NOCLAIM token will expire worthless. The converse is true if there is no valid claim event. In this case, every NOCLAIM token will receive 1 DAI while CLAIM token will expire worthless."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713",
+    "url": "https://www.coverprotocol.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713",
+        "https://ethplorer.io/address/0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713"
+    ],
+    "twitter": "COVERProtocol",
+    "github_org": "CoverProtocol"
+}

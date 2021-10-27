@@ -1,0 +1,22 @@
+{
+    "id": "bitradio",
+    "symbol": "bro",
+    "name": "Bitradio",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Bitradio is a community driven webradio website. Our free radio service brings together more than 30,000 radio stations on a single platform. You get Bitradiocoins while listening to your favorite radio station. You can exchange them to Bitcoin or hold them to own a share of our websites and services."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-03-11",
+    "url": "https://www.bitrad.io/",
+    "explorers": [
+        "https://chainz.cryptoid.info/bro/"
+    ],
+    "twitter": "bitrad_io",
+    "reddit": "Bitradio",
+    "github_org": "thebitradio"
+}

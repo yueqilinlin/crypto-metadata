@@ -1,0 +1,24 @@
+{
+    "id": "tonstarter",
+    "symbol": "tos",
+    "name": "TONStarter",
+    "platforms": {
+        "ethereum": "0x409c4d8cd5d2924b9bc5509230d16a61289c8153"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TONStarter is the first decentralized launchpad platform based on Ethereum and Tokamak Network. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x409c4d8cd5d2924b9bc5509230d16a61289c8153",
+    "url": "https://tonstarter.tokamak.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x409c4d8cd5d2924b9bc5509230d16a61289c8153",
+        "https://ethplorer.io/address/0x409c4d8cd5d2924b9bc5509230d16a61289c8153"
+    ],
+    "twitter": "TONStarter",
+    "telegram": "TONStarter_Chat",
+    "github_org": "Onther-Tech"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "gold-bcr",
+    "symbol": "gbcr",
+    "name": "Gold BCR",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": "GBCR - a finite supply of three-million coins, with only thirty three thousand in circulation and a total of six-million coins to be minted.\r\n\r\nGBCR is currently creating collaborative ventures with gold mining companies, whereby the digital asset is underpinned by a stream of gold from the mines production.\r\n\r\nGBCR rewards its wallet holders for staking their coins and contributing to our network's decentralisation, mining up to 10% p.a compounded."
+    },
+    "country_origin": "ZZ",
+    "genesis_date": null,
+    "url": "https://goldbcr.io",
+    "explorers": [
+        "https://explore.gbcr.io/"
+    ],
+    "github_org": "gbcrio"
+}

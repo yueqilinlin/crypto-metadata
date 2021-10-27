@@ -1,0 +1,23 @@
+{
+    "id": "petrachor",
+    "symbol": "pta",
+    "name": "Petrachor",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Petrachor is a comprehensive monetary system, enabling the creation, storage, and transfer of its currency, the Petra.\r\n\r\nTuring-complete scripting languages allow developers to build persistent applications on a censorship resistant platform. \r\n\r\nThe Ariel Protocol is our secure, scalable, and eco-friendly proof-of-stake consensus. All users can broadcast, verify, and validate transactions without the need for a third-party. Every Petrachor node is an equal peer, and eligible to earn block rewards for contributing to the security of the network. \r\n\r\nThe Boneh-Lynn-Shacham unique signature scheme is used for the core random beacon of Ariel. By also securing accounts with BLS, we pave the road towards interesting future extensions, such as multisignatures, threshold signatures and aggregate signatures. \r\n\r\nThe elliptic curve used by our signature scheme is BLS12-381, a Barreto-Lynn-Scott curve. This curve was introduced in Sapling, the latest upgrade to the ZCash protocol, with the aim to improve efficiency and security while reducing memory intensivity.\r\n\r\nPetrachor developers are focused on providing innovative solutions for a decentralized world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://petrachor.com/",
+    "explorers": [
+        "https://explorer.petrachor.com/"
+    ],
+    "twitter": "petrachor_info",
+    "telegram": "petrachor",
+    "reddit": "https://www.reddit.com",
+    "github_org": "petrachor"
+}

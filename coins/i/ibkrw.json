@@ -1,0 +1,23 @@
+{
+    "id": "ibkrw",
+    "symbol": "ibkrw",
+    "name": "Iron Bank KRW",
+    "platforms": {
+        "ethereum": "0x95dfdc8161832e4ff7816ac4b6367ce201538253"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fixed Forex is the collective name for USD, EUR, ZAR, JPY, CNY, AUD, AED, CAD, INR, and any other forex pairs launched under the Fixed Forex moniker."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x95dfdc8161832e4ff7816ac4b6367ce201538253",
+    "url": "https://fixedforex.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x95dFDC8161832e4fF7816aC4B6367CE201538253",
+        "https://ethplorer.io/address/0x95dfdc8161832e4ff7816ac4b6367ce201538253"
+    ],
+    "twitter": "thekeep3r",
+    "github_org": "keep3r-network"
+}

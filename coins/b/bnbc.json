@@ -1,0 +1,23 @@
+{
+    "id": "bnbc",
+    "symbol": "bnbc",
+    "name": "BNBC",
+    "platforms": {
+        "binance-smart-chain": "0x31b5d91806af3364678715f4c5bf50c1e3bae10a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rebasing token"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x31b5d91806af3364678715f4c5bf50c1e3bae10a",
+    "url": "https://tsuki.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x31B5d91806AF3364678715f4C5Bf50c1e3bAE10A"
+    ],
+    "twitter": "DaoTsuki",
+    "telegram": "tsukidao",
+    "github_org": "TsukiDao"
+}

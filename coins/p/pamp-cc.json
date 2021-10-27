@@ -1,0 +1,25 @@
+{
+    "id": "pamp-cc",
+    "symbol": "PAMP",
+    "name": "PAMP.CC",
+    "platforms": {
+        "ethereum": "0x7f0f118d083d5175ab9d2d34c4c8fa4f43c3f47b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x7f0f118d083d5175ab9d2d34c4c8fa4f43c3f47b",
+    "url": "http://pamp.cc/",
+    "explorers": [
+        "https://etherscan.io/token/0x7f0f118d083d5175ab9d2d34c4c8fa4f43c3f47b",
+        "https://ethplorer.io/address/0x7f0f118d083d5175ab9d2d34c4c8fa4f43c3f47b"
+    ],
+    "twitter": "scamalapamprson",
+    "telegram": "pampofficial",
+    "reddit": "https://www.reddit.com",
+    "github_org": "PAMPOfficial"
+}

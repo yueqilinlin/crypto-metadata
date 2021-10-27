@@ -1,0 +1,22 @@
+{
+    "id": "back-finance",
+    "symbol": "back",
+    "name": "Back Finance",
+    "platforms": {
+        "huobi-token": "0x6474bc11f512dfe6a5162b2167e3f94b61471d05"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BACK is a decentralized leverage lending smart protocol released by Back.Finance, which can provide miners with up to three times leverage to participate in liquidity mining."
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "contract_address": "0x6474bc11f512dfe6a5162b2167e3f94b61471d05",
+    "url": "https://back.finance/",
+    "explorers": [
+        "https://hecoinfo.com/token/0x6474bc11F512DfE6A5162b2167e3f94b61471d05"
+    ],
+    "twitter": "Back_Finance",
+    "telegram": "BACK_Global"
+}

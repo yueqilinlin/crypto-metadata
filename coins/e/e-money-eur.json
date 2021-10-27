@@ -1,0 +1,23 @@
+{
+    "id": "e-money-eur",
+    "symbol": "eeur",
+    "name": "e-Money EUR",
+    "platforms": {
+        "osmosis": "ibc/5973C068568365FFF40DEDCF1A1CB7582B6116B731CD31A12231AE25E20B871F"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "EUR Stablecoin"
+    ],
+    "description": {
+        "en": "e-Money stablecoins are a further stage in the development of collateralized stablecoins, but with some great advantages of their own which truly set them apart.\r\nFirstly, e-Money stablecoins are not prone to the many drawbacks and inherent instability of algorithmic stablecoins. e-Money stablecoins are collateralized in the same currency as which they are issued so the eEUR stablecoin is collateralized in Euros. The simplicity of this system also means that currency-backed stablecoins are highly efficient and liquid."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "ibc/5973C068568365FFF40DEDCF1A1CB7582B6116B731CD31A12231AE25E20B871F",
+    "url": "https://e-money.com",
+    "explorers": [],
+    "twitter": "emoney_com",
+    "telegram": "emoney_com",
+    "github_org": "e-money"
+}

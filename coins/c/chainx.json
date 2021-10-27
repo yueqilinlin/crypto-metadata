@@ -1,0 +1,26 @@
+{
+    "id": "chainx",
+    "symbol": "pcx",
+    "name": "ChainX",
+    "platforms": {
+        "polkadot": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency",
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "ChainX aims to facilitate asset interoperability with other blockchains It measures users' mining power based on the market value of BTC, DOT, ETH, ERC20, EOS and other assets that are deposited in an inter-chain bridge."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "url": "https://chainx.org/",
+    "explorers": [
+        "https://scan.chainx.org/"
+    ],
+    "twitter": "chainx_org",
+    "telegram": "chainx_org",
+    "reddit": "ChainX/",
+    "github_org": "chainx-org"
+}

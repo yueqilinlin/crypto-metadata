@@ -1,0 +1,22 @@
+{
+    "id": "babydot",
+    "symbol": "bdot",
+    "name": "BabyDot",
+    "platforms": {
+        "binance-smart-chain": "0x08bd7f9849f8eec12fd78c9fed6ba4e47269e3d5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BabyDOT is a community driven token on the BSC blockchain. \r\nIt passively rewards holders with PolkaDot rewards just for holding the token.\r\n\r\nHolders with \"\"Diamond Paws\"\" who never sold will get twice the rewards.\r\n\r\nThe rewards can be claimed at any time."
+    },
+    "country_origin": "AT",
+    "genesis_date": null,
+    "contract_address": "0x08bd7f9849f8eec12fd78c9fed6ba4e47269e3d5",
+    "url": "https://babydot.community/",
+    "explorers": [
+        "https://bscscan.com/token/0x08bd7f9849f8eec12fd78c9fed6ba4e47269e3d5"
+    ],
+    "twitter": "BabyDotBSC",
+    "telegram": "BabyDotBSC"
+}

@@ -1,0 +1,31 @@
+{
+    "id": "automata",
+    "symbol": "ata",
+    "name": "Automata",
+    "platforms": {
+        "ethereum": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+        "binance-smart-chain": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+        "polygon-pos": "0x0df0f72ee0e5c9b7ca761ecec42754992b2da5bf"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Launchpool",
+        "Polygon Ecosystem",
+        "MEV Protection"
+    ],
+    "description": {
+        "en": "Automata Network is a decentralized service protocol that provides middleware-like traceless privacy services for dApps on Ethereum and Polkadot to achieve privacy, high assurance and frictionless computation. For more information about Automata, visit the <a href=\"https://www.ata.network/\">website</a> or read the <a href=\"https://www.ata.network/lightpaper.pdf\">lightpaper</a>."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+    "url": "https://www.ata.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xA2120b9e674d3fC3875f415A7DF52e382F141225",
+        "https://bscscan.com/token/0xa2120b9e674d3fc3875f415a7df52e382f141225",
+        "https://ethplorer.io/address/0xA2120b9e674d3fC3875f415A7DF52e382F141225",
+        "https://polygonscan.com/token/0x0df0f72ee0e5c9b7ca761ecec42754992b2da5bf"
+    ],
+    "twitter": "automatanetwork",
+    "telegram": "ata_network"
+}

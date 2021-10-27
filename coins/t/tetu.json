@@ -1,0 +1,23 @@
+{
+    "id": "tetu",
+    "symbol": "tetu",
+    "name": "TETU Reward Token",
+    "platforms": {
+        "polygon-pos": "0x255707b70bf90aa112006e1b07b9aea6de021424"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tetu is a DeFi application built on Polygon that implements automated yield farming strategies in order to provide investors with a safe and secure method of receiving high yield on their investments."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x255707b70bf90aa112006e1b07b9aea6de021424",
+    "url": "https://tetu.io/",
+    "explorers": [
+        "https://polygonscan.com/token/0x255707b70bf90aa112006e1b07b9aea6de021424"
+    ],
+    "twitter": "tetu_io",
+    "telegram": "tetu_io",
+    "github_org": "tetu-io"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "gard-governance-token",
+    "symbol": "ggt",
+    "name": "GARD Governance Token",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GGT (GARD Governance Token) serves as the decentralized governance token on Hashgard public chain, which is used to build up and promote DeFi ecosystem on the public chain. GGT Holders are entitled to vote on DeFi protocol governance. Hashgard is developed based on the mature cross-chain technology Cosmos-SDK, featured with high performance, high scalability, and support for smart contracts. Hashgard is devoted to a prosperous DeFi system in the Cosmos ecosystem."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "url": "http://www.ggt.finance/",
+    "explorers": [
+        "https://explorer.hashgard.com/home#/home"
+    ],
+    "twitter": "Hashgard_off",
+    "facebook": "gard.hash.5",
+    "telegram": "hashgardeng",
+    "github_org": "hashgard"
+}

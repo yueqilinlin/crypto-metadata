@@ -1,0 +1,26 @@
+{
+    "id": "zyx",
+    "symbol": "zyx",
+    "name": "ZYX",
+    "platforms": {
+        "ethereum": "0xf974b5f9ac9c6632fee8b76c61b0242ce69c839d",
+        "binance-smart-chain": "0x10b2aac3a2b82a288a3569228bfbb5148c248203"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": "Launched on 13.06.2020 ZYX was created as a means of payment for a fast-growing digital ecosystem in which the economic motives of each individual participant provide an increase in the overall wealth and wellbeing of the entire community.  ZYX Network is an open source project with such advantages as a Proof-of-Stake consensus algorithm, transactions speed, a large number of functions and development opportunities for developers of decentralized applications (dApps) and in future sidechains that will be providing security for the main ledger."
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0xf974b5f9ac9c6632fee8b76c61b0242ce69c839d",
+    "url": "https://zyx.network/",
+    "explorers": [
+        "https://explorer.zyx.network",
+        "https://etherscan.io/token/0xf974b5f9ac9c6632fee8b76c61b0242ce69c839d",
+        "https://ethplorer.io/address/0xf974b5f9ac9c6632fee8b76c61b0242ce69c839d",
+        "https://bscscan.com/token/0x10b2aac3a2b82a288a3569228bfbb5148c248203"
+    ],
+    "twitter": "zyx__network",
+    "facebook": "zyxnetwork"
+}

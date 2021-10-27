@@ -1,0 +1,20 @@
+{
+    "id": "coral-swap",
+    "symbol": "coral",
+    "name": "Coral Swap",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Coral Swap is a decentralized protocol for automated liquidity provision on SERO protocol."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "url": "https://coraldex.io/",
+    "explorers": [
+        "https://explorer.sero.cash/"
+    ],
+    "twitter": "CoralDEX",
+    "telegram": "coralswap",
+    "github_org": "coral-dex"
+}

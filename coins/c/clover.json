@@ -1,0 +1,24 @@
+{
+    "id": "clover",
+    "symbol": "clv",
+    "name": "Clover",
+    "platforms": {
+        "ethereum": "0x22222c03318440305ac3e8a7820563d6a9fd777f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A completely /biz/-run DeFi project. The network is governed by token owners, with a distribution as widely within the /biz/ community as possible via the fair launch. As chainlinkers understand that the financial system is slowly but surely becoming like LEGO bricks, there is opportunity at the edges to innovate as the bull run for Bitcoin, DeFi and daily /biz/ volume itself draw near."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x22222c03318440305ac3e8a7820563d6a9fd777f",
+    "url": "http://cloverprotocol.biz/",
+    "explorers": [
+        "https://etherscan.io/token/0x22222c03318440305ac3e8a7820563d6a9fd777f",
+        "https://ethplorer.io/address/0x22222c03318440305ac3e8a7820563d6a9fd777f"
+    ],
+    "twitter": "clvbiz",
+    "telegram": "clvfi",
+    "github_org": "clvfi"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "pokerfi",
+    "symbol": "pokerfi",
+    "name": "PokerFi",
+    "platforms": {
+        "binance-smart-chain": "0xfe073c3b891325ae8686d9cf2c8b3586674f7be2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The PokerFi Token aims to revolutionize transactions in online and live poker.\r\n\r\nIt is a Token linked to the BEP20 network, binance smart chain. In the smart contract has an innovative system of passive income proportional to the number of tokens the wallet has, paid in dollars. You buy pokerfi, store them in your wallet, and for each transaction you will be paid a 6% fee, where 3% is automatically distributed every 12 hours to all wallets that have equal to or more than 35,000 coins."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfe073c3b891325ae8686d9cf2c8b3586674f7be2",
+    "url": "https://pokerfi.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xfe073c3b891325ae8686d9cf2c8b3586674f7be2"
+    ],
+    "twitter": "FinancePoker",
+    "telegram": "PokerFiEnglish"
+}

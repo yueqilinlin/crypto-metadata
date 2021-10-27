@@ -1,0 +1,24 @@
+{
+    "id": "givingtoservices-svs",
+    "symbol": "svs",
+    "name": "GivingToServices SVS",
+    "platforms": {
+        "ethereum": "0x7ca62545a380e7d71f8f5cfa14b9211002075930"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Charity"
+    ],
+    "description": {
+        "en": "We aim to support the many public service workers, internationally, who face ever greater financial uncertainty by enabling access to cutting edge, tailor made, decentralised, financial tools.\r\n\r\nGiving To Services is a decentralised financial (DeFi) service that harnesses blockchain technology to empower those involved in public services, including the medical, education, emergency services, government and council professions. The system is powered by an audited digital currency called SVS (an ERC20 Ethereum token) which enables transparent financial interactions between individuals, charities, institutions and other organisations connected with the provision of public services. \r\n\r\nSVS is the underlying asset used on our staking platform. "
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0x7ca62545a380e7d71f8f5cfa14b9211002075930",
+    "url": "https://www.givingtoservices.com",
+    "explorers": [
+        "https://etherscan.io/token/0x7ca62545a380e7d71f8f5cfa14b9211002075930",
+        "https://ethplorer.io/address/0x7ca62545a380e7d71f8f5cfa14b9211002075930"
+    ],
+    "twitter": "SVSToken"
+}

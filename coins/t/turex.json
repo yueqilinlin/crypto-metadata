@@ -1,0 +1,24 @@
+{
+    "id": "turex",
+    "symbol": "tur",
+    "name": "Turex",
+    "platforms": {
+        "binance-smart-chain": "0x29a75ec2d2b8a57fdc45094dc51fefd147c908d8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TUREX is a decentralized digital currency based on the Binance Smart Chain blockchain.\r\n\r\nThe main task of TUREX is to develop various products using the token.\r\n\r\nUsing TUREX products, you can make purchases or conduct business anywhere in the world."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x29a75ec2d2b8a57fdc45094dc51fefd147c908d8",
+    "url": "https://turex.money/",
+    "explorers": [
+        "https://bscscan.com/token/0x29a75ec2d2b8a57fdc45094dc51fefd147c908d8"
+    ],
+    "twitter": "turex_money",
+    "facebook": "TUREX-101580965315300",
+    "telegram": "turex_money",
+    "github_org": "TurexMoney"
+}

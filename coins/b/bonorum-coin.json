@@ -1,0 +1,18 @@
+{
+    "id": "bonorum-coin",
+    "symbol": "bono",
+    "name": "Bonorum",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [],
+    "description": {
+        "en": "Bonorum is as simple as a bank but with a difference. We are a bank for your crypto assets. As the user you can choose to deposit and earn interest on your assets to generate passive income and also borrow funds instantly when needed for a minimal interest."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://www.bonorum.io/",
+    "explorers": [
+        "http://explorer.bonorum.io/"
+    ],
+    "github_org": "bonoproject"
+}

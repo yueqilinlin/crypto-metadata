@@ -1,0 +1,25 @@
+{
+    "id": "dprating",
+    "symbol": "rating",
+    "name": "DPRating",
+    "platforms": {
+        "ethereum": "0xe8663a64a96169ff4d95b4299e7ae9a76b905b31"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Big Data"
+    ],
+    "description": {
+        "en": "DPRating is a leading quantitative crypto rating agency founded in May 2017. Since our inception we have released the first comprehensive ICO rating model, SmartICO, and conducted in-depth rating for dozens of projects\r\n\r\nWe have gone on to improve and expand our ratings into three models with different concentrations: Embryo, Growth, and Mature. Each model is adapted to evaluate projects in different development phases. In the future, we will continue to refine these models to achieve more accurate and scientific results.\r\n\r\nApart from our quantitative ratings, DPRating's services also include due diligence investigation, ranking lists (Code audits and quality of token listings across different exchanges ), and indexes (DPC and BVIX)."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0xe8663a64a96169ff4d95b4299e7ae9a76b905b31",
+    "url": "http://token.dprating.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe8663a64a96169ff4d95b4299e7ae9a76b905b31",
+        "https://ethplorer.io/address/0xe8663a64a96169ff4d95b4299e7ae9a76b905b31"
+    ],
+    "twitter": "dprating",
+    "telegram": "DPRating"
+}

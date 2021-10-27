@@ -1,0 +1,24 @@
+{
+    "id": "zeedex",
+    "symbol": "zdex",
+    "name": "Zeedex",
+    "platforms": {
+        "ethereum": "0x5150956e082c748ca837a5dfa0a7c10ca4697f9c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ZDEX is the Native Token for Zeedex Exchange. It will be used for Fees Deduction on Trades, IDEOs Initial Decentralized Exchange Offerings, Staking and Lending on Zeedex Platform."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x5150956e082c748ca837a5dfa0a7c10ca4697f9c",
+    "url": "https://zeedex.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c",
+        "https://ethplorer.io/address/0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c"
+    ],
+    "twitter": "Zeedexio",
+    "telegram": "zeedexio",
+    "github_org": "zeedexio"
+}

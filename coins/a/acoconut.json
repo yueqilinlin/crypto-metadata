@@ -1,0 +1,24 @@
+{
+    "id": "acoconut",
+    "symbol": "ac",
+    "name": "ACoconut",
+    "platforms": {
+        "ethereum": "0x9a0aba393aac4dfbff4333b06c407458002c6183"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ACoconut is a suite of open protocols designed to enable frictionless movement of liquidity between decentralized systems. ACoconut is made up of BTC+ and acBTC protocols. \r\nBTC+ - A positively rebasing synthetic BTC made up of pegged BTC tokens and interest bearing tokens. Designed to provide global interests, stable peg against BTC and compsability with DeFi protocols. \r\nacBTC - A composite Bitcoin up of a basket of pegged BTC assets. Designed for frictionless transfer of BTC liquidity across blockchain networks."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9a0aba393aac4dfbff4333b06c407458002c6183",
+    "url": "http://acoconut.fi",
+    "explorers": [
+        "https://etherscan.io/token/0x9A0aBA393aac4dFbFf4333B06c407458002C6183",
+        "https://ethplorer.io/address/0x9a0aba393aac4dfbff4333b06c407458002c6183"
+    ],
+    "twitter": "ACoconutDAO",
+    "telegram": "acbtc_community",
+    "github_org": "nutsfinance"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "nushares",
+    "symbol": "nsr",
+    "name": "NuShares",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "NuShares are units held by individuals who wish to help support and maintain the Nu network. Owning NuShares is not required to use NuBits. Instead, NuShares are intended to be a source of network equity for developers, entrepreneurs, and speculators. NuShareholders can receive network revenues in the form of Peercoin dividends paid out by a custodian. NuShareholders can cast votes for actions that positively affect the Nu network. These actions help adjust the supply and demand for NuBits so that they will always remain at a long-term USD 1.00 value."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://nubits.com/nushares/introduction",
+    "explorers": [
+        "https://nubits.com/explorer"
+    ],
+    "twitter": "OfficialNuBits",
+    "facebook": "OfficialNuBits",
+    "reddit": "NuBits"
+}

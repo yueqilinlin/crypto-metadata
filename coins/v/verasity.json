@@ -1,0 +1,28 @@
+{
+    "id": "verasity",
+    "symbol": "vra",
+    "name": "Verasity",
+    "platforms": {
+        "ethereum": "0xf411903cbc70a74d22900a5de66a2dda66507255"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Entertainment",
+        "Gaming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0xf411903cbc70a74d22900a5de66a2dda66507255",
+    "url": "https://verasity.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xf411903cbc70a74d22900a5de66a2dda66507255",
+        "https://ethplorer.io/address/0xf411903cbc70a74d22900a5de66a2dda66507255"
+    ],
+    "twitter": "verasitytech",
+    "telegram": "Verasity_Official",
+    "reddit": "https://www.reddit.com",
+    "github_org": "verasitytech"
+}

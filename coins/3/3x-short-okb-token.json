@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-okb-token",
+    "symbol": "okbbear",
+    "name": "3X Short OKB Token",
+    "platforms": {
+        "ethereum": "0x053e5ba7cb9669dcc2feb2d0e1d3d4a0ad6aae39"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short OKB Token (OKBBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of OKB."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x053e5ba7cb9669dcc2feb2d0e1d3d4a0ad6aae39",
+    "url": "https://ftx.com/tokens/OKBBEAR",
+    "explorers": [
+        "https://etherscan.io/token/0x053e5ba7cb9669dcc2feb2d0e1d3d4a0ad6aae39",
+        "https://ethplorer.io/address/0x053e5ba7cb9669dcc2feb2d0e1d3d4a0ad6aae39"
+    ]
+}

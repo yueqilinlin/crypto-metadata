@@ -1,0 +1,26 @@
+{
+    "id": "ptokens-ore",
+    "symbol": "ore",
+    "name": "pTokens ORE",
+    "platforms": {
+        "ethereum": "0x4f640f2529ee0cf119a2881485845fa8e61a782a",
+        "polygon-pos": "0xd52f6ca48882be8fbaa98ce390db18e1dbe1062d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The ORE Token is the native digital asset that runs the Open Rights Exchange (ORE) Network \u2014 an open-source and decentralized blockchain technology that can manage identities and digital assets, cross-chain.\r\n\r\nThe ORE Network works cross-chain with Ethereum, Algorand, EOS and more to connect Web 2.0 identities to Web 3.0. \r\n\r\nORE Network provides a simple log-in experience for blockchain companies to expand their users and grow faster \u2014 and allows non-blockchain companies to start using blockchain and crypto technology, without having to do the heavy lifting.\r\n\r\nThe ORE Token\u2019s utility continuously grows with every new account created on the ORE blockchain \u2014 and any new project built on the Open Rights Exchange. There are already hundreds of accounts, with more added daily and dozens of layer-1 solutions building with ORE Network including Algorand, Alliance Block, Republic Realm and AIKON."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4f640f2529ee0cf119a2881485845fa8e61a782a",
+    "url": "https://ore.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x4f640F2529ee0cF119A2881485845FA8e61A782A",
+        "https://ethplorer.io/address/0x4f640f2529ee0cf119a2881485845fa8e61a782a",
+        "https://polygonscan.com/token/0xd52f6ca48882be8fbaa98ce390db18e1dbe1062d"
+    ],
+    "twitter": "oreprotocol",
+    "telegram": "orecommunity",
+    "github_org": "Open-Rights-Exchange"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "bitcoin-network-demand-set",
+    "symbol": "byte3",
+    "name": "Bitcoin Network Demand Set",
+    "platforms": {
+        "ethereum": "0xff32b6dc663e9aa3ef61117749c6ccc168100b99"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The BYTE set is not a regulated investment vehicle. The set follows the Bitcoin Network Demand Model. Rebalances are executed through the SetsProtocol.\r\n\r\nAn investor may get back less than the amount invested. Information on past performance, where given, is not a guide to future performance.\r\n\r\nThe algorithm behind the BYTE3 set incorporates four network demand metrics across six different indicators, to give an overall allocation score. These metrics are Network Fees, Transaction Value, Velocity and Miners\u2019 Change in Inventory. The Litepaper for the Bitcoin Network Demand Model is available here: http://bit.ly/ndmb3 "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xff32b6dc663e9aa3ef61117749c6ccc168100b99",
+    "url": "https://www.tokensets.com/v2/set/0xFF32b6dc663e9AA3Ef61117749C6cCC168100b99",
+    "explorers": [
+        "https://etherscan.io/token/0xff32b6dc663e9aa3ef61117749c6ccc168100b99",
+        "https://ethplorer.io/address/0xff32b6dc663e9aa3ef61117749c6ccc168100b99"
+    ],
+    "twitter": "SetProtocol"
+}

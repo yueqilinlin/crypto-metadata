@@ -1,0 +1,23 @@
+{
+    "id": "arweave",
+    "symbol": "ar",
+    "name": "Arweave",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Storage"
+    ],
+    "description": {
+        "en": "Welcome to the future of data storage\r\nA new data storage blockchain protocol based on a novel proof of access consensus mechanism that creates truly permanent data storage for the first time. Now data is finally permanent, low-cost, and truly censorship free.\r\n\r\nArweave has solved the millennia old problem of decentralised data availability.\r\nPay Once, Store Forever.\r\nArweave makes permanent data storage a reality for the very first time. As the $3 trillion data-storage industry is growing, the need for cheap, distributed, permanent data-storage on the blockchain has become an urgent necessity."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://arweave.org/",
+    "explorers": [
+        "https://viewblock.io/arweave"
+    ],
+    "twitter": "arweaveteam",
+    "facebook": "ArweaveTeam",
+    "telegram": "arweave",
+    "github_org": "ArweaveTeam"
+}

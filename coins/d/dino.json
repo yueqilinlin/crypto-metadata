@@ -1,0 +1,21 @@
+{
+    "id": "dino",
+    "symbol": "dino",
+    "name": "Dino",
+    "platforms": {
+        "solana": "6Y7LbYB3tfGBG6CSkyssoxdtHb77AEMTRVXe8JUJRwZ7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DINO is an experiment around community creation and delivering products that aim to bring fun and awareness to the Solana ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "6Y7LbYB3tfGBG6CSkyssoxdtHb77AEMTRVXe8JUJRwZ7",
+    "url": "https://solanadino.com/",
+    "explorers": [
+        "https://explorer.solana.com/address/6Y7LbYB3tfGBG6CSkyssoxdtHb77AEMTRVXe8JUJRwZ7"
+    ],
+    "twitter": "SolanaDINO"
+}

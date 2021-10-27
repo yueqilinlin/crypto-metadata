@@ -1,0 +1,32 @@
+{
+    "id": "linear",
+    "symbol": "lina",
+    "name": "Linear",
+    "platforms": {
+        "ethereum": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+        "harmony-shard-0": "0x946c8286bd9b52b81f681903210e1a57872fdd85"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Yield Farming",
+        "Polkadot Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "A Cross-chain Decentralized Delta-One Asset Protocol with Unlimited Liquidity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+    "url": "https://linear.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+        "https://ethplorer.io/address/0x3e9bc21c9b189c09df3ef1b824798658d5011937"
+    ],
+    "twitter": "LinearFinance",
+    "telegram": "LinearExchangeCommunity",
+    "reddit": "LinearFinance/",
+    "github_org": "Linear-finance"
+}

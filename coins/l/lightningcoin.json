@@ -1,0 +1,18 @@
+{
+    "id": "lightningcoin",
+    "symbol": "lc",
+    "name": "LightningCoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://lightningcoin.info/",
+    "explorers": [
+        "http://192.169.6.64:3001/"
+    ],
+    "github_org": "LightningLCD"
+}

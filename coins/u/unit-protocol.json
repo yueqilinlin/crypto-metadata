@@ -1,0 +1,27 @@
+{
+    "id": "unit-protocol",
+    "symbol": "col",
+    "name": "Unit Protocol",
+    "platforms": {
+        "ethereum": "0xc76fb75950536d98fa62ea968e1d6b45ffea2a55"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Unit protocol is a decentralized borrowing protocol that allows using a variety of tokens as collateral"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc76fb75950536d98fa62ea968e1d6b45ffea2a55",
+    "url": "https://unit.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0xC76FB75950536d98FA62ea968E1D6B45ffea2A55",
+        "https://ethplorer.io/address/0xC76FB75950536d98FA62ea968E1D6B45ffea2A55"
+    ],
+    "twitter": "unitprotocol",
+    "telegram": "unit_en",
+    "github_org": "unitprotocol?"
+}

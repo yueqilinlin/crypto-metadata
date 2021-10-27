@@ -1,0 +1,27 @@
+{
+    "id": "ethernity-chain",
+    "symbol": "ern",
+    "name": "Ethernity Chain",
+    "platforms": {
+        "ethereum": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Collectibles",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Ethernity Chain is a community-oriented platform that produces limited edition authenticated NFTs and trading cards created by your favorite artists and endorsed by notable figures. Built on the Ethereum Network, it aims to build the biggest A-NFT library, reward its creators and raise funds for charitable causes forever. Its unique DEFI applications allow ERN token holders to farm rare A-NFTs and vote on proposals that will amend the Ethernity Chain ecosystem."
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
+    "url": "https://ethernity.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
+        "https://ethplorer.io/address/0xbbc2ae13b23d715c30720f079fcd9b4a74093505"
+    ],
+    "twitter": "ethernitychain",
+    "telegram": "ethernitychain"
+}

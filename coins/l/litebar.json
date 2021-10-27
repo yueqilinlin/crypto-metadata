@@ -1,0 +1,22 @@
+{
+    "id": "litebar",
+    "symbol": "ltb",
+    "name": "LiteBar",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "LiteBar is a digital commodity reared out of Litecoin.Similar to Litecoin, LiteBar is an open-source, p2p technology that functions without any central authority.Litebar uses scrypt as Proof of Work (PoW) and is intended to be used as a way to store wealth, like Bitbar.LiteBar can be stored like a precious metal, or even exchanged as a global currency, it was specifically designed to appreciate in value over time."
+    },
+    "country_origin": null,
+    "genesis_date": "2014-02-11",
+    "url": "http://litebar.co/#xl_xr_page_index",
+    "explorers": [
+        "http://ltb.altcoinwarz.com:3002/",
+        "http://ltb.altcoinwarz.com/",
+        "http://ltb.smartchain.cc/"
+    ],
+    "twitter": "litebarco",
+    "reddit": "litebar",
+    "github_org": "Crypto-Currency"
+}

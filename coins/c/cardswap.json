@@ -1,0 +1,23 @@
+{
+    "id": "cardswap",
+    "symbol": "cswap",
+    "name": "CardSwap",
+    "platforms": {
+        "ethereum": "0x3b3f95938958a4029fa8b01873e2721b02950883"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CardSwap will be the go-to DEX for trading on the Cardano network. All CardStarter launched projects will have their liquidity migrated to CardSwap. CardSwap is driven by 3 core features, automated market making with deep liquidity pools, leverage trading and a staking platform where users choose their reward tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3b3f95938958a4029fa8b01873e2721b02950883",
+    "url": "https://www.cardstarter.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3b3f95938958a4029fa8b01873e2721b02950883",
+        "https://ethplorer.io/address/0x3b3f95938958a4029fa8b01873e2721b02950883"
+    ],
+    "twitter": "cardanoswap",
+    "telegram": "CSWAP_Chat"
+}

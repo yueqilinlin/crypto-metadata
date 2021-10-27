@@ -1,0 +1,22 @@
+{
+    "id": "kutikirise",
+    "symbol": "ktr",
+    "name": "KuTikiRise",
+    "platforms": {
+        "kucoin-community-chain": "0x141b987f067db2745402a07de8d1e471fc48c4aa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$KTR operates on a self-governed frictionless yield cultivating and liquidity generating algorithm. Just hold the necessary number of $KTR tokens in your wallet and you will acquire hourly rewards in $KTR."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x141b987f067db2745402a07de8d1e471fc48c4aa",
+    "url": "https://kutikirise.finance/",
+    "explorers": [
+        "https://explorer.kcc.io/en/token/0x141b987f067db2745402a07de8d1e471fc48c4aa"
+    ],
+    "twitter": "tiki_ku",
+    "telegram": "KuTikiRise"
+}

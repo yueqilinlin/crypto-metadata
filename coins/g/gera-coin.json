@@ -1,0 +1,24 @@
+{
+    "id": "gera-coin",
+    "symbol": "gera",
+    "name": "Gera Coin",
+    "platforms": {
+        "ethereum": "0xde5ea375ffbdc8b25a80fe13d631e8ba0ab4bb02"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GERA Coin is a crypto payment platform suited for the new normal."
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "contract_address": "0xde5ea375ffbdc8b25a80fe13d631e8ba0ab4bb02",
+    "url": "https://geracoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xde5ea375ffbdc8b25a80fe13d631e8ba0ab4bb02",
+        "https://ethplorer.io/address/0xde5ea375ffbdc8b25a80fe13d631e8ba0ab4bb02"
+    ],
+    "twitter": "GeraCoin",
+    "facebook": "Gera-Coin-100762075192953",
+    "telegram": "geracoin"
+}

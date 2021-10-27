@@ -1,0 +1,22 @@
+{
+    "id": "xfarmer",
+    "symbol": "xf",
+    "name": "xFarmer",
+    "platforms": {
+        "huobi-token": "0xe0fe25eefcfcaddef844fe30b8be1d68ac6b7af3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "xFarmer is a mobile APP to help you interact with DEXes on HECO, Charts are available for all existing pairs, Data is pulled directly from smart contract of Heco Nodes"
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0xe0fe25eefcfcaddef844fe30b8be1d68ac6b7af3",
+    "url": "https://xfarmer.net/",
+    "explorers": [
+        "https://hecoinfo.com/token/0xe0fe25eefcfcaddef844fe30b8be1d68ac6b7af3"
+    ],
+    "twitter": "xFarmer9",
+    "github_org": "xFarmerDex"
+}

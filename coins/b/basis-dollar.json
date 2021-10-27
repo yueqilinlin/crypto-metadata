@@ -1,0 +1,28 @@
+{
+    "id": "basis-dollar",
+    "symbol": "bsd",
+    "name": "Basis Dollar",
+    "platforms": {
+        "ethereum": "0x003e0af2916e598fa5ea5cb2da4edfda9aed9fde"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Yield Farming",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "BasisDollar - an experimental fair-launched stablecoin project that is a variation of the Basis model."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x003e0af2916e598fa5ea5cb2da4edfda9aed9fde",
+    "url": "https://basisdollar.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x003e0af2916e598fa5ea5cb2da4edfda9aed9fde",
+        "https://ethplorer.io/address/0x003e0af2916e598fa5ea5cb2da4edfda9aed9fde"
+    ],
+    "twitter": "BasisDollar",
+    "telegram": "BasisDollar_Fi",
+    "github_org": "basisdollar"
+}

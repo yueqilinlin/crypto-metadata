@@ -1,0 +1,30 @@
+{
+    "id": "nectar-token",
+    "symbol": "nec",
+    "name": "Nectar",
+    "platforms": {
+        "ethereum": "0xcc80c051057b774cd75067dc48f8987c4eb97a5e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcc80c051057b774cd75067dc48f8987c4eb97a5e",
+    "url": "https://nectar.community/",
+    "explorers": [
+        "https://etherscan.io/token/0xcc80c051057b774cd75067dc48f8987c4eb97a5e",
+        "https://ethplorer.io/address/0xcc80c051057b774cd75067dc48f8987c4eb97a5e"
+    ],
+    "twitter": "deversifi",
+    "facebook": "deversifi",
+    "telegram": "deversifi",
+    "reddit": "deversifi/",
+    "github_org": "deversifi"
+}

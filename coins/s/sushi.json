@@ -1,0 +1,41 @@
+{
+    "id": "sushi",
+    "symbol": "sushi",
+    "name": "Sushi",
+    "platforms": {
+        "ethereum": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+        "binance-smart-chain": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
+        "avalanche": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
+        "polygon-pos": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+        "fantom": "0xae75a438b2e0cb8bb01ec1e1e376de11d44477cc",
+        "harmony-shard-0": "0xbec775cb42abfa4288de81f387a9b1a3c4bc552a",
+        "arbitrum-one": "0xd4d42f0b6def4ce0383636770ef773390d85c61a",
+        "sora": "0x0078f4e6c5113b3d8c954dff62ece8fc36a8411f86f1cbb48a52527e22e73be2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem",
+        "Polygon Ecosystem",
+        "Yearn Ecosystem",
+        "Automated Market Maker (AMM)",
+        "Governance",
+        "Exchange-based Tokens",
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "Sushi is a DeFi protocol that is completely community-driven, serving up delicious interest for your held crypto assets.\r\n\r\nOn Sushi, you can take advantage of passive-income providing DeFi tools such as liquidity providing, yield farming and staking. Furthermore, due to the decentralized nature of being an AMM (Automated Market Maker), Sushi has fewer hurdles to execute your cryptocurrency trades and all fees are paid to the users who provided liquidity, just as it should be!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+    "url": "https://sushi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+        "https://ethplorer.io/address/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+        "https://bscscan.com/token/0x947950bcc74888a40ffa2593c5798f11fc9124c4",
+        "https://polygonscan.com/token/0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a"
+    ],
+    "twitter": "sushiswap"
+}

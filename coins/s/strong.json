@@ -1,0 +1,27 @@
+{
+    "id": "strong",
+    "symbol": "strong",
+    "name": "Strong",
+    "platforms": {
+        "ethereum": "0x990f341946a3fdb507ae7e52d17851b87168017c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "Governance Token for StrongBlock DeFi platform."
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0x990f341946a3fdb507ae7e52d17851b87168017c",
+    "url": "https://strongblock.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x990f341946a3fdb507ae7e52d17851b87168017c",
+        "https://ethplorer.io/address/0x990f341946a3fdb507ae7e52d17851b87168017c"
+    ],
+    "twitter": "Strongblock_io",
+    "facebook": "StrongBlock.io",
+    "telegram": "strongblock_io",
+    "github_org": "strongblock"
+}

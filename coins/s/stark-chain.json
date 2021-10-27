@@ -1,0 +1,23 @@
+{
+    "id": "stark-chain",
+    "symbol": "stark",
+    "name": "Stark Chain",
+    "platforms": {
+        "binance-smart-chain": "0xe23d36f4805a405d6ea5021b623d0a5fd2075307"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An BEP20 token that can be integrated into everyday life with its MEMO feature, reverse-halving algorithm, and environmentally friendly mining."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0xe23d36f4805a405d6ea5021b623d0a5fd2075307",
+    "url": "https://starkchain.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xe23d36f4805a405d6ea5021b623d0a5fd2075307"
+    ],
+    "twitter": "Stark_Chain",
+    "facebook": "starkchainofficial",
+    "github_org": "starkchain"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "kite-sync",
+    "symbol": "kite",
+    "name": "Kite Sync",
+    "platforms": {
+        "binance-smart-chain": "0xede26a1ee14281b58a5238a3ff246b02358a13b6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kite Sync is a community based Decentralized Autonomous Organization that is functioned through the DeFi & NFT system to enable a variety of functions and services including staking, farming, governance, NFT staking, etc. Our agenda or consensus is to provide staking, farming, exclusive NFTs and governance platform as service and utility to other crypto projects.\r\n\r\nProducts offered by Kite Sync are yield optimizer, staking platform, NFT launchpad, NFT staking platform, IDO launchpad and Governance platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xede26a1ee14281b58a5238a3ff246b02358a13b6",
+    "url": "https://www.kitesync.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xede26a1ee14281b58a5238a3ff246b02358a13b6"
+    ],
+    "twitter": "kite_sync",
+    "telegram": "kitesync"
+}

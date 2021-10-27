@@ -1,0 +1,34 @@
+{
+    "id": "nusd",
+    "symbol": "susd",
+    "name": "sUSD",
+    "platforms": {
+        "ethereum": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
+        "fantom": "0x0e1694483ebb3b74d3054e383840c6cf011e518e",
+        "arbitrum-one": "0xa970af1a584579b618be4d69ad6f73459d112f95",
+        "optimistic-ethereum": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "USD Stablecoin",
+        "Synths",
+        "Decentralized Finance (DeFi)",
+        "Stablecoins",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. sUSD mirrors and tracks the price of USD provided by an oracle - Chainlink."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
+    "url": "https://synthetix.io",
+    "explorers": [
+        "https://etherscan.io/token/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+        "https://ethplorer.io/address/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+        "https://arbiscan.io/token/0xa970af1a584579b618be4d69ad6f73459d112f95"
+    ],
+    "twitter": "synthetix_io",
+    "reddit": "synthetix_io",
+    "github_org": "Synthetixio"
+}

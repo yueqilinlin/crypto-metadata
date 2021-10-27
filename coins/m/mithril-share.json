@@ -1,0 +1,27 @@
+{
+    "id": "mithril-share",
+    "symbol": "mis",
+    "name": "Mithril Share",
+    "platforms": {
+        "ethereum": "0x024b6e7dc26f4d5579bdd936f8d7bc31f2339999"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x024b6e7dc26f4d5579bdd936f8d7bc31f2339999",
+    "url": "https://mith.cash/",
+    "explorers": [
+        "https://etherscan.io/token/0x024b6e7dc26f4d5579bdd936f8d7bc31f2339999",
+        "https://ethplorer.io/address/0x024b6e7dc26f4d5579bdd936f8d7bc31f2339999"
+    ],
+    "twitter": "mithcash",
+    "telegram": "mithcash"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "zoo-crypto-world",
+    "symbol": "zoo",
+    "name": "ZOO - Crypto World",
+    "platforms": {
+        "binance-smart-chain": "0x1d229b958d5ddfca92146585a8711aecbe56f095"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "A new type of NFT Yield Farming + Gaming Platform"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1d229b958d5ddfca92146585a8711aecbe56f095",
+    "url": "https://zoogame.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x1D229B958D5DDFca92146585a8711aECbE56F095"
+    ],
+    "twitter": "zoogamepro",
+    "telegram": "zoo_crypto_world"
+}

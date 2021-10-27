@@ -1,0 +1,24 @@
+{
+    "id": "bonezyard",
+    "symbol": "bnz",
+    "name": "BonezYard",
+    "platforms": {
+        "ethereum": "0x014a543f767b3b06e31a811b0a75483ee8dfd72d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bonezyard Music Platform"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x014a543f767b3b06e31a811b0a75483ee8dfd72d",
+    "url": "https://bonezyard.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x014a543f767b3b06e31a811b0a75483ee8dfd72d",
+        "https://ethplorer.io/address/0x014a543f767b3b06e31a811b0a75483ee8dfd72d"
+    ],
+    "twitter": "bonezyard",
+    "telegram": "BonezYard",
+    "github_org": "Bonezyard"
+}

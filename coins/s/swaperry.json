@@ -1,0 +1,22 @@
+{
+    "id": "swaperry",
+    "symbol": "perry",
+    "name": "Swaperry",
+    "platforms": {
+        "binance-smart-chain": "0x9452d45d33490234b8c96f42342f1be28c0fe097"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Swaperry is a decentralized exchange (DEX) designed to be highly performant, transparent and feature-riched to asset traders. It is built on top of the Polkadot ecosystem, which aims to offer scalability, noticeably faster transactions and cheaper fees.\r\n\r\nSwaperry\u2019s current products include:\r\n1. A user-friendly, AMM-based exchange with advanced features, previously only available on centralized exchanges, like limit order, options, derivatives.\r\n2. Play and Earn with the first decentralized prediction games on the market\r\n3. Cross-chain support within the polkadot ecosystem and eventually externally to other popular blockchains (bitcoin, ethereum, etc).\r\n4. A suite of tools that help traders analyze the market, aggregate prices and make informed decisions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9452d45d33490234b8c96f42342f1be28c0fe097",
+    "url": "https://swaperry.com",
+    "explorers": [
+        "https://bscscan.com/token/0x9452d45d33490234b8c96f42342f1be28c0fe097"
+    ],
+    "twitter": "swaperrydex",
+    "telegram": "swaperry"
+}

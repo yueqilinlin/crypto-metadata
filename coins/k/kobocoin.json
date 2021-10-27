@@ -1,0 +1,20 @@
+{
+    "id": "kobocoin",
+    "symbol": "kobo",
+    "name": "Kobocoin",
+    "platforms": {},
+    "hashing_algorithm": "X15",
+    "categories": [],
+    "description": {
+        "en": "Kobocoin is a digital currency and payment system similar to Bitcoin, with an African heritage. All nodes verify transactions in a public distributed ledger called the blockchain. The ledger uses its own unit of account, also called kobocoin(s).\r\nThe kobocoin blockchain is distributed, to independently verify the chain of ownership of each and every kobocoin amount. The wallet on your device is a node. It works to maintain the security and integrity of the blockchain along with all other nodes. There is no central database. This is the decentralized nature of the Kobocoin ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": "2015-02-07",
+    "url": "http://kobocoin.com/",
+    "explorers": [
+        "https://chainz.cryptoid.info/kobo/"
+    ],
+    "twitter": "kobocoindev",
+    "reddit": "Kobocoin",
+    "github_org": "kobocoin"
+}

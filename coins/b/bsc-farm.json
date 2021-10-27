@@ -1,0 +1,23 @@
+{
+    "id": "bsc-farm",
+    "symbol": "bsc",
+    "name": "BSC Farm",
+    "platforms": {
+        "binance-smart-chain": "0x17bc015607fdf93e7c949e9ca22f96907cfbef88"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BSC.Farm was created to be the pioneering step, as a leader in listing Yield Farms projects on Binance Smart Chain. Our mission is to be the most complete, accurate and leading synthesis platform within DeFi projects. Thus, becoming a place to update the news, search for projects or opportunities for investment, help users to avoid from fake information, scams, and also being a place to facilitate new and potential projects to approach their potential investors. This is not only an open playground but also an extremely selective, the BSC Farm team will always research and survey carefully before listing to bring users the safest and most effective experience."
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0x17bc015607fdf93e7c949e9ca22f96907cfbef88",
+    "url": "https://bsc.farm/",
+    "explorers": [
+        "https://bscscan.com/token/0x17bc015607fdf93e7c949e9ca22f96907cfbef88"
+    ],
+    "twitter": "BscFarm",
+    "telegram": "bscfarm",
+    "github_org": "bscfarm"
+}

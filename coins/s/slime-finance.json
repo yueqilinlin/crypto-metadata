@@ -1,0 +1,23 @@
+{
+    "id": "slime-finance",
+    "symbol": "slme",
+    "name": "Slime Finance",
+    "platforms": {
+        "binance-smart-chain": "0x4fcfa6cc8914ab455b5b33df916d90bfe70b6ab1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yield farming on Binance Smart Chain"
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0x4fcfa6cc8914ab455b5b33df916d90bfe70b6ab1",
+    "url": "https://slime.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x4fcfa6cc8914ab455b5b33df916d90bfe70b6ab1"
+    ],
+    "twitter": "SlimeFinance",
+    "telegram": "slimefinance",
+    "github_org": "slime-fi"
+}

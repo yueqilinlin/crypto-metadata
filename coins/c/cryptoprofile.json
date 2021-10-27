@@ -1,0 +1,27 @@
+{
+    "id": "cryptoprofile",
+    "symbol": "cp",
+    "name": "CryptoProfile",
+    "platforms": {
+        "ethereum": "0x06a6fc23e6ec8a2b2aeeefd70d772dc3d6b45010"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "CryptoProfile is one of the first platforms that focus on creating a consolidated airdrop platform for ICO projects. The platform naturally aligns the long-term interests of stakeholders, with listed ICO projects getting the marketing exposure."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x06a6fc23e6ec8a2b2aeeefd70d772dc3d6b45010",
+    "url": "https://www.cryptoprofile.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x06a6fc23e6ec8a2b2aeeefd70d772dc3d6b45010",
+        "https://ethplorer.io/address/0x06a6fc23e6ec8a2b2aeeefd70d772dc3d6b45010"
+    ],
+    "twitter": "cryptoproglobal",
+    "facebook": "CryptoProfile",
+    "telegram": "cryptoprofile",
+    "reddit": "Cryptoprofile/"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "unifarm",
+    "symbol": "ufarm",
+    "name": "UniFarm",
+    "platforms": {
+        "ethereum": "0x40986a85b4cfcdb054a6cbfb1210194fee51af88",
+        "binance-smart-chain": "0x0a356f512f6fce740111ee04ab1699017a908680",
+        "polygon-pos": "0xa7305ae84519ff8be02484cda45834c4e7d13dd6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Unifarm is an innovative group farming solution where a bunch of projects come together to create a reward pool. \r\nUsers can stake one token and start farming different project tokens.\r\nUnifarm has launched farming for 24 projects including Polygon, Reef, Razor, Paid etc."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x40986a85b4cfcdb054a6cbfb1210194fee51af88",
+    "url": "https://unifarm.co",
+    "explorers": [
+        "https://etherscan.io/token/0x40986a85b4cfcdb054a6cbfb1210194fee51af88",
+        "https://ethplorer.io/address/0x40986a85b4cfcdb054a6cbfb1210194fee51af88",
+        "https://polygonscan.com/token/0xa7305ae84519ff8be02484cda45834c4e7d13dd6",
+        "https://bscscan.com/token/0x0A356f512f6fCE740111ee04Ab1699017a908680"
+    ],
+    "twitter": "unifarm_",
+    "telegram": "unifarm"
+}

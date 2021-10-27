@@ -1,0 +1,22 @@
+{
+    "id": "xiropht",
+    "symbol": "xiro",
+    "name": "Xiropht",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Xiropht is a centralized cryptocurrency. Payments are processed and verified on a single central point. Xiropht is fully developed under the C# programming language. Xiropht tools are not limited to Windows systems, they can be ported to other systems such as Linux, Android and others by external and valid technologies such as Xamarin and Mono. Several points provide access to the network of the centralized Blockchain. Xiropht aims to prove that mining can be protected in real time against ASIC's without going through a Soft/Hard Fork and without the need to submit any significant updates to users or to important network points of the cryptocurrency, such as Seed Nodes and Remote Nodes to keep them compatible with the\r\nnetwork."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "url": "https://xiropht.com/",
+    "explorers": [
+        "https://xiropht.com/blockchain-explorer.html"
+    ],
+    "twitter": "xiropht",
+    "telegram": "XIROPHTCOIN",
+    "github_org": "XIROPHT"
+}

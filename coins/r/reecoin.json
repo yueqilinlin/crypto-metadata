@@ -1,0 +1,17 @@
+{
+    "id": "reecoin",
+    "symbol": "ree",
+    "name": "ReeCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "ReeCoin is a peer-to-peer decentralized digital currency for ordinary people, easy to use and acquire. ReeCoin summarizes the best characteristics of digital currencies, which were issued earlier (Bitcoin, Peercoin), such as: increased security, fast consensus mechanism, and increased decentralization achieved by requiring miners to prove the knowledge of the transaction data."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://reecoin.com/",
+    "explorers": [],
+    "twitter": "reecoindev",
+    "github_org": "Reecoin"
+}

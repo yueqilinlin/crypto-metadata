@@ -1,0 +1,24 @@
+{
+    "id": "exohood",
+    "symbol": "exo",
+    "name": "Exohood",
+    "platforms": {
+        "binance-smart-chain": "0x7d10b6157c7c577caa62d319dc215209cf2db8c3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized and Democratizing finances for all."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7d10b6157c7c577caa62d319dc215209cf2db8c3",
+    "url": "https://exohood.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x7d10b6157c7c577caa62d319dc215209cf2db8c3"
+    ],
+    "twitter": "ExohoodOfficial",
+    "telegram": "exohood",
+    "reddit": "Exohood/",
+    "github_org": "exohood"
+}

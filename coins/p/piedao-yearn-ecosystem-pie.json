@@ -1,0 +1,30 @@
+{
+    "id": "piedao-yearn-ecosystem-pie",
+    "symbol": "ypie",
+    "name": "PieDAO Yearn Ecosystem Pie",
+    "platforms": {
+        "ethereum": "0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "DeFi Index",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "The Yearn Ecosystem Pie (YPIE) is the first of PieDAO's PieVaults implementations, able to directly engage with protocols across DeFi, bringing meta-governance and unlocking a higher productivity for each Pie\u2019s underlying assets. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31",
+    "url": "https://beta.piedao.org/#/pie/0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31",
+    "explorers": [
+        "https://etherscan.io/token/0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31",
+        "https://ethplorer.io/address/0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31",
+        "https://pools.piedao.org/#/pie/0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31"
+    ],
+    "twitter": "piedao_DeFI",
+    "telegram": "piedao",
+    "reddit": "PieDAO/",
+    "github_org": "pie-dao"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "pangolin",
+    "symbol": "png",
+    "name": "Pangolin",
+    "platforms": {
+        "avalanche": "0x60781c2586d68229fde47564546784ab3faca982"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem",
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Pangolin is a community-driven decentralized exchange for Avalanche and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution\u2013powered by Avalanche."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x60781c2586d68229fde47564546784ab3faca982",
+    "url": "https://pangolin.exchange/",
+    "explorers": [
+        "https://avascan.info/blockchain/c/token/0x60781C2586D68229fde47564546784ab3fACA982",
+        "https://cchain.explorer.avax.network/tokens/0x60781C2586D68229fde47564546784ab3fACA982/"
+    ],
+    "twitter": "pangolindex",
+    "telegram": "pangolindex"
+}

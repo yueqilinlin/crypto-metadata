@@ -1,0 +1,22 @@
+{
+    "id": "wildfire-token",
+    "symbol": "wildf",
+    "name": "Wildfire Token",
+    "platforms": {
+        "binance-smart-chain": "0xbb58f5c1c7521f6da845b76c75081505254377d7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbb58f5c1c7521f6da845b76c75081505254377d7",
+    "url": "https://www.wildfiretoken.xyz/",
+    "explorers": [
+        "https://bscscan.com/token/0xbb58f5c1c7521f6da845b76c75081505254377d7"
+    ],
+    "twitter": "WildfireToken",
+    "telegram": "WildfireTokenBSC"
+}

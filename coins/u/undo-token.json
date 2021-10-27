@@ -1,0 +1,22 @@
+{
+    "id": "undo-token",
+    "symbol": "undo",
+    "name": "Undo Token",
+    "platforms": {
+        "binance-smart-chain": "0xae768a3d387c3b65d382535a790370af94bb1691"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Undo is a Global Initiative that represents the fight against pollution and combating its effects. To achieve this goal the whole planet must work as a team, which can be done even in front of a screen."
+    },
+    "country_origin": "RO",
+    "genesis_date": null,
+    "contract_address": "0xae768a3d387c3b65d382535a790370af94bb1691",
+    "url": "https://undo.website/",
+    "explorers": [
+        "https://bscscan.com/token/0xae768a3d387c3b65d382535a790370af94bb1691"
+    ],
+    "twitter": "UndoToken",
+    "telegram": "UndoToken"
+}

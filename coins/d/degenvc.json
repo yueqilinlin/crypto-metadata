@@ -1,0 +1,24 @@
+{
+    "id": "degenvc",
+    "symbol": "dgvc",
+    "name": "DegenVC",
+    "platforms": {
+        "ethereum": "0x26e43759551333e57f073bb0772f50329a957b30"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"Degens replace VCs - Curation Market for Uniswap.\r\n\r\nIn a Nutshell: Assuming teams lock their tokens in a pragmatic way, an airdrop to Uniswap liquidity providers is a viable funding strategy for a crypto project. DGVC token liquidity providers on Uniswap receive these airdrops in proportion to their LP token holding. When we get big enough degens replace VCs.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x26e43759551333e57f073bb0772f50329a957b30",
+    "url": "https://www.degen.vc/",
+    "explorers": [
+        "https://etherscan.io/token/0x26E43759551333e57F073bb0772F50329A957b30",
+        "https://ethplorer.io/address/0x26e43759551333e57f073bb0772f50329a957b30"
+    ],
+    "twitter": "degen_vc",
+    "telegram": "degenvc",
+    "github_org": "degen-vc"
+}

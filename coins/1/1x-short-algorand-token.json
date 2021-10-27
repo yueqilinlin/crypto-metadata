@@ -1,0 +1,21 @@
+{
+    "id": "1x-short-algorand-token",
+    "symbol": "algohedge",
+    "name": "1X Short Algorand Token",
+    "platforms": {
+        "ethereum": "0xfdc3d57eb7839ca68a2fad7a93799c8e8afa61b7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "1X Short Algorand Token (ALGOHEDGE) is an ERC20 token which seeks a return that corresponds to -1 times the daily return of Algorand."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfdc3d57eb7839ca68a2fad7a93799c8e8afa61b7",
+    "url": "https://ftx.com/tokens/ALGOHEDGE",
+    "explorers": [
+        "https://etherscan.io/token/0xfdc3D57eB7839ca68A2fAD7A93799c8e8aFA61B7",
+        "https://ethplorer.io/address/0xfdc3d57eb7839ca68a2fad7a93799c8e8afa61b7"
+    ]
+}

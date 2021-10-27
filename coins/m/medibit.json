@@ -1,0 +1,24 @@
+{
+    "id": "medibit",
+    "symbol": "medibit",
+    "name": "MEDIBIT",
+    "platforms": {
+        "ethereum": "0x737fa0372c8d001904ae6acaf0552d4015f9c947"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MediBit is a utility token project to build an HIPPA-compliment, open platform based on blockchain technology, where healthcare consumers can authorize, choose, and control the level of sharing of their personal health information with healthcare organizations. Beyond this, MediBit aims to globalize the platform by creating MediBit Information Exchange (MIX) and MediBit Token Exchange (MTX). "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x737fa0372c8d001904ae6acaf0552d4015f9c947",
+    "url": "https://www.medibit.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x737fa0372c8d001904ae6acaf0552d4015f9c947",
+        "https://ethplorer.io/address/0x737fa0372c8d001904ae6acaf0552d4015f9c947"
+    ],
+    "twitter": "OfficialMedibit",
+    "facebook": "MediBitOfficial",
+    "telegram": "MediBit_EN"
+}

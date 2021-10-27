@@ -1,0 +1,23 @@
+{
+    "id": "autobitco-token",
+    "symbol": "abco",
+    "name": "AutoBitco Token",
+    "platforms": {
+        "ethereum": "0xa5ad8cae66c643294a926190df717674315a8159"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The ABCO token is a key element of the AutoBitco ecosystem, which plays an important role in the creation and further development of the platform ecosystem.\r\n\r\nABCO unites the AutoBitco community and serves as an important incentive element that allows users of the platform to earn even more profit.\r\n\r\nThe main task of the ABCO token at the first stages of project development is to create an ecosystem that allows you to actively trade the ABCO token on exchanges.\r\n\r\nThe ABCO token plays an important role in ensuring the liquidity of the P2P platform, participation in escrow, and the staking program. All payments on the AutoBitco platform for P2P exchanges are done in the ABCO token. The ABCO token is used to pay for all other services of the platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa5ad8cae66c643294a926190df717674315a8159",
+    "url": "https://autobitco.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa5ad8cae66c643294a926190df717674315a8159",
+        "https://ethplorer.io/address/0xa5ad8cae66c643294a926190df717674315a8159"
+    ],
+    "twitter": "Abco_Token",
+    "telegram": "abcotokengr"
+}

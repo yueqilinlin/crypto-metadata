@@ -1,0 +1,24 @@
+{
+    "id": "pledgecamp",
+    "symbol": "plg",
+    "name": "Pledgecamp",
+    "platforms": {
+        "ethereum": "0x85ca6710d0f1d511d130f6935edda88acbd921bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pledgecamp is securing the future of crowdfunding with blockchain protected investments.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x85ca6710d0f1d511d130f6935edda88acbd921bd",
+    "url": "https://pledgecamp.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x85ca6710d0f1d511d130f6935edda88acbd921bd",
+        "https://ethplorer.io/address/0x85ca6710d0f1d511d130f6935edda88acbd921bd"
+    ],
+    "twitter": "pledgecamp",
+    "facebook": "pledgecamp",
+    "telegram": "pledgecamp"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "amber",
+    "symbol": "amb",
+    "name": "Ambrosus",
+    "platforms": {},
+    "hashing_algorithm": "Dagger",
+    "categories": [
+        "Internet of Things (IOT)"
+    ],
+    "description": {
+        "en": "The Ambrosus Ecosystem provides an industrial grade blockchain and IoT platform for the digitization of physical processes across the global economy. Built for both enterprises and entrepreneurs, Ambrosus offers cutting edge IoT devices, alongside a robust blockchain-cloud infrastructure designed to holistically secure and manage data collected from the real world."
+    },
+    "country_origin": "CH",
+    "genesis_date": "2017-10-24",
+    "contract_address": "0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce",
+    "url": "https://ambrosus.io/",
+    "explorers": [
+        "https://explorer.ambrosus.io/"
+    ],
+    "twitter": "AMB_Ecosystem",
+    "telegram": "AmbrosusEcosystem",
+    "reddit": "AmbrosusEcosystem/",
+    "github_org": "ambrosus"
+}

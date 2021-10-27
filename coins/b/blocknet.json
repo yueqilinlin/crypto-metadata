@@ -1,0 +1,26 @@
+{
+    "id": "blocknet",
+    "symbol": "block",
+    "name": "Blocknet",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Protocol",
+        "Masternodes"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2014-10-21",
+    "url": "https://blocknet.co/",
+    "explorers": [
+        "https://chainz.cryptoid.info/block/",
+        "https://block.tokenview.com/"
+    ],
+    "twitter": "The_Blocknet",
+    "facebook": "theblocknet",
+    "telegram": "Blocknet",
+    "reddit": "theblocknet",
+    "github_org": "BlocknetDX"
+}

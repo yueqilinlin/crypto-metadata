@@ -1,0 +1,23 @@
+{
+    "id": "safedoge-token",
+    "symbol": "safedoge",
+    "name": "SafeDoge Token",
+    "platforms": {
+        "binance-smart-chain": "0x05ce1303dfceb5dc4cd16d19d550ce462d11783c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Safedoge was created to simplify investing in cryptocurrency, and reward holders. Our Goal is help global crisis and needs to countries chosen by our community."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x05ce1303dfceb5dc4cd16d19d550ce462d11783c",
+    "url": "https://safedoge.me/",
+    "explorers": [
+        "https://bscscan.com/token/0x05ce1303dfceb5dc4cd16d19d550ce462d11783c"
+    ],
+    "twitter": "safedoge",
+    "telegram": "SafeDogeBSC",
+    "reddit": "SafeDogeOfficial/"
+}

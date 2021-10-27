@@ -1,0 +1,26 @@
+{
+    "id": "symverse",
+    "symbol": "sym",
+    "name": "SymVerse",
+    "platforms": {
+        "ethereum": "0x2fd61567c29e7adb4ca17e60e1f4a3fcfe68acb8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SymVerse is a public, peer to peer blockchain platform which seeks to usher in a new age of mainstream blockchain adoption through improvements in blockchain technology for speed, scalability, simplicity, security, stackability, and sustainability."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x2fd61567c29e7adb4ca17e60e1f4a3fcfe68acb8",
+    "url": "https://www.symverse.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x2fd61567c29e7adb4ca17e60e1f4a3fcfe68acb8",
+        "https://ethplorer.io/address/0x2fd61567c29e7adb4ca17e60e1f4a3fcfe68acb8"
+    ],
+    "twitter": "symverse",
+    "facebook": "SymVerse",
+    "telegram": "SymVerse",
+    "reddit": "SymVerse/",
+    "github_org": "symverse-lab"
+}

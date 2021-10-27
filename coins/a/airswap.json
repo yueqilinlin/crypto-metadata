@@ -1,0 +1,28 @@
+{
+    "id": "airswap",
+    "symbol": "ast",
+    "name": "AirSwap",
+    "platforms": {
+        "ethereum": "0x27054b13b1b798b345b591a4d22e6562d47ea75a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "AirSwap is a decentralized token exchange based on the Swap protocol whitepaper. Swap provides a decentralized trading solution based on a peer-to-peer design. The design solves two problems encountered in a peer-to-peer trading environment: counterparty discovery and pricing suggestions."
+    },
+    "country_origin": "US",
+    "genesis_date": "2017-10-10",
+    "contract_address": "0x27054b13b1b798b345b591a4d22e6562d47ea75a",
+    "url": "https://www.airswap.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x27054b13b1b798b345b591a4d22e6562d47ea75a",
+        "https://ethplorer.io/address/0x27054b13b1b798b345b591a4d22e6562d47ea75a"
+    ],
+    "twitter": "airswap",
+    "reddit": "AirSwap",
+    "github_org": "airswap"
+}

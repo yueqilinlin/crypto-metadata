@@ -1,0 +1,27 @@
+{
+    "id": "investin",
+    "symbol": "ivn",
+    "name": "Investin",
+    "platforms": {
+        "solana": "iVNcrNE9BRZBC9Aqf753iZiZfbszeAVUoikgT9yvr2a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "Decentralized Fund Management protocol "
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "iVNcrNE9BRZBC9Aqf753iZiZfbszeAVUoikgT9yvr2a",
+    "url": "https://www.investin.pro/ ",
+    "explorers": [
+        "https://solscan.io/token/iVNcrNE9BRZBC9Aqf753iZiZfbszeAVUoikgT9yvr2a",
+        "https://bscscan.com/token/iVNcrNE9BRZBC9Aqf753iZiZfbszeAVUoikgT9yvr2a"
+    ],
+    "twitter": "Investin_pro",
+    "telegram": "Investin_pro1",
+    "reddit": "Investin/",
+    "github_org": "Investin-pro"
+}

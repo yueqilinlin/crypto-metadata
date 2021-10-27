@@ -1,0 +1,22 @@
+{
+    "id": "thunder-run-bsc",
+    "symbol": "thundrr",
+    "name": "Thunder Run BSC",
+    "platforms": {
+        "binance-smart-chain": "0xbc0b35bfefcc3d91ea782d93eb5b82cb11cad7a0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbc0b35bfefcc3d91ea782d93eb5b82cb11cad7a0",
+    "url": "https://www.thunderrunbsc.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xbc0b35bfefcc3d91ea782d93eb5b82cb11cad7a0"
+    ],
+    "twitter": "ThunderRunBsc",
+    "telegram": "ThunderRun"
+}

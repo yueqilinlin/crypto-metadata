@@ -1,0 +1,25 @@
+{
+    "id": "moon-maker-protocol",
+    "symbol": "mmp",
+    "name": "Moon Maker Protocol",
+    "platforms": {
+        "binance-smart-chain": "0x768d221e81524de52841aed976370b2e4f990416"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "It is a platform that combines the idea of a centralized launchpad (like BSC Launchpad) with the advantage of DeFi under the concept that everyone can promote their own ideas and tokens on MMP."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x768d221e81524de52841aed976370b2e4f990416",
+    "url": "https://moonmakerprotocol.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x768d221e81524de52841aed976370b2e4f990416"
+    ],
+    "twitter": "moonmakerpro",
+    "facebook": "Moon-Maker-Protocol-108765241379916",
+    "telegram": "Moonmakerprotocol",
+    "reddit": "MoonMakerProtocol",
+    "github_org": "moonmakerprotocol"
+}

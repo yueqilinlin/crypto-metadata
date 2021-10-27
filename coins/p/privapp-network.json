@@ -1,0 +1,24 @@
+{
+    "id": "privapp-network",
+    "symbol": "bpriva",
+    "name": "Privapp Network",
+    "platforms": {
+        "binance-smart-chain": "0xd0f4afa85a667d27837e9c07c81169869c16dd16"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "rivapp Network consists of Priva Token (PRIVA) and all the services provided over privapp.network application without compromising your safety and privacy.\r\nPRIVA is a utility token serving multiple purposes and ensures the safety and growth of our network.\r\nAt first sight, PRIVA is a multi-functional token that drives behavior for both end-users & developers."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd0f4afa85a667d27837e9c07c81169869c16dd16",
+    "url": "https://privapp.network/",
+    "explorers": [
+        "https://bscscan.com/token/0xD0f4afA85a667d27837e9c07c81169869c16Dd16"
+    ],
+    "twitter": "PrivappNetwork",
+    "telegram": "PrivappNetworkGlobal",
+    "reddit": "PrivappNetwork",
+    "github_org": "PrivappNetwork"
+}

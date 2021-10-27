@@ -1,0 +1,24 @@
+{
+    "id": "xx-platform",
+    "symbol": "xxp",
+    "name": "XX Platform",
+    "platforms": {
+        "tron": "TBT6Asn7eZ8GD5s7T3r579s6XxKSe9m12E"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XX Platform is an investment trading platform that combines a multifunctional cabinet with investment elements and a trading service with a set of analytical tools and an asset management program.\r\n\r\nThe work of XX Platform is implemented using a symbiosis of 2 functionalities: dApps on TRON for conducting transactions and distributing coins to token holders, and a web platform for calculating storage reward payments. Storing tokens in a web wallet on the platform allows you to participate in staking XXP token.\r\n\r\nXX Platform has its native XXP token implemented as a TRC20 token standard on the TRON Blockchain."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "TBT6Asn7eZ8GD5s7T3r579s6XxKSe9m12E",
+    "url": "https://xxp.group/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TBT6Asn7eZ8GD5s7T3r579s6XxKSe9m12E"
+    ],
+    "twitter": "XXPlatform",
+    "facebook": "XXPlatform",
+    "telegram": "xxplatform_en",
+    "reddit": "XX_Platform/"
+}

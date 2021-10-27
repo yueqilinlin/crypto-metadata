@@ -1,0 +1,24 @@
+{
+    "id": "cryptoblades-kingdoms",
+    "symbol": "king",
+    "name": "CryptoBlades Kingdoms",
+    "platforms": {
+        "binance-smart-chain": "0x0ccd575bf9378c06f6dca82f8122f570769f00c2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gaming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0ccd575bf9378c06f6dca82f8122f570769f00c2",
+    "url": "https://www.cryptoblades.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x0ccd575bf9378c06f6dca82f8122f570769f00c2"
+    ],
+    "twitter": "BladesCrypto",
+    "telegram": "cryptoblades_general"
+}

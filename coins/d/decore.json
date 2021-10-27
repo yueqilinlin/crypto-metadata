@@ -1,0 +1,23 @@
+{
+    "id": "decore",
+    "symbol": "dcore",
+    "name": "Decore",
+    "platforms": {
+        "ethereum": "0xb944b46bbd4ccca90c962ef225e2804e46691ccf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "decentralized yield farming"
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0xb944b46bbd4ccca90c962ef225e2804e46691ccf",
+    "url": "https://decore.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xb944B46Bbd4ccca90c962EF225e2804E46691cCF",
+        "https://ethplorer.io/address/0xb944B46Bbd4ccca90c962EF225e2804E46691cCF"
+    ],
+    "twitter": "Decore_vault",
+    "telegram": "decorev1"
+}

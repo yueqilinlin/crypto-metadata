@@ -1,0 +1,23 @@
+{
+    "id": "wish-finance-2",
+    "symbol": "wish",
+    "name": "Wish Finance",
+    "platforms": {
+        "binance-smart-chain": "0x980e2937677c7af859b0a9c741370c60c0a28b26"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wish Finance has a clear mission to utilize the power of the global Crypto Ecosystem and the completely transparent Blockchain to provide support, assistance, and money to charities, communities, and worthy causes across the globe. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x980e2937677c7af859b0a9c741370c60c0a28b26",
+    "url": "https://www.wishfinance.io",
+    "explorers": [
+        "https://bscscan.com/token/0x980e2937677c7af859b0a9c741370c60c0a28b26"
+    ],
+    "twitter": "WISHFinance",
+    "telegram": "wishfinanceofficial",
+    "reddit": "WishFinance/"
+}

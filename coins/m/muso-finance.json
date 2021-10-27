@@ -1,0 +1,23 @@
+{
+    "id": "muso-finance",
+    "symbol": "muso",
+    "name": "MUSO Finance",
+    "platforms": {
+        "binance-smart-chain": "0x20512ee0052236b009772af0ed22bc58b40c27b9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MUSO Finance is a BEP20 token built on the Binance Smart Chain, meaning low fees, fast transaction times, and smart contract compatibility\r\n\r\nIdea to innovation \u2013 MUSO Finance was founded in 2021 by likeminded people whom all have a keen interest in music and crypto.\r\n\r\nWith MUSO Finance being the driving force of various projects the team have every intention to be at the forefront of the music industry, offering fair payment to all artists and zestful community events."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x20512ee0052236b009772af0ed22bc58b40c27b9",
+    "url": "https://muso.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x20512ee0052236b009772af0ed22bc58b40c27b9"
+    ],
+    "twitter": "musofinance",
+    "telegram": "musofinance",
+    "reddit": "musofinance/"
+}

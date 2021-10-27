@@ -1,0 +1,23 @@
+{
+    "id": "deus-synthetic-coinbase-iou",
+    "symbol": "wcoinbase-iou",
+    "name": "DEUS Synthetic Coinbase IOU",
+    "platforms": {
+        "ethereum": "0x4185cf99745b2a20727b37ee798193dd4a56cdfa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4185cf99745b2a20727b37ee798193dd4a56cdfa",
+    "url": "https://deus.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x4185cf99745b2a20727b37ee798193dd4a56cdfa",
+        "https://ethplorer.io/address/0x4185cf99745b2a20727b37ee798193dd4a56cdfa"
+    ],
+    "twitter": "DeusDao",
+    "telegram": "deusfinance"
+}

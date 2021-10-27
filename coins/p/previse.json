@@ -1,0 +1,23 @@
+{
+    "id": "previse",
+    "symbol": "prvs",
+    "name": "Previse",
+    "platforms": {
+        "ethereum": "0xa36e59c08c9f251a6b7a9eb6be6e32fd6157acd0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized Oracle Based Prediction Market Platform"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa36e59c08c9f251a6b7a9eb6be6e32fd6157acd0",
+    "url": "https://previse.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xa36e59c08c9f251a6b7a9eb6be6e32fd6157acd0",
+        "https://ethplorer.io/address/0xa36e59c08c9f251a6b7a9eb6be6e32fd6157acd0"
+    ],
+    "twitter": "previsefinance",
+    "telegram": "previse_official"
+}

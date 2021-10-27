@@ -1,0 +1,22 @@
+{
+    "id": "thunderbolt",
+    "symbol": "bolt",
+    "name": "ThunderBolt",
+    "platforms": {
+        "binance-smart-chain": "0x01ec3200a0895f2c92a9e38a104362442d77658b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A deflationary token with positive Rebase on BSC\r\n\r\nThere are a total of 156 cycles, each cycle has a TAX amount on buy/sell and send TXs. The TAX starts at 5% and scales to 12% per cycle. The fee gradually increases as 1.275M tokens are burnt. Cycle comes to an end when we reach total 1.275M tokens burnt, 50% of the burn amount is distributed to holders, and 50% goes to permanent burn. Each new cycle starts at 5% tax."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x01ec3200a0895f2c92a9e38a104362442d77658b",
+    "url": "https://thunderboltfinance.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x01ec3200a0895f2c92a9e38a104362442d77658b"
+    ],
+    "twitter": "ThunderBoltBurn",
+    "telegram": "ThunderBoltBurn"
+}

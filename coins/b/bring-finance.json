@@ -1,0 +1,24 @@
+{
+    "id": "bring-finance",
+    "symbol": "brng",
+    "name": "bRing.Finance",
+    "platforms": {
+        "ethereum": "0x3ecb96039340630c8b82e5a7732bc88b2aeade82",
+        "binance-smart-chain": "0x939d5a13cf0074586a2dcf17bc692b2d3ccdd517"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "bRing.finance is a decentralized cross-chain farming platform. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3ecb96039340630c8b82e5a7732bc88b2aeade82",
+    "url": "https://bring.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x3ecb96039340630c8b82e5a7732bc88b2aeade82",
+        "https://ethplorer.io/address/0x3ecb96039340630c8b82e5a7732bc88b2aeade82"
+    ],
+    "twitter": "BringFinance",
+    "telegram": "bRing_community"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "goma-finance",
+    "symbol": "goma",
+    "name": "GOMA Finance",
+    "platforms": {
+        "binance-smart-chain": "0xab14952d2902343fde7c65d7dc095e5c8be86920"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GOMA is a Hyper-Deflationary Community DeFi Token focused on Financial instruments, Staking and NFTs"
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "contract_address": "0xab14952d2902343fde7c65d7dc095e5c8be86920",
+    "url": "https://gomatoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xab14952d2902343fde7c65d7dc095e5c8be86920"
+    ],
+    "twitter": "GomaShibaToken",
+    "telegram": "GomaShiba"
+}

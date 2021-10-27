@@ -1,0 +1,23 @@
+{
+    "id": "kalata",
+    "symbol": "kala",
+    "name": "Kalata Protocol",
+    "platforms": {
+        "binance-smart-chain": "0x32299c93960bb583a43c2220dc89152391a610c5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The system reads in stock or commodity asset prices via a decentralized price oracle.\r\n\r\nIssuers lock up collateral. If the corresponding asset values rise above the preset collateral level, the collateral may be liquidated to ensure solvency of the system."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x32299c93960bb583a43c2220dc89152391a610c5",
+    "url": "https://www.kalata.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x32299c93960bb583a43c2220dc89152391a610c5"
+    ],
+    "twitter": "KalataOfficial",
+    "telegram": "kalata_group",
+    "github_org": "kalata-io"
+}

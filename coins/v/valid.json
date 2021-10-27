@@ -1,0 +1,29 @@
+{
+    "id": "valid",
+    "symbol": "vld",
+    "name": "Vetri",
+    "platforms": {
+        "ethereum": "0x922ac473a3cc241fd3a0049ed14536452d58d73c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Big Data"
+    ],
+    "description": {
+        "en": "With VETRI, we take personal data management to the next level. At the core is a user-controlled digital identity solution allowing people to transact online securely and seamlessly while safeguarding all their sensitive personal data. Furthermore, VETRI can directly connect users with data consumers such as product and service companies, brands, researchers and advertisers."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x922ac473a3cc241fd3a0049ed14536452d58d73c",
+    "url": "https://vetri.global/",
+    "explorers": [
+        "https://etherscan.io/token/0x922ac473a3cc241fd3a0049ed14536452d58d73c",
+        "https://ethplorer.io/search/0x922ac473a3cc241fd3a0049ed14536452d58d73c",
+        "https://ethplorer.io/address/0x922ac473a3cc241fd3a0049ed14536452d58d73c"
+    ],
+    "twitter": "vetri_global",
+    "facebook": "vetri.global",
+    "telegram": "vetri_global",
+    "reddit": "vetri_global/",
+    "github_org": "vetri-global"
+}

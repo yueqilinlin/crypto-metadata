@@ -1,0 +1,25 @@
+{
+    "id": "synth-ousd",
+    "symbol": "ousd",
+    "name": "Synth oUSD",
+    "platforms": {
+        "binance-smart-chain": "0x6bf2be9468314281cd28a94c35f967cafd388325"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"What is oUSD?\r\noUSD is a synthetic USD token enabled by the Oikos Network. It tracks the price of the US Dollar through price feeds supplied by Chainlink\u2019s decentralized network of oracles. oUSD can be acquired at derive.fi and pancakeswap.finance. It can be traded without slippage for other assets native to the Oikos Network at Oikos.Exchange.\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6bf2be9468314281cd28a94c35f967cafd388325",
+    "url": "https://oikos.cash",
+    "explorers": [
+        "https://bscscan.com/token/0x6bf2be9468314281cd28a94c35f967cafd388325"
+    ],
+    "twitter": "oikos_cash",
+    "facebook": "oikos.cash",
+    "telegram": "oikoscash",
+    "reddit": "OikosCash/",
+    "github_org": "oikos-cash"
+}

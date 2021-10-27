@@ -1,0 +1,24 @@
+{
+    "id": "dock",
+    "symbol": "dock",
+    "name": "Dock",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Big Data",
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "dock.io is a decentralized data exchange protocol that lets people connect their profiles, reputations and experiences across the web with privacy and security."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://dock.io",
+    "explorers": [
+        "https://dock.subscan.io",
+        "https://fe.dock.io/#/explorer"
+    ],
+    "twitter": "docknetwork",
+    "telegram": "dockio",
+    "reddit": "dockio/"
+}

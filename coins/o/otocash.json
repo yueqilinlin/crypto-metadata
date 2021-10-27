@@ -1,0 +1,24 @@
+{
+    "id": "otocash",
+    "symbol": "oto",
+    "name": "OTOCASH",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": " (OTOCASH (OTO) is a Scrypt-PoS Based Cryptocurrency. The OTOCASH Payment Platform reportedly enables buyers to use their OTO coins to pay sellers (private or merchants). The project aims to provide sellers with the safety and convenience of receiving funds in cryptocurrency while offering the consumer-protection to buyers. "
+    },
+    "country_origin": "MY",
+    "genesis_date": null,
+    "url": "https://www.otocash.io/",
+    "explorers": [
+        "https://otocashexplorer.info/",
+        "https://otocashexplorer.net/",
+        "https://www.otocash.info/"
+    ],
+    "twitter": "otocashofficial",
+    "telegram": "otocashofficial",
+    "github_org": "otocash"
+}

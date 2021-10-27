@@ -1,0 +1,24 @@
+{
+    "id": "floki-shiba",
+    "symbol": "fshib",
+    "name": "Floki Shiba",
+    "platforms": {
+        "binance-smart-chain": "0x3dab450ee6451762e72647a05a205dd5697c5c2c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Floki Shiba is cute but with a lot of BITE! $FSHIB is a deflationary coin designed to become more scarce over time. All holders of Floki Shiba will earn more Floki Shiba that is automatically sent to your wallet by simply by holding Floki Shiba coins in your wallet. Watch the amount of Floki Shiba grow in your wallet as all holders automatically receive a 5% fee from every transaction that happens on the Floki Shiba network. The community owns the Floki Shiba network earning from fees generated on the Floki Shiba network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3dab450ee6451762e72647a05a205dd5697c5c2c",
+    "url": "https://flokishiba.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x3dab450ee6451762e72647a05a205dd5697c5c2c"
+    ],
+    "twitter": "FlokiShibaReal",
+    "telegram": "flokishibainu_channel",
+    "reddit": "FlokiShiba/",
+    "github_org": "FlokiShibaTeam"
+}

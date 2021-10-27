@@ -1,0 +1,24 @@
+{
+    "id": "pinkelon",
+    "symbol": "pinke",
+    "name": "PinkElon",
+    "platforms": {
+        "binance-smart-chain": "0x8da0f18e4deb7ba81dbd061df57325a894014b5a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Chase Protocol is a brainchild of the Defi protocols with an element of yield farming, token launch ecosystem based on Binance Smart chain with innovative product launches, where community gets rewarded by holding CHASE"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8da0f18e4deb7ba81dbd061df57325a894014b5a",
+    "url": "https://www.pinkelon.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x8da0f18e4deb7ba81dbd061df57325a894014b5a"
+    ],
+    "twitter": "pinkmoonfinance",
+    "telegram": "pinkelon",
+    "reddit": "PinkMoon/",
+    "github_org": "pinkmoonfinance"
+}

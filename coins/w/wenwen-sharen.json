@@ -1,0 +1,24 @@
+{
+    "id": "wenwen-sharen",
+    "symbol": "sharen",
+    "name": "WENWEN SHAREN",
+    "platforms": {
+        "ethereum": "0x772c316e0a7ab5f1de6de5199a22c951254c5cd3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The WENWEN Protocol is an algorithmic stablecoin protocol that operates via the central bank model. The ultimate goal of the WENWEN Protocol is to provide a highly scalable, decentralized algorithmic currency without collateral.\r\nSHAREN is the governance token in the WENWEN protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x772c316e0a7ab5f1de6de5199a22c951254c5cd3",
+    "url": "https://wenwen.money/",
+    "explorers": [
+        "https://etherscan.io/token/0x772C316e0A7Ab5f1DE6de5199A22c951254C5CD3",
+        "https://ethplorer.io/address/0x772c316e0a7ab5f1de6de5199a22c951254c5cd3"
+    ],
+    "twitter": "wenwenprotocol",
+    "telegram": "wenwenprotocol",
+    "github_org": "wenwenprotocol"
+}

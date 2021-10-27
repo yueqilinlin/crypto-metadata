@@ -1,0 +1,23 @@
+{
+    "id": "siaclassic",
+    "symbol": "scc",
+    "name": "SiaClassic",
+    "platforms": {},
+    "hashing_algorithm": "Blake2b",
+    "categories": [
+        "Big Data",
+        "Storage"
+    ],
+    "description": {
+        "en": "SiaClassic is a continuation of the original vision of a decentralized storage platform, where anyone can store files securely and privately on other users\u2019 spare hard drive space. Utilizing techniques such as encryption, sharding, and redundancy, SiaClassic aims to create a viable alternative to centralized hosting providers such as Amazon, Google, and Microsoft."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://siaclassic.org/",
+    "explorers": [
+        "http://explorer.siaclassic.org/"
+    ],
+    "twitter": "SiaClassic",
+    "telegram": "siaclassic",
+    "reddit": "siaclassic"
+}

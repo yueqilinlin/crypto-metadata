@@ -1,0 +1,26 @@
+{
+    "id": "base-protocol",
+    "symbol": "base",
+    "name": "Base Protocol",
+    "platforms": {
+        "ethereum": "0x07150e919b4de5fd6a63de1f9384828396f25fdc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "Base Protocol (BASE) is a token whose price is pegged to the total market cap of all cryptocurrencies at a ratio of 1 : 1 trillion. BASE allows traders to speculate on the entire crypto industry with one token. If crypto market cap is $450B, BASE is $0.45. If crypto market cap is $800B, BASE is $0.80."
+    },
+    "country_origin": "PA",
+    "genesis_date": null,
+    "contract_address": "0x07150e919b4de5fd6a63de1f9384828396f25fdc",
+    "url": "https://www.baseprotocol.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x07150e919b4de5fd6a63de1f9384828396f25fdc",
+        "https://ethplorer.io/address/0x07150e919b4de5fd6a63de1f9384828396f25fdc"
+    ],
+    "twitter": "baseprotocol",
+    "telegram": "baseprotocol",
+    "github_org": "Base-Protocol"
+}

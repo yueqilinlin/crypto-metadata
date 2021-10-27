@@ -1,0 +1,22 @@
+{
+    "id": "vestxcoin",
+    "symbol": "vestx",
+    "name": "VestxCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "VestxCoin is a new cryptocurrency that has been developed with master node and other promising features to have ease of use to people. The developers decided to combine master node technology with new Mining algorithm explicitly designed to provide ease of mining and fair mining while staying asic resistant. The developers hope to list the coin on exchanges so that it can trade as cryptocurrency pairs. This will make it is easier to exchange between the significant cryptocurrencies for VestXcoin. This will be coupled with the fast lightning transactions that do not require confirmation. This will increase the speed and scalability to levels above others."
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "url": "https://www.vestxcoin.com/",
+    "explorers": [
+        "https://chainz.cryptoid.info/vestx2/"
+    ],
+    "twitter": "vestxcoin",
+    "telegram": "vestxofficial",
+    "github_org": "vestx"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "yearn-global",
+    "symbol": "yg",
+    "name": "Yearn Global",
+    "platforms": {
+        "ethereum": "0xd811e485cb4ab1fad56233de4464fb5d1c9f3e99"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yearn Global is an Independent & new Multichain Defi platform. Users can Farm, Stake, Swap and lend on the platform. \r\n\r\nYG is the native token of Yearn Global platform"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xd811e485cb4ab1fad56233de4464fb5d1c9f3e99",
+    "url": "https://yearn.global/",
+    "explorers": [
+        "https://etherscan.io/token/0xd811e485cb4ab1fad56233de4464fb5d1c9f3e99",
+        "https://ethplorer.io/address/0xd811e485cb4ab1fad56233de4464fb5d1c9f3e99"
+    ],
+    "twitter": "globalyearn",
+    "facebook": "yearn_global",
+    "telegram": "yearn_global",
+    "github_org": "yearn-global"
+}

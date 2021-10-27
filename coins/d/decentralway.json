@@ -1,0 +1,21 @@
+{
+    "id": "decentralway",
+    "symbol": "dcw",
+    "name": "Decentralway",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We are in the process of developing software that can record data from other devices, convert it to our smart side chain, and then store it decentrally on a blockchain.\r\nThis is realized by an automatic blockchain network called mDCW, where each user has only the public key and not the private key.\r\nThe automatic mDCW network is connected to the DCW network via the masternodes and a decentralized backup of the data can thus be guaranteed."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://decentralway.com/",
+    "explorers": [
+        "http://explorer.decentralway.com/"
+    ],
+    "twitter": "decentral_way",
+    "facebook": "DecentralWay",
+    "telegram": "decentralway",
+    "github_org": "decentralway"
+}

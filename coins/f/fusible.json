@@ -1,0 +1,24 @@
+{
+    "id": "fusible",
+    "symbol": "fusii",
+    "name": "Fusible",
+    "platforms": {
+        "binance-smart-chain": "0x3a50d6daacc82f17a2434184fe904fc45542a734"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3a50d6daacc82f17a2434184fe904fc45542a734",
+    "url": "https://fusible.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x3a50d6daacc82f17a2434184fe904fc45542a734"
+    ],
+    "twitter": "fusibleio",
+    "telegram": "fusibleio"
+}

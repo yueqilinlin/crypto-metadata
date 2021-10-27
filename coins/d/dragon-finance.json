@@ -1,0 +1,22 @@
+{
+    "id": "dragon-finance",
+    "symbol": "dragon",
+    "name": "Dragon Finance",
+    "platforms": {
+        "binance-smart-chain": "0x251a3184857488dc90fa9c9a52fd2d8df473d92c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Dragon Finance project is built on the Binance Smart Chain and PancakeSwap to provide users with an incredibly low gas fee experience. It is also very low slippage compared to other tokens with high reflect fees. This helps users to enter and exit their positions without incuring high loses and also makes it easier for CEX exchanges to adopt the $drgn token. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x251a3184857488dc90fa9c9a52fd2d8df473d92c",
+    "url": "https://dragonfarm.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x251a3184857488dc90fa9c9a52fd2d8df473d92c"
+    ],
+    "twitter": "DragonfarmBSC",
+    "telegram": "DragonFarm_finance"
+}

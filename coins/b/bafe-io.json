@@ -1,0 +1,23 @@
+{
+    "id": "bafe-io",
+    "symbol": "bafe",
+    "name": "Bafe.io",
+    "platforms": {
+        "binance-smart-chain": "0x7bb362962f2a4e2089466c79566572b37cfc5d78"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bafe.io Protocol: Static Rewards, LP Acquisition, Manual Burn 100% Community Driven Community driven & fair launch. Dev burned all team tokens and participated in the fair launch with everyone else. Automatic LP Every trade contributes toward automatically generating liquidity locked inside PancakeSwap LP. RFI Static Rewards Holders earn passive rewards through static reflection as they watch their balance of Bafe.io grow indefinitely. Safety Step by step plan to ensure 100% safety."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x7bb362962f2a4e2089466c79566572b37cfc5d78",
+    "url": "https://bafe.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x7bb362962f2a4e2089466c79566572b37cfc5d78"
+    ],
+    "twitter": "Bafeio",
+    "telegram": "Bafeio",
+    "github_org": "Bafeio"
+}

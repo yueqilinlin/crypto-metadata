@@ -1,0 +1,27 @@
+{
+    "id": "stacker-ventures",
+    "symbol": "stack",
+    "name": "Stacker Ventures",
+    "platforms": {
+        "ethereum": "0xe0955f26515d22e347b17669993fcefcc73c3a0a",
+        "polygon-pos": "0xccbe9b810d6574701d324fd6dbe0a1b68f9d5bf7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe0955f26515d22e347b17669993fcefcc73c3a0a",
+    "url": "https://stacker.vc/",
+    "explorers": [
+        "https://etherscan.io/token/0xe0955f26515d22e347b17669993fcefcc73c3a0a",
+        "https://ethplorer.io/address/0xe0955f26515d22e347b17669993fcefcc73c3a0a",
+        "https://polygonscan.com/token/0xccbe9b810d6574701d324fd6dbe0a1b68f9d5bf7"
+    ],
+    "twitter": "StackerVentures",
+    "telegram": "StackerVentures"
+}

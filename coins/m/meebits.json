@@ -1,0 +1,27 @@
+{
+    "id": "meebits",
+    "symbol": "meebits20",
+    "name": "Meebits",
+    "platforms": {
+        "ethereum": "0x61be6fac719f871a24d9bdcdf97b6c94772c7e28"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "MEEBITS20 is a tokenized derivative of the MEEBITS NFT Collection. It enables anyone to trade NFTs from the collection in a permissionless way with instant liquidity on https://nft20.io/ routed via UniSwap. Every 100 MEEBITS20 tokens represent an underlying  NFT, minted upon deposit into the pool on https://nft20.io/ and burned upon withdrawal from the pool."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x61be6fac719f871a24d9bdcdf97b6c94772c7e28",
+    "url": "https://nft20.io/asset/0x61be6fac719f871a24d9bdcdf97b6c94772c7e28",
+    "explorers": [
+        "https://etherscan.io/token/0x61be6fac719f871a24d9bdcdf97b6c94772c7e28",
+        "https://ethplorer.io/address/0x61be6fac719f871a24d9bdcdf97b6c94772c7e28"
+    ],
+    "twitter": "NiftyMuseum",
+    "telegram": "nft20",
+    "github_org": "verynifty"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "tea-token",
+    "symbol": "tea",
+    "name": "Tea Token",
+    "platforms": {
+        "ethereum": "0x5dced3c2fab61e21b25177c6050d3f166f696110"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Teachain, affiliated to TEA CHAIN FOUNDATION LTD. in Singapore, is the first standardized blockchain anti-counterfeiting traceability platform in the tea industry, dedicated to tracing and interacting the data of the entire life cycle of tea planting, picking, processing, logistics, and warehousing, linking the trust bridge between tea enterprises and consumers. TEA is a token that runs through the ecology of the tea industry.\r\nIn TeaChain, we will realize the generation, circulation, use and destruction of TEA. Based on this token economy, we will build another Alibaba in tea industry, which belongs to the blockchain world."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x5dced3c2fab61e21b25177c6050d3f166f696110",
+    "url": "https://www.teachain.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x5dCEd3c2fab61E21B25177c6050D3f166f696110",
+        "https://ethplorer.io/address/0x5dCEd3c2fab61E21B25177c6050D3f166f696110"
+    ],
+    "twitter": "TeaChainGroup",
+    "telegram": "teachainprotocolglobalofficial"
+}

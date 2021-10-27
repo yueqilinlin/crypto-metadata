@@ -1,0 +1,23 @@
+{
+    "id": "growing-fi",
+    "symbol": "grow",
+    "name": "Growing.fi",
+    "platforms": {
+        "binance-smart-chain": "0x8cef274596d334ffa10f8976a920ddc81ba6e29b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Growing.fi is a DeFi portfolio management tool on the Binance Smart Chain (BSC). \r\nThe Grow token (GROW) is a membership token, revenue earning token and governance token of Growing.fi eco system."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8cef274596d334ffa10f8976a920ddc81ba6e29b",
+    "url": "https://www.growing.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0x8CEF274596d334FFa10f8976a920DDC81ba6e29b"
+    ],
+    "twitter": "GrowingFi",
+    "telegram": "growingfiofficial",
+    "github_org": "growingfi"
+}

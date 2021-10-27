@@ -1,0 +1,24 @@
+{
+    "id": "bnx-finex",
+    "symbol": "bnx",
+    "name": "Bnx Finex",
+    "platforms": {
+        "tron": "TBBNcqLNMw6dBZV4YdkeoXfvdsSoqShCHp"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BNX is used as a payment gateway in Bnx Finex Exchange by Bnx Finance Blockchain Tech LTD on Tron network"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "TBBNcqLNMw6dBZV4YdkeoXfvdsSoqShCHp",
+    "url": "https://bnxfinex.com/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TBBNcqLNMw6dBZV4YdkeoXfvdsSoqShCHp"
+    ],
+    "twitter": "bnx_finex",
+    "facebook": "bnxfinex",
+    "telegram": "bnxfinexchannel",
+    "github_org": "bnxfinex"
+}

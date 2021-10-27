@@ -1,0 +1,23 @@
+{
+    "id": "picipo",
+    "symbol": "picipo",
+    "name": "Picipo",
+    "platforms": {
+        "ethereum": "0x1e05f68b29b286fb3bbad3c688d7e2abda549b80"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Picipo is a unified management platform on L2. Manage, sell, buy, rent, lend, and do everything that you want with your NFTs with negligible or no fees at all."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1e05f68b29b286fb3bbad3c688d7e2abda549b80",
+    "url": "https://picipo.io",
+    "explorers": [
+        "https://etherscan.io/token/0x1e05f68B29b286FB3BbAd3c688D7e2ABda549b80",
+        "https://ethplorer.io/address/0x1e05f68b29b286fb3bbad3c688d7e2abda549b80"
+    ],
+    "twitter": "IoPicipo",
+    "telegram": "picipo_chat"
+}

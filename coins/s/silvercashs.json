@@ -1,0 +1,27 @@
+{
+    "id": "silvercashs",
+    "symbol": "svc",
+    "name": "Silvercashs",
+    "platforms": {
+        "tron": "1002182"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Finance / Banking",
+        "Business Services"
+    ],
+    "description": {
+        "en": "Easy, fast and secure payment system\r\n"
+    },
+    "country_origin": "PE",
+    "genesis_date": null,
+    "contract_address": "1002182",
+    "url": "http://www.silvercashs.com/",
+    "explorers": [
+        "https://www.trxplorer.io/token/1002182"
+    ],
+    "twitter": "silvercashs",
+    "facebook": "silvercashs",
+    "telegram": "silvercashs",
+    "github_org": "SilverCashs"
+}

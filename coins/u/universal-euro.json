@@ -1,0 +1,21 @@
+{
+    "id": "universal-euro",
+    "symbol": "upeur",
+    "name": "Universal Euro",
+    "platforms": {
+        "ethereum": "0x6c103d85c15107dce19f5a75fc746227e610aabd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6c103d85c15107dce19f5a75fc746227e610aabd",
+    "url": "https://universalprotocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x6c103d85c15107dce19f5a75fc746227e610aabd",
+        "https://ethplorer.io/address/0x6c103d85c15107dce19f5a75fc746227e610aabd"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "smartshare",
+    "symbol": "ssp",
+    "name": "Smartshare",
+    "platforms": {
+        "ethereum": "0x624d520bab2e4ad83935fa503fb130614374e850"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Smartshare Protocol is a distributed network protocol that not only uses blockchain technology and smart contract to evaluate and quantify the substantive value of all sharable objects, but also can realize the exchange of sharing value of all sharable objects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x624d520bab2e4ad83935fa503fb130614374e850",
+    "url": "https://smartshare.vip/#/",
+    "explorers": [
+        "https://etherscan.io/token/0x624d520bab2e4ad83935fa503fb130614374e850",
+        "https://ethplorer.io/address/0x624d520bab2e4ad83935fa503fb130614374e850"
+    ],
+    "twitter": "Smartshare_vip",
+    "telegram": "SmartshareOfficial"
+}

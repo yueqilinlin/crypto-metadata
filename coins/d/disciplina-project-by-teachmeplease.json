@@ -1,0 +1,27 @@
+{
+    "id": "disciplina-project-by-teachmeplease",
+    "symbol": "dscp",
+    "name": "Disciplina",
+    "platforms": {
+        "ethereum": "0xdece0f6864c1511369ae2c30b90db9f5fe92832c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Internet of Things (IOT)"
+    ],
+    "description": {
+        "en": "The first blockchain to create verified personal profiles based on academic and professional achievements. The use of blockchain technology guarantees the transparency of the platform and creates the conditions for maintaining confidentiality and reliability of information added by ecosystem participants.    \r\n\r\nDISCIPLINA mission: To create a multifunctional blockchain for keeping a unified register of academic achievement and qualifications to generate scoring for every user of the platform. TeachMePlease will be the first project based on the Disciplina blockchain platform.\r\n\r\nDISCIPLINA is being implemented by TeachMePlease team in partnership with Serokell \u2013 international company that specializes in development of distributed systems. Serokell uses high-assurance coding principles and has experience in cryptocurrencies development, one of which is Cardano."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0xdece0f6864c1511369ae2c30b90db9f5fe92832c",
+    "url": "https://disciplina.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xdECE0F6864c1511369ae2c30B90Db9f5fe92832c",
+        "https://ethplorer.io/address/0xdECE0F6864c1511369ae2c30B90Db9f5fe92832c"
+    ],
+    "twitter": "tchmpls_events",
+    "facebook": "tchmpls.events",
+    "telegram": "disciplinachain",
+    "github_org": "DisciplinaOU"
+}

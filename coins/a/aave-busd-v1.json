@@ -1,0 +1,29 @@
+{
+    "id": "aave-busd-v1",
+    "symbol": "abusd",
+    "name": "Aave BUSD v1",
+    "platforms": {
+        "ethereum": "0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Aave Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Aave BUSD is an interest bearing token pegged 1:1 to underlying BUSD deposited in Aave. aBUSD accrue interest in real time in your wallet."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8",
+    "url": "https://aave.com/atokens",
+    "explorers": [
+        "https://etherscan.io/token/0x6Ee0f7BB50a54AB5253dA0667B0Dc2ee526C30a8",
+        "https://ethplorer.io/address/0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome",
+    "reddit": "Aave_Official/",
+    "github_org": "aave"
+}

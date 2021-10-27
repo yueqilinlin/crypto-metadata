@@ -1,0 +1,23 @@
+{
+    "id": "space-farm",
+    "symbol": "space",
+    "name": "Space Farm",
+    "platforms": {
+        "binance-smart-chain": "0x0abd3e3502c15ec252f90f64341cba74a24fba06"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bringing dual farming rewards through margin trading and lending, to yield farming, on the Binance Smart Chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0abd3e3502c15ec252f90f64341cba74a24fba06",
+    "url": "https://farm.space/",
+    "explorers": [
+        "https://bscscan.com/token/0x0abd3e3502c15ec252f90f64341cba74a24fba06"
+    ],
+    "twitter": "farmdotspace",
+    "telegram": "farmdotspace",
+    "github_org": "farmspace"
+}

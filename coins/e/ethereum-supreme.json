@@ -1,0 +1,24 @@
+{
+    "id": "ethereum-supreme",
+    "symbol": "esupreme",
+    "name": "Ethereum Supreme",
+    "platforms": {
+        "ethereum": "0x1ebe1e64dd249c6fdb600d05a927a7d26a4a895f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EthereumSupreme - An hyperdeflationary redistribution token. This token was designed with tokenomics that reward diamond hands and punish paper hands.\r\n\r\nWith a 20% redistribution tax where 10% is redistributed to holders and 10% is burned forever, those who hold the longest, will be rewarded the greatest."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x1ebe1e64dd249c6fdb600d05a927a7d26a4a895f",
+    "url": "https://www.ethereumsupreme.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1ebe1e64dd249c6fdb600d05a927a7d26a4a895f",
+        "https://ethplorer.io/address/0x1ebe1e64dd249c6fdb600d05a927a7d26a4a895f"
+    ],
+    "twitter": "supremeethereum",
+    "telegram": "ethereumsupreme",
+    "reddit": "eSUPREME/"
+}

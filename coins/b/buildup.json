@@ -1,0 +1,23 @@
+{
+    "id": "buildup",
+    "symbol": "bup",
+    "name": "BuildUp",
+    "platforms": {
+        "ethereum": "0xb04dfdb8271ed2d5e13858562c44a77d3ceb9e57"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BUP (build-up) is based on GO Group's Jaeundo Land Resort project in Republic of Korea. The purpose of the BUP ecosystem are built for member benefits and ease of payments."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xb04dfdb8271ed2d5e13858562c44a77d3ceb9e57",
+    "url": "https://gomoneda.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xB04DFdb8271ed2d5e13858562C44A77D3CEb9e57",
+        "https://ethplorer.io/address/0xB04DFdb8271ed2d5e13858562C44A77D3CEb9e57"
+    ],
+    "telegram": "gomoneda_bup",
+    "github_org": "blobs-coin"
+}

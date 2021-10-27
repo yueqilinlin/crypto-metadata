@@ -1,0 +1,29 @@
+{
+    "id": "cap",
+    "symbol": "cap",
+    "name": "Cap",
+    "platforms": {
+        "ethereum": "0x43044f861ec040db59a7e324c40507addb673142",
+        "arbitrum-one": "0x031d35296154279dc1984dcd93e392b1f946737b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Cap is a protocol to trade the markets with stablecoins.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x43044f861ec040db59a7e324c40507addb673142",
+    "url": "https://cap.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x43044f861ec040DB59A7e324c40507adDb673142",
+        "https://ethplorer.io/address/0x43044f861ec040db59a7e324c40507addb673142",
+        "https://arbiscan.io/token/0x031d35296154279dc1984dcd93e392b1f946737b"
+    ],
+    "twitter": "CapDotFinance",
+    "telegram": "capfin",
+    "github_org": "0xcap"
+}

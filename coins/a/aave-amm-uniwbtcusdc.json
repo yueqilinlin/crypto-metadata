@@ -1,0 +1,24 @@
+{
+    "id": "aave-amm-uniwbtcusdc",
+    "symbol": "aAmmUniWBTCUSDC",
+    "name": "Aave AMM UniWBTCUSDC",
+    "platforms": {
+        "ethereum": "0x2365a4890ed8965e564b7e2d27c38ba67fec4c6f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2365a4890ed8965e564b7e2d27c38ba67fec4c6f",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x2365a4890eD8965E564B7E2D27C38Ba67Fec4C6F",
+        "https://ethplorer.io/address/0x2365a4890eD8965E564B7E2D27C38Ba67Fec4C6F"
+    ],
+    "twitter": "aaveaave"
+}

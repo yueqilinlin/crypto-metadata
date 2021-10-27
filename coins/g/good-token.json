@@ -1,0 +1,23 @@
+{
+    "id": "good-token",
+    "symbol": "good",
+    "name": "Good Token",
+    "platforms": {
+        "binance-smart-chain": "0xd86755f728f52a96830b5e3303bbda97880bf238"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GOOD token is an auto-yield generating charity based token on Binance Smart Chain. Rewarding holders by generating sustainable yield while supporting a multitude of noble causes around the world. \r\n\r\nGOOD token will also be used to support an NFT integrated game called Goodrilla Tap Heroes in the future."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0xd86755f728f52a96830b5e3303bbda97880bf238",
+    "url": "https://goodtoken.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xd86755f728f52a96830b5e3303bbda97880bf238"
+    ],
+    "twitter": "GoodTokenBSC",
+    "telegram": "GoodTokenBSC",
+    "reddit": "GoodTokenBSC"
+}

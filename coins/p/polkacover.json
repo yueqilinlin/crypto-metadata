@@ -1,0 +1,26 @@
+{
+    "id": "polkacover",
+    "symbol": "cvr",
+    "name": "PolkaCover",
+    "platforms": {
+        "ethereum": "0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6",
+    "url": "https://covercompared.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6",
+        "https://ethplorer.io/address/0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6"
+    ],
+    "twitter": "CoverCompared",
+    "telegram": "CoverCompared",
+    "github_org": "CoverCompared"
+}

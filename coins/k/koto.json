@@ -1,0 +1,19 @@
+{
+    "id": "koto",
+    "symbol": "koto",
+    "name": "Koto",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Koto is fork of Zcash. Based on Bitcoin's code, it intends to offer a far higher standard of privacy through a sophisticated zero-knowledge proving scheme that preserves confidentiality of transaction metadata. Technical details are available in our Protocol Specification.\r\n\r\nThis software is the Koto client. It downloads and stores the entire history of Koto transactions; depending on the speed of your computer and network connection, the synchronization process could take a day or more once the blockchain has reached a significant size."
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "url": "https://ko-to.org/",
+    "explorers": [
+        "https://insight.kotocoin.info/"
+    ],
+    "twitter": "KotoOfficial",
+    "github_org": "KotoDevelopers"
+}

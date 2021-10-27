@@ -1,0 +1,23 @@
+{
+    "id": "ampleswap",
+    "symbol": "ample",
+    "name": "AmpleSwap",
+    "platforms": {
+        "binance-smart-chain": "0x335f6e0e804b70a96bf9eb8af31588942e9b2515"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AMM DEX on #BSC. Farms, Pools"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x335f6e0e804b70a96bf9eb8af31588942e9b2515",
+    "url": "https://ampleswap.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x335f6e0e804b70a96bf9eb8af31588942e9b2515"
+    ],
+    "twitter": "ampleswap",
+    "telegram": "ampleswap",
+    "github_org": "ampleswap"
+}

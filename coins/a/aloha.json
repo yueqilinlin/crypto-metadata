@@ -1,0 +1,27 @@
+{
+    "id": "aloha",
+    "symbol": "aloha",
+    "name": "Aloha",
+    "platforms": {
+        "ethereum": "0x455f7ef6d8bcfc35f9337e85aee1b0600a59fabe",
+        "polygon-pos": "0x60ac2e84078ce30cbc68e3d7b18bcf613271ce6b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Aloha is the world's first decentralized peer to peer mobile WiFi hotspot. Users can earn crypto and NFTs by sharing WiFi. Stakers earn governance rights and a share of the profit."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x455f7ef6d8bcfc35f9337e85aee1b0600a59fabe",
+    "url": "https://alohadefi.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x455f7ef6d8bcfc35f9337e85aee1b0600a59fabe",
+        "https://ethplorer.io/address/0x455f7ef6d8bcfc35f9337e85aee1b0600a59fabe",
+        "https://polygonscan.com/token/0x60ac2e84078ce30cbc68e3d7b18bcf613271ce6b"
+    ],
+    "twitter": "AlohaDefi",
+    "github_org": "Aloha-Open-Wifi"
+}

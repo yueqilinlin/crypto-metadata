@@ -1,0 +1,20 @@
+{
+    "id": "kryptokrona",
+    "symbol": "xkr",
+    "name": "Kryptokrona",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [],
+    "description": {
+        "en": "Kryptokrona exists to secure and simplify our future economic system. Sending and receiving money should not be expensive or slow. We work with open source code that allows you to be involved and improve the money of the future."
+    },
+    "country_origin": "SE",
+    "genesis_date": null,
+    "url": "https://kryptokrona.se/en/home/",
+    "explorers": [
+        "https://explorer.kryptokrona.se/"
+    ],
+    "twitter": "kryptokrona",
+    "reddit": "Kryptokrona/",
+    "github_org": "kryptokrona"
+}

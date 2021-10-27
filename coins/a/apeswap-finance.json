@@ -1,0 +1,33 @@
+{
+    "id": "apeswap-finance",
+    "symbol": "banana",
+    "name": "ApeSwap Finance",
+    "platforms": {
+        "binance-smart-chain": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
+        "polygon-pos": "0x5d47baba0d66083c52009271faf3f50dcc01023c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Exchange-based Tokens",
+        "Yield Farming",
+        "Automated Market Maker (AMM)",
+        "Decentralized Exchange Token (DEX)",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "We are an automated market maker on BSC."
+    },
+    "country_origin": "UY",
+    "genesis_date": null,
+    "contract_address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
+    "url": "https://apeswap.finance/",
+    "explorers": [
+        "https://www.bscscan.com/token/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+        "https://bscscan.com/token/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+        "https://polygonscan.com/token/0x5d47baba0d66083c52009271faf3f50dcc01023c"
+    ],
+    "twitter": "ape_swap",
+    "telegram": "ape_swap",
+    "github_org": "ApeSwapFinance"
+}

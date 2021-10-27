@@ -1,0 +1,22 @@
+{
+    "id": "niubiswap",
+    "symbol": "niu",
+    "name": "Niubiswap",
+    "platforms": {
+        "binance-smart-chain": "0xfa90d5d5ff08d9a06c9fdf89b4b22217b9dbc418"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Niubiswap was created and built by and for Chinese and Asian communities, with a focus on our mission; developing and increasing access to the best DeFi services (China, Korea, Vietnam, Japan and even Thailand). The project is decentralized; it's an organization that belongs to its users. The token smart contracts were set up on the first day of the Chinese New Year (Niu / Ox year) and the platform launch was planned exactly one week after. An official Audit is coming (CertiK) in the near future. \r\n\r\nAs a servant and contributor to the trustless and highly decentralized financial infrastructure movement, the Niubiswap organization aims to commit to the initial Ethereum vision: to bring to light the ideals of permissionless access, security, and immutability, along with all indispensable components for a future where anyone in the world can access financial services without fear of discrimination or counterparty risk. We want to achieve this in a P2P and decentralized way. \r\n\r\nAMM DEX is a unique opportunity to build new decentralized and autonomous organizations with unique strategies and models. Niubiswap is creating and providing one that we think is the most solid design to achieve the goals in our plans. In a crowded marketplace with multiple competitors, Niubi offers three critically important benefits: fast and cheap trades, community-driven development, and fair and open token distribution."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0xfa90d5d5ff08d9a06c9fdf89b4b22217b9dbc418",
+    "url": "https://niubiswap.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xfa90d5d5ff08d9a06c9fdf89b4b22217b9dbc418"
+    ],
+    "telegram": "niubiswap1",
+    "github_org": "niubiswap-public"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "dxsale-network",
+    "symbol": "sale",
+    "name": "DxSale Network",
+    "platforms": {
+        "ethereum": "0xf063fe1ab7a291c5d06a86e14730b00bf24cb589",
+        "binance-smart-chain": "0x04f73a09e2eb410205be256054794fb452f0d245"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem",
+        "Launchpad",
+        "Polygon Ecosystem",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "DxSale is a decentralized, cross chain, token management platform as a service. DxSale DAO allows for seamless onboarding of chains to provide tools to facilitate and grow out a chains ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf063fe1ab7a291c5d06a86e14730b00bf24cb589",
+    "url": "https://dxsale.network",
+    "explorers": [
+        "https://etherscan.io/token/0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
+        "https://ethplorer.io/address/0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
+        "https://bscscan.com/token/0x04F73A09e2eb410205BE256054794fB452f0D245"
+    ],
+    "twitter": "dxsale",
+    "telegram": "dxsale"
+}

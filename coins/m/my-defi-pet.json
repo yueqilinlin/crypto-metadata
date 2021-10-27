@@ -1,0 +1,29 @@
+{
+    "id": "my-defi-pet",
+    "symbol": "dpet",
+    "name": "My DeFi Pet",
+    "platforms": {
+        "binance-smart-chain": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+        "ethereum": "0xfb62ae373aca027177d1c18ee0862817f9080d08"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Collectibles",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "My DeFi Pet is a a virtual pet game that combines DeFi, collectibles and your own personality.\r\n\r\nMy DeFi Pet is operated on Supported Network including Binance Smart Chain and KardiaChain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+    "url": "https://mydefipet.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xfb62ae373aca027177d1c18ee0862817f9080d08",
+        "https://explorer.kardiachain.io/token/0xfb62AE373acA027177D1c18Ee0862817f9080d08"
+    ],
+    "twitter": "MyDeFiPet",
+    "facebook": "mydefipet",
+    "telegram": "mydefipet"
+}

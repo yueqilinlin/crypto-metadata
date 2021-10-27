@@ -1,0 +1,33 @@
+{
+    "id": "dexkit",
+    "symbol": "kit",
+    "name": "DexKit",
+    "platforms": {
+        "ethereum": "0x7866e48c74cbfb8183cd1a929cd9b95a7a5cb4f4",
+        "binance-smart-chain": "0x314593fa9a2fa16432913dbccc96104541d32d11"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Polygon Ecosystem",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens",
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "DexKit (KIT) is the next generation DEX. It uses technology based on ZRX protocol, Uniswap and Kyber, among others, to create an advanced trading, swapping, atomic swap, market making and decentralized erc20 and erc721 whitelabel solutions."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0x7866e48c74cbfb8183cd1a929cd9b95a7a5cb4f4",
+    "url": "https://dexkit.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7866e48c74cbfb8183cd1a929cd9b95a7a5cb4f4",
+        "https://ethplorer.io/address/0x7866e48c74cbfb8183cd1a929cd9b95a7a5cb4f4"
+    ],
+    "twitter": "dexkit",
+    "telegram": "dexkit",
+    "reddit": "Dexkit/",
+    "github_org": "DexKit"
+}

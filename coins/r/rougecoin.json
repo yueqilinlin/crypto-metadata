@@ -1,0 +1,26 @@
+{
+    "id": "rougecoin",
+    "symbol": "xrge",
+    "name": "RougeCoin",
+    "platforms": {
+        "ethereum": "0xa1c7d450130bb77c6a23ddfaecbc4a060215384b",
+        "polygon-pos": "0x642f7511a68c57fae8ac0caa618673a66166e4c7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A new non-algorithm based social media & networking cryptocurrency app that rewards users for interaction. Every like/love interaction will be a RougeCoin transaction that rewards the users RougeCoin wallet embedded in the app. Users will be on a decentralized social media platform with no restrictions on their content. It will feature a function where Users can exchange RougeCoin for other CryptoPairs such as eth/btc directly within the app."
+    },
+    "country_origin": "HT",
+    "genesis_date": null,
+    "contract_address": "0xa1c7d450130bb77c6a23ddfaecbc4a060215384b",
+    "url": "https://www.rougecoin.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0xa1c7d450130bb77c6a23ddfaecbc4a060215384b",
+        "https://ethplorer.io/address/0xa1c7d450130bb77c6a23ddfaecbc4a060215384b"
+    ],
+    "twitter": "rougecoin",
+    "facebook": "RougeCoin",
+    "telegram": "rougecoin",
+    "github_org": "rougecoin-project"
+}

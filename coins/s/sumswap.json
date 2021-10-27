@@ -1,0 +1,24 @@
+{
+    "id": "sumswap",
+    "symbol": "sum",
+    "name": "SumSwap",
+    "platforms": {
+        "ethereum": "0x043c308bb8a5ae96d0093444be7f56459f1340b1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An entry point to the SumSwap Network's tech. The SumSwap dApp is No. 1 DeFi aggregator, offering access to the most liquidity and the best token swap rates on various DEXes,with unique features, including partial fill, the Chi gas token and theability to find thebest swap paths across multiple liquidity sources."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x043c308bb8a5ae96d0093444be7f56459f1340b1",
+    "url": "https://www.sumswap.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x043c308bb8a5ae96d0093444be7f56459f1340b1",
+        "https://ethplorer.io/address/0x043c308bb8a5ae96d0093444be7f56459f1340b1"
+    ],
+    "twitter": "sum_swap",
+    "telegram": "sumswaporg",
+    "github_org": "sumswap"
+}

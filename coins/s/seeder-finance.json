@@ -1,0 +1,24 @@
+{
+    "id": "seeder-finance",
+    "symbol": "leaf",
+    "name": "Seeder Finance",
+    "platforms": {
+        "binance-smart-chain": "0x1cbddf83de068464eba3a4e319bd3197a7eea12c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeFi project that provides all features to stake, farm and leverage from the total value locked.  But in addition to the base DeFi use case, the platform will provide 2 unique use cases namely LEAF4FUN and LEAF4FUND.  LEAF4FUN will be providing a plug-and-play gaming platform with an NFT marketplace connecting with world renown characters.  Whereas, LEAF4FUND aims to create Fund tokens to represent investment in real-world Crypto Funds. "
+    },
+    "country_origin": "TH",
+    "genesis_date": null,
+    "contract_address": "0x1cbddf83de068464eba3a4e319bd3197a7eea12c",
+    "url": "https://seeder.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x1CbDdf83De068464Eba3a4E319bd3197a7EEa12c"
+    ],
+    "twitter": "SeederFinance",
+    "facebook": "SeederFinanceTH",
+    "telegram": "SeederFinanceOfficial",
+    "github_org": "seeder-finance"
+}

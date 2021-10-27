@@ -1,0 +1,23 @@
+{
+    "id": "arise-finance",
+    "symbol": "ari",
+    "name": "Arise Finance",
+    "platforms": {
+        "binance-smart-chain": "0xbe9605a0bf1ef8a4235e2c1da83dd3aa7702c7ce"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The first innovative Defi Ecosystem that can help you maximize your daily trading, farming, gaming, NFTs & more."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbe9605a0bf1ef8a4235e2c1da83dd3aa7702c7ce",
+    "url": "https://arise.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xbE9605A0bf1eF8A4235E2C1DA83Dd3AA7702C7CE"
+    ],
+    "twitter": "arisefinance",
+    "telegram": "AriseFinance",
+    "github_org": "AriseFinance1-dev"
+}

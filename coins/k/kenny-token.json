@@ -1,0 +1,22 @@
+{
+    "id": "kenny-token",
+    "symbol": "kenny",
+    "name": "Kenny Token",
+    "platforms": {
+        "polygon-pos": "0x6b1faaa2771e8b3aa0e0ba6830436e2df2a0abd6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hidden yield farm gem on Polygon \u2014 South Park \u2014 the only farm with unbelievably high APR, smart tokenomics and 3-lvl ref system!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6b1faaa2771e8b3aa0e0ba6830436e2df2a0abd6",
+    "url": "https://southpark.finance",
+    "explorers": [
+        "https://polygonscan.com/token/0x6b1faaa2771e8b3aa0e0ba6830436e2df2a0abd6"
+    ],
+    "twitter": "ParkPolygon",
+    "telegram": "southparkfin"
+}

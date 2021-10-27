@@ -1,0 +1,24 @@
+{
+    "id": "low-orbit-crypto-cannon",
+    "symbol": "locc",
+    "name": "Low Orbit Crypto Cannon",
+    "platforms": {
+        "ethereum": "0x556938621c19e5eae58c94a806da9d237b969bd8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Low Orbit Crypto Cannon (LOCC) is a deflationary defi token built on the Ethereum blockchain. Every \u2018x\u2019 number of ETH blocks a propulsion occurs! By stalking the minimum amount of LOCC tokens a eth wallet is eligible to enter the upcoming draws also known as \u201cpropulsions\u201d. \r\n\r\nFees are generated from each trade at 5% propulsion contract fee and 5% burn. As a deflationary token, 500 tokens will be burned from the total supply leaving 500 when the burning is complete. A staker, or astronaut as they call them on their website, is chosen at random and receives all of the collected fees that accumulated within the previous \u2018x\u2019 number of blocks. The number of blocks is chosen by the community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x556938621c19e5eae58c94a806da9d237b969bd8",
+    "url": "https://loworbit.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x556938621c19e5eae58c94a806da9d237b969bd8",
+        "https://ethplorer.io/address/0x556938621c19e5eae58c94a806da9d237b969bd8"
+    ],
+    "twitter": "loworbit_crypto",
+    "telegram": "loworbit_crypto",
+    "github_org": "Low-Orbit-Crypto-Cannon"
+}

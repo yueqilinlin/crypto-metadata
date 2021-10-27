@@ -1,0 +1,32 @@
+{
+    "id": "lua-token",
+    "symbol": "lua",
+    "name": "LuaSwap",
+    "platforms": {
+        "ethereum": "0xb1f66997a5760428d3a87d68b90bfe0ae64121cc",
+        "tomochain": "0x7262fa193e9590b2e075c3c16170f3f2f32f5c74"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Automated Market Maker (AMM)",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb1f66997a5760428d3a87d68b90bfe0ae64121cc",
+    "url": "https://luaswap.org/#/",
+    "explorers": [
+        "https://etherscan.io/token/0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
+        "https://ethplorer.io/address/0xb1f66997a5760428d3a87d68b90bfe0ae64121cc",
+        "https://tomoscan.io/token/0x7262fa193e9590B2E075c3C16170f3f2f32F5C74"
+    ],
+    "twitter": "luaswap",
+    "telegram": "luaswap",
+    "github_org": "tomochain"
+}

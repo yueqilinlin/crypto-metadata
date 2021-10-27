@@ -1,0 +1,25 @@
+{
+    "id": "vidulum",
+    "symbol": "vdl",
+    "name": "Vidulum",
+    "platforms": {},
+    "hashing_algorithm": "Equihash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "The Vidulum App is carrying blockchain and cryptocurrency technology into the future, and making it easier to use along the way. Our web-based platform offers:\r\n\r\nA cryptocurrency wallet that supports more than one coin. Store all of your favorite coins in one place.\r\n\r\nUser requested tools, features, and project listings via our \"Fundraising\" service - adding to an ever-growing platform.\r\n\r\nAccessible from any Windows, Mac, Linux, or Android/IOS Internet-connected device.\r\n\r\nNo installation necessary - everything happens client-side in your browser.\r\n\r\nRock solid security, extremely intuitive, fast, and easy to use for anyone!"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://vidulum.app/",
+    "explorers": [
+        "https://explorer.vidulum.app/",
+        "https://exp.vidulum.app/",
+        "https://explorer2.vidulum.app/"
+    ],
+    "twitter": "VidulumApp",
+    "facebook": "VidulumTeam",
+    "reddit": "VidulumApp/",
+    "github_org": "vidulum"
+}

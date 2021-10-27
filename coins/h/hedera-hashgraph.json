@@ -1,0 +1,27 @@
+{
+    "id": "hedera-hashgraph",
+    "symbol": "hbar",
+    "name": "Hedera",
+    "platforms": {},
+    "hashing_algorithm": "Directed Acyclic Graph (DAG)",
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "Hedera is a decentralized public network where developers can build secure, fair applications with near real-time consensus. The platform is owned and governed by a council of global innovators including Avery Dennison, Boeing, Deutsche Telekom, DLA Piper, FIS (WorldPay), Google, IBM, LG Electronics, Magalu, Nomura, Swirlds, Tata Communications, University College London (UCL), Wipro, and Zain Group. \r\n\r\nThe Hedera Consensus Service (HCS) acts as a trust layer for any application or permissioned network and allows for the creation of an immutable and verifiable log of messages. Application messages are submitted to the Hedera network for consensus, given a trusted timestamp, and fairly ordered. Use HCS to track assets across a supply chain, create auditable logs of events in an advertising platform, or even use it as a decentralized ordering service."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://www.hedera.com/",
+    "explorers": [
+        "https://hash-hash.info/",
+        "https://explorer.kabuto.sh/",
+        "https://ledger.hashlog.io/",
+        "https://app.dragonglass.me/hedera/home"
+    ],
+    "twitter": "hedera",
+    "facebook": "hashgraph",
+    "telegram": "hederahashgraph",
+    "reddit": "Hedera/",
+    "github_org": "hashgraph"
+}

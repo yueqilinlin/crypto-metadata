@@ -1,0 +1,27 @@
+{
+    "id": "chi-gastoken",
+    "symbol": "chi",
+    "name": "Chi Gastoken",
+    "platforms": {
+        "ethereum": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Chi is a more efficient next generation gas token with additional smart contract for reduced deployment costs based on the original gas token GST2 implementation."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+    "url": "https://1inch.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+        "https://ethplorer.io/address/0x0000000000004946c0e9f43f4dee607b0ef1fa1c"
+    ],
+    "twitter": "1inchNetwork",
+    "telegram": "OneInchNetwork",
+    "github_org": "1inch"
+}

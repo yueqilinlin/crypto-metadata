@@ -1,0 +1,22 @@
+{
+    "id": "osmiumcoin",
+    "symbol": "os76",
+    "name": "OsmiumCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "OsmiumCoin is a cryptocurrency that is identified by the symbol OS76."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "explorers": [
+        "http://os76.altcoinexplorer.top/",
+        "https://prohashing.com/explorer/Osmiumcoin/"
+    ],
+    "twitter": "OS76_OsmiumCoin",
+    "reddit": "osmium",
+    "github_org": "OS76"
+}

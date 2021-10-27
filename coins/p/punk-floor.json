@@ -1,0 +1,23 @@
+{
+    "id": "punk-floor",
+    "symbol": "floor",
+    "name": "PUNK Floor",
+    "platforms": {
+        "ethereum": "0xb35ed5c39f371f2cd4bc2edab1f8da314168186a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "104 Floor CryptoPunks by 0x650d"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb35ed5c39f371f2cd4bc2edab1f8da314168186a",
+    "url": "https://fractional.art/vaults/0xb35ed5c39f371f2cd4bc2edab1f8da314168186a",
+    "explorers": [
+        "https://etherscan.io/token/0xb35ed5c39f371f2cd4bc2edab1f8da314168186a",
+        "https://ethplorer.io/address/0xb35ed5c39f371f2cd4bc2edab1f8da314168186a"
+    ]
+}

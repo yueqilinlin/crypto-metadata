@@ -1,0 +1,23 @@
+{
+    "id": "escudonavacense",
+    "symbol": "esn",
+    "name": "EscudoNavacense",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "\"EscudoNavacense (ESN) is the legal tender of the Grand Duchy of Navassa and\r\ndeveloped as a digital asset, in this way, the ESN is the first cryptocurrency is\r\nissued and guaranteed by a central bank, the Central Bank Navassa reserve\r\n(BCRN) and constitutes the first cryptocurrency which is the national currency of\r\na country. \""
+    },
+    "country_origin": "CO",
+    "genesis_date": null,
+    "url": "https://www.escudonavacense.org/",
+    "explorers": [
+        "http://45.147.230.110/",
+        "https://www.coinexplorer.net/ESN"
+    ],
+    "twitter": "ENavacense",
+    "facebook": "Escudo-Navacense-104133277824460",
+    "github_org": "escudonavacense"
+}

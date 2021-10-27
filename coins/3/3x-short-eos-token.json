@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-eos-token",
+    "symbol": "eosbear",
+    "name": "3X Short EOS Token",
+    "platforms": {
+        "ethereum": "0x3d3dd61b0f9a558759a21da42166042b114e12d5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short EOS Token (EOSBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of EOS."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3d3dd61b0f9a558759a21da42166042b114e12d5",
+    "url": "https://ftx.com/tokens/EOSBEAR",
+    "explorers": [
+        "https://etherscan.io/token/0x3d3dd61b0f9a558759a21da42166042b114e12d5",
+        "https://ethplorer.io/address/0x3d3dd61b0f9a558759a21da42166042b114e12d5"
+    ]
+}

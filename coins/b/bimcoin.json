@@ -1,0 +1,22 @@
+{
+    "id": "bimcoin",
+    "symbol": "bim",
+    "name": "Bimcoin",
+    "platforms": {
+        "ethereum": "0x9e7ce36dbd1a9a6c6e80d08e38077745855edd3a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "With BimCoin, we want to achieve the following:\r\n\r\nTransferring wealth from Fiat (Centralized) to Crypto (Decentralized).\r\n\r\nTransferring wealth from the older generation to the newer generation.\r\n\r\nTransferring wealth from the rich to the poor and vice-versa thereby dissolving wealth inequality in reducing gap between the rich and the poor all across.\r\n\r\nTransferring wealth from one place to another at little or no cost."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9e7ce36dbd1a9a6c6e80d08e38077745855edd3a",
+    "url": "https://bimcoin.cc/",
+    "explorers": [
+        "https://etherscan.io/token/0x9e7ce36dbd1a9a6c6e80d08e38077745855edd3a",
+        "https://ethplorer.io/address/0x9e7ce36dbd1a9a6c6e80d08e38077745855edd3a"
+    ],
+    "facebook": "BiggestInterwealthMovementCoin"
+}

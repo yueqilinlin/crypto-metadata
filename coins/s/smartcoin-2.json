@@ -1,0 +1,23 @@
+{
+    "id": "smartcoin-2",
+    "symbol": "smrt",
+    "name": "SmartCoin",
+    "platforms": {
+        "avalanche": "0xcc2f1d827b18321254223df4e84de399d9ff116c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SmartCoin is a Paladin-audited yield farming protocol on Avalanche (AVAX) with an innovative self-feeding tokenomics system and a 100% fair launch.\r\nOur primary goal is to provide a safe, stable and profitable experience for those who enjoy the thrill of hunting for high APRs, while distributing a perpetually increasing amount of SmartCoin per day to the community in the form of massive booster mechanics and economic stimulus incentives."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcc2f1d827b18321254223df4e84de399d9ff116c",
+    "url": "https://smartcoin.farm/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/token/0xCC2f1d827b18321254223dF4e84dE399D9Ff116c/token-transfers"
+    ],
+    "twitter": "0xSmartCoin",
+    "telegram": "smartcoinofficial",
+    "github_org": "0xsmartcoin"
+}

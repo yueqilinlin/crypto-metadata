@@ -1,0 +1,26 @@
+{
+    "id": "step-finance",
+    "symbol": "step",
+    "name": "Step Finance",
+    "platforms": {
+        "solana": "StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Step Finance is the front page of Solana. Visualise, Analyse, Execute and Aggregate transactions across all Solana contracts in one place. Step is a portfolio management dashboard and transaction aggregator where users can monitor their tokens associated with their wallets, LP positions, Staked Yield farms, Margin positions and more. \r\n\r\nUsers of Step Finance can also execute Swaps and enter various yield farms and automated vaults from within Step with any fees on such value accrual services going back to STEP stakers."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT",
+    "url": "https://step.finance/",
+    "explorers": [
+        "https://explorer.solana.com/address/StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT",
+        "https://solscan.io/token/StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT"
+    ],
+    "twitter": "stepfinance_",
+    "github_org": "step-finance"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "dyngecoin",
+    "symbol": "dynge",
+    "name": "Dyngecoin",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [],
+    "description": {
+        "en": "Cryptonight coin forked from turtlecoin"
+    },
+    "country_origin": "NO",
+    "genesis_date": null,
+    "url": "http://dyngecoin.com/",
+    "explorers": [
+        "http://dyngepeng.zapto.org/Dynge/explorer/"
+    ],
+    "twitter": "DyngeC",
+    "github_org": "Tarmgas"
+}

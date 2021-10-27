@@ -1,0 +1,27 @@
+{
+    "id": "heidi",
+    "symbol": "hdi",
+    "name": "HEIDI",
+    "platforms": {
+        "ethereum": "0x58a3520d738b268c2353ecee518a1ad8e28e4ae5"
+    },
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Education"
+    ],
+    "description": {
+        "en": "What is HEIDICOIN?  \r\n\r\nHEIDICOIN is a Swiss investment grade cryptocurrency which seeks to disrupt the current business education paradigm in a way that rapidly brings new sustainable products and services to market, so that we increasingly deliver positive change to people\u2019s lives, contribute to a healthy planet, and return fair profits to our valued stakeholders."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x58a3520d738b268c2353ecee518a1ad8e28e4ae5",
+    "url": "https://heidicoin.ch",
+    "explorers": [
+        "https://etherscan.io/token/0x58a3520d738b268c2353ecee518a1ad8e28e4ae5",
+        "https://ethplorer.io/address/0x58a3520d738b268c2353ecee518a1ad8e28e4ae5"
+    ],
+    "twitter": "winston_graf",
+    "telegram": "HEIDIICO",
+    "reddit": "Heidicoin/",
+    "github_org": "WinstonInter"
+}

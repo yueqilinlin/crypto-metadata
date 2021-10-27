@@ -1,0 +1,26 @@
+{
+    "id": "ecomi",
+    "symbol": "omi",
+    "name": "ECOMI",
+    "platforms": {
+        "gochain": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Collectibles",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "ECOMI\u2019s mission is to create the world\u2019s best platform to purchase, protect and collect premium licensed digital collectibles using Distributed Ledger Technology."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "url": "https://www.ecomi.com/",
+    "explorers": [
+        "https://explorer.gochain.io/addr/0x5347FDeA6AA4d7770B31734408Da6d34a8a07BdF"
+    ],
+    "twitter": "ecomi_",
+    "facebook": "ecomi.ecosystem",
+    "telegram": "ecomi",
+    "github_org": "Ecomi-Ecosystem"
+}

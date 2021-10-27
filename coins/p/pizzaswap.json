@@ -1,0 +1,21 @@
+{
+    "id": "pizzaswap",
+    "symbol": "pizza",
+    "name": "PizzaSwap",
+    "platforms": {
+        "binance-smart-chain": "0x2cc26dd730f548dc4ac291ae7d84a0c96980d2cb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pizza Finance - The Best Modern Yield Farm on Binance Smart Chain."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x2cc26dd730f548dc4ac291ae7d84a0c96980d2cb",
+    "url": "https://pizzafinance.app/",
+    "explorers": [],
+    "twitter": "Pizza_Finance",
+    "telegram": "PizzaFinance",
+    "github_org": "pizzafinancebsc"
+}

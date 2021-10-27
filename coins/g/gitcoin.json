@@ -1,0 +1,23 @@
+{
+    "id": "gitcoin",
+    "symbol": "gtc",
+    "name": "Gitcoin",
+    "platforms": {
+        "ethereum": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Gitcoin is a platform to fund builders looking for meaningful, open source work."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+    "url": "https://gitcoin.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+        "https://ethplorer.io/address/0xde30da39c46104798bb5aa3fe8b9e0e1f348163f"
+    ],
+    "twitter": "gitcoin",
+    "reddit": "gitcoincommunity"
+}

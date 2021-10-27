@@ -1,0 +1,27 @@
+{
+    "id": "cerberus",
+    "symbol": "ccf",
+    "name": "Cerberus Finance",
+    "platforms": {
+        "binance-smart-chain": "0x935dff76b019a9bc35a4bf7f7b17ebecf3e0fb08"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Community Driven Coin, Fair Launch & A Deflationary DeFi Coin"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x935dff76b019a9bc35a4bf7f7b17ebecf3e0fb08",
+    "url": "https://www.cerberuscoin.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x935dff76b019a9bc35a4bf7f7b17ebecf3e0fb08"
+    ],
+    "twitter": "cerberus_coin",
+    "facebook": "cerberus.coin.9",
+    "telegram": "CerberusCoin",
+    "reddit": "CerberusCoin/",
+    "github_org": "cerberus-ng"
+}

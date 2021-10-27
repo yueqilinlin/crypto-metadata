@@ -1,0 +1,21 @@
+{
+    "id": "waykichain-governance-coin",
+    "symbol": "wgrt",
+    "name": "WaykiChain Governance Coin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WaykiChain Governance Coin(WGRT), the governance coin supported by WaykiChain's decentralized lending platform. The platform provides decentralized collateral lending services for users worldwide. WGRT holders can participate in the adjustment of system parameters and the governance of system operation rules, which is an important part of the DeFi Ecosystem.\r\nWUSD, a stablecoin whose value is pegged to USD, is developed based on the core layer of the WaykiChain public chain. In the DeFi Ecosystem, anyone can conduct collateral lending and governance through the chain, which is transparent and open."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://cdp.waykichain.com/",
+    "explorers": [
+        "https://www.waykiscan.com/#/"
+    ],
+    "twitter": "wayki_chain",
+    "facebook": "waykichainofficial",
+    "telegram": "wiccofficial",
+    "github_org": "WaykiChain"
+}

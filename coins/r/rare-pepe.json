@@ -1,0 +1,26 @@
+{
+    "id": "rare-pepe",
+    "symbol": "rpepe",
+    "name": "Rare Pepe",
+    "platforms": {
+        "ethereum": "0x0e9b56d2233ea2b5883861754435f9c51dbca141"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Rare Pepe offers cryptic treasure hunts and much, much more."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x0e9b56d2233ea2b5883861754435f9c51dbca141",
+    "url": "https://www.rarepepe.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x0e9b56d2233ea2b5883861754435f9c51dbca141",
+        "https://ethplorer.io/address/0x0e9b56d2233ea2b5883861754435f9c51dbca141"
+    ],
+    "twitter": "RarePepeToken",
+    "telegram": "rpepetoken"
+}

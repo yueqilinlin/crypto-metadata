@@ -1,0 +1,23 @@
+{
+    "id": "dforce-eth",
+    "symbol": "xeth",
+    "name": "dForce ETH",
+    "platforms": {
+        "binance-smart-chain": "0x463e3d1e01d048fdf872710f7f3745b5cdf50d0e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "dForce is a lending and synthetic asset protocol, a global pool-based lending protocol where users can mint a variety of synthetic assets against yield-on collaterals to achieve better capital efficiency."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x463e3d1e01d048fdf872710f7f3745b5cdf50d0e",
+    "url": "https://dforce.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x463E3D1e01D048FDf872710F7f3745B5CDF50D0E"
+    ],
+    "twitter": "dForcenet",
+    "telegram": "dforcenet",
+    "github_org": "dforce-network"
+}

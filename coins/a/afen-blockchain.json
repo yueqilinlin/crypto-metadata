@@ -1,0 +1,22 @@
+{
+    "id": "afen-blockchain",
+    "symbol": "afen",
+    "name": "AFEN Blockchain",
+    "platforms": {
+        "binance-smart-chain": "0xd0840d5f67206f865aee7cce075bd4484cd3cc81"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AFEN Blockchain is the first Government backed NFT Platform that focuses on Art, Linking Real Estate, and Education. Staking, Art & NFT, Real Estate, Educational Content)."
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "contract_address": "0xd0840d5f67206f865aee7cce075bd4484cd3cc81",
+    "url": "https://afengroup.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xd0840d5f67206f865aee7cce075bd4484cd3cc81"
+    ],
+    "twitter": "afenblockchain",
+    "telegram": "afenblockchain"
+}

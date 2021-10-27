@@ -1,0 +1,26 @@
+{
+    "id": "tozex",
+    "symbol": "toz",
+    "name": "Tozex",
+    "platforms": {
+        "ethereum": "0x29239242a83479a4074cb1c9e2a3e6705a4a4455"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tozex is a financing platform which combines a token issuance module \u201cTokenpad\u201d allowing to launch a token based crowdfunding campaign (ICO, STO and BRO) with an embedded crypto asset market place."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x29239242a83479a4074cb1c9e2a3e6705a4a4455",
+    "url": "https://tozex.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x29239242A83479a4074Cb1c9e2A3e6705A4A4455",
+        "https://ethplorer.io/address/0x29239242A83479a4074Cb1c9e2A3e6705A4A4455"
+    ],
+    "twitter": "tozexofficial",
+    "facebook": "tozexofficial",
+    "telegram": "tozexofficial",
+    "reddit": "tozexofficial/",
+    "github_org": "tozex"
+}

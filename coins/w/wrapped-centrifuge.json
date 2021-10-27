@@ -1,0 +1,24 @@
+{
+    "id": "wrapped-centrifuge",
+    "symbol": "wcfg",
+    "name": "Wrapped Centrifuge",
+    "platforms": {
+        "ethereum": "0xc221b7e65ffc80de234bbb6667abdd46593d34f0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc221b7e65ffc80de234bbb6667abdd46593d34f0",
+    "url": "https://centrifuge.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xc221b7e65ffc80de234bbb6667abdd46593d34f0",
+        "https://ethplorer.io/address/0xc221b7e65ffc80de234bbb6667abdd46593d34f0"
+    ],
+    "twitter": "centrifuge",
+    "telegram": "centrifuge_chat",
+    "github_org": "centrifuge"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "atmos",
+    "symbol": "atmos",
+    "name": "Atmos",
+    "platforms": {
+        "eos": ""
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Communication"
+    ],
+    "description": {
+        "en": "The Novusphere strives to provide instant unlimited access to anything, and has launched its flagship dapp on the EOS main net which can be experienced at www.discussions.app. ATMOS is the default currency of the novusphere dapp ecosystem and provides a means to purchase advertisement, instantly create EOS accounts, and provides holders a share of ad revenue via a forth coming staking mechanism. "
+    },
+    "country_origin": "CA",
+    "genesis_date": "2017-03-13",
+    "url": "https://novusphere.io/",
+    "explorers": [
+        "https://eosflare.io/account/novusphereio"
+    ],
+    "twitter": "thenovusphere",
+    "telegram": "atmosforum",
+    "reddit": "Novusphere/",
+    "github_org": "Novusphere"
+}

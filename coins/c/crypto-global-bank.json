@@ -1,0 +1,25 @@
+{
+    "id": "crypto-global-bank",
+    "symbol": "cgb",
+    "name": "Crypto Global Bank",
+    "platforms": {
+        "ethereum": "0x2858ed0225e9aa0638ccd9b552bee2712426fa24"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Cryptoglobalbank is a once stop payment solution for all E-Commerce and E-Shop platoform who are integrated with Cryptocurrency payment option"
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0x2858ed0225e9aa0638ccd9b552bee2712426fa24",
+    "url": "http://www.cryptoglobalbank.live/",
+    "explorers": [
+        "https://etherscan.io/token/0x2858eD0225e9aA0638CCd9B552bEE2712426FA24",
+        "https://ethplorer.io/address/0x2858ed0225e9aa0638ccd9b552bee2712426fa24"
+    ],
+    "twitter": "Cryptoglobalba1",
+    "telegram": "Cryptoglobalbank"
+}

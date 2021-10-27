@@ -1,0 +1,27 @@
+{
+    "id": "the-movement",
+    "symbol": "mvt",
+    "name": "The Movement",
+    "platforms": {
+        "ethereum": "0x3d46454212c61ecb7b31248047fa033120b88668"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Virtual Reality"
+    ],
+    "description": {
+        "en": "Decentralized organization for borderless collaboration. Headquartered in the Decentraland VR world."
+    },
+    "country_origin": "ZZ",
+    "genesis_date": null,
+    "contract_address": "0x3d46454212c61ecb7b31248047fa033120b88668",
+    "url": "https://movementdao.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3d46454212c61ecb7b31248047fa033120b88668",
+        "https://ethplorer.io/address/0x3d46454212c61ecb7b31248047fa033120b88668"
+    ],
+    "twitter": "MovementDAO",
+    "telegram": "themovementdao",
+    "reddit": "MovementDAO/",
+    "github_org": "MovementDAO"
+}

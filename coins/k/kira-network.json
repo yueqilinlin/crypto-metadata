@@ -1,0 +1,28 @@
+{
+    "id": "kira-network",
+    "symbol": "kex",
+    "name": "KIRA Network",
+    "platforms": {
+        "ethereum": "0x16980b3b4a3f9d89e33311b5aa8f80303e5ca4f8",
+        "binance-smart-chain": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x16980b3b4a3f9d89e33311b5aa8f80303e5ca4f8",
+    "url": "https://kira.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x16980b3b4a3f9d89e33311b5aa8f80303e5ca4f8",
+        "https://ethplorer.io/address/0x16980b3b4a3f9d89e33311b5aa8f80303e5ca4f8",
+        "https://bscscan.com/token/0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e"
+    ],
+    "twitter": "kira_core",
+    "telegram": "kirainterex",
+    "github_org": "kiracore"
+}

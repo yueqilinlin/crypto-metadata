@@ -1,0 +1,22 @@
+{
+    "id": "k-root-wallet",
+    "symbol": "kroot",
+    "name": "K-Root Wallet",
+    "platforms": {
+        "binance-smart-chain": "0x0cd3a8ce155a8d9daaf19e5caa642e72a2a24cd8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "With K-Root Wallet, users will have access to numerous features that can be found across some of the most popular and most utilized cryptocurrency wallets in blockchain. Our first mover advantage gives us direct access by being featured on the newly integrated KCC, along with extending our arms across multiple blockchain networks. Being one of the first wallets to feature compatibility on KCC, we look to show the KCC ecosystem that we are here to make decentralized finance as simple and safe as possible."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0cd3a8ce155a8d9daaf19e5caa642e72a2a24cd8",
+    "url": "https://k-root.co/",
+    "explorers": [
+        "https://bscscan.com/token/0x0cd3a8ce155a8d9daaf19e5caa642e72a2a24cd8"
+    ],
+    "twitter": "krootwallet",
+    "telegram": "krootwallet"
+}

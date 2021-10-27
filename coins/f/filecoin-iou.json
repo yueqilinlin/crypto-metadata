@@ -1,0 +1,25 @@
+{
+    "id": "filecoin-iou",
+    "symbol": "fil6",
+    "name": "FIL6",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "Storage"
+    ],
+    "description": {
+        "en": "The InterPlanetary File system (IPFS) is a global, peer-to-peer distributed version of the file system that aims to supplement (or even replace) the hypertext transfer protocol (HTTP) that currently dominates the internet, by connecting all computing devices with the same file system. The principle is to replace the address based on the domain name with a content-based address, that is, the user is looking for content that is not an address but stored in a certain place. There is no need to verify the identity of the sender, but only the hash of the content. It can ensure the web to be faster, safer, more robust and more durable.Filecoin is an incentive layer on IPFS and a a decentralized storage market built on IPFS based on the token incentive model.FIL6 is the 6 months IOU contract of filecoin. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://filecoin.io/",
+    "explorers": [
+        "https://filfox.info/en",
+        "https://filscan.io/#/tipset/chain"
+    ],
+    "twitter": "Filecoin",
+    "facebook": "MineFilecoin",
+    "reddit": "filecoin",
+    "github_org": "filecoin-project"
+}

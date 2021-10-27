@@ -1,0 +1,24 @@
+{
+    "id": "lisk",
+    "symbol": "lsk",
+    "name": "Lisk",
+    "platforms": {},
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Lisk is a blockchain application platform, founded by Max Kordek and Oliver Beddows in early 2016. Based on its own blockchain network and token LSK, Lisk will enable developers to build blockchain applications and deploy their own sidechain linked to the Lisk network, including a custom token. Thanks to the scalability and flexibility of sidechains, developers can implement and customize their blockchain applications entirely.\r\n\r\nLisk aims to make blockchain technology more accessible with a SDK written in JavaScript, special focus on user experience, developer support, in-depth documentations and the Lisk Academy. The Lisk network is operated using a highly efficient <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">Delegated Proof of Stake (DPoS)</a> consensus model, which is secured by democratically elected delegates.\r\n\r\nLisk, headquartered in Zug, Switzerland, raised over 14,000 <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoins</a> in funding during its ICO (Initial Coin Offering), making it valued at over $4 billion at its peak.\r\n\r\nLisk is an open source blockchain platform which is powered by Lisk (LSK) Tokens that allows developers code decentralized applications (dApps) in JavaScript programming language. With Lisk, developers can build applications on their sidechain linked to the Lisk Network, and also with their custom token. In that sense, Lisk is similar with the Ethereum blockchain. However, the Lisk platform hasn\u2019t been built to create smart contracts, but to develop diverse apps and functionalities using the LISK AppSDK framework.\r\n\r\nIt is a modular cryptocurrency as this coin involves \u2018modules\u2019 that serve as the basis of its design and construction. The overall design is its trump card - the Lisk system allows anyone to use its \u2018designing blocks\u2019 to construct their own decentralised apps. It utilises \"sidechains\". Besides, many former members of <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> core members joined Lisk. On June 8 2016, Lisk CEO Max Kordek announced the addition of Charles Hoskinson (ex-CEO of Ethereum) and Steven Nerayoff (ex-advisor for Ethereum) as Senior Advisors of Lisk, to facilitate Product Development."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://lisk.com",
+    "explorers": [
+        "https://lisk.observer/",
+        "https://liskscan.com/"
+    ],
+    "twitter": "LiskHQ",
+    "facebook": "LiskHQ",
+    "reddit": "Lisk",
+    "github_org": "LiskHQ"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "onewing",
+    "symbol": "onewing",
+    "name": "oneWING",
+    "platforms": {
+        "ethereum": "0x8f041a3940a5e6fb580075c3774e15fcfa0e1618"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "oneWING is a stablecoin for the wing.finance community. You must buy WING to mint oneWING. You can use oneWING to buy or sell goods and services, pay expenses and taxes, or to create USD exposure in DeFi (decentralized finance) applications.\r\n\r\noneWING provides the hard peg of USDC/USDT without sacrificing decentralization nor giving up on driving WING scarcity.\r\n\r\noneWING keeps its value at $1, is purely on-chain, and accrues a WING treasury.\r\n\r\nTypically, when you want to make a trade and get out of WING to \u2018get stable\u2019, you need to trade WING into a stablecoin. Now you\u2019re in an either/or scenario. Whether USDT, USDC, DAI, these other stablecoins capture value for themselves and do not drive the value of your WING hodlings. Remember, you just sold it to get stable.\r\n\r\nEnter ICHI. With ICHI, you mint oneWING with WING.  In the process, you grow a WING treasury that YOU govern and control."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8f041a3940a5e6fb580075c3774e15fcfa0e1618",
+    "url": "https://www.ichi.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x8F041A3940a5e6FB580075C3774E15FcFA0E1618",
+        "https://ethplorer.io/address/0x8F041A3940a5e6FB580075C3774E15FcFA0E1618"
+    ],
+    "twitter": "ichifarm",
+    "telegram": "ichifarm",
+    "github_org": "ichifarm"
+}

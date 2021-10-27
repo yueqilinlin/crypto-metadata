@@ -1,0 +1,24 @@
+{
+    "id": "phunk-vault-nftx",
+    "symbol": "phunk",
+    "name": "PHUNK Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "PHUNK Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xB39185e33E8c28e0BB3DbBCe24DA5dEA6379Ae91",
+        "https://ethplorer.io/address/0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91"
+    ],
+    "twitter": "nftx_"
+}

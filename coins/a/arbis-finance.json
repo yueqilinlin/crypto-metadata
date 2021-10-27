@@ -1,0 +1,24 @@
+{
+    "id": "arbis-finance",
+    "symbol": "arbis",
+    "name": "Arbis Finance",
+    "platforms": {
+        "arbitrum-one": "0x9f20de1fc9b161b34089cbeae888168b44b03461"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Arbitrum Ecosystem"
+    ],
+    "description": {
+        "en": "Arbi\u2019s Finance is the premier autocompounder on the Arbitrum network. Deposit your tokens in our vaults and earn more yield while saving time."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9f20de1fc9b161b34089cbeae888168b44b03461",
+    "url": "https://arbis.finance/",
+    "explorers": [
+        "https://arbiscan.io/token/0x9f20de1fc9b161b34089cbeae888168b44b03461"
+    ],
+    "twitter": "arbis_finance",
+    "github_org": "Arbi-s"
+}

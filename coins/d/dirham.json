@@ -1,0 +1,23 @@
+{
+    "id": "dirham",
+    "symbol": "dah",
+    "name": "Dirham",
+    "platforms": {
+        "ethereum": "0xb9e6bdcba653b5f768dd2e2faf6288df9054e554"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dirham is a token backed by actual assets, including AED and USD. One Dirham equals one underlying unit of the currency backing it, AED / USD, and is backed 100% by actual assets in the Dirham platform\u2019s reserve account. Being anchored or \u201ctethered\u201d to real world currency, Dirham provides protection from the volatility of cryptocurrencies.\r\n\r\nDirham enables businesses \u2013 including exchanges, wallets, payment processors, financial services, and ATMs \u2013 to easily use fiat-backed tokens on blockchains. By leveraging Blockchain technology, Dirham allows you to store, send and receive digital tokens person-to-person, globally, instantly, and securely for a fraction of the cost of alternatives."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0xb9e6bdcba653b5f768dd2e2faf6288df9054e554",
+    "url": "https://www.dirham.app",
+    "explorers": [
+        "https://etherscan.io/token/0xb9e6bdcba653b5f768dd2e2faf6288df9054e554",
+        "https://ethplorer.io/address/0xb9e6bdcba653b5f768dd2e2faf6288df9054e554"
+    ],
+    "twitter": "dirhamtoken",
+    "telegram": "dirhamtoken"
+}

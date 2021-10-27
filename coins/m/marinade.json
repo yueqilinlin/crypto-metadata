@@ -1,0 +1,22 @@
+{
+    "id": "marinade",
+    "symbol": "mnde",
+    "name": "Marinade",
+    "platforms": {
+        "solana": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MNDE is the governance token for Marinade. Marinade helps you to stake Solana without locking in liquidity by turning SOL into mSOL - tokenized version of staked SOL. This way you can both secure the network by staking SOL, and use your mSOL as the ultimate unit in Solana DeFi ecosystem. To provide liquidity, deposit in lending protocols and even buy NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
+    "url": "https://marinade.finance/",
+    "explorers": [
+        "https://solscan.io/token/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey"
+    ],
+    "twitter": "marinadeFinance",
+    "github_org": "marinade-finance"
+}

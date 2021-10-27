@@ -1,0 +1,25 @@
+{
+    "id": "collateral-pay",
+    "symbol": "coll",
+    "name": "Collateral Pay",
+    "platforms": {
+        "ethereum": "0x957891c11616d3e0b0a76a76fb42724c382e0ef3",
+        "binance-smart-chain": "0xa4cb040b85e94f5c0c32ea1151b20d3ab40b3493"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "COLLATERAL allows users to unlock and utilise their crypto assets, without having to sell them. Crypto assets will be used as collateral against payments to merchants by users."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x957891c11616d3e0b0a76a76fb42724c382e0ef3",
+    "url": "https://www.collateralpay.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x957891c11616d3e0b0a76a76fb42724c382e0ef3",
+        "https://ethplorer.io/address/0x957891c11616d3e0b0a76a76fb42724c382e0ef3",
+        "https://bscscan.com/token/0xA4CB040B85e94F5c0C32ea1151B20D3aB40B3493"
+    ],
+    "twitter": "CollateralDefi",
+    "telegram": "CollateralChat"
+}

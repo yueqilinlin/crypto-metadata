@@ -1,0 +1,22 @@
+{
+    "id": "richduck",
+    "symbol": "RICHDUCK",
+    "name": "RICHDUCK",
+    "platforms": {
+        "binance-smart-chain": "0x09eab30000635f514cbaf07564cc46ff1a95933d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x09eab30000635f514cbaf07564cc46ff1a95933d",
+    "url": "http://richduck.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x09Eab30000635F514CBAf07564CC46FF1a95933d"
+    ],
+    "twitter": "RichDuck9",
+    "telegram": "Richduck_global"
+}

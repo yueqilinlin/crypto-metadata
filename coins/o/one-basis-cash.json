@@ -1,0 +1,23 @@
+{
+    "id": "one-basis-cash",
+    "symbol": "obs",
+    "name": "One Basis Cash",
+    "platforms": {
+        "binance-smart-chain": "0x095956b142431eb9cf88b99f392540b91acbf4ad"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "One Basis is the first IWO algorithm stable currency of the BSC Binance Ecological Public Chain"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x095956b142431eb9cf88b99f392540b91acbf4ad",
+    "url": "https://www.onebasis.org/#/",
+    "explorers": [
+        "https://bscscan.com/token/0x095956B142431Eb9Cf88B99F392540B91aCbF4ad"
+    ],
+    "twitter": "yfione",
+    "telegram": "YFI_ONE",
+    "github_org": "onebasis"
+}

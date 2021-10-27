@@ -1,0 +1,27 @@
+{
+    "id": "basketdao",
+    "symbol": "bask",
+    "name": "BasketDAO",
+    "platforms": {
+        "ethereum": "0x44564d0bd94343f72e3c8a0d22308b7fa71db0bb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset Manager",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "BasketDao is the governance token for a protocol that focuses on DeFi portfolio management and Exchange Traded Fund (ETF). The Assets Under Management (AUM) tracks the underlying assets\u2019 performance. \r\n\r\nBasketDAO\u2019s first product on Ethereum: BDPI, an evolution of DPI with the following upgrades:\r\n\r\n1. Holds interest-bearing tokens from trusted protocols (Aave & Compound)\r\n2. No streaming fee\r\n3. Community governed re-balances"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x44564d0bd94343f72e3c8a0d22308b7fa71db0bb",
+    "url": "https://basketdao.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x44564d0bd94343f72e3c8a0d22308b7fa71db0bb",
+        "https://ethplorer.io/address/0x44564d0bd94343f72e3c8a0d22308b7fa71db0bb"
+    ],
+    "twitter": "BasketDAOOrg",
+    "github_org": "basketdao"
+}

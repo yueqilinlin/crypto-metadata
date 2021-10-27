@@ -1,0 +1,25 @@
+{
+    "id": "rheaprotocol",
+    "symbol": "rhea",
+    "name": "Rhea Protocol",
+    "platforms": {
+        "ethereum": "0xf7a219fffeade6cd98789da5642b687f743270eb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "A two-way QR code-based mobile easy payment solution for cryptocurrency"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xf7a219fffeade6cd98789da5642b687f743270eb",
+    "url": "http://rheaprotocol.io",
+    "explorers": [
+        "https://etherscan.io/token/0xf7a219fffeade6cd98789da5642b687f743270eb",
+        "https://ethplorer.io/address/0xf7a219fffeade6cd98789da5642b687f743270eb"
+    ],
+    "twitter": "rheaprotocol",
+    "telegram": "RheaProtocolGroup"
+}

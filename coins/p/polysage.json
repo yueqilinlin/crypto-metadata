@@ -1,0 +1,23 @@
+{
+    "id": "polysage",
+    "symbol": "sage",
+    "name": "Polysage",
+    "platforms": {
+        "polygon-pos": "0x2ed945dc703d85c80225d95abde41cdee14e1992"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized stable-yield aggregating farm on Polygon."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2ed945dc703d85c80225d95abde41cdee14e1992",
+    "url": "https://polysage.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x2ed945Dc703D85c80225d95ABDe41cdeE14e1992"
+    ],
+    "twitter": "polywisefinance",
+    "telegram": "polywisedefi",
+    "github_org": "polywise"
+}

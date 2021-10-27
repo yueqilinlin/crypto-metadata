@@ -1,0 +1,35 @@
+{
+    "id": "zero-exchange",
+    "symbol": "zero",
+    "name": "0.exchange",
+    "platforms": {
+        "ethereum": "0xf0939011a9bb95c3b791f0cb546377ed2693a574",
+        "binance-smart-chain": "0x1f534d2b1ee2933f1fdf8e4b63a44b2249d77eaf",
+        "avalanche": "0x008e26068b3eb40b443d3ea88c1ff99b789c10f7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad",
+        "Binance Smart Chain Ecosystem",
+        "Avalanche Ecosystem",
+        "Governance",
+        "Exchange-based Tokens",
+        "Automated Market Maker (AMM)",
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "Instant crypto swaps. Freezingly low fees."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf0939011a9bb95c3b791f0cb546377ed2693a574",
+    "url": "https://www.0.exchange/",
+    "explorers": [
+        "https://etherscan.io/token/0xf0939011a9bb95c3b791f0cb546377ed2693a574",
+        "https://ethplorer.io/address/0xf0939011a9bb95c3b791f0cb546377ed2693a574",
+        "https://bscscan.com/token/0x1f534d2b1ee2933f1fdf8e4b63a44b2249d77eaf",
+        "https://avascan.info/blockchain/c/token/0x008E26068B3EB40B443d3Ea88c1fF99B789c10F7"
+    ],
+    "twitter": "officialzerodex",
+    "telegram": "ZeroExchangeCommunity"
+}

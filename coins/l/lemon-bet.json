@@ -1,0 +1,26 @@
+{
+    "id": "lemon-bet",
+    "symbol": "lbet",
+    "name": "Lemon Bet",
+    "platforms": {
+        "ethereum": "0x932d447274dcffb4aea4f0944d3c804e88056416"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "LBET is a utility token used in the Lemon Bet gaming platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x932d447274dcffb4aea4f0944d3c804e88056416",
+    "url": "https://lemon.bet/",
+    "explorers": [
+        "https://etherscan.io/token/0x932d447274dcffb4aea4f0944d3c804e88056416",
+        "https://ethplorer.io/address/0x932d447274dcffb4aea4f0944d3c804e88056416"
+    ],
+    "twitter": "lemon_bet",
+    "facebook": "Lemon.Bet.Gaming",
+    "telegram": "lemonbetgame"
+}

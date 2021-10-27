@@ -1,0 +1,23 @@
+{
+    "id": "defi-on-mcw",
+    "symbol": "dfm",
+    "name": "DeFi on MCW",
+    "platforms": {
+        "ethereum": "0x0ccd5dd52dee42b171a623478e5261c1eaae092a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MYCOLDWALLET & P2P-DeFi service can store worth of service to the DFM token."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x0ccd5dd52dee42b171a623478e5261c1eaae092a",
+    "url": "dfmeco.io",
+    "explorers": [
+        "https://etherscan.io/token/0x0ccD5DD52Dee42B171a623478e5261C1eaaE092A",
+        "https://ethplorer.io/address/0x0ccD5DD52Dee42B171a623478e5261C1eaaE092A"
+    ],
+    "twitter": "DFMeco",
+    "telegram": "p2pDeFi"
+}

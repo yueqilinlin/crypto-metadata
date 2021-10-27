@@ -1,0 +1,21 @@
+{
+    "id": "noblecoin",
+    "symbol": "nobl",
+    "name": "NobleCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "NobleCoin is an open source peer-to-peer digital currency, with a clear focus on education, philanthropy, eCommerce, transparency and the cryptocurrency movement."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-01-06",
+    "url": "https://www.noblemovement.com/",
+    "explorers": [
+        "https://chainz.cryptoid.info/nobl/"
+    ],
+    "twitter": "noblecoin",
+    "facebook": "noblecoinz",
+    "reddit": "NobleCoin",
+    "github_org": "jlcurby"
+}

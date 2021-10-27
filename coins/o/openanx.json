@@ -1,0 +1,25 @@
+{
+    "id": "openanx",
+    "symbol": "oax",
+    "name": "OAX",
+    "platforms": {
+        "ethereum": "0x701c244b988a513c945973defa05de933b23fe1d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OAX is an ERC20 token developed to fuel an open-source decentralized exchange platform \u201copenANX\u201d which provides an aggregated order book to increase liquidity; holds collateral for asset gateways to reduce credit risk; and features an off-chain, predetermined dispute resolution system governed by the Decentralized Autonomous Organization(DAO) to maximize consumer protection."
+    },
+    "country_origin": "CN",
+    "genesis_date": "2017-06-23",
+    "contract_address": "0x701c244b988a513c945973defa05de933b23fe1d",
+    "url": "https://www.oax.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x701c244b988a513c945973defa05de933b23fe1d",
+        "https://ethplorer.io/address/0x701c244b988a513c945973defa05de933b23fe1d"
+    ],
+    "twitter": "oax_foundation",
+    "telegram": "openanxteam",
+    "reddit": "OpenANX",
+    "github_org": "OAXFoundation"
+}

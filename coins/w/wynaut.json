@@ -1,0 +1,22 @@
+{
+    "id": "wynaut",
+    "symbol": "wynaut",
+    "name": "Wynaut",
+    "platforms": {
+        "binance-smart-chain": "0x067a5ad3f0f91acf512ffe66ea77f37b4dcaaf18"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A 3.6% fee will be charged on each transaction done with the Wynaut Token.\r\n1.8% is distributed to token holders, while the other 1.8% will be burned and thereby decreasing the circulating supply."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x067a5ad3f0f91acf512ffe66ea77f37b4dcaaf18",
+    "url": "https://wynautdefi.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x067a5ad3f0f91acf512ffe66ea77f37b4dcaaf18"
+    ],
+    "twitter": "WynautCommunity",
+    "telegram": "whynotrebuild"
+}

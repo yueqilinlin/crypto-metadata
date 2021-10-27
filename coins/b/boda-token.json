@@ -1,0 +1,24 @@
+{
+    "id": "boda-token",
+    "symbol": "bodav2",
+    "name": "BODA Token",
+    "platforms": {
+        "binance-smart-chain": "0xdc847755343c3a2b94d6afc0aae57651e1b14064"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BODA V2 was launched on Binance Smart Chain on the 22nd September 2021.\r\n\r\nBODAV2 is a token for the crypto investor who wants to be rewarded for their long-term investing. The concept is a new form of crypto where investors no longer need to worry about their investment doubling to make profits; instead, they can earn a passive income from stablecoin BUSD rewards while watching their portfolio grow."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdc847755343c3a2b94d6afc0aae57651e1b14064",
+    "url": "https://bodatoken.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xdc847755343c3a2b94d6afc0aae57651e1b14064"
+    ],
+    "twitter": "BodaToken",
+    "telegram": "Boda_Token",
+    "reddit": "bodacoin/",
+    "github_org": "bodatoken"
+}

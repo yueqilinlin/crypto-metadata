@@ -1,0 +1,29 @@
+{
+    "id": "future-of-finance-fund",
+    "symbol": "fff",
+    "name": "Future Of Finance Fund",
+    "platforms": {
+        "ethereum": "0xabafa52d3d5a2c18a4c1ae24480d22b831fc0413"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "DeFi Index",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "The FFF is a five-member meta-index, providing significant exposure to the two largest crypto-assets currently in existence, (in the form of 20% WETH, 20% WBTC), while also receiving passively managed exposure to:\r\n\r\n* A heavily concentrated, large-cap decentralised finance index (DEFI5),\r\n* A medium-large-cap index covering significant Ethereum protocols (CC10), and\r\n* A smaller, riskier index of growth bets across Ethereum (DEGEN)\r\n\r\nThe result is an ETF with a 40% focus on 'pure' crypto assets (the ones you know from the news), approximately 40% covering large/medium-cap DeFi protocols, and the remainder as smaller shots with a greater chance of upside, to be phased out in favour of a yield-bearing component in due time."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xabafa52d3d5a2c18a4c1ae24480d22b831fc0413",
+    "url": "https://indexed.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xabafa52d3d5a2c18a4c1ae24480d22b831fc0413",
+        "https://ethplorer.io/address/0xabafa52d3d5a2c18a4c1ae24480d22b831fc0413"
+    ],
+    "twitter": "ndxfi",
+    "telegram": "ndxfi",
+    "reddit": "IndexedFinance/",
+    "github_org": "indexed-finance"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "veritaseum",
+    "symbol": "veri",
+    "name": "Veritaseum",
+    "platforms": {
+        "ethereum": "0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Veritaseum builds blockchain-based, peer-to-peer capital markets as software on a global scale. We enable the  seamless connection of parties and assets without the need for a third or authoritarian interest.\r\n\r\nAny entity with internet access can participate in these capital markets on a peer-to-peer and one-on-one basis."
+    },
+    "country_origin": "JP",
+    "genesis_date": "2017-04-25",
+    "contract_address": "0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374",
+    "url": "http://veritas.veritaseum.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374",
+        "https://ethplorer.io/address/0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374"
+    ],
+    "twitter": "Veritaseuminc",
+    "facebook": "Veritaseum-Inc-UltraCoin-253497438186230",
+    "reddit": "Veritasium/",
+    "github_org": "veritaseum"
+}

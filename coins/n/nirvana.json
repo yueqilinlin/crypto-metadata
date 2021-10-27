@@ -1,0 +1,23 @@
+{
+    "id": "nirvana",
+    "symbol": "vana",
+    "name": "Nirvana",
+    "platforms": {
+        "ethereum": "0x790baf0c914898c62163a61f150637d4bd180697"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An Autonomous Yield and Liquidity Generation Protocol"
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x790baf0c914898c62163a61f150637d4bd180697",
+    "url": "https://www.nirvanadefi.com",
+    "explorers": [
+        "https://etherscan.io/token/0x790baf0c914898c62163a61f150637d4bd180697",
+        "https://ethplorer.io/address/0x790baf0c914898c62163a61f150637d4bd180697"
+    ],
+    "twitter": "nirvanadefi",
+    "telegram": "nirvanadefi"
+}

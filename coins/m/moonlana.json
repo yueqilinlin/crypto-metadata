@@ -1,0 +1,27 @@
+{
+    "id": "moonlana",
+    "symbol": "mola",
+    "name": "MoonLana",
+    "platforms": {
+        "solana": "AMdnw9H5DFtQwZowVFr4kUgSXJzLokKSinvgGiUoLSps"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "Dex, Tipbots, NFTs & More"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "AMdnw9H5DFtQwZowVFr4kUgSXJzLokKSinvgGiUoLSps",
+    "url": "https://www.moonlana.com/",
+    "explorers": [
+        "https://explorer.solana.com/address/AMdnw9H5DFtQwZowVFr4kUgSXJzLokKSinvgGiUoLSps"
+    ],
+    "twitter": "xMoonLana",
+    "facebook": "MoonLana-Official-MOLA-103453095257441",
+    "telegram": "moonlana",
+    "reddit": "MoonLana",
+    "github_org": "Moonlana"
+}

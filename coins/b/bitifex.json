@@ -1,0 +1,25 @@
+{
+    "id": "bitifex",
+    "symbol": "bitx",
+    "name": "BITIFEX",
+    "platforms": {
+        "ethereum": "0xa0ed4c4acbf07c03365d6bbe28150a819aff700f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "BITIFEX Exchange created BITIFEX Token( Token Sticker: BITX) as a comprehensive solution for value added services regarding Coin liquidation."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa0ed4c4acbf07c03365d6bbe28150a819aff700f",
+    "url": "https://www.bitifex.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa0ed4c4acbf07c03365d6bbe28150a819aff700f",
+        "https://ethplorer.io/address/0xa0ed4c4acbf07c03365d6bbe28150a819aff700f"
+    ],
+    "twitter": "bitifex",
+    "telegram": "bitifex"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "ties-network",
+    "symbol": "tie",
+    "name": "Ties.DB",
+    "platforms": {
+        "ethereum": "0x999967e2ec8a74b7c8e9db19e039d920b31d39d0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "All Ethereum-based decentralized applications (DApps) need to store non-financial data and search through their documents. Ties.DB is the first public database for decentralized structured data storage and allows advanced search and documents modification."
+    },
+    "country_origin": "NL",
+    "genesis_date": "2017-09-19",
+    "contract_address": "0x999967e2ec8a74b7c8e9db19e039d920b31d39d0",
+    "url": "https://tiesdb.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x999967e2ec8a74b7c8e9db19e039d920b31d39d0",
+        "https://ethplorer.io/address/0x999967e2ec8a74b7c8e9db19e039d920b31d39d0"
+    ],
+    "twitter": "tiesnetwork",
+    "facebook": "tiesdb",
+    "telegram": "tiesdb",
+    "reddit": "tiesnetwork",
+    "github_org": "TiesNetwork"
+}

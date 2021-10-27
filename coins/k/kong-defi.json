@@ -1,0 +1,23 @@
+{
+    "id": "kong-defi",
+    "symbol": "kong",
+    "name": "Kong Defi",
+    "platforms": {
+        "ethereum": "0x7c3cf2d43b50e78e27a81293a43fcac45796fb54"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KONG is a community-run deflationary token with a charitable cause. We are apes focused on giving back to all primates through supporting a variety of conservation funds and through the occasional adoption. 1% of each transaction is also given back to KONG holders. Apes Together Strong."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7c3cf2d43b50e78e27a81293a43fcac45796fb54",
+    "url": "https://kongdefi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7c3cf2d43b50e78e27a81293a43fcac45796fb54",
+        "https://ethplorer.io/address/0x7c3cf2d43b50e78e27a81293a43fcac45796fb54"
+    ],
+    "twitter": "kong_defi",
+    "telegram": "KongDefiFinance"
+}

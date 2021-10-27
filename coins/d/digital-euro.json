@@ -1,0 +1,23 @@
+{
+    "id": "digital-euro",
+    "symbol": "deuro",
+    "name": "Digital Euro",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "digitale euro is an alternative payment system that aims to be more \"usable\" than bitcoin"
+    },
+    "country_origin": "IT",
+    "genesis_date": null,
+    "url": "http://www.digitaleuro.info/",
+    "explorers": [
+        "http://explorer.digitaleuro.info/"
+    ],
+    "twitter": "DigitaleuroD",
+    "facebook": "digitaleuro",
+    "telegram": "digitaleuronews",
+    "github_org": "Devkon69"
+}

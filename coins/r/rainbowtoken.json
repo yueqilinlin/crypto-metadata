@@ -1,0 +1,23 @@
+{
+    "id": "rainbowtoken",
+    "symbol": "rainbowtoken",
+    "name": "RainbowToken",
+    "platforms": {
+        "binance-smart-chain": "0x673da443da2f6ae7c5c660a9f0d3dd24d1643d36"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$RAINBOW is a token that combines 7 protocols, one for each color of the rainbow, to create a single strong and resilient crypto. It's seven features are: burn; buyback; reflection; charity; liquidity; marketing; and lottery!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x673da443da2f6ae7c5c660a9f0d3dd24d1643d36",
+    "url": "https://rainbowtoken.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x673da443da2f6ae7c5c660a9f0d3dd24d1643d36"
+    ],
+    "twitter": "rainbowtokenbsc",
+    "telegram": "rainbow_crypto",
+    "github_org": "BSCGuru"
+}

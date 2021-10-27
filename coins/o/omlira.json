@@ -1,0 +1,25 @@
+{
+    "id": "omlira",
+    "symbol": "oml",
+    "name": "Omlira",
+    "platforms": {
+        "ethereum": "0x224db5e6180761df4c3d8936585f6b8b83879770"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Omlira is an ERC-20 compliant cryptocurrency operating on the Ethereum network and is the base currency of omChain. Omlira can be sent and received through any crypto wallet supporting ERC-20."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x224db5e6180761df4c3d8936585f6b8b83879770",
+    "url": "https://omlira.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x224db5e6180761df4c3d8936585f6b8b83879770",
+        "https://ethplorer.io/address/0x224db5e6180761df4c3d8936585f6b8b83879770",
+        "https://jupiter.omlira.com/"
+    ],
+    "twitter": "omliraen",
+    "telegram": "omlira",
+    "github_org": "Open-Money"
+}

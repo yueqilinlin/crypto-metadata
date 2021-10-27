@@ -1,0 +1,23 @@
+{
+    "id": "doge-dash",
+    "symbol": "DogeDash",
+    "name": "Doge Dash",
+    "platforms": {
+        "binance-smart-chain": "0x7ae5709c585ccfb3e61ff312ec632c21a5f03f70"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Doge Dash is a Mario Run inspired game where anyone can earn coins through skilled gameplay. The aim of the game is simple\u2026 Dash as fast as you can through all of the 10 levels whilst collecting coins along the way. Successful players who complete all levels will be rewarded with the collected coins direct to their wallets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7ae5709c585ccfb3e61ff312ec632c21a5f03f70",
+    "url": "https://dogedash.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x7ae5709c585ccfb3e61ff312ec632c21a5f03f70"
+    ],
+    "twitter": "doge_dash",
+    "telegram": "dogedashgame",
+    "github_org": "TatvaShah"
+}

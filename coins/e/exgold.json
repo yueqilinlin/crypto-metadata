@@ -1,0 +1,24 @@
+{
+    "id": "exgold",
+    "symbol": "exg",
+    "name": "Exgold",
+    "platforms": {
+        "ethereum": "0x2a1174d1cd4348cb1eaec3f00310908ca289e5be"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": " EXGold has been created to always be worth 1 gram of gold. As it will be tradeable by the gold mine(s) directly, the value of EXGold will not change 1 EXGold token = 1 gram of gold. Gold itself does fluctuate in value, but EXGold will always be exchangeable for 1 gram of gold and or its value."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x2a1174d1cd4348cb1eaec3f00310908ca289e5be",
+    "url": "http://www.exgoldproject.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x2a1174d1cd4348cb1eaec3f00310908ca289e5be",
+        "https://ethplorer.io/address/0x2a1174d1cd4348cb1eaec3f00310908ca289e5be"
+    ],
+    "twitter": "EXGoldProject",
+    "facebook": "EXGoldProject",
+    "telegram": "exgoldproject"
+}

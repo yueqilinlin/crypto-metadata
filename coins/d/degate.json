@@ -1,0 +1,24 @@
+{
+    "id": "degate",
+    "symbol": "dg",
+    "name": "DeGate",
+    "platforms": {
+        "ethereum": "0x53c8395465a84955c95159814461466053dedede"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeGate is an Ethereum L2 DEX protocol that is formed, governed, and owned by the community as a DAO."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x53c8395465a84955c95159814461466053dedede",
+    "url": "https://www.degate.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x53c8395465a84955c95159814461466053dedede",
+        "https://ethplorer.io/address/0x53c8395465a84955c95159814461466053dedede"
+    ],
+    "twitter": "DeGateDex",
+    "telegram": "degate_public",
+    "github_org": "degatedev"
+}

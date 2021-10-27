@@ -1,0 +1,26 @@
+{
+    "id": "az-fundchain",
+    "symbol": "azt",
+    "name": "AZ Fundchain",
+    "platforms": {
+        "ethereum": "0xef7f1aae6f60de9f353dc170a35b8f7c7814e32b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "An accessible, transparent and reliable money circle and crowdfunding application. Run your own money circles and crowdfunding campaigns on blockchain through our mobile application. "
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0xef7f1aae6f60de9f353dc170a35b8f7c7814e32b",
+    "url": "http://azfundchain.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xef7f1aae6f60de9f353dc170a35b8f7c7814e32b",
+        "https://ethplorer.io/address/0xef7f1aae6f60de9f353dc170a35b8f7c7814e32b"
+    ],
+    "twitter": "azfundchain",
+    "facebook": "azfundchain",
+    "telegram": "fundchainAZ"
+}

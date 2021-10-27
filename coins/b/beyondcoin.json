@@ -1,0 +1,24 @@
+{
+    "id": "beyondcoin",
+    "symbol": "bynd",
+    "name": "Beyondcoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Beyondcoin is an open-source peer-to-peer network-based digital currency. Employing the fundamentals of Bitcoin, although it does not use SHA256 as its proof of work algorithm. Instead, Beyondcoin currently employs a simplified variant of Scrypt as its proof of work (POW). Taking development cues from Tenebrix, Litecoin, and Dogecoin. Peer-to-peer (P2P) means that there is no central authority to issue new money or keep track of transactions. Instead, these tasks are managed collectively by the nodes of the network.\r\n\r\nBeyondcoin was created to solve the issues of digital money by being resistant to quantum attacks.\r\n\r\n\"Go beyond the impossible\"\r\n- Kristian J. Kramer (Beyondcoin Founder)"
+    },
+    "country_origin": "US",
+    "genesis_date": "2019-09-15",
+    "url": "https://wiki.beyondcoin.io/",
+    "explorers": [
+        "https://beyondexplorer.com/"
+    ],
+    "twitter": "Beyondcoin_BYND",
+    "facebook": "beyondcoin",
+    "telegram": "beyondcoin_official",
+    "reddit": "https://www.reddit.com",
+    "github_org": "beyondcoin-project"
+}

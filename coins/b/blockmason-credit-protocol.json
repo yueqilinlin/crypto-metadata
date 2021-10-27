@@ -1,0 +1,24 @@
+{
+    "id": "blockmason-credit-protocol",
+    "symbol": "bcpt",
+    "name": "Blockmason Credit Protocol",
+    "platforms": {
+        "ethereum": "0x1c4481750daa5ff521a2a7490d9981ed46465dbd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cornerstone Of The Decentralized Web"
+    },
+    "country_origin": "",
+    "genesis_date": "2017-10-18",
+    "contract_address": "0x1c4481750daa5ff521a2a7490d9981ed46465dbd",
+    "url": "https://blockmason.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x1c4481750daa5ff521a2a7490d9981ed46465dbd",
+        "https://ethplorer.io/address/0x1c4481750daa5ff521a2a7490d9981ed46465dbd"
+    ],
+    "twitter": "blockmasonio",
+    "reddit": "blockmason",
+    "github_org": "blockmason"
+}

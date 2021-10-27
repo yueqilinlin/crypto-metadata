@@ -1,0 +1,27 @@
+{
+    "id": "nfx-coin",
+    "symbol": "nfxc",
+    "name": "NFX Coin",
+    "platforms": {
+        "ethereum": "0x2d39ec4da54329d28d230b4973f5aa27886c3aee"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "NFXCoin(NFXC) is a token created on the Ethereum platform to drive all the services that will be provided on the NFXTrade\r\nplatform.\r\n\r\nThe valuation of NFXCoin(NFXC) will be governed by the law of supply and demand. Its launch will follow the market rules\r\nknown as ICO (Inital Cryptocrurrency Offering).\r\n\r\nInitially, the advantage that NFXCoin(NFXC) brought, due to its use on the NFXTrade platform, was that any user\r\nof the platform who had an amount of 2,000 NFXCoin(NFXC) within their wallet on the platform would pay only\r\n50% of any fee or service provided by it. With the acquisition of the platforms, names, brands and the NFXCoin\r\n(NFXC) token by XTrader Softwares LLC, instead of users holding tokens in their wallets within the platform to\r\nbenefit from the 50% discount on fees, they would only have to choose to pay the fees fully with NFXCoin(NFXC)\r\nthat would benefit from the discount. This would be true from the new platform developed under the management of\r\nXTrader Softwares LLC.\r\n\r\nNow under the management of NFX Digital Services LLC, new strategies will be implemented and one of them is to\r\nbe using NFXCoin as the currency responsible for the payment of trading fees within NFXTrade and another is the use\r\nof the currency within NFXPartner (new platform of the NFX Digital Services LLC), which will be responsible for\r\nmaking daily distributions in NFXCoins for all customers who have purchased Smart Bonus packages (smart bonuses\r\nderived from part of the profits obtained by the ecosystem of NFX Digital Services LLC), the same platform will also\r\nbring several products and tools for the crypto market."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0x2d39ec4da54329d28d230b4973f5aa27886c3aee",
+    "url": "https://nfxcoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x2d39ec4da54329d28d230b4973f5aa27886c3aee",
+        "https://ethplorer.io/address/0x2d39ec4da54329d28d230b4973f5aa27886c3aee"
+    ],
+    "twitter": "nfxservice_",
+    "facebook": "nfxservice",
+    "telegram": "NFXGlobal",
+    "github_org": "NFXService"
+}

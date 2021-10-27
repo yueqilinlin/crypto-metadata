@@ -1,0 +1,21 @@
+{
+    "id": "1x-short-trx-token",
+    "symbol": "trxhedge",
+    "name": "1X Short TRX Token",
+    "platforms": {
+        "ethereum": "0xe58c8df0088cf27b26c7d546a9835deacc29496c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "1X Short TRX Token (TRXHEDGE) is an ERC20 token which seeks a return that corresponds to -1 times the daily return of TRON."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe58c8df0088cf27b26c7d546a9835deacc29496c",
+    "url": "https://ftx.com/tokens/trxhedge",
+    "explorers": [
+        "https://etherscan.io/token/0xe58C8dF0088Cf27b26C7D546A9835deAcC29496c",
+        "https://ethplorer.io/address/0xe58c8df0088cf27b26c7d546a9835deacc29496c"
+    ]
+}

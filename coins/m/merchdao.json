@@ -1,0 +1,24 @@
+{
+    "id": "merchdao",
+    "symbol": "mrch",
+    "name": "MerchDAO",
+    "platforms": {
+        "ethereum": "0xbed4ab0019ff361d83ddeb74883dac8a70f5ea1e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0xbed4ab0019ff361d83ddeb74883dac8a70f5ea1e",
+    "url": "https://merchdao.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xbed4ab0019ff361d83ddeb74883dac8a70f5ea1e",
+        "https://ethplorer.io/address/0xbed4ab0019ff361d83ddeb74883dac8a70f5ea1e"
+    ],
+    "twitter": "MerchDao",
+    "telegram": "MerchDAO",
+    "github_org": "MerchDAO"
+}

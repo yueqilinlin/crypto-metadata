@@ -1,0 +1,23 @@
+{
+    "id": "moonbird",
+    "symbol": "mbird",
+    "name": "Moonbird",
+    "platforms": {
+        "binance-smart-chain": "0x3b23a0ffbc53198d86fa5927e8ee32f7ef699a14"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Moonbird combines Bitcoin monetary policy, yield farming, and community driven charity in the best possible way. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3b23a0ffbc53198d86fa5927e8ee32f7ef699a14",
+    "url": "https://www.moonbird.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x3b23a0ffbc53198d86fa5927e8ee32f7ef699a14"
+    ],
+    "twitter": "MBirdFinance",
+    "telegram": "MBirdFinance",
+    "github_org": "moonbird-finance"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "cloutcontracts",
+    "symbol": "ccs",
+    "name": "CloutContracts",
+    "platforms": {
+        "ethereum": "0x1da4858ad385cc377165a298cc2ce3fce0c5fd31",
+        "binance-smart-chain": "0x3e3b357061103dc040759ac7dceeaba9901043ad"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CloutContracts is the token behind a smart contracts platform for influencers and creators. It wants to be part of a high speed rollup layer that powers the next generation of blockchain developers."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1da4858ad385cc377165a298cc2ce3fce0c5fd31",
+    "url": "https://cloutcontracts.net",
+    "explorers": [
+        "https://bscscan.com/token/0x3e3b357061103dc040759ac7dceeaba9901043ad",
+        "https://etherscan.io/token/0x1da4858ad385cc377165a298cc2ce3fce0c5fd31",
+        "https://ethplorer.io/address/0x1da4858ad385cc377165a298cc2ce3fce0c5fd31"
+    ],
+    "telegram": "CloutContracts",
+    "reddit": "CloutContracts/",
+    "github_org": "CloutContracts"
+}

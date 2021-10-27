@@ -1,0 +1,26 @@
+{
+    "id": "slt",
+    "symbol": "slt",
+    "name": "SLT",
+    "platforms": {
+        "ethereum": "0xe9f3cb0229eb8d0aaf03ec84883950134ed20ddc"
+    },
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "SLT is an Etherum (ERC20) based token with a goal to create fully transparent decentralized cryptocurrency exchange platform which is focused on the needs of its users.\r\n\r\nPlatform will focus on revolutionizing transactions speed and achieving instantaneous execution with successful use of maximum what blockchain technology can provide INSTEAD of centralized processing.\r\n\r\nAs an extra feature this exchange will have its own prepaid card from which every member can cash out their profits.\r\n"
+    },
+    "country_origin": "BA",
+    "genesis_date": null,
+    "contract_address": "0xe9f3cb0229eb8d0aaf03ec84883950134ed20ddc",
+    "url": "https://sltads.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe9f3cb0229eb8d0aaf03ec84883950134ed20ddc",
+        "https://ethplorer.io/address/0xe9f3cb0229eb8d0aaf03ec84883950134ed20ddc"
+    ],
+    "twitter": "SLTpos_crypto",
+    "telegram": "sltofficialgroup",
+    "github_org": "sltpos"
+}

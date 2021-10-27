@@ -1,0 +1,25 @@
+{
+    "id": "beyond-finance",
+    "symbol": "byn",
+    "name": "Beyond Finance",
+    "platforms": {
+        "ethereum": "0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca",
+        "polygon-pos": "0x11602a402281974a70c2b4824d58ebede967e2be"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Beyond Finance is a synthetic asset trading platform, which brings investment opportunities for traditional financial assets to everyone, in providing a permissionless financial service eco-system leveraging on blockchain infrastructure.\r\n\r\nBeyond Finance provides a seamless and user-friendly service to become a true exchange with competitive UI/UX and implementation of gamification function to compensate some part of the trading fee, in which users feel EASY and INTERESTING to trade.\r\n\r\nBeyond will adopt Layer 2 solution to achieve enhanced scalability. Initially, it will be launched with an on-off chain hybrid rollup, which provides near-CEX speed while all transactions can be verified on Ethereum network, and it will migrate to fully-operational Layer 2 solution once the safety and security is guaranteed."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca",
+    "url": "https://beyondfinance.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca",
+        "https://ethplorer.io/address/0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca"
+    ],
+    "twitter": "beyondfinanceio",
+    "telegram": "beyondfinanceglobal",
+    "github_org": "Beyond-Trade"
+}

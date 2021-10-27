@@ -1,0 +1,24 @@
+{
+    "id": "bmining-token",
+    "symbol": "bmt",
+    "name": "Bmining Token",
+    "platforms": {
+        "ethereum": "0xf205d2d65205711b6f6aae3fcb7ebdbc8573f192"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bmining is a DeFi mining protocol\r\n\r\nBmining protocol consists of bBTC50 tokens, bETH30 tokens and BMT tokens. Each bBTC50 token represents 1TH/s hashrate with pre-determined power ratio, Each bETH30 token represents 5MH/s hashrate with pre-determined power ratio, mining rigs would be in mining pools during life cycle. While net profit on wBTC or ETH would be distributed per minutes."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf205d2d65205711b6f6aae3fcb7ebdbc8573f192",
+    "url": "https://bmining.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xf205d2d65205711b6f6aae3fcb7ebdbc8573f192",
+        "https://ethplorer.io/address/0xf205d2d65205711b6f6aae3fcb7ebdbc8573f192"
+    ],
+    "twitter": "bMiningdefi",
+    "telegram": "bmininghashrate",
+    "github_org": "bmining-finance"
+}

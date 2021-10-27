@@ -1,0 +1,28 @@
+{
+    "id": "blockport",
+    "symbol": "bux",
+    "name": "BUX Token",
+    "platforms": {
+        "binance-smart-chain": "0x211ffbe424b90e25a15531ca322adf1559779e45"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "The BUX Token (BUX) is a Binance Smart Chain powered BEP20 utility token that can be used on the BUX Crypto platform to trade with 0% commission and access premium features. In the near future, BUX aims to enrich a range of community features so that the token offers tangible advantages on the BUX Crypto platform. The goal is to create a strong use case for BUX and power a micro-economy within the platform."
+    },
+    "country_origin": "NL",
+    "genesis_date": "2018-01-03",
+    "contract_address": "0x211ffbe424b90e25a15531ca322adf1559779e45",
+    "url": "https://getbux.com/bux-crypto/",
+    "explorers": [
+        "https://bscscan.com/token/0x211ffbe424b90e25a15531ca322adf1559779e45"
+    ],
+    "twitter": "buxcrypto",
+    "facebook": "BUXsocial",
+    "telegram": "buxcommunity",
+    "reddit": "Blockport/",
+    "github_org": "Blockport"
+}

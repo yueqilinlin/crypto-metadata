@@ -1,0 +1,27 @@
+{
+    "id": "kiwi-token",
+    "symbol": "kiwi",
+    "name": "KIWI Token",
+    "platforms": {
+        "ethereum": "0x2bf91c18cd4ae9c2f2858ef9fe518180f7b5096d",
+        "polygon-pos": "0x578360adf0bbb2f10ec9cec7ef89ef495511ed5f"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "KIWI is a mineable ERC20/EIP-918 token, and it has no pre-mine. The project was first announced in Bitcointalk in May 6, 2018. Today KIWI is used in payments, NFT trading, engagement, and community development. It can be solo-mined using CPU or GPU."
+    },
+    "country_origin": "AT",
+    "genesis_date": null,
+    "contract_address": "0x2bf91c18cd4ae9c2f2858ef9fe518180f7b5096d",
+    "url": "https://kiwi-token.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x2bf91c18cd4ae9c2f2858ef9fe518180f7b5096d",
+        "https://ethplorer.io/address/0x2bf91c18cd4ae9c2f2858ef9fe518180f7b5096d"
+    ],
+    "twitter": "KiwiToken",
+    "reddit": "kiwitoken/",
+    "github_org": "KiwiToken"
+}

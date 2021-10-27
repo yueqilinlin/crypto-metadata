@@ -1,0 +1,23 @@
+{
+    "id": "machinecoin",
+    "symbol": "mac",
+    "name": "Machinecoin",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2014-01-07",
+    "url": "https://machinecoin.io/",
+    "explorers": [
+        "https://explorer.machinecoin.org/"
+    ],
+    "twitter": "machinecoin",
+    "facebook": "machinecoin.io",
+    "reddit": "Machinecoin",
+    "github_org": "machinecoin-project"
+}

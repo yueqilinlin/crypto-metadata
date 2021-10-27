@@ -1,0 +1,23 @@
+{
+    "id": "pacific-defi",
+    "symbol": "pacific",
+    "name": "Pacific DeFi",
+    "platforms": {
+        "binance-smart-chain": "0x054ae19876b2a669c282503d5a76313290bc6453"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pacific DeFi creates secure and easy-to-use yield enhancing vaults on different blockchains."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x054ae19876b2a669c282503d5a76313290bc6453",
+    "url": "https://www.pacific-defi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x054ae19876b2a669c282503d5a76313290bc6453"
+    ],
+    "twitter": "PacificDeFi",
+    "telegram": "pacificdefi",
+    "github_org": "PacificDeFi"
+}

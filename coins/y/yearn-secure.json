@@ -1,0 +1,24 @@
+{
+    "id": "yearn-secure",
+    "symbol": "ysec",
+    "name": "Yearn Secure",
+    "platforms": {
+        "ethereum": "0xeea9ae787f3a620072d13b2cdc8cabffb9c0ab96"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YSEC is a fully transparent and automated launchpad where developers can customize their preslale to their needs and lock their allocations the way they wish. The platform uses a 5% base fee of which half goes to our yield pool where YSEC token holders can recoup part of the presale proceeds."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0xeea9ae787f3a620072d13b2cdc8cabffb9c0ab96",
+    "url": "https://ysec.finance",
+    "explorers": [
+        "https://etherscan.io/token/0xeea9aE787f3A620072d13b2cdC8cabFFb9c0aB96",
+        "https://ethplorer.io/address/0xeea9ae787f3a620072d13b2cdc8cabffb9c0ab96"
+    ],
+    "twitter": "YearnSecure",
+    "telegram": "YearnSecure",
+    "github_org": "YearnSecure"
+}

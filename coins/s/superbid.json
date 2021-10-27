@@ -1,0 +1,31 @@
+{
+    "id": "superbid",
+    "symbol": "superbid",
+    "name": "SuperBid",
+    "platforms": {
+        "ethereum": "0x0563dce613d559a47877ffd1593549fb9d3510d6",
+        "binance-smart-chain": "0xee9762352f63f4387af40d58291612067727457d",
+        "polygon-pos": "0xa3860f969075045d82de85b06bb665f93c4bae32",
+        "harmony-shard-0": "0x17fdedda058d43ff1615cdb72a40ce8704c2479a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "SuperBid.io is an innovative social-auction app that connects influencers with their fans. With SuperBid, users have the opportunity to participate in thousands of auctions set up by influencers. We plan to integrate the SUPERBID token in our app!"
+    },
+    "country_origin": "PL",
+    "genesis_date": null,
+    "contract_address": "0x0563dce613d559a47877ffd1593549fb9d3510d6",
+    "url": "https://www.superbid.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x0563dce613d559a47877ffd1593549fb9d3510d6",
+        "https://ethplorer.io/address/0x0563dce613d559a47877ffd1593549fb9d3510d6",
+        "https://bscscan.com/token/0xee9762352f63f4387af40d58291612067727457d",
+        "https://polygonscan.com/token/0xa3860f969075045d82de85b06bb665f93c4bae32"
+    ],
+    "twitter": "superbid_io",
+    "telegram": "superbid_chat",
+    "reddit": "SuperBid/"
+}

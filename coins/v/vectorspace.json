@@ -1,0 +1,25 @@
+{
+    "id": "vectorspace",
+    "symbol": "vxv",
+    "name": "Vectorspace AI",
+    "platforms": {
+        "ethereum": "0x7d29a64504629172a429e64183d6673b9dacbfce"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Artificial Intelligence"
+    ],
+    "description": {
+        "en": "Using a biomimetic approach, the Vectorspace AI platform will leverage advanced approaches in Natural Language Processing (NLP) and Machine Learning (ML) in order to create dynamic smart \"token baskets\" based on trends rising in context-controlled sentiment, search, social media, and news"
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "contract_address": "0x7d29a64504629172a429e64183d6673b9dacbfce",
+    "url": "https://vectorspace.ai/",
+    "explorers": [
+        "https://etherscan.io/token/0x7D29A64504629172a429e64183D6673b9dAcbFCe",
+        "https://ethplorer.io/address/0x7d29a64504629172a429e64183d6673b9dacbfce"
+    ],
+    "twitter": "Vectorspace_AI",
+    "reddit": "VectorspaceAI/"
+}

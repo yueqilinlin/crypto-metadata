@@ -1,0 +1,23 @@
+{
+    "id": "transparent-token",
+    "symbol": "transparent",
+    "name": "Transparent Token",
+    "platforms": {
+        "ethereum": "0x4ebe2c526ee3ed4791a02960f53f65645f404ed6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Transparent Token aims to create a new norm in the Defi industry. The team is tired of all the projects launched with hidden taxes, unverified contracts, and dishonest shaky teams. The Transparent team offers all details up front, with nothing to hide. Any questions asked in chat or on social media will be answered concisely to allow all investors to be confident that it is safe! It offers an ETH dividend system that can be claimed at anytime directly back to your wallet, or claimed and reinvested. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4ebe2c526ee3ed4791a02960f53f65645f404ed6",
+    "url": "https://transparentdefi.io",
+    "explorers": [
+        "https://etherscan.io/token/0x4ebe2c526ee3ed4791a02960f53f65645f404ed6",
+        "https://ethplorer.io/address/0x4ebe2c526ee3ed4791a02960f53f65645f404ed6"
+    ],
+    "twitter": "transparent_dev",
+    "telegram": "TransparentToken"
+}

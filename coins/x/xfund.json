@@ -1,0 +1,29 @@
+{
+    "id": "xfund",
+    "symbol": "xfund",
+    "name": "xFund",
+    "platforms": {
+        "ethereum": "0x892a6f9df0147e5f079b0993f486f9aca3c87881",
+        "sora": "0x007e908e399cc73f3dad9f02f9c5c83a7adcd07e78dd91676ff3c002e245d8e9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services",
+        "Oracle",
+        "Governance"
+    ],
+    "description": {
+        "en": "xFUND is the on-chain governance and access token for the Unification Oracle of Oracles and other DeFi products.\u00a0 Please note this is a separate\u00a0token from FUND which is on a separate\u00a0mainnet.\u00a0"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x892a6f9df0147e5f079b0993f486f9aca3c87881",
+    "url": "https://www.unification.com/xfund",
+    "explorers": [
+        "https://etherscan.io/token/0x892a6f9df0147e5f079b0993f486f9aca3c87881",
+        "https://ethplorer.io/address/0x892a6f9df0147e5f079b0993f486f9aca3c87881"
+    ],
+    "twitter": "UnificationUND",
+    "telegram": "unificationfoundation",
+    "github_org": "unification-com"
+}

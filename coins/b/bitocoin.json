@@ -1,0 +1,20 @@
+{
+    "id": "bitocoin",
+    "symbol": "bto",
+    "name": "Bitocoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Bitocoin is a proof-of-work blockchain platform that allows instant, nearly free payments to anyone in the world. A free and uncensored network where all can participate with equal access to our global payment network that is fully decentralized and has no central authorities. The math secures the network and empowers individuals to control their own finances.\r\n\r\nFaster Transaction confirmation times and better storage efficiency than the leading math-based currency.\r\nBitocoin Blockchain is capable of handling higher transaction volume than its counterpart bitcoin.\r\nFar more practical alternative to FIAT money."
+    },
+    "country_origin": "IT",
+    "genesis_date": null,
+    "url": "https://bitocoin.tech/",
+    "explorers": [
+        "https://explorer.bitocoin.net/"
+    ],
+    "twitter": "BitOcoinDev",
+    "facebook": "bitocoinofficial",
+    "telegram": "BitOCoinNew"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "cryptocart",
+    "symbol": "cc",
+    "name": "Cryptocart",
+    "platforms": {
+        "ethereum": "0x9e547061a345015869d26c7b6ee4ab5b63424441"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "E-Commerce on DeFi\r\nCryptoCart is a digital marketplace where consumers can spend cryptocurrencies on real-world goods in an affordable way and with worldwide shipping, offering comprehensive rewards system that incentives users to conduct business on the platform using the native CC Token. There are no requirement to KYC or dispose of your cryptocurrency into fiat currency before making purchases.\r\n\r\nCryptoCart offers payment method from some of your favourite coins and partnered projects"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9e547061a345015869d26c7b6ee4ab5b63424441",
+    "url": "https://cryptocart.cc/",
+    "explorers": [
+        "https://etherscan.io/token/0x9e547061a345015869d26c7b6ee4ab5b63424441",
+        "https://ethplorer.io/address/0x9e547061a345015869d26c7b6ee4ab5b63424441"
+    ],
+    "twitter": "CryptoCartCC",
+    "telegram": "cryptocartcc"
+}

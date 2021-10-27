@@ -1,0 +1,24 @@
+{
+    "id": "tronweeklyjournal",
+    "symbol": "twj",
+    "name": "TronWeeklyJournal",
+    "platforms": {
+        "tron": "TNq5PbSssK5XfmSYU4Aox4XkgTdpDoEDiY"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tron Weekly Journal (TWJ) aims to bring all Tron world news under one unified online journal. All latest news, events, ICOs, business ideations, interviews of ideators and entrepreneurs, and every activity held by Tron around the world will be available at the Tron Weekly Journal."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TNq5PbSssK5XfmSYU4Aox4XkgTdpDoEDiY",
+    "url": "https://www.tronweekly.com/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TNq5PbSssK5XfmSYU4Aox4XkgTdpDoEDiY",
+        "https://www.trxplorer.io/token/TNq5PbSssK5XfmSYU4Aox4XkgTdpDoEDiY"
+    ],
+    "twitter": "TronWeekly",
+    "facebook": "Tronweekly",
+    "telegram": "Tronjournal"
+}

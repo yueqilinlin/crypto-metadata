@@ -1,0 +1,22 @@
+{
+    "id": "ethersocks",
+    "symbol": "sox",
+    "name": "Ethersocks",
+    "platforms": {
+        "ethereum": "0x300a902513815028e97fc79e92082ce6a98d3b74"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ethersocks ($SOX) have been created to celebrate the launch of Eth2, its transition to Proof-of-Stake, and the work of countless industry insiders who are working tirelessly to bring crypto to the masses. Ethersocks are a limited-edition, tokenized asset with a fixed supply of 3,200.\r\n\r\nThe purchase of the Ethersocks token entitles you to one pair of real-life socks redeemed through our website, a redemption that will also generate an exclusive NFT that will be yours for as long as you hodl. Featuring the Etherhino, the design marks the transition to the next iteration of Ethereum, complimented by the ETH diamond and the carefree colors of the Ethereum lifestyle.\r\n\r\nOwning a pair of Ethersocks means possessing a piece of history both on the blockchain and in your sock drawer."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x300a902513815028e97fc79e92082ce6a98d3b74",
+    "url": "https://ethersocks.io",
+    "explorers": [
+        "https://etherscan.io/token/0x300a902513815028e97fc79e92082ce6a98d3b74",
+        "https://ethplorer.io/address/0x300a902513815028e97fc79e92082ce6a98d3b74"
+    ],
+    "twitter": "ethersocks"
+}

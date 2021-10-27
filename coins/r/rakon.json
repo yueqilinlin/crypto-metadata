@@ -1,0 +1,24 @@
+{
+    "id": "rakon",
+    "symbol": "rkn",
+    "name": "RAKON",
+    "platforms": {
+        "ethereum": "0x6e5a43db10b04701385a34afb670e404bc7ea597"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Communication"
+    ],
+    "description": {
+        "en": "RAKON token is determined to design and manufacture frequency control solutions that will help organizations around the world to experience highly secured, synchronized and fast communication systems that are crucial for the performance of critical applications."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x6e5a43db10b04701385a34afb670e404bc7ea597",
+    "url": "https://rakon.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x6e5a43db10b04701385a34afb670e404bc7ea597",
+        "https://ethplorer.io/address/0x6e5a43db10b04701385a34afb670e404bc7ea597"
+    ],
+    "telegram": "rkntoken"
+}

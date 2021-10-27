@@ -1,0 +1,23 @@
+{
+    "id": "fission-cash",
+    "symbol": "fcx",
+    "name": "Fission Cash",
+    "platforms": {
+        "ethereum": "0x0b66015bc42601d5986b540373b4e02d7383c7c1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CX is a hyper-deflationary self-governing ERC20 token with inbuilt mechanisms\r\nto automatically burn 4% of the total supply and apply a 5% tax upon each transaction.\r\n\r\nThe inbuilt burn mechanism provides an immediate deflation of 4% each time the token is swapped or transferred causing the value of FCX to increase over time autonomously. Additionally, the 5% tax applied to each transaction is redistributed amongst holders of the token and provides an automatic yield generation without requiring any gas fees for the balance to be updated in token holders\u2019 wallets.\r\n\r\nUltimately, FCX builds on and improves the RFI framework by increasing the tax (and therefore the reward to holders) by a factor of 5, whilst also providing a 4% deflationary burn mechanic of which RFI lacks."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0b66015bc42601d5986b540373b4e02d7383c7c1",
+    "url": "https://fission.cash/",
+    "explorers": [
+        "https://etherscan.io/token/0x0b66015bc42601d5986b540373b4e02d7383c7c1",
+        "https://ethplorer.io/address/0x0b66015bc42601d5986b540373b4e02d7383c7c1"
+    ],
+    "twitter": "FissionCash",
+    "telegram": "FissionCash"
+}

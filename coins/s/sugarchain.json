@@ -1,0 +1,24 @@
+{
+    "id": "sugarchain",
+    "symbol": "sugar",
+    "name": "Sugarchain",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "one-CPU-one-vote, the world's fastest PoW blockchain"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "url": "https://sugarchain.org/",
+    "explorers": [
+        "https://1explorer.sugarchain.org",
+        "sugar.wtf"
+    ],
+    "twitter": "sugarchain_dev",
+    "telegram": "sugarchain",
+    "reddit": "https://www.reddit.com",
+    "github_org": "sugarchain-project"
+}

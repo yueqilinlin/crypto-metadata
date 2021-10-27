@@ -1,0 +1,25 @@
+{
+    "id": "cindicator",
+    "symbol": "cnd",
+    "name": "Cindicator",
+    "platforms": {
+        "ethereum": "0xd4c435f5b09f855c3317c8524cb1f586e42795fa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Founded in 2015, Cindicator builds analytical and trading products for stocks and crypto based on \u2018Hybrid Intelligence\u2019, which combines data from thousands of users and AI. Resulting indicators are available on Bloomberg terminals and in strategies by Stoic, an automated trading app that outperformed BTC and crypto benchmarks and is connected to accounts with nearly a hundred million dollar worth of crypto."
+    },
+    "country_origin": "RU",
+    "genesis_date": "2017-09-09",
+    "contract_address": "0xd4c435f5b09f855c3317c8524cb1f586e42795fa",
+    "url": "https://cindicator.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd4c435f5b09f855c3317c8524cb1f586e42795fa",
+        "https://ethplorer.io/address/0xd4c435f5b09f855c3317c8524cb1f586e42795fa"
+    ],
+    "twitter": "Cindicator",
+    "telegram": "cindicator_chat",
+    "reddit": "Cindicator",
+    "github_org": "cindicator"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "mirrored-ishares-gold-trust",
+    "symbol": "miau",
+    "name": "Mirrored iShares Gold Trust",
+    "platforms": {
+        "ethereum": "0x1d350417d9787e000cc1b95d70e9536dcd91f373",
+        "binance-smart-chain": "0x1658aed6c7dbab2ddbd8f5d898b0e9eab0305813"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Mirrored Assets"
+    ],
+    "description": {
+        "en": "Mirrored iShares Gold Trust - synthetic asset tracking the price of an iShares Gold Trust ETF."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x1d350417d9787e000cc1b95d70e9536dcd91f373",
+    "url": "https://mirror.finance",
+    "explorers": [
+        "https://finder.terra.money/columbus-4/token/terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec",
+        "https://etherscan.io/token/0x1d350417d9787E000cc1b95d70E9536DcD91F373",
+        "https://ethplorer.io/address/0x1d350417d9787e000cc1b95d70e9536dcd91f373",
+        "https://bscscan.com/token/0x1658AeD6C7dbaB2Ddbd8f5D898b0e9eAb0305813"
+    ],
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol"
+}

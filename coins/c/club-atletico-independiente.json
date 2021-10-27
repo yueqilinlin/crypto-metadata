@@ -1,0 +1,24 @@
+{
+    "id": "club-atletico-independiente",
+    "symbol": "cai",
+    "name": "Club Atletico Independiente Fan Token",
+    "platforms": {
+        "chiliz": "0x1793c8b629b0a526d8741e288440c0cbc4486292"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fan Token",
+        "Sports"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1793c8b629b0a526d8741e288440c0cbc4486292",
+    "url": "https://clubaindependiente.com.ar/",
+    "explorers": [
+        "https://explorer.chiliz.com/address/0x1793c8b629b0a526d8741e288440c0cbc4486292"
+    ],
+    "twitter": "Independiente"
+}

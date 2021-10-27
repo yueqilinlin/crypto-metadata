@@ -1,0 +1,22 @@
+{
+    "id": "collegicoin",
+    "symbol": "clg",
+    "name": "Collegicoin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Education"
+    ],
+    "description": {
+        "en": "Collegicoin is a new, fast and secure cryptocurrency for basic and higher education."
+    },
+    "country_origin": "PU",
+    "genesis_date": null,
+    "url": "https://www.collegicoin.com/",
+    "explorers": [
+        "http://explorer.collegicoin.com"
+    ],
+    "twitter": "collegicoin",
+    "telegram": "CollegicoinOfficialGroup",
+    "github_org": "CollegicoinCLG"
+}

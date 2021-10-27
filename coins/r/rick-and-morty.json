@@ -1,0 +1,23 @@
+{
+    "id": "rick-and-morty",
+    "symbol": "RICKMORTY",
+    "name": "Rick And Morty",
+    "platforms": {
+        "ethereum": "0x00b0e8d3d7a6275dea291111ff8480ea053cd719"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x00b0e8d3d7a6275dea291111ff8480ea053cd719",
+    "url": "https://www.rickmortyerc20.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x00b0e8d3d7a6275dea291111ff8480ea053cd719",
+        "https://ethplorer.io/address/0x00b0e8d3d7a6275dea291111ff8480ea053cd719"
+    ],
+    "twitter": "rickmortyerc20",
+    "telegram": "rickmortyerc20"
+}

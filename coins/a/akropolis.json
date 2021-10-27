@@ -1,0 +1,32 @@
+{
+    "id": "akropolis",
+    "symbol": "akro",
+    "name": "Akropolis",
+    "platforms": {
+        "ethereum": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
+        "sora": "0x007348eb8f0f3cec730fbf5eec1b6a842c54d1df8bed75a9df084d5ee013e814"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Yearn Ecosystem",
+        "Polkadot Ecosystem",
+        "Finance / Banking",
+        "Decentralized Finance (DeFi)",
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Akropolis is a provider of decentralized finance products with an emphasis on asset yield generation. Our mission is to give users (both new and crypto-native) the tools to save, grow and provision for the future safely, with access to a variety of non-fiat and non-inflationary assets, without dependence on geography or central counterparty. To do this, Arkopolis offers an easy-to-use yield aggregator product featuring curated best-in-class yield generation strategies from various protocols across DeFi.\r\n\r\nUsing the Akropolis dApp, users can:\r\n\r\nEasily onboard into DeFi from their traditional bank accounts via Dharma and Ramp Network.\r\n\r\nCalculate and compare annual percent yield (APY) of various assets across top DeFi yield generating strategies such as Yearn Finance Vaults.\r\n\r\nEasily see their balance, average APY, and yield earned.\r\n\r\nDeposit and withdraw assets and claim yield rewards all in one place.\r\n\r\nUse dollar-cost averaging to enter positions/strategies (coming soon)\r\n\r\nStake their $AKRO tokens for liquidity mining rewards and protocol revenue share (coming soon).\r\n\r\nParticipate in Akropolis protocol governance via Snapshot.\r\n\r\nIn this way, Akropolis acts as a one-stop-shop for decentralized savings and high-yield accounts. We believe that our products and services will enable retail and institutional clients alike to quickly and easily onboard into decentralized finance."
+    },
+    "country_origin": "GI",
+    "genesis_date": null,
+    "contract_address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
+    "url": "https://akropolis.io",
+    "explorers": [
+        "https://etherscan.io/token/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
+        "https://ethplorer.io/address/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7"
+    ],
+    "twitter": "akropolisio",
+    "telegram": "akropolis_official",
+    "github_org": "akropolisio"
+}

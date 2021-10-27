@@ -1,0 +1,27 @@
+{
+    "id": "unitedcrowd",
+    "symbol": "uct",
+    "name": "UnitedCrowd",
+    "platforms": {
+        "ethereum": "0x6d1dc3928604b00180bb570bdae94b9698d33b79",
+        "binance-smart-chain": "0x6d1dc3928604b00180bb570bdae94b9698d33b79"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "UnitedCrowd - Asset Tokenization as a Service \r\n\r\nBy modelling financial products on the blockchain, UnitedCrowd offers innovative solutions for raising and investing capital. These blockchain-based solutions have decisive advantages for investors and companies alike: The costs of raising capital decrease significantly, intermediaries are reduced, investment options can be offered worldwide and international investors can be acquired. Payments and processes are transparent, automated and secure. Access restrictions are reduced and new markets can be opened up. Investors benefit from access to fractional ownership and are no longer dependent on middlemen to build and manage their portfolios."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x6d1dc3928604b00180bb570bdae94b9698d33b79",
+    "url": "https://unitedcrowd.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6d1dc3928604b00180bb570bdae94b9698d33b79",
+        "https://ethplorer.io/address/0x6d1dc3928604b00180bb570bdae94b9698d33b79"
+    ],
+    "twitter": "unitedcrowd_com",
+    "facebook": "UnitedCrowd",
+    "telegram": "UnitedCrowd",
+    "reddit": "UnitedCrowd/",
+    "github_org": "UnitedCrowd"
+}

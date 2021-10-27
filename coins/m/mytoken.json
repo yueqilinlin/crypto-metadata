@@ -1,0 +1,24 @@
+{
+    "id": "mytoken",
+    "symbol": "mt",
+    "name": "MyToken",
+    "platforms": {
+        "ethereum": "0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MyToken focuses on providing aggregate exchange market information and has become a market-watching application with the largest market share and the highest number of active users in China.\r\n\r\nAs a platform that has attracted many cryptocurrency investors, MyToken hopes to further solve the problems faced by our users in the market today. MyToken\u2019s vision is to create a new cryptocurrency investment service ecosystem based on the blockchain technology and token system. The new ecosystem will be able to minimize transaction cost, provide the best content and the best social interaction experience, and integrate some of the most valuable investment tools into itself.\r\n\r\nMyToken is an advocate for value investing and decentralization. We wish to become the bridge connecting the blockchain technology and its users as well as investors by accelerating the transformation process in which the users get involved. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc",
+    "url": "https://mytoken.io/en/",
+    "explorers": [
+        "https://etherscan.io/token/0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc",
+        "https://ethplorer.io/address/0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc"
+    ],
+    "twitter": "mytokenio",
+    "facebook": "MyTokenio-175148076435932",
+    "telegram": "mytoken_en"
+}

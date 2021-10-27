@@ -1,0 +1,29 @@
+{
+    "id": "gala",
+    "symbol": "gala",
+    "name": "Gala",
+    "platforms": {
+        "ethereum": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da",
+        "binance-smart-chain": "0x7ddee176f665cd201f93eede625770e2fd911990"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "GALA is designed to power the Gala Games ecosystem to support gaming re-imagined to benefit creators and players, alike."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da",
+    "url": "https://gala.games/",
+    "explorers": [
+        "https://etherscan.io/token/0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
+        "https://ethplorer.io/address/0x15d4c048f83bd7e37d49ea4c83a07267ec4203da",
+        "https://bscscan.com/token/0x7ddee176f665cd201f93eede625770e2fd911990"
+    ],
+    "twitter": "GoGalaGames",
+    "facebook": "GoGalaGames"
+}

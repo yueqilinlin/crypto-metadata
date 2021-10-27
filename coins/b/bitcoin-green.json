@@ -1,0 +1,22 @@
+{
+    "id": "bitcoin-green",
+    "symbol": "bitg",
+    "name": "Bitcoin Green",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Bitcoin Green is a proof-of-stake, transactional currency designed to provide a scalable and sustainable alternative to Bitcoin.\r\n\r\nBitcoin Green (BITG) is founded on 'The Green Protocol,' which utilizes a highly efficient proof-of-stake consensus algorithm that solves many of Bitcoin\u2019s sustainability and scalability problems. Furthermore, Bitcoin Green can be mined on any computer or laptop without specialized equipment."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-03-23",
+    "url": " https://bitg.org/",
+    "explorers": [
+        "https://www.coinexplorer.net/BITG",
+        "http://explorer.savebitcoin.io/",
+        "https://bitg.tokenview.com/"
+    ],
+    "github_org": "bitgreen-official"
+}

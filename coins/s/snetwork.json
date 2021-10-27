@@ -1,0 +1,24 @@
+{
+    "id": "snetwork",
+    "symbol": "snet",
+    "name": "Snetwork",
+    "platforms": {
+        "ethereum": "0xff19138b039d938db46bdda0067dc4ba132ec71c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "SNET(Snetwork) swaps with LLT at 1:1 ratio. Snetwork\uff08Distributed Shared Cloud Computing Network\uff09is a distributed shared computing platform, focus on block chain applications."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0xff19138b039d938db46bdda0067dc4ba132ec71c",
+    "url": "http://snetwork.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xFf19138b039D938db46bDDA0067DC4BA132ec71C",
+        "https://ethplorer.io/address/0xff19138b039d938db46bdda0067dc4ba132ec71c"
+    ],
+    "telegram": "snetwork_official"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "kombai-inu",
+    "symbol": "kombai",
+    "name": "Kombai Inu",
+    "platforms": {
+        "ethereum": "0x3fce6ae1f55656663ba6a5b0e0812463cf45c2ee"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3fce6ae1f55656663ba6a5b0e0812463cf45c2ee",
+    "url": "https://kombai.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x3fce6ae1f55656663ba6a5b0e0812463cf45c2ee",
+        "https://ethplorer.io/address/0x3fce6ae1f55656663ba6a5b0e0812463cf45c2ee"
+    ],
+    "twitter": "KombaiInuToken",
+    "telegram": "KombaiInuToken"
+}

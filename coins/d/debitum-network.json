@@ -1,0 +1,27 @@
+{
+    "id": "debitum-network",
+    "symbol": "deb",
+    "name": "Debitum Network",
+    "platforms": {
+        "ethereum": "0x151202c9c18e495656f372281f493eb7698961d5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Debitum Network is an innovative hybrid ecosystem for small business financing - utilizing Ethereum blockchain based process together with principal and interest moved using fiat. This ecosystem based on decentralized and motivated communities brings together SME borrowers, local and regional risk assessors, debt collectors, insurers as well as global investors with interconnected trust-based smart contracts."
+    },
+    "country_origin": "LT",
+    "genesis_date": null,
+    "contract_address": "0x151202c9c18e495656f372281f493eb7698961d5",
+    "url": "https://debitum.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x151202c9c18e495656f372281f493eb7698961d5",
+        "https://ethplorer.io/address/0x151202c9c18e495656f372281f493eb7698961d5"
+    ],
+    "twitter": "DebitumNetwork",
+    "facebook": "DebitumNetwork",
+    "reddit": "DebitumNetwork/",
+    "github_org": "debitum"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "sovereign-coin",
+    "symbol": "sov",
+    "name": "Sovereign Coin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform",
+        "Masternodes"
+    ],
+    "description": {
+        "en": "SovCoin (SOV) is a cryptocurrency based on Dash, aiming to become the first and largest Masternode ATM cryptocurrency to provide monetary services. Starting with Singapore, then expanding throughout the whole world.\r\n\r\nSovCoin features a special kind of masternode technology, which provides backpay system to the masternode owners who keeps the network near-instant and secure payments a s well as anonymous transactions. The near-instant payments known as InstantSend technology, few seconds per transaction. The anonymous transaction known as PrivateSend, mixes your funds through the Masternode network, making it near impossible to trace back to the origin source."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "url": "https://sovcore.org/",
+    "explorers": [
+        "http://explorer.sovcore.org/"
+    ],
+    "twitter": "sovcash",
+    "telegram": "sovereigncoins",
+    "github_org": "SovCoinX"
+}

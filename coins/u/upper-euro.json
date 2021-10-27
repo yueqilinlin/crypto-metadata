@@ -1,0 +1,23 @@
+{
+    "id": "upper-euro",
+    "symbol": "euru",
+    "name": "Upper Euro",
+    "platforms": {
+        "ethereum": "0x6c139349ee94ebaaff55ed52d382673c263b22d6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Upper Token backed by Euro\r\n100 million tokens from EURU (UPPER Euro)"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x6c139349ee94ebaaff55ed52d382673c263b22d6",
+    "url": "https://uppers.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x6c139349ee94ebaaff55ed52d382673c263b22d6",
+        "https://ethplorer.io/address/0x6c139349ee94ebaaff55ed52d382673c263b22d6"
+    ],
+    "facebook": "Upper-Software-106093467886091",
+    "telegram": "uppersoftware"
+}

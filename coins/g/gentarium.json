@@ -1,0 +1,23 @@
+{
+    "id": "gentarium",
+    "symbol": "gtm",
+    "name": "Gentarium",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services",
+        "Masternodes"
+    ],
+    "description": {
+        "en": "The Gentarium team offers a service for launching Masternodes, which is designed to solve the investors problems. With our service, the node creator has no longer needs to study the documentation of the particular cryptocurrency, to spend time on the hosting tariffs study, to understand the details of operating systems, etc. Now for the crypto-enthusiast it is enough to create his Masternode in his personal cabinet and start it.\r\n\r\nIf the user of the service does not want to risk his own funds, he can use our service for Shared MN, which gives the opportunity to purchase a share of the Masternode, dividing the cost with like-minded people and get a reward depending on his investments percentage.\r\n\r\nOur web panel for RIGs and ASICs management is designed to solve the problems of farm deployment, monitoring and management. With this service, it will be much easier for the miner to manage large farms, because now he manages all the components of his farm at a time, sees all their indicators, monitors the status of each component using monitoring systems and alerts."
+    },
+    "country_origin": "RU",
+    "genesis_date": "2018-07-19",
+    "url": "https://gtmcoin.io/",
+    "explorers": [
+        "http://explorer.gtmcoin.io"
+    ],
+    "twitter": "GTM_Gentarium",
+    "telegram": "gtmcoin_eng",
+    "github_org": "genterium-project"
+}

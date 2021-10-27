@@ -1,0 +1,25 @@
+{
+    "id": "the-bitcoin-family",
+    "symbol": "family",
+    "name": "The Bitcoin Family",
+    "platforms": {
+        "ethereum": "0x833e4c02c47b7e38f5b9a80b26eb07d23d1961f4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Social Money"
+    ],
+    "description": {
+        "en": "FAMILY is the social money of Didi Taihuttu and The Bitcoin Family"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x833e4c02c47b7e38f5b9a80b26eb07d23d1961f4",
+    "url": "www.thebitcoinfamily.com",
+    "explorers": [
+        "https://etherscan.io/token/0x833E4c02c47B7e38f5b9A80b26eb07D23d1961f4",
+        "https://ethplorer.io/address/0x833e4c02c47b7e38f5b9a80b26eb07d23d1961f4"
+    ],
+    "twitter": "diditaihuttu",
+    "telegram": "thebitcoinfamily_official"
+}

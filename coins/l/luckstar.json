@@ -1,0 +1,22 @@
+{
+    "id": "luckstar",
+    "symbol": "lst",
+    "name": "Luckstar",
+    "platforms": {
+        "ethereum": "0x681ecc5a0bfd18c308a1138ff607f818bac5e417"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LuckStar is a community of blockchain game solutions built with smart contracts that provide services such as random number generation, reward distribution."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x681ecc5a0bfd18c308a1138ff607f818bac5e417",
+    "url": "http://www.luckstar.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x681ecc5a0bfd18c308a1138ff607f818bac5e417",
+        "https://ethplorer.io/address/0x681ecc5a0bfd18c308a1138ff607f818bac5e417"
+    ],
+    "facebook": "LuckStario-377934802781903"
+}

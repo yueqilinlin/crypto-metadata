@@ -1,0 +1,24 @@
+{
+    "id": "hodl-token",
+    "symbol": "hodl",
+    "name": "HODL 2.0",
+    "platforms": {
+        "binance-smart-chain": "0x5788105375ecf7f675c29e822fd85fcd84d4cd86"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HODL 2.0 is an upgrade to Hodl 1.0 - a community driven DeFi project built on Binance Smart Chain. HODL 2.0 brings the most revolutionary mechanism to BSC ecosystem: Earn $BNB just by holding $HODL tokens, AutoBuyBack & Burn , Re-Invest & Buybacks and Many More Features."
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "contract_address": "0x5788105375ecf7f675c29e822fd85fcd84d4cd86",
+    "url": "https://hodltoken.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x5788105375ecf7f675c29e822fd85fcd84d4cd86"
+    ],
+    "twitter": "HODLTOKEN2",
+    "telegram": "hodlinvestorgroup",
+    "reddit": "HodlToken/",
+    "github_org": "hodltoken"
+}

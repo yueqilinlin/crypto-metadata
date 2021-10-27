@@ -1,0 +1,29 @@
+{
+    "id": "ioi-token",
+    "symbol": "ioi",
+    "name": "QORPO",
+    "platforms": {
+        "ethereum": "0x8b3870df408ff4d7c3a26df852d41034eda11d81",
+        "binance-smart-chain": "0x959229d94c9060552daea25ac17193bca65d7884",
+        "polygon-pos": "0xaf24765f631c8830b5528b57002241ee7eef1c14"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8b3870df408ff4d7c3a26df852d41034eda11d81",
+    "url": "https://www.qorpo.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x8b3870df408ff4d7c3a26df852d41034eda11d81",
+        "https://polygonscan.com/token/0x8b3870df408ff4d7c3a26df852d41034eda11d81}",
+        "https://ethplorer.io/address/0x8b3870df408ff4d7c3a26df852d41034eda11d81"
+    ],
+    "twitter": "trmgame",
+    "telegram": "trmgame"
+}

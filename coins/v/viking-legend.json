@@ -1,0 +1,23 @@
+{
+    "id": "viking-legend",
+    "symbol": "viking",
+    "name": "Viking Legend",
+    "platforms": {
+        "binance-smart-chain": "0xb513e93ae939fa7346095ff0189ad31ab8864e97"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Viking legend is a fighting game built on the platform of Binance Smart Chain. You can collect Viking warrior NFTs to participate in matches with online opponents. Find and collect items that help you upgrade your equipment and also sell it for money."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb513e93ae939fa7346095ff0189ad31ab8864e97",
+    "url": "https://vikinglegend.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xb513e93ae939fa7346095ff0189ad31ab8864e97"
+    ],
+    "twitter": "vikinglegendorg",
+    "telegram": "VikingLegendChat",
+    "github_org": "vikinglegend"
+}

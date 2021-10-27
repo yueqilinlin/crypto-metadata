@@ -1,0 +1,24 @@
+{
+    "id": "toolape",
+    "symbol": "tape",
+    "name": "ToolApe",
+    "platforms": {
+        "binance-smart-chain": "0xf63400ee0420ce5b1ebdee0c942d7de1c734a41f",
+        "polygon-pos": "0xf98f70c265093a3b3adbef84ddc29eace900685b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0xf63400ee0420ce5b1ebdee0c942d7de1c734a41f",
+    "url": "https://apetools.co/",
+    "explorers": [
+        "https://www.bscscan.com/token/0xf63400ee0420ce5b1ebdee0c942d7de1c734a41f",
+        "https://bscscan.com/token/0xf63400ee0420ce5b1ebdee0c942d7de1c734a41f"
+    ],
+    "twitter": "ape_tools",
+    "telegram": "apetools_ann"
+}

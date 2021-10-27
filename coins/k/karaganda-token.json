@@ -1,0 +1,24 @@
+{
+    "id": "karaganda-token",
+    "symbol": "krg",
+    "name": "Karaganda Token",
+    "platforms": {
+        "ethereum": "0x32a8cd4d04d5f2e5de30ad73ef0a377eca2fdd98"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KRG token is a cryptocurrency backed by a real estate business."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0x32a8cd4d04d5f2e5de30ad73ef0a377eca2fdd98",
+    "url": "https://krg-token.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x32a8cd4d04d5f2e5de30ad73ef0a377eca2fdd98",
+        "https://ethplorer.io/address/0x32a8cd4d04d5f2e5de30ad73ef0a377eca2fdd98"
+    ],
+    "facebook": "KRG-token-world-102621584890722",
+    "telegram": "krg_token",
+    "github_org": "t-blockchain"
+}

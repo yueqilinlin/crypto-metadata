@@ -1,0 +1,24 @@
+{
+    "id": "gridcoin-research",
+    "symbol": "grc",
+    "name": "Gridcoin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Research",
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2014-10-11",
+    "url": "http://www.gridcoin.us",
+    "explorers": [
+        "https://gridcoin.network/",
+        "https://gridcoinstats.eu/"
+    ],
+    "twitter": "GridcoinNetwork",
+    "facebook": "gridcoins",
+    "reddit": "gridcoin",
+    "github_org": "gridcoin-community"
+}

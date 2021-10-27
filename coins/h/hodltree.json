@@ -1,0 +1,24 @@
+{
+    "id": "hodltree",
+    "symbol": "htre",
+    "name": "HodlTree",
+    "platforms": {
+        "ethereum": "0xdea67845a51e24461d5fed8084e69b426af3d5db"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HodlTree is a second-generation decentralized lending protocol. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdea67845a51e24461d5fed8084e69b426af3d5db",
+    "url": "https://hodltree.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xDea67845A51E24461D5fED8084E69B426AF3D5Db",
+        "https://ethplorer.io/address/0xdea67845a51e24461d5fed8084e69b426af3d5db"
+    ],
+    "twitter": "hodltree",
+    "telegram": "hodltree",
+    "github_org": "HodlTreeProtocol"
+}

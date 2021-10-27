@@ -1,0 +1,29 @@
+{
+    "id": "jupiter",
+    "symbol": "jup",
+    "name": "Jupiter",
+    "platforms": {
+        "ethereum": "0x4b1e80cac91e2216eeb63e29b957eb91ae9c2be8",
+        "binance-smart-chain": "0x0231f91e02debd20345ae8ab7d71a41f8e140ce7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Communication"
+    ],
+    "description": {
+        "en": "BLOCKCHAIN is cutting edge technology that has the ability to solve many fundamental problems in society.\r\n\r\nUsing Jupiter, we strive to make this technology accessible by everyone and that is why we created Gravity, a versatile framework that interfaces with our blockchain, Jupiter.\r\n\r\nGravity allows us to build distributed applications (DAPPS) that solve issues involving trust, provenance, privacy, security and accountability, for businesses and consumers alike.\r\n\r\nWith Gravity, legacy applications can be upgraded to a blockchain-enabled web application with the capability of storing data in an encrypted, immutable and replicated fashion.\r\n\r\nOur applications can be internal or external facing based on the clients and regulatory requirements.\r\n\r\nThe open-source Jupiter software is the core of our operations. It powers our public blockchain, allowing anyone to participate. Jupiter can also be deployed in a private network based on the clients\u2019 requirements for their approved users only.\r\n\r\nData is always encrypted \u2013 Locally at the level of the application using military-grade encryption, then it is sent to processing nodes via SSL and encrypted using Jupiter\u2019s built in protocol encryption before being stored.\r\nAutomatic data replication across nodes \u2013 Jupiter fully and automatically replicates data to any conforming node on the Jupiter network. A private blockchain is an alternative to store sensitive information whereby company policy or laws make it impossible to store them on the public chain.\r\nData is immutable, nodes are easily replaced \u2013 Every node in a public decentralized system or private blockchain has a consensus correct copy of the blockchain database. Data quality is maintained and agreed upon by consensus algorithms and stored in a computationally trusted decentralized database which allows full verification."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x4b1e80cac91e2216eeb63e29b957eb91ae9c2be8",
+    "url": "https://www.jup.io/",
+    "explorers": [
+        "https://explorer.gojupiter.tech",
+        "https://etherscan.io/token/0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8",
+        "https://ethplorer.io/address/0x4b1e80cac91e2216eeb63e29b957eb91ae9c2be8",
+        "https://bscscan.com/token/0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7"
+    ],
+    "twitter": "JUP_project",
+    "telegram": "jupiterproject",
+    "github_org": "SigwoTechnologies"
+}

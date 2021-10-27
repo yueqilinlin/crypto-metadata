@@ -1,0 +1,23 @@
+{
+    "id": "alchemist-defi-aurum",
+    "symbol": "aurum",
+    "name": "Alchemist DeFi Aurum",
+    "platforms": {
+        "binance-smart-chain": "0x49207baa3a7332f0716788aa57b088d499bcc104"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Alchemist Defi is a brand new project designed by an experienced development team as the 3rd generation deflationary yield farm & Liquidity Provider & AMM on Binance Smart Chain.\r\n\r\nWe aim to be the most transparent project in the DeFi space.\r\n \r\nBesides the buyback burning mechanism introduced by Goose Finance, we have implemented some unique innovative features on Alchemist's yield farm to increase value for our investors.\r\n\r\nHere are some highlight features that have already been implemented:\r\n\r\nBuyback Burning Mechanism\r\nTransfer Tax Burning Mechanism\r\nAutomated Referral Reward & Burn\r\nAutomated inflation reduction\r\n\r\nOur approach is to test, retest and push everything to the limits. To increase SAFUty, the following is enforced :\r\n\r\nMigrator Code Removed\r\nTimelock Added at Launch\r\nFarming starts at a given block (no minting backdoor)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x49207baa3a7332f0716788aa57b088d499bcc104",
+    "url": "https://www.alchemistdefi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x49207baa3a7332f0716788aa57b088d499bcc104"
+    ],
+    "twitter": "AlchemistDefi",
+    "telegram": "alchemistdefi",
+    "github_org": "Alchemist-defi"
+}

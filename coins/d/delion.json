@@ -1,0 +1,22 @@
+{
+    "id": "delion",
+    "symbol": "dln",
+    "name": "Delion",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Delion Project provides cryptocurrency masternode solution service in one platform such as Masternode Monitoring, Market data and statistics, Technical Coin Information, Masternode Hosting, Exchange from fiat to cryptocurrencies and also cryptocurrency based stock exchange."
+    },
+    "country_origin": "ID",
+    "genesis_date": "2019-01-26",
+    "url": "https://delion.online",
+    "explorers": [
+        "http://explorer.delion.online"
+    ],
+    "twitter": "CoinDelion",
+    "telegram": "delioncoin",
+    "github_org": "delioncoin"
+}

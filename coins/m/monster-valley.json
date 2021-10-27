@@ -1,0 +1,22 @@
+{
+    "id": "monster-valley",
+    "symbol": "monster",
+    "name": "Monster Valley",
+    "platforms": {
+        "binance-smart-chain": "0x1fe34d34ec67ef7020874a69a9dd1fb778cf9522"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Monster Valley is inspired by Monster Story, our mission is to bring a completely new experience to players by combining the Gamification and Blockchain with Monster Digital."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1fe34d34ec67ef7020874a69a9dd1fb778cf9522",
+    "url": "https://app.monstervalley.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x1fE34D34EC67Ef7020874A69A9dD1fB778CF9522"
+    ],
+    "twitter": "MonsterValley2",
+    "telegram": "monster_valley"
+}

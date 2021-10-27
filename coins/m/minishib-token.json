@@ -1,0 +1,23 @@
+{
+    "id": "minishib-token",
+    "symbol": "minishib",
+    "name": "miniSHIB Token",
+    "platforms": {
+        "binance-smart-chain": "0x35bd36597ff784fcc30d08ebe4bd917374c40d4b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "miniSHIB aims to bring cryptocurrency to a wider audience through engaging content, whilst raising funds for animal welfare charities.\r\n\r\nminiSHIB is a community driven project with deflationary token supply aiming to reward holders by distributing 5% of transaction fee to miniSHIB holders."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x35bd36597ff784fcc30d08ebe4bd917374c40d4b",
+    "url": "https://minishib.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x35bd36597ff784fcc30d08ebe4bd917374c40d4b"
+    ],
+    "twitter": "realminishib",
+    "telegram": "miniSHIB_REAL",
+    "github_org": "minishib"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "lattice-token",
+    "symbol": "ltx",
+    "name": "Lattice Token",
+    "platforms": {
+        "ethereum": "0xa393473d64d2f9f026b60b6df7859a689715d092"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LTX powers the cross-chain liquid Lattice exchange platform"
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0xa393473d64d2f9f026b60b6df7859a689715d092",
+    "url": "https://lattice.exchange/",
+    "explorers": [
+        "https://etherscan.io/token/0xa393473d64d2F9F026B60b6Df7859A689715d092",
+        "https://ethplorer.io/address/0xa393473d64d2F9F026B60b6Df7859A689715d092"
+    ],
+    "twitter": "LatticeExchange",
+    "facebook": "LatticeExchange",
+    "telegram": "Lattice_exchange"
+}

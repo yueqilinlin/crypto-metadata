@@ -1,0 +1,23 @@
+{
+    "id": "pele-network",
+    "symbol": "pele",
+    "name": "PELE Network",
+    "platforms": {
+        "zilliqa": "zil12htx8pdfwk39e47fhd7t3vd3rftyxeuf9px354"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Turn every creative project into a community collaboration, incentivized with decentralized assets. Powered by #Zilliqa."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "zil12htx8pdfwk39e47fhd7t3vd3rftyxeuf9px354",
+    "url": "https://www.pele.network/",
+    "explorers": [
+        "https://viewblock.io/zilliqa/address/zil12htx8pdfwk39e47fhd7t3vd3rftyxeuf9px354"
+    ],
+    "twitter": "pelenetwork",
+    "telegram": "getyousomePELE",
+    "github_org": "PELENetwork"
+}

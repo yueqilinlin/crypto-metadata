@@ -1,0 +1,23 @@
+{
+    "id": "habits",
+    "symbol": "hbx",
+    "name": "Habits",
+    "platforms": {
+        "binance-smart-chain": "0x7b720b04f238a4f8d84f7bbb4b6fe3da01e6d344"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The world first augmented reality fashion e-commerce, powered by blockchain.\r\nHabits streams fashion products as 3D models on user\u2019s bodies, so clients can visually try them on. Habits has its own Admin Panel, where brands can upload new products or manage existing ones. As users try and purchase trough the App or Mirror we collect new and innovative KPIs; Habits elaborates this data for brands, to help them boost their online presence."
+    },
+    "country_origin": "BS",
+    "genesis_date": null,
+    "contract_address": "0x7b720b04f238a4f8d84f7bbb4b6fe3da01e6d344",
+    "url": "https://habitsproject.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x7b720b04f238a4f8d84f7bbb4b6fe3da01e6d344"
+    ],
+    "twitter": "Habits_project",
+    "facebook": "Habitsproject",
+    "telegram": "habits_project"
+}

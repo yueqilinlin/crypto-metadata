@@ -1,0 +1,27 @@
+{
+    "id": "guarded-ether",
+    "symbol": "geth",
+    "name": "Guarded Ether",
+    "platforms": {
+        "ethereum": "0x9ad03c34aab604a9e0fde41dbf8e383e11c416c4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Eth 2.0 Staking"
+    ],
+    "description": {
+        "en": "Guarded Ethers ($GETH) are ERC20 tokens issued by Guarda Wallet. The tokens are sent by Guarda\u2019s smart-contract to those who stake their ETH to Guarda ETH staking pool. Users will receive GETH in a 1:1 ratio to ETH for their staked ETH and as staking rewards. Once the ETH 2.0 chain is completely launched users will be able to exchange GETH tokens for ETH. Also, users will have an opportunity to trade GETH on DeFi exchanges."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x9ad03c34aab604a9e0fde41dbf8e383e11c416c4",
+    "url": "https://guarda.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x9ad03c34aab604a9e0fde41dbf8e383e11c416c4",
+        "https://ethplorer.io/address/0x9ad03c34aab604a9e0fde41dbf8e383e11c416c4"
+    ],
+    "twitter": "GuardaWallet",
+    "telegram": "guarda_community",
+    "reddit": "GuardaWallet/",
+    "github_org": "guardaco"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "linkflow",
+    "symbol": "lf",
+    "name": "Linkflow",
+    "platforms": {
+        "ethereum": "0x88665a7556e1b3c939d6661248116886845249a8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LINKFLOW aims to overcome instability factors in the cryptocurrency market and provide more stable financial services. LINKFLOW will deliver proven prime brokerage services to DeFi models, and incorporate financial products using traditional fund management methods to drive the expansion and growth of the global financial market."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x88665a7556e1b3c939d6661248116886845249a8",
+    "url": "https://www.linkflow.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x88665a7556e1b3c939d6661248116886845249a8",
+        "https://ethplorer.io/address/0x88665a7556e1b3c939d6661248116886845249a8"
+    ],
+    "twitter": "LinkFlow2",
+    "telegram": "linkflow_chat",
+    "github_org": "LinkFlowGithub"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "unmarshal",
+    "symbol": "marsh",
+    "name": "Unmarshal",
+    "platforms": {
+        "ethereum": "0x5a666c7d92e5fa7edcb6390e4efd6d0cdd69cf37",
+        "binance-smart-chain": "0x2fa5daf6fe0708fbd63b1a7d1592577284f52256"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Oracle"
+    ],
+    "description": {
+        "en": "Unmarshal is a Decentralized network of blockchain data indexers and transforming tools to power DeFi applications on any chain"
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x5a666c7d92e5fa7edcb6390e4efd6d0cdd69cf37",
+    "url": "https://unmarshal.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x5a666c7d92E5fA7Edcb6390E4efD6d0CDd69cF37",
+        "https://ethplorer.io/address/0x5a666c7d92E5fA7Edcb6390E4efD6d0CDd69cF37"
+    ],
+    "twitter": "unmarshal",
+    "telegram": "Unmarshal_Announcements",
+    "github_org": "eucrypt"
+}

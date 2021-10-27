@@ -1,0 +1,25 @@
+{
+    "id": "wom-token",
+    "symbol": "wom",
+    "name": "WOM Protocol",
+    "platforms": {
+        "ethereum": "0xbd356a39bff2cada8e9248532dd879147221cf76"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Media"
+    ],
+    "description": {
+        "en": "\"As traditional advertising becomes increasingly ineffective, word-of-mouth recommendations will help brands reach consumers in an effective and authentic way.\r\n\r\nWe are introducing the WOM Protocol and Token as a simple and transparent means for rewarding peer-to-peer recommendations in a scalable and robust economy leveraging the power of the blockchain.\""
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xbd356a39bff2cada8e9248532dd879147221cf76",
+    "url": "https://womprotocol.io",
+    "explorers": [
+        "https://etherscan.io/token/0xBd356a39BFf2cAda8E9248532DD879147221Cf76",
+        "https://ethplorer.io/address/0xbd356a39bff2cada8e9248532dd879147221cf76"
+    ],
+    "twitter": "wom_protocol",
+    "telegram": "WOMProtocolChat"
+}

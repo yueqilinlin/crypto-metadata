@@ -1,0 +1,24 @@
+{
+    "id": "predictz",
+    "symbol": "prdz",
+    "name": "Predictz",
+    "platforms": {
+        "ethereum": "0x4e085036a1b732cbe4ffb1c12ddfdd87e7c3664d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized auction protocol with multilayered systems to safeguards against project failure."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x4e085036a1b732cbe4ffb1c12ddfdd87e7c3664d",
+    "url": "https://predictz.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4e085036a1b732cbe4ffb1c12ddfdd87e7c3664d",
+        "https://ethplorer.io/address/0x4e085036a1b732cbe4ffb1c12ddfdd87e7c3664d"
+    ],
+    "twitter": "PredReal",
+    "telegram": "predictzdefi",
+    "github_org": "predictz"
+}

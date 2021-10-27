@@ -1,0 +1,23 @@
+{
+    "id": "kavian-fantom",
+    "symbol": "fkavian",
+    "name": "Kavian Fantom",
+    "platforms": {
+        "fantom": "0x16a9aaee145f288673a0a8a8c5c224708a5284b4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kavian Finance is a multi-network project first started on the Polygon Network, and moving to different networks, creating a series of yield farming protocols, the goal of the project is to reach more networks and develop better infrastructure along the way."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x16a9aaee145f288673a0a8a8c5c224708a5284b4",
+    "url": "https://kavian.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0x16a9aaee145f288673a0a8a8c5c224708a5284b4"
+    ],
+    "twitter": "KavianFinance",
+    "telegram": "KavianFinance",
+    "github_org": "KavianFinance"
+}

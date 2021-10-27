@@ -1,0 +1,24 @@
+{
+    "id": "the-grand-banks",
+    "symbol": "grand",
+    "name": "The Grand Banks",
+    "platforms": {
+        "binance-smart-chain": "0xee814f5b2bf700d2e843dc56835d28d095161dd9",
+        "polygon-pos": "0xbcf339df10d78f2b44aa760ead0f715a7a7d7269"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Grand Banks brings yield farming back to basics. No barrier for entry, no multiple steps to farming \u2014 just the simple, easy depositing of your token of choice to start yield farming."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xee814f5b2bf700d2e843dc56835d28d095161dd9",
+    "url": "https://www.thegrandbanks.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xeE814F5B2bF700D2e843Dc56835D28d095161dd9"
+    ],
+    "twitter": "Grandbanks13",
+    "telegram": "theGrandBanks",
+    "github_org": "narwhalswap"
+}

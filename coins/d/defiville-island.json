@@ -1,0 +1,32 @@
+{
+    "id": "defiville-island",
+    "symbol": "isla",
+    "name": "DefiVille Island",
+    "platforms": {
+        "ethereum": "0x20a68f9e34076b2dc15ce726d7eebb83b694702d",
+        "polygon-pos": "0xfe6a2342f7c5d234e8496df12c468be17e0c181f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "xDAI Ecosystem",
+        "Entertainment",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "Defiville is a new gamified yield farming experience that will evolve as the time progress. Different season have different goals and it will introduce new game mechanics from time to time. The project is 100% community led through governance, so everyone gets a fair share of what the future of DefiVille will look like."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x20a68f9e34076b2dc15ce726d7eebb83b694702d",
+    "url": "https://defiville.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x20a68f9e34076b2dc15ce726d7eebb83b694702d",
+        "https://ethplorer.io/address/0x20a68f9e34076b2dc15ce726d7eebb83b694702d",
+        "https://polygonscan.com/token/0xfe6a2342f7c5d234e8496df12c468be17e0c181f"
+    ],
+    "twitter": "defivillegame",
+    "telegram": "defiville1",
+    "github_org": "Defiville"
+}

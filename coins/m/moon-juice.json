@@ -1,0 +1,23 @@
+{
+    "id": "moon-juice",
+    "symbol": "juice",
+    "name": "Moon Juice",
+    "platforms": {
+        "ethereum": "0x889efb523cc39590b8483eb9491890ac71407f64"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x889efb523cc39590b8483eb9491890ac71407f64",
+    "url": "https://moonjuice.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0x889efb523cc39590b8483eb9491890ac71407f64",
+        "https://ethplorer.io/address/0x889efb523cc39590b8483eb9491890ac71407f64"
+    ],
+    "twitter": "MoonJuice_xyz",
+    "telegram": "moonjuice_xyz"
+}

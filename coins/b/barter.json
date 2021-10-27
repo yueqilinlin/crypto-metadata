@@ -1,0 +1,27 @@
+{
+    "id": "barter",
+    "symbol": "brtr",
+    "name": "Barter",
+    "platforms": {
+        "ethereum": "0xf0acf8949e705e0ebb6cb42c2164b0b986454223",
+        "binance-smart-chain": "0x5e57f24415f37c7d304e85df9b4c36bc08789794"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Digital platform for barter, auction and direct trading for digital and real assets"
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0xf0acf8949e705e0ebb6cb42c2164b0b986454223",
+    "url": "https://smartplace.barter.company",
+    "explorers": [
+        "https://etherscan.io/token/0xf0acf8949e705e0ebb6cb42c2164b0b986454223",
+        "https://ethplorer.io/address/0xf0acf8949e705e0ebb6cb42c2164b0b986454223",
+        "https://bscscan.com/token/0x5e57f24415f37c7d304e85df9b4c36bc08789794"
+    ],
+    "twitter": "barterteam",
+    "facebook": "barterteam",
+    "telegram": "barterteam",
+    "github_org": "bartersmartplace"
+}

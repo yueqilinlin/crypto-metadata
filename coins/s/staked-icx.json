@@ -1,0 +1,24 @@
+{
+    "id": "staked-icx",
+    "symbol": "sICX",
+    "name": "Staked ICX",
+    "platforms": {
+        "icon": "cx2609b924e33ef00b648a409245c7ea394c467824"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "cx2609b924e33ef00b648a409245c7ea394c467824",
+    "url": "https://iconrepublic.org",
+    "explorers": [
+        "https://tracker.icon.foundation/token/cx2609b924e33ef00b648a409245c7ea394c467824"
+    ],
+    "twitter": "helloiconworld",
+    "telegram": "hello_iconworld",
+    "reddit": "helloicon/",
+    "github_org": "icon-project"
+}

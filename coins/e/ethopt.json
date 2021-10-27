@@ -1,0 +1,24 @@
+{
+    "id": "ethopt",
+    "symbol": "opt",
+    "name": "ETHOPT",
+    "platforms": {
+        "ethereum": "0x7d25d9f10cd224ecce0bc824a2ec800db81c01d7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Our platform is the first implementation of \u2018American options\u2019 on any cryptocurrency\u2019s blockchain. This option style bestows upon its traders the necessary flexibility to hedge positions in a nascent volatile market such as Ethereum\u2019s. We make use of a hybrid exchange model, where orders are resolved onchain, but order creation and dispersion is done completely offchain. It is completely non-custodial with no restrictions imposed upon deposits or withdrawals."
+    },
+    "country_origin": "ZZ",
+    "genesis_date": null,
+    "contract_address": "0x7d25d9f10cd224ecce0bc824a2ec800db81c01d7",
+    "url": "https://ethopt.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x7d25d9f10cd224ecce0bc824a2ec800db81c01d7",
+        "https://ethplorer.io/address/0x7d25d9f10cd224ecce0bc824a2ec800db81c01d7"
+    ],
+    "twitter": "ethoptio",
+    "telegram": "ethopt",
+    "github_org": "hdizzle83"
+}

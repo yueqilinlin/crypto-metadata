@@ -1,0 +1,20 @@
+{
+    "id": "okcash",
+    "symbol": "ok",
+    "name": "OKCash",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "OKCash was initially launched in November 2014 with the name Positive Innovation for Multi Payment Cash solutions. It was later rebranded to OKCash. OKCash aims to be the social cryptocurrency.\r\n\r\nOKCash is also developing positive relationship with other cryptocurrencies by helping release a custom wallet for <a href=\"https://www.coingecko.com/en/coins/gaia\">Gaia</a> based on the previous OKCash design. OKCash is now in its PoS period."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-11-24",
+    "url": "http://www.okcash.co/",
+    "explorers": [
+        "https://chainz.cryptoid.info/ok/"
+    ],
+    "twitter": "OKCashCrypto",
+    "reddit": "OKCash",
+    "github_org": "okcashpro"
+}

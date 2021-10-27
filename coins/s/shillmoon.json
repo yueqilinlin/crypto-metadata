@@ -1,0 +1,23 @@
+{
+    "id": "shillmoon",
+    "symbol": "shillmoon",
+    "name": "ShillMoon",
+    "platforms": {
+        "binance-smart-chain": "0x26b007d1d0976228d71ee4edc6fe7993616c04bc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "What makes ShillMoon (SHILLMOON) unique?\r\n\r\nTargeted, hyper-deflationary tokenomics\r\nAll transactions with designated liquidity pools incur a 10% tax that is divided into two parts: 5% (half of the tax) is burned, 5% (half of the tax) is to reward LP providers (see automatic yield farming below). The 5% burn has a deflationary effect, causing the ShillMoon token supply to decrease as time passes and providing an ever-rising floor (appreciation in value). Importantly, the 5% burn is significantly higher than other tokens, allowing for faster burn. The targeted tax does not tax everyday transfers, allowing holders to freely transfer ShillMoon between wallets, gift their friends or family, or tip a stranger.\r\n\r\nAutomatic yield farming (\u201cautofarming\u201d)\r\nLP Rewards: All holders of designated ShillMoon LP tokens receive their fair share of 5% of every taxed transaction, thus earning bonus, incremental yield on top of their LP fees - this is unprecedented. Buys, sells, staking, and unstaking from designated liquidity pools are all taxed transactions, which reward liquidity holders. Anyone selling or unstaking from the liquidity pool leaves behind a portion of their liquidity to other holders thus encouraging holding of liquidity. Fair LP: Unlike auto-LP tokens with centralized liquidity pools (e.g., SafeMoon), where the entire 5% liquidity tax goes to the team, the 5% liquidity tax is decentralized and shared equally by all ShillMoon LP providers. This incentivizes a community-controlled liquidity pool in support of community-driven crypto, stabilizes price and flattens the wallet distribution\r\n\r\nThe Shill Fund\r\n10% of the initial supply, and up to half of the \u201cburn-to-date\u201d may be used to reward ShillMoon community members for their contributions. We call this the Shill Fund. The Shill Fund may also be drawn upon for marketing, liquidity, or holder acquisition, or may be burned, whichever is in the best interests of the ShillMoon community. The Shill Fund will allow for significant flexibility going forward, in order to best incentivize community activity and reward the most active community members. The Shill Fund is initially managed by the contract owner (a multi-sig wallet requiring 3/5 signatures to execute transactions) on behalf of the community, but may later be managed directly by the community as a DAO (decentralized autonomous organization)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x26b007d1d0976228d71ee4edc6fe7993616c04bc",
+    "url": "https://shillmoon.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x26b007d1d0976228d71ee4edc6fe7993616c04bc"
+    ],
+    "twitter": "shillmoontoken",
+    "telegram": "shillmoontoken",
+    "reddit": "shillmoon/"
+}

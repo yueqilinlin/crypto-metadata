@@ -1,0 +1,24 @@
+{
+    "id": "wearesatoshi",
+    "symbol": "n8v",
+    "name": "NativeCoin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8826039256ef043a4c08798171639ae12a874401",
+    "url": "https://native-coin.io/",
+    "explorers": [
+        "https://chainz.cryptoid.info/n8v/",
+        "https://etherscan.io/token/0x8826039256EF043a4C08798171639ae12A874401"
+    ],
+    "twitter": "n8vcoin",
+    "facebook": "native.coin.14",
+    "telegram": "NativeCoinOfficial",
+    "reddit": "NativeCoinOfficial/",
+    "github_org": "N8VCoin"
+}

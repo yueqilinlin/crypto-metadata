@@ -1,0 +1,28 @@
+{
+    "id": "xensor",
+    "symbol": "xsr",
+    "name": "Xensor",
+    "platforms": {
+        "ethereum": "0x6bc1f3a1ae56231dbb64d3e82e070857eae86045"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Internet of Things (IOT)"
+    ],
+    "description": {
+        "en": "IoT network for automation of machinery and fixed asset management"
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x6bc1f3a1ae56231dbb64d3e82e070857eae86045",
+    "url": "http://xensor.cc/",
+    "explorers": [
+        "https://etherscan.io/token/0x6bc1f3a1ae56231dbb64d3e82e070857eae86045",
+        "https://ethplorer.io/address/0x6bc1f3a1ae56231dbb64d3e82e070857eae86045"
+    ],
+    "twitter": "xensor_iot",
+    "facebook": "xensor.iot",
+    "telegram": "xensor_iot",
+    "reddit": "https://www.reddit.com",
+    "github_org": "xenixstudio"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "switch",
+    "symbol": "esh",
+    "name": "Switch",
+    "platforms": {
+        "ethereum": "0xd6a55c63865affd67e2fb9f284f87b7a9e5ff3bd"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Business Platform",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "SwitchDex is a decentralized exchange running on the Ethereum blockchain. Switch Is The Easiest, Fastest, & Most Secure Token Exchange. Period. Switch tokens (ESH) represent a revenue share of 50% of ALL fees collected by Switch and SwitchDex.ag. Each month that 50% is airdropped to Switch (ESH) token holders."
+    },
+    "country_origin": "AT",
+    "genesis_date": null,
+    "contract_address": "0xd6a55c63865affd67e2fb9f284f87b7a9e5ff3bd",
+    "url": "https://switch.ag/",
+    "explorers": [
+        "https://etherscan.io/token/0xd6a55c63865affd67e2fb9f284f87b7a9e5ff3bd",
+        "https://ethplorer.io/address/0xd6a55c63865affd67e2fb9f284f87b7a9e5ff3bd"
+    ],
+    "twitter": "switchag",
+    "github_org": "Mshuu"
+}

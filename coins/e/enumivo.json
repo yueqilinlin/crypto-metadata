@@ -1,0 +1,27 @@
+{
+    "id": "enumivo",
+    "symbol": "enu",
+    "name": "Enumivo",
+    "platforms": {
+        "ethereum": "0x275b69aa7c8c1d648a0557656bce1c286e69a29d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Enumivo aims to develop a Universal Basic Income dApp that will provide every human being with a regular income in the form of ENU tokens. Through the synergy of Enumivo and its UBI dApp, the Enumivo team seeks to disrupt the current imbalance financial paradigm we live in."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x275b69aa7c8c1d648a0557656bce1c286e69a29d",
+    "url": "https://enumivo.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x275b69aa7c8c1d648a0557656bce1c286e69a29d",
+        "http://enumivo.qsx.io/",
+        "https://ethplorer.io/address/0x275b69aa7c8c1d648a0557656bce1c286e69a29d"
+    ],
+    "twitter": "EnuMivo",
+    "facebook": "enumivo",
+    "telegram": "enumivochat",
+    "reddit": "Enumivo/",
+    "github_org": "enumivo"
+}

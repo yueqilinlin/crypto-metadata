@@ -1,0 +1,19 @@
+{
+    "id": "spots",
+    "symbol": "spt",
+    "name": "Spots",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Spots is a cryptocurrency established to support trade between digital currency and precious metals. A gold / silver spot is the trading price of the metal; hence the name."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://www.spt.22web.org/",
+    "explorers": [
+        "https://prohashing.com/explorer/Spot/"
+    ],
+    "twitter": "the_spt",
+    "github_org": "theSPT"
+}

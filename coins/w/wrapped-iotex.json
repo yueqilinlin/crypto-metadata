@@ -1,0 +1,16 @@
+{
+    "id": "wrapped-iotex",
+    "symbol": "wiotx",
+    "name": "Wrapped IoTex",
+    "platforms": {
+        "ethereum": "0xa00744882684c3e4747faefd68d283ea44099d03"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wrapped IoTex on IoTex chain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "explorers": []
+}

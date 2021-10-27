@@ -1,0 +1,31 @@
+{
+    "id": "dvf",
+    "symbol": "dvf",
+    "name": "DVF",
+    "platforms": {
+        "ethereum": "0xdddddd4301a082e62e84e43f474f044423921918",
+        "arbitrum-one": "0xa7aa2921618e3d63da433829d448b58c9445a4c3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Automated Market Maker (AMM)",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "DeversiFi is a layer 2 Ethereum exchange that helps you make the most of Decentralised Finance (DeFi). You can swap, send and invest, all from one easy to use platform, without paying Ethereum network fees. \r\n\r\nDeversiFi is your layer 2 control centre that gives you access to the best opportunities in DeFi. Once you have connected your wallet and have deposited your tokens to DeversiFi, you can swap, trade, yield farm, send and invest in some of the best DeFi interest-earning opportunities, all from the security and control of your private wallet, without paying Ethereum gas costs, and in complete privacy. \r\n\r\nExperience Ethereum as it should be - zero gas costs, low fees, the best prices, privacy and access to the best of DeFi."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdddddd4301a082e62e84e43f474f044423921918",
+    "url": "https://www.deversifi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xdddddd4301a082e62e84e43f474f044423921918",
+        "https://ethplorer.io/address/0xdddddd4301a082e62e84e43f474f044423921918"
+    ],
+    "twitter": "deversifi",
+    "telegram": "DeversiFi",
+    "reddit": "Deversifi/",
+    "github_org": "DeversiFi"
+}

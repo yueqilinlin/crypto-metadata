@@ -1,0 +1,19 @@
+{
+    "id": "moneta",
+    "symbol": "moneta",
+    "name": "Moneta",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": null,
+    "genesis_date": null,
+    "url": "http://moneta.io/",
+    "explorers": [
+        "http://explorer.moneta.io/"
+    ],
+    "twitter": "moneta_io",
+    "github_org": "moneta-project"
+}

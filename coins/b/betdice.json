@@ -1,0 +1,24 @@
+{
+    "id": "betdice",
+    "symbol": "dice",
+    "name": "BetDice",
+    "platforms": {
+        "eos": null
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment",
+        "Other"
+    ],
+    "description": {
+        "en": "Dice is the largest gaming platform on EOS blockchain. Users can earn DICE tokens from playing, and then invest for dividends from staking. Both the platform and the token are based on user-centered design, which giving our users the best gaming experience."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "url": "https://betdice.one",
+    "explorers": [
+        "https://eosflare.io/token/betdicetoken/DICE"
+    ],
+    "twitter": "bet_dice",
+    "telegram": "betdice"
+}

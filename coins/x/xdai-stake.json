@@ -1,0 +1,29 @@
+{
+    "id": "xdai-stake",
+    "symbol": "stake",
+    "name": "xDAI Stake",
+    "platforms": {
+        "ethereum": "0x0ae055097c6d159879521c384f1d2123d1f195e6",
+        "sora": "0x005476064ff01a847b1c565ce577ad37105c3cd2a2e755da908b87f7eeb4423b",
+        "xdai": "0xb7d311e2eb55f2f68a9440da38e7989210b9a05e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "STAKE is a new ERC20-type (implemented as an ERC677) token designed to secure the on-chain payment layer and provide a mechanism for validators to receive multiple POS incentives. It is an ERC20-based staking token with a market driven value. "
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0x0ae055097c6d159879521c384f1d2123d1f195e6",
+    "url": "https://www.xdaichain.com",
+    "explorers": [
+        "https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6",
+        "https://ethplorer.io/address/0x0Ae055097C6d159879521C384F1D2123D1f195e6"
+    ],
+    "twitter": "xdaichain",
+    "telegram": "xdaistable",
+    "github_org": "xdaichain"
+}

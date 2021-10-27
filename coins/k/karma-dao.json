@@ -1,0 +1,24 @@
+{
+    "id": "karma-dao",
+    "symbol": "karma",
+    "name": "Karma DAO",
+    "platforms": {
+        "ethereum": "0xdfe691f37b6264a90ff507eb359c45d55037951c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Social Money"
+    ],
+    "description": {
+        "en": "Karma DAO is a crypto startup pitching forum for angel investors. Startups are invited to pitch for fundraising to the Karma DAO community. To be part of the community, one must own 200 KARMA tokens. The community includes entrepreneuers, fund managers, angels and traders. The DAO also emphasizes values around paying it forward, being value-add and reciprocation."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdfe691f37b6264a90ff507eb359c45d55037951c",
+    "url": "http://karma.link/",
+    "explorers": [
+        "https://etherscan.io/token/0xdfe691F37b6264a90Ff507EB359C45d55037951C",
+        "https://ethplorer.io/address/0xdfe691f37b6264a90ff507eb359c45d55037951c"
+    ],
+    "twitter": "karma_dao"
+}

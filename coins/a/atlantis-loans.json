@@ -1,0 +1,22 @@
+{
+    "id": "atlantis-loans",
+    "symbol": "atl",
+    "name": "Atlantis Loans",
+    "platforms": {
+        "binance-smart-chain": "0x1fd991fb6c3102873ba68a4e6e6a87b3a5c10271"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Atlantis is a decentralised money market that enables users to borrow and supply digital assets to the protocol within a non-custodial environment directly within the Binance Smart Chain. This means that users, at all times, have control of their digital assets and are bound by the protocol\u2019s parameters directly on-chain. The protocol is autonomous and algorithmic with its parameters being controlled by governance proposals and yield curves. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1fd991fb6c3102873ba68a4e6e6a87b3a5c10271",
+    "url": "https://atlantis.loans/",
+    "explorers": [
+        "https://bscscan.com/token/0x1fd991fb6c3102873ba68a4e6e6a87b3a5c10271"
+    ],
+    "twitter": "atlantis_loans",
+    "github_org": "atlantis-loans"
+}

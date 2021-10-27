@@ -1,0 +1,22 @@
+{
+    "id": "4-stock",
+    "symbol": "4stc",
+    "name": "4-Stock",
+    "platforms": {
+        "binance-smart-chain": "0x8a4840dc5975e424ec530ec88a8f27910a3cef51"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "4-Soft is a data safety systems company specialized in data encryption, management and transfer."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8a4840dc5975e424ec530ec88a8f27910a3cef51",
+    "url": "https://www.4-soft.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8a4840dc5975e424ec530ec88a8f27910a3cef51"
+    ],
+    "twitter": "4softcom",
+    "telegram": "foursoftcom"
+}

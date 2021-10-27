@@ -1,0 +1,22 @@
+{
+    "id": "mirrored-ether",
+    "symbol": "meth",
+    "name": "Mirrored Ether",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Mirrored Assets"
+    ],
+    "description": {
+        "en": "Mirrored Ether- synthetic asset tracking the price of ETH."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "url": "https://mirror.finance",
+    "explorers": [
+        "https://finder.terra.money/columbus-4/token/terra1dk3g53js3034x4v5c3vavhj2738une880yu6kx"
+    ],
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol",
+    "github_org": "mirror-protocol"
+}

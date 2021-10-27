@@ -1,0 +1,26 @@
+{
+    "id": "blockwrk",
+    "symbol": "wrk",
+    "name": "BlockWRK",
+    "platforms": {
+        "ethereum": "0x0407b4c4eaed35ce3c5b852bdfa1640b09eeedf4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0407b4c4eaed35ce3c5b852bdfa1640b09eeedf4",
+    "url": "https://blockwrk.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x0407b4c4eaed35ce3c5b852bdfa1640b09eeedf4",
+        "https://ethplorer.io/address/0x0407b4c4eaed35ce3c5b852bdfa1640b09eeedf4"
+    ],
+    "twitter": "blockwrk",
+    "telegram": "blockwrk",
+    "github_org": "blockwrkinc"
+}

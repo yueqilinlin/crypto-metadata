@@ -1,0 +1,26 @@
+{
+    "id": "wirex",
+    "symbol": "wxt",
+    "name": "Wirex",
+    "platforms": {
+        "ethereum": "0xa02120696c7b8fe16c09c749e4598819b2b0e915",
+        "stellar": "WXT-GASBLVHS5FOABSDNW5SPPH3QRJYXY5JHA2AOA2QHH2FJLZBRXSG4SWXT"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "The Wirex Token (WXT) is a unique multi-blockchain cryptocurrency that powers the X-tras rewards programme. WXT is built on both the Stellar Network and Ethereum blockchain for maximum speed, efficiency and flexibility. WXT is designed to both help reward Wirex customers for their loyalty and integrate the platform with the new generation of decentralised finance (DeFi) ecosystems. Wirex customers can earn up to 4% back in WXT every time they use their Wirex cards in-store or online, or up to 12% annually on the balance of their WXT accounts with the Savings Bonus feature.   "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa02120696c7b8fe16c09c749e4598819b2b0e915",
+    "url": "https://wirexapp.com/",
+    "explorers": [
+        "https://stellar.expert/explorer/public/asset/WXT-GASBLVHS5FOABSDNW5SPPH3QRJYXY5JHA2AOA2QHH2FJLZBRXSG4SWXT",
+        "https://etherscan.io/token/0xa02120696c7b8fe16c09c749e4598819b2b0e915",
+        "https://ethplorer.io/address/0xa02120696c7b8fe16c09c749e4598819b2b0e915"
+    ],
+    "twitter": "wirexapp"
+}

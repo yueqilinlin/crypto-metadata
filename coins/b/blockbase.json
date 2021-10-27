@@ -1,0 +1,25 @@
+{
+    "id": "blockbase",
+    "symbol": "bbt",
+    "name": "BlockBase",
+    "platforms": {
+        "eos": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "BlockBase is a platform for the secure storage of databases on sidechains to EOSIO networks"
+    },
+    "country_origin": "PT",
+    "genesis_date": null,
+    "url": "https://blockbase.network/",
+    "explorers": [
+        "https://bloks.io/tokens/BBT-eos-blockbasetkn"
+    ],
+    "twitter": "blockbasenetwk",
+    "telegram": "BlockBaseNetwork",
+    "reddit": "blockbase/",
+    "github_org": "blockbasenetwork"
+}

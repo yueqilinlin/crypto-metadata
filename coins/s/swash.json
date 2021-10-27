@@ -1,0 +1,24 @@
+{
+    "id": "swash",
+    "symbol": "swash",
+    "name": "Swash",
+    "platforms": {
+        "ethereum": "0xa130e3a33a4d84b04c3918c4e5762223ae252f80"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa130e3a33a4d84b04c3918c4e5762223ae252f80",
+    "url": "https://swashapp.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa130e3a33a4d84b04c3918c4e5762223ae252f80",
+        "https://ethplorer.io/address/0xa130e3a33a4d84b04c3918c4e5762223ae252f80"
+    ],
+    "twitter": "swashapp",
+    "telegram": "swashapp_group",
+    "github_org": "swashapp"
+}

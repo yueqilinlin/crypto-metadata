@@ -1,0 +1,29 @@
+{
+    "id": "ethereum-push-notification-service",
+    "symbol": "push",
+    "name": "Ethereum Push Notification Service - EPNS",
+    "platforms": {
+        "ethereum": "0xf418588522d5dd018b425e472991e52ebbeeeeee"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Business Services",
+        "Infrastructure",
+        "Decentralized Finance (DeFi)",
+        "Analytics"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf418588522d5dd018b425e472991e52ebbeeeeee",
+    "url": "https://epns.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xf418588522d5dd018b425e472991e52ebbeeeeee",
+        "https://ethplorer.io/address/0xf418588522d5dd018b425e472991e52ebbeeeeee"
+    ],
+    "twitter": "epnsproject",
+    "telegram": "epnsproject"
+}

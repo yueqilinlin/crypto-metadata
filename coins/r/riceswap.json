@@ -1,0 +1,22 @@
+{
+    "id": "riceswap",
+    "symbol": "rice",
+    "name": "RiceSwap",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "HECO Chain Ecosystem"
+    ],
+    "description": {
+        "en": "The RiceSwap protocol is the world's first decentralized financial platform to empower ordinary users to participate in DeFi (AMM, Liquidity Mining etc.) by integrating both fiat and crypto on-and-off-ramps. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xc1a782f5ad0404750a5f7e78c5bad46f4928406c",
+    "url": "https://www.riceswap.io/",
+    "explorers": [
+        "https://scan.hecochain.com/token/0xc1a782f5ad0404750a5f7e78c5bad46f4928406c"
+    ],
+    "twitter": "RICESWAP",
+    "telegram": "riceswap"
+}

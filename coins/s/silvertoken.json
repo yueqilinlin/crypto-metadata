@@ -1,0 +1,28 @@
+{
+    "id": "silvertoken",
+    "symbol": "slvt",
+    "name": "SilverToken",
+    "platforms": {
+        "ethereum": "0x652594082f97392a1703d80985ab575085f34a4e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Silvertoken (SLVT) is a digital currency backed by silver, which utilizes the Ethereum blockchain, allowing users to purchase and transact with physical silver. Each Silvertoken represents 1 troy ounce of 99.9% pure investment grade silver bullion."
+    },
+    "country_origin": "KN",
+    "genesis_date": null,
+    "contract_address": "0x652594082f97392a1703d80985ab575085f34a4e",
+    "url": "https://silvertoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x652594082f97392a1703d80985ab575085f34a4e",
+        "https://ethplorer.io/address/0x652594082f97392a1703d80985ab575085f34a4e"
+    ],
+    "twitter": "TheSilvertoken",
+    "facebook": "TheSilvertoken",
+    "telegram": "silvertoken",
+    "reddit": "Silvertoken/",
+    "github_org": "TheSilvertoken"
+}

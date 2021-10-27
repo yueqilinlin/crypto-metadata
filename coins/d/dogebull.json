@@ -1,0 +1,22 @@
+{
+    "id": "dogebull",
+    "symbol": "DOGEBULL",
+    "name": "DogeBull",
+    "platforms": {
+        "binance-smart-chain": "0xbd4a49e1a0bd8d17faa881d057b48bc18b983e51"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DogeBull is a reflection token and soft drink at the same time. Every buy gives members more rewards in DogeCola. \r\n\r\nDogeBull is part of DogeCola ecosystem, it will be used for GameFi and similar activities."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbd4a49e1a0bd8d17faa881d057b48bc18b983e51",
+    "url": "https://www.dogecola.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xbd4a49e1a0bd8d17faa881d057b48bc18b983e51"
+    ],
+    "twitter": "doge_cola",
+    "telegram": "dogecola"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "daddyusdt",
+    "symbol": "DaddyUSDT",
+    "name": "DaddyUSDT",
+    "platforms": {
+        "binance-smart-chain": "0xcd929f47ce8eb0dc88d30abac83d002a4c000142"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DaddyUSDT comes to look after its baby, BabyUSDT, supporting it on every transaction. It will buy-and-burn BabyUSDT while it pays dividends to its own holders in USDT."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcd929f47ce8eb0dc88d30abac83d002a4c000142",
+    "url": "https://daddyusdt.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xcd929f47ce8eb0dc88d30abac83d002a4c000142"
+    ],
+    "twitter": "BabyUSDToken",
+    "telegram": "DaddyUSDT"
+}

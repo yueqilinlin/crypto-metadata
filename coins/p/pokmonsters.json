@@ -1,0 +1,23 @@
+{
+    "id": "pokmonsters",
+    "symbol": "pok",
+    "name": "Pokmonsters",
+    "platforms": {
+        "binance-smart-chain": "0x20e90ec60ef7ae33ac04a48d5f45df9a15e76a01"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "It is a blockchain game which is designed for you to use $POK as a reward when you attend the Battle, AFK and Farm, as well as to do daily tasks to earn the $POK token. With Pokmonsters (https://pokmonsters.com/#) Game, we bring Metaverse in your hand as well as provide the profit when playing."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x20e90ec60ef7ae33ac04a48d5f45df9a15e76a01",
+    "url": "https://pokmonsters.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x20e90ec60ef7ae33ac04a48d5f45df9a15e76a01"
+    ],
+    "twitter": "pokmonsters_nft",
+    "telegram": "PokMonsters",
+    "github_org": "Pokmonsters"
+}

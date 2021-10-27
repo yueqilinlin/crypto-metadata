@@ -1,0 +1,19 @@
+{
+    "id": "1x-short-defi-index-token",
+    "symbol": "defihedge",
+    "name": "1X Short DeFi Index Token",
+    "platforms": {
+        "ethereum": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index"
+    ],
+    "description": {
+        "en": "1X Short DeFi Index Token (DEFIHEDGE) is an ERC20 token which seeks a return that corresponds to -1 times the daily return of DeFi Index."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://ftx.com/tokens/DEFIHEDGE",
+    "explorers": []
+}

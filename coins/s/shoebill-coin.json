@@ -1,0 +1,22 @@
+{
+    "id": "shoebill-coin",
+    "symbol": "shbl",
+    "name": "Shoebill Coin",
+    "platforms": {
+        "solana": "7fCzz6ZDHm4UWC9Se1RPLmiyeuQ6kStxpcAP696EuE1E"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shoebill Coin ($SHBL) is a memecoin built on Solana blockchain. The purpose of building Shoebill Coin is to acquire people\u2019s attention to the Solana blockchain, which is convenient, cheap and fast."
+    },
+    "country_origin": "TW",
+    "genesis_date": null,
+    "contract_address": "7fCzz6ZDHm4UWC9Se1RPLmiyeuQ6kStxpcAP696EuE1E",
+    "url": "https://shoebillco.in/",
+    "explorers": [
+        "https://explorer.solana.com/address/7fCzz6ZDHm4UWC9Se1RPLmiyeuQ6kStxpcAP696EuE1E"
+    ],
+    "twitter": "ShoebillCoin",
+    "telegram": "shoebill_coin"
+}

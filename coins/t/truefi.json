@@ -1,0 +1,26 @@
+{
+    "id": "truefi",
+    "symbol": "tru",
+    "name": "TrueFi",
+    "platforms": {
+        "ethereum": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "It is a DeFi\u00a0uncollateralized lending protocol developed by the TrustToken team. Lenders can borrow cryptocurrencies with predictable loan rates without the need to pledge collaterals like Aave, Compound, and Venus.\u00a0In the long term, TrueFi aims to become a market-driven, automated credit rating and lending system. This will demand building beyond the rigid, conservative constraints such as minimum/maximum APY and high TRU participation factor. It will also require increased levels of responsibility from users, especially for onboarding new borrowers beyond the pre-approved whitelist and approving new loan types."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
+    "url": "http://truefi.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
+        "https://ethplorer.io/address/0x4c19596f5aaff459fa38b0f7ed92f11ae6543784"
+    ],
+    "twitter": "TrustToken"
+}

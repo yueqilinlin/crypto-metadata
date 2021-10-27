@@ -1,0 +1,27 @@
+{
+    "id": "mass-vehicle-ledger",
+    "symbol": "mvl",
+    "name": "MVL",
+    "platforms": {
+        "ethereum": "0xa849eaae994fb86afa73382e9bd88c2b6b18dc71"
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "It is a blockchain-based ecosystem that connects all services, like the car dealer shops, mechanic shops and car rental companies, that touch your car to collect its lifetime data. \r\n\r\nParticipants from automobile-related companies, services or trade industry will be connected and they will insert core data related to driving, traffic accidents, repairs and other car-related transactions into the blockchain. \r\n\r\nParticipants who provide data related to automobile will receive MVL Point (MVP), a reward system used to encourage contribution to the ecosystem. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xa849eaae994fb86afa73382e9bd88c2b6b18dc71",
+    "url": "https://mvlchain.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa849eaae994fb86afa73382e9bd88c2b6b18dc71",
+        "https://ethplorer.io/address/0xa849eaae994fb86afa73382e9bd88c2b6b18dc71"
+    ],
+    "twitter": "mvlchain",
+    "facebook": "mvlchain",
+    "telegram": "mvlchain_en",
+    "github_org": "mvlchain"
+}

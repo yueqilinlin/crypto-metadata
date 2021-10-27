@@ -1,0 +1,24 @@
+{
+    "id": "nton",
+    "symbol": "nton",
+    "name": "NTON",
+    "platforms": {
+        "ethereum": "0xcfb152e5b93fc2c9906d4ff41fc8407dfa5e8851"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "This NTON coin project enables the acquisition of NTON coins using various IOT devices (smartphone, TV, MI-FI, 5G Router, air purifier, etc.) provided by a company named Cryptorizen. The acquired NTON coins can be used to pay for a new device to replace the current one with a newer version, or for communication or rental charges incurred while using the device."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xcfb152e5b93fc2c9906d4ff41fc8407dfa5e8851",
+    "url": "http://ntoncoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xcfB152E5b93fc2C9906d4ff41fC8407DFa5e8851",
+        "https://ethplorer.io/address/0xcfB152E5b93fc2C9906d4ff41fC8407DFa5e8851"
+    ],
+    "twitter": "NTON75977375",
+    "telegram": "NTON_Token",
+    "github_org": "nton"
+}

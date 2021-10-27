@@ -1,0 +1,30 @@
+{
+    "id": "aave-tusd-v1",
+    "symbol": "atusd",
+    "name": "Aave TUSD v1",
+    "platforms": {
+        "ethereum": "0x4da9b813057d04baef4e5800e36083717b4a0341"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Aave Tokens",
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Aave TUSD is an interest bearing token minted upon deposit and burned when redeemed. The aTUSD is pegged 1:1 to the value of the underlying TUSD that is deposited in Aave protocol. aTUSD, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aTUSD accrue interest in real time, directly in your wallet!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4da9b813057d04baef4e5800e36083717b4a0341",
+    "url": "https://aave.com/atokens",
+    "explorers": [
+        "https://etherscan.io/token/0x4da9b813057d04baef4e5800e36083717b4a0341",
+        "https://ethplorer.io/address/0x4da9b813057d04baef4e5800e36083717b4a0341"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome",
+    "reddit": "Aave_Official/",
+    "github_org": "aave"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "trollcoin",
+    "symbol": "troll",
+    "name": "Trollcoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Trollcoin is a parody currency project initially created to mock other cryptocurrencies. It has grown into a real-time study in negative brand marketing while serving as a Twitch.tv community currency."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-02-11",
+    "url": "https://trollcoin.com",
+    "explorers": [
+        "https://chainz.cryptoid.info/troll/"
+    ],
+    "twitter": "trollcoin",
+    "telegram": "TrollCoin",
+    "reddit": "trollcoin/",
+    "github_org": "TrollCoin2"
+}

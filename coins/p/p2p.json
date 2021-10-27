@@ -1,0 +1,25 @@
+{
+    "id": "p2p",
+    "symbol": "p2p",
+    "name": "P2P",
+    "platforms": {
+        "ethereum": "0xabe9b2e4bbd5a8c718752c41254ed81aae7d98bf"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xabe9b2e4bbd5a8c718752c41254ed81aae7d98bf",
+    "url": "http://p2pcash.net/",
+    "explorers": [
+        "https://etherscan.io/token/0xabe9b2e4bbd5a8c718752c41254ed81aae7d98bf",
+        "https://ethplorer.io/address/0xabe9b2e4bbd5a8c718752c41254ed81aae7d98bf"
+    ],
+    "twitter": "PnetP2",
+    "facebook": "p2p_cash"
+}

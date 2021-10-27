@@ -1,0 +1,26 @@
+{
+    "id": "pirate-chain",
+    "symbol": "arrr",
+    "name": "Pirate Chain",
+    "platforms": {},
+    "hashing_algorithm": "Equihash",
+    "categories": [
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "Pirate Chain (ARRR) is a 100% private send cryptocurrency. It uses a privacy protocol that cannot be compromised by other users activity on the network. Most privacy coins are riddled with holes created by optional privacy. Pirate Chain uses zk-SNARKs to shield 100% of the peer to peer transactions on the blockchain making for highly anonymous and private transactions."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-08-29",
+    "url": "https://pirate.black/",
+    "explorers": [
+        "http://pirate.explorer.dexstats.info/",
+        "https://pirate.kmdexplorer.io/",
+        "https://explorer.pirate.black"
+    ],
+    "twitter": "PirateChain",
+    "facebook": "PirateChain",
+    "telegram": "piratechain",
+    "reddit": "piratechain",
+    "github_org": "PirateNetwork"
+}

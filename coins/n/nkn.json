@@ -1,0 +1,28 @@
+{
+    "id": "nkn",
+    "symbol": "nkn",
+    "name": "NKN",
+    "platforms": {
+        "ethereum": "0x5cf04716ba20127f1e2297addcf4b5035000c9eb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Communication"
+    ],
+    "description": {
+        "en": "NKN is building the largest blockchain for network sharing."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x5cf04716ba20127f1e2297addcf4b5035000c9eb",
+    "url": "https://www.nkn.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x5cf04716ba20127f1e2297addcf4b5035000c9eb",
+        "https://ethplorer.io/address/0x5cf04716ba20127f1e2297addcf4b5035000c9eb"
+    ],
+    "twitter": "NKN_ORG",
+    "facebook": "nkn.org",
+    "telegram": "nknorg",
+    "reddit": "nknblockchain/",
+    "github_org": "nknorg"
+}

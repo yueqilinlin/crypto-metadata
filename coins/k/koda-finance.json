@@ -1,0 +1,22 @@
+{
+    "id": "koda-finance",
+    "symbol": "koda",
+    "name": "Koda Finance",
+    "platforms": {
+        "binance-smart-chain": "0x9e993671976a5ac51bbfb3db9e34eac8d518fe82"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "This is the native token for a new decentralised swap similar to pancake swap focusing on bep20 coins, and to get the faith back in token trading after recent events in the crypto market, the main goal is to appeal to the masses by simplifying crypto trading full stop and protecting from extortion and fraud. Including Rewards/staking for holders, all from a physical office in/ near London, with a real development and marketing team behind us. And the very best community. Office run on solar power. 1/10th supply donated to charities."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x9e993671976a5ac51bbfb3db9e34eac8d518fe82",
+    "url": "https://koda.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x9e993671976a5ac51bbfb3db9e34eac8d518fe82"
+    ],
+    "twitter": "coinkoda",
+    "telegram": "kodakingofdogaltschat"
+}

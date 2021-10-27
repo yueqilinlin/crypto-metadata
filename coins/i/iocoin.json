@@ -1,0 +1,23 @@
+{
+    "id": "iocoin",
+    "symbol": "ioc",
+    "name": "I/O Coin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "I/O Coin cryptocurrency enables up to 1MB doc AES256 encrypted storage (and transfer), encrypted messaging, private payments and identities. The blockchain is dapps ready via api. It offers up to 15 second POS blocks at 4MB per block. "
+    },
+    "country_origin": "US",
+    "genesis_date": "2014-07-24",
+    "url": "https://www.iocoin.io",
+    "explorers": [
+        "http://chainz.cryptoid.info/ioc/"
+    ],
+    "twitter": "IOCoin_Official",
+    "facebook": "iocoinofficial",
+    "reddit": "IOcoin_Official",
+    "github_org": "IOCoin"
+}

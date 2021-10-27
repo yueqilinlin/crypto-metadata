@@ -1,0 +1,23 @@
+{
+    "id": "bake-coin",
+    "symbol": "bakecoin",
+    "name": "Bake Coin",
+    "platforms": {
+        "binance-smart-chain": "0x32ed23b9d263138695168850ac04609f6e5e0ab4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bakecoin Built and deploy on Binance Smart Chain. The Bankcoin protocol is a community inspired DeFi experiment built on Binance.\r\n\r\nNFTs Curator, we create and draw NFTs of Bakecoin collection, popular influencers NFTs.\r\n\r\nNFTs Sales are 100% towards donation, we will post Proof of Donation at Bakecoin Twitter.\r\n\r\nComing soon: Bakecoin NFTs Dapp - Pandora Box Game that will drawn Random NFTs from OpenSea, Bakecoin collection or Bakecoin token as prizes based on a provable fairness probability runs on Smart Contract. Each drawn will consume 200,000 Bakecoin token, 50% will be burn to reduce the circulating supply & the remaining 50% will be sold to build funds for acquiring more valuable NFTs for Bakecoin Pandora Box NFTs Game.\r\n\r\nNFTs Team\r\nBakecoin team will develop its own dapp for NFTs.\r\n\r\nYou can draw random NFTs of value obtained from OpenSea, BakeryGallery or Bakecoin collection using $BakeCoin.\r\n\r\nAll listed NFTs will be shown on a website, and verifiable by block chain.\r\n\r\nBakecoin will also develop its own community Dapp for community forum, support desk, wallet, DEX aggregator."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x32ed23b9d263138695168850ac04609f6e5e0ab4",
+    "url": "https://bakecoin.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x32ed23b9d263138695168850ac04609f6e5e0ab4"
+    ],
+    "twitter": "bakecoin",
+    "telegram": "bakecoin",
+    "github_org": "bakecoinbsc"
+}

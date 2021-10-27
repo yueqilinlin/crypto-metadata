@@ -1,0 +1,25 @@
+{
+    "id": "signal-token",
+    "symbol": "sig",
+    "name": "Signal Token",
+    "platforms": {
+        "ethereum": "0x6888a16ea9792c15a4dcf2f6c623d055c8ede792"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Signal Token (SIG) Protocol is designed to decentralize the buying, selling, and rewarding of attention across media platforms by removing centralized intermediaries from advertising transactions."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-12-06",
+    "contract_address": "0x6888a16ea9792c15a4dcf2f6c623d055c8ede792",
+    "url": "https://www.spectivvr.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6888a16ea9792c15a4dcf2f6c623d055c8ede792",
+        "https://ethplorer.io/address/0x6888a16ea9792c15a4dcf2f6c623d055c8ede792"
+    ],
+    "twitter": "spectivvr",
+    "facebook": "spectivvr",
+    "telegram": "spectivtelegram",
+    "github_org": "SpectivOfficial"
+}

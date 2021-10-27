@@ -1,0 +1,24 @@
+{
+    "id": "sandclock",
+    "symbol": "quartz",
+    "name": "Sandclock",
+    "platforms": {
+        "ethereum": "0xba8a621b4a54e61c442f5ec623687e2a942225ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sandclock is a multichain DeFi platform with the objective of creating ultra programmable money by leveraging cutting-edge yield generating strategies. By splitting principal from yield and allowing users to subdivide either of them to create their own strategies, we unlock the programmability of capital. The design space is infinite: from investments into DCA vaults, corporate CSR management, zero-loss donations/investments/subscription services, to setting up DAOs that provide exit liquidity to NFT floor undercutters.\r\n\r\nAs we want to onboard the next 50 million non-crypto users to web3, we have also put a tremendous amount of time and effort into being compliant, acquiring licenses (SOC 1/SOC 2 type II, FINRA, FinCen, CPO, etcetera), redesigning the crypto UX/UI from scratch, doing key management the right way, baking insurance into our products, and so on."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "url": "https://sandclock.org",
+    "explorers": [
+        "https://etherscan.io/token/0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+        "https://ethplorer.io/address/0xba8a621b4a54e61c442f5ec623687e2a942225ef"
+    ],
+    "twitter": "SandclockOrg",
+    "telegram": "sandclockorg",
+    "github_org": "sandclock-org"
+}

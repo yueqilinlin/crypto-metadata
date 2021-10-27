@@ -1,0 +1,27 @@
+{
+    "id": "umi",
+    "symbol": "umi",
+    "name": "UMI",
+    "platforms": {
+        "ethereum": "0x46943113ae84e732bb510b5f7686d8b76ff56774",
+        "binance-smart-chain": "0x46943113ae84e732bb510b5f7686d8b76ff56774",
+        "polygon-pos": "0x10adf16a60f0020477c70473d6ea595d9bc29372",
+        "tron": "TDH9sTjrxgrL8oogwMYw4Lq8UK25pTfp3d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bitcoin and the existing altcoins have a number of defaults that wouldn't allow them to solidify on the global financial market as means of payment. UMI offers a totally different and unique model of using blockchain technology that makes it suitable not only for competing with the conventional\r\npayment systems, but also for outclassing them in virtually all parameters."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x46943113ae84e732bb510b5f7686d8b76ff56774",
+    "url": "https://umi.top/",
+    "explorers": [
+        "https://blockchain.umi.top/",
+        "https://etherscan.io/token/0x46943113ae84e732bb510b5f7686d8b76ff56774",
+        "https://ethplorer.io/address/0x46943113ae84e732bb510b5f7686d8b76ff56774"
+    ],
+    "twitter": "umi_top_eng",
+    "telegram": "umi_news_eng"
+}

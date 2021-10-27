@@ -1,0 +1,24 @@
+{
+    "id": "pyram-token",
+    "symbol": "pyram",
+    "name": "Pyram Token",
+    "platforms": {
+        "binance-smart-chain": "0xedecfb4801c04f3eb394b89397c6aafa4adda15b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ArenaSwap is a decentralized exchange platform built on BSC (Binance Smart Chain) that focuses on gamification of yield farming and gambling.\r\nOur vision is to make DeFi and yield farming mainstream through gamification and storytelling, creating an ecosystem that supports the value of our token and NFTs.\r\nWe implement powerful deflationary mechanisms to safeguard the token value. Gamified gambling and an NFT collectible game are developed as part of the ecosystem to achieve this.\r\n$Pyramid token is related to our gambling game Pyramid. He will be used as money to play and as money to earn. ArenaSwap project aim to be an reference for the gaming in to DeFi.\r\nPyramid game is a gambling game with NFT content in the theme of fight."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xedecfb4801c04f3eb394b89397c6aafa4adda15b",
+    "url": "https://www.arenaswap.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xedecfb4801c04f3eb394b89397c6aafa4adda15b"
+    ],
+    "twitter": "arenaswap",
+    "telegram": "arenaswap",
+    "reddit": "arenaswap/",
+    "github_org": "arenaswap"
+}

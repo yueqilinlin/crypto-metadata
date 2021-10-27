@@ -1,0 +1,23 @@
+{
+    "id": "honeycomb-2",
+    "symbol": "honey",
+    "name": "Honeycomb",
+    "platforms": {
+        "binance-smart-chain": "0x5fb61ac238fd2fe599ad748ae1707ad0d508ac8a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Honeycomb is making DeFi sweet again!\r\n\r\nHONEY is a revolutionary yield generating token, that is auto-stake while being held, constantly distributing 3% of every transaction to it's holders. 7% Out of every transaction get added to the liquidity pool and locked forever, thus further increasing the price floor of the token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5fb61ac238fd2fe599ad748ae1707ad0d508ac8a",
+    "url": "https://www.honeycombtoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x5fb61ac238fd2fe599ad748ae1707ad0d508ac8a"
+    ],
+    "twitter": "HoneycombBSC",
+    "telegram": "HoneycombTokenBSC",
+    "github_org": "honeycombtoken"
+}

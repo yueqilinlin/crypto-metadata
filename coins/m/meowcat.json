@@ -1,0 +1,22 @@
+{
+    "id": "meowcat",
+    "symbol": "meowcat",
+    "name": "MeowCat",
+    "platforms": {
+        "binance-smart-chain": "0x61ee6efd16b9a1f5bc7d21b7e4108a2d31be8606"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x61ee6efd16b9a1f5bc7d21b7e4108a2d31be8606",
+    "url": "https://meowcat.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x61ee6efd16b9a1f5bc7d21b7e4108a2d31be8606"
+    ],
+    "twitter": "MeowCat_Bsc",
+    "telegram": "MeowCatBsc"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "bigo-token",
+    "symbol": "bigo",
+    "name": "BIGOCOIN",
+    "platforms": {
+        "ethereum": "0xa6e7dc135bdf4b3fee7183eab2e87c0bb9684783"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "PE",
+    "genesis_date": null,
+    "contract_address": "0xa6e7dc135bdf4b3fee7183eab2e87c0bb9684783",
+    "url": "https://bigocoin.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xa6E7dc135Bdf4b3FEe7183EAB2E87C0BB9684783",
+        "https://ethplorer.io/address/0xa6E7dc135Bdf4b3FEe7183EAB2E87C0BB9684783"
+    ],
+    "twitter": "bigocoin"
+}

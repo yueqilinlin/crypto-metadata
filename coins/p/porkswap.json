@@ -1,0 +1,24 @@
+{
+    "id": "porkswap",
+    "symbol": "pswap",
+    "name": "PorkSwap",
+    "platforms": {
+        "binance-smart-chain": "0x42539f50c5f8a0c929e7895eb265391f58b22a19"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized Spot and Futures Trading on BSCAutomated market maker powered, taking De-Fi game to the next level. Make instant spot exchange, leveraged trades, provide liquidity to earn returns and rewards."
+    },
+    "country_origin": "PK",
+    "genesis_date": null,
+    "contract_address": "0x42539f50c5f8a0c929e7895eb265391f58b22a19",
+    "url": "https://porkswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x42539f50c5f8a0c929e7895eb265391f58b22a19"
+    ],
+    "twitter": "pork_swap",
+    "facebook": "porkswap",
+    "telegram": "porkswap",
+    "github_org": "porkswap"
+}

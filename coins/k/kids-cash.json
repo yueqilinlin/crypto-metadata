@@ -1,0 +1,23 @@
+{
+    "id": "kids-cash",
+    "symbol": "kash",
+    "name": "Kids Cash",
+    "platforms": {
+        "ethereum": "0x2c50ba1ed5e4574c1b613b044bd1876f0b0b87a9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Governance by Traders for Traders.\r\nBy linking game-theory and collective intelligence, we aim to welcome thousands of traders, analysts and thinkers to KASH"
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x2c50ba1ed5e4574c1b613b044bd1876f0b0b87a9",
+    "url": "https://kash.community",
+    "explorers": [
+        "https://etherscan.io/token/0x2c50ba1ed5e4574c1b613b044bd1876f0b0b87a9",
+        "https://ethplorer.io/address/0x2c50ba1ed5e4574c1b613b044bd1876f0b0b87a9"
+    ],
+    "twitter": "KashCommunity",
+    "telegram": "kashcommunity"
+}

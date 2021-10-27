@@ -1,0 +1,22 @@
+{
+    "id": "bullrise",
+    "symbol": "bull",
+    "name": "BullRise",
+    "platforms": {
+        "binance-smart-chain": "0x90db4c8ddc0055ae03cde0b4e83fbde7de711464"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bullrise is a cryptocurrency fueling a whole ecosystem. BullCharts are live, with more applications yet to come."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x90db4c8ddc0055ae03cde0b4e83fbde7de711464",
+    "url": "https://bullcharts.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x90db4c8ddc0055ae03cde0b4e83fbde7de711464"
+    ],
+    "twitter": "BullriseProject",
+    "telegram": "BullriseCommunity"
+}

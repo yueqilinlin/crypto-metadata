@@ -1,0 +1,25 @@
+{
+    "id": "real-land",
+    "symbol": "rld",
+    "name": "Real Land",
+    "platforms": {
+        "ethereum": "0xd1632efa392925089785b43410c529f8959a8d9a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tokenized real estate allows issuers to automate many middlemen functions and bring liquidity to an asset class that has been starved of it."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd1632efa392925089785b43410c529f8959a8d9a",
+    "url": "https://realland.fund",
+    "explorers": [
+        "https://etherscan.io/token/0xd1632eFa392925089785B43410C529F8959A8D9A",
+        "https://ethplorer.io/address/0xd1632efa392925089785b43410c529f8959a8d9a"
+    ],
+    "twitter": "reallandfund",
+    "facebook": "reallandfund",
+    "telegram": "reallandfund",
+    "github_org": "realland"
+}

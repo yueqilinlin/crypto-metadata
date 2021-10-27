@@ -1,0 +1,24 @@
+{
+    "id": "ape-x",
+    "symbol": "ape-x",
+    "name": "Ape-X",
+    "platforms": {
+        "avalanche": "0xd039c9079ca7f2a87d632a9c0d7cea0137bacfb5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd039c9079ca7f2a87d632a9c0d7cea0137bacfb5",
+    "url": "https://ape-x.io",
+    "explorers": [
+        "https://cchain.explorer.avax.network/address/0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5/transactions"
+    ],
+    "twitter": "apexthetoken",
+    "telegram": "ApeX_Token"
+}

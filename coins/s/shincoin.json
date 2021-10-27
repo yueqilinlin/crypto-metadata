@@ -1,0 +1,24 @@
+{
+    "id": "shincoin",
+    "symbol": "scoin",
+    "name": "ShinCoin",
+    "platforms": {
+        "ethereum": "0x3f5df2f90df67e10974fbcb1729c00d3f87c0eb4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ShinCoin protocol is a financial technology providing pooling solutions to investors in the digital asset markets. Through ShinCoin products and services, an ecosystem is being developed that promotes deeper liquidity and offers investors  the ability to transact in these assets in a manner they would expect from existing, developed markets.\r\n\r\nSCOIN is a  digital token backed by top stablecoins that aims to provide individuals and organizations with a robust and decentralized method of exchanging value  using a familiar unit of account.\r\n\r\nShincoin introduces the luxury NFTs unique protocol.\r\nSCOIN is the perfect utility coin to get an NFT partnering with ShinCoin from a Uniswap pool with multiple layers of securities."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x3f5df2f90df67e10974fbcb1729c00d3f87c0eb4",
+    "url": "https://www.shincoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3f5df2f90df67e10974fbcb1729c00d3f87c0eb4",
+        "https://ethplorer.io/address/0x3f5df2f90df67e10974fbcb1729c00d3f87c0eb4"
+    ],
+    "twitter": "shincoins",
+    "telegram": "shincoinofficial",
+    "github_org": "ShinCoins"
+}

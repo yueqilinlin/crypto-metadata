@@ -1,0 +1,23 @@
+{
+    "id": "yefam-finance",
+    "symbol": "fam",
+    "name": "Yefam.Finance",
+    "platforms": {
+        "ethereum": "0x9d24364b97270961b2948734afe8d58832efd43a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0x9d24364b97270961b2948734afe8d58832efd43a",
+    "url": "https://yefam.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x9D24364b97270961b2948734aFe8d58832Efd43a",
+        "https://ethplorer.io/address/0x9D24364b97270961b2948734aFe8d58832Efd43a"
+    ],
+    "twitter": "Financeyefam",
+    "telegram": "yefamfinance"
+}

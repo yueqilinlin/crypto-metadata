@@ -1,0 +1,22 @@
+{
+    "id": "ston",
+    "symbol": "ston",
+    "name": "Ston",
+    "platforms": {
+        "ethereum": "0xdc47f2ba852669b178699449e50682d6ceaf8c07"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "STON is a decentralized, open, public, transparent, neutral, censorship-resistant, borderless cryptocurrency with a permanently fixed and limited supply that powers Mainston's leading blockchain solutions and global ecosystems."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0xdc47f2ba852669b178699449e50682d6ceaf8c07",
+    "url": "http://www.mainston.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xdC47f2Ba852669B178699449E50682D6CEAF8C07",
+        "https://ethplorer.io/address/0xdC47f2Ba852669B178699449E50682D6CEAF8C07"
+    ],
+    "telegram": "MainStonOfficialChannel"
+}

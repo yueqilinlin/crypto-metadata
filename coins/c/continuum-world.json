@@ -1,0 +1,25 @@
+{
+    "id": "continuum-world",
+    "symbol": "um",
+    "name": "Continuum World",
+    "platforms": {
+        "ethereum": "0xb19dd661f076998e3b0456935092a233e12c2280",
+        "polygon-pos": "0x3b1a0c9252ee7403093ff55b4a5886d49a3d837a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Continuum is an idyllic world composed of sky islands with a natural and futuristic environment where you can collect plenty of resources.\r\n\r\nThe more and better your UMi (your avatar) searches among all the lands, the more resources you will obtain, which will allow you to earn our native Token $UM."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb19dd661f076998e3b0456935092a233e12c2280",
+    "url": "https://continuum.world/",
+    "explorers": [
+        "https://etherscan.io/token/0xb19dd661f076998e3b0456935092a233e12c2280",
+        "https://ethplorer.io/address/0xb19dd661f076998e3b0456935092a233e12c2280",
+        "https://polygonscan.com/token/0x3b1a0c9252ee7403093ff55b4a5886d49a3d837a"
+    ],
+    "twitter": "continuumworld",
+    "reddit": "ContinuumWorld/"
+}

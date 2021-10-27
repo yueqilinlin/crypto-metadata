@@ -1,0 +1,24 @@
+{
+    "id": "united-farmers-finance",
+    "symbol": "uff",
+    "name": "United Farmers Finance",
+    "platforms": {
+        "binance-smart-chain": "0x3993a8f82f5e1a5381e678fc237a3da668c1f4eb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "United Farmers is an entire ecosystem with yield farming and automated market-making (AMM) for the BSC network. We introduce Yield Farm, Staking Pools, Decentralized Exchange (DEX) and Info Service. The solid and secure foundation with our own UFF token as our center service.\r\nUnited Farmers is built by a dedicated professional team. We will be committed to the growth and success of the ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3993a8f82f5e1a5381e678fc237a3da668c1f4eb",
+    "url": "https://www.unitedfarmers.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x3993a8f82f5e1a5381e678fc237a3da668c1f4eb"
+    ],
+    "twitter": "UnitedFarmersF",
+    "telegram": "united_farmers_defi",
+    "reddit": "unitedfarmersfinance/",
+    "github_org": "united-farmers-finance"
+}

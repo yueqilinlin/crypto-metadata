@@ -1,0 +1,24 @@
+{
+    "id": "plentycoin",
+    "symbol": "plentycoin",
+    "name": "PlentyCoin",
+    "platforms": {
+        "binance-smart-chain": "0x625dad4e02e4379f1920bbe2dd966400c5d97320"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Plentycoin is a crypto currency based on the Smart Chain network. We focus on land preservation, revitalizing forests, sustainable tech, and we are also developing an education resource system."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x625dad4e02e4379f1920bbe2dd966400c5d97320",
+    "url": "https://plentycoin.netlify.app",
+    "explorers": [
+        "https://bscscan.com/token/0x625dad4e02e4379f1920bbe2dd966400c5d97320"
+    ],
+    "twitter": "plentycoin_net",
+    "telegram": "plentycoin",
+    "reddit": "plentycoin",
+    "github_org": "plentycoin-protocol"
+}

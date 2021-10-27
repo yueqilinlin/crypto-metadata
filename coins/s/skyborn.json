@@ -1,0 +1,23 @@
+{
+    "id": "skyborn",
+    "symbol": "skyborn",
+    "name": "SkyBorn",
+    "platforms": {
+        "binance-smart-chain": "0xf78bbc835b52d7f0e9538c3566997ba2bf050b85"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SkyBorn is a decentralized finance token that runs on the Binance Smart Chain(BSC). SkyBorn offers two main utilities including burn and redistribution as incentives for its holders, each at 4% per transaction. SkyBorn is designed by the community, for the community, to engage and have fun with one another in an open creative space. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf78bbc835b52d7f0e9538c3566997ba2bf050b85",
+    "url": "https://www.skybornbsc.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xf78bbc835b52d7f0e9538c3566997ba2bf050b85"
+    ],
+    "twitter": "SkyBornBSC",
+    "telegram": "SkyBornBSC",
+    "github_org": "SkyBornBSC"
+}

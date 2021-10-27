@@ -1,0 +1,24 @@
+{
+    "id": "moonstorm",
+    "symbol": "moonstorm",
+    "name": "MoonStorm",
+    "platforms": {
+        "binance-smart-chain": "0xbbea1ac815e5402df5ee9c80a93fc3e72119469d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Moon Storm envisions on developing a community which relies on a secure and sustained asset. Moon Storm collectively rewards community holders and constantly supplies the liquidity pool with a frictionless reward system. Our main use-case will be the moonstorm store where people can purchase with moonstorm tokens that will be converted in dollars/euro's. More to come. "
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0xbbea1ac815e5402df5ee9c80a93fc3e72119469d",
+    "url": "https://www.moonstorm.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xbBeA1AC815E5402DF5Ee9c80A93FC3e72119469D"
+    ],
+    "twitter": "moonstorm_bsc",
+    "telegram": "moonstormbsc",
+    "reddit": "MoonStorm/",
+    "github_org": "moonstormbsc"
+}

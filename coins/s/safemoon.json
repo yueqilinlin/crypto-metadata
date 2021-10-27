@@ -1,0 +1,27 @@
+{
+    "id": "safemoon",
+    "symbol": "safemoon",
+    "name": "SafeMoon",
+    "platforms": {
+        "binance-smart-chain": "0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3",
+        "harmony-shard-0": "0x58c5e26fcc4d1d442396d33b58af31549c64d22f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeMoon - Auto-generating liquidity protocol / Static farming."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3",
+    "url": "https://www.safemoon.net",
+    "explorers": [
+        "https://www.bscscan.com/token/0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3",
+        "https://bscscan.com/token/0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3"
+    ],
+    "twitter": "safemoon",
+    "facebook": "safemoonprotocol",
+    "telegram": "SafeMoonv2",
+    "reddit": "SafeMoon/",
+    "github_org": "safemoonprotocol"
+}

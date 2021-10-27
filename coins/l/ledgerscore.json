@@ -1,0 +1,23 @@
+{
+    "id": "ledgerscore",
+    "symbol": "led",
+    "name": "LedgerScore",
+    "platforms": {
+        "ethereum": "0x72de803b67b6ab05b61efab2efdcd414d16ebf6d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LedgerScore is credit reporting for cryptocurrency. Unlike traditional credit reporting bureaus, like Equifax, LedgerScore aggregates its data from cryptocurrency transactions.\r\n\r\nLedgerScore provides users with complete data on cryptocurrency transactions and comprehensive and credible credit scores with patent-pending technology. By creating a new golden standard, LedgerScore is aiming to bridge the gap between centralized (CeFi) and decentralized (DeFi) worlds, while complementing traditional credit score.\r\n\r\nWe serve as both \"\"hub\"\" and \"\"bridge\"\" between modern and traditional financial ecosystems. Users will be able to see both traditional financial and crypto scores in one place, so no compromises are necessary."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x72de803b67b6ab05b61efab2efdcd414d16ebf6d",
+    "url": "https://www.ledgerscore.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x72De803b67B6AB05B61EFab2Efdcd414D16eBF6D",
+        "https://ethplorer.io/address/0x72De803b67B6AB05B61EFab2Efdcd414D16eBF6D"
+    ],
+    "twitter": "LedgerScore",
+    "telegram": "LedgerScoreOfficial"
+}

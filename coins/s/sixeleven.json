@@ -1,0 +1,23 @@
+{
+    "id": "sixeleven",
+    "symbol": "611",
+    "name": "SixEleven",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Number",
+        "Charity"
+    ],
+    "description": {
+        "en": "611 (SixEleven) is a crypto currency featuring an included free anonymous domain name system based on reliable Bitcoin blockchain technology"
+    },
+    "country_origin": "CH",
+    "genesis_date": "2015-08-21",
+    "url": "https://611project.org/",
+    "explorers": [
+        "http://be.611.to/",
+        "https://blockexplorer.611.to"
+    ],
+    "twitter": "611Coin",
+    "github_org": "611project"
+}

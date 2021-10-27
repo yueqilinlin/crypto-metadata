@@ -1,0 +1,23 @@
+{
+    "id": "xcom",
+    "symbol": "xc",
+    "name": "XCOM",
+    "platforms": {
+        "huobi-token": "0xb1a9a1585a553f2170fc68d402a278af5d186c79"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Heco Lending Platform 2.0"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb1a9a1585a553f2170fc68d402a278af5d186c79",
+    "url": "https://xcom.finance/",
+    "explorers": [
+        "https://hecoinfo.com/token/0xb1A9a1585A553f2170fC68D402a278Af5D186c79"
+    ],
+    "twitter": "XcomFinance",
+    "telegram": "Xcom_Finance",
+    "github_org": "XCom-team"
+}

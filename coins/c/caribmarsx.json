@@ -1,0 +1,23 @@
+{
+    "id": "caribmarsx",
+    "symbol": "CMX",
+    "name": "CaribMarsX",
+    "platforms": {
+        "binance-smart-chain": "0x530fea77c0857ea3d1354d3569d819438272426b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CaribMarsX is deflationary token for GameFi, NFT and financial services. There is a 5% tax fee per transaction for CaribMarsX tokens.1% of the transactions will be burned and 1% will be distributed to the CaribMarsX holders. In other words, holding CaribMarsX will increase the value of the burn, while allowing holders to stake token fees."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x530fea77c0857ea3d1354d3569d819438272426b",
+    "url": "https://caribmars.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x530fea77c0857ea3d1354d3569d819438272426b"
+    ],
+    "twitter": "caribmars",
+    "telegram": "caribmarsfinancecommunity",
+    "github_org": "Caribmars-finance-official"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "staysafu",
+    "symbol": "safu",
+    "name": "StaySAFU",
+    "platforms": {
+        "binance-smart-chain": "0x890cc7d14948478c98a6cd7f511e1f7f7f99f397"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "StaySAFU is a real revolution in the DeFi world - at least for investors. The perfect program to estimate the risk of scam: it analyzes, of course, all possible mathematical factors (holder distribution, dev wallet transactions, liquidity lock, ownership, contract code), but also and above all informs investors about the quality of the dev team that handles the token, allowing for increased reliability regarding the risk of fraud."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x890cc7d14948478c98a6cd7f511e1f7f7f99f397",
+    "url": "https://staysafu.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x890cc7d14948478c98A6CD7F511E1f7f7f99F397"
+    ],
+    "twitter": "StaySAFUOrg",
+    "telegram": "StaySAFUOrg"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "babydogecake",
+    "symbol": "bdc",
+    "name": "BabyDogeCake",
+    "platforms": {
+        "binance-smart-chain": "0x7181638e041e26321f9f2519e2f885f656458519"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BabyDogeCake ($BDC) has the first multi-token reflection protocol that automatically distributes Dogecoin (DOGE) and PancakeSwap Token (CAKE) to holders.\r\n\r\nWith the auto-claim feature, all you need to do is hold $BDC to automatically receive DOGE and CAKE dividends in your wallet! "
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x7181638e041e26321f9f2519e2f885f656458519",
+    "url": "https://babydogecake.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x7181638e041e26321f9f2519e2f885f656458519"
+    ],
+    "twitter": "babydogecake",
+    "telegram": "BabyDogeCake"
+}

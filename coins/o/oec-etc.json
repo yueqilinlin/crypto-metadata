@@ -1,0 +1,20 @@
+{
+    "id": "oec-etc",
+    "symbol": "etck",
+    "name": "OEC ETC",
+    "platforms": {
+        "okex-chain": "0x99970778e2715bbc9cf8fb83d10dcbc2d2d551a3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x99970778e2715bbc9cf8fb83d10dcbc2d2d551a3",
+    "url": "https://www.okex.com/okexchain",
+    "explorers": [
+        "https://www.oklink.com/okexchain/tokenAddr/0x99970778E2715bBc9Cf8fb83D10dCBC2D2D551A3"
+    ]
+}

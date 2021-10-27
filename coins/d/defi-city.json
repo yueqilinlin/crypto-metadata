@@ -1,0 +1,22 @@
+{
+    "id": "defi-city",
+    "symbol": "dfc",
+    "name": "DeFi City",
+    "platforms": {
+        "binance-smart-chain": "0x09890edff4b2445cb5d8121fdf2aec5003fb00c4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeFi City is a browser-based virtual world that gamifies and simplifies DeFi yield farming by allowing everyone to visualize and manage their farms and track key performance yield farming indicators from a single, visually appealing in-game dashboard."
+    },
+    "country_origin": "QU",
+    "genesis_date": null,
+    "contract_address": "0x09890edff4b2445cb5d8121fdf2aec5003fb00c4",
+    "url": "https://defi-city.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x09890edff4b2445cb5d8121fdf2aec5003fb00c4"
+    ],
+    "twitter": "DefiCityApp",
+    "telegram": "DeFiCityOffical"
+}

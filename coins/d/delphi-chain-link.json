@@ -1,0 +1,22 @@
+{
+    "id": "delphi-chain-link",
+    "symbol": "dcl",
+    "name": "Delphi Chain Link",
+    "platforms": {
+        "tron": "TNfg5m94Y7WZHiVUsmwqRZxTNXGL1nKykW"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Delphi Chain Link DeFi Ecosystem asset DCL acts as bridge between Tron, Ethereum and other digital assets and real-world assets through an Android/IOS app and Web Interface while allowing holders to earn interest completely on-chain transaction. DCL Ecosystem has several essential and complementary components that work together to generate income and provide transparent real-world backing for any digital asset.\r\n\r\nInteroperability - Through our application it is possible to connect with different platforms and make exchanges between platforms\r\n\r\nIntegration - Integration between the real world and digital assests in a simple, cheap and agile way through the TRC10 protocol\r\n\r\nSecure - Through our application using security and reliable protocols."
+    },
+    "country_origin": "IT",
+    "genesis_date": null,
+    "contract_address": "TNfg5m94Y7WZHiVUsmwqRZxTNXGL1nKykW",
+    "url": "https://delphi-chain.link/",
+    "explorers": [
+        "https://tronscan.org/#/token/1003254"
+    ],
+    "telegram": "DCLTokenChannel",
+    "github_org": "delphichainlink"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sxag",
+    "symbol": "sxag",
+    "name": "sXAG",
+    "platforms": {
+        "ethereum": "0x6a22e5e94388464181578aa7a6b869e00fe27846"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synths",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Synthetic Silver by Synthetix,\r\n\r\nTracks the price of Silver Ounce (XAG) through price feeds supplied by an oracle.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6a22e5e94388464181578aa7a6b869e00fe27846",
+    "url": "https://www.synthetix.io/tokens/",
+    "explorers": [
+        "https://etherscan.io/token/0x6A22e5e94388464181578Aa7A6B869e00fE27846",
+        "https://ethplorer.io/address/0x6a22e5e94388464181578aa7a6b869e00fe27846"
+    ],
+    "twitter": "synthetix_io"
+}

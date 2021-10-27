@@ -1,0 +1,22 @@
+{
+    "id": "aggregator-network",
+    "symbol": "aggt",
+    "name": "Aggregator Network",
+    "platforms": {
+        "ethereum": "0x8028a34ec63678bcb64325f805449beba98c28a8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Aggregator is a decentralised exchange (DEX) platform created to serve as an interconnected liquidity gateway that functions through aggregation protocols created within the delegated broker-staking mechanism (proof of broker). Our protocol functions through liquidity provided on swap pools, all major crypto currency exchange platforms (decentralized and centralized), giving the user the best aggregation tool that opens up possibilities to better decisions on liquidity swaps, arbitrage finance, liquidity pools and farming."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x8028a34ec63678bcb64325f805449beba98c28a8",
+    "url": "https://aggregator.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x8028a34ec63678bCB64325F805449beba98C28a8",
+        "https://ethplorer.io/address/0x8028a34ec63678bCB64325F805449beba98C28a8"
+    ],
+    "telegram": "AggregatorNetworkCommunity"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "unicly-mooncats-collection",
+    "symbol": "umoon",
+    "name": "Unicly MoonCats Collection",
+    "platforms": {
+        "ethereum": "0x683239a4cab49642c6e025cf81d283f9c87bc07d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "uTokens",
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x683239a4cab49642c6e025cf81d283f9c87bc07d",
+    "url": "https://www.app.unic.ly/#/utoken-contract/0x683239a4cab49642c6e025cf81d283f9c87bc07d",
+    "explorers": [
+        "https://etherscan.io/token/0x683239a4cab49642c6e025cf81d283f9c87bc07d",
+        "https://ethplorer.io/address/0x683239a4cab49642c6e025cf81d283f9c87bc07d"
+    ]
+}

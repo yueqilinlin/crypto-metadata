@@ -1,0 +1,21 @@
+{
+    "id": "ziot",
+    "symbol": "ziot",
+    "name": "Ziot",
+    "platforms": {
+        "ethereum": "0xfb22ced41b1267da411f68c879f4defd0bd4796a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "An experimental hacker themed social token that creates an eco-system around bug bounty rewards and reports."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfb22ced41b1267da411f68c879f4defd0bd4796a",
+    "url": "https://www.ziotcoin.app",
+    "explorers": [
+        "https://etherscan.io/token/0xfb22ced41b1267da411f68c879f4defd0bd4796a",
+        "https://ethplorer.io/address/0xfb22ced41b1267da411f68c879f4defd0bd4796a"
+    ]
+}

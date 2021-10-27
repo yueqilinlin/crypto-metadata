@@ -1,0 +1,23 @@
+{
+    "id": "space-monkey",
+    "symbol": "spmk",
+    "name": "Space Monkey",
+    "platforms": {
+        "ethereum": "0x51d3e4c0b2c83e62f5d517d250b3e856897d2052"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SpaceMonkey burns 3% of every transaction and another 3% is distributed to the holders. The burn fee and redistribution fee will be increased slowly over time but the maximum is 10% each. Fee increases will always be announced before. Also the fees can only be increased, not decreased."
+    },
+    "country_origin": "AT",
+    "genesis_date": null,
+    "contract_address": "0x51d3e4c0b2c83e62f5d517d250b3e856897d2052",
+    "url": "https://spacemonkey.fun/",
+    "explorers": [
+        "https://etherscan.io/token/0x51d3e4C0b2c83E62f5d517D250b3e856897d2052",
+        "https://ethplorer.io/address/0x51d3e4c0b2c83e62f5d517d250b3e856897d2052"
+    ],
+    "twitter": "SPMKToken",
+    "telegram": "spacemonkeyfinance"
+}

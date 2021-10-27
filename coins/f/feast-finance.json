@@ -1,0 +1,23 @@
+{
+    "id": "feast-finance",
+    "symbol": "feast",
+    "name": "Feast Finance",
+    "platforms": {
+        "binance-smart-chain": "0xf2df8458130f00c94bcde2dd3f288cf608187f87",
+        "ethereum": "0xf2df8458130f00c94bcde2dd3f288cf608187f87"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Community Driven Frictionless Deflationary Donation & Yield Farming Token.\r\nDesigned for everyone t FEAST with frictionless REWARDS!"
+    },
+    "country_origin": "GE",
+    "genesis_date": null,
+    "contract_address": "0xf2df8458130f00c94bcde2dd3f288cf608187f87",
+    "url": "https://feast.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xf2Df8458130F00c94bCDE2Dd3F288cF608187F87"
+    ],
+    "twitter": "feastfinance",
+    "telegram": "feastchat"
+}

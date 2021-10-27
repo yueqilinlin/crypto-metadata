@@ -1,0 +1,23 @@
+{
+    "id": "bitpower",
+    "symbol": "bpp",
+    "name": "Bitpower",
+    "platforms": {
+        "ethereum": "0x52d904eff2605463c2f0b338d34abc9b7c3e3b08"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bitpower ($BPP) is a token that powers Bit Alliance DAO ecosystem with other digital assets in its treasury. It is also used to acquire $BPT tokens through migration contracts."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x52d904eff2605463c2f0b338d34abc9b7c3e3b08",
+    "url": "https://bitalliance.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x52d904eff2605463c2f0b338d34abc9b7c3e3b08",
+        "https://ethplorer.io/address/0x52d904eff2605463c2f0b338d34abc9b7c3e3b08"
+    ],
+    "twitter": "BitAllianceDAO",
+    "telegram": "bitpowerdefi"
+}

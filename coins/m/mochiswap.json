@@ -1,0 +1,26 @@
+{
+    "id": "mochiswap",
+    "symbol": "mochi",
+    "name": "Mochiswap",
+    "platforms": {
+        "binance-smart-chain": "0x055dab90880613a556a5ae2903b2682f8a5b8d27",
+        "harmony-shard-0": "0xda73f5c25c0d644afd20da5535558956b192b262"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "MOCHISWAP - MultiChain DEX offering crypto peer-to-peer swaps for Binance Smart Chain, Harmony ONE along with Incentivized liquidity pools! DEX Swapping and Liquidity. Cross chain integration with, Binance Smart Chain, ONE, Uniswap, Balancer and more!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x055dab90880613a556a5ae2903b2682f8a5b8d27",
+    "url": "https://mochiswap.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x055dab90880613a556a5ae2903b2682f8a5b8d27#balances"
+    ],
+    "twitter": "mochiswap",
+    "telegram": "mochiswap",
+    "github_org": "mochiswap"
+}

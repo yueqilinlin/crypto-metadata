@@ -1,0 +1,24 @@
+{
+    "id": "moola-market",
+    "symbol": "moo",
+    "name": "Moola Market",
+    "platforms": {
+        "celo": "0x17700282592d6917f6a73d0bf8accf4d578c131e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Moola is a non-custodial liquidity protocol built on the mobile first Celo blockchain. Moola is democratizing access to yield and credit. Depositors earn passive yield which is paid for by borrowers who are able to take over-collateralized loans in perpetuity or under-collateralized flash loans. Moola has shared ancestry with Aave v1."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x17700282592d6917f6a73d0bf8accf4d578c131e",
+    "url": "https://moola.market/",
+    "explorers": [
+        "https://explorer.celo.org/tokens/0x17700282592D6917F6A73D0bF8AcCf4D578c131e/token-transfers"
+    ],
+    "twitter": "Moola_Market",
+    "telegram": "moola_market",
+    "reddit": "moola_market/",
+    "github_org": "moolamarket"
+}

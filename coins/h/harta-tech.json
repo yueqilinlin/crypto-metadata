@@ -1,0 +1,23 @@
+{
+    "id": "harta-tech",
+    "symbol": "harta",
+    "name": "Harta Tech",
+    "platforms": {
+        "binance-smart-chain": "0x0b3eee5724730b57caf2a108451c7366230155c4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HARTA seeks to be the leading provider for NFT, Digital and Real World Assets Management, Tracking, Price Oracle, Buy, Sell, Lending & Save Platform. View your entire asset holdings along with its respective data at one go. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0b3eee5724730b57caf2a108451c7366230155c4",
+    "url": "https://harta.tech/",
+    "explorers": [
+        "https://bscscan.com/token/0x0b3eee5724730b57caf2a108451c7366230155c4"
+    ],
+    "twitter": "hartaofficial",
+    "telegram": "hartaofficial",
+    "github_org": "hartatech"
+}

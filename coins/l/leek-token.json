@@ -1,0 +1,23 @@
+{
+    "id": "leek-token",
+    "symbol": "leek",
+    "name": "Leek Token",
+    "platforms": {
+        "huobi-token": "0xe11a098ce65138e418a0f67d5be3dea1ac227e89"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LEEK is the worlds first full-circulation community Token governance. LEEK aims to reward holders and is based on transparency and trust. Contracts and ecological applications are all open source, security audited, open, transparent and safe. 100% circulation, the total amount is scarce, holding currency and trading dividends, adding liquidity will automatically become a market-making shareholder and participate in the ecology."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0xe11a098ce65138e418a0f67d5be3dea1ac227e89",
+    "url": "https://www.leeks.tech",
+    "explorers": [
+        "https://hecoinfo.com/token/0xe11a098Ce65138e418A0F67D5be3dEa1aC227e89"
+    ],
+    "twitter": "Leektogether2",
+    "telegram": "LEEKSglobal",
+    "github_org": "LeeksTechFoundation"
+}

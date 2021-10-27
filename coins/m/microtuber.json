@@ -1,0 +1,23 @@
+{
+    "id": "microtuber",
+    "symbol": "mct",
+    "name": "MicroTuber",
+    "platforms": {
+        "ethereum": "0x6876eba317272fe221c67405c5e8eb3b24535547"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A crowdfunding platform for trading and staking agricultural goods and assets.\r\n\r\nMicro Tuber connects people and farmers by funding, staking, and rewarding the user and farmers"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6876eba317272fe221c67405c5e8eb3b24535547",
+    "url": "https://microtuber.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x6876eba317272fe221c67405c5e8eb3b24535547",
+        "https://ethplorer.io/address/0x6876eba317272fe221c67405c5e8eb3b24535547"
+    ],
+    "facebook": "MicroTuber",
+    "github_org": "microtuber"
+}

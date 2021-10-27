@@ -1,0 +1,22 @@
+{
+    "id": "safe-coin",
+    "symbol": "safe",
+    "name": "Safe",
+    "platforms": {},
+    "hashing_algorithm": "Equihash",
+    "categories": [],
+    "description": {
+        "en": "SAFE is a blockchain underlying technology platform with three application scenarios: payment (instant payment, privacy payment), security (digital asset issuance and management), and security investment (secure voting). The largest, secure, and private digital currency payment platform and application platform builds millions of users and community ecology from multiple dimensions.\r\n\r\nSAFE features:\r\n\r\n\u2022 Privacy Protection: The world's largest and safest digital privacy payment and application platform.\r\n\r\n\u2022 Performance extensions: payment (immediate payment, secure payment), security (asset issuance and management, based on Annet issuing tokens), security investment (original voting chain), and other application directions.\r\n\r\n\u2022 Ecological construction: Joint voting chain and Annet space users, integrating users interested in privacy protection such as Da Shi, Monroe, and Zcach, and integrating users interested in secure social and asset issuance."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.anwang.com/",
+    "explorers": [
+        "http://chain.anwang.com"
+    ],
+    "twitter": "safe_2018",
+    "facebook": "anwang.safe",
+    "telegram": "safe_anwang",
+    "reddit": "SafeCoins/",
+    "github_org": "bankledger"
+}

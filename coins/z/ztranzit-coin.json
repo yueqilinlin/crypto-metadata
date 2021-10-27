@@ -1,0 +1,24 @@
+{
+    "id": "ztranzit-coin",
+    "symbol": "ztnz",
+    "name": "Ztranzit Coin",
+    "platforms": {
+        "tron": "TH1pMQU856owNz8HgRa2gWmGTwSb8XXMkF"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ztranzit is a utility token powered by AI delivery to provide  hitch free transactions across borders on its AI delivery app which facilitates peer to peer delivery. With a mission  to use blockchain to create job opportunities in the developing countries \r\n"
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "contract_address": "TH1pMQU856owNz8HgRa2gWmGTwSb8XXMkF",
+    "url": "https://ztranzit.io/",
+    "explorers": [
+        "https://tronscan.io/#/token20/TH1pMQU856owNz8HgRa2gWmGTwSb8XXMkF"
+    ],
+    "twitter": "ztranzit",
+    "facebook": "aiDeliver",
+    "telegram": "ai_Delivery_Z_tranz_token",
+    "github_org": "Ztranzit"
+}

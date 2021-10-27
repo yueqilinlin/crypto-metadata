@@ -1,0 +1,25 @@
+{
+    "id": "vspacex",
+    "symbol": "vspacex",
+    "name": "vSpaceX",
+    "platforms": {
+        "ethereum": "0x44e28f2acc84c36373badcd681749d38e01e2cc4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "vSPACEX is a pre-IPO token tracking SpaceX stock price using collateral vaults."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x44e28f2acc84c36373badcd681749d38e01e2cc4",
+    "url": "https://itovault.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x44e28f2acc84c36373badcd681749d38e01e2cc4",
+        "https://ethplorer.io/address/0x44e28f2acc84c36373badcd681749d38e01e2cc4"
+    ],
+    "twitter": "itowrites",
+    "telegram": "itovault",
+    "reddit": "ItoVault/",
+    "github_org": "itovault"
+}

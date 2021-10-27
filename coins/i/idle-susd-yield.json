@@ -1,0 +1,21 @@
+{
+    "id": "idle-susd-yield",
+    "symbol": "idleSUSDYield",
+    "name": "IdleSUSD (Yield)",
+    "platforms": {
+        "ethereum": "0xf52cdcd458bf455aed77751743180ec4a595fd3f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf52cdcd458bf455aed77751743180ec4a595fd3f",
+    "url": "https://idle.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xf52cdcd458bf455aed77751743180ec4a595fd3f",
+        "https://ethplorer.io/address/0xf52cdcd458bf455aed77751743180ec4a595fd3f"
+    ]
+}

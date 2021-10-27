@@ -1,0 +1,24 @@
+{
+    "id": "scrv",
+    "symbol": "scrv",
+    "name": "sCRV",
+    "platforms": {
+        "ethereum": "0xd38aeb759891882e78e957c80656572503d8c1b1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Synths"
+    ],
+    "description": {
+        "en": "Tracks the price of Curve DAO Token (CRV) through price feeds supplied by an oracle."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd38aeb759891882e78e957c80656572503d8c1b1",
+    "url": "https://www.synthetix.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xD38aEb759891882e78E957c80656572503D8c1B1",
+        "https://ethplorer.io/address/0xD38aEb759891882e78E957c80656572503D8c1B1"
+    ],
+    "twitter": "synthetix_io"
+}

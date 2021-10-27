@@ -1,0 +1,22 @@
+{
+    "id": "xrp-bep2",
+    "symbol": "xrp-bf2",
+    "name": "XRP BEP2",
+    "platforms": {
+        "binancecoin": "XRP-BF2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "XRP-BF2 is a token pegged to XRP value and tradeable on Binance DEX."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "XRP-BF2",
+    "url": "https://explorer.binance.org/asset/XRP-BF2",
+    "explorers": [
+        "https://explorer.binance.org/asset/XRP-BF2"
+    ]
+}

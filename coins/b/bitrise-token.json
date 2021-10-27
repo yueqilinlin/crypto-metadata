@@ -1,0 +1,22 @@
+{
+    "id": "bitrise-token",
+    "symbol": "brise",
+    "name": "Bitrise Token",
+    "platforms": {
+        "binance-smart-chain": "0x8fff93e810a2edaafc326edee51071da9d398e83"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bitrise Token Holders benefit through static rewards in BNB into their wallet for holding and also through the automatic Buy-Back process built into the contract.\r\nWhen the Buy-Back function is turned on, the contract automatically Buys Back and Burns Tokens after each sell.\r\nFor the first time ever, you don\u2019t need to claim your earned BNB. It\u2019s automatically sent to your wallet every 60 minutes.\r\nThe biggest BNB reflection token and the only one with auto-claim feature. Simply hold $BRISE tokens in your wallet and you\u2019ll earn BNB.\r\n\r\nBitRise Payment System ( Under Development )\r\nBitRise Token will be used as peer-to-peer (P2P) service for payment systems using our dApp wallet in the local currency with zero transaction fees, faster & secure transactions, whereby two individuals interact directly with each other, without intermediation by a third party. Instead, the buyer and the seller transact directly with each other via the P2P service."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8fff93e810a2edaafc326edee51071da9d398e83",
+    "url": "https://bitrisetoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8fff93e810a2edaafc326edee51071da9d398e83"
+    ],
+    "twitter": "BitRiseToken",
+    "telegram": "bitrisetoken"
+}

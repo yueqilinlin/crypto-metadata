@@ -1,0 +1,27 @@
+{
+    "id": "oracle-top-5",
+    "symbol": "orcl5",
+    "name": "Oracle Top 5 Index",
+    "platforms": {
+        "ethereum": "0xd6cb2adf47655b1babddc214d79257348cbc39a7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "DeFi Index"
+    ],
+    "description": {
+        "en": "This category tracks Ethereum-based protocol and governance tokens for oracle projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd6cb2adf47655b1babddc214d79257348cbc39a7",
+    "url": "https://indexed.finance/index/orcl5",
+    "explorers": [
+        "https://etherscan.io/token/0xd6cb2adf47655b1babddc214d79257348cbc39a7",
+        "https://ethplorer.io/address/0xd6cb2adf47655b1babddc214d79257348cbc39a7"
+    ],
+    "twitter": "ndxfi",
+    "telegram": "ndxfi",
+    "github_org": "indexed-finance"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "sentiment-token",
+    "symbol": "sent",
+    "name": "Sentiment Token",
+    "platforms": {
+        "ethereum": "0x97abee33cd075c58bfdd174e0885e08e8f03556f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SENT is a governance utility token built around the trusted reciprocal relationship between a platform and it's people. SENT is the governance token for social sentiment platform, Trade the Chain. \r\n\r\nThe purpose of SENT is to reward brand loyalty, developing a token that is multi-faceted that incentivises holders through exclusive offers, discounts and other opportunities from Trade The Chain and its partners.\r\n\r\nCommunity is the strength of any project, and that strength starts with giving everyone an equal opportunity to participate. The SENT token was initially fair distributed, not sold, which means the community can focus on what matters most \u2014 supporting SENT."
+    },
+    "country_origin": "GI",
+    "genesis_date": null,
+    "contract_address": "0x97abee33cd075c58bfdd174e0885e08e8f03556f",
+    "url": "http://senttoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x97abee33cd075c58bfdd174e0885e08e8f03556f",
+        "https://ethplorer.io/address/0x97abee33cd075c58bfdd174e0885e08e8f03556f"
+    ],
+    "twitter": "SENTtoken",
+    "telegram": "ttcsenttoken"
+}

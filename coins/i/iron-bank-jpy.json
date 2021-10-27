@@ -1,0 +1,21 @@
+{
+    "id": "iron-bank-jpy",
+    "symbol": "ibjpy",
+    "name": "Iron Bank JPY",
+    "platforms": {
+        "ethereum": "0x5555f75e3d5278082200fb451d1b6ba946d8e13b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fixed Forex is the collective name for USD, EUR, ZAR, JPY, CNY, AUD, AED, CAD, INR, and any other forex pairs launched under the Fixed Forex moniker."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5555f75e3d5278082200fb451d1b6ba946d8e13b",
+    "url": "https://fixedforex.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x5555f75e3d5278082200Fb451D1b6bA946D8e13b",
+        "https://ethplorer.io/address/0x5555f75e3d5278082200fb451d1b6ba946d8e13b"
+    ]
+}

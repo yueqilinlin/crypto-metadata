@@ -1,0 +1,23 @@
+{
+    "id": "wrapped-x42-protocol",
+    "symbol": "wx42",
+    "name": "Wrapped X42 Protocol",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "The x42 Protocol is a feeless cryptocurrency that allows the user not only to make transactions using the x42 coin but also gives a very large array of tools to the developer that chooses to use the platform; x42 is a proof-of-stake blockchain that allows for the creation, distribution and decentralized hosting of applications, it also allows for the creation of side blockchains that can be edited to allow for any type of desired scalability through different block times, block sizes and near limitless usability in various situations at zero or minimal cost, these side blockchains offer a test net that any development team or single user can take advantage to test and debug the most varied array of software types in a decentralized and secure manner."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf49fcdb92c7438b54edb4f1021abe3e3b4b15c92",
+    "url": "http://www.x42.tech",
+    "explorers": [
+        "https://etherscan.io/token/0xf49fcdb92c7438b54edb4f1021abe3e3b4b15c92"
+    ],
+    "twitter": "x42protocol",
+    "reddit": "https://www.reddit.com",
+    "github_org": "x42protocol"
+}

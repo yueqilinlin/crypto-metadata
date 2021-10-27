@@ -1,0 +1,23 @@
+{
+    "id": "rug-proof",
+    "symbol": "rpt",
+    "name": "Rug Proof",
+    "platforms": {
+        "ethereum": "0xa0bb0027c28ade4ac628b7f81e7b93ec71b4e020"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "This project seeks to help people stay safe during token sales, preventing them from losing to fake projects, as it has been lately happening in the DeFi world. With the creation of rugproof, an experimental project, we are promoting an antirug movement by delivering a platform where you can participate in rug-free token sales."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xa0bb0027c28ade4ac628b7f81e7b93ec71b4e020",
+    "url": "https://rugproof.io",
+    "explorers": [
+        "https://etherscan.io/token/0xa0bb0027c28ade4ac628b7f81e7b93ec71b4e020",
+        "https://ethplorer.io/address/0xa0bb0027c28ade4ac628b7f81e7b93ec71b4e020"
+    ],
+    "twitter": "rugproof",
+    "telegram": "rugproof"
+}

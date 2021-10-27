@@ -1,0 +1,22 @@
+{
+    "id": "wemix-token",
+    "symbol": "wemix",
+    "name": "WEMIX Token",
+    "platforms": {
+        "klay-token": "0x5096db80b21ef45230c9e423c373f1fc9c0198dd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Global gaming platform with popular game titles"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x5096db80b21ef45230c9e423c373f1fc9c0198dd",
+    "url": "https://wemixnetwork.com/",
+    "explorers": [
+        "https://scope.klaytn.com/token/0x5096db80b21ef45230c9e423c373f1fc9c0198dd?tabId=kctTransfer"
+    ],
+    "twitter": "WemixNetwork",
+    "telegram": "WemixNetworkAnnounce"
+}

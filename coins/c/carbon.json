@@ -1,0 +1,27 @@
+{
+    "id": "carbon",
+    "symbol": "crbn",
+    "name": "Carbon",
+    "platforms": {
+        "ethereum": "0xcdeee767bed58c5325f68500115d4b722b3724ee",
+        "binance-smart-chain": "0x5a4fb10e7c4cbb9a2b9d9a942f9a875ebd3489ea",
+        "polygon-pos": "0x89ef0900b0a6b5548ab2ff58ef588f9433b5fcf5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Carbon is a social crypto hub, providing fully encrypted and decentralised communications, social feed, data storage and more. The Carbon platform is very rewarding. Content creation is rewarded, as is staking, in a fun, gamified rewards system. Carbon combines many common day-to-day crypto activities into one place."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0xcdeee767bed58c5325f68500115d4b722b3724ee",
+    "url": "https://crbn.io",
+    "explorers": [
+        "https://etherscan.io/token/0xCdeee767beD58c5325f68500115d4B722b3724EE",
+        "https://ethplorer.io/address/0xcdeee767bed58c5325f68500115d4b722b3724ee",
+        "https://polygonscan.com/token/0x89eF0900b0A6b5548ab2FF58EF588F9433b5fCf5",
+        "https://bscscan.com/token/0x5a4fb10e7C4Cbb9a2b9d9A942f9a875EbD3489ea"
+    ],
+    "twitter": "crbnio",
+    "telegram": "carbonsocial"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "tron-go",
+    "symbol": "go",
+    "name": "TRON GO",
+    "platforms": {
+        "tron": "TZHTVehxLeoVQ5uuQLy3TDx4Uuw6EmHVNF"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A fair slot game with the best experience for users."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TZHTVehxLeoVQ5uuQLy3TDx4Uuw6EmHVNF",
+    "url": "https://trongo.io/",
+    "explorers": [
+        "https://trxplorer.io/token/TZHTVehxLeoVQ5uuQLy3TDx4Uuw6EmHVNF",
+        "https://tronscan.org/#/token20/TZHTVehxLeoVQ5uuQLy3TDx4Uuw6EmHVNF"
+    ],
+    "twitter": "Trongo_official",
+    "telegram": "trongo_official"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "dexe",
+    "symbol": "dexe",
+    "name": "DeXe",
+    "platforms": {
+        "ethereum": "0xde4ee8057785a7e8e800db58f9784845a5c2cbd6",
+        "binance-smart-chain": "0x039cb485212f996a9dbb85a9a75d898f94d38da6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "1. Using the DeXe Utility token in the ecosystem:\r\n1.1 Programmed redemption and burning of tokens for a certain % of the traders\u2019 compensation.\r\n1.2 Control over DeXe treasury better. One of the DeXe functionality includes farming rewards with DeXe.network from social trading activity.\r\n1.3 Use of the token by the holders for casting a ballot and settling on choices regarding:\r\na. The timespan and adjustment of the percentage of tokens burned.\r\nb. Effect on the number of remunerations got for farming (increase or decline the percent of accrual)\r\nc. Voting for the date of burning tokens and ascertaining the reward for farming (details below).\r\n1.4 Work of the system for insuring users\u2019 deposits by staking tokens on DEX."
+    },
+    "country_origin": "UA",
+    "genesis_date": null,
+    "contract_address": "0xde4ee8057785a7e8e800db58f9784845a5c2cbd6",
+    "url": "https://dexe.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6",
+        "https://ethplorer.io/address/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6",
+        "https://bscscan.com/token/0x039cb485212f996a9dbb85a9a75d898f94d38da6"
+    ],
+    "twitter": "DexeNetwork",
+    "facebook": "dexe.network",
+    "telegram": "Dexe_network",
+    "github_org": "dexe-network"
+}

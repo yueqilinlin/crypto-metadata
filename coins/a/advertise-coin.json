@@ -1,0 +1,24 @@
+{
+    "id": "advertise-coin",
+    "symbol": "adco",
+    "name": "Advertise Coin",
+    "platforms": {
+        "ethereum": "0xb6c3dc857845a713d3531cea5ac546f6767992f4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Advertise Exchange connects publishers and advertisers in a crypto world. The ADCO serviced marketplace includes easy cryptocurrency payments, which makes business truly efficient, transparent, and reliable. Advertise Coin has its own ecosystem with several major advertising companies. Our focus is to integrate all companies, employees, and businesses on the advertising market. Our platform allows advertising companies to contact the API database directly, and offers consumers to use much lower prices for services in the advertising market."
+    },
+    "country_origin": "BG",
+    "genesis_date": null,
+    "contract_address": "0xb6c3dc857845a713d3531cea5ac546f6767992f4",
+    "url": "https://advertisecoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xb6c3dc857845a713d3531cea5ac546f6767992f4",
+        "https://ethplorer.io/address/0xb6c3dc857845a713d3531cea5ac546f6767992f4"
+    ],
+    "twitter": "advertisecoin",
+    "facebook": "advertisecoin.com",
+    "telegram": "advertisecoin"
+}

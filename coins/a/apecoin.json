@@ -1,0 +1,22 @@
+{
+    "id": "apecoin",
+    "symbol": "ape",
+    "name": "APEcoin",
+    "platforms": {
+        "binance-smart-chain": "0xa9ea4b786ee5b7a733c035564bfd9341a4c9fc1e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa9ea4b786ee5b7a733c035564bfd9341a4c9fc1e",
+    "url": "https://apecoin.dev/",
+    "explorers": [
+        "https://bscscan.com/token/0xa9ea4b786ee5b7a733c035564bfd9341a4c9fc1e"
+    ],
+    "twitter": "go_apecoin",
+    "telegram": "APE_Token"
+}

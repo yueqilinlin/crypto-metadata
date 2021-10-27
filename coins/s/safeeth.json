@@ -1,0 +1,24 @@
+{
+    "id": "safeeth",
+    "symbol": "safeeth",
+    "name": "SafeETH",
+    "platforms": {
+        "binance-smart-chain": "0x47fdfea2c5741acd7be0377029d6c507154d86b9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeETH is a deflationary autonomous yield and liquidity generation protocol. SafeETH generates yield by applying a tax of 4% on every buy and sell transaction while splitting that fee instantly among token holders and the liquidity pool. The purpose of SafeETH is to provide a way to earn yield from holding tokens without having to stake or farm."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x47fdfea2c5741acd7be0377029d6c507154d86b9",
+    "url": "https://safeethbsc.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x47fdfea2c5741acd7be0377029d6c507154d86b9"
+    ],
+    "twitter": "SafeEthOffical",
+    "facebook": "safe.eth.3",
+    "telegram": "SAFEETHCommunity",
+    "github_org": "Multi1000aire"
+}

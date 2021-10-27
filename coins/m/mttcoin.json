@@ -1,0 +1,19 @@
+{
+    "id": "mttcoin",
+    "symbol": "mttcoin",
+    "name": "MTTCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "MTTcoin is an opensource P2P decentralized cryptocurrency. It has its own unique blockchain and provides fast transaction time. MTTcoin supports web, Windows, Linux, and Android platforms to make easy access and increase security. This DeFi project has a rich ecosystem of exchanges, wallets, loan systems and shops to make liquidity by market making."
+    },
+    "country_origin": "",
+    "genesis_date": "2020-01-29",
+    "url": "https://mttcoin.com/",
+    "explorers": [
+        "http://mttexplorer.com:3002/block/06819813541afd240a94c3e77ab83c1d7152ad94827dfca5bb6444bfd85a1df3"
+    ],
+    "twitter": "MtTcoin",
+    "github_org": "mttcoin"
+}

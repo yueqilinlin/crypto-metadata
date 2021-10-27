@@ -1,0 +1,23 @@
+{
+    "id": "zabu-token",
+    "symbol": "zabu",
+    "name": "Zabu Token",
+    "platforms": {
+        "avalanche": "0xdd453dbd253fa4e5e745047d93667ce9da93bbcf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Zabu Finance is a next-gen Decentralized Finance (DeFi) project on Avalanche. Zabu Finance helps you maximize your yield through a full-fledged ecosystem with yield-aggregation, yield farming, staking, fundraising and focuses on bringing DeFi to everyone in a fun and an easy to understand way!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdd453dbd253fa4e5e745047d93667ce9da93bbcf",
+    "url": "https://zabu.finance/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF/token-transfers"
+    ],
+    "twitter": "zabufinance",
+    "telegram": "zabufinance",
+    "github_org": "zabufinance"
+}

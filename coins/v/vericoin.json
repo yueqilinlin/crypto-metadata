@@ -1,0 +1,21 @@
+{
+    "id": "vericoin",
+    "symbol": "vrc",
+    "name": "VeriCoin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake-Time",
+    "categories": [],
+    "description": {
+        "en": "VeriCoin (VRC) is a Proof of Stake-Time cryptocurrency. It was previously a Proof-of-Stake cryptocurrency with Proof of Work used to mine coins in the early stage. VeriCoin began work on PoST after the MintPal VRC hack and the subsequent roll back. More information on Proof of Stake-Time can be obtained by reading the whitepaper <a href=\"http://www.vericoin.info/downloads/VeriCoinPoSTWhitePaper10May2015.pdf\">here</a>.\r\n\r\nThere is no Pre-mine or IPO for VeriCoin. The minimum stake time is at least 8 hours. \r\n\r\nThe one highlight feature of VeriCoin is VeriFund. VeriFund is the answer to ensure stability and growth of VeriCoin. It is used to counter the inflationary effect of the proof of stake.\r\nWhen the supply increases, VeriFund will purchase liquid supply of VeriCoin to ensure growth and stability of the coin's value. More info about VeriFund can be found at <a href='http://vericoin.info/verifund.html'>http://vericoin.info/verifund.html</a>\r\n\r\nAnother key feature of VeriCoin is VeriSMS. VeriSMS is an SMS wallet system that gives your phone capability to access the VeriCoin network. Some of the available commands include \"Balance\", \"setpassword\", and  \"SEND\". More information about VeriSMS can be found at <a href='http://vericoin.info/text.html'>http://vericoin.info/text.html</a>"
+    },
+    "country_origin": "",
+    "genesis_date": "2014-05-10",
+    "url": "http://www.vericoin.info/",
+    "explorers": [
+        "https://chainz.cryptoid.info/vrc/"
+    ],
+    "twitter": "vericoin",
+    "facebook": "vericoin",
+    "reddit": "vericoin",
+    "github_org": "VeriConomy"
+}

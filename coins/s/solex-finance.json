@@ -1,0 +1,22 @@
+{
+    "id": "solex-finance",
+    "symbol": "slx",
+    "name": "Solex Finance",
+    "platforms": {
+        "solana": "AASdD9rAefJ4PP7iM89MYUsQEyCQwvBofhceZUGDh5HZ"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "One decentralized and permissionless platform for you to swap, stake, and invest with the low-cost, high efficiency and ultimate experience."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "AASdD9rAefJ4PP7iM89MYUsQEyCQwvBofhceZUGDh5HZ",
+    "url": "https://solex.finance/",
+    "explorers": [
+        "https://solscan.io/token/AASdD9rAefJ4PP7iM89MYUsQEyCQwvBofhceZUGDh5HZ"
+    ],
+    "twitter": "SolexFinance",
+    "telegram": "solexcommunity"
+}

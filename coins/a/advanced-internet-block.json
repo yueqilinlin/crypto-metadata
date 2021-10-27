@@ -1,0 +1,22 @@
+{
+    "id": "advanced-internet-block",
+    "symbol": "aib",
+    "name": "Advanced Integrated Blocks",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "Advanced Internet Blocks (AIB) describes itself as a dual value multi-asset block-chain forked from Bitcoin and Litecoin with merge-mining enabled."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "url": "https://www.aib.one",
+    "explorers": [
+        "https://block.aib.one/"
+    ],
+    "twitter": "aibcoin",
+    "telegram": "aibone",
+    "github_org": "iobond"
+}

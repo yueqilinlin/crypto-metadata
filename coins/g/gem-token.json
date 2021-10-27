@@ -1,0 +1,23 @@
+{
+    "id": "gem-token",
+    "symbol": "gem",
+    "name": "Gem Token",
+    "platforms": {
+        "binance-smart-chain": "0x9fb4def63f8caec83cb3ebcc22ba0795258c988a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Clam Island is a Gamified Yieldfarming and NFTs Platform with a 3D Island UI that guides the user with characters through the whole yieldfarming-investment process. It has a two-token ($SHELL and $GEM) and two-NFT (Clam and Pearl NFTs) ecosystem.\r\n\r\n$SHELL is the governance token of Clam Island (I applied for this token a listing as well shortly before this application). The only way in which its supply increases is by burning Clam NFTs.\r\n\r\n$GEM is the reward token of the yieldfarm. It is used on our platform to buy Clam NFTs by burning $GEM. Also when Pearl NFTs get produced by staking Clam NFTs 10 $GEM is used to produce the Pearl.\r\nLike $CAKE - $GEM has no maximum supply as it is a farmable token. This is why I put in \"\"999999999999\"\" in max supply below as I have to put in a number and \"\"unlimited\"\" supply can't be typed in."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9fb4def63f8caec83cb3ebcc22ba0795258c988a",
+    "url": "https://clamisland.fi",
+    "explorers": [
+        "https://bscscan.com/token/0x9fb4DEF63f8caEC83Cb3EBcC22Ba0795258C988a"
+    ],
+    "twitter": "clamisland",
+    "telegram": "clamisland",
+    "github_org": "ClamSwap-Squad"
+}

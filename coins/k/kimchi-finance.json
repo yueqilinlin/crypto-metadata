@@ -1,0 +1,24 @@
+{
+    "id": "kimchi-finance",
+    "symbol": "kimchi",
+    "name": "KIMCHI.finance",
+    "platforms": {
+        "ethereum": "0x1e18821e69b9faa8e6e75dffe54e7e25754beda0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1e18821e69b9faa8e6e75dffe54e7e25754beda0",
+    "url": "https://kimchi.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x1e18821e69b9faa8e6e75dffe54e7e25754beda0",
+        "https://ethplorer.io/address/0x1e18821e69b9faa8e6e75dffe54e7e25754beda0"
+    ],
+    "twitter": "kimchi_finance"
+}

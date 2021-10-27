@@ -1,0 +1,21 @@
+{
+    "id": "zetacoin",
+    "symbol": "zet",
+    "name": "Zetacoin",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": "Zetacoin is a SHA256 based cryptocurrency, which is the same hashing algorithm used in the original cryptocurrency, Bitcoin. \r\n\r\nIt features high speed transaction time and difficulty adjustment with a yearly inflationary rate of 1 million coins. \r\n\r\nIt is hoped that the inflationary coins would keep the Zetacoin network strong instead of depending on paying miners via transaction fees.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": "2013-08-03",
+    "url": "http://zetacoin.cc/",
+    "explorers": [
+        "http://bit.usr.sh:2750/chain/Zetacoin"
+    ],
+    "twitter": "zetacoins",
+    "facebook": "zetacoinproject",
+    "reddit": "ZetacoinCommunity/",
+    "github_org": "zetacoin"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "bdollar",
+    "symbol": "bdo",
+    "name": "bDollar",
+    "platforms": {
+        "binance-smart-chain": "0x190b589cf9fb8ddeabbfeae36a813ffb2a702454"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "bDollar is the first algorithmic stablecoin on Binance Smart Chain with an innovative solution that can adjust its supply deterministically to move the price of the token in the direction of a target price to bring programmability and interoperability to DeFi."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x190b589cf9fb8ddeabbfeae36a813ffb2a702454",
+    "url": "https://bdollar.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0x190b589cf9fb8ddeabbfeae36a813ffb2a702454"
+    ],
+    "twitter": "bDollar_Fi",
+    "telegram": "Bearn_Fi",
+    "github_org": "bearn-defi"
+}

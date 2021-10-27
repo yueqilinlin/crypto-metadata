@@ -1,0 +1,28 @@
+{
+    "id": "mmocoin",
+    "symbol": "mmo",
+    "name": "MMOCoin",
+    "platforms": {
+        "binance-smart-chain": "0x0aa086e7a108d387de63294fe2a88b05820a9855"
+    },
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "MMOCoin's backbone MMOPro.org has been a trusted destination for gamers for a decade. It\u2019s literally as old as Bitcoin itself. We have a long and reliable track record that our users can depend on when they want to make their next quest in WoW just a little bit easier.\r\n\r\nMMOCoin BSC Migration brings MMO Ecosystem to a whole new level, presenting a DEX  (MMOSWAP), an NFT marketplace (MMO NFTs), and a centralized marketplace through a built-in escrow system (MMO Marketplace), all in one place. Know more by reading the MMO whitepaper.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": "2018-02-02",
+    "contract_address": "0x0aa086e7a108d387de63294fe2a88b05820a9855",
+    "url": "https://mmocoin.pro/",
+    "explorers": [
+        "https://bscscan.com/token/0x0aa086e7a108d387de63294fe2a88b05820a9855"
+    ],
+    "twitter": "MMOProOfficial",
+    "facebook": "MMOProDotOrg",
+    "telegram": "mmoprocoin",
+    "github_org": "MMO-Coin"
+}

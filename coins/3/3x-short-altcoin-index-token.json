@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-altcoin-index-token",
+    "symbol": "altbear",
+    "name": "3X Short Altcoin Index Token",
+    "platforms": {
+        "ethereum": "0x90b417ab462440cf59767bcf72d0d91ca42f21ed"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short Altcoin Index Token (ALTBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of Altcoin Index."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x90b417ab462440cf59767bcf72d0d91ca42f21ed",
+    "url": "https://ftx.com/tokens/ALTBEAR",
+    "explorers": [
+        "https://etherscan.io/token/0x90b417ab462440cf59767bcf72d0d91ca42f21ed",
+        "https://ethplorer.io/address/0x90b417ab462440cf59767bcf72d0d91ca42f21ed"
+    ]
+}

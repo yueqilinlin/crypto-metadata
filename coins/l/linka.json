@@ -1,0 +1,22 @@
+{
+    "id": "linka",
+    "symbol": "linka",
+    "name": "LINKA",
+    "platforms": {
+        "ethereum": "0x578b49c45961f98d8df92854b53f1641af0a5036"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LINKA is a \u201cvalue linking platform\u201d that enables everyone to use cryptocurrency, credit card, and other payment methods without any restrictions both in the real world and crypto space by providing inter-usability of value through promoting value circulation."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x578b49c45961f98d8df92854b53f1641af0a5036",
+    "url": "https://www.linka.io",
+    "explorers": [
+        "https://etherscan.io/token/0x578b49c45961f98d8df92854b53f1641af0a5036",
+        "https://ethplorer.io/address/0x578b49c45961f98d8df92854b53f1641af0a5036"
+    ],
+    "telegram": "linkaofficial"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "antimatter",
+    "symbol": "matter",
+    "name": "AntiMatter",
+    "platforms": {
+        "ethereum": "0x9b99cca871be05119b2012fd4474731dd653febe",
+        "arbitrum-one": "0xaaa62d9584cbe8e4d68a43ec91bff4ff1fadb202"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Decentralized Finance (DeFi)",
+        "HECO Chain Ecosystem",
+        "Derivatives",
+        "Options",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "A simple lightweight onchain DeFi derivative protocol. Polarized token mechanism with tokenized perpetual derivatives"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9b99cca871be05119b2012fd4474731dd653febe",
+    "url": "https://antimatter.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x9B99CcA871Be05119B2012fd4474731dd653FEBe",
+        "https://ethplorer.io/address/0x9B99CcA871Be05119B2012fd4474731dd653FEBe",
+        "https://arbiscan.io/token/0xaaa62d9584cbe8e4d68a43ec91bff4ff1fadb202"
+    ],
+    "twitter": "antimatterdefi",
+    "telegram": "antimatterchat",
+    "github_org": "antimatter-finance"
+}

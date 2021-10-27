@@ -1,0 +1,27 @@
+{
+    "id": "xdef-finance",
+    "symbol": "xdef2",
+    "name": "Xdef Finance",
+    "platforms": {
+        "ethereum": "0x5166d4ce79b9bf7df477da110c560ce3045aa889"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "Synthetic Elastic Index Fund. \r\n\r\nA brand new asset class that will revolutionize how individuals invest in digital assets."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x5166d4ce79b9bf7df477da110c560ce3045aa889",
+    "url": "https://xdef.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x5166d4ce79b9bf7df477da110c560ce3045aa889",
+        "https://ethplorer.io/address/0x5166d4ce79b9bf7df477da110c560ce3045aa889"
+    ],
+    "twitter": "XdefFinance",
+    "telegram": "xdefifinance",
+    "github_org": "combinefinance"
+}

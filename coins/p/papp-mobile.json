@@ -1,0 +1,25 @@
+{
+    "id": "papp-mobile",
+    "symbol": "papp",
+    "name": "PAPP Mobile",
+    "platforms": {
+        "binance-smart-chain": "0xcd77880edea8e7d1f2be011be560b45b96ba68ad"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PAPP's bravest goal is to offer an alternative payment tool to all mobile application\r\ndevelopers and users of the world. PAPP Mobile ($PAPP) is a BEP20 token issued on the Binance Smart Chain with a fixed supply of 1 Trillion tokens in total.\r\nThe token\u2019s utility can be summarized into 2 fundamentals: earn and, burn (through token\r\nextraction). PAPP\u2019s initial token liquidity pool has been locked under team finance by Trustwap Certified Liquidity Locker, ensuring safety and security for our community of investors.\r\nTo use PAPP, you must choose PAPP as the payment method on the contracted application's websites. It was designed to be easy to use. (You can review Whitepaper for visual expression) Visit the app's website, Choose PAPP as payment option, Check the screen that opens and complete your payment with PAPP, When the transaction is successful, you will be given a unique code. Do not lose this code. Download the app, Go to the Redeem Code section of the application's settings page and enter the code given to you, When you click Continue, the purchase will be completed."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0xcd77880edea8e7d1f2be011be560b45b96ba68ad",
+    "url": "https://pappmobile.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xcd77880edea8e7d1f2be011be560b45b96ba68ad"
+    ],
+    "twitter": "PappMobile",
+    "facebook": "pappmobile",
+    "telegram": "pappmobile",
+    "reddit": "Papptoken/",
+    "github_org": "canerelmas"
+}

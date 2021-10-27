@@ -1,0 +1,27 @@
+{
+    "id": "grey-token",
+    "symbol": "grey",
+    "name": "Grey Token",
+    "platforms": {
+        "ethereum": "0x9b2d81a1ae36e8e66a0875053429816f0b6b829e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Grey Token was created to be the premier original community focused on gathering original Paranormal video evidence and placing it on the blockchain. With an aggressive roadmap in mind, we plan to be the one stop shop for all paranormal enthusiasts - starting with our NFT Marketplace dAPP and Evidence Submission Website with media player. We are actively building out the architecture for a 3d Marketplace and NFT Gallery dAPPS built on the Unity/Unreal game engine with the goal to create the premier Paranormal Metaverse - with $GREY as its native currency and utilizing community created and submitted NFTs to represent the unknown paranormal universe. We are all early."
+    },
+    "country_origin": "TH",
+    "genesis_date": null,
+    "contract_address": "0x9b2d81a1ae36e8e66a0875053429816f0b6b829e",
+    "url": "https://greytoken.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x9b2d81a1ae36e8e66a0875053429816f0b6b829e",
+        "https://ethplorer.io/address/0x9b2d81a1ae36e8e66a0875053429816f0b6b829e"
+    ],
+    "twitter": "TokenGrey",
+    "telegram": "greytokendiscussion",
+    "reddit": "Greytoken/",
+    "github_org": "GreyTokenTeam"
+}

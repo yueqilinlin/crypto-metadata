@@ -1,0 +1,27 @@
+{
+    "id": "shardus",
+    "symbol": "ult",
+    "name": "Shardus",
+    "platforms": {
+        "ethereum": "0x09617f6fd6cf8a71278ec86e23bbab29c04353a7"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "Shardus is building distributed ledger software to remedy the problems of traditional blockchains -- scalability, decentralization and efficiency. The technology being developed will use compute and state sharding to accommodate billions of daily active users, allowing for global-scale decentralized networks."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x09617f6fd6cf8a71278ec86e23bbab29c04353a7",
+    "url": "https://shardus.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x09617f6fd6cf8a71278ec86e23bbab29c04353a7",
+        "https://ethplorer.io/address/0x09617f6fd6cf8a71278ec86e23bbab29c04353a7"
+    ],
+    "twitter": "ShardusLedger",
+    "telegram": "shardus",
+    "reddit": "Shardus/",
+    "github_org": "Shardus"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "sav3",
+    "symbol": "sav3",
+    "name": "SAV3",
+    "platforms": {
+        "ethereum": "0x6e10aacb89a28d6fa0fe68790777fec7e7f01890"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "SAV3 is an experimental uncensorable platform with no CEO, no servers, and no content policy, with one objective: save the world. SAV3 is a DAO forked from Compound, all expenses and governance decisions are voted on by SAV3 holders (on chain whenever possible). 4% of all transfers are forever locked into liquidity, 4% are distributed to liquidity providers."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x6e10aacb89a28d6fa0fe68790777fec7e7f01890",
+    "url": "https://sav3.org",
+    "explorers": [
+        "https://etherscan.io/token/0x6e10aacb89a28d6fa0fe68790777fec7e7f01890",
+        "https://ethplorer.io/address/0x6e10aacb89a28d6fa0fe68790777fec7e7f01890"
+    ],
+    "twitter": "TheTimTempleton",
+    "telegram": "sav3org",
+    "github_org": "sav3org"
+}

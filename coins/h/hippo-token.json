@@ -1,0 +1,23 @@
+{
+    "id": "hippo-token",
+    "symbol": "hip",
+    "name": "Hippo Token",
+    "platforms": {
+        "binance-smart-chain": "0xe6ffa2e574a8bbeb5243d2109b6b11d4a459f88b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hippo (HIP) is a thorough decentralized community experiment initiated by the Cycan community. Our vision is to build a Decentralized Autonomous Organization\uff08DAO\uff09 driven entirely by the community.\r\n\r\nHIPPO is a lottery ticket and every day there is a chance to receive airdrops of various tokens in the Cycan ecosystem.\r\n\r\nHIPPO is the governance token of the Cycan community and step-by-step, we will strive to achieve a true DAO by pure community governance.\r\n\r\nHIPPO is a decentralized NFT market and will be burned for transaction fees.\r\n\r\nHIPPO is a token distribution platform and according to the community\u2019s preferences, suitable projects will be selected for airdrops or we can initiate an IDO in the community.\r\n\r\nAll rights of Hippo belong to the community and the future is determined by the community instead of a single person or organization, Hippo is filled with Possibilities.\r\n\r\nCycan Network is a decentralized cross-chain digital asset management platform, and will be complete infrastructures for DeFi and NFT. All the projects based on Cycan Network will be airdropped to HIPPO holders. ELP will be the first airdropped token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe6ffa2e574a8bbeb5243d2109b6b11d4a459f88b",
+    "url": "https://www.cycan.network/",
+    "explorers": [
+        "https://bscscan.com/token/0xe6ffa2e574a8bbeb5243d2109b6b11d4a459f88b"
+    ],
+    "twitter": "CycanNetwork",
+    "telegram": "CycanGlobal",
+    "github_org": "CycanTech"
+}

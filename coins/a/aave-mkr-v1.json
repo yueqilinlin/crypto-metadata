@@ -1,0 +1,29 @@
+{
+    "id": "aave-mkr-v1",
+    "symbol": "amkr",
+    "name": "Aave MKR v1",
+    "platforms": {
+        "ethereum": "0x7deb5e830be29f91e298ba5ff1356bb7f8146998"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Aave Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Aave MKR is an interest bearing token minted upon deposit and burned when redeemed. The aMKR is pegged 1:1 to the value of the underlying MKR that is deposited in Aave protocol. aMKR, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aMKR accrue interest in real time, directly in your wallet!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7deb5e830be29f91e298ba5ff1356bb7f8146998",
+    "url": "https://aave.com/atokens",
+    "explorers": [
+        "https://etherscan.io/token/0x7deB5e830be29F91E298ba5FF1356BB7f8146998",
+        "https://ethplorer.io/address/0x7deb5e830be29f91e298ba5ff1356bb7f8146998"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome",
+    "reddit": "Aave_Official/",
+    "github_org": "aave"
+}

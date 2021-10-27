@@ -1,0 +1,22 @@
+{
+    "id": "akuaku",
+    "symbol": "akuaku",
+    "name": "AkuAku",
+    "platforms": {
+        "binance-smart-chain": "0x02e5393758de06588634215afb71e7ee8b4362d0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The AKUAKU Project is similar in form to that of the TIKI Project, and other redistribution-type projects. The purpose of the token is to reward token holders by providing automatic redistributions in BUSD stablecoin. There are many similar redistribution projects currently on the market, but with AKUAKU, the goal was to develop a contract that would reward holders in stablecoin rather than in BNB.\r\n\r\nFor the redistribution, 15% tax is applied to buy transactions and 18% tax is applied to sell transactions where 10% (buys) or 12% (sells) of that tax is allocated to the redistribution pool and converted into BUSD. As transactions occur, the contract automatically manages the BUSD redistribution rewards and sends BUSD rewards to holders every hour. \r\n\r\nIn recent weeks, the Binance Smart Chain and the overarching crypto space as a whole has been hit with tons of price volatility. With that in mind, the focus of this project was to provide investors in smaller BSC projects a way to earn rewards in a stable asset to alleviate concerns related to volatile token prices."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x02e5393758de06588634215afb71e7ee8b4362d0",
+    "url": "https://www.akuaku.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x02e5393758De06588634215afB71e7EE8B4362d0"
+    ],
+    "twitter": "AkuAkuToken",
+    "telegram": "AkuAkuToken"
+}

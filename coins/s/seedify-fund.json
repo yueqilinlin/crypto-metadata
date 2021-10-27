@@ -1,0 +1,27 @@
+{
+    "id": "seedify-fund",
+    "symbol": "sfund",
+    "name": "Seedify.fund",
+    "platforms": {
+        "binance-smart-chain": "0x477bc8d23c634c154061869478bce96be6045d12"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Seedify is a Blockchain Gaming Incubator and Launchpad founded in February 2021 that aims to redefine the blockchain gaming environment by empowering lives through play-to-earn revenue models by providing the best Launchpad and Incubation platform to gaming projects and, launchings these projects to the community via the IGOs (Initial Gaming Offering)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x477bc8d23c634c154061869478bce96be6045d12",
+    "url": "https://seedify.fund/",
+    "explorers": [
+        "https://bscscan.com/token/0x477bc8d23c634c154061869478bce96be6045d12"
+    ],
+    "twitter": "seedifyfund",
+    "telegram": "seedifyfundofficial",
+    "reddit": "https://www.reddit.com"
+}

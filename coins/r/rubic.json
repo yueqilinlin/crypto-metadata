@@ -1,0 +1,31 @@
+{
+    "id": "rubic",
+    "symbol": "rbc",
+    "name": "Rubic",
+    "platforms": {
+        "ethereum": "0xa4eed63db85311e22df4473f87ccfc3dadcfa3e3",
+        "binance-smart-chain": "0x8e3bcc334657560253b83f08331d85267316e08a",
+        "polygon-pos": "0xc3cffdaf8f3fdf07da6d5e3a89b8723d5e385ff8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Rubic is a multichain DEX aggregator, with instant & cross-chain swaps for Ethereum, BSC, Polygon, Harmony, Tron & xDai, limit orders, fiat on-ramps and more! The aim of the project is to deliver a complete ONE-STOP FULL-CIRCLE decentralized trading platform. Rubic.exchange is a place where users can complete cross-chain swaps using different solutions to get the best rates from all leading trading protocols.\r\n\r\nWho created Rubic?\r\nRubic's team has been present in the crypto sphere since 2017. First their product was platform MyWish -the leading platform for Smart contracts builders for blockchains (NEO, Ethereum, TRON, EOS, RSK, and WAVES) supported by TRON, Binance, Neo, OKEX, after that It has delivered several successful projects by now and has worked with big players such as Binance, Tron, NEO, and others. Rubic's platform was launched in September 2020.\r\n\r\nWhat is the purpose of RBC?\r\nRubic platform has an ERC-20 token, \u00abRBC\u00bb, which is used as the fuel within the Platform.\r\n\r\nWhere can I learn more about Rubic (RBC)?\r\nYou can find information about Rubic and RBC here: https://rubic.finance"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa4eed63db85311e22df4473f87ccfc3dadcfa3e3",
+    "url": "https://rubic.exchange/",
+    "explorers": [
+        "https://etherscan.io/token/0xa4eed63db85311e22df4473f87ccfc3dadcfa3e3",
+        "https://ethplorer.io/address/0xa4eed63db85311e22df4473f87ccfc3dadcfa3e3",
+        "https://polygonscan.com/token/0xc3cffdaf8f3fdf07da6d5e3a89b8723d5e385ff8"
+    ],
+    "twitter": "CryptoRubic",
+    "telegram": "cryptorubic_chat",
+    "reddit": "Rubic/new",
+    "github_org": "Cryptorubic"
+}

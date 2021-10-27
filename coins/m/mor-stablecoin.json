@@ -1,0 +1,24 @@
+{
+    "id": "mor-stablecoin",
+    "symbol": "mor",
+    "name": "Mor Stablecoin",
+    "platforms": {
+        "binance-smart-chain": "0x87bade473ea0513d4aa7085484aeaa6cb6ebe7e3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MOR by Growth DeFi is a secure stablecoin that is overcollateralized by yield-bearing collaterals. It can be used by AMMs and yield farmers alike to leverage their yield farming positions in order to maximize capital efficiency."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x87bade473ea0513d4aa7085484aeaa6cb6ebe7e3",
+    "url": "https://mor.growthdefi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x87bade473ea0513d4aa7085484aeaa6cb6ebe7e3"
+    ],
+    "twitter": "GrowthDefi",
+    "telegram": "growthdefi",
+    "reddit": "Growth_DeFi/",
+    "github_org": "GrowthDeFi"
+}

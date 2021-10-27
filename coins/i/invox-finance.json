@@ -1,0 +1,26 @@
+{
+    "id": "invox-finance",
+    "symbol": "invox",
+    "name": "Invox Finance",
+    "platforms": {
+        "ethereum": "0x4485561db76614ff727f8e0a3ea95690b8b16022"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Invox Finance Platform is an invoice lending platform disrupting a US$2.8 trillion industry. Lead by a stellar team with over $30 million of invoice financing behind them, Invox Finance is creating a decentralised peer-to-peer invoice lending platform that will allow sellers, buyers, investors, and other service providers to directly connect, interact, share and distribute information.\r\n\r\nSoft Cap : reached already. "
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x4485561db76614ff727f8e0a3ea95690b8b16022",
+    "url": "https://www.invoxfinance.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4485561db76614ff727f8e0a3ea95690b8b16022",
+        "https://ethplorer.io/address/0x4485561db76614ff727f8e0a3ea95690b8b16022"
+    ],
+    "twitter": "InvoxFinance",
+    "facebook": "invoxfinance",
+    "telegram": "InvoxFinanceCommunity",
+    "reddit": "InvoxFinance",
+    "github_org": "invoxfinance"
+}

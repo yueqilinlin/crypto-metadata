@@ -1,0 +1,23 @@
+{
+    "id": "kingfund-finance",
+    "symbol": "king",
+    "name": "KingFund Finance",
+    "platforms": {
+        "binance-smart-chain": "0x51c5807dd8398aedfcc91e6483417838b41eaeb8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kingfund is a tokenized asset management and derivatives trading protocol. The concept of Kingfund was first incepted in late 2021 and was developed quickly into its current state. Inspired by tranche funds\u2019 ability to satisfy users\u2019 varying risk appetites, Kingfund aims to provide a different risk/return matrix out of a single main fund that tracks a specific underlying asset (e.g. ETH)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x51c5807dd8398aedfcc91e6483417838b41eaeb8",
+    "url": "https://www.kingfund.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x51C5807dd8398aeDFCc91E6483417838B41EAeB8"
+    ],
+    "twitter": "kingfundFi",
+    "telegram": "kingfundFi",
+    "github_org": "KingFundFinance"
+}

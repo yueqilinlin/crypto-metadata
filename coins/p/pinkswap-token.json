@@ -1,0 +1,20 @@
+{
+    "id": "pinkswap-token",
+    "symbol": "pinks",
+    "name": "PinkSwap Token",
+    "platforms": {
+        "binance-smart-chain": "0x702b3f41772e321aaccdea91e1fcef682d21125d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x702b3f41772e321aaccdea91e1fcef682d21125d",
+    "url": "https://exchange.pinkswap.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x702b3f41772e321aaccdea91e1fcef682d21125d"
+    ]
+}

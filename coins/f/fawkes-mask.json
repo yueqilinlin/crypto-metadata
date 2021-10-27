@@ -1,0 +1,23 @@
+{
+    "id": "fawkes-mask",
+    "symbol": "fmk",
+    "name": "Fawkes Mask",
+    "platforms": {
+        "binance-smart-chain": "0xc2591d74cc6a0810847add242319d4b43c8e5f09"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fawkes Mask works on an autonomous frictionless yield farming and liquidity generation protocol"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xc2591d74cc6a0810847add242319d4b43c8e5f09",
+    "url": "https://fawkesmask.com",
+    "explorers": [
+        "https://bscscan.com/token/0xc2591d74cc6a0810847add242319d4b43c8e5f09"
+    ],
+    "twitter": "FawkesMaskCoin",
+    "telegram": "FawkesMask",
+    "github_org": "fawkesmasktoken"
+}

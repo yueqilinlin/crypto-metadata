@@ -1,0 +1,22 @@
+{
+    "id": "wealth-locks",
+    "symbol": "wlt",
+    "name": "Wealth Locks",
+    "platforms": {
+        "binance-smart-chain": "0x7cf2cb3cd0a4b31a309b78526f33cedb7ced0766"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wealth is the utility token of wealth ecosystem which includes two products WealthCap and WealthLocks.\r\n\r\nWealthCap is a market data platform that aims to provide full information on existing and newly launched projects tokens  on decentralised exchanges whereby information can be easily updated by project creators/developers and accessed by the general cryptocurrency community in order to make necessary financial decisions with first hand information found on the wealthcap platform.\r\n\r\nCurrently, WealthCap provide the market data of two largest decentralised exchanges i.e., Pancakeswap on binance smart chain and Uniswap on ethereum network. Some of the features provided by wealthcap platform are trading data, charting tools, social media data, trending coins, top dex gainers, new dex listings and news.\r\n\r\nWealthcap is already having the largest list of Dex tokens in the world (40,000+ tokens) and aims to expand to all of the existing decentralised exchanges on various blockchains.\r\n\r\nThe other product wealthlocks is a dapp on binance smart chain where various projects can lock their team/liquidity tokens in an audited time locked contract."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7cf2cb3cd0a4b31a309b78526f33cedb7ced0766",
+    "url": "https://wealthlocks.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xb7b262b0ac4939d8936685e20189d809bdb5dac6"
+    ],
+    "twitter": "wealthcap_io",
+    "telegram": "wealthcap"
+}

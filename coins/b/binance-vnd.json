@@ -1,0 +1,19 @@
+{
+    "id": "binance-vnd",
+    "symbol": "bvnd",
+    "name": "Binance VND",
+    "platforms": {
+        "binancecoin": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.binance.com/en",
+    "explorers": [
+        "https://explorer.binance.org/asset/BVND-244"
+    ]
+}

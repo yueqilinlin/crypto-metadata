@@ -1,0 +1,23 @@
+{
+    "id": "pub-finance",
+    "symbol": "pint",
+    "name": "Pub Finance",
+    "platforms": {
+        "ethereum": "0xfecba472b2540c5a2d3700b2c9e06f0aa7dc6462"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PINT launched as a standard fair-launch farming coin in September 2020. Through a small unstaking tax on our upwards of $5,000,000 farming TVL, PINT raised a modest Community-Governed Warchest (CGW) which is being used to fund development of innovative and engaging products for the pub.finance ecosystem. PINT\u2019s flagship product, \u201cWhen Rug\u201d is a re-envisioning of the popular crash game, Moneypot; fleshed out and gamified with hot streaks, achievement badges, defi memes, bonuses, and more. While most crash games pay 50% of revenue to investors in the house pool and keep back 50% for the site owners, with PINT you are the \u201cowners\u201d of When Rug. User fees from the game are paid out to PINT stakers.Stake your PINT to earn a voice in the community\u2019s governance, and direct use of funds in the CGW towards PINT buybacks or additional development\u2013all the while earning revenue from When Rug and more. Own your play."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xfecba472b2540c5a2d3700b2c9e06f0aa7dc6462",
+    "url": "https://pub.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xfecba472b2540c5a2d3700b2c9e06f0aa7dc6462",
+        "https://ethplorer.io/address/0xfecba472b2540c5a2d3700b2c9e06f0aa7dc6462"
+    ],
+    "twitter": "Pub_Finance",
+    "telegram": "PubFin"
+}

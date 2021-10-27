@@ -1,0 +1,24 @@
+{
+    "id": "en-tan-mo",
+    "symbol": "etm",
+    "name": "En-Tan-Mo",
+    "platforms": {
+        "ethereum": "0x6020da0f7c1857dbe4431ec92a15cc318d933eaa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "En-Tan-Mo, the first 3.0 blockchain project to propose and implement the SHD completeness.\r\n\r\nEn-Tan-Mo is not only the underlying blockchain platform with the closest implementation of Nash Equilibrium, but also a blockchain operating system capable of supporting hundreds of millions of users. It is a next-generation internet platform opens up the ecosystem of finance, energy, commerce, and daily life."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6020da0f7c1857dbe4431ec92a15cc318d933eaa",
+    "url": "http://www.entanmo.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6020da0f7c1857dbe4431ec92a15cc318d933eaa",
+        "https://ethplorer.io/address/0x6020da0f7c1857dbe4431ec92a15cc318d933eaa"
+    ],
+    "twitter": "entanmo1",
+    "telegram": "entanmo",
+    "github_org": "entanmo"
+}

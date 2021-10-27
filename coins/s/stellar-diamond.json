@@ -1,0 +1,24 @@
+{
+    "id": "stellar-diamond",
+    "symbol": "xld",
+    "name": "Stellar Diamond",
+    "platforms": {
+        "binance-smart-chain": "0xdaf4f11947e73f0eebef4a820f4be9b854aa993b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Stellar Diamond is a BSC project with an automatic BNB rewarding process. \r\n\r\nFeatures:\r\n1. BNB rewards: Wallets with XLD tokens automatically receive BNB every hour, based on the amount of tokens they own.\r\n2. Buyback & burns: Periodically the contract buys tokens from PancakeSwap and burns them immediately.\r\n3. Fees: 16% fee is applied on every transaction"
+    },
+    "country_origin": "GR",
+    "genesis_date": null,
+    "contract_address": "0xdaf4f11947e73f0eebef4a820f4be9b854aa993b",
+    "url": "https://stellardiamond.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xDaf4F11947E73f0eeBEf4a820f4Be9B854aa993B"
+    ],
+    "twitter": "XLDStellar",
+    "facebook": "StellarDiamondXLD",
+    "telegram": "StellarXLD",
+    "github_org": "stellardiamond"
+}

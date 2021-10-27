@@ -1,0 +1,24 @@
+{
+    "id": "sun",
+    "symbol": "sun",
+    "name": "SUN",
+    "platforms": {
+        "ethereum": "0x7cc61e3ae6360e923e9296c802382ec7c9dd3652"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "SUN COIN is a non-government contro\u00adlled digital currency that allows people to send money anywh\u00adere in the world ins\u00adtantly, securely and at near zero cost. This modern age financial instrument makes an excellent storage of value th\u00adat is supported by the network protocols, infrastructure and services."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7cc61e3ae6360e923e9296c802382ec7c9dd3652",
+    "url": "https://sun-coin.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x7cc61e3ae6360e923e9296c802382ec7c9dd3652",
+        "https://ethplorer.io/address/0x7cc61e3ae6360e923e9296c802382ec7c9dd3652"
+    ],
+    "twitter": "Sun_Coin_Net"
+}

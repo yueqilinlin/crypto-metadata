@@ -1,0 +1,24 @@
+{
+    "id": "yfarmland-token",
+    "symbol": "yfarmer",
+    "name": "YFarmLand Token",
+    "platforms": {
+        "ethereum": "0x7b0f66fa5cf5cc28280c1e7051af881e06579362"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YFarmLand is an Experimental DeFi yield farming project modeled based on the different crop life cycle. DeFi farmers can join different farmlands, plant DeFi crops, and harvest YFARMER."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x7b0f66fa5cf5cc28280c1e7051af881e06579362",
+    "url": "https://yfarmland.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x7B0F66fA5cf5cc28280c1e7051af881E06579362",
+        "https://ethplorer.io/address/0x7B0F66fA5cf5cc28280c1e7051af881E06579362"
+    ],
+    "twitter": "YfarmlandF",
+    "telegram": "yieldfarmland",
+    "github_org": "YFarmLand"
+}

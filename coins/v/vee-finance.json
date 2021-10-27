@@ -1,0 +1,26 @@
+{
+    "id": "vee-finance",
+    "symbol": "vee",
+    "name": "Vee Finance",
+    "platforms": {
+        "avalanche": "0x3709e8615e02c15b096f8a9b460ccb8ca8194e86"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem"
+    ],
+    "description": {
+        "en": "Vee Finance is a DeFi lending platform for traditional financed and crypto users alike. They are committed to bridging the gap between traditional finance and DeFi and providing users with better digital asset management services. \r\n\r\nThe mission of the project is to reduce barriers for traditional users to participate in DeFi and optimize the efficiency of global asset allocation."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3709e8615e02c15b096f8a9b460ccb8ca8194e86",
+    "url": "https://vee.finance/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0x3709E8615E02C15B096f8a9B460ccb8cA8194e86/token-transfers"
+    ],
+    "twitter": "VeeFinance",
+    "telegram": "veefin",
+    "reddit": "VeeFinance/",
+    "github_org": "VeeFinance"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "ttcrypto",
+    "symbol": "ttc",
+    "name": "TTCRYPTO",
+    "platforms": {
+        "tron": "TLdfZSUTwAJXxbav6od8iYCBSaW3EveYxm"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TTCRYPTO Is a tokenized community of bloggers from all over the world. The currency is a means of payment on the first international TikTok bloggers exchange and is being prepared for integration into other IT projects in exchange for advertising"
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "TLdfZSUTwAJXxbav6od8iYCBSaW3EveYxm",
+    "url": "https://ttcrypto.app/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TLdfZSUTwAJXxbav6od8iYCBSaW3EveYxm"
+    ],
+    "twitter": "ttcrypto_info",
+    "facebook": "ttcryptoworldcommunity",
+    "telegram": "ttcrypto_world",
+    "github_org": "TTCrypto"
+}

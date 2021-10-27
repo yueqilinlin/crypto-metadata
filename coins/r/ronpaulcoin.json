@@ -1,0 +1,22 @@
+{
+    "id": "ronpaulcoin",
+    "symbol": "rpc",
+    "name": "RonPaulCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "A tribute to Dr. Ron Paul. Rare, like gold."
+    },
+    "country_origin": "US",
+    "genesis_date": "2013-12-29",
+    "url": [],
+    "explorers": [
+        "http://explorer.scrypt.ovh/ronpaulcoin/"
+    ],
+    "facebook": "ronpaulcoin",
+    "reddit": "ronpaulcoin",
+    "github_org": "ronpaulcoin"
+}

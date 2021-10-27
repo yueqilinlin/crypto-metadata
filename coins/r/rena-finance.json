@@ -1,0 +1,24 @@
+{
+    "id": "rena-finance",
+    "symbol": "rena",
+    "name": "Renascent Finance",
+    "platforms": {
+        "ethereum": "0x56de8bc61346321d4f2211e3ac3c0a7f00db9b76"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RenaSwap is a one-sided automated market maker-based decentralized token swap protocol which utilizes token wrappers, buy-only liquidity pairs, and circulating asset flows to amplify volume for all tokens integrated with RenaSwap. We call this Volume Aggregation as it gives new life to all participating projects in the form of increased volume, which attracts more liquidity, increasing incentives for Liquidity Providers. Its specialized design utilizes RENA, our deflationary ERC-20 utility token, to tap into the numerous capital flows moving through interoperating DEXs and share a percentage of those flows with ETH/RENA liquidity providers."
+    },
+    "country_origin": "PL",
+    "genesis_date": null,
+    "contract_address": "0x56de8bc61346321d4f2211e3ac3c0a7f00db9b76",
+    "url": "https://rena.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x56de8bc61346321d4f2211e3ac3c0a7f00db9b76",
+        "https://ethplorer.io/address/0x56de8bc61346321d4f2211e3ac3c0a7f00db9b76"
+    ],
+    "twitter": "rena_finance",
+    "telegram": "RenascentDefi",
+    "github_org": "Rena-Finance"
+}

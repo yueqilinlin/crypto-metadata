@@ -1,0 +1,26 @@
+{
+    "id": "stakehound-staked-ether",
+    "symbol": "steth",
+    "name": "StakeHound Staked Ether",
+    "platforms": {
+        "ethereum": "0xdfe66b14d37c77f4e9b180ceb433d1b164f0281d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Eth 2.0 Staking",
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "StakeHound stETH is a wrapped token with a 1:1 representation of the user\u2019s underlying ETH. After a user onboards their ETH, StakeHound stakes those ETH for the users and redistributes the rewards to stETH. That way, the stETH allows you to receive ETH 2.0 staking rewards without the minimum staking requirement and no lock-up period as stETH can be sold at any time, for example, on Uniswap. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdfe66b14d37c77f4e9b180ceb433d1b164f0281d",
+    "url": "https://stakehound.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xdfe66b14d37c77f4e9b180ceb433d1b164f0281d",
+        "https://ethplorer.io/address/0xdfe66b14d37c77f4e9b180ceb433d1b164f0281d"
+    ],
+    "twitter": "stakedTokens",
+    "telegram": "stakehound"
+}

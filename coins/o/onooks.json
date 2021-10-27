@@ -1,0 +1,30 @@
+{
+    "id": "onooks",
+    "symbol": "ooks",
+    "name": "Onooks",
+    "platforms": {
+        "ethereum": "0x69d9905b2e5f6f5433212b7f3c954433f23c1572"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency",
+        "Social Money",
+        "Governance"
+    ],
+    "description": {
+        "en": "Onooks advocates for building an integrated and interoperable open finance and monetary protocol matrix serving as a unified liquidity pool and back-bone infrastructure for DeFi and open finance applications.\r\n\r\nPresentation video: https://www.youtube.com/watch?v=NiWYQ1zeMJE"
+    },
+    "country_origin": "RO",
+    "genesis_date": null,
+    "contract_address": "0x69d9905b2e5f6f5433212b7f3c954433f23c1572",
+    "url": "https://www.onooks.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x69d9905b2e5f6f5433212b7f3c954433f23c1572",
+        "https://ethplorer.io/address/0x69d9905b2e5f6f5433212b7f3c954433f23c1572"
+    ],
+    "twitter": "onooksdev",
+    "facebook": "onooks",
+    "telegram": "onooks",
+    "reddit": "onooks",
+    "github_org": "onooks"
+}

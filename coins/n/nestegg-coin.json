@@ -1,0 +1,23 @@
+{
+    "id": "nestegg-coin",
+    "symbol": "egg",
+    "name": "NestEgg Coin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "We designed this coin to provide Retirement Income."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://www.nesteggcoin.com",
+    "explorers": [
+        "http://207.148.1.73:3001/"
+    ],
+    "twitter": "nestegg_coin",
+    "facebook": "nest.egg.coins",
+    "telegram": "nesteggcoins",
+    "reddit": "Nest_Egg_Coin/"
+}

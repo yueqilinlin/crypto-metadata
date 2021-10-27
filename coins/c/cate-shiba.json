@@ -1,0 +1,23 @@
+{
+    "id": "cate-shiba",
+    "symbol": "chiba",
+    "name": "Cate Shiba",
+    "platforms": {
+        "binance-smart-chain": "0x3b1442b9ab278d6a6aedf577f6dbf59f53ee3adf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3b1442b9ab278d6a6aedf577f6dbf59f53ee3adf",
+    "url": "https://www.cateshiba.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x3b1442b9ab278d6a6aedf577f6dbf59f53ee3adf"
+    ],
+    "twitter": "cateshiba",
+    "telegram": "CateShiba",
+    "github_org": "cateshiba"
+}

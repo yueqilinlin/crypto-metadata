@@ -1,0 +1,23 @@
+{
+    "id": "yee",
+    "symbol": "yee",
+    "name": "Yee",
+    "platforms": {
+        "ethereum": "0x922105fad8153f516bcfb829f56dc097a0e1d705"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yee - a blockchain-powered & cloud-based social ecosystem. This ecosystem includes YeeChain supporting instant money transfer and high efficient blockchain-based storage, YeeNet supporting cloud base communication, YeeCall app with 3000 registered users, YeeWallet and YeeStore which is a DApp and content management platform."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-01-11",
+    "contract_address": "0x922105fad8153f516bcfb829f56dc097a0e1d705",
+    "url": "https://yeeco.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x922105fad8153f516bcfb829f56dc097a0e1d705",
+        "https://ethplorer.io/address/0x922105fad8153f516bcfb829f56dc097a0e1d705"
+    ],
+    "twitter": "YeeToken",
+    "facebook": "YeeToken"
+}

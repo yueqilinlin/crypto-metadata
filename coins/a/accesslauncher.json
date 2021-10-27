@@ -1,0 +1,23 @@
+{
+    "id": "accesslauncher",
+    "symbol": "acx",
+    "name": "AccessLauncher",
+    "platforms": {
+        "binance-smart-chain": "0x8b292baabf70b745c791c69e0d91d2265290e53f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AccessLauncher is created fully decentralised: Ready made available for entities, startups, organisations to create and launch their projects, cross-chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8b292baabf70b745c791c69e0d91d2265290e53f",
+    "url": "https://accesslauncher.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x8B292BAaBf70b745C791C69E0D91D2265290e53f"
+    ],
+    "twitter": "accesslauncher",
+    "telegram": "acx_community",
+    "github_org": "accesslauncher"
+}

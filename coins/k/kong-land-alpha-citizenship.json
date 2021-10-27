@@ -1,0 +1,23 @@
+{
+    "id": "kong-land-alpha-citizenship",
+    "symbol": "citizen",
+    "name": "KONG Land Alpha Citizenship",
+    "platforms": {
+        "ethereum": "0x77f0cc420dea0ae726db6bef1460a4b69176a8ea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KONG Land Alpha $CITIZEN gives the holder the ability to redeem a physical KONG Land Passport and KONG Land Alpha NFT DID token. $CITIZENs can also access exclusive an digital community on Discord.\r\n\r\nThe KONG Alpha Passport includes SiLo technology that can attest to the authenticity of the Passport as well as enable the holder to verify themselves cryptographically in the physical world. SiLo's are the same technology used in KONG Cash, the first instance of cryptocash.\r\n\r\nThis Alpha edition of $CITIZEN incorporates small amounts of meteorite dust in the manufacture of the KONG Passport so each holder can participate in the launch of both the digital and physical KONG crypto state."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x77f0cc420dea0ae726db6bef1460a4b69176a8ea",
+    "url": "https://kong.land/",
+    "explorers": [
+        "https://etherscan.io/token/0x77f0cc420dea0ae726db6bef1460a4b69176a8ea",
+        "https://ethplorer.io/address/0x77f0cc420dea0ae726db6bef1460a4b69176a8ea"
+    ],
+    "twitter": "kongiscash",
+    "github_org": "kong-org"
+}

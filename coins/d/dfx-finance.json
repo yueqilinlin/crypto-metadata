@@ -1,0 +1,25 @@
+{
+    "id": "dfx-finance",
+    "symbol": "dfx",
+    "name": "DFX Finance",
+    "platforms": {
+        "ethereum": "0x888888435fde8e7d4c54cab67f206e4199454c60"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Decentralized foreign exchange protocol optimized for stablecoins."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x888888435fde8e7d4c54cab67f206e4199454c60",
+    "url": "https://dfx.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x888888435fde8e7d4c54cab67f206e4199454c60",
+        "https://ethplorer.io/address/0x888888435fde8e7d4c54cab67f206e4199454c60"
+    ],
+    "twitter": "DFXFinance"
+}

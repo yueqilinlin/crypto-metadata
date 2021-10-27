@@ -1,0 +1,26 @@
+{
+    "id": "aquachain",
+    "symbol": "aqua",
+    "name": "Aquachain",
+    "platforms": {},
+    "hashing_algorithm": "Argon2d",
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Programmable Money: Alternative EVM chain supporting smart contracts"
+    },
+    "country_origin": "US",
+    "genesis_date": "2018-03-03",
+    "url": "https://aquachain.github.io/",
+    "explorers": [
+        "https://aquachain.github.io/explorer/",
+        "https://explorer.aqua.signal2noi.se/home",
+        "https://blockscout.aqua.signal2noi.se/",
+        "https://explorer.info.aquacha.in"
+    ],
+    "twitter": "aquacrypto",
+    "telegram": "Aquachain",
+    "reddit": "Aquachain/",
+    "github_org": "aquachain"
+}

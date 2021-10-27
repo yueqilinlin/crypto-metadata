@@ -1,0 +1,23 @@
+{
+    "id": "aave-amm-dai",
+    "symbol": "aAmmDAI",
+    "name": "Aave AMM DAI",
+    "platforms": {
+        "ethereum": "0x79be75ffc64dd58e66787e4eae470c8a1fd08ba4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x79be75ffc64dd58e66787e4eae470c8a1fd08ba4",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x79bE75FFC64DD58e66787E4Eae470c8a1FD08ba4",
+        "https://ethplorer.io/address/0x79be75ffc64dd58e66787e4eae470c8a1fd08ba4"
+    ]
+}

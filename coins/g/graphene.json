@@ -1,0 +1,22 @@
+{
+    "id": "graphene",
+    "symbol": "gfn",
+    "name": "Graphene",
+    "platforms": {
+        "binance-smart-chain": "0xf209ce1960fb7e750ff30ba7794ea11c6acdc1f3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Graphene is a revolutionary Blockchain architecture that makes use of sharding technology and the CASPER consensus protocol. The architecture has been developed using the modern programming language \u2018Go\u2019."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf209ce1960fb7e750ff30ba7794ea11c6acdc1f3",
+    "url": "https://getgraphene.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xf209ce1960fb7e750ff30ba7794ea11c6acdc1f3"
+    ],
+    "twitter": "getgraphene",
+    "telegram": "GetGraphene"
+}

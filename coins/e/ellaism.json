@@ -1,0 +1,25 @@
+{
+    "id": "ellaism",
+    "symbol": "ella",
+    "name": "Ellaism",
+    "platforms": {},
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Ethereum-like network with WASM and EVM"
+    },
+    "country_origin": "",
+    "genesis_date": "2017-09-11",
+    "url": "https://ellaism.io/",
+    "explorers": [
+        "https://explorer.ellaism.io/",
+        "https://limax-explorer.outdoordevs.com/home"
+    ],
+    "twitter": "ellacommunity",
+    "facebook": "ellaismproject",
+    "telegram": "ellaismcoin",
+    "reddit": "Ellaism",
+    "github_org": "ellaismproject"
+}

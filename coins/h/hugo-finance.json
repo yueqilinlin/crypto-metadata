@@ -1,0 +1,23 @@
+{
+    "id": "hugo-finance",
+    "symbol": "hugo",
+    "name": "Hugo Finance",
+    "platforms": {
+        "binance-smart-chain": "0xce195c777e1ce96c30ebec54c91d20417a068706"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hugo is a community driven project where the token will be a governance for the upcoming platform. Hugo holders will be auto-staking once they hold because of the distribution mechanism. At every transaction a 2% fee is charged, 1% is burned and 1% is distributed to all Hugo holders. This means that the token is deflationary. The main features and platforms for Hugo will be the DAO platform (for voting), NFT platform and a crypto index fund composed by the community."
+    },
+    "country_origin": "BE",
+    "genesis_date": null,
+    "contract_address": "0xce195c777e1ce96c30ebec54c91d20417a068706",
+    "url": "https://www.hugo.game/",
+    "explorers": [
+        "https://bscscan.com/token/0xce195c777e1ce96c30ebec54c91d20417a068706"
+    ],
+    "twitter": "hugo_finance",
+    "telegram": "hugofinance",
+    "github_org": "hugofinance"
+}

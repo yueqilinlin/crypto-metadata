@@ -1,0 +1,24 @@
+{
+    "id": "defi-omega",
+    "symbol": "dfio",
+    "name": "DeFi Omega",
+    "platforms": {
+        "ethereum": "0xee3b9b531f4c564c70e14b7b3bb7d516f33513ff"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Social Money"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xee3b9b531f4c564c70e14b7b3bb7d516f33513ff",
+    "url": "https://defiomega.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xee3b9b531f4c564c70e14b7b3bb7d516f33513ff",
+        "https://ethplorer.io/address/0xee3b9b531f4c564c70e14b7b3bb7d516f33513ff"
+    ],
+    "twitter": "DefiOmega"
+}

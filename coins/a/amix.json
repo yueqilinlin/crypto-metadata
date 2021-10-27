@@ -1,0 +1,25 @@
+{
+    "id": "amix",
+    "symbol": "amix",
+    "name": "AMIX",
+    "platforms": {
+        "ethereum": "0x564393b8d6deaea8f3d739a3f6d9b441d8ee6198"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Artificial Intelligence"
+    ],
+    "description": {
+        "en": "AMIX  is infrastructure token for amino network --5G ready edge computing network "
+    },
+    "country_origin": "NZ",
+    "genesis_date": null,
+    "contract_address": "0x564393b8d6deaea8f3d739a3f6d9b441d8ee6198",
+    "url": "http://amino.world/",
+    "explorers": [
+        "https://etherscan.io/token/0x564393b8d6deaea8f3d739a3f6d9b441d8ee6198",
+        "https://ethplorer.io/address/0x564393b8d6deaea8f3d739a3f6d9b441d8ee6198"
+    ],
+    "twitter": "amino_network",
+    "telegram": "amino_official"
+}

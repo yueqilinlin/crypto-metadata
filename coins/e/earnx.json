@@ -1,0 +1,24 @@
+{
+    "id": "earnx",
+    "symbol": "earnx",
+    "name": "EarnX",
+    "platforms": {
+        "binance-smart-chain": "0x9c28e48ea9170d9a9cb76d338655b8bd4124bc7a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Built on the BSC network, EarnX is a deflationary frictionless token. We are among the first to merge NFT and DeFi. Built under the supervision of experienced developers, EarnX is deflationary and based on the following principles: scarcity, stability, and utility."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9c28e48ea9170d9a9cb76d338655b8bd4124bc7a",
+    "url": "https://earnx.yearnclassic.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x9c28e48ea9170d9a9cb76d338655b8bd4124bc7a"
+    ],
+    "twitter": "earn_finance",
+    "telegram": "YearnX",
+    "reddit": "EarnX/",
+    "github_org": "YearnClassic"
+}

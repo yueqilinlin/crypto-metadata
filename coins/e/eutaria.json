@@ -1,0 +1,24 @@
+{
+    "id": "eutaria",
+    "symbol": "eut",
+    "name": "Eutaria",
+    "platforms": {
+        "binance-smart-chain": "0x4b64a839f0b8b684ff83b3ee3670b3c2300838f6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Eutaria is an off-chain and play-to-earn crypto currency. The project is deployed in the Binance Smart Chain (BSC) network and requires players to hold Eutaria token to unlock play-to-earn features.\r\n\r\nOur goal is to provide players sustainable rewards and play-to-earn without gas fees. The earnings of the players will be in-game currency and fixed value equivalent to USD.\r\nThe earnings can be claimed and automatically converted to BNB. We are using a scalable cloud server for off-chain transactions that is highly secure and has an automatic backup."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4b64a839f0b8b684ff83b3ee3670b3c2300838f6",
+    "url": "https://eutaria.com",
+    "explorers": [
+        "https://bscscan.com/token/0x4b64a839f0b8b684ff83b3ee3670b3c2300838f6"
+    ],
+    "twitter": "eutarian",
+    "telegram": "EutariaOfficial",
+    "reddit": "Eutarian/",
+    "github_org": "Eutaria"
+}

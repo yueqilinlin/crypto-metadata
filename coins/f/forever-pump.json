@@ -1,0 +1,24 @@
+{
+    "id": "forever-pump",
+    "symbol": "ForeverPump",
+    "name": "Forever Pump",
+    "platforms": {
+        "binance-smart-chain": "0xb82e7a40fba04cfe053ff2db6ebf4f2fb39f4c6a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "A rebase token with NFT Utility and Marketplace, it's a project where the coin's total token supply is not fixed but keeps changing, but instead, it's manually adjusted by the team whenever it's required in order to grow the project & create a FOMO effect for the new investors to make project pumping forever! We also have a buyback functionality to keep pushing the project up!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb82e7a40fba04cfe053ff2db6ebf4f2fb39f4c6a",
+    "url": "https://foreverpump.co.in/",
+    "explorers": [
+        "https://bscscan.com/token/0xb82e7a40fba04cfe053ff2db6ebf4f2fb39f4c6a"
+    ],
+    "twitter": "ForeverPumpCoin",
+    "telegram": "foreverpumpofficial"
+}

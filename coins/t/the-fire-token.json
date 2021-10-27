@@ -1,0 +1,22 @@
+{
+    "id": "the-fire-token",
+    "symbol": "xfr",
+    "name": "The Fire Token",
+    "platforms": {
+        "binance-smart-chain": "0x11c3f759c0aae61078ec923af15f2f6fa2d326ce"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XFR is the most deflationary asset in the world, 90% of it burns every year."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x11c3f759c0aae61078ec923af15f2f6fa2d326ce",
+    "url": "https://www.thefiretoken.com/",
+    "explorers": [
+        " https://bscscan.com/token/0x11C3f759c0AAE61078ec923Af15F2f6FA2D326CE"
+    ],
+    "twitter": "TheFireToken",
+    "facebook": "TheFireToken"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "scootercoin",
+    "symbol": "scoot",
+    "name": "ScooterCoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "ScooterCoin is a spinoff from the recently released documentary \"The Fakefluencer\". The coin was previously known as KIBICoin and has been rebranded to ScooterCoin."
+    },
+    "country_origin": "SE",
+    "genesis_date": null,
+    "url": "https://scootercoin.org/",
+    "explorers": [
+        "http://explorer.scootercoin.org:8081/"
+    ],
+    "twitter": "RealScooterCoin",
+    "facebook": "RealScooterCoin",
+    "github_org": "ScooterCoinWallet"
+}

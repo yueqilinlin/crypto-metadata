@@ -1,0 +1,22 @@
+{
+    "id": "binanomics",
+    "symbol": "bnm",
+    "name": "Binanomics",
+    "platforms": {
+        "binance-smart-chain": "0xf39d0166963c323d4bb0b74169666504df84f5cb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf39d0166963c323d4bb0b74169666504df84f5cb",
+    "url": "https://binanomics.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xf39d0166963c323d4bb0b74169666504df84f5cb"
+    ],
+    "twitter": "Binanomic",
+    "telegram": "BinanomicsChat"
+}

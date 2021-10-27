@@ -1,0 +1,23 @@
+{
+    "id": "huskyshiba",
+    "symbol": "hshiba",
+    "name": "HuskyShiba",
+    "platforms": {
+        "binance-smart-chain": "0xd914bde476b6e44b7a1579b21f0f9193ea55f852"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xd914bde476b6e44b7a1579b21f0f9193ea55f852",
+    "url": "https://huskyshiba.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xd914bde476b6e44b7a1579b21f0f9193ea55f852"
+    ],
+    "twitter": "husky_shiba",
+    "telegram": "huskyshibatoken",
+    "github_org": "HuskyShibaToken"
+}

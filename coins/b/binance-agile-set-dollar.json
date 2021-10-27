@@ -1,0 +1,23 @@
+{
+    "id": "binance-agile-set-dollar",
+    "symbol": "basd",
+    "name": "Binance Agile Set Dollar",
+    "platforms": {
+        "binance-smart-chain": "0xb913aa79a0365bc4d30c217ae2916e6e2c44c882"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BASD is as an algorithmic stable coin pegged to BUSD. It\u2019s creation was inspired by the Empty Set Squad and utilizes the metrics from Dynamic Set Dollar with some alterations to the epoch length, coupon expiry and epoch advance rewards.\r\n\r\nThe project is designed to be an agile reserve for the growing BSC DeFi ecosystem and a decentralized alternative to BUSD."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xb913aa79a0365bc4d30c217ae2916e6e2c44c882",
+    "url": "https://basd.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xb913aa79a0365bc4d30c217ae2916e6e2c44c882"
+    ],
+    "twitter": "AgileSetDollar",
+    "telegram": "basdollar",
+    "github_org": "basdollar"
+}

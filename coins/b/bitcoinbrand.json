@@ -1,0 +1,24 @@
+{
+    "id": "bitcoinbrand",
+    "symbol": "btcb",
+    "name": "BitcoinBrand",
+    "platforms": {
+        "ethereum": "0xf2cee90309418353a57717eca26c4f8754f0d84e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bitcoin Brand defines a novel ecosystem of value by combining the strengths of the blockchain technology.We have a global patent pending on a technology that allows instant cryptocurrency payments. Instant payments will initially be in BTCB but our patent also covers Bitcoin and other cryptocurrencies.\r\n\r\nBTCB is not currently regulated within England and Wales as an investment product. This means that it does not benefit from protections such as the Financial Services Compensation Scheme or the Financial Ombudsman Service."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf2cee90309418353a57717eca26c4f8754f0d84e",
+    "url": "http://thebitcoinbrand.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xf2cee90309418353a57717ECa26C4f8754F0d84e",
+        "https://ethplorer.io/search/0xf2cee90309418353a57717eca26c4f8754f0d84e",
+        "https://ethplorer.io/address/0xf2cee90309418353a57717eca26c4f8754f0d84e"
+    ],
+    "twitter": "bitcoin_brand",
+    "telegram": "bitcoinbrandofficial"
+}

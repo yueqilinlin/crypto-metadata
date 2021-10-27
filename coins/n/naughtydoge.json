@@ -1,0 +1,22 @@
+{
+    "id": "naughtydoge",
+    "symbol": "ndoge",
+    "name": "NaughtyDoge",
+    "platforms": {
+        "binance-smart-chain": "0x76ce1a2f27b355ce22a86add2108ea8fae94d527"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x76ce1a2f27b355ce22a86add2108ea8fae94d527",
+    "url": "https://naughtydoge.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x76ce1a2f27b355ce22a86add2108ea8fae94d527"
+    ],
+    "twitter": "naughty_studios",
+    "telegram": "NaughtyDogeStudios"
+}

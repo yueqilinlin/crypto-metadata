@@ -1,0 +1,22 @@
+{
+    "id": "niobio-cash",
+    "symbol": "nbr",
+    "name": "Niobio",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "url": "https://niobiocash.org/en/",
+    "explorers": [
+        "http://nbrexplorer.niobiocash.nl/"
+    ],
+    "twitter": "niobio_cash",
+    "facebook": "niobio.cash",
+    "github_org": "niobio-cash"
+}

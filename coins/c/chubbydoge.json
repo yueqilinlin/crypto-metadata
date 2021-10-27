@@ -1,0 +1,22 @@
+{
+    "id": "chubbydoge",
+    "symbol": "cdoge",
+    "name": "ChubbyDoge",
+    "platforms": {
+        "binance-smart-chain": "0x3699d20715c750aba5a108baca5c555347da034f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CHUBBYDOGE implement dividend system. CDOGE implement 16% buy tax. 8% goes to BNB dividend for holders, 4% Liquidity fund, and 4% Marketing Fund. CDOGE put an extra tax of 6% for sales transactions which will also goes to dividend, making the total of sell tax 22%. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3699d20715c750aba5a108baca5c555347da034f",
+    "url": "https://www.chubbydogetoken.com/ ",
+    "explorers": [
+        "https://bscscan.com/token/0x3699D20715C750aBa5a108bACA5c555347da034f"
+    ],
+    "twitter": "ChubbydogeToken",
+    "telegram": "Chubby_Doge"
+}

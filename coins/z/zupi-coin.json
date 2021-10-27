@@ -1,0 +1,21 @@
+{
+    "id": "zupi-coin",
+    "symbol": "zupi",
+    "name": "Zupi Coin",
+    "platforms": {
+        "tron": "TBnY2jGuuYYF4j7kp1otQizqF5wbEhFKxA"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "UPI is a currency option for blockchain-backed products & services geared towards mainstream consumers. We want to elevate everyday experiences \u2013 fan engagement in entertainment, alternative payment solutions for conventional products, and more.\r\n\r\nZUPI provides sports & entertainment entities with blockchain-based tools to help them engage & monetize their audiences."
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "TBnY2jGuuYYF4j7kp1otQizqF5wbEhFKxA",
+    "url": "https://zupicoin.com/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TBnY2jGuuYYF4j7kp1otQizqF5wbEhFKxA"
+    ],
+    "telegram": "zupicoin"
+}

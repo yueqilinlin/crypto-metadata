@@ -1,0 +1,25 @@
+{
+    "id": "unicly-artblocks-collection",
+    "symbol": "uartb",
+    "name": "Unicly ArtBlocks Collection",
+    "platforms": {
+        "ethereum": "0xf824402747e5142d04892fdc27c73e6460e80080"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "uTokens",
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf824402747e5142d04892fdc27c73e6460e80080",
+    "url": "https://www.app.unic.ly/#/utoken-contract/0xf824402747e5142d04892fdc27c73e6460e80080",
+    "explorers": [
+        "https://etherscan.io/token/0xf824402747e5142d04892fdc27c73e6460e80080",
+        "https://ethplorer.io/address/0xf824402747e5142d04892fdc27c73e6460e80080"
+    ]
+}

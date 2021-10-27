@@ -1,0 +1,24 @@
+{
+    "id": "baepay",
+    "symbol": "baepay",
+    "name": "BAEPAY",
+    "platforms": {
+        "ethereum": "0x6bffa07a1b0cebc474ce6833eaf2be6326252449"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Social Money"
+    ],
+    "description": {
+        "en": "BAEPAY is a rewards and governance token, which can be used as a payment option on the Mybae platfrom"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x6bffa07a1b0cebc474ce6833eaf2be6326252449",
+    "url": "https://mybae.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x6bffa07a1b0cebc474ce6833eaf2be6326252449",
+        "https://ethplorer.io/address/0x6bffa07a1b0cebc474ce6833eaf2be6326252449"
+    ],
+    "telegram": "baeart"
+}

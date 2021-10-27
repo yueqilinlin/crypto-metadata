@@ -1,0 +1,26 @@
+{
+    "id": "compounder",
+    "symbol": "cp3r",
+    "name": "Compounder",
+    "platforms": {
+        "ethereum": "0x7ef1081ecc8b5b5b130656a41d4ce4f89dbbcc8c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "Compounder automates farming for you into the best profit-making protocols available in DeFi. Giving you convenience of the strategies in one place, save on accumulative gas fees and keeping you ahead of the curve."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7ef1081ecc8b5b5b130656a41d4ce4f89dbbcc8c",
+    "url": "https://compounder.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x7ef1081ecc8b5b5b130656a41d4ce4f89dbbcc8c",
+        "https://ethplorer.io/address/0x7ef1081ecc8b5b5b130656a41d4ce4f89dbbcc8c"
+    ],
+    "twitter": "gocompounder",
+    "telegram": "gocompounder",
+    "github_org": "CP3R-Finance"
+}

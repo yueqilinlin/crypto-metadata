@@ -1,0 +1,22 @@
+{
+    "id": "matador-token",
+    "symbol": "mtdr",
+    "name": "Matador Token",
+    "platforms": {
+        "binance-smart-chain": "0x994517e000aa3f117e7ad61b0e2336c76b4fd94a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Matador is a rugproof community-owned token built on the Binance Smart Chain that rewards holders with a distribution of 20% from every transaction made.\r\n\r\nDistributions are spread proportionally amongst all holders. The more tokens you have the more % of the distribution you receive.."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x994517e000aa3f117e7ad61b0e2336c76b4fd94a",
+    "url": "https://www.matadortoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x994517e000aa3F117E7Ad61B0e2336C76B4Fd94a"
+    ],
+    "twitter": "MatadorToken",
+    "telegram": "matadortokenbsc"
+}

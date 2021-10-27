@@ -1,0 +1,20 @@
+{
+    "id": "etherlite-2",
+    "symbol": "etl",
+    "name": "EtherLite",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "EtherLite is a blockchain platform built for efficiency; it provides a fast, secure and cheaper environment for building decentralized applications. It is fully compatible with Ethereum's tooling and Web3 technology stack and it runs on a PoS consensus algorithm."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "url": "https://etherlite.org/",
+    "explorers": [
+        "https://explorer.etherlite.org"
+    ],
+    "twitter": "EtherliteOrg",
+    "telegram": "EtherLiteOfficial",
+    "github_org": "etherlite-org"
+}

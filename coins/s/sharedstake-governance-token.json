@@ -1,0 +1,24 @@
+{
+    "id": "sharedstake-governance-token",
+    "symbol": "sgtv2",
+    "name": "SharedStake Governance Token v2",
+    "platforms": {
+        "ethereum": "0x24c19f7101c1731b85f1127eaa0407732e36ecdd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SharedStake is a decentralized Ethereum 2 staking solution that allows users to stake any amount of Ether and earn additional yield on top of their ETH2 rewards."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x24c19f7101c1731b85f1127eaa0407732e36ecdd",
+    "url": "https://www.sharedstake.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x24C19F7101c1731b85F1127EaA0407732E36EcDD",
+        "https://ethplorer.io/address/0x24C19F7101c1731b85F1127EaA0407732E36EcDD"
+    ],
+    "twitter": "SharedStake",
+    "reddit": "SharedStake/",
+    "github_org": "SharedStake"
+}

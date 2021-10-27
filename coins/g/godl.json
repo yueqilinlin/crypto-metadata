@@ -1,0 +1,25 @@
+{
+    "id": "godl",
+    "symbol": "$godl",
+    "name": "GODL",
+    "platforms": {
+        "ethereum": "0x7f509465c38b66bdecec2cfdc842e11809cc8357"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7f509465c38b66bdecec2cfdc842e11809cc8357",
+    "url": "https://godl.app/",
+    "explorers": [
+        "https://etherscan.io/token/0x7f509465c38b66bdecec2cfdc842e11809cc8357",
+        "https://ethplorer.io/address/0x7f509465c38b66bdecec2cfdc842e11809cc8357"
+    ],
+    "twitter": "GodlCoinETH",
+    "telegram": "GodlCoin",
+    "reddit": "GODLcoinETH/",
+    "github_org": "godlcoin"
+}

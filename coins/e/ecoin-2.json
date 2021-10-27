@@ -1,0 +1,22 @@
+{
+    "id": "ecoin-2",
+    "symbol": "ecoin",
+    "name": "Ecoin",
+    "platforms": {
+        "telos": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://ecoinofficial.org/",
+    "explorers": [
+        "https://telos.bloks.io/tokens/ECOIN-telos-ecoin1nation"
+    ],
+    "twitter": "ecoinofficial",
+    "facebook": "ecoinofficial",
+    "telegram": "ecoinofficial"
+}

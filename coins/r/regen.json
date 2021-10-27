@@ -1,0 +1,25 @@
+{
+    "id": "regen",
+    "symbol": "regen",
+    "name": "Regen",
+    "platforms": {
+        "osmosis": "IBC/1DCC8A6CB5689018431323953344A9F6CC4D0BFB261E88C9F7777372C10CD076"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem"
+    ],
+    "description": {
+        "en": "REGEN coin is the token for the Regen Network Platform"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "IBC/1DCC8A6CB5689018431323953344A9F6CC4D0BFB261E88C9F7777372C10CD076",
+    "url": "https://www.regen.network/",
+    "explorers": [
+        "https://regen.aneka.io/"
+    ],
+    "twitter": "regen_network",
+    "telegram": "regennetworkdevannounce",
+    "github_org": "regen-network"
+}

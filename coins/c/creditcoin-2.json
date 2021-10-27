@@ -1,0 +1,26 @@
+{
+    "id": "creditcoin-2",
+    "symbol": "ctc",
+    "name": "Creditcoin",
+    "platforms": {
+        "ethereum": "0xa3ee21c306a700e682abcdfe9baa6a08f3820419"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A sound currency must be lendable. Our goal is to connect blockchain assets with a straightforward protocol, to create an inter-blockchain lending market, bringing the crypto ecosystem closer to a sound currency. Creditcoin connects many blockchains to create a secure, transparent cryptocurrency lending market, that allows fundraisers and lenders to connect directly with one another."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa3ee21c306a700e682abcdfe9baa6a08f3820419",
+    "url": "https://creditcoin.org/",
+    "explorers": [
+        "https://www.creditcoinexplorer.com/",
+        "https://etherscan.io/token/0xa3ee21c306a700e682abcdfe9baa6a08f3820419",
+        "https://ethplorer.io/address/0xa3ee21c306a700e682abcdfe9baa6a08f3820419"
+    ],
+    "twitter": "crecfoundation",
+    "facebook": "gluwa",
+    "telegram": "CreditcoinOfficial",
+    "github_org": "gluwa"
+}

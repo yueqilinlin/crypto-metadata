@@ -1,0 +1,26 @@
+{
+    "id": "s-finance",
+    "symbol": "sfg",
+    "name": "S.Finance",
+    "platforms": {
+        "ethereum": "0x8a6aca71a218301c7081d4e96d64292d3b275ce0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Governance"
+    ],
+    "description": {
+        "en": "Fork of Curve, S.Finance is the first project to offer tri rewards from staking the LP token. Rewards given are CRV, SNX and SFG."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0x8a6aca71a218301c7081d4e96d64292d3b275ce0",
+    "url": "https://s.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x8a6ACA71A218301c7081d4e96D64292D3B275ce0",
+        "https://ethplorer.io/address/0x8a6aca71a218301c7081d4e96d64292d3b275ce0"
+    ],
+    "twitter": "SFinanceEx",
+    "telegram": "SFinanceEN",
+    "github_org": "s-finance-org"
+}

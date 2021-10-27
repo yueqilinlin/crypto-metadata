@@ -1,0 +1,27 @@
+{
+    "id": "bta-protocol",
+    "symbol": "btap",
+    "name": "BTA Protocol",
+    "platforms": {
+        "ethereum": "0x270371c58d9d775ed73971dd414656107384f235"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Collectibles",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "BTA Protocol is a knowledge economy unlocking blockchain education and opportunities of decentralized finance while contributing to charities. \r\n\r\nWith every transaction of BTAP token, there is a tax of 1% of the amount being sent.\r\n\r\n0.5% goes to all token holders.\r\n0.25 % will be burned and be taken out of circulation until 50\r\nmillion token supply at which point 0.25% will be bolted on to the 0.5%\r\ngoing to token holders.\r\n0.25 % will go to the Beacon wallet, which is our charity wallet with an initial base value of 10 million tokens."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x270371c58d9d775ed73971dd414656107384f235",
+    "url": "https://btaprotocol.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x270371c58d9d775ed73971dd414656107384f235",
+        "https://ethplorer.io/address/0x270371c58d9d775ed73971dd414656107384f235"
+    ],
+    "twitter": "btaprotocol",
+    "telegram": "btaprotocol",
+    "github_org": "cryptovator"
+}

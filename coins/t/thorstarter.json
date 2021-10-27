@@ -1,0 +1,24 @@
+{
+    "id": "thorstarter",
+    "symbol": "xrune",
+    "name": "Thorstarter",
+    "platforms": {
+        "ethereum": "0x69fa0fee221ad11012bab0fdb45d444d3d2ce71c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x69fa0fee221ad11012bab0fdb45d444d3d2ce71c",
+    "url": "https://www.thorstarter.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x69fa0fee221ad11012bab0fdb45d444d3d2ce71c",
+        "https://ethplorer.io/address/0x69fa0fee221ad11012bab0fdb45d444d3d2ce71c"
+    ],
+    "twitter": "thorstarter",
+    "telegram": "thorstarter",
+    "github_org": "Thorstarter"
+}

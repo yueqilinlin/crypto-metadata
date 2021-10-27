@@ -1,0 +1,24 @@
+{
+    "id": "tadpole-finance",
+    "symbol": "tad",
+    "name": "Tadpole",
+    "platforms": {
+        "ethereum": "0x9f7229af0c4b9740e207ea283b9094983f78ba04"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tadpole Finance is an open source platform providing decentralized finance services for saving and lending. Tadpole Finance is an experimental project to create a more open lending markets, where users can make deposits and loans with any ERC20 tokens on the Ethereum network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9f7229af0c4b9740e207ea283b9094983f78ba04",
+    "url": "https://tadpole.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x9f7229af0c4b9740e207ea283b9094983f78ba04",
+        "https://ethplorer.io/address/0x9f7229af0c4b9740e207ea283b9094983f78ba04"
+    ],
+    "twitter": "TadpoleFinance",
+    "telegram": "TadpoleFinance",
+    "github_org": "Tadpole-finance"
+}

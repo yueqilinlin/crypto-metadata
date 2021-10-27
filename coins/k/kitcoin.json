@@ -1,0 +1,21 @@
+{
+    "id": "kitcoin",
+    "symbol": "ktc",
+    "name": "Kitcoin",
+    "platforms": {
+        "ethereum": "0x9827f6e8df0ccc584ff7b37144de8bac7c446385"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kitcoin, a cryptocurrency based on its own newly developed next generation blockchain, serves as payment solution of the future. It\u2019s superior blockchain technology, driven by a newly-developed consensus mechanism, enables it to scale to millions of transactions per second. This makes Kitcoin the preferred choice for merchant adoption and consumer "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9827f6e8df0ccc584ff7b37144de8bac7c446385",
+    "url": "http://www.kitcoin.info/",
+    "explorers": [
+        "https://etherscan.io/token/0x9827f6e8df0ccc584ff7b37144de8bac7c446385",
+        "https://ethplorer.io/address/0x9827f6e8df0ccc584ff7b37144de8bac7c446385"
+    ]
+}

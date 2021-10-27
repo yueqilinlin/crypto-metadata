@@ -1,0 +1,25 @@
+{
+    "id": "bithachi",
+    "symbol": "bith",
+    "name": "Bithachi",
+    "platforms": {
+        "ethereum": "0x8811e4dd5ec5eb8764b97cc814b1339089717ada"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Bithachi is a centralized cryptocurrency designed for the world, based on smart contracts, financial transactions and an integrated and functional interface."
+    },
+    "country_origin": "PE",
+    "genesis_date": null,
+    "contract_address": "0x8811e4dd5ec5eb8764b97cc814b1339089717ada",
+    "url": "https://bithachi.club/",
+    "explorers": [
+        "https://etherscan.io/token/0x8811e4dd5ec5eb8764b97cc814b1339089717ada",
+        "https://ethplorer.io/address/0x8811e4dd5ec5eb8764b97cc814b1339089717ada"
+    ],
+    "twitter": "bithachi",
+    "facebook": "Bithachi-107123797721043"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "stratos",
+    "symbol": "stos",
+    "name": "Stratos",
+    "platforms": {
+        "ethereum": "0x08c32b0726c5684024ea6e141c50ade9690bbdcc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment",
+        "Infrastructure",
+        "Storage"
+    ],
+    "description": {
+        "en": "Stratos is the next generation of decentralized Data Mesh that provides scalable, reliable, self-balanced storage, database, and computation network. Stratos is born for scaling blockchain process capacity while retaining the decentralized benefits of a distributed protocol including trustless, traceability, verifiability, privacy and etc.\r\n\r\nStratos is best positioned to support data storage and adoption for developers and users in this ever-expanding digital economy. Stratos strives to make decentralized data adoption easier for the blockchain industry and Web 3.0."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x08c32b0726c5684024ea6e141c50ade9690bbdcc",
+    "url": "https://www.thestratos.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x08c32b0726C5684024ea6e141C50aDe9690bBdcc",
+        "https://ethplorer.io/address/0x08c32b0726C5684024ea6e141C50aDe9690bBdcc"
+    ],
+    "twitter": "Stratos_Network",
+    "telegram": "StratosCommunity",
+    "github_org": "stratosnet"
+}

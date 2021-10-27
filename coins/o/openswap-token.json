@@ -1,0 +1,24 @@
+{
+    "id": "openswap-token",
+    "symbol": "oswap",
+    "name": "OpenSwap Token",
+    "platforms": {
+        "harmony-shard-0": "0xc0431ddcc0d213bf27ececa8c2362c0d0208c6dc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralised Exchange built on Harmony One Mainnet. Exchange/Swap, Bridge and Farm"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc0431ddcc0d213bf27ececa8c2362c0d0208c6dc",
+    "url": "https://app.openswap.one",
+    "explorers": [
+        "https://explorer.harmony.one/address/0xc0431ddcc0d213bf27ececa8c2362c0d0208c6dc"
+    ],
+    "twitter": "OpenSwap_one",
+    "telegram": "OpenSwap_Harmony",
+    "reddit": "OpenSwap_Harmony/",
+    "github_org": "TheOpenFinanceProject"
+}

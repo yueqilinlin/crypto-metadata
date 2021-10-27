@@ -1,0 +1,30 @@
+{
+    "id": "foam-protocol",
+    "symbol": "foam",
+    "name": "FOAM",
+    "platforms": {
+        "ethereum": "0x4946fcea7c692606e8908002e55a582af44ac121"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem",
+        "Infrastructure",
+        "Protocol"
+    ],
+    "description": {
+        "en": "FOAM is an open protocol for proof of location on Ethereum. Our mission is to build a consensus driven map of the world, empowering a fully decentralized web3 economy with verifiable location data. FOAM incentivizes the infrastructure needed for privacy-preserving and fraud-proof location verification. The starting point for FOAM is static proof of location, where a community of Cartographers curate geographic Points of Interest on the FOAM map. Through global community-driven efforts, FOAM\u2019s dynamic proof of location protocol will enable a permissionless and privacy-preserving network of radio beacons that is independent from external centralized sources and capable of providing secure location verification services.\r\n\r\nFOAM Token Functionality\r\n1. Add and Curate Geographic Points of Interest\r\nThe FOAM Spatial Index Visualizer allows Cartographers to participate in interactive TCR POIs on a map. Users can add points to the map, validate new candidates and verify the map by visiting real world locations. The FOAM Token Curated Registry unlocks mapping in a secure and permissionless fashion and allows locations to be ranked and maintained by token balances. Users can deposit FOAM Tokens into POIs on the map to increase attention those POIs might receive.\r\n\r\n2. Signal for Zone Incentivisation\r\nA further potential use of the FOAM Token by Cartographers is to stake their FOAM Tokens to Signal. Signaling is a mechanism designed to allow Cartographers to incentivize the expansion and geographic coverage of the FOAM network. To Signal, a Cartographer stakes FOAM Tokens to a Signaling smart contract by reference to a particular area. These staked tokens serve as indicators of demand, and are proportionate to (i) the length of time staking (the earlier, the better), and (ii) the number of tokens staked (the less well-served areas, the better). In the context of the contingent Dynamic Proof of Location concept (described further in the Product Whitepaper), these indicators are the weighted references that determine the spatial mining rewards.\r\n\r\n3. Contribute to Potential Secure Location Services as Zone Anchor or Verifier\r\nThe FOAM protocol may allow users to provide work and secure localization services and location verification for smart contracts and be rewarded for their own efforts with new FOAM Tokens in the form of mining rewards. Devices and real world contracts can be programmed to designate attestations and track interactions and transactions on the map. With the addition of necessary radio hardware by individual users and the grass roots expansion of the FOAM network, it may be possible for location status to be proved in a different manner. Location could be proved through a time synchronization protocol that would ensure continuity of a distributed clock, whereby specialized hardware could synchronize nodes\u2019 clocks over radio to provide location services in a given area. As explained further in the following paragraph, this \u2018Dynamic Proof of Location\u2019 is contingent on a number of factors outside of Foamspace\u2019s control."
+    },
+    "country_origin": "US",
+    "genesis_date": "2018-07-28",
+    "contract_address": "0x4946fcea7c692606e8908002e55a582af44ac121",
+    "url": "https://www.foam.space/",
+    "explorers": [
+        "https://etherscan.io/token/0x4946fcea7c692606e8908002e55a582af44ac121",
+        "https://ethplorer.io/address/0x4946fcea7c692606e8908002e55a582af44ac121"
+    ],
+    "twitter": "foamspace",
+    "facebook": "foamprotocol",
+    "telegram": "foamspace",
+    "reddit": "foamprotocol/",
+    "github_org": "f-o-a-m"
+}

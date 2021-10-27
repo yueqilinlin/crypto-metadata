@@ -1,0 +1,23 @@
+{
+    "id": "save-the-kids",
+    "symbol": "kids",
+    "name": "Save The Kids",
+    "platforms": {
+        "binance-smart-chain": "0x7acf49997e9598843cb9051389fa755969e551bb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Giving a future worth living. When a $KIDS token is traded, 1% of the 3% tax on that transaction is donated to the Binance Charity Wallet to help with projects that help children with the resources they need live a long and healthy life, blockchain-verified. Join us on our trip to the moon while helping kids around the world."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7acf49997e9598843cb9051389fa755969e551bb",
+    "url": "https://savethekids.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x7acf49997e9598843cb9051389fa755969e551bb"
+    ],
+    "twitter": "savethekidsBSC",
+    "telegram": "savethekidsBSC",
+    "reddit": "SaveTheKidsBSC/"
+}

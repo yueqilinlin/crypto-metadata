@@ -1,0 +1,22 @@
+{
+    "id": "dehero-community-token",
+    "symbol": "heroes",
+    "name": "Dehero Community Token",
+    "platforms": {
+        "binance-smart-chain": "0x261510dd6257494eea1dda7618dbe8a7b87870dd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HEROES is a community governance currency, and community members will use HEROES to complete ecological co-governance and various resolutions. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x261510dd6257494eea1dda7618dbe8a7b87870dd",
+    "url": "https://www.dehero.co/",
+    "explorers": [
+        "https://bscscan.com/token/0x261510Dd6257494eEA1DDA7618DBe8a7b87870dd"
+    ],
+    "twitter": "MIXMARVELGAME",
+    "telegram": "MixMarvelGlobal"
+}

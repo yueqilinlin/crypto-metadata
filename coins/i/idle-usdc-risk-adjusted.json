@@ -1,0 +1,21 @@
+{
+    "id": "idle-usdc-risk-adjusted",
+    "symbol": "idleUSDCSafe",
+    "name": "IdleUSDC (Risk Adjusted)",
+    "platforms": {
+        "ethereum": "0x3391bc034f2935ef0e1e41619445f998b2680d35"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3391bc034f2935ef0e1e41619445f998b2680d35",
+    "url": "https://idle.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x3391bc034f2935ef0e1e41619445f998b2680d35",
+        "https://ethplorer.io/address/0x3391bc034f2935ef0e1e41619445f998b2680d35"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "arbidex",
+    "symbol": "abx",
+    "name": "Arbidex",
+    "platforms": {
+        "ethereum": "0x9a794dc1939f1d78fa48613b89b8f9d0a20da00e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Trade any crypto asset at best rates by cross-exchange arbitrage chains in a single-window interface."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9a794dc1939f1d78fa48613b89b8f9d0a20da00e",
+    "url": "https://www.arbidex.uk.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x9a794dc1939f1d78fa48613b89b8f9d0a20da00e",
+        "https://ethplorer.io/address/0x9a794dc1939f1d78fa48613b89b8f9d0a20da00e"
+    ],
+    "twitter": "arbidextoken",
+    "facebook": "arbidextoken",
+    "telegram": "arbidex"
+}

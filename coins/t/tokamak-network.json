@@ -1,0 +1,25 @@
+{
+    "id": "tokamak-network",
+    "symbol": "ton",
+    "name": "Tokamak Network",
+    "platforms": {
+        "ethereum": "0x2be5e8c109e2197d077d13a82daead6a9b3433c5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tokamak Network is a platform that assures decentralized and secure property same as Ethereum Main chain while supporting high level of scalability and extendability. Each Dapp is built easily for specific purpose through Tokamak Network.\r\n\r\nTokamak Network has each Dapp to operate in its own chain. Plasma Chains are connected to Ethereum\u2019s Main Chain via the Tokamak Protocol.\r\n\r\nt is used as an incentive to correctly decentralize the Tokamak Plasma Chain. The service operator must deposit TON to open the Plasma Chain. If the chain properly runs, this deposit will gradually increase. However, if there is a technical issue in the chain and someone who finds problem raises an issue, and then, the deposit as a reward will go to that person (challenger).\r\n\r\nMoreover, TON is also used to charge Stamina, which is the transaction fee in Plasma Chain. The stamina will be recharged after a certain period. It does not disappear until it is withdrawn."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2be5e8c109e2197d077d13a82daead6a9b3433c5",
+    "url": "https://tokamak.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x2be5e8c109e2197D077D13A82dAead6a9b3433C5",
+        "https://ethplorer.io/address/0x2be5e8c109e2197D077D13A82dAead6a9b3433C5"
+    ],
+    "twitter": "tokamak_network",
+    "facebook": "OntherInc",
+    "telegram": "tokamak_network",
+    "github_org": "onther-tech"
+}

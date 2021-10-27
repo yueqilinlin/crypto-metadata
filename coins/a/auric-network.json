@@ -1,0 +1,26 @@
+{
+    "id": "auric-network",
+    "symbol": "auscm",
+    "name": "Auric Network",
+    "platforms": {
+        "ethereum": "0x1c7bbadc81e18f7177a95eb1593e5f5f35861b10"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "AURIC is a gold-based synthetic commodity money."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1c7bbadc81e18f7177a95eb1593e5f5f35861b10",
+    "url": "https://auric.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x1c7bbadc81e18f7177a95eb1593e5f5f35861b10",
+        "https://ethplorer.io/address/0x1c7bbadc81e18f7177a95eb1593e5f5f35861b10"
+    ],
+    "twitter": "auric_network",
+    "telegram": "auricfinance",
+    "github_org": "auricfinance"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "mirrored-google",
+    "symbol": "mgoogl",
+    "name": "Mirrored Google",
+    "platforms": {
+        "ethereum": "0x59a921db27dd6d4d974745b7ffc5c33932653442",
+        "binance-smart-chain": "0x62d71b23bf15218c7d2d7e48dbbd9e9c650b173f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Mirrored Assets"
+    ],
+    "description": {
+        "en": "Mirrored Google - synthetic asset tracking the price of a Google stock."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x59a921db27dd6d4d974745b7ffc5c33932653442",
+    "url": "https://mirror.finance",
+    "explorers": [
+        "https://finder.terra.money/columbus-4/token/terra1h8arz2k547uvmpxctuwush3jzc8fun4s96qgwt",
+        "https://etherscan.io/token/0x59A921Db27Dd6d4d974745B7FfC5c33932653442",
+        "https://ethplorer.io/address/0x59A921Db27Dd6d4d974745B7FfC5c33932653442",
+        "https://bscscan.com/token/0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f"
+    ],
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol",
+    "github_org": "mirror-protocol"
+}

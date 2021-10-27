@@ -1,0 +1,21 @@
+{
+    "id": "orica",
+    "symbol": "ori",
+    "name": "Orica",
+    "platforms": {
+        "binance-smart-chain": "0x3045d1a840364c3657b8df6c6f86a4359c23472b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The only NFT marketplace with verified products and the lowest fees. Exchanging NFTs with verified creators and collectors."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3045d1a840364c3657b8df6c6f86a4359c23472b",
+    "url": "https://orica.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x3045d1A840364c3657b8Df6c6F86a4359c23472B"
+    ],
+    "twitter": "orica_io"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "compound-ether",
+    "symbol": "ceth",
+    "name": "cETH",
+    "platforms": {
+        "ethereum": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Decentralized Finance (DeFi)",
+        "Compound Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Compound protocol balance token"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+    "url": "https://compound.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+        "https://ethplorer.io/address/0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5"
+    ],
+    "twitter": "compoundfinance",
+    "reddit": "compound/",
+    "github_org": "compound-finance"
+}

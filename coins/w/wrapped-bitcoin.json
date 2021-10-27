@@ -1,0 +1,37 @@
+{
+    "id": "wrapped-bitcoin",
+    "symbol": "wbtc",
+    "name": "Wrapped Bitcoin",
+    "platforms": {
+        "ethereum": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "avalanche": "0x50b7545627a5162f82a992c33b87adc75187b218",
+        "polygon-pos": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+        "fantom": "0x321162cd933e2be498cd2267a90534a804051b11",
+        "harmony-shard-0": "0x3095c7557bcb296ccc6e363de01b760ba031f2d9",
+        "arbitrum-one": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+        "moonriver": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
+        "sora": "0x002c48630dcb8c75cc36162cbdbc8ff27b843973b951ba9b6e260f869d45bcdc",
+        "optimistic-ethereum": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+        "tomochain": "0x503b2ddc059b81788fd1239561596614b27faade",
+        "xdai": "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Wrapped-Tokens",
+        "Tokenized BTC"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "url": "https://www.wbtc.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "https://ethplorer.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "https://blockscout.com/poa/xdai/tokens/0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252/token-transfers",
+        "https://scan.tomochain.com/tokens/0x503b2ddc059b81788fd1239561596614b27faade"
+    ],
+    "github_org": "WrappedBTC"
+}

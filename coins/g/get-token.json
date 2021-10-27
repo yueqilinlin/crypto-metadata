@@ -1,0 +1,31 @@
+{
+    "id": "get-token",
+    "symbol": "get",
+    "name": "GET Protocol",
+    "platforms": {
+        "ethereum": "0x8a854288a5976036a725879164ca3e91d30c6a1b",
+        "polygon-pos": "0xdb725f82818de83e99f1dac22a9b5b51d3d04dd4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Protocol",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "The GET Protocol offers a blockchain-based smart ticketing solution that can be used by everybody who needs to issue admission tickets in an honest and transparent way."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8a854288a5976036a725879164ca3e91d30c6a1b",
+    "url": "https://get-protocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x8a854288a5976036a725879164ca3e91d30c6a1b",
+        "https://ethplorer.io/address/0x8a854288a5976036a725879164ca3e91d30c6a1b",
+        "https://polygonscan.com/token/0xdb725f82818de83e99f1dac22a9b5b51d3d04dd4"
+    ],
+    "twitter": "getprotocol",
+    "telegram": "getprotocol",
+    "reddit": "GETprotocol/",
+    "github_org": "GUTSTickets"
+}

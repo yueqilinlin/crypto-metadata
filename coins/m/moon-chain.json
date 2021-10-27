@@ -1,0 +1,22 @@
+{
+    "id": "moon-chain",
+    "symbol": "mcf",
+    "name": "Moon Chain",
+    "platforms": {
+        "binance-smart-chain": "0x6fc015dc3283369125cc31907eef990b8f67a7a1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Leading Decentralized Ecosystem in DeFi and Stake Sharing. Generate passive daily income while staking your tokens"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6fc015dc3283369125cc31907eef990b8f67a7a1",
+    "url": "https://moonchain.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x6fc015dc3283369125cc31907eef990b8f67a7a1"
+    ],
+    "twitter": "MoonChainFinane",
+    "telegram": "moonchain_tg"
+}

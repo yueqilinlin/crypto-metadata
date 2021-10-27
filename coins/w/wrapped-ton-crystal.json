@@ -1,0 +1,22 @@
+{
+    "id": "wrapped-ton-crystal",
+    "symbol": "wton",
+    "name": "Wrapped TON Crystal",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Free TON is based on a flexible multi-blockchain platform called TON Blockchain, capable of processing millions of transactions per second, with Turing-complete smart contracts, upgradable formal blockchain specifications, multi-cryptocurrency value transfer, support for micropayment channels and off-chain payment networks. TON Blockchain presents some new and unique features, such as the \"self-healing\" vertical blockchain mechanism and Instant Hypercube Routing, which enable it to be fast, reliable, scalable and self-consistent at the same time. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdb3c2515da400e11bcaf84f3b5286f18fff1868f",
+    "url": "https://freeton.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xdB3C2515Da400e11Bcaf84f3b5286f18ffF1868F"
+    ],
+    "twitter": "CommunityTon",
+    "telegram": "TONCRYSTAL",
+    "reddit": "https://www.reddit.com",
+    "github_org": "tonlabs"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "brick",
+    "symbol": "brick",
+    "name": "r/FortNiteBR Bricks",
+    "platforms": {
+        "xdai": "0x2f9cebf5de3bc25e0643d0e66134e5bf5c48e191"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Reddit Points"
+    ],
+    "description": {
+        "en": "Bricks are ERC-20 Tokens given as rewards for an individuals contributions to r/Fortnite either via posts or comments etc. They can be freely transferred, tipped and spent in r/CryptoCurrency. Moons are distributed monthly using Reddit Karma as a basis for contributions.\r\n\r\nBricks can be traded freely and used for any number of purposes within the community. At this time, they can be used to display reputation within the subreddit, unlock exclusive features like badges and GIFs in comments with a Special Membership, and add weight to votes in polls."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2f9cebf5de3bc25e0643d0e66134e5bf5c48e191",
+    "url": "https://www.reddit.com/r/FortNiteBR/",
+    "explorers": [],
+    "reddit": "FortNiteBR/"
+}

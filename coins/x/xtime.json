@@ -1,0 +1,22 @@
+{
+    "id": "xtime",
+    "symbol": "xtm",
+    "name": "XTime",
+    "platforms": {
+        "binance-smart-chain": "0xff2bf41ec57b897c914e2baac857d621f4cb1691"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XTime Token is based on BSC and is currently the only Token with the background of the Republic of El Salvador. XTime will be committed to building an ecosystem belonging to the community. Based on BSC, it will develop the DeFi protocol and will launch a cross-chain revenue aggregator XTimeSwap1.0. Users only need to mortgage their encrypted assets to automatically obtain revenue, and the revenue is all BTC . XTime will also launch BSC-based NFT games in the future, including NFT collections, all of which will use BTC as a means of revenue acquisition or payment"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xff2bf41ec57b897c914e2baac857d621f4cb1691",
+    "url": "https://xtime.world/",
+    "explorers": [
+        "https://bscscan.com/token/0xFF2BF41EC57b897c914E2BAac857D621f4CB1691"
+    ],
+    "twitter": "SLV_XTime",
+    "telegram": "XTimeOC"
+}

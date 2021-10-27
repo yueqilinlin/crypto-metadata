@@ -1,0 +1,23 @@
+{
+    "id": "yield-protocol",
+    "symbol": "yield",
+    "name": "Yield Protocol",
+    "platforms": {
+        "ethereum": "0xa8b61cff52564758a204f841e636265bebc8db9b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa8b61cff52564758a204f841e636265bebc8db9b",
+    "url": "https://yieldprotocol.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xa8b61cff52564758a204f841e636265bebc8db9b",
+        "https://ethplorer.io/address/0xa8b61cff52564758a204f841e636265bebc8db9b"
+    ],
+    "twitter": "yield_protocol",
+    "telegram": "yieldshield"
+}

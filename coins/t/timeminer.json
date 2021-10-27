@@ -1,0 +1,24 @@
+{
+    "id": "timeminer",
+    "symbol": "time",
+    "name": "TimeMiner",
+    "platforms": {
+        "ethereum": "0xa54c67bd320da4f9725a6f585b7635a0c09b122e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TimeMiner utilizes a new system called Proof-of-Time. Proof-of-Time is a combination of Proof-of-Work and Proof-of-Stake while also incorporating rebasing mechanics. The contract code creates one new coin every hour and distributes it to the existing holders according to their current percentage of the circulating supply. Every day there will only be 24 coins added to the circulating supply. Added coins are always split amongst the existing holders and never dumped by the team onto the market.\r\n\r\nBy holding time you will benefit from an hourly rebase, giving you a share of each new TIME, according to your percentage of the total supply. \r\nThe supply is exceptionally low. Even after a full year of its existance there will only be 8760 TIME in total. At the time of writing this the circulating supply is just around 200 time."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xa54c67bd320da4f9725a6f585b7635a0c09b122e",
+    "url": "https://timeminer.netlify.app/",
+    "explorers": [
+        "https://etherscan.io/token/0xA54C67bd320Da4F9725a6f585b7635a0c09B122e",
+        "https://ethplorer.io/address/0xA54C67bd320Da4F9725a6f585b7635a0c09B122e"
+    ],
+    "twitter": "_timeminer",
+    "telegram": "timeminer",
+    "github_org": "TimeMiner"
+}

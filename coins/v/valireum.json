@@ -1,0 +1,27 @@
+{
+    "id": "valireum",
+    "symbol": "vlm",
+    "name": "Valireum",
+    "platforms": {
+        "ethereum": "0x3989f36540052668c340a53aaeacb46d6cf0dd6c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Virtual Reality"
+    ],
+    "description": {
+        "en": "Valireum it's the unlimited virtual universe built on the ethereum blockchain"
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "contract_address": "0x3989f36540052668c340a53aaeacb46d6cf0dd6c",
+    "url": "https://www.valireum.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x3989F36540052668c340a53aaeAcB46D6cF0Dd6C",
+        "https://ethplorer.io/address/0x3989f36540052668c340a53aaeacb46d6cf0dd6c"
+    ],
+    "twitter": "valireum",
+    "facebook": "Valireum",
+    "reddit": "Valireum/",
+    "github_org": "Valireum"
+}

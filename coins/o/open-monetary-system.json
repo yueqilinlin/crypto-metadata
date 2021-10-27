@@ -1,0 +1,27 @@
+{
+    "id": "open-monetary-system",
+    "symbol": "oms",
+    "name": "Open Monetary System",
+    "platforms": {
+        "ethereum": "0x3d1e3c5f658d74c585267350cac22fd44e8d951c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": "OMS is an Ethereum based elastic supply token designed to rebase (inflate/deflate) supply through automated distribution proportional to percentage of supply held. Designed to be balanced against the USD, the issuance is always correlated to the USD denominated price at a given point in time.  OMS provides the base token for the ecosystem and will provide utility through being traded as a pair to assets in the OMS Asset Index."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x3d1e3c5f658d74c585267350cac22fd44e8d951c",
+    "url": "https://oms.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x3d1e3c5f658d74c585267350cac22fd44e8d951c",
+        "https://ethplorer.io/address/0x3d1e3c5f658d74c585267350cac22fd44e8d951c"
+    ],
+    "twitter": "financeoms",
+    "facebook": "oms.finance.team",
+    "telegram": "omsfinance",
+    "github_org": "omsfinance"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "lendroid-support-token",
+    "symbol": "lst",
+    "name": "Lendroid Support Token",
+    "platforms": {
+        "ethereum": "0x4de2573e27e648607b50e1cfff921a33e4a34405"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "We champion #cleanrisk and #antifragile credit. We Build bleeding edge financial systems across DeFi and NFT (http://rightshare.lendroid.com, https://whalestreet.xyz/)"
+    },
+    "country_origin": "SG",
+    "genesis_date": "2018-03-09",
+    "contract_address": "0x4de2573e27e648607b50e1cfff921a33e4a34405",
+    "url": "https://lendroid.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x4de2573e27e648607b50e1cfff921a33e4a34405",
+        "https://ethplorer.io/address/0x4de2573e27e648607b50e1cfff921a33e4a34405"
+    ],
+    "twitter": "lendroidproject",
+    "telegram": "lendroidofficial",
+    "reddit": "lendroidproject/",
+    "github_org": "lendroidproject"
+}

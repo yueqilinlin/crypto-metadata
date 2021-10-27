@@ -1,0 +1,29 @@
+{
+    "id": "dtube-coin",
+    "symbol": "dtube",
+    "name": "Dtube Coin",
+    "platforms": {
+        "ethereum": "0xd2be3722b17b616c51ed9b8944a227d1ce579c24",
+        "binance-smart-chain": "0xd3cceb42b544e91eee02eb585cc9a7b47247bfde"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "DTube Coin: a utility token for video, it enables people to earn rewards by voting, commenting, or promoting content by burning the token."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0xd2be3722b17b616c51ed9b8944a227d1ce579c24",
+    "url": "https://d.tube/",
+    "explorers": [
+        "https://etherscan.io/token/0xd2be3722B17b616c51ed9B8944A227D1ce579C24",
+        "https://ethplorer.io/address/0xd2be3722b17b616c51ed9b8944a227d1ce579c24",
+        "https://bscscan.com/token/0xd3cceb42b544e91eee02eb585cc9a7b47247bfde",
+        "https://blocks.oneloved.tube/#/"
+    ],
+    "twitter": "DTube_Official",
+    "telegram": "dtube_official",
+    "github_org": "dtube"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "jackpool-finance",
+    "symbol": "jfi",
+    "name": "JackPool.finance",
+    "platforms": {
+        "tron": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "url": "https://jackpool.finance/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TN7zQd2oCCguSQykZ437tZzLEaGJ7EGyha"
+    ],
+    "twitter": "JackPoolfinance",
+    "telegram": "Jackpoolfinance",
+    "github_org": "justpool-finance"
+}

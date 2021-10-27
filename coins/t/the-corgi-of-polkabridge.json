@@ -1,0 +1,24 @@
+{
+    "id": "the-corgi-of-polkabridge",
+    "symbol": "corgib",
+    "name": "The Corgi of PolkaBridge",
+    "platforms": {
+        "binance-smart-chain": "0x1cfd6813a59d7b90c41dd5990ed99c3bf2eb8f55"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "CORGIB is not just a Meme coin, but also an NFT Marketplace where users can create NFT memes and trade on the Marketplace.\r\n\r\nCORGIB is a community product of PolkaBridge, aims to give fairlaunch and to bring value to PBR investors."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1cfd6813a59d7b90c41dd5990ed99c3bf2eb8f55",
+    "url": "https://corgib.polkabridge.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x1cfd6813a59d7b90c41dd5990ed99c3bf2eb8f55"
+    ],
+    "twitter": "realpolkabridge",
+    "telegram": "corgipolkabridge"
+}

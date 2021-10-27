@@ -1,0 +1,24 @@
+{
+    "id": "strips-finance",
+    "symbol": "strp",
+    "name": "Strips Finance",
+    "platforms": {
+        "ethereum": "0x97872eafd79940c7b24f7bcc1eadb1457347adc9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Strips is an interest rates trading marketplace and fixed-income platform. Strips allows users to easily trade cross-chain and off-chain interest rate and yields. Bridge CeFi and DeFi yields on a single platform. The first interest rates derivatives exchange using AMM and leverage."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x97872eafd79940c7b24f7bcc1eadb1457347adc9",
+    "url": "https://strips.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x97872eafd79940c7b24f7bcc1eadb1457347adc9",
+        "https://ethplorer.io/address/0x97872eafd79940c7b24f7bcc1eadb1457347adc9"
+    ],
+    "twitter": "StripsFinance",
+    "telegram": "stripsfi",
+    "github_org": "strips-finance"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "binance-ecosystem-value",
+    "symbol": "bev",
+    "name": "Binance Ecosystem Value",
+    "platforms": {
+        "binance-smart-chain": "0xc7dac962c166a26038ec4bc5d0e2a3fe0ff3ce58"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "longdrink.finance creates index tokens on Binance Smart Chain. Hereby, investors are granted easy access to a suite of Binance Smart Chain tokens.\r\n\r\nLONG is the protocol's governance token enabling holders to decide on the composition of future indices and their weightings, as well as fee capturing within the protocol.\r\n\r\nThe first index is called BEV - Binance Ecosystem Value consisting of the eight Binance Smart Chain blue chips."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc7dac962c166a26038ec4bc5d0e2a3fe0ff3ce58",
+    "url": "https://longdrink.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xc7dac962c166a26038ec4bc5d0e2a3fe0ff3ce58"
+    ],
+    "twitter": "LongdrinkDefi",
+    "github_org": "longdrinkdefi"
+}

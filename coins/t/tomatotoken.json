@@ -1,0 +1,23 @@
+{
+    "id": "tomatotoken",
+    "symbol": "tomato",
+    "name": "TomatoToken",
+    "platforms": {
+        "ethereum": "0x82bd290afa5cc1b75f46822fec415e2be51d7d46"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Very few understand scale, so we created TomatoToken to shine a light on the infinite tomato economy. When farmers scale, society scales. When society scales, Mars is within reach. TomatoToken helps you scale your seeds every month via Automated Staking Rewards. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x82bd290afa5cc1b75f46822fec415e2be51d7d46",
+    "url": "https://tomatotoken.farm/",
+    "explorers": [
+        "https://etherscan.io/token/0x82bd290afa5cC1b75F46822fEC415E2be51D7D46",
+        "https://ethplorer.io/address/0x82bd290afa5cC1b75F46822fEC415E2be51D7D46"
+    ],
+    "twitter": "tomatotoken",
+    "github_org": "Tomato-Token"
+}

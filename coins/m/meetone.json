@@ -1,0 +1,23 @@
+{
+    "id": "meetone",
+    "symbol": "meetone",
+    "name": "MEET.ONE",
+    "platforms": {
+        "eos": null
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MEET.ONE is a BP (Block Producer) candidate for EOS.IO, and elected as Genesis\r\nBlock Producer on June 15, 2018. MEET.ONE is dedicating to the establishment of\r\nEOS ecosystem, and will launch a side-chain based on EOS native blockchain, in\r\norder to providing safe, steady and cost-effective development environment for\r\nEOS developers. MEET.ONE is also an incubator that help outstanding EOS Dapps\r\nin terms of its promotion, community outreach, product development and funding.\r\nMEET.ONE will become a flow portal to EOS, and offer various functions for the\r\nEOS ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://meet.one/",
+    "explorers": [
+        "https://bloks.io/account/eosiomeetone",
+        "https://meetone.bloks.io/"
+    ],
+    "twitter": "MeetDotOne",
+    "telegram": "MeetOneEnglish",
+    "github_org": "meet-one"
+}

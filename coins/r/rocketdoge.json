@@ -1,0 +1,24 @@
+{
+    "id": "rocketdoge",
+    "symbol": "rd",
+    "name": "RocketDoge",
+    "platforms": {
+        "binance-smart-chain": "0x27eb4587783f2744c489ad2e64269a2e86daeb80"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RocketDoge aims to provide fee-free transactions, working lottery application and the airdrop platform for the project owners."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "0x27eb4587783f2744c489ad2e64269a2e86daeb80",
+    "url": "https://www.rocketdoge.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x27eb4587783f2744c489ad2e64269a2e86daeb80"
+    ],
+    "twitter": "RDogeOfficial",
+    "facebook": "RocketDogeOfficial",
+    "telegram": "RocketDogeOfficial",
+    "github_org": "RocketDogeToken"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "polyplay",
+    "symbol": "play",
+    "name": "PolyPlay",
+    "platforms": {
+        "binance-smart-chain": "0x9a3077f34cc30f9bf8e93a0369119bae0113d9cc",
+        "ethereum": "0x130966628846bfd36ff31a822705796e8cb8c18d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PolyPlay aims to host E-sport tournaments for all the amateur players as if they\u2019re professionals. With a sizeable prize pool funded by all transactions made on the project blockchain.\r\nThe team shall be offering tournaments, staking and will be building a launchpad set to release in September. With a fully transparent and DOXXED team, PolyPlay will quickly peak the interest of that very same gamers stuck in the middle of the pyramid. Being business oriented, there would also be facilities for Sponsors and Companies to be promoted through PolyPlay\u2019s live twitch stream, YouTube Tournament Highlight shows and PLAY ROOM Store.\r\nPolyPlay welcomes all future prospects of e-sports gaming and hopes to be the next driving force by being Gaming\u2019s Gold Standard."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x9a3077f34cc30f9bf8e93a0369119bae0113d9cc",
+    "url": "https://polyplay.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x9a3077f34cc30f9bf8e93a0369119bae0113d9cc",
+        "https://etherscan.io/token/0x130966628846bfd36ff31a822705796e8cb8c18d"
+    ],
+    "twitter": "PolyPlayCoin",
+    "telegram": "PolyPlayGames",
+    "github_org": "polyplaygames"
+}

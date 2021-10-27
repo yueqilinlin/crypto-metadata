@@ -1,0 +1,24 @@
+{
+    "id": "cbdao",
+    "symbol": "bree",
+    "name": "CBDAO",
+    "platforms": {
+        "ethereum": "0x4639cd8cd52ec1cf2e496a606ce28d8afb1c792f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Coin farming and yield generator DAO."
+    },
+    "country_origin": "PT",
+    "genesis_date": null,
+    "contract_address": "0x4639cd8cd52ec1cf2e496a606ce28d8afb1c792f",
+    "url": "https://coinbreeder.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x4639cd8cd52ec1cf2e496a606ce28d8afb1c792f",
+        "https://ethplorer.io/address/0x4639cd8cd52ec1cf2e496a606ce28d8afb1c792f"
+    ],
+    "twitter": "CoinBreeder",
+    "telegram": "coinbreederDAO",
+    "github_org": "coinbreeder"
+}

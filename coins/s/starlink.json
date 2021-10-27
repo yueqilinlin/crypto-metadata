@@ -1,0 +1,28 @@
+{
+    "id": "starlink",
+    "symbol": "starl",
+    "name": "StarLink",
+    "platforms": {
+        "ethereum": "0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Metaverse",
+        "Entertainment",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "Starlink Station is a virtual world - aka Metaverse - that will exist as a space to host data and ideas within the blockchain using $Starl tokens as its native currency and creating new visual and audio adaptations to further NFTs as representations of real world space and concepts tied to VR within the existing framework. As well as a hub for marketing, entertainment, gamification and education."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24",
+    "url": "https://www.starltoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24",
+        "https://ethplorer.io/address/0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24"
+    ],
+    "twitter": "starlinketh",
+    "telegram": "starlinkofficial"
+}

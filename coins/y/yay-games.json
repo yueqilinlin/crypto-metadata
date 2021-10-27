@@ -1,0 +1,23 @@
+{
+    "id": "yay-games",
+    "symbol": "yay",
+    "name": "YAY Games",
+    "platforms": {
+        "binance-smart-chain": "0x524df384bffb18c0c8f3f43d012011f8f9795579",
+        "avalanche": "0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yay Games protocol combines the world of gaming with decentralized finance -  introducing an innovative in-game mining system for network participants while playing games in a fully decentralized manner.\r\nYay Games ultimately aims to popularize the adoption of Defi and crypto by allocating X amount of crypto to each game. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x524df384bffb18c0c8f3f43d012011f8f9795579",
+    "url": "https://www.yay.games/",
+    "explorers": [
+        "https://bscscan.com/token/0x524df384bffb18c0c8f3f43d012011f8f9795579"
+    ],
+    "twitter": "yayprotocol",
+    "telegram": "yay_games"
+}

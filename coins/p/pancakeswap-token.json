@@ -1,0 +1,32 @@
+{
+    "id": "pancakeswap-token",
+    "symbol": "cake",
+    "name": "PancakeSwap",
+    "platforms": {
+        "binance-smart-chain": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "harmony-shard-0": "0x3e9d32580b0bf3ae72afcbebc68710d2fd9a18f0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Governance",
+        "Automated Market Maker (AMM)",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Decentralized Exchange Token (DEX)",
+        "Exchange-based Tokens",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "PancakeSwap is an automated market maker (\u201cAMM\u201d) that allows two tokens to be exchanged on the Binance Smart Chain. It is fast, cheap, and allows anyone to participate."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "url": "https://pancakeswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+    ],
+    "twitter": "pancakeswap",
+    "telegram": "PancakeSwap",
+    "github_org": "pancakeswap"
+}

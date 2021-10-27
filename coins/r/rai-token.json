@@ -1,0 +1,24 @@
+{
+    "id": "rai-token",
+    "symbol": "rai",
+    "name": "Rai Token",
+    "platforms": {
+        "ethereum": "0x4c9bbfc1fbd93dfb509e718400978fbeedf590e9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4c9bbfc1fbd93dfb509e718400978fbeedf590e9",
+    "url": "https://pikacrypto.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x4c9bbfc1fbd93dfb509e718400978fbeedf590e9",
+        "https://ethplorer.io/address/0x4c9bbfc1fbd93dfb509e718400978fbeedf590e9"
+    ],
+    "twitter": "PikaCrypto_",
+    "telegram": "Pikatokenofficial",
+    "reddit": "PikaCrypto/"
+}

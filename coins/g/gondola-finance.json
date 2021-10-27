@@ -1,0 +1,25 @@
+{
+    "id": "gondola-finance",
+    "symbol": "gdl",
+    "name": "Gondola Finance",
+    "platforms": {
+        "avalanche": "0xd606199557c8ab6f4cc70bd03facc96ca576f142"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem"
+    ],
+    "description": {
+        "en": "Gondola Finance specializes in Stableswap on Avalanche, bridging fragmented liquidity."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd606199557c8ab6f4cc70bd03facc96ca576f142",
+    "url": "https://www.gondola.finance/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142/token-transfers"
+    ],
+    "twitter": "gondola_finance",
+    "telegram": "gondola_finance",
+    "github_org": "gondola-finance"
+}

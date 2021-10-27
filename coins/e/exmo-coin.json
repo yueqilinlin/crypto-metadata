@@ -1,0 +1,24 @@
+{
+    "id": "exmo-coin",
+    "symbol": "exm",
+    "name": "EXMO Coin",
+    "platforms": {
+        "ethereum": "0x83869de76b9ad8125e22b857f519f001588c0f62"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EXMO Coin is the utility token of the largest crypto exchange in Eastern Europe. We are launching our token to optimise your user experience and give you access to the countless benefits of the EXMO exchange."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x83869de76b9ad8125e22b857f519f001588c0f62",
+    "url": "https://exmo.money/",
+    "explorers": [
+        "https://etherscan.io/token/0x83869de76b9ad8125e22b857f519f001588c0f62",
+        "https://ethplorer.io/address/0x83869de76b9ad8125e22b857f519f001588c0f62"
+    ],
+    "twitter": "Exmo_com",
+    "facebook": "exmo.market",
+    "telegram": "Exmo_com"
+}

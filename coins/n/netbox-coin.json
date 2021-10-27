@@ -1,0 +1,22 @@
+{
+    "id": "netbox-coin",
+    "symbol": "nbx",
+    "name": "Netbox Coin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Software"
+    ],
+    "description": {
+        "en": "The first decentralized web browser with integrated blockchain node. Includes Netbox.Wallet, which is credited with rewards for browser usage."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://netbox.global/",
+    "explorers": [
+        "https://explorer.netbox.global/"
+    ],
+    "twitter": "netboxglobal",
+    "telegram": "netboxglobal",
+    "github_org": "NetboxGlobal"
+}

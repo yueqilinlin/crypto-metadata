@@ -1,0 +1,26 @@
+{
+    "id": "hanu-yokia",
+    "symbol": "hanu",
+    "name": "Hanu Yokia",
+    "platforms": {
+        "ethereum": "0x72e5390edb7727e3d4e3436451dadaff675dbcc0",
+        "polygon-pos": "0x709a4b6217584188ddb93c82f5d716d969acce1c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$HANU is the first step of four in the Goji Cryptoverse that will allow for the creation of a vibrant ecosystem that sits at the foundation of a new enterprise.  The Goji Crypto platform will allow businesses of all sizes to leverage the power of blockchain technology to fill the gaps in their current payment processing systems.\r\n\r\nThis project has a two sided coin.  Our first and foremost is the community side.  The Goji Crypto ecosystem will be driven by a diverse and highly motivated community.  Similar to open-source and other collaborative projects, all innovation comes from the community itself where collaborative use actually enriches our resources.\r\n \r\nFlipping the coin to the other side is a business orientated structure that leverages the Goji ecosystem within their Blockchain Integration for Businesses.  This enables a faster and more secure information transfer between businesses by making use of blockchain's power of transparency and real-time data ledger technology.\r\n \r\nThis platform enables businesses to verify identities and reduce fraud by prioritizing the inherent safety that comes from blockchain capabilities; reducing costs, protecting consumer data, and making it easier to approve transactions quickly.\r\n \r\nPlatform Capabilities:\r\n \r\n* Business Integrations\r\n* Shared Ledger\r\n* Secure (Tamper Proof)\r\n* Identity Management\r\n* Confidential\r\n* Audit capabilities\r\n* Governance\r\n* Business Logic in Smart Contracts\r\n* Robust (Viable)"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x72e5390edb7727e3d4e3436451dadaff675dbcc0",
+    "url": "https://www.gojicrypto.com/hanu-yokia/",
+    "explorers": [
+        "https://etherscan.io/token/0x72E5390EDb7727E3d4e3436451DADafF675dBCC0",
+        "https://ethplorer.io/address/0x72E5390EDb7727E3d4e3436451DADafF675dBCC0",
+        "https://polygonscan.com/token/0x709a4b6217584188ddb93c82f5d716d969acce1c"
+    ],
+    "twitter": "goji_crypto",
+    "reddit": "GojiCrypto/",
+    "github_org": "Goji-Crypto"
+}

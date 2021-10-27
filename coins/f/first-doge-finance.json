@@ -1,0 +1,23 @@
+{
+    "id": "first-doge-finance",
+    "symbol": "fdoge",
+    "name": "First Doge Finance",
+    "platforms": {
+        "binance-smart-chain": "0x7e5179422f1a5cec8473bc4e5d0305d0d1f9e7bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "First doge hyper deflationary with static reflection that rewards holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7e5179422f1a5cec8473bc4e5d0305d0d1f9e7bd",
+    "url": "https://firstdogefinance.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x7e5179422f1a5cec8473bc4e5d0305d0d1f9e7bd"
+    ],
+    "twitter": "firstdogecoin",
+    "telegram": "FirstDogeFinance",
+    "github_org": "FirstDogeFinance"
+}

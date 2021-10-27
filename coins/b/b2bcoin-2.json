@@ -1,0 +1,24 @@
+{
+    "id": "b2bcoin-2",
+    "symbol": "b2b",
+    "name": "B2Bcoin",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Number",
+        "Business Services"
+    ],
+    "description": {
+        "en": "We are a new cryptocurrency coin to be used in B2B, B2C, MLM businesses and B2B Exchange."
+    },
+    "country_origin": "BE",
+    "genesis_date": null,
+    "url": "https://b2bcoin.xyz/",
+    "explorers": [
+        "https://explorer.b2bcoin.xyz"
+    ],
+    "twitter": "CoinB2b",
+    "facebook": "b2beyond",
+    "telegram": "TheUniqueB2Bcoin",
+    "github_org": "oliviersinnaeve"
+}

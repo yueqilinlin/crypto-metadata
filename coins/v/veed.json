@@ -1,0 +1,25 @@
+{
+    "id": "veed",
+    "symbol": "veed",
+    "name": "VEED",
+    "platforms": {
+        "vechain": "0x67fd63f6068962937ec81ab3ae3bf9871e524fc9/"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "VEED is the ecosystem utility and governance token of VIMworld, a Smart NFT project built on VeChainThor focused on VIM collectibles. The VEED token is used for a variety of utilities within the VIMworld Ecosystem, including VIM feeding, trading, adoption, farming, rewards, governance, and more."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x67fd63f6068962937ec81ab3ae3bf9871e524fc9/",
+    "url": "https://www.vimworld.com",
+    "explorers": [
+        "https://explore.vechain.org/accounts/0x67fd63f6068962937ec81ab3ae3bf9871e524fc9/"
+    ],
+    "twitter": "vimworldglobal",
+    "telegram": "Vimworld",
+    "reddit": "vimworld"
+}

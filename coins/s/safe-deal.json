@@ -1,0 +1,24 @@
+{
+    "id": "safe-deal",
+    "symbol": "sfd",
+    "name": "SafeDeal",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Anonymous P2P exchange of coins, files & information "
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://safedeal.trade/ ",
+    "explorers": [
+        "https://explorer.safedeal.trade/",
+        "https://chainz.cryptoid.info/sfd/"
+    ],
+    "twitter": "SafeDealP2P",
+    "telegram": "safedealp2p",
+    "reddit": "SafeDealP2P/",
+    "github_org": "safedeal-project"
+}

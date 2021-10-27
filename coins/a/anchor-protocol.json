@@ -1,0 +1,28 @@
+{
+    "id": "anchor-protocol",
+    "symbol": "anc",
+    "name": "Anchor Protocol",
+    "platforms": {
+        "terra": "terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76",
+        "ethereum": "0x0f3adc247e91c3c50bc08721355a41037e89bc20"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem",
+        "Lending/Borrowing",
+        "Terra Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76",
+    "url": "https://anchorprotocol.com/",
+    "explorers": [
+        "https://finder.terra.money/columbus-5/address/terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76"
+    ],
+    "twitter": "anchor_protocol",
+    "telegram": "anchor_official"
+}

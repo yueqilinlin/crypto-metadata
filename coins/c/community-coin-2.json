@@ -1,0 +1,22 @@
+{
+    "id": "community-coin-2",
+    "symbol": "ctc",
+    "name": "Community Coin Token",
+    "platforms": {
+        "tron": "TEedXAqp2opGVwG5JgzRrQ3u4EmgPfNoQE"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CTC is Backed by ECN Corporation Ltd a UK Based company holding community of more than 10000 Persons. They are working on Entrepreneurship by providing multiple source of Income Like Real Estate and Salt Mining . The Purpose OF CTC to use as a Payment solution in our projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TEedXAqp2opGVwG5JgzRrQ3u4EmgPfNoQE",
+    "url": "https://theccoin.org/",
+    "explorers": [
+        "https://tronscan.io/#/token20/TEedXAqp2opGVwG5JgzRrQ3u4EmgPfNoQE"
+    ],
+    "twitter": "foundation_ctc",
+    "github_org": "ecnbizz"
+}

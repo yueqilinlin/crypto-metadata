@@ -1,0 +1,23 @@
+{
+    "id": "yayswap",
+    "symbol": "yay",
+    "name": "YaySwap",
+    "platforms": {
+        "cardano": "57684adcb032c8dbc40179841bed987d8dee7472617a0e5c25ef4140.59617953776170"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "YaySwap is the first hybrid DEX platform on the Cardano Blockchain that integrates both an Automated Market Maker and an order book.YaySwap is poised to become the go-to decentralized finance (DeFi) solution for smart-swaps in Cardano. Our unique technology will allow traders to effortlessly execute smart contract-based trades at a fraction of the cost of similar services provided by other decentralized exchanges while safely trading digital assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "57684adcb032c8dbc40179841bed987d8dee7472617a0e5c25ef4140.59617953776170",
+    "url": "https://yayswap.io",
+    "explorers": [
+        "https://cardanoscan.io/token/57684adcb032c8dbc40179841bed987d8dee7472617a0e5c25ef4140.59617953776170"
+    ],
+    "twitter": "yayswap",
+    "telegram": "YaySwap",
+    "reddit": "yayswap/"
+}

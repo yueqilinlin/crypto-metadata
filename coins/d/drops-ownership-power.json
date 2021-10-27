@@ -1,0 +1,27 @@
+{
+    "id": "drops-ownership-power",
+    "symbol": "dop",
+    "name": "Drops Ownership Power",
+    "platforms": {
+        "ethereum": "0x6bb61215298f296c55b19ad842d3df69021da2ef"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Drops platform brings NFT staking and NFT loans, so that idle NFT assets can be put to work. By combining NFT fractionalisation, trustless loans and LP tokens, users on Drops platform can extract additional value from their NFTs. \r\nIt\u2019s possible through the creation of a new NFT product \u201cMargin NFT\u201d. Whitelisted NFT can be turned into a Margin NFT and used within Drops ecosystem.\r\n"
+    },
+    "country_origin": "LT",
+    "genesis_date": null,
+    "contract_address": "0x6bb61215298f296c55b19ad842d3df69021da2ef",
+    "url": "https://drops.co",
+    "explorers": [
+        "https://etherscan.io/token/0x6bB61215298F296C55b19Ad842D3Df69021DA2ef",
+        "https://ethplorer.io/address/0x6bB61215298F296C55b19Ad842D3Df69021DA2ef"
+    ],
+    "twitter": "dropsnft",
+    "telegram": "drops_nft",
+    "github_org": "Dropsorg"
+}

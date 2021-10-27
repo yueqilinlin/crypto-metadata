@@ -1,0 +1,29 @@
+{
+    "id": "bt-finance",
+    "symbol": "bt",
+    "name": "BT.Finance",
+    "platforms": {
+        "ethereum": "0x76c5449f4950f6338a393f53cda8b53b0cd3ca3a",
+        "binance-smart-chain": "0x5478a575ece4fb4768d1d43edf5826cfe1c6225a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "BT.Finance is a multi-chain smart DeFi yield aggregator targets the best and sustainable yield."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x76c5449f4950f6338a393f53cda8b53b0cd3ca3a",
+    "url": "https://bt.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x76c5449f4950f6338a393f53cda8b53b0cd3ca3a",
+        "https://ethplorer.io/address/0x76c5449f4950f6338a393f53cda8b53b0cd3ca3a",
+        "https://bscscan.com/token/0x5478a575ece4fb4768d1d43edf5826cfe1c6225a"
+    ],
+    "twitter": "btdotfinance",
+    "telegram": "btdotfinance",
+    "github_org": "btdotfinance"
+}

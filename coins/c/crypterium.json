@@ -1,0 +1,28 @@
+{
+    "id": "crypterium",
+    "symbol": "crpt",
+    "name": "Crypterium",
+    "platforms": {
+        "ethereum": "0x08389495d7456e1951ddf7c3a1314a4bfb646d8b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Crypterium is revolutionary digital mobile cryptobank. Crypterium is aiming on provision of comprehensive vertical integrated services, considering collaboration with other cryptocurrency solutions and teams of blockchain enthusiasts."
+    },
+    "country_origin": "EE",
+    "genesis_date": "2017-11-07",
+    "contract_address": "0x08389495d7456e1951ddf7c3a1314a4bfb646d8b",
+    "url": "https://crypterium.com/",
+    "explorers": [
+        "https://explorer.binance.org/asset/CRPT-8C9",
+        "https://etherscan.io/token/0x08389495D7456E1951ddF7c3a1314A4bfb646d8B",
+        "https://ethplorer.io/address/0x08389495D7456E1951ddF7c3a1314A4bfb646d8B",
+        "https://blockchair.com/ethereum/erc-20/token/0x08389495d7456e1951ddf7c3a1314a4bfb646d8b"
+    ],
+    "twitter": "crypterium",
+    "facebook": "crypterium.io",
+    "telegram": "crypterium"
+}

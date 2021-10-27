@@ -1,0 +1,26 @@
+{
+    "id": "bitcherry",
+    "symbol": "bchc",
+    "name": "BitCherry",
+    "platforms": {
+        "ethereum": "0x2ab05b915c30093679165bcdba9c26d8cd8bee99"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "BitCherry is the world's first commercial scalable blockchain infrastructure based on IPV8 technology. It has three characteristics: data security, efficient performance, and consensus governance."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x2ab05b915c30093679165bcdba9c26d8cd8bee99",
+    "url": "https://www.bitcherry.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x2ab05b915c30093679165bcdba9c26d8cd8bee99",
+        "https://ethplorer.io/address/0x2ab05b915c30093679165bcdba9c26d8cd8bee99"
+    ],
+    "twitter": "BitCherryGlobal",
+    "facebook": "BCHCGlobal",
+    "telegram": "BitCherryEnglish"
+}

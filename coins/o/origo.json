@@ -1,0 +1,28 @@
+{
+    "id": "origo",
+    "symbol": "ogo",
+    "name": "Origo",
+    "platforms": {
+        "ethereum": "0xff0e5e014cf97e0615cb50f6f39da6388e2fae6e"
+    },
+    "hashing_algorithm": "Equihash",
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Origo Network aims to feature privacy as one of the main drivers of adopting decentralized applications (dApps). Nowhere is the need for privacy more paramount than in the collection of identity and behavior data.\r\n\r\nWhat is Origo?\r\nA scalable privacy preserving platform for decentralized applications. Origo token is the fuel to operate privacy preserving features on Origo network. A privacy preserving protocol that supports complete privacy protection for not only transactions but also smart contracts\r\n\r\nOrigo Features\r\n- Origo Privacy Preserving Protocol\r\n- complete privacy preserving technology for smart contract input and output backed by Zero Knowledge Proof\r\n- Tailored Scalability Design for Privacy\r\n- Sharding + Stateless Client + Origo Consensus (enhanced PoS: a game theory based reward-punishment protocol)"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xff0e5e014cf97e0615cb50f6f39da6388e2fae6e",
+    "url": "https://origo.network/",
+    "explorers": [
+        "https://www.ogoscan.io/",
+        "https://etherscan.io/token/0xff0e5e014cf97e0615cb50f6f39da6388e2fae6e",
+        "https://ethplorer.io/address/0xff0e5e014cf97e0615cb50f6f39da6388e2fae6e"
+    ],
+    "twitter": "OrigoNetwork",
+    "facebook": "Origo-Network-560479740982667",
+    "telegram": "origoofficialgroup",
+    "github_org": "origonnetwork"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "cbet-token",
+    "symbol": "cbet",
+    "name": "CBET Token",
+    "platforms": {
+        "binance-smart-chain": "0xc212d39e35f22f259457be79fc2d822fa7122e6e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"CBET is a community-run BEP-20 token usable on the crypto gaming platform Cbet.gg with ambition to serve as an alternative payment method for Gambling industry.\r\n\r\n$CBET, MONEY OF GAMBLERS.\""
+    },
+    "country_origin": "CY",
+    "genesis_date": null,
+    "contract_address": "0xc212d39e35f22f259457be79fc2d822fa7122e6e",
+    "url": "https://www.cbet.money/",
+    "explorers": [
+        "https://bscscan.com/token/0xc212d39e35f22f259457be79fc2d822fa7122e6e"
+    ],
+    "twitter": "cbetgg",
+    "telegram": "cbetggofficial",
+    "reddit": "cbetgg",
+    "github_org": "cbet"
+}

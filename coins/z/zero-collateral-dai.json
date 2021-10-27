@@ -1,0 +1,26 @@
+{
+    "id": "zero-collateral-dai",
+    "symbol": "zai",
+    "name": "Zero Collateral Dai",
+    "platforms": {
+        "ethereum": "0x9d1233cc46795e94029fda81aaadc1455d510f15"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage"
+    ],
+    "description": {
+        "en": "Zero Collateral Dai (ZAI) is a hybrid synthetic-algorithmic stablecoin, using a self-stabilizing elastic supply mechanism. Zai is not backed by collateral or reliant on centralized custodians, avoiding regulatory and censorship risk."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9d1233cc46795e94029fda81aaadc1455d510f15",
+    "url": "https://zaiprotocol.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x9d1233cc46795E94029fDA81aAaDc1455D510f15",
+        "https://ethplorer.io/address/0x9d1233cc46795e94029fda81aaadc1455d510f15"
+    ],
+    "twitter": "zaifinance",
+    "telegram": "ZAIcommunitygroup",
+    "github_org": "zaifinance"
+}

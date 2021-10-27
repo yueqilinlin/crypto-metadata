@@ -1,0 +1,23 @@
+{
+    "id": "smarty-pay",
+    "symbol": "spy",
+    "name": "Smarty Pay",
+    "platforms": {
+        "binance-smart-chain": "0x17fd3caa66502c6f1cbd5600d8448f3af8f2aba1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SPY is the world's first claimed utility token that has direct connectivity between Fiat Gateway and Crypto Gateway transactions. This harmonization combination is a witness to the history of the establishment of the 3rd generation of crypto currency. The POS (point of sales) transaction system from Smarty Indonesia will be the main engine of the block hash of every transaction that is converted to SPY where each holder has the opportunity to do stacking, farming, exchange etc. to maximize their respective capitalization."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x17fd3caa66502c6f1cbd5600d8448f3af8f2aba1",
+    "url": "https://spy-token.io/",
+    "explorers": [
+        "https://bscscan.com/address/0x17fd3caa66502c6f1cbd5600d8448f3af8f2aba1",
+        "https://bscscan.com/token/0x17fd3caa66502c6f1cbd5600d8448f3af8f2aba1"
+    ],
+    "twitter": "PaySmarty",
+    "telegram": "SPYGlobal"
+}

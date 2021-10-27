@@ -1,0 +1,21 @@
+{
+    "id": "btecoin",
+    "symbol": "bte",
+    "name": "BTEcoin",
+    "platforms": {
+        "ethereum": "0xfd62247943f94c3910a4922af2c62c2d3fac2a8f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfd62247943f94c3910a4922af2c62c2d3fac2a8f",
+    "url": "https://www.btet.me/mobile/index.html",
+    "explorers": [
+        "https://etherscan.io/token/0xfd62247943f94c3910a4922af2c62c2d3fac2a8f",
+        "https://ethplorer.io/address/0xfd62247943f94c3910a4922af2c62c2d3fac2a8f"
+    ]
+}

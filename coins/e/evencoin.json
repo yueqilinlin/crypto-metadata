@@ -1,0 +1,25 @@
+{
+    "id": "evencoin",
+    "symbol": "evn",
+    "name": "EvenCoin",
+    "platforms": {
+        "ethereum": "0x68909e586eeac8f47315e84b4c9788dd54ef65bb"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Tourism"
+    ],
+    "description": {
+        "en": "Self mining smart contract supporting bitrecharge travel portal project"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x68909e586eeac8f47315e84b4c9788dd54ef65bb",
+    "url": "http://evencoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x68909e586eeac8f47315e84b4c9788dd54ef65bb",
+        "https://ethplorer.io/address/0x68909e586eeac8f47315e84b4c9788dd54ef65bb"
+    ],
+    "telegram": "evencoinio",
+    "github_org": "evencoinevn"
+}

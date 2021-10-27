@@ -1,0 +1,22 @@
+{
+    "id": "x3swap",
+    "symbol": "x3s",
+    "name": "X3Swap",
+    "platforms": {
+        "binance-smart-chain": "0x51f9e1235107722b25f22c6e6edcb378dfc31eba"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Multi-Currency Exchange Service"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x51f9e1235107722b25f22c6e6edcb378dfc31eba",
+    "url": "https://www.x3swap.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x51f9e1235107722b25f22c6e6edcb378dfc31eba"
+    ],
+    "twitter": "x3swap",
+    "telegram": "x3swap"
+}

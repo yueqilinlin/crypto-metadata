@@ -1,0 +1,24 @@
+{
+    "id": "aave-gusd",
+    "symbol": "agusd",
+    "name": "Aave GUSD",
+    "platforms": {
+        "ethereum": "0xd37ee7e4f452c6638c96536e68090de8cbcdb583"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd37ee7e4f452c6638c96536e68090de8cbcdb583",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xD37EE7e4f452C6638c96536e68090De8cBcdb583",
+        "https://ethplorer.io/address/0xD37EE7e4f452C6638c96536e68090De8cBcdb583"
+    ],
+    "twitter": "aaveaave"
+}

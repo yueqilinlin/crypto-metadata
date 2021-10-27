@@ -1,0 +1,24 @@
+{
+    "id": "polkamonster",
+    "symbol": "pkmon",
+    "name": "PolkaMonster",
+    "platforms": {
+        "binance-smart-chain": "0x609d183fb91a0fce59550b62ab7d2c931b0bb1be"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "PolkaMonster is the fighting game on the Binance Smart Chain.\r\n\r\nPolkaMonster are sophisticated digital collections created using Blockchain technology."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x609d183fb91a0fce59550b62ab7d2c931b0bb1be",
+    "url": "https://polkamonster.game/",
+    "explorers": [
+        "https://bscscan.com/token/0x609d183fb91a0fce59550b62ab7d2c931b0bb1be"
+    ],
+    "twitter": "PolkaMonsterBSC",
+    "telegram": "PolkaMonsterBSC"
+}

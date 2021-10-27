@@ -1,0 +1,27 @@
+{
+    "id": "metric-exchange",
+    "symbol": "metric",
+    "name": "MetricExchange",
+    "platforms": {
+        "ethereum": "0xefc1c73a3d8728dc4cf2a18ac5705fe93e5914ac"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Governance",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Metric is a community-owned DEX aggregator, launched by BUILD Finance DAO. Metric allows for a swap of any ERC-20 token pair and gasless market orders. \r\n\r\nNow on Metric users can trade, view the order book for the entire 0x network, check their opened positions and past successful trades. All this in a single simplified user interface that only keeps improving.\r\n\r\nMetric Exchange and it's treasury are governed by $METRIC token. All fees collected by Metric Exchange are distributed to tokenholders. In addition, holding of a predefined amount of $METRIC allows for fee-free swaps."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xefc1c73a3d8728dc4cf2a18ac5705fe93e5914ac",
+    "url": "https://metric.exchange/",
+    "explorers": [
+        "https://etherscan.io/token/0xefc1c73a3d8728dc4cf2a18ac5705fe93e5914ac",
+        "https://ethplorer.io/address/0xefc1c73a3d8728dc4cf2a18ac5705fe93e5914ac"
+    ],
+    "twitter": "MetricExchange",
+    "telegram": "MetricExchange"
+}

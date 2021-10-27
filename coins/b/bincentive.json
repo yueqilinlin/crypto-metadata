@@ -1,0 +1,26 @@
+{
+    "id": "bincentive",
+    "symbol": "bcnt",
+    "name": "Bincentive",
+    "platforms": {
+        "ethereum": "0x9669890e48f330acd88b78d63e1a6b3482652cd9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bincentive is a smart mirror trading platform designed to thrive in the secondary market of cryptocurrencies. Using smart contracts built on blockchain tech, Bincentive assures transparency and security when trades are made. Members hold on to their assets while they enjoy the benefits of accessing hedge fund strategies with lowered barriers to entry."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9669890e48f330acd88b78d63e1a6b3482652cd9",
+    "url": "https://bincentive.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x9669890e48f330acd88b78d63e1a6b3482652cd9",
+        "https://ethplorer.io/address/0x9669890e48f330acd88b78d63e1a6b3482652cd9"
+    ],
+    "twitter": "BincentiveToken",
+    "facebook": "bincentive",
+    "telegram": "bincentive_en",
+    "reddit": "Bincentive/",
+    "github_org": "Bincentive"
+}

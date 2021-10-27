@@ -1,0 +1,27 @@
+{
+    "id": "wepower",
+    "symbol": "wpr",
+    "name": "WePower",
+    "platforms": {
+        "ethereum": "0x4cf488387f035ff08c371515562cba712f9015d4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Energy"
+    ],
+    "description": {
+        "en": "WePower enables renewable energy producers to raise capital by issuing their own energy tokens. These tokens represent energy they commit to produce and deliver. Energy tokenization standardizes simplifies and opens globally currently existing energy investment ecosystem. As a result energy producers can trade directly with the green energy buyers (consumers and investors) and raise capital by selling energy upfront, at below market rates. Energy tokenization ensures liquidity and extends access to capital. The WePower blockchain solution is currently recognized by Elering, one of the most innovative Transmission System Operators in Europe."
+    },
+    "country_origin": "GI",
+    "genesis_date": null,
+    "contract_address": "0x4cf488387f035ff08c371515562cba712f9015d4",
+    "url": "http://wepower.network",
+    "explorers": [
+        "https://etherscan.io/token/0x4CF488387F035FF08c371515562CBa712f9015d4",
+        "https://ethplorer.io/address/0x4cf488387f035ff08c371515562cba712f9015d4"
+    ],
+    "twitter": "WePowerN",
+    "facebook": "WePowerNetwork",
+    "telegram": "WePowerNetwork",
+    "github_org": "WePowerNetwork"
+}

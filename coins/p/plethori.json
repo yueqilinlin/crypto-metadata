@@ -1,0 +1,25 @@
+{
+    "id": "plethori",
+    "symbol": "ple",
+    "name": "Plethori",
+    "platforms": {
+        "ethereum": "0x3873965e73d9a21f88e645ce40b7db187fde4931"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "Plethori is a cross-chain investment platform for the creation and trading of decentralized exchange traded funds (ETFs) built on Polkadot. The platform will allow users to trade a wide range of ETFs centered around industries and sectors driving the crypto space ie NFTs, oracles, Polkadot ecosystem etc and also allows users to stake collateral to create their own customized ETFs and earn a portion of the transaction fees as it is traded on our platform\r\n\r\nIt is a multichain platform allowing investment into the various ecosystems in different blockchains and will be built on top of Optimism's layer 2 solution to achieve ultra fast low cost transactions. \r\n\r\nPlethori's platforms will provide a fiat gateway to facilitate investments from the TradFi markets, and will also integrate NFT rewards, providing incentive for engagement on the platform for traders and fund creators. NFTs will also act as access cards to the more advanced features on the platform such as access to trading with higher leverage."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x3873965e73d9a21f88e645ce40b7db187fde4931",
+    "url": "https://plethori.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3873965e73d9a21f88e645ce40b7db187fde4931",
+        "https://ethplorer.io/address/0x3873965e73d9a21f88e645ce40b7db187fde4931"
+    ],
+    "twitter": "plethori",
+    "telegram": "plethori"
+}

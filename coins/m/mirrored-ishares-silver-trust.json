@@ -1,0 +1,29 @@
+{
+    "id": "mirrored-ishares-silver-trust",
+    "symbol": "mslv",
+    "name": "Mirrored iShares Silver Trust",
+    "platforms": {
+        "ethereum": "0x9d1555d8cb3c846bb4f7d5b1b1080872c3166676",
+        "binance-smart-chain": "0x211e763d0b9311c08ec92d72ddc20ab024b6572a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Mirrored Assets"
+    ],
+    "description": {
+        "en": "Mirrored iShares Silver Trust - synthetic asset tracking the price of an iShares Silver Trust ETF. "
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x9d1555d8cb3c846bb4f7d5b1b1080872c3166676",
+    "url": "https://mirror.finance",
+    "explorers": [
+        "https://finder.terra.money/columbus-4/token/terra1kscs6uhrqwy6rx5kuw5lwpuqvm3t6j2d6uf2lp",
+        "https://etherscan.io/token/0x9d1555d8cB3C846Bb4f7D5B1B1080872c3166676",
+        "https://ethplorer.io/address/0x9d1555d8cb3c846bb4f7d5b1b1080872c3166676",
+        "https://bscscan.com/token/0x211e763d0b9311c08EC92D72DdC20AB024b6572A"
+    ],
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol",
+    "github_org": "mirror-protocol"
+}

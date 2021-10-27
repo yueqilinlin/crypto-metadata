@@ -1,0 +1,22 @@
+{
+    "id": "safemoney",
+    "symbol": "safemoney",
+    "name": "SafeMoney",
+    "platforms": {
+        "tron": "TNBrVEzuVYbNbGF2ua3ivSX5Y5V9N4xhax"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SAFEMONEY is a yield and liquidity generation protocol. It taxes transactions and distributes 5% to holders and locks 5% to liquidity. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TNBrVEzuVYbNbGF2ua3ivSX5Y5V9N4xhax",
+    "url": "https://www.safemoney.network/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TNBrVEzuVYbNbGF2ua3ivSX5Y5V9N4xhax"
+    ],
+    "twitter": "SAFEMoneytrx",
+    "telegram": "SAFEMoneytrx"
+}

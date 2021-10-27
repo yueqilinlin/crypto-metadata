@@ -1,0 +1,27 @@
+{
+    "id": "custom-contract-network",
+    "symbol": "ccn",
+    "name": "Custom contract network",
+    "platforms": {
+        "ethereum": "0x17b26400621695c2d8c2d8869f6259e82d7544c4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Our token distributor contract enable to use the power of leading blockchain technology. This smart contract will allow Ethereum users to distribute bulk distribution in one click to reduce the power, electricity, transaction fee, manpower, manageability and carefulness"
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x17b26400621695c2d8c2d8869f6259e82d7544c4",
+    "url": "https://www.customcontract.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x17b26400621695c2d8c2d8869f6259e82d7544c4",
+        "https://ethplorer.io/address/0x17b26400621695c2d8c2d8869f6259e82d7544c4"
+    ],
+    "twitter": "ccntoken",
+    "facebook": "ccntoken",
+    "telegram": "ccntoken",
+    "github_org": "ccndevelopers"
+}

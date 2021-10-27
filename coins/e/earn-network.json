@@ -1,0 +1,24 @@
+{
+    "id": "earn-network",
+    "symbol": "earn$",
+    "name": "Earn Network",
+    "platforms": {
+        "ethereum": "0x31e92324ef7185c65dd4d154cfa4f6326b489c55"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Effortless Decentralized Passive Income. Hold and EARN.\r\nEARN works by applying a 3% fee to each transaction and instantly splitting 1.5% of that fee among all holders of the token. The other 1.5% is burned, making the tokens more scarce over time.\r\n\r\nHolders do not need to wait or stake for their fees to be delivered. Fees are awarded by the smart contract and are immediately shown in the holder\u2019s balance. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x31e92324ef7185c65dd4d154cfa4f6326b489c55",
+    "url": "https://earnnetwork.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x31e92324ef7185c65dd4d154cfa4f6326b489c55",
+        "https://ethplorer.io/address/0x31e92324ef7185c65dd4d154cfa4f6326b489c55"
+    ],
+    "twitter": "0xEarn",
+    "telegram": "earnnetwork",
+    "github_org": "mrkawdy"
+}

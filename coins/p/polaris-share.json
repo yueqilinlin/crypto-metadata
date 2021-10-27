@@ -1,0 +1,24 @@
+{
+    "id": "polaris-share",
+    "symbol": "pola",
+    "name": "Polaris Share",
+    "platforms": {
+        "ethereum": "0xc691bc298a304d591ad9b352c7a8d216de9f2ced"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Polaris service is the distributed trading system of incentive knowledge, the system which connects knowledge producers and users.\r\n\r\nThis project enables knowledge producers to earn rewards and users to get higher quality knowledge with lower costs by evaluating the value of knowledge and trading knowledge beyond simply document sharing services"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc691bc298a304d591ad9b352c7a8d216de9f2ced",
+    "url": "https://polarishare.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xc691bc298a304d591Ad9b352c7A8D216dE9f2CED",
+        "https://ethplorer.io/address/0xc691bc298a304d591Ad9b352c7A8D216dE9f2CED"
+    ],
+    "twitter": "Polarishare",
+    "facebook": "polarishare",
+    "telegram": "official_polarishare"
+}

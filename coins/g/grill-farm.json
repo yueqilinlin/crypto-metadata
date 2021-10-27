@@ -1,0 +1,22 @@
+{
+    "id": "grill-farm",
+    "symbol": "grill",
+    "name": "Grill Farm",
+    "platforms": {
+        "binance-smart-chain": "0x7853401a1095dd0b04edb92366233c37fb511e89"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Grill Farm is the first ever burner anti-farm running on #BSC! Max supply is reached at launched and will only decrease"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7853401a1095dd0b04edb92366233c37fb511e89",
+    "url": "https://grill.farm/",
+    "explorers": [
+        "https://bscscan.com/token/0x7853401a1095dd0b04edb92366233c37fb511e89"
+    ],
+    "twitter": "Grill_Farm",
+    "telegram": "grill_farm"
+}

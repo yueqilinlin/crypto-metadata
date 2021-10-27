@@ -1,0 +1,23 @@
+{
+    "id": "moondash",
+    "symbol": "moondash",
+    "name": "MoonDash",
+    "platforms": {
+        "binance-smart-chain": "0x2e44fad7f8c5351c759c68d721a01377e7bf9479"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MoonDash is a mix and match ecosystem of auto-generating liquidity, lottery, distribution and buy back function. All-in-one."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x2e44fad7f8c5351c759c68d721a01377e7bf9479",
+    "url": "https://moondash.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x2e44fad7f8c5351c759c68d721a01377e7bf9479"
+    ],
+    "twitter": "MoonDashBSC",
+    "telegram": "MoonDashBSC",
+    "reddit": "MoonDashBSC/"
+}

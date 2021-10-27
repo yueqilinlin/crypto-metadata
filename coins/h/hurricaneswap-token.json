@@ -1,0 +1,22 @@
+{
+    "id": "hurricaneswap-token",
+    "symbol": "hct",
+    "name": "HurricaneSwap Token",
+    "platforms": {
+        "avalanche": "0x45c13620b55c35a5f539d26e88247011eb10fdbd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cross-chain Liquidity DEX on Avalanche. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x45c13620b55c35a5f539d26e88247011eb10fdbd",
+    "url": "https://hurricaneswap.com/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0x45C13620B55C35A5f539d26E88247011Eb10fDbd/token-transfers"
+    ],
+    "twitter": "HurricaneSwap",
+    "telegram": "HurricaneSwap"
+}

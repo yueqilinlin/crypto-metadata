@@ -1,0 +1,23 @@
+{
+    "id": "neftipedia",
+    "symbol": "nft",
+    "name": "NEFTiPEDiA",
+    "platforms": {
+        "binance-smart-chain": "0xfaab744db9def8e13194600ed02bc5d5bed3b85c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NEFTiPEDiA aims to become the world\u2019s premier community-run non-fungible token (NFT) marketplace. Join our all-inclusive environment of artists, investors, collectors, and tech enthusiasts. Buy NFT-- our native token-- and take part in our governance process."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfaab744db9def8e13194600ed02bc5d5bed3b85c",
+    "url": "https://neftipedia.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xfaab744db9def8e13194600ed02bc5d5bed3b85c"
+    ],
+    "twitter": "neftipedia",
+    "telegram": "iamneftipedia",
+    "github_org": "NEFTiPEDiA"
+}

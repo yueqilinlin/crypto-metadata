@@ -1,0 +1,20 @@
+{
+    "id": "joulecoin",
+    "symbol": "xjo",
+    "name": "Joulecoin",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [],
+    "description": {
+        "en": "Joulecoin is crypto currency with quick confirmations and transaction comments."
+    },
+    "country_origin": "",
+    "genesis_date": "2013-09-22",
+    "url": "http://www.jouleco.in/",
+    "explorers": [
+        "https://chainz.cryptoid.info/xjo/"
+    ],
+    "twitter": "joulecoin",
+    "reddit": "joulecoin",
+    "github_org": "joulecoin"
+}

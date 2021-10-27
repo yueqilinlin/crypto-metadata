@@ -1,0 +1,24 @@
+{
+    "id": "gamestop-finance",
+    "symbol": "gme",
+    "name": "GameStop Finance",
+    "platforms": {
+        "ethereum": "0x9eb6be354d88fd88795a04de899a57a77c545590"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9eb6be354d88fd88795a04de899a57a77c545590",
+    "url": "https://www.gamestop.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x9eb6be354d88fd88795a04de899a57a77c545590",
+        "https://ethplorer.io/address/0x9eb6be354d88fd88795a04de899a57a77c545590"
+    ],
+    "twitter": "GameStopFinance",
+    "telegram": "GameStopFinance",
+    "github_org": "GameStopFinance"
+}

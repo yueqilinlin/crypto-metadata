@@ -1,0 +1,24 @@
+{
+    "id": "troy",
+    "symbol": "troy",
+    "name": "Troy",
+    "platforms": {
+        "binancecoin": "TROY-9B8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "Aggregated Trading: Troy provides users with full access to the aggregated liquidity of a group of crypto exchanges. Some key functions include smart order routing, flexible account management, dark pool, settlement service and automatic risk management.\r\n\r\nData Analytics: Troy supports customer\u2019s decision making with blockchain data, trading data, market data, social data and media data optimized by AI and quantitative models.\r\n\r\nDiversified Brokerage Service: Troy offers a range of services including real-time fund transfer and settlement, margin trading, OTC, etc.\r\n\r\nFull-Stack Asset Management Solutions: Troy is powered by co-location and low-latency access service to improve high-frequency trading algorithm performance. It also provides exposure to quantitative solutions with straight through processing, precise tick historical data and strategy assessment system."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TROY-9B8",
+    "url": "https://troytrade.com/",
+    "explorers": [
+        "https://explorer.binance.org/asset/TROY-9B8"
+    ],
+    "twitter": "troytrade",
+    "telegram": "TroyTrade_Official"
+}

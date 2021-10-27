@@ -1,0 +1,23 @@
+{
+    "id": "cryptopunt",
+    "symbol": "pun",
+    "name": "CryptoPunt",
+    "platforms": {
+        "ethereum": "0x31903e333809897ee57af57567f4377a1a78756c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CryptoPunt is a Polygon-based gaming and gambling platform that offers cutting-edge gaming experiences.\r\n\r\nEvery game has an openly auditable algorithm allowing gamers to verify the fairness of their games."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x31903e333809897ee57af57567f4377a1a78756c",
+    "url": "https://cryptopunt.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x31903E333809897eE57Af57567f4377a1a78756c",
+        "https://ethplorer.io/address/0x31903e333809897ee57af57567f4377a1a78756c"
+    ],
+    "twitter": "puntcrypto",
+    "telegram": "CryptoPunt"
+}

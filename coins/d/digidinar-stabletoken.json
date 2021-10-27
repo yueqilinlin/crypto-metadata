@@ -1,0 +1,25 @@
+{
+    "id": "digidinar-stabletoken",
+    "symbol": "ddrst",
+    "name": "DigiDinar StableToken",
+    "platforms": {
+        "ethereum": "0x3ef36d53a168c44ed2ec7a98129ca0308bc1ae45"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "KW",
+    "genesis_date": null,
+    "contract_address": "0x3ef36d53a168c44ed2ec7a98129ca0308bc1ae45",
+    "url": "https://www.digidinar.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3ef36D53A168c44ed2Ec7a98129CA0308BC1AE45",
+        "https://ethplorer.io/address/0x3ef36D53A168c44ed2Ec7a98129CA0308BC1AE45"
+    ],
+    "twitter": "DigiDinars",
+    "facebook": "digidinar",
+    "telegram": "DigiDinarKuwait",
+    "github_org": "DigiDinar-Project"
+}

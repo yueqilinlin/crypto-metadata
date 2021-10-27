@@ -1,0 +1,23 @@
+{
+    "id": "smart-dollar",
+    "symbol": "sd",
+    "name": "Smart Dollar",
+    "platforms": {
+        "binance-smart-chain": "0x69eb9dda7776dfa2fef16b61d0ada70f4bc1a3ca"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Smart Dollar (SD) is a BSC self-stabilising decentralised novel elastic-supply stablecoin."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x69eb9dda7776dfa2fef16b61d0ada70f4bc1a3ca",
+    "url": "https://smartdollar.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x69eb9DDa7776Dfa2feF16B61D0Ada70F4bC1A3Ca"
+    ],
+    "twitter": "ssdprotocol",
+    "telegram": "ssdprotocol",
+    "github_org": "smartdollar"
+}

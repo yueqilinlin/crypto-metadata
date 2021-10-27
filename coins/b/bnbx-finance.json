@@ -1,0 +1,23 @@
+{
+    "id": "bnbx-finance",
+    "symbol": "bnbx",
+    "name": "BNBX Finance",
+    "platforms": {
+        "binance-smart-chain": "0x1592271a485e7f12de1eccf2555cea7763f29cac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BNBX Finance is a Charity focused Deflationary Token and NFT Digital-Art Marketplace for artists, built on the Binance Smart Chain."
+    },
+    "country_origin": "MY",
+    "genesis_date": null,
+    "contract_address": "0x1592271a485e7f12de1eccf2555cea7763f29cac",
+    "url": "https://bnbx.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x1592271a485E7F12De1EcCF2555cea7763f29cAC"
+    ],
+    "twitter": "bnbxfinance",
+    "telegram": "bnbxfinance",
+    "github_org": "BNBX-Finance"
+}

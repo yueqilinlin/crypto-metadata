@@ -1,0 +1,23 @@
+{
+    "id": "clown-coin",
+    "symbol": "clown",
+    "name": "Clown Coin",
+    "platforms": {
+        "binance-smart-chain": "0xfa949ef822125233f1e1a0691c13977b4354b257"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Clown coin is a binary smart chain network based on the BEP-20 token. A deflation mechanism will be built."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xfa949ef822125233f1e1a0691c13977b4354b257",
+    "url": "https://www.clown-coin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xfA949EF822125233f1e1A0691c13977B4354B257"
+    ],
+    "twitter": "clownglobal1",
+    "telegram": "clown_88",
+    "github_org": "clown-coin"
+}

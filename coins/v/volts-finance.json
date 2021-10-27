@@ -1,0 +1,23 @@
+{
+    "id": "volts-finance",
+    "symbol": "volts",
+    "name": "Volts.Finance",
+    "platforms": {
+        "ethereum": "0x14d1c83df4decee9deb14ee851f109f0101a6631"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A deflationary yield farming protocol that marries being a store of value with promoting a vibrant community led ecosystem. We keep it simple and honest alongside aiming to be a guiding hand in allowing you guys to build on top of our work."
+    },
+    "country_origin": "SE",
+    "genesis_date": null,
+    "contract_address": "0x14d1c83df4decee9deb14ee851f109f0101a6631",
+    "url": "https://volts.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x14d1c83df4decee9deb14ee851f109f0101a6631",
+        "https://ethplorer.io/address/0x14d1c83df4decee9deb14ee851f109f0101a6631"
+    ],
+    "twitter": "VoltsFinance",
+    "telegram": "volts_finance"
+}

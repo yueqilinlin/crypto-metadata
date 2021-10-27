@@ -1,0 +1,24 @@
+{
+    "id": "supermoon",
+    "symbol": "osm",
+    "name": "Supermoon",
+    "platforms": {
+        "binance-smart-chain": "0xfaefe2e0d056243060a6f640d5735cae307001c4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Supermoon is a frictionless yield generating BEP-20 Token. Our Mission is simple.\r\nTo show the world that a strong community can take an alt-coin from obscurity to becoming a global force to be reckoned with."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfaefe2e0d056243060a6f640d5735cae307001c4",
+    "url": "https://supermoon.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xfaefe2e0d056243060a6f640d5735cae307001c4"
+    ],
+    "twitter": "supermoon_token",
+    "telegram": "Supermoon_Finance",
+    "reddit": "Supermoon_Finance/",
+    "github_org": "Supermoon-Finance"
+}

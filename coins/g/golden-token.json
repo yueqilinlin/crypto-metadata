@@ -1,0 +1,26 @@
+{
+    "id": "golden-token",
+    "symbol": "gold",
+    "name": "Golden Token",
+    "platforms": {
+        "ethereum": "0x34d6a0f5c2f5d0082141fe73d93b9dd00ca7ce11"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "GOLDEN TOKEN is a one of a deflationary Token. The rules are simple. There were originally 1,000,000 GOLD in existence.\r\n\r\nEach time a GOLD is transferred, 1% of the transaction is destroyed.\r\n\r\nThe recipient will get 99% of the transaction amount.\r\n\r\nSo that every time a transfer token occurs, it will reduce global supply."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x34d6a0f5c2f5d0082141fe73d93b9dd00ca7ce11",
+    "url": "https://goldentoken.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x34d6a0f5c2f5d0082141fe73d93b9dd00ca7ce11",
+        "https://ethplorer.io/address/0x34d6a0f5c2f5d0082141fe73d93b9dd00ca7ce11"
+    ],
+    "twitter": "goldentoken_org",
+    "facebook": "goldentoken.official",
+    "telegram": "golden_token"
+}

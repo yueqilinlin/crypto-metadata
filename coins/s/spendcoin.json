@@ -1,0 +1,30 @@
+{
+    "id": "spendcoin",
+    "symbol": "spnd",
+    "name": "Spendcoin",
+    "platforms": {
+        "ethereum": "0xddd460bbd9f79847ea08681563e8a9696867210c"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cosmos Ecosystem",
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Spendcoin is a decentralized cryptocurrency that powers the Spend.com ecosystem of products. Spend has two financial services products, the Spend App and Spend Card, which are products of Spend.com that give our users a multi-currency digital wallet that they are able to store fiat and digital assets/currencies. They will be able to buy, sell, store, manage, and exchange all supported currencies within the app. The Spend App is available on iOS, Android, or Web based devices. The Spend prepaid debit card allows users to send fiat based currencies loaded onto it via the Spend App anywhere that accepts MasterCard. \r\n\r\nSpend Foundation is also launching a decentralized educational platform called Blockchain University (bu.org). Blockchain University is designed to run off our open-source blockchain called Cross Ledger which incorporates a hybrid delegated proof-of-stake consensus model called Proof-of-Support. Proof-of-Support creates a learning based ecosystem that rewards those users who support and answer the knowledge base and Quora style system. Spendcoin will be the native digital currency powering the platform. Blockchain University and Cross Ledger are planned to launch in 2019."
+    },
+    "country_origin": "EE",
+    "genesis_date": "2019-01-30",
+    "contract_address": "0xddd460bbd9f79847ea08681563e8a9696867210c",
+    "url": "https://spend.org",
+    "explorers": [
+        "https://etherscan.io/token/0xddd460bbd9f79847ea08681563e8a9696867210c",
+        "https://ethplorer.io/address/0xddd460bbd9f79847ea08681563e8a9696867210c",
+        "https://explorer.binance.org/asset/SPNDB-916"
+    ],
+    "twitter": "Spendchain",
+    "facebook": "SpendFoundation",
+    "telegram": "SpendChat",
+    "reddit": "Spend/",
+    "github_org": "Spend"
+}

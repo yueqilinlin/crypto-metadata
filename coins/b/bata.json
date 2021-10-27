@@ -1,0 +1,19 @@
+{
+    "id": "bata",
+    "symbol": "bta",
+    "name": "Bata",
+    "platforms": {},
+    "hashing_algorithm": "Multiple Algorithms",
+    "categories": [],
+    "description": {
+        "en": "Bata (BTA), or Barter And Trade Alternative, describes itself as a cryptocurrency that has been developed to replace trade dollars in traditional barter systems. Bata aims to change way the way people trade by introducing Barter on the Blockchain. The project's vision is to introduce a new system of commerce (called Barterchain) that aims to create new jobs and help break away from the current system of debt based money.\r\n\r\nThe team claims that BATA has the following features:\r\n\r\n- Dynamic Blocks - Based on block height and difficulty (means no cheap blocks)\r\n\r\n- Instamine protection - Instamine protection will trigger after 5 blocks of a single algorithm are mined in a short period of time.\r\n\r\n- Deadlock protection - Difficulty is reduced even when no new blocks are found, new blocks are mined much faster even after a period of very high hash rate.\r\n\r\n- Spork control over block processing - The team claims to have full control of block processing without the need for wallet upgrades.\r\n\r\n#Sha256d, Scrypt, Nist5, Lyra2z, x11, x16r"
+    },
+    "country_origin": "",
+    "genesis_date": "2015-05-08",
+    "url": "https://bata.io",
+    "explorers": [
+        "https://chainz.cryptoid.info/bta/"
+    ],
+    "reddit": "batamoney",
+    "github_org": "BTA-BATA"
+}

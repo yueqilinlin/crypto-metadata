@@ -1,0 +1,24 @@
+{
+    "id": "aquafi",
+    "symbol": "aqua",
+    "name": "AquaFi",
+    "platforms": {
+        "ethereum": "0xd34a24006b862f4e9936c506691539d6433ad297"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$AQUA is the native token for the AquaFi protocol \u2014 a universal liquidity mining protocol that allows anyone to earn a premium on their LP fees from DEXs like Uniswap and Suishiswap."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd34a24006b862f4e9936c506691539d6433ad297",
+    "url": "https://aquafi.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xd34a24006b862f4e9936c506691539d6433ad297",
+        "https://ethplorer.io/address/0xd34a24006b862f4e9936c506691539d6433ad297"
+    ],
+    "twitter": "AquaFiProtocol",
+    "telegram": "AquaFiProtocol",
+    "github_org": "orgs"
+}

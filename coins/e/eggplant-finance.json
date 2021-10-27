@@ -1,0 +1,23 @@
+{
+    "id": "eggplant-finance",
+    "symbol": "eggp",
+    "name": "Eggplant Finance",
+    "platforms": {
+        "binance-smart-chain": "0x21adb1c644663069e83059ac3f9d9ca1133d29e4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Eggplant Finance is a DeFi protocol that runs on Binance Smart Chain,  with the goal of delivering innovative yield farming features and token-based gaming/NFT elements.  The Eggplant platform will feature a variety of token based mini games, NFT staking pools and Marketplace, and other crypto portfolio features that aim to bring maximum gains to the customers."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x21adb1c644663069e83059ac3f9d9ca1133d29e4",
+    "url": "https://eggplant.fi",
+    "explorers": [
+        "https://bscscan.com/token/0x21adB1c644663069e83059AC3f9d9Ca1133D29e4"
+    ],
+    "twitter": "eggplant_fi",
+    "telegram": "Eggplant_Fi",
+    "github_org": "eggplant-finance"
+}

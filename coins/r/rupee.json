@@ -1,0 +1,22 @@
+{
+    "id": "rupee",
+    "symbol": "rup",
+    "name": "Rupee",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "The rupee is the common name for the currencies of India, Indonesia, Maldives, Mauritius, Nepal, Pakistan, Seychelles, Sri Lanka, and formerly those of Afghanistan, Tibet, Burma and British East Africa, German East Africa and Trucial States."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-01-30",
+    "url": "http://rupeedigitalmoney.info/",
+    "explorers": [
+        "https://www.blockexperts.com/rup"
+    ],
+    "twitter": "RupeeBlockchain",
+    "telegram": "rupeeblockchain",
+    "github_org": "rupeedigitalassets"
+}

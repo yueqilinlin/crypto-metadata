@@ -1,0 +1,26 @@
+{
+    "id": "tokenbox",
+    "symbol": "tbx",
+    "name": "Tokenbox",
+    "platforms": {
+        "ethereum": "0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tokenbox is a platform for professionals only. Traders and Funds participating are carefully selected and reviewed. We conduct Due Diligence of all traders. And no fund can withdraw assets from a client\u2019s account. The Rating System and \u201cAdvisory Service\u201d can assist you in making the optimal choice of the traders represented on our system."
+    },
+    "country_origin": "RU",
+    "genesis_date": "2017-12-03",
+    "contract_address": "0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b",
+    "url": "https://tokenbox.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b",
+        "https://ethplorer.io/address/0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b"
+    ],
+    "twitter": "tokenbox",
+    "facebook": "Tokenbox",
+    "telegram": "Tokenbox",
+    "reddit": "tokenbox/",
+    "github_org": "zeriontech"
+}

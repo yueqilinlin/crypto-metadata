@@ -1,0 +1,23 @@
+{
+    "id": "polyyield-token",
+    "symbol": "yield",
+    "name": "PolyYield Token",
+    "platforms": {
+        "polygon-pos": "0xce4e6da9c509cb33c23d748713c681c959f68658"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PolyYield Finance is the latest and greatest next generation yield farming protocol, powered by Polygon, enabling you to earn passive income. \r\n$YIELD is a 1:1 fork of $YELD (PolyYeld) with lowered deposit fees and a fairer initial distribution (200 tokens at launch = less price dilution with 690 tokens farmed/day)."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xce4e6da9c509cb33c23d748713c681c959f68658",
+    "url": "https://polyyield.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0xce4e6da9c509cb33c23d748713c681c959f68658"
+    ],
+    "twitter": "polyyield",
+    "telegram": "polyyieldfinance",
+    "github_org": "PolyYield"
+}

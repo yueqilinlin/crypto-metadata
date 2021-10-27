@@ -1,0 +1,20 @@
+{
+    "id": "nodetrade",
+    "symbol": "mnx",
+    "name": "Nodetrade",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "An exchange platform for masternode investors to exchange masternode collaterals with each other without loosing liquidity nor affect the value of both old and new assets. Different masternode coins can be exchanged/traded for each other using the Nodetrade P2P platform."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "url": "https://nodetrade.net/",
+    "explorers": [
+        "https://mnx.cryptoscope.io/"
+    ],
+    "twitter": "nodetrade",
+    "telegram": "nodetrade",
+    "github_org": "nodetradecoin"
+}

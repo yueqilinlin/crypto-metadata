@@ -1,0 +1,24 @@
+{
+    "id": "drc-mobility",
+    "symbol": "drc",
+    "name": "DRC Mobility",
+    "platforms": {
+        "ethereum": "0xd7f5cabdf696d7d1bf384d7688926a4bdb092c67"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DRC is based on a luxury car rental platform.\r\nIt is an integrated mobility platform that combines blockchain.\r\n\r\nBy integrating the existing mobility service areas into one Leading the smart blockchain economy."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0xd7f5cabdf696d7d1bf384d7688926a4bdb092c67",
+    "url": "https://drc.asia/",
+    "explorers": [
+        "https://etherscan.io/token/0xd7f5CABdF696D7d1bf384D7688926A4bdB092c67",
+        "https://ethplorer.io/address/0xd7f5CABdF696D7d1bf384D7688926A4bdB092c67"
+    ],
+    "twitter": "drc_asia",
+    "telegram": "DRC_Official",
+    "github_org": "DRC-asia"
+}

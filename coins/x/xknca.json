@@ -1,0 +1,25 @@
+{
+    "id": "xknca",
+    "symbol": "xknca",
+    "name": "xKNCa",
+    "platforms": {
+        "ethereum": "0x0bfec35a1a3550deed3f6fc76dde7fc412729a91"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Wrapper for the KyberDAO staking process; mandate to maximize rewards for stakers"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x0bfec35a1a3550deed3f6fc76dde7fc412729a91",
+    "url": "https://xtoken.market",
+    "explorers": [
+        "https://etherscan.io/token/0x0bfEc35a1A3550Deed3F6fC76Dde7FC412729a91",
+        "https://ethplorer.io/address/0x0bfec35a1a3550deed3f6fc76dde7fc412729a91"
+    ],
+    "twitter": "xtokenmarket",
+    "github_org": "xtokenmarket"
+}

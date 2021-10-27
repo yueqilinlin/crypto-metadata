@@ -1,0 +1,29 @@
+{
+    "id": "aircoins",
+    "symbol": "airx",
+    "name": "Aircoins",
+    "platforms": {
+        "ethereum": "0x8cb1d155a5a1d5d667611b7710920fd9d1cd727f",
+        "binance-smart-chain": "0x6fb05b156788e88c8ad1e057e729362ff8c39d93"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Augmented Reality (AR) and blockchain applications are leading the next technology revolution. The cryptocurrency market will reach $1 Trillion marketcap. Aircoins aims to unlock the digital ecosystem with hidden treasures for you to unlock in the AR environment. Be able to pickup, drop and trade cryptos in AR."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8cb1d155a5a1d5d667611b7710920fd9d1cd727f",
+    "url": "https://aircoins.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x8cb1d155a5a1d5d667611b7710920fD9D1CD727F",
+        "https://ethplorer.io/address/0x8cb1d155a5a1d5d667611b7710920fd9d1cd727f",
+        "https://bscscan.com/token/0x6fb05b156788e88c8ad1e057e729362ff8c39d93"
+    ],
+    "twitter": "AIRCOINS_App",
+    "facebook": "Aircoins",
+    "telegram": "aircoins",
+    "reddit": "Aircoins/"
+}

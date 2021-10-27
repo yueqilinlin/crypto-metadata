@@ -1,0 +1,24 @@
+{
+    "id": "ttc-protocol",
+    "symbol": "maro",
+    "name": "Maro",
+    "platforms": {
+        "ethereum": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Maro provides an efficient easy-to-use platform for value exchange and secure financial service for global citizens. No more hurdles and restrictions, claim the rights you deserve from the palm of your hand."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "url": "https://ma.ro/",
+    "explorers": [
+        "http://scan.ma.ro"
+    ],
+    "twitter": "TTC_Blockchain",
+    "facebook": "ttceco",
+    "telegram": "ttc_en",
+    "reddit": "TTC_Protocol/",
+    "github_org": "TTCECO"
+}

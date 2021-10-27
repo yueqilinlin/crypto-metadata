@@ -1,0 +1,25 @@
+{
+    "id": "kranz-token",
+    "symbol": "krz",
+    "name": "Kranz Token",
+    "platforms": {
+        "ethereum": "0xf54b304e2e4b28c7e46619d1a340f9b2b72383d7",
+        "binance-smart-chain": "0xf54b304e2e4b28c7e46619d1a340f9b2b72383d7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kranz is an ERC-20 and BEP-20 token that will be implemented as an Automated Market Maker (AMM) token on the upcoming Kranz Decentralized Exchange (DEX) and will also be used as a reward token when the DEX is unified with the Kranz Centralized Exchange (CEX) on the same website.\r\n\r\nWhat Makes Kranz Unique?\r\n\r\nKranz Token has an Integration Wallet that will cover the cost of a business starting to accept Cryptocurrency.\r\n\r\nKranz Token also has a Reward Wallet that has specific allocations for the first 200 businesses to join in a partnership with Kranz and to start accepting Cryptocurrency. The Kranz Exchange will eventually use tokens from this wallet in order to reward businesses proportional on every transaction for accepting Cryptocurrency. The Kranz Exchange will also compensate for any volatility or arbitrage that a business faces when accepting Cryptocurrency.\r\n\r\nWhat Is the Kranz Exchange?\r\n\r\nThe Kranz Exchange is a unified DEX and CEX exchange under development that will focus on the following:\r\n\r\n1. Simplicity and a User Interface that is extremely easy to use, especially for people who\r\nare new to the Cryptocurrency ecosystem.\r\n\r\n2. Diverse compatibility between an abundance of tokens available on the exchange.\r\n\r\n3. Becoming the perfect avenue for businesses to accept Cryptocurrency because they will be getting Kranz rewards and have their arbitrage to USD covered.\r\n\r\nWho Is Developing the Kranz Exchange?\r\n\r\nThe Kranz Exchange is founded by CEO Tim Wing, COO John Redmond, Luke Keiser, and Joseph Kalisz. They have hired 16 developers through Yagnesh's team at Gems Digital Media. The first iteration of the Kranz Exchange will be a DEX with Simple/Advanced/Chart views and should be completed by October."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf54b304e2e4b28c7e46619d1a340f9b2b72383d7",
+    "url": "https://www.kranz.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xf54b304e2e4b28c7e46619d1a340f9b2b72383d7",
+        "https://ethplorer.io/address/0xf54b304e2e4b28c7e46619d1a340f9b2b72383d7"
+    ],
+    "twitter": "KranzToken",
+    "telegram": "KranzChat",
+    "reddit": "kranz/"
+}

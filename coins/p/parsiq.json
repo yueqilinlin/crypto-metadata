@@ -1,0 +1,33 @@
+{
+    "id": "parsiq",
+    "symbol": "prq",
+    "name": "PARSIQ",
+    "platforms": {
+        "ethereum": "0x362bc847a3a9637d3af6624eec853618a43ed7d2",
+        "binance-smart-chain": "0xd21d29b38374528675c34936bf7d5dd693d2a577"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Binance Smart Chain Ecosystem",
+        "Polkadot Ecosystem",
+        "Solana Ecosystem",
+        "Analytics",
+        "Smart Contract Platform",
+        "Business Services",
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "PARSIQ is a middleware connectivity layer between on-chain and off-chain systems. We run our own nodes (Bitcoin, Ethereum, Algorand, BSC, Solana, Celo and Dash), embed our trackers and tracers in the source code, and enable our users to write conditional scripts to monitor transactions and events and create data streams delivered to off-chain systems. We like to call our scripts smart triggers, which effectively is IFTTT for blockchain. Our triggers also allow for data enrichment via integration with third party datasets like Chainlink, Aave, Balancer, Ocean protocol, Uppsala Security, Bitfury Crystal, and others."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x362bc847a3a9637d3af6624eec853618a43ed7d2",
+    "url": "https://www.parsiq.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
+        "https://ethplorer.io/address/0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
+        "https://bscscan.com/token/0xd21d29b38374528675c34936bf7d5dd693d2a577"
+    ],
+    "twitter": "parsiq_net",
+    "telegram": "parsiq_group"
+}

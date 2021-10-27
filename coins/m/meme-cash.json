@@ -1,0 +1,24 @@
+{
+    "id": "meme-cash",
+    "symbol": "mch",
+    "name": "Meme Cash",
+    "platforms": {
+        "ethereum": "0xa4e7414fcba1af15203030c6daac630df8f16aea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MEMECA$H is an experimental community that wants to put together the newest innovations in the blockchain world and crypto collectibles."
+    },
+    "country_origin": "IT",
+    "genesis_date": null,
+    "contract_address": "0xa4e7414fcba1af15203030c6daac630df8f16aea",
+    "url": "https://www.buymeme.cash/",
+    "explorers": [
+        "https://etherscan.io/token/0xA4e7414FCba1AF15203030C6daAC630df8F16AEa",
+        "https://ethplorer.io/address/0xa4e7414fcba1af15203030c6daac630df8f16aea"
+    ],
+    "twitter": "BuyMemeCash",
+    "telegram": "buymemecash",
+    "github_org": "MemeCash"
+}

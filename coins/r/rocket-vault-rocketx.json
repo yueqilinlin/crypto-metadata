@@ -1,0 +1,26 @@
+{
+    "id": "rocket-vault-rocketx",
+    "symbol": "rvf",
+    "name": "Rocket Vault-RocketX",
+    "platforms": {
+        "ethereum": "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
+        "binance-smart-chain": "0x872a34ebb2d54af86827810eebc7b9dc6b2144aa",
+        "polygon-pos": "0x2ce13e4199443fdfff531abb30c9b6594446bbc7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rocket Vault is a one-stop solution to simplify crypto value investing. Its Smart Vault is powered by advanced predictive analytics and machine learning and integrates with leading crypto currency exchanges. Rocket Vault uses advanced Machine Learning to identify tokens with high investment potential for delivering highest APY in stable coins and other cryptocurrency assets."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
+    "url": " https://rocketvaults.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
+        "https://ethplorer.io/address/0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
+        "https://polygonscan.com/token/0x2ce13e4199443fdfff531abb30c9b6594446bbc7"
+    ],
+    "twitter": "RocketVault_",
+    "telegram": "rocketvault"
+}

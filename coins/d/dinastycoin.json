@@ -1,0 +1,24 @@
+{
+    "id": "dinastycoin",
+    "symbol": "dcy",
+    "name": "Dinastycoin",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "IT",
+    "genesis_date": "2016-05-03",
+    "url": "http://www.dinastycoin.com/",
+    "explorers": [
+        "http://www.dinastycoin.com/en/blockchain-explorer/",
+        "https://explorer.dinastycoin.com/"
+    ],
+    "twitter": "dinastycoin",
+    "facebook": "dinastycoin",
+    "telegram": "dinastycoin",
+    "github_org": "dinastyoffreedom"
+}

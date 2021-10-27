@@ -1,0 +1,24 @@
+{
+    "id": "baby-doge-coin",
+    "symbol": "babydoge",
+    "name": "Baby Doge Coin",
+    "platforms": {
+        "binance-smart-chain": "0xc748673057861a797275cd8a068abb95a902e8de"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "Earn Coins & Rescue Dogs.\r\nBaby Doge has learned a few tricks and lessons from his meme father, Doge Coin. A Birthed by fans of the Doge community. Baby Doge seeks to impress his father by showing his new improved transaction speeds & adorableness. He is Hyper-deflationary with an integrated smart staking system built in so more baby doge are being added to your wallet. Simply Love, pet, and watch your baby doge grow. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xc748673057861a797275cd8a068abb95a902e8de",
+    "url": "https://babydogecoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xc748673057861a797275cd8a068abb95a902e8de"
+    ],
+    "twitter": "babydogecoin",
+    "telegram": "babydogecoin"
+}

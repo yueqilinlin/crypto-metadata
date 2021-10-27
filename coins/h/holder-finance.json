@@ -1,0 +1,23 @@
+{
+    "id": "holder-finance",
+    "symbol": "hfi",
+    "name": "Holder Finance",
+    "platforms": {
+        "binance-smart-chain": "0x580631f5cf1052c14452990ef1b117375a1c123b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HFi is a cross-chain defi platform. It aims to become the best store of value token benefiting from the cross-chain defi platforms, and to be the first Holders centric project of the Crosschain DeFi ecosystem. It rewards early adopters and Holders of HFi who stake this community-driven token. The very limited total supply combined with the huge potential of the crosschain ecosystem converge to develop the decentralized finance (DeFi) exposure.\r\nThe purpose of HFi is to become a digital store of value, like a digital gold combining the fast transaction speed a metadata structure of its main product \u201cHolderSwap\u201d to tackle the high gas cost fees on Ethereum thus, allows to anyone worldwide to be part of HFi project and build their future wealth.\r\n\r\nHFi Issuance Holder.Finance is the digital asset, HFi in abbreviation, based on the BEP20, is the technical standard used for tokens within smart contracts on the Binance Smart chain. Total token supply is 1,000 HFi.\r\nHFi Distribution\r\nExcept for the incentive of the team & the private sale (185 HFi), the distribution of the HFi is completely decentralized via minting and community incentive waves based on the smart contract. The only way to earn HFi tokens is to mint during the genesis mining campaign or staking HFi tokens during the staking mining campaign. Except a reserve locked for the team* (10% of the total supply), there are no pre-minted tokens. HFi can only be minted then staked. We ensure that HFi distribution is fair, providing all Holders an equal opportunity."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x580631f5cf1052c14452990ef1b117375a1c123b",
+    "url": "https://holder.finance",
+    "explorers": [
+        "https://bscscan.com/token/0x580631f5cf1052c14452990ef1b117375a1c123b"
+    ],
+    "twitter": "HolderFinance",
+    "telegram": "Holder_Finance",
+    "reddit": "holderfinance/"
+}

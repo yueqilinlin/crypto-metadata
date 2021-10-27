@@ -1,0 +1,22 @@
+{
+    "id": "ink",
+    "symbol": "ink",
+    "name": "Ink",
+    "platforms": {
+        "qtum": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ink is a decentralised solution harnessing the combined power of Consortium Blockchain, Public Blockchain and Cross-chain Interoperability for the global Creative Industry.\r\n\r\nThe vision of Ink is to provide Sovereign Consortium Blockchain to different use cases, to redefine roles, content and behaviours within the industry, and to build for the Creative Industry a decentralised infrastructure in which various applications can be created and correlate to each other under one highly integrated system.\r\n\r\nBased on a credible and stable public blockchain, an Intellectual Property Asset Exchange is built as a trusted corridor for content-to-liquid-asset conversion and token issuance, making it an integrated ecosystem. Furthermore, defining and developing the cross-chain protocol enables value and information to flow freely between public blockchain and consortium blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://ink.one/",
+    "explorers": [
+        "https://explorer.qtum.org/token/fe59cbc1704e89a698571413a81f0de9d8f00c69"
+    ],
+    "twitter": "inklabsfound",
+    "reddit": "InkLabsFoundation",
+    "github_org": "inklabsfoundation"
+}

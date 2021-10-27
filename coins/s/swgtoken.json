@@ -1,0 +1,23 @@
+{
+    "id": "swgtoken",
+    "symbol": "swg",
+    "name": "SWGToken",
+    "platforms": {
+        "binance-smart-chain": "0xe792f64c582698b8572aaf765bdc426ac3aefb6b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Swirge is a cryptocurrency project building an ecosystem of decentralized products on the blockchain. \r\nSwirge products cut across daily used online technology with transformed features through the implementation of decentralized systems and processes. \r\nAt the core of the swirge idea are simplicity, transparency, and innovation. The total decentralization of applications is the aim of the Swirge team. To achieve this, we have set precedents to ensure a non-deviation from the core idea. \r\nAt swirge, we intend to give users complete control over their account data, privacy, and finances through blockchain technology, and to empower users to participate in a financial marketplace that is open and accessible to all. \r\nThe Swirge Development team is committed to building a product ecosystem inclusive of user friendly mobile apps and desktop wallets which will provide a seamless experience for all users. \r\nIt is envisaged that users will be able to pay, transfer or hold crypto assets, earn, buy and sell, socialize, without worrying about the complexity of the underlying system which will ensure freedom of speech; be devoid of regulations; and most importantly secure. \r\nSwirge will ensure that users have total control of the important features.\r\n\r\nThe Swirge ecosystem is a user-centric platform that was created with the user in mind. Swirge, for starters, protects users' data and information while also giving them complete control over their data. Second, it empowers users to create wealth directly from social media without the involvement of third parties, allowing them to take control of their finances."
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "contract_address": "0xe792f64c582698b8572aaf765bdc426ac3aefb6b",
+    "url": "https://swirge.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xe792f64c582698b8572aaf765bdc426ac3aefb6b"
+    ],
+    "twitter": "swirgenetwork",
+    "telegram": "swirgepay",
+    "github_org": "swirge"
+}

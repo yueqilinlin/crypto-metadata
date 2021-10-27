@@ -1,0 +1,20 @@
+{
+    "id": "geist-eth",
+    "symbol": "geth",
+    "name": "Geist ETH",
+    "platforms": {
+        "fantom": "0x25c130b2624cf12a4ea30143ef50c5d68cefa22f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x25c130b2624cf12a4ea30143ef50c5d68cefa22f",
+    "url": "https://geist.finance/markets",
+    "explorers": [
+        "https://ftmscan.com/token/0x25c130B2624CF12A4Ea30143eF50c5D68cEFA22f"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "melon",
+    "symbol": "mln",
+    "name": "Enzyme",
+    "platforms": {
+        "ethereum": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset Manager",
+        "Finance / Banking",
+        "Business Platform",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "A fast & cost-effective way to build, scale and monetize investment strategies in DeFi. Enzyme is powered by MLN token"
+    },
+    "country_origin": "",
+    "genesis_date": "2017-03-15",
+    "contract_address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
+    "url": "https://enzyme.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
+        "https://ethplorer.io/address/0xec67005c4E498Ec7f55E092bd1d35cbC47C91892"
+    ],
+    "twitter": "enzymefinance",
+    "telegram": "enzymefinance",
+    "reddit": "enzymefinance/",
+    "github_org": "enzymefinance"
+}

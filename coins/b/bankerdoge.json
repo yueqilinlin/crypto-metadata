@@ -1,0 +1,23 @@
+{
+    "id": "bankerdoge",
+    "symbol": "banker",
+    "name": "BankerDoge",
+    "platforms": {
+        "binance-smart-chain": "0xf06419c638a1d809c024aa693147dbdc42b60145"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BankerDoge is a DeFi as a Service platform designed to add features such as staking and DeFi lending to any BSC token. \r\n\r\nAll platform vaults and features boost the $BANKER token price and APY!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf06419c638a1d809c024aa693147dbdc42b60145",
+    "url": "https://bankerdoge.com",
+    "explorers": [
+        "https://bscscan.com/token/0xf06419c638a1d809c024aa693147dbdc42b60145"
+    ],
+    "twitter": "BankerDoge",
+    "telegram": "BankerDogeOfficial",
+    "reddit": "bankerdoge/"
+}

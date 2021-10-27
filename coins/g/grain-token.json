@@ -1,0 +1,23 @@
+{
+    "id": "grain-token",
+    "symbol": "grain",
+    "name": "Grain",
+    "platforms": {
+        "ethereum": "0x6589fe1271a0f29346796c6baf0cdf619e25e58e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6589fe1271a0f29346796c6baf0cdf619e25e58e",
+    "url": "https://harvest.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x6589fe1271a0f29346796c6baf0cdf619e25e58e",
+        "https://ethplorer.io/address/0x6589fe1271a0f29346796c6baf0cdf619e25e58e"
+    ],
+    "twitter": "harvest_finance  ",
+    "reddit": "HarvestFinance/"
+}

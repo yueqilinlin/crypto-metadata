@@ -1,0 +1,24 @@
+{
+    "id": "genwealth-coin",
+    "symbol": "gwc",
+    "name": "GenWealth Coin",
+    "platforms": {
+        "binance-smart-chain": "0x280ce73a3a90b8aeb4ef7ed10c928c35ec5c0420"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GenWealth was created for the everyday crypto user.  The true spirit of the coin lays within the low and middle class of investors.  This name was chosen because the ultimate goal is to provide you and future generations with wealth.  It is for crypto buyers who are passionate about generating wealth, evangelizing crypto sustainability, and supporting crypto-adjacent projects. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x280ce73a3a90b8aeb4ef7ed10c928c35ec5c0420",
+    "url": "https://www.genwealthcoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x280ce73a3a90b8aeb4ef7ed10c928c35ec5c0420"
+    ],
+    "twitter": "genwealthcoin",
+    "facebook": "GenWealthCoin",
+    "telegram": "genwealthcrypto",
+    "reddit": "GenWealthCoin/"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "alldex-alliance",
+    "symbol": "axa",
+    "name": "Alldex Alliance",
+    "platforms": {
+        "ethereum": "0xf8ed6c51762208ff26f8f3e4efd4e06af2da649c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Financial assets and cryptocurrency derivatives exchange, headquartered at the intersection of Eastern and Western culture \u2014Hong Kong. Founded by top-tier investment bankers, veteran traders with over 30 years of experience, former Google and Microsoft IT talents."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf8ed6c51762208ff26f8f3e4efd4e06af2da649c",
+    "url": "http://www.alldex.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xf8ed6c51762208ff26f8f3e4efd4e06af2da649c",
+        "https://ethplorer.io/address/0xf8ed6c51762208ff26f8f3e4efd4e06af2da649c"
+    ],
+    "twitter": "alldex_com",
+    "telegram": "alldex_EN"
+}

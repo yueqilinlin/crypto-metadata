@@ -1,0 +1,25 @@
+{
+    "id": "interfinex-bills",
+    "symbol": "ifex",
+    "name": "Interfinex Bills",
+    "platforms": {
+        "ethereum": "0xa891cf72aeda692570928efe1a832342e9783cdc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Interfinex Bills allow you to participate in the DeFi governance of Interfinex where you can margin trade any token with up to 500x leverage in addition to being able to loan and swap."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xa891cf72aeda692570928efe1a832342e9783cdc",
+    "url": "https://interfinex.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xa891cf72aeda692570928efe1a832342e9783cdc",
+        "https://ethplorer.io/address/0xa891cf72aeda692570928efe1a832342e9783cdc"
+    ],
+    "twitter": "Interfinex_io",
+    "facebook": "Interfinex-103763214881679",
+    "telegram": "interfinexio",
+    "github_org": "International-Financial-Exchange"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "batorrent",
+    "symbol": "ba",
+    "name": "BaTorrent",
+    "platforms": {
+        "tron": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BaTorrent is a Tron blockchain protocol and platform for creating and trading asset tokens."
+    },
+    "country_origin": "BD",
+    "genesis_date": null,
+    "url": "https://batorrent.store/",
+    "explorers": [
+        "https://tronscan.io/#/token/1003743"
+    ],
+    "twitter": "BaTorrent",
+    "telegram": "batorrentnews"
+}

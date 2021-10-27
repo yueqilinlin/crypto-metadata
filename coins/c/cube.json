@@ -1,0 +1,24 @@
+{
+    "id": "cube",
+    "symbol": "auto",
+    "name": "Cube",
+    "platforms": {
+        "ethereum": "0x622dffcc4e83c64ba959530a5a5580687a57581b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x622dffcc4e83c64ba959530a5a5580687a57581b",
+    "url": "https://cubeint.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x622dFfCc4e83C64ba959530A5a5580687a57581b",
+        "https://ethplorer.io/address/0x622dffcc4e83c64ba959530a5a5580687a57581b"
+    ],
+    "twitter": "cubeintel"
+}

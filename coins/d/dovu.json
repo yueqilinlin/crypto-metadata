@@ -1,0 +1,29 @@
+{
+    "id": "dovu",
+    "symbol": "dov",
+    "name": "Dovu",
+    "platforms": {
+        "ethereum": "0xac3211a5025414af2866ff09c23fc18bc97e79b1",
+        "binance-smart-chain": "0xc9457161320210d22f0d0d5fc1309acb383d4609"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "DOVU, partially owned by Jaguar Land Rover, is a tokenized data economy for DeFi carbon offsetting. Land owners who\u2019ve implemented carbon sequestration practices can tokenize their land and make it easy for businesses and individuals to offset their carbon footprint through its decentralized marketplace. It connects land owners who\u2019ve committed to carbon sequestering practices and investors or businesses who want to offset their carbon footprint."
+    },
+    "country_origin": "GB",
+    "genesis_date": "2017-10-03",
+    "contract_address": "0xac3211a5025414af2866ff09c23fc18bc97e79b1",
+    "url": "https://dovu.earth",
+    "explorers": [
+        "https://etherscan.io/token/0xac3211a5025414af2866ff09c23fc18bc97e79b1",
+        "https://ethplorer.io/address/0xac3211a5025414af2866ff09c23fc18bc97e79b1",
+        "https://bscscan.com/token/0xc9457161320210D22F0D0d5fC1309Acb383d4609"
+    ],
+    "twitter": "dovuofficial",
+    "telegram": "dovucommunity",
+    "reddit": "DOVUEarth/",
+    "github_org": "dovuofficial"
+}

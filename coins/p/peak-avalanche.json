@@ -1,0 +1,22 @@
+{
+    "id": "peak-avalanche",
+    "symbol": "peakavax",
+    "name": "Peak Avalanche",
+    "platforms": {
+        "binance-smart-chain": "0x39ab0ede3e107b3d9400cfa4d82d273e72a0b162"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Peak Avalanche ($PEAKAVAX) is the first deflationary token on the BSC that provides generous yields in AVAX for just holding."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x39ab0ede3e107b3d9400cfa4d82d273e72a0b162",
+    "url": "https://pavax.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x39ab0ede3e107b3d9400cfa4d82d273e72a0b162"
+    ],
+    "twitter": "PeakAVAX",
+    "telegram": "PeakAVAX"
+}

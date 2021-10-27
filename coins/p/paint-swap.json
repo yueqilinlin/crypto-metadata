@@ -1,0 +1,28 @@
+{
+    "id": "paint-swap",
+    "symbol": "brush",
+    "name": "Paint Swap",
+    "platforms": {
+        "fantom": "0x85dec8c4b2680793661bca91a8f129607571863d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fantom Ecosystem",
+        "Automated Market Maker (AMM)",
+        "Non-Fungible Tokens (NFT)",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "PaintSwap Finance has the premier open NFT Marketplace on Fantom. It has a unique and sustainable yield farming AMM platform where 50% of farming rewards are locked for 3 months in the Art Gallery. The first project to create a video game built on the Fantom network, as well as many other exciting features in the works."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x85dec8c4b2680793661bca91a8f129607571863d",
+    "url": "https://paintswap.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0x85dec8c4B2680793661bCA91a8F129607571863d"
+    ],
+    "twitter": "paint_swap",
+    "reddit": "paintswap/",
+    "github_org": "PaintSwap"
+}

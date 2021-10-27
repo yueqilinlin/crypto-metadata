@@ -1,0 +1,27 @@
+{
+    "id": "topinvestmentcoin",
+    "symbol": "tico",
+    "name": "TICOEX Token (Formerly TopInvestmentCoin)",
+    "platforms": {
+        "ethereum": "0x36b60a425b82483004487abc7adcb0002918fc56"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "TICO is an effective real-time, low fee and fast response decentralized cryptocoin exchange platform that has its own cryptocurrency (TICO), used for incentive program including online store"
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "contract_address": "0x36b60a425b82483004487abc7adcb0002918fc56",
+    "url": "https://www.ticoex.io",
+    "explorers": [
+        "https://etherscan.io/token/0x36B60a425b82483004487aBc7aDcb0002918FC56",
+        "https://ethplorer.io/address/0x36b60a425b82483004487abc7adcb0002918fc56"
+    ],
+    "twitter": "TICOEXCHANGE",
+    "facebook": "TICOEXCHANGE",
+    "telegram": "TICO_GROUP",
+    "github_org": "TICOEX"
+}

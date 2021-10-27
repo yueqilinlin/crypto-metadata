@@ -1,0 +1,22 @@
+{
+    "id": "ran-online-crypto-world",
+    "symbol": "rcw",
+    "name": "Ran Online Crypto World",
+    "platforms": {
+        "binance-smart-chain": "0xce07be1092974fd648687ce46afc6d977c621649"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ran Online Crypto World is a Play 2 Earn network for NFT\u2019s gaming on Binance Smart Chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xce07be1092974fd648687ce46afc6d977c621649",
+    "url": "https://rancrypto.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xce07be1092974fd648687ce46afc6d977c621649"
+    ],
+    "twitter": "ran_crypto",
+    "telegram": "rancryptoworld"
+}

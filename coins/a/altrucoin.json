@@ -1,0 +1,24 @@
+{
+    "id": "altrucoin",
+    "symbol": "altrucoin",
+    "name": "Altrucoin",
+    "platforms": {
+        "binance-smart-chain": "0xedaf1f5b8078d4feb4e13c8d5a2c8de1365be7b6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Altrucoin is a decentralized finance token built to bring together trustless defi lending, token reflection, charitable donations, and decentralized governance. We aim to remove the middlemen (banks) from the lending equation and instead send profits directly to Altrucoin holders and charitable organizations. Learn more at https://altrucoin.io"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xedaf1f5b8078d4feb4e13c8d5a2c8de1365be7b6",
+    "url": "https://altrucoin.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xeDAF1F5B8078d4feb4E13c8d5A2c8dE1365be7b6"
+    ],
+    "twitter": "AltruProtocol",
+    "telegram": "BankerDogeOfficial",
+    "reddit": "altrucoin",
+    "github_org": "NathajiM"
+}

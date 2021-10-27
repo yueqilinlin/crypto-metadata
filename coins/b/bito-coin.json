@@ -1,0 +1,27 @@
+{
+    "id": "bito-coin",
+    "symbol": "bito",
+    "name": "BITO Coin",
+    "platforms": {
+        "ethereum": "0x93b1e78a3e652cd2e71c4a767595b77282344932"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "BITO Coin is a type of token issued via the BitoPro International Digital Asset Exchange (\u201cBitoPro\u201d).\r\n\r\nWhen used as a mean of the transaction or withdraw fee, one enjoys very favorable discounts.\r\n\r\nTo the extent permitted by the applicable laws of each jurisdiction, purchasers may at each BitoPro operation center submit payment in BITO Coin to generate TT Codes for the purpose of withdrawing legal tender denominated in local currency.\r\n\r\nIn terms of token sales, BITO Coin may be used to pay sales and issuance related fees."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x93b1e78a3e652cd2e71c4a767595b77282344932",
+    "url": "https://bito.bitopro.com",
+    "explorers": [
+        "https://etherscan.io/token/0x93b1e78a3e652cd2e71c4a767595b77282344932",
+        "https://ethplorer.io/address/0x93b1e78a3e652cd2e71c4a767595b77282344932"
+    ],
+    "twitter": "BitoEX_Official",
+    "facebook": "bitopro.bito",
+    "telegram": "BitoProOfficial"
+}

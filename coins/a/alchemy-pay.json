@@ -1,0 +1,24 @@
+{
+    "id": "alchemy-pay",
+    "symbol": "ach",
+    "name": "Alchemy Pay",
+    "platforms": {
+        "ethereum": "0xed04915c23f00a313a544955524eb7dbd823143d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xed04915c23f00a313a544955524eb7dbd823143d",
+    "url": "https://www.alchemytech.io",
+    "explorers": [
+        "https://etherscan.io/token/0xed04915c23f00a313a544955524eb7dbd823143d",
+        "https://ethplorer.io/address/0xed04915c23f00a313a544955524eb7dbd823143d"
+    ],
+    "twitter": "AlchemyPay",
+    "facebook": "AlchemyGPS",
+    "telegram": "Alchemy_official"
+}

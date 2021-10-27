@@ -1,0 +1,23 @@
+{
+    "id": "gains",
+    "symbol": "gains",
+    "name": "Gains",
+    "platforms": {
+        "ethereum": "0xd9b312d77bc7bed9b9cecb56636300bed4fe5ce9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd9b312d77bc7bed9b9cecb56636300bed4fe5ce9",
+    "url": "https://www.gains-associates.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd9b312d77bc7bed9b9cecb56636300bed4fe5ce9",
+        "https://ethplorer.io/address/0xd9b312d77bc7bed9b9cecb56636300bed4fe5ce9"
+    ],
+    "twitter": "GainsAssociates",
+    "telegram": "GainsChat"
+}

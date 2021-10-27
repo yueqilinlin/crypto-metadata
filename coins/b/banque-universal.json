@@ -1,0 +1,27 @@
+{
+    "id": "banque-universal",
+    "symbol": "cbu",
+    "name": "Banque Universal",
+    "platforms": {
+        "ethereum": "0xcef46305d096fa876dd23048bf80f9345282e3fc"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "CBU is powered by Banque Universal, a sophisticated structured financial company serving private structures and support globally to qualified clienteles only. The aim for CBU is to create a value in the world of digital  currencies , meaning the income generated from the sales to backup the CBU with value. The cryptocurrency  future will tie itself in the communities through trust and this will be most likely happen through asset links where there will be a market value to compare both the cryptocurrency and the asset(s) itself."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xcef46305d096fa876dd23048bf80f9345282e3fc",
+    "url": "https://bankuniversal.org",
+    "explorers": [
+        "https://etherscan.io/token/0xcef46305d096fa876dd23048bf80f9345282e3fc",
+        "https://ethplorer.io/address/0xcef46305d096fa876dd23048bf80f9345282e3fc"
+    ],
+    "twitter": "BANQUEUNIVERSAL",
+    "facebook": "CBU-1586807841462934",
+    "telegram": "banqueuniversalcoin",
+    "github_org": "BANQUEUNIVERSAL"
+}

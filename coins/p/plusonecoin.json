@@ -1,0 +1,23 @@
+{
+    "id": "plusonecoin",
+    "symbol": "plus1",
+    "name": "PlusOneCoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Number",
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "A social media token to reward content creators, based on Bitcoin Core."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://plusonecoin.org",
+    "explorers": [
+        "https://blockchain.plusonecoin.org/"
+    ],
+    "twitter": "PlusOneCoin",
+    "reddit": "PlusOneCoin/",
+    "github_org": "plusonecoin"
+}

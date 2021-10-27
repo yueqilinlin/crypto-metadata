@@ -1,0 +1,24 @@
+{
+    "id": "satoexchange-token",
+    "symbol": "satx",
+    "name": "SatoExchange Token",
+    "platforms": {
+        "ethereum": "0xe96f2c381e267a96c29bbb8ab05ab7d3527b45ab"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SATX is an ERC-20 token based on the Ethereum platform"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe96f2c381e267a96c29bbb8ab05ab7d3527b45ab",
+    "url": "https://www.satoexchange.com/SATX/",
+    "explorers": [
+        "https://etherscan.io/token/0xe96f2c381e267a96c29bbb8ab05ab7d3527b45ab",
+        "https://ethplorer.io/address/0xe96f2c381e267a96c29bbb8ab05ab7d3527b45ab"
+    ],
+    "twitter": "satoexchange",
+    "facebook": "satoexchange",
+    "telegram": "satoexchange_official"
+}

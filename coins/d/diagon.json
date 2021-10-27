@@ -1,0 +1,24 @@
+{
+    "id": "diagon",
+    "symbol": "dgn",
+    "name": "Diagon",
+    "platforms": {
+        "ethereum": "0x7ace84ac394e41f1c01711ed134d9bbcfa770ce7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7ace84ac394e41f1c01711ed134d9bbcfa770ce7",
+    "url": "https://www.diagon.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x7ace84ac394e41f1c01711ed134d9bbcfa770ce7",
+        "https://ethplorer.io/address/0x7ace84ac394e41f1c01711ed134d9bbcfa770ce7"
+    ],
+    "twitter": "diagonio",
+    "facebook": "diagonio",
+    "telegram": "diagonio"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "digifinextoken",
+    "symbol": "dft",
+    "name": "DigiFinexToken",
+    "platforms": {
+        "ethereum": "0xa2a54f1ec1f09316ef12c1770d32ed8f21b1fb6a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "DFT (DigiFinex Token) is DigiFinex digital currency exchange platform, DFT's current token supply is 2.1 Billion. After several token burns, DFT's circulating supply reaches 137,996,103.8958. DFT application scenarios will be reflected in the fee deduction discount, bonus transaction, VIP level privileges, identity brand licensing and other aspects. DFT plays an important role in driving the DigiFinex Ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa2a54f1ec1f09316ef12c1770d32ed8f21b1fb6a",
+    "url": "https://www.digifinex.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa2a54f1ec1f09316ef12c1770d32ed8f21b1fb6a",
+        "https://ethplorer.io/address/0xa2a54f1ec1f09316ef12c1770d32ed8f21b1fb6a"
+    ],
+    "twitter": "digifinex",
+    "telegram": "DigiFinexcn"
+}

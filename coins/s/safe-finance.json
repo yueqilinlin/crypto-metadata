@@ -1,0 +1,24 @@
+{
+    "id": "safe-finance",
+    "symbol": "saft",
+    "name": "Sage Finance",
+    "platforms": {
+        "binance-smart-chain": "0xd4ed4a27ff7eae121c487d841e530cd0da65c6b5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Sage Swap is a Binance-based decentralized exchange protocol.\r\nOur goal is to be a user-friendly exchange with high gas performance, censorship resistance, and zero rent extraction"
+    },
+    "country_origin": "HU",
+    "genesis_date": null,
+    "contract_address": "0xd4ed4a27ff7eae121c487d841e530cd0da65c6b5",
+    "url": "https://sagefinance.xyz/",
+    "explorers": [
+        "https://bscscan.com/token/0xD4ED4a27ff7EaE121C487D841e530Cd0dA65c6b5"
+    ],
+    "twitter": "SageToken",
+    "facebook": "Sagefinanceprotoco",
+    "telegram": "sagefinance_discussion",
+    "github_org": "SageFinance"
+}

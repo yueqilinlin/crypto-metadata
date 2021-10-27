@@ -1,0 +1,21 @@
+{
+    "id": "kolibri-usd",
+    "symbol": "kusd",
+    "name": "Kolibri USD",
+    "platforms": {
+        "tezos": "KT1K9gCRgaLRFKTErYt1wVxA3Frb9FjasjTV"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kolibri USD is an algorithmic stablecoin pegged to the US dollar."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT1K9gCRgaLRFKTErYt1wVxA3Frb9FjasjTV",
+    "url": "https://kolibri.finance",
+    "explorers": [
+        "https://tzkt.io/KT1K9gCRgaLRFKTErYt1wVxA3Frb9FjasjTV/operations/"
+    ],
+    "twitter": "HoverEng"
+}

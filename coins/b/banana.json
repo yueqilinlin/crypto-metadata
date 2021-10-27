@@ -1,0 +1,24 @@
+{
+    "id": "banana",
+    "symbol": "banana",
+    "name": "Banana",
+    "platforms": {
+        "ethereum": "0xe2311ae37502105b442bbef831e9b53c5d2e9b3b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "10 banana tokens are generated daily by each of the 1000 genesis Cyberkongz for the next 10 years. Currently, the applicable use case of the banana token is to create baby Kongz by burning 600 banana tokens. Although baby Kongz are similar in appearance to the 1000 genesis kongz, they do not yield the 10 bananas daily and will be capped at 4000 total. In early August, genesis and baby kongz will evolve from just being avatars to being fully playable voxel Kongz that will be used in the SandBox game. The future plan for BANANA's will revolve around being used as the in game token for purchasing exclusive buyable items and merchandise, as well as being rewarded for playing our in house built games."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe2311ae37502105b442bbef831e9b53c5d2e9b3b",
+    "url": "https://www.cyberkongz.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe2311ae37502105b442bbef831e9b53c5d2e9b3b",
+        "https://ethplorer.io/address/0xe2311ae37502105b442bbef831e9b53c5d2e9b3b"
+    ],
+    "twitter": "CyberKongz"
+}

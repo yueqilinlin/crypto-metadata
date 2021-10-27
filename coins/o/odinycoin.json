@@ -1,0 +1,19 @@
+{
+    "id": "odinycoin",
+    "symbol": "odc",
+    "name": "Odinycoin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [],
+    "description": {
+        "en": "Implementing intellectual property storage and trading easier and faster using blockchain technology. "
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "https://www.odinycoin.com",
+    "explorers": [
+        "https://odc.cryptoscope.io/"
+    ],
+    "twitter": "odinycoin",
+    "github_org": "odinyblockchain"
+}

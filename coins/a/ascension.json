@@ -1,0 +1,22 @@
+{
+    "id": "ascension",
+    "symbol": "asn",
+    "name": "Ascension",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Community takeover of Ascension coin"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://ascensioncoin.org/",
+    "explorers": [
+        "http://explorer.ascensioncoin.org/",
+        "https://cryptobe.com/chain/Ascension"
+    ],
+    "twitter": "AscensionASN",
+    "github_org": "ascensioncoin"
+}

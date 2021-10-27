@@ -1,0 +1,21 @@
+{
+    "id": "electronic-move-pay",
+    "symbol": "emp",
+    "name": "Electronic Move Pay",
+    "platforms": {
+        "ethereum": "0x9b639486f4a40c1a7a6728114f2413973f5fa4c6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Electronic Move Pay (EMP) is an ecological platform for consumer applications developed by ETH, the world's largest underlying technology architecture of blockchain, released by Laos mobile payment co., LTD, EMP integrates 5G, AI, Internet of things, VR, AR and other cutting-edge information technologies of the era, with functions such as decentralization, smart contract, consensus mechanism, peer-to-peer payment, and storage mechanism, etc functions; It can meet the ecological demand of global consumption digital payment and has the characteristics of proprietary privacy, fast received, anonymous transaction, and low handling fee."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9b639486f4a40c1a7a6728114f2413973f5fa4c6",
+    "url": "https://www.empvip.cc/",
+    "explorers": [
+        "https://etherscan.io/token/0x9b639486f4a40c1a7a6728114f2413973f5fa4c6",
+        "https://ethplorer.io/address/0x9b639486f4a40c1a7a6728114f2413973f5fa4c6"
+    ]
+}

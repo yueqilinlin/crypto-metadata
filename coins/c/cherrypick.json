@@ -1,0 +1,26 @@
+{
+    "id": "cherrypick",
+    "symbol": "cherry",
+    "name": "CherryPick",
+    "platforms": {
+        "binance-smart-chain": "0x487770734490ac571cda3bc06067048ecc5caa4e",
+        "polygon-pos": "0xe33dc9d2d7d64c1e23467ac7ed7f8ef56d0a8d66"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fleta Connect is a new DeFi service created by Team Fleta with years of experience in the field. It is willing to offer significant benefits to our users with its own buyback mechanism and aims to give more rewards to DeFi users. \r\nIts key features are Yield Farming / Delegate Farming, Auto-compounding, Converter between Chains, and Buyback & Burn Mechanism.\r\nFleta Connect plans to become multi-chain DeFi platform using Fleta's cross-chain technology."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x487770734490ac571cda3bc06067048ecc5caa4e",
+    "url": "https://fletaconnect.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x487770734490ac571cda3bc06067048ecc5caa4e",
+        "https://polygonscan.com/address/0xe33dc9d2d7d64c1e23467ac7ed7f8ef56d0a8d66"
+    ],
+    "twitter": "fletachain",
+    "telegram": "FLETAofficialGroup",
+    "reddit": "fletachain/",
+    "github_org": "fletaio"
+}

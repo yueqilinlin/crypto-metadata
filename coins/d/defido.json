@@ -1,0 +1,27 @@
+{
+    "id": "defido",
+    "symbol": "defido",
+    "name": "DeFido",
+    "platforms": {
+        "binance-smart-chain": "0x199f788ddb566b7ebb59bf35b36914f2acdb33de",
+        "ethereum": "0xf32122561d51e891b823dec2b42f644884c1cd91"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Defido token is built with Binance Smart Chain, the latest meme cryptocurrency. More specifically, it is a hyper-deflationary subcoin with a smart sharing system built into the ecosystem, so each investor gets more DeFido added to their wallet. For every transfer, buy/sell has 8% commission fee, 4% will be distributed to holders and the other 4% will be added for project development."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x199f788ddb566b7ebb59bf35b36914f2acdb33de",
+    "url": "https://defidotoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x199f788ddb566b7ebb59bf35b36914f2acdb33de",
+        "https://etherscan.io/token/0xf32122561d51E891B823Dec2B42F644884c1Cd91",
+        "https://ethplorer.io/address/0xf32122561d51e891b823dec2b42f644884c1cd91"
+    ],
+    "twitter": "defidotoken",
+    "telegram": "defidotokenofficial",
+    "reddit": "DeFidoToken",
+    "github_org": "DefidoToken"
+}

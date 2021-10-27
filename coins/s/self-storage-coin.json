@@ -1,0 +1,24 @@
+{
+    "id": "self-storage-coin",
+    "symbol": "stor",
+    "name": "Self Storage Coin",
+    "platforms": {
+        "ethereum": "0xa3ceac0aac5c5d868973e546ce4731ba90e873c2"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "\u200b\u200bSelf Storage Coin is a P2P ERC20 Utility token for one of the strongest cash flowing asset classes of Commercial Real Estate.\r\n\r\nThe digital currency of the Self Storage Industry. "
+    },
+    "country_origin": "US",
+    "genesis_date": "2018-03-18",
+    "contract_address": "0xa3ceac0aac5c5d868973e546ce4731ba90e873c2",
+    "url": "http://www.selfstoragecoin.com",
+    "explorers": [
+        "https://etherscan.io/token/0xa3ceac0aac5c5d868973e546ce4731ba90e873c2",
+        "https://ethplorer.io/address/0xa3ceac0aac5c5d868973e546ce4731ba90e873c2"
+    ],
+    "twitter": "storcoin"
+}

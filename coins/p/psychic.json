@@ -1,0 +1,24 @@
+{
+    "id": "psychic",
+    "symbol": "psy",
+    "name": "Psychic",
+    "platforms": {
+        "binance-smart-chain": "0x8dbc995946ad745dd77186d1ac10019b8ea6694a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Psychic token is crypto-based upon a model that combines innovative farming and nft. Using the Binance Smart chain, it consists of three markets: Farming, NFT, and Predict."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x8dbc995946ad745dd77186d1ac10019b8ea6694a",
+    "url": "https://www.psychic.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x8dbc995946ad745dd77186d1ac10019b8ea6694a"
+    ],
+    "twitter": "FinancePsychic",
+    "telegram": "psychic_finance"
+}

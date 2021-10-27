@@ -1,0 +1,22 @@
+{
+    "id": "eggplant",
+    "symbol": "eggplant",
+    "name": "Eggplant",
+    "platforms": {
+        "binance-smart-chain": "0x1583ffe1720027500ba6b284b1b1e9755d43e479"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Eggplant exchange, inspired by Pancake Swap, is a brand new DEX on the Binance Smart chain. Our exchange will feature both swaps and high APR liquidity pools. Stage 2 of the DEX will aim to use Band Protocol to bring synthetic assets onto the exchange and provide new opportunities to trade traditional assets outside of centralized exchanges.\r\n\r\nOur token features a unique deflationary design that exponentially decreases the total supply with every transaction made. $EGGPLANT is 100% decentralized, meaning it is completely community led and created by volunteers."
+    },
+    "country_origin": "PT",
+    "genesis_date": null,
+    "contract_address": "0x1583ffe1720027500ba6b284b1b1e9755d43e479",
+    "url": "https://www.eggplantcrypto.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x1583fFE1720027500ba6b284B1b1e9755d43e479"
+    ],
+    "twitter": "eggplantdex",
+    "github_org": "EggplantCrypto"
+}

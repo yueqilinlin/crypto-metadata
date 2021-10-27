@@ -1,0 +1,23 @@
+{
+    "id": "westarter",
+    "symbol": "war",
+    "name": "WeStarter",
+    "platforms": {
+        "huobi-token": "0x910651f81a605a6ef35d05527d24a72fecef8bf0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "WeStarter is a cross-chain token initial swap platform which based on HECO network. Through the fluency of the product and sufficient industry resources, it carries the requirement of funds and resources for a variety of asset types. With the role of gatekeeper, through the decentralized incentive and governance mechanism of tokens, to achieve the goal of selecting high-quality assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x910651f81a605a6ef35d05527d24a72fecef8bf0",
+    "url": "https://www.westarter.org/",
+    "explorers": [
+        "https://hecoinfo.com/token/0x111a12b4bfe7afc03f5a2c9699ca7bdb30458303"
+    ],
+    "twitter": "westarter_org",
+    "telegram": "westarter_official",
+    "github_org": "we-starter"
+}

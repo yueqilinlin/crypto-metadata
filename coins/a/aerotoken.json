@@ -1,0 +1,27 @@
+{
+    "id": "aerotoken",
+    "symbol": "aet",
+    "name": "AEROTOKEN",
+    "platforms": {
+        "ethereum": "0x8c9e4cf756b9d01d791b95bc2d0913ef2bf03784"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Aerotoken is an inflationary token operating on the Ethereum blockchain. "
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x8c9e4cf756b9d01d791b95bc2d0913ef2bf03784",
+    "url": "https://www.aerotoken.org",
+    "explorers": [
+        "https://etherscan.io/token/0x8c9E4CF756b9d01D791b95bc2D0913EF2Bf03784",
+        "https://ethplorer.io/address/0x8c9e4cf756b9d01d791b95bc2d0913ef2bf03784"
+    ],
+    "twitter": "aero_token",
+    "telegram": "Aero_token",
+    "reddit": "https://www.reddit.com",
+    "github_org": "aerotoken"
+}

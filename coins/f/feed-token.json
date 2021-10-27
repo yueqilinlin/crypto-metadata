@@ -1,0 +1,25 @@
+{
+    "id": "feed-token",
+    "symbol": "feed",
+    "name": "Feed Token",
+    "platforms": {
+        "binance-smart-chain": "0xb1731e5e035cb039298159ecb191cb3fe666dd0e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Feed Token is committed to work with Hunger Organizations around the world to help people in need."
+    },
+    "country_origin": "AR",
+    "genesis_date": null,
+    "contract_address": "0xb1731e5e035cb039298159ecb191cb3fe666dd0e",
+    "url": "https://feedtoken.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xb1731e5e035cb039298159ecb191cb3fe666dd0e"
+    ],
+    "twitter": "feed_token",
+    "facebook": "FEED-Token-109453491275306",
+    "telegram": "FEEDtokenBSC",
+    "reddit": "feedtoken/",
+    "github_org": "FEEDToken"
+}

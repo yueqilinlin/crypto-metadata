@@ -1,0 +1,22 @@
+{
+    "id": "carbondefi",
+    "symbol": "carbo",
+    "name": "CarbonDEFI",
+    "platforms": {
+        "binance-smart-chain": "0xb05139b021aaea472b94528b030844d84a6724d5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A project made for the community, 97% owned by the community and with PancakeSwap locked liquidity and RENOUNCED OWNERSHIP. We aim to reduce the pollution by donating to organizations involved in reducing the CARBON footprint. The organizations will be voted by the community."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb05139b021aaea472b94528b030844d84a6724d5",
+    "url": "https://carbondefi.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xb05139b021aaea472b94528b030844d84a6724d5"
+    ],
+    "twitter": "CarbondefiF",
+    "telegram": "carbondefigroup"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "ara-token",
+    "symbol": "ara",
+    "name": "Ara Token",
+    "platforms": {
+        "ethereum": "0xa92e7c82b11d10716ab534051b271d2f6aef7df5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ara is a blockchain powered content platform that empowers creators. By removing centralized third party content stores, eliminating hosting costs, and rewarding consumers, Ara helps creators around the globe maximize the value of their work."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa92e7c82b11d10716ab534051b271d2f6aef7df5",
+    "url": "https://ara.one/",
+    "explorers": [
+        "https://etherscan.io/token/0xa92e7c82b11d10716ab534051b271d2f6aef7df5",
+        "https://ethplorer.io/address/0xa92e7c82b11d10716ab534051b271d2f6aef7df5"
+    ],
+    "twitter": "arablocks",
+    "facebook": "AraBlocks",
+    "telegram": "arablocks",
+    "reddit": "AraBlocks/",
+    "github_org": "arablocks"
+}

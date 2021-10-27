@@ -1,0 +1,28 @@
+{
+    "id": "mirrored-amazon",
+    "symbol": "mamzn",
+    "name": "Mirrored Amazon",
+    "platforms": {
+        "ethereum": "0x0cae9e4d663793c2a2a0b211c1cf4bbca2b9caa7",
+        "binance-smart-chain": "0x3947b992dc0147d2d89df0392213781b04b25075"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Mirrored Assets"
+    ],
+    "description": {
+        "en": "Mirrored Amazon - synthetic asset tracking the price of an Amazon stock."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x0cae9e4d663793c2a2a0b211c1cf4bbca2b9caa7",
+    "url": "https://mirror.finance",
+    "explorers": [
+        "https://finder.terra.money/columbus-4/token/terra165nd2qmrtszehcfrntlplzern7zl4ahtlhd5t2",
+        "https://etherscan.io/token/0x0cae9e4d663793c2a2A0b211c1Cf4bBca2B9cAa7",
+        "https://ethplorer.io/address/0x0cae9e4d663793c2a2a0b211c1cf4bbca2b9caa7",
+        "https://bscscan.com/token/0x3947B992DC0147D2D89dF0392213781b04B25075"
+    ],
+    "twitter": "mirror_protocol",
+    "telegram": "mirror_protocol"
+}

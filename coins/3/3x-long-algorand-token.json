@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-algorand-token",
+    "symbol": "algobull",
+    "name": "3X Long Algorand Token",
+    "platforms": {
+        "ethereum": "0x584936357d68f5143f12e2e64f0089db93814dad"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long Algorand Token (ALGOBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Algorand."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x584936357d68f5143f12e2e64f0089db93814dad",
+    "url": "https://ftx.com/tokens/ALGOBULL",
+    "explorers": [
+        "https://etherscan.io/token/0x584936357d68f5143f12e2e64f0089db93814dad",
+        "https://ethplorer.io/address/0x584936357d68f5143f12e2e64f0089db93814dad"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "buckswap",
+    "symbol": "bucks",
+    "name": "BuckSwap",
+    "platforms": {
+        "binance-smart-chain": "0xda28b68483c44f563168b6e4b7df9209a02ed64e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Launched on 04/30/2021 by a team based in France, BuckSwap is a DeFi yield farm and DEX exchange on Binance Smart Chain (BSC). The goal of BuckSwap is to create a legitimate platform to provide DeFi applications to those that are underserved and overlooked by the traditional financial system. BuckSwap aims to build out the features described in the roadmap, such as: In-Chat Crypto Transfers, Feasibility to Conduct Cross Chain Swaps, Support for Tokenized Stocks, and a Prediction Market. These features will make BuckSwap a distinctive platform on BSC. \r\n\r\nThe $BUCKS token provides the foundation, (in addition to the code), for the BuckSwap Ecosystem. Rather than being a purely speculative token, $BUCKS\u2019 value is derived from the fees collected from BuckSwap users, its utility within BuckSwap, and BuckSwap\u2019s burning mechanisms."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0xda28b68483c44f563168b6e4b7df9209a02ed64e",
+    "url": "https://info.buckswap.io",
+    "explorers": [
+        "https://bscscan.com/token/0xda28b68483c44f563168b6e4b7df9209a02ed64e"
+    ],
+    "twitter": "buckswapio",
+    "telegram": "buckswap",
+    "github_org": "buckswap"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "kingxchain",
+    "symbol": "kxc",
+    "name": "KingXChain",
+    "platforms": {
+        "ethereum": "0x016396044709eb3edc69c44f4d5fa6996917e4e8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Along with the emergence of cryptocurrencies, the blockchain technology has developed rapidly in recent years. In some countries, blockchain technology was mooted as one of the frontier technologies within the National Strategic Layout.Blockchain technology is going to provide the fundamental infrastructure for the next generation of Internet \u2013 the Internet of Value, and is now collaborating with emerging technologies in different fields to progressively expand the application range.As we know, IoT network is seen as an extension of the Internet, so it is inevitable that IoT will eventually be merged with blockchain. Especially considering the security issues involved with massive amounts of data potentially being collected by IoT devices in the future. KingXChain aims to solve a wide range of the current problems of IoT networks in terms of data security, data circulation, data sharing and data transactions, thus enhancing the efficiency of the whole IoT ecosystem. KingXChain introduces the concept of \u201clastic sharding at layer one\u201d which facilitates the integration of IoT devices with the KingXChain blockchain network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x016396044709eb3edc69c44f4d5fa6996917e4e8",
+    "url": "https://kingxchain.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x016396044709eb3edc69c44f4d5fa6996917e4e8",
+        "https://ethplorer.io/address/0x016396044709eb3edc69c44f4d5fa6996917e4e8"
+    ],
+    "twitter": "kingxchain",
+    "telegram": "kingxchain_community"
+}

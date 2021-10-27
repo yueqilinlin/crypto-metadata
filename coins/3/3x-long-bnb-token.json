@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-bnb-token",
+    "symbol": "bnbbull",
+    "name": "3X Long BNB Token",
+    "platforms": {
+        "ethereum": "0x9d1a62c2ad99019768b9126fda004a9952853f6e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long BNB Token (BNBBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of Binance Coin."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9d1a62c2ad99019768b9126fda004a9952853f6e",
+    "url": "https://ftx.com/tokens/BNBBULL",
+    "explorers": [
+        "https://etherscan.io/token/0x9d1a62c2ad99019768b9126fda004a9952853f6e",
+        "https://ethplorer.io/address/0x9d1a62c2ad99019768b9126fda004a9952853f6e"
+    ]
+}

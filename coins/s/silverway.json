@@ -1,0 +1,26 @@
+{
+    "id": "silverway",
+    "symbol": "slv",
+    "name": "Silverway",
+    "platforms": {
+        "ethereum": "0x4c1c4957d22d8f373aed54d0853b090666f6f9de"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "\"Silverway provides aggregated and structured OTC (over-the-counter) data for crypto markets\r\n\r\nThe ecosystem includes hundreds of professional investors, brokers, exchanges and projects as well as thousands of large and retail investors, and could potentially be opened up to far more accredited market participants\r\n\r\nThe platform has been created by a team of former investment bankers and private equity professionals who have been amongst the pioneer professional investors in the crypto and blockchain sector\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4c1c4957d22d8f373aed54d0853b090666f6f9de",
+    "url": "https://silverway.io",
+    "explorers": [
+        "https://etherscan.io/token/0x4c1c4957d22d8f373aed54d0853b090666f6f9de",
+        "https://ethplorer.io/address/0x4c1c4957d22d8f373aed54d0853b090666f6f9de"
+    ],
+    "twitter": "silverwayotc",
+    "telegram": "silverwayotc",
+    "reddit": "https://www.reddit.com"
+}

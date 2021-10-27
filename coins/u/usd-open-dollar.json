@@ -1,0 +1,25 @@
+{
+    "id": "usd-open-dollar",
+    "symbol": "usdo",
+    "name": "USD Open Dollar",
+    "platforms": {
+        "binance-smart-chain": "0x5801d0e1c7d977d78e4890880b8e579eb4943276"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "USDO is a collateral backed stablecoin pegged to the US Dollar.\r\n\r\nUSDO is backed by a verifiable pool of on-chain assets, soon incorporating off-chain real world assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5801d0e1c7d977d78e4890880b8e579eb4943276",
+    "url": "https://opendao.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x5801d0e1c7d977d78e4890880b8e579eb4943276"
+    ],
+    "twitter": "opendaoprotocol",
+    "facebook": "OpenDAOofficial",
+    "telegram": "opendao",
+    "reddit": "OpenDAO",
+    "github_org": "opendao-protocols"
+}

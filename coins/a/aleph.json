@@ -1,0 +1,38 @@
+{
+    "id": "aleph",
+    "symbol": "aleph",
+    "name": "Aleph.im",
+    "platforms": {
+        "ethereum": "0x27702a26126e0b3702af63ee09ac4d1a084ef628",
+        "binance-smart-chain": "0x82d2f8e02afb160dd5a480a617692e62de9038c4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Avalanche Ecosystem",
+        "Binance Smart Chain Ecosystem",
+        "Solana Ecosystem",
+        "Storage",
+        "Cosmos Ecosystem",
+        "Polkadot Ecosystem",
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "aleph.im is a decentralized cloud storage, database and computing platform, that is compatible with blockchains and speaks their languages. It aims to be the infrastructure layer of the DeFI (decentralized finance) ecosystem."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x27702a26126e0b3702af63ee09ac4d1a084ef628",
+    "url": "https://aleph.im",
+    "explorers": [
+        "https://etherscan.io/token/0x27702a26126e0b3702af63ee09ac4d1a084ef628",
+        "https://nuls.world/addresses/contracts/NULSd6HgyZkiqLnBzTaeSQfx1TNg2cqbzq51h",
+        "https://bscscan.com/token/0x82d2f8e02afb160dd5a480a617692e62de9038c4",
+        "https://ethplorer.io/address/0x27702a26126e0b3702af63ee09ac4d1a084ef628",
+        "https://explorer.aleph.im/"
+    ],
+    "twitter": "aleph_im",
+    "telegram": "alephim",
+    "reddit": "Aleph_im/",
+    "github_org": "aleph-im"
+}

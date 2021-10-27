@@ -1,0 +1,22 @@
+{
+    "id": "papel",
+    "symbol": "papel",
+    "name": "Papel Token",
+    "platforms": {
+        "binance-smart-chain": "0x557dd6700e66818af340cce17fd4508ced81fbc1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x557dd6700e66818af340cce17fd4508ced81fbc1",
+    "url": "https://www.papeltoken.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x557dd6700e66818af340cce17fd4508ced81fbc1"
+    ],
+    "twitter": "PapelToken",
+    "telegram": "papel_token"
+}

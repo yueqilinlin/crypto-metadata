@@ -1,0 +1,23 @@
+{
+    "id": "lgcy-network",
+    "symbol": "lgcy",
+    "name": "LGCY Network",
+    "platforms": {
+        "ethereum": "0xae697f994fc5ebc000f8e22ebffee04612f98a0d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LGCY Network is a Layer 1, proof-of-stake, decentralized network. Supernova Mainnet handles 10.000 transactions per second at an average cost of 0,01$ per transaction.\r\n\r\nLGCY Network is a DPoS, open-source blockchain protocol with industry-leading transaction speed and flexible utility. Running on the Libertas Protocol, the network aims to be the most decentralized dApp blockchain in the world.\r\n\r\nBringing true decentralization with DPoS by implementing the Libertas Protocol to the Governing Bodies (GBs) system of governance. By splitting up the 27 GBs into three branches, limiting the power of each, and introducing terms to the governance system, no single large token holder will be able to gain an unbalanced amount of power."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xae697f994fc5ebc000f8e22ebffee04612f98a0d",
+    "url": "https://lgcy.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xae697f994fc5ebc000f8e22ebffee04612f98a0d",
+        "https://ethplorer.io/address/0xae697f994fc5ebc000f8e22ebffee04612f98a0d"
+    ],
+    "twitter": "LGCYNetwork",
+    "telegram": "LGCYNetwork"
+}

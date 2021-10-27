@@ -1,0 +1,23 @@
+{
+    "id": "socean-staked-sol",
+    "symbol": "scnsol",
+    "name": "Socean Staked Sol",
+    "platforms": {
+        "solana": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "Socean is a noncustodial stake pool for the Solana blockchain based on the Solana stake pool reference implementation. Users deposit SOL, we stake it for them, and give them a derivative token called SOCN that can be redeemed for SOL at any time. The SOCN token can then be used in several different use-cases, like lending/borrowing, liquidity provision, trading, etc."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+    "url": "https://socean.fi",
+    "explorers": [
+        "https://explorer.solana.com/address/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm?cluster=mainnet-beta"
+    ],
+    "twitter": "SoceanFinance"
+}

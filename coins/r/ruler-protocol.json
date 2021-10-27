@@ -1,0 +1,26 @@
+{
+    "id": "ruler-protocol",
+    "symbol": "ruler",
+    "name": "Ruler Protocol",
+    "platforms": {
+        "ethereum": "0x2aeccb42482cc64e087b6d2e5da39f5a7a7001f8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Ruler protocol is a DeFi application focusing on lending/borrowing. Unlike Compound and Aave, loans taken from Ruler are non-liquidatable.\u00a0\r\n\r\nRuler Protocol only offers fixed-term loans that are decided beforehand by the team in the form of series. For example, there can be loans expiring at the end of March and loans expiring at the end of June. Users have limited flexibility in choosing the loan terms or end date.\u00a0\r\n\r\nThe loan product has the following features:\r\n\r\n- No liquidations as long as borrowers pay back on time\r\n\r\n- Interest rates determined by supply and demand\r\n\r\n- Fixed-rate loans\u00a0\r\n\r\n- Fungible, tradable in the secondary market\r\n\r\nRuler Protocol is created by the same team that created Cover Protocol.\u00a0"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2aeccb42482cc64e087b6d2e5da39f5a7a7001f8",
+    "url": "https://rulerprotocol.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8",
+        "https://ethplorer.io/address/0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8"
+    ],
+    "twitter": "RulerProtocol",
+    "github_org": "Ruler-Protocol"
+}

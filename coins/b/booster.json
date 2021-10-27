@@ -1,0 +1,22 @@
+{
+    "id": "booster",
+    "symbol": "boo",
+    "name": "Booster",
+    "platforms": {
+        "huobi-token": "0xff96dccf2763d512b6038dc60b7e96d1a9142507"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Booster (BOO) hopes to solve a series of problems in the current DeFi ecosystem and hopes that users' assets can be increased in a more convenient way. Booster will become a one-stop service platform, where users can complete a series of DeFi actions such as deposits, borrowing, and leveraged mining. "
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0xff96dccf2763d512b6038dc60b7e96d1a9142507",
+    "url": "https://booster.farm/",
+    "explorers": [
+        "https://hecoinfo.com/token/0xff96dccf2763D512B6038Dc60b7E96d1A9142507"
+    ],
+    "twitter": "BoosterFarm",
+    "telegram": "boosterfarm"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "noob-finance",
+    "symbol": "$noob",
+    "name": "noob.finance",
+    "platforms": {
+        "ethereum": "0x1fc05d480b1ef1175a31123bfdbd36bfee256889"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A NFT token that allows holders to level up NFTS from children to Kids with Yield Farming"
+    },
+    "country_origin": "BS",
+    "genesis_date": null,
+    "contract_address": "0x1fc05d480b1ef1175a31123bfdbd36bfee256889",
+    "url": "https://noob.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x1fc05d480b1ef1175a31123bfdbd36bfee256889",
+        "https://ethplorer.io/address/0x1fc05d480b1ef1175a31123bfdbd36bfee256889"
+    ],
+    "twitter": "noob_finance",
+    "telegram": "noobfinance"
+}

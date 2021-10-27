@@ -1,0 +1,25 @@
+{
+    "id": "unlock-protocol",
+    "symbol": "udt",
+    "name": "Unlock Protocol",
+    "platforms": {
+        "ethereum": "0x90de74265a416e1393a450752175aed98fe11517"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x90de74265a416e1393a450752175aed98fe11517",
+    "url": "https://unlock-protocol.com",
+    "explorers": [
+        "https://etherscan.io/token/0x90de74265a416e1393a450752175aed98fe11517",
+        "https://ethplorer.io/address/0x90de74265a416e1393a450752175aed98fe11517"
+    ],
+    "twitter": "UnlockProtocol",
+    "telegram": "unlockprotocol"
+}

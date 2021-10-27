@@ -1,0 +1,23 @@
+{
+    "id": "woonkly-power",
+    "symbol": "woop",
+    "name": "Woonkly Power",
+    "platforms": {
+        "binance-smart-chain": "0x8b303d5bbfbbf46f1a4d9741e491e06986894e18"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Woonkly is a DeFi protocol that empowers a Decentralized Social Network in which the capital invested in post advertising by the advertisers is shared with the people who interact with that content (Post, Photo, Video, Podcast); all created and working 100% in Blockchain using our own mainnet (Hyperledger BESU and Polkadot) connected with Binance Smart Chain (BSC)."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x8b303d5bbfbbf46f1a4d9741e491e06986894e18",
+    "url": "https://welcome.woonkly.com/en/",
+    "explorers": [
+        "https://bscscan.com/token/0x8b303d5bbfbbf46f1a4d9741e491e06986894e18"
+    ],
+    "twitter": "woonklyEN",
+    "telegram": "woonkly",
+    "github_org": "Woonkly"
+}

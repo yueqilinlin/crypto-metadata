@@ -1,0 +1,23 @@
+{
+    "id": "transient",
+    "symbol": "tsct",
+    "name": "Transient",
+    "platforms": {
+        "ethereum": "0x805ea9c07b49dd23ce11ec66dc6d8a2957385035"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Transient is the Smart Contracts Global Marketplace - an ecosystem that gives non-coders the ability to create their own Next-Gen Contracts in the digital world. Increasing blockchain adoption across every sphere of industry and life.\r\n\r\nTSC-Core is the 1st Transient dApp and it allows users to create smart contracts using different features (transfer, deposit and digital signature). All without coding.\r\n\r\nCryptoPool is the 2nd dApp - it gives users the ability to crate price prediction pools for tokens.\r\n\r\nEsports - the 3rd dApp - is similar to CryptoPool in terms of pooling but it is the bridge between users and AAA games (League of Legends, DOTA, Counter Strike and others).\r\n\r\nNDA dApp - the 4th one, gives two parts the possibility of singing a contract easily through the blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x805ea9c07b49dd23ce11ec66dc6d8a2957385035",
+    "url": "https://www.transientnetwork.io",
+    "explorers": [
+        "https://etherscan.io/token/0x805ea9c07b49dd23ce11ec66dc6d8a2957385035",
+        "https://ethplorer.io/address/0x805ea9c07b49dd23ce11ec66dc6d8a2957385035"
+    ],
+    "twitter": "transient_sc",
+    "telegram": "transientnetwork"
+}

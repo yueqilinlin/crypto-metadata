@@ -1,0 +1,22 @@
+{
+    "id": "deeplock",
+    "symbol": "deep",
+    "name": "DeepLock",
+    "platforms": {
+        "binance-smart-chain": "0x60de5f9386b637fe97af1cc05f25548e9baaee19"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DEEPL0CK is the ultimate one-stop platform to launch projects on the Binance Smart Chain in a safe way, and for keeping digital assets safe on #BSC.\r\n\r\nThe DeepLock platform makes it easy and safe to lock up any BEP-20 based token in seconds, including LP tokens from PancakeSwap, giving investors peace of mind."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x60de5f9386b637fe97af1cc05f25548e9baaee19",
+    "url": "https://deeplock.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x60de5f9386b637fe97af1cc05f25548e9baaee19"
+    ],
+    "twitter": "deeplockio",
+    "telegram": "deeplock_io"
+}

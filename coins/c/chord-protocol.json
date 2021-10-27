@@ -1,0 +1,23 @@
+{
+    "id": "chord-protocol",
+    "symbol": "chord",
+    "name": "Chord Protocol",
+    "platforms": {
+        "binance-smart-chain": "0xb2f7797389ad34ebd3a30ac6402861844fac7f5e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Chord is a decentralized network for musicians where anyone can turn their songs and performances or any kind of music into unique NFTs and freely commercialize them without intermediaries."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb2f7797389ad34ebd3a30ac6402861844fac7f5e",
+    "url": "https://chordprotocol.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xb2f7797389ad34ebd3a30ac6402861844fac7f5e"
+    ],
+    "twitter": "chordprotocol",
+    "telegram": "chordprotocol",
+    "github_org": "ghordprotocol"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "wrapped-usd",
+    "symbol": "wusd",
+    "name": "Wrapped USD",
+    "platforms": {
+        "ethereum": "0x7c974104df9dd7fb91205ab3d66d15aff1049de8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Stablecoins"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7c974104df9dd7fb91205ab3d66d15aff1049de8",
+    "url": "https://covenants.eth.link/#/wusd",
+    "explorers": [
+        "https://etherscan.io/token/0x7c974104df9dd7fb91205ab3d66d15aff1049de8",
+        "https://ethplorer.io/address/0x7c974104df9dd7fb91205ab3d66d15aff1049de8"
+    ],
+    "github_org": "EthereansOS"
+}

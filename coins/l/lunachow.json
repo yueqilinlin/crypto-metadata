@@ -1,0 +1,28 @@
+{
+    "id": "lunachow",
+    "symbol": "luchow",
+    "name": "LunaChow",
+    "platforms": {
+        "ethereum": "0xa5ef74068d04ba0809b7379dd76af5ce34ab7c57",
+        "binance-smart-chain": "0xe4e8e6878718bfe533702d4a6571eb74d79b0915",
+        "polygon-pos": "0xc4bb7277a74678f053259cb1f96140347efbfd46"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LunaChow (LUCHOW) is a decentralized ERC20 token on the Ethereum network. The token was inspired by Shiba Inu and Dogecoin. It is 100% community-driven. The token was launched with a unique aggressive burn structure. The team burned 99.9% of the total initial supply. No ICO, Private sale and zero team allocation."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa5ef74068d04ba0809b7379dd76af5ce34ab7c57",
+    "url": "https://lunachow.com",
+    "explorers": [
+        "https://etherscan.io/token/0xa5ef74068d04ba0809b7379dd76af5ce34ab7c57",
+        "https://ethplorer.io/address/0xa5ef74068d04ba0809b7379dd76af5ce34ab7c57",
+        "https://bscscan.com/token/0xe4e8e6878718bfe533702d4a6571eb74d79b0915",
+        "https://polygonscan.com/token/0xc4bb7277a74678f053259cb1f96140347efbfd46"
+    ],
+    "twitter": "LunaChoww",
+    "telegram": "LuChow",
+    "github_org": "lunachoww"
+}

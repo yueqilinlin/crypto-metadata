@@ -1,0 +1,24 @@
+{
+    "id": "zbank-token",
+    "symbol": "zbk",
+    "name": "Zbank Token",
+    "platforms": {
+        "ethereum": "0x29257908879c5792f1bb25449a7209205434dc3f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "A ZBANK TOKEN is a brief token will become a minable coin, created from the Scrypt algorithm."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0x29257908879c5792f1bb25449a7209205434dc3f",
+    "url": "http://zbank.tech/",
+    "explorers": [
+        "https://etherscan.io/token/0x29257908879c5792f1bb25449a7209205434dc3f",
+        "https://ethplorer.io/address/0x29257908879c5792f1bb25449a7209205434dc3f"
+    ],
+    "telegram": "zbktoken"
+}

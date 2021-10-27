@@ -1,0 +1,22 @@
+{
+    "id": "anypad",
+    "symbol": "apad",
+    "name": "Anypad",
+    "platforms": {
+        "binance-smart-chain": "0x366d71ab095735b7dae83ce2b82d5262ef655f10"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Anypad is the first blockchain incubator with a multi-chain launchpad and AMM Dex, whose primary focus is to Incubate the best Micro-cap projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x366d71ab095735b7dae83ce2b82d5262ef655f10",
+    "url": "https://www.anypad.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x366d71ab095735b7dae83ce2b82d5262ef655f10"
+    ],
+    "twitter": "AnyPadio",
+    "telegram": "anypad_chat"
+}

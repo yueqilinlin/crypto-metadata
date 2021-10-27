@@ -1,0 +1,22 @@
+{
+    "id": "mar-network",
+    "symbol": "mars",
+    "name": "Mars Network",
+    "platforms": {
+        "ethereum": "0xedd8da5c20eb014e550008df3304213dde5e29f0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MARS Network is a blockchain-based business platform consisting of core patent-based technologies such as Context Blockchain, Digital Contents Original System (DCOS), Multi-modal and Big data & Artificial Intelligence technology, Decentralized Identity (DID) for non-face-to-face identification. On the MARS Business Platform, various services close to real life (life, finance, law, real estate, education, etc.) are launched one by one, and collaboration with existing services takes place."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xedd8da5c20eb014e550008df3304213dde5e29f0",
+    "url": "http://marsnetwork.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xedd8da5c20eb014e550008df3304213dde5e29f0",
+        "https://ethplorer.io/address/0xedd8da5c20eb014e550008df3304213dde5e29f0"
+    ],
+    "telegram": "Marsblockchainnetwork"
+}

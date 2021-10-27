@@ -1,0 +1,24 @@
+{
+    "id": "fruit",
+    "symbol": "fruit",
+    "name": "Fruit",
+    "platforms": {
+        "binance-smart-chain": "0x4ecfb95896660aa7f54003e967e7b283441a2b0a",
+        "polygon-pos": "0x0e05858bb158038f418ff3609d5a7b72c26e7118"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x4ecfb95896660aa7f54003e967e7b283441a2b0a",
+    "url": "https://www.fruitsadventures.com",
+    "explorers": [
+        "https://bscscan.com/token/0x4ECfb95896660aa7F54003e967E7b283441a2b0A"
+    ],
+    "twitter": "FruitsAdventure",
+    "facebook": "fruitsadventures",
+    "telegram": "fruitsadventures"
+}

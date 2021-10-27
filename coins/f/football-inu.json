@@ -1,0 +1,23 @@
+{
+    "id": "football-inu",
+    "symbol": "finu",
+    "name": "Football Inu",
+    "platforms": {
+        "ethereum": "0x48a3d9510f7c2aa61a285ccb4eaa5ba072692468"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The simple and low-risk prediction model aims to improve accessibility by not penalising user\u2019s principal stake for inaccurate predictions.\r\n\r\n- Traders stake $fINU tokens to the prediction pool\r\n- Once your prediction is correct, you will get the percentage of tokens you have put. If not, you will lose half of your tokens."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x48a3d9510f7c2aa61a285ccb4eaa5ba072692468",
+    "url": "https://www.footballinu.com",
+    "explorers": [
+        "https://etherscan.io/token/0x48a3d9510f7c2aa61a285ccb4eaa5ba072692468",
+        "https://ethplorer.io/address/0x48a3d9510f7c2aa61a285ccb4eaa5ba072692468"
+    ],
+    "twitter": "FootballInu",
+    "telegram": "footballinuofficial"
+}

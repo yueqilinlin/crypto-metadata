@@ -1,0 +1,24 @@
+{
+    "id": "flokinomics",
+    "symbol": "Flokin",
+    "name": "Flokinomics",
+    "platforms": {
+        "binance-smart-chain": "0x97ea5efdcb5961a99ba5c96123042507c0210ec1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Flokinomics team are proud to announce a revolutionary cryptocurrency contract that has perfected rebase, which includes reward features and buybacks all in one token.[FLOKIN] An elastic supply (or rebase) token works in a way that the circulating supply expands or contracts due to changes in token price. This increase or decrease in supply works with a mechanism called re-basing. When a re-base occurs, the supply of the token is increased or decreased algorithmically, based on the current price of each token. In some ways, elastic supply tokens can be paralleled with stable coins. They aim to achieve a target price, and these re-base mechanics facilitate that. However, the key difference is that rebasing tokens aim to achieve it with a changing (elastic) supply. FLOKINOMICS differs by having an increasing peg price, an upcoming. Supply-elastic tokens work differently. As mentioned, the re-basing mechanism adjusts the token circulating supply periodically. Let\u2019s say we have an elastic supply token that aims to achieve a value of 1 USD. If the price is above 1 USD, the re-base increases the current supply, reducing the value of each token. Conversely, if the price is below 1 USD, the re-base will decrease the supply, making each token worth more.\r\n\r\nFuture development and features include: Developing the ability for BSC users and investors to create their own NFT Smart contracts and be able to transfer them onto our marketplace much like how Opensea does things. Develop an NFT DAO Voting system. We already keep track of users\u2019 purchases and sales, so every 1 BNB (or the equivalent value) spent on the platform will grant the user 1 point of the voting power. Users will then be able to vote on what we spend our marketing funds on, as well as future developments on the platform. Incorporate a \u201cReserve Price\u201d auction style on the website. Auctions will only start once the reserve price is met. -Update the front page of our site to have a landing page -Update the front page of the marketplace to have scrolling live auctions as well as a featured collections spot on the front page with Social Media and NFTs -Option to leave \u201cComments\u201d under NFTs to incentivize interaction between collectors and artists.-Add the option to \u201cMessage\u201d other users who follow you directly on the marketplace.-Build a subscription feature on the marketplace allowing users to subscribe to creators/artists for a price set by the artists, allowing users to get access to early drops and exclusive content from the artists on the platform We will host dozens of Mini Games directly on the site and allow users to create NFTs that can be inserted directly into these games. We will include PVP gaming and Play to Earn games as well. Possibly earn either NFTs, BNB, or Flokinomics just by playing the games and earning points"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x97ea5efdcb5961a99ba5c96123042507c0210ec1",
+    "url": " https://www.flokinomics.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x97ea5efdcb5961a99ba5c96123042507c0210ec1"
+    ],
+    "twitter": "Flokinomics",
+    "telegram": "flokinomicsofficial",
+    "reddit": "Flokinomics/",
+    "github_org": "Flokinomics"
+}

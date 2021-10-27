@@ -1,0 +1,27 @@
+{
+    "id": "flypme",
+    "symbol": "fyp",
+    "name": "FlypMe",
+    "platforms": {
+        "ethereum": "0x8f0921f30555624143d427b340b1156914882c10"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Flypme is the fastest and most private crypto-to-crypto exchange which doesn\u2019t require any registration nor trust to trade. The only info needed to use the exchange is the user\u2019s crypto address so that Flypme has the correct input and output. No trust is needed since Flypme doesn\u2019t hold users\u2019 funds."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-09-29",
+    "contract_address": "0x8f0921f30555624143d427b340b1156914882c10",
+    "url": "https://flyp.me/",
+    "explorers": [
+        "https://etherscan.io/token/0x8f0921f30555624143d427b340b1156914882c10",
+        "https://ethplorer.io/address/0x8f0921f30555624143d427b340b1156914882c10"
+    ],
+    "twitter": "flyp_me",
+    "telegram": "flypme",
+    "reddit": "flypme",
+    "github_org": "flypme"
+}

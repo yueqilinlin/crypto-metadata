@@ -1,0 +1,25 @@
+{
+    "id": "moar",
+    "symbol": "moar",
+    "name": "Moar Finance",
+    "platforms": {
+        "ethereum": "0x187eff9690e1f1a61d578c7c492296eaab82701a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing"
+    ],
+    "description": {
+        "en": "MOAR is a DeFi lending platform built to unlock the power of inter-chain derivatives primitives."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x187eff9690e1f1a61d578c7c492296eaab82701a",
+    "url": "https://moardefi.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x187eff9690e1f1a61d578c7c492296eaab82701a",
+        "https://ethplorer.io/address/0x187eff9690e1f1a61d578c7c492296eaab82701a"
+    ],
+    "twitter": "MOARFinance",
+    "telegram": "MOARFinance"
+}

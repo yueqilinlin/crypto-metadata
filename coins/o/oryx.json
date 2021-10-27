@@ -1,0 +1,25 @@
+{
+    "id": "oryx",
+    "symbol": "oryx",
+    "name": "ORYX",
+    "platforms": {
+        "ethereum": "0x5c0bc243fb13632c4d247f4f0bc27f2f58982c39"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Oryx project is dedicated to building valuable dApps that solves real world and cryptocurrency issues. We are building unique decentralized apps that offers services from social media networking to payment portals.\r\nThese applications we are building, are all in one project of what the Oryx project envisioned, Our primary goal is to build useful e-commerce applications to help improve the use case of blockchain and also to aid in blockchain adoption."
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0x5c0bc243fb13632c4d247f4f0bc27f2f58982c39",
+    "url": "https://oryx.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x5c0bc243fb13632c4d247f4f0bc27f2f58982c39",
+        "https://ethplorer.io/address/0x5c0bc243fb13632c4d247f4f0bc27f2f58982c39"
+    ],
+    "twitter": "oryx_project",
+    "facebook": "oryxproject",
+    "telegram": "ORXofficial",
+    "github_org": "oryxtoken"
+}

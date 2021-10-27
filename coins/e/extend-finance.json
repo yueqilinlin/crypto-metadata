@@ -1,0 +1,22 @@
+{
+    "id": "extend-finance",
+    "symbol": "exf",
+    "name": "Extend Finance",
+    "platforms": {
+        "binance-smart-chain": "0x6306e883493824ccf606d90e25f68a28e47b98a3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Extend Finance works by applying 5% fee which is 4% to each transaction & instantly splitting that fee among all holders of the token & 1% is automatically burn that continuously reduces the total supply of Extend Finance (EXF)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6306e883493824ccf606d90e25f68a28e47b98a3",
+    "url": "https://extendfinance.online/",
+    "explorers": [
+        "https://bscscan.com/token/0x6306e883493824ccf606d90e25f68a28e47b98a3"
+    ],
+    "twitter": "ExtendFinance",
+    "telegram": "extendfinance"
+}

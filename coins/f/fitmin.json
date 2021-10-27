@@ -1,0 +1,24 @@
+{
+    "id": "fitmin",
+    "symbol": "ftm",
+    "name": "Fitmin",
+    "platforms": {
+        "binance-smart-chain": "0xa4b6e76bba7413b9b4bd83f4e3aa63cc181d869f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Fitmin (Feed Me) is created through a frictionless yield generation token hard-coded on its smart contract to use as future currency to feed your favorite pets"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa4b6e76bba7413b9b4bd83f4e3aa63cc181d869f",
+    "url": "https://www.fitmin.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xa4b6e76bba7413b9b4bd83f4e3aa63cc181d869f"
+    ],
+    "twitter": "Fitmin_TOKEN",
+    "telegram": "fitmintoken",
+    "reddit": "Fitmin/",
+    "github_org": "fitmin-finance"
+}

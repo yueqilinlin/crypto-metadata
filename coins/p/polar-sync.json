@@ -1,0 +1,22 @@
+{
+    "id": "polar-sync",
+    "symbol": "polar",
+    "name": "Polar Sync",
+    "platforms": {
+        "binance-smart-chain": "0xc64c9b30c981fc2ee4e13d0ca3f08258e725fd24"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PolarSync is a world-class API service platform designed for decentralized applications (\u201cdapps\u201d). The protocol provides a highly robust, scalable infrastructure for developers to index, query and retrieve data at exceptionally fast speeds. \r\n\r\nPOLAR will be a utility token for the PolarSync ecosystem. In order to utilize nodes (servers) for API services, dapps will be required to purchase \u2014 and stake \u2014 their POLAR tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc64c9b30c981fc2ee4e13d0ca3f08258e725fd24",
+    "url": "https://www.polarsync.app/",
+    "explorers": [
+        "https://bscscan.com/token/0xc64c9b30c981fc2ee4e13d0ca3f08258e725fd24"
+    ],
+    "twitter": "Polar_Sync",
+    "telegram": "PolarSync"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "safe-energy",
+    "symbol": "energyx",
+    "name": "Safe Energy",
+    "platforms": {
+        "binance-smart-chain": "0xbbe899c61198d1826a43e20ea19efc46e50c2b00"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeEnergy, or $ENERGYX is a community driven deflationary charity token with future projects to reduce our carbon footprint by making renewable energy sources more accessible. As SafeEnergy, we are determined and highly motivated, and made it our goal to invest, to establish, and support projects which incentivize the usage of renewable energy sources in mining BTC."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xbbe899c61198d1826a43e20ea19efc46e50c2b00",
+    "url": "https://safeenergyofficial.com",
+    "explorers": [
+        "https://bscscan.com/token/0xbbe899c61198d1826a43e20ea19efc46e50c2b00"
+    ],
+    "twitter": "safeenergyx",
+    "facebook": "safe.energy.79",
+    "telegram": "SafeEnergyOfficial",
+    "reddit": "SafeEnergyX/",
+    "github_org": "safeenergyx"
+}

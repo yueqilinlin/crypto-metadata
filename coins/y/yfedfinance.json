@@ -1,0 +1,24 @@
+{
+    "id": "yfedfinance",
+    "symbol": "yfed",
+    "name": "YFED.Finance",
+    "platforms": {
+        "ethereum": "0x2dbd330bc9b7f3a822a9173ab52172bdddcace2a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The YFED platform will feature a decentralized exchange where users can easily swap token pairs at a reduced fee."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2dbd330bc9b7f3a822a9173ab52172bdddcace2a",
+    "url": "https://yfed.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x2DBd330bC9B7f3A822a9173aB52172BdDDcAcE2A",
+        "https://ethplorer.io/address/0x2dbd330bc9b7f3a822a9173ab52172bdddcace2a"
+    ],
+    "twitter": "FinanceYfed",
+    "telegram": "YFEDGROUP",
+    "github_org": "YFED-FINANCE"
+}

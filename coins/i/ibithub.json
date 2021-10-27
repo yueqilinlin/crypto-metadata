@@ -1,0 +1,24 @@
+{
+    "id": "ibithub",
+    "symbol": "ibh",
+    "name": "iBitHub",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Cryptocurrency",
+        "Gaming"
+    ],
+    "description": {
+        "en": "iBitHub (IBH) has been cloned from LiteCoin (LTC)"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://www.ibithub.com",
+    "explorers": [
+        "https://smithpool.net/explorer/IBH",
+        "http://explorer.ibithub.com:12555/"
+    ],
+    "twitter": "goplayonline",
+    "facebook": "IBITHUB",
+    "github_org": "ibithub"
+}

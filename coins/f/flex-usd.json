@@ -1,0 +1,27 @@
+{
+    "id": "flex-usd",
+    "symbol": "flexusd",
+    "name": "flexUSD",
+    "platforms": {
+        "ethereum": "0xa774ffb4af6b0a91331c084e1aebae6ad535e6f3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "USD Stablecoin",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0xa774ffb4af6b0a91331c084e1aebae6ad535e6f3",
+    "url": " https://coinflex.com",
+    "explorers": [
+        "https://etherscan.io/token/0xa774FFB4AF6B0A91331C084E1aebAE6Ad535e6F3",
+        "https://ethplorer.io/address/0xa774ffb4af6b0a91331c084e1aebae6ad535e6f3"
+    ],
+    "twitter": "CoinFLEXdotcom",
+    "telegram": "coinflex_EN",
+    "github_org": "coinflex-exchange"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "scaleswap-token",
+    "symbol": "sca",
+    "name": "Scaleswap Token",
+    "platforms": {
+        "ethereum": "0x1fbd3df007eb8a7477a1eab2c63483dcc24effd6",
+        "polygon-pos": "0x11a819beb0aa3327e39f52f90d65cc9bca499f33"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Scaleswap is the next generation IDO launchpad, harnessing the power of Ethereum Layer 2 scaling (powered by Polygon) to provide innovative features and a vastly improved IDO experience for users. We aim to set the new standard in DeFi by making excessive gas fees a thing of the past, and reimagining community appreciation and governance through a comprehensive scoring system that rewards loyalty and participation in 6 different dimensions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1fbd3df007eb8a7477a1eab2c63483dcc24effd6",
+    "url": "https://scaleswap.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x1fbd3df007eb8a7477a1eab2c63483dcc24effd6",
+        "https://polygonscan.com/token/0x11a819beb0aa3327e39f52f90d65cc9bca499f33",
+        "https://ethplorer.io/address/0x1fbd3df007eb8a7477a1eab2c63483dcc24effd6"
+    ],
+    "twitter": "scaleswapio",
+    "telegram": "scaleswap",
+    "github_org": "scaleswap-io"
+}

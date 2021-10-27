@@ -1,0 +1,22 @@
+{
+    "id": "shd-cash",
+    "symbol": "shdc",
+    "name": "SHD Cash",
+    "platforms": {
+        "tron": "TAiSZ9wQ49jutDCCovHaAqs7KpExuJyqph"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SHD Cash (SHDC) with the total supply of 500.000.000, is the crypto asset of SHD Group Company, which is providing Lending Staking Swap Wallet services."
+    },
+    "country_origin": "TR",
+    "genesis_date": null,
+    "contract_address": "TAiSZ9wQ49jutDCCovHaAqs7KpExuJyqph",
+    "url": "https://shdcash.com/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TAiSZ9wQ49jutDCCovHaAqs7KpExuJyqph"
+    ],
+    "twitter": "shdcash",
+    "telegram": "shdcashofficial"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "bonfire",
+    "symbol": "bonfire",
+    "name": "Bonfire",
+    "platforms": {
+        "binance-smart-chain": "0x5e90253fbae4dab78aa351f4e6fed08a64ab5590"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bonfire is a community orientated, frictionless, yield generating contract based on the Binance Smart Chain. The project is based on an RFI tokenomic model that takes a 5% fee on every transaction that is proportionally redistributed to all holders of the Bonfire token, and another 5% fee that goes into the liquidity pool to provide additional security for token holders.\r\n\r\nThe project maintains the long-term goal of launching a decentralised social media platform, providing a space for NFT sales and sharing, as well as other utilities and sub-projects that are yet to be announced. The strongest asset of Bonfire is the incredible community that has been built around it. Giveaways, competitions and charity donations are an integral part of Bonfire.\r\n\r\nBonfire seeks to stand apart from the crowd and move towards a future of stability and multi-faceted use. With a dedicated team of multi-skilled and highly technically experienced developers combined with marketing and social engagement managers, the project is being driven by people with a true belief in decentralized finances and the positive changes it can effect on the world and the global community."
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0x5e90253fbae4dab78aa351f4e6fed08a64ab5590",
+    "url": "https://www.bonfiretoken.co",
+    "explorers": [
+        "https://bscscan.com/token/0x5e90253fbae4Dab78aa351f4E6fed08A64AB5590"
+    ],
+    "twitter": "bonfiretoken",
+    "telegram": "BonfireTG",
+    "reddit": "bonfiretoken",
+    "github_org": "teamkindling"
+}

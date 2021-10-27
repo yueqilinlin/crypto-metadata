@@ -1,0 +1,24 @@
+{
+    "id": "world-credit-diamond-coin",
+    "symbol": "wcdc",
+    "name": "World Credit Diamond Coin",
+    "platforms": {
+        "ethereum": "0xab51e836bdcbc7cc06d926c50d88328f1bb17148"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The WCDC e-Platform (WCDC_eP) is used in production, trade, distribution to provide various services for efficient financial transactions and by using a proprietary compatible card, you can make a payment with cryptocurrency via APP(QR code, Barcode, etc), PC."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xab51e836bdcbc7cc06d926c50d88328f1bb17148",
+    "url": "https://wcdcoin.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xab51e836bdcbc7cc06d926c50d88328f1bb17148",
+        "https://ethplorer.io/address/0xab51e836bdcbc7cc06d926c50d88328f1bb17148"
+    ],
+    "twitter": "wcdcoin",
+    "facebook": "wcdcoin",
+    "telegram": "wcdcoin"
+}

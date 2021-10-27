@@ -1,0 +1,23 @@
+{
+    "id": "chopper-inu",
+    "symbol": "CHOPPER",
+    "name": "Chopper Inu",
+    "platforms": {
+        "ethereum": "0x28c5805b64d163588a909012a628b5a03c1041f9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Chopper Inu is a deflationary token on the ERC-20 network, it is aiming to build a utility and create a anime community to bring mass adoption of weebs to crypto.\r\n\r\nThe main goal is building an anime NFT marketplace and a 3D multiplayer game.\r\n\r\nFurthermore you can stake your Chopper Inu to earn NFTs in the future."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x28c5805b64d163588a909012a628b5a03c1041f9",
+    "url": "https://chopperinu.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x28c5805b64d163588a909012a628b5a03c1041f9",
+        "https://ethplorer.io/address/0x28c5805b64d163588a909012a628b5a03c1041f9"
+    ],
+    "twitter": "choppertoken",
+    "telegram": "chopperinu"
+}

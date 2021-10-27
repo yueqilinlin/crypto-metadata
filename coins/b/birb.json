@@ -1,0 +1,24 @@
+{
+    "id": "birb",
+    "symbol": "birb",
+    "name": "Birb",
+    "platforms": {
+        "binance-smart-chain": "0x82a479264b36104be4fdb91618a59a4fc0f50650"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Birb aims to become a feature-rich and usable cryptocurrency that rewards its holders."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x82a479264b36104be4fdb91618a59a4fc0f50650",
+    "url": "https://birb.co/",
+    "explorers": [
+        "https://bscscan.com/token/0x82a479264b36104be4fdb91618a59a4fc0f50650"
+    ],
+    "twitter": "BirbDefi",
+    "telegram": "BirbDefi",
+    "reddit": "BirbDefi/",
+    "github_org": "birbdev"
+}

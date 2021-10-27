@@ -1,0 +1,27 @@
+{
+    "id": "one-cash",
+    "symbol": "onc",
+    "name": "One Cash",
+    "platforms": {
+        "ethereum": "0xd90e69f67203ebe02c917b5128629e77b4cd92dc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "The most daring and innovative experimental project for the Basis protocol"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd90e69f67203ebe02c917b5128629e77b4cd92dc",
+    "url": "https://onecash.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xD90E69f67203EBE02c917B5128629E77B4cd92dc",
+        "https://ethplorer.io/address/0xd90e69f67203ebe02c917b5128629e77b4cd92dc"
+    ],
+    "twitter": "AckmanMisa",
+    "telegram": "onecashfinance",
+    "github_org": "onecash"
+}

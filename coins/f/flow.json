@@ -1,0 +1,24 @@
+{
+    "id": "flow",
+    "symbol": "flow",
+    "name": "Flow",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Sports"
+    ],
+    "description": {
+        "en": "Flow by Dapper Labs\u00a0(The company which\u00a0created CryptoKitties) is a blockchain network\u00a0that aims to be\u00a0fast, secure, and developer friendly.\r\n\r\nThe idea for a new blockchain targeting\u00a0games and social networks was conceived after Ethereum faced large scalability issues as seen with the high transaction fees during the\u00a0CryptoKitties hype. The Flow team deduced shards and sidechains were not long term solutions for apps that strive for performance.\r\n\r\nInvestors include large backers such as\u00a0Andreessen Horowitz, Warner Music Group, Union Square Ventures, Digital Currency Group, and more."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://flow.com",
+    "explorers": [
+        "https://flow.bigdipper.live/",
+        "https://flowscan.org/"
+    ],
+    "twitter": "flow_blockchain",
+    "telegram": "flow_blockchain",
+    "github_org": "onflow"
+}

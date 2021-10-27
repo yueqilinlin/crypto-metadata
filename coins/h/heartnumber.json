@@ -1,0 +1,22 @@
+{
+    "id": "heartnumber",
+    "symbol": "htn",
+    "name": "Heart Number",
+    "platforms": {
+        "ethereum": "0x4b4b1d389d4f4e082b30f75c6319c0ce5acbd619"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HTN(HeartNumber ) is a project that provides users with distributed forecasting information and automatically executes trades using the APIs of proven and reliable cryptocurrency exchanges. HeartNumber helps users analyze their portfolio by providing various easy to understand overviews of their chosen market pairs. HeartNumber uses its advanced predictive algorithms to analyze big data sources from around the world to help users leverage their intuition to make the right decisions at the right time."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4b4b1d389d4f4e082b30f75c6319c0ce5acbd619",
+    "url": "http://www.heartnumber.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x4b4b1d389d4f4e082b30f75c6319c0ce5acbd619",
+        "https://ethplorer.io/address/0x4b4b1d389d4f4e082b30f75c6319c0ce5acbd619"
+    ],
+    "telegram": "heartnumber"
+}

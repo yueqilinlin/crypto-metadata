@@ -1,0 +1,24 @@
+{
+    "id": "duet-protocol",
+    "symbol": "duet",
+    "name": "Duet Protocol",
+    "platforms": {
+        "ethereum": "0xd69ae79b01c4af7f19b9a824e5643363b202b3a1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Duet is a synthetic assets protocol in the brand new paradigm, it has a hybrid mechanism of over-collateralization and algorithm-pegging model.\r\n\r\nDuet allows users to create any quoted assets from the real world on the chain, such as stocks, commodities, futures, and bonds. Instead of selling crypto assets into fiat currency, Duet enables users to allocate capital to any assets with only one crypto wallet.\r\n\r\nCompared to other synthetic asset protocols, Duet's goal is not simply a financial application, but a real parallel universe that enables real world asset casting, recomposition, and restructuring on the blockchain.\r\n\r\nA Duet in music refers to a piece of music where two people play different parts or melodies. Similarly, the Duet protocol allows traders to replicate the real-world tradable assets in a decentralized finance ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd69ae79b01c4af7f19b9a824e5643363b202b3a1",
+    "url": "https://www.duet.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xd69ae79b01c4af7f19b9a824e5643363b202b3a1",
+        "https://ethplorer.io/address/0xd69ae79b01c4af7f19b9a824e5643363b202b3a1"
+    ],
+    "twitter": "duetprotocol",
+    "telegram": "duetprotocol",
+    "github_org": "duet-protocol"
+}

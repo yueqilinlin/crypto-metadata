@@ -1,0 +1,25 @@
+{
+    "id": "hubii-network",
+    "symbol": "hbt",
+    "name": "Hubii Network",
+    "platforms": {
+        "ethereum": "0xdd6c68bb32462e01705011a4e2ad1a60740f217f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Media"
+    ],
+    "description": {
+        "en": "Hubii's mission is to create the new leading Ethereum-based decentralised content marketplace where creators and rightsholders can meet distribution networks and reach content buyers directly, all while having total confidence in maintaining the integrity of their rights through the use of smart contracts."
+    },
+    "country_origin": "SG",
+    "genesis_date": "2017-09-09",
+    "contract_address": "0xdd6c68bb32462e01705011a4e2ad1a60740f217f",
+    "url": "https://www.hubii.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xdd6c68bb32462e01705011a4e2ad1a60740f217f",
+        "https://ethplorer.io/address/0xdd6c68bb32462e01705011a4e2ad1a60740f217f"
+    ],
+    "twitter": "hubiinetwork",
+    "reddit": "hubiinetwork"
+}

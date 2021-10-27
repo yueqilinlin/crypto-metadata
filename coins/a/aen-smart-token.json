@@ -1,0 +1,26 @@
+{
+    "id": "aen-smart-token",
+    "symbol": "aens",
+    "name": "AEN Smart Token",
+    "platforms": {
+        "ethereum": "0xd38de88687172bde440755b5237987e4a87c23a7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AENS is an Ethereum based utility token created under the ERC223 standard. The premise of AENS is to be the \u201cexclusive membership\u201d token and medium of exchange fueling certain activities within Aenco\u2019s AEN Connect (\u201cAENC\u201d) product suite and ecosystem. AENC is an evolving online digital asset fulfillment platform designed to facilitate different services including, but not limited to: AENX digital asset exchange and non-custodial trading, digital asset wallet and management tools, staking and node services, decentralized social media, and tokenized marketplaces."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0xd38de88687172bde440755b5237987e4a87c23a7",
+    "url": "https://aenxchange.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xD38dE88687172BDE440755b5237987e4A87c23A7",
+        "https://ethplorer.io/address/0xD38dE88687172BDE440755b5237987e4A87c23A7"
+    ],
+    "twitter": "aencoin",
+    "facebook": "AENCOIN",
+    "telegram": "AENCO",
+    "reddit": "Aenco",
+    "github_org": "AENCO-Global"
+}

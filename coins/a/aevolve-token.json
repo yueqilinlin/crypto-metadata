@@ -1,0 +1,22 @@
+{
+    "id": "aevolve-token",
+    "symbol": "avex!",
+    "name": "Aevolve Token",
+    "platforms": {
+        "binance-smart-chain": "0xea6c643b02ead1e42813771826e64a70a973f3e9",
+        "ethereum": "0x60ec6cb71bc7e21f366ab4b570dd3ff181814f7c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The AVEX! token is the native transactional unit within the AEVOLVE Protocol. It is the primary asset for entry into the AEVOLVE ecosystem. Its role is defined under the rules of the AEVOLVE Protocol.\r\n\r\nUsers can use AVEX! to purchase tokenized vouchers or reservation certificates on BIOSPHERES. AVEX! also serves as a future voting reserve and incentive mechanism for both patients and medical experts signed up on the BIOSPHERES platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xea6c643b02ead1e42813771826e64a70a973f3e9",
+    "url": "https://aevolve.health",
+    "explorers": [
+        "https://bscscan.com/token/0xea6c643b02ead1e42813771826e64a70a973f3e9"
+    ],
+    "twitter": "aevolvetoken"
+}

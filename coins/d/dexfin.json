@@ -1,0 +1,25 @@
+{
+    "id": "dexfin",
+    "symbol": "dxf",
+    "name": "Dexfin",
+    "platforms": {
+        "ethereum": "0x15eabb7500e44b7fdb6e4051ca8deca430cf9fb8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "With the DXF token, you can own part of the DEXFIN infrastructure and gain access to a number of benefits and discounts. The amount of DXF tokens is limited."
+    },
+    "country_origin": "CZ",
+    "genesis_date": null,
+    "contract_address": "0x15eabb7500e44b7fdb6e4051ca8deca430cf9fb8",
+    "url": "https://dexfin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x15Eabb7500E44B7Fdb6e4051cA8DecA430cF9FB8",
+        "https://ethplorer.io/address/0x15Eabb7500E44B7Fdb6e4051cA8DecA430cF9FB8"
+    ],
+    "twitter": "dexfinexchange",
+    "facebook": "dexfincom",
+    "telegram": "dexfinhq",
+    "github_org": "Dexfinex"
+}

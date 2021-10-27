@@ -1,0 +1,22 @@
+{
+    "id": "doont-buy",
+    "symbol": "dbuy",
+    "name": "Doont Buy",
+    "platforms": {
+        "ethereum": "0x4ece5c5cfb9b960a49aae739e15cdb6cfdcc5782"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Algorithmic supply-elastic cryptocurrency"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4ece5c5cfb9b960a49aae739e15cdb6cfdcc5782",
+    "url": "https://www.doontbuy.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x4ece5c5cfb9b960a49aae739e15cdb6cfdcc5782",
+        "https://ethplorer.io/address/0x4ece5c5cfb9b960a49aae739e15cdb6cfdcc5782"
+    ],
+    "telegram": "DoontBuy"
+}

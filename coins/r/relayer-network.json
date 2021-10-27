@@ -1,0 +1,23 @@
+{
+    "id": "relayer-network",
+    "symbol": "rlr",
+    "name": "Relayer Network (OLD)",
+    "platforms": {
+        "ethereum": "0x5b3f693efd5710106eb2eac839368364acb5a70f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Relayer is a fork of Keep3r with 3key additions:\r\n\r\n-Ability to transfer relayer rights to a new user from current address\r\n-Ability to approve contracts to transfer relayer rights to other addresses\r\n-Modifiable bonding, unbonding, liquidity bonding delay, and liquidity fee"
+    },
+    "country_origin": "KW",
+    "genesis_date": null,
+    "contract_address": "0x5b3f693efd5710106eb2eac839368364acb5a70f",
+    "url": "https://relay3r.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x5b3F693EfD5710106eb2Eac839368364aCB5a70f",
+        "https://ethplorer.io/address/0x5b3f693efd5710106eb2eac839368364acb5a70f"
+    ],
+    "twitter": "RelayerNetwork",
+    "telegram": "relay3r"
+}

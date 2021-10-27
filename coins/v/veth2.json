@@ -1,0 +1,23 @@
+{
+    "id": "veth2",
+    "symbol": "veth2",
+    "name": "vEth2",
+    "platforms": {
+        "ethereum": "0x898bad2774eb97cf6b94605677f43b41871410b1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SharedStake is an easy to use Decentralized Open Source Protocol that allows users to stake any amount of Ether to Ethereum-2 while keeping their staked amount valuable and liquid.\r\n\r\nWith a Built-in Exit Pool and maximized Defi compatibility, vEth2 is the liquid representation of underlying staked Ether, which provides an additional yield compared to traditionally staked Ether.\r\n\r\nMain objective of the protocol is improving the user experience, reliability and most importantly the profitability of Eth2 staking process in a decentralized manner."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x898bad2774eb97cf6b94605677f43b41871410b1",
+    "url": "https://www.sharedstake.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x898bad2774eb97cf6b94605677f43b41871410b1",
+        "https://ethplorer.io/address/0x898bad2774eb97cf6b94605677f43b41871410b1"
+    ],
+    "reddit": "SharedStake/",
+    "github_org": "SharedStake"
+}

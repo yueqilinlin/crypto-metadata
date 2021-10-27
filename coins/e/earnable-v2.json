@@ -1,0 +1,22 @@
+{
+    "id": "earnable-v2",
+    "symbol": "earn",
+    "name": "Earnable v2",
+    "platforms": {
+        "binance-smart-chain": "0x839153689469fe23236d1e0671430c8d7fee0337"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x839153689469fe23236d1e0671430c8d7fee0337",
+    "url": "https://earnable.one/",
+    "explorers": [
+        "https://bscscan.com/token/0x839153689469fe23236d1e0671430c8d7fee0337"
+    ],
+    "twitter": "EarnableToken",
+    "telegram": "earnable_bsc"
+}

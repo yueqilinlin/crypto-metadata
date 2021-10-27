@@ -1,0 +1,22 @@
+{
+    "id": "boo-finance",
+    "symbol": "boofi",
+    "name": "Boo Finance",
+    "platforms": {
+        "avalanche": "0xb00f1ad977a949a3ccc389ca1d1282a2946963b0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BooFinance is an upcoming #Avalanche project developing innovative yield farming strategies, deflationary #NFTs, and an all-encompassing DAO. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb00f1ad977a949a3ccc389ca1d1282a2946963b0",
+    "url": "https://www.boofinance.io/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/tokens/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0/token-transfers"
+    ],
+    "twitter": "Boo_Finance",
+    "telegram": "BooFinance"
+}

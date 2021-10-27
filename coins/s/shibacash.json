@@ -1,0 +1,22 @@
+{
+    "id": "shibacash",
+    "symbol": "shibacash",
+    "name": "ShibaCash",
+    "platforms": {
+        "binance-smart-chain": "0x7e4e3ba4675c39ff2863073e171b0a2e93a592e0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ShibaCash is a community based DeFi project which was fair launched on Binance Smart Chain in May 2021.\r\n\r\nIt aims to bring instant rewards to holders with de\ufb02ationary tokenomics and static re\ufb02ection."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x7e4e3ba4675c39ff2863073e171b0a2e93a592e0",
+    "url": "https://shibacashtoken.cash/",
+    "explorers": [
+        "https://bscscan.com/token/0x7e4e3ba4675c39ff2863073e171b0a2e93a592e0"
+    ],
+    "twitter": "Shiba_Cash",
+    "telegram": "ShibaCash"
+}

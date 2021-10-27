@@ -1,0 +1,27 @@
+{
+    "id": "basketdao-defi-index",
+    "symbol": "bdi",
+    "name": "BasketDAO DeFi Index",
+    "platforms": {
+        "ethereum": "0x0309c98b1bffa350bcb3f9fb9780970ca32a5060"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "DeFi Index",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0309c98b1bffa350bcb3f9fb9780970ca32a5060",
+    "url": "https://basketdao.org/baskets/BDPI",
+    "explorers": [
+        "https://etherscan.io/token/0x0309c98b1bffa350bcb3f9fb9780970ca32a5060",
+        "https://ethplorer.io/address/0x0309c98b1bffa350bcb3f9fb9780970ca32a5060"
+    ],
+    "twitter": "BasketDAOOrg",
+    "github_org": "basketdao"
+}

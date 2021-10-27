@@ -1,0 +1,26 @@
+{
+    "id": "eth-2x-flexible-leverage-index",
+    "symbol": "ETH2x-FLI",
+    "name": "ETH 2x Flexible Leverage Index",
+    "platforms": {
+        "ethereum": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "DeFi Index",
+        "Leveraged Token",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+    "url": " https://www.tokensets.com/portfolio/ethfli ",
+    "explorers": [
+        "https://etherscan.io/token/0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+        "https://ethplorer.io/address/0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd"
+    ]
+}

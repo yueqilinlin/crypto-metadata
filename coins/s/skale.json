@@ -1,0 +1,25 @@
+{
+    "id": "skale",
+    "symbol": "skl",
+    "name": "SKALE",
+    "platforms": {
+        "ethereum": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "LI",
+    "genesis_date": null,
+    "contract_address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",
+    "url": "https://skale.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",
+        "https://ethplorer.io/address/0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7"
+    ],
+    "twitter": "SkaleNetwork",
+    "telegram": "skaleofficial",
+    "reddit": "SKALEnetwork/",
+    "github_org": "skalenetwork"
+}

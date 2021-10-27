@@ -1,0 +1,24 @@
+{
+    "id": "qredo",
+    "symbol": "qrdo",
+    "name": "Qredo",
+    "platforms": {
+        "ethereum": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Qredo is rearchitecting digital asset ownership and blockchain connectivity. A radical new approach to bring liquidity and capital efficiency to the blockchain economy, Qredo has pioneered the first decentralized trustless multi-party computation (MPC) custodial network. This advancement enables Qredo to offer decentralized custody, native cross-chain swaps, and cross-platform liquidity access."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463",
+    "url": "https://www.qredo.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x4123a133ae3c521fd134d7b13a2dec35b56c2463",
+        "https://ethplorer.io/address/0x4123a133ae3c521fd134d7b13a2dec35b56c2463"
+    ],
+    "twitter": "QredoNetwork",
+    "telegram": "qredonetwork",
+    "github_org": "qredo"
+}

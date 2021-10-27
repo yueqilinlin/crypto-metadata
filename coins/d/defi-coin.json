@@ -1,0 +1,23 @@
+{
+    "id": "defi-coin",
+    "symbol": "defc",
+    "name": "DeFi Coin",
+    "platforms": {
+        "binance-smart-chain": "0xeb33cbbe6f1e699574f10606ed9a495a196476df"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The DeFi Coin protocol is a community driven fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, and Burn."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeb33cbbe6f1e699574f10606ed9a495a196476df",
+    "url": "https://deficoins.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xeb33cbbe6f1e699574f10606ed9a495a196476df"
+    ],
+    "twitter": "DeFiCoin5",
+    "telegram": "deficoinz",
+    "github_org": "deficoins"
+}

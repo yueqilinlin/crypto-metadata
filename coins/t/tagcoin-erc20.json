@@ -1,0 +1,25 @@
+{
+    "id": "tagcoin-erc20",
+    "symbol": "tag",
+    "name": "Tagcoin ERC-20",
+    "platforms": {
+        "ethereum": "0xcc4ae94372da236e9b113132e0c46c68704246b9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TAG is available within Tagcash Wallet App, on Stellar, Ethereum (as an ERC20 token) and on Tagchain, a layer 2 solution using Hyperledger Besu on Ethereum.\r\nWe did this to enable cross-chain value transfers using TAG, as well as to make interaction with TAG easier for users, developers and traders on multiple blockchains."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcc4ae94372da236e9b113132e0c46c68704246b9",
+    "url": "https://tagcoin.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xcc4ae94372da236e9b113132e0c46c68704246b9",
+        "https://ethplorer.io/address/0xcc4ae94372da236e9b113132e0c46c68704246b9"
+    ],
+    "twitter": "TagCoin",
+    "telegram": "tagcashdev",
+    "reddit": "https://www.reddit.com",
+    "github_org": "tagcoin"
+}

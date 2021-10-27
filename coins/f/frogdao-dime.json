@@ -1,0 +1,23 @@
+{
+    "id": "frogdao-dime",
+    "symbol": "fdd",
+    "name": "FrogDAO Dime",
+    "platforms": {
+        "ethereum": "0x14cfc7aeaa468e8c789785c39e0b753915aeb426"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FrogDAO is a decentralized incubator that helps promising projects achieve their full potential by leveraging the investment power and buzz making potential of our community.\r\n\r\nUnlike other decentralized incubators, FrogDAO specializes in projects who are looking to build on Cardano (ADA). \r\n\r\nBecause of the unsafe nature of Crypto, FrogDAO especially values the safety brought to both users and developers on the Cardano Network."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x14cfc7aeaa468e8c789785c39e0b753915aeb426",
+    "url": "https://frogdao.com",
+    "explorers": [
+        "https://etherscan.io/token/0x14cfc7aeaa468e8c789785c39e0b753915aeb426",
+        "https://ethplorer.io/address/0x14cfc7aeaa468e8c789785c39e0b753915aeb426"
+    ],
+    "twitter": "frogdao",
+    "telegram": "frogdao"
+}

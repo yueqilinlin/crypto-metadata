@@ -1,0 +1,28 @@
+{
+    "id": "axia",
+    "symbol": "axiav3",
+    "name": "Axia",
+    "platforms": {
+        "ethereum": "0x793786e2dd4cc492ed366a94b88a3ff9ba5e7546"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset Manager",
+        "Number",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Axia Protocol is a Decentralized platform for Cryptocurrency Index Fund management which presents cryptocurrency enthusiasts/investors with opportunities of one-time investments in baskets of cryptocurrencies (Axia Funds) and reap rewards for doing so."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x793786e2dd4cc492ed366a94b88a3ff9ba5e7546",
+    "url": "https://axiaprotocol.io",
+    "explorers": [
+        "https://etherscan.io/token/0x793786e2dd4Cc492ed366a94B88a3Ff9ba5E7546",
+        "https://ethplorer.io/address/0x793786e2dd4cc492ed366a94b88a3ff9ba5e7546"
+    ],
+    "twitter": "axiaprotocol",
+    "telegram": "axiaprotocol",
+    "github_org": "axiaprotocol"
+}

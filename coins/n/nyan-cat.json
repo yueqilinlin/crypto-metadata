@@ -1,0 +1,22 @@
+{
+    "id": "nyan-cat",
+    "symbol": "ncat",
+    "name": "NCAT Token",
+    "platforms": {
+        "binance-smart-chain": "0x0cf011a946f23a03ceff92a4632d5f9288c6c70d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NCAT token is a MEME token with DAO and NFT capabilities "
+    },
+    "country_origin": "BE",
+    "genesis_date": null,
+    "contract_address": "0x0cf011a946f23a03ceff92a4632d5f9288c6c70d",
+    "url": "https://ncat.fun/",
+    "explorers": [
+        "https://bscscan.com/token/0x0cf011a946f23a03ceff92a4632d5f9288c6c70d"
+    ],
+    "telegram": "NCATtoken",
+    "github_org": "NCATtoken"
+}

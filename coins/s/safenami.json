@@ -1,0 +1,23 @@
+{
+    "id": "safenami",
+    "symbol": "safenami",
+    "name": "SafeNami",
+    "platforms": {
+        "binance-smart-chain": "0xa9dc177a61b58fdbd76933daebd5a77a10b560ac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeNami - Auto-generating liquidity protocol with static farming."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0xa9dc177a61b58fdbd76933daebd5a77a10b560ac",
+    "url": "https://safenami.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xA9dc177A61b58fdBD76933DaeBD5A77A10B560aC"
+    ],
+    "twitter": "safenamifinance",
+    "telegram": "safenami2",
+    "github_org": "safenami"
+}

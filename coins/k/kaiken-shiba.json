@@ -1,0 +1,23 @@
+{
+    "id": "kaiken-shiba",
+    "symbol": "kshib",
+    "name": "Kaiken Shiba",
+    "platforms": {
+        "binance-smart-chain": "0x11c0c93035d1302083eb09841042cfa582839a8c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kaiken Shiba is an interesting meme whose serious mission is to rescue dogs in need, bringing the adoption of cryptocurrency into the mainstream through new concepts such as bounty, NFTS, decentralized exchange and credit cards on our website."
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "0x11c0c93035d1302083eb09841042cfa582839a8c",
+    "url": "https://kaikenshiba.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x11C0c93035d1302083eB09841042cFa582839A8C"
+    ],
+    "twitter": "KaikenShiba",
+    "telegram": "KaiKenShiba_Chat",
+    "github_org": "KaiKenShiba"
+}

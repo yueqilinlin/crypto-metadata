@@ -1,0 +1,24 @@
+{
+    "id": "the-red-order",
+    "symbol": "ordr",
+    "name": "The Red Order",
+    "platforms": {
+        "ethereum": "0x69fe11b042789bc6e2fdaad064afd32bb298ae05"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Red Order is a villainous syndicate forged by 11 original members, known now as the Overlords. This cabal of super villains is bent on taking over the cryptoverse and building an army along the way. This project is the first-ever project art/entertainment company founded on the blockchain. It bridges art, entertainment, NFTs, crypto, gaming, role-playing, comic books, DeFi and more.\r\n\r\nThe Red Order project launched on the Ethereum mainnet on June 16, 2021 with 500 billion ORDR tokens created at genesis. No further tokens will be created. About 15% of total supply was moved to a Project Development wallet, with 2% of each transaction also going to the same destination. 2% of each transaction is also sent to the contract owner wallet for liquidity purposes, while an additional 2% is burned."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x69fe11b042789bc6e2fdaad064afd32bb298ae05",
+    "url": "https://redorder.io",
+    "explorers": [
+        "https://etherscan.io/token/0x69fe11b042789bc6e2fdaad064afd32bb298ae05",
+        "https://ethplorer.io/address/0x69fe11b042789bc6e2fdaad064afd32bb298ae05"
+    ],
+    "twitter": "RedOrderToken",
+    "reddit": "TheRedOrderToken/",
+    "github_org": "RedOrder"
+}

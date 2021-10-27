@@ -1,0 +1,23 @@
+{
+    "id": "fraction",
+    "symbol": "fraction",
+    "name": "Fraction",
+    "platforms": {
+        "xdai": "0x2bf2ba13735160624a0feae98f6ac8f70885ea61"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem"
+    ],
+    "description": {
+        "en": "FRACTION is a native streamable token on the xDai Chain with a total supply of only 1. Which means you can ever only own a fraction of the token. The inital value of 1 FRACTION got set to 2000$ by filling up the FRACTION:WXDAI Honeyswap Liquidity pool on a 0.5:1000 ratio. It's a native Supertoken, meaning you can stream it via the Superfluid protocol. The price solely depends on buy:sale:liquidity-pool ratio on the Honeyswap DEX (there was no Airdrop, Airstream, ICO, IDO or any other crypto-acronym). The token doesn't have ANY real-life value/usecase - it's more like a \"collectible you can trade like a currency\" than a utility token."
+    },
+    "country_origin": "AT",
+    "genesis_date": null,
+    "contract_address": "0x2bf2ba13735160624a0feae98f6ac8f70885ea61",
+    "url": "https://fraction.fyi/",
+    "explorers": [
+        "https://blockscout.com/xdai/mainnet/tokens/0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61"
+    ],
+    "twitter": "fraction_token"
+}

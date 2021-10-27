@@ -1,0 +1,28 @@
+{
+    "id": "1magic",
+    "symbol": "magic",
+    "name": "Cosmic Universe Magic Token",
+    "platforms": {
+        "harmony-shard-0": "0x892d81221484f690c0a97d3dd18b9144a3ecdfb7",
+        "binance-smart-chain": "0x24356e6354ae590a486f64cbde24c00608c532db"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Harmony Ecosystem"
+    ],
+    "description": {
+        "en": "MAGIC is the governance token for Cosmic Universe, a play-to-earn adventure MMORPG being developed on the Harmony blockchain. Cosmic Universe gives players full ownership of their NFT characters and land, and integrates the play-to-earn model into its ecosystem. Create, trade, and monetize NFTs and other gaming experiences.\r\n\r\nMAGIC is also used for yield farming and NFT land staking. To buy land NFTs, MAGIC is needed. Within Cosmic Universe, players will earn MAGIC revenue on their land NFTs. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x892d81221484f690c0a97d3dd18b9144a3ecdfb7",
+    "url": "https://cosmicguild.one/",
+    "explorers": [
+        "https://explorer.harmony.one/address/0x892d81221484f690c0a97d3dd18b9144a3ecdfb7",
+        "https://bscscan.com/token/0x24356e6354ae590a486f64cbde24c00608c532db"
+    ],
+    "twitter": "thecosmicguild",
+    "telegram": "cosmicguild",
+    "reddit": "cosmic/",
+    "github_org": "thecosmicuniverse"
+}

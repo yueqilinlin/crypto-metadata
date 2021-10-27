@@ -1,0 +1,23 @@
+{
+    "id": "futurov-governance-token",
+    "symbol": "ftv",
+    "name": "Futurov Governance Token",
+    "platforms": {
+        "binance-smart-chain": "0xfd2ceaf2a104b2817d8d3252801c52af6b8dae77"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"Blockchain's first entertainment aggregator and producer of original films, series & more\r\n"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xfd2ceaf2a104b2817d8d3252801c52af6b8dae77",
+    "url": "https://futurov.com",
+    "explorers": [
+        "https://bscscan.com/token/0xfd2ceaf2a104b2817d8d3252801c52af6b8dae77"
+    ],
+    "twitter": "futurov_",
+    "telegram": "futurov",
+    "github_org": "Futurov-Governance"
+}

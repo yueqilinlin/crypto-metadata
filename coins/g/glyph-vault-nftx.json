@@ -1,0 +1,25 @@
+{
+    "id": "glyph-vault-nftx",
+    "symbol": "glyph",
+    "name": "GLYPH Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xd70240dd62f4ea9a6a2416e0073d72139489d2aa"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "GLYPH Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd70240dd62f4ea9a6a2416e0073d72139489d2aa",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xD70240Dd62F4ea9a6A2416e0073D72139489d2AA",
+        "https://ethplorer.io/address/0xd70240dd62f4ea9a6a2416e0073d72139489d2aa"
+    ],
+    "twitter": "nftx_"
+}

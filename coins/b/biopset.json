@@ -1,0 +1,24 @@
+{
+    "id": "biopset",
+    "symbol": "biop",
+    "name": "BIOPset",
+    "platforms": {
+        "ethereum": "0x29641e1096d4240b09a933839feac57b200652a4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BIOPset is the binary options settlement protocol. A decentralized solution to provide users with the ability to speculate on the prices of various tokenized assets in a simple easy to use way."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x29641e1096d4240b09a933839feac57b200652a4",
+    "url": "https://biopset.com",
+    "explorers": [
+        "https://etherscan.io/token/0x29641e1096d4240b09a933839feac57b200652a4",
+        "https://ethplorer.io/address/0x29641e1096d4240b09a933839feac57b200652a4"
+    ],
+    "twitter": "BIOPset",
+    "telegram": "BIOPset",
+    "github_org": "BIOPset"
+}

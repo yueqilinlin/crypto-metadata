@@ -1,0 +1,24 @@
+{
+    "id": "wizard-token",
+    "symbol": "wizard",
+    "name": "Wizard Token",
+    "platforms": {
+        "binance-smart-chain": "0x5066c68cae3b9bdacd6a1a37c90f2d1723559d18"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "WIZARD is a first-of-a-kind fantasy token and NFT marketplace which brings a magical experience to all who behold it, combining crypto with games for multiplied rewards. It hosts an immersive, explorative platform with unique magical secrets tucked away within many hidden nooks and crannies."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x5066c68cae3b9bdacd6a1a37c90f2d1723559d18",
+    "url": "https://wizard.financial/",
+    "explorers": [
+        "https://bscscan.com/token/0x5066c68cae3b9bdacd6a1a37c90f2d1723559d18"
+    ],
+    "twitter": "WIZARD_BSC",
+    "telegram": "wizard_financial"
+}

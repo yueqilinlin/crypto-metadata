@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-cardano-token",
+    "symbol": "adabear",
+    "name": "3X Short Cardano Token",
+    "platforms": {
+        "ethereum": "0xb3299d4bab93bf04d5b11bc49cd6dfad1f77d23f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short Cardano Token (ADABEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of Cardano."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb3299d4bab93bf04d5b11bc49cd6dfad1f77d23f",
+    "url": "https://ftx.com/tokens/ADABEAR",
+    "explorers": [
+        "https://etherscan.io/token/0xb3299d4BaB93Bf04d5b11bc49CD6DFAD1f77d23f",
+        "https://ethplorer.io/address/0xb3299d4bab93bf04d5b11bc49cd6dfad1f77d23f"
+    ]
+}

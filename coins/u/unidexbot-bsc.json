@@ -1,0 +1,22 @@
+{
+    "id": "unidexbot-bsc",
+    "symbol": "bundb",
+    "name": "UniDexBot BSC",
+    "platforms": {
+        "binance-smart-chain": "0x3dc8311b7d0fbc88ef600174e079bb0a34d370e6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Limit orders and Profit Cycles on BSC DEXs like PancakeSwap"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3dc8311b7d0fbc88ef600174e079bb0a34d370e6",
+    "url": "https://unidexbot.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x3dc8311b7d0fbc88ef600174e079bb0a34d370e6"
+    ],
+    "twitter": "unidexbot",
+    "telegram": "usw_bot"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "manga-token",
+    "symbol": "$manga",
+    "name": "Manga Token",
+    "platforms": {
+        "binance-smart-chain": "0xc2cb89bbb5bba6e21db1dfe13493dfd7dcbabd68"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Manga Token is a reward, payment and staking token for the manga industry to facilitate supporting your favourite manga artists through a new form of digital merchandise called Manga NFTs and we are building the world largest Manga NFT marketplace for authentic manga collectibles from original manga artists."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc2cb89bbb5bba6e21db1dfe13493dfd7dcbabd68",
+    "url": "https://www.mangatoken.org/",
+    "explorers": [
+        "https://bscscan.com/token/0xc2cb89bbb5bba6e21db1dfe13493dfd7dcbabd68"
+    ],
+    "twitter": "manga_token",
+    "telegram": "mangatokenofficial",
+    "github_org": "Manga-Token"
+}

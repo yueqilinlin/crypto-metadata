@@ -1,0 +1,25 @@
+{
+    "id": "yfbeta",
+    "symbol": "yfbeta",
+    "name": "yfBeta",
+    "platforms": {
+        "ethereum": "0x89ee58af4871b474c30001982c3d7439c933c838"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Governance"
+    ],
+    "description": {
+        "en": "Yearn, decentralized finance (defi), governance, yield farming, deflationary"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x89ee58af4871b474c30001982c3d7439c933c838",
+    "url": "https://yfbeta.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x89ee58af4871b474c30001982c3d7439c933c838",
+        "https://ethplorer.io/address/0x89ee58af4871b474c30001982c3d7439c933c838"
+    ],
+    "twitter": "yfBeta",
+    "telegram": "yfbeta"
+}

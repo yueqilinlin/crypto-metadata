@@ -1,0 +1,29 @@
+{
+    "id": "debase",
+    "symbol": "debase",
+    "name": "Debase",
+    "platforms": {
+        "ethereum": "0x9248c485b0b80f76da451f167a8db30f33c70907"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Rebase Tokens",
+        "Yield Farming",
+        "Stablecoins"
+    ],
+    "description": {
+        "en": "DEBASE is a decentralized meta algorithmic stable coin protocol that uses a modular architecture to combine multiple stabilization strategies (both internal and external) to stabilize the monetary token $DEBASE to peg."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x9248c485b0b80f76da451f167a8db30f33c70907",
+    "url": "https://debaseonomics.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9248c485b0b80f76da451f167a8db30f33c70907",
+        "https://ethplorer.io/address/0x9248c485b0b80f76da451f167a8db30f33c70907"
+    ],
+    "twitter": "debaseonomics",
+    "telegram": "debaseonomics",
+    "github_org": "debaseonomics"
+}

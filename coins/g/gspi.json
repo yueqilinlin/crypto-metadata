@@ -1,0 +1,23 @@
+{
+    "id": "gspi",
+    "symbol": "gspi",
+    "name": "Shopping.io Governance",
+    "platforms": {
+        "binance-smart-chain": "0xb42e1c3902b85b410334f5fff79cdc51fbee6950"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shopping.io is a state of the art platform that unifies all major eCommerce platforms, allowing consumers to enjoy online shopping seamlessly, securely, and cost-effectively."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb42e1c3902b85b410334f5fff79cdc51fbee6950",
+    "url": "https://shopping.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xb42e1c3902b85b410334f5fff79cdc51fbee6950"
+    ],
+    "twitter": "shopping_io",
+    "telegram": "shoppingio",
+    "github_org": "shoppingio"
+}

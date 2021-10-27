@@ -1,0 +1,23 @@
+{
+    "id": "themis-2",
+    "symbol": "mis",
+    "name": "Themis",
+    "platforms": {
+        "ethereum": "0xcd1cb16a67937ff8af5d726e2681010ce1e9891a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Themis \u2014 A Distributed Oracle Solution\r\n\r\nThemis is able to offer a couple of services according to the demand and different scenarios, including random number oracle, on-chain multi-assets oracle as well as computational oracle. \r\n\r\nUsers can participate in liquidity mining by depositing MIS. Themis provides a whole set of technical solutions, including depositing assets to become the data provider,  anti-attack network, data verification, Themis VRF, arbitration and incentives."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0xcd1cb16a67937ff8af5d726e2681010ce1e9891a",
+    "url": "https://themisoracle.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xcd1cb16a67937ff8af5d726e2681010ce1e9891a",
+        "https://ethplorer.io/address/0xcd1cb16a67937ff8af5d726e2681010ce1e9891a"
+    ],
+    "twitter": "ThemisOracle",
+    "telegram": "ThemisOracle"
+}

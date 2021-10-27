@@ -1,0 +1,28 @@
+{
+    "id": "nftx",
+    "symbol": "nftx",
+    "name": "NFTX",
+    "platforms": {
+        "ethereum": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset Manager",
+        "Non-Fungible Tokens (NFT)",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "NFT-backed index funds on Ethereum"
+    },
+    "country_origin": "ZZ",
+    "genesis_date": null,
+    "contract_address": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776",
+    "url": "https://nftx.org/#/",
+    "explorers": [
+        "https://etherscan.io/address/0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
+        "https://etherscan.io/token/0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
+        "https://ethplorer.io/address/0x87d73e916d7057945c9bcd8cdd94e42a6f47f776"
+    ],
+    "twitter": "nftx_",
+    "github_org": "NFTX-project"
+}

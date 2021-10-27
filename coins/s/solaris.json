@@ -1,0 +1,22 @@
+{
+    "id": "solaris",
+    "symbol": "xlr",
+    "name": "Solaris",
+    "platforms": {},
+    "hashing_algorithm": "Xevan",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Solaris introduces the fairly distributed and decentralized nature of cryptocurrency"
+    },
+    "country_origin": "",
+    "genesis_date": "2017-09-30",
+    "url": "https://www.solarisplatform.com/",
+    "explorers": [
+        "https://explorer.solarisplatform.com/"
+    ],
+    "twitter": "SolarisCoin",
+    "reddit": "solarisxlr",
+    "github_org": "SolarisPlatform"
+}

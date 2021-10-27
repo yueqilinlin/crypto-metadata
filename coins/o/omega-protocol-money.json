@@ -1,0 +1,25 @@
+{
+    "id": "omega-protocol-money",
+    "symbol": "opm",
+    "name": "Omega Protocol Money",
+    "platforms": {
+        "ethereum": "0xf4c17bc4979c1dc7b4ca50115358dec58c67fd9d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Omega Protocol is decentralized finance (Open finance) refers to the crypto (digital) assets and ethereum smart contracts, protocols, and decentralized application (dApp) built on ethereum."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xf4c17bc4979c1dc7b4ca50115358dec58c67fd9d",
+    "url": "https://omgswap.in/",
+    "explorers": [
+        "https://etherscan.io/token/0xf4c17bc4979c1dc7b4ca50115358dec58c67fd9d",
+        "https://ethplorer.io/address/0xf4c17bc4979c1dc7b4ca50115358dec58c67fd9d"
+    ],
+    "twitter": "omegadefi",
+    "facebook": "omegadefi",
+    "telegram": "omegadefi",
+    "github_org": "omgswap"
+}

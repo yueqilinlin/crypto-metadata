@@ -1,0 +1,23 @@
+{
+    "id": "bribe-token",
+    "symbol": "bribe",
+    "name": "Bribe Protocol",
+    "platforms": {
+        "ethereum": "0x679fa6dc913acab6def33ec469fc6e421bc794f5",
+        "polygon-pos": "0xa9e0cde4be86f5df7e2888753e5f663a41220469"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bribe is a cross-chain protocol aiming at bringing liquidity, utility, and aggregate governance rights to algo-stablecoin holders. Bribe introduces liquidity farms, cross-chain bridges, and DAO governance to help the community super-charge their algo-stablecoin holdings and participate in on-chain governance. Governed by $BRIBE token, community and DAO members will earn a share of protocol fees and take an active role in the future of Bribe Protocol."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x679fa6dc913acab6def33ec469fc6e421bc794f5",
+    "url": "https://bribe.money/",
+    "explorers": [
+        "https://etherscan.io/token/0x679fa6dc913acab6def33ec469fc6e421bc794f5",
+        "https://ethplorer.io/address/0x679fa6dc913acab6def33ec469fc6e421bc794f5"
+    ],
+    "twitter": "bribedefi"
+}

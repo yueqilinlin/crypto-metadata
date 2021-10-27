@@ -1,0 +1,23 @@
+{
+    "id": "apron",
+    "symbol": "apn",
+    "name": "Apron",
+    "platforms": {
+        "ethereum": "0xd4342a57ecf2fe7ffa37c33cb8f63b1500e575e6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Apron is a decentralized infrastructure service Network, it can be a parachain built on Polkadot and provide API service for polkadot ecosystem and blockchain network of DApp and DeFi."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd4342a57ecf2fe7ffa37c33cb8f63b1500e575e6",
+    "url": "https://apron.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xd4342a57ecf2fe7ffa37c33cb8f63b1500e575e6",
+        "https://ethplorer.io/address/0xd4342a57ecf2fe7ffa37c33cb8f63b1500e575e6"
+    ],
+    "twitter": "apronofficial1",
+    "telegram": "ApronNetwork"
+}

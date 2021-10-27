@@ -1,0 +1,28 @@
+{
+    "id": "neutrino-system-base-token",
+    "symbol": "nsbt",
+    "name": "Neutrino System Base Token",
+    "platforms": {
+        "waves": "6nSpVyNH7yM69eg446wrQR94ipbbcmZMU1ENPwanC97g",
+        "ethereum": "0x9d79d5b61de59d882ce90125b18f74af650acb93"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "6nSpVyNH7yM69eg446wrQR94ipbbcmZMU1ENPwanC97g",
+    "url": "https://neutrino.at/",
+    "explorers": [
+        "https://wavesexplorer.com/tx/6nSpVyNH7yM69eg446wrQR94ipbbcmZMU1ENPwanC97g",
+        "https://dev.pywaves.org/assets/6nSpVyNH7yM69eg446wrQR94ipbbcmZMU1ENPwanC97g",
+        "https://etherscan.io/token/0x9d79d5b61de59d882ce90125b18f74af650acb93"
+    ],
+    "twitter": "neutrino_proto",
+    "facebook": "NeutrinoProtocol",
+    "telegram": "neutrino_protocol_news"
+}

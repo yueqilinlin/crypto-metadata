@@ -1,0 +1,25 @@
+{
+    "id": "pawthereum",
+    "symbol": "pawth",
+    "name": "Pawthereum",
+    "platforms": {
+        "ethereum": "0xaecc217a749c2405b5ebc9857a16d58bdc1c367f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pawthereum is a decentralized, community-run charity cryptocurrency project that gives back to animal shelters and advocates for the well-being of animals in need!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaecc217a749c2405b5ebc9857a16d58bdc1c367f",
+    "url": "https://pawthereum.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xaecc217a749c2405b5ebc9857a16d58bdc1c367f",
+        "https://ethplorer.io/address/0xaecc217a749c2405b5ebc9857a16d58bdc1c367f"
+    ],
+    "twitter": "pawthereum",
+    "telegram": "pawthereum",
+    "reddit": "pawthereum",
+    "github_org": "pawthereum"
+}

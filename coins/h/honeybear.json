@@ -1,0 +1,23 @@
+{
+    "id": "honeybear",
+    "symbol": "bear",
+    "name": "HoneyBear",
+    "platforms": {
+        "binance-smart-chain": "0xc3eae9b061aa0e1b9bd3436080dc57d2d63fedc1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HoneyBear is Layer 2 of HoneyFarm!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc3eae9b061aa0e1b9bd3436080dc57d2d63fedc1",
+    "url": "https://bear.honeyfarm.finance",
+    "explorers": [
+        "https://bscscan.com/token/0xc3EAE9b061Aa0e1B9BD3436080Dc57D2d63FEdc1"
+    ],
+    "twitter": "HoneyFarmFi",
+    "telegram": "HoneyFarmChat",
+    "github_org": "HoneyFarmFi"
+}

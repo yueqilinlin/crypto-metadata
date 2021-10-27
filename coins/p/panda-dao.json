@@ -1,0 +1,24 @@
+{
+    "id": "panda-dao",
+    "symbol": "pdao",
+    "name": "Panda Dao",
+    "platforms": {
+        "binance-smart-chain": "0x1af3b59a839e97e944c65177ab3a024b499133f8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Governance"
+    ],
+    "description": {
+        "en": "Panda Dao is the incubator based on Binance Smart chain with innovative product launches, where community gets rewarded in ecosystem tokens.\r\n\r\nPDAO is the token of Panda Dao ecosystem, holding PDAO will give users voting rights for the development of ecosystem, also when you trade, each transaction has a 5% fee applied, which will be redistributed instantly to all holders of the PDAO token.\r\n\r\nOur focus is to build innovative DeFi products for BSC and support fair launches for the community. The ecosystem consists of four main offerings Initially \r\n\r\n- PDAO Governance\r\n- DimSum Synthetics\r\n- NFT Marketplace\r\n- PandaStarter Launchpad"
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "contract_address": "0x1af3b59a839e97e944c65177ab3a024b499133f8",
+    "url": "https://pandadao.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x1af3b59a839e97e944c65177ab3a024b499133f8"
+    ],
+    "twitter": "PandaDao3",
+    "telegram": "mypandadao"
+}

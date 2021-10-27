@@ -1,0 +1,23 @@
+{
+    "id": "etherpay",
+    "symbol": "ethpy",
+    "name": "Etherpay",
+    "platforms": {
+        "ethereum": "0x601938988f0fdd937373ea185c33751462b1d194"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We are a decentralized global asset, in which users can benefit from the convenience and integrity to make payments or receive them from anywhere in the world. Etherpay's goal is to make so that users can enjoy all the benefits of decentralized, universal, and secure technology."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x601938988f0fdd937373ea185c33751462b1d194",
+    "url": "https://etherpay.tech/",
+    "explorers": [
+        "https://etherscan.io/token/0x601938988f0fdd937373ea185c33751462b1d194",
+        "https://ethplorer.io/address/0x601938988f0fdd937373ea185c33751462b1d194"
+    ],
+    "twitter": "etherpaytech",
+    "facebook": "Etherpay-100163131836037"
+}

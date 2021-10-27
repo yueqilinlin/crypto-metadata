@@ -1,0 +1,31 @@
+{
+    "id": "aeternity",
+    "symbol": "ae",
+    "name": "Aeternity",
+    "platforms": {
+        "ethereum": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "\u00e6ternity is a public, open-source blockchain protocol that enables a platform for next-generation decentralized applications with high scalability. Its core components are written in the functional programming language Erlang and its smart contract language - Sophia - is also functional. \u00e6ternity has a stellar team of developers including Robert Virding - co-creator of Erlang, John Hughes - co-designer of Haskell, and Ulf Norell - co-designer of the Agda programming language for formal verification.\r\n\r\nUnlike other blockchain platforms, the \u00e6ternity protocol itself incorporates a number of essential technological features. State channels for off-chain scaling, oracles for real-world information, and a naming system for increased user-friendliness are all implemented on Layer 1. \u00e6ternity also features SDKs in Javascript, GO, Phyton, Java, as well as a middleware and a development suite that streamline smart contract development.\r\n\r\n\u00e6ternity incorporates the Bitcoin-NG consensus algorithm developed by academics from Cornell University and uses the Cuckoo Cycle mining algorithm for Sybil attack protection.\r\n\r\nAE tokens, the native cryptocurrency of the \u00e6ternity platform, is used for both - an economic unit of account and as ballots in the community-driven on-chain governance votes."
+    },
+    "country_origin": "LI",
+    "genesis_date": "2017-09-02",
+    "contract_address": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
+    "url": "https://www.aeternity.com/",
+    "explorers": [
+        "https://explorer.aepps.com",
+        "https://www.aeknow.org/",
+        "https://etherscan.io/token/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
+        "https://ethplorer.io/address/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d"
+    ],
+    "twitter": "aeternity",
+    "facebook": "aeternityproject",
+    "telegram": "aeternity",
+    "reddit": "Aeternity",
+    "github_org": "aeternity"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "vip-coin",
+    "symbol": "vip",
+    "name": "Vip Coin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [],
+    "description": {
+        "en": "\"VIP stands Value is Precious.\r\nVIPcoin is a POS and masternode coin and it's a cryptocurrency with a dividend. VIP would have a platform whereby dividend whould be paid to holders.\""
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "url": "https://vipcore.vip/",
+    "explorers": [
+        "https://explorer.vip-core.online",
+        "https://explorer.vipcore.vip/"
+    ],
+    "twitter": "core_vip",
+    "facebook": "vipcore",
+    "github_org": "vipcore"
+}

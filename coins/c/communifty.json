@@ -1,0 +1,26 @@
+{
+    "id": "communifty",
+    "symbol": "cnft",
+    "name": "Communifty",
+    "platforms": {
+        "ethereum": "0x8e2b4badac15a4ec8c56020f4ce60faa7558c052"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8e2b4badac15a4ec8c56020f4ce60faa7558c052",
+    "url": "https://communifty.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x8e2b4badac15a4ec8c56020f4ce60faa7558c052",
+        "https://ethplorer.io/address/0x8e2b4badac15a4ec8c56020f4ce60faa7558c052"
+    ],
+    "twitter": "communiftyorg",
+    "telegram": "communifty"
+}

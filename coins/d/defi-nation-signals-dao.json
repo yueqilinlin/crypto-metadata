@@ -1,0 +1,23 @@
+{
+    "id": "defi-nation-signals-dao",
+    "symbol": "dsd",
+    "name": "DeFi Nation Signals DAO",
+    "platforms": {
+        "ethereum": "0x1e3a2446c729d34373b87fd2c9cbb39a93198658"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A private group for advanced DeFi users to get signals of the latest yield farming or IDO programs, before most people find out about them.\r\n\r\nAccess to the group is granted by holding the DAO token: $DSD"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1e3a2446c729d34373b87fd2c9cbb39a93198658",
+    "url": "https://joindefination.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x1e3a2446c729d34373b87fd2c9cbb39a93198658",
+        "https://ethplorer.io/address/0x1e3a2446c729d34373b87fd2c9cbb39a93198658"
+    ],
+    "twitter": "JoinDeFi",
+    "telegram": "dsd_trading"
+}

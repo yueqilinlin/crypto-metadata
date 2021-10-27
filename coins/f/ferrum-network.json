@@ -1,0 +1,34 @@
+{
+    "id": "ferrum-network",
+    "symbol": "frm",
+    "name": "Ferrum Network",
+    "platforms": {
+        "ethereum": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
+        "binance-smart-chain": "0xa719b8ab7ea7af0ddb4358719a34631bb79d15dc",
+        "polygon-pos": "0xd99bafe5031cc8b345cb2e8c80135991f12d7130"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Ferrum Network is a deflationary cross-chain Blockchain as a Service DeFi company that specializes in adding token utility and advisory services to projects across the crypto space.\r\n\r\nFerrum builds white-label blockchain solutions that power startups and established organizations, enabling them to get their product to market faster.\r\n\r\nBecome Cross-Chain Compatible using The Ferrum Network Cross-Chain Token Bridge, today."
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "contract_address": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
+    "url": "https://ferrum.network",
+    "explorers": [
+        "https://etherscan.io/token/0xe5caef4af8780e59df925470b050fb23c43ca68c",
+        "https://explorer.binance.org/asset/FRM-DE7",
+        "https://ethplorer.io/address/0xe5caef4af8780e59df925470b050fb23c43ca68c",
+        "https://polygonscan.com/token/0xd99bafe5031cc8b345cb2e8c80135991f12d7130",
+        "https://bscscan.com/token/0xa719b8ab7ea7af0ddb4358719a34631bb79d15dc"
+    ],
+    "twitter": "FerrumNetwork",
+    "facebook": "Ferrum-Network-2344675192486134",
+    "telegram": "ferrum_network",
+    "reddit": "FerrumNetwork/",
+    "github_org": "ferrumnet"
+}

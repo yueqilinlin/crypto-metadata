@@ -1,0 +1,27 @@
+{
+    "id": "19317-gable",
+    "symbol": "realtoken-s-19317-gable-st-detroit-mi",
+    "name": "RealT Token - 19317 Gable St, Detroit, MI 48234",
+    "platforms": {
+        "ethereum": "0x34ed9e71449529e034d0326cfbb3b5ccdca00cbc",
+        "xdai": "0x34ed9e71449529e034d0326cfbb3b5ccdca00cbc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x34ed9e71449529e034d0326cfbb3b5ccdca00cbc",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x34eD9e71449529E034d0326cfBB3b5ccDCa00CBC",
+        "https://ethplorer.io/address/0x34ed9e71449529e034d0326cfbb3b5ccdca00cbc"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

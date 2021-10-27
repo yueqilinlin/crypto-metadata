@@ -1,0 +1,22 @@
+{
+    "id": "wallstreetbets-token",
+    "symbol": "wsbt",
+    "name": "WallStreetBets Token",
+    "platforms": {
+        "binance-smart-chain": "0x8244609023097aef71c702ccbaefc0bde5b48694"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x8244609023097aef71c702ccbaefc0bde5b48694",
+    "url": "https://wsbtbros.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8244609023097AeF71C702cCbaEFC0bde5b48694"
+    ],
+    "twitter": "wsbcryptocoin",
+    "telegram": "wsbctoken"
+}

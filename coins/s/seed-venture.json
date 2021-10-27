@@ -1,0 +1,25 @@
+{
+    "id": "seed-venture",
+    "symbol": "seed",
+    "name": "Seed Venture",
+    "platforms": {
+        "ethereum": "0xc969e16e63ff31ad4bcac3095c616644e6912d79"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Seed Venture is a platform for crowdfunding of startup pools, which allows issuing, crowdfunding and trading of pool tokens. SEED is its payment token\r\n\r\nIt enables issuing of pool tokens, crowdfunding and trading in the related DEX.\r\n\r\nNo existing platform enables ISSUING, CROWDFUNDING, and TRADING at the same time.\r\n\r\nThe platform has been launched last summer and is autonomous, for we have reserved no privileges in the smart contracts."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0xc969e16e63ff31ad4bcac3095c616644e6912d79",
+    "url": "https://seedventure.io",
+    "explorers": [
+        "https://etherscan.io/token/0xc969e16e63ff31ad4bcac3095c616644e6912d79",
+        "https://ethplorer.io/address/0xc969e16e63ff31ad4bcac3095c616644e6912d79"
+    ],
+    "twitter": "seed_venture",
+    "github_org": "seedventure"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "tranquil-finance",
+    "symbol": "tranq",
+    "name": "Tranquil Finance",
+    "platforms": {
+        "harmony-shard-0": "0xcf1709ad76a79d5a60210f23e81ce2460542a836"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Tranquil Finance is the first algorithmic money market protocol for Harmony ONE. It allows users to lend and borrow their assets trustlessly on a blockchain with very cheap and fast transactions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcf1709ad76a79d5a60210f23e81ce2460542a836",
+    "url": "https://www.tranquil.finance/",
+    "explorers": [
+        "https://explorer.harmony.one/address/0xcf1709ad76a79d5a60210f23e81ce2460542a836"
+    ],
+    "twitter": "tranquil_fi"
+}

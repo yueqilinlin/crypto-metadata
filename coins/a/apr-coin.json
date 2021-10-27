@@ -1,0 +1,24 @@
+{
+    "id": "apr-coin",
+    "symbol": "apr",
+    "name": "APR Coin",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "APR Coin is a masternode currency that has a fixed low maximum supply implementing Proof of Stake (POS) rewards only.\r\n\r\nThrough the use of substantial POS bonuses, APR Coin ensures that the sole focus of the masternode currency is to reward those who hold the coin long term. One simply has to leave their APR Coin Wallet open and bonuses will accrue. Once it has been verified that a holder of APR Coin has met staking bonus requirements, they will be issued additional APR Coin as a reward. \r\n\r\nTo ensure that the coin does not face the common issue of inflation and high supply, the Proof of Work (POW) functionality has not been implemented in APR Coin. Only through well calculated POS rewards will the coin\u2019s supply grow."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.apr-coin.com/",
+    "explorers": [
+        "https://www.coinexplorer.net/APR",
+        "https://mnexplorer.apr-coin.com/"
+    ],
+    "twitter": "aprcoinofficial",
+    "facebook": "aprcoinofficial",
+    "telegram": "aprcoinchat",
+    "reddit": "APRCoin/"
+}

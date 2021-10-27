@@ -1,0 +1,25 @@
+{
+    "id": "cellframe",
+    "symbol": "cell",
+    "name": "Cellframe",
+    "platforms": {
+        "ethereum": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
+        "binance-smart-chain": "0xf3e1449ddb6b218da2c9463d4594ceccc8934346"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cellframe is a quantum-resistant layer-1 network focused on facilitating secure and scalable cross-chain transfers. Cellframe aims to create an infrastructure for decentralized low-level services through its multichain nature. It is quantum-safe \u2014 it uses post-quantum encryption by default. Cellframe is built from scratch with plain C, which results in more efficient utilization of CPU and memory."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
+    "url": "https://cellframe.net",
+    "explorers": [
+        "https://etherscan.io/token/0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
+        "https://ethplorer.io/address/0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
+        "https://bscscan.com/token/0xf3e1449ddb6b218da2c9463d4594ceccc8934346"
+    ],
+    "twitter": "cellframenet",
+    "telegram": "cellframe"
+}

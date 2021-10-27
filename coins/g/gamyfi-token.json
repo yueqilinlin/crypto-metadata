@@ -1,0 +1,35 @@
+{
+    "id": "gamyfi-token",
+    "symbol": "gfx",
+    "name": "GamyFi Token",
+    "platforms": {
+        "ethereum": "0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
+        "binance-smart-chain": "0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
+        "huobi-token": "0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
+        "polygon-pos": "0x65ad6a2288b2dd23e466226397c8f5d1794e58fc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment",
+        "Non-Fungible Tokens (NFT)",
+        "Binance Smart Chain Ecosystem",
+        "Gaming",
+        "Governance"
+    ],
+    "description": {
+        "en": "GamyFi is a blockchain gaming, eSports & NFT ecosystem powered by it's native token GFX. GamyFi provides a large range of products such as but not limited to fantasy sports application, cross chain permissionless NFT marketplace, NFT Battle games & eSports platform connecting gamers & eSports enthusiasts. GamyFi aims to be the platform that anyone can trust to mint & trade NFT on multiple scalable chains securely & play games while earning money. GamyFi launched on BSC initially & plans to expand to Polygon, HECO, Avalanche, Aurora, Flare Network & Polkadot. \r\n\r\nGFX plays a major role in the platform by allowing users to use the platform with GFX as rewards & utility token. Also being the governance token of the platform. It has a maxed supply of 10 million units which makes it very preferable to be used in all the platform products."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
+    "url": "https://www.gamyfi.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
+        "https://ethplorer.io/address/0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
+        "https://bscscan.com/token/0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
+        "https://polygonscan.com/token/0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
+        "https://hecoinfo.com/token/0x65ad6A2288b2Dd23E466226397c8F5D1794e58fC"
+    ],
+    "twitter": "GamyFi_HQ",
+    "telegram": "GamyFi_HQ"
+}

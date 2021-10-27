@@ -1,0 +1,24 @@
+{
+    "id": "decentra-lotto",
+    "symbol": "delo",
+    "name": "Decentra-Lotto",
+    "platforms": {
+        "binance-smart-chain": "0xc91b4aa7e5c247cb506e112e7fedf6af7077b90a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentra is a decentralised ecosystem of projects with multiple utilities. \r\n\r\nDELO is the deflationary Binance Smart Chain token of the Decentra-Ecosystem. The DELO token incorporates burn reflection yield to reward holders passively for holding the DELO token, as well as automatic ecosystem fees. \r\n\r\nThe first utility (Decentra-Lotto), is a cryptocurrency lottery with multiple winners and a deflationary De-Fi staking farm. It is the flagship project of the Decentra-Ecosystem. There is a symbiosis between the token and the Decentra-Lotto utility as every transaction increases the jackpot, and every ticket sale increases buying pressure for the DELO token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc91b4aa7e5c247cb506e112e7fedf6af7077b90a",
+    "url": "https://www.decentra-ecosystem.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xc91b4aa7e5c247cb506e112e7fedf6af7077b90a"
+    ],
+    "twitter": "Decentra_Lotto",
+    "telegram": "Decentra_Lotto",
+    "reddit": "decentra_lotto/",
+    "github_org": "Decentra-Ecosystem"
+}

@@ -1,0 +1,32 @@
+{
+    "id": "kyber-network-crystal",
+    "symbol": "knc",
+    "name": "Kyber Network Crystal",
+    "platforms": {
+        "ethereum": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+        "binance-smart-chain": "0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b",
+        "polygon-pos": "0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c",
+        "sora": "0x001da2678bc8b0ff27d17eb4c11cc8e0def6c16a141d93253f3aa51276aa7b45"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Following KyberDAO\u2019s approval of KIP-6, the KNC token will undergo a migration to make KNC more dynamic and flexible with the ability to support more efficient upgrades. To avoid confusion, the old token should be labeled as KNC Legacy (KNCL) and the new token will retain the original ticker KNC. Migration instructions can be found below"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+    "url": "https://kyber.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+        "https://ethplorer.io/address/0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+        "https://bscscan.com/token/0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b",
+        "https://polygonscan.com/token/0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c"
+    ],
+    "twitter": "kybernetwork",
+    "telegram": "officialkybernetwork",
+    "reddit": "kybernetwork/",
+    "github_org": "kybernetwork"
+}

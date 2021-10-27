@@ -1,0 +1,25 @@
+{
+    "id": "spunk-vault-nftx",
+    "symbol": "spunk",
+    "name": "SPUNK Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0x97aa8e14db0bc073cc7e2d42ac715427717d6042"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "SPUNK Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x97aa8e14db0bc073cc7e2d42ac715427717d6042",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x97Aa8e14db0bc073cC7e2d42AC715427717d6042",
+        "https://ethplorer.io/address/0x97Aa8e14db0bc073cC7e2d42AC715427717d6042"
+    ],
+    "twitter": "nftx_"
+}

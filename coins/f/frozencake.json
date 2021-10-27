@@ -1,0 +1,22 @@
+{
+    "id": "frozencake",
+    "symbol": "frozen",
+    "name": "FrozenCake",
+    "platforms": {
+        "binance-smart-chain": "0xe7a8e7d7729859ea6eedbd4d67f8c97a22b11435"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yield Farm & AMM on Binance Smart Chain"
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0xe7a8e7d7729859ea6eedbd4d67f8c97a22b11435",
+    "url": "https://www.frozencake.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xe7a8e7d7729859ea6eedbd4d67f8c97a22b11435"
+    ],
+    "twitter": "FrozenCakeBsc",
+    "telegram": "frozencakeofficial"
+}

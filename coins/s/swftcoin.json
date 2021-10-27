@@ -1,0 +1,30 @@
+{
+    "id": "swftcoin",
+    "symbol": "swftc",
+    "name": "SWFTCOIN",
+    "platforms": {
+        "ethereum": "0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "HECO Chain Ecosystem",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "What is Swftcoin (SWFTC)?\r\n\r\nSwftCoin (SWFTC) powers SWFT Blockchain, the all-in-one cross-chain wallet, exchange, and payments platform powered by Swftcoin (SWFTC) that allows users to swap, pay with and share hundreds of cryptocurrencies. SWFTC provides SWFT Blockchain with the sources of liquidity needed to offer faster cross-chain swaps at the best rates, and with low fees. The extra sources of liquidity that SWFT Blockchain gets from SWFTC's trading pairs on dozens of exchanges give it an advantage over other swap providers.\r\n\r\nIn addition, SWFTC holders benefit from a 50% discount on fees charged by SWFT Blockchain. This means that SWFTC holders can swap cryptocurrencies across chains with a fee of only 0.1%.\r\n\r\nSWFTC is also expected to gain utility as the future governance token for SWFT Blockchain's upcoming DEX aggregator which will combine its years of cryptocurrency swap experience with decentralized, innovative solutions.\r\n\r\nAfter launching as an ERC-20 token on Ethereum, SWFTC is now also live on Binance Smart Chain and Heco.\r\n\r\nMore about SWFT Blockchain\r\n\r\nSWFT Blockchain's cross-chain transfer protocol combines blockchain, machine learning, and big data technologies to enable simpler, faster and safer cryptocurrency transfers. Founded in 2017, SWFT Blockchain received investment from Draper Dragon in 2018 and participated in the first ever batch of the Berkeley Blockchain Xcelerator in 2019. In keeping with its mission to make smart worldwide financial transfers simpler, faster and safer, SWFT Blockchain also partners with wallets like TokenPocket, Huobi Wallet, Ellipal, and other digital asset platforms to integrate its services and help their users swap without leaving their apps.\r\n\r\nThe SWFT Blockchain app is available on the iOS App Store and on Google Play. The app features one-click swaps between hundreds of currencies across dozens of blockchains, custodial and non-custodial storage options, social payments, red packets, and more.\r\n\r\nSWFT Pay allows anybody to send payments in hundreds of cryptocurrencies (including stablecoins) using any social network or messaging platform. SWFT Pay users can also request payments using a link and payment receivers can also choose to enter their preferred address to receive their money.\r\n\r\nSWFT Red Packets let users share crypto with up to 5,000 people using a link. All users need to do is select the currency and the amount of it they would like to share, and select how many people they'd like to share it with, and voila. SWFT Blockchain users open red packet filled with free crypto every day."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-10-05",
+    "contract_address": "0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e",
+    "url": "https://www.swft.pro/",
+    "explorers": [
+        "https://etherscan.io/token/0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e",
+        "https://ethplorer.io/address/0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e"
+    ],
+    "twitter": "SwftCoin",
+    "facebook": "SWFTBlockchain",
+    "telegram": "SWFTBlockchain",
+    "reddit": "SwftCoin",
+    "github_org": "SwftCoins"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "echolink",
+    "symbol": "eko",
+    "name": "EchoLink",
+    "platforms": {
+        "ethereum": "0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EchoLink is a blockchain based system that provides verified education, skill, and work experience information. Taking advantage of blockchain technology's immutability and time stamp functionality, EchoLink provides users with trusted information regarding a job candidate's education, skill, and work experience. EchoLink provides savings to recruiters in time and financial resources. The EchoLink system can be also be used for additional industries, such as banking, finance, general notary service."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-11-22",
+    "contract_address": "0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee",
+    "url": "https://echolink.info/",
+    "explorers": [
+        "https://etherscan.io/token/0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee",
+        "https://ethplorer.io/address/0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee"
+    ],
+    "twitter": "EchoLinkInfo1",
+    "telegram": "EcholinkOfficial",
+    "reddit": "EchoLinkInfo",
+    "github_org": "EchoLinkTech"
+}

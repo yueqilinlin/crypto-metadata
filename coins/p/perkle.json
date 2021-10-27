@@ -1,0 +1,21 @@
+{
+    "id": "perkle",
+    "symbol": "prkl",
+    "name": "Perkle",
+    "platforms": {},
+    "hashing_algorithm": "Dagger",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Our team at Esprezzo is excited to introduce Perkle! Perkle is a Proof of Work, fairly released, Ethereum-compatible blockchain and smart contract platform. The focus of this project is to provide a reliable decentralized platform on which developers can build DApps and develop decentralized technology affordably while still creating enough economic incentive to secure the network using standard blockchain supply and demand principles. We believe Proof of Work is currently the most proven, trustworthy, egalitarian and reliable method with which to achieve consensus in a decentralized environment. Perkle is meant to be used by developers, not as a speculative trading instrument. In the beginning you will need to understand how to use a full node command line wallet on Linux, Mac or Windows."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "http://esprezzo.io",
+    "explorers": [
+        "https://explorer.esprezzo.io/"
+    ],
+    "twitter": "esprezzoapp",
+    "github_org": "esprezzo"
+}

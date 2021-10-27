@@ -1,0 +1,27 @@
+{
+    "id": "orakuru",
+    "symbol": "ork",
+    "name": "Orakuru",
+    "platforms": {
+        "binance-smart-chain": "0xced0ce92f4bdc3c2201e255faf12f05cf8206da8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services",
+        "Infrastructure",
+        "Smart Contract Platform",
+        "Oracle"
+    ],
+    "description": {
+        "en": "Orakuru provides real-world data to the blockchain and asks its external nodes to capture data, such as BSC price feeds and off-chain market prices. \r\n\r\nOur data becomes available for on-chain usage in DEXs, prediction markets, insurance, lending, and more, using our feeds to power their dApps."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xced0ce92f4bdc3c2201e255faf12f05cf8206da8",
+    "url": "https://orakuru.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xCed0CE92F4bdC3c2201E255FAF12f05cf8206dA8"
+    ],
+    "twitter": "Orakuru_ork",
+    "telegram": "Orakuru"
+}

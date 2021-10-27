@@ -1,0 +1,25 @@
+{
+    "id": "knoxedge",
+    "symbol": "knx",
+    "name": "KnoxEdge",
+    "platforms": {
+        "ethereum": "0xe93a27d4ed64f44a2b356d78c06115e5c9d97da0",
+        "celo": "0xa81d9a2d29373777e4082d588958678a6df5645c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KnoxEdge is a DAO for community-driven learning & investing, where weekly peer-prediction knowledge markets are hosted to allow anyone to learn-to-earn. We are re-thinking the way the world shares knowledge and our mission is to transform vast bytes of information consumed in today\u2019s world and tomorrow\u2019s Metaverse into easy bits of knowledge, making it seamlessly accessible to everyone.\r\n\r\nUsers can participate in a knowledge market topic by submitting their thoughts and bidding $ on them. When an active topic ends, a leaderboard is released and users are ranked according to their scores. This score represents the contribution and alignment of the user to the wisdom of the crowd. It is calculated by scoring the submissions from each user against all other submissions using the KnoxEdge natural language processing algorithm. The bidding payout depends on their scores on the leaderboard: users who submit better peer predictions win money from losers. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe93a27d4ed64f44a2b356d78c06115e5c9d97da0",
+    "url": "https://www.knoxedge.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe93a27d4ed64f44a2b356d78c06115e5c9d97da0",
+        "https://ethplorer.io/address/0xe93a27d4ed64f44a2b356d78c06115e5c9d97da0"
+    ],
+    "twitter": "KnoxEdgeLabs",
+    "telegram": "KnoxEdge",
+    "github_org": "KnoxEdge"
+}

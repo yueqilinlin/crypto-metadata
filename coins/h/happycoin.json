@@ -1,0 +1,24 @@
+{
+    "id": "happycoin",
+    "symbol": "happy",
+    "name": "HappyCoin",
+    "platforms": {
+        "binance-smart-chain": "0xb0b924c4a31b7d4581a7f78f57cee1e65736be1d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mental illness is a silent battle for 10% of the world's population. It has touched almost every person on earth, and yet it's something we still never rarely talk about. HappyCoin is a charity-oriented token that sets out to change this. Similarly to SafeMoon, HappyCoin charges a 10% tax on all transactions, with 5% going to $HAPPY holders, and 5% being added to liquidity.\r\n\r\nBecause the HappyCoin charity wallet is a holder as well, it grows with each trade that's being made. Every week, the HappyCoin team and the community choose a new organization to support by donating the tax that has accumulated in the charity wallet, with the goal of improving the stigma and treatment options for mental illness across the world, and making lasting donations to improve the lives of others."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xb0b924c4a31b7d4581a7f78f57cee1e65736be1d",
+    "url": "https://www.thehappycoin.co/",
+    "explorers": [
+        "https://bscscan.com/token/0xB0B924C4a31b7d4581a7F78F57ceE1E65736Be1D"
+    ],
+    "twitter": "the_happy_coin",
+    "facebook": "meethappycoin",
+    "telegram": "happy_coinTG",
+    "reddit": "thehappycoin/"
+}

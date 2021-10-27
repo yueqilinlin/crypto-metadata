@@ -1,0 +1,26 @@
+{
+    "id": "restore",
+    "symbol": "rest",
+    "name": "Restore",
+    "platforms": {
+        "ethereum": "0x6753795d67ed0b2b65b57fc45c7ac0f53b55f4fe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We built a platform to help you take a break! We are reinventing the wheel when it comes to earning cryptocurrency. The Restore Team wants to inspire people to evaluate what\u2019s important and help you remember to take time for yourself, your hobbies, and loved ones by providing you with an easy-to-use application that rewards you through passive token issuance, the REST token. We simply want you to put down your mobile device and enjoy your life!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6753795d67ed0b2b65b57fc45c7ac0f53b55f4fe",
+    "url": "http://www.restoretoken.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x6753795d67ed0b2b65b57fc45c7ac0f53b55f4fe",
+        "https://ethplorer.io/address/0x6753795d67ed0b2b65b57fc45c7ac0f53b55f4fe"
+    ],
+    "twitter": "restoretoken",
+    "facebook": "RestoreTokenLLC",
+    "telegram": "RestoreTokenLLC",
+    "reddit": "RestoreToken/",
+    "github_org": "Restoretoken"
+}

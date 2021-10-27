@@ -1,0 +1,21 @@
+{
+    "id": "pluto-network",
+    "symbol": "ptn",
+    "name": "Pluto Network",
+    "platforms": {
+        "binance-smart-chain": "0x3999565294ca158d3d7cde9c74c86be928317ea0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pluto Network is a token used for the network of digital products on the Blockchain platform where they can create, sell and collect products about images, music & digital devices.\r\n\r\nYou can get unlimited amounts of money when more people like and buy the products you create."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3999565294ca158d3d7cde9c74c86be928317ea0",
+    "url": "https://plutonetwork.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x3999565294ca158d3d7cde9c74c86be928317ea0"
+    ],
+    "telegram": "plutonetwork_channel"
+}

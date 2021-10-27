@@ -1,0 +1,24 @@
+{
+    "id": "trodl",
+    "symbol": "tro",
+    "name": "Trodl",
+    "platforms": {
+        "polygon-pos": "0x8d43b5c7e3d7577bbf75b70c3880b99164a23634",
+        "binance-smart-chain": "0xce3b0d4e4e4285e55c0bfb294112caf19682eb8a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Trodl is a reputation based crypto social media platform empowering its users with accurate and verifiable crypto information in a democratized way."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8d43b5c7e3d7577bbf75b70c3880b99164a23634",
+    "url": "https://trodl.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0x8d43b5c7e3d7577bbf75b70c3880b99164a23634",
+        "https://bscscan.com/token/0xce3b0d4e4e4285e55c0bfb294112caf19682eb8a"
+    ],
+    "twitter": "trodlcom",
+    "telegram": "trodl"
+}

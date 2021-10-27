@@ -1,0 +1,19 @@
+{
+    "id": "shroud-protocol",
+    "symbol": "shroud",
+    "name": "ShroudX",
+    "platforms": {},
+    "hashing_algorithm": "x16r",
+    "categories": [],
+    "description": {
+        "en": "Shroud Protocol (SHROUD) is a new state of the art privacy coin that uses Sigma and Dandelion++ Protocol along with TOR."
+    },
+    "country_origin": "ZZ",
+    "genesis_date": null,
+    "url": "https://shroudx.eu/",
+    "explorers": [
+        "https://shroud.mastermine.eu/",
+        "https://explorer.shroudx.eu/"
+    ],
+    "github_org": "ShroudProtocol"
+}

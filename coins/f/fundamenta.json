@@ -1,0 +1,25 @@
+{
+    "id": "fundamenta",
+    "symbol": "fmta",
+    "name": "Fundamenta",
+    "platforms": {
+        "ethereum": "0xaa9d866666c2a3748d6b23ff69e63e52f08d9ab4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Civitas Fundamenta - Community Governed Capital"
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xaa9d866666c2a3748d6b23ff69e63e52f08d9ab4",
+    "url": "https://fundamenta.network",
+    "explorers": [
+        "https://etherscan.io/token/0xaa9d866666c2a3748d6b23ff69e63e52f08d9ab4",
+        "https://ethplorer.io/address/0xaa9d866666c2a3748d6b23ff69e63e52f08d9ab4"
+    ],
+    "twitter": "FundamentaToken",
+    "telegram": "CivitasFundamenta",
+    "reddit": "FMTA/",
+    "github_org": "Civitas-Fundamenta"
+}

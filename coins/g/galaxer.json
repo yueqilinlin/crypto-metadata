@@ -1,0 +1,23 @@
+{
+    "id": "galaxer",
+    "symbol": "glx",
+    "name": "Galaxer",
+    "platforms": {
+        "ethereum": "0x75d0fb8db2f6485fdfe6ff58321e91effae759a8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Galaxer is a modern open world game based on Ethereum network that allows players to act out their own story in whatever fashion they want, affecting how the fictional planet of Galaxer and its inhabitants, both actual players and NPCs, operate."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x75d0fb8db2f6485fdfe6ff58321e91effae759a8",
+    "url": "https://galaxer.io",
+    "explorers": [
+        "https://etherscan.io/token/0x75d0fb8db2f6485fdfe6ff58321e91effae759a8",
+        "https://ethplorer.io/address/0x75d0fb8db2f6485fdfe6ff58321e91effae759a8"
+    ],
+    "twitter": "galaxergame",
+    "telegram": "Galaxer"
+}

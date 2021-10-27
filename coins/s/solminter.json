@@ -1,0 +1,23 @@
+{
+    "id": "solminter",
+    "symbol": "smrt",
+    "name": "Solminter",
+    "platforms": {
+        "solana": "95KN8q3qubEVjPf9trgyur2nHx8T5RCmztRbLuQ5E5i"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Solminter working product allows you to mint and manage SPL tokens for the Solana Ecosystem. Project owners can mint, lock and distribute tokens with zero coding knowledge."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "95KN8q3qubEVjPf9trgyur2nHx8T5RCmztRbLuQ5E5i",
+    "url": "https://solminter.com/",
+    "explorers": [
+        "https://solscan.io/token/95KN8q3qubEVjPf9trgyur2nHx8T5RCmztRbLuQ5E5i"
+    ],
+    "twitter": "solminter",
+    "telegram": "solminter",
+    "github_org": "solmintercom"
+}

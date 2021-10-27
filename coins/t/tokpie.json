@@ -1,0 +1,30 @@
+{
+    "id": "tokpie",
+    "symbol": "tkp",
+    "name": "TOKPIE",
+    "platforms": {
+        "ethereum": "0xd31695a1d35e489252ce57b129fd4b1b05e6acac",
+        "binance-smart-chain": "0x7849ed1447250d0b896f89b58f3075b127ca29b3"
+    },
+    "hashing_algorithm": "Keccak",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "TOKPIE is the First Cryptocurrency Exchange Platform with BOUNTY STAKES TRADING service.\r\nHolders of the TOKPIE (TKP) token can get up to 500% discount on fees, regular airdrops from newly listed projects, up to 70% referral bonus, access to the bounty stakes depositing and trading, P2P loans with TKP pledged as collateral under 90% LTV, and income from TKP lending (staking). Also, TKP is accepted on Tokpie IEO Launchpad.  "
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0xd31695a1d35e489252ce57b129fd4b1b05e6acac",
+    "url": "https://tokpie.io",
+    "explorers": [
+        "https://etherscan.io/token/0xd31695a1d35e489252ce57b129fd4b1b05e6acac",
+        "https://ethplorer.io/address/0xd31695a1d35e489252ce57b129fd4b1b05e6acac",
+        "https://bscscan.com/token/0x7849ed1447250d0b896f89b58f3075b127ca29b3"
+    ],
+    "twitter": "tokpie_io",
+    "facebook": "tokpie.io",
+    "telegram": "tokpie",
+    "reddit": "Tokpie",
+    "github_org": "Tokpie"
+}

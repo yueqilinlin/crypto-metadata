@@ -1,0 +1,22 @@
+{
+    "id": "etherzero",
+    "symbol": "etz",
+    "name": "Ether Zero",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EtherZero, abbreviated ETZ, is a hard fork on ethereum providing no-fee, high expansibility, real-time transaction or operation feedback services. Aiming to be a general-purpose smart contract platform, ETZ helps developers set up DAPPs that not limited in finance and business scope, but those more frequently used in daily life, to popularize decentralized services to more people and industries. ETZ eliminates the gas fee system from Ethereum network core and adds a Transaction Restriction Policy Protocol layer that associates the threshold, frequency, depth, etc. of initiating transactions with the account balance to combat DDOS like attacks.\r\n\r\nIn particular, ETZ also draws on DASH's two-tier network architecture built with Masternodes transaction verification network and blockchain ledger layer, and its built-in community autonomous system to provide users with real-time operation feedback and high transaction concurrency, no longer need to wait for a long transaction confirmation time. \r\n\r\nETZ picks the proven experience of Ethereum on smart contracts, removes its less scalability gas-based fee system and designs a fully accountable trading limit and security strategy against DDOS Class attacks. The final two-tier network composed of the main node and pow consensus layer laid the foundation to achieve free of charge, high concurrency, real-time transactions, independent evolution and several other features.\r\n\r\nWhat does no-fee mean to DApp Dev?\r\nTaking a simple Todolist DApp as an example, its decentralized implementation can be applied to the team task decomposition process, which requires all participants in the project to know the tasks of other members. Each task is a team consensus result with demand of traceability.\r\n\r\nThe application involves registration of members, additions, deletions and alterations of tasks. According to Ethereum development requirements, all of these operations require gas consumption, which is clearly unreasonable for the users of the application. While in EtherZero, the transaction initiation frequency and the execution depth of smart contracts will be positively related to the balance possessed by the account. This mechanism is similar to POS, it takes into account the fair use of bandwidth and set a relatively high capital threshold required to launch a DDOS attack by malicious attackers while providing free services. This kind of limited and cost-effective free mechanism will spread the decentralized application into the scene of life."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://etherzero.org",
+    "explorers": [
+        "https://explorer.etherzero.org/",
+        "https://etzscan.com/home"
+    ],
+    "twitter": "etherzero_org",
+    "facebook": "EtherZero-554760518194015",
+    "telegram": "etz_official",
+    "github_org": "etherzero-org"
+}

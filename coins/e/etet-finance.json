@@ -1,0 +1,23 @@
+{
+    "id": "etet-finance",
+    "symbol": "etet",
+    "name": "ETET Finance",
+    "platforms": {
+        "huobi-token": "0x4911f439936b7e34453bfff4322520e23243cfa3",
+        "binance-smart-chain": "0x7e7c1d1a7dc1a978100e7fabe865cbb2ce0b20b1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ETET.Finance is the first decentralized Ethereum hashrate provider ecological platform"
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0x4911f439936b7e34453bfff4322520e23243cfa3",
+    "url": "https://etet.finance/",
+    "explorers": [
+        "https://hecoinfo.com/token/0x4911f439936b7e34453bfff4322520e23243cfa3"
+    ],
+    "twitter": "EtetFinance",
+    "telegram": "ETETFinance"
+}

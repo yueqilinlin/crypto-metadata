@@ -1,0 +1,23 @@
+{
+    "id": "mimblewimblecoin",
+    "symbol": "mwc",
+    "name": "MimbleWimbleCoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Mimblewimble applied in the base layer."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://www.mwc.mw/",
+    "explorers": [
+        "https://explorer.mwc.mw/"
+    ],
+    "twitter": "M_W_Coin",
+    "telegram": "mimblewimble_coin",
+    "reddit": "mimblewimblecoin",
+    "github_org": "mwcproject"
+}

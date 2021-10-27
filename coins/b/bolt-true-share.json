@@ -1,0 +1,22 @@
+{
+    "id": "bolt-true-share",
+    "symbol": "bts",
+    "name": "Bolt Share",
+    "platforms": {
+        "binance-smart-chain": "0xc2e1acef50ae55661855e8dcb72adb182a3cc259"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The superior algorithmic stablecoin on Binance Smart Chain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc2e1acef50ae55661855e8dcb72adb182a3cc259",
+    "url": "https://boltdollar.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xc2e1acef50aE55661855E8dcB72adB182A3cC259"
+    ],
+    "twitter": "bolt_dollar",
+    "telegram": "boltdollar"
+}

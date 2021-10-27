@@ -1,0 +1,25 @@
+{
+    "id": "burency",
+    "symbol": "buy",
+    "name": "Burency",
+    "platforms": {
+        "ethereum": "0x31fdd1c6607f47c14a2821f599211c67ac20fa96"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "contract_address": "0x31fdd1c6607f47c14a2821f599211c67ac20fa96",
+    "url": "https://burency.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x31fdd1c6607f47c14a2821f599211c67ac20fa96",
+        "https://etherscan.io/token/0x31fdd1c6607f47c14a2821f599211c67ac20fa96",
+        "https://ethplorer.io/address/0x31fdd1c6607f47c14a2821f599211c67ac20fa96"
+    ],
+    "twitter": "BurencyOfficial",
+    "facebook": "BurencyOfficial",
+    "telegram": "BurencyCommunity"
+}

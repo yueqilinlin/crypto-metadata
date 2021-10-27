@@ -1,0 +1,26 @@
+{
+    "id": "402-s-kostner",
+    "symbol": "realtoken-s-402-s.kostner-ave-chicago-il",
+    "name": "RealT Token - 402 S Kostner Ave, Chicago, IL 60624",
+    "platforms": {
+        "xdai": "0xe255caf8893382465368b8e1cd4ef8436acf0ade",
+        "ethereum": "0xe255caf8893382465368b8e1cd4ef8436acf0ade"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe255caf8893382465368b8e1cd4ef8436acf0ade",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://blockscout.com/xdai/mainnet/tokens/0xE255cAF8893382465368b8e1cd4Ef8436ACf0ADE/token-transfers"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

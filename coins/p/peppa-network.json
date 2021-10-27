@@ -1,0 +1,24 @@
+{
+    "id": "peppa-network",
+    "symbol": "peppa",
+    "name": "Peppa Network",
+    "platforms": {
+        "binance-smart-chain": "0x6d34f621d2a1812434ce7af6e04a344bfce9b47e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Peppa Network is an innovative new cryptocurrency designed by enthusiasts for blockchain technology and children\u2019s development.The network uses a zero-reserved fair launch method, where by 100% of the issued PEPPA enter the liquidity pool from which holders can purchase. This structure ensures an open and fair issuance of our token.\r\nPEPPA tokens can also be obtained through competitions in Peppa World. Aside from large potential financial gains, as Peppa World develops many more exciting features will be revealed. The project eventually aims for complete decentralization."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6d34f621d2a1812434ce7af6e04a344bfce9b47e",
+    "url": "https://peppa.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x6d34f621d2a1812434ce7af6e04a344bfce9b47e"
+    ],
+    "twitter": "NetworkPeppa",
+    "telegram": "PeppaNetwork"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "rock-paper-scissors-token",
+    "symbol": "rpst",
+    "name": "Rock Paper Scissors Token",
+    "platforms": {
+        "binance-smart-chain": "0x4fb431848e8d36978c3ab89c5a2140f877fd155c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rock Paper Scissors Token brings to BSC the first 1v1 Rock Paper Scissors game, where you can play real money games of rock paper scissors with verifiable outcomes on the blockchain.\r\nWinners are paid 2x the amount they bet in RPS Token and most of the BNB used for betting is used for development and primarily to buyback the token pushing the price higher."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4fb431848e8d36978c3ab89c5a2140f877fd155c",
+    "url": "https://www.rpstokenbsc.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x4fb431848e8d36978c3ab89c5a2140f877fd155c"
+    ],
+    "twitter": "RPS_Token",
+    "telegram": "RPSTOfficial",
+    "reddit": "rpsttoken/",
+    "github_org": "rpsttoken"
+}

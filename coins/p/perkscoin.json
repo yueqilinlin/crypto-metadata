@@ -1,0 +1,27 @@
+{
+    "id": "perkscoin",
+    "symbol": "pct",
+    "name": "PerksCoin",
+    "platforms": {
+        "ethereum": "0x5ebe6a342a93102393edd9d2e458c689e5ac0bb3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Healthcare"
+    ],
+    "description": {
+        "en": "The PerksCoin token, PCT in short, is an Ethereum based ERC20 token designed to be the main transaction medium within the PerksCoin Transaction Platform (PTP), designed by CannaSOS.\r\n\r\nPCT token is set to run on decentralized blockchain technology, ensuring transparency and security of all financial transactions."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x5ebe6a342a93102393edd9d2e458c689e5ac0bb3",
+    "url": "https://cannasos.com/crowdsale-ico",
+    "explorers": [
+        "https://etherscan.io/token/0x5ebE6a342a93102393EdD9D2e458C689e5aC0bb3",
+        "https://ethplorer.io/address/0x5ebe6a342a93102393edd9d2e458c689e5ac0bb3"
+    ],
+    "twitter": "cannasos",
+    "facebook": "cannasoscorp",
+    "telegram": "cannasosofficialEN",
+    "reddit": "Perkscoin/"
+}

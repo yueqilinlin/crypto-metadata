@@ -1,0 +1,36 @@
+{
+    "id": "circuits-of-value",
+    "symbol": "coval",
+    "name": "Circuits of Value",
+    "platforms": {
+        "ethereum": "0x3d658390460295fb963f54dc0899cfb1c30776df",
+        "binance-smart-chain": "0xd15cee1deafbad6c0b3fd7489677cc102b141464",
+        "polygon-pos": "0x4597c8a59ab28b36840b82b3a674994a279593d0",
+        "fantom": "0x8b8407c6184f1f0fd1082e83d6a3b8349caced12",
+        "xdai": "0x8b8407c6184f1f0fd1082e83d6a3b8349caced12"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Decentralized Finance (DeFi)",
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "Emblem Vault is the NFT platform that enables cross-chain transfers of any digital asset, and $COVAL is the fuel that powers it all!\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3d658390460295fb963f54dc0899cfb1c30776df",
+    "url": "https://circuitsofvalue.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3d658390460295fb963f54dc0899cfb1c30776df",
+        "https://ethplorer.io/address/0x3d658390460295fb963f54dc0899cfb1c30776df",
+        "https://blockscout.com/xdai/mainnet/token/0x8b8407c6184f1f0Fd1082e83d6A3b8349cAcEd12/token-transfers",
+        "https://polygonscan.com/token/0x4597c8A59Ab28B36840B82B3A674994A279593D0#balances",
+        "https://bscscan.com/token/0xd15cee1deafbad6c0b3fd7489677cc102b141464"
+    ],
+    "twitter": "circuitsofvalue",
+    "telegram": "Coval_Chat",
+    "reddit": "https://www.reddit.com",
+    "github_org": "DecentricCorp"
+}

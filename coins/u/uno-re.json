@@ -1,0 +1,28 @@
+{
+    "id": "uno-re",
+    "symbol": "uno",
+    "name": "Uno Re",
+    "platforms": {
+        "ethereum": "0x474021845c4643113458ea4414bdb7fb74a01a77",
+        "binance-smart-chain": "0x474021845c4643113458ea4414bdb7fb74a01a77"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "The first Decentralized Reinsurance platform."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x474021845c4643113458ea4414bdb7fb74a01a77",
+    "url": "https://unore.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x474021845c4643113458ea4414bdb7fb74a01a77",
+        "https://ethplorer.io/address/0x474021845c4643113458ea4414bdb7fb74a01a77",
+        "https://bscscan.com/token/0x474021845C4643113458ea4414bdb7fB74A01A77"
+    ],
+    "twitter": "unoreinsure",
+    "telegram": "UnoReinsure",
+    "github_org": "PolkaRe"
+}

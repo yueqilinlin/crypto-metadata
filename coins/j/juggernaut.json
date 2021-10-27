@@ -1,0 +1,25 @@
+{
+    "id": "juggernaut",
+    "symbol": "jgn",
+    "name": "Juggernaut",
+    "platforms": {
+        "ethereum": "0x73374ea518de7addd4c2b624c0e8b113955ee041",
+        "binance-smart-chain": "0xc13b7a43223bb9bf4b69bd68ab20ca1b79d81c75"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dynamically share value with stakeholders and create border-less accountability with custom JGN DeFi synthetics and NFT."
+    },
+    "country_origin": "PA",
+    "genesis_date": null,
+    "contract_address": "0x73374ea518de7addd4c2b624c0e8b113955ee041",
+    "url": "https://jgndefi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x73374Ea518De7adDD4c2B624C0e8B113955ee041",
+        "https://ethplorer.io/address/0x73374ea518de7addd4c2b624c0e8b113955ee041"
+    ],
+    "twitter": "JGNDeFi",
+    "telegram": "JGNDeFi",
+    "github_org": "JGNDeFi"
+}

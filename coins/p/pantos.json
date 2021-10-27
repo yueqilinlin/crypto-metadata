@@ -1,0 +1,28 @@
+{
+    "id": "pantos",
+    "symbol": "pan",
+    "name": "Pantos",
+    "platforms": {
+        "ethereum": "0x536381a8628dbcc8c70ac9a30a7258442eab4c92"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "AT",
+    "genesis_date": null,
+    "contract_address": "0x536381a8628dbcc8c70ac9a30a7258442eab4c92",
+    "url": "https://pantos.io",
+    "explorers": [
+        "https://etherscan.io/token/0x536381a8628dbcc8c70ac9a30a7258442eab4c92",
+        "https://ethplorer.io/address/0x536381a8628dbcc8c70ac9a30a7258442eab4c92"
+    ],
+    "twitter": "pantosio",
+    "facebook": "PantosIO",
+    "telegram": "PantosIO_EN",
+    "reddit": "pantos/",
+    "github_org": "pantos-io"
+}

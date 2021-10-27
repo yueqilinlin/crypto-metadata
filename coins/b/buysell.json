@@ -1,0 +1,22 @@
+{
+    "id": "buysell",
+    "symbol": "bull",
+    "name": "BuySell",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Charity"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://buysellcoin.org/",
+    "explorers": [
+        "http://buysellcoin.org:3001/"
+    ],
+    "twitter": "buysell_coin",
+    "telegram": "BuySellBULLcoin",
+    "github_org": "buysellcoin"
+}

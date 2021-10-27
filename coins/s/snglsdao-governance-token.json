@@ -1,0 +1,26 @@
+{
+    "id": "snglsdao-governance-token",
+    "symbol": "sgt",
+    "name": "snglsDAO Governance Token",
+    "platforms": {
+        "ethereum": "0xc4199fb6ffdb30a829614beca030f9042f1c3992"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "The snglsDAO will be the non-profit governance layer of the SNGLS Protocol. It will be established by SingularDTV as an independent and objective organization to guide the development of the SNGLS Protocol. Its number one objective will be to uphold the tenets of decentralization and instill them into the programming of the protocol."
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0xc4199fb6ffdb30a829614beca030f9042f1c3992",
+    "url": "https://snglsdao.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xc4199fB6FFDb30A829614becA030f9042f1c3992",
+        "https://ethplorer.io/address/0xc4199fB6FFDb30A829614becA030f9042f1c3992"
+    ],
+    "twitter": "snglsdao",
+    "facebook": "snglsDAO",
+    "github_org": "SingularDTV"
+}

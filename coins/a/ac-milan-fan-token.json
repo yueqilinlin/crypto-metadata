@@ -1,0 +1,23 @@
+{
+    "id": "ac-milan-fan-token",
+    "symbol": "acm",
+    "name": "AC Milan Fan Token",
+    "platforms": {
+        "chiliz": "0xea6a3e367e96521fd9e8296425a44efa6aee82da"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fan Token",
+        "Sports"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xea6a3e367e96521fd9e8296425a44efa6aee82da",
+    "url": "https://www.socios.com/",
+    "explorers": [
+        "https://explorer.chiliz.com/address/0xEA6A3E367e96521fD9E8296425a44EFa6aee82da/transactions"
+    ]
+}

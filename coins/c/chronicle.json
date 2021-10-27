@@ -1,0 +1,23 @@
+{
+    "id": "chronicle",
+    "symbol": "xnl",
+    "name": "Chronicle",
+    "platforms": {
+        "ethereum": "0x06a00715e6f92210af9d7680b584931faf71a833"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A platform for officially licensed digital collectables and NFTs"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x06a00715e6f92210af9d7680b584931faf71a833",
+    "url": "https://www.chronicle.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x06a00715e6f92210af9d7680b584931faf71a833",
+        "https://ethplorer.io/address/0x06a00715e6f92210af9d7680b584931faf71a833"
+    ],
+    "twitter": "ChronicleXNL",
+    "telegram": "chroniclecommunity"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "neurochain",
+    "symbol": "ncc",
+    "name": "NeuroChain",
+    "platforms": {
+        "ethereum": "0x5d48f293baed247a2d0189058ba37aa238bd4725"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "NeuroChain focuses on creating intelligent business applications. The architecture, the communication protocol and the machine learning algorithms insure connectivity with other blockchains. Other orphan Bots provide a fertile ecosystem for augmented business. The NeuroChain technology is a new augmented blockchain based on intelligent decision making mechanisms. It is composed of Bots and a set of rules represented by flexible and scalable protocols (Proof of Involvement and Integrity & Proof of Workflow). It runs on a network or media with an adaptive communication layer. NeuroChain is an evolution of the Blockchain that integrates machine learning and AI to drastically improve the performance and capabilities of distributed systems. It\u2019s a technological platform specifically designed to carry collective AI applications."
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x5d48f293baed247a2d0189058ba37aa238bd4725",
+    "url": "https://www.neurochaintech.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x5d48f293baed247a2d0189058ba37aa238bd4725",
+        "https://ethplorer.io/address/0x5d48f293baed247a2d0189058ba37aa238bd4725"
+    ],
+    "twitter": "neurochainN",
+    "facebook": "NeuroChainOfficial",
+    "telegram": "neurochain_official",
+    "github_org": "neurochain"
+}

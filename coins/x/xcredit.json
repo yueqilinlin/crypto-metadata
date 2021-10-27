@@ -1,0 +1,23 @@
+{
+    "id": "xcredit",
+    "symbol": "xfyi",
+    "name": "XCredit",
+    "platforms": {
+        "ethereum": "0x6be7e93e45740c314c89a3be52473a0ddf2450fe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "XCredit.Finance is a community governed DeFi Platform focusing on Staking, Lending, Borrow and Governance. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6be7e93e45740c314c89a3be52473a0ddf2450fe",
+    "url": "https://xcredit.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x6be7e93e45740c314c89a3be52473a0ddf2450fe",
+        "https://ethplorer.io/address/0x6be7e93e45740c314c89a3be52473a0ddf2450fe"
+    ],
+    "twitter": "XCreditFinance",
+    "telegram": "XCreditFinance"
+}

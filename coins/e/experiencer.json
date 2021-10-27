@@ -1,0 +1,22 @@
+{
+    "id": "experiencer",
+    "symbol": "expr",
+    "name": "Experiencer",
+    "platforms": {
+        "binance-smart-chain": "0x38393c61d2029a33cb17e2f60d9f5fe147c48509"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Experiencer is the interface protocol that allows creation of the experiential blockchain based gaming platform and its own marketplace."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x38393c61d2029a33cb17e2f60d9f5fe147c48509",
+    "url": "https://expr.digital/",
+    "explorers": [
+        "https://bscscan.com/token/0x38393c61d2029a33cb17e2f60d9f5fe147c48509"
+    ],
+    "twitter": "exprofficial",
+    "telegram": "exprdigital"
+}

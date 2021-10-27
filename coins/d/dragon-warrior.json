@@ -1,0 +1,23 @@
+{
+    "id": "dragon-warrior",
+    "symbol": "gon+",
+    "name": "Dragon Warrior",
+    "platforms": {
+        "binance-smart-chain": "0x8420ce3a82fd1518ed898ff83b9b0b6ad470ad02"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dragon Warrior is a play-to-earn NFT game built on top of the Binance smart chain that gives players full control of their digital assets to participate in an enjoyable gaming environment. The player can use their warriors to fight the dragon in battle mode or fight other warriors in training mode to earn GON token. In addition, the player can tame the dragon during the battle to own the Dragon NFT. Both Warrior NFT and Dragon NFT are minted in the ERC-721 standard which may be traded freely on respective NFT marketplace."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8420ce3a82fd1518ed898ff83b9b0b6ad470ad02",
+    "url": "https://dragonwarrior.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x8420CE3A82FD1518ED898ff83b9B0B6AD470aD02"
+    ],
+    "twitter": "DragonWarriorio",
+    "telegram": "dragonwarriorgame",
+    "github_org": "Dragon-Warrior-GON"
+}

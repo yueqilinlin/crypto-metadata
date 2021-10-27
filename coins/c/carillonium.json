@@ -1,0 +1,23 @@
+{
+    "id": "carillonium",
+    "symbol": "carom",
+    "name": "Carillonium",
+    "platforms": {
+        "binance-smart-chain": "0x71f3ed37567e013f8294aa0c6c1c92332d2944f3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Carillonium is a community driven token based on  reflect and Auto liquidity on Binance smart chain which aims to be more deflationary"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x71f3ed37567e013f8294aa0c6c1c92332d2944f3",
+    "url": "https://carillonium.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x71f3ed37567e013f8294aa0c6c1c92332d2944f3"
+    ],
+    "twitter": "carillonium",
+    "telegram": "Carillonium",
+    "github_org": "carillonium"
+}

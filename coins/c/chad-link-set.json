@@ -1,0 +1,26 @@
+{
+    "id": "chad-link-set",
+    "symbol": "chadlink",
+    "name": "Chad Link Set",
+    "platforms": {
+        "ethereum": "0x19f4a2f8e21915376f1429c26a3a9b9b1db5ff5a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "TokenSets"
+    ],
+    "description": {
+        "en": "ETH is going to \ud83c\udf12 USD value wise for the next ~3 years so you bet you want CHAD gains."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x19f4a2f8e21915376f1429c26a3a9b9b1db5ff5a",
+    "url": "https://www.tokensets.com/set/chadlink",
+    "explorers": [
+        "https://www.etherscan.io/token/0x19f4a2f8e21915376f1429c26a3a9b9b1db5ff5a",
+        "https://etherscan.io/token/0x19f4a2f8e21915376f1429c26a3a9b9b1db5ff5a",
+        "https://ethplorer.io/address/0x19f4a2f8e21915376f1429c26a3a9b9b1db5ff5a"
+    ],
+    "twitter": "SetProtocol",
+    "github_org": "SetProtocol"
+}

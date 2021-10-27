@@ -1,0 +1,23 @@
+{
+    "id": "stablexswap",
+    "symbol": "stax",
+    "name": "StableXSwap",
+    "platforms": {
+        "binance-smart-chain": "0x0da6ed8b13214ff28e9ca979dd37439e8a88f6c4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0da6ed8b13214ff28e9ca979dd37439e8a88f6c4",
+    "url": "https://www.stablex.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x0da6ed8b13214ff28e9ca979dd37439e8a88f6c4"
+    ],
+    "twitter": "stablexswap",
+    "telegram": "stablexfinance",
+    "github_org": "stablexlabs"
+}

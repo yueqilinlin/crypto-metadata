@@ -1,0 +1,23 @@
+{
+    "id": "pasta-finance",
+    "symbol": "pasta",
+    "name": "Pasta Finance",
+    "platforms": {
+        "binance-smart-chain": "0xab9d0fae6eb062f2698c2d429a1be9185a5d4f6e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xab9d0fae6eb062f2698c2d429a1be9185a5d4f6e",
+    "url": "https://pastafinance.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xab9d0fae6eb062f2698c2d429a1be9185a5d4f6e"
+    ],
+    "twitter": "pastafinance",
+    "telegram": "PastaFinanceAnnouncements",
+    "github_org": "pastafinance"
+}

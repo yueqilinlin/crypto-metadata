@@ -1,0 +1,23 @@
+{
+    "id": "union-fair-coin",
+    "symbol": "ufc",
+    "name": "Union Fair Coin",
+    "platforms": {
+        "ethereum": "0x995de3d961b40ec6cdee0009059d48768ccbdd48"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "By using the innovative UPOS (Union Proof of Stake) decentralized consensus algorithm is adopted to complete cross chain asset transfer without the need to invade existing blockchain. Instead, it uses a simple purchase model plus a flexible smart contract. On top of that, UFC Chain is able to achieve various on chain asset transfer with multiple functions."
+    },
+    "country_origin": "MT",
+    "genesis_date": null,
+    "contract_address": "0x995de3d961b40ec6cdee0009059d48768ccbdd48",
+    "url": "http://www.ufc.today/",
+    "explorers": [
+        "https://etherscan.io/token/0x995de3d961b40ec6cdee0009059d48768ccbdd48",
+        "https://ethplorer.io/address/0x995de3d961b40ec6cdee0009059d48768ccbdd48"
+    ],
+    "twitter": "ChainUfc",
+    "telegram": "UFCproject"
+}

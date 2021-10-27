@@ -1,0 +1,26 @@
+{
+    "id": "fastswap-bsc",
+    "symbol": "fast",
+    "name": "Fastswap (BSC)",
+    "platforms": {
+        "binance-smart-chain": "0x2322afaac81697e770c19a58df587d8739777536"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Automated Market Maker (AMM)",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2322afaac81697e770c19a58df587d8739777536",
+    "url": "https://fastswap.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x2322AfAaC81697E770c19a58df587d8739777536"
+    ],
+    "twitter": "fastswapdex",
+    "telegram": "fastswapdex"
+}

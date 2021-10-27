@@ -1,0 +1,25 @@
+{
+    "id": "reflexer-ungovernance-token",
+    "symbol": "flx",
+    "name": "Reflexer Ungovernance Token",
+    "platforms": {
+        "ethereum": "0x6243d8cea23066d098a15582d81a598b4e8391f4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "FLX will have two different core functions:\r\n\r\n- Lender of last resort: similar to other models such as the Maker protocol, the RAI system will have surplus and debt auctions. Debt auctions will autonomously mint and auction new FLX in case the system is underwater.\r\n\r\n- Ungoverning the RAI system: once the vast majority of governance capabilities are completely removed from the system, the community will be able to decide on how, when and if to securely governance minimize any remaining components. FLX will facilitate further ungovernance and allow the community to take decisions on how to remove themselves from discretion over the protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6243d8cea23066d098a15582d81a598b4e8391f4",
+    "url": "https://reflexer.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x6243d8cea23066d098a15582d81a598b4e8391f4",
+        "https://ethplorer.io/address/0x6243d8cea23066d098a15582d81a598b4e8391f4"
+    ],
+    "twitter": "reflexerfinance",
+    "github_org": "reflexer-labs"
+}

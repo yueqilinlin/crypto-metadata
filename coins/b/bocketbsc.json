@@ -1,0 +1,22 @@
+{
+    "id": "bocketbsc",
+    "symbol": "rktbsc",
+    "name": "RocketBSC",
+    "platforms": {
+        "binance-smart-chain": "0x86f56c9041e87d62377acada27055a8debfc8c0f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RocketBSC will be building a NFT binance smart chain platform"
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x86f56c9041e87d62377acada27055a8debfc8c0f",
+    "url": "https://www.rocketbsc.com",
+    "explorers": [
+        "https://bscscan.com/token/0x86F56c9041e87D62377aCADA27055a8dEBFc8c0F"
+    ],
+    "twitter": "rocketbscnft",
+    "telegram": "rocketbsc"
+}

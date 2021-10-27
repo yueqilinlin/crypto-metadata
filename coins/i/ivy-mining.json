@@ -1,0 +1,21 @@
+{
+    "id": "ivy-mining",
+    "symbol": "ivy",
+    "name": "Ivy Mining",
+    "platforms": {
+        "ethereum": "0x829067d40a8d1233927891d9b3381d6aecee1e80"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x829067d40a8d1233927891d9b3381d6aecee1e80",
+    "url": "https://www.ivymining.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x829067D40A8D1233927891D9b3381d6aeCeE1E80",
+        "https://ethplorer.io/address/0x829067D40A8D1233927891D9b3381d6aeCeE1E80"
+    ]
+}

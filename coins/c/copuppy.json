@@ -1,0 +1,23 @@
+{
+    "id": "copuppy",
+    "symbol": "cp",
+    "name": "CoPuppy",
+    "platforms": {
+        "binance-smart-chain": "0x82c19905b036bf4e329740989dcf6ae441ae26c1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CoPuppy is a doggy-style GameFi protocol, with collection, battle, NFT lending and NFT valuation services. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x82c19905b036bf4e329740989dcf6ae441ae26c1",
+    "url": "https://bsc.copuppy.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x82C19905B036bf4E329740989DCF6aE441AE26c1"
+    ],
+    "twitter": "CoPuppy_BSC",
+    "telegram": "copuppy_bsc",
+    "github_org": "copuppy"
+}

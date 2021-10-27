@@ -1,0 +1,23 @@
+{
+    "id": "defixbet",
+    "symbol": "dxb",
+    "name": "DefiXBet",
+    "platforms": {
+        "binance-smart-chain": "0x00121c8ee7e214d92b793b6606464d118c6d7074"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DefiXBet is an innovative Peer to Peer Gaming/Casino platform with Defi Features. DXB relies on Smart Contracts to ensure fairness and transparency for all of its games with no manipulative scripts that put the players at a disadvantage on your typical online casinos."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x00121c8ee7e214d92b793b6606464d118c6d7074",
+    "url": "https://defixbet.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x00121c8ee7e214d92b793b6606464d118c6d7074"
+    ],
+    "twitter": "DefiXBet",
+    "telegram": "DefiXBet",
+    "github_org": "DefiXBet"
+}

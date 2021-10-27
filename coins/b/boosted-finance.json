@@ -1,0 +1,25 @@
+{
+    "id": "boosted-finance",
+    "symbol": "boost",
+    "name": "Boosted Finance",
+    "platforms": {
+        "ethereum": "0x3e780920601d61cedb860fe9c4a90c9ea6a35e78"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3e780920601d61cedb860fe9c4a90c9ea6a35e78",
+    "url": "https://boosted.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x3e780920601D61cEdb860fe9c4a90c9EA6A35E78",
+        "https://ethplorer.io/address/0x3e780920601d61cedb860fe9c4a90c9ea6a35e78"
+    ],
+    "twitter": "BoostedFinance",
+    "github_org": "Boosted-Finance"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "wild-beast-block",
+    "symbol": "wbb",
+    "name": "Wild Beast Block",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2015-02-16",
+    "url": "http://wbbos.com/",
+    "explorers": [
+        "https://chainz.cryptoid.info/wbb/"
+    ],
+    "twitter": "WildBeastBTC"
+}

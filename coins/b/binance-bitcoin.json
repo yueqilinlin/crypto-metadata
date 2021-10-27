@@ -1,0 +1,21 @@
+{
+    "id": "binance-bitcoin",
+    "symbol": "btcb",
+    "name": "Binance Bitcoin",
+    "platforms": {
+        "binance-smart-chain": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "harmony-shard-0": "0x34224dcf981da7488fdd01c7fdd64e74cd55dcf7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pegged tokens such as BTCB, are 100% backed by the native coin in reserve, which is Bitcoin (BTC) in BTCB\u2019s case."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+    "url": [],
+    "explorers": [
+        "https://bscscan.com/address/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c"
+    ]
+}

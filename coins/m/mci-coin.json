@@ -1,0 +1,25 @@
+{
+    "id": "mci-coin",
+    "symbol": "cyclub",
+    "name": "Cyclub",
+    "platforms": {
+        "ethereum": "0x3b58c52c03ca5eb619eba171091c86c34d603e5f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CyClub is not only Korea's first voice/text-based social network, but also voice/chat-based personal live broadcasting station. Users are invited to experience new contents and entertainment in the Metaverse provided by Cyworld Classic approaching more advanced social network services."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x3b58c52c03ca5eb619eba171091c86c34d603e5f",
+    "url": "https://mcicoin.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x3b58c52C03ca5Eb619EBa171091c86C34d603e5f",
+        "https://ethplorer.io/address/0x3b58c52C03ca5Eb619EBa171091c86C34d603e5f"
+    ],
+    "twitter": "MciPlatform",
+    "facebook": "MCI-Platform-109307110848954",
+    "telegram": "mciplatform",
+    "github_org": "mcicoin"
+}

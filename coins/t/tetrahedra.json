@@ -1,0 +1,22 @@
+{
+    "id": "tetrahedra",
+    "symbol": "tth",
+    "name": "TetraHedra",
+    "platforms": {
+        "binance-smart-chain": "0xf19b09da89722f0a6960f9bf9701a63ae891603a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TetraHedra is a DeFi and liquidity generating token that aims to provide solutions to the smart contract problems and liquidity problems of Defi applications and decentralized exchanges. By incorporating a reflective mechanism, the token project encourages token holders to hold their tokens rather than engage in daily transactions.\r\nThe project aims to prevent daily transactional problems associated with exchanges by encouraging token holders to hold rather than exchange. As the activities of big whales could influence price volatility and, in turn, lead to impermanent loss, the TetraHedra network prevents \u2018whales\u2019 from controlling the trading process and outcomes by in- corporating a mechanism that prevents daily transactional activities.\r\nThe Defi network incorporates a 10% penalty fee to investors who make transactions in the network. 5% is returned to fund liquidity in the PancakeSwap liquidity pool, the other 5% will be used to fund development and marketing campaigns. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf19b09da89722f0a6960f9bf9701a63ae891603a",
+    "url": "https://www.tetra-hedra.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xf19b09da89722f0a6960f9bf9701a63ae891603a"
+    ],
+    "twitter": "TetraHedraTTH",
+    "telegram": "TetraHedraENchat"
+}

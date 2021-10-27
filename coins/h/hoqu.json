@@ -1,0 +1,28 @@
+{
+    "id": "hoqu",
+    "symbol": "hqx",
+    "name": "HOQU",
+    "platforms": {
+        "ethereum": "0x1b957dc4aefeed3b4a2351a6a6d5cbfbba0cecfa"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services"
+    ],
+    "description": {
+        "en": "HOQU is a decentralized affiliate platform that brings together performance marketing model and blockchain technology. The goal is to create a decentralized eco-system to launch blockchain-based CPA services, from affiliate programs to affiliate networks and related products. By bringing together merchants, networks and affiliates, HOQU can drastically reduce costs of all market players and set new transparency and performance standards."
+    },
+    "country_origin": "GB",
+    "genesis_date": "2017-09-14",
+    "contract_address": "0x1b957dc4aefeed3b4a2351a6a6d5cbfbba0cecfa",
+    "url": "https://www.hoqu.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x1b957dc4aefeed3b4a2351a6a6d5cbfbba0cecfa",
+        "https://ethplorer.io/address/0x1b957dc4aefeed3b4a2351a6a6d5cbfbba0cecfa"
+    ],
+    "twitter": "HOQU_IO",
+    "facebook": "HOQUio",
+    "telegram": "HOQUIO",
+    "reddit": "HOQU/",
+    "github_org": "hoqu-io"
+}

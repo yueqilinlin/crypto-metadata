@@ -1,0 +1,25 @@
+{
+    "id": "typhoon-cash",
+    "symbol": "phoon",
+    "name": "Typhoon Cash",
+    "platforms": {
+        "ethereum": "0x79256db1bdb6259315a1a3d7dd237f69cadfd8fc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "A New Protocol for Yield-Capable Private Transactions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x79256db1bdb6259315a1a3d7dd237f69cadfd8fc",
+    "url": "https://typhoon.cash/",
+    "explorers": [
+        "https://etherscan.io/token/0x79256db1bdb6259315a1a3d7dd237f69cadfd8fc",
+        "https://ethplorer.io/address/0x79256db1bdb6259315a1a3d7dd237f69cadfd8fc"
+    ],
+    "twitter": "TyphoonCash",
+    "telegram": "typhooncashchat"
+}

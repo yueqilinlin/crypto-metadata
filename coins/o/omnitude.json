@@ -1,0 +1,27 @@
+{
+    "id": "omnitude",
+    "symbol": "ecom",
+    "name": "Omnitude",
+    "platforms": {
+        "ethereum": "0x171d750d42d661b62c277a6b486adb82348c3eca"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "Omnitude is a radical concept in blockchain eco-systems. Utilising Omnitude as an integration layer between existing systems enables rapid deployment of blockchain technology without the need to replace current systems.\r\n\r\nWe are not only creating our own blockchain solutions that integrate enterprise systems, supply chains and eCommerce platforms. But also enabling a community of app developers that can imagine, build and deploy blockchain solutions to real world problems."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x171d750d42d661b62c277a6b486adb82348c3eca",
+    "url": "https://omnitude.tech/",
+    "explorers": [
+        "https://etherscan.io/token/0x171d750d42d661b62c277a6b486adb82348c3eca",
+        "https://ethplorer.io/address/0x171d750d42d661b62c277a6b486adb82348c3eca"
+    ],
+    "twitter": "Omnitudeorg",
+    "facebook": "Omnitude.tech",
+    "reddit": "Omnitude",
+    "github_org": "alvaradojl"
+}

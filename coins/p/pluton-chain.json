@@ -1,0 +1,22 @@
+{
+    "id": "pluton-chain",
+    "symbol": "plc",
+    "name": "Pluton Chain",
+    "platforms": {
+        "binance-smart-chain": "0x176f3763aca63d94b5883b3e1a6edaf781cd2de6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pluton Chain is a decentralised ecosystem Our goal is to make cryptocurrency convenient for everyday life while maintaining reliability and anonymity.\r\n\r\nA lot of work has been done in the Pluton network so far: many nodes have been created, servers around the world have been organised and launched, and the network has become truly decentralised and stable.\r\n\r\nWe are now ready to launch the first bridge from our Pluton Chain to the BSC network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x176f3763aca63d94b5883b3e1a6edaf781cd2de6",
+    "url": "https://plutonchain.com",
+    "explorers": [
+        "https://bscscan.com/token/0x176f3763AcA63D94B5883b3e1a6eDaF781CD2DE6"
+    ],
+    "twitter": "plutonchain",
+    "telegram": "plutonchain"
+}

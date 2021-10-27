@@ -1,0 +1,25 @@
+{
+    "id": "kirobo",
+    "symbol": "kiro",
+    "name": "Kirobo",
+    "platforms": {
+        "ethereum": "0xb1191f691a355b43542bea9b8847bc73e7abb137"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kirobo adds a logic layer into the Blockchain that protects users from human error. Their products include Retrievable Transfer and Backup & Inheritance."
+    },
+    "country_origin": "IL",
+    "genesis_date": null,
+    "contract_address": "0xb1191f691a355b43542bea9b8847bc73e7abb137",
+    "url": "https://kirobo.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xb1191f691a355b43542bea9b8847bc73e7abb137",
+        "https://ethplorer.io/address/0xb1191f691a355b43542bea9b8847bc73e7abb137"
+    ],
+    "twitter": "kirobo5",
+    "facebook": "kirobo.io",
+    "telegram": "kirobo",
+    "github_org": "kiroboio"
+}

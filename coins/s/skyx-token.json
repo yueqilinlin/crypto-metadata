@@ -1,0 +1,23 @@
+{
+    "id": "skyx-token",
+    "symbol": "skyx",
+    "name": "SkyX Token",
+    "platforms": {
+        "binance-smart-chain": "0x3c4822cf5f5897d052335d3ec5b8d2f56430249a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SkyX is the native token of Sukai and can be earned as rewards for your activity on Sukai's as well as bought and traded in the open market. All your data will be stored as NFT. Your personal data will be encrypted and protected from strangers using WEB3 and the blockchain.\r\n\r\nSukai and SkyX allows you to earn while you perform everyday activities within the platform meaning You Get Paid To Use while stopping and overcoming your personal data explotation or misuse as we experience with mainstream social media.\r\n\r\nIncorporating DeFI, NFT, WEB3, blockchain, SkyX Token available on both ERC and BSC networks and addressing personal data security and Community Governance all in 1 ecosystem."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x3c4822cf5f5897d052335d3ec5b8d2f56430249a",
+    "url": "https://skyxtoken.io",
+    "explorers": [
+        "https://bscscan.com/token/0x3c4822cf5f5897d052335d3ec5b8d2f56430249a"
+    ],
+    "twitter": "SkyX_Token",
+    "telegram": "SkyX_Sukai",
+    "github_org": "skyxtoken"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "peet-defi",
+    "symbol": "pte",
+    "name": "Peet DeFi",
+    "platforms": {
+        "binance-smart-chain": "0x424b50dcb78f459d11a95beddd13788296281987"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PTE is the core utility, reserve, staking, and governance asset for Peet Platform. The platform aims to make decentralized finance open, limitless, offer true multi-chain interactions, and collateralize real world assets linking CeFi and DeFi."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x424b50dcb78f459d11a95beddd13788296281987",
+    "url": "http://peet-defi.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x424b50dcb78f459d11a95beddd13788296281987"
+    ],
+    "twitter": "peet_fi",
+    "telegram": "peetdefi"
+}

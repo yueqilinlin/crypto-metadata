@@ -1,0 +1,22 @@
+{
+    "id": "cxcoin",
+    "symbol": "cx",
+    "name": "CxCoin",
+    "platforms": {
+        "binance-smart-chain": "0xd09092b1c9c495eb7e0a043927492cf2dee68a86"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cxcoin is building a platform to allow streamers and content creators a safe and easy method of receiving support through Cryptocurrencies along with its auto Buyback system."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xd09092b1c9c495eb7e0a043927492cf2dee68a86",
+    "url": "https://cxcoin.net/",
+    "explorers": [
+        "https://bscscan.com/token/0xd09092b1c9c495eb7e0a043927492cf2dee68a86"
+    ],
+    "twitter": "CxCoinOfficial",
+    "telegram": "CxCoinChat"
+}

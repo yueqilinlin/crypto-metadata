@@ -1,0 +1,23 @@
+{
+    "id": "basis-coin-cash",
+    "symbol": "bcc",
+    "name": "Basis Coin Cash",
+    "platforms": {
+        "ethereum": "0xae17f4f5ca32f77ea8e3786db7c0b2fe877ac176"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BasisCoin is an open-source, permisionless, highly- scalable, decentralized, algorithmic protocol built on Ethereum.\r\nThis is a protocol inspired by Basis.cash. We found some design flaws in Basis.cash and made improvements. But retain the underlying structure of Basis.cash, because we believe that a structure that has been tested by time and users is stable and safe."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xae17f4f5ca32f77ea8e3786db7c0b2fe877ac176",
+    "url": "https://basiscoin.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xaE17f4F5CA32F77ea8e3786db7C0b2FE877aC176",
+        "https://ethplorer.io/address/0xaE17f4F5CA32F77ea8e3786db7C0b2FE877aC176"
+    ],
+    "twitter": "Basis_Coin",
+    "telegram": "basiscoin"
+}

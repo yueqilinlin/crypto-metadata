@@ -1,0 +1,26 @@
+{
+    "id": "etherparty",
+    "symbol": "fuel",
+    "name": "Etherparty",
+    "platforms": {
+        "ethereum": "0xea38eaa3c86c8f9b751533ba2e562deb9acded40"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "The Power of Ethereum in the Palm of your Hand. Etherparty is a contract wizard that removes the complexity of creating, managing and executing smart contracts on any blockchain."
+    },
+    "country_origin": "CA",
+    "genesis_date": "2017-09-22",
+    "contract_address": "0xea38eaa3c86c8f9b751533ba2e562deb9acded40",
+    "url": "https://etherparty.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xea38eaa3c86c8f9b751533ba2e562deb9acded40",
+        "https://ethplorer.io/address/0xea38eaa3c86c8f9b751533ba2e562deb9acded40"
+    ],
+    "twitter": "etherparty_io",
+    "reddit": "etherparty",
+    "github_org": "etherparty"
+}

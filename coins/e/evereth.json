@@ -1,0 +1,23 @@
+{
+    "id": "evereth",
+    "symbol": "EverETH",
+    "name": "EverETH",
+    "platforms": {
+        "binance-smart-chain": "0x16dcc0ec78e91e868dca64be86aec62bf7c61037"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x16dcc0ec78e91e868dca64be86aec62bf7c61037",
+    "url": "https://evereth.net",
+    "explorers": [
+        "https://bscscan.com/token/0x16dcc0ec78e91e868dca64be86aec62bf7c61037"
+    ],
+    "twitter": "everethofficial",
+    "telegram": "EverETHOfficial",
+    "github_org": "EverETHcode"
+}

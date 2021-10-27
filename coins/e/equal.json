@@ -1,0 +1,22 @@
+{
+    "id": "equal",
+    "symbol": "eql",
+    "name": "Equal",
+    "platforms": {
+        "binancecoin": "EQL-586"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A multi-chain web3 wallet that aims to reduce the complexities involved with interacting with the blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-12-19",
+    "contract_address": "EQL-586",
+    "url": "https://equal.tech/",
+    "explorers": [
+        "https://explorer.binance.org/asset/EQL-586"
+    ],
+    "twitter": "Equal_Network",
+    "reddit": "equaltoken_io/"
+}

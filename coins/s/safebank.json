@@ -1,0 +1,24 @@
+{
+    "id": "safebank",
+    "symbol": "safebank",
+    "name": "SafeBank",
+    "platforms": {
+        "binance-smart-chain": "0x2ab90fbb649ba3ddd4269764eb2975d8f32b7b5a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeBank is a yield and liquidity generation protocol by DafriBank Digital a South African based fintech start-up nicknamed the Revolut of Africa. SafeBank employs 3 simple functions. Static Rewards + LP acquisition + Burn In each trade, the transaction is taxed a 10% fee, which is split 2 ways."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2ab90fbb649ba3ddd4269764eb2975d8f32b7b5a",
+    "url": "https://safebank.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x2aB90FBb649bA3DDD4269764eb2975d8F32b7b5a"
+    ],
+    "twitter": "SafeBankToken",
+    "telegram": "SafeBank",
+    "reddit": "https://www.reddit.com",
+    "github_org": "SafeBank-Digital"
+}

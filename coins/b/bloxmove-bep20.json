@@ -1,0 +1,22 @@
+{
+    "id": "bloxmove-bep20",
+    "symbol": "blxm",
+    "name": "bloXmove Token (BEP20)",
+    "platforms": {
+        "binance-smart-chain": "0x40e51e0ec04283e300f12f6bb98da157bb22036e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x40e51e0ec04283e300f12f6bb98da157bb22036e",
+    "url": "https://bloXmove.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x40e51e0ec04283e300f12f6bb98da157bb22036e"
+    ],
+    "twitter": "BloXmove",
+    "telegram": "bloXmoveCommunity"
+}

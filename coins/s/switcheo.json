@@ -1,0 +1,31 @@
+{
+    "id": "switcheo",
+    "symbol": "swth",
+    "name": "Switcheo",
+    "platforms": {
+        "neo": "ab38352559b8b203bde5fddfa0b07d8b2525e132",
+        "binance-smart-chain": "0x250b211ee44459dad5cd3bca803dd6a7ecb5d46c",
+        "ethereum": "0xb4371da53140417cbb3362055374b10d97e420bb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem",
+        "Decentralized Exchange Token (DEX)",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "ab38352559b8b203bde5fddfa0b07d8b2525e132",
+    "url": "https://dem.exchange/",
+    "explorers": [
+        "https://neotracker.io/asset/ab38352559b8b203bde5fddfa0b07d8b2525e132",
+        "https://switcheo.org/token/swth?net=main"
+    ],
+    "twitter": "demexchange",
+    "telegram": "switcheo",
+    "reddit": "Switcheo/"
+}

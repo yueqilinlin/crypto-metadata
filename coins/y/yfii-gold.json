@@ -1,0 +1,24 @@
+{
+    "id": "yfii-gold",
+    "symbol": "yfiig",
+    "name": "YFII Gold",
+    "platforms": {
+        "ethereum": "0xef8ba8cba86f81b3108f60186fce9c81b5096d5c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xef8ba8cba86f81b3108f60186fce9c81b5096d5c",
+    "url": "https://yfiigold.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xef8ba8cba86f81b3108f60186fce9c81b5096d5c",
+        "https://ethplorer.io/address/0xef8ba8cba86f81b3108f60186fce9c81b5096d5c"
+    ],
+    "twitter": "GoldYfii",
+    "telegram": "YFIIGOLDCASHANDSILVER",
+    "github_org": "yfiigold"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "unreal-finance",
+    "symbol": "ugt",
+    "name": "Unreal Finance",
+    "platforms": {
+        "ethereum": "0x9cf98eb8a8b28c83e8612046cf55701ce3eb0063"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Unreal Finance is a yield futures platform that allows users to tokenize their future yields via smart contract interactions. This enables lenders to lock in their interest rates, speculate on & trade interest rates across multiple protocols, enable interest rate arbitrage between different protocols, or be able to sell their interest early. \r\n\r\nUnreal plans to be multichain platform, functioning essentially anywhere there are lending markets, as an additional layer on top of multiple existing Defi chains. However, Unreal will be launching on Ethereum first. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9cf98eb8a8b28c83e8612046cf55701ce3eb0063",
+    "url": "https://unreal.finance/",
+    "explorers": [
+        "https://etherscan.io/address/0x9cf98Eb8A8B28c83E8612046cf55701Ce3Eb0063",
+        "https://etherscan.io/token/0x9cf98Eb8A8B28c83E8612046cf55701Ce3Eb0063",
+        "https://ethplorer.io/address/0x9cf98eb8a8b28c83e8612046cf55701ce3eb0063"
+    ],
+    "twitter": "UnrealFinance",
+    "telegram": "unrealfinance",
+    "reddit": "unrealfinance/"
+}

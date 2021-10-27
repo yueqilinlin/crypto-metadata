@@ -1,0 +1,23 @@
+{
+    "id": "catge-coin",
+    "symbol": "catge",
+    "name": "Catge Coin",
+    "platforms": {
+        "binance-smart-chain": "0x3e07a8a8f260edeeca24139b6767a073918e8674"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CATGE is the Utility Token behind the Startup Token Launchpad exchange project. It's going to be used to pay commission, get rewards and trade against the tokenized assets.\r\n\r\nSTL is partnering with startups and real estates in order to acquire a % of their equity/property and launch tokens backed by it. Dividends, acquisition profits and monthly yields are collected time by time by STL, converted in CATGE and distributed to the token holders.\r\n\r\nLike this, STL is going to break through the Venture Capital industry and the Real Estate investments industry thanks to asset tokenization."
+    },
+    "country_origin": "IT",
+    "genesis_date": null,
+    "contract_address": "0x3e07a8a8f260edeeca24139b6767a073918e8674",
+    "url": "https://catgecoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x1ca23d55bc741366d010274553a8aeaaefb0d583"
+    ],
+    "twitter": "catgecoinoff",
+    "telegram": "catgecoin",
+    "reddit": "catgearmy/"
+}

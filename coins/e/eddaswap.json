@@ -1,0 +1,27 @@
+{
+    "id": "eddaswap",
+    "symbol": "edda",
+    "name": "EDDASwap",
+    "platforms": {
+        "ethereum": "0xfbbe9b1142c699512545f47937ee6fae0e4b0aa9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "EDDASwap is an ecosystem of DeFi + NFT Applications with a DEX supporting ETH, BSC and DOT."
+    },
+    "country_origin": "CZ",
+    "genesis_date": null,
+    "contract_address": "0xfbbe9b1142c699512545f47937ee6fae0e4b0aa9",
+    "url": "https://eddaswap.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xfbbe9b1142c699512545f47937ee6fae0e4b0aa9",
+        "https://ethplorer.io/address/0xfbbe9b1142c699512545f47937ee6fae0e4b0aa9"
+    ],
+    "twitter": "EDDASwap",
+    "telegram": "EDDASwap",
+    "github_org": "EddaSwap"
+}

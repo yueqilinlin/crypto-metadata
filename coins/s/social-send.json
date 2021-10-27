@@ -1,0 +1,22 @@
+{
+    "id": "social-send",
+    "symbol": "send",
+    "name": "Social Send",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Social Send is a blockchain project advancing cryptocurrency into social networks. SEND has created a simple and universal integration system with end result user experience in mind. Sending and receiving funds on any social network is now achievable with only a novice level of expertise. It is so easy the user may not even realize they are utilizing blockchain technology. SEND\u2019s goal is to be the catalyst that takes cryptocurrency into the hands of the masses."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://socialsend.io/",
+    "explorers": [
+        "https://explorer.socialsend.io/"
+    ],
+    "twitter": "SocialSendCoin",
+    "facebook": "SocialSendCoin",
+    "github_org": "SocialSend"
+}

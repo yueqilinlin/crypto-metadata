@@ -1,0 +1,34 @@
+{
+    "id": "open-governance-token",
+    "symbol": "open",
+    "name": "OPEN Governance Token",
+    "platforms": {
+        "ethereum": "0x69e8b9528cabda89fe846c67675b5d73d463a916",
+        "binance-smart-chain": "0xf35262a9d427f96d2437379ef090db986eae5d42"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Polygon Ecosystem",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "OpenDAO enables real world assets such as stocks, bonds and real estate to be used meaningfully in the DeFi ecosystem via permissionless, trust minimized, transparent, secure and automated protocols."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x69e8b9528cabda89fe846c67675b5d73d463a916",
+    "url": "https://opendao.io",
+    "explorers": [
+        "https://etherscan.io/token/0x69e8b9528cabda89fe846c67675b5d73d463a916",
+        "https://ethplorer.io/address/0x69e8b9528cabda89fe846c67675b5d73d463a916",
+        "https://bscscan.com/token/0xf35262a9d427f96d2437379ef090db986eae5d42",
+        "https://bscscan.com/token/0xabae871b7e3b67aeec6b46ae9fe1a91660aadac5"
+    ],
+    "twitter": "opendaoprotocol",
+    "telegram": "opendao",
+    "reddit": "OpenDAO/",
+    "github_org": "opendao-protocols"
+}

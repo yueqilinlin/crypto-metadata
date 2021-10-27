@@ -1,0 +1,26 @@
+{
+    "id": "clearpoll",
+    "symbol": "poll",
+    "name": "ClearPoll",
+    "platforms": {
+        "ethereum": "0x705ee96c1c160842c92c1aecfcffccc9c412e3d9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "ClearPoll is a great new way to have your say. Simply install the app, browse for polls, and vote on global, national or local issues. It\u2019s quick, easy and most of all \u2013 secure. Using blockchain technology, your votes cannot be tampered with. The results of a poll are also 100% secure."
+    },
+    "country_origin": "AU",
+    "genesis_date": "2017-10-20",
+    "contract_address": "0x705ee96c1c160842c92c1aecfcffccc9c412e3d9",
+    "url": "https://www.clearpoll.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9",
+        "https://ethplorer.io/address/0x705ee96c1c160842c92c1aecfcffccc9c412e3d9"
+    ],
+    "twitter": "voteclearpoll",
+    "telegram": "clearpoll_clearify",
+    "reddit": "clearpoll"
+}

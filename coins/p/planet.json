@@ -1,0 +1,25 @@
+{
+    "id": "planet",
+    "symbol": "pla",
+    "name": "PLANET",
+    "platforms": {
+        "ethereum": "0x307d45afbb7e84f82ef3d251a6bb0f00edf632e4"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "PLANET Token for Investment Crypto and Esports and Blockchain."
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "contract_address": "0x307d45afbb7e84f82ef3d251a6bb0f00edf632e4",
+    "url": "https://planet-world.io",
+    "explorers": [
+        "https://etherscan.io/token/0x307d45afbb7e84f82ef3d251a6bb0f00edf632e4",
+        "https://ethplorer.io/address/0x307d45afbb7e84f82ef3d251a6bb0f00edf632e4"
+    ],
+    "twitter": "member_planet",
+    "telegram": "PLANETOFFICIAL"
+}

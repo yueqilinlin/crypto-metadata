@@ -1,0 +1,24 @@
+{
+    "id": "eos-trust",
+    "symbol": "eost",
+    "name": "EOS TRUST",
+    "platforms": {
+        "ethereum": "0x87210f1d3422ba75b6c40c63c78d79324dabcd55"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Eost is introduced as a platform for easy, fast, affordable and efficient use of Eos. The solution is centered around giving people (EOST community) the ability to comfortably use EOS through a more scalable alias \u2013 EOST"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x87210f1d3422ba75b6c40c63c78d79324dabcd55",
+    "url": "https://eostrustlink.io",
+    "explorers": [
+        "https://etherscan.io/token/0x87210f1d3422ba75b6c40c63c78d79324dabcd55",
+        "https://ethplorer.io/address/0x87210f1d3422ba75b6c40c63c78d79324dabcd55"
+    ],
+    "twitter": "EOSTRUST1",
+    "telegram": "Eostrust_Official",
+    "github_org": "eostrust2"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "universal-dollar",
+    "symbol": "u8d",
+    "name": "Universal Dollar",
+    "platforms": {
+        "ethereum": "0x888888877a18532b78d259577d00057054c50dd8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Number"
+    ],
+    "description": {
+        "en": "Universal Dollar (U8D) is an algorithmic decentralized stable coin based on the ERC-20 token built to be self-stabilizing. To start using U8D and get benefits of decentralised finance read and proceed with the following steps."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x888888877a18532b78d259577d00057054c50dd8",
+    "url": "https://u8d.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x888888877A18532b78d259577d00057054C50Dd8",
+        "https://ethplorer.io/address/0x888888877A18532b78d259577d00057054C50Dd8"
+    ],
+    "twitter": "u_8_d",
+    "telegram": "UniversalDollar"
+}

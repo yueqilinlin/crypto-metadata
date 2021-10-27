@@ -1,0 +1,20 @@
+{
+    "id": "oec-bch",
+    "symbol": "bchk",
+    "name": "OEC BCH",
+    "platforms": {
+        "okex-chain": "0x18d103b7066aeedb6005b78a462ef9027329b1ea"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x18d103b7066aeedb6005b78a462ef9027329b1ea",
+    "url": "https://www.okex.com/okexchain",
+    "explorers": [
+        "https://www.oklink.com/okexchain/tokenAddr/0x18D103b7066AEedb6005B78A462Ef9027329b1EA"
+    ]
+}

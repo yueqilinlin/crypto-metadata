@@ -1,0 +1,23 @@
+{
+    "id": "meteorite-network",
+    "symbol": "meteor",
+    "name": "Meteorite Network",
+    "platforms": {
+        "ethereum": "0x765baefcb5418fa9f7dddacb1ccc07bd0e890e4e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Meteorite Network is a Hold-to-farm Defi protocol which rewards every one of its holders with a percentage fee from every transaction made in its ecosystem. Also, Meteorite Network includes Meteorbet. It's a sport betting platform which allows holders of Meteor tokens to place bets on major sporting events and stand a chance to win a set amount of meteorite token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x765baefcb5418fa9f7dddacb1ccc07bd0e890e4e",
+    "url": "https://meteorite.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x765baefcb5418fa9f7dddacb1ccc07bd0e890e4e",
+        "https://ethplorer.io/address/0x765baefcb5418fa9f7dddacb1ccc07bd0e890e4e"
+    ],
+    "twitter": "Meteorite_net",
+    "telegram": "Meteoritenetwork"
+}

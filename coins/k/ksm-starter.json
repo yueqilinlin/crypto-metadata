@@ -1,0 +1,23 @@
+{
+    "id": "ksm-starter",
+    "symbol": "kst",
+    "name": "KSM Starter",
+    "platforms": {
+        "ethereum": "0xbc17729fdf562723f0267f79ff25ade441056d87"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KSM Starter is the primary launchpad on Kusama that supports upcoming projects that wish to build on the Kusama network and the greater Substrate ecosystem. We are a platform for the community, by the community and of the community. KSM Starter allows any projects to raise funds, as long as the projects are committed to exploring the possibility of joining the intricate Kusama ecosystem. Moreover, KSM Starter offers unique opportunities for these emerging projects to partner with experts and already established projects to continue building and delivering superior products that their communities can enjoy, while enriching the Kusama ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbc17729fdf562723f0267f79ff25ade441056d87",
+    "url": "https://ksmstarter.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xBc17729fDf562723f0267F79FF25aDE441056d87",
+        "https://ethplorer.io/address/0xbc17729fdf562723f0267f79ff25ade441056d87"
+    ],
+    "twitter": "KSMStarter",
+    "telegram": "KSM_starter"
+}

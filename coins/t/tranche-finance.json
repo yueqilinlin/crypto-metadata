@@ -1,0 +1,24 @@
+{
+    "id": "tranche-finance",
+    "symbol": "SLICE",
+    "name": "Tranche Finance",
+    "platforms": {
+        "ethereum": "0x0aee8703d34dd9ae107386d3eff22ae75dd616d1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0aee8703d34dd9ae107386d3eff22ae75dd616d1",
+    "url": "http://tranche.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x0AeE8703D34DD9aE107386d3eFF22AE75Dd616D1",
+        "https://ethplorer.io/address/0x0aee8703d34dd9ae107386d3eff22ae75dd616d1"
+    ],
+    "twitter": "TrancheFinance"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "top-coin-token",
+    "symbol": "tct",
+    "name": "Top Coin Token",
+    "platforms": {
+        "binance-smart-chain": "0x2ac6e39c37e6ab10158ea03d5c96548a3861e0c7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Top Coin Token (TCT) 100% community owned\r\nTopCoin is community based coin listing and voting platform. TopCoin is the place to find the next big cryptocoin.\r\nWe have created the TopCoin token to be the ever-rewarding DEFI token for the community with three dynamic features: Reflection, BuyBack-Burn and Anti-Whales Limits."
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0x2ac6e39c37e6ab10158ea03d5c96548a3861e0c7",
+    "url": "https://www.topcoin.tech/",
+    "explorers": [
+        "https://bscscan.com/token/0x2ac6e39c37e6ab10158ea03d5c96548a3861e0c7"
+    ],
+    "twitter": "TopCoinToken",
+    "telegram": "topcoinchat",
+    "github_org": "topcointoken"
+}

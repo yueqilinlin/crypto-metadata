@@ -1,0 +1,23 @@
+{
+    "id": "dirham-crypto",
+    "symbol": "dhs",
+    "name": "Dirham Crypto",
+    "platforms": {
+        "ethereum": "0x30365ed4ca8173013ad948b9842f34ac71d01f7c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dirham Crypto is a platform for REPO (Repurchase Agreement) bonds in the blockchain ecosystem. Dirham Crypto aims to create a fully backed stablecoin combining the two worlds of fiat money and Cryptocurrencies based on REPO contracts. While other stablecoins distribute the profit earned by the custody of fiat money to stakeholders, Dirham Crypto enables all the clients to have a share of that profit, which is at least 4% APY. It means anyone who holds any amount of Dirham in his/her wallet will receive at least 4% interest on specified maturity dates without staking or locking the fund in any third-party vault. Dir-ham coin is a fully backed stablecoin on Ethereum (ERC20) also ready to deploy on Tron network (TRC20) blockchains, each coin equals one AED (United Arab Emirate\u2019s Dirham), and is redeemable to fiat or other Cryptocurrencies by brokers in several countries around the world. Transferring and saving funds is without any fees on the Dirham Crypto platform."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x30365ed4ca8173013ad948b9842f34ac71d01f7c",
+    "url": "https://dirhamcrypto.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x30365ed4ca8173013ad948b9842f34ac71d01f7c",
+        "https://ethplorer.io/address/0x30365ed4ca8173013ad948b9842f34ac71d01f7c"
+    ],
+    "twitter": "DirhamCrypto",
+    "github_org": "DirhamCrypto"
+}

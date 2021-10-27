@@ -1,0 +1,23 @@
+{
+    "id": "dough",
+    "symbol": "dough",
+    "name": "Dough",
+    "platforms": {
+        "binance-smart-chain": "0xede5020492be8e265db6141cb0a1d2df9dbae9bb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Automated Switching Reward Token Based On Real-time Price Movement:\r\n-Recipe NFTs \r\n-Crosschain Launchpad"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xede5020492be8e265db6141cb0a1d2df9dbae9bb",
+    "url": "https://doughbsc.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xede5020492be8e265db6141cb0a1d2df9dbae9bb"
+    ],
+    "twitter": "Doughbsc",
+    "telegram": "doughbsc",
+    "github_org": "DoughToken"
+}

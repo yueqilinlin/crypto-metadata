@@ -1,0 +1,31 @@
+{
+    "id": "start-vesting",
+    "symbol": "vest",
+    "name": "START Vesting",
+    "platforms": {
+        "binance-smart-chain": "0x5ff584f11b3dc5bc26cd099239ced7eaa2d4e581",
+        "polygon-pos": "0xa56c978be266b1a9ab7b8982050d500505eeae61",
+        "fantom": "0x05e481b19129b560e921e487adb281e70bdba463"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Fantom Ecosystem",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "As the first cross-chain unlimited use token and liquidity locking service, it is practically guaranteed to make unstoppable waves!\r\n\r\nWe all come from the humble beginnings of BTC, ERC20 tokens and high ETH gas fees. So we partnered with some major players and brought our strengths over to BSC to deliver products that we can be proud of. Like everything we\u2019ve released thus far, we took our time, researched, tested and retested to make sure that we are continuing to bring something new & innovative to this wonderful space.\r\n\r\n$START $VESTing!\r\n\r\nOne of the key concerns of many who want to buy into IDOs is trust. This exciting and innovative world is still relatively young, and, as a result, there is little protection for investors exploring this new frontier.\r\n\r\nThere is a risk that the team behind a new coin IDO may take advantage of the opportunity presented by money pouring in from new token buyers to dump team owned tokens or remove liquidity, causing a crash in the token price.\r\n\r\nWith START Vesting, intrepid crypto pioneers finally have a solid tool to tell the promising projects from the putrid; the creators from the criminals.\r\n\r\nUsing the Starter platform, any project on any of our 7 supported blockchains can use our Vesting protocol to securely lock their tokens in one of our audited smart-contract vaults for a set period of time.\r\n\r\nInvestors, developers, IDO\u2019s all have the option to START Vesting and build community trust with their platform. This information will be freely available to anyone who seeks it, so step one of DYOR will be to look for that lockup on Vesting!"
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x5ff584f11b3dc5bc26cd099239ced7eaa2d4e581",
+    "url": "https://startvesting.xyz/",
+    "explorers": [
+        "https://bscscan.com/token/0x5ff584f11b3dc5bc26cd099239ced7eaa2d4e581",
+        "https://ftmscan.com/token/0x05e481b19129b560e921e487adb281e70bdba463",
+        "https://polygonscan.com/token/0xa56c978be266b1a9ab7b8982050d500505eeae61"
+    ],
+    "twitter": "StarterXyz",
+    "telegram": "StarterXyz"
+}

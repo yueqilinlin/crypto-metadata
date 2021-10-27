@@ -1,0 +1,22 @@
+{
+    "id": "doggy-swap",
+    "symbol": "dogs",
+    "name": "Doggy Swap",
+    "platforms": {
+        "tron": "TTvE6akZnkh9MXgHqnRxmAR4Yb2hxgKaQS"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Doggy Swap is the all-in-one DeFi platform that provides both AMM and NFT Marketplace solutions in one place!"
+    },
+    "country_origin": "VN",
+    "genesis_date": null,
+    "contract_address": "TTvE6akZnkh9MXgHqnRxmAR4Yb2hxgKaQS",
+    "url": "https://doggyswap.io/",
+    "explorers": [
+        "https://tronscan.org/#/token20/TTvE6akZnkh9MXgHqnRxmAR4Yb2hxgKaQS"
+    ],
+    "twitter": "DoggyswapBSC",
+    "telegram": "doggyswap"
+}

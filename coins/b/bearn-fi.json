@@ -1,0 +1,26 @@
+{
+    "id": "bearn-fi",
+    "symbol": "bfi",
+    "name": "Bearn.fi",
+    "platforms": {
+        "binance-smart-chain": "0x81859801b01764d4f0fa5e64729f5a6c3b91435b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Aggregator",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Bearn Fi is a cross-chain product in Decentralized Finance (DeFi) that at its core provides yield generation, casino/gaming aggregation, bridge, treasury and governance on multi-chain: Binance Smart Chain blockchain (BSC) and Ethereum blockchain.\r\nThe protocol is developed by various independent factors within the cryptocurrency space. Management of the protocol is governed by BFI and BFIE (BFI token on Ethereum blockchain) holders.\r\nOur core products are active in production, below is a quick brief on the protocol\u2019s governance process, and links to active communication channels."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x81859801b01764d4f0fa5e64729f5a6c3b91435b",
+    "url": "https://bearn.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0x81859801b01764D4f0Fa5E64729f5a6C3b91435b"
+    ],
+    "twitter": "BearnFi",
+    "telegram": "Bearn_Fi",
+    "github_org": "bearn-defi"
+}

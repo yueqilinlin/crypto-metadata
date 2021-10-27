@@ -1,0 +1,26 @@
+{
+    "id": "occamfi",
+    "symbol": "occ",
+    "name": "OccamFi",
+    "platforms": {
+        "ethereum": "0x2f109021afe75b949429fe30523ee7c0d5b27207"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad"
+    ],
+    "description": {
+        "en": "The http://Occam.fi ecosystem is the first decentralised launchpad & #DeFi ecosystem designed for the Cardano ecosystem. Bringing the Razer's edge of DeFi to #Cardano!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2f109021afe75b949429fe30523ee7c0d5b27207",
+    "url": "https://occam.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0x2f109021afe75b949429fe30523ee7c0d5b27207",
+        "https://ethplorer.io/address/0x2f109021afe75b949429fe30523ee7c0d5b27207"
+    ],
+    "twitter": "OccamFi",
+    "telegram": "occamfi",
+    "reddit": "OccamFi/"
+}

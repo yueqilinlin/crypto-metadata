@@ -1,0 +1,26 @@
+{
+    "id": "synapse-2",
+    "symbol": "syn",
+    "name": "Synapse",
+    "platforms": {
+        "ethereum": "0x0f2d719407fdbeff09d87557abb7232601fd9f29",
+        "binance-smart-chain": "0xa4080f1778e69467e905b8d6f72f6e441f9e9484",
+        "avalanche": "0x1f1e7c893855525b303f99bdf5c3c05be09ca251",
+        "polygon-pos": "0xf8f9efc0db77d8881500bb06ff5d6abc3070e695"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Synapse is a cross-chain layer \u221e protocol powering frictionless interoperability between blockchains. \r\nBy providing decentralized, permissionless transactions between any L1, sidechain, or L2 ecosystem, Synapse powers integral blockchain activities such as asset transfers, swaps, and generalized messaging with cross-chain functionality - and in so doing enables new primitives based off of its cross-chain architecture.\r\nAt Synapse you can bridge and swap stable assets between chains and provide liquidity to fuel cross-chain swapping in pools with minimal impermanent loss."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0f2d719407fdbeff09d87557abb7232601fd9f29",
+    "url": "https://synapseprotocol.com",
+    "explorers": [
+        "https://etherscan.io/token/0x0f2D719407FdBeFF09D87557AbB7232601FD9F29",
+        "https://ethplorer.io/address/0x0f2D719407FdBeFF09D87557AbB7232601FD9F29"
+    ],
+    "twitter": "SynapseProtocol",
+    "telegram": "synapseprotocol"
+}

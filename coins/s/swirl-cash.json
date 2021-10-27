@@ -1,0 +1,23 @@
+{
+    "id": "swirl-cash",
+    "symbol": "swirl",
+    "name": "Swirl Cash",
+    "platforms": {
+        "binance-smart-chain": "0x52d86850bc8207b520340b7e39cdaf22561b9e56"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized protocol for private transactions on Binance Smart Chain."
+    },
+    "country_origin": "BG",
+    "genesis_date": null,
+    "contract_address": "0x52d86850bc8207b520340b7e39cdaf22561b9e56",
+    "url": "https://swirl.cash/",
+    "explorers": [
+        "https://bscscan.com/token/0x52d86850bc8207b520340b7e39cdaf22561b9e56"
+    ],
+    "twitter": "Swirl_Cash",
+    "telegram": "Swirl_Cash",
+    "github_org": "SwirlCash"
+}

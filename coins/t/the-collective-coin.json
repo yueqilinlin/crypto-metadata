@@ -1,0 +1,25 @@
+{
+    "id": "the-collective-coin",
+    "symbol": "tcc",
+    "name": "The Collective Coin",
+    "platforms": {
+        "binance-smart-chain": "0xf8418d0a7f30bb899639b232f9748c0f1fa87870"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Collective Coin is a decentralized freelancer marketplace on the bsc network working on developing the first Fiverr style platformed powered by crypto / alt coins. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xf8418d0a7f30bb899639b232f9748c0f1fa87870",
+    "url": "https://thecollectivecoin.co",
+    "explorers": [
+        "https://bscscan.com/token/0xf8418D0a7f30BB899639B232f9748c0f1fA87870"
+    ],
+    "twitter": "collectivecoin_",
+    "facebook": "thecollectivecoinoffical",
+    "telegram": "thecollectivecoin",
+    "reddit": "CollectiveCoin/",
+    "github_org": "TheCollectiveCoin"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "epanus",
+    "symbol": "eps",
+    "name": "Epanus",
+    "platforms": {
+        "ethereum": "0x50ec35d1e18d439f02fa895746fc3e1bef311780"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EPANUS (EPS) is a decentralized token, based on the Ethereum encryption technology, which can be used as value reserve. Convenient when it comes to small daily transactions, and better in terms of value retention in the medium and long term. Through Cloud Mining technology, where the mining happens in the \"cloud\" through a remote datacenter with incredible shared processing power, we provide the users the option of mining tokens without having to worry about hardware management."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x50ec35d1e18d439f02fa895746fc3e1bef311780",
+    "url": "https://epanus.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x50ec35d1e18d439f02fa895746fc3e1bef311780",
+        "https://ethplorer.io/address/0x50ec35d1e18d439f02fa895746fc3e1bef311780"
+    ],
+    "twitter": "epanustoken",
+    "telegram": "EPANUSTOKEN"
+}

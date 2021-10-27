@@ -1,0 +1,25 @@
+{
+    "id": "stackos",
+    "symbol": "stack",
+    "name": "StackOS",
+    "platforms": {
+        "ethereum": "0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4",
+        "binance-smart-chain": "0x6855f7bb6287f94ddcc8915e37e73a3c9fee5cf3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "StackOS is an open protocol that allows individuals to collectively offer a decentralized cloud where you can deploy any full-stack application, decentralized app, blockchain privatenets and mainnet nodes."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4",
+    "url": "https://www.stackos.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4",
+        "https://ethplorer.io/address/0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4",
+        "https://bscscan.com/token/0x6855f7bb6287F94ddcC8915E37e73a3c9fEe5CF3"
+    ],
+    "twitter": "DeployOnStackOS",
+    "telegram": "StackOS"
+}

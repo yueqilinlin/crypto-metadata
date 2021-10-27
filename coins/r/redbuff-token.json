@@ -1,0 +1,22 @@
+{
+    "id": "redbuff-token",
+    "symbol": "redbuff",
+    "name": "RedBuff Token",
+    "platforms": {
+        "binance-smart-chain": "0x9ec132c19f2c35272de3f81a75d674752d952da8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Safe, Fair & Transparent Yield Farming Optimizer on #BinanceSmartChain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9ec132c19f2c35272de3f81a75d674752d952da8",
+    "url": "https://www.buffaloswap.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x9eC132c19f2c35272DE3f81a75D674752D952DA8"
+    ],
+    "twitter": "buffaloswapdex",
+    "telegram": "buffaloswap"
+}

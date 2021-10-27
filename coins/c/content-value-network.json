@@ -1,0 +1,26 @@
+{
+    "id": "content-value-network",
+    "symbol": "cvnt",
+    "name": "Conscious Value Network",
+    "platforms": {
+        "ethereum": "0x6400b5522f8d448c0803e6245436dd1c81df09ce"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "CVN, Conscious Value Network, is a combination of a new generation of decentralized storage network and high-performance Layer 2 network. By adopting the VRF consensus main chain plus the PoST consensus, it creates a more resource-saving and efficient decentralized storage system.\r\n\r\nMeanwhile, CVN uses ZK Rollup and State Channels to provide a low-cost, high-throughput Layer 2 solution. It also builds a Layer 2 validator node, to better ensure the efficiency and security of Layer 2."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-12-17",
+    "contract_address": "0x6400b5522f8d448c0803e6245436dd1c81df09ce",
+    "url": "http://cvn.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x6400b5522f8d448c0803e6245436dd1c81df09ce",
+        "https://ethplorer.io/address/0x6400b5522f8d448c0803e6245436dd1c81df09ce",
+        "https://scan.cvn.io/#/"
+    ],
+    "twitter": "CVN_Blockchain",
+    "telegram": "CVN_Official"
+}

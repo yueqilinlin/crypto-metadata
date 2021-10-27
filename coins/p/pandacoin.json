@@ -1,0 +1,23 @@
+{
+    "id": "pandacoin",
+    "symbol": "pnd",
+    "name": "Pandacoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2014-02-15",
+    "url": "https://pandacoin.tech/",
+    "explorers": [
+        "https://chainz.cryptoid.info/pnd/",
+        "http://pandacoin.tech:3001/blocks"
+    ],
+    "twitter": "pandacoinpnd",
+    "facebook": "Pandacoin.PND",
+    "telegram": "DigitalPandacoin",
+    "reddit": "PandacoinPND/",
+    "github_org": "DigitalPandacoin"
+}

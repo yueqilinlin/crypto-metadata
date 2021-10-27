@@ -1,0 +1,23 @@
+{
+    "id": "darkcoin",
+    "symbol": "dark",
+    "name": "Darkcoin",
+    "platforms": {
+        "polygon-pos": "0x1942b8262a0683b54f4f91d0c08ddd92ed6e8fe6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Darkside Finance is the only truly user-owned yield farm. All pools and farms yield two tokens! CZDIAMOND is an ownership token, and stakers receive 75% of all deposit fees and 50% of all other platform revenue as USDC dividends. DARK token price support receives 25% of deposit fees and 50% of other platform revenue. Darkside Finance is Layer 3 in the yield farming system by Sugandese Tokens. The other layers have been PolyWantsACracker and Stadium Arcadium. In this layer, the platform adds an on-chain OTC engine, slots and more gambling games, and a Lootbox contract for indirect buybacks."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1942b8262a0683b54f4f91d0c08ddd92ed6e8fe6",
+    "url": "https://darkside.finance/home/",
+    "explorers": [
+        "https://polygonscan.com/token/0x1942b8262a0683B54f4f91D0c08dDD92ed6E8FE6"
+    ],
+    "twitter": "PolyWantsAFarm",
+    "telegram": "PolyWantsACracker_Farm",
+    "github_org": "LithiumSwapTech"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "decentralized-oracle",
+    "symbol": "deor",
+    "name": "Decentralized Oracle",
+    "platforms": {
+        "ethereum": "0x63726dae7c57d25e90ec829ce9a5c745ffd984d3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DEOR is a decentralized oracle aggregator and validator that uses an automated algorithm to weight and adjust the validity of multiple oracles for data points and allows for holders to vote on which oracles to increase and decrease weightage for in the aggregation process."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x63726dae7c57d25e90ec829ce9a5c745ffd984d3",
+    "url": "https://www.deor.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x63726dae7c57d25e90ec829ce9a5c745ffd984d3",
+        "https://ethplorer.io/address/0x63726dae7c57d25e90ec829ce9a5c745ffd984d3"
+    ],
+    "twitter": "deor_io",
+    "telegram": "DecentralizedOracle",
+    "github_org": "computercybersecurity"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "bone-shibaswap",
+    "symbol": "bone",
+    "name": "Bone ShibaSwap",
+    "platforms": {
+        "ethereum": "0x9813037ee2218799597d83d4a5b6f3b6778218d9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Only available on ShibaSwap, BONE has 250,000,000 tokens, and is designed to fit perfectly between the previous two Ecosystem tokens (SHIB and LEASH) in regards to circulation supply.\r\n\r\nMoreover, the token is a Governance token which will allow the #ShibArmy to vote on upcoming proposals. The more BONE you hold, the more weight your vote carries in these future endeavors. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9813037ee2218799597d83d4a5b6f3b6778218d9",
+    "url": "https://www.shibaswap.com",
+    "explorers": [
+        "https://etherscan.io/token/0x9813037ee2218799597d83D4a5B6F3b6778218d9",
+        "https://ethplorer.io/address/0x9813037ee2218799597d83D4a5B6F3b6778218d9"
+    ],
+    "twitter": "shibtoken",
+    "telegram": "bonedogekiller"
+}

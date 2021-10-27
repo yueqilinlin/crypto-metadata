@@ -1,0 +1,22 @@
+{
+    "id": "parkingo",
+    "symbol": "got",
+    "name": "ParkinGo",
+    "platforms": {
+        "ethereum": "0x613fa2a6e6daa70c659060e86ba1443d2679c9d7"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "ParkinGO is a mobility platform that aggregates and facilitates the travel experience for millions of customers, private and corporate, the fragmentation of the customer base allows that our most important client generates less than 2% of the turnover.\r\n\r\nEstablished in 1995 as a response to the need for parking areas at Milano Malpensa airport, ParkinGO has grown its network in the European marketplace through a consolidation of affiliated off-airport locations offering a range of services that assure a positive and well-organized travel experience. "
+    },
+    "country_origin": "CH",
+    "genesis_date": "2018-06-19",
+    "contract_address": "0x613fa2a6e6daa70c659060e86ba1443d2679c9d7",
+    "url": "https://parkingo.io/en/",
+    "explorers": [
+        "https://etherscan.io/token/0x613fa2a6e6daa70c659060e86ba1443d2679c9d7",
+        "https://ethplorer.io/address/0x613fa2a6e6daa70c659060e86ba1443d2679c9d7"
+    ],
+    "github_org": "parkingo"
+}

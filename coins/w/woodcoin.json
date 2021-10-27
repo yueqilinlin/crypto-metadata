@@ -1,0 +1,20 @@
+{
+    "id": "woodcoin",
+    "symbol": "log",
+    "name": "Woodcoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": "2014-10-21",
+    "url": "http://woodcoin.org",
+    "explorers": [
+        "https://explorer.woodcoin.org/chain/Woodcoin"
+    ],
+    "twitter": "woodcoin_jp",
+    "reddit": "Woodcoin",
+    "github_org": "funkshelper"
+}

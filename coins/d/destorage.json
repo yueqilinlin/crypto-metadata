@@ -1,0 +1,25 @@
+{
+    "id": "destorage",
+    "symbol": "ds",
+    "name": "DeStorage",
+    "platforms": {
+        "ethereum": "0xb67beb26ebeb0dceec354ae0942256d03c01771b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Destorage is split all kinds of data make to few thousands pieces, destroys the original, and separates/distributes small pieces of data in a large number of separate nodes.  \r\nIt stores and manages data more securely as stored only as fragmented data without the original copy, and consists of API and Cloud platform for service."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xb67beb26ebeb0dceec354ae0942256d03c01771b",
+    "url": "http://www.destorage.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xB67bEB26eBeb0DCEec354aE0942256d03c01771b",
+        "https://ethplorer.io/address/0xB67bEB26eBeb0DCEec354aE0942256d03c01771b"
+    ],
+    "twitter": "baa_sid",
+    "facebook": "BaaSidIco",
+    "telegram": "BaaSidOfficial",
+    "reddit": "BaaSid_Destorage/"
+}

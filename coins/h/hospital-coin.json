@@ -1,0 +1,22 @@
+{
+    "id": "hospital-coin",
+    "symbol": "hosp",
+    "name": "Hospital Coin",
+    "platforms": {},
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+        "Healthcare"
+    ],
+    "description": {
+        "en": "Hospital Coin(HOSP) is a decentralized cryptocurrency based on CryptoNote, an open-source technology. A crypto currency solution for creating a HIM(health information management) based of health record whilst maintaining a true version of information.\r\n\r\nHospital coin will allow third party developers to develop and showcase their applications within the eco-system via HOSP protocol.\r\n\r\nHOSP uses blockchain technology to securely store all records. The different organisations such as doctors, hospitals and etc can request permission to access a patient\u2019s record to serve their purpose and record transactions on the distributed ledger."
+    },
+    "country_origin": "IT",
+    "genesis_date": null,
+    "url": "http://hospitalcoin.net",
+    "explorers": [
+        "http://hospitalcoin.net/explorer"
+    ],
+    "twitter": "HospitalCoin",
+    "telegram": "hospitalcoin",
+    "github_org": "HospitalCoin"
+}

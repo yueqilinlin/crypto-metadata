@@ -1,0 +1,29 @@
+{
+    "id": "royale",
+    "symbol": "roya",
+    "name": "Royale",
+    "platforms": {
+        "ethereum": "0x7eaf9c89037e4814dc0d9952ac7f888c784548db",
+        "binance-smart-chain": "0x99415856b37be9e75c0153615c7954f9ddb97a6e",
+        "polygon-pos": "0x0bd820ad2d7ab7305b5c9538ba824c9b9beb0561"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Royale is an industry-focused decentralised lending protocol. Its purpose is to create Web 3.0 smart-backed funding solutions using DeFi primitives in order to support the innovation of iGaming products and platforms. We call the combination of iGaming returns, uncorrelated to DeFi cryptoassets but powered by base layer DeFi protocols, iGDeFi."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7eaf9c89037e4814dc0d9952ac7f888c784548db",
+    "url": "https://royale.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x7eaf9c89037e4814dc0d9952ac7f888c784548db",
+        "https://ethplorer.io/address/0x7eaf9c89037e4814dc0d9952ac7f888c784548db",
+        "https://bscscan.com/token/0x99415856b37be9e75c0153615c7954f9ddb97a6e",
+        "https://polygonscan.com/token/0x0bD820aD2d7Ab7305b5C9538ba824C9b9bEb0561"
+    ],
+    "twitter": "Royale_Finance",
+    "telegram": "Royalefinanceofficial"
+}

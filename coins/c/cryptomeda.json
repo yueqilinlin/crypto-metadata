@@ -1,0 +1,26 @@
+{
+    "id": "cryptomeda",
+    "symbol": "tech",
+    "name": "Cryptomeda",
+    "platforms": {
+        "ethereum": "0x6286a9e6f7e745a6d884561d88f94542d6715698",
+        "polygon-pos": "0x6286a9e6f7e745a6d884561d88f94542d6715698"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cryptomeda is a gaming ecosystem which uniquely blends NFT collectibles, DeFi mechanics, and iconic crypto characters into an exciting fantasy story"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6286a9e6f7e745a6d884561d88f94542d6715698",
+    "url": "https://cryptomeda.tech/",
+    "explorers": [
+        "https://etherscan.io/token/0x6286A9e6f7e745A6D884561D88F94542d6715698",
+        "https://ethplorer.io/address/0x6286A9e6f7e745A6D884561D88F94542d6715698",
+        "https://polygonscan.com/token/0x6286a9e6f7e745a6d884561d88f94542d6715698"
+    ],
+    "twitter": "cryptomedatech",
+    "telegram": "cryptomeda",
+    "github_org": "cryptomeda"
+}

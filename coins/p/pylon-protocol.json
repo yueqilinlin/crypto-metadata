@@ -1,0 +1,26 @@
+{
+    "id": "pylon-protocol",
+    "symbol": "mine",
+    "name": "Pylon Protocol",
+    "platforms": {
+        "terra": "terra1kcthelkax4j9x8d3ny6sdag0qmxxynl3qtcrpy"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Terra Ecosystem",
+        "Launchpad"
+    ],
+    "description": {
+        "en": "Pylon Protocol is a decentralized finance (DeFi) framework for principal-protected, yield-based products and services. Built by Terraform Labs (TFL) on the Terra blockchain, Pylon introduces a new mechanism for long-term incentive alignment between users and service providers where payment is rendered via cash flow rather than upfront expenditure.\r\n\r\nIn essence, users can deposit Terra stablecoins into platforms integrated with Pylon Protocol in return for platform-specific rewards, including but not limited to exclusive content, no-fee memberships, project token farms, perpetual charity donations, arts patronage, rental services, and principal-protected investments. Upon subscription expiry, users can withdraw their pledged principal in full. Yields generated from savings protocols such as Anchor Protocol are diverted to service providers under the terms explicitly specified in the deposit contract.\r\n\r\nThe flagship product of the protocol is Pylon Gateway, a decentralized project launchpad and crowdfunding-via-yield platform for Terra, where users can deposit TerraUSD (UST) for a designated vesting period to earn project tokens and governance rights.\r\n\r\nThe Pylon token MINE is a CW20 token that originally launched on Pylon Gateway. The main function of MINE is to allow holders to engage in protocol governance and earn a portion of protocol yields generated across all Pylon platforms and projects. MINE tokens also serve as an incentives gateway to encourage user deposits into platforms powered by Pylon Protocol."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "terra1kcthelkax4j9x8d3ny6sdag0qmxxynl3qtcrpy",
+    "url": "https://www.pylon.money",
+    "explorers": [
+        "https://finder.terra.money/columbus-5/address/terra1kcthelkax4j9x8d3ny6sdag0qmxxynl3qtcrpy"
+    ],
+    "twitter": "pylon_protocol",
+    "telegram": "pylon_protocol",
+    "github_org": "pylon-protocol"
+}

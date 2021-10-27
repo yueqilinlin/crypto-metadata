@@ -1,0 +1,24 @@
+{
+    "id": "trueaud",
+    "symbol": "taud",
+    "name": "TrueAUD",
+    "platforms": {
+        "ethereum": "0x00006100f7090010005f1bd7ae6122c3c2cf0090"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x00006100f7090010005f1bd7ae6122c3c2cf0090",
+    "url": "https://www.trusttoken.com/trueaud",
+    "explorers": [
+        "https://etherscan.io/token/0x00006100f7090010005f1bd7ae6122c3c2cf0090",
+        "https://ethplorer.io/address/0x00006100f7090010005f1bd7ae6122c3c2cf0090"
+    ],
+    "twitter": "TrustToken",
+    "facebook": "TrustToken",
+    "github_org": "trusttoken"
+}

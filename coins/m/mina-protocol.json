@@ -1,0 +1,23 @@
+{
+    "id": "mina-protocol",
+    "symbol": "mina",
+    "name": "Mina Protocol",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The world's lightest blockchain, powered by participants. Mina is building a privacy-preserving gateway between the real world and crypto \u2014 and the infrastructure for the secure, democratic future we all deserve."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://minaprotocol.com/",
+    "explorers": [
+        "https://minaexplorer.com/",
+        "https://hubble.figment.io/mina/chains/mainnet",
+        "https://minascan.org/"
+    ],
+    "twitter": "minaprotocol",
+    "telegram": "minaprotocol",
+    "reddit": "MinaProtocol/",
+    "github_org": "MinaProtocol"
+}

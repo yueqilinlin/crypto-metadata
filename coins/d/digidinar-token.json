@@ -1,0 +1,23 @@
+{
+    "id": "digidinar-token",
+    "symbol": "ddrt",
+    "name": "DigiDinar Token",
+    "platforms": {
+        "ethereum": "0x94501b6a153c8973fd1f321fcc8188d40dc5d72d"
+    },
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "Next-Generation Worldwide Digital Asset Exchange"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x94501b6a153c8973fd1f321fcc8188d40dc5d72d",
+    "url": "https://www.digidinar.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x94501b6A153C8973fd1f321fCC8188d40dC5d72d",
+        "https://ethplorer.io/address/0x94501b6A153C8973fd1f321fCC8188d40dC5d72d"
+    ],
+    "twitter": "DigiDinars",
+    "facebook": "digidinar"
+}

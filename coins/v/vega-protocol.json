@@ -1,0 +1,24 @@
+{
+    "id": "vega-protocol",
+    "symbol": "vega",
+    "name": "Vega Protocol",
+    "platforms": {
+        "ethereum": "0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Vega is a proof-of-stake blockchain, built on top of Tendermint, which makes it possible to trade derivatives on a decentralised network with comparable experience to centralised exchanges."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e",
+    "url": "https://vega.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e",
+        "https://ethplorer.io/address/0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e"
+    ],
+    "twitter": "vegaprotocol",
+    "telegram": "vegacommunity",
+    "github_org": "vegaprotocol"
+}

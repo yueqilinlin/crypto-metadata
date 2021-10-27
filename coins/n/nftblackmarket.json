@@ -1,0 +1,25 @@
+{
+    "id": "nftblackmarket",
+    "symbol": "nbm",
+    "name": "NFTBlackmarket",
+    "platforms": {
+        "binance-smart-chain": "0x12da2f2761038486271c99da7e0fb4413e2b5e38"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "NFTBlackMarket IS bringing the revelation of the internet of assets to the masses. You can create, collect and trade digital assets. You can NFT Your ART, GIF, MUSIC,\r\nVIDEO, and PATENT."
+    },
+    "country_origin": "AE",
+    "genesis_date": null,
+    "contract_address": "0x12da2f2761038486271c99da7e0fb4413e2b5e38",
+    "url": "https://nftblackmarket.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x12da2f2761038486271c99da7e0fb4413e2b5e38"
+    ],
+    "twitter": "NFT_BlackMarket",
+    "telegram": "NFTBlackMarketChat",
+    "github_org": "NFTBlackMarket"
+}

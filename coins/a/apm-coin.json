@@ -1,0 +1,26 @@
+{
+    "id": "apm-coin",
+    "symbol": "APM",
+    "name": "apM Coin",
+    "platforms": {
+        "ethereum": "0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "A customer rewards management and payment platform for the wholesale fashion market"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c",
+    "url": "https://apm-coin.com",
+    "explorers": [
+        "https://etherscan.io/token/0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c",
+        "https://ethplorer.io/address/0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c"
+    ],
+    "twitter": "apmcoin",
+    "telegram": "apmcoin_official",
+    "github_org": "apmcoin"
+}

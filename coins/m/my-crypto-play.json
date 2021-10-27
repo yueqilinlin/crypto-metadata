@@ -1,0 +1,23 @@
+{
+    "id": "my-crypto-play",
+    "symbol": "mcp",
+    "name": "My Crypto Play",
+    "platforms": {
+        "ethereum": "0x2186ecb39f1b765ba7d78f1c43c2e9d7fc0c1eca"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MyCryptoPlay is world\u2019s #1 blockchain based advanced real-time fantasy trading platform which allows one to participate in various Cryptocurrency price prediction contests and compete with peers all around the world \u2014 on the device of your choice anytime and anywhere"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2186ecb39f1b765ba7d78f1c43c2e9d7fc0c1eca",
+    "url": "https://mycryptoplay.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x2186ecb39f1b765ba7d78f1c43c2e9d7fc0c1eca",
+        "https://ethplorer.io/address/0x2186ecb39f1b765ba7d78f1c43c2e9d7fc0c1eca"
+    ],
+    "twitter": "mycryptoplay",
+    "telegram": "mycryptoplay"
+}

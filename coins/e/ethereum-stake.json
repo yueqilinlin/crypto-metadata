@@ -1,0 +1,24 @@
+{
+    "id": "ethereum-stake",
+    "symbol": "ethys",
+    "name": "Ethereum Stake",
+    "platforms": {
+        "ethereum": "0xd0d3ebcad6a20ce69bc3bc0e1ec964075425e533"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd0d3ebcad6a20ce69bc3bc0e1ec964075425e533",
+    "url": "https://ethereumstake.farm",
+    "explorers": [
+        "https://etherscan.io/token/0xD0d3EbCAd6A20ce69BC3Bc0e1ec964075425e533",
+        "https://ethplorer.io/address/0xd0d3ebcad6a20ce69bc3bc0e1ec964075425e533"
+    ],
+    "twitter": "EthereumYield",
+    "telegram": "ethereumstakefarm",
+    "github_org": "ethereumyieldfarm"
+}

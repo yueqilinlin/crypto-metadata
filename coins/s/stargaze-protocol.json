@@ -1,0 +1,24 @@
+{
+    "id": "stargaze-protocol",
+    "symbol": "stgz",
+    "name": "Stargaze Protocol",
+    "platforms": {
+        "ethereum": "0xa9a8377287ea9c6b8b4249dd502e75d34148fc5b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Stargaze Protocol (STGZ), A Fair Launch Project With Automatic Fee Distribution and Staking"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa9a8377287ea9c6b8b4249dd502e75d34148fc5b",
+    "url": "https://stargazeprotocol.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa9a8377287ea9c6b8b4249dd502e75d34148fc5b",
+        "https://ethplorer.io/address/0xa9a8377287ea9c6b8b4249dd502e75d34148fc5b"
+    ],
+    "twitter": "stgzprotocol",
+    "telegram": "stargazeprotocol",
+    "github_org": "stargazeprotocol?tab=projects"
+}

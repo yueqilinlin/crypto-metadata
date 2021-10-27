@@ -1,0 +1,23 @@
+{
+    "id": "dafin",
+    "symbol": "daf",
+    "name": "DaFIN",
+    "platforms": {
+        "ethereum": "0x5e031a5bc1c6b6e86a49e0b0f2e757800f1d0fff"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DaFIN is a digital asset fintech company established in Singapore.\r\nDaFIN's fintech service brings a new paradigm to the digital asset market. Customers will have a more stable and profitable experiencethrough DaFIN fintech service."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x5e031a5bc1c6b6e86a49e0b0f2e757800f1d0fff",
+    "url": "https://dev-intro.dafin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x5e031a5bc1c6b6e86a49e0b0f2e757800f1d0fff",
+        "https://ethplorer.io/address/0x5e031a5bc1c6b6e86a49e0b0f2e757800f1d0fff"
+    ],
+    "twitter": "dafin12345",
+    "telegram": "Dafin_notice"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "migranet",
+    "symbol": "mig",
+    "name": "Migranet",
+    "platforms": {
+        "ethereum": "0x05a78ffea2b35aa1af438c21cf06668cf118df0a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MIG Tokens will be used to pay for services on the Migranet platform as well as be used for remittance payments.\r\n \r\nMigranet is the world's first AI blockchain migration platform.\r\nMigranet presents a one-stop solution to migrants and accredited migration practitioners by automating the processing of migration applications. It also assists refugees with their skills assessment, so they can be integrated into their host country post selection."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x05a78ffea2b35aa1af438c21cf06668cf118df0a",
+    "url": "https://migranet.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x05a78ffea2b35aa1af438c21cf06668cf118df0a",
+        "https://ethplorer.io/address/0x05a78ffea2b35aa1af438c21cf06668cf118df0a"
+    ],
+    "twitter": "migranet1",
+    "facebook": "migranet888",
+    "telegram": "migranet"
+}

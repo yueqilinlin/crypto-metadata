@@ -1,0 +1,23 @@
+{
+    "id": "ofi-cash",
+    "symbol": "ofi",
+    "name": "OFI.cash",
+    "platforms": {
+        "okex-chain": "0x2e2f982c3e66db8604b0a99862dd97d31ed740b3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A First Yield Farming Aggregator for the OKExChain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2e2f982c3e66db8604b0a99862dd97d31ed740b3",
+    "url": "https://www.ofi.cash/",
+    "explorers": [
+        "https://www.oklink.com/okexchain/tokenAddr/0x2e2f982c3e66db8604b0a99862dd97d31ed740b3"
+    ],
+    "twitter": "OfiCash",
+    "telegram": "oficash",
+    "github_org": "oficash"
+}

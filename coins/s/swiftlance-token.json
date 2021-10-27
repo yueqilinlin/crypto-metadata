@@ -1,0 +1,25 @@
+{
+    "id": "swiftlance-token",
+    "symbol": "swl",
+    "name": "Swiftlance Token",
+    "platforms": {
+        "ethereum": "0x8cd480260a47f04589670a313d27a15b321ad266"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "SWIFTLANCE is a first decentralized outsourcing platform based on blockchain. We aim to provide a web-platform where clients offer works to experts and pay with SWL token which is escrow until successful completion of the task/work."
+    },
+    "country_origin": "BD",
+    "genesis_date": null,
+    "contract_address": "0x8cd480260a47f04589670a313d27a15b321ad266",
+    "url": "http://swiftlance.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x8cd480260a47f04589670a313d27a15b321ad266",
+        "https://ethplorer.io/address/0x8cd480260a47f04589670a313d27a15b321ad266"
+    ],
+    "twitter": "swiftlance1",
+    "telegram": "swiftlanceofficial"
+}

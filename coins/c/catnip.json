@@ -1,0 +1,24 @@
+{
+    "id": "catnip",
+    "symbol": "nip",
+    "name": "CatNIP",
+    "platforms": {
+        "binance-smart-chain": "0x9fa8f2418b35b7ac487604ddd00229d97f005599"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"CatNIP is an NFT Project where players can play a game to mint collectible cat NFTs. The Cat NFTs are used in the game where you can use them to battle more cats in order to capture more cats and mint more NFTs. CatNIP has a game dev team, contract team, and art team. The currency, NIP, is used as an entry fee to play the game. NIP has a maximum total supply of 1 Billion, a 5% transaction tax, and no minting or burning function.\r\n\r\nThe purpose of the project is to allow players to use their minted NFTs in a game and have FUN!\""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9fa8f2418b35b7ac487604ddd00229d97f005599",
+    "url": "https://catnip.world/",
+    "explorers": [
+        "https://bscscan.com/token/0x9Fa8F2418b35B7ac487604DDD00229d97f005599"
+    ],
+    "twitter": "CatnipToken",
+    "telegram": "CatNIPen",
+    "reddit": "CatNIPtoken",
+    "github_org": "cryptohelper123abc"
+}

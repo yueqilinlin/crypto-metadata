@@ -1,0 +1,24 @@
+{
+    "id": "snoop-doge",
+    "symbol": "snoge",
+    "name": "Snoop Doge",
+    "platforms": {
+        "ethereum": "0x072c46f392e729c1f0d92a307c2c6dba06b5d078"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Is a community driven deflationary auto staking meme coin inspired by HOGE, WOGE, and the other strains of OGE.\r\nAs a community driven coin, the whole SNOGE community will decide and vote on the future development of the project.\r\n\r\nWith every transaction that takes place with SNOGE a 2% tax is applied to discourage price manipulation and encourage HODLing. 1% of that transaction tax is burned while the other 1% is redistributed to all HODLers. The more you hold the more you earn.\r\nMeaning that with every transaction, the scarcity of SNOGE increases as the total circulating supply decreases while simultaneously rewarding everyone HODLing SNOGE."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x072c46f392e729c1f0d92a307c2c6dba06b5d078",
+    "url": "https://snoge.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x072c46F392E729C1f0D92a307c2C6DBA06B5D078",
+        "https://ethplorer.io/address/0x072c46F392E729C1f0D92a307c2C6DBA06B5D078"
+    ],
+    "twitter": "SnogeOfficial",
+    "telegram": "SnogeOfficial",
+    "github_org": "snogecoin"
+}

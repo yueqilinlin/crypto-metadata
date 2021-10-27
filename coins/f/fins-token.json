@@ -1,0 +1,24 @@
+{
+    "id": "fins-token",
+    "symbol": "fins",
+    "name": "Fins Token",
+    "platforms": {
+        "binance-smart-chain": "0x1b219aca875f8c74c33cff9ff98f3a9b62fcbff5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AutoShark Finance is the 1st Cross-Chain Hybrid AMM and Yield Optimizer, offering unparalleled access to farming opportunities through the use of superior yield strategies, auto-compounding vaults, and NFT-powered farming. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1b219aca875f8c74c33cff9ff98f3a9b62fcbff5",
+    "url": "https://autoshark.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x1b219aca875f8c74c33cff9ff98f3a9b62fcbff5"
+    ],
+    "twitter": "AutoSharkFin",
+    "telegram": "AutoSharkFinance",
+    "reddit": "autosharkofficial/",
+    "github_org": "autoshark-finance"
+}

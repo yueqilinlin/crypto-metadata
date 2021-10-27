@@ -1,0 +1,21 @@
+{
+    "id": "tokenpay",
+    "symbol": "tpay",
+    "name": "TokenPay",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TPAY is a blockchain and payments platform, running since 2017. Proudly executing over a million transactions without a glitch."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "url": "https://www.tokenpay.com",
+    "explorers": [
+        "http://explorer.tpay.ai/",
+        "http://tpay.ai/"
+    ],
+    "twitter": "tokenpay",
+    "facebook": "tokenpay",
+    "github_org": "tokenpay"
+}

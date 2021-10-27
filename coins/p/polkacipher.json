@@ -1,0 +1,24 @@
+{
+    "id": "polkacipher",
+    "symbol": "cphr",
+    "name": "PolkaCipher",
+    "platforms": {
+        "binance-smart-chain": "0x7428be82fd79d4c98650a7c67de9682a64fcab71"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "PolkaCipher is a cross chain privacy preserving project on Polkadot ecosystem. Our primary aim is to expand the applications of NFTs & DeFi and its usecase in business setting and also increase the reach of Web3 applications in blockchain economy via seamless integration to our project, privately.\r\n\r\nWe intend to bridge the gap between off-chain internet economy and on-chain blockchain decentralized application, using PolkaCipher that relies on verified vendors to provide accurate and trusted data.\r\n\r\nPolkaCipher, when ready, will be fully community owned and decentralized."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x7428be82fd79d4c98650a7c67de9682a64fcab71",
+    "url": "https://polkacipher.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x7428be82fd79d4c98650a7c67de9682a64fcab71"
+    ],
+    "twitter": "polkacipher",
+    "telegram": "PolkaCipher"
+}

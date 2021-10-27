@@ -1,0 +1,23 @@
+{
+    "id": "xditto",
+    "symbol": "xditto",
+    "name": "xDitto",
+    "platforms": {
+        "binance-smart-chain": "0xb0a1de764a033a76f28e821fbe402edbfee937db"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "xDITTO is a non-rebasing token that serves as a (non-rebasing) BEP20 backing asset to DITTO, the leading rebase token on Binance smart chain. It brings better DeFi composability to DITTO and adds new features such as Compound-style governance."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0xb0a1de764a033a76f28e821fbe402edbfee937db",
+    "url": "https://ditto.money/",
+    "explorers": [
+        "https://bscscan.com/token/0xb0a1de764a033a76f28e821fbe402edbfee937db"
+    ],
+    "twitter": "dittomoney_",
+    "telegram": "dittomoney",
+    "github_org": "Ditto-money"
+}

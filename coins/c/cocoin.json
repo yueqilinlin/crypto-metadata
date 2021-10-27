@@ -1,0 +1,22 @@
+{
+    "id": "cocoin",
+    "symbol": "cocoin",
+    "name": "Cocoin",
+    "platforms": {
+        "binance-smart-chain": "0x9ffafc014832b803aaaab0d2e4d9c127eca0e034"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "COCOIN is a new community-driven deflationary crypto currency with an anti whale and anti pump & dump policy. Devs doxxed, founded in The Netherlands & 100% transparant. $COCO is here to stay. Here to change the game. $COCO is for those who want to create a better life than their parents could. For those who are looking to win. 2% of each sell order goes to charity as we believe giving is what makes us real winners. Furthermore, 2% goes to the LP for an increasing price floor, 2% gets burned and 2% goes back to holders."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x9ffafc014832b803aaaab0d2e4d9c127eca0e034",
+    "url": "https://cocoin.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x9ffafc014832b803aaaab0d2e4d9c127eca0e034"
+    ],
+    "twitter": "CocoinCommunity",
+    "telegram": "cococommunityofficial"
+}

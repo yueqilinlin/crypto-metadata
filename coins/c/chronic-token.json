@@ -1,0 +1,24 @@
+{
+    "id": "chronic-token",
+    "symbol": "cht",
+    "name": "Chronic Token",
+    "platforms": {
+        "ethereum": "0x19fab8f7dffff38268644eaebd3d538f68036000"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Chronic Token is a low fee token that implements reflections, and auto liquidity providing. Our main use case is to interact with out wallet application, that provides quick and easy ways to purchase and send CHT. "
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x19fab8f7dffff38268644eaebd3d538f68036000",
+    "url": "https://www.chronictoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x19fAb8f7dfFfF38268644eAEBd3d538F68036000",
+        "https://ethplorer.io/address/0x19fAb8f7dfFfF38268644eAEBd3d538F68036000"
+    ],
+    "twitter": "chronictokencht",
+    "telegram": "chronicToken",
+    "github_org": "ChronicToken"
+}

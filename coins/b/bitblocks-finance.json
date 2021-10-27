@@ -1,0 +1,23 @@
+{
+    "id": "bitblocks-finance",
+    "symbol": "bbkfi",
+    "name": "BitBlocks Finance",
+    "platforms": {
+        "binance-smart-chain": "0xfc8e68e30350c6603d3d29fcc8e676380c28fcf4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BitBlocks Finance is a decentralized exchange yield farming protocol running on Binance Smart Chain and Pancake swap exchange, with lots of other features that let you earn and win tokens."
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "contract_address": "0xfc8e68e30350c6603d3d29fcc8e676380c28fcf4",
+    "url": "https://bitblocks.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xfc8e68e30350c6603d3d29fcc8e676380c28fcf4"
+    ],
+    "twitter": "BBKFI",
+    "telegram": "bitblocksfinace",
+    "github_org": "BitBlocksProject"
+}

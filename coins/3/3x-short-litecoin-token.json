@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-litecoin-token",
+    "symbol": "ltcbear",
+    "name": "3X Short Litecoin Token",
+    "platforms": {
+        "ethereum": "0xb422e605fbd765b80d2c4b5d8196c2f94144438b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short Litecoin Token (LTCBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of Litecoin."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb422e605fbd765b80d2c4b5d8196c2f94144438b",
+    "url": "https://ftx.com/tokens/LTCBEAR",
+    "explorers": [
+        "https://etherscan.io/token/0xb422e605fbd765b80d2c4b5d8196c2f94144438b",
+        "https://ethplorer.io/address/0xb422e605fbd765b80d2c4b5d8196c2f94144438b"
+    ]
+}

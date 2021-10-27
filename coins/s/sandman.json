@@ -1,0 +1,23 @@
+{
+    "id": "sandman",
+    "symbol": "sandman",
+    "name": "SandMan",
+    "platforms": {
+        "polygon-pos": "0xf9b4defdde04fe18f5ee6456607f8a2ec9ff6a75"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The First Stealth Presale ever, Hybrid - Dreamed Yield Farming and Vaults with Auto-compounding on Polygon Network (Matic)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf9b4defdde04fe18f5ee6456607f8a2ec9ff6a75",
+    "url": "https://sandman.farm/",
+    "explorers": [
+        "https://polygonscan.com/token/0xf9b4defdde04fe18f5ee6456607f8a2ec9ff6a75"
+    ],
+    "twitter": "sandmanfarm",
+    "telegram": "SandManFarm",
+    "github_org": "SandmanFarmio"
+}

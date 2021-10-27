@@ -1,0 +1,23 @@
+{
+    "id": "elitium",
+    "symbol": "eum",
+    "name": "Elitium",
+    "platforms": {
+        "ethereum": "0x6ab4a7d75b0a42b6bc83e852dab9e121f9c610aa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "GI",
+    "genesis_date": null,
+    "contract_address": "0x6ab4a7d75b0a42b6bc83e852dab9e121f9c610aa",
+    "url": "https://www.elitium.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa",
+        "https://ethplorer.io/address/0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa"
+    ],
+    "twitter": "elitium_eum",
+    "facebook": "Elitium"
+}

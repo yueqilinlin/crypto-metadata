@@ -1,0 +1,26 @@
+{
+    "id": "01coin",
+    "symbol": "zoc",
+    "name": "01coin",
+    "platforms": {},
+    "hashing_algorithm": "NeoScrypt",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://01coin.io/",
+    "explorers": [
+        "https://explorer.01coin.io/",
+        "https://zoc.ccore.online/",
+        "https://openchains.info/coin/01coin"
+    ],
+    "twitter": "01CoinTeam",
+    "facebook": "01CoinTeam",
+    "telegram": "ZOCCoinOfficial",
+    "reddit": "01coin/",
+    "github_org": "zocteam"
+}

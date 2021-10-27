@@ -1,0 +1,25 @@
+{
+    "id": "universal-us-dollar",
+    "symbol": "upusd",
+    "name": "Universal US Dollar",
+    "platforms": {
+        "ethereum": "0x86367c0e517622dacdab379f2de389c3c9524345"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x86367c0e517622dacdab379f2de389c3c9524345",
+    "url": "https://universalprotocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x86367c0e517622dacdab379f2de389c3c9524345",
+        "https://ethplorer.io/address/0x86367c0e517622dacdab379f2de389c3c9524345"
+    ],
+    "twitter": "UPPlatform",
+    "facebook": "UPPlatform",
+    "telegram": "universalprotocolplatform",
+    "reddit": "universalprotocol/"
+}

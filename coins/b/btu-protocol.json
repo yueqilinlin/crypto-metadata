@@ -1,0 +1,31 @@
+{
+    "id": "btu-protocol",
+    "symbol": "btu",
+    "name": "BTU Protocol",
+    "platforms": {
+        "ethereum": "0xb683d83a532e2cb7dfa5275eed3698436371cc9f",
+        "polygon-pos": "0xfdc26cda2d2440d0e83cd1dee8e8be48405806dc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "BTU Protocol solution helps companies get closer to consumers and build new distribution channels with better margins"
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0xb683d83a532e2cb7dfa5275eed3698436371cc9f",
+    "url": "https://www.btu-protocol.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xb683d83a532e2cb7dfa5275eed3698436371cc9f",
+        "https://ethplorer.io/address/0xb683d83a532e2cb7dfa5275eed3698436371cc9f",
+        "https://polygonscan.com/token/0xfdc26cda2d2440d0e83cd1dee8e8be48405806dc"
+    ],
+    "twitter": "BtuProtocol",
+    "facebook": "btuprotocol",
+    "telegram": "btucommunity",
+    "reddit": "btuprotocol/",
+    "github_org": "btuprotocol"
+}

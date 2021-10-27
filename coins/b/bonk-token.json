@@ -1,0 +1,25 @@
+{
+    "id": "bonk-token",
+    "symbol": "bonk",
+    "name": "BONK Token",
+    "platforms": {
+        "ethereum": "0x6d6506e6f438ede269877a0a720026559110b7d5"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6d6506e6f438ede269877a0a720026559110b7d5",
+    "url": "https://bonktoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6d6506e6f438ede269877a0a720026559110b7d5",
+        "https://ethplorer.io/address/0x6d6506e6f438ede269877a0a720026559110b7d5"
+    ],
+    "twitter": "bonktoken",
+    "telegram": "bonktoken"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "goatcoin",
+    "symbol": "goat",
+    "name": "Goatcoin",
+    "platforms": {
+        "binance-smart-chain": "0x7c67dccb04b67d4666fd97b2a00bb6d9b8d82e3f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Goatcha is The leading decentralised NFT marketplace on Binance Smart Chain by Goatcoin"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7c67dccb04b67d4666fd97b2a00bb6d9b8d82e3f",
+    "url": "https://gotcha.gg",
+    "explorers": [
+        "https://bscscan.com/address/0x7c67dccb04b67d4666fd97b2a00bb6d9b8d82e3f",
+        "https://bscscan.com/token/0x7c67dccb04b67d4666fd97b2a00bb6d9b8d82e3f"
+    ],
+    "twitter": "Goat_coin",
+    "telegram": "goat_c",
+    "github_org": "Goat-coin"
+}

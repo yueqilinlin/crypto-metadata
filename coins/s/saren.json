@@ -1,0 +1,24 @@
+{
+    "id": "saren",
+    "symbol": "sar",
+    "name": "Saren",
+    "platforms": {
+        "ethereum": "0xbd4a858139b155219e2c8d10135003fdef720b6b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Saren (SAR) (https://saren.io/) is the governance token for Cerberus, a decentralized cryptocurrency tracking application (https://cerberus.saren.io/).\r\n\r\nThe Cerberus app is now live, enabling users to view their wallet contents, and track their favourite projects in a variety of ways; including price, social media and online search activity, developer activity and many more.\r\n\r\nSAR holders are entitled to cast votes on which tokens may be listed on Cerberus, giving them a unique opportunity to influence the crypto space, and promote their favourite tokens.\r\n\r\nSAR holders will further benefit from the upcoming development of Cerberus, which will introduce aspects similar to Reddit, such as user determined project ranking, and community discussion forums.\r\n"
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0xbd4a858139b155219e2c8d10135003fdef720b6b",
+    "url": "https://saren.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xbd4a858139b155219e2c8d10135003fdef720b6b",
+        "https://ethplorer.io/address/0xbd4a858139b155219e2c8d10135003fdef720b6b"
+    ],
+    "twitter": "Saren_io",
+    "telegram": "sarencommunity",
+    "github_org": "saren-io"
+}

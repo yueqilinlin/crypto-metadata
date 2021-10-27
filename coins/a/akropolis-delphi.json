@@ -1,0 +1,27 @@
+{
+    "id": "akropolis-delphi",
+    "symbol": "adel",
+    "name": "Delphi",
+    "platforms": {
+        "ethereum": "0x94d863173ee77439e4292284ff13fad54b3ba182"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x94d863173ee77439e4292284ff13fad54b3ba182",
+    "url": "https://github.com/akropolisio/delphi",
+    "explorers": [
+        "https://etherscan.io/token/0x94d863173ee77439e4292284ff13fad54b3ba182",
+        "https://ethplorer.io/address/0x94d863173ee77439e4292284ff13fad54b3ba182"
+    ],
+    "twitter": "akropolisio",
+    "telegram": "akropolis_official",
+    "github_org": "akropolisio"
+}

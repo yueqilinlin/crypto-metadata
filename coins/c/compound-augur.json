@@ -1,0 +1,27 @@
+{
+    "id": "compound-augur",
+    "symbol": "crep",
+    "name": "cREP",
+    "platforms": {
+        "ethereum": "0x158079ee67fce2f58472a96584a73c7ab9ac95c1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x158079ee67fce2f58472a96584a73c7ab9ac95c1",
+    "url": "https://compound.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x158079ee67fce2f58472a96584a73c7ab9ac95c1",
+        "https://ethplorer.io/address/0x158079ee67fce2f58472a96584a73c7ab9ac95c1"
+    ],
+    "twitter": "compoundfinance",
+    "reddit": "Compound/"
+}

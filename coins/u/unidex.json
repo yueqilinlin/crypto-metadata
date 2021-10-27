@@ -1,0 +1,28 @@
+{
+    "id": "unidex",
+    "symbol": "unidx",
+    "name": "UniDex",
+    "platforms": {
+        "ethereum": "0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c",
+        "fantom": "0x2130d2a1e51112d349ccf78d2a1ee65843ba36e0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "xDAI Ecosystem"
+    ],
+    "description": {
+        "en": "Exchange token for the platform UniDex the DeFi trading terminal DEX"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c",
+    "url": "https://www.unidex.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c",
+        "https://ethplorer.io/address/0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c",
+        "https://ftmscan.com/token/0x2130d2a1e51112d349ccf78d2a1ee65843ba36e0"
+    ],
+    "twitter": "UniDexFinance",
+    "telegram": "unidexfinance",
+    "github_org": "supakawaiidesu"
+}

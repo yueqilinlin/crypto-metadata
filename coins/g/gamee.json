@@ -1,0 +1,28 @@
+{
+    "id": "gamee",
+    "symbol": "gmee",
+    "name": "GAMEE",
+    "platforms": {
+        "ethereum": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
+        "polygon-pos": "0xcf32822ff397ef82425153a9dcb726e5ff61dca7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Play To Earn"
+    ],
+    "description": {
+        "en": "GAMEE is a high-engagement gaming platform, where users complete game missions, compete in tournaments and earn prizes for their activity.\r\n\r\nOur vision is to create an entertainment platform accessible to anyone, connecting gamers and game creators to recognize and reward gaming skill, effort and loyalty."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
+    "url": "https://token.gamee.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
+        "https://ethplorer.io/address/0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
+        "https://polygonscan.com/token/0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7"
+    ],
+    "twitter": "Gameetoken",
+    "telegram": "gameetoken"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "deflacash",
+    "symbol": "dfc",
+    "name": "DeflaCash",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [],
+    "description": {
+        "en": "DeflaCash was programmed to become scarce in 12 months (365 days), starting its shortage from the mining of its first block.\r\nDeflaCash will be issued as a staking reward, rewarding the user who successfully mines the block by 100% of the reward.\r\nThe value of the first mined block is 36.5 DFC, decreasing 0.1 DFC every 24 hours, following the deflationary process in the graph below.\r\nScreen reader support enabled.\r\n \r\n \r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://deflacash.info/#",
+    "explorers": [
+        "https://explorer.deflacash.info/"
+    ],
+    "twitter": "DeflaCash",
+    "facebook": "DeflaCash",
+    "telegram": "deflacash_english",
+    "github_org": "deflacashproject"
+}

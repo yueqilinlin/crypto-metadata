@@ -1,0 +1,27 @@
+{
+    "id": "raze-network",
+    "symbol": "raze",
+    "name": "Raze Network",
+    "platforms": {
+        "ethereum": "0x5eaa69b29f99c84fe5de8200340b4e9b4ab38eac",
+        "binance-smart-chain": "0x65e66a61d0a8f1e686c2d6083ad611a10d84d97a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Raze Network is a Substrate-based cross-chain privacy protocol for the Polkadot ecosystem. It is building a Cross-chain Privacy Middleware for DeFi and Web3.0. It is a native privacy layer that can provide end-to-end anonymity for the entire DeFi and Web3.0 stack. \r\n\r\nThe objective is to enable cross-chain privacy-preserving payment and trading systems, while protecting the transparency of your assets and behaviors from surveillance. Eventually, Raze Network can anonymize all the cryptocurrency across all chains."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x5eaa69b29f99c84fe5de8200340b4e9b4ab38eac",
+    "url": "https://raze.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x5Eaa69B29f99C84Fe5dE8200340b4e9b4Ab38EaC",
+        "https://ethplorer.io/address/0x5eaa69b29f99c84fe5de8200340b4e9b4ab38eac"
+    ],
+    "twitter": "R4ZE_Network",
+    "telegram": "Raze_Net",
+    "github_org": "Raze-Net"
+}

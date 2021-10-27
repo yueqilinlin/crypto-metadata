@@ -1,0 +1,24 @@
+{
+    "id": "upbots",
+    "symbol": "ubxt",
+    "name": "UpBots",
+    "platforms": {
+        "ethereum": "0x8564653879a18c560e7c0ea0e084c516c62f5653",
+        "binance-smart-chain": "0xbbeb90cfb6fafa1f69aa130b7341089abeef5811"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "UpBots token"
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x8564653879a18c560e7c0ea0e084c516c62f5653",
+    "url": "https://www.upbots.com",
+    "explorers": [
+        "https://etherscan.io/token/0x8564653879a18C560E7C0Ea0E084c516C62F5653",
+        "https://ethplorer.io/address/0x8564653879a18c560e7c0ea0e084c516c62f5653"
+    ],
+    "twitter": "UpBotscom",
+    "telegram": "Upbots"
+}

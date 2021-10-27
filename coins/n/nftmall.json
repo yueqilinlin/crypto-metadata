@@ -1,0 +1,28 @@
+{
+    "id": "nftmall",
+    "symbol": "gem",
+    "name": "NFTmall",
+    "platforms": {
+        "binance-smart-chain": "0xbac1df744df160877cdc45e13d0394c06bc388ff"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)",
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0xbac1df744df160877cdc45e13d0394c06bc388ff",
+    "url": "https://nftmall.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xBaC1df744df160877cDc45E13d0394c06bC388Ff"
+    ],
+    "twitter": "nftmall",
+    "facebook": "nftmall",
+    "telegram": "nftmall",
+    "github_org": "nftmall"
+}

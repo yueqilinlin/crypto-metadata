@@ -1,0 +1,23 @@
+{
+    "id": "bitcoin-cure",
+    "symbol": "byron",
+    "name": "Byron",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Healthcare"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "BR",
+    "genesis_date": null,
+    "url": "http://adabyron.dev ",
+    "explorers": [
+        "http://adabyron.dev/byronexplorer"
+    ],
+    "twitter": "Byron_Coin",
+    "facebook": "curebitcoin",
+    "telegram": "Byron_Coin",
+    "github_org": "Byronteam"
+}

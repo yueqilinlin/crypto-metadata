@@ -1,0 +1,23 @@
+{
+    "id": "owldao",
+    "symbol": "owl",
+    "name": "OwlDAO",
+    "platforms": {
+        "binance-smart-chain": "0x9085b4d52c3e0b8b6f9af6213e85a433c7d76f19",
+        "polygon-pos": "0x9085b4d52c3e0b8b6f9af6213e85a433c7d76f19"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "OwlDAO aims to innovate traditional crypto casinos to integrate with the new DEFI world. Partnering with leading protocols, the OWL token provides perpetual buyback from casino incomes, plus auto-liquidity and static rewards."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9085b4d52c3e0b8b6f9af6213e85a433c7d76f19",
+    "url": "https://owldao.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x9085B4d52c3e0B8B6F9AF6213E85A433c7D76f19"
+    ],
+    "twitter": "OWLDAOio",
+    "telegram": "owlDAO"
+}

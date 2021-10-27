@@ -1,0 +1,23 @@
+{
+    "id": "ipse",
+    "symbol": "post",
+    "name": "IPSE",
+    "platforms": {
+        "eos": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "IPSE (InterPlanetary Search Engine) is a distributed search engine based on IPFS. IPSE helps users to quickly search files on the IPFS network and find the data they need. At the same time, anyone can add hash tags for files on the network to get token reward. The InterPlanetary File System (IPFS) is a revolutionary hypermedia distribution protocol that will replace HTTP and build the next generation of Internet, Web 3.0, from underlying infrastructure. IPSE aims to provide safe and fast search services and be the traffic portal for Web 3.0."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.ipse.io/",
+    "explorers": [
+        "https://eospark.com/token/POST/ipsecontract"
+    ],
+    "twitter": "ipfssearch",
+    "telegram": "ipse_io",
+    "reddit": "ipse/",
+    "github_org": "IPSE-TEAM"
+}

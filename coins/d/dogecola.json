@@ -1,0 +1,23 @@
+{
+    "id": "dogecola",
+    "symbol": "dogecola",
+    "name": "DogeCola",
+    "platforms": {
+        "binance-smart-chain": "0xe320df552e78d57e95cf1182b6960746d5016561"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The first reflection token and soft drink at the same time. Every buy gives members more with the auto-boost and hyper deflation system in place."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0xe320df552e78d57e95cf1182b6960746d5016561",
+    "url": "https://www.dogecola.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xe320df552e78d57e95cf1182b6960746d5016561"
+    ],
+    "twitter": "doge_cola",
+    "telegram": "dogecola",
+    "github_org": "dogecola"
+}

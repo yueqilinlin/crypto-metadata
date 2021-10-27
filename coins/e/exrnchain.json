@@ -1,0 +1,22 @@
+{
+    "id": "exrnchain",
+    "symbol": "exrn",
+    "name": "EXRNchain",
+    "platforms": {
+        "ethereum": "0xe469c4473af82217b30cf17b10bcdb6c8c796e75"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EXRNchain is an innovative crosschain technology"
+    },
+    "country_origin": "",
+    "genesis_date": "2017-10-09",
+    "contract_address": "0xe469c4473af82217b30cf17b10bcdb6c8c796e75",
+    "url": "https://exrn.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xe469c4473af82217b30cf17b10bcdb6c8c796e75",
+        "https://ethplorer.io/address/0xe469c4473af82217b30cf17b10bcdb6c8c796e75"
+    ],
+    "twitter": "EXRNtoken"
+}

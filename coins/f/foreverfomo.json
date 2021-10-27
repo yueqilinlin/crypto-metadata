@@ -1,0 +1,22 @@
+{
+    "id": "foreverfomo",
+    "symbol": "ForeverFOMO",
+    "name": "ForeverFOMO",
+    "platforms": {
+        "binance-smart-chain": "0x95637d4fbe7153dcc3e26e71bde7a2d82621f083"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ForeverFOMO is a price-elastic token with adjusting supply, moving towards the price of Bitcoin. Different then just a normal pegged token/stable coin, rebases make price-elastic tokens into synthetic commodities with fluctuating values and supplies that gradually stabilize. Ultimately, rebases are designed to be tradable and potentially extremely profitable.  \r\nEvery 4 hours there is a change in supply called a 'rebase'. The rebase is automatically triggered by an online dashboard.  Negative rebases are amplified to make ForeverFOMO return to positive rebase territory faster. Rebases are triggered 6 times a day. for 360 Epochs, every 8 hours or 1 epoch, ForeverFOMO will do a price rebase that will increase the price 8%.   \r\nForeverFOMO plans to branch into the NFT marketplace within 30 days as well.  "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x95637d4fbe7153dcc3e26e71bde7a2d82621f083",
+    "url": "https://foreverfomo.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x95637d4FbE7153dCc3E26E71bdE7a2D82621F083"
+    ],
+    "twitter": "FomoForever",
+    "telegram": "foreverfomo"
+}

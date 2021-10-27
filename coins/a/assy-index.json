@@ -1,0 +1,28 @@
+{
+    "id": "assy-index",
+    "symbol": "assy",
+    "name": "ASSY Index",
+    "platforms": {
+        "ethereum": "0xfa2562da1bba7b954f26c74725df51fb62646313"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Index",
+        "DeFi Index",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfa2562da1bba7b954f26c74725df51fb62646313",
+    "url": "https://powerindex.io/#/mainnet/0xfa2562da1bba7b954f26c74725df51fb62646313/supply",
+    "explorers": [
+        "https://etherscan.io/token/0xFA2562da1Bba7B954f26C74725dF51fb62646313",
+        "https://ethplorer.io/address/0xFA2562da1Bba7B954f26C74725dF51fb62646313"
+    ],
+    "twitter": "powerpoolcvp",
+    "telegram": "powerpoolcvp",
+    "github_org": "powerpool-finance"
+}

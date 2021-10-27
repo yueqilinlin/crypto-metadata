@@ -1,0 +1,30 @@
+{
+    "id": "qanplatform",
+    "symbol": "qanx",
+    "name": "QANplatform",
+    "platforms": {
+        "ethereum": "0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa",
+        "binance-smart-chain": "0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "QANplatform is the Quantum-resistant hybrid blockchain platform. Developers and enterprises can build software applications like DApps or DeFi and run business processes on QANplatform. QANplatform is the fastest blockchain to deploy to cloud platforms like Amazon AWS, it takes less than 5 minutes.\r\n\r\nQANX Token is the utility token of QANPlatform."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa",
+    "url": "https://www.qanplatform.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa",
+        "https://ethplorer.io/address/0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa",
+        "https://bscscan.com/token/0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa"
+    ],
+    "twitter": "QANplatform",
+    "facebook": "QANplatform",
+    "telegram": "QANplatform",
+    "reddit": "QANplatform/",
+    "github_org": "qanplatform"
+}

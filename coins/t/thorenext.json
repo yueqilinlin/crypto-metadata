@@ -1,0 +1,25 @@
+{
+    "id": "thorenext",
+    "symbol": "thx",
+    "name": "Thorenext",
+    "platforms": {
+        "ethereum": "0xf08c68bd5f4194d994fd70726746bf529ee5a617"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "ThoreNext (THX) is on a mission to create a strong blockchain and Internet of Things ecosystem, where emerging organizations and applications Launch Decentralized tokens."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0xf08c68bd5f4194d994fd70726746bf529ee5a617",
+    "url": "https://www.thorenext.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xf08c68bd5f4194d994fd70726746bf529ee5a617",
+        "https://ethplorer.io/address/0xf08c68bd5f4194d994fd70726746bf529ee5a617"
+    ],
+    "twitter": "Thr_Official",
+    "telegram": "Thoregroup"
+}

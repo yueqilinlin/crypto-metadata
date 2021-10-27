@@ -1,0 +1,26 @@
+{
+    "id": "bright-union",
+    "symbol": "bright",
+    "name": "Bright Union",
+    "platforms": {
+        "ethereum": "0xbeab712832112bd7664226db7cd025b153d3af55"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Insurance"
+    ],
+    "description": {
+        "en": "Bright Union is a crypto coverage (\u201cinsurance\u201d) aggregation platform that allows user to easily protect their capital from hacks, smart contract fails, and rug pulls. Bright Union as aggregator facilitates three key actions:\r\n\r\n1. Compare, buy and manage crypto coverages on different platforms from a single interface\r\n2. Provide coverage by staking stable coins or matured currencies on different platforms from a single interface.\r\n3. Stake at Bright Union and become part of the DAO (the Union).\r\n\r\nBright Union does not stop at being an Aggregator, we are also an DeFi coverage accelerator. \u201cWe make risk markets work\u201d through our innovative Bright Treasury . In short: the Bright Treasury will take positions in the crypto risk markets, and will provide superior investment opportunities for crypto users."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0xbeab712832112bd7664226db7cd025b153d3af55",
+    "url": "https://brightunion.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xbeab712832112bd7664226db7cd025b153d3af55",
+        "https://ethplorer.io/address/0xbeab712832112bd7664226db7cd025b153d3af55"
+    ],
+    "twitter": "bright_union",
+    "telegram": "brightunion",
+    "github_org": "Bright-Union"
+}

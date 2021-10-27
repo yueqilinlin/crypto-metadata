@@ -1,0 +1,26 @@
+{
+    "id": "proxy",
+    "symbol": "prxy",
+    "name": "Proxy",
+    "platforms": {
+        "ethereum": "0x22acaee85ddb83a3a33b7f0928a0e2c3bfdb6a4f",
+        "polygon-pos": "0x1441729568ab2a9871677edfeb13fbfcc7157a26"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bitcoin Proxy offers a unique institutional-grade wrapped Bitcoin solution that leverages Polygon technology to bring Bitcoin to DeFi with no gas and no slippage.\r\n\r\nUnlike other wrapped bitcoin offerings, Bitcoin Proxy provides decentralized governance via the PRXY token, insured custody through its partner Hex Trust, and a user-friendly interface to make wrapping bitcoin easy for retail users and institutions alike.\r\n\r\nIn combination, the ProxyRelay solution reduces transaction costs, eliminates slippage, and significantly reduces counterparty risk to make it easier than ever to wrap your bitcoin to participate in DeFi platforms both on Ethereum and Polygon. By confirming Bitcoin blocks onto an Ethereum smart contract using a MATIC side chain, BTC Proxy enables gasless minting of its wrapped Bitcoin product, BTCpx, and low redemption fees with fast confirmations in under 30 minutes. No KYC is needed. Users can stake PRXY tokens to farm Bitcoin Rewards paid in BTCpx, which is redeemable for BTC."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0x22acaee85ddb83a3a33b7f0928a0e2c3bfdb6a4f",
+    "url": "https://btcpx.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x22acaee85ddb83a3a33b7f0928a0e2c3bfdb6a4f",
+        "https://ethplorer.io/address/0x22acaee85ddb83a3a33b7f0928a0e2c3bfdb6a4f",
+        "https://polygonscan.com/token/0x1441729568ab2a9871677edfeb13fbfcc7157a26"
+    ],
+    "twitter": "BTC_proxy",
+    "telegram": "BTC_Proxy",
+    "github_org": "Proxy-Protocol"
+}

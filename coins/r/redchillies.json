@@ -1,0 +1,23 @@
+{
+    "id": "redchillies",
+    "symbol": "redc",
+    "name": "RedChillies",
+    "platforms": {
+        "zilliqa": "zil14jmjrkvfcz2uvj3y69kl6gas34ecuf2j5ggmye"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "REDC is a ZRC-2 governance token of RedChillies Labs which is utilized across its decentralized platforms. Currently, REDC token is used in zilchill.com for hosting games.\r\n\r\nWith max supply of 2 millions REDC tokens, it primarily acts as a gas fee to host (create) any games. Every hosted game normally costs 1 to 10 REDC tokens and every game-result rewards max 2 REDC tokens. REDC are distributed from Leaderboard loyalty points to max 4 parties (Game Developer, Game Host, Game Player and Game Governor)."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "zil14jmjrkvfcz2uvj3y69kl6gas34ecuf2j5ggmye",
+    "url": "https://zilchill.com/",
+    "explorers": [
+        "https://viewblock.io/zilliqa/address/zil14jmjrkvfcz2uvj3y69kl6gas34ecuf2j5ggmye"
+    ],
+    "twitter": "RedChilliesLabs",
+    "telegram": "redchilliesREDC",
+    "github_org": "RedChillies-Core"
+}

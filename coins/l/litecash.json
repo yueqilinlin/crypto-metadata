@@ -1,0 +1,23 @@
+{
+    "id": "litecash",
+    "symbol": "cash",
+    "name": "Litecash",
+    "platforms": {},
+    "hashing_algorithm": "Equihash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Litecash is the first fork of Beam. We removed the founder's reward and are 100% community funded."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://lite-cash.com/",
+    "explorers": [
+        "http://explorer.lite.cash"
+    ],
+    "twitter": "mylitecash",
+    "telegram": "litecashgroup",
+    "reddit": "OfficialLiteCash/",
+    "github_org": "Litecash-Dev"
+}

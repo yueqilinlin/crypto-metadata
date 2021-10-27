@@ -1,0 +1,25 @@
+{
+    "id": "polyquity",
+    "symbol": "pyq",
+    "name": "PolyQuity",
+    "platforms": {
+        "polygon-pos": "0x5a3064cbdccf428ae907796cf6ad5a664cd7f3d8"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "PolyQuity provides a decentralized borrowing protocol with interest-free loans, high capital efficiency on Polygon network."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0x5a3064cbdccf428ae907796cf6ad5a664cd7f3d8",
+    "url": "https://app.polyquity.org",
+    "explorers": [
+        "https://polygonscan.com/token/0x5a3064cbdccf428ae907796cf6ad5a664cd7f3d8"
+    ],
+    "twitter": "polyquity_org",
+    "telegram": "polyquityorg",
+    "github_org": "PolyQuity"
+}

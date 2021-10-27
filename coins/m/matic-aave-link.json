@@ -1,0 +1,25 @@
+{
+    "id": "matic-aave-link",
+    "symbol": "malink",
+    "name": "Matic Aave Interest Bearing LINK",
+    "platforms": {
+        "polygon-pos": "0x98ea609569bd25119707451ef982b90e3eb719cd"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Wrapped-Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x98ea609569bd25119707451ef982b90e3eb719cd",
+    "url": "https://www.aavegotchi.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0x98ea609569bd25119707451ef982b90e3eb719cd"
+    ],
+    "twitter": "aavegotchi",
+    "github_org": "aavegotchi"
+}

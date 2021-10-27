@@ -1,0 +1,24 @@
+{
+    "id": "qcore-finance",
+    "symbol": "qcore",
+    "name": "Qcore.Finance",
+    "platforms": {
+        "ethereum": "0x82866b4a71ba9d930fe338c386b6a45a7133eb36"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "QCORE is a non-inflationary cryptocurrency that is designed to execute profit-generating strategies autonomously with a completely decentralized approach. In existing autonomous strategy-executing platforms a team or single developer is solely responsible for determining how locked funds are used to generate ROI. This is hazardous to the health of the fund as it grows, as it creates flawed incentives, and invites mistakes to be made. QCORE does away with this dynamic and instead opts for one with decentralized governance."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x82866b4a71ba9d930fe338c386b6a45a7133eb36",
+    "url": "https://qcore.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x82866b4a71ba9d930fe338c386b6a45a7133eb36",
+        "https://ethplorer.io/address/0x82866b4a71ba9d930fe338c386b6a45a7133eb36"
+    ],
+    "twitter": "qcore_finance",
+    "telegram": "qcore_finance",
+    "github_org": "qcore-finance"
+}

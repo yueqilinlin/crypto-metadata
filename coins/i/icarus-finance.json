@@ -1,0 +1,22 @@
+{
+    "id": "icarus-finance",
+    "symbol": "ica",
+    "name": "Icarus Finance",
+    "platforms": {
+        "binance-smart-chain": "0x0ca2f09eca544b61b91d149dea2580c455c564b2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "http://Icarus.finance is a decentralized mining protocol that is used to unlock a universe of open financial applications."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0x0ca2f09eca544b61b91d149dea2580c455c564b2",
+    "url": "https://icarus.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x0ca2f09eca544b61b91d149dea2580c455c564b2"
+    ],
+    "twitter": "zetta_icarus",
+    "telegram": "icarus_finance"
+}

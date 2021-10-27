@@ -1,0 +1,23 @@
+{
+    "id": "mooncake",
+    "symbol": "moon",
+    "name": "MoonCake",
+    "platforms": {
+        "binance-smart-chain": "0x2e8c05582176fa93b4590382e8290c73deb82176"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mooncake is the first frictionless yield token on the Binance Smart Chain to Implement a passive deflationary protocol.\r\nThis means that the total $MOONCAKE supply is gradually reduced without the need to transact it - unlike traditional reflect tokens."
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0x2e8c05582176fa93b4590382e8290c73deb82176",
+    "url": "https://mooncake.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x2e8c05582176fa93b4590382e8290c73deb82176"
+    ],
+    "twitter": "getmooncake",
+    "telegram": "mooncakeofficial",
+    "reddit": "MoonCake/"
+}

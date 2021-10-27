@@ -1,0 +1,20 @@
+{
+    "id": "wxcoin",
+    "symbol": "wxc",
+    "name": "WXCOINS",
+    "platforms": {},
+    "hashing_algorithm": "X13",
+    "categories": [],
+    "description": {
+        "en": "WX-Coin is a decentralized cryptocurrency that uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of WX-Coin is carried out collectively by the network.WX-Coin is open-source; its design is public, nobody owns or controls WX-Coinn and everyone can take part."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-03-25",
+    "url": "https://wxcoins.org/",
+    "explorers": [
+        "http://wxcoins.info:4321/"
+    ],
+    "twitter": "wx_coin",
+    "telegram": "WXCoinofficial",
+    "github_org": "wxcoins"
+}

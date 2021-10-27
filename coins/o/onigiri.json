@@ -1,0 +1,24 @@
+{
+    "id": "onigiri",
+    "symbol": "onigiri",
+    "name": "Onigiri",
+    "platforms": {
+        "ethereum": "0xcf9c692f7e62af3c571d4173fd4abf9a3e5330d0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AMM with ONIGIRI Tokenomics"
+    },
+    "country_origin": "JP",
+    "genesis_date": null,
+    "contract_address": "0xcf9c692f7e62af3c571d4173fd4abf9a3e5330d0",
+    "url": "https://onigiriswap.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xcf9c692F7e62Af3c571D4173fd4ABf9A3E5330D0",
+        "https://ethplorer.io/address/0xcf9c692f7e62af3c571d4173fd4abf9a3e5330d0"
+    ],
+    "twitter": "OnigiriSwap",
+    "telegram": "OnigiriSwap_Official",
+    "github_org": "onigiriswapfi"
+}

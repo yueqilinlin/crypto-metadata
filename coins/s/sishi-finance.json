@@ -1,0 +1,26 @@
+{
+    "id": "sishi-finance",
+    "symbol": "sishi",
+    "name": "Sishi Finance",
+    "platforms": {
+        "binance-smart-chain": "0x8e8538c75f273ab2df6adeecd3622a9c314fccf3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Sishi Finance is a strategic fork of Master Chef contract of Goose Finance and token contract from Autofarm running on Binance Smart Chain with significant modifications in the token economic model with maximum total supply 21 millions SISHI tokens."
+    },
+    "country_origin": "IL",
+    "genesis_date": null,
+    "contract_address": "0x8e8538c75f273ab2df6adeecd3622a9c314fccf3",
+    "url": "https://sishi.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x8e8538c75f273ab2df6adeecd3622a9c314fccf3"
+    ],
+    "twitter": "0xsishi",
+    "telegram": "sishi_finance",
+    "github_org": "sishi-finance"
+}

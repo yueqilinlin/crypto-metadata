@@ -1,0 +1,24 @@
+{
+    "id": "kamax-vault-nftx",
+    "symbol": "kamax",
+    "name": "KAMAX Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xb2c62e0a1f5837356e399359ecc34fcc49a02093"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "KAMAX Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs).\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb2c62e0a1f5837356e399359ecc34fcc49a02093",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xb2c62e0a1f5837356e399359ecc34fcc49a02093",
+        "https://ethplorer.io/address/0xb2c62e0a1f5837356e399359ecc34fcc49a02093"
+    ],
+    "twitter": "nftx_"
+}

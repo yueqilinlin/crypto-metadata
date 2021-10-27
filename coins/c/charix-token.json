@@ -1,0 +1,23 @@
+{
+    "id": "charix-token",
+    "symbol": "charix",
+    "name": "Charix Token",
+    "platforms": {
+        "binance-smart-chain": "0x4eabb20064586dea07aaaf84d4ba35037854bd44"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "2% automatically burned. 2% Redistributed back to HODLers. 6% to charity & marketing allocation. Combined with 10+ years of marketing & millions in ad spend & E-commerce experience.\r\nWe are on a mission to 1B market cap and to become a world-wide charity with physical offices, employees and a community to help the world.\r\n\r\nWe are one of the first decentralized finance projects with 50% of transaction fee liquidity that goes towards charity.\r\n\r\nWe have extensive experience in marketing with millions in ad spend from 10+ years of marketing and E-commerce experience. We will create added growth through strategic influencer, celebrity, ambassador and other partnerships as well as ad spend allocation to grow maximum exposure. Together with our community, we will do everything it takes."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4eabb20064586dea07aaaf84d4ba35037854bd44",
+    "url": "https://charix.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x4eabb20064586dea07aaaf84d4ba35037854bd44"
+    ],
+    "twitter": "charix_token",
+    "facebook": "Charix.org",
+    "telegram": "charixtoken"
+}

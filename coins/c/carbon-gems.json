@@ -1,0 +1,25 @@
+{
+    "id": "carbon-gems",
+    "symbol": "gems",
+    "name": "Carbon GEMS",
+    "platforms": {
+        "ethereum": "0xe74ac81b14021d0cfb835f269f48f25918c5cae6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "A global ecosystem and Web 3.0 wallet for creatives. Combining open finance, fashion, art, music & NFTs."
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0xe74ac81b14021d0cfb835f269f48f25918c5cae6",
+    "url": "https://carbon.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0xe74ac81b14021d0cfb835f269f48f25918c5cae6",
+        "https://ethplorer.io/address/0xe74ac81b14021d0cfb835f269f48f25918c5cae6"
+    ],
+    "twitter": "carbon_gems",
+    "telegram": "carbongemstoken"
+}

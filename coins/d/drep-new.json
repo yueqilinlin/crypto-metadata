@@ -1,0 +1,25 @@
+{
+    "id": "drep-new",
+    "symbol": "drep",
+    "name": "Drep [new]",
+    "platforms": {
+        "ethereum": "0x3ab6ed69ef663bd986ee59205ccad8a20f98b4c2"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "Decentralized Reputation System (DREP) enables Internet platforms to quantify, monetize, and share reputation value. DREP Foundation aims to provide a blockchain infrastructure and decentralized reputation protocol. These will empower existing Internet platforms to unleash their reputation value and achieve the interconnectedness of reputation data in the Internet community. \r\n\r\nDREP's vision: \r\n- Build an infrastructure to accelerate internet platforms\u2019 (social networking, online content providers, online games) user growth and traffic monetization \r\n- Tackle the issues of fake news/contents/accounts identification and filtering \r\n- Enhance tokenomics based on reputation-backed assets and reputation-backed currency \r\n- Establish token holders sharing pool for more targeted user acquisition"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x3ab6ed69ef663bd986ee59205ccad8a20f98b4c2",
+    "url": "https://www.drep.org",
+    "explorers": [
+        "https://etherscan.io/token/0x3ab6ed69ef663bd986ee59205ccad8a20f98b4c2",
+        "https://ethplorer.io/address/0x3ab6ed69ef663bd986ee59205ccad8a20f98b4c2"
+    ],
+    "twitter": "drep_foundation",
+    "telegram": "drep_foundation"
+}

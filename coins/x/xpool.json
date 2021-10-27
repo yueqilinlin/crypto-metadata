@@ -1,0 +1,24 @@
+{
+    "id": "xpool",
+    "symbol": "xpo",
+    "name": "Xpool",
+    "platforms": {
+        "binance-smart-chain": "0xebb59cebfb63f218db6b5094dc14abf34d56d35d"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xebb59cebfb63f218db6b5094dc14abf34d56d35d",
+    "url": "https://xpool.app/",
+    "explorers": [
+        "https://bscscan.com/token/0xebb59cebfb63f218db6b5094dc14abf34d56d35d"
+    ],
+    "twitter": "Xpoolofficial",
+    "telegram": "xpoolofficial"
+}

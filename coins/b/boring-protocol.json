@@ -1,0 +1,24 @@
+{
+    "id": "boring-protocol",
+    "symbol": "bop",
+    "name": "Boring Protocol",
+    "platforms": {
+        "solana": "BLwTnYKqf7u4qjgZrrsKeNs2EzWkMLqVCu6j8iHyrNA3"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "Boring is a protocol for participants in virtual private networks to conduct transactions between node providers and bandwidth users. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "BLwTnYKqf7u4qjgZrrsKeNs2EzWkMLqVCu6j8iHyrNA3",
+    "url": "https://boringprotocol.io/",
+    "explorers": [
+        "https://solscan.io/token/BLwTnYKqf7u4qjgZrrsKeNs2EzWkMLqVCu6j8iHyrNA3"
+    ],
+    "twitter": "BoringProtocol",
+    "github_org": "boringprotocol"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "aave-susd-v1",
+    "symbol": "asusd",
+    "name": "Aave SUSD v1",
+    "platforms": {
+        "ethereum": "0x625ae63000f46200499120b906716420bd059240"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Aave Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Aave SUSD is an interest bearing token minted upon deposit and burned when redeemed. The aSUSD is pegged 1:1 to the value of the underlying SUSD that is deposited in Aave protocol. aSUSD, can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aSUSD accrue interest in real time, directly in your wallet!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x625ae63000f46200499120b906716420bd059240",
+    "url": "https://aave.com/atokens",
+    "explorers": [
+        "https://etherscan.io/token/0x625ae63000f46200499120b906716420bd059240",
+        "https://ethplorer.io/address/0x625ae63000f46200499120b906716420bd059240"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome",
+    "reddit": "Aave_Official/",
+    "github_org": "aave"
+}

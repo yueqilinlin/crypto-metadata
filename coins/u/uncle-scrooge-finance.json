@@ -1,0 +1,23 @@
+{
+    "id": "uncle-scrooge-finance",
+    "symbol": "crooge",
+    "name": "Uncle Scrooge Finance",
+    "platforms": {
+        "ethereum": "0x1505c95a707348c2bcc75698be258891387f008b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Because alone, we can do so little; but together, we can do so much. $CROOGE"
+    },
+    "country_origin": "SK",
+    "genesis_date": null,
+    "contract_address": "0x1505c95a707348c2bcc75698be258891387f008b",
+    "url": "https://uncle-scrooge.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x1505c95a707348c2bcc75698be258891387f008b",
+        "https://ethplorer.io/address/0x1505c95a707348c2bcc75698be258891387f008b"
+    ],
+    "twitter": "Scroogetoken",
+    "telegram": "Scroogetoken"
+}

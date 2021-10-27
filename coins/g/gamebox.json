@@ -1,0 +1,22 @@
+{
+    "id": "gamebox",
+    "symbol": "gamebox",
+    "name": "Gamebox",
+    "platforms": {
+        "binance-smart-chain": "0x4b31e9f15211768e4d16b31c11eb0d6c402b2230"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "GameBox is a defi+ comprehensive platform dedicated to integrating blockchain games, trading markets and providing comprehensive cryptocurrency services."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4b31e9f15211768e4d16b31c11eb0d6c402b2230",
+    "url": "http://gameboxcoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x4B31E9F15211768e4d16b31c11Eb0D6c402b2230"
+    ],
+    "twitter": "GameBoxCoin",
+    "telegram": "GameBoxCoinOFFICIAL"
+}

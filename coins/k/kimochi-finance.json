@@ -1,0 +1,21 @@
+{
+    "id": "kimochi-finance",
+    "symbol": "kimochi",
+    "name": "Kimochi Finance",
+    "platforms": {
+        "binance-smart-chain": "0x4da95bd392811897cde899d25face253a424bfd4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kimochi Finance is a platform fully integrated with DeFi applications that bring the best profits for users."
+    },
+    "country_origin": "FI",
+    "genesis_date": null,
+    "contract_address": "0x4da95bd392811897cde899d25face253a424bfd4",
+    "url": "https://kimochi.finance",
+    "explorers": [],
+    "twitter": "KimochiFinance",
+    "telegram": "KimochiGroup",
+    "github_org": "kimochi-finance"
+}

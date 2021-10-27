@@ -1,0 +1,25 @@
+{
+    "id": "cybermusic",
+    "symbol": "cymt",
+    "name": "CyberMusic",
+    "platforms": {
+        "ethereum": "0x78c292d1445e6b9558bf42e8bc369271ded062ea"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [],
+    "description": {
+        "en": "Cyber Music is a new platform, that will be built using the Ethereum blockchain.\r\n\r\nThe focus of the developers is one near to their heart. It is a project dedicated to musicians and attempts to solve a major problem for emerging artists. Through Cyber Music, musicians will have the opportunity of producing their own songs and listeners will enjoy and hear new content from any device they own. Cyber Music will provide the user with the possibility of using the platform in a number of ways from, free streaming, to requests for donations, payments and the insertion of advertising sponsors.\r\n\r\nIt differentiates itself from other music streaming platforms by assisting to finance music and video artists and gifting tokens to its users, from music/video enthusiasts to those for commercial activities)."
+    },
+    "country_origin": "",
+    "genesis_date": "2018-08-23",
+    "contract_address": "0x78c292d1445e6b9558bf42e8bc369271ded062ea",
+    "url": "https://cybermusic.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x78c292d1445e6b9558bf42e8bc369271ded062ea",
+        "https://ethplorer.io/address/0x78c292d1445e6b9558bf42e8bc369271ded062ea"
+    ],
+    "twitter": "CyberMusicIO",
+    "facebook": "CyberMusicIO",
+    "telegram": "cymtofficial",
+    "github_org": "cybermusicio"
+}

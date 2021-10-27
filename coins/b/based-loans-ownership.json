@@ -1,0 +1,25 @@
+{
+    "id": "based-loans-ownership",
+    "symbol": "blo",
+    "name": "Based Loans Ownership",
+    "platforms": {
+        "ethereum": "0x68481f2c02be3786987ac2bc3327171c5d05f9bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Based Loans is an on-chain protocol that allows users to borrow and lend DeFi assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x68481f2c02be3786987ac2bc3327171c5d05f9bd",
+    "url": "https://based.loans",
+    "explorers": [
+        "https://etherscan.io/token/0x68481f2c02be3786987ac2bc3327171c5d05f9bd",
+        "https://ethplorer.io/address/0x68481f2c02be3786987ac2bc3327171c5d05f9bd"
+    ],
+    "twitter": "BasedProtocol",
+    "telegram": "basedmoney",
+    "reddit": "BasedMoney/",
+    "github_org": "based-loans"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "flypaper",
+    "symbol": "sticky",
+    "name": "FlyPaper",
+    "platforms": {
+        "binance-smart-chain": "0x7ba953183fe5d8169924da516f1b3cac365add78"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$STICKY is the FlyPaper utility token. It has a maximum supply of 500 million, no mint function, and rewards holders with 4% of each transaction while swapping 2% of each transaction into BNB to fund project development.\r\n\r\nFlyPaper's goal is to end DeFi scams and bring increased legitimacy into the Binance Smart Chain. The SwapMeet and FlySwapper are the two banner projects of the FlyPaper ecosystem.\r\n\r\nIf a project wishes to be listed on the SwapMeet and FlySwapper, they must first be reviewed extensively by the FlyPaper team, who then prepares an extensive report. The report is then published for the community of $STICKY holders. Using the findings in the report, the community of holders uses $STICKY to vote on whether or not they think the project should receive Larry's Stamp of Approval. If approved, the project receives certification for 6 months. Upon expiration, the project must be reviewed and recertified to ensure compliance.\r\n\r\nIf the project is certified, they will be listed on the FlySwapper, are able to display the Stamp of Approval as a trusted symbol on their website, will be listed as a partner project on flypaper.info, and listed as an approved project at the SwapMeet."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7ba953183fe5d8169924da516f1b3cac365add78",
+    "url": "https://www.flypaper.info/",
+    "explorers": [
+        "https://bscscan.com/token/0x7ba953183fe5d8169924da516f1b3cac365add78"
+    ],
+    "twitter": "flypaperdefi",
+    "telegram": "TheOfficialFlyPaper",
+    "reddit": "STICKYtoken/"
+}

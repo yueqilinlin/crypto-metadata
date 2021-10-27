@@ -1,0 +1,24 @@
+{
+    "id": "hot-doge",
+    "symbol": "hotdoge",
+    "name": "HotDoge",
+    "platforms": {
+        "binance-smart-chain": "0x1991501f1398663f69dd7391c055bb0df6514f76"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "The project is a new bsc token with 8% fees on every transactions \r\nLiquidity is locked and ownership renounced.\r\nThis project is 100% community driven, since they are the one that make me working hard to give HotDoge a nice life !\r\nThe fees are used : \r\n\r\n4% of every trade contributes toward automatically generating liquidity locked inside PancakeSwap LP.\r\n\r\n4% are gave to holders, earning passive rewards through static reflection as they watch their balance of Hot Doge grow indefinitely."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1991501f1398663f69dd7391c055bb0df6514f76",
+    "url": "https://www.hotdogetoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x1991501f1398663f69dd7391c055bb0df6514f76"
+    ],
+    "twitter": "HotDogeTokenBSC",
+    "telegram": "HotDogeBsc"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "xaavea",
+    "symbol": "xaavea",
+    "name": "xAAVEa",
+    "platforms": {
+        "ethereum": "0x80dc468671316e50d4e9023d3db38d3105c1c146"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "AAVE Staking Wrapper"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x80dc468671316e50d4e9023d3db38d3105c1c146",
+    "url": "https://xtoken.market",
+    "explorers": [
+        "https://etherscan.io/address/0x80dc468671316e50d4e9023d3db38d3105c1c146",
+        "https://etherscan.io/token/0x80dc468671316e50d4e9023d3db38d3105c1c146",
+        "https://ethplorer.io/address/0x80dc468671316e50d4e9023d3db38d3105c1c146"
+    ],
+    "twitter": "xtokenmarket",
+    "github_org": "xtokenmarket"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "bitcoinstaking",
+    "symbol": "bsk",
+    "name": "BitcoinStaking",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "BitcoinS consensus - A Peer-to-Peer Electronic Cash System. The next evolution in Bitcoin technology. Satoshi\u2019s vision reimagined."
+    },
+    "country_origin": "JP",
+    "genesis_date": "2020-10-08",
+    "url": "https://bitcoinstaking.github.io/",
+    "explorers": [
+        "http://explorer.bitcoinstaking.org/"
+    ],
+    "twitter": "Bitcoin_Staking",
+    "facebook": "BitcoinStakingDecentralized",
+    "telegram": "Bitcoin_Staking",
+    "github_org": "BitcoinStaking"
+}

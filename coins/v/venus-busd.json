@@ -1,0 +1,20 @@
+{
+    "id": "venus-busd",
+    "symbol": "vbusd",
+    "name": "Venus BUSD",
+    "platforms": {
+        "binance-smart-chain": "0x95c78222b3d6e262426483d42cfa53685a67ab9d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Venus is an algorithmic money market and synthetic stablecoin decentralized finance protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x95c78222b3d6e262426483d42cfa53685a67ab9d",
+    "url": "https://venus.io/",
+    "explorers": [],
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+}

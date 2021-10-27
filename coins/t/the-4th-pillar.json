@@ -1,0 +1,29 @@
+{
+    "id": "the-4th-pillar",
+    "symbol": "four",
+    "name": "4thpillar technologies",
+    "platforms": {
+        "ethereum": "0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0",
+        "binance-smart-chain": "0xd882739fca9cbae00f3821c4c65189e2d7e26147",
+        "solana": "DAtU322C23YpoZyWBm8szk12QyqHa9rUQe1EYXzbm1JE"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "4thpillar Technologies or short 4thTech is the next-gen multi-blockchain ecosystem, platform, cryptocurrency, and a suite of decentralized applications that enable users to exchange metadata, data files and instant messages from wallet to wallet in a secure and decentralized manner.\r\n\r\nWith a charter to establish foundation for:\r\n\r\nDecentralized digital identity;\r\nMulti-chain data exchange;\r\nDigital data notarisation;\r\n\r\nDecentralization of cloud storage, 4thTech initiative strives to enable a self-sovereign framework of data authorization and ownership representation and leverages the power of blockchain to facilitate data source and time confirmation.\r\n\r\nEstablished already in 2017, the initiative is composed of individuals and companies who collaborate to create decentralized solutions for the benefit of everyone, compatible and in line with European Blockchain services infrastructure and usable or extendable globally.\r\n\r\n4thTech token (i.e., FOUR) is the ecosystem native utility token, used as the primary means to enable services, incentivize participants. It represents a unit of value with the right to stake and access to services discounts while enabling ecosystem tokenization."
+    },
+    "country_origin": "SI",
+    "genesis_date": null,
+    "contract_address": "0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0",
+    "url": "https://www.the4thpillar.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0",
+        "https://ethplorer.io/address/0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0"
+    ],
+    "twitter": "4thtechProject",
+    "telegram": "the4thpillarofficial",
+    "reddit": "4th_Pillar/",
+    "github_org": "4thtech"
+}

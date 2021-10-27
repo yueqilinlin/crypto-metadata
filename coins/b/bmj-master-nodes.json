@@ -1,0 +1,24 @@
+{
+    "id": "bmj-master-nodes",
+    "symbol": "bmj",
+    "name": "BMJ Master Nodes",
+    "platforms": {
+        "ethereum": "0x5913d0f34615923552ee913dbe809f9f348e706e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BMJ is a high-speed, secure and scalable blockchain distributed storage project that transmits hundreds of megabits of files in seconds through slice technology to the P2P of nodes.\r\nThe limited release of 210,000 DEFI tokens in the ETH main chain supports the accelerated start-up of 21 BMJ distributed nodes, resulting in effective global linking of millions of devices, providing the cheapest and most efficient CDN, distributed storage, edge computing and other services for enterprises and individuals worldwide, thus creating a complete application ecosystem."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0x5913d0f34615923552ee913dbe809f9f348e706e",
+    "url": "https://dapp.bmjcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x5913D0F34615923552ee913DBe809F9F348e706E",
+        "https://ethplorer.io/address/0x5913d0f34615923552ee913dbe809f9f348e706e"
+    ],
+    "twitter": "BMJ67466085",
+    "facebook": "bmj.bmj.39142",
+    "telegram": "bmj012"
+}

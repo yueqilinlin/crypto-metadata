@@ -1,0 +1,24 @@
+{
+    "id": "binance-peg-cardano",
+    "symbol": "ada",
+    "name": "Binance-Peg Cardano",
+    "platforms": {
+        "binance-smart-chain": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+        "harmony-shard-0": "0x582617bd8ca80d22d4432e63fda52d74dcdcee4c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Tokens that are wrapped and pegged by Binance on a 1:1 ratio to the corresponding native token. Also supports BEP20 token deposits and withdrawals at Binance.com"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+    "url": "https://cardano.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47"
+    ],
+    "twitter": "CardanoStiftung"
+}

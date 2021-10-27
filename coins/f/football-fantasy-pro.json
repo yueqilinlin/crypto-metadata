@@ -1,0 +1,22 @@
+{
+    "id": "football-fantasy-pro",
+    "symbol": "fanta",
+    "name": "Football Fantasy Pro",
+    "platforms": {
+        "binance-smart-chain": "0xcac33ce2734d30949f5a96f7d64851830fda7ad9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Build your very own Football team in crypto and compete on tournaments to win daily, weekly, monthly prizes and much more!"
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0xcac33ce2734d30949f5a96f7d64851830fda7ad9",
+    "url": "https://footballfantasypro.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xcac33ce2734d30949f5a96f7d64851830fda7ad9"
+    ],
+    "twitter": "Footballstarsio",
+    "telegram": "footballfantasypro"
+}

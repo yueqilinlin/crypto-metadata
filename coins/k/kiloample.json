@@ -1,0 +1,25 @@
+{
+    "id": "kiloample",
+    "symbol": "kmpl",
+    "name": "KiloAmple",
+    "platforms": {
+        "ethereum": "0xe8d17542dfe79ff4fbd4b850f2d39dc69c4489a2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KiloAmple (kMPL) is multi-purpose crypto asset developed by the AmpleSense DAO, an organization focused on fostering and accelerating the global ecosystem around  elastic finance, including Ampleforth, and other select elastic assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe8d17542dfe79ff4fbd4b850f2d39dc69c4489a2",
+    "url": "https://amplesense.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xe8d17542dfe79ff4fbd4b850f2d39dc69c4489a2",
+        "https://ethplorer.io/address/0xe8d17542dfe79ff4fbd4b850f2d39dc69c4489a2"
+    ],
+    "twitter": "amplesense",
+    "telegram": "ampleforth_community",
+    "reddit": "AmpleSenseDAO/",
+    "github_org": "AmpleSense-DAO"
+}

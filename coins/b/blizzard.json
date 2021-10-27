@@ -1,0 +1,24 @@
+{
+    "id": "blizzard",
+    "symbol": "xblzd",
+    "name": "Blizzard",
+    "platforms": {
+        "binance-smart-chain": "0x9a946c3cb16c08334b69ae249690c236ebd5583e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Blizzard.Money is the home of the Yeti! It\u2019s easy to become part of the family, all you have to do is stake $xBLZD. We are one of the top yield farms on Binance Smart Chain because we built our platform around security, transparency, and embodying a community first attitude."
+    },
+    "country_origin": "TH",
+    "genesis_date": null,
+    "contract_address": "0x9a946c3cb16c08334b69ae249690c236ebd5583e",
+    "url": "https://www.blizzard.money/",
+    "explorers": [
+        "https://bscscan.com/token/0x9a946c3cb16c08334b69ae249690c236ebd5583e"
+    ],
+    "twitter": "money_blizzard",
+    "facebook": "BlizzardMoney-106610154855380",
+    "telegram": "BlizzardMoney",
+    "github_org": "blzd-dev"
+}

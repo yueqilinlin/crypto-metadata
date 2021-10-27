@@ -1,0 +1,23 @@
+{
+    "id": "exentoken",
+    "symbol": "exen",
+    "name": "ExenToken",
+    "platforms": {
+        "ethereum": "0xe6cc10ef4de1ccfb821c99c04abfe1859d8eab8f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Exen Token is the native utility asset of Bitexen Digital Asset Platform. It was launched in 2018 and distributed to the users for free as a reward of registering on the platform. As in 2021, Exen Coin acts as a total utility token for the Bitexen platform. By holding EXEN Token, Bitexen users experience the platform and get many advantages. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe6cc10ef4de1ccfb821c99c04abfe1859d8eab8f",
+    "url": "https://exencoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xe6cc10ef4de1ccfb821c99c04abfe1859d8eab8f",
+        "https://ethplorer.io/address/0xe6cc10ef4de1ccfb821c99c04abfe1859d8eab8f"
+    ],
+    "twitter": "bitexencom",
+    "telegram": "BitexenChannel"
+}

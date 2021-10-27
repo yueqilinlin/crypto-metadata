@@ -1,0 +1,24 @@
+{
+    "id": "revolve-games",
+    "symbol": "rpg",
+    "name": "Revolve Games",
+    "platforms": {
+        "binance-smart-chain": "0x01e0d17a533e5930a349c2bb71304f04f20ab12b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Gaming"
+    ],
+    "description": {
+        "en": "Revolve Games is redefining blockchain gaming, with a robust gaming ecosystem that is plugged into the heart of DeFi. Actionable RPG stake tethered NFT assets earn rewards according to performance.\r\n\r\n(1): Dynamic Staking Rewards:\r\n\r\nRevolve Games envisions a product in which users are able to influence their staking rewards through increased participation and performance of play in the Revolve Metaverse. Eventually, the staking rewards of every user will be different based on the number of tokens staked and the performance of their stake-backed asset.\r\n\r\n(2): Stake Tethered NFTs:\r\n\r\nAny Actionable Assets (Characters, Spaceships, Game-Builder NFTs) on the Revolve Platform require an underlying stake of RPG (Revolve Games' Native Token). This means that should any user decide to unstake his tokens, the NFT tied to that token will be returned to the NFT pool. The same logic would apply to any transfers of NFTs: Any transfer of NFTs would result in the underlying staking contract to move to the new owner of the NFT.\r\n\r\nRevolve Metaverse:\r\n\r\nThese two ideas will be delivered via the medium of the Revolve Metaverse - an inter-galactic world where users are able to own or rent land on planets, building games and monuments on top of users' land. Characters and spacecraft will generate additional reward multipliers through prolonged play and completion of different events that occur on the Revolve Metaverse, while the popularity of user-built games (via the game-builder packs) will also generate additional yield for landowners.\r\n\r\nRevolve Games aims to be one of the leading platforms providing Play-to-Earn opportunities with ample content for any audience."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x01e0d17a533e5930a349c2bb71304f04f20ab12b",
+    "url": "https://revolvegames.io",
+    "explorers": [
+        "https://bscscan.com/token/0x01E0d17a533E5930A349C2BB71304F04F20AB12B"
+    ],
+    "twitter": "RevolveGamesio",
+    "telegram": "revolvegames_official"
+}

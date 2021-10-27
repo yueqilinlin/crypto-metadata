@@ -1,0 +1,24 @@
+{
+    "id": "morpher",
+    "symbol": "mph",
+    "name": "Morpher",
+    "platforms": {
+        "ethereum": "0x6369c3dadfc00054a42ba8b2c09c48131dd4aa38"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Morpher enables everyone to trade stocks, commodities, and currencies with zero fees and infinite liquidity. Investing on Morpher does not require any counterparties, and comes with incredible advantages like shorting, leverage, fractional shares, and 24/7 access to all markets.\r\n\r\nMPH tokens make the Morpher Protocol possible and power every trade. All investments are made using MPH, and all gains/losses are paid out in MPH.\r\n\r\nThe Morpher Protocol replicates global assets using Virtual Futures, and replaces all middlemen including banks, brokers, and index funds. Virtual Futures do not rely on trading the underlying market, paving the way for completely novel synthetic markets."
+    },
+    "country_origin": "AT",
+    "genesis_date": null,
+    "contract_address": "0x6369c3dadfc00054a42ba8b2c09c48131dd4aa38",
+    "url": "https://www.morpher.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x6369c3dadfc00054a42ba8b2c09c48131dd4aa38",
+        "https://ethplorer.io/address/0x6369c3dadfc00054a42ba8b2c09c48131dd4aa38"
+    ],
+    "twitter": "morpher_io",
+    "telegram": "morpher_io",
+    "github_org": "Morpher-io"
+}

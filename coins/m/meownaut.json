@@ -1,0 +1,23 @@
+{
+    "id": "meownaut",
+    "symbol": "mnt",
+    "name": "Meownaut",
+    "platforms": {
+        "binance-smart-chain": "0x498e3739d58aae82656030bcbccf5ac63e0e57e1"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A dApp platform for yield farming and gaming. Built-in native exchange with AMM and rewards generated in the form of 3D NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x498e3739d58aae82656030bcbccf5ac63e0e57e1",
+    "url": "https://pokemoon.io",
+    "explorers": [
+        "https://bscscan.com/token/0x498e3739d58AAe82656030BCBcCf5ac63E0E57e1"
+    ],
+    "twitter": "PokeMoonDeFi",
+    "telegram": "pokemoondefi",
+    "reddit": "PokeMoonApp/"
+}

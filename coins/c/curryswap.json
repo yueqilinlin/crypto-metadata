@@ -1,0 +1,24 @@
+{
+    "id": "curryswap",
+    "symbol": "curry",
+    "name": "CurrySwap",
+    "platforms": {
+        "ethereum": "0xc2d3ae29c8309c14994d02ecd228cf86f3efde77"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CurrySwap is A high-yield multi-dapp ecosystem built specifically for your Curry."
+    },
+    "country_origin": "BZ",
+    "genesis_date": null,
+    "contract_address": "0xc2d3ae29c8309c14994d02ecd228cf86f3efde77",
+    "url": "https://curryswap.com",
+    "explorers": [
+        "https://etherscan.io/token/0xc2d3ae29c8309c14994d02ecd228cf86f3efde77",
+        "https://ethplorer.io/address/0xc2d3ae29c8309c14994d02ecd228cf86f3efde77"
+    ],
+    "twitter": "curryswap",
+    "telegram": "curryswapchat",
+    "github_org": "curryswap"
+}

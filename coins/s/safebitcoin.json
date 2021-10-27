@@ -1,0 +1,26 @@
+{
+    "id": "safebitcoin",
+    "symbol": "safebtc",
+    "name": "SafeBitcoin",
+    "platforms": {
+        "binance-smart-chain": "0x380624a4a7e69db1ca07deecf764025fc224d056",
+        "ethereum": "0x62d693fe5c13b5a5b24c9ec3f423e51c35f5624f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SAFEBTC IS AN AUTONOMOUS YIELD & LIQUIDITY GENERATION PROTOCOL.\r\nIs a protocol that rewards holders 2% per transaction\r\nand 2% to the liquidity locking forever.\r\nSafeBTC generates yield by applying a tax of 4% on every transaction splitting that instantly among token holders and the liquidity pool."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x380624a4a7e69db1ca07deecf764025fc224d056",
+    "url": "https://www.safebitcoin.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x380624A4a7e69dB1cA07deEcF764025FC224D056",
+        "https://etherscan.io/token/0x62d693fE5C13b5A5b24C9ec3F423E51C35F5624F",
+        "https://etherscan.io/address/0x62d693fE5C13b5A5b24C9ec3F423E51C35F5624F"
+    ],
+    "twitter": "SafeBTC_Eco",
+    "telegram": "SafeBTC_Official",
+    "github_org": "SAFEBTCOFFICIAL"
+}

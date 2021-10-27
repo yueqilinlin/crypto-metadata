@@ -1,0 +1,23 @@
+{
+    "id": "savetheworld",
+    "symbol": "save",
+    "name": "SaveTheWorld",
+    "platforms": {
+        "binance-smart-chain": "0x159802fbe16aa6a0863a56a18dd41afce546c93e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A deflationary Charity Token allows for users\u2019 frictionless rewards while taxing and generating fees per transaction. For each transaction, 2% will be distributed amongst SaveTheWorld token holders, providing frictionless yield rewards. The remaining 8% goes to liquidity. In addition, 50% of daily generated liquidity will be removed, with 100% of the BNB from liquidity will be sent to a charity, while 100% of the SaveTheWorld tokens are burned. We mean business\u2014100% to charity, nothing less.\r\n\r\nGiven the dynamism of the project and the fact that there are endless worthy charitable causes, SaveTheWorld token will consistently draw in new investors, both philanthropic and speculative alike. We are fully committed to the causes we aim to support. Unlike many supposed \u201ccharity\u201d tokens, we will provide proof of donations and ensure all funds reach their worthy causes. With all charity-based projects, transparency is of the utmost importance. \r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x159802fbe16aa6a0863a56a18dd41afce546c93e",
+    "url": "https://savetheworld.health",
+    "explorers": [
+        "https://bscscan.com/token/0x159802fbe16aa6a0863a56a18dd41afce546c93e"
+    ],
+    "twitter": "STWtoken",
+    "telegram": "SaveTheWorldToken",
+    "github_org": "4ngalaxy"
+}

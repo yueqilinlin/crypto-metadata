@@ -1,0 +1,24 @@
+{
+    "id": "iten",
+    "symbol": "iten",
+    "name": "ITEN",
+    "platforms": {
+        "ethereum": "0x65b678936c489a2639036755aa2107ec09569198"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "Iten create new value through the production, distribution, sales, and investment of unique and high-quality content, and provide content designed to give fun and excitement that no one have ever experienced."
+    },
+    "country_origin": "SC",
+    "genesis_date": null,
+    "contract_address": "0x65b678936c489a2639036755aa2107ec09569198",
+    "url": "https://iten.today/",
+    "explorers": [
+        "https://etherscan.io/token/0x65b678936c489a2639036755aa2107ec09569198",
+        "https://ethplorer.io/address/0x65b678936c489a2639036755aa2107ec09569198"
+    ],
+    "telegram": "iten_official"
+}

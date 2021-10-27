@@ -1,0 +1,28 @@
+{
+    "id": "hydro",
+    "symbol": "hydro",
+    "name": "Hydro",
+    "platforms": {
+        "ethereum": "0x946112efab61c3636cbd52de2e1392d7a75a6f01",
+        "binance-smart-chain": "0xf3dbb49999b25c9d6641a9423c7ad84168d00071"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hydro enables new and existing private systems to seamlessly integrate and leverage the immutable & transparent dynamics of a public blockchain to enhance application and document security, identity management, transactions, and artificial intelligence.\r\n\r\nHydro enables developers to seamlessly deploy blockchain in their existing applications, without the need to create expensive infrastructure. If you are building a fintech app in investing, savings, or insurance, Hydrogen is already leveraging the Hydro blockchain technology. Through the Hydrogen API, you can build a blockchain application without being a blockchain developer.\r\n\r\nThe proposed technology is called \u201cRaindrop\u201d - a transaction performed through a smart contract that validates private system access publicly, and can complement existing private authentication methods. The technology is intended to provide additional security for sensitive financial data that is increasingly at risk from hacking and breaches. Initial implementation of the Hydro Raindrop is performed on the Hydrogen API Platform. This modular set of APIs is available to enterprises and developers globally to prototype, build, test, and deploy sophisticated financial technology platforms and products.\r\n\r\nThe Hydro Raindrop will be made available to the world developer community as open source software, to allow developers to integrate the Hydro Raindrop with any REST API.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x946112efab61c3636cbd52de2e1392d7a75a6f01",
+    "url": "https://www.projecthydro.org",
+    "explorers": [
+        "https://etherscan.io/token/0x946112efab61c3636cbd52de2e1392d7a75a6f01",
+        "https://ethplorer.io/address/0x946112efab61c3636cbd52de2e1392d7a75a6f01",
+        "https://bscscan.com/token/0xf3DBB49999B25c9D6641a9423C7ad84168D00071"
+    ],
+    "twitter": "HydroBlockchain",
+    "facebook": "projecthydroblockchain/?ti=as",
+    "telegram": "projecthydro",
+    "reddit": "ProjectHydro/",
+    "github_org": "HydroBlockchain"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "love-earth-coin",
+    "symbol": "lec",
+    "name": "Love Earth Coin",
+    "platforms": {
+        "ethereum": "0xfa30e62eedcf80d47d42947fbcc034beed5c09fe"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Love Earth Coin is a charity token aiming to introduce the crypto technology in charity practices, building a new charity model in the age of Web 3.0."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfa30e62eedcf80d47d42947fbcc034beed5c09fe",
+    "url": "https://www.loveearth.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xfa30e62eedcf80d47d42947fbcc034beed5c09fe",
+        "https://ethplorer.io/address/0xfa30e62eedcf80d47d42947fbcc034beed5c09fe"
+    ],
+    "twitter": "loveearthcoin",
+    "telegram": "loveearthcoin",
+    "github_org": "loveearth123"
+}

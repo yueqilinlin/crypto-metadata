@@ -1,0 +1,20 @@
+{
+    "id": "usd-gambit",
+    "symbol": "usdg",
+    "name": "USD Gambit",
+    "platforms": {
+        "binance-smart-chain": "0x85e76cbf4893c1fbcb34dcf1239a91ce2a4cf5a7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x85e76cbf4893c1fbcb34dcf1239a91ce2a4cf5a7",
+    "url": "https://gambit.financial/",
+    "explorers": [
+        "https://bscscan.com/token/0x85E76cbf4893c1fbcB34dCF1239A91CE2A4CF5a7"
+    ]
+}

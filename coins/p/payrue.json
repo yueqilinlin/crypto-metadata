@@ -1,0 +1,25 @@
+{
+    "id": "payrue",
+    "symbol": "propel",
+    "name": "Propel",
+    "platforms": {
+        "binance-smart-chain": "0x9b44df3318972be845d83f961735609137c4c23c",
+        "polygon-pos": "0xe0ce60af0850bf54072635e66e79df17082a1109"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PayRue is a financial platform that operates exchanges, wallets, and transfers with cryptocurrencies. \r\n\r\nPROPEL is the native token of PayRue and an asset on the Binance Smart Chain. PROPEL is used for rewards, commission, liquidity mining, and staking in PayRue platforms and applications.\r\n\r\nPROPEL is a Governance Token, allow holders of PROPEL to vote, create proposals on future strategies, directions, partnerships, and usage of PROPEL. Future governance rights of PROPEL holders may be entitled to a share of the revenue stream generated through the PayRue applications.\r\n\r\nThere are 3 main business areas of PayRue \r\n\r\nPayRue Wallet, centralized and decentralized wallet support for BTC, ETH, and BSC assets. The purpose of the wallet is to allow users to easily transfer and pay with cryptocurrencies whilst also have access to other dapps and DeFi solutions.\r\n\r\nPayRue DEX, a decentralized exchange on Binance Smart Chain, the exchange is a hybrid with a central order book and decentralized wallet access. The exchange allows for limit and market orders, and charges no gas fee when using the exchange this is included in transaction fees. Holding PROPEL allows users to receive a discount on Market Orders whilst all Limit Orders are commission-free.\r\n\r\nPayRue Chat is a chat service that supports text messages, voice and video calls. The PayRue Chat service allows users to enter and engage in Public Authorised Chat rooms where content providers have gained rights to create public information. Private group chats are available and limited to a certain number of users. PROPEL is to be used as a way of reward and rights allowing holders of PROPEL to use it to pay or be granted services, access, and rights. \r\n\r\nPayRue was founded in London, the UK in 2018. \r\n\r\n\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9b44df3318972be845d83f961735609137c4c23c",
+    "url": "https://payrue.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x9b44df3318972be845d83f961735609137c4c23c"
+    ],
+    "twitter": "pay_rue",
+    "facebook": "payrue",
+    "telegram": "payrue_global",
+    "github_org": "payrue"
+}

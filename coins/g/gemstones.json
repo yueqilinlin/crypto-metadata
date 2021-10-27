@@ -1,0 +1,25 @@
+{
+    "id": "gemstones",
+    "symbol": "gms",
+    "name": "Gemstones",
+    "platforms": {
+        "polygon-pos": "0x0d962a1a2a27b402e4d84772dea65ac8592eb6bf"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": "Gemstones Finance is revolutionizing the yield farming experience by optimizing our platform for sustainability, capital efficiency and most of all safety. Imagine if you could deposit your money into a bank and they would not only share 90% of their earning on it with you, but also give you a receipt that you could earn even more money with. Using composability with Sushiswap\u2019s Kashi lending protocol this is one of the many innovative features Polygon\u2019s newest gem has to offer. \r\n\r\nWith an in-depth road map that includes hosting their own DEX, profit sharing, staking based emission multipliers, auto-compounding vaults, building apps on top of Bentobox/Kashi and cross-chain expansion; Gemstones Finance is going to shine.\r\n\r\nSome of the features include an on-chain 3 level referral system where users earn 1% of their rewards + lottery winnings. A timelock contract viewer on the homepage so users can see real-time changes to contracts which will be in a Masterchef controlled Timelock."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x0d962a1a2a27b402e4d84772dea65ac8592eb6bf",
+    "url": "https://gemstones.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x0d962a1a2a27b402e4d84772dea65ac8592eb6bf"
+    ],
+    "twitter": "GemstonesDefi",
+    "telegram": "gemstones_finance",
+    "github_org": "gemstones-finance"
+}

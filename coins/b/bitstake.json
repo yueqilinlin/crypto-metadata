@@ -1,0 +1,19 @@
+{
+    "id": "bitstake",
+    "symbol": "xbs",
+    "name": "BitStake",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [],
+    "description": {
+        "en": "Bitstake offers interest on digital currency deposited on the platform where users earn interest based on staking algorithm. Bitstake also has a lending marketplace which facilitates peer-to-peer lending using digital currency as leverage where users Invest and Borrow Quick Loans. Bitstake also offers SMS wallets that enable consumers to have access to their account using their mobile phones without requiring the Internet. "
+    },
+    "country_origin": "",
+    "genesis_date": "2015-01-11",
+    "url": "https://bitstake.info/",
+    "explorers": [
+        "https://chainz.cryptoid.info/xbs/"
+    ],
+    "twitter": "BitStake",
+    "github_org": "Bitstake"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "riverboat",
+    "symbol": "rib",
+    "name": "RiverBoat",
+    "platforms": {
+        "moonriver": "0xbd90a6125a84e5c512129d622a75cdde176ade5e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbd90a6125a84e5c512129d622a75cdde176ade5e",
+    "url": "https://seascape.finance/#/swap",
+    "explorers": [
+        "https://blockscout.moonriver.moonbeam.network/tokens/0xbD90A6125a84E5C512129D622a75CDDE176aDE5E/token-transfers"
+    ],
+    "twitter": "seascapenetwork",
+    "telegram": "seascapenetwork"
+}

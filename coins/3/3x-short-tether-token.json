@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-tether-token",
+    "symbol": "usdtbear",
+    "name": "3X Short Tether Token",
+    "platforms": {
+        "ethereum": "0x0cd6c8161f1638485a1a2f5bf1a0127e45913c2f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short Tether Token (USDTBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of Tether."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0cd6c8161f1638485a1a2f5bf1a0127e45913c2f",
+    "url": "https://ftx.com/tokens/USDTBEAR",
+    "explorers": [
+        "https://etherscan.io/token/0x0cd6c8161f1638485a1a2f5bf1a0127e45913c2f",
+        "https://ethplorer.io/address/0x0cd6c8161f1638485a1a2f5bf1a0127e45913c2f"
+    ]
+}

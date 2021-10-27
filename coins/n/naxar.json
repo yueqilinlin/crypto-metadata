@@ -1,0 +1,24 @@
+{
+    "id": "naxar",
+    "symbol": "naxar",
+    "name": "Naxar",
+    "platforms": {
+        "solana": "Fp4gjLpTsPqBN6xDGpDHwtnuEofjyiZKxxZxzvJnjxV6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "SPL token on the fastest blockchain, Solana.\r\nThe token is the core in the ecosystem of a series of mobile applications, projects."
+    },
+    "country_origin": "RU",
+    "genesis_date": null,
+    "contract_address": "Fp4gjLpTsPqBN6xDGpDHwtnuEofjyiZKxxZxzvJnjxV6",
+    "url": "https://naxar.ru/",
+    "explorers": [
+        "https://solscan.io/token/Fp4gjLpTsPqBN6xDGpDHwtnuEofjyiZKxxZxzvJnjxV6"
+    ],
+    "twitter": "_Naxar",
+    "telegram": "naxar_official"
+}

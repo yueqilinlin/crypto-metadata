@@ -1,0 +1,24 @@
+{
+    "id": "teslasafe",
+    "symbol": "teslasafe",
+    "name": "Teslasafe",
+    "platforms": {
+        "binance-smart-chain": "0x3504de9e61fdff2fc70f5cc8a6d1ee493434c1aa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Teslasafe is a frictionless auto LP deflationary reflection token.  For every transaction a 14% network fee is charged and 50% gets divided up and sent to all holders and 50% gets turned into liquidity."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x3504de9e61fdff2fc70f5cc8a6d1ee493434c1aa",
+    "url": "https://www.teslasafe.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0x3504de9e61fdff2fc70f5cc8a6d1ee493434c1aa"
+    ],
+    "twitter": "fuzionchain",
+    "telegram": "fuzionchain",
+    "reddit": "TeslaSafe/",
+    "github_org": "tesla-safe"
+}

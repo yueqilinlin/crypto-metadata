@@ -1,0 +1,23 @@
+{
+    "id": "nifty-league",
+    "symbol": "nftl",
+    "name": "Nifty League",
+    "platforms": {
+        "ethereum": "0x3c8d2fce49906e11e71cb16fa0ffeb2b16c29638"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Nifty League is an NFT gaming platform built with nostalgic retro games in mind. Our first play-2-earn game \"Nifty Smashers\" is out now bringing degens across mainnet together to brawl it out! NFTL is our governance and utility token used for voting on DAO proposals and for ecosystem wide expenses such as renaming characters."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3c8d2fce49906e11e71cb16fa0ffeb2b16c29638",
+    "url": "https://nifty-league.com",
+    "explorers": [
+        "https://etherscan.io/token/0x3c8d2fce49906e11e71cb16fa0ffeb2b16c29638",
+        "https://ethplorer.io/address/0x3c8d2fce49906e11e71cb16fa0ffeb2b16c29638"
+    ],
+    "twitter": "NiftyLeague",
+    "github_org": "NiftyLeague"
+}

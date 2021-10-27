@@ -1,0 +1,26 @@
+{
+    "id": "mangochain",
+    "symbol": "mgp",
+    "name": "MangoChain",
+    "platforms": {
+        "ethereum": "0x8a845fc339ceb022a695281554890429a34df120"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The mission of MANGO Chain (hereinafter referred to as MGP) is to construct a cross-chain financial ecology with equal responsibilities, information security and underlying stability, and to create a global open node network that serves all people. MGP uses block chain technology and digital identity to digitize assets, and uses smart contracts to self-manage digital assets to achieve \"smart economy\" through distributed networks."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8a845fc339ceb022a695281554890429a34df120",
+    "url": "https://mangochain.io/",
+    "explorers": [
+        "https://explorer.mgpchain.io/",
+        "https://etherscan.io/token/0x8a845Fc339CeB022A695281554890429a34DF120",
+        "https://ethplorer.io/address/0x8a845fc339ceb022a695281554890429a34df120"
+    ],
+    "twitter": "mango_chain",
+    "facebook": "mangochain",
+    "telegram": "mgpchain",
+    "github_org": "mgpchain2020"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "jubi-token",
+    "symbol": "jt",
+    "name": "Jubi Token",
+    "platforms": {
+        "ethereum": "0xeb7355c2f217b3485a591332fe13c8c5a76a581d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xeb7355c2f217b3485a591332fe13c8c5a76a581d",
+    "url": "https://www.jbex.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xEb7355C2f217b3485a591332Fe13C8c5A76A581D",
+        "https://ethplorer.io/address/0xeb7355c2f217b3485a591332fe13c8c5a76a581d"
+    ],
+    "twitter": "JBEXCOM",
+    "telegram": "JUBIEX"
+}

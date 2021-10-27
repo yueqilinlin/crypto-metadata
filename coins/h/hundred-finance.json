@@ -1,0 +1,24 @@
+{
+    "id": "hundred-finance",
+    "symbol": "hnd",
+    "name": "Hundred Finance",
+    "platforms": {
+        "ethereum": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
+        "arbitrum-one": "0x10010078a54396f62c96df8532dc2b4847d47ed3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
+    "url": "https://hundred.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x10010078a54396f62c96df8532dc2b4847d47ed3",
+        "https://ethplorer.io/address/0x10010078a54396f62c96df8532dc2b4847d47ed3"
+    ],
+    "twitter": "HundredFinance",
+    "github_org": "hundred-finance"
+}

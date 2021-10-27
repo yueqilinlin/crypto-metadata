@@ -1,0 +1,29 @@
+{
+    "id": "avalanche-2",
+    "symbol": "AVAX",
+    "name": "Avalanche",
+    "platforms": {
+        "avalanche": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+        "moonriver": "0x14a0243c333a5b238143068dc3a7323ba4c30ecb"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Avalanche Ecosystem",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "What is Avalanche?\r\n\r\nAvalanche is an open-source platform for launching decentralized finance applications and\r\nenterprise blockchain deployments in one interoperable, highly scalable ecosystem. Developers\r\nwho build on Avalanche can easily create powerful, reliable, and secure applications and\r\ncustom blockchain networks with complex rulesets or build on existing private or public subnets.\r\n\r\nAvalanche is the first smart contracts platform that can confirm transactions in under one\r\nsecond, supports the entirety of the Ethereum development toolkit, and enables millions of\r\nindependent validators to participate as full block producers (Avalanche had over 1,000 full,\r\nblock-producing nodes on its Denali testnet).\r\n\r\nIn addition to supporting transaction finality under one second, Avalanche is capable of\r\nthroughput orders of magnitude greater than existing decentralized blockchain networks (4,500+\r\ntransactions/second) and security thresholds well-above the 51% standards of other networks.\r\n\r\nWhat is the Avalanche (AVAX) Token?\r\n\r\nAVAX is the native token of Avalanche. It is a hard-capped, scarce asset that is used to pay for\r\nfees, secure the platform through staking, and provide a basic unit of account between the\r\nmultiple subnets created on Avalanche.\r\n\r\nWhere can you buy the Avalanche Token (AVAX)?\r\n\r\nAVAX is supported across leading exchanges and expanded trading pairs across each venue.\r\nLearn more about active markets with the Avalanche market-pairs page."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+    "url": "https://www.avax.network/",
+    "explorers": [
+        "https://avascan.info/",
+        "https://explorer.avax.network/"
+    ],
+    "twitter": "avalancheavax",
+    "telegram": "avalancheavax",
+    "reddit": "Avax",
+    "github_org": "ava-labs"
+}

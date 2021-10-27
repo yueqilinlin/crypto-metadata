@@ -1,0 +1,22 @@
+{
+    "id": "mvp-coin",
+    "symbol": "mvp",
+    "name": "MVP Coin",
+    "platforms": {
+        "binance-smart-chain": "0x3379a0bdf5a5cb566127c421782686ba0f80490a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MVP COIN (MVP) is a utility token that is used to access tourism and travel related services within the ecosystem of M Vision Public Company Limited. It aims to provide a decentralized platform to boost the tourism industry of Thailand through the digitization of its assets with blockchain and Smart Contract technology. \r\n\r\nAmid the COVID-19 pandemic , Multitechnology Expert Co., Ltd has realized and prioritized the importance of company liquidity. E-voucher strategy integrated with blockchain and smart contract technology is a promising and interesting solution for the company to keep the business intact. For this reason, MVP Coin has been issued with specified date of use."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3379a0bdf5a5cb566127c421782686ba0f80490a",
+    "url": "https://mvp-coin.com",
+    "explorers": [
+        "https://bscscan.com/token/0x3379a0bdf5a5cb566127c421782686ba0f80490a"
+    ],
+    "twitter": "mvpcoin",
+    "telegram": "mvpcoinen"
+}

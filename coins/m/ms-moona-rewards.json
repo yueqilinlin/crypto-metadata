@@ -1,0 +1,24 @@
+{
+    "id": "ms-moona-rewards",
+    "symbol": "moona",
+    "name": "Ms Moona Rewards",
+    "platforms": {
+        "binance-smart-chain": "0x96bfd54ff440a7bf529af6c50cee3ba9abc0a372"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Adjustable ratio rewards for any smart contract on Binance Smart Chain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x96bfd54ff440a7bf529af6c50cee3ba9abc0a372",
+    "url": "https://moona.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x96bFd54FF440A7BF529aF6C50Cee3ba9abC0A372"
+    ],
+    "twitter": "MoonaRewards",
+    "telegram": "moona_rewards",
+    "reddit": "MsMoonaRewards/",
+    "github_org": "MoonaMarco"
+}

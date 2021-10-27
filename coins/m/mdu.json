@@ -1,0 +1,19 @@
+{
+    "id": "mdu",
+    "symbol": "mdu",
+    "name": "MDUKEY",
+    "platforms": {},
+    "hashing_algorithm": "Keccak",
+    "categories": [],
+    "description": {
+        "en": "MduKey is a self-sovereign private data system that transforms privacy, security, transparency and personal rights into digital identities through blockchain technology, and the corresponding keys are stored in digital wallets."
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "url": "https://mdukey.org/",
+    "explorers": [
+        "https://scan.mdukey.org"
+    ],
+    "twitter": "mdukey_official",
+    "github_org": "mdukey"
+}

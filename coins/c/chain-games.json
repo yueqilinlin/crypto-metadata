@@ -1,0 +1,33 @@
+{
+    "id": "chain-games",
+    "symbol": "chain",
+    "name": "Chain Games",
+    "platforms": {
+        "ethereum": "0xc4c2614e694cf534d407ee49f8e44d125e4681c4",
+        "binance-smart-chain": "0x35de111558f691f77f791fb0c08b2d6b931a9d47",
+        "polygon-pos": "0xd55fce7cdab84d84f2ef3f99816d765a2a94a509",
+        "harmony-shard-0": "0x84ec08c887dd8c14d389abe56e609379b7c5262e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Entertainment",
+        "Gaming"
+    ],
+    "description": {
+        "en": "The CHAIN token is the primary medium of exchange used for all entry fees and contest payouts on the Chain Games network."
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0xc4c2614e694cf534d407ee49f8e44d125e4681c4",
+    "url": "https://chaingames.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
+        "https://ethplorer.io/address/0xc4c2614e694cf534d407ee49f8e44d125e4681c4",
+        "https://polygonscan.com/token/0xd55fce7cdab84d84f2ef3f99816d765a2a94a509"
+    ],
+    "twitter": "realchaingames",
+    "facebook": "realchaingames",
+    "telegram": "chaingames",
+    "github_org": "Chain-Games"
+}

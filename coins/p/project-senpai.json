@@ -1,0 +1,26 @@
+{
+    "id": "project-senpai",
+    "symbol": "senpai",
+    "name": "Project Senpai",
+    "platforms": {
+        "ethereum": "0x5a705745373a780814c379ef17810630d529efe0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Collectibles",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Project Senpai is a unique collection of rare NFT Waifus that are Cryptocurrency themed."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5a705745373a780814c379ef17810630d529efe0",
+    "url": "https://projectsenp.ai/",
+    "explorers": [
+        "https://etherscan.io/token/0x5a705745373a780814c379Ef17810630D529EFE0",
+        "https://ethplorer.io/address/0x5a705745373a780814c379Ef17810630D529EFE0"
+    ],
+    "twitter": "projectsenpai3",
+    "telegram": "projectsenpai"
+}

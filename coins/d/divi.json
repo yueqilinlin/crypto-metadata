@@ -1,0 +1,25 @@
+{
+    "id": "divi",
+    "symbol": "divi",
+    "name": "Divi",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "Divi is a project with the goal of making popular cryptocurrencies easy to use for the public mass. Divi\u2019s \"Smart Wallet\" and blockchain make transactions speedier, affordable, easier, safe to use, and less prone to user errors. Under the hood Divi is powered by a masternode network, and they developed \"MOCCI\" which is a one-click installer allowing anyone with little technical knowledge to easily participate in the network as a masternode. Thereby securing the network further and in return masternode participants earn crypto as incentive."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-11-14",
+    "url": "https://www.diviproject.org/",
+    "explorers": [
+        "https://chainz.cryptoid.info/divi/",
+        "https://diviscan.io/"
+    ],
+    "twitter": "diviproject",
+    "facebook": "diviproject",
+    "telegram": "diviproject",
+    "reddit": "diviproject",
+    "github_org": "Divicoin"
+}

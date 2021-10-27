@@ -1,0 +1,24 @@
+{
+    "id": "feisty-doge-nft",
+    "symbol": "nfd",
+    "name": "Feisty Doge NFT",
+    "platforms": {
+        "ethereum": "0xdfdb7f72c1f195c5951a234e8db9806eb0635346"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Fractionalized NFT",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "Feisty Doge NFT is a fractionalized piece from the original Doge NFT auction on Zora using Fractionalized.art"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdfdb7f72c1f195c5951a234e8db9806eb0635346",
+    "url": "https://fractional.art/vaults/0xDFDb7f72c1F195C5951a234e8DB9806EB0635346",
+    "explorers": [
+        "https://etherscan.io/token/0xDFDb7f72c1F195C5951a234e8DB9806EB0635346",
+        "https://ethplorer.io/address/0xdfdb7f72c1f195c5951a234e8db9806eb0635346"
+    ]
+}

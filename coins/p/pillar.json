@@ -1,0 +1,35 @@
+{
+    "id": "pillar",
+    "symbol": "plr",
+    "name": "Pillar",
+    "platforms": {
+        "ethereum": "0xe3818504c1b32bf1557b16c238b2e01fd3149c17",
+        "binance-smart-chain": "0x790cfdc6ab2e0ee45a433aac5434f183be1f6a20",
+        "polygon-pos": "0xa6b37fc85d870711c56fbcb8afe2f8db049ae774"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "xDAI Ecosystem",
+        "Business Platform",
+        "Software",
+        "Governance"
+    ],
+    "description": {
+        "en": "Pillar V2 is a community-run smart wallet supporting Ethereum and EVM-compatible chains - Polygon, xDai & Binance Smart Chain - in a unified multichain experience. Powered by Etherspot and governed by the DAO through its own native token - PLR. Pillar aims to become a one stop DeFi experience."
+    },
+    "country_origin": "GB",
+    "genesis_date": "2017-07-14",
+    "contract_address": "0xe3818504c1b32bf1557b16c238b2e01fd3149c17",
+    "url": "https://pillar.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0xe3818504c1b32bf1557b16c238b2e01fd3149c17",
+        "https://ethplorer.io/address/0xe3818504c1b32bf1557b16c238b2e01fd3149c17",
+        "https://bscscan.com/token/0x790cfdc6ab2e0ee45a433aac5434f183be1f6a20"
+    ],
+    "twitter": "PillarWallet",
+    "facebook": "pillarproject",
+    "telegram": "pillarofficial",
+    "reddit": "PillarProject/",
+    "github_org": "pillarwallet"
+}

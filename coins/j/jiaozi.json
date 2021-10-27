@@ -1,0 +1,26 @@
+{
+    "id": "jiaozi",
+    "symbol": "jiaozi",
+    "name": "Jiaozi",
+    "platforms": {
+        "ethereum": "0x94939d55000b31b7808904a80aa7bab05ef59ed6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Yield Farming"
+    ],
+    "description": {
+        "en": "JIAOZI is forked from YUNO and KIMCHI, we have removed the mint function that was added by YUNO. "
+    },
+    "country_origin": "CN",
+    "genesis_date": null,
+    "contract_address": "0x94939d55000b31b7808904a80aa7bab05ef59ed6",
+    "url": "https://jiaozi.farm/",
+    "explorers": [
+        "https://etherscan.io/token/0x94939D55000B31B7808904a80aA7Bab05eF59Ed6",
+        "https://ethplorer.io/address/0x94939d55000b31b7808904a80aa7bab05ef59ed6"
+    ],
+    "twitter": "JiaoziFarm",
+    "telegram": "JiaoziFarm",
+    "github_org": "JiaoziFarm"
+}

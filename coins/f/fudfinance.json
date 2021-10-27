@@ -1,0 +1,25 @@
+{
+    "id": "fudfinance",
+    "symbol": "fud",
+    "name": "FUD.finance",
+    "platforms": {
+        "ethereum": "0x2688213fedd489762a281a67ae4f2295d8e17ecc"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "A meme coin NFT platform that wants to monetize your rugs and scam coins.  We want to end waste in the cryptoverse by promoting memes that fud and expose poor, risky and unhealthy projects - and we also want to provide a way to recycle the worthless coins that people have in their wallets into something fun and memorable - like an NFT."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0x2688213fedd489762a281a67ae4f2295d8e17ecc",
+    "url": "https://fud.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x2688213fEDd489762a281a67Ae4F2295D8E17ECc",
+        "https://ethplorer.io/address/0x2688213fedd489762a281a67ae4f2295d8e17ecc"
+    ],
+    "twitter": "dontrugme",
+    "telegram": "makefud"
+}

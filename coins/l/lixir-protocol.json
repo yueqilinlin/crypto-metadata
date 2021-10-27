@@ -1,0 +1,24 @@
+{
+    "id": "lixir-protocol",
+    "symbol": "lix",
+    "name": "Lixir Finance",
+    "platforms": {
+        "ethereum": "0xd0345d30fd918d7682398acbcdf139c808998709"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The first automated liquidity concentrator"
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0xd0345d30fd918d7682398acbcdf139c808998709",
+    "url": "https://lixir.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xd0345d30fd918d7682398acbcdf139c808998709",
+        "https://ethplorer.io/address/0xd0345d30fd918d7682398acbcdf139c808998709"
+    ],
+    "twitter": "lixirfinance",
+    "telegram": "lixirfinance",
+    "github_org": "LIXIR-FINANCE"
+}

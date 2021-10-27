@@ -1,0 +1,23 @@
+{
+    "id": "don-key",
+    "symbol": "don",
+    "name": "Don-key",
+    "platforms": {
+        "ethereum": "0x217ddead61a42369a266f1fb754eb5d3ebadc88a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Social trading meets yield farming,\r\nFind your favorite farmers, follow their strategies, and boost your yield."
+    },
+    "country_origin": "IL",
+    "genesis_date": null,
+    "contract_address": "0x217ddead61a42369a266f1fb754eb5d3ebadc88a",
+    "url": "https://www.don-key.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x217ddead61a42369a266f1fb754eb5d3ebadc88a",
+        "https://ethplorer.io/address/0x217ddead61a42369a266f1fb754eb5d3ebadc88a"
+    ],
+    "twitter": "Don_key_finance",
+    "telegram": "don_key_finance"
+}

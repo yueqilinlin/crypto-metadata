@@ -1,0 +1,25 @@
+{
+    "id": "earlybsc",
+    "symbol": "ebsc",
+    "name": "EarlyBSC",
+    "platforms": {
+        "binance-smart-chain": "0x01a78db633940579e15e7bdb8edfee8ecdea4522"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "Lithium is empowering innovation across Web 3.0 through our investor centric suite of applications. From the cross-chain Launchpad, the Incubator, and our range of innovative Funds we are connecting investors to pioneering early stage opportunities."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x01a78db633940579e15e7bdb8edfee8ecdea4522",
+    "url": "https://lithium.ventures",
+    "explorers": [
+        "https://bscscan.com/token/0x01a78db633940579e15e7bdb8edfee8ecdea4522"
+    ],
+    "twitter": "LithiumVentures",
+    "telegram": "lithiumventures",
+    "reddit": "LithiumVentures/"
+}

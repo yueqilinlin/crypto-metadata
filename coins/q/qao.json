@@ -1,0 +1,25 @@
+{
+    "id": "qao",
+    "symbol": "&#127760;",
+    "name": "QAO",
+    "platforms": {
+        "ethereum": "0x3402e15b3ea0f1aec2679c4be4c6d051cef93953"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "QAO: QualiFied. Autonomous. Organization. is a decentralized governance protocol for smart assets. \r\n\r\nQAO is a purpose-built solution for community-management of Rarechain. \r\nQAO is used to stake and vote in order to\r\nreceive fees generated from Rarechain's API including also Rareswap and Rarepool. It\u2019s main function is to vote for the system's parameters and management decisions."
+    },
+    "country_origin": "BB",
+    "genesis_date": null,
+    "contract_address": "0x3402e15b3ea0f1aec2679c4be4c6d051cef93953",
+    "url": "https://qao.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3402e15b3ea0f1aec2679c4be4c6d051cef93953",
+        "https://ethplorer.io/address/0x3402e15b3ea0f1aec2679c4be4c6d051cef93953"
+    ],
+    "twitter": "QAOdotio",
+    "telegram": "QAOdotio",
+    "reddit": "QAO/",
+    "github_org": "rarechain"
+}

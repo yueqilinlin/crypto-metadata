@@ -1,0 +1,22 @@
+{
+    "id": "dmz-token",
+    "symbol": "dmz",
+    "name": "DMZ Token",
+    "platforms": {
+        "zilliqa": "zil19lr3vlpm4lufu2q94mmjvdkvmx8wdwajuntzx2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DeMons is a decentralised collectible NFT universe spawned from the Zilliqa blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "zil19lr3vlpm4lufu2q94mmjvdkvmx8wdwajuntzx2",
+    "url": "https://demons.world/",
+    "explorers": [
+        "https://viewblock.io/zilliqa/address/zil19lr3vlpm4lufu2q94mmjvdkvmx8wdwajuntzx2"
+    ],
+    "twitter": "de_monsters",
+    "telegram": "de_monsters"
+}

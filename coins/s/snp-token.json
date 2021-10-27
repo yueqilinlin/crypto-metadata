@@ -1,0 +1,23 @@
+{
+    "id": "snp-token",
+    "symbol": "snp",
+    "name": "SNP Token",
+    "platforms": {
+        "ethereum": "0x795dbf627484f8248d3d6c09c309825c1563e873"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SNP is the ecological governance token of the SeeleN platform and its project Nerv Ledger. SeeleN introduces the concept of DAO community governance and realizes dual-token ecology through governance token and functional token to solve various problems caused by too many levels and unclear rights and interests of all parties in the traditional governance process, forming an \"industrial autonomous ecology\" on the platform. The project uses healthcare, finance and trade as the main application scenarios, and is committed to promoting the vigorous development of industrial asset value. The ecological governance token SNP came into being under this background to ensure that SeeleN users can effectively exercise the two major rights and interests of voting and income, including platform governance related rights and interests such as super node selection, income distribution, project selection and parameter setting."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x795dbf627484f8248d3d6c09c309825c1563e873",
+    "url": "https://seelen.pro/snp/index.html",
+    "explorers": [
+        "https://etherscan.io/token/0x795dbf627484f8248d3d6c09c309825c1563e873",
+        "https://ethplorer.io/address/0x795dbf627484f8248d3d6c09c309825c1563e873"
+    ],
+    "twitter": "NevrLedger",
+    "telegram": "nervledger2020"
+}

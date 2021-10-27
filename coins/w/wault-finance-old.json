@@ -1,0 +1,27 @@
+{
+    "id": "wault-finance-old",
+    "symbol": "wault",
+    "name": "Wault Finance (OLD)",
+    "platforms": {
+        "binance-smart-chain": "0x6ff2d9e5891a7a7c554b80e0d1b791483c78bce9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Wault Finance is dedicated to making an effective and user-friendly yield generators and lending aggregators. "
+    },
+    "country_origin": "BG",
+    "genesis_date": null,
+    "contract_address": "0x6ff2d9e5891a7a7c554b80e0d1b791483c78bce9",
+    "url": "https://wault.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x6ff2d9e5891a7a7c554b80e0d1b791483c78bce9"
+    ],
+    "twitter": "Wault_Finance",
+    "telegram": "WaultFinance",
+    "github_org": "WaultFinance"
+}

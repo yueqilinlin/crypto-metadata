@@ -1,0 +1,30 @@
+{
+    "id": "cofix",
+    "symbol": "cofi",
+    "name": "CoFiX",
+    "platforms": {
+        "ethereum": "0x1a23a6bfbadb59fa563008c0fb7cf96dfcf34ea1"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)",
+        "Automated Market Maker (AMM)",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1a23a6bfbadb59fa563008c0fb7cf96dfcf34ea1",
+    "url": "https://cofix.tech/",
+    "explorers": [
+        "https://etherscan.io/token/0x1a23a6BfBAdB59fa563008c0fB7cf96dfCF34Ea1",
+        "https://ethplorer.io/address/0x1a23a6bfbadb59fa563008c0fb7cf96dfcf34ea1"
+    ],
+    "twitter": "cofixprotocol",
+    "telegram": "CoFiXProtocol",
+    "github_org": "Computable-Finance"
+}

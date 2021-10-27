@@ -1,0 +1,28 @@
+{
+    "id": "seele",
+    "symbol": "seele",
+    "name": "Seele",
+    "platforms": {
+        "ethereum": "0xb1e93236ab6073fdac58ada5564897177d4bcc43"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "Seele is empowered by an up-scalable Neural Consensus protocol for high throughput concurrency among large scale heterogeneous nodes and is able to form unique heterogeneous forest multi-chain ecosystem."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xb1e93236ab6073fdac58ada5564897177d4bcc43",
+    "url": "http://seelen.pro/",
+    "explorers": [
+        "https://etherscan.io/token/0xb1e93236ab6073fdac58ada5564897177d4bcc43",
+        "https://ethplorer.io/address/0xb1e93236ab6073fdac58ada5564897177d4bcc43",
+        "https://seeleview.net/#/"
+    ],
+    "twitter": "n_seele",
+    "facebook": "seeletech",
+    "telegram": "seelenseelen2020",
+    "github_org": "seeleteam"
+}

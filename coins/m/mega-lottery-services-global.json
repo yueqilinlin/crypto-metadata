@@ -1,0 +1,24 @@
+{
+    "id": "mega-lottery-services-global",
+    "symbol": "mlr",
+    "name": "Mega Lottery Services Global",
+    "platforms": {
+        "tomochain": "0x5080781e91237b6d7f026d5306b7233e26cd6c16"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5080781e91237b6d7f026d5306b7233e26cd6c16",
+    "url": "https://megaltr.com/",
+    "explorers": [
+        "https://scan.tomochain.com/tokens/0x5080781e91237b6d7f026d5306b7233e26cd6c16"
+    ],
+    "twitter": "MegaLTR",
+    "facebook": "MegaLTR",
+    "telegram": "Mega_Lottery",
+    "github_org": "tomochain"
+}

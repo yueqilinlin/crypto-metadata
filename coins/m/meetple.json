@@ -1,0 +1,23 @@
+{
+    "id": "meetple",
+    "symbol": "mpt",
+    "name": "Meetple",
+    "platforms": {
+        "ethereum": "0x47481c1b44f2a1c0135c45aa402ce4f4dde4d30e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x47481c1b44f2a1c0135c45aa402ce4f4dde4d30e",
+    "url": "https://meetple.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x47481c1b44F2A1c0135c45AA402CE4F4dDE4D30e",
+        "https://ethplorer.io/address/0x47481c1b44F2A1c0135c45AA402CE4F4dDE4D30e"
+    ],
+    "twitter": "WebRtc_MeetPle",
+    "github_org": "titanvpnproject"
+}

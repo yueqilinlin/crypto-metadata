@@ -1,0 +1,24 @@
+{
+    "id": "baby-jeju",
+    "symbol": "bbjeju",
+    "name": "Baby Jeju",
+    "platforms": {
+        "binance-smart-chain": "0x9f70d4b4a1dd183dae5239d85ec570339ebd9492"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We are the first project that will allow you to choose which dividends you want.\r\n\r\nThe way this works is simple but elegant. On every transaction there is a tax , that tax coverts to a pool which then rewards the holders in the selected dividends. \r\n\r\nThis means instead of receiving tokens in reflections you will be able to receive from a selection of multiple dividend pools."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x9f70d4b4a1dd183dae5239d85ec570339ebd9492",
+    "url": "https://www.babyjeju.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x9f70d4b4a1dd183dae5239d85ec570339ebd9492"
+    ],
+    "twitter": "BabyJejuBSC",
+    "telegram": "babyjejubsc",
+    "reddit": "babyjejubsc/",
+    "github_org": "BabyJeju"
+}

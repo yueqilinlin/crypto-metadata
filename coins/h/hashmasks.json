@@ -1,0 +1,26 @@
+{
+    "id": "hashmasks",
+    "symbol": "mask20",
+    "name": "Hashmasks",
+    "platforms": {
+        "ethereum": "0xc2bde1a2fa26890c8e6acb10c91cc6d9c11f4a73"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "MASK20 is a tokenized derivative of the HASHMASKS NFT Collection. It enables anyone to trade NFTs from the collection in a permissionless way with instant liquidity on https://nft20.io/ routed via UniSwap. Every 100 MASK20 tokens represent an underlying  NFT, minted upon deposit into the pool on https://nft20.io/ and burned upon withdrawal from the pool."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc2bde1a2fa26890c8e6acb10c91cc6d9c11f4a73",
+    "url": "https://nft20.io/asset/0xc2bde1a2fa26890c8e6acb10c91cc6d9c11f4a73",
+    "explorers": [
+        "https://etherscan.io/token/0xc2bde1a2fa26890c8e6acb10c91cc6d9c11f4a73",
+        "https://ethplorer.io/address/0xc2bde1a2fa26890c8e6acb10c91cc6d9c11f4a73"
+    ],
+    "twitter": "NiftyMuseum",
+    "telegram": "nft20",
+    "github_org": "verynifty"
+}

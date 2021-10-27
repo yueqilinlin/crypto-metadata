@@ -1,0 +1,23 @@
+{
+    "id": "super-algorithmic-token",
+    "symbol": "sato",
+    "name": "Super Algorithmic Token",
+    "platforms": {
+        "binance-smart-chain": "0xf6e6892325a74383a70570f1ebea9a476483a611"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "A brand new cross-chain oracle system, the world\u2019s first algorithmic stablecoin that supports rebase of multiple smart chains."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf6e6892325a74383a70570f1ebea9a476483a611",
+    "url": "https://sato.trade/",
+    "explorers": [
+        "https://bscscan.com/token/0xf6e6892325a74383a70570f1ebea9a476483a611"
+    ],
+    "twitter": "SatoToken"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "dragonbite",
+    "symbol": "bite",
+    "name": "DragonBite",
+    "platforms": {
+        "ethereum": "0x4eed0fa8de12d5a86517f214c2f11586ba2ed88d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DragonBite is a truly open decentralised Asset Management platform for customers to store and swap all kinds of digital assets in One App with One password!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4eed0fa8de12d5a86517f214c2f11586ba2ed88d",
+    "url": "https://www.dragonbite.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4eed0fa8de12d5a86517f214c2f11586ba2ed88d",
+        "https://ethplorer.io/address/0x4eed0fa8de12d5a86517f214c2f11586ba2ed88d"
+    ],
+    "twitter": "dragonbitedb",
+    "telegram": "DragonBite",
+    "github_org": "dragonbite-dev"
+}

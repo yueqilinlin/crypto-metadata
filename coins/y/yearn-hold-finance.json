@@ -1,0 +1,23 @@
+{
+    "id": "yearn-hold-finance",
+    "symbol": "yhfi",
+    "name": "Yearn Hold Finance",
+    "platforms": {
+        "ethereum": "0x5a143f78bb66294ff37c47b5164584475b932bab"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x5a143f78bb66294ff37c47b5164584475b932bab",
+    "url": "https://yhold.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x5a143f78bb66294ff37c47b5164584475b932bab",
+        "https://ethplorer.io/address/0x5a143f78bb66294ff37c47b5164584475b932bab"
+    ],
+    "twitter": "YholdF",
+    "telegram": "YHOLDFI"
+}

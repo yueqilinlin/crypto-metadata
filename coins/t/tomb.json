@@ -1,0 +1,25 @@
+{
+    "id": "tomb",
+    "symbol": "tomb",
+    "name": "Tomb",
+    "platforms": {
+        "fantom": "0x6c021ae822bea943b2e66552bde1d2696a53fbb7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Fantom Ecosystem"
+    ],
+    "description": {
+        "en": "Tomb is the first seigniorage algorithmic token on Fantom Opera Network, bringing a new model that follow the price of a defined asset (FTM in this case). \r\nSetting a protocol that will push the price up or down to stay close to the peg target.\r\nTomb token is a foundation that the ecosystem by tomb.finance is going to be build around."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0x6c021ae822bea943b2e66552bde1d2696a53fbb7",
+    "url": "https://tomb.finance",
+    "explorers": [
+        "https://ftmscan.com/token/0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7"
+    ],
+    "twitter": "tombfinance",
+    "telegram": "tombfinance"
+}

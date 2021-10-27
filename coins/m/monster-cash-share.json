@@ -1,0 +1,26 @@
+{
+    "id": "monster-cash-share",
+    "symbol": "mss",
+    "name": "Monster Slayer Share",
+    "platforms": {
+        "binance-smart-chain": "0xacabd3f9b8f76ffd2724604185fa5afa5df25ac6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Seigniorage",
+        "Binance Smart Chain Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "MonsterSlayerFinance is an algorithmic synthetics platform: infinite-scalable, long-term sustainable, and decentralized. \r\nOur approach to stabilization \u2013 implementing best practice of seigniorage combined with a special stabilization fund to limit the effect of post-farming dumping.\r\nMonster Slayer Cash tokens are designed to be used as a medium of exchange. The built-in stability mechanism in the protocol deterministically expands and contracts the MSC supply to maintain MSC's peg to 1 $BUSD token (which trades close to a single United States Dollar). \r\n During epoch expansions (when TWAP - the time-weighted average price of MSC is above the 1 $BUSD peg), the protocol mints MSC and distributes it proportionally to all Monster Slayer Share (MSS) holders who have staked their tokens inside the boardroom. When MSC's TWAP falls below 1 $BUSD peg, Monster Slayer Bond (MSB) gets issued and can be bought with MSC at its prevailing price."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xacabd3f9b8f76ffd2724604185fa5afa5df25ac6",
+    "url": "https://www.monsterslayer.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xacabd3f9b8f76ffd2724604185fa5afa5df25ac6"
+    ],
+    "telegram": "monsterslayer_community",
+    "github_org": "monsterslayerfinance"
+}

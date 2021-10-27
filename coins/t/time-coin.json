@@ -1,0 +1,22 @@
+{
+    "id": "time-coin",
+    "symbol": "timec",
+    "name": "TIMEcoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "TIMEC The currency designed for fast and cheap inter-exchange transactions. No more waiting for 10s of minutes or even hours for your transactions to come through!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://timec.io/",
+    "explorers": [
+        "https://altexplorer.co/coin/timec",
+        "https://altmix.org/coins/75-TIMECoin"
+    ],
+    "twitter": "Timecoin1",
+    "github_org": "time-coin"
+}

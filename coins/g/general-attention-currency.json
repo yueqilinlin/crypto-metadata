@@ -1,0 +1,23 @@
+{
+    "id": "general-attention-currency",
+    "symbol": "xac",
+    "name": "General Attention Currency",
+    "platforms": {
+        "ethereum": "0xde4c5a791913838027a2185709e98c5c6027ea63"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The 2016 economic report \u201cOn the Value of Virtual Currencies\u201d commissioned by the Bank of Canada, found three contributing components dictating a cryptocurrency\u2019s exchange rate:\r\n\r\nThe actual use of virtual currency to execute real payments.\r\nThe decision of forward-looking investors to buy virtual currency (thereby effectively regulating its supply).\r\nThe elements that jointly drive future consumer adoption and merchant acceptance of virtual currency.\r\nXAC Attention Addresses\r\nAttention Addresses are linked to AMARK consumer data and have specific rules enforced by the XAC protocol. There are two key functions of attention addresses:\r\n\r\nXAC-LOCK\r\nXAC-Lock is a feature that encourages continued consumer engagement with AMARK. The XAC sent to Attention Addresses is initially locked and becomes available after a maturation period. The XAC attention awards paid to consumers continually matures into availability as new XAC is earned from ongoing attention marketing. This process encourages engagement with AMARK as attention wallets will rarely have a zero XAC balance, giving consumers a consistent flow of value to spend within the ecosystem.\r\n\r\nXAC-BURN\r\nXAC-Burn is enforced at the protocol level. All transfers to Attention Addresses require 5% of the XAC transferred to be burned. The XAC -Burn feature is designed to align interests between merchants and consumers in the AMARK ecosystem. Anytime merchants use the AMARK platform for marketing, they are supporting the value of the XAC currency as protocol rules enforces a 5% burn. As such, merchants are effectively scaling the supply of XAC to match the demand from the ecosystem. This supply-side scaling mechanism will offset new coins introduced through block rewards and pressure the price of XAC to an equilibrium reflective of demand from the ecosystem."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xde4c5a791913838027a2185709e98c5c6027ea63",
+    "url": "https://amark.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xde4c5a791913838027a2185709e98c5c6027ea63",
+        "https://ethplorer.io/address/0xde4c5a791913838027a2185709e98c5c6027ea63"
+    ],
+    "twitter": "amark_io",
+    "reddit": "amark/"
+}

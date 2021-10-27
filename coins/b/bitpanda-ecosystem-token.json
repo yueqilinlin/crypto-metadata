@@ -1,0 +1,29 @@
+{
+    "id": "bitpanda-ecosystem-token",
+    "symbol": "best",
+    "name": "Bitpanda Ecosystem Token",
+    "platforms": {
+        "ethereum": "0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Cryptocurrency",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "AT",
+    "genesis_date": null,
+    "contract_address": "0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f",
+    "url": "https://www.bitpanda.com/best",
+    "explorers": [
+        "https://etherscan.io/token/0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f",
+        "https://ethplorer.io/address/0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f"
+    ],
+    "twitter": "bitpanda",
+    "facebook": "BITPANDA",
+    "telegram": "bitpanda_en",
+    "reddit": "bitpanda"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "yflink-synthetic",
+    "symbol": "syfl",
+    "name": "YFLink Synthetic",
+    "platforms": {
+        "ethereum": "0x8282df223ac402d04b2097d16f758af4f70e7db0"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Defi-backed governance token helping $LINK marines coordinate to achieve collective objectives"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8282df223ac402d04b2097d16f758af4f70e7db0",
+    "url": "https://yflink.io/#/",
+    "explorers": [
+        "https://etherscan.io/token/0x8282df223AC402d04B2097d16f758Af4F70e7Db0",
+        "https://ethplorer.io/address/0x8282df223ac402d04b2097d16f758af4f70e7db0"
+    ],
+    "twitter": "YFLinkio",
+    "telegram": "YFLinkGroup"
+}

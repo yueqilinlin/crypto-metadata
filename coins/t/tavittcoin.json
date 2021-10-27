@@ -1,0 +1,25 @@
+{
+    "id": "tavittcoin",
+    "symbol": "tavitt",
+    "name": "Tavittcoin",
+    "platforms": {
+        "ethereum": "0xdd690d8824c00c84d64606ffb12640e932c1af56"
+    },
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Tourism"
+    ],
+    "description": {
+        "en": "TAVITT provides a travel destination recommendation service through a cross-database search platform.  \r\n\r\nOur core philosophy is,the belief that we ought to enjoy life through travel and the desire to provide life-changing travel experiences."
+    },
+    "country_origin": "TH",
+    "genesis_date": null,
+    "contract_address": "0xdd690d8824c00c84d64606ffb12640e932c1af56",
+    "url": "http://tavitt.co.jp/en/",
+    "explorers": [
+        "https://etherscan.io/token/0xdd690d8824c00c84d64606ffb12640e932c1af56",
+        "https://ethplorer.io/address/0xdd690d8824c00c84d64606ffb12640e932c1af56"
+    ],
+    "twitter": "tavitt_ICO",
+    "github_org": "Tavitt"
+}

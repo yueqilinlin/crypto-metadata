@@ -1,0 +1,22 @@
+{
+    "id": "earnable",
+    "symbol": "earn",
+    "name": "Earnable",
+    "platforms": {
+        "binance-smart-chain": "0x11ba78277d800502c84c5aed1374ff0a91f19f7e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Earnable is the token to empower your future. While holding Earnable you generate BNB through other members transactions. Transaction tax is split between holders based on token allocation and claimed through BscScan or the Earnable website."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x11ba78277d800502c84c5aed1374ff0a91f19f7e",
+    "url": "https://earnable.one/",
+    "explorers": [
+        "https://bscscan.com/token/0x11ba78277d800502C84c5AeD1374Ff0A91f19f7E"
+    ],
+    "twitter": "EarnableToken",
+    "telegram": "earnable_bsc"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "grape-2",
+    "symbol": "grape",
+    "name": "Grape Protocol",
+    "platforms": {
+        "solana": "8upjSpvjcdpuzhfR1zriwg5NXkwDruejqNE9WNbPRtyA"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "Decentralized Social Networking\r\n\r\nCreate, Reward & Secure any online community by harnessing the power of Solana"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "8upjSpvjcdpuzhfR1zriwg5NXkwDruejqNE9WNbPRtyA",
+    "url": "https://grapes.network/",
+    "explorers": [
+        "https://solscan.io/token/8upjSpvjcdpuzhfR1zriwg5NXkwDruejqNE9WNbPRtyA"
+    ],
+    "twitter": "grapeprotocol"
+}

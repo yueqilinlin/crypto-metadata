@@ -1,0 +1,22 @@
+{
+    "id": "zilsurvey",
+    "symbol": "srv",
+    "name": "zilSurvey",
+    "platforms": {
+        "zilliqa": "zil168qdlq4xsua6ac9hugzntqyasf8gs7aund882v"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "zilSurvey is partially run on the Zilliqa blockchain and has it's own ZRC-2 token. This token an either be obtained via completing surveys on zilSurvey, or directly swapped via the SRV - ZIL liquidity pool on zilswap.io.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "zil168qdlq4xsua6ac9hugzntqyasf8gs7aund882v",
+    "url": "https://zilsurvey.com",
+    "explorers": [
+        "https://viewblock.io/zilliqa/address/zil168qdlq4xsua6ac9hugzntqyasf8gs7aund882v"
+    ],
+    "twitter": "zilsurvey",
+    "telegram": "zilSurveyChat"
+}

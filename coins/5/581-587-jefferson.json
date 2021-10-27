@@ -1,0 +1,27 @@
+{
+    "id": "581-587-jefferson",
+    "symbol": "realtoken-s-581-587-jefferson-ave-rochester-ny",
+    "name": "RealT Token - 581-587 Jefferson Ave, Rochester, NY 14611",
+    "platforms": {
+        "ethereum": "0xa29ae272bc89e5f315b2793925f700045f845d82",
+        "xdai": "0xa29ae272bc89e5f315b2793925f700045f845d82"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "RealT Tokens"
+    ],
+    "description": {
+        "en": "RealT is a platform that offers simplified investments in real estate. Our mission is to democratize access to real estate investment opportunities, curated by a team of real estate professionals.\r\nOwnership of these real estate properties is denominated by digital tokens on the Ethereum blockchain. Ownership in most real estate properties is determined by paper deeds. RealT replaces paper deeds with digital tokens; a new mechanism for asset ownership, based on the Ethereum blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa29ae272bc89e5f315b2793925f700045f845d82",
+    "url": "https://realt.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xA29ae272bC89e5f315B2793925f700045F845d82",
+        "https://ethplorer.io/address/0xa29ae272bc89e5f315b2793925f700045f845d82"
+    ],
+    "twitter": "RealTPlatform",
+    "telegram": "RealT_Platform",
+    "github_org": "RealT-Community"
+}

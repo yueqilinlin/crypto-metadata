@@ -1,0 +1,24 @@
+{
+    "id": "khipu-token",
+    "symbol": "kip",
+    "name": "Khipu Token",
+    "platforms": {
+        "ethereum": "0x64e65d352f6a2949463b3a7595911b61bbafc63e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x64e65d352f6a2949463b3a7595911b61bbafc63e",
+    "url": "http://khipu.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x64E65D352f6A2949463B3a7595911B61BBaFc63E",
+        "https://ethplorer.io/address/0x64e65d352f6a2949463b3a7595911b61bbafc63e"
+    ],
+    "twitter": "Khipu5",
+    "telegram": "khipu_Officialcommunity",
+    "github_org": "dcaoyuan"
+}

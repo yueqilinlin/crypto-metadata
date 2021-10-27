@@ -1,0 +1,24 @@
+{
+    "id": "wmatic",
+    "symbol": "wmatic",
+    "name": "Wrapped Matic",
+    "platforms": {
+        "polygon-pos": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "iotex": "0x8e66c0d6b70c0b23d39f4b21a1eac52bba8ed89a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Wrapped-Tokens",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": "Wrapped Matic on Polygon (PoS) chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "url": "https://matic.network/",
+    "explorers": [
+        "https://polygonscan.com/token/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+    ]
+}

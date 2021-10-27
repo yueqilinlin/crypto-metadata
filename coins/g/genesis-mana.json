@@ -1,0 +1,22 @@
+{
+    "id": "genesis-mana",
+    "symbol": "mana",
+    "name": "Genesis Mana",
+    "platforms": {
+        "ethereum": "0x2d77f5b3efa51821ad6483adaf38ea4cb1824cc5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Genesis Project is a community of builders, designers, mathematicians and storytellers on a mission to discover the origin story of the Loot universe."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2d77f5b3efa51821ad6483adaf38ea4cb1824cc5",
+    "url": "https://genesisproject.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0x2d77f5b3efa51821ad6483adaf38ea4cb1824cc5",
+        "https://ethplorer.io/address/0x2d77f5b3efa51821ad6483adaf38ea4cb1824cc5"
+    ],
+    "twitter": "GenesisLoot"
+}

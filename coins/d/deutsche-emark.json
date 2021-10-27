@@ -1,0 +1,23 @@
+{
+    "id": "deutsche-emark",
+    "symbol": "dem",
+    "name": "Deutsche eMark",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "DE",
+    "genesis_date": "2013-10-11",
+    "url": "https://deutsche-emark.org/",
+    "explorers": [
+        "http://blockexplorer.deutsche-emark.org/"
+    ],
+    "twitter": "Deutsche_eMark",
+    "facebook": "deutscheemark",
+    "telegram": "DEMeMark",
+    "github_org": "emarkproject"
+}

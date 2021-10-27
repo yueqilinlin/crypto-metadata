@@ -1,0 +1,24 @@
+{
+    "id": "wenlambo",
+    "symbol": "wenlambo",
+    "name": "Wenlambo",
+    "platforms": {
+        "binance-smart-chain": "0xd8a31016cd7da048ca21ffe04256c6d08c3a2251"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd8a31016cd7da048ca21ffe04256c6d08c3a2251",
+    "url": "https://www.wenlambo.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xd8a31016cd7da048ca21ffe04256c6d08c3a2251"
+    ],
+    "twitter": "WenLamboDeFi",
+    "telegram": "WenLambo1",
+    "reddit": "https://www.reddit.com",
+    "github_org": "Wenlambo"
+}

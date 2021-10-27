@@ -1,0 +1,25 @@
+{
+    "id": "jointer",
+    "symbol": "jntr",
+    "name": "Jointer",
+    "platforms": {
+        "binance-smart-chain": "0x5f2caa99fc378248ac02cbbaac27e3fa155ed2c4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Jointer created a fund of funds syndication economy utilizing the blockchain while providing uncorrelated returns, diversification, and unlimited liquidity"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x5f2caa99fc378248ac02cbbaac27e3fa155ed2c4",
+    "url": "https://jointer.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x5f2caa99fc378248ac02cbbaac27e3fa155ed2c4"
+    ],
+    "twitter": "DeFiAuctions",
+    "facebook": "DeFiAuctions",
+    "telegram": "jointer_io",
+    "reddit": "Jointer/",
+    "github_org": "jointerinc"
+}

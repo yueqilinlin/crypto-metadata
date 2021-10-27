@@ -1,0 +1,21 @@
+{
+    "id": "trade-win",
+    "symbol": "twi",
+    "name": "Trade.win",
+    "platforms": {
+        "ethereum": "0xdad26bce7dcf59cd03a2455558e4dd73e1c07b66"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xdad26bce7dcf59cd03a2455558e4dd73e1c07b66",
+    "url": "https://trade.win/login/",
+    "explorers": [
+        "https://etherscan.io/token/0xdad26bce7dcf59cd03a2455558e4dd73e1c07b66",
+        "https://ethplorer.io/address/0xdad26bce7dcf59cd03a2455558e4dd73e1c07b66"
+    ]
+}

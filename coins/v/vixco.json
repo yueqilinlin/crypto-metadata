@@ -1,0 +1,22 @@
+{
+    "id": "vixco",
+    "symbol": "vix",
+    "name": "Vixco",
+    "platforms": {
+        "ethereum": "0x49bf0220c9ce17e52dcca3d217231746d676085b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "VIXCO offers integrated blockchain-based DeFi services with conventional offline POS system and automated AI on the platform.\r\n\r\nImplementation of POS machines and decentralized wallets allows a linear and functional relation between affiliates and consumers for more fundamental consistency on the actual sales and settlement data based on the transparency of the blockchain protocol.\r\n\r\nThe team aims to lead both the on-offline payment market through VIXCO Platform by providing gateway for consumers and affiliates to access financial services in a more secure and fast environment with payments, loans, staking, investment, while still supporting the safest and fastest transactions speed and fees."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x49bf0220c9ce17e52dcca3d217231746d676085b",
+    "url": "http://vixco.net/",
+    "explorers": [
+        "https://etherscan.io/token/0x49bf0220c9ce17e52dcca3d217231746d676085b",
+        "https://ethplorer.io/address/0x49bf0220c9ce17e52dcca3d217231746d676085b"
+    ],
+    "telegram": "koreavixco"
+}

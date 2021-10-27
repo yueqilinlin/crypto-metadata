@@ -1,0 +1,22 @@
+{
+    "id": "onelink",
+    "symbol": "onelink",
+    "name": "oneLINK",
+    "platforms": {
+        "ethereum": "0x18cc17a1eed37c02a77b0b96b7890c7730e2a2cf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "oneLINK is a stablecoin for the Chainlink community. You must buy LINK to mint oneLINK. You can use oneLINK to buy or sell goods and services, pay expenses and taxes, or to create USD exposure in DeFi (decentralized finance) applications.\r\n\r\noneLINK provides the hard peg of USDC/USDT without sacrificing decentralization nor giving up on driving LINK scarcity.\r\n\r\noneLINK keeps its value at $1, is purely on-chain, and accrues a LINK treasury.\r\n\r\nTypically, when you want to make a trade and get out of LINK to \u2018get stable\u2019, you need to trade LINK into a stablecoin. Now you\u2019re in an either/or scenario. Whether USDT, USDC, DAI, these other stablecoins capture value for themselves and do not drive the value of your LINK hodlings. Remember, you just sold it to get stable.\r\n\r\nEnter ICHI. With ICHI, you mint oneLINK with LINK.  In the process, you grow a LINK treasury that YOU govern and control."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x18cc17a1eed37c02a77b0b96b7890c7730e2a2cf",
+    "url": "https://www.ichi.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x18Cc17a1EeD37C02A77B0B96b7890C7730E2a2CF",
+        "https://ethplorer.io/address/0x18Cc17a1EeD37C02A77B0B96b7890C7730E2a2CF"
+    ],
+    "github_org": "ichifarm"
+}

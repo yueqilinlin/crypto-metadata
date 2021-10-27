@@ -1,0 +1,24 @@
+{
+    "id": "happy-birthday-coin",
+    "symbol": "hbdc",
+    "name": "Happy Birthday Coin",
+    "platforms": {
+        "ethereum": "0x39d30828a163713d91c4eadbba2c497a9139ec5c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Happy-birthday-coin is the digital password currency used by everyone to celebrate each other's birthdays. On the happy birthday platform, users can communicate with friends all over the world, send celebration messages to friends who are about to have a birthday, and send out happy birthday coins as a gift. The currency received as a birthday gift can be used in franchise stores in various countries. You can get the currency accepted as a gift through the happy-birthday-coin platform."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x39d30828a163713d91c4eadbba2c497a9139ec5c",
+    "url": "http://www.happycoinholdings.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x39d30828a163713d91c4eadbba2c497a9139ec5c",
+        "https://ethplorer.io/address/0x39d30828a163713d91c4eadbba2c497a9139ec5c"
+    ],
+    "facebook": "happybirthdaycoin",
+    "telegram": "happycoinholdings",
+    "reddit": "HappyBirthDayCoin"
+}

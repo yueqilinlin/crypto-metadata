@@ -1,0 +1,25 @@
+{
+    "id": "dollar-online",
+    "symbol": "dollar",
+    "name": "Dollar INTERNATIONAL",
+    "platforms": {
+        "stellar": "LAR-GCBAQPS2KAF2CHAAAWZSO6XWKMEMU6Q2MCJ47AOKJOMFTY5BSZ3D5GRK"
+    },
+    "hashing_algorithm": "X11",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "\"DOLLAR is the first and only crypto currency oriented on periodical DONATIONS\r\n\r\nHelping the world is our goal for this century. We have made DOLLAR with a target to support and donate major worldwide charities and donations for over 100 years.\r\n\r\nWe are aware of great responsibility and are awating responses to cooperate with advisors from all around the world.We have to build transparent donation system.\r\n\r\nTo prevent volatility all donations will start after we reach 5+ million users (hopefully during few months) and the mothly donation budget will be at most 30 million DOLLAR from a total supply of 77 billion DOLLAR. That means maximum of 0.0389% per month will be spent for the Good.\""
+    },
+    "country_origin": "",
+    "genesis_date": "2016-11-16",
+    "contract_address": "LAR-GCBAQPS2KAF2CHAAAWZSO6XWKMEMU6Q2MCJ47AOKJOMFTY5BSZ3D5GRK",
+    "url": "https://www.dollar.international",
+    "explorers": [
+        "https://stellar.expert/explorer/public/asset/DOLLAR-GCBAQPS2KAF2CHAAAWZSO6XWKMEMU6Q2MCJ47AOKJOMFTY5BSZ3D5GRK"
+    ],
+    "twitter": "dollarint",
+    "facebook": "dollarint",
+    "telegram": "https://www.t.me/dollarint"
+}

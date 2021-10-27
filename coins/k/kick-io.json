@@ -1,0 +1,22 @@
+{
+    "id": "kick-io",
+    "symbol": "kick",
+    "name": "KICK.IO",
+    "platforms": {
+        "cardano": "49fe136eb6a7f438fec3a2b1fedbc29ce2723c5248530b3b1f5fbde74b49434b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A First-rate Decentralized Fundraising Launchpad, Built on the Cardano Network.\r\n\r\nKick.io is a Cardano-based fundraising platform and a project accelerator, designed to leverage DeFi innovations to provide transparent, efficient, and fully decentralized crowdfunding services. Unlike our competitors, we offer full support of Cardano native tokens and a suite of advanced DeFi tools that upcoming projects need to thrive and prosper. Everything we do is governed by a philosophy of decentralization \u2014 funds raised are distributed directly to projects, tokens purchased are sent directly to the personal wallets of users without burdensome checks or unnecessary delay. We also take financial sustainability and inclusion seriously, working diligently to ensure that our efforts benefit all stakeholders, helping to evolve the reputation and maturity of the DeFi industry."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "49fe136eb6a7f438fec3a2b1fedbc29ce2723c5248530b3b1f5fbde74b49434b",
+    "url": "https://kick.io/",
+    "explorers": [
+        "https://cardanoscan.io/token/49fe136eb6a7f438fec3a2b1fedbc29ce2723c5248530b3b1f5fbde74b49434b"
+    ],
+    "twitter": "kicklaunchpad",
+    "telegram": "kickioglobal"
+}

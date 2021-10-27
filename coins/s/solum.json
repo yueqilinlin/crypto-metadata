@@ -1,0 +1,24 @@
+{
+    "id": "solum",
+    "symbol": "solum",
+    "name": "Solum",
+    "platforms": {
+        "solana": "9XtRZwKzDXEJ61A7qCqbPz8jXMYHGT3LwxqrEzB6fqxv"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "Solum is Solana-based DeFi. Cheap and easy, Farming/Staking is only a few clicks behind. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "9XtRZwKzDXEJ61A7qCqbPz8jXMYHGT3LwxqrEzB6fqxv",
+    "url": "https://solum.finance/",
+    "explorers": [
+        "https://solscan.io/token/9XtRZwKzDXEJ61A7qCqbPz8jXMYHGT3LwxqrEzB6fqxv"
+    ],
+    "twitter": "SolumDeFi",
+    "telegram": "solumfin"
+}

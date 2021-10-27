@@ -1,0 +1,25 @@
+{
+    "id": "rbase-finance",
+    "symbol": "rbase",
+    "name": "rbase.finance",
+    "platforms": {
+        "ethereum": "0xe8b251822d003a2b2466ee0e38391c2db2048739"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe8b251822d003a2b2466ee0e38391c2db2048739",
+    "url": "https://www.rbase.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xe8b251822d003a2b2466ee0e38391c2db2048739",
+        "https://ethplorer.io/address/0xe8b251822d003a2b2466ee0e38391c2db2048739"
+    ],
+    "twitter": "DefiProphets",
+    "telegram": "rbasebydefiprophets"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "herodoge",
+    "symbol": "herodoge",
+    "name": "HeroDoge",
+    "platforms": {
+        "binance-smart-chain": "0x5a8baec93d3d21e545d3e8a91d7dccdd0e8c4ddd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HeroDoge is a meme coin that aims to fight against the current bot invasion in the Binance Smart Chain and promote Information Technology Education, particularly in India. HeroDoge will be donating (at every $1 million market cap reached) to an Indian charity organization that focuses on IT Education!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5a8baec93d3d21e545d3e8a91d7dccdd0e8c4ddd",
+    "url": "https://herodoge.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x5a8baec93d3d21e545d3e8a91d7dccdd0e8c4ddd"
+    ],
+    "twitter": "HeroDogeToken",
+    "telegram": "HeroDogeToken"
+}

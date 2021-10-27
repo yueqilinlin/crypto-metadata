@@ -1,0 +1,22 @@
+{
+    "id": "greenpay-coin",
+    "symbol": "gpc",
+    "name": "GreenPay Coin",
+    "platforms": {},
+    "hashing_algorithm": "Xevan",
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "Digital payment Service."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "http://www.mygreenpay.org/",
+    "explorers": [
+        "http://149.28.229.20:3001/"
+    ],
+    "twitter": "GreenPayProject",
+    "facebook": "greenpay.coin",
+    "github_org": "greenpaycoin"
+}

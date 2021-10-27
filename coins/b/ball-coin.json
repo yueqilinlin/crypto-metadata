@@ -1,0 +1,19 @@
+{
+    "id": "ball-coin",
+    "symbol": "ball",
+    "name": "BALL Coin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [],
+    "description": {
+        "en": "BALLcoin \r\nSports betting using Crypto "
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "url": "http://www.ball-coin.com",
+    "explorers": [
+        "http://explorer.ball-coin.com"
+    ],
+    "twitter": "BALLCoin2",
+    "github_org": "BALLcoin"
+}

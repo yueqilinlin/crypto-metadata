@@ -1,0 +1,24 @@
+{
+    "id": "callisto",
+    "symbol": "clo",
+    "name": "Callisto Network",
+    "platforms": {},
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Blockchain as seen by Security Experts.\r\n\r\nSince its launch by the developers of Ethereum Commonwealth (Ethereum Classic), Callisto Network focused its attention on the weakness of the cryptocurrency space, namely the security.\r\n\r\nWe have dedicated ourselves to securing the smart contract environment. To date, we have audited no less than 350 smart contracts, making us the industry leader.\r\n\r\nWith this experience, we have established Callisto Enterprise, a branch company focusing on enterprise applications of blockchain technology. Several major public transport companies from central and eastern Europe have joined us in this initiative.\r\n\r\nFeatures:\r\n \u2022 First Cold Staking Coin.\r\n \u2022 Smart Contract Audits.\r\n \u2022 Smart Contract Migration.\r\n \u2022 BaaS - ( Callisto Enterprise ).\r\n \u2022 DeFi Solution ( Soy.Finance ).\r\n \u2022 Stablecoin ( BUSDT ).\r\n \u2022 Telegram Wallet ( CryptoBot )."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://callisto.network/",
+    "explorers": [
+        "https://explorer.callisto.network/"
+    ],
+    "twitter": "CallistoSupport",
+    "facebook": "callistonetwork",
+    "telegram": "CallistoNet",
+    "reddit": "CallistoCrypto/",
+    "github_org": "EthereumCommonwealth"
+}

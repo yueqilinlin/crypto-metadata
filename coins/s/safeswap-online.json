@@ -1,0 +1,23 @@
+{
+    "id": "safeswap-online",
+    "symbol": "swap",
+    "name": "SafeSwap Online",
+    "platforms": {
+        "binance-smart-chain": "0xe56a473043eaab7947c0a2408cea623074500ee3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SafeSwap Online\u2122 is a decentralized trading protocol that allows different types of cryptocurrencies to be swapped. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe56a473043eaab7947c0a2408cea623074500ee3",
+    "url": "https://www.safeswap.online/",
+    "explorers": [
+        "https://bscscan.com/token/0xe56a473043eaab7947c0a2408cea623074500ee3"
+    ],
+    "twitter": "safeswaponline",
+    "telegram": "safeswap_online",
+    "reddit": "safeswaponline/"
+}

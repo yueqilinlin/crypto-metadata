@@ -1,0 +1,24 @@
+{
+    "id": "hland-token",
+    "symbol": "hland",
+    "name": "HLand Token",
+    "platforms": {
+        "ethereum": "0xba7b2c094c1a4757f9534a37d296a3bed7f544dc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Hland protocol is a decentralized financial platform built on the Ethereum network to provide users with a SIMPLE & EASY profit maximizing solution AI - for Profit Maximization & Risk Minimization.\r\nAnd Hland lending protocol also provides extensive AI driven risk minimization measures. Our automatic data valuation engine first filters through all the relevant data, then provides only high-quality data into the risk minimization engine to adjust relevant parameters across Hland's lending protocol."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xba7b2c094c1a4757f9534a37d296a3bed7f544dc",
+    "url": "https://htw.land/",
+    "explorers": [
+        "https://etherscan.io/token/0xba7b2c094c1a4757f9534a37d296a3bed7f544dc",
+        "https://ethplorer.io/address/0xba7b2c094c1a4757f9534a37d296a3bed7f544dc"
+    ],
+    "twitter": "HLAND_swap",
+    "telegram": "hlandfinance",
+    "github_org": "HLAND-swap"
+}

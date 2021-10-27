@@ -1,0 +1,23 @@
+{
+    "id": "super-hero",
+    "symbol": "sh",
+    "name": "Super Hero",
+    "platforms": {
+        "huobi-token": "0x3dc2536480775d0ab5d1d010b853cd2166cf6e11"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Huobi Ecochain's first NFT card mining DeFi"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3dc2536480775d0ab5d1d010b853cd2166cf6e11",
+    "url": "https://www.nft-hero.com/",
+    "explorers": [
+        "https://hecoinfo.com/token/0x3dc2536480775d0ab5d1d010b853cd2166cf6e11"
+    ],
+    "twitter": "NftHero",
+    "telegram": "NftHero",
+    "github_org": "nfthero"
+}

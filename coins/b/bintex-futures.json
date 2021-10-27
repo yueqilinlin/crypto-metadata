@@ -1,0 +1,28 @@
+{
+    "id": "bintex-futures",
+    "symbol": "bntx",
+    "name": "Bintex Futures",
+    "platforms": {
+        "ethereum": "0x86d1d12523b65203851c571fcc029bf90903fb6d",
+        "tron": "TShRHNNhJCfi8th3uyUMzeASPXAuFaiLVE"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Decentralized Exchange Token (DEX)"
+    ],
+    "description": {
+        "en": "BINTEXFUTURES is a cryptocurrency exchange project comprised of BINTEXPAY and various other cryptocurrency. It conveys the best of a centralized exchange, specifically speed and convenience with all the security advantages of a decentralized exchange. The BNTX Token An ERC-20 Ethereum Token will be used as the base currency on the BINTEXFUTURES Exchange. All traders on the exchange must own BNTX to participate in our commission, non-custodial markets. Demand for BNTX from traders is an integral part of the revenue model that allows the exchange to operate sustainably with transaction fees on all trades. BINTEXPAY WALLET Every Exchange\u00a0user will have a private wallet to access their assets, this wallet will provide blockchain addresses for each asset Each user on our exchange will be provided with an individual address for each type of asset. QR code scanning, withdrawals, deposits. BINTEXPAY CHIP CARD BINTEXPAY debit/credit card will be able to be accepted at millions of locations worldwide. This Cryptocurrency Card will be linked to the users BINTEXPAY Wallet and enable them to spend their BNTX tokens with real-time conversion powered by the BINTEXFUTURES. BNTX E-Commerce With Chip cards in circulation, BINTEX will add an E-Commerce platform in the BINTEX Eco-system. Domestic shipping, Retail ECOM Stores with Only Crypto accepted and transactions will be processed through BINTEX Chip Cards."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x86d1d12523b65203851c571fcc029bf90903fb6d",
+    "url": "https://bintexfutures.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x86d1d12523B65203851c571FcC029bF90903fB6d",
+        "https://ethplorer.io/address/0x86d1d12523B65203851c571FcC029bF90903fB6d",
+        "https://tronscan.org/#/token20/TShRHNNhJCfi8th3uyUMzeASPXAuFaiLVE"
+    ],
+    "twitter": "Bintexfutures",
+    "facebook": "bintexfutures2019",
+    "telegram": "bintexfutures_chat"
+}

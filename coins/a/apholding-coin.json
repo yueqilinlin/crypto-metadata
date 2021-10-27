@@ -1,0 +1,20 @@
+{
+    "id": "apholding-coin",
+    "symbol": "aph",
+    "name": "APHolding Coin",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [],
+    "description": {
+        "en": "At the end of 2017, we started looking forward for cryptocrrency exchange solutions and masternode services. We were looking for simple and practical ways to buy and sell certain coins, masternode and staking coins. Unfortunaly, this was always only possible via numerous dertours to turn into euros or dollar. Often over several accounts and several verifications. We found this very cumbersome and sometimes also very tedious. To change this, we decided to offer it ourselves: several services under one holding company. "
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "url": "https://apholding.org/",
+    "explorers": [
+        "http://explorer.apholding.org/"
+    ],
+    "twitter": "aphcoinofficial",
+    "telegram": "apholdingorg",
+    "github_org": "apholding"
+}

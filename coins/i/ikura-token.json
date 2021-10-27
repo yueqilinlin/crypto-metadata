@@ -1,0 +1,26 @@
+{
+    "id": "ikura-token",
+    "symbol": "ikura",
+    "name": "Ikura Token",
+    "platforms": {
+        "harmony-shard-0": "0x40d2f81bd135b5282cb2aa18f19cf7098079d012"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Harmony Ecosystem"
+    ],
+    "description": {
+        "en": "The first product of the Ikura ecosystem is our unified charting solution for the Harmony blockchain. We have just finished our initial beta which was promised to the community to be delivered on 15th August 2021. The beta is fully functional, and it is important to show the community that progress is being made as it is not an easy feat to pioneer innovation.\r\n\r\nOur aim is to have an ecosystem of products to support every chain that Ikura is on. We want to bring people on chain in an accessible and seamless way so in the future, we will provide a cross chain DEX, unified charting, NFT mechanisms and more! This is just the beginning of an exciting project."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x40d2f81bd135b5282cb2aa18f19cf7098079d012",
+    "url": "https://www.ikuratoken.com/",
+    "explorers": [
+        "https://explorer.harmony.one/address/0x40d2f81bd135b5282cb2aa18f19cf7098079d012"
+    ],
+    "twitter": "IkuraToken",
+    "telegram": "IkuraToken",
+    "reddit": "IkuraToken/",
+    "github_org": "IkuraToken"
+}

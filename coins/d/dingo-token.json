@@ -1,0 +1,23 @@
+{
+    "id": "dingo-token",
+    "symbol": "dingo",
+    "name": "Dingo Token",
+    "platforms": {
+        "binance-smart-chain": "0x397e6d4fd68a9e25e93fc712b8f72f826f48a8ff"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DingoToken allows users to easily deposit BEP-20 tokens (ANY tokens) into an NFT. A scarce NFT (e.g. Art, Collectible, Virtual Real Estate, etc.) can now be transformed into a basket holding a number of other tokens. DingoToken platform is a new protocol layer, enabling a new world of NFTs. For our public launch, we\u2019ll also be releasing the decentralized application (DApp) on top of the DingoToken Protocol, focused on Art/Collectible NFTs.\r\n\r\nOur DApp allows users to Mint / Create an NFT and then deposit the asset of their choice into this and create their own NFTs. In our v1 web application, we\u2019re only supporting NFTs that are created using the Dingo NFT Minting Station. We\u2019re doing this to ensure safety for users on the platform. Users can mint their own NFTs or choose to purchase others created by Dingo Token platform users. If you\u2019re interested in being one of the artists featured in the launch, please let us know in e-mail!"
+    },
+    "country_origin": "AT",
+    "genesis_date": null,
+    "contract_address": "0x397e6d4fd68a9e25e93fc712b8f72f826f48a8ff",
+    "url": "https://dingotoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x397e6d4fd68a9e25e93fc712b8f72f826f48a8ff"
+    ],
+    "twitter": "dingotoken",
+    "telegram": "dingotoken",
+    "github_org": "DingoToken"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "etherean-socks",
+    "symbol": "eth2socks",
+    "name": "Etherean Socks",
+    "platforms": {
+        "ethereum": "0xd80776bbf68cde466900a7214c772a7d179c420f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ETH2SOCKS token is a redeemable token that gives token holders a real pair of socks with a limited quantity of 500 socks. Owners can stake their limited edition NFT and mint ERC-20 tokens that can be used to unlock additional rare NFTs and tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd80776bbf68cde466900a7214c772a7d179c420f",
+    "url": "https://etherean.defisocks.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xd80776bbf68cde466900a7214c772a7d179c420f",
+        "https://ethplorer.io/address/0xd80776bbf68cde466900a7214c772a7d179c420f"
+    ],
+    "twitter": "defisocks",
+    "telegram": "defisocksofficial"
+}

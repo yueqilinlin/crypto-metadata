@@ -1,0 +1,24 @@
+{
+    "id": "ledgis",
+    "symbol": "led",
+    "name": "Ledgis",
+    "platforms": {
+        "ethereum": "0x041a36b015486941ce8d5f2c7ff2e88f97390640"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LEDGIS is a user-centered blockchain service which materializes Self Sovereign Identity(SSI) by preventing IT platforms from monopolizing user data. With its sophisticated token economy, users can receive rewards according to their contribution to the ecosystem and experience various DApp services at a high speed of 3,000 TPS. In addition, its DID(Decentralized IDentity) is recognized as a global standard, and an efficient private key management service along with decentralized data encryption storage/sharing system ensure individual data sovereignty and safe storage of sensitive user information. In recognition of above advantages, LEDGIS is providing its blockchain services to multiple agencies under Korean government.\r\n\r\nWhy LEDGIS\r\n\r\n1. Self-Sovereignty Identity(SSI) Service Platform\r\nProvides a key protocol economy in a self-sovereign manner that distributes and shift data power from corporations and governments into the hands of individual, preventing data monopoly and enables collaboration between platform operators.\r\n\r\n2. DID & Efficient private key management\r\nOur DID accredited as international standard by the W3C and IDH (Identity Data Hub), a decentralized data encryption storage/sharing solution and encryption system using a private key and a symmetric key extracted from the private key, guarantee and keep sensitive information safe.\r\n\r\n3. Large file protection & Fast transaction\r\nNot only prevents forgery of large files but also provides info protection. IPFS technology distributes and shares data in multiple pieces. And the fast transaction speed of 3,000 TPS certified by KOLAS enable efficient sharing of all types of files, including audio sources, videos, and documents.\r\n\r\n4. Coin economy that vitalizes the ecosystem\r\nBy adopting the DPoSS consensus algorithm, DApp operators that provide high-quality services based on voting results and service utilization become block generators, and coin holders can also receive payback, contribution rewards, and voting rewards depending on their ecosystem contribution."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x041a36b015486941ce8d5f2c7ff2e88f97390640",
+    "url": "https://www.ledgis.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x041a36b015486941ce8d5f2c7ff2e88f97390640",
+        "https://www.ledx.io/",
+        "https://ethplorer.io/address/0x041a36b015486941ce8d5f2c7ff2e88f97390640"
+    ],
+    "twitter": "LEDGIS_official",
+    "telegram": "ledgis_official_new"
+}

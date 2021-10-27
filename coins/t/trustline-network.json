@@ -1,0 +1,24 @@
+{
+    "id": "trustline-network",
+    "symbol": "tln",
+    "name": "Trustlines Network",
+    "platforms": {
+        "ethereum": "0x679131f591b4f369acb8cd8c51e68596806c3916"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x679131f591b4f369acb8cd8c51e68596806c3916",
+    "url": "https://trustlines.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x679131f591b4f369acb8cd8c51e68596806c3916",
+        "https://ethplorer.io/address/0x679131f591b4f369acb8cd8c51e68596806c3916"
+    ],
+    "twitter": "TrustlinesFound",
+    "telegram": "trustlines_network",
+    "github_org": "trustlines-protocol"
+}

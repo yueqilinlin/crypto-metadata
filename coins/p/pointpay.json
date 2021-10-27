@@ -1,0 +1,27 @@
+{
+    "id": "pointpay",
+    "symbol": "pxp",
+    "name": "PointPay",
+    "platforms": {
+        "ethereum": "0x95aa5d2dbd3c16ee3fdea82d5c6ec3e38ce3314f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "PointPay is an Estonia-regulated company with international team that has created all-in-one cryptocurrency ecosystem of 10 products. PointPay Crypto Exchange with custom design layout for traders and simplified cryptocurrency conversion option; PointPay Crypto Wallet designed for daily use by monitoring cryptocurrency price change in customer\u2019s portfolio. PointPay has released PointPay Payment System letting customers to settle the payments with their bank cards. Pointpay has also crypto accademy, their plan is to launch their own blockchain."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x95aa5d2dbd3c16ee3fdea82d5c6ec3e38ce3314f",
+    "url": "https://pointpay.io",
+    "explorers": [
+        "https://etherscan.io/token/0x95aa5d2dbd3c16ee3fdea82d5c6ec3e38ce3314f",
+        "https://ethplorer.io/address/0x95aa5d2dbd3c16ee3fdea82d5c6ec3e38ce3314f"
+    ],
+    "twitter": "PointPay1",
+    "facebook": "PointPayLtd",
+    "telegram": "pointpay_talks",
+    "github_org": "pointpay-technologies"
+}

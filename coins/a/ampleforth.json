@@ -1,0 +1,29 @@
+{
+    "id": "ampleforth",
+    "symbol": "ampl",
+    "name": "Ampleforth",
+    "platforms": {
+        "ethereum": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+        "harmony-shard-0": "0xf2f5bf00cd952f3f980a02f5dce278cbff4dae05"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Rebase Tokens",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Ampleforth is a digital-asset-protocol for smart commodity-money.\r\n\r\nThe smart commodity money with a unique elastic supply protocol. AMPL supply expands and contracts in response to it\u2019s price deviating from a 1 USD target. Deviations result in a supply change of AMPLs once every 24 hours, increasing or decreasing the number of tokens in each holder\u2019s wallet pro-rata. Ampleforth is the only asset in the world with this elastic supply property, and therefore has counter-cyclical trading pressure and is uncorrelated with other digital assets such as Bitcoin."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+    "url": "https://www.ampleforth.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+        "https://ethplorer.io/address/0xd46ba6d942050d489dbd938a2c909a5d5039a161"
+    ],
+    "twitter": "ampleforthorg",
+    "facebook": "ampleforthprotocol",
+    "telegram": "Ampleforth",
+    "github_org": "ampleforth"
+}

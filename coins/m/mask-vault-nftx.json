@@ -1,0 +1,24 @@
+{
+    "id": "mask-vault-nftx",
+    "symbol": "mask",
+    "name": "MASK Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0xc7a8b45e184138114e6085c82936a8db93dd156a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "MASK Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc7a8b45e184138114e6085c82936a8db93dd156a",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xC7a8B45E184138114E6085C82936A8Db93DD156a",
+        "https://ethplorer.io/address/0xc7a8b45e184138114e6085c82936a8db93dd156a"
+    ],
+    "twitter": "nftx_"
+}

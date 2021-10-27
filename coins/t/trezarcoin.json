@@ -1,0 +1,24 @@
+{
+    "id": "trezarcoin",
+    "symbol": "tzc",
+    "name": "TrezarCoin",
+    "platforms": {},
+    "hashing_algorithm": "Multiple Algorithms",
+    "categories": [],
+    "description": {
+        "en": "Trezarcoin (TZC) is a decentralised open source digital currency."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-09-03",
+    "url": "http://trezarcoin.com/",
+    "explorers": [
+        "https://chainz.cryptoid.info/tzc/",
+        "https://www.coinexplorer.net/TZC",
+        "http://tzc.explorerz.top:3004/"
+    ],
+    "twitter": "TrezarCoin",
+    "facebook": "TrezarCoin",
+    "telegram": "TrezarcoinOfficial",
+    "reddit": "TrezarCoin",
+    "github_org": "TrezarCoin"
+}

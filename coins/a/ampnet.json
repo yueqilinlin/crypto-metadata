@@ -1,0 +1,25 @@
+{
+    "id": "ampnet",
+    "symbol": "aapx",
+    "name": "AMPnet",
+    "platforms": {
+        "ethereum": "0xbfd815347d024f449886c171f78fa5b8e6790811"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbfd815347d024f449886c171f78fa5b8e6790811",
+    "url": "https://ampnet.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xbfd815347d024f449886c171f78fa5b8e6790811",
+        "https://ethplorer.io/address/0xbfd815347d024f449886c171f78fa5b8e6790811"
+    ],
+    "twitter": "ampnetio",
+    "telegram": "ampnetapx"
+}

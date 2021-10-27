@@ -1,0 +1,23 @@
+{
+    "id": "shell-token",
+    "symbol": "shell",
+    "name": "Shell Token",
+    "platforms": {
+        "binance-smart-chain": "0x01c16da6e041cf203959624ade1f39652973d0eb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Clam Island is a Gamified Yieldfarming and NFTs Platform with a 3D Island UI that guides the user with characters through the whole yieldfarming-investment process. It has a two-token ($SHELL and $GEM) and two-NFT (Clam and Pearl NFTs) ecosystem.\r\n\r\n$SHELL is the governance token of Clam Island. The only way in which its supply increases is by burning Clam NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x01c16da6e041cf203959624ade1f39652973d0eb",
+    "url": "https://clamisland.fi",
+    "explorers": [
+        "https://bscscan.com/token/0x01c16da6E041Cf203959624Ade1F39652973D0EB"
+    ],
+    "twitter": "clam_island",
+    "telegram": "clamisland",
+    "github_org": "ClamSwap-Squad"
+}

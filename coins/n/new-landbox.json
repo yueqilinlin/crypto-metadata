@@ -1,0 +1,24 @@
+{
+    "id": "new-landbox",
+    "symbol": "land",
+    "name": "LandBox",
+    "platforms": {
+        "ethereum": "0x0e2ef8aecb3c01ad5d596f1b67134e178199984d",
+        "binance-smart-chain": "0x557f20ce25b41640ade4a3085d42d7e626d7965a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Landbox is a blockchain real estate project established based upon professional experiences in the existing real estate development and education industries. By utilizing \"\"prop-tech\"\" - a tech solution combining blockchain with real estate development - business development can be expanded. The first service product offered is \"\"AuctionOK\"\", an online real estate auction service based on blockchain. This product is aiming to solve the various inconveniences of the existing offline-based real estate auction system. A patent application has been filed to provide an online, non-face-to-face real estate auction service using blockchain.\r\n\r\nOnline real estate auctions lower the entry barrier for customers to participate in online real estate auctions and thus contribute to the expansion of this field."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0e2ef8aecb3c01ad5d596f1b67134e178199984d",
+    "url": "https://landbox.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x0e2ef8AeCB3c01Ad5D596f1B67134e178199984D",
+        "https://ethplorer.io/address/0x0e2ef8AeCB3c01Ad5D596f1B67134e178199984D"
+    ],
+    "twitter": "Landbox_",
+    "telegram": "LandToken"
+}

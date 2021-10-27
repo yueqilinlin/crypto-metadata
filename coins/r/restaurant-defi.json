@@ -1,0 +1,23 @@
+{
+    "id": "restaurant-defi",
+    "symbol": "res",
+    "name": "Restaurant DeFi",
+    "platforms": {
+        "binance-smart-chain": "0x6826ddfd0fefb094f298a85c92fbbfccab0b3e8e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Restaurant DeFi is latest Generation Yield Farm on Binance Smart Chain with lots of unique and creative features.\r\nMain Features: Anti Bot, Anti Whale, Harvest Lockup, Automated Burning Mechanism, Automatic Liquidity, etc."
+    },
+    "country_origin": "TH",
+    "genesis_date": null,
+    "contract_address": "0x6826ddfd0fefb094f298a85c92fbbfccab0b3e8e",
+    "url": "https://restaurantdefi.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x6826DdFD0fefB094F298a85c92FbbfCcaB0B3e8E"
+    ],
+    "twitter": "RestaurantDeFi",
+    "telegram": "restaurantdefi",
+    "github_org": "restaurantdefi"
+}

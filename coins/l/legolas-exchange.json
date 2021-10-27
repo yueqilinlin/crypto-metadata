@@ -1,0 +1,29 @@
+{
+    "id": "legolas-exchange",
+    "symbol": "lgo",
+    "name": "LGO Token",
+    "platforms": {
+        "ethereum": "0x0a50c93c762fdd6e56d86215c24aaad43ab629aa"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": "Legolas creates a new decentralized blockchain protocol that guarantees full transparency and prevents front-running and market manipulation. Legolas combines features of both centralized and decentralized architectures in order to exploit the best of both worlds: fiat support, strong authentication, simplicity, as well as transparency and fairness. Our extensive experience designing reliably secure systems and our strategic partnership with Ledger ensure state of the art safeguards for crypto assets. \r\n"
+    },
+    "country_origin": "FR",
+    "genesis_date": "2018-03-03",
+    "contract_address": "0x0a50c93c762fdd6e56d86215c24aaad43ab629aa",
+    "url": "https://lgo.markets/",
+    "explorers": [
+        "https://etherscan.io/token/0x0a50c93c762fdd6e56d86215c24aaad43ab629aa",
+        "https://ethplorer.io/address/0x0a50c93c762fdd6e56d86215c24aaad43ab629aa"
+    ],
+    "twitter": "LGOGROUP_",
+    "facebook": "legolas.exchange",
+    "telegram": "legolasannouncements",
+    "reddit": "LegolasExchange/",
+    "github_org": "lgo-public"
+}

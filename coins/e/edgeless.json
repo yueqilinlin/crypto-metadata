@@ -1,0 +1,28 @@
+{
+    "id": "edgeless",
+    "symbol": "edg",
+    "name": "Edgeless",
+    "platforms": {
+        "ethereum": "0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Platform"
+    ],
+    "description": {
+        "en": "EDG is a utility token used in Edgeless casino. It is the branded gaming currency of the casino and one of the best altcoins on the Smartchain and Ethereum blockchain.\r\nErc20 token will switch from Ethereum network to Binance Smartchain (Bsc) network on 15.09.2121.\r\nTotal and maximum supply is 100000 Edgeless Tokens, It can be staked.\r\nEdgeless has Jackpots unmatched by any other casino in the industry: all Jackpots are publicly viewed on the blockchain.\r\nThe EDG token is used as a utility token on the Edgeless platform.\r\nWith EDG token you can play 6+ games in the casino."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-02-28",
+    "contract_address": "0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c",
+    "url": "https://edgeless.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c",
+        "https://ethplorer.io/address/0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c"
+    ],
+    "twitter": "edgelessproject",
+    "facebook": "EdgelessCasino",
+    "telegram": "edgelessproject",
+    "reddit": "Edgeless",
+    "github_org": "EdgelessCasino"
+}

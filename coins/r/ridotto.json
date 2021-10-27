@@ -1,0 +1,27 @@
+{
+    "id": "ridotto",
+    "symbol": "rdt",
+    "name": "Ridotto",
+    "platforms": {
+        "ethereum": "0x4740735aa98dc8aa232bd049f8f0210458e7fca3",
+        "binance-smart-chain": "0xe9c64384deb0c2bf06d991a8d708c77eb545e3d5"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ridotto is a cross-chain gambling and lottery protocol based on complete transparency, anonymity, security, and fairness. Our approach is to provide an open protocol driven by the community, where users can play, build, and even bankroll casino games, thus earning generous liquidity. Ridotto\u2019s overarching goal is to elevate the user to the role of \u201chouse,\u201d thereby offering a fully scalable alternative to centralized online gambling.\r\nBeyond our vibrant flagship casino, we will unleash retail ingenuity by giving users the decentralized infrastructure to experiment and evolve the gambling ecosystem"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4740735aa98dc8aa232bd049f8f0210458e7fca3",
+    "url": "https://ridotto.io",
+    "explorers": [
+        "https://etherscan.io/token/0x4740735AA98Dc8aa232BD049f8F0210458E7fCa3",
+        "https://ethplorer.io/address/0x4740735aa98dc8aa232bd049f8f0210458e7fca3",
+        "https://bscscan.com/token/0xe9c64384deb0c2bf06d991a8d708c77eb545e3d5"
+    ],
+    "twitter": "ridotto_io",
+    "telegram": "ridotto_community",
+    "reddit": "ridotto_io/",
+    "github_org": "ridotto-io"
+}

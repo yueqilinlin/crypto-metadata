@@ -1,0 +1,23 @@
+{
+    "id": "klay-token",
+    "symbol": "klay",
+    "name": "Klaytn",
+    "platforms": {
+        "klay-token": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Klaytn is a public blockchain platform of the leading South Korean mobile platform, Kakao. Dedicated to validating the value and utility of blockchain technology by providing a blockchain service for mass adoption, Klaytn provides an easy development environment and friendly user experience. Klaytn seeks to continue advancing the platform to offer blockchain services for millions of users.\r\n\r\nKlaytn Blockchain will use proof-of-stake based Istanbul Byzantine Fault Tolerant (IBFT) consensus algorithm. You can read more about IBFT <a href=\"https://es.slideshare.net/YuTeLin1/istanbul-bft\">here</a>\r\n\r\nFor more information, you may read up on some of the documentations below:\r\n\r\n- <a href=\"https://docs.klaytn.com/misc/vision\"> Official Documentation</a>\r\n- <a href=\"https://www.klaytn.com/Klaytn_Token_Economics_and_Governance_Paper_V1.01.pdf\">Tokenomics Paper</a>\r\n\r\n"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "url": "https://www.klaytn.com/",
+    "explorers": [
+        "https://scope.klaytn.com/blocks"
+    ],
+    "twitter": "klaytn_official",
+    "facebook": "klaytn.official",
+    "reddit": "klaytn/",
+    "github_org": "klaytn"
+}

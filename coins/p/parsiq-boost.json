@@ -1,0 +1,23 @@
+{
+    "id": "parsiq-boost",
+    "symbol": "prqboost",
+    "name": "Parsiq Boost",
+    "platforms": {
+        "ethereum": "0xa211f450ce88deb31d3f12ae3c1ebf6b0e55a5d9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PRQBOOST is a new PARSIQ utility token to increase rewards for PRQ liquidity providers"
+    },
+    "country_origin": "VG",
+    "genesis_date": null,
+    "contract_address": "0xa211f450ce88deb31d3f12ae3c1ebf6b0e55a5d9",
+    "url": [],
+    "explorers": [
+        "https://etherscan.io/token/0xa211f450ce88deb31d3f12ae3c1ebf6b0e55a5d9",
+        "https://ethplorer.io/address/0xa211f450ce88deb31d3f12ae3c1ebf6b0e55a5d9"
+    ],
+    "twitter": "parsiq",
+    "telegram": "parsiq_group"
+}

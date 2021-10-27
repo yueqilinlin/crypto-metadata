@@ -1,0 +1,25 @@
+{
+    "id": "medikey",
+    "symbol": "mkey",
+    "name": "MEDIKEY",
+    "platforms": {
+        "ethereum": "0xe154d54890c35634ca525d543ed58c741af7cf7a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Healthcare"
+    ],
+    "description": {
+        "en": "MEDIKEY is a block-chain-based health/life/health information platform that can collect and utilize health information, life pattern information, and medical information distributed and managed by various different organizations produced through various smart devices."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0xe154d54890c35634ca525d543ed58c741af7cf7a",
+    "url": "https://medikey.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xe154d54890c35634ca525d543ed58c741af7cf7a",
+        "https://ethplorer.io/address/0xe154d54890c35634ca525d543ed58c741af7cf7a"
+    ],
+    "twitter": "medikeysns",
+    "facebook": "medikeyofficial"
+}

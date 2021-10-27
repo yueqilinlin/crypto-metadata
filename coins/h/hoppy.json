@@ -1,0 +1,25 @@
+{
+    "id": "hoppy",
+    "symbol": "hop",
+    "name": "HOPPY",
+    "platforms": {
+        "binance-smart-chain": "0x984811e6f2695192add6f88615df637bf52a5cae"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Launchpad"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x984811e6f2695192add6f88615df637bf52a5cae",
+    "url": "https://www.hoppy-meme.co/home",
+    "explorers": [
+        "https://bscscan.com/token/0x984811e6f2695192add6f88615dF637bf52a5Cae"
+    ],
+    "twitter": "HoppyMeme",
+    "telegram": "HoppyMeme_Official",
+    "github_org": "onehop"
+}

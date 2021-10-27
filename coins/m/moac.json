@@ -1,0 +1,20 @@
+{
+    "id": "moac",
+    "symbol": "moac",
+    "name": "MOAC",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MOAC stands for the Mother of All Chains. It is a blockchain platform that supports transactions and data access. It is scalable. Sub-chains and smart contracts are compatible with MOAC. Decentralized apps and cross-chain connections are possible as well. MOAC is based on the <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> platform, and it uses a ERC20 currency. MOAC offers more including, A layered configuration structure, Asynchronous contract calls, Sharding solutions and Pluggable validation schemes.\r\n\r\nTransactions are processed through several consensus systems. The rate is 100 times faster than current blockchain platforms. Sub-chains increase concurrency rates up to 10,000 times. Sub-chains reduce cost and create a test environment. Cross-chain connections allow users and dApps to migrate to the MOAC platform without any knowledge. There\u2019s also a decentralized file storage system. MOAC uses a Proof-of-Work system that allows miners to mine the main chain and sub-chains. Mining can be done from mobile devices. PoW algorithms deter third-party interference, including denial of service attacks and spamming. Sharding is another notable feature in MOAC. This is a method for allocating processing power. The amount of processing power given is proportional to the number of nodes in the network. Large blockchain shards are divided into groups of small shards that are fast.\r\n\r\nMOAC has lofty ambitions: it uses multichain architecture with microchains built on top of the MOAC base layer. It also plans to enable crosschain atomic swaps between blockchains like <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> or Ethereum, just like <a href=\"https://www.coingecko.com/en/coins/komodo\">Komodo</a> does. Both intend to do so via sharding. The MOAC testnet launched November 2017, and the MOAC ERC-20 token and wallet were created in February 2018. Mainnet MOAC launched at the end of April 2018 with Ethereum support, and a mainnet explorer is available on the MOAC.io website. Sharding is due for a December 2018 release. Tokenized MOAC transactions occur on the base layer, and sidechains handle smart contracts. Sidechain creators determine their individual consensus model, so traditional models like Proof-of-Stake or Proof-of-Skill can be used, along with new hybrid models.\r\n\r\nMOAC aims to be the mother of all cryptocurrencies, and its ambitions are backed by one of the strongest technical teams in blockchain. Based in China, the team has experience in blockchain, enterprise IT, and more. MOAC is a Proof-of-Work algorithm whose token started as an ERC-20 token on the Ethereum network. This base layer supports tokenization using other consensus mechanisms. MOAC decentralizes block processing using microchains and a technique called sharding. Microchains are cross-compatible and can soon be made cross-compatible with other chains for atomic swaps. MOAC has a strong community mostly based in China, where it has a strong presence across social media. This community can build it into a strong dApp, tokenization, and exchange platform."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-06-23",
+    "url": "https://moac.io/",
+    "explorers": [
+        "http://explorer.moac.io/"
+    ],
+    "twitter": "moac_io",
+    "telegram": "moacblockchain",
+    "github_org": "MOACChain"
+}

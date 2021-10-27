@@ -1,0 +1,29 @@
+{
+    "id": "hoge-finance",
+    "symbol": "hoge",
+    "name": "Hoge Finance",
+    "platforms": {
+        "ethereum": "0xfad45e47083e4607302aa43c65fb3106f1cd7607",
+        "binance-smart-chain": "0xa4fffc757e8c4f24e7b209c033c123d20983ad40"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens"
+    ],
+    "description": {
+        "en": "What is HOGE?\r\nHOGE, formerly known as Hoge.Finance or Hogecoin, describes itself as a community-driven DeFi auto-staking ERC-20 token with a capped and deflationary supply. HOGE was fair-launched on February 7, 2021 with no tokens allocated to the team. Initial HOGE supply was 1,000,000,000,000 with half (500 billion) permanently burned at launch.\r\n\r\nDeflationary Cryptocurrency\r\nA 2% tax is levied on every HOGE transaction that takes place. 1% of that tax is sent to the burn wallet and permanently removed from the supply. The other 1% is redistributed to all wallets holding HOGE outside of exchanges.\r\n\r\nHOGE launched with the intention of simply being a deflationary \u201cDoge but DeFi\u201d. However, a team of HOGE founders with a larger vision stewarded the project toward a more philanthropic and utilitarian roadmap.\r\n\r\nHOGE is one of the first DeFi memecoins to successfully complete a Certik audit. No critical, major, or medium findings were found. As of this writing the skynet security score is 90. https://www.certik.org/projects/hogefinance\r\n\r\nHOGE has begun minting NFT's for holders as well as sponsoring eSports and Rally Racing Trucks.\r\n\r\nIn May a Swiss verein non-profit DAO hybrid was created to enact community approved actions for the token also to sign contracts and business agreements going forward with Centralized Exchange\u2019s. HOGE has implemented a non-profit partnership initiative including a Twitter campaign called #HogeSavesTheAnimals through which the community nominates charitable causes for HOGE to support. Under this and related initiatives HOGE has raised over $20,000 for animals. The HOGE team looks to it\u2019s HogeGameLabs to explore dApp games development later in 2021.\r\n\r\nArticles about HOGE\r\nhttps://coinpedia.org/price-analysis/hoge-finance-and-meme-price-analysis/ https://www.prweb.com/releases/who_let_the_crypto_dogs_out_hoge_the_king_of_defi_made_easy/prweb17885931.htm https://jessejrogers.medium.com/can-hoge-become-heir-to-doge-496079b3c624 https://marketrealist.com/p/where-can-i-buy-hoge-crypto/"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfad45e47083e4607302aa43c65fb3106f1cd7607",
+    "url": "https://hoge.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xfad45e47083e4607302aa43c65fb3106f1cd7607",
+        "https://ethplorer.io/address/0xfad45e47083e4607302aa43c65fb3106f1cd7607",
+        "https://bscscan.com/token/0xa4fffc757e8c4f24e7b209c033c123d20983ad40"
+    ],
+    "twitter": "hogefinance",
+    "telegram": "hogefinance",
+    "reddit": "https://www.reddit.com",
+    "github_org": "HogeFinance"
+}

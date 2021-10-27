@@ -1,0 +1,23 @@
+{
+    "id": "mcfinance",
+    "symbol": "mcf",
+    "name": "MCFinance",
+    "platforms": {
+        "ethereum": "0xe33ae4e795114279721047484e5ad5cc7df24fcb"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MCFinance DEX (MCF DEX) will be a permissionless decentralized exchange (DEX) based on Ethereum, powered by Polygon\u2019s scalability infrastructure.\r\n\r\nJust like current leading DEXs, such as Uniswap and SushiSwap, anyone can trade any ERC20 tokens on MCF DEX. If an asset isn\u2019t currently tradeable on the platform, users can list any ERC20 token by providing liquidity to enable instant asset swaps. They will then earn fees every time other users trade via that trading pair.\r\n\r\nLiquidity providers will be incentivized by both yield farming and liquidity mining opportunities. Users who provide liquidity for trading pairs on MCF DEX will not only be entitled to 0.25% of the platform\u2019s 0.3% transaction fees, but will also earn MCF DEX\u2019s native MCF governance token for their participation on specific trading pairs."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xe33ae4e795114279721047484e5ad5cc7df24fcb",
+    "url": "https://mcfinance.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xE33AE4E795114279721047484E5ad5cc7DF24fcB",
+        "https://ethplorer.io/address/0xE33AE4E795114279721047484E5ad5cc7DF24fcB"
+    ],
+    "twitter": "MCFinanceDEX",
+    "telegram": "MCFinanceDEX"
+}

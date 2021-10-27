@@ -1,0 +1,28 @@
+{
+    "id": "vechain",
+    "symbol": "vet",
+    "name": "VeChain",
+    "platforms": {
+        "vechain": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Internet of Things (IOT)",
+        "Artificial Intelligence",
+        "Business Platform"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "CN",
+    "genesis_date": "2017-08-15",
+    "url": "https://www.vechain.org",
+    "explorers": [
+        "https://explore.vechain.org",
+        "https://vechainstats.com/"
+    ],
+    "twitter": "vechainofficial",
+    "telegram": "vechain_official_english",
+    "reddit": "Vechain",
+    "github_org": "vechain"
+}

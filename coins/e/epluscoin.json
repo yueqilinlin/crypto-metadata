@@ -1,0 +1,26 @@
+{
+    "id": "epluscoin",
+    "symbol": "eplus",
+    "name": "Epluscoin",
+    "platforms": {
+        "ethereum": "0x02e3083a51e8632e571fbd6a62ac396c10c653ba"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment"
+    ],
+    "description": {
+        "en": "Eplus Coin is a worldwide entertainment based cryptocurrency. It is a digital payment system called decentralized digital currency because it works without a central repository or a single administrator. Eplus Coin was created by Eplus Coin Technologies Ltd. in 2017, which is comprised of experienced programmers and was released as an open-source software in 2017. The system and its transactions are on a peer-to-peer basis.\r\n\r\nBesides its creation as a reward for mining, Eplus Coin can be exchanged to other digital currencies, in-game items and other entertainment services in legal markets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x02e3083a51e8632e571fbd6a62ac396c10c653ba",
+    "url": "http://www.ep-coin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x02e3083a51e8632e571fbd6a62ac396c10c653ba",
+        "https://ethplorer.io/address/0x02e3083a51e8632e571fbd6a62ac396c10c653ba"
+    ],
+    "twitter": "EpluscoinSocial",
+    "facebook": "Epluscoin-214478489318856",
+    "telegram": "epluscoin"
+}

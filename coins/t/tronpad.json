@@ -1,0 +1,22 @@
+{
+    "id": "tronpad",
+    "symbol": "tronpad",
+    "name": "TRONPAD",
+    "platforms": {
+        "binance-smart-chain": "0x1bf7aedec439d6bfe38f8f9b20cf3dc99e3571c4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TRONPAD is the next evolution of blockchain launchpads on the Tron Network, solving the fundamental flaws that plague existing IDO platforms. This platform benefits all holders of the token and allows for fair launches giving traders of all sizes the opportunity to invest in the best upcoming Tron projects."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1bf7aedec439d6bfe38f8f9b20cf3dc99e3571c4",
+    "url": "https://tronpad.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x1bf7aedec439d6bfe38f8f9b20cf3dc99e3571c4"
+    ],
+    "twitter": "Tronpadofficial",
+    "telegram": "Tronpad"
+}

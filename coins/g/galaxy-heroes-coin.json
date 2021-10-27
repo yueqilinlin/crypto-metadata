@@ -1,0 +1,24 @@
+{
+    "id": "galaxy-heroes-coin",
+    "symbol": "ghc",
+    "name": "Galaxy Heroes Coin",
+    "platforms": {
+        "binance-smart-chain": "0x683fae4411249ca05243dfb919c20920f3f5bfe0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Galaxy Heroes Coin was introduced as a community driven token geared towards fellow superhero fans. GHC is using the Binance Smart Chain as their network to provide one of the lowest gas fees possible. The BSC is one of the most popular networks to list an alternative coin on. Within this network, you will be able to incorporate utilities like staking, NFTs and gaming."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x683fae4411249ca05243dfb919c20920f3f5bfe0",
+    "url": "https://www.galaxyheroescoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x683fae4411249Ca05243dfb919c20920f3f5bfE0"
+    ],
+    "twitter": "GalaxyHeroesGHC",
+    "telegram": "galaxyheroescoin",
+    "reddit": "GalaxyHeroesCoin/",
+    "github_org": "sumner770"
+}

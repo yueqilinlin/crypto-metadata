@@ -1,0 +1,22 @@
+{
+    "id": "playervsplayercoin",
+    "symbol": "pvp",
+    "name": "PlayerVsPlayerCoin",
+    "platforms": {},
+    "hashing_algorithm": "X11",
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": "Future wallet versions will include a playable game that will mine coins as it's played. Win or lose, player will earn coins."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "http://plavpla.com/",
+    "explorers": [
+        "https://pvpexplorer.go140point6.com/"
+    ],
+    "twitter": "PureNoel",
+    "facebook": "cardcountinggame",
+    "github_org": "pvpcoin-cc"
+}

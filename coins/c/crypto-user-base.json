@@ -1,0 +1,25 @@
+{
+    "id": "crypto-user-base",
+    "symbol": "cub",
+    "name": "Crypto User Base",
+    "platforms": {
+        "ethereum": "0xa8892bfc33fa44053a9e402b1839966f4fec74a4"
+    },
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Internet of Things (IOT)"
+    ],
+    "description": {
+        "en": "CUB is an ERC20 token which will be used as a utility token in multiple platforms of the CUB family."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0xa8892bfc33fa44053a9e402b1839966f4fec74a4",
+    "url": "https://cryptouserbase.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xa8892bfc33FA44053a9E402B1839966f4FEc74A4",
+        "https://ethplorer.io/address/0xa8892bfc33FA44053a9E402B1839966f4FEc74A4"
+    ],
+    "telegram": "cryptouserbase",
+    "github_org": "cryptouserbase"
+}

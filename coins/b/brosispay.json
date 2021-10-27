@@ -1,0 +1,23 @@
+{
+    "id": "brosispay",
+    "symbol": "bspay",
+    "name": "Brosispay",
+    "platforms": {
+        "binance-smart-chain": "0x6dceaac4e68d1bc5834dc3c8bc012317cd4d1ffa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Brosispay Blockchain technology system is more secure than cloud computing, by design: The cryptography that makes up the Blockchain design was actually created for the purpose of addressing the security concerns associated with digital products, like cloud networks. Since Blockchain is a decentralized network spread out across computers in different locations, there is no single point of weakness vulnerable to security breaches. Security has been built into blockchain technology, making it automatic.\r\n\r\nAdditionally, decentralized storage allows for drastic reductions in pricing, so that any company, not just the largest ones, can leverage the technology. With Blockchain-based data storage, small companies don\u2019t have to spend money and resources building the infrastructure to hold data and files. Those companies pay only for the amount of data storage they need."
+    },
+    "country_origin": "IN",
+    "genesis_date": null,
+    "contract_address": "0x6dceaac4e68d1bc5834dc3c8bc012317cd4d1ffa",
+    "url": "https://brosispay.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x6dceaac4e68d1bc5834dc3c8bc012317cd4d1ffa"
+    ],
+    "twitter": "brosispay",
+    "telegram": "brosispay",
+    "github_org": "Brosispay"
+}

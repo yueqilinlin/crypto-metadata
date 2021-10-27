@@ -1,0 +1,29 @@
+{
+    "id": "rupiah-token",
+    "symbol": "idrt",
+    "name": "Rupiah Token",
+    "platforms": {
+        "ethereum": "0x998ffe1e43facffb941dc337dd0468d52ba5b48a",
+        "harmony-shard-0": "0xcefbea899cfccdc653b171d063481b622086be3f"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Rupiah Token (IDRT) is the first and most adopted Indonesian Rupiah stablecoin that is fully collateralized 1:1 by Rupiah (IDR) fiat currency. Each IDRT is backed by equivalent amount of Fiat Rupiah in Indonesian bank account, and can be redeemed for Fiat through our platform. Our mission is to boost the acceptance of Indonesian Rupiah worldwide and help to produce a more inclusive and open financial system. "
+    },
+    "country_origin": "ID",
+    "genesis_date": null,
+    "contract_address": "0x998ffe1e43facffb941dc337dd0468d52ba5b48a",
+    "url": "https://rupiahtoken.com",
+    "explorers": [
+        "https://etherscan.io/token/0x998FFE1E43fAcffb941dc337dD0468d52bA5b48A",
+        "https://ethplorer.io/address/0x998ffe1e43facffb941dc337dd0468d52ba5b48a",
+        "https://explorer.binance.org/asset/IDRTB-178"
+    ],
+    "twitter": "RupiahTokenIDRT",
+    "facebook": "RupiahTokenIDRT",
+    "telegram": "rupiahtokeninternational",
+    "github_org": "rupiah-token"
+}

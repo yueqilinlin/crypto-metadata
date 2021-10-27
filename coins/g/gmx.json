@@ -1,0 +1,27 @@
+{
+    "id": "gmx",
+    "symbol": "gmx",
+    "name": "GMX",
+    "platforms": {
+        "arbitrum-one": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Derivatives",
+        "Perpetuals",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and zero price impact trades.\r\n\r\nTrading is supported by a unique multi-asset pool that earns liquidity providers fees from market making, swap fees, leverage trading (spreads, funding fees & liquidations) and asset rebalancing.\r\n\r\nDynamic pricing is supported by Chainlink Oracles along with TWAP pricing from leading volume DEXs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "url": "https://gmx.financial/",
+    "explorers": [
+        "https://arbiscan.io/token/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a"
+    ],
+    "twitter": "GMX_IO",
+    "telegram": "GMX_IO",
+    "github_org": "xvi10"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "freeliquid",
+    "symbol": "fl",
+    "name": "Freeliquid",
+    "platforms": {
+        "ethereum": "0xffed56a180f23fd32bc6a1d8d3c09c283ab594a8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized lending platform that offers funding in USDFL stablecoins to liquidity providers. Governed by the FL token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xffed56a180f23fd32bc6a1d8d3c09c283ab594a8",
+    "url": "https://freeliquid.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xfFED56a180f23fD32Bc6A1d8d3c09c283aB594A8",
+        "https://ethplorer.io/address/0xffed56a180f23fd32bc6a1d8d3c09c283ab594a8"
+    ],
+    "twitter": "freeliquidUSDFL",
+    "telegram": "freeliquid"
+}

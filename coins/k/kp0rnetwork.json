@@ -1,0 +1,22 @@
+{
+    "id": "kp0rnetwork",
+    "symbol": "kp0r",
+    "name": "Kp0rNetwork",
+    "platforms": {
+        "binance-smart-chain": "0xe73345adc59678b82becaaf5e5acfc4522374576"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Kp0rNetwork is an application platform developed based on YFI\u2019s decentralized applications. And with additional functions such as (KP0R.Farming) and (KP0R.Swap). This platform aggregates multiple agreements to protects the value of all token holders and generate high income to bring users additional interests on kp0r through kp0r staking.Our platform also aggregates multiple protocols. When users deposit for staking"
+    },
+    "country_origin": "MA",
+    "genesis_date": null,
+    "contract_address": "0xe73345adc59678b82becaaf5e5acfc4522374576",
+    "url": "https://kp0r.tech/",
+    "explorers": [
+        "https://bscscan.com/token/0xe73345adc59678b82becaaf5e5acfc4522374576"
+    ],
+    "twitter": "kp0r_BSC",
+    "telegram": "KP0R_bsc"
+}

@@ -1,0 +1,35 @@
+{
+    "id": "cartesi",
+    "symbol": "ctsi",
+    "name": "Cartesi",
+    "platforms": {
+        "ethereum": "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
+        "binance-smart-chain": "0x8da443f84fea710266c8eb6bc34b71702d033ef2",
+        "avalanche": "0x6b289cceaa8639e3831095d75a3e43520fabf552",
+        "polygon-pos": "0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Infrastructure",
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "What is Cartesi?\r\nEase of Adoption: Developers can work in a familiar environment with no artificial limitations and with access to all their favorite tools;\r\n\r\nPortability: Cartesi aims to make DApps portable across the most important public blockchains that support smart contracts;\r\n\r\nPrivacy: DApp states can be kept private among application participants.\r\n\r\nCTSI Overview and Use Cases\r\n\r\nCTSI is a utility token that works as a crypto-fuel for Noether. \r\nStakers receive CTSI rewards by staking their tokens and participating in the network. \r\nNode runners are selected randomly according to a PoS system and gain the right to create the next block. \r\nUsers of the network pay CTSI fees to insert data on the side-chain. \r\nCTSI will also be used for DApps to outsource the execution of verifiable and enforceable computation to entities running Descartes nodes. \r\n"
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
+    "url": "https://cartesi.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
+        "https://ethplorer.io/address/0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
+        "https://explorer.cartesi.io",
+        "https://polygonscan.com/token/0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d}",
+        "https://bscscan.com/token/0x8da443f84fea710266c8eb6bc34b71702d033ef2"
+    ],
+    "twitter": "cartesiproject",
+    "facebook": "cartesiproject",
+    "telegram": "cartesiproject",
+    "reddit": "cartesi/",
+    "github_org": "cartesi"
+}

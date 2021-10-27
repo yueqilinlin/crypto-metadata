@@ -1,0 +1,31 @@
+{
+    "id": "defipie",
+    "symbol": "PIE",
+    "name": "DeFiPie",
+    "platforms": {
+        "ethereum": "0x607c794cda77efb21f8848b7910ecf27451ae842",
+        "binance-smart-chain": "0xc4b35d3a24e3e8941c5d87fd21d0725642f50308"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Lending/Borrowing",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)",
+        "Governance"
+    ],
+    "description": {
+        "en": "DeFiPie combines some of the best features of money market protocols, while offering its own unique features, enabling users to enjoy the promises of Decentralized Finance.\r\n\r\nLenders and borrowers can lend or borrow crypto assets in a decentralized manner without passing a registration, doing a KYC and trusting a third party.\r\n\r\nInvestors, traders, and speculators can offer their idle capitals as custom pools with a fixed rate for lending.\r\n\r\nLiquidity Provider can provide assets to existing pools and farm the Governance Token PIE with an annual percentage yield of up to 150%.\r\n\r\nUsers can also stake PoS-based assets in existing pools to earn staking rewards according to the underlying protocols."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x607c794cda77efb21f8848b7910ecf27451ae842",
+    "url": "https://defipie.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x607C794cDa77efB21F8848B7910ecf27451Ae842",
+        "https://ethplorer.io/address/0x607c794cda77efb21f8848b7910ecf27451ae842",
+        "https://bscscan.com/address/0xC4B35d3A24E3e8941c5d87fD21D0725642F50308"
+    ],
+    "twitter": "defipiepie",
+    "telegram": "defipie",
+    "github_org": "DefiPie"
+}

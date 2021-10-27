@@ -1,0 +1,30 @@
+{
+    "id": "hex",
+    "symbol": "hex",
+    "name": "HEX",
+    "platforms": {
+        "ethereum": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+        "polygon-pos": "0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c",
+        "harmony-shard-0": "0xf26d8c787e66254ee8b7a500073da8fb1ab1992d"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Launched on December 2, 2019 by Richard Heart and team, HEX is the first certificate of deposit on the blockchain, essentially time deposits that gain interest, HEX is an ERC20 Token that runs over the Ethereum network\r\n"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+    "url": "https://hex.com",
+    "explorers": [
+        "https://etherscan.io/token/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+        "https://ethplorer.io/address/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
+    ],
+    "twitter": "HEXcrypto",
+    "facebook": "HEXcrypto",
+    "telegram": "HEXcrypto",
+    "reddit": "HEXcrypto/",
+    "github_org": "HexCommunity"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "waka-finance",
+    "symbol": "waka",
+    "name": "Waka Finance",
+    "platforms": {
+        "fantom": "0xf61ccde1d4bb76ced1daa9d4c429cca83022b08b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A DeFi Hub powered by Fantom Opera. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf61ccde1d4bb76ced1daa9d4c429cca83022b08b",
+    "url": "https://waka.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0xf61ccde1d4bb76ced1daa9d4c429cca83022b08b"
+    ],
+    "twitter": "WakaFinance"
+}

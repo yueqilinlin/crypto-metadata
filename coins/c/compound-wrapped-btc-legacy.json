@@ -1,0 +1,27 @@
+{
+    "id": "compound-wrapped-btc-legacy",
+    "symbol": "cwbtc",
+    "name": "cWBTC (Legacy)",
+    "platforms": {
+        "ethereum": "0xc11b1268c1a384e55c48c2391d8d480264a3a7f4"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking",
+        "Decentralized Finance (DeFi)",
+        "Asset-backed Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc11b1268c1a384e55c48c2391d8d480264a3a7f4",
+    "url": "https://compound.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0xc11b1268c1a384e55c48c2391d8d480264a3a7f4",
+        "https://ethplorer.io/address/0xc11b1268c1a384e55c48c2391d8d480264a3a7f4"
+    ],
+    "twitter": "compoundfinance",
+    "reddit": "https://www.reddit.com"
+}

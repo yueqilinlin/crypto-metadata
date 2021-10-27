@@ -1,0 +1,24 @@
+{
+    "id": "gonetwork",
+    "symbol": "got",
+    "name": "GoNetwork",
+    "platforms": {
+        "ethereum": "0x423b5f62b328d0d6d44870f4eee316befa0b2df5"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Protocol"
+    ],
+    "description": {
+        "en": "GoNetwork is creating a highly scalable, low cost mobile first network infrastructure for Ethereum. The prime objective is to build a mobile first network for Ethereum ERC20 tokens that\u2019s off chain. It is a fast, cheap and low latency infrastructure. A major concern with blockchain technology centers on speed and high cost of transactions. Transactions on blockchains like bitcoin are expensive and slow. With growing usage, Ethereum will fare no differently over time. GoNetworks solution solves this problem by allowing off-chain transactions.\r\n\r\nMASSIVE POTENTIAL\r\nGoNetwork is designed for the trillion dollar mobile economy and commerce market.\r\n\r\nGONETWORK MAKES ETHEREUM FAST\r\nState channels amortize the cost of transactions based on the number of off-chain transactions completed off-chain. Thus, in typical high-frequency workflows, the cost of transactions will be several orders of magnitude lower than running the transactions on Ethereum directly.\r\n\r\nINFRASTRUCTURE LAYER\r\nOur prime objective is to build a mobile first network for Ethereum ERC20 tokens that\u0442\u0410\u0429s off chain. It is a fast, cheap and low latency infrastructure.\r\n\r\nMAKING TRANSACTIONS CHEAP\r\nA major concern with blockchain technology centers on high cost of transactions. GoNetworks solution solves this problem by allowing off-chain transactions."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x423b5f62b328d0d6d44870f4eee316befa0b2df5",
+    "url": "https://gonetwork.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x423b5f62b328d0d6d44870f4eee316befa0b2df5",
+        "https://ethplorer.io/address/0x423b5f62b328d0d6d44870f4eee316befa0b2df5"
+    ],
+    "twitter": "gonetwork_co"
+}

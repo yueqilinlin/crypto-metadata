@@ -1,0 +1,21 @@
+{
+    "id": "3x-long-bilira-token",
+    "symbol": "trybbull",
+    "name": "3X Long BiLira Token",
+    "platforms": {
+        "ethereum": "0xc7038ccf60e48c5b7119e55566a6ad9f2d66c7c2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Long BiLira Token (TRYBBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of BiLira."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc7038ccf60e48c5b7119e55566a6ad9f2d66c7c2",
+    "url": "https://ftx.com/tokens/TRYBBULL",
+    "explorers": [
+        "https://etherscan.io/token/0xc7038cCf60E48C5b7119E55566A6aD9f2D66C7c2",
+        "https://ethplorer.io/address/0xc7038ccf60e48c5b7119e55566a6ad9f2d66c7c2"
+    ]
+}

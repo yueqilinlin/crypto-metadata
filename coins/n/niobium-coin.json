@@ -1,0 +1,25 @@
+{
+    "id": "niobium-coin",
+    "symbol": "nbc",
+    "name": "Niobium Coin",
+    "platforms": {
+        "ethereum": "0x9f195617fa8fbad9540c5d113a99a0a0172aaedc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Niobium is a Ethereum ERC20 token created in partnership between brazilian an austrian entrepreneurs. Niobium Coin will boost all the services that will be provided in the platform of the Digital Business Exchange of S\u00e3o Paulo (BOMESP). With BOMESP, any company can have its own currency or can operate in the world of virtual currencies in parity with the Bitcoin, Ethereum, Ripple and the Niobium Coin itself.  The principal services provided by the BOMESP are charged by means of Niobiums, which ensures the maximum valuation and the use of the currency, as well as extremely low percentages in order to enable its users to carry out millions of transactions per second on its platform."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9f195617fa8fbad9540c5d113a99a0a0172aaedc",
+    "url": "https://niobiumcoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x9f195617fa8fbad9540c5d113a99a0a0172aaedc",
+        "https://ethplorer.io/address/0x9f195617fa8fbad9540c5d113a99a0a0172aaedc"
+    ],
+    "twitter": "NiobiumCoins",
+    "facebook": "niobiumfoundation",
+    "reddit": "NiobiumBomesp/",
+    "github_org": "niobiumfoundation"
+}

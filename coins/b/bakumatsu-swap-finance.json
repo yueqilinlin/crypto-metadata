@@ -1,0 +1,23 @@
+{
+    "id": "bakumatsu-swap-finance",
+    "symbol": "ryma",
+    "name": "Bakumatsu Swap Finance",
+    "platforms": {
+        "ethereum": "0x2b8a66201665cd8c36ab9f39127221847110aa8e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PoW mining, an investment method with a good yield is attractive, but there are many difficult issues when we do it individually such as securing a place for installation, stable electricity supply, and securing equipment with high efficiency for mining.\r\n\r\nTherefore, Bakumatsu Swap set up a specialized organization as an agent and solved the issues by preparing a connection to get a special mining equipment, place for installation, stable electricity supply. And by adding this investment function to the DEX governance token \u201cRYOMA\u201d, they made individual investors available to do subdivided investment.\r\n \r\nIn addition to the Swap function, DEX also has staking and farming functions. Also, we have a plan to open the NFT Marketplace soon as one of the destinations for using governance tokens."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2b8a66201665cd8c36ab9f39127221847110aa8e",
+    "url": "https://bakumatsu.finance/en/",
+    "explorers": [
+        "https://etherscan.io/token/0x2b8a66201665cd8c36ab9f39127221847110aa8e",
+        "https://ethplorer.io/address/0x2b8a66201665cd8c36ab9f39127221847110aa8e"
+    ],
+    "twitter": "RyomaCrypto",
+    "telegram": "bakumarsuswapeng"
+}

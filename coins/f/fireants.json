@@ -1,0 +1,24 @@
+{
+    "id": "fireants",
+    "symbol": "ants",
+    "name": "FireAnts",
+    "platforms": {
+        "ethereum": "0xa9fbb83a2689f4ff86339a4b96874d718673b627"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "In order to reduce 3D production and modelling costs, FireAnts token allow access to inexpensive services for everyone. FireAnts token are used as credit note for 3D engineering, 3D printing and production of 3D printed items."
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0xa9fbb83a2689f4ff86339a4b96874d718673b627",
+    "url": "https://fireants.online/",
+    "explorers": [
+        "https://etherscan.io/token/0xa9fbb83a2689f4ff86339a4b96874d718673b627",
+        "https://ethplorer.io/address/0xa9fbb83a2689f4ff86339a4b96874d718673b627"
+    ],
+    "twitter": "FireantsT"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "campuscash",
+    "symbol": "ccash",
+    "name": "CampusCash",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CampusCash is a peer-to-peer network that uses a cryptocurrency on a distributed ledger technology. We make fast payments, support information and education, as well as life between trainees, students and their schools and the surrounding area worldwide."
+    },
+    "country_origin": "DE",
+    "genesis_date": null,
+    "url": "https://www.campuscash.org",
+    "explorers": [
+        "https://explorer.campuscash.org/"
+    ],
+    "telegram": "CampusCashCC",
+    "github_org": "CampusCash"
+}

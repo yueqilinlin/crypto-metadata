@@ -1,0 +1,24 @@
+{
+    "id": "cat-trade-protocol",
+    "symbol": "catx",
+    "name": "CAT.trade Protocol",
+    "platforms": {
+        "ethereum": "0xc7743bf0b300ec041e704cc34d4f43050942099e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "CAT.trade protocol allows users to create smart contracts that rely on a Oracles that contain a combination of 3rd party market data and executable trade actions validated by a network of nodes that can interact with the ethereum blockchain. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc7743bf0b300ec041e704cc34d4f43050942099e",
+    "url": "https://cat.trade/home/",
+    "explorers": [
+        "https://etherscan.io/token/0xC7743bf0B300Ec041E704Cc34d4f43050942099E",
+        "https://ethplorer.io/address/0xc7743bf0b300ec041e704cc34d4f43050942099e"
+    ],
+    "twitter": "catdottrade",
+    "telegram": "catdottrade",
+    "github_org": "catdottrade"
+}

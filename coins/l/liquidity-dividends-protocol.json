@@ -1,0 +1,25 @@
+{
+    "id": "liquidity-dividends-protocol",
+    "symbol": "LID",
+    "name": "Liquidity Dividends Protocol",
+    "platforms": {
+        "ethereum": "0x0417912b3a7af768051765040a55bb0925d4ddcf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Licensed Proof of Locked Liquidity solutions for pre-sales and DEX launches."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x0417912b3a7af768051765040a55bb0925d4ddcf",
+    "url": "https://www.lid.sh",
+    "explorers": [
+        "https://etherscan.io/token/0x0417912b3a7af768051765040a55bb0925d4ddcf",
+        "https://ethplorer.io/address/0x0417912b3a7af768051765040a55bb0925d4ddcf"
+    ],
+    "twitter": "LID_Protocol",
+    "telegram": "LIDProtocol",
+    "reddit": "https://www.reddit.comr/LIDProtocol/",
+    "github_org": "carlsbad-sunshine"
+}

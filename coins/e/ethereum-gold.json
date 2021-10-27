@@ -1,0 +1,22 @@
+{
+    "id": "ethereum-gold",
+    "symbol": "etg",
+    "name": "Ethereum Gold",
+    "platforms": {
+        "ethereum": "0x28c8d01ff633ea9cd8fc6a451d7457889e698de6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ethereum Gold is new Ethereum smart-contracts governed ecosystem that applies blockchain technologies using the value of Gold."
+    },
+    "country_origin": "",
+    "genesis_date": "2017-10-11",
+    "contract_address": "0x28c8d01ff633ea9cd8fc6a451d7457889e698de6",
+    "url": "https://www.etgproject.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x28c8d01ff633ea9cd8fc6a451d7457889e698de6",
+        "https://ethplorer.io/address/0x28c8d01ff633ea9cd8fc6a451d7457889e698de6"
+    ],
+    "twitter": "ethereumgoldetg"
+}

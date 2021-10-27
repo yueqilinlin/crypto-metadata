@@ -1,0 +1,22 @@
+{
+    "id": "wrapped-near",
+    "symbol": "wnear",
+    "name": "Wrapped Near",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Wrapped-Tokens",
+        "Near Protocol Ecosystem"
+    ],
+    "description": {
+        "en": "Wrapped Near is a 1:1 equivalent of Near represented on the Near Blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://near.org/",
+    "explorers": [
+        "https://explorer.near.org/accounts/wrap.near"
+    ],
+    "twitter": "nearprotocol",
+    "telegram": "cryptonear"
+}

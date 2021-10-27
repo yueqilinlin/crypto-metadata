@@ -1,0 +1,23 @@
+{
+    "id": "atheios",
+    "symbol": "ath",
+    "name": "Atheios",
+    "platforms": {},
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": "Atheios is an Ethereum based network with no premine and no ICO."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://www.atheios.org/",
+    "explorers": [
+        "https://explorer.atheios.org/"
+    ],
+    "twitter": "Atheiosofficial",
+    "telegram": "atheioschain",
+    "reddit": "Atheios/",
+    "github_org": "athofficial"
+}

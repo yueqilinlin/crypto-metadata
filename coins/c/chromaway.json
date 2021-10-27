@@ -1,0 +1,28 @@
+{
+    "id": "chromaway",
+    "symbol": "chr",
+    "name": "Chromia",
+    "platforms": {
+        "ethereum": "0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2",
+        "binance-smart-chain": "0xf9cec8d50f6c8ad3fb6dccec577e05aa32b224fe"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2",
+    "url": "https://chromia.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2",
+        "https://ethplorer.io/address/0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2",
+        "https://bscscan.com/token/0xf9cec8d50f6c8ad3fb6dccec577e05aa32b224fe"
+    ],
+    "twitter": "chromia",
+    "facebook": "chromaway",
+    "telegram": "hellochromia"
+}

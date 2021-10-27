@@ -1,0 +1,20 @@
+{
+    "id": "crex-token",
+    "symbol": "crex",
+    "name": "Crex Token",
+    "platforms": {
+        "waves": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The official crex24 exchange token https://crex24.com"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://crex24.com/exchange/CREX-BTC",
+    "explorers": [
+        "http://dev.pywaves.org/assets/8k7zgWXJYUA5RfpSZJ75V5uq6mfjJVjWqYZbT6LkehEE"
+    ],
+    "twitter": "Crex_24"
+}

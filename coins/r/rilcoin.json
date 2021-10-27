@@ -1,0 +1,23 @@
+{
+    "id": "rilcoin",
+    "symbol": "ril",
+    "name": "Rilcoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Tourism"
+    ],
+    "description": {
+        "en": "Rilcoin is a cutting-edge crypto technology based, fully decentralised crypto-currency, which actually has all the benefits of fiat currency as well the freedom and anonymity of a crypto-currency. Rilcoin is a part of an Asset Management System (AMS)."
+    },
+    "country_origin": "VE",
+    "genesis_date": null,
+    "url": "https://www.rilcoin.org/",
+    "explorers": [
+        "http://explorer.rilcoin.org:3001/"
+    ],
+    "twitter": "ril_coin",
+    "facebook": "rilcoin.crypto",
+    "telegram": "rilcoingroup",
+    "github_org": "rilcoincrypto"
+}

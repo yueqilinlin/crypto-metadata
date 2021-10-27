@@ -1,0 +1,23 @@
+{
+    "id": "flavors-bsc",
+    "symbol": "flvr",
+    "name": "Flavors BSC",
+    "platforms": {
+        "binance-smart-chain": "0xf1a45e52d6d11d0e591d4f18da9d88a4c266b300"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Flavors BSC is a community rewarding token designed to \"\"tokenize\"\" marketing by offering passive rewards in two projects on the Binance Smart Chain at a time. Flavors holders are introduced to collaborative projects allowing them to diversify their portfolios, through both the rewarding system and the ability to get access to vetted presales. \r\nTokenized marketing enables Flavors to inject liquidity and act as its own \"\"market maker,\"\" providing a stable liquidity pool to ensure the life of the token is determined by the ability to give exposure to new and successful tokens, as well as with specific developments planned to bring value to DeFi."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf1a45e52d6d11d0e591d4f18da9d88a4c266b300",
+    "url": "https://flavorsbsc.com",
+    "explorers": [
+        "https://bscscan.com/token/0xf1a45e52d6d11d0e591d4f18da9d88a4c266b300"
+    ],
+    "twitter": "flavorsbsc",
+    "telegram": "FlavorsBSC",
+    "github_org": "FlavorsDeFi"
+}

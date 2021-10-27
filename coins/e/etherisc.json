@@ -1,0 +1,31 @@
+{
+    "id": "etherisc",
+    "symbol": "dip",
+    "name": "Etherisc DIP Token",
+    "platforms": {
+        "ethereum": "0xc719d010b63e5bbf2c0551872cd5316ed26acd83",
+        "xdai": "0x48b1b0d077b4919b65b4e4114806dd803901e1d9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Insurance",
+        "Finance / Banking",
+        "xDAI Ecosystem"
+    ],
+    "description": {
+        "en": "Etherisc is building a platform for decentralized insurance applications. We aim to use blockchain technologyto help make the purchase and sale of insurance more efficient, enable lower operational costs, provide greater transparency into the industry and democratize access to reinsurance investments.\r\n\r\n"
+    },
+    "country_origin": "CH",
+    "genesis_date": null,
+    "contract_address": "0xc719d010b63e5bbf2c0551872cd5316ed26acd83",
+    "url": "https://etherisc.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xc719d010b63e5bbf2c0551872cd5316ed26acd83",
+        "https://ethplorer.io/address/0xc719d010b63e5bbf2c0551872cd5316ed26acd83",
+        "https://blockscout.com/poa/xdai/tokens/0x48b1B0d077b4919b65b4E4114806dD803901E1D9/token-transfers"
+    ],
+    "twitter": "etherisc",
+    "telegram": "etherisc_community",
+    "reddit": "etherisc/",
+    "github_org": "etherisc"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "mirai",
+    "symbol": "mri",
+    "name": "Mirai",
+    "platforms": {},
+    "hashing_algorithm": "Quark",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "http://mirai.xgox.rocks/",
+    "explorers": [
+        "https://mirai.blockxplorer.info/"
+    ],
+    "twitter": "CoinMirai",
+    "github_org": "bumbacoin"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "transcodium",
+    "symbol": "tns",
+    "name": "Transcodium",
+    "platforms": {
+        "ethereum": "0xb0280743b44bf7db4b6be482b2ba7b75e5da096c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Transcodium aims to provide the first peer-to-peer decentralized file editing, transcoding and distribution platform with high quality and reliable computational power at a very affordable price. This will create a global market for users, willing to rent their idle machines to be used as workers. Further, at the end of the processing, the worker (processor) will be rewarded with the TNS Tokens. "
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0xb0280743b44bf7db4b6be482b2ba7b75e5da096c",
+    "url": "https://transcodium.com",
+    "explorers": [
+        "https://etherscan.io/token/0xb0280743b44bf7db4b6be482b2ba7b75e5da096c",
+        "https://ethplorer.io/address/0xb0280743b44bf7db4b6be482b2ba7b75e5da096c"
+    ],
+    "twitter": "transcodium",
+    "facebook": "transcodium",
+    "telegram": "transcodium",
+    "github_org": "transcodium"
+}

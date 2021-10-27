@@ -1,0 +1,22 @@
+{
+    "id": "venus-bch",
+    "symbol": "vbch",
+    "name": "Venus BCH",
+    "platforms": {
+        "binance-smart-chain": "0x5f0388ebc2b94fa8e123f404b79ccf5f40b29176"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Venus is an algorithmic money market and synthetic stablecoin decentralized finance protocol."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5f0388ebc2b94fa8e123f404b79ccf5f40b29176",
+    "url": "https://venus.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x5f0388ebc2b94fa8e123f404b79ccf5f40b29176"
+    ],
+    "twitter": "VenusProtocol",
+    "telegram": "VenusProtocol"
+}

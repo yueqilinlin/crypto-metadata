@@ -1,0 +1,21 @@
+{
+    "id": "3x-short-zcash-token",
+    "symbol": "zecbear",
+    "name": "3X Short Zcash Token",
+    "platforms": {
+        "ethereum": "0x78a8c84b4c23563be4518e7045016d3170130823"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "3X Short Zcash Token (ZECBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of Zcash."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x78a8c84b4c23563be4518e7045016d3170130823",
+    "url": "https://ftx.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x78a8c84b4c23563bE4518e7045016D3170130823",
+        "https://ethplorer.io/address/0x78a8c84b4c23563bE4518e7045016D3170130823"
+    ]
+}

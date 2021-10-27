@@ -1,0 +1,23 @@
+{
+    "id": "lady-luck",
+    "symbol": "luck",
+    "name": "Lady Luck",
+    "platforms": {
+        "ethereum": "0x0955a73d014f0693ac7b53cfe77706dab02b3ef9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Lady Luck is a decentralised and fair Lottery operating on the Ethereum blockchain.\r\nThe entire lottery is on the blockchain, including the selection process as well as the payouts.\r\nLady Luck integrates with Chainlink VRF  to provide a completely transparent selection process where users are able to verify the random result and the way the winner was selected."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x0955a73d014f0693ac7b53cfe77706dab02b3ef9",
+    "url": "https://www.ladyluckcoin.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x0955A73D014F0693aC7B53CFe77706dAb02b3ef9",
+        "https://ethplorer.io/address/0x0955A73D014F0693aC7B53CFe77706dAb02b3ef9"
+    ],
+    "twitter": "LadyLuckCoin",
+    "telegram": "LadyLuckCoin"
+}

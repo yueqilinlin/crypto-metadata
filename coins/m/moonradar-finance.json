@@ -1,0 +1,23 @@
+{
+    "id": "moonradar-finance",
+    "symbol": "mrf",
+    "name": "Moonradar Finance",
+    "platforms": {
+        "binance-smart-chain": "0xb41d606ffe40283cfda1f08266be9a4d29ef74df"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Moonradar is a block chain project built purely in the interest of DeX traders, to protect them from falling for numerous rug-pull scams and honeypot scams. The service aims to provide you with a list of safe projects that you can invest in at an early stage and maximize your profits. Moonradar also provides the holders of MoonRadar tokens with tools to swap tokens (Mooswap) and to manage your portfolio(MooDashboard). While the services are free ro use, users will have to hold certain amount of MoonRadar tokens to be able to access the premium features to maximize RoI."
+    },
+    "country_origin": "NL",
+    "genesis_date": null,
+    "contract_address": "0xb41d606ffe40283cfda1f08266be9a4d29ef74df",
+    "url": "https://moonradar.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xb41d606ffe40283cfda1f08266be9a4d29ef74df"
+    ],
+    "twitter": "moonradarfin",
+    "telegram": "moonradar_finance",
+    "reddit": "moonradar/"
+}

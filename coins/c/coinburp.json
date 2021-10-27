@@ -1,0 +1,25 @@
+{
+    "id": "coinburp",
+    "symbol": "burp",
+    "name": "CoinBurp",
+    "platforms": {
+        "ethereum": "0x33f391f4c4fe802b70b77ae37670037a92114a7c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Our vision and mission are simple: make DeFi and NFTs simple and accessible to everyone.\r\n\r\nWe're doing this through a non-custodial DeFi NFT service where our customers can buy NFTs for fiat from marketplaces like OpenSea. We also plan to integrate more DeFi protocols for users to easily access via our app.\r\n\r\nA massive part of the app will be the inclusion of $BURP, our own utility and governance token that\u2019ll be listed at the same time as the main app release. Users will be able to stake $BURP in the CoinBurp NFT and DeFi wallet for a whole array of unique rewards such as a yield, NFT raffles and more. When our DAO launches, the token will also become the governance method across two established companies."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x33f391f4c4fe802b70b77ae37670037a92114a7c",
+    "url": "https://www.coinburp.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x33f391f4c4fe802b70b77ae37670037a92114a7c",
+        "https://ethplorer.io/address/0x33f391f4c4fe802b70b77ae37670037a92114a7c"
+    ],
+    "twitter": "coinburp",
+    "telegram": "CoinBurp",
+    "reddit": "coinburp",
+    "github_org": "coinburp"
+}

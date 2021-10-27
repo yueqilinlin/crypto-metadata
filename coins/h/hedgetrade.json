@@ -1,0 +1,28 @@
+{
+    "id": "hedgetrade",
+    "symbol": "hedg",
+    "name": "HedgeTrade",
+    "platforms": {
+        "ethereum": "0xf1290473e210b2108a85237fbcd7b6eb42cc654f"
+    },
+    "hashing_algorithm": "Ethash",
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "HedgeTrade is a decentralized prediction market focused on a wide variety of financial assets. Trade predictions can then be purchased using the HEDG token for users to replicate and learn from.\r\n\r\nCorrect trade predictions award the trade predictor with the HEDG tokens originally put forth by those individuals who purchased that prediction originally through the marketplace.\r\n\r\nIncorrect trade predictions see the HEDG tokens used to buy that prediction returned to the original buyer(s)."
+    },
+    "country_origin": "SG",
+    "genesis_date": "2018-12-07",
+    "contract_address": "0xf1290473e210b2108a85237fbcd7b6eb42cc654f",
+    "url": "https://hedgetrade.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xf1290473e210b2108a85237fbcd7b6eb42cc654f",
+        "https://ethplorer.io/address/0xf1290473e210b2108a85237fbcd7b6eb42cc654f",
+        "https://blockchair.com/ethereum/erc-20/token/0xF1290473E210b2108A85237fbCd7b6eb42Cc654F"
+    ],
+    "twitter": "hedgetradehq",
+    "facebook": "hedgetradehq",
+    "telegram": "HedgeTradeHQ",
+    "github_org": "rublixdev"
+}

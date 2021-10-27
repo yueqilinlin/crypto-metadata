@@ -1,0 +1,23 @@
+{
+    "id": "burn1coin",
+    "symbol": "burn1coin",
+    "name": "Burn1Coin",
+    "platforms": {
+        "binance-smart-chain": "0x31a9042dce0c13975d04d0e9758cb7b596f0dd43"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "\"Burn1 is a DeFi community governance token that focuses on supporting charity organizations in the cannabis reform sector and developing Cannabis products as well as NFT\u2019s.\""
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "contract_address": "0x31a9042dce0c13975d04d0e9758cb7b596f0dd43",
+    "url": "https://www.burn1.today/",
+    "explorers": [
+        "https://bscscan.com/token/0x31A9042dCE0C13975D04d0E9758Cb7B596F0dD43"
+    ],
+    "twitter": "Burn1Coin",
+    "telegram": "Burn1Coin",
+    "reddit": "https://www.reddit.comBurn1Coin/"
+}

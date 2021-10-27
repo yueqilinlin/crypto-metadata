@@ -1,0 +1,24 @@
+{
+    "id": "deku-inu",
+    "symbol": "DEKU",
+    "name": "Deku Inu",
+    "platforms": {
+        "ethereum": "0xa1a88cea335edaf30ce90f103f1434a773ea46bd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DEKU INU is a superhero inspired, community managed token. 3% of every buy & sell is redistributed between holders."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa1a88cea335edaf30ce90f103f1434a773ea46bd",
+    "url": "https://dekuinu.com",
+    "explorers": [
+        "https://etherscan.io/token/0xa1a88cea335edaf30ce90f103f1434a773ea46bd",
+        "https://ethplorer.io/address/0xa1a88cea335edaf30ce90f103f1434a773ea46bd"
+    ],
+    "twitter": "DekuInuOfficial",
+    "telegram": "dekuinu",
+    "github_org": "DEKU-INU"
+}

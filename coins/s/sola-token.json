@@ -1,0 +1,24 @@
+{
+    "id": "sola-token",
+    "symbol": "sola",
+    "name": "SOLA Token",
+    "platforms": {
+        "solana": "FYfQ9uaRaYvRiaEGUmct45F9WKam3BYXArTrotnTNFXF"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "Solatoken a Faster, Cheaper and more Powerful DeFi build on #solana"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "FYfQ9uaRaYvRiaEGUmct45F9WKam3BYXArTrotnTNFXF",
+    "url": "https://solatoken.net",
+    "explorers": [
+        "https://solscan.io/token/FYfQ9uaRaYvRiaEGUmct45F9WKam3BYXArTrotnTNFXF"
+    ],
+    "twitter": "EcoSolana",
+    "telegram": "solatoken_net"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "vcash",
+    "symbol": "xvc",
+    "name": "Vcash",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "Vcash is a cryptocurrency that uses a multitier architecture that enables the coin to scale better in a secure way. The lead developer goes under the name of John Connor. There is no pre-mine, pre-sale, IPO or ICO for Vcash. Vcash was previously known as Vanillacoin."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-12-23",
+    "url": "https://vanilla.cash/",
+    "explorers": [
+        "http://explorer-one.xvcweb.info/"
+    ],
+    "facebook": "vdotcash",
+    "reddit": "VanillacashCommunity/",
+    "github_org": "openvcash"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "daftcoin",
+    "symbol": "daft",
+    "name": "DaftCoin",
+    "platforms": {
+        "binance-smart-chain": "0x8e83eb3cc2585b9648687c3d1d9c7a2d17448772"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "FR",
+    "genesis_date": null,
+    "contract_address": "0x8e83eb3cc2585b9648687c3d1d9c7a2d17448772",
+    "url": "https://daftco.in/",
+    "explorers": [
+        "https://bscscan.com/token/0x8e83eb3cc2585b9648687c3d1d9c7a2d17448772"
+    ],
+    "twitter": "daftcoin",
+    "telegram": "daftcoin_officiel",
+    "github_org": "daftcoin"
+}

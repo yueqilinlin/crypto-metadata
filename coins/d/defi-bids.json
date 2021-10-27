@@ -1,0 +1,23 @@
+{
+    "id": "defi-bids",
+    "symbol": "bid",
+    "name": "DeFi Bids",
+    "platforms": {
+        "ethereum": "0x1da01e84f3d4e6716f274c987ae4bee5dc3c8288"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1da01e84f3d4e6716f274c987ae4bee5dc3c8288",
+    "url": "https://defibids.com",
+    "explorers": [
+        "https://etherscan.io/token/0x1dA01e84F3d4e6716F274c987Ae4bEE5DC3C8288",
+        "https://ethplorer.io/address/0x1da01e84f3d4e6716f274c987ae4bee5dc3c8288"
+    ],
+    "twitter": "defibids",
+    "telegram": "defibids"
+}

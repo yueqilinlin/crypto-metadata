@@ -1,0 +1,26 @@
+{
+    "id": "bogged-finance-[old]",
+    "symbol": "bog",
+    "name": "Bogged Finance [OLD]",
+    "platforms": {
+        "binance-smart-chain": "0xd7b729ef857aa773f47d37088a1181bb3fbf0099"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Binance Smart Chain Ecosystem",
+        "Oracle"
+    ],
+    "description": {
+        "en": "Deployable Smart Contracting Oracles with contract execution functionality powered by the Binance Smart Chain.\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd7b729ef857aa773f47d37088a1181bb3fbf0099",
+    "url": "https://bogtools.io",
+    "explorers": [
+        "https://bscscan.com/token/0xd7b729ef857aa773f47d37088a1181bb3fbf0099"
+    ],
+    "twitter": "bogtools",
+    "telegram": "bogtools",
+    "reddit": "https://www.reddit.com"
+}

@@ -1,0 +1,41 @@
+{
+    "id": "aave",
+    "symbol": "aave",
+    "name": "Aave",
+    "platforms": {
+        "ethereum": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+        "huobi-token": "0x202b4936fe1a82a4965220860ae46d7d3939bb25",
+        "avalanche": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+        "polygon-pos": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+        "fantom": "0x6a07a792ab2965c72a5b8088d3a069a7ac3a993b",
+        "harmony-shard-0": "0xcf323aad9e522b93f11c352caa519ad0e14eb40f",
+        "sora": "0x0091bd8d8295b25cab5a7b8b0e44498e678cfc15d872ede3215f7d4c7635ba36"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polygon Ecosystem",
+        "Near Protocol Ecosystem",
+        "Lending/Borrowing",
+        "Governance",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "Aave is a decentralized money market protocol where users can lend and borrow cryptocurrency across 20 different assets as collateral. The protocol has a native token called AAVE, which is also a governance token that lets the community decide the direction of the protocol in a collective manner. Lenders can\u00a0earn interest by providing liquidity to the market, while borrowers can borrow by collateralizing their cryptoassets to take out loans from the liquidity pools.\r\n\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "url": "https://app.aave.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+        "https://ethplorer.io/address/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+        "https://hecoinfo.com/token/0x202b4936fe1a82a4965220860ae46d7d3939bb25",
+        "https://polygonscan.com/token/0xd6df932a45c0f255f85145f286ea0b292b21c90b"
+    ],
+    "twitter": "AaveAave",
+    "facebook": "AaveCom",
+    "telegram": "Aavesome",
+    "reddit": "Aave_Official",
+    "github_org": "aave"
+}

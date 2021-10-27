@@ -1,0 +1,26 @@
+{
+    "id": "bilaxy-token",
+    "symbol": "bia",
+    "name": "Bilaxy Token",
+    "platforms": {
+        "ethereum": "0x40d52577830e01aaefa80659aa90ee8b34685f4e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Centralized Exchange Token (CEX)",
+        "Exchange-based Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x40d52577830e01aaefa80659aa90ee8b34685f4e",
+    "url": "https://bilaxy.com",
+    "explorers": [
+        "https://etherscan.io/token/0x40d52577830e01aaefa80659aa90ee8b34685f4e",
+        "https://ethplorer.io/address/0x40d52577830e01aaefa80659aa90ee8b34685f4e"
+    ],
+    "twitter": "Bilaxy_exchange",
+    "telegram": "bilaxychat"
+}

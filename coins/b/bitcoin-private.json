@@ -1,0 +1,25 @@
+{
+    "id": "bitcoin-private",
+    "symbol": "btcp",
+    "name": "Bitcoin Private",
+    "platforms": {},
+    "hashing_algorithm": "Equihash",
+    "categories": [
+        "Privacy Coins"
+    ],
+    "description": {
+        "en": "Bitcoin Private is fork from <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin (BTC)</a>. This coin is also a copy of <a href=\"https://www.coingecko.com/en/coins/zclassic\">ZClassic</a> as they use the same technology. When compared to Bitcoin which lacks privacy and anonymity, Bitcoin Private is better in terms of that due to the privacy technology that they use. The coin\u2019s database is widely available for viewing and verification as it will always remain open source and be continued by the community. Transactions can be made between users as no intermediaries are needed in this decentralized system. Bitcoin Private is also faster than Bitcoin because it supports a bigger block size when compared to Bitcoin. "
+    },
+    "country_origin": "",
+    "genesis_date": "2018-03-03",
+    "url": "https://btcprivate.org/",
+    "explorers": [
+        "http://pool.btcprivate.org/",
+        "https://btcp.tokenview.com/"
+    ],
+    "twitter": "bitcoinprivate",
+    "facebook": "bitcoinprivate",
+    "telegram": "BTCPrivate",
+    "reddit": "BitcoinPrivate/",
+    "github_org": "BTCPrivate"
+}

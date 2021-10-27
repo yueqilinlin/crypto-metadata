@@ -1,0 +1,24 @@
+{
+    "id": "insureum",
+    "symbol": "isr",
+    "name": "Insureum",
+    "platforms": {
+        "ethereum": "0xb16d3ed603d62b125c6bd45519eda40829549489"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Insureum Protocol uses blockchain to create a decentralized ecosystem that connects insurers, their policyholders, and third parties"
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0xb16d3ed603d62b125c6bd45519eda40829549489",
+    "url": "https://insureum.co/",
+    "explorers": [
+        "https://etherscan.io/token/0xb16d3ed603d62b125c6bd45519eda40829549489",
+        "https://ethplorer.io/address/0xb16d3ed603d62b125c6bd45519eda40829549489"
+    ],
+    "twitter": "insureum_zikto",
+    "facebook": "insureum",
+    "telegram": "insureum"
+}

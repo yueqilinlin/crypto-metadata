@@ -1,0 +1,24 @@
+{
+    "id": "nft-art-finance",
+    "symbol": "nftart",
+    "name": "NFT Art Finance",
+    "platforms": {
+        "binance-smart-chain": "0xf7844cb890f4c339c497aeab599abdc3c874b67a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "NFT Art is powered by a deflationary utility-token NFTART and users of its platform will be able to stake NFTART token to claim or issue NFT\u2019s.\r\n\r\nThey are setting out to become the easiest NFT platform to use by amongst other things implementing simple drag & drop solutions. First, releasing a web version and later apps for both Android & IOS.\r\n\r\nThe app will also enable the creation of NFT\u2019s from phones."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf7844cb890f4c339c497aeab599abdc3c874b67a",
+    "url": "https://www.nft-art.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xf7844cb890f4c339c497aeab599abdc3c874b67a"
+    ],
+    "twitter": "enternft",
+    "telegram": "NFTART_Finance"
+}

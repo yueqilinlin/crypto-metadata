@@ -1,0 +1,23 @@
+{
+    "id": "yff-finance",
+    "symbol": "yff",
+    "name": "YFF.Finance",
+    "platforms": {
+        "ethereum": "0x8be6a6158f6b8a19fe60569c757d16e546c2296d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Technology makes everyone move fast with great simplicity. Take control of your finances with | DeFi."
+    },
+    "country_origin": "SG",
+    "genesis_date": null,
+    "contract_address": "0x8be6a6158f6b8a19fe60569c757d16e546c2296d",
+    "url": "https://yff.finance",
+    "explorers": [
+        "https://etherscan.io/token/0x8be6a6158f6b8a19fe60569c757d16e546c2296d",
+        "https://ethplorer.io/address/0x8be6a6158f6b8a19fe60569c757d16e546c2296d"
+    ],
+    "twitter": "FarmYff",
+    "telegram": "YFFarm"
+}

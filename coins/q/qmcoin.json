@@ -1,0 +1,21 @@
+{
+    "id": "qmcoin",
+    "symbol": "qmc",
+    "name": "QMCoin",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "QMCoin is a decentralized Magnet Link Blockchain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.qmc.network",
+    "explorers": [
+        "http://explorer.qmc.network"
+    ],
+    "telegram": "QMC_Network",
+    "github_org": "project-qmc"
+}

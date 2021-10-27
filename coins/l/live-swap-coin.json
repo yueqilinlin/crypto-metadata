@@ -1,0 +1,22 @@
+{
+    "id": "live-swap-coin",
+    "symbol": "lsc",
+    "name": "Live Swap Coin",
+    "platforms": {
+        "ethereum": "0x048eb9b9c08e2df45644cf0db1fcb3e866c401ad"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LSC funding creates an investment contrack through a blockchain-based smart contract. The contract details are transparently disclosed, information asymmetry and centralized decision making are removed to provide reliability to investors."
+    },
+    "country_origin": "KR",
+    "genesis_date": null,
+    "contract_address": "0x048eb9b9c08e2df45644cf0db1fcb3e866c401ad",
+    "url": "http://liveswapcoin.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x048eb9b9c08e2df45644cf0db1fcb3e866c401ad",
+        "https://ethplorer.io/address/0x048eb9b9c08e2df45644cf0db1fcb3e866c401ad"
+    ],
+    "twitter": "Liveswapcoin"
+}

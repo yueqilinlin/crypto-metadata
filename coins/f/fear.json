@@ -1,0 +1,31 @@
+{
+    "id": "fear",
+    "symbol": "fear",
+    "name": "Fear",
+    "platforms": {
+        "ethereum": "0x88a9a52f944315d5b4e917b9689e65445c401e83",
+        "binance-smart-chain": "0x9ba6a67a6f3b21705a46b380a1b97373a33da311",
+        "polygon-pos": "0xa2ca40dbe72028d3ac78b5250a8cb8c404e7fb8c"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "DaoMaker Ecosystem",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "Fear is a blockchain based horror games project founded by the creators of the famous Whack It series of bloody point and click casual idle games.\r\n\r\nFear develop rich animated, original horror based blockchain NFT games targeting teenagers and young adults with the majority of it gamer base being 80% male and 20% female. Utilizing their large user base and strong organic brand value, they aim to enrich its gaming experience for existing and new players by introducing game asset ownership and interactivity via Ethereum. Their success will be reflected in the ERC-20 Fear coin which will benefit long term holders and its gamers.\r\n\r\nIts mission is to provide gamers and crypto enthusiasts with a chance to own unique and rare NTFs with rich use cases in its games while enjoying exciting horror action games on the blockchain, something the space is currently lacking. Players will also be able to \"Play to Earn\" by farming NFT's and winning Fear coin prize pools, incentivizing their continuing interaction and support for their games."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x88a9a52f944315d5b4e917b9689e65445c401e83",
+    "url": "https://www.fear.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x88a9a52f944315d5b4e917b9689e65445c401e83",
+        "https://bscscan.com/token/0x9ba6a67a6f3b21705a46b380a1b97373a33da311",
+        "https://ethplorer.io/address/0x88a9a52f944315d5b4e917b9689e65445c401e83",
+        "https://polygonscan.com/token/0xa2CA40DBe72028D3Ac78B5250a8CB8c404e7Fb8C"
+    ],
+    "twitter": "fearnfts",
+    "telegram": "fearcoin"
+}

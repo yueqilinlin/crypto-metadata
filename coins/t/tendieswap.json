@@ -1,0 +1,31 @@
+{
+    "id": "tendieswap",
+    "symbol": "tendie",
+    "name": "TendieSwap",
+    "platforms": {
+        "binance-smart-chain": "0x9853a30c69474bed37595f9b149ad634b5c323d9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Governance",
+        "Decentralized Exchange Token (DEX)",
+        "Gaming",
+        "Polygon Ecosystem",
+        "Binance Smart Chain Ecosystem",
+        "Prediction Markets"
+    ],
+    "description": {
+        "en": "Besides providing its own staking and farming protocol, TendieSwap is focused on revolutionizing the betting industry.\r\n\r\nTendieSwap is a non-custodial prediction protocol that enables users to earn unlimited rewards on high-yield prediction markets. TENDIE ($TENDIE) is the utility token of the TendieSwap ecosystem and is based on the BEP-20 token standard.\r\n\r\nTendieSwap Predictions: A tool which enables you to make money based on where you think certain coins are headed price-wise. So for example if you think BNB is going to be higher than $340 in 5 Minutes then you can bet this and make money off your theory.\r\n\r\nTendieSwap Lottery: Spend TENDIE's to buy tickets, contributing to the lottery pot. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their exact order!\r\n\r\nTendieSwap is the new GOAT of Prediction Markets. We will offer an Automated Market Making algorithm that enables users to create automated prediction markets with integrated options & pricing calculation. Later down the road, users will be able to set up their own bets and get others to take the other side; real decentralized betting enabled."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9853a30c69474bed37595f9b149ad634b5c323d9",
+    "url": "https://www.tendieswap.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x9853a30c69474bed37595f9b149ad634b5c323d9"
+    ],
+    "twitter": "tendie_swap",
+    "telegram": "tendieswap",
+    "reddit": "TendieSwap/",
+    "github_org": "tendieswap"
+}

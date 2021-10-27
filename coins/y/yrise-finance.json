@@ -1,0 +1,24 @@
+{
+    "id": "yrise-finance",
+    "symbol": "yrise",
+    "name": "yRise Finance",
+    "platforms": {
+        "ethereum": "0x6051c1354ccc51b4d561e43b02735deae64768b8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "yRise is to bring Value, Fairness, and Innovation Yield Farming"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6051c1354ccc51b4d561e43b02735deae64768b8",
+    "url": "https://yrise.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x6051C1354Ccc51b4d561e43b02735DEaE64768B8",
+        "https://ethplorer.io/address/0x6051c1354ccc51b4d561e43b02735deae64768b8"
+    ],
+    "twitter": "YriseFinance",
+    "telegram": "YriseFinance",
+    "github_org": "yrise"
+}

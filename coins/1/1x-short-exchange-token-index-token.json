@@ -1,0 +1,21 @@
+{
+    "id": "1x-short-exchange-token-index-token",
+    "symbol": "exchhedge",
+    "name": "1X Short Exchange Token Index Token",
+    "platforms": {
+        "ethereum": "0xf8cc67e304f8e1a351ed83b4dbbe6b4076d51376"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "1X Short Exchange Token Index Token (EXCHHEDGE) is an ERC20 token which seeks a return that corresponds to -1 times the daily return of Exchange Token Index."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf8cc67e304f8e1a351ed83b4dbbe6b4076d51376",
+    "url": "https://ftx.com/trade/EXCHHEDGE/USD",
+    "explorers": [
+        "https://etherscan.io/token/0xf8CC67e304f8e1A351ED83b4DBBe6B4076d51376",
+        "https://ethplorer.io/address/0xf8cc67e304f8e1a351ed83b4dbbe6b4076d51376"
+    ]
+}

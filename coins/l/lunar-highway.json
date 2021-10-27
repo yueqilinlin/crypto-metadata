@@ -1,0 +1,23 @@
+{
+    "id": "lunar-highway",
+    "symbol": "lunar",
+    "name": "Lunar Highway",
+    "platforms": {
+        "binance-smart-chain": "0x4e8a9d0bf525d78fd9e0c88710099f227f6924cf"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A community-driven, fair-launched, DeFi token."
+    },
+    "country_origin": "GB",
+    "genesis_date": null,
+    "contract_address": "0x4e8a9d0bf525d78fd9e0c88710099f227f6924cf",
+    "url": "https://www.lunarhighway.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x4e8a9D0BF525d78fd9E0c88710099f227F6924cf"
+    ],
+    "twitter": "Lunar_Highway",
+    "telegram": "lunarhighway",
+    "reddit": "LunarHighway/"
+}

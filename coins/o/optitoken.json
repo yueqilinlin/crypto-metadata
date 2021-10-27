@@ -1,0 +1,25 @@
+{
+    "id": "optitoken",
+    "symbol": "opti",
+    "name": "Optitoken",
+    "platforms": {
+        "ethereum": "0x832904863978b94802123106e6eb491bdf0df928"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Optitoken is a hyper-deflationary cryptocurrency, supported by an automated tokenized portfolio that utilizes professional trading techniques and economic strategies for token value optimization like strategic buy pressure and supply scarcity. The project aims to create profits from this ongoing series of trades and infuse it into the markets of OptiToken itself to provide constant sporadic upward price pressure. The tokens purchased are then sent to an unspendable address to create ever growing scarcity in the token supply and disallow the tokens from re-entering the ecosystem as \u2018sell pressure.\u2019 The remaining OptiTokens held the adopters will gain value each time this cycle occurs.\r\n"
+    },
+    "country_origin": "KY",
+    "genesis_date": null,
+    "contract_address": "0x832904863978b94802123106e6eb491bdf0df928",
+    "url": "https://optitoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x832904863978b94802123106e6eb491bdf0df928",
+        "https://ethplorer.io/address/0x832904863978b94802123106e6eb491bdf0df928"
+    ],
+    "twitter": "optitoken",
+    "facebook": "optitoken",
+    "reddit": "optitoken",
+    "github_org": "optitokener"
+}

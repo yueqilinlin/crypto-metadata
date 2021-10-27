@@ -1,0 +1,27 @@
+{
+    "id": "mch-coin",
+    "symbol": "mchc",
+    "name": "MCH Coin",
+    "platforms": {
+        "ethereum": "0xd69f306549e9d96f183b1aeca30b8f4353c2ecc3",
+        "polygon-pos": "0xee7666aacaefaa6efeef62ea40176d3eb21953b9"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Entertainment",
+        "Non-Fungible Tokens (NFT)",
+        "Gaming"
+    ],
+    "description": {
+        "en": "MCH coin is the governance token for the\u00a0My Crypto Heroes game. 1 MCH coin equals 1 vote when participating in proposal votings. If you do not want to directly vote for a proposal, you may also delegate your vote to a someone else to vote on your behalf."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd69f306549e9d96f183b1aeca30b8f4353c2ecc3",
+    "url": "https://www.mycryptoheroes.net/",
+    "explorers": [
+        "https://etherscan.io/token/0xd69f306549e9d96f183b1aeca30b8f4353c2ecc3",
+        "https://ethplorer.io/address/0xd69f306549e9d96f183b1aeca30b8f4353c2ecc3"
+    ],
+    "twitter": "mycryptoheroes_"
+}

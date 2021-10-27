@@ -1,0 +1,23 @@
+{
+    "id": "artax",
+    "symbol": "xax",
+    "name": "ARTAX",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Masternodes"
+    ],
+    "description": {
+        "en": "As the world's first Digital Asset-as-a-Service (DAaaS) platform, Artax delivers tailorable blockchain technology to enthusiasts across the globe.  Join us and start creating custom digital assets and block chain solutions on the Artax platform. We are focused on building our community and the global reach of the Artax platform.\r\n\r\n\u200bOur platform is being developed to deliver the following:\r\n\r\n-Coin Creation Platform\r\n\r\n-Anonymous Staking (via Ring Signatures)\r\n\r\n-Digital Asset Exchange\r\n\r\n-Mobile Blockchain Storage Platform (ECP)\r\n\r\n-0-Day Marketplace\r\n\r\n-Integrated Virtual Shopping (VR4)"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://www.artaxcoin.org/",
+    "explorers": [
+        "http://explorer.artaxcoin.org:3000/"
+    ],
+    "twitter": "ArtaxCoin",
+    "facebook": "artaxcoin/",
+    "reddit": "Artaxcoin/",
+    "github_org": "artax-committee"
+}

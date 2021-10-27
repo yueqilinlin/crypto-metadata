@@ -1,0 +1,27 @@
+{
+    "id": "elongate",
+    "symbol": "elongate",
+    "name": "ElonGate",
+    "platforms": {
+        "binance-smart-chain": "0x2a9718deff471f3bb91fa0eceab14154f150a385",
+        "harmony-shard-0": "0x11fc804f435c601335b55189fe519fdb88f23a29"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Charity",
+        "Binance Smart Chain Ecosystem"
+    ],
+    "description": {
+        "en": "ELONGATE is a cryptocurrency token built on the Binance Smart Chain. Born out of a tweet by Elon Musk, ELONGATE employs unique tokenomics with full integration of charity. As a real world use case, all transactions within the ecosystem are taxed wherein a set portion is donated to charities every week. The ELONGATE ecosystem is constantly expanding and will further support digital and real world use cases, starting with charitable donations at present and will further spread to NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2a9718deff471f3bb91fa0eceab14154f150a385",
+    "url": "https://www.elongate.cc/",
+    "explorers": [
+        "https://bscscan.com/token/0x2a9718deff471f3bb91fa0eceab14154f150a385"
+    ],
+    "twitter": "elongateog",
+    "telegram": "ElonGateChat",
+    "reddit": "Elongatetoken"
+}

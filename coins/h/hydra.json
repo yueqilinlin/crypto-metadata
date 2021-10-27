@@ -1,0 +1,20 @@
+{
+    "id": "hydra",
+    "symbol": "hydra",
+    "name": "Hydra",
+    "platforms": {},
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [],
+    "description": {
+        "en": "Hydra is a POS (proof of stake) blockchain and emerged out of the combination of Bitcoin, Ethereum and Qtum. Hydra runs in the UTXO accounting model while supporting EVM as an additional layer. "
+    },
+    "country_origin": "BG",
+    "genesis_date": null,
+    "url": "https://hydrachain.org",
+    "explorers": [
+        "https://explorer.hydrachain.org/"
+    ],
+    "twitter": "hydra_chain",
+    "telegram": "hydrachain",
+    "github_org": "Hydra-Chain"
+}

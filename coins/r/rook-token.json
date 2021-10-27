@@ -1,0 +1,23 @@
+{
+    "id": "rook-token",
+    "symbol": "r0ok",
+    "name": "r0ok Token",
+    "platforms": {
+        "binance-smart-chain": "0xb8cbc5dd532c32a16f565ca6bd3cc2da8015bb2d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "r0ok originated as r0ok Clothing Co, founded by Ty Campos, a clothing company dedicated to spreading mental health awareness. Because he is involved with the crypto community, he decided to create $R0OK to create a bridge between the two communities, while offering the same morals and principles that are behind r0ok Clothing Co. \r\n\r\n$R0OK was created as a charity token that has two main purposes.\r\n1) To give the community a token they can have complete trust and faith in.\r\n2) To create a steady source of donations for the mental health community that stem from the crypto space.\r\nBy simply buying and holding $R0OK, you are helping an important part of the bigger cause by helping create awareness for a worldwide epidemic."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb8cbc5dd532c32a16f565ca6bd3cc2da8015bb2d",
+    "url": "https://r0oktoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xB8CBc5DD532c32a16f565Ca6Bd3Cc2DA8015bB2d"
+    ],
+    "twitter": "r0okClothing",
+    "telegram": "r0oktoken",
+    "github_org": "r0ok-token"
+}

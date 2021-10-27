@@ -1,0 +1,27 @@
+{
+    "id": "vinci",
+    "symbol": "vinci",
+    "name": "Vinci",
+    "platforms": {
+        "ethereum": "0x3db99ab08006aefcc9600972eca8c202396b4300"
+    },
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Technology & Science"
+    ],
+    "description": {
+        "en": "VINCI is a new vision of how blockchain technology can be used by the members of community or small and medium-sized enterprises (SMEs).  Vinci is a blockchain-based ecosystem of software services. A number of innovative solutions, including blockchain-based services and flexible consensus mechanism "
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "0x3db99ab08006aefcc9600972eca8c202396b4300",
+    "url": "https://vinci.id/",
+    "explorers": [
+        "https://etherscan.io/token/0x3db99ab08006aefcc9600972eca8c202396b4300",
+        "https://ethplorer.io/address/0x3db99ab08006aefcc9600972eca8c202396b4300"
+    ],
+    "twitter": "vincifoundation",
+    "facebook": "vinciproject",
+    "telegram": "vincichannel",
+    "github_org": "vinci-project"
+}

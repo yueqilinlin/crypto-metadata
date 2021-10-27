@@ -1,0 +1,24 @@
+{
+    "id": "red",
+    "symbol": "red",
+    "name": "Red",
+    "platforms": {
+        "ethereum": "0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Red community is building the world's first fullstack and blockchain language. RED tokens will drive the development of those technologies, and a blockchain-powered future. RED is a utility token, which can be used within the Red community"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f",
+    "url": "https://ico.red-lang.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f",
+        "https://ethplorer.io/address/0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f"
+    ],
+    "twitter": "red_lang",
+    "telegram": "redofficial",
+    "github_org": "red"
+}

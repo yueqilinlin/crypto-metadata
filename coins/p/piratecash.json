@@ -1,0 +1,23 @@
+{
+    "id": "piratecash",
+    "symbol": "pirate",
+    "name": "PirateCash",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Communication"
+    ],
+    "description": {
+        "en": "Pirate network for P2P services"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://piratecash.net",
+    "explorers": [
+        "http://block.piratecash.net:3001/"
+    ],
+    "twitter": "PirateCash_NET",
+    "facebook": "PirateCash",
+    "reddit": "https://www.reddit.com",
+    "github_org": "piratecash"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "1art",
+    "symbol": "1art",
+    "name": "ArtWallet",
+    "platforms": {
+        "binance-smart-chain": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e",
+        "fantom": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The One-stop solution for the NFT Market & built for the Metaverse\r\n\r\nArtWallet is the ultimate wallet for NFT owners. It enables users to store, manage, distribute and discover NFT content, including digital art, collectables, metaverse game items. ArtWallet incorporates a native cross-chain support, particularly NFT bridges between blockchains.\r\n\r\nMedia delivery vehicle for the playback of unique audio/visual content (imagine Spotify or iTunes via NFTs or VR/AR Showcasing)\r\nNative cross-chain support (NFT bridges between blockchains)\r\nStrongly supported by renowned cybersecurity company Hacken"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e",
+    "url": "https://artwallet.co",
+    "explorers": [
+        "https://bscscan.com/token/0xD3c325848D7c6E29b574Cb0789998b2ff901f17E",
+        "https://ftmscan.com/token/0xD3c325848D7c6E29b574Cb0789998b2ff901f17E"
+    ],
+    "twitter": "art_wallet",
+    "telegram": "art_wallet",
+    "github_org": "artwallet"
+}

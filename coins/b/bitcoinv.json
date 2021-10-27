@@ -1,0 +1,22 @@
+{
+    "id": "bitcoinv",
+    "symbol": "btcv",
+    "name": "BitcoinV",
+    "platforms": {},
+    "hashing_algorithm": "SHA-256",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Bitcoin with Variable Block Rewards (VBR) feature. Miners decide how much they want each block reward to be and then try and mine a block. The higher the block rewards, the harder it is to mine. This feature naturally turns into a \"51% Attack Deterrent Algorithm\"."
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "http://www.bitcoinv.org",
+    "explorers": [
+        "http://explorer.bitcoinv.org/"
+    ],
+    "twitter": "bitcoinvbr",
+    "telegram": "BitCoinVcryptocurrency",
+    "github_org": "bitcoinVBR"
+}

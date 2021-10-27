@@ -1,0 +1,20 @@
+{
+    "id": "stealthcoin",
+    "symbol": "xst",
+    "name": "Stealth",
+    "platforms": {},
+    "hashing_algorithm": "X13",
+    "categories": [],
+    "description": {
+        "en": "Stealthcoin (XST) has been rebranded to Stealth (XST): https://twitter.com/stealthsend/status/993226001101545473\r\n\r\nStealthcoin provides a complete anonymity solution for cryptocurrencies. Stealthcoin has a fair distribution with nearly four hours of low block rewards, a small premine of 1%, and the long-term energy efficiency of proof-of-stake minting."
+    },
+    "country_origin": "",
+    "genesis_date": "2014-07-04",
+    "url": "https://stealth.org/",
+    "explorers": [
+        "https://www.stealthmonitor.org/"
+    ],
+    "twitter": "stealthsend",
+    "reddit": "Stealthcoin",
+    "github_org": "StealthSend"
+}

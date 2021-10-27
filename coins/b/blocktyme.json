@@ -1,0 +1,22 @@
+{
+    "id": "blocktyme",
+    "symbol": "btym",
+    "name": "Blocktyme",
+    "platforms": {
+        "binance-smart-chain": "0x8c0938091ef72c5768ea9611a6e252b1a3578e0e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8c0938091ef72c5768ea9611a6e252b1a3578e0e",
+    "url": "https://www.blocktyme.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x8c0938091EF72c5768ea9611a6e252B1A3578E0E"
+    ],
+    "twitter": "blocktyme",
+    "telegram": "blocktyme"
+}

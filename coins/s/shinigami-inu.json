@@ -1,0 +1,24 @@
+{
+    "id": "shinigami-inu",
+    "symbol": "shinu",
+    "name": "Shinigami Inu",
+    "platforms": {
+        "ethereum": "0xa1ab427451f19df7445a22dea7073800ea3b687f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ShinuSwap is the newest player in the DEX scene; the first mobile application for trading, with a couple special features: portfolio tracking, buy and sell alerts, built-in contract sniffers to prevent scams, a liquidity lock live alert feed, and built-in charting capabilities."
+    },
+    "country_origin": "CA",
+    "genesis_date": null,
+    "contract_address": "0xa1ab427451f19df7445a22dea7073800ea3b687f",
+    "url": "https://www.shinuswap.org/",
+    "explorers": [
+        "https://etherscan.io/token/0xa1ab427451f19df7445a22dea7073800ea3b687f",
+        "https://ethplorer.io/address/0xa1ab427451f19df7445a22dea7073800ea3b687f"
+    ],
+    "twitter": "shinuswap",
+    "telegram": "shinigamiinu",
+    "github_org": "Shinuswap"
+}

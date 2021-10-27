@@ -1,0 +1,28 @@
+{
+    "id": "nsure-network",
+    "symbol": "nsure",
+    "name": "Nsure Network",
+    "platforms": {
+        "ethereum": "0x20945ca1df56d237fd40036d47e866c7dccd2114"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Insurance",
+        "Polygon Ecosystem",
+        "Polkadot Ecosystem",
+        "Decentralized Finance (DeFi)"
+    ],
+    "description": {
+        "en": "NSURE is the governance token for the Nsure Network. Nsure Network is a decentralised insurance project that borrows the idea of Lloyd\u2019s of London, a market place to trade insurance risks, where premiums are determined by a Dynamic Pricing Model. In this model, capital supply and demand from the entire platform determines the price jointly, similar to the pricing mechanism in the free market, by having Nsure tokens backing the policies bought. The price is self-adjustable to the movement of supply and demand, subject to the model moderately stabilizing the price change."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x20945ca1df56d237fd40036d47e866c7dccd2114",
+    "url": "https://nsure.network/",
+    "explorers": [
+        "https://etherscan.io/token/0x20945cA1df56D237fD40036d47E866C7DcCD2114",
+        "https://ethplorer.io/address/0x20945ca1df56d237fd40036d47e866c7dccd2114"
+    ],
+    "twitter": "Nsure_network",
+    "telegram": "nsurenet"
+}

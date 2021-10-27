@@ -1,0 +1,23 @@
+{
+    "id": "fnb-protocol",
+    "symbol": "fnb",
+    "name": "FNB Protocol",
+    "platforms": {
+        "ethereum": "0x47b28f365bf4cb38db4b6356864bde7bc4b35129"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x47b28f365bf4cb38db4b6356864bde7bc4b35129",
+    "url": "https://fnbprotocol.io",
+    "explorers": [
+        "https://etherscan.io/token/0x47b28f365bf4cb38db4b6356864bde7bc4b35129",
+        "https://ethplorer.io/address/0x47b28f365bf4cb38db4b6356864bde7bc4b35129"
+    ],
+    "twitter": "fnbprotocol",
+    "telegram": "fnbprotocolglobal"
+}

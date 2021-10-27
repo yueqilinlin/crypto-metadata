@@ -1,0 +1,28 @@
+{
+    "id": "0chain",
+    "symbol": "zcn",
+    "name": "0chain",
+    "platforms": {
+        "ethereum": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
+        "polygon-pos": "0x8bb30e0e67b11b978a5040144c410e1ccddcba30"
+    },
+    "hashing_algorithm": "Delegated Proof-of-Stake",
+    "categories": [
+        "Storage"
+    ],
+    "description": {
+        "en": "0Chain is a high performance decentralized storage network designed to eliminate business threats such as censorship, privacy liability and data breach. 0Chain helps entities achieve GDPR compliance, localization, tokenization and monetizes private data sharing. Our decentralized platform offers high performance, high quality of service, collaboration, localization, and streaming to address a broad spectrum of applications."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
+    "url": "https://0chain.net/",
+    "explorers": [
+        "https://etherscan.io/token/0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
+        "https://ethplorer.io/address/0xb9ef770b6a5e12e45983c5d80545258aa38f3b78"
+    ],
+    "twitter": "0chain",
+    "telegram": "Ochain",
+    "reddit": "0chain/",
+    "github_org": "0chain"
+}

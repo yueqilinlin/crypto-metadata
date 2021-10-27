@@ -1,0 +1,23 @@
+{
+    "id": "apyswap",
+    "symbol": "apys",
+    "name": "APYSwap",
+    "platforms": {
+        "ethereum": "0xf7413489c474ca4399eee604716c72879eea3615"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "APYSwap is a protocol for the decentralised exchange of shares of Tokenized Vaults.\r\nIt achieves this through the creation of a Layer 2 blockchain where users can trustlessly swap accounts & assets from multiple Layer 1 blockchains. Including Ethereum, Polkadot, HECO, and Binance Smart Chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf7413489c474ca4399eee604716c72879eea3615",
+    "url": "https://apyswap.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xf7413489c474ca4399eee604716c72879eea3615",
+        "https://ethplorer.io/address/0xf7413489c474ca4399eee604716c72879eea3615"
+    ],
+    "twitter": "apyswap",
+    "telegram": "apyswapcom"
+}

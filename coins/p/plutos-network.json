@@ -1,0 +1,23 @@
+{
+    "id": "plutos-network",
+    "symbol": "plut",
+    "name": "Plutos Network",
+    "platforms": {
+        "binance-smart-chain": "0x2984f825bfe72e55e1725d5c020258e81ff97450"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Plutos Network is a multi-chain synthetic issuance & derivative trading platform which introduces mining incentives and Staking rewards to users. By integrating Blockchains such as Solana, Polkadot and BSC, enabling on-chain and cross-chain liquidity and trading, Plutos Network is to offer users synthetic issuance and trading services for a wide range of synthetic products."
+    },
+    "country_origin": "ES",
+    "genesis_date": null,
+    "contract_address": "0x2984f825bfe72e55e1725d5c020258e81ff97450",
+    "url": "https://plutos.network/",
+    "explorers": [
+        "https://bscscan.com/token/0x2984f825bfe72e55e1725d5c020258e81ff97450"
+    ],
+    "twitter": "PlutosNetwork",
+    "telegram": "plutosnetwork",
+    "github_org": "PlutosNetwork"
+}

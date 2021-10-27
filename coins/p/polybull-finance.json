@@ -1,0 +1,23 @@
+{
+    "id": "polybull-finance",
+    "symbol": "bull",
+    "name": "PolyBull Finance",
+    "platforms": {
+        "polygon-pos": "0x138b9c072879219cd6ef2d6d9e0d179b3396f07b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PolyBull Finance (BULL) is a brand new yield farming and staking platform on Polygon (MATIC) network. We are experienced smart contract / UI / UX development team and have a good vision about the future of cryptocurrency. This is a long-term project not a get rich quick project. Our target is become the #1 AMM & yield farm on Polygon"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x138b9c072879219cd6ef2d6d9e0d179b3396f07b",
+    "url": "https://polybull.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x138b9c072879219cd6ef2d6d9e0d179b3396f07b"
+    ],
+    "twitter": "polybullfinance",
+    "telegram": "polybullfinanceofficial",
+    "github_org": "polybullfinance"
+}

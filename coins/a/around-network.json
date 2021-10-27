@@ -1,0 +1,23 @@
+{
+    "id": "around-network",
+    "symbol": "art",
+    "name": "Around Network",
+    "platforms": {
+        "binance-smart-chain": "0x2e40a9decea6a050e8b00a690bd8eae546624864",
+        "waves": "EjWs1XaTw4YYuoRuW7NKyyGh868SCiV2GaKSb4vhCLE7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Deployed on Binance Smart Chain, we aim to cement the Around Network ecosystem as the first and most revolutionary project to bring-in a real public smart chain that is faster, eco-friendly and cheap then any other possible competition out there."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2e40a9decea6a050e8b00a690bd8eae546624864",
+    "url": "http://www.aroundnetwork.io",
+    "explorers": [
+        "https://bscscan.com/token/0x2e40a9decea6a050e8b00a690bd8eae546624864"
+    ],
+    "twitter": "AroundNetwork",
+    "telegram": "AroundNetwork"
+}

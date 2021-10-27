@@ -1,0 +1,24 @@
+{
+    "id": "osina",
+    "symbol": "osina",
+    "name": "OSINA",
+    "platforms": {
+        "ethereum": "0x39ad22c916f42af5f67371d6f2fb0dab42321a89"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Social Money"
+    ],
+    "description": {
+        "en": "OSINA is a social currency developed around the work of Nigerian visual artist, Osinachi."
+    },
+    "country_origin": "NG",
+    "genesis_date": null,
+    "contract_address": "0x39ad22c916f42af5f67371d6f2fb0dab42321a89",
+    "url": "https://app.tryroll.com/token/OSINA",
+    "explorers": [
+        "https://etherscan.io/token/0x39Ad22C916F42aF5f67371d6f2Fb0dab42321a89",
+        "https://ethplorer.io/address/0x39ad22c916f42af5f67371d6f2fb0dab42321a89"
+    ],
+    "twitter": "osinachiart"
+}

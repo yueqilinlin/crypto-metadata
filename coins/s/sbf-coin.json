@@ -1,0 +1,23 @@
+{
+    "id": "sbf-coin",
+    "symbol": "sbfc",
+    "name": "SBF Coin",
+    "platforms": {
+        "solana": "AWW5UQfMBnPsTaaxCK7cSEmkj1kbX2zUrqvgKXStjBKx"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The mission of SBF Coin\uff08$SBFC\uff09is to incentivize community of SBF fans to promote FTX and Solana ecosystem, help Dapps to scale and improve ease of use."
+    },
+    "country_origin": "HK",
+    "genesis_date": null,
+    "contract_address": "AWW5UQfMBnPsTaaxCK7cSEmkj1kbX2zUrqvgKXStjBKx",
+    "url": "https://sbfcoin.org",
+    "explorers": [
+        "https://explorer.solana.com/address/AWW5UQfMBnPsTaaxCK7cSEmkj1kbX2zUrqvgKXStjBKx"
+    ],
+    "twitter": "sbfcoin",
+    "telegram": "sbfcoin",
+    "github_org": "sbfcoin"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "orbs",
+    "symbol": "orbs",
+    "name": "Orbs",
+    "platforms": {
+        "ethereum": "0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa",
+        "binance-smart-chain": "0xebd49b26169e1b52c04cfd19fcf289405df55f80",
+        "polygon-pos": "0x614389eaae0a6821dc49062d56bda3d9d45fa2ff"
+    },
+    "hashing_algorithm": "Proof of Stake",
+    "categories": [
+        "Infrastructure"
+    ],
+    "description": {
+        "en": "Orbs was built to bridge the unoccupied gap between the functionality of a public blockchain with the ironclad security of a private one.\r\n\r\nIn a time where people are trusting major companies less than ever before, those enterprises can, at best, ask users to trust them. By empowering those enterprises with the option of operating on a public blockchain safely, Orbs grants them a major competitive edge in the form of digital guarantees to users: No need to trust when users can simply verify."
+    },
+    "country_origin": "IL",
+    "genesis_date": null,
+    "contract_address": "0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa",
+    "url": "https://www.orbs.com/",
+    "explorers": [
+        "https://etherscan.io/token/0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa",
+        "https://prism.orbs.network",
+        "https://ethplorer.io/address/0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa"
+    ],
+    "twitter": "orbs_network",
+    "telegram": "OrbsNetwork",
+    "reddit": "ORBS_Network/",
+    "github_org": "orbs-network"
+}

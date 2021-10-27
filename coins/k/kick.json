@@ -1,0 +1,30 @@
+{
+    "id": "kick",
+    "symbol": "kick",
+    "name": "Kick",
+    "platforms": {
+        "ethereum": "0x824a50df33ac1b41afc52f4194e2e8356c17c3ac",
+        "harmony-shard-0": "0xc63fd3e9c9527ccdf1d331bbadfe21e77e357b5e"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Finance / Banking"
+    ],
+    "description": {
+        "en": "Kick Ecosystem describes itself as a set of synergistically interacting fintech tools that form a \u201cone-stop-shop\u201d for every user from all over the world. These transformative tools cover all financial needs. KickToken acts as a central currency, which resides on the Ethereum platform.\r\n\r\nKick Ecosystem offers a productive approach to cryptocurrency investors by identifying the needs of the modern world.  The ecosystem comprises an exchange (KickEX.com), a referral program KickRef (ref.kickex.com), a white label token sale solution (KickDesk), STO listing and trading, a unified login system (KickID), a multicurrency wallet (KickWallet), a crypto payment gateway (KickPay), ad network integration (KickCPA), a mobile app (KickMobile), a messaging service (KickMessenger), a crypto markets research institute KickAcademy (academy.kickex.com) and exchange-pricing solutions (AICO and IECO).\r\n\r\nFor more information on the token and ecosystem please visit KickEX.com and ref.kickex.com"
+    },
+    "country_origin": "RU",
+    "genesis_date": "2017-09-25",
+    "contract_address": "0x824a50df33ac1b41afc52f4194e2e8356c17c3ac",
+    "url": "https://kickecosystem.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x824a50dF33AC1B41Afc52f4194E2e8356C17C3aC",
+        "https://ethplorer.io/address/0x824a50df33ac1b41afc52f4194e2e8356c17c3ac",
+        "https://etherscan.io/address/0x824a50dF33AC1B41Afc52f4194E2e8356C17C3aC"
+    ],
+    "twitter": "KickEcosystem",
+    "facebook": "kickecosystem",
+    "telegram": "kickico",
+    "reddit": "KICKICO_Platform",
+    "github_org": "kickico"
+}

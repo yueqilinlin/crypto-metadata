@@ -1,0 +1,20 @@
+{
+    "id": "spacecoin",
+    "symbol": "space",
+    "name": "Spacecoin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [],
+    "description": {
+        "en": "A fast, secure and decentralized open source digital currency. The cryptocurrency designed for current and future currency paradigms."
+    },
+    "country_origin": "",
+    "genesis_date": "2015-08-30",
+    "url": "http://spacecoin.info/",
+    "explorers": [
+        "http://space.midnightminer.net/"
+    ],
+    "twitter": "space_coin",
+    "reddit": "SpaceCoin",
+    "github_org": "midnight-miner"
+}

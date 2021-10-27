@@ -1,0 +1,24 @@
+{
+    "id": "mello-token",
+    "symbol": "mello",
+    "name": "Mello Token",
+    "platforms": {
+        "binance-smart-chain": "0x651bfbb26455294408aabc61a7adf427bf149898"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "We have designed a cryptocurrency called the Mello Token for the purpose of integration into our VR Casino concept."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x651bfbb26455294408aabc61a7adf427bf149898",
+    "url": "https://www.mellotoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x651bfbb26455294408aabc61a7adf427bf149898"
+    ],
+    "twitter": "mellotoken",
+    "facebook": "Mellotoken",
+    "reddit": "MelloToken/",
+    "github_org": "Mello-Token"
+}

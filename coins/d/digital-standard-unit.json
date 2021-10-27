@@ -1,0 +1,23 @@
+{
+    "id": "digital-standard-unit",
+    "symbol": "dsu",
+    "name": "Digital Standard Unit",
+    "platforms": {
+        "ethereum": "0x605d26fbd5be761089281d5cec2ce86eea667109"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Digital Standard Unit is the new stable token in the Empty Set ecosystem. Its sole purpose is to be a stable token and as such will carry no governance rights, as opposed to the single token design in the previous version of the protocol.\r\nUsers can freely mint DSU at the Empty Set DAO by placing USDC in the protocol\u2019s reserve. The users are also able to redeem DSU at any point through the same mechanism, retrieving the underlying assets from the reserve and burning the DSU token. Therefore DSU will have an elastic supply governed only by the demand for the token by its users. The Empty Set DAO can not mint or burn DSU via governance.\r\nWhen the next version of the protocol is launched DSU\u2019s supply will be 0 and can be immediately minted from the Empty Set DAO."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x605d26fbd5be761089281d5cec2ce86eea667109",
+    "url": "https://emptyset.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x605D26FBd5be761089281d5cec2Ce86eeA667109",
+        "https://ethplorer.io/address/0x605D26FBd5be761089281d5cec2Ce86eeA667109"
+    ],
+    "twitter": "emptysetsquad",
+    "telegram": "emptysetdollar"
+}

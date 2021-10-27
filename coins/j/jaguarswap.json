@@ -1,0 +1,24 @@
+{
+    "id": "jaguarswap",
+    "symbol": "jaguar",
+    "name": "JaguarSwap",
+    "platforms": {
+        "binance-smart-chain": "0x4a3524936db5c310d852266033589d3f6f30ba5d",
+        "polygon-pos": "0x30f56f3f6d67011d7818f4ca36cd1d0e6bd1f6d6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yield Farm & Algorithmic Stablecoin Protocol & AMM on #BSC\r\n\r\nJaguarSwap - Yield Farming on Binance Smart Chain"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4a3524936db5c310d852266033589d3f6f30ba5d",
+    "url": "https://jaguarswap.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x4a3524936Db5C310d852266033589D3f6F30BA5d"
+    ],
+    "twitter": "JaguarSwap",
+    "telegram": "jaguarswap_main",
+    "github_org": "JaguarSwap"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "kudoge",
+    "symbol": "kudo",
+    "name": "KuDoge",
+    "platforms": {
+        "kucoin-community-chain": "0x6665d66afa48f527d86623723342cfa258cb8666"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "KuDoge is a dog themed community token aimed at bringing the well known Doge memes to the KuCoin Community Chain. Our goal is to be a 100% community-driven project. One of the first things we want to achieve is to eventually run a validator on the KuCoin Community Chain to give back to our underlying network."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6665d66afa48f527d86623723342cfa258cb8666",
+    "url": "https://kudoge.io/",
+    "explorers": [
+        "https://explorer.kcc.io/en/token/0x6665d66afa48f527d86623723342cfa258cb8666"
+    ],
+    "twitter": "KuDogeOfficial",
+    "telegram": "KuDoge",
+    "reddit": "KuDoge/",
+    "github_org": "KuDoge"
+}

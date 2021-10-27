@@ -1,0 +1,23 @@
+{
+    "id": "drdoge",
+    "symbol": "drdoge",
+    "name": "DrDoge",
+    "platforms": {
+        "binance-smart-chain": "0x1ea637e454ec46aee035371bc9ca1f1e25064244"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1ea637e454ec46aee035371bc9ca1f1e25064244",
+    "url": "https://www.drdoge.org/",
+    "explorers": [
+        "https://bscscan.com/token/0x1ea637e454ec46aee035371bc9ca1f1e25064244"
+    ],
+    "twitter": "Dr_DogeOfficial",
+    "telegram": "DoctorDogeOfficial",
+    "reddit": "DrDogeOfficial/"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "saber",
+    "symbol": "sbr",
+    "name": "Saber",
+    "platforms": {},
+    "hashing_algorithm": null,
+    "categories": [
+        "Solana Ecosystem"
+    ],
+    "description": {
+        "en": "Cross-chain stablecoin exchange on Solana"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "url": "https://saber.so/",
+    "explorers": [
+        "https://solscan.io/token/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
+    ],
+    "twitter": "Saber_HQ",
+    "github_org": "saber-hq"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "extreme-private-masternode-coin",
+    "symbol": "EPM",
+    "name": "Extreme Private Masternode Coin",
+    "platforms": {},
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Gambling"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "JP",
+    "genesis_date": "2019-07-15",
+    "url": "https://www.epmcoin.io",
+    "explorers": [
+        "http://explorer.epmcoin.io/"
+    ],
+    "twitter": "ExtremeprivateM",
+    "facebook": "Extreme-Private-Masternode-621695654976421/",
+    "telegram": "Extremeprivatemasternode",
+    "github_org": "epmcoin"
+}

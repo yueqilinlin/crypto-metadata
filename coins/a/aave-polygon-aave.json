@@ -1,0 +1,24 @@
+{
+    "id": "aave-polygon-aave",
+    "symbol": "amAAVE",
+    "name": "Aave Polygon AAVE",
+    "platforms": {
+        "polygon-pos": "0x1d2a0e5ec8e5bbdca5cb219e649b565d8e5c3360"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Aave Tokens"
+    ],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1d2a0e5ec8e5bbdca5cb219e649b565d8e5c3360",
+    "url": "https://aave.com/",
+    "explorers": [
+        "https://polygonscan.com/token/0x1d2a0E5EC8E5bBDCA5CB219e649B565d8e5c3360"
+    ],
+    "twitter": "aaveaave",
+    "telegram": "Aavesome"
+}

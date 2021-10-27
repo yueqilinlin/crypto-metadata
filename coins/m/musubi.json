@@ -1,0 +1,23 @@
+{
+    "id": "musubi",
+    "symbol": "musubi",
+    "name": "Musubi",
+    "platforms": {
+        "ethereum": "0x8ee04e1e9400d4e2091ff3a46509e246e2f34542"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Musubi is a reflective ERC-20 community token with a dynamic fee structure that rewards holders, especially when whales take profit. It has a dynamic fee structure that is directly relative to a sell's price impact, with minimum of 10% fee and maximum of 40% fee. There are no sell restrictions, so we welcome whales in our ecosystem - and minnows benefit greatly when whales take profit!\r\n\r\nMusubi also features a unique approach to fee-taking that mitigates the huge dumps that follow massive pumps on other fee-taking contracts. This creates a gorgeous chart, and doesn't dramatically punish buyers who jumped in on the way up!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8ee04e1e9400d4e2091ff3a46509e246e2f34542",
+    "url": "https://musubitoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8ee04e1e9400d4e2091ff3a46509e246e2f34542",
+        "https://ethplorer.io/address/0x8ee04e1e9400d4e2091ff3a46509e246e2f34542"
+    ],
+    "twitter": "MusubiToken",
+    "telegram": "musubi_token"
+}

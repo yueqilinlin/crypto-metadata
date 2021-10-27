@@ -1,0 +1,24 @@
+{
+    "id": "raicoin",
+    "symbol": "rai",
+    "name": "Raicoin",
+    "platforms": {
+        "binance-smart-chain": "0x64ef755d5a2627538caa3eb62ee07f96f9b608e4"
+    },
+    "hashing_algorithm": "Blake2b",
+    "categories": [],
+    "description": {
+        "en": "Raicoin is a brand new block lattice chain designed for real life and daily use."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x64ef755d5a2627538caa3eb62ee07f96f9b608e4",
+    "url": "https://raicoin.org",
+    "explorers": [
+        "https://raicoin.org#explorer",
+        "https://bscscan.com/token/0x64ef755d5a2627538caa3eb62ee07f96f9b608e4"
+    ],
+    "twitter": "RaicoinC",
+    "telegram": "RaicoinOfficial",
+    "github_org": "raicoincommunity"
+}

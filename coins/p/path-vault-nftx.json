@@ -1,0 +1,24 @@
+{
+    "id": "path-vault-nftx",
+    "symbol": "path",
+    "name": "PATH Vault (NFTX)",
+    "platforms": {
+        "ethereum": "0x478e677c0bd24c848bd591cc5273383dd5f30e4a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "PATH Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs).\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x478e677c0bd24c848bd591cc5273383dd5f30e4a",
+    "url": "https://nftx.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x478e677c0bd24c848bd591cc5273383dd5f30e4a",
+        "https://ethplorer.io/address/0x478e677c0bd24c848bd591cc5273383dd5f30e4a"
+    ],
+    "twitter": "nftx_"
+}

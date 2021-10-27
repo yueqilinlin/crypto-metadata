@@ -1,0 +1,24 @@
+{
+    "id": "nftb",
+    "symbol": "nftb",
+    "name": "NFTb",
+    "platforms": {
+        "binance-smart-chain": "0xde3dbbe30cfa9f437b293294d1fd64b26045c71a"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "NFTb is an NFT Marketplace built for speed and affordability on the Binance Smart Chain (BSC) and expanding to multi-chain support with subsequent product updates. Users anywhere around the world can join the platform and create, sell and trade digital art at a fraction of the cost of other platforms."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xde3dbbe30cfa9f437b293294d1fd64b26045c71a",
+    "url": "https://nftb.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xde3dbbe30cfa9f437b293294d1fd64b26045c71a"
+    ],
+    "twitter": "nftbmarket",
+    "telegram": "nftbcommunity"
+}

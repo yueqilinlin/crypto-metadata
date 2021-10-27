@@ -1,0 +1,23 @@
+{
+    "id": "unigraph",
+    "symbol": "graph",
+    "name": "UniGraph",
+    "platforms": {
+        "ethereum": "0x165440036ce972c5f8ebef667086707e48b2623e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x165440036ce972c5f8ebef667086707e48b2623e",
+    "url": "https://unigraph.app/",
+    "explorers": [
+        "https://etherscan.io/token/0x165440036ce972c5f8ebef667086707e48b2623e",
+        "https://ethplorer.io/address/0x165440036ce972c5f8ebef667086707e48b2623e"
+    ],
+    "twitter": "UnigraphApp",
+    "telegram": "unigraphapp"
+}

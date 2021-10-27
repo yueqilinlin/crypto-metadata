@@ -1,0 +1,23 @@
+{
+    "id": "king-of-the-doge",
+    "symbol": "kotdoge",
+    "name": "King Of The Doge",
+    "platforms": {
+        "binance-smart-chain": "0xdc4bf310b5c685a25031580682568fdb1cd55658"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "King Of The Doge is a token built on BSC with gamified tokenomics. Dapps such as a \"\"Leaderboard\"\" built for holders to track tokens they are making as the \"\"King Of The Doge\"\" from transactions. $KOTDoge is part of an ecosystem the team is building that will tie in a game that is in the works and possibly completed by Q4 2021. \r\n\r\n$KOTDOGE is the flagship token which might be used for the cosmetics function of character building in the upcoming NFT game.\r\n\r\nThe competitive gamified tokenomics is a fresh idea that we believe will drive innovation in the crypto-space instead of senseless unthought buying and selling.\r\n\r\nThe King Of The Doge is the top buyer within a 4 hour interval. If you are the King, you get 3% of every transaction until someone takes over your crown!"
+    },
+    "country_origin": "AU",
+    "genesis_date": null,
+    "contract_address": "0xdc4bf310b5c685a25031580682568fdb1cd55658",
+    "url": "https://kingofthedoge.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xdc4bf310b5c685a25031580682568fdb1cd55658"
+    ],
+    "twitter": "kingofdogebsc",
+    "telegram": "kingofthedogeofficial",
+    "github_org": "KingOfTheDoge"
+}

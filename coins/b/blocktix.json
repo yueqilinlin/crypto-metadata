@@ -1,0 +1,25 @@
+{
+    "id": "blocktix",
+    "symbol": "tix",
+    "name": "Blocktix",
+    "platforms": {
+        "ethereum": "0xea1f346faf023f974eb5adaf088bbcdf02d761f4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Blocktix System is a platform that replaces the current fragmented markets of event ticket distribution, ticket transfer and event promotion. Blocktix is a single system for all services and provides a low overhead for distributors and promoters, freeing up money otherwise wasted in inefficient market based systems."
+    },
+    "country_origin": "NL",
+    "genesis_date": "2017-07-09",
+    "contract_address": "0xea1f346faf023f974eb5adaf088bbcdf02d761f4",
+    "url": "https://blocktix.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xea1f346faf023f974eb5adaf088bbcdf02d761f4",
+        "https://ethplorer.io/address/0xea1f346faf023f974eb5adaf088bbcdf02d761f4"
+    ],
+    "twitter": "blocktix",
+    "facebook": "blocktix",
+    "reddit": "blocktix",
+    "github_org": "blocktix"
+}
