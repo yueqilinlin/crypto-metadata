@@ -5,7 +5,7 @@ Tracking 2 types of data:
 ### **1. Crypto Metadata:** 
 
 [coins/e/ethereum.json](https://github.com/codemask-labs/crypto-list/tree/main/coins/e/ethereum.json)
-```json
+```javascript
 // Example for Ethereum metadata
 // The meta file is located under folder coins/e/ethereum.json
 
