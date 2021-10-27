@@ -1,0 +1,22 @@
+{
+    "id": "whis-inu",
+    "symbol": "whis",
+    "name": "Whis Inu",
+    "platforms": {
+        "ethereum": "0x95f95388d97002af8f5a5e4c2f308d91ee1914ec"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x95f95388d97002af8f5a5e4c2f308d91ee1914ec",
+    "url": "https://whisinu.io",
+    "explorers": [
+        "https://etherscan.io/token/0x95f95388d97002af8f5a5e4c2f308d91ee1914ec",
+        "https://ethplorer.io/address/0x95f95388d97002af8f5a5e4c2f308d91ee1914ec"
+    ],
+    "telegram": "whisinu"
+}

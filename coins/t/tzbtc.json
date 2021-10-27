@@ -1,0 +1,20 @@
+{
+    "id": "tzbtc",
+    "symbol": "tzbtc",
+    "name": "tzBTC",
+    "platforms": {
+        "tezos": "KT1PWX2MNDUEOOD7FEMFBBDKX1D9BANNXITN_0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "tzBTC is a Tezos token which is fully collateralized with Bitcoin, issued by the Bitcoin Association Switzerland"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "KT1PWX2MNDUEOOD7FEMFBBDKX1D9BANNXITN_0",
+    "url": "https://tzbtc.io/",
+    "explorers": [
+        "https://tzkt.io/KT1PWx2mnDueood7fEmfbBDKx1D9BAnnXitn/operations/"
+    ]
+}

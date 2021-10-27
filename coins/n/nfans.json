@@ -1,0 +1,22 @@
+{
+    "id": "nfans",
+    "symbol": "nfs",
+    "name": "Nfans",
+    "platforms": {
+        "binance-smart-chain": "0x6ee002ce31ce4e52211eefb2d3986082663d5f60"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6ee002ce31ce4e52211eefb2d3986082663d5f60",
+    "url": "https://www.nfans.io",
+    "explorers": [
+        "https://bscscan.com/token/0x6ee002ce31ce4e52211eefb2d3986082663d5f60"
+    ],
+    "twitter": "NFans_official",
+    "telegram": "NFansOnline"
+}

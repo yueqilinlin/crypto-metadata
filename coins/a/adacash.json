@@ -1,0 +1,22 @@
+{
+    "id": "adacash",
+    "symbol": "adacash",
+    "name": "ADAcash",
+    "platforms": {
+        "binance-smart-chain": "0x651a89fed302227d41425235f8e934502fb94c48"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x651a89fed302227d41425235f8e934502fb94c48",
+    "url": "https://adacash.io",
+    "explorers": [
+        "https://bscscan.com/token/0x651a89fed302227d41425235f8e934502fb94c48"
+    ],
+    "twitter": "adacashbsc",
+    "telegram": "adacashtoken"
+}

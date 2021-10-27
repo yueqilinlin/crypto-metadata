@@ -1,0 +1,24 @@
+{
+    "id": "zombie-inu",
+    "symbol": "zinu",
+    "name": "Zombie Inu",
+    "platforms": {
+        "ethereum": "0xc50ef449171a51fbeafd7c562b064b6471c36caa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc50ef449171a51fbeafd7c562b064b6471c36caa",
+    "url": "https://zombieinu.io",
+    "explorers": [
+        "https://etherscan.io/token/0xc50ef449171a51fbeafd7c562b064b6471c36caa",
+        "https://ethplorer.io/address/0xc50ef449171a51fbeafd7c562b064b6471c36caa"
+    ],
+    "twitter": "ZInuToken",
+    "telegram": "ZombieInuEth",
+    "reddit": "ZombieInu/"
+}
