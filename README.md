@@ -1,4 +1,4 @@
-# crypto-list
+# crypto-metadata
 Open metadata for all cryptocurrencies
 
 Tracking 2 types of data:
