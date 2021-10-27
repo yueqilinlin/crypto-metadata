@@ -1,0 +1,25 @@
+{
+    "id": "stakd-token",
+    "symbol": "skd",
+    "name": "Stakd Token",
+    "platforms": {
+        "binance-smart-chain": "0x578b2a12d2c661cd4abfb8e98670acd7b2323bc7"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "description": {
+        "en": "Stakd is a highly rewarding token, with a fixed supply that benefits investors and includes community giveaways, redistribution and burns!"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x578b2a12d2c661cd4abfb8e98670acd7b2323bc7",
+    "url": "https://www.stakdtoken.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x578b2a12d2c661cd4abfb8e98670acd7b2323bc7"
+    ],
+    "twitter": "StakdToken",
+    "telegram": "stakdtoken",
+    "github_org": "stakdtech"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "dotoracle",
+    "symbol": "dto",
+    "name": "DotOracle",
+    "platforms": {
+        "ethereum": "0xb57420fad6731b004309d5a0ec7c6c906adb8df7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The DotOracle decentralized network aims to provide real time data to blur the boundary between the Polkadot Ecosystem and the Off-Dot world"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb57420fad6731b004309d5a0ec7c6c906adb8df7",
+    "url": "https://dotoracle.network/",
+    "explorers": [
+        "https://etherscan.io/token/0xB57420FaD6731B004309D5a0ec7C6C906Adb8df7",
+        "https://ethplorer.io/address/0xb57420fad6731b004309d5a0ec7c6c906adb8df7"
+    ],
+    "twitter": "DotOracle",
+    "telegram": "dotoracle",
+    "github_org": "dotoracle"
+}

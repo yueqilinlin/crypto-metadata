@@ -1,0 +1,24 @@
+{
+    "id": "coinracer",
+    "symbol": "crace",
+    "name": "Coinracer",
+    "platforms": {
+        "binance-smart-chain": "0xfbb4f2f342c6daab63ab85b0226716c4d1e26f36"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The one and the only low-poly multiplayer blockchain-powered skill-based racing game you can play to earn! With our smart contract-backed CoinracerSmartPool back-end, you can race and earn $CRACE tokens completely decentralized."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfbb4f2f342c6daab63ab85b0226716c4d1e26f36",
+    "url": "https://coinracer.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xfbb4f2f342c6daab63ab85b0226716c4d1e26f36"
+    ],
+    "twitter": "coin_racer",
+    "telegram": "coinracerofficial",
+    "reddit": "coinracer/",
+    "github_org": "Coinracer-io"
+}
