@@ -1,0 +1,23 @@
+{
+    "id": "rekt-2",
+    "symbol": "rkt",
+    "name": "Rekt",
+    "platforms": {
+        "ethereum": "0x4cab0abc80fe1c0521cbb5e9810a1c88c3942f91"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4cab0abc80fe1c0521cbb5e9810a1c88c3942f91",
+    "url": "https://rekttoken.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x4cab0abc80fe1c0521cbb5e9810a1c88c3942f91",
+        "https://ethplorer.io/address/0x4cab0abc80fe1c0521cbb5e9810a1c88c3942f91"
+    ],
+    "twitter": "rekt_token",
+    "telegram": "RKT_Token"
+}

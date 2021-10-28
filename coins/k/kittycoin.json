@@ -1,0 +1,22 @@
+{
+    "id": "kittycoin",
+    "symbol": "kitty",
+    "name": "KittyCoin",
+    "platforms": {
+        "polygon-pos": "0xb4228798ff437ecd8fa43429664e9992256fe6ac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xb4228798ff437ecd8fa43429664e9992256fe6ac",
+    "url": "https://www.kittycoin.cat",
+    "explorers": [
+        "https://polygonscan.com/token/0xb4228798fF437ecD8fa43429664e9992256fe6Ac"
+    ],
+    "twitter": "0xkittycoin",
+    "telegram": "kittycoine"
+}

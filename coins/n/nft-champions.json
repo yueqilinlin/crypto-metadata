@@ -1,0 +1,22 @@
+{
+    "id": "nft-champions",
+    "symbol": "champ",
+    "name": "NFT Champions",
+    "platforms": {
+        "polygon-pos": "0x8f9e8e833a69aa467e42c46cca640da84dd4585f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Collect, train, and battle with NFTs in this blockchain-based MMORPG built on Unreal Engine 4."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8f9e8e833a69aa467e42c46cca640da84dd4585f",
+    "url": "https://nftchampions.cc/",
+    "explorers": [
+        "https://polygonscan.com/token/0x8f9e8e833a69aa467e42c46cca640da84dd4585f"
+    ],
+    "twitter": "NFTChampions",
+    "telegram": "NFTChampions"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "lovepot-token",
+    "symbol": "love",
+    "name": "LovePot Token",
+    "platforms": {
+        "binance-smart-chain": "0xd631d33f2c3f38d9abdae08ebc0b69fa636e8ec2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Decentralized Zero Loss Jackpot, Farm, Pool Stake $LOVE Token and earn."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd631d33f2c3f38d9abdae08ebc0b69fa636e8ec2",
+    "url": "https://lovepot.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xd631d33F2c3f38d9ABDaE08ebC0B69fA636E8ec2"
+    ],
+    "twitter": "Lovepot_finance",
+    "telegram": "Lovepot_finance"
+}

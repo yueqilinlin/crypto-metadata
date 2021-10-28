@@ -1,0 +1,22 @@
+{
+    "id": "brandpad-finance",
+    "symbol": "brand",
+    "name": "BrandPad Finance",
+    "platforms": {
+        "binance-smart-chain": "0x4d993ec7b44276615bb2f6f20361ab34fbf0ec49"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BrandPad is the most secure multi-chain IDO platform in the community allowing projects to procure funds by launching rug-free assets. This platform will help in fulfilling dreams of new creators by making their tokens a success along with ultimate security to the investors which is our foremost priority."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4d993ec7b44276615bb2f6f20361ab34fbf0ec49",
+    "url": "https://brandpad.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x4d993ec7b44276615bb2f6f20361ab34fbf0ec49"
+    ],
+    "twitter": "BrandPadFinance",
+    "telegram": "BrandPad"
+}

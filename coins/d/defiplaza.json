@@ -1,0 +1,23 @@
+{
+    "id": "defiplaza",
+    "symbol": "dfp2",
+    "name": "DefiPlaza",
+    "platforms": {
+        "ethereum": "0x2f57430a6ceda85a67121757785877b4a71b8e6d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DefiPlaza is a low-cost distributed exchange on Ethereum."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2f57430a6ceda85a67121757785877b4a71b8e6d",
+    "url": "https://defiplaza.net",
+    "explorers": [
+        "https://etherscan.io/token/0x2f57430a6ceda85a67121757785877b4a71b8e6d",
+        "https://ethplorer.io/address/0x2f57430a6ceda85a67121757785877b4a71b8e6d"
+    ],
+    "twitter": "defiplaza",
+    "telegram": "defiplaza"
+}

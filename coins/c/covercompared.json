@@ -1,0 +1,26 @@
+{
+    "id": "covercompared",
+    "symbol": "cvr",
+    "name": "CoverCompared",
+    "platforms": {
+        "ethereum": "0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Polkadot Ecosystem"
+    ],
+    "description": {
+        "en": "CoverCompared is the First DeFi insurance marketplace for the global crypto ecosystem. We aim to lower transactional and administrative costs of insurance policies and coverage while providing high-value, cost-effective insurance products bought using a host of cryptocurrencies.\r\n\r\nOur platform will connect users with multinational insurance providers for all global insurance products such as crypto-related protection, health, life, and travel policies. "
+    },
+    "country_origin": "EE",
+    "genesis_date": null,
+    "contract_address": "0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6",
+    "url": "https://covercompared.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6",
+        "https://ethplorer.io/address/0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6"
+    ],
+    "twitter": "CoverCompared",
+    "telegram": "CoverCompared",
+    "github_org": "CoverCompared"
+}

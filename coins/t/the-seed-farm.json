@@ -1,0 +1,22 @@
+{
+    "id": "the-seed-farm",
+    "symbol": "seed",
+    "name": "The Seed Farm",
+    "platforms": {
+        "avalanche": "0x37427c72f3534d854ee462d18f42ad5fbe74aa2b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Yield farming on avalanche"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x37427c72f3534d854ee462d18f42ad5fbe74aa2b",
+    "url": "https://theseedfarm.app/",
+    "explorers": [
+        "https://avascan.info/blockchain/c/token/0x37427C72f3534d854EE462d18f42aD5fbE74AA2B"
+    ],
+    "twitter": "The_Seed_Farm",
+    "telegram": "TheSeedFarm"
+}

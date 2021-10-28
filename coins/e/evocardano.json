@@ -1,0 +1,22 @@
+{
+    "id": "evocardano",
+    "symbol": "evoc",
+    "name": "EvoCardano",
+    "platforms": {
+        "binance-smart-chain": "0x086cc8e468b3cb5494f18a7abc2de1321306af12"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Evocardano is about developing a DEX - (Decentralized Exchange) similar to Pancakeswap for a Cardano network. Where it will allow users to trade Defi projects on the Cardano network quickly, cheaply and securely."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x086cc8e468b3cb5494f18a7abc2de1321306af12",
+    "url": "www.evocardano.com/en",
+    "explorers": [
+        "https://bscscan.com/token/0x086cc8e468b3cb5494f18a7abc2de1321306af12"
+    ],
+    "twitter": "evocardanoofc",
+    "telegram": "evocardanoenglish"
+}

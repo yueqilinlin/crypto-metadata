@@ -1,0 +1,23 @@
+{
+    "id": "baby-floki-doge",
+    "symbol": "babyfd",
+    "name": "Baby Floki Doge",
+    "platforms": {
+        "binance-smart-chain": "0xe24f6bc7635501d5684a963f7e75c8062b9c0ea4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PsychoDoge is a BSC token that gives reflection rewards to its holders and has proprietary hyper-deflationary tokenomics. \r\n\r\nWe tax all buys with 6% 2% going directly to holders of $BabyFD, 2% to liquidity 2% to the marketing & development wallet. We tax sells with 6% 2% going directly to holders of $BabyFD, 2% to liquidity 2% to the marketing & development wallet.\r\n\r\nHyperdeflationary: Each and every holder benefits from the reflection tax and the burn wallet. Our Blackhole Burn Wallet receives reflection on buys and sells and then burns those tokens out of circulation forever, continually shrinking the supply of $BabyFD. This creates value in added tokens to holders, and decreasing overall supply.\r\n\r\nSecurity minded: Liquidity is locked by Pinksale.Finance for 12 months. Audited by Solidity.Finance. Team operates under a multisig wallet to allow full democracy over the funds."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe24f6bc7635501d5684a963f7e75c8062b9c0ea4",
+    "url": "https://www.babyflokidoge.info/",
+    "explorers": [
+        "https://bscscan.com/token/0xe24F6Bc7635501d5684a963f7e75C8062b9c0eA4"
+    ],
+    "twitter": "BabyFlokiDoge",
+    "telegram": "babyflokidogecoin",
+    "reddit": "BabyFlokiDoge/"
+}

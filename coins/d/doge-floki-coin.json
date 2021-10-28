@@ -1,0 +1,23 @@
+{
+    "id": "doge-floki-coin",
+    "symbol": "dofi",
+    "name": "Doge Floki Coin",
+    "platforms": {
+        "binance-smart-chain": "0xf9d6ddf44016953dbf7ab135a0f64d7a41870ede"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Doge Floki Coin is meme coin.  A new cryptocurrency birthed by other coins based on dogs. Doge Floki Coin is named after Elon Musk "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf9d6ddf44016953dbf7ab135a0f64d7a41870ede",
+    "url": "https://dogefloki.site/",
+    "explorers": [
+        "https://bscscan.com/token/0xf9d6ddf44016953dbf7ab135a0f64d7a41870ede"
+    ],
+    "twitter": "dogeflokiglobal",
+    "telegram": "dogeflokiglobal",
+    "reddit": "dogeflokicoin"
+}

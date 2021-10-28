@@ -1,0 +1,23 @@
+{
+    "id": "pancakepoll",
+    "symbol": "ppoll",
+    "name": "PancakePoll",
+    "platforms": {
+        "binance-smart-chain": "0xc29000a4b1ecd326b6dafae17bda636475fea1e7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PancakePoll is a voting platform that utilizes the security and immutability of the Binance Smart Chain and is designed to help community members easily and quickly votes for their favorite projects"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc29000a4b1ecd326b6dafae17bda636475fea1e7",
+    "url": "https://pancakepoll.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xc29000A4b1eCD326b6DafAE17bDA636475FeA1e7"
+    ],
+    "twitter": "PancakePoll",
+    "telegram": "pancakepollbsc",
+    "reddit": "pancakepoll/"
+}

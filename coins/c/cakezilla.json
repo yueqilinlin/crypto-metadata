@@ -1,0 +1,22 @@
+{
+    "id": "cakezilla",
+    "symbol": "cakezilla",
+    "name": "CakeZilla",
+    "platforms": {
+        "binance-smart-chain": "0x443b3143d284e856389efdb929903f773d993e2e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x443b3143d284e856389efdb929903f773d993e2e",
+    "url": "http://cakezilla.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x443b3143d284e856389efdb929903f773d993e2e"
+    ],
+    "twitter": "Cakezillabsc",
+    "telegram": "CakeZilla_bsc"
+}

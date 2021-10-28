@@ -1,0 +1,23 @@
+{
+    "id": "aureus-token",
+    "symbol": "aureusrh",
+    "name": "Aureus Token",
+    "platforms": {
+        "binance-smart-chain": "0xe8f6311a615b4e5f50bb2c6071c725518207337d"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The newest play to earn MMORPG. Enjoy an open world rpg while earning aureus token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe8f6311a615b4e5f50bb2c6071c725518207337d",
+    "url": "https://aureus-token.com",
+    "explorers": [
+        "https://bscscan.com/token/0xe8F6311A615b4E5f50bb2C6071c725518207337d"
+    ],
+    "twitter": "aureustoken",
+    "telegram": "aureustokenoff",
+    "reddit": "aureus_token"
+}

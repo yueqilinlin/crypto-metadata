@@ -1,0 +1,23 @@
+{
+    "id": "coin-sack",
+    "symbol": "cs",
+    "name": "Coin Sack",
+    "platforms": {
+        "binance-smart-chain": "0x125ce3f13950c5fa94397927f88c352fded680ad"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Coin Sack was created with the belief that there needs to be stronger, more trustworthy, and more worthwhile projects built throughout the deFi space. We decided to take this into our own hands by launching Coin Sack; a BEP-20 token featuring battle tested tokenomics, alongside an exclusive NFT Marketplace, all built by a trustworthy team that cares for its investors."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x125ce3f13950c5fa94397927f88c352fded680ad",
+    "url": "https://www.coin-sack.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x125Ce3f13950C5fA94397927F88C352FdED680Ad"
+    ],
+    "twitter": "coin_sack",
+    "telegram": "coinsack",
+    "github_org": "Coin-Sack"
+}
