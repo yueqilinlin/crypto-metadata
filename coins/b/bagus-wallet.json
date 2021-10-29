@@ -1,0 +1,23 @@
+{
+    "id": "bagus-wallet",
+    "symbol": "bg",
+    "name": "Bagus Wallet",
+    "platforms": {
+        "binance-smart-chain": "0x07abe236bb21e96c2e2319766745f782dcd0b0c8"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bagus Wallet presented with the aim of making it easier for crypto users to access assets, watch assets and estimate with priority on secure, simple and easy to use.\r\n\r\nWith the development of the blockchain network, Bagus Wallet is equipped with several different network options, which can make it easier for users to switch networks anywhere and anytime."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x07abe236bb21e96c2e2319766745f782dcd0b0c8",
+    "url": "https://baguswallet.net/",
+    "explorers": [
+        "https://bscscan.com/token/0x07abe236bb21e96c2e2319766745f782dcd0b0c8"
+    ],
+    "twitter": "bagus_wallet",
+    "telegram": "BagusWallet",
+    "github_org": "baguswallet"
+}

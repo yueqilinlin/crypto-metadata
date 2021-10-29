@@ -1,0 +1,25 @@
+{
+    "id": "pontoon",
+    "symbol": "toon",
+    "name": "Pontoon",
+    "platforms": {
+        "ethereum": "0xaee433adebe0fbb88daa47ef0c1a513caa52ef02",
+        "binance-smart-chain": "0xaee433adebe0fbb88daa47ef0c1a513caa52ef02"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "One-click liquidity mirroring across ETH, BSC, HECO Chain, xDAI, POLYGON , OPTIMISM with incentivized relayer network and liquidity mining for liquidity providers across the chains."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xaee433adebe0fbb88daa47ef0c1a513caa52ef02",
+    "url": "https://pontoon.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+        "https://ethplorer.io/address/0xaee433adebe0fbb88daa47ef0c1a513caa52ef02"
+    ],
+    "twitter": "PontoonFi",
+    "telegram": "pontoon_fi",
+    "github_org": "pontoonfi"
+}

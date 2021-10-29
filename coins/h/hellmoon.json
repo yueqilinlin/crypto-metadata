@@ -1,0 +1,22 @@
+{
+    "id": "hellmoon",
+    "symbol": "hmoon",
+    "name": "HELLMOON",
+    "platforms": {
+        "binance-smart-chain": "0x46328f831cff23f44d65fa5e53a7217a660554aa"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x46328f831cff23f44d65fa5e53a7217a660554aa",
+    "url": "https://www.hellmoonlegends.com",
+    "explorers": [
+        "https://bscscan.com/token/0x46328f831cff23f44d65fa5e53a7217a660554aa"
+    ],
+    "twitter": "hellmoon_token",
+    "telegram": "HellMoon_Official"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "pigeon-sol",
+    "symbol": "pgnt",
+    "name": "Pigeon Sol",
+    "platforms": {
+        "solana": "BxHJqGtC629c55swCqWXFGA2rRF1igbbTmh22H8ePUWG"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Pigeon Sol is a deflationary token built on Solana. Pigeons have been messengers in the past. Lets spread our wings and get everyone to Solana ecosystem. Community driven."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "BxHJqGtC629c55swCqWXFGA2rRF1igbbTmh22H8ePUWG",
+    "url": "https://pigeonsol.xyz/",
+    "explorers": [
+        "https://solscan.io/token/BxHJqGtC629c55swCqWXFGA2rRF1igbbTmh22H8ePUWG"
+    ],
+    "twitter": "PigeonSol"
+}

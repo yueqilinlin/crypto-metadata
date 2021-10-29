@@ -1,0 +1,19 @@
+{
+    "id": "solend",
+    "symbol": "slnd",
+    "name": "Solend",
+    "platforms": {
+        "solana": ""
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Algorithmic, decentralized protocol for lending and borrowing on Solana."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "url": "https://solend.fi/",
+    "explorers": [],
+    "twitter": "solendprotocol",
+    "github_org": "solendprotocol"
+}

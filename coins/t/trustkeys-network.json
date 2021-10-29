@@ -1,0 +1,24 @@
+{
+    "id": "trustkeys-network",
+    "symbol": "trustk",
+    "name": "TrustKeys Network",
+    "platforms": {
+        "binance-smart-chain": "0xee89bd9af5e72b19b48cac3e51acde3a09a3ade3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Creating Blockchain Transparency"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xee89bd9af5e72b19b48cac3e51acde3a09a3ade3",
+    "url": "https://trustkeys.network/",
+    "explorers": [
+        "https://bscscan.com/token/0xee89bd9af5e72b19b48cac3e51acde3a09a3ade3"
+    ],
+    "twitter": "trustkeysglobal",
+    "telegram": "trustkeysuperapp",
+    "reddit": "TrustKeys/",
+    "github_org": "trustkeys"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "algebra",
+    "symbol": "algb",
+    "name": "Algebra",
+    "platforms": {
+        "polygon-pos": "0x0169ec1f8f639b32eec6d923e24c2a2ff45b9dd6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Algebra platform will have the ALGB governance token; which will be used for voting, making proposals, accepting projects for our LaunchPad, bootstrapping, incentivization and platform fee distribution."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0169ec1f8f639b32eec6d923e24c2a2ff45b9dd6",
+    "url": "https://algebra.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x0169eC1f8f639B32Eec6D923e24C2A2ff45B9DD6"
+    ],
+    "twitter": "CryptoAlgebra"
+}

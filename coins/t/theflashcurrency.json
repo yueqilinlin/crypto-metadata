@@ -1,0 +1,22 @@
+{
+    "id": "theflashcurrency",
+    "symbol": "tfc",
+    "name": "TheFlashCurrency",
+    "platforms": {
+        "tron": "TSgPrApcEfhrsrcyNnKp21cQbup7DEZF3U"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "TFC was founded by a group of traders from Vietnam with the desire to create a stable ecological economy.  TFC was created to expand the Tron ecosystem, and TFC's own ecosystem makes TFC a payment and utility token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "TSgPrApcEfhrsrcyNnKp21cQbup7DEZF3U",
+    "url": "https://theflashcurrency.com",
+    "explorers": [
+        "https://tronscan.org/#/token/1004117"
+    ],
+    "twitter": "flashtfc",
+    "telegram": "flashtfc"
+}
