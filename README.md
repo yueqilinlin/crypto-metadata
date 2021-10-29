@@ -1,8 +1,10 @@
 ## Open metadata for all cryptocurrencies
 
-<br/>
+#### **1. Metadata of all cryptocurrencies**
 
-#### **1. Metadata structure with ETH as an example**:
+[INDEX.md](./INDEX.md)
+
+#### **2. Metadata structure with ETH as an example**:
 
 ```javascript
 {
@@ -40,6 +42,3 @@
     "github_org": "ethereum"
 }
 ```
-#### **2. Metadata of all cryptocurrencies**
-
-[INDEX.md](./INDEX.md)
