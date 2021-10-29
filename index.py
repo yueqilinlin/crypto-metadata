@@ -18,13 +18,12 @@ def generate_indexes():
                 coins.append((id, name, symbol, url, github_org))
 
     with open('./INDEX.md', 'w') as f:
-        idx = 0
         f.write(f'|Index|Symbol|Name|\n')
         f.write('|---|---|---|\n')
-        for c in coins:
-            idx += 1
-            id, name, symbol, url, _ = c
-            f.write(f'|{idx}|[{symbol.upper()}](./coins/{id[0]}/{id}.json)|{name}|\n')
+
+        for idx, c in enumerate(coins):
+            id, name, symbol, _, _ = c
+            f.write(f'|{idx+1}|[{symbol.upper()}](./coins/{id[0]}/{id}.json)|{name}|\n')
 
     with open('./github_orgs.txt', 'w') as f:
         visited = {}
