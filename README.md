@@ -1,14 +1,10 @@
-# crypto-metadata
-Open metadata for all cryptocurrencies
+## Open metadata for all cryptocurrencies
 
-Tracking 2 types of data:
-### **1. Crypto Metadata:** 
+<br/>
 
-[coins/e/ethereum.json](https://github.com/codemask-labs/crypto-list/tree/main/coins/e/ethereum.json)
+#### **1. Metadata structure with ETH as an example**:
+
 ```javascript
-// Example for Ethereum metadata
-// The meta file is located under folder coins/e/ethereum.json
-
 {
     "symbol": "eth",
     "name": "Ethereum",
@@ -44,7 +40,6 @@ Tracking 2 types of data:
     "github_org": "ethereum"
 }
 ```
-### **2. Active github repos:**
+#### **2. Metadata of all cryptocurrencies**
 
-List of github repositories being active development of all cryptocurrencies
-[coins/active_crypto_repos.txt](https://github.com/codemask-labs/crypto-list/blob/main/active_crypto_repos.txt)
+[INDEX.md](./INDEX.md)
