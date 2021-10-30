@@ -1,0 +1,23 @@
+{
+    "id": "bishu-finance",
+    "symbol": "bishufi",
+    "name": "Bishu Finance",
+    "platforms": {
+        "ethereum": "0xd49374d1d6d2b2d793035a0116f2b0d19230de26"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xd49374d1d6d2b2d793035a0116f2b0d19230de26",
+    "url": "https://www.bishu.fi/",
+    "explorers": [
+        "https://etherscan.io/token/0xd49374d1d6d2b2d793035a0116f2b0d19230de26",
+        "https://ethplorer.io/address/0xd49374d1d6d2b2d793035a0116f2b0d19230de26"
+    ],
+    "twitter": "BishuFi",
+    "telegram": "BishuFinance"
+}

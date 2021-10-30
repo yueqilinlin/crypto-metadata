@@ -1,0 +1,22 @@
+{
+    "id": "token-cheetah",
+    "symbol": "chtt",
+    "name": "Token Cheetah",
+    "platforms": {
+        "binance-smart-chain": "0xc5093ecc7fa594a6ecd8f35538908273c93518f6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Cheetah token is a coin based on the conservation of the animal kingdom. destined to Ecotourism and the conservation of cheetahs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xc5093ecc7fa594a6ecd8f35538908273c93518f6",
+    "url": "https://www.tokencheetah.com/",
+    "explorers": [
+        "https://bscscan.com/token/0xc5093ecc7fa594a6ecd8f35538908273c93518f6"
+    ],
+    "twitter": "cheetah_token",
+    "telegram": "CheetahToken_EN"
+}

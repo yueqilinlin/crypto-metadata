@@ -1,0 +1,22 @@
+{
+    "id": "becoswap-token",
+    "symbol": "beco",
+    "name": "BecoSwap Token",
+    "platforms": {
+        "kardiachain": "0x2eddba8b949048861d2272068a94792275a51658"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Trade, Earn, Win and GameFi on KardiaChain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2eddba8b949048861d2272068a94792275a51658",
+    "url": "https://becoswap.com/",
+    "explorers": [
+        "https://explorer.kardiachain.io/token/0x2Eddba8b949048861d2272068A94792275A51658"
+    ],
+    "twitter": "beco_swap",
+    "telegram": "beco_swap"
+}

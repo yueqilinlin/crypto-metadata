@@ -1,0 +1,22 @@
+{
+    "id": "rocket-raccoon",
+    "symbol": "ron",
+    "name": "Rocket Raccoon",
+    "platforms": {
+        "binance-smart-chain": "0xfc111b40ad299572f74f1c119c036508c621bb19"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rocket Raccoon brings a new twist to \" Hold and Take \" . When you hold $50 Rocket Raccoon, 10% of each transaction will automatically convert to Bitcoin."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfc111b40ad299572f74f1c119c036508c621bb19",
+    "url": "https://www.rocketraccoon.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0xfc111b40ad299572f74f1c119c036508c621bb19"
+    ],
+    "twitter": "RocketR_BTC",
+    "telegram": "RocketRaccoon_Chat"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "zenith-token",
+    "symbol": "zenx",
+    "name": "Zenith Token",
+    "platforms": {
+        "ethereum": "0x67f7e5e9dbed6c52dc52d7a83ac3608ad2648e12"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Zenith X Project is a global fandom platform that seeks to create a new ecosystem in the entertainment industry based on blockchain and Non-Fungible Token (NFT) technology.\r\n\r\nKorea's entertainment industry has grown rapidly over the past decade with the popularity of K-pop, and it is expected to play a major role in the Korean economy for next 10 years. The world is paying attention to the Korean K-pop movement, evaluating the value of the Korean entertainment industry very highly, and studying the factors of its global success in various ways.\r\n\r\nThe Korean entertainment industry, which has its roots in the 1990s when many dance groups began to emerge, is now preparing for an unprecedented path to entering the global market and global content platforms."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x67f7e5e9dbed6c52dc52d7a83ac3608ad2648e12",
+    "url": "https://www.zenithx.co/",
+    "explorers": [
+        "https://etherscan.io/token/0x67f7e5e9dbed6c52dc52d7a83ac3608ad2648e12",
+        "https://ethplorer.io/address/0x67f7e5e9dbed6c52dc52d7a83ac3608ad2648e12"
+    ],
+    "twitter": "zenithnft",
+    "telegram": "zenithxnft"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "space-link",
+    "symbol": "splink",
+    "name": "Space Link",
+    "platforms": {
+        "ethereum": "0x56a41eef4aba11292c58b39f61dabc82ed22c79b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x56a41eef4aba11292c58b39f61dabc82ed22c79b",
+    "url": "https://www.spacelink.army/",
+    "explorers": [
+        "https://etherscan.io/token/0x56a41eef4aba11292c58b39f61dabc82ed22c79b",
+        "https://ethplorer.io/address/0x56a41eef4aba11292c58b39f61dabc82ed22c79b"
+    ],
+    "telegram": "SpaceLinkTokenOfficial"
+}

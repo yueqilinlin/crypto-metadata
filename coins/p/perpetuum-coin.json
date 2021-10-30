@@ -1,0 +1,23 @@
+{
+    "id": "perpetuum-coin",
+    "symbol": "prp",
+    "name": "Perpetuum Coin",
+    "platforms": {
+        "binance-smart-chain": "0x84afb95ca5589674e02d227bdd6da7e7dcf31a3e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "PERPETUUM is a deflationary token that installs an ethereum and bitcoin mining farm with the benefits of its tokenomy.\r\n\r\nWith the benefits of the mining rig, the PERPETUUM token is repurchased and then the bought tokens are sent to the dead wallet.\r\n\r\nThis produces a constant increase in liquidity that helps to raise the price floor, adding liquidity that will never be extracted again by those purchases, hence adding true value to the holders.\r\n\r\nPart of the buyback is used again through the tokenomics to the system, therefore being classified as a perpetual system."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x84afb95ca5589674e02d227bdd6da7e7dcf31a3e",
+    "url": "https://www.perpetuumcoin.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x84aFB95ca5589674e02d227Bdd6DA7E7DCf31A3E"
+    ],
+    "twitter": "Perpetuumcoin",
+    "telegram": "PerpetuumCoin",
+    "github_org": "PerpetuumCoin"
+}

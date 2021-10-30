@@ -1,0 +1,23 @@
+{
+    "id": "frog",
+    "symbol": "frog",
+    "name": "Frog",
+    "platforms": {
+        "fantom": "0x11319cd0ba5e4ce6c302b275b613962b5cc00ade"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FROG is inspired by the team behind Wonderland $TIME and the incredible community behind #OccupyDefi.\r\nUsing funds generated from the buying of Frog token, holders will be rewarded with passive yields in the form of Wrapped Memo dividends, sent directly to their wallets!\r\nWe provide investors passive and automated exposure to the greatest yields in the market through the magic of $TIME."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x11319cd0ba5e4ce6c302b275b613962b5cc00ade",
+    "url": "https://www.frogtoken.online/",
+    "explorers": [
+        "https://ftmscan.com/token/0x11319cd0ba5e4ce6c302b275b613962b5cc00ade"
+    ],
+    "twitter": "frog_token_ftm",
+    "telegram": "frogtoken",
+    "github_org": "FrogTokenFTM"
+}

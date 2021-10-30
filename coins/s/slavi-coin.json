@@ -1,0 +1,23 @@
+{
+    "id": "slavi-coin",
+    "symbol": "slv",
+    "name": "Slavi Coin",
+    "platforms": {
+        "binance-smart-chain": "0x187d0bf09572b10c89e717b9473e07a5a157855a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Slavi coin is a cross-chain decentralized SuperDApp with 30+ blockchains & one-click access to Luxury services and NFT with built-in cross-chain and Layer 2 solutions."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x187d0bf09572b10c89e717b9473e07a5a157855a",
+    "url": "https://slavicoin.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x187d0bf09572b10c89e717b9473e07a5a157855a"
+    ],
+    "twitter": "slavicoin",
+    "telegram": "slavicoin",
+    "github_org": "slvlabs"
+}

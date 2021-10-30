@@ -1,0 +1,21 @@
+{
+    "id": "bamboo-coin",
+    "symbol": "bmbo",
+    "name": "Bamboo Coin",
+    "platforms": {
+        "solana": "5sM9xxcBTM9rWza6nEgq2cShA87JjTBx1Cu82LjgmaEg"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Bamboo Coin is a memecoin on the Solana network, with the aim to be community-owned and provide some fun to our lives.\r\n\r\nBamboo Coin is inspired by the likes of Dogecoin and Shiba. It has all the upsides of Solana's blockchain (high scalability, high speed, low fees) while being a fun cryptocurrency to trade.\r\n\r\nBamboo Coin aims to grow slow and steadily, much like the plant from which it gets its name."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "5sM9xxcBTM9rWza6nEgq2cShA87JjTBx1Cu82LjgmaEg",
+    "url": "https://pandastreet.art/",
+    "explorers": [
+        "https://solscan.io/token/5sM9xxcBTM9rWza6nEgq2cShA87JjTBx1Cu82LjgmaEg"
+    ],
+    "twitter": "PandaStreetNFT"
+}

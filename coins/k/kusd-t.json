@@ -1,0 +1,21 @@
+{
+    "id": "kusd-t",
+    "symbol": "kusd-t",
+    "name": "KUSD-T",
+    "platforms": {
+        "kardiachain": "0x92364ec610efa050d296f1eeb131f2139fb8810e"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x92364ec610efa050d296f1eeb131f2139fb8810e",
+    "url": "https://kardiachain.io/",
+    "explorers": [
+        "https://explorer.kardiachain.io/token/0x92364Ec610eFa050D296f1EEB131f2139FB8810e"
+    ],
+    "telegram": "kardiachain"
+}
