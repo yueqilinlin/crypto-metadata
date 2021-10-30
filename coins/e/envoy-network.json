@@ -1,0 +1,24 @@
+{
+    "id": "envoy-network",
+    "symbol": "env",
+    "name": "Envoy Network",
+    "platforms": {
+        "ethereum": "0xf1d1a5306daae314af6c5d027a492b313e07e1a0"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A new era in collectibles. ENVOY is passionate about building community driven NFT projects that tap into the fanbase of premium collectibles, artists and brands."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xf1d1a5306daae314af6c5d027a492b313e07e1a0",
+    "url": "https://envoy.art/",
+    "explorers": [
+        "https://etherscan.io/token/0xf1d1a5306daae314af6c5d027a492b313e07e1a0",
+        "https://ethplorer.io/address/0xf1d1a5306daae314af6c5d027a492b313e07e1a0"
+    ],
+    "twitter": "envoynetwork",
+    "telegram": "envoynetwork",
+    "github_org": "envoynetwork"
+}
