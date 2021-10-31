@@ -1,0 +1,28 @@
+{
+    "id": "shibamask",
+    "symbol": "shbma",
+    "name": "ShibaMask",
+    "platforms": {
+        "binance-smart-chain": "0x1c384884637099fc002730389aa3760a3c886fee"
+    },
+    "hashing_algorithm": null,
+    "categories": [
+        "Meme Tokens",
+        "Non-Fungible Tokens (NFT)"
+    ],
+    "description": {
+        "en": "#ShibaMask is a deflationary coin with auto rewards. Shibamask is backed by products like NFT Market and  Mobile Wallet."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1c384884637099fc002730389aa3760a3c886fee",
+    "url": "https://shibamask.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x1be66c15731788bae659b4bdd40d4aa9b3bbca94",
+        "https://ethplorer.io/address/0x1be66c15731788bae659b4bdd40d4aa9b3bbca94",
+        "https://bscscan.com/token/0x1c384884637099fc002730389aa3760a3c886fee"
+    ],
+    "twitter": "polkadogee",
+    "telegram": "shibamaskcoin",
+    "reddit": "polkadoge/"
+}
