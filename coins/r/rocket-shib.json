@@ -1,0 +1,23 @@
+{
+    "id": "rocket-shib",
+    "symbol": "rocketshib",
+    "name": "Rocket Shib",
+    "platforms": {
+        "ethereum": "0xfa3f495366c6f986cf178e198e71794c79822243"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "RocketSHIB is an ERC-20 token named in homage to the highly successful SHIBA INU token.\r\nThe token features a reflection mechanic that provides 2% returns on transactions for traders.\r\nTotal token supply is 1 quadrillion, total tax per transaction (buy & sell) is 10%.\r\nThe project team intends RocketSHIB to be the principal token in an eventual ecosystem, and is developing a novel use-case exploring an innovative slant within the ever-expanding NFT arena."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfa3f495366c6f986cf178e198e71794c79822243",
+    "url": "https://rocketshib.io/",
+    "explorers": [
+        "https://etherscan.io/token/0xfa3f495366c6f986cf178e198e71794c79822243",
+        "https://ethplorer.io/address/0xfa3f495366c6f986cf178e198e71794c79822243"
+    ],
+    "twitter": "RocketShibERC20",
+    "telegram": "RocketSHIBtoken"
+}

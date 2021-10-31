@@ -1,0 +1,25 @@
+{
+    "id": "zam-io",
+    "symbol": "zam",
+    "name": "Zam.io",
+    "platforms": {
+        "binance-smart-chain": "0xbbcf57177d8752b21d080bf30a06ce20ad6333f8",
+        "ethereum": "0xd373576a9e738f37dc6882328358ff69c4caf4c6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Zam.io is building a hybrid CeFi-DeFi financial ecosystem that bridges real capital to blockchain and accelerates the transition to the new decentralized economy. The ecosystem enables equity investors to extend their stocks portfolio to crypto markets using a platform for stablecoin loans secured by stocks as collateral (zMorgan Protocol)."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xbbcf57177d8752b21d080bf30a06ce20ad6333f8",
+    "url": "https://zam.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xBbcF57177D8752B21d080bf30a06CE20aD6333F8",
+        "https://etherscan.io/token/0xd373576a9e738f37dc6882328358ff69c4caf4c6"
+    ],
+    "twitter": "zam_io",
+    "telegram": "zam_io",
+    "github_org": "Zamzam-Technology"
+}
