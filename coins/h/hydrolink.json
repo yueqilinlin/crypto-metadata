@@ -1,0 +1,23 @@
+{
+    "id": "hydrolink",
+    "symbol": "hlink",
+    "name": "HydroLink",
+    "platforms": {
+        "binance-smart-chain": "0x5523636a2ae324000eb0f239c474bb04346fec31"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "HydroLink is a Western Australia-based company dedicated to overcoming the production, distribution, and regulatory deficiencies that are preventing commercial green hydrogen adoption. The HydroLink platform will leverage blockchain, the Internet of Things (IoT), and artificial intelligence (AI) technologies to certify, trace and manage hydrogen as it moves through each stage in the commodity\u2019s life cycle.\r\n\r\nHydroLink\u2019s Green Hydrogen Certificates will reflect environmental and transactional data stored on the blockchain. The verifiable reports will improve the effectiveness of regulatory and compliance structures.\r\n\r\nThe network\u2019s utility token (HLINK) will be used to unlock access to the data that entities have opted to publish on the network. Additionally, the suite of business-to-business (B2B) functions can be utilized through a subscription-based payment system."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5523636a2ae324000eb0f239c474bb04346fec31",
+    "url": "https://www.hydrolink.app/",
+    "explorers": [
+        "https://bscscan.com/token/0x5523636a2ae324000eb0f239c474bb04346fec31"
+    ],
+    "twitter": "HydroLink_",
+    "telegram": "HydroLinkToken_HLINK",
+    "reddit": "HydroLink/"
+}

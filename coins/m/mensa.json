@@ -1,0 +1,23 @@
+{
+    "id": "mensa",
+    "symbol": "msa",
+    "name": "Mensa",
+    "platforms": {
+        "fantom": "0x540d9ef5cd2d5f03694f85aece84132c8f2220a4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Mensa Protocol is a decentralized lending platform based on Fantom chain, which aims to provide platform users with a decentralized and secure market to obtain loans and earn interest. Mensa Protocol supports pledged lending of multiple crypto currencies on Fantom chain."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x540d9ef5cd2d5f03694f85aece84132c8f2220a4",
+    "url": "https://app.mensapro.com/",
+    "explorers": [
+        "https://ftmscan.com/token/0x540d9ef5cd2d5f03694f85aece84132c8f2220a4"
+    ],
+    "twitter": "MensaPro",
+    "telegram": "MensaProOfficial",
+    "github_org": "mensapro"
+}

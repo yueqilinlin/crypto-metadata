@@ -1,0 +1,24 @@
+{
+    "id": "polyx",
+    "symbol": "pxt",
+    "name": "POLYX",
+    "platforms": {
+        "binance-smart-chain": "0x6b226e4f3ef5708d496cd1b9e582ea090f3fff70"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "POLYX is the biggest Polygon (MATIC) rewards Token on Binance Smart Chain! Not just that, PolyX will also serve as the governance Token on PolyXSwap, a decentralised exchange Platform with Farms, Pools & Lottery included."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6b226e4f3ef5708d496cd1b9e582ea090f3fff70",
+    "url": "https://polyxtoken.com",
+    "explorers": [
+        "https://bscscan.com/token/0x6b226e4f3ef5708d496cd1b9e582ea090f3fff70"
+    ],
+    "twitter": "polyxtoken",
+    "telegram": "polyxtoken",
+    "reddit": "Polyxt/",
+    "github_org": "Polyxtoken"
+}

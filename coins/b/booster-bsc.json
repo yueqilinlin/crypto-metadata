@@ -1,0 +1,22 @@
+{
+    "id": "booster-bsc",
+    "symbol": "boost",
+    "name": "Booster BSC",
+    "platforms": {
+        "binance-smart-chain": "0x773b532126b9f307665942b0fa4cda0540cedb71"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "BOOSTER is a new token on the Binance Smart Chain with known and new concepts. By holding the BOOSTER token you can earn up to 11 different tokens: BOOST, BNB, BUSD, BTC, ETH, ADA, DOGE, DOT, LTC, LINK and CAKE.\r\n\r\nAdditionally there are automated liquidity provision and token burning mechanisms that are already well known from other projects and have proven to be useful.\r\n\r\nThe initial liquidity for BOOSTER is locked and our contracts\r\nhave been verified on BSCScan and audited."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x773b532126b9f307665942b0fa4cda0540cedb71",
+    "url": "https://boostertoken.com",
+    "explorers": [
+        "https://bscscan.com/token/0x773b532126b9F307665942b0fa4cDa0540CeDb71"
+    ],
+    "twitter": "BoosterToken",
+    "telegram": "BoosterToken"
+}

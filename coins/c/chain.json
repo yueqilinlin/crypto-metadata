@@ -1,0 +1,24 @@
+{
+    "id": "chain",
+    "symbol": "chn",
+    "name": "Chain",
+    "platforms": {
+        "ethereum": "0x41c37a4683d6a05adb31c39d71348a8403b13ca9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Chain is a cloud blockchain infrastructure that enables organizations to build better financial services from the ground up. Chain has launched Chain Core which is a permissioned and open source blockchain and Sequence, its ledger as a service product. Clients can receive discounts and pay for commercial fees with Chain Tokens (CHN) as well as participate in community protocol governance and access to premium features.\r\n\r\nUsing Chain Core, institutions can launch and operate a blockchain network, or connect to a growing list of other networks that are transforming how assets move around the world. The Chain Protocol defines how assets are issued, transferred, and controlled on a blockchain network. It allows a single entity or a group of organizations to operate a network, supports the coexistence of multiple types of assets, and is interoperable with other independent networks. Chain Core is engineered for the performance demanded by modern financial systems. The time to create, sign, and validate a transaction is measured in milliseconds.\r\n\r\nSequence is a ledger-as-a-service that enables organizations to securely track and transfer balances in a token format. Using Sequence organizations can securely manage their financial assets in a token format on private ledgers and, soon, seamlessly transfer them across public networks."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x41c37a4683d6a05adb31c39d71348a8403b13ca9",
+    "url": "https://chain.com",
+    "explorers": [
+        "https://etherscan.io/token/0x41C37A4683d6a05adB31c39D71348A8403B13Ca9",
+        "https://ethplorer.io/address/0x41c37a4683d6a05adb31c39d71348a8403b13ca9"
+    ],
+    "twitter": "Chain",
+    "telegram": "Chain",
+    "github_org": "Chain"
+}

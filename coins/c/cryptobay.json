@@ -1,0 +1,22 @@
+{
+    "id": "cryptobay",
+    "symbol": "bay",
+    "name": "CryptoBay",
+    "platforms": {
+        "binance-smart-chain": "0x5f64b52b76c708030185aa79a3af383a96c2a6d3"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Cryptobay gameplay focuses on PVP and PVE. Challenge yourself with a wide variety of game modes: 1v1 Arena, 3v3 Arena, Adventure (PvE), Treasure Hunt and Special Events."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5f64b52b76c708030185aa79a3af383a96c2a6d3",
+    "url": "https://cryptobay.top/",
+    "explorers": [
+        "https://bscscan.com/token/0x5F64b52B76c708030185aA79a3Af383A96c2A6D3"
+    ],
+    "twitter": "CryptobayVip",
+    "telegram": "CryptoBay_Official"
+}

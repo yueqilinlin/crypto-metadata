@@ -1,0 +1,23 @@
+{
+    "id": "ghospers-game",
+    "symbol": "ghsp",
+    "name": "Ghospers Game",
+    "platforms": {
+        "binance-smart-chain": "0x4a0cc0876ec16428a4fa4a7c4c300de2db73b75b"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Ghospers is a 3D magic-based PvP / PvE sandbox, play-to-earn game where you can fight other Ghospers and use $GHOSP tokens to purchase land, housing, clothing, and other fun things around Ghostalia! It is made by the Developer Ghost Ivy. Backed by Bluezilla, Gamezone and NFTLaunch."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4a0cc0876ec16428a4fa4a7c4c300de2db73b75b",
+    "url": "https://www.ghospers.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x4a0Cc0876EC16428A4Fa4a7C4c300dE2DB73b75b"
+    ],
+    "twitter": "ghospersgame",
+    "telegram": "Ghospersgame",
+    "github_org": "l3oxer"
+}

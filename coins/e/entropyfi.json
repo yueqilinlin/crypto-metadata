@@ -1,0 +1,25 @@
+{
+    "id": "entropyfi",
+    "symbol": "erp",
+    "name": "Entropyfi",
+    "platforms": {
+        "ethereum": "0x0a0e3bfd5a8ce610e735d4469bc1b3b130402267",
+        "polygon-pos": "0x28acca4ed2f6186c3d93e20e29e6e6a9af656341"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Entropyfi is a lossless prediction market providing user a safer platform to speculate the market."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0a0e3bfd5a8ce610e735d4469bc1b3b130402267",
+    "url": "https://entropyfi.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x0a0e3bfD5a8cE610E735D4469Bc1b3b130402267",
+        "https://ethplorer.io/address/0x0a0e3bfD5a8cE610E735D4469Bc1b3b130402267"
+    ],
+    "twitter": "entropyfi",
+    "telegram": "entropyfi",
+    "github_org": "entropyfi"
+}

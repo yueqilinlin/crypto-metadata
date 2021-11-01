@@ -1,0 +1,24 @@
+{
+    "id": "orenda-protocol",
+    "symbol": "orex",
+    "name": "Orenda Protocol",
+    "platforms": {
+        "ethereum": "0x1a58b77d529cf012443094422ed1c9f29e76aaee"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Orenda Protocol Platform is a convenient, innovative decentralized P2P cross-chain lending & insurance platform that minimizes market risk and maximizes users' fund management experience  by bringing together users who request/want to provide insurance on various issues, especially for DeFi & NFT assets."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1a58b77d529cf012443094422ed1c9f29e76aaee",
+    "url": "https://www.or-protocol.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x1a58b77d529cf012443094422ed1c9f29e76aaee",
+        "https://ethplorer.io/address/0x1a58b77d529cf012443094422ed1c9f29e76aaee"
+    ],
+    "twitter": "Orendaprotocol",
+    "telegram": "orendaprotocol",
+    "github_org": "or-protocol"
+}

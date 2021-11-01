@@ -1,0 +1,23 @@
+{
+    "id": "hackleberry",
+    "symbol": "finn",
+    "name": "Huckleberry",
+    "platforms": {
+        "moonriver": "0x9a92b5ebf1f6f6f7d93696fcd44e5cf75035a756"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "FINN is Huckleberry's governance and reward token. It is a reflect token, meaning 1% of every FINN transaction is automatically shared among all FINN holders, proportional to their holdings.\r\n\r\nHuckleberry is a community driven AMM crosschain DEX built on Moonriver."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9a92b5ebf1f6f6f7d93696fcd44e5cf75035a756",
+    "url": "https://www.huckleberry.finance/",
+    "explorers": [
+        "https://blockscout.moonriver.moonbeam.network/tokens/0x9A92B5EBf1F6F6f7d93696FCD44e5Cf75035A756/token-transfers"
+    ],
+    "twitter": "HuckleberryDEX",
+    "telegram": "HuckleberryDex",
+    "github_org": "HuckleberryDex"
+}

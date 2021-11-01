@@ -1,0 +1,22 @@
+{
+    "id": "artverse-token",
+    "symbol": "avt",
+    "name": "Artverse Token",
+    "platforms": {
+        "ethereum": "0x845576c64f9754cf09d87e45b720e82f3eef522c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ArtVerse, based on the technical features of blockchain traceability, non-tampering, smart contracts, and a natural token economic model, covers everything from creation, NFTization, auction, collection, trading, secondary creation, re-NFTization, re-auction, etc. The process provides technical guarantee for creators and consumers who sign on the platform. Not only solves the fidelity of the works created by creators based on the blockchain, but also allows online creators to live better, allowing each lot to enter the homes of ordinary people."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x845576c64f9754cf09d87e45b720e82f3eef522c",
+    "url": "https://www.artverse.vip/",
+    "explorers": [
+        "https://etherscan.io/token/0x845576c64f9754cf09d87e45b720e82f3eef522c",
+        "https://ethplorer.io/address/0x845576c64f9754cf09d87e45b720e82f3eef522c"
+    ],
+    "twitter": "TheArtVerse"
+}

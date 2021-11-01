@@ -1,0 +1,23 @@
+{
+    "id": "meta-doge",
+    "symbol": "metadoge",
+    "name": "Meta Doge",
+    "platforms": {
+        "ethereum": "0x8530b66ca3ddf50e0447eae8ad7ea7d5e62762ed"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MetaDoge (METADOGE) is a meme token which begins it's journey as a fun currency. During the initial launch, 100% of the supply was allocated to the Uniswap pool."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8530b66ca3ddf50e0447eae8ad7ea7d5e62762ed",
+    "url": "https://metadogetoken.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x8530b66ca3ddf50e0447eae8ad7ea7d5e62762ed",
+        "https://ethplorer.io/address/0x8530b66ca3ddf50e0447eae8ad7ea7d5e62762ed"
+    ],
+    "twitter": "metadogetoken",
+    "reddit": "metadoge/"
+}

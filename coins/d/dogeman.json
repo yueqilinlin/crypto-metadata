@@ -1,0 +1,23 @@
+{
+    "id": "dogeman",
+    "symbol": "dgman",
+    "name": "DogeMan",
+    "platforms": {
+        "ethereum": "0x3cc1020acdcd64b11dd417d2c28388e71605d7c9"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Dogeman is an ERC-20 token aiming to build a strong community, providing utility and deeper tools. Holding DogeMan Token, holders will be eligible for first edition dc and marvel comic book giveaways."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3cc1020acdcd64b11dd417d2c28388e71605d7c9",
+    "url": "https://dogeman.io/",
+    "explorers": [
+        "https://etherscan.io/token/0x3cc1020acdcd64b11dd417d2c28388e71605d7c9",
+        "https://ethplorer.io/address/0x3cc1020acdcd64b11dd417d2c28388e71605d7c9"
+    ],
+    "twitter": "DogeManERC20",
+    "telegram": "DogeManOfficial"
+}

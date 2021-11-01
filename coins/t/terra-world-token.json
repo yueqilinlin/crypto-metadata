@@ -1,0 +1,23 @@
+{
+    "id": "terra-world-token",
+    "symbol": "twd",
+    "name": "Terra World Token",
+    "platforms": {
+        "terra": "terra19djkaepjjswucys4npd5ltaxgsntl7jf0xz7w6"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Terra World token (TWD) is a native governance and utility token which can be effectively used in the Terra World Metaverse. TWD can be mined through MFW (Metaverse for Work) in the Terra World Metaverse and is essential for various economic activities in the metaverse including various transactions, decorations, avatars, real estate, and so forth."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "terra19djkaepjjswucys4npd5ltaxgsntl7jf0xz7w6",
+    "url": "https://terraworld.me",
+    "explorers": [
+        "https://finder.terra.money/columbus-5/address/terra19djkaepjjswucys4npd5ltaxgsntl7jf0xz7w6"
+    ],
+    "twitter": "terraworldme",
+    "telegram": "twdoffices",
+    "github_org": "TerraWorld"
+}

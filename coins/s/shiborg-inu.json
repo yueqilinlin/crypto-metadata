@@ -1,0 +1,23 @@
+{
+    "id": "shiborg-inu",
+    "symbol": "shiborg",
+    "name": "SHIBORG INU",
+    "platforms": {
+        "binance-smart-chain": "0x389c13d5be24bed2af35c30f211e042225cb06ff"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A Cyborg Shiba Inu Dog from Planet Shibamoon X1000. A Decentralized Meme Token."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x389c13d5be24bed2af35c30f211e042225cb06ff",
+    "url": "https://shiborgtoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x389c13d5be24bed2af35c30f211e042225cb06ff"
+    ],
+    "twitter": "ShiborgToken",
+    "telegram": "ShiborgInu",
+    "reddit": "ShiborgToken/"
+}

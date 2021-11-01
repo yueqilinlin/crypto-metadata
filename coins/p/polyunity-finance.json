@@ -1,0 +1,23 @@
+{
+    "id": "polyunity-finance",
+    "symbol": "unity",
+    "name": "PolyUnity Finance",
+    "platforms": {
+        "polygon-pos": "0x9e9ced60d3c5d52dd779893dce0c14e0e361d702"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x9e9ced60d3c5d52dd779893dce0c14e0e361d702",
+    "url": "https://polyunity.finance/",
+    "explorers": [
+        "https://polygonscan.com/token/0x9e9CEd60d3C5d52Dd779893dce0C14E0e361d702"
+    ],
+    "twitter": "polywisefinance",
+    "telegram": "polywisedefi",
+    "github_org": "polywise"
+}

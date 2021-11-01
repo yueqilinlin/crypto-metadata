@@ -1,0 +1,22 @@
+{
+    "id": "memecoinfactorytoken",
+    "symbol": "factory",
+    "name": "Meme Coin Factory",
+    "platforms": {
+        "binance-smart-chain": "0x6e1f76017024baf9dc52a796dc4e5ae3110005c2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The Memecoin Factory aims to bring together a crypto launchpad, DEX, casino and lottery, providing users access to crypto services and entertainment all under one roof.\r\n\r\nUsers can build their own token, or get help from our expert team. They can enter a casino/lottery using their tokens in a safe and fair environment. Holders earn BUSD through dividends. They will be able to earn more tokens through staking/farming options and to use the DEX service that is being built on the platform.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6e1f76017024baf9dc52a796dc4e5ae3110005c2",
+    "url": "https://www.memecoinfactory.com",
+    "explorers": [
+        "https://bscscan.com/token/0x6e1f76017024baf9dc52a796dc4e5ae3110005c2"
+    ],
+    "twitter": "MemecoinF",
+    "reddit": "MemecoinFactory"
+}

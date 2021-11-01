@@ -1,0 +1,21 @@
+{
+    "id": "exodia",
+    "symbol": "exod",
+    "name": "Exodia",
+    "platforms": {
+        "fantom": "0x3b57f3feaaf1e8254ec680275ee6e7727c7413c7"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "EXODIA is a decentralized reserve currency protocol based on the EXOD token. Each EXOD token is backed by a basket of assets (e.g. DAI, FTM) in the EXODIA treasury, giving it an intrinsic value that it cannot fall below. EXODIA also introduces unique economic and game-theoretic dynamics into the market through staking and bonding."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x3b57f3feaaf1e8254ec680275ee6e7727c7413c7",
+    "url": "https://www.exodia.finance/",
+    "explorers": [
+        "https://ftmscan.com/token/0x3b57f3feaaf1e8254ec680275ee6e7727c7413c7"
+    ],
+    "twitter": "EXODIAFinance"
+}

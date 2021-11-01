@@ -1,0 +1,23 @@
+{
+    "id": "enno-cash",
+    "symbol": "enno",
+    "name": "ENNO Cash",
+    "platforms": {
+        "waves": "7LMV3s1J4dKpMQZqge5sKYoFkZRLojnnU49aerqos4yg"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ENNO Cash is the native utility token of Enno Wallet. The current and planned use-cases of Enno Cash token include:\r\n-\tSponsored Assets: ENNO Cash holders will be able to use ENNO Cash tokens to sign transactions on Waves Blockchain.\r\n-\tStaking incentives: ENNO Cash holders will be able to stake Enno Cash tokens to receive daily ENNO Cash rewards.\r\n-\tGovernance: ENNO Cash stakers will vote to vote determine the weights of rewards for distribution in the future. ENNO Cash stakers will gain voting power and participate in the governance process to change product parameters.\r\n-\tEnno Wallet club membership rights: Enno Wallet users will receive ENNO Cash tokens based on the size of their activities. They will enjoy retroactive incentives of Enno Wallet and they will have privilege rights when joining Launchpad, Airdrops, Contests, or events."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "7LMV3s1J4dKpMQZqge5sKYoFkZRLojnnU49aerqos4yg",
+    "url": "https://www.ennowallet.com",
+    "explorers": [
+        "https://wavesexplorer.com/assets/7LMV3s1J4dKpMQZqge5sKYoFkZRLojnnU49aerqos4yg"
+    ],
+    "twitter": "ennowallet",
+    "telegram": "EnnoWallet",
+    "github_org": "Enno-Wallet-Enno-Cash"
+}

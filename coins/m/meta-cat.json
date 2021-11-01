@@ -1,0 +1,22 @@
+{
+    "id": "meta-cat",
+    "symbol": "mcat",
+    "name": "Meta Cat",
+    "platforms": {
+        "binance-smart-chain": "0x0ead9d6bda8408cc34e938ea35559db738a7c76a"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MetaCat is the first cat project in the meta. The Metaverse is right now the next trending topic in Crypto and MetaCat joins and push this fever through one of the oldest cats in internet, Nyan cat."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0ead9d6bda8408cc34e938ea35559db738a7c76a",
+    "url": "https://metacatbsc.com",
+    "explorers": [
+        "https://bscscan.com/token/0x0ead9d6bda8408cc34e938ea35559db738a7c76a#balances"
+    ],
+    "twitter": "Metacat_BSC",
+    "telegram": "meta_cat"
+}

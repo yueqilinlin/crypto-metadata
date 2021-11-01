@@ -1,0 +1,22 @@
+{
+    "id": "novaxmetal",
+    "symbol": "xmtl",
+    "name": "NovaXMetal",
+    "platforms": {
+        "avalanche": "0x4c1057455747e3ee5871d374fdd77a304ce10989"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Novax NFT Project's resource tokens for play to earn game (XSLR,XMTL,XCRY) listed on baguette exchange."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4c1057455747e3ee5871d374fdd77a304ce10989",
+    "url": "https://novaxgame.com/",
+    "explorers": [
+        "https://avascan.info/blockchain/c/token/0x4c1057455747e3ee5871d374fdd77a304ce10989"
+    ],
+    "twitter": "novax_game",
+    "telegram": "novaxchat"
+}

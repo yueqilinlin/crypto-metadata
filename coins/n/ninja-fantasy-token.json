@@ -1,0 +1,22 @@
+{
+    "id": "ninja-fantasy-token",
+    "symbol": "nfs",
+    "name": "Ninja Fantasy Token",
+    "platforms": {
+        "binance-smart-chain": "0x64815277c6caf24c1c2b55b11c78ef393237455c"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "First NFT game inspired by Naruto. Ninja Saga Fantasy - Your NFT Ninja Way! Ninja Fantasy is a NFT game on the Binance Smart Chain based on the Naruto manga and its ninja theme with some variations. All the characters are unique NFT which can be used for staking and playing, you must increase the power of your character until you win a place to challenge the kages for the title."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x64815277c6caf24c1c2b55b11c78ef393237455c",
+    "url": "https://ninjafantasy.io/",
+    "explorers": [
+        "https://bscscan.com/token/0x64815277c6caf24c1c2b55b11c78ef393237455c"
+    ],
+    "twitter": "NinjaFantasyNFT",
+    "telegram": "NinjaFantasyNFTes"
+}

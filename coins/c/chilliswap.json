@@ -1,0 +1,24 @@
+{
+    "id": "chilliswap",
+    "symbol": "chli",
+    "name": "ChilliSwap",
+    "platforms": {
+        "ethereum": "0x12b54baa8ffcfd6679ccf1ae618ca3006cfcc2ac"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ChilliSwap is a DEX (Decentralized exchange) platform and ecosystem for users to trade tokens, yield farm/stake, and is also a Fine Art NFT digital marketplace.\r\n\r\nChilliSwap is a decentralized platform that combines a fine art NFT marketplace, token exchange and NFT gaming in one ecosystem. ChilliSwap enables peer-to-peer transfers while adhering to tight security guidelines and offering AI-based analytical tools to detect fraud. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x12b54baa8ffcfd6679ccf1ae618ca3006cfcc2ac",
+    "url": "https://chilliswap.org/",
+    "explorers": [
+        "https://etherscan.io/token/0x12b54baA8FFcFd6679CcF1AE618ca3006cFcc2aC",
+        "https://ethplorer.io/address/0x12b54baa8ffcfd6679ccf1ae618ca3006cfcc2ac"
+    ],
+    "twitter": "chilliswapdex",
+    "telegram": "ChilliSwap",
+    "github_org": "Chilliswap-org"
+}

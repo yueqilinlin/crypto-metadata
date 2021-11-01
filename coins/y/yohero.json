@@ -1,0 +1,21 @@
+{
+    "id": "yohero",
+    "symbol": "yo",
+    "name": "YoHero",
+    "platforms": {
+        "binance-smart-chain": "0xa98d662e1f7eb8f89a8f86c109b9cb61ec2740bc"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa98d662e1f7eb8f89a8f86c109b9cb61ec2740bc",
+    "url": "https://www.yohero.fi/",
+    "explorers": [
+        "https://bscscan.com/token/0xa98d662E1f7EB8f89a8f86c109b9cB61Ec2740bC"
+    ],
+    "twitter": "yoheroyolo"
+}

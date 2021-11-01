@@ -1,0 +1,22 @@
+{
+    "id": "novaxsolar",
+    "symbol": "xslr",
+    "name": "NovaXSolar",
+    "platforms": {
+        "avalanche": "0xe6ee049183b474ecf7704da3f6f555a1dcaf240f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Novax NFT Project's resource tokens for play to earn game (XSLR,XMTL,XCRS) listed on baguette exchange. XMTL and XCRS already listed on coingecko."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xe6ee049183b474ecf7704da3f6f555a1dcaf240f",
+    "url": "https://novaxgame.com/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/token/0xE6eE049183B474ecf7704da3F6F555a1dCAF240F/token-transfers"
+    ],
+    "twitter": "novax_game",
+    "telegram": "novaxchat"
+}

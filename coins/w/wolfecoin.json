@@ -1,0 +1,23 @@
+{
+    "id": "wolfecoin",
+    "symbol": "wolfe",
+    "name": "Wolfecoin",
+    "platforms": {
+        "solana": "3KnVxWhoYdc9UwDr5WMVkZp2LpF7gnojg7We7MUd6ixQ"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Wolfecoin is a fun meme coin for the community to love and enjoy."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "3KnVxWhoYdc9UwDr5WMVkZp2LpF7gnojg7We7MUd6ixQ",
+    "url": "https://www.wolfecoin.online/",
+    "explorers": [
+        "https://solscan.io/token/3KnVxWhoYdc9UwDr5WMVkZp2LpF7gnojg7We7MUd6ixQ"
+    ],
+    "twitter": "gamestonksd",
+    "telegram": "gamestonkswolfecoin",
+    "github_org": "wolfecoindev"
+}

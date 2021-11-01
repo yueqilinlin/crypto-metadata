@@ -1,0 +1,22 @@
+{
+    "id": "disco-burn-token",
+    "symbol": "dbt",
+    "name": "Disco Burn Token",
+    "platforms": {
+        "binance-smart-chain": "0x6bc736cc4a81ffc1ff67c89413913d418804ab43"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "DBT is a hyper deflationary token with a force on crypto sphere improvement and stability. We purchase and burn tokens of projects that have been vetted and stand out. This space changing unprecedented system will prove to be just what was needed in the BSC space "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x6bc736cc4a81ffc1ff67c89413913d418804ab43",
+    "url": "https://discoburntoken.com/",
+    "explorers": [
+        "https://bscscan.com/token/0x6bC736Cc4a81FFc1FF67c89413913D418804ab43"
+    ],
+    "twitter": "dbt_bsc",
+    "telegram": "DiscoBurnPartyToken"
+}

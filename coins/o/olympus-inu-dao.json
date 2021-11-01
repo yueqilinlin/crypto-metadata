@@ -1,0 +1,23 @@
+{
+    "id": "olympus-inu-dao",
+    "symbol": "ohminu",
+    "name": "Olympus Inu Dao",
+    "platforms": {
+        "ethereum": "0x98f817765f69c802a7b188a3165a3267ad2d1123"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "$OHMINU is a fair launch, reflection coin designed to maximize intrinsic value for its holders through an innovative transaction taxation system, created to incentivize HODLing through its monthly $OHM airdrops."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x98f817765f69c802a7b188a3165a3267ad2d1123",
+    "url": "https://www.olympus-inu.com/",
+    "explorers": [
+        "https://etherscan.io/token/0x98F817765f69c802a7b188A3165a3267aD2d1123",
+        "https://ethplorer.io/address/0x98F817765f69c802a7b188A3165a3267aD2d1123"
+    ],
+    "twitter": "OlympusInuDAO",
+    "telegram": "OlympusInuDAO"
+}

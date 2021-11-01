@@ -1,0 +1,22 @@
+{
+    "id": "santa-coin-2",
+    "symbol": "santa",
+    "name": "Santa Coin",
+    "platforms": {
+        "binance-smart-chain": "0x4f1a6fc6a7b65dc7ebc4eb692dc3641be997c2f2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Santa is making his way into the Cryptocurrency market to reward those who will shake his hands with BUSD rewards, in other words \u2014 when you hold Santa you\u2019ll receive rewards in USD! Amazing right? Yes it is! \r\n\r\nSantaCoin comes with exciting features that guarantees steady USD rewards to holders, Santa is a Hyper Deflationary Token with Reflections in Binance Pegged USD. Santa Coin Contract have been audited by interfi and a second audit after deployment done by Techrate.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x4f1a6fc6a7b65dc7ebc4eb692dc3641be997c2f2",
+    "url": "https://santacoin.cash/",
+    "explorers": [
+        "https://bscscan.com/token/0x4F1A6FC6A7B65Dc7ebC4EB692Dc3641bE997c2F2"
+    ],
+    "twitter": "Santa_Coins",
+    "telegram": "santa_coin"
+}

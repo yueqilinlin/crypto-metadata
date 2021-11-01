@@ -1,0 +1,23 @@
+{
+    "id": "metacat",
+    "symbol": "metacat",
+    "name": "MetaCat",
+    "platforms": {
+        "ethereum": "0x0dc7d0192c148d7d2d6fa32dc280f953c0ad6a34"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "MetaCat is a meme token that takes us on a journey with a cat in the metaverse exploring new projects and creating memes"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x0dc7d0192c148d7d2d6fa32dc280f953c0ad6a34",
+    "url": "https://www.metacat.finance/",
+    "explorers": [
+        "https://etherscan.io/token/0x0dc7d0192c148d7d2d6fa32dc280f953c0ad6a34",
+        "https://ethplorer.io/address/0x0dc7d0192c148d7d2d6fa32dc280f953c0ad6a34"
+    ],
+    "twitter": "0xMetaCat",
+    "telegram": "MetaCata"
+}

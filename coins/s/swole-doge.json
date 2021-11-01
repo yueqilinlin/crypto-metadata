@@ -1,0 +1,22 @@
+{
+    "id": "swole-doge",
+    "symbol": "swole",
+    "name": "Swole Doge",
+    "platforms": {
+        "solana": "4BzxVoBQzwKoqm1dQc78r42Yby3EzAeZmMiYFdCjeu5Z"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Swole Doge is a token built on Solana birthed from original Dogecoin memes."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "4BzxVoBQzwKoqm1dQc78r42Yby3EzAeZmMiYFdCjeu5Z",
+    "url": "https://swoledogecoin.org/",
+    "explorers": [
+        "https://solscan.io/token/4BzxVoBQzwKoqm1dQc78r42Yby3EzAeZmMiYFdCjeu5Z"
+    ],
+    "twitter": "swoledoge",
+    "github_org": "swoledogecoin"
+}

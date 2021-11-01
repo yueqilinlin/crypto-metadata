@@ -1,0 +1,23 @@
+{
+    "id": "algopad",
+    "symbol": "algopad",
+    "name": "AlgoPad",
+    "platforms": {
+        "binance-smart-chain": "0x66a6606f4b7ff09b078b2dba848581833005737f"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "AlgoPad is the 1st launchpad for the Algorand Ecosystem.\r\nALGOPAD will incentivize and reward all token stakers in a way to easy access to projects on our launchpad.\r\nThe unique Two Tier Mechanism ensures fair chance to all the supporters. The \"\"Lottery Tier\"\" empowers the small holders and the \"\"Guaranteed Tier\"\" is for the true believers & supporters."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x66a6606f4b7ff09b078b2dba848581833005737f",
+    "url": "https://www.algopad.io",
+    "explorers": [
+        "https://bscscan.com/token/0x66a6606f4b7ff09b078b2dba848581833005737f"
+    ],
+    "twitter": "AlgoPad_io",
+    "telegram": "AlgoPad",
+    "github_org": "algopadofficial"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "lucky-cat",
+    "symbol": "lucky",
+    "name": "Lucky Cat",
+    "platforms": {
+        "ethereum": "0x8e864054ee1257f03332005105cdf86779e721a4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "LuckyCat Token is a community driven meme token with a bunch of smart contract mechanisms. Frictionless Yield/Liquidity Generating to help all the cats unite! "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x8e864054ee1257f03332005105cdf86779e721a4",
+    "url": "https://luckycat.fun",
+    "explorers": [
+        "https://etherscan.io/token/0x8E864054ee1257f03332005105cDf86779E721a4",
+        "https://ethplorer.io/address/0x8E864054ee1257f03332005105cDf86779E721a4"
+    ],
+    "twitter": "LuckyCatETH",
+    "telegram": "LuckyCatToken"
+}

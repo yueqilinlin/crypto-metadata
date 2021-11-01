@@ -1,0 +1,22 @@
+{
+    "id": "arrb-token",
+    "symbol": "arrb",
+    "name": "Arrb Token",
+    "platforms": {
+        "arbitrum-one": "0x04f3636b31c1ea2e48e275aa992d99a7bdbbe738"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "A fun, user friendly, experimental yield farming aggregator built on Arbitrum. \r\nEvery time the total value locked (TVL) in the protocol doubles, the APR doubles. Essentially, the more users in the farm, the greater the rewards will be.\r\nAPR is programatically stabilised in between doublings via smart contract interactions from our proprietary advanced bot running off-chain 24 hours per day, updating farming emissions to regulate APR volatility caused by TVL fluctuations every minute."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x04f3636b31c1ea2e48e275aa992d99a7bdbbe738",
+    "url": "https://arrb.farm/",
+    "explorers": [
+        "https://arbiscan.io/token/0x04f3636b31c1ea2e48e275aa992d99a7bdbbe738"
+    ],
+    "twitter": "ArrbFarm",
+    "telegram": "ArrbFarm"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "royalada",
+    "symbol": "royalada",
+    "name": "RoyalADA",
+    "platforms": {
+        "binance-smart-chain": "0xa3ae1d90fd704b0604acb8ca840b0272e32973dd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "ROYALADA is the step forward in yield-generating contracts on the Binance Smart Chain (BSC). You receive rewards distributed in ADA rather than token reflections and the contract employs a static reward system. This allows rewards to extend outside of simply holding our coin as would a reflection-based coin operate. And this, our lovely investors, is called passive income!. Just Hold and earn on every buy and sell. The chart is dumping? No Problem, you still earn. The chart is rising? Awesome even more money.\r\n\r\nWhen buying and holding a percent of the supply, every 60 minutes a dividend tracker will automatically calculate and distribute dividends among holders with your respective amount directly deposited within your wallet holding ROYALADA. There are no actions required in order to have this work and there is no minimum amount required to hold in order to receive your rewards. *The dividends are distributed as Binance Smart Chain (BEP-20) tokens. There are no rewards reflected back into ROYALADA, thus your ROYALADA amount held will be unaffected.\r\n"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xa3ae1d90fd704b0604acb8ca840b0272e32973dd",
+    "url": "https://royalada.io/",
+    "explorers": [
+        "https://bscscan.com/token/0xa3ae1d90fd704b0604acb8ca840b0272e32973dd"
+    ],
+    "twitter": "royaladahq",
+    "telegram": "royaladabsc"
+}

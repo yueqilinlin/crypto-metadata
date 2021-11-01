@@ -1,0 +1,22 @@
+{
+    "id": "silva-token",
+    "symbol": "silva",
+    "name": "Silva Token",
+    "platforms": {
+        "binance-smart-chain": "0x68b5edb385b59e30a7a7db1e681a449e94df0213"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x68b5edb385b59e30a7a7db1e681a449e94df0213",
+    "url": "https://www.silva.finance/",
+    "explorers": [
+        "https://bscscan.com/token/0x68b5edb385b59e30a7a7db1e681a449e94df0213"
+    ],
+    "twitter": "ERANetworkGroup",
+    "telegram": "ERANetworkChat"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "floki-one",
+    "symbol": "floki",
+    "name": "Floki One",
+    "platforms": {
+        "harmony-shard-0": "0x24b6179e4062ed9baeace0e6081dbd55b6072380"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Floki One is the first Floki on the Harmony Mainnet, having launched on September 12th, 2021. Each transaction is subject to a 8% tax, with 4% going towards liquidity and the remaining 4% getting redistributed amongst holders. Floki is more than just a meme coin, as it is launching its own NFT line, an NFT Marketplace, as well as two play-to-earn games. "
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x24b6179e4062ed9baeace0e6081dbd55b6072380",
+    "url": "https://flokione.com",
+    "explorers": [
+        "https://explorer.harmony.one/address/0x24b6179e4062ed9baeace0e6081dbd55b6072380"
+    ],
+    "twitter": "HarmonyFloki",
+    "telegram": "HarmonyFloki"
+}

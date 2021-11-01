@@ -1,0 +1,22 @@
+{
+    "id": "novaxcrystal",
+    "symbol": "xcrs",
+    "name": "NovaXCrystal",
+    "platforms": {
+        "avalanche": "0x70b4ae8eb7bd572fc0eb244cd8021066b3ce7ee4"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Novax NFT Project's resource tokens for play to earn game (XSLR,XMTL,XCRY) listed on baguette exchange."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x70b4ae8eb7bd572fc0eb244cd8021066b3ce7ee4",
+    "url": "https://novaxgame.com/",
+    "explorers": [
+        "https://avascan.info/blockchain/c/token/0x70b4aE8eb7bd572Fc0eb244Cd8021066b3Ce7EE4"
+    ],
+    "twitter": "novax_game",
+    "telegram": "novaxchat"
+}

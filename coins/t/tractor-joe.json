@@ -1,0 +1,22 @@
+{
+    "id": "tractor-joe",
+    "symbol": "tractor",
+    "name": "Tractor Joe",
+    "platforms": {
+        "avalanche": "0x542fa0b261503333b90fe60c78f2beed16b7b7fd"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "The first Trader Joe community token to buy back and burn $JOE."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x542fa0b261503333b90fe60c78f2beed16b7b7fd",
+    "url": "https://tractorjoe.xyz/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/token/0x542fA0B261503333B90fE60c78F2BeeD16b7b7fD/token-transfers"
+    ],
+    "twitter": "tractorjoe_xyz",
+    "telegram": "TractorJoe"
+}

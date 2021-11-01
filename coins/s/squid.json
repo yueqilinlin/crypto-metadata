@@ -1,0 +1,22 @@
+{
+    "id": "squid",
+    "symbol": "squid",
+    "name": "SquidDao",
+    "platforms": {
+        "ethereum": "0x21ad647b8f4fe333212e735bfc1f36b4941e6ad2"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x21ad647b8f4fe333212e735bfc1f36b4941e6ad2",
+    "url": "https://squid.xyz/",
+    "explorers": [
+        "https://etherscan.io/token/0x21ad647b8f4fe333212e735bfc1f36b4941e6ad2",
+        "https://ethplorer.io/address/0x21ad647b8f4fe333212e735bfc1f36b4941e6ad2"
+    ],
+    "twitter": "SquidDao"
+}

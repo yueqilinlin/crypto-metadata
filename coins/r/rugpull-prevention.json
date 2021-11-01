@@ -1,0 +1,22 @@
+{
+    "id": "rugpull-prevention",
+    "symbol": "rugpull",
+    "name": "Rugpull Prevention",
+    "platforms": {
+        "avalanche": "0x61ecd63e42c27415696e10864d70ecea4aa11289"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Rugpull Prevention provides blockchain risk transparency and project incubation. We were built from Avalanche Network community members to help fight back against scams. \r\n\r\nWe are building an autonomous community that will be able to protect itself from fraud through the use of unique blockchain tools including a DAO and utility driven NFTs."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x61ecd63e42c27415696e10864d70ecea4aa11289",
+    "url": "https://rugpullprevention.com/",
+    "explorers": [
+        "https://cchain.explorer.avax.network/token/0x61eCd63e42C27415696e10864d70ecEA4aA11289/token-transfers"
+    ],
+    "twitter": "AvaxDyor",
+    "telegram": "AvaxRugpullPrevention"
+}

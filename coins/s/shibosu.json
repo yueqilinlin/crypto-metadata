@@ -1,0 +1,22 @@
+{
+    "id": "shibosu",
+    "symbol": "shibosu",
+    "name": "Shibosu",
+    "platforms": {
+        "binance-smart-chain": "0x5dfb6437489235fe08a8f706bb261938f4e2d849"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "Shibosu gifting shiba"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x5dfb6437489235fe08a8f706bb261938f4e2d849",
+    "url": "https://www.shibosu.live/",
+    "explorers": [
+        "https://bscscan.com/token/0x5dfb6437489235fe08a8f706bb261938f4e2d849"
+    ],
+    "twitter": "ShibosuBSC",
+    "telegram": "shibosu"
+}

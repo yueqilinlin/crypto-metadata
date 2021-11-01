@@ -1,0 +1,21 @@
+{
+    "id": "pizza-pug-coin",
+    "symbol": "ppug",
+    "name": "Pizza Pug Coin",
+    "platforms": {
+        "solana": "E7WqtfRHcY8YW8z65u9WmD7CfMmvtrm2qPVicSzDxLaT"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": ""
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "E7WqtfRHcY8YW8z65u9WmD7CfMmvtrm2qPVicSzDxLaT",
+    "url": "https://www.pizzapugcoin.com/",
+    "explorers": [
+        "https://solscan.io/token/E7WqtfRHcY8YW8z65u9WmD7CfMmvtrm2qPVicSzDxLaT"
+    ],
+    "twitter": "pizzapugcoin"
+}

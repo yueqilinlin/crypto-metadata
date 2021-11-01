@@ -1,0 +1,22 @@
+{
+    "id": "idm-token",
+    "symbol": "idm",
+    "name": "IDM Token",
+    "platforms": {
+        "binance-smart-chain": "0x14b13e06f75e1f0fd51ca2e699589ef398e10f4c "
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "IDM Token is intended to invite crypto currency investors to finance our major projects in building a digital ecosystem of cooperatives and MSMEs in Indonesia. IDM tokens in the early stages are on the Binance Smart Chain network. We aim to have three types of holders/ investors. Among them;\r\n\r\nSuper Investor, Super Investor is a holder who agrees not to sell our tokens within the specified period of time under the agreement between IDM Co-op and Super Investor, these super investors are individuals and/or cooperative partners who are willing to be digitized and entered into idm co-op cooperatives development program.\r\nInvestors, are crypto market participants from all over the world who understand and understand all the advantages and risks of crypto space.\r\nSupporters, are people or institutions who are willing and willing to help IDM Co-op in succeeding large projects that will be done by buying tokens to be burned (sent to dead wallets) not to be held by them."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x14b13e06f75e1f0fd51ca2e699589ef398e10f4c ",
+    "url": "https://idmcoop.com",
+    "explorers": [
+        "https://bscscan.com/token/0x14b13e06f75e1f0fd51ca2e699589ef398e10f4c "
+    ],
+    "twitter": "IDMToken",
+    "telegram": "IDMToken"
+}

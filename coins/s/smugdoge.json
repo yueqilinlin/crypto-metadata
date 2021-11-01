@@ -1,0 +1,22 @@
+{
+    "id": "smugdoge",
+    "symbol": "smug",
+    "name": "SmugDoge",
+    "platforms": {
+        "harmony-shard-0": "one1gjhahcktgtxpsav3t8m78qa0kr9gu4adcgxk52"
+    },
+    "hashing_algorithm": null,
+    "categories": [],
+    "description": {
+        "en": "SMUGDOGE is a token on Harmony with deflationary properties and automatic yield generation for the holders. 5% tax is applied to all transactions which are distributed to fellow Smuggies just for holding their tokens. Another 5% tax are automatically added to a locked liquidity pool to generate an ever rising price floor! The tax applied is meant to incentivize long term holding and the anti-whale mechanics implemented on launch made sure that the coin could not be sniped."
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "one1gjhahcktgtxpsav3t8m78qa0kr9gu4adcgxk52",
+    "url": "https://www.smugdoge.com/",
+    "explorers": [
+        "https://explorer.harmony.one/address/0x44afdbe2cb42cc18759159f7e383afb0ca8e57ad"
+    ],
+    "twitter": "smugdoge",
+    "telegram": "smugdogeone"
+}
